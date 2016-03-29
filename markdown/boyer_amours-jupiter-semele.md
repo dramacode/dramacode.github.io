@@ -1661,7 +1661,7 @@ Le tres-humble, tres-obeïssant & tres fidelle serviteur & sujet BOYER.
  – DIRCE,Confidente de Semelé.
  – CHOEURS DE BERGERS.
  – CHŒURS DE THEBAINS.
- – SUITTE.
+ – SUITTE. 
 
 
 # LES AMOURS DE JUPITER ET DE SEMELE, TRAGEDIE
@@ -1671,7 +1671,7 @@ Le tres-humble, tres-obeïssant & tres fidelle serviteur & sujet BOYER.
 L'Ouverture du Théatre fait voir de front le Mont-Parnasse [76] qui s'éleve du fonds du Théatre jusques aux nuës, avec des allées de Cyprez entremeslées de statuës de Roys & de Heros, & l'on entend à mesme temps [77] des Trompettes & des Clairons.
 
 
-    MELPOMENE *qui est la Déesse de la Tragedie, paroist au fonds du Théatre, & s'estant advancée, elle dit* :
+    MELPOMENE *qui est la Déesse de la Tragedie, paroist au fonds du Théatre, & s'estant advancée, elle dit* : 
 Superbes⁎ demy-Dieux dont les noms esclatans  
 Triomphent de l'oubly, de la mort & du temps,  
 Vous que je fais revivre avecque [78] tant de gloire,  
@@ -1694,7 +1694,7 @@ Thalie qui est la Déesse de la Comedie descend du Parnasse sur une nüe en joü
     MELPOMENE *continüe.*
 C'est une de mes sœurs qui pour quelque succez  
 Dans un siecle enjoüé se flatte avec excez.  
-Elle vient m'insulter avec cét avantage.  
+Elle vient m'insulter avec cét avantage.   
 
 
 ## SCENE II
@@ -1766,7 +1766,7 @@ Et qui soustient luy seul le poids de sa Couronne.
 Vantez vous de l'instruire, il en sçait plus que vous :  
 Ma gloire est de luy plaire & c'est assez pour nous.  
 
-    MELPOMENE.
+    MELPOMENE. 
 Ne puis-je pas ma sœur, ne m'est il pas facile  
 De joindre quand je veux l'agreable à l'utile ?  
 Est il rien de si beau qu'un transport⁎ glorieux  
@@ -1972,7 +1972,7 @@ Venez par vostre arrest asseurer ma victoire,
 Venez donner le prix à qui l'a merité.  
 Il vient & nous fait voir toute sa majesté.  
 Durant qu'Apollon descend on entend un concert de tous les instruments des trois Deesses.
-
+ 
 
 
 ## SCENE IV.
@@ -2009,7 +2009,7 @@ Pour moy je n'aime qu'à médire,
 Et la gloire de faire rire  
 Vaut bien celle de vos chansons.  
 
-    APOLLON.
+    APOLLON. 
 Melpomene, ces chants si charmans & si doux  
 Semblent à vostre sœur promettre la victoire.  
 
@@ -2095,7 +2095,7 @@ Vous, qui communiquez ces divines chaleurs,    
 Ces glorieux transports⁎ ; dont le pouvoir supréme,  
 Peut élever l'esprit au delà de luy-méme.  
 Les Fureurs Poëtiques paraissent & dansent une entrée de Balet, qui fait la fin du Prologue.
-
+ 
 
 
 # ACTE I
@@ -2269,7 +2269,7 @@ S'il falloit t'expliquer tout ce que j'en doy croire…
 Mais Jupiter m'attend & je perds la memoire :  
 J'en diray davantage un jour plus à loisir.  
 
-    DIRCE.
+    DIRCE. 
 Contentez sur un point mon curieux desir,  
 Dites-moy, si les Dieux aiment comme les hommes.  
 
@@ -2347,7 +2347,7 @@ A moins…
     ALCMEON.
 Helas je le voy bien, vous en aymez un autre.  
 
-    SEMELE.
+    SEMELE. 
 Ouy Seigneur ; & ce n'est ma faute ny la vostre  
 Je plains vostre mal-heur, & ce cœur innocent  
 Vous trahit par l'effort d'un charme tout puissant.  
@@ -2415,7 +2415,7 @@ Et qu'un rival qui peut du moindre de ses coups…
 Le Roy vient : échapons à son premier courroux.  
 A Dircé.
 
-Toy demeure ; je cours où mon amour m'appelle.  
+Toy demeure ; je cours où mon amour m'appelle.   
 
 
 ## SCENE IV.
@@ -2493,7 +2493,7 @@ Vous me vantez souvent vostre race immortelle,
 Et Semelé sans doute, au point où je la voy,  
 Prent pour luy tout l'orguëil, que vous avez pour moy.  
 
-    LA REINE.
+    LA REINE. 
 Je n'ay rien fait, Seigneur, qui vous oblige à croire,  
 Que le sang de Venus, dont je tire ma gloire,  
 Me fasse negliger mon Espoux & mon Roy :  
@@ -2529,7 +2529,7 @@ Mais quel est cét amant⁎ dont on fait un mystere⁎ ?
     LA REINE.
 Pour de pareils secrets choisit-on une mere ?  
 
-    LE ROY.
+    LE ROY. 
 Madame il faudra donc employer mon pouvoir.  
 
     LA REINE.
@@ -2611,7 +2611,7 @@ Commande de la part du grand maistre des Rois.
 Toy, dis à Semelé que sans crainte de blasme,  
 Elle peut conserver son secret & sa flame⁎,  
 Et que malgré l'ardeur⁎ d'un desir indiscret⁎,  
-Je renonce au pouvoir d'arracher ce secret.  < Fin du premier Acte. >
+Je renonce au pouvoir d'arracher ce secret.  < Fin du premier Acte. > 
 
 
 # ACTE II.
@@ -2792,7 +2792,7 @@ Ah vous vous cachez moins pour Junon que pour vous :
 Vous aymez vostre gloire, & vous craignez pour elle,  
 Qu'on sçache ce qu'un Dieu fait pour une mortelle.  
 
-    JUPITER.
+    JUPITER. 
 Moy craindre pour ma gloire un choix si glorieux ?  
 Moy qui pour vous servir, abandonne les cieux ?  
 Moy qui bruslant⁎ pour vous d'une ardeur⁎ sans seconde [105]  
@@ -2905,7 +2905,7 @@ Et pour ce coup fatal marque cette journée.
     JUPITER, *bas à Semelé.*
 Mes ordres sçauront bien rompre cet Himenée⁎.  
 
-    SEMELE, *à Alcmeon.*
+    SEMELE, *à Alcmeon.* 
 Que me conseillez-vous sur cet ordre absolu ?  
 Ou vous mesme plustost qu'avez-vous resolu ?  
 Mon sort dépend de vous, faut-il que j'obeysse ?  
@@ -2955,7 +2955,7 @@ Ah c'en est trop.
     JUPITER.
         Calmez ce dangereux courroux.  
 
-    SEMELE.
+    SEMELE. 
 Hé quoy contre un berger & mesme en ma presence  
 Un Prince…  
 
@@ -3182,7 +3182,7 @@ Et mettre en seureté mon nom & mon honneur,
 Sous des traits déguisez abusant⁎ ta Princesse…      
 Mais je t'en dirois trop & je crains ta foiblesse :  
 Je t'instruiray de tout avant la fin du jour.  
-Adieu je vay vanger ma gloire & ton amour.  < Fin du second Acte. >
+Adieu je vay vanger ma gloire & ton amour.  < Fin du second Acte. > 
 
 
 # ACTE III.
@@ -3314,7 +3314,7 @@ Helas si j'en croyois & mes yeux & mon cœur,
 Je laisserois le Ciel sans maistre & sans conduite :  
 Ma gloire ne se peut sauver que par la fuite.  
 Vous cependant⁎, Venus, plaisirs jeunesse amour  
-Venez prendre ma place attendant mon retour.  
+Venez prendre ma place attendant mon retour.   
 
 
 ## SCENE II.
@@ -3412,7 +3412,7 @@ Peut d'un bon-heur sans borne affermir l'esperance,
 Pour élever ma gloire au comble de mes voeux,  
 Rendez un Dieu constant, comme il est amoureux.  
 Mais quel nouvel éclat vient augmenter ma joye ?  
-C'est Mercure, c'est luy que Jupiter m'envoye.  
+C'est Mercure, c'est luy que Jupiter m'envoye.   
 
 
 ## SCENE IV.
@@ -3488,7 +3488,7 @@ Sçache que ce n'est point un imposteur qui t'ayme,
 C'est Jupiter luy-mesme.  
 Nul ne sçayt mieux que moy le secret de son cœur.  
 Les deux Amours s'envolent.
-
+ 
 
 
 ## SCENE V.
@@ -3544,7 +3544,7 @@ Me montre clairement que j'ayme un imposteur.
     JUNON *seule.*
 Va ce fatal essay te coustera la vie ;  
 Tu mourras ma rivalle & ma rage assouvie…  
-Mais j'apperçoy Momus.  
+Mais j'apperçoy Momus.   
 
 
 ## SCENE VII.
@@ -3643,7 +3643,7 @@ Elle a beau déguiser sa haine & sa colere ;
 Elle m'en a trop dit pour cacher son courroux.  
 Allons de sa vengeance advertir son époux :      
 Sy j'offence Junon, que ne se souvient-elle  
-Que j'ay pour le secret une haine mortelle ?  < Fin du troisiesme Acte. >
+Que j'ay pour le secret une haine mortelle ?  < Fin du troisiesme Acte. > 
 
 
 # ACTE IV.
@@ -3699,7 +3699,7 @@ Je te preste un secours dont la gloire est surprise.
 Menage le moment de ce tendre retour,  
 Et pour ne laisser plus balancer⁎ la victoire,  
 Ne laisse plus parler la gloire,  
-Je l'ay presque oubliée en faveur de l'amour.  
+Je l'ay presque oubliée en faveur de l'amour.   
 
 
 ## SCENE II.
@@ -3726,7 +3726,7 @@ Luy, qui parle si fort pour un Dieu chimerique.
 La gloire defend-elle à ce cœur abusé⁎,  
 De preferer un Prince à ce Dieu supposé ?  
 
-    SEMELE.
+    SEMELE. 
 La gloire permet-elle à ma flame⁎ trompée,  
 Qui de l'espoir d'un Dieu s'estoit preoccupée,  
 D'accepter un mortel, & par ce changement,  
@@ -3847,7 +3847,7 @@ Apres que Jupiter à vos vœux infidelle⁎,
 Aura mis dans son cœur une flame⁎ nouvelle,  
 Peut-estre alors vos vœux ne seront que pour moy.  
 Non, non cruelle⁎, il faut suivre l'ordre du Roy ;  
-Je veux absolument achever l'hymenée⁎.  
+Je veux absolument achever l'hymenée⁎.   
 
 
 ## SCENE IV.
@@ -3916,7 +3916,7 @@ Vous croyez que le sang d'une race divine,
 A droit de remonter jusqu'à son origine,  
 Et que sans voir l'abysme, où l'orgüeil la conduit,  
 Il est beau de tomber, quand on tombe avec bruit.  
-Le Roy…mais il s'avance.  
+Le Roy…mais il s'avance.   
 
 
 ## SCENE V.
@@ -3953,7 +3953,7 @@ Vous devez à ses loix bien plus qu'à vostre foy⁎.
     LA REINE.
 Un Dieu peut dégager la parolle d'un Roy.  
 
-    SEMELE.
+    SEMELE. 
 Par luy vostre grandeur doit estre sans seconde.  
 
     LA REINE.
@@ -4011,7 +4011,7 @@ Fuyons Seigneur.
 
     LE ROY.
         Fuyons, allons en d'autres lieux,  
-Achever cet hymen⁎, & chercher d'autres Dieux.  
+Achever cet hymen⁎, & chercher d'autres Dieux.   
 
 
 ## SCENE VII.
@@ -4034,7 +4034,7 @@ Crain pour tous deux le fleau [134] de l'amour conjugal.
 Adieu, je vais semer mille & mille querelles,  
 Chez les amans⁎ les plus fideles.  
 La Jalouzie s'envole dans les airs.
-
+ 
 
 
 ## SCENE VIII.
@@ -4057,7 +4057,7 @@ Et redouble l'ardeur⁎ de tes soins immortels.     
 Nous sommes exaucez, malgré ces noirs presages,  
 Madame je la vois au travers [136] ces nuages ;  
 La Déesse descend, & sa divinité  
-Fait plus qu'à l'ordinaire éclatter sa fierté.  
+Fait plus qu'à l'ordinaire éclatter sa fierté.   
 
 
 ## SCENE IX.
@@ -4125,7 +4125,7 @@ Et je puis opposer Jupiter à luy-mesme,
 Puisqu'un Dieu de sa part, dont je ne puis douter,  
 M'apprend qu'un imposteur s'erige en Jupiter.  
 
-    JUPITER.
+    JUPITER. 
 Momus m'a tout appris touchant cette imposture :  
 Junon vous a parlé sous l'habit de Mercure,  
 Et pour vous abuser⁎ me traittant d'imposteur…  
@@ -4163,7 +4163,7 @@ Que faut-il faire enfin pour me faire connoistre ?
 J'atteste du destin le pouvoir glorieux,  
 Que s'il est un moyen pour me connoistre mieux…  
 
-    SEMELE.
+    SEMELE. 
 Il en est, & j'en sçay qui seront infaillibles,  
 Monstrez de Jupiter des marques plus sensibles⁎.  
 Vous devez autrement vous monstrer en ce lieu ;  
@@ -4205,7 +4205,7 @@ Un rayon échappé de cette majesté,
 De cet éclat qui sort d'une divinité,      
 Peut embrazer le monde & mettre tout en cendre.  
 
-    SEMELE.
+    SEMELE. 
 Plus contre mes desirs vous vous voulez defendre,  
 Plus mon soupçon revient, plus j'ay lieu d'en douter,  
 Si l'amant⁎ que j'adore est le vray Jupiter.  
@@ -4265,7 +4265,7 @@ Les fantômes dansent, & apres avoir dansé
 
     SEMELE *continuë*.
 En vain par ces horreurs on veut m'épouventer,  
-Quel qu'en soit le succés, je veux voir Jupiter.  < Fin du quatriéme Acte. >
+Quel qu'en soit le succés, je veux voir Jupiter.  < Fin du quatriéme Acte. > 
 
 
 # ACTE V.
@@ -4295,7 +4295,7 @@ Veut-il faire mourir ce cœur d'impatience ?
 Te diray-je, Dircé, que j'oze encore douter,  
 Si c'est un imposteur ou le vray Jupiter ?  
 
-    DIRCE.
+    DIRCE. 
 Vostre doute, Madame, est assez raisonnable,  
 Et quand vous trahissez un heros adorable,  
 Peut-estre que le Ciel pour vanger vostre amant⁎…  
@@ -4460,7 +4460,7 @@ Amour sauve de moy si tu peux ce que j'aime.
 Toy garde icy mon aigle attendant mon retour.  
 
     MOMUS.
-Je garderay vostre aigle, & vous ferez l'amour⁎.  
+Je garderay vostre aigle, & vous ferez l'amour⁎.   
 
 
 ## SCENE IV.
@@ -4481,7 +4481,7 @@ Des gens espouventez, des femmes allarmées ;
 Le palais est en feu, Jupiter dans les airs  
 S'enfuit enveloppé de flammes & d'éclairs.  
 Quelqu'un vient, en ces lieux je ne doy plus paroistre.  
-Aigle remonte au Ciel, & vole apres ton maistre.  
+Aigle remonte au Ciel, & vole apres ton maistre.   
 
 
 ## SCENE V.
@@ -4537,7 +4537,7 @@ De ce Dieu tout en feu la fatale presence…
 Quoy ce Dieu plein d'amour manque-t'il de puissance ?  
 Ou plustost ce grand Dieu, pour luy sauver le jour,  
 Avec tant de puissance a-t'il manqué d'amour ?  
-Mais j'apperçoy la Reine.  
+Mais j'apperçoy la Reine.   
 
 
 ## SCENE VI.
@@ -4624,7 +4624,7 @@ Mais pourquoy la punir du crime de sa mere ;
 J'avois mis dans son cœur cet orgueil temeraire,  
 Et c'est par mes leçons qu'elle osa se flatter,  
 D'arracher à Junon le cœur de Jupiter.  
-Mais le Roy vient. Le feu⁎ qui brille en son visage…  
+Mais le Roy vient. Le feu⁎ qui brille en son visage…   
 
 
 ## SCENE VIII.
@@ -4753,7 +4753,7 @@ Pour le pris d'un trespas que j'ay causé moy-mesme,
 Je la rends immortelle & digne des autels ;  
 C'est comme⁎ Jupiter fait perir ce qu'il aime.  
 
-    LE ROY.
+    LE ROY. 
 Pardonnez-moy grand Dieu cette aveugle douleur,  
 Qui du plus grand des biens se faisoit un malheur.  
 J'adore cette main puissante & favorable,  

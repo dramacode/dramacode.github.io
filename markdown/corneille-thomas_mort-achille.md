@@ -1007,7 +1007,7 @@ Par tout ce que vos feux⁎ ont pour luy de plus doux,
 Priez, pressez.  
 
 
-### SCENE III.
+### SCENE III. 
 POLIXENE, PYRRHUS, ILIONE, ANTILOCHUS.
 
 
@@ -1136,7 +1136,7 @@ C'est redoubler mes maux que vous voir plus long-temps, [238]
 Plus je m'arréte icy, plus je deviens sensible.  
 N'attendez rien pour moy qu'un sort affreux, terrible, [239]  
 Et pour vous consoler, en [240] de si rudes coups⁎,  
-Songez que si je meurs, je mourray toute à vous.  < Fin du premier Acte. >
+Songez que si je meurs, je mourray toute à vous.  < Fin du premier Acte. > 
 
 
 ## ACTE II.
@@ -1181,7 +1181,7 @@ Les liens d'une paix qui doit toûjours durer.
     ALCIME.
 Vous aimez Polixene ?  
 
-    ACHILLE.
+    ACHILLE. 
         Ouy, je l'adore, Alcime, [246]  
 L'amour que j'ay pour elle égale mon estime,  
 Et de ma liberté l'entier engagement, [247]  
@@ -1536,7 +1536,7 @@ Polixene me montre...
         Encor qu'intéressée,  
 Elle peut de Priam ignorer la pensée.  
 
-    PYRRHUS.
+    PYRRHUS. 
 Non, Seigneur, croyez-en l'amour qu'elle a pour moy,  
 Elle m'a descouvert ce que pense le Roy, [352]  
 Son coeur qui de mon feu⁎ partage la tendresse...  
@@ -1632,7 +1632,7 @@ Au moins j'empescheray qu'un autre soit heureux, [382]
 Et peut-estre l'Hymen⁎ [383] en qui ma flâme⁎ espere,  
 Luy fera de l'amour un devoir necessaire.  
 Allons trouver Priam, & sans plus balancer,  
-Demandons un accord [384] où je puis le forcer.  < Fin du second Acte. >
+Demandons un accord [384] où je puis le forcer.  < Fin du second Acte. > 
 
 
 ## ACTE III.
@@ -1718,7 +1718,7 @@ Accordons tout le reste, il touche peu mon ame.
 Et c'est ce qui du Sort vous marque le couroux, [400]  
 La main⁎ que vous voulez ne sçauroit estre à vous.  
 
-    PYRRHUS.
+    PYRRHUS. 
 Ne sçauroit estre à moy ? Dieux ! mais non, je m'abuse,  
 Et d'un transport⁎ trop prompt ma passion s'accuse.  
 Ne m'avez-vous pas dit que selon mes souhaits,  
@@ -1874,7 +1874,7 @@ Quoy, Priam contre Achille en auroit crû sa haine ; [440]
 Et l'hommage du Fils n'auroit point effacé⁎  
 Le souvenir du sang que le Pere a versé ?  
 
-    PYRRHUS.
+    PYRRHUS. 
 J'ignore à qui je dois imputer ma disgrace,  
 Mais enfin, plus d'espoir, un autre a pris ma place, [441]  
 Achille à mon Rival consent à m'immoler,  
@@ -1953,7 +1953,7 @@ A changer de tendresse, à [461] vivre pour un autre,
 Et voyez-vous ces maux avec si peu d'effroy,  
 Que vous n'ayez pitié ny de vous ny de moy ?  
 
-    POLIXENE.
+    POLIXENE. 
 J'en fremis, je l'avouë, & mon ame estonnée⁎, [462]  
 A mille morts par là se trouve condamnée, [463]  
 Mais dés que j'ose voir vos malheurs & les miens,  
@@ -1995,7 +1995,7 @@ Achille est inconstant ?
 Sur cet affreux revers⁎ je n'ose ouvrir les yeux.  
 Se pourroit-il qu'Achille eust souffert qu'en son ame...  
 
-    POLIXENE.
+    POLIXENE. 
 Et quoy, de ce barbare ignorez-vous la flame⁎,  
 Et qu'il veut que ma main⁎, assassinant Pyrrhus, [477]  
 Soit le prix des honneurs qu'Hector en a receus ?  
@@ -2123,7 +2123,7 @@ Prince, vostre intérest se trouve joint au mien, [518]
 Pour empescher l'Hymen⁎ [519] qui fait nostre supplice,  
 Voyez Agamemnon, j'iray trouver Ulisse, [520]  
 Quelque paix qu'à Priam Achille ait pû jurer,  
-S'ils sont tous deux pour nous, nous pouvons esperer.  < Fin du troisiéme Acte. >
+S'ils sont tous deux pour nous, nous pouvons esperer.  < Fin du troisiéme Acte. > 
 
 
 ## ACTE IV.
@@ -2436,7 +2436,7 @@ A l'honneur asseuré de régner sur la Grece, [624]
 Son coeur m'a plus esté qu'un Diadême offert,  
 J'ay tout fait pour luy plaire, & c'est luy qui me perd.  
 
-    ACHILLE.
+    ACHILLE. 
 Madame, il seroit bon...épargnez-moy [625] de grace, [626]  
 Le tiltre de Vainqueur peut donner de l'audace, [627]  
 Et je serois faché que de trop durs adieux...  
@@ -2601,7 +2601,7 @@ Mais allons de Priam essayer le pouvoir.
 Le temps presse, malgré la parole donnée [686]  
 Tâchons à [687] reculer ce funeste Hymenée⁎. [688]  
 Ma douleur chez les Grecs trouvera du secours [689]  
-Si je puis de Priam obtenir quelques jours. [690]  < Fin du quatriéme Acte. >
+Si je puis de Priam obtenir quelques jours. [690]  < Fin du quatriéme Acte. > 
 
 
 ## ACTE V.
@@ -2644,7 +2644,7 @@ Me coûtast le repos dont tu me vas priver !
 Heureux ceux dont le fer mettant fin à leur peine⁎...  
 
 
-### SCENE II.
+### SCENE II. 
 POLIXENE, PYRRHUS, ILIONE.
 
 
@@ -2719,7 +2719,7 @@ Madame, vous prendrez ce conseil pour vous même,
 Et Pyrrhus effacé⁎ [732] malgré de si beaux feux⁎ [733]  
 Verra bientost Achille en estat d'estre heureux.  
 
-    POLIXENE.
+    POLIXENE. 
 Si j'entens mon devoir, c'est ce qu'il me demande, [734]  
 A ses barbares loix il veut que je me rende,  
 Et qu'aux voeux d'un Espoux un Amant⁎ immolé  
@@ -2877,7 +2877,7 @@ De périr !
     BRISEIS.
         Il y va de sa vie. [794]  
 
-    PYRRHUS.
+    PYRRHUS. 
 Adieu, Madame.  
 
     BRISEIS.
@@ -2919,7 +2919,7 @@ Mais d'où vient que Paris vous est si redoutable ?
 Que craindre pour Achille ? il est invulnérable,  
 Et par un privilege & noble & glorieux...  
 
-    BRISEIS.
+    BRISEIS. 
 Je ne m'asseure point sur ce qu'ont fait les Dieux, [804]  
 Paris suit contre Achille une fureur⁎ extréme,  
 Et pour craindre sa perte [805] il suffit que je l'aime.  

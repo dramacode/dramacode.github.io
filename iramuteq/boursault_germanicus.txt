@@ -161,7 +161,7 @@ Ce bien semble usurpé s'il ne vient de vous-même ;
 Et parmy les Amans il n'est rien si cruel
 Que d'avoir de l'amour qui n'est pas mutuel.
 
--*who_agripine
+-*who_agripine 
 Ah Seigneur !
 
 -*who_drusus
@@ -296,7 +296,7 @@ Un respect si profond...
 De peur de le contraindre éloigne toy d'icy.
 Quand je l'auray quitté je t'iray tout apprendre.
 
-**** *book_ *id_body-204 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-204 *act_ *date_1694 *creator_boursault 
 
 -*who_agripine
 Que venez-vous de me dire, & qu'ay-je lieu d'attendre ?
@@ -479,7 +479,7 @@ Si vous n'en donniez point, en aurois-je pû prendre ?
 Et qui des deux, enfin, fait un crime plus grand,
 Ou de l'oeil qui le donne, ou du coeur qui le prend ?
 
--*who_agripine
+-*who_agripine 
 Ah ! Pison, si mes yeux ont osé vous seduire⁎,
 Puisque je l'ignorois deviez-vous m'en instruire ?
 Et ne sçaviez-vous pas qu'en trahissant leur sort,
@@ -551,7 +551,7 @@ Adieu, Madame.
 -*who_agripine
       Ah ciel ! est-ce ainsi qu'on me laisse ?
 
--*who_pison
+-*who_pison 
 Pour vostre interest propre épargnez ma foiblesse,
 Madame. Jusqu'icy je n'ay rien mis au jour
 Qui soit honteux pour vous, excepté mon amour :
@@ -726,7 +726,7 @@ Prens la plus sombre route, & la plus seure voye.
 Un Guerrier si fameux, dans un lieu si suspect,
 Allarmeroit⁎ Tibere, à qui je dois respect.
 
-**** *book_ *id_body-302 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-302 *act_ *date_1694 *creator_boursault 
 
 -*who_agripine
 D'où me vient ce desordre, & pourquoy suis-je émeuë ?
@@ -782,7 +782,7 @@ Je ne vous diray plus, que l'amour qui m'enchaisne⁎,
 Me fait voir un supplice à l'hymen⁎ qui vous gesne :
 Je ne vous diray plus qu'épris de vos appas⁎...
 
--*who_agripine
+-*who_agripine 
 Vous ne le direz plus ! ne le dites-vous pas ?
 
 -*who_pison
@@ -855,7 +855,7 @@ Et si vous le perdez sans verser quelques larmes ?
 -*who_agripine
 Qu'avez-vous dit ?
 
--*who_pison
+-*who_pison 
       J'ay dit qu'il vous eût esté doux
 De n'aimer que luy seul, comme il n'aime que vous :
 Que son rare⁎ merite⁎ est gravé dans vostre Ame ;
@@ -887,7 +887,7 @@ De traiter son Amour comme j'ay fait le vostre :
 Et m'aimant, sans espoir, il vous doit estre doux
 Qu'un Heros, comme luy, soit traité comme vous.         610
 
-**** *book_ *id_body-304 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-304 *act_ *date_1694 *creator_boursault 
 
 -*who_agripine
 Enfin, Prince, vostre ame a lieu d'estre contente :
@@ -914,7 +914,7 @@ Et trouvois moins de gloire à les priver du jour⁎
 Immolez⁎ à l'Etat, qu'immolez⁎ à l'Amour.
 Je vous aime, & vous vois, mon bonheur est extréme...
 
--*who_agripine
+-*who_agripine 
 Adieu, Prince.
 
 -*who_germanicus
@@ -1031,7 +1031,7 @@ Je vous l'ay déja dit, que puis-je, enfin ?
 -*who_germanicus
       M'aimer.
 
--*who_agripine
+-*who_agripine 
 Vous aimer ! Ah, Seigneur, qu'osez-vous me prescrire⁎ ?
 Songez-y : des malheurs vous souhaitez le pire.
 Vous garder ma tendresse, & l'oser mettre au jour,
@@ -1103,7 +1103,7 @@ Pour mettre en seureté vos sublimes vertus,
 Desormais, par respect, je ne vous verray plus.
 Remenez-moy.
 
-**** *book_ *id_body-305 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-305 *act_ *date_1694 *creator_boursault 
 
 -*who_flavie
       Madame...
@@ -1266,7 +1266,7 @@ Un amour si confiant pour un Amant rebelle,
 Vous préte un digne exemple à demeurer fidele :
 Tout parle en sa faveur ; mais enfin...
 
--*who_drusus
+-*who_drusus 
       Ah ! Pison,
 Elle vient ; vos conseils ne sont plus de saison.
 Laissez-nous seuls.
@@ -1691,7 +1691,7 @@ Le bruit⁎ de ses exploits est suspect à Tibere :
 Et pour le Consulat il me fait designer,
 Si je veux cette nuit l'aller assassiner.
 
--*who_agripine
+-*who_agripine 
 L'assassiner, Pison !
 
 -*who_pison
@@ -1825,7 +1825,7 @@ M'ôte jusqu'au plaisir de me rendre croyable ;
 Et d'infidelité vous m'allez soupçonner,
 Quand je vous auray dit qu'il faut m'abandonner,
 
--*who_germanicus
+-*who_germanicus 
 Moy, Madame ?
 
 -*who_agripine
@@ -2036,7 +2036,7 @@ Ne peut s'accoûtumer à voir couler vos larmes :
 Je ne partiray point si vous en soupirez ;
 Promettez-moy...
 
--*who_agripine
+-*who_agripine 
       Seigneur, vous me desesperez.
 Dans l'état déplorable où mon ame est réduite,
 Je crains vostre presence, & je crains vostre fuite.
@@ -2249,7 +2249,7 @@ Flavie, as-tu compris la grandeur de ma peine ?
 Albin de vostre sort va vous rendre certaine,
 Il vient.
 
-**** *book_ *id_body-603 *act_ *date_1694 *creator_boursault
+**** *book_ *id_body-603 *act_ *date_1694 *creator_boursault 
 
 -*who_agripine
       Hé bien, Albin, ce que j'aimois est mort ?
@@ -2282,7 +2282,7 @@ Germanicus respire, & Pison ne vit plus.
 -*who_agripine
 Et Pison ne vit plus !
 
--*who_albin
+-*who_albin 
       Non, Madame.
 
 -*who_agripine

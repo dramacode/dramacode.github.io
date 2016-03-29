@@ -1,7 +1,7 @@
 ---
 identifier: moliere_mariage-force  
 creator: Molière  
-date: 1668  
+date: 1664  
 title: Le Mariage forcé  
 ---
 

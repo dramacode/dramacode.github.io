@@ -194,7 +194,7 @@ Mais d'où vient qu'avec tant d'attraits
 Psyché n'aima jamais ?
 Qui brave trop l'Amour doit craindre sa colere.
 
--*who_cidippe
+-*who_cidippe 
 Il est un fatal moment,
 Où l'Objet le plus severe
 Se rend aux vœux d'un Amant,
@@ -345,7 +345,7 @@ Empia sorte.
 Che condanni à morir tanta beltà
 Cieli, stelle, ahi crudeltà.
 
-**** *book_ *id_body-503 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1678 *creator_corneille 
 
 -*who_aglaure
 Psyché vient. A la voir je tremble.
@@ -489,7 +489,7 @@ Que tout vostre Art s'épuise en cét Ouvrage.
 Faites-y voir un pompeux⁎ Assemblage
 Des plus rares Beautez qui parurent jamais.
 
-**** *book_ *id_body-602 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1678 *creator_corneille 
 
 -*who_zephire
 Pressez-vous ce Travail que l'Amour vous demande ?
@@ -679,7 +679,7 @@ Prendre d'un Mortel la figure.
 Ah ! venez-donc, n'importe sous quels traits,
 Pourveu qu'en vous voyant mon esprit se rasseure.
 
-**** *book_ *id_body-606 *act_ *date_1678 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1678 *creator_corneille 
 
 -*who_amour
 Et bien, Psyché, des cruautez du Sort
@@ -1371,7 +1371,7 @@ O favorable changement !
 -*who_jupiter
 Aimez sans trouble & sans alarmes.
 Vous, Dieux, accourez tous, & dans cet heureux jour
-Celebrez à l'envy la gloire de l'Amour.
+Celebrez à l'envy la gloire de l'Amour. 
 
 -*who_apollon
 Unissons-nous, Troupe immortelle ;
@@ -1548,7 +1548,7 @@ Avec le doux chant des Amours.
 
 **** *book_ *id_privilege *date_1678 *creator_corneille
 
-PRIVILEGE DU ROY.
+PRIVILEGE DU ROY. 
 
 LOUIS par la grace de Dieu Roy de France & de Navarre : A nos amez & féaux Conseillers, les Gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, & du Palais, Baillifs, Seneschaux, leurs Prevosts, & leurs Lieutenans, & tous autres nos Justiciers & Officiers qu'il appartiendra, SALUT. Nostre bien amé Jean Baptiste Lully Sur-Intendant de la Musique de nostre Chambre, Nous a fait remonstrer que les Airs de Musique qu'il a cy-devant composez, ceux qu'il compose journellement par nos ordres, & ceux qu'il sera obligé de composer à l'avenir pour les Pieces qui seront representées par l'Academie Royale de Musique, laquelle Nous luy avons permis d'établir en nostre bonne Ville de Paris, & autres lieux de nostre Royaume où bon luy semblera, estant purement de son invention, & de telle qualité que le moindre changement ou obmission leur fait perdre leur grace naturelle ; de sorte que comme son esprit seul les produit pour les appliquer aux sujets qu'il y trouve proportionnez, nul autre ne peut si bien que luy rendre lesdits Ouvrages publics dans leur perfection, & avec l'exactitude qui leur est deue.
 Et d'ailleurs, il est juste que si leur impression doit aporter quelque avantage, il revienne plûtost à l'Autheur pour le recompenser de son travail, & de partie des frais qu'il avance pour l'execution des Desseins qu'il doit faire representer par ladite Academie, qu'à de simples Copistes qui les imprimeroient, sous pretextes de Permissions generales ou particulieres qu'ils peuvent avoir obtenuës par surprises ou autrement ; ce qui l'oblige d'avoir recours à nos Lettres sur ce necessaires.

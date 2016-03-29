@@ -982,7 +982,7 @@ Vous la verrez bien-tost.
 
     DEMETRIUS.
         Qu'on sorte,  ; qu'on me laisse ;  
-Et que nul n'entre icy que par un ordre exprés.  
+Et que nul n'entre icy que par un ordre exprés.   
 
 
 ### SCENE II.
@@ -1127,7 +1127,7 @@ Adieu, sois si tu veux mon Espoux  ; mon Roy ;
 Je n'y renonce point malgré ta perfidie ;  
 J'en veux tousjours garder l'esperance  ; l'envie :  
 Mais n'espere jamais d'un [40] parjure odieux  
-Estre quitte envers moy, ny quitte envers les Dieux.  
+Estre quitte envers moy, ny quitte envers les Dieux.   
 
 
 ### SCENE III.
@@ -1197,7 +1197,7 @@ Alexandre revient.
     DEMETRIUS.
 Sçais-tu qu'il vient m'oster mon Sceptre  ; ma Princesse ?  
 
-    MILON.
+    MILON. 
 Craignez vous un Rival avec tant de foiblesse ?  
 Il revient par vostre ordre,  ; ce retour fatal⁎  
 Va mettre entre vos mains ce dangereux Rival.  
@@ -1313,7 +1313,7 @@ Tâchons donc de fléchir cet objet adorable.
     MILON.
 Mais la Reine...  
 
-    DEMETRIUS.
+    DEMETRIUS. 
         Tu sçais quel genereux dessein  
 Me força malgré moy de [46] luy donner la main :  
 Pour sauver mon Rival  ; ma chere Ismenie  
@@ -1417,7 +1417,7 @@ Faites à mon Rival un glorieux retour ;
 Mettez-le promptement au dessus de l'envie ;  
 Asseurez sur le Thrône  ; sa gloire  ; sa vie.  
 
-    ISMENIE.
+    ISMENIE. 
 Ah ! si vostre amitié pouvoit en sa faveur  
 Jusqu'à ce grand effort élever vostre coeur,  
 Qu'elle auroit à mes yeux de merite  ; de gloire !  
@@ -1491,7 +1491,7 @@ Soûtiens avecque moy cet amour malheureux.
 Il a besoin de force,  ; je sens sa foiblesse ;  
 J'écoute son devoir, mais je crains sa tendresse.  
 Allons voir mon Amant qui revient dans ces lieux,  
-Travaillons pour sa gloire,  ; mourons à ses yeux.  < Fin du premier Acte. >
+Travaillons pour sa gloire,  ; mourons à ses yeux.  < Fin du premier Acte. > 
 
 
 ## ACTE II.
@@ -1594,7 +1594,7 @@ Il faut aneantir ce qu'on ne peut avoir ;
 Mais je suis encor loin de ce malheur extrême,  
 J'ay du pouvoir assez pour avoir ce que j'aime.  
 
-    SELEUCUS.
+    SELEUCUS. 
 Milon, n'en croyez pas un desespoir jaloux ;  
 Servez le vray Monarque,  ; travaillez pour vous.  
 Pour faire nostre paix relevons sa puissance,  
@@ -1811,7 +1811,7 @@ Adieu.
 Seigneur, souffrirez-vous...  
 
     ALEXANDRE.
-        Suy ton Maistre,  ; me laisse [68].  
+        Suy ton Maistre,  ; me laisse [68].   
 
 
 ### SCENE III.
@@ -1836,7 +1836,7 @@ Ciel, par l'amour du Thrône affoiblis sa tendresse.
 Puissans Maistres des coeurs, rendez-le, justes Dieux,  
 Un peu moins amoureux  ; plus ambitieux,  
 Cher  ; cruel amy, regne,  ; souffre que j'aime.  
-Dieux ! qu'est-ce que je voy ? ma Princesse, elle mesme.  
+Dieux ! qu'est-ce que je voy ? ma Princesse, elle mesme.   
 
 
 ### SCENE IV.
@@ -1989,7 +1989,7 @@ Ah ! devoir trop cruel !
         Quoy, vous pleurez, Princesse ?  
 Adieu, je fuis des pleurs qui tentent ma tendresse,  
 Et vay dans mon exil attendre un sort plus doux,  
-Et du temps,  ; des Dieux,  ; plus encor de vous.  
+Et du temps,  ; des Dieux,  ; plus encor de vous.   
 
 
 ### SCENE V.
@@ -2046,7 +2046,7 @@ Madame, oubliez-vous ce que vous vous devez ?
 Ou la fuite, ou la mort.  
 
     LAODICE.
-        Fuyez donc,  ; vivez.  < Fin du second Acte. >
+        Fuyez donc,  ; vivez.  < Fin du second Acte. > 
 
 
 ## ACTE III.
@@ -2544,7 +2544,7 @@ Une autre par ma main sur le Thrône élevée
 Doit rendre pleinement ma fortune achevée.  
 Quel torrent de bon-heur d'un cours precipité  
 M'entraîne dans ce port si long-temps souhaité ?  
-Thrône, Maistresse...  
+Thrône, Maistresse...   
 
 
 ### SCENE VIII.
@@ -2608,7 +2608,7 @@ Au retour tu sçauras jusqu'où va mon espoir.
 Tu sçauras que le Ciel par une illustre voye  
 Précipite déjà le moment de ma joye,  
 Qu'il ne m'offre pas moins que le tiltre de Roy,  
-Et qu'il n'est presque rien entre le Thrône  ; moy.  < Fin du troisiéme Acte. >
+Et qu'il n'est presque rien entre le Thrône  ; moy.  < Fin du troisiéme Acte. > 
 
 
 ## ACTE IV.
@@ -2671,7 +2671,7 @@ Je crains...
     Vous l'allez voir.  
 
     ALEXANDRE.
-        Seleucus, je la voy.  
+        Seleucus, je la voy.   
 
 
 ### SCENE II.
@@ -2864,7 +2864,7 @@ Tu sçauras ce que peut un veritable amour [100].
 Quoy ? Madame...  
 
     ISMENIE.
-        Obeïs, laisse-moy, vis,  ; m'aime.  
+        Obeïs, laisse-moy, vis,  ; m'aime.   
 
 
 ### SCENE IV.
@@ -2901,7 +2901,7 @@ La fille d'Artaban ?
     ARSINOÉ.
         La femme de ton Roy.  
 
-    ALEXANDRE.
+    ALEXANDRE. 
 Ennemy des Tyrans, du Trône,  ; de ma flame,  
 J'abhorre également  ; sa fille  ; sa femme.  
 
@@ -3088,7 +3088,7 @@ Voy l'advis que m'en donne un Rival genereux.
     MILON.
 Vous laissez-vous corrompre à l'advis qu'il vous donne ?  
 
-    ARSINOÉ.
+    ARSINOÉ. 
 Quoy ! Seigneur ?  
 
     DEMETRIUS.
@@ -3168,7 +3168,7 @@ Tu vois de tous costez qu'on menace mes jours ;
 J'aime encore des jours qui sont pour Ismenie,  
 Je mets entre tes mains ma cruelle ennemie.  
 
-    MILON.
+    MILON. 
 Ne craignez rien, Seigneur, je feray mon devoir.  
 
     DEMETRIUS.
@@ -3240,7 +3240,7 @@ Allons tout préparer contre un couple infidelle.
 Je te répons de luy.  
 
     MILON.
-        Moy, je vous répons d'elle.  < Fin du quatrième Acte. >
+        Moy, je vous répons d'elle.  < Fin du quatrième Acte. > 
 
 
 ## ACTE V.
@@ -3274,7 +3274,7 @@ Un grand coupable est joint à cette criminelle.
 Toy qui gardes ce traistre, enfin fais-le venir ;  
 C'est luy seul, Seleucus, c'est luy qu'il faut punir.  
 
-    SELEUCUS.
+    SELEUCUS. 
 Mais, Seigneur...  
 
     MILON.
@@ -3308,7 +3308,7 @@ J'auray soin du dehors,  ; vous répons de tout.
 
     MILON.
 Va, de quelques malheurs que le Ciel nous menace,  
-Ma peur s'évanoüit par cette noble audace.  
+Ma peur s'évanoüit par cette noble audace.   
 
 
 ### SCENE II.
@@ -3379,7 +3379,7 @@ Je deviens son témoin,  ; son Juge,  ; son Roy.
     TELAMON.
 Vous attirez sur vous une horrible tempeste.  
 
-    MILON.
+    MILON. 
 Je voy tous les perils qui menacent ma teste ;  
 Avant que m'exposer [107] à ce fatal instant,  
 Je les avois tous veus d'un oeil ferme  ; constant.  
@@ -3567,7 +3567,7 @@ Vostre juge tremblant de respect  ; d'amour.
 Qu'entens-je ? juste Ciel ! pour comble d'infamie  
 C'est peu de m'accuser, Milon aime Ismenie !  
 
-    MILON.
+    MILON. 
 Je vous aime, il est vray, le mot en est lâché ;  
 Ce feu que mes respects ont si long-temps caché,  
 Laisse aller aujourd'hui toute sa violence :  
@@ -3751,7 +3751,7 @@ Pouvez-vous sur Milon suspendre vostre foudre ?
 Ou sans craindre pour moy son cruel desespoir  
 Faites que mon amant fasse enfin son devoir,  
 Ou ma mort ostera cet obstacle à sa gloire ;  
-Mais quel tumulte affreux...  
+Mais quel tumulte affreux...   
 
 
 ### SCENE VIII.
@@ -3850,7 +3850,7 @@ Ah ! Seigneur, prévenez...
     Ne crains rien.  
 
     DIOCLES.
-        Le voicy.  
+        Le voicy.   
 
 
 ### SCENE XI.
@@ -3873,7 +3873,7 @@ Tout ce que je croyois ma force  ; mon appuy,
 La Reyne, mon amour,  ; ma propre furie  
 Me font perdre aujourd'huy, Maistresse, Trône  ; vie ;  
 Mais pour comble de maux, de honte  ; de malheur,  
-Rival, je te les laisse, et j'en meurs de douleur.  
+Rival, je te les laisse, et j'en meurs de douleur.   
 
 
 ### SCENE DERNIERE.

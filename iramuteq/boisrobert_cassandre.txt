@@ -143,7 +143,7 @@ Obeïssez, vous dis-je, & ne repliquez pas.
 -*who_astolfe
 Quel accueil, justes Dieux, quelle atteinte à mon ame.
 
-**** *book_ *id_body-203 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-203 *act_ *date_1654 *creator_boisrobert 
 
 -*who_don_lope
 Don Remon de Moncade & Don Pedre, Madame,
@@ -237,7 +237,7 @@ Entre nous arresté, qui regle nostre sort.
 Ie le veux, aprenons sur son rapport fidelle
 Qui de vous ou de moy plaist aux yeux d'Isabelle,
 
-**** *book_ *id_body-204 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-204 *act_ *date_1654 *creator_boisrobert 
 
 -*who_don_pedre
 Beralde se souuient de ce qu'il m'a promis.
@@ -399,7 +399,7 @@ Quoy Moncade, d'escrire a pris la liberté !
 Quoy, i'aurois vn riual, plus chery, mieux traitté ?
 Relisons ce billet, taschons d'y mieux connoistre.
 
-**** *book_ *id_body-207 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-207 *act_ *date_1654 *creator_boisrobert 
 
 -*who_cassandre
 Ovy, je feray mon chois, ouy, vous aurez un Maistre.
@@ -489,7 +489,7 @@ Suiuons-la pour luy dire enfin tout mon tourment⁎ :
 Car je n'attens plus rien de cét iniuste frere.
 Elle emporte ma lettre.
 
-**** *book_ *id_body-208 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-208 *act_ *date_1654 *creator_boisrobert 
 
 -*who_astolfe
       Et je pourray m'en taire ?
@@ -860,7 +860,7 @@ Voicy le Duc mon Pere, il faut luy faire entendre,
 Les effets d'vn amour & si noble & si tendre,
 Il est dénaturé⁎ s'il n'en est satisfait.
 
-**** *book_ *id_body-304 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-304 *act_ *date_1654 *creator_boisrobert 
 
 -*who_le_dvc
 Qv'auez-vous auancé, mon fils, qu'auez-vous fait ?
@@ -1192,7 +1192,7 @@ Pour vous rendre content.
 -*who_don_pedre
       Amy je vous en prie.
 
--*who_beralde
+-*who_beralde 
 Ie me suis bien tiré d'vn pas fort dangereux,
 Mais on ne peut long-temps fourber deux amoureux.
 
@@ -1406,7 +1406,7 @@ Ie voy de ma fortune vn asseuré⁎ presage ;
 Ma rencontre a causé ce transport amoureux,
 Si j'en sçay bien vser suis-je pas trop heureux ?
 
-**** *book_ *id_body-407 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-407 *act_ *date_1654 *creator_boisrobert 
 
 -*who_cassandre
 Astolfe tarde bien, sa longueur importune,
@@ -1544,7 +1544,7 @@ Me separant de vous je m'arrache à moy mesme,
 Il faut de vos beaux yeux me priuer desormais,
 Princesse, il faut vous dire vn adieu pour jamais.
 
-**** *book_ *id_body-409 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-409 *act_ *date_1654 *creator_boisrobert 
 
 -*who_cassandre
 Est-ce Astolfe ? est-ce luy que j'ay veu disparestre,
@@ -1621,7 +1621,7 @@ Ie m'en vay le signer.
 -*who_astolfe
       Ah c'est signer ma mort.
 
-**** *book_ *id_body-502 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-502 *act_ *date_1654 *creator_boisrobert 
 
 -*who_don_lope
 La Princesse, Seigneur, auec impatience,
@@ -1643,7 +1643,7 @@ Seigneur, l'ordre est pressant, donc sans plus de demeure⁎.
 -*who_le_dvc
 Allons, tenez vous prest, je reuiens dans vne heure.
 
-**** *book_ *id_body-503 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-503 *act_ *date_1654 *creator_boisrobert 
 
 -*who_moncade
 Ovy, ouy, brize tes fers⁎, esclaue malheureux,
@@ -1729,7 +1729,7 @@ Auec tant de ferueur se declarast pour elle,
 Ie luy deuois marquer vn oubly d'Isabelle 
 I'ay connu sa prudence, & je voy mon erreur.
 
-**** *book_ *id_body-505 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-505 *act_ *date_1654 *creator_boisrobert 
 
 -*who_don_lope
 Voicy le Duc, Madame.
@@ -2484,7 +2484,7 @@ Que trop injustement nous auons occuppé.
 -*who_le_dvc
 Ie vay vous obeïr.
 
-**** *book_ *id_body-604 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-604 *act_ *date_1654 *creator_boisrobert 
 
 -*who_cassandre
       Dans cette obeïssance,
@@ -2575,7 +2575,7 @@ Et suis vers vostre Altesse accouru promptement.
 He bien, nous les verrons auecque la Noblesse,
 Pourray-ie bien le voir sans monstrer ma foiblesse⁎ ?
 
-**** *book_ *id_body-606 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-606 *act_ *date_1654 *creator_boisrobert 
 
 -*who_astolfe
 Pourquoy me ramener malgré moy dans ces lieux ?
@@ -2784,7 +2784,7 @@ Et luy donne Moncade.
 -*who_astolfe
 O bonté sans exemple.
 
-**** *book_ *id_body-609 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_body-609 *act_ *date_1654 *creator_boisrobert 
 
 -*who_moncade
       On n'attend plus que vous,

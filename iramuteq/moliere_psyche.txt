@@ -236,15 +236,15 @@ Quelle fatalité secrète,
 Ma Sœur, soumet tout l'Univers
 Aux attraits de notre Cadette,
 Et de tant de Princes divers
-Qu'en ces lieux la fortune jette,
+Qu'en ces lieux la Fortune jette,
 N'en présente aucun à nos fers ?
-Quoi, voir de toutes parts pour lui rendre les armes,
+Quoi, voir de toutes parts, pour lui rendre les armes,
 Les cœurs se précipiter,
 Et passer devant nos charmes,
 Sans s'y vouloir arrêter ?
 Quel sort ont nos yeux en partage,
 Et qu'est-ce qu'ils ont fait aux Dieux,
-De ne jouir d'aucun hommage
+De ne jouir d'aucun hommage,
 Parmi tous ces tributs de soupirs glorieux,
 Dont le superbe avantage
 Fait triompher d'autres yeux ?
@@ -258,6 +258,21 @@ Ah, ma Sœur, c'est une aventure
 À faire perdre la raison,
 Et tous les maux de la Nature,
 Ne sont rien en comparaison.
+
+-*who_aglaure
+Pour moi j'en suis souvent jusqu'à verser des larmes ;
+Tout plaisir, tout repos, par là m'est arraché
+Contre un pareil malheur ma constance est sans armes,
+Toujours à ce chagrin mon esprit attaché
+Me tient devant les yeux la honte de nos charmes,
+Et le triomphe de Psyché.
+La nuit il m'en repasse une idée éternelle
+Qui sur toute chose prévaut ;
+Rien ne me peut chasser cette image cruelle
+Et dès qu'un doux sommeil me vient délivrer d'elle,
+Dans mon esprit aussitôt
+Quelque songe la rappelle,
+Qui me réveille en sursaut.
 
 -*who_cidippe
 Ma Sœur, voilà mon martyre,
@@ -290,12 +305,12 @@ Et dans quelque ajustement
 Trouvez-vous qu'elle m'efface ?
 
 -*who_cidippe
-Qui, vous ma sœur ? Nullement.
-Hier à la chasse, près d'elle,
+Qui, vous, ma Sœur ? nullement.
+Hier à la Chasse, près d'elle,
 Je vous regardai longtemps,
-Et, sans vous donner d'encens,
+Et sans vous donner d'encens,
 Vous me parûtes plus belle.
-Mais moi, dites, ma sœur, sans me vouloir flatter,
+Mais moi, dites, ma Sœur, sans me vouloir flatter,
 Sont-ce des visions que je me mets en tête,
 Quand je me crois taillée à pouvoir mériter
 La gloire de quelque conquête ?
@@ -326,7 +341,7 @@ Qu'il faut que là-dessous soit caché du mystère :
 Ce secret de tout enflammer
 N'est point de la Nature un effet ordinaire ;
 L'Art de la Thessalie entre dans cette affaire,
-270Et quelque main a su sans doute lui former
+Et quelque main a su sans doute lui former
 Un charme pour se faire aimer.
 
 -*who_aglaure
@@ -338,11 +353,11 @@ Un souris chargé de douceurs
 Qui tend les bras à tout le monde,
 Et ne vous promet que faveurs.
 Notre gloire n'est plus aujourd'hui conservée,
-Et l'on n'est plus au temps de ces nobles fiertés
+Et l'on n'est plus au temps de ces nobles fiertés,
 Qui par un digne essai d'illustres cruautés,
 Voulaient voir d'un Amant la constance éprouvée.
 De tout ce noble orgueil qui nous seyait si bien,
-On est bien descendu dans le siècle où nous sommes,
+On est bien descendu dans le Siècle où nous sommes,
 Et l'on en est réduite à n'espérer plus rien,
 À moins que l'on se jette à la tête des Hommes.
 
@@ -353,7 +368,7 @@ C'est pour nous attacher à trop de bienséance,
 Qu'aucun Amant, ma Sœur, à nous ne veut venir,
 Et nous voulons trop soutenir
 L'honneur de notre Sexe, et de notre naissance.
-Les hommes maintenant aiment ce qui leur rit,
+Les Sommes maintenant aiment ce qui leur rit,
 L'espoir, plus que l'Amour, est ce qui les attire,
 Et c'est par là que Psyché nous ravit
 Tous les Amants qu'on voit sous son empire.
@@ -409,7 +424,7 @@ Mais nous cherchons Psyché dans notre impatience.
 
 -*who_cidippe
 Quelque chose de bien pressant
-325Vous doit à la chercher pousser tous deux sans doute.
+Vous doit à la chercher pousser tous deux sans doute.
 
 -*who_cleomene
 Le motif est assez puissant,
@@ -495,6 +510,12 @@ Des bontés qui nous touchent l'âme ;
 Mais le Ciel nous réduit à ce malheur, Madame,
 De ne pouvoir en profiter.
 
+-*who_agenor
+votre illustre pitié veut en vain nous distraire
+D'un amour dont tous deux nous redoutons l'effet ;
+Ce que notre amitié, Madame, n'a pas fait,
+Il n'est rien qui le puisse faire.
+
 -*who_cidippe
 Il faut que le pouvoir de Psyché… La voici.
 
@@ -531,7 +552,7 @@ Sont par de tels aveux forcés à vous déplaire,
 Que vous êtes réduite à ne les punir pas
 Des foudres de votre colère.
 Vous voyez en nous deux Amis,
-Qu'un doux rapport d'humeurs sut joindre dès l'enfance ;
+Qu'un doux rapport d'humeurs sut joindre dès l'enfance
 Et ces tendres liens se sont vus affermis
 Par cent combats d'estime et de reconnaissance.
 Du Destin ennemi les assauts rigoureux,
@@ -579,7 +600,7 @@ Ma main, pour se donner, attend l'ordre d'un Père,
 Et mes Sœurs ont des droits qui vont devant les miens.
 Mais si l'on me rendait sur mes vœux absolue,
 Vous y pourriez avoir trop de part à la fois,
-Et toute mon estime entre vous suspendue,
+Et toute mon estime entre vous suspendue
 Ne pourrait sur aucun laisser tomber mon choix.
 À l'ardeur de votre poursuite
 Je répondrais assez de mes vœux les plus doux ;
@@ -723,7 +744,7 @@ Ma Sœur, que sentez-vous à ce soudain malheur
 Où nous voyons Psyché par les Destins plongée ?
 
 -*who_aglaure
-Mais vous, que sentez-vous, ma sœur ?
+Mais vous, que sentez-vous, ma Sœur ?
 
 -*who_cidippe
 À ne vous point mentir, je sens que dans mon cœur
@@ -802,7 +823,7 @@ Et cessez d'honorer mon destin par des pleurs,
 Qui dans le cœur d'un Roi montrent de la faiblesse.
 
 -*who_le_roi
-Ah, ma Fille, à ces pleurs laisse mes yeux ouverts,
+Ah ! ma Fille, à ces pleurs laisse mes yeux ouverts,
 Mon deuil est raisonnable, encor qu'il soit extrême,
 Et lorsque pour toujours on perd ce que je perds,
 La Sagesse, crois-moi, peut pleurer elle-même.
@@ -828,7 +849,7 @@ Je ne mérite pas cette grande douleur :
 Opposez, opposez un peu de résistance
 Aux droits qu'elle prend sur un cœur
 Dont mille événements ont marqué la puissance.
-Quoi ? faut-il que pour moi vous renonciez, Seigneur,
+Quoi, faut-il que pour moi vous renonciez, Seigneur,
 À cette Royale constance,
 Dont vous avez fait voir dans les coups du malheur
 Une fameuse expérience ?
@@ -869,7 +890,7 @@ Où placer toutes ses douceurs.
 
 -*who_le_roi
 Ah, de mes maux soulagement frivole !
-640Rien, rien ne s'offre à moi qui de toi me console ;
+Rien, rien ne s'offre à moi qui de toi me console ;
 C'est sur mes déplaisirs que j'ai les yeux ouverts,
 Et dans un destin si funeste
 Je regarde ce que je perds,
@@ -888,7 +909,7 @@ Lorsqu'ils viennent les retirer,
 On n'a nul droit de murmurer
 Des grâces que leur main ne veut plus nous étendre ;
 Seigneur, je suis un don qu'ils ont fait à vos vœux,
-Et quand par cet arrêt ils veulent me reprendre,
+Et quand par cet Arrêt ils veulent me reprendre,
 Ils ne vous ôtent rien que vous ne teniez d'eux,
 Et c'est sans murmurer que vous devez me rendre.
 
@@ -927,7 +948,7 @@ La consolation de mes sens abattus,
 Le doux espoir de ma vieillesse.
 Ils m'ôtent tout cela, ces Dieux,
 Et tu veux que je n'aie aucun sujet de plainte
-Sur cet affreux arrêt dont je souffre l'atteinte ?
+Sur cet affreux Arrêt dont je souffre l'atteinte ?
 Ah ! leur pouvoir se joue avec trop de rigueur
 Des tendresses de notre cœur :
 Pour m'ôter leur présent, leur fallait-il attendre
@@ -975,18 +996,18 @@ Voici l'instant fatal de m'arracher de toi :
 Mais comment prononcer ce mot épouvantable ?
 Il le faut toutefois, le Ciel m'en fait la loi,
 Une rigueur inévitable
-730M'oblige à te laisser en ce funeste lieu.
+M'oblige à te laisser en ce funeste lieu.
 Adieu : je vais… Adieu.
 
 **** *book_ *id_II02 *act_II *date_1671 *creator_moliere
 
 -*who_psyche
-Suivez le Roi, mes sœurs, vous essuierez ses larmes,
+Suivez le Roi, mes Sœurs, vous essuierez ses larmes,
 Vous adoucirez ses douleurs,
 Et vous l'accableriez d'alarmes,
 Si vous vous exposiez encore à mes malheurs.
 Conservez-lui ce qui lui reste,
-Le serpent que j'attends peut vous être funeste,
+Le Serpent que j'attends peut vous être funeste,
 Vous envelopper dans mon sort,
 Et me porter en vous une seconde mort.
 Le Ciel m'a seule condamnée
@@ -1010,6 +1031,16 @@ Ou vous accompagner jusques au monument.
 -*who_psyche
 Que peut-on se promettre après un tel Oracle ?
 
+-*who_aglaure
+Un Oracle jamais n'est sans obscurité,
+On l'entend d'autant moins que mieux on croit l'entendre,
+Et peut-être après tout n'en devez-vous attendre
+Que gloire, et que félicité.
+Laissez-nous voir, ma Soeur, par une digne issue,
+Cette frayeur mortelle heureusement déçue,
+Ou mourir du moins avec vous,
+Si le Ciel à nos voeux ne se montre plus doux.
+
 -*who_psyche
 Ma Sœur, écoutez mieux la voix de la Nature,
 Qui vous appelle auprès du Roi.
@@ -1021,7 +1052,7 @@ Vous lui devez chacune un Gendre, et des Neveux,
 Mille Rois à l'envi vous gardent leur tendresse,
 Mille Rois à l'envi vous offriront leurs vœux :
 L'Oracle me veut seule, et seule aussi je veux
-770Mourir, si je puis, sans faiblesse,
+Mourir, si je puis, sans faiblesse,
 Ou ne vous avoir pas pour témoins toutes deux
 De ce que malgré moi la Nature m'en laisse.
 
@@ -1043,7 +1074,7 @@ Et que notre amitié sincère
 En dépit de l'Oracle et malgré vous espère.
 
 -*who_psyche
-Adieu. C'est un espoir, ma sœur, et des souhaits,
+Adieu. C'est un espoir, ma Sœur, et des souhaits,
 Qu'aucun des Dieux ne remplira jamais.
 
 **** *book_ *id_II03 *act_II *date_1671 *creator_moliere
@@ -1070,7 +1101,7 @@ Pour n'avoir à leurs vœux rendu que de l'estime ?
 Si vous m'imposiez cette loi,
 Qu'il fallût faire un choix pour ne pas vous déplaire,
 Puisque je ne pouvais le faire,
-805Que ne le faisiez-vous pour moi ?
+Que ne le faisiez-vous pour moi ?
 Que ne m'inspiriez-vous ce qu'inspire à tant d'autres
 Le mérite, l'amour, et… Mais que vois-je ici ?
 
@@ -1078,7 +1109,7 @@ Le mérite, l'amour, et… Mais que vois-je ici ?
 
 -*who_cleomene
 Deux Amis, deux Rivaux, dont l'unique souci
-Est d'exposer leurs jours pour conserver les vôtres. 810
+Est d'exposer leurs jours pour conserver les vôtres.
 
 -*who_psyche
 Puis-je vous écouter quand j'ai chassé deux Sœurs ?
@@ -1186,7 +1217,7 @@ Adieu, Princes, Adieu pour la dernière fois,
 Voyez si de mon sort vous pouvez être en doute.
 
 -*who_agenor
-Nous la perdons de vue. Allons tous deux chercher
+Nous la perdons de vue, allons tous deux chercher
 Sur le faîte de ce Rocher,
 Prince, les moyens de la suivre.
 
@@ -1196,7 +1227,7 @@ Allons-y chercher ceux de ne lui point survivre.
 **** *book_ *id_II05 *act_II *date_1671 *creator_moliere
 
 -*who_amour
-Allez mourir, Rivaux d'un dieu jaloux,
+Allez mourir, Rivaux d'un Dieu jaloux,
 Dont vous méritez le courroux,
 Pour avoir eu le cœur sensible aux mêmes charmes.
 Et toi, forge, Vulcain, mille brillants attraits
@@ -1245,7 +1276,7 @@ Et je donne aux plus fins à pouvoir en ce jour
 Vous reconnaître pour l'Amour.
 
 -*who_amour
-Aussi, ne veux-je pas qu'on puisse me connaître,
+Aussi ne veux-je pas qu'on puisse me connaître,
 Je ne veux à Psyché découvrir que mon cœur,
 Rien que les beaux transports de cette vive ardeur
 Que ses doux charmes y font naître ;
@@ -1253,6 +1284,22 @@ Et pour en exprimer l'amoureuse langueur,
 Et cacher ce que je puis être
 Aux yeux qui m'imposent des lois,
 J'ai pris la forme que tu vois.
+
+-*who_zephire
+En tout vous êtes un grand Maître,
+C'est ici que je le connais.
+Sous des déguisements de diverse nature
+On a vu les Dieux amoureux
+Chercher à soulager cette douce blessure
+Que reçoivent les coeurs de vos traits pleins de feux :
+Mais en bon sens vous l'emportez sur eux,
+Et voila la bonne figure
+Pour avoir un succès heureux,
+Prêt de l'aimable Sexe où l'on porte ses voeux.
+Oui, de ces formes-là l'assistance est bien forte,
+Et sans parler ni de rang, ni d'esprit,
+Qui peut trouver moyen d'être fait de la sorte,
+Ne soupir guère à crédit.
 
 -*who_amour
 J'ai résolu, mon cher Zéphire,
@@ -1263,8 +1310,26 @@ Il est temps de sortir de cette longue enfance
 Qui fatigue ma patience,
 Il est temps désormais que je devienne grand.
 
+-*who_zephire
+Fort bien, vous ne pouvez mieux faire,
+Et vous entrez dans un mystère
+Qui ne demande rien d'enfant.
+
 -*who_amour
 Ce changement sans doute irritera ma Mère.
+
+-*who_zephire
+Je prévois là-dessus quelque peu de colère.
+Bien que les disputes des ans
+Ne doivent point régner parmi des Immortelles,
+Votre Mère Vénus est de l'humeur des belles
+Qui n'aiment point de grands enfants.
+Mais où je la trouve outragée,
+C'est dans le procédé que l'on vous voit tenir,
+Et c'est l'avoir étrangement vengée,
+Que d'aimer la Beauté qu'elle voulait punir.
+Cette haine où ses voeux prétendent que répondent
+La puissance d'un Fils que redoutent les Dieux…
 
 -*who_amour
 Laissons cela, Zéphire, et me dis si tes yeux
@@ -1274,6 +1339,14 @@ Qui puisse lui ravir le titre glorieux
 De beauté sans seconde ?
 Mais je la vois, mon cher Zéphire,
 Qui demeure surprise à l'éclat de ces lieux.
+
+-*who_zephire
+Vous pouvez vous montrer pour finir son martyre,
+Lui découvrir son destin glorieux,
+Et vous dire entre vous tout ce que peuvent dire
+Les soupirs, la bouche, et les yeux.
+En Confident discret je sais ce qu'il faut faire
+Pour ne pas interrompre un amoureux mystère.
 
 **** *book_ *id_III02 *act_III *date_1671 *creator_moliere
 
@@ -1296,7 +1369,7 @@ De mon Destin jaloux les rigueurs sans pareilles,
 Veut-il montrer qu'il s'en repent ?
 Non, non, c'est de sa haine, en cruautés féconde,
 Le plus noir, le plus rude trait,
-Qui, par une rigueur nouvelle et sans seconde,
+Qui par une rigueur nouvelle et sans seconde
 N'étale ce choix qu'elle a fait
 De ce qu'a de plus beau le monde,
 Qu'afin que je le quitte avec plus de regret.
@@ -1347,7 +1420,7 @@ Dont tout le cœur craindrait la guérison !
 Laissent évanouir l'image du trépas,
 Et que je sens couler dans mes veines glacées
 Un je ne sais quel feu que je ne connais pas.
-J'ai senti de l'estime et de la complaisance,
+J'ai senti de l'estime, et de la complaisance,
 De l'amitié, de la reconnaissance,
 De la compassion les chagrins innocents
 M'en ont fait sentir la puissance,
@@ -1376,7 +1449,7 @@ Et cependant c'est moi qui vous le dis.
 Vous avez eu, Psyché, l'âme toujours si dure,
 Qu'il ne faut pas vous étonner,
 Si pour en réparer l'injure
-L'amour en ce moment se paye avec usure
+L'Amour en ce moment se paye avec usure
 De ceux qu'elle a dû lui donner.
 Ce moment est venu qu'il faut que votre bouche
 Exhale des soupirs si longtemps retenus,
@@ -1411,15 +1484,15 @@ Ce n'est point moi qui parle, et de votre présence
 L'empire surprenant, l'aimable violence,
 Dès que je veux parler, s'empare de ma voix.
 C'est en vain qu'en secret ma pudeur s'en offense,
-Que le sexe et la bienséance
+Que le Sexe et la bienséance
 Osent me faire d'autres lois ;
-Vos yeux de ma réponse eux-mêmes font le choix,
+Vos yeux, de ma réponse eux-mêmes font le choix,
 Et ma bouche asservie à leur toute-puissance
 Ne me consulte plus sur ce que je me dois.
 
 -*who_amour
 Croyez, belle Psyché, croyez ce qu'ils vous disent,
-Ces yeux qui ne sont point jaloux,
+Ces yeux, qui ne sont point jaloux,
 Qu'à l'envi les vôtres m'instruisent
 De tout ce qui se passe en vous.
 Croyez-en ce cœur qui soupire,
@@ -1508,7 +1581,7 @@ Et quand de tels soucis osent vous en distraire…
 Des tendresses du sang peut-on être jaloux ?
 
 -*who_amour
-Je le suis, ma Psyché, de toute la nature.
+Je le suis, ma Psyché, de toute la Nature.
 Les rayons du Soleil vous baisent trop souvent,
 Vos cheveux souffrent trop les caresses du Vent,
 Dès qu'il les flatte, j'en murmure :
@@ -1664,7 +1737,7 @@ Et de ses volontés une amoureuse étude
 Les cherche jusque dans ses yeux.
 Mille beautés s'empressent autour d'elle,
 Et semblent dire à nos regards jaloux,
-Quels que soient nos attraits, elle est encore plus belle
+Quels que soient nos attraits, elle est encore plus belle,
 Et nous qui la servons, le sommes plus que vous.
 Elle prononce, on exécute,
 Aucun ne s'en défend, aucun ne s'en rebute :
@@ -1703,7 +1776,7 @@ Qui se captive sous ses lois.
 Quand nous pourrions choisir entre tous les Monarques,
 En est-il un de tant de Rois
 Qui porte de si nobles marques ?
-Se voir du bien par -delà ses souhaits,
+Se voir du bien par-delà ses souhaits,
 N'est souvent qu'un bonheur qui fait des misérables :
 Il n'est ni train pompeux, ni superbes Palais,
 Qui n'ouvrent quelque porte à des maux incurables ;
@@ -1742,7 +1815,7 @@ Je vous en parle ainsi faute de le connaître.
 Vous ignorez son nom, et ceux dont il tient l'être,
 Nos esprits en sont alarmés :
 Je le tiens un grand Prince, et d'un pouvoir suprême
-Bien au -delà du Diadème,
+Bien au-delà du Diadème,
 Ses trésors sous vos pas confusément semés
 Ont de quoi faire honte à l'abondance même,
 Vous l'aimez autant qu'il vous aime,
@@ -1773,7 +1846,7 @@ Pour grand que soit l'éclat dont brille ce visage,
 Il en peut être ailleurs d'aussi belles que vous.
 Si, dis-je, un autre objet sous d'autres lois l'engage,
 Si dans l'état où je vous vois,
-Seule en ses mains, et sans défense,
+Seule en ses mains et sans défense,
 Il va jusqu'à la violence,
 Sur qui vous vengera le Roi
 Ou de ce changement, ou de cette insolence ?
@@ -1824,7 +1897,7 @@ Nous allons lui conter d'un changement si doux
 La surprenante et merveilleuse histoire.
 
 -*who_psyche
-Ne l'inquiétez point, ma sœur, de vos soupçons,
+Ne l'inquiétez point, ma Sœur, de vos soupçons,
 Et quand vous lui peindrez un si charmant Empire…
 
 -*who_aglaure

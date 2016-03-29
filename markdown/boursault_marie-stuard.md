@@ -1461,7 +1461,7 @@ Et ledit sieur Boursault a cedé au sieur J. Guignard le droit qu'il a au presen
  – EURIC,Lieutenant des Gardes d'Elisabeth.
  – GARDES.
 La Scene est à Londres.
-
+ 
 
 
 ## ACTE PREMIER.
@@ -1515,7 +1515,7 @@ Déja de cent bien faits j'ay perdu la memoire ;
 Et lors qu'on est ingrat, ne sçavez-vous pas bien  
 Que les autres forfaits ne coutent presque rien ?  
 Quelqu'un vient : C'est le Duc. Soit qu'il aime ou conspire  
-Allez prester l'oreille à ce qu'il va me dire.  
+Allez prester l'oreille à ce qu'il va me dire.   
 
 
 ### SCENE II
@@ -1736,7 +1736,7 @@ Le condamne...
     LE COMTE DE NEUCASTEL
         Seigneur, je croy le voir paroistre :  
 Laissez-moy de son coeur penetrer les secrets.  
-Pour remplir vos desirs je vous suivray de prés [153].  
+Pour remplir vos desirs je vous suivray de prés [153].   
 
 
 ### SCENE III
@@ -1880,7 +1880,7 @@ Quel Prince dans l'Europe a le même aventage ?
 Mais l'Ecosse, Seigneur, n'est pas vostre heritage.  
 Le Roy, vostre Neveu, quoy que jeune & soumis...  
 
-    LE COMTE DE MORRAY
+    LE COMTE DE MORRAY 
 Et si je perds la mere auray-je soin du fils ?  
 Je luy laisse le jour tant qu'il m'est necessaire ;  
 Mais enfin, ce fut moy qui m'immolay son pere :  
@@ -1942,10 +1942,10 @@ De quelque part qu'il vienne écartons le danger.
 Allons trouver la Reine, & luy faisons entendre  
 Qu'il faut executer l'Arrest qu'elle a fait rendre.  
 La nature outragée a beau s'en émouvoir,  
-Sa voix est impuissante où parle mon devoir.  < Fin du premier Acte. >
+Sa voix est impuissante où parle mon devoir.  < Fin du premier Acte. > 
 
 
-## **ACTE II**
+## ACTE II
 
 
 ### SCENE PREMIERE
@@ -2189,7 +2189,7 @@ Madame, pardonnez si j'ay crû que sa foy...
 
     ELISABETH
 Voicy le Duc. Euric, demeurez avec moy.  
-Ma vie aux mains d'un Traistre est trop mal asseurée.  
+Ma vie aux mains d'un Traistre est trop mal asseurée.   
 
 
 ### SCENE III
@@ -2249,7 +2249,7 @@ Je vous fais aprés moy le premier en tout lieu.
 Meritez mes bienfaits par vostre zele. Adieu.  
 En sortant.
 
-Le Perfide est contraint, ma presence le gesne⁎.  
+Le Perfide est contraint, ma presence le gesne⁎.   
 
 
 ### SCENE IV
@@ -2281,7 +2281,7 @@ D' Ecossois genereux une Troupe intrepide [178]
 Doit servir à sa Reine & d'escorte & de guide.  
 Ces momens fortunez ne se retrouvent pas.  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC 
 De la Reine captive allez haster les pas.  
 Je vous attends.  
 
@@ -2310,7 +2310,7 @@ Parlez, Euric.
 Touché de la frayeur dont son ame est atteinte,  
 Je devance ses pas pour dissiper sa crainte.  
 Un peu d'émotion meslée à ses attraits  
-Vous la va faire voir plus belle que jamais.  
+Vous la va faire voir plus belle que jamais.   
 
 
 ### SCENE VIII
@@ -2333,7 +2333,7 @@ Profitons du secours que nous offre la nuit.
 Sortons, Madame...O Ciel ! d'où vient un si grand bruit ?  
 
     MARIE STUARD
-Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.  
+Quelle disgrace⁎ ! Ah Duc, vostre perte est certaine.   
 
 
 ### SCENE IX
@@ -2361,7 +2361,7 @@ Elisabeth, Marie Stuard, le Duc de Norfolc, Lancastre, Killegre, Euric, gardes.
 Quel desordre, si tard, ose-t-on faire icy ?  
 C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !  
 
-    MARIE STUARD
+    MARIE STUARD 
 Qui, moy, vostre ennemie ! Eh, Madame...  
 
     ELISABETH
@@ -2424,7 +2424,7 @@ Et les Comtes ?
 
     ELISABETH
 Pour immoler le Duc je veux m'asseurer d'eux.  
-Ils ont pour ce Perfide une haine mortelle [183].  
+Ils ont pour ce Perfide une haine mortelle [183].   
 
 
 ### SCENE II
@@ -2564,7 +2564,7 @@ L'Echaffaut qui t'attend & le Trône où je suis.
 Quelle indigne Beauté vient de te rendre traistre !  
 Proscrite, abandonnée...  
 
-    LE DUC DE NORFOLC
+    LE DUC DE NORFOLC 
         Et devroit-elle l'estre ?  
 Quel spectacle à nos yeux allez-vous étaller,  
 Madame ? Et que de droits faites-vous violer ?  
@@ -2849,7 +2849,7 @@ Je croyois estre seur en cherchant à vous plaire,
 Que mon zele tout seul m'obligeoit à le faire ;  
 Et j'ignorois, Madame, en prenant ce party,  
 L'amour le plus puissant qu'on ait jamais senty.  
-Tout pur qu'est cet amour mes desirs ne prétendent...  
+Tout pur qu'est cet amour mes desirs ne prétendent...   
 
 
 ### SCENE V
@@ -2884,10 +2884,10 @@ Vous affranchir de maux & vous combler de biens.
 Puisse du juste Ciel la sagesse profonde  
 Qui vous oste avant moy des miseres du monde ,  
 Pour remplir mon attente, & mes voeux les plus doux,  
-M'appeller [198] à la mort un moment aprés vous.  < Fin du troisième Acte. >
+M'appeller [198] à la mort un moment aprés vous.  < Fin du troisième Acte. > 
 
 
-## **ACTE IV**
+## ACTE IV
 
 
 ### SCENE PREMIERE
@@ -2936,7 +2936,7 @@ Dans un lieu plus tranquile accompagnez mes pas.
 Sa presence est pour moy pire que le trépas.  
 
     LE COMTE DE NEUCASTEL
-O Ciel ! à quelle honte aujourd'huy je m'expose !  
+O Ciel ! à quelle honte aujourd'huy je m'expose !   
 
 
 ### SCENE II
@@ -2994,7 +2994,7 @@ Sans estre signalé par un double trépas.
 J'ay déja fait...  
 
     LE COMTE DE NEUCASTEL
-        Seigneur, je voy venir la Reine.  
+        Seigneur, je voy venir la Reine.   
 
 
 ### SCENE III
@@ -3238,7 +3238,7 @@ Rien ne m'est impossible, où je voy de la gloire.
 Que vous me commandiez pour éprouver ma foy  
 Rien d'indigne de vous, ny d'indigne de moy.) [225]  
 
-    ELISABETH
+    ELISABETH 
 Les Pairs, dont l'Equité s'est acquis tant d'estime,  
 Eux, qui dans aucun rang n'autorisent le crime,  
 Pour rendre à l'Angleterre un plus tranquile sort  
@@ -3269,7 +3269,7 @@ L'Ingrat qu'elle a charmé gardera son amour.
 Dût sa Teste en tombant armer toute la terre  
 Pour venir à grands pas fondre sur l'Angleterre,  
 Comte de Neucastel, ne me revoyez pas  
-Que vous n'ayez esté témoin de son trépas.  
+Que vous n'ayez esté témoin de son trépas.   
 
 
 ### SCENE VI
@@ -3308,7 +3308,7 @@ D'aller secretement immoler mon Rival.
 Que la Reine en courroux tonne, éclate, foudroye,  
 Il faut que de ma haine il devienne la proye ;  
 Et dût-elle sur moy le vanger aujourd'huy,  
-Je mourray sans regret si je meurs aprés luy [230].  < Fin du quatrieme Acte. >
+Je mourray sans regret si je meurs aprés luy [230].  < Fin du quatrieme Acte. > 
 
 
 ## ACTE V
@@ -3722,7 +3722,7 @@ Il sort.
 
 
     ELISABETH
-        Qu'on le suive, & que l'on m'en réponde.  
+        Qu'on le suive, & que l'on m'en réponde.   
 
 
 ### SCENE VI

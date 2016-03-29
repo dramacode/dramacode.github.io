@@ -983,7 +983,7 @@ Hon, hon ; voici un Homme plus fou que nous ne pensons.
 Mon Père et ma Mère n'ont jamais voulu de remèdes, et ils sont morts tous deux sans l'assistance des Médecins.
 
     LE MÉDECIN
-Je ne m'étonne pas s'ils ont engendré un Fils qui est insensé. Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accoisons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
+Je ne m'étonne pas s'ils ont engendré un Fils qui est insensé. Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accroissons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
 
 
 ## Scène IX

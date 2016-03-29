@@ -2962,7 +2962,7 @@ Il vous y faut resoudre
 Qu'à ce que nous dirons vous vous conformerez,  
 Et que vous garderez nos volontez dernières.  
 
-    SILEINE.
+    SILEINE. 
 Parlant à Palinice
 
 Ne serez vous jamais moins sourde à mes prières ?  

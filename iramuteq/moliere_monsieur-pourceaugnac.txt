@@ -922,7 +922,7 @@ Mon Père et ma Mère n'ont jamais voulu de remèdes, et ils sont morts tous deu
 
 -*who_medecin1
 Je ne m'étonne pas s'ils ont engendré un Fils qui est insensé.
-Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accoisons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
+Allons, procédons à la curation, et par la douceur exhilarante de l'harmonie, adoucissons, lénifions, et accroissons l'aigreur de ses esprits, que je vois prêts à s'enflammer.
 
 **** *book_ *id_I09 *act_I *date_1669 *creator_moliere
 

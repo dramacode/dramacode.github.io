@@ -2504,7 +2504,7 @@ Quel indice avez vous qui marque mon offence ?
 -*who_leandre
 J'en ay plus d'une preuve et plus d'une apparence ;
 Mais pour n'en faire pas un importun recit :
-Consultez ce billet, et voyez ce qu'il dit.
+Consultez ce billet, et voyez ce qu'il dit. 
 Vous demeurez confus.
 
 -*who_filemon

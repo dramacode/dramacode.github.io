@@ -21,7 +21,7 @@ Le très-humble, et très obeissant
 
 Serviteur, BOYER.
 
-**** *book_ *id_body-301 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-301 *act_ *date_1660 *creator_boyer 
 
 -*who_marcellin
 Si pres de cet Hymen qui vous donnant Camille,
@@ -276,7 +276,7 @@ Acquitez vous au moins des soins⁎de ma vengeance ;
 Federic vient, adieu ; sçachez, Seigneur, de luy
 Ce que me doit un Roy qui se fait mon appuy.
 
-**** *book_ *id_body-303 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-303 *act_ *date_1660 *creator_boyer 
 
 -*who_yoland
 Hé bien, cher Federic, qu'avez-vous à me dire ?
@@ -381,7 +381,7 @@ Haste donc ce beau jour, et sçache …
       Quoy, Madame.
 Quel trouble …
 
--*who_yoland
+-*who_yoland 
       Ignore encor le secret de mon ame.
 
 -*who_federic
@@ -669,7 +669,7 @@ Le Roy neglige trop l'interest d'une Reyne ;
 Et vous sçaurez bien-tost, vous reposant sur moy,
 Que ma parole icy vaut bien celle d'un Roy.
 
-**** *book_ *id_body-403 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1660 *creator_boyer 
 
 -*who_camille
 Tu vois qu'à mon party, dans un sort si contraire,
@@ -813,7 +813,7 @@ Assez chere à vos yeux pour craindre mon absence ?
 Flater⁎d'un air si doux celle qu'on veut venger,
 Fabrice, c'est sçavoir doublement l'obliger.
 
--*who_fabrice
+-*who_fabrice 
 Avec moins de bonté recevez cette plainte ;
 A des vœux⁎ plus hardis imposez plus de crainte ;
 Reprimez leur audace, et ne m'arrachez pas
@@ -849,7 +849,7 @@ Et songez, pour en prendre un peu plus de courage,
 Que l'amour de Fabrice est heureux en ce poinct,
 Qu'une Reyne le sçait, et n'en murmure point.
 
-**** *book_ *id_body-405 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-405 *act_ *date_1660 *creator_boyer 
 
 -*who_fabrice
 O Miracle d'amour, que l'Amour n'ose croire!
@@ -879,7 +879,7 @@ Vous pretendez sans doute un plus grand avantage.
 -*who_fabrice
 Moy, je ne prétens rien.
 
--*who_valere
+-*who_valere 
       Vous faites le discret ;
 Et sous cet air modeste on triomphe en secret.
 
@@ -996,7 +996,7 @@ Vous permet de manquer de respect à Valere,
 Considerez son rang, sa gloire, et son appuy.
 Mais quel ressentiment vous aigrit contre luy ?
 
--*who_fabrice
+-*who_fabrice 
 Seigneur, je reconnois le bonheur de Valere.
 Mais quand j'ay vostre aveu⁎, quand j'ay celuy d'un Pere,
 Est-ce avec ce secours manquer à mon devoir,
@@ -1102,7 +1102,7 @@ Que ne se resout-il à faire son devoir ?
 Madame, est-ce y manquer, quand son grand cœur l'entraine
 Au glorieux espoir d'acquerir une Reyne ?
 
--*who_yoland
+-*who_yoland 
 Je souffre à ce grand cœur le desir de regner ;
 Mais ce cœur à l'Amour se peut laisser gagner ;
 Il peut aimer Camille, et souffrir dans son ame,
@@ -1182,7 +1182,7 @@ Que ne préfere-t'elle un Trône à son amour ?
 -*who_marcellin
 Mais puis que ce secret s'en va paroistre au jour …
 
--*who_federic
+-*who_federic 
 Il n'est pas encor temps ; et l'ingrate Princesse
 Me devoit consulter plustost que sa tendresse.
 
@@ -1327,7 +1327,7 @@ Ah! je voy bien qu'il sçait que la Princesse l'aime.
 -*who_federic
 Hé bien, mon Fils, le Ciel a changé vostre sort.
 
--*who_valere
+-*who_valere 
 Vous le pouvez juger,Seigneur, à mon transport.
 Le cœur comblé de joye, et de reconnoissance,
 Je viens mettre à vos pieds toute mon esperance.
@@ -1367,7 +1367,7 @@ C'est le sens du billet ; voy son amour extréme.
 -*who_valere
 Le Roy me rend Camille, achevez mon bonheur.
 
--*who_federic
+-*who_federic 
 L'apparence le trompe, achevons son erreur.
 Puis que le Roy le veut, aime, espere Camille.
 Oüy, mon Fils ; et c'est peu d'estre grand en Sicile,
@@ -1398,7 +1398,7 @@ Plus je sens le péril d'un espoir temeraire.
 Mais le Roy vient. Allons embrasser ses genoux,
 Et réverer la main qui m'offre un bien si doux.
 
-**** *book_ *id_body-506 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-506 *act_ *date_1660 *creator_boyer 
 
 -*who_marcellin
 Federic m'a promis d'en éclaircir Valere.
@@ -1472,7 +1472,7 @@ Dois-je croire mon Pere, et ma temerité ?
 N'est-ce point me flater⁎ d'un espoir inutile,
 De pretendre au bonheur d'estre aimé de Camille ?
 
--*who_yoland
+-*who_yoland 
 Quoy, vous aimez Camille ?
 
 -*who_valere
@@ -1516,7 +1516,7 @@ Pour vous plaire, Seigneur, que faut-il que je fasse ?
 -*who_yoland
 Renoncer à Camille, et meriter ma grace.
 
--*who_valere
+-*who_valere 
 Aimez-vous la Beauté dont mes yeux sont charmez⁎?
 
 -*who_yoland
@@ -1554,7 +1554,7 @@ Voy quel est de mon sort l'injurieux caprice ;
 Ce billet que j'ay crû me rendre un bon office,
 Authorise Valere à trahir mon espoir.
 
--*who_marcellin
+-*who_marcellin 
 Pour l'entendre sçait-il tout ce qu'il faut sçavoir ?
 Peut-estre Federic cache encor ce mystere.
 
@@ -1627,7 +1627,7 @@ De ne se flater⁎pas d'une indigne victoire :
 Je rougirois pour vous, si Valere aujourd'huy
 Vous faisoit foiblement descendre jusqu'à luy.
 
--*who_camille
+-*who_camille 
 Vous prenez trop de soins⁎, et leur excés m'étonne⁎;
 J'ay crû qu'ils se bornoient au bien de ma Couronne
 Mais à ce que je voy cette nouvelle ardeur
@@ -1668,7 +1668,7 @@ Mais il est temps enfin qu'elle se fasse voir.
 -*who_yoland
 Elle se fera voir trop tost pour vostre gloire.
 
--*who_camille
+-*who_camille 
 Si vous la secondez à m'oster ma victoire,
 J'ay du moins la douceur de rendre un Roy jaloux.
 
@@ -1800,7 +1800,7 @@ Pensez-vous qu'il le soit aussi de me l'oster ?
 Et vous, dont la bonté trop sensible à ma peine …
 Mais je la voy venir.
 
-**** *book_ *id_body-604 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-604 *act_ *date_1660 *creator_boyer 
 
 -*who_fabrice
       Vous voyez, grande Reyne,
@@ -1829,7 +1829,7 @@ Mais mon cœur s'en defend, et je viens vous l'aprendre.
 Ces bizarres transports, cette inégalité⁎,
 M'asseurent mal d'un feu dont j'ay tousjours douté.
 
--*who_fabrice
+-*who_fabrice 
 Ah! c'est trop me flater⁎ dans ma trop juste crainte ;
 L'amour de ce grand Roy ne vient point de la feinte ;
 Et c'est trop de bonté, de vouloir à mes feux
@@ -2072,7 +2072,7 @@ Quand il peut s'épargner la honte de le dire ;
 Et qu'enfin ton aveu⁎ soulage ma pudeur
 De l'indigne soucy d'expliquer mon ardeur.
 
-**** *book_ *id_body-609 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-609 *act_ *date_1660 *creator_boyer 
 
 -*who_valere
 Madame, triomphez sur l'espoir qui vous flate⁎;
@@ -2106,7 +2106,7 @@ J'en prens … mais mon respect⁎ me condamne au silence.
 Parlez, parlez, Valere, et me faites sçavoir
 Si Camille tousjours est vostre unique espoir.
 
--*who_valere
+-*who_valere 
 A la faveur d'un Roy je préferois Camille ;
 Mais quand je vous connois, ce choix est bien facile :
 Me pardonnerez vous l'ingrate ambition
@@ -2278,7 +2278,7 @@ Si pres d'un grand combat ayant besoin d'un Maistre …
 Il en usera bien, estant digne de l'estre.
 Va, dis luy de ma part que je plains son malheur.
 
-**** *book_ *id_body-702 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1660 *creator_boyer 
 
 -*who_camille
 Helas! je sens le mien avec plus de douleur.
@@ -2371,7 +2371,7 @@ Que vous faut-il encor apres cette asseurance ?
 Mais il paroist, Madame, et vous allez sçavoir
 Tout ce qu'ont fait pour vous son zele et son devoir.
 
-**** *book_ *id_body-704 *act_ *date_1660 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1660 *creator_boyer 
 
 -*who_camille
 Par quels remercimens faut-il que je m'acquitte ?
@@ -2441,7 +2441,7 @@ C'est de leur politique un grossier artifice,
 Qui pour mettre à couvert de lâches revoltez,
 Contre vostre pouvoir cherchent ces seuretez.
 
--*who_camille
+-*who_camille 
 Vostre haute vertu⁎ se fait par tout connaistre ;
 Mais souffrez ( car enfin vous en estes le Maistre)
 Que puis qu'à vos Estats il faut donner un Roy,
@@ -2519,7 +2519,7 @@ Me pardonnerez-vous …
 -*who_camille
       Oublions tout, Madame.
 
--*who_yoland
+-*who_yoland 
 Vous me voyez encor sous ce déguisement ;
 Honteuse de souffrir un triste changement,
 Je me cache à moy-méme …
@@ -2563,7 +2563,7 @@ O Ciel!
 -*who_yoland
       Quoy ? Federic.
 
--*who_federic
+-*who_federic 
       Ne croyez pas, Madame,
 Que trop ambitieux, j'aspire à vostre flame.
 Si je l'avois esté, mon rang et mon employ,

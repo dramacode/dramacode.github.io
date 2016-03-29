@@ -203,7 +203,7 @@ Sont des amusemens indignes d'un Romain :
 Je sçay le peu d'attraits dont le ciel m'a pourveuë ;
 Et le sort m'a laissé du sens⁎ & de la veuë.
 
--*who_torquatus
+-*who_torquatus 
 Quoy⁎ tousjours opposer cette extréme froideur,
 Aux sinceres effets⁎ de ma bouïllante ardeur⁎ ?
 Vous doutez de mes feux⁎, adorable⁎ insensible,
@@ -291,7 +291,7 @@ Que si je vous retrouve encore inexorable,
 A la face du Ciel avant la fin du jour,
 Torquatus vengera sa gloire & son amour.
 
-**** *book_ *id_body-304 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-304 *act_ *date_1662 *creator_villedieu 
 
 -*who_omphale
 Voila pour me charmer un aymable langage,
@@ -344,7 +344,7 @@ Le voicy qui s'avance.
 -*who_omphale
                   En croiray-je mes yeux ?
 
-**** *book_ *id_body-305 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-305 *act_ *date_1662 *creator_villedieu 
 
 -*who_manlius
 Croyez-en vostre cœur, s'il vous en parle mieux,
@@ -428,7 +428,7 @@ Si j'avois moins de peur, j'aurois moins de tendresse,
 Et mon superbe⁎ cœur par l'amour enflâmé
 N'auroit jamais tremblé, s'il n'avoit point aimé.
 
--*who_manlius
+-*who_manlius 
 Apres un tel discours qui pourroit me détruire ?
 Mortels audacieux, conspirez pour me nuire,
 Empruntez s'il se peut, pour avancer ma mort,
@@ -446,7 +446,7 @@ Il attend ce devoir avec impatience,
 Sans craindre aucun peril, je cours m'en acquiter,
 Un Amant⁎ fortuné⁎ n'a rien à redouter.
 
-**** *book_ *id_body-306 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-306 *act_ *date_1662 *creator_villedieu 
 
 -*who_omphale
 Ha ! que tu connois mal le destin qui t'accable,
@@ -711,7 +711,7 @@ C'est mal prendre mon temps pour un tel entretien :
 Voyez si dans ce camp, il ne se passe rien :
 Je vous suy.
 
-**** *book_ *id_body-405 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-405 *act_ *date_1662 *creator_villedieu 
 
 -*who_torquatus
 Quel sujet dans ce lieu vous ameine ?
@@ -829,7 +829,7 @@ Devenir d'un forfait la cause ou le complice,
 Monter à ce haut rang par une lâcheté,
 Torquatus à ce prix seroit trop achepté.
 
--*who_camille
+-*who_camille 
 Mais aussi par ce prix vous rachetez l'Epire.
 
 -*who_omphale
@@ -934,7 +934,7 @@ Pour un jeune vainqueur la vie a des appas⁎,
 Offrons luy du secours embrassons sa deffence
 Tâchons de l'irriter : Le voicy qui s'avance.
 
-**** *book_ *id_body-502 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-502 *act_ *date_1662 *creator_villedieu 
 
 -*who_camille
 J'ay sçeu jeune Heros qu'un outrageant mépris,
@@ -1092,7 +1092,7 @@ Sous le tranchant mortel du couteau qui s'apreste,
 Vostre seule injustice a merité la mort,
 Et je vous abandonne aux cruautez⁎ du sort.
 
-**** *book_ *id_body-503 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-503 *act_ *date_1662 *creator_villedieu 
 
 -*who_manlius
 O Sort vrayement cruel ! ô funeste⁎ avanture !
@@ -1135,7 +1135,7 @@ Mais les Dieux attendris du tourment qui te presse⁎
 Font exprés dans ce lieu rencontrer ta Princesse ;
 R'anime en la voyant ton espoir abbatu.
 
-**** *book_ *id_body-504 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-504 *act_ *date_1662 *creator_villedieu 
 
 -*who_manlius
 Ah, Madame, venez soûtenir ma Vertu
@@ -1194,7 +1194,7 @@ Souvenez-vous sur tout que la gloire⁎ m'est chere ;
 Et que de quelques traits dont je sente les coups,
 La gloire⁎ & mon devoir me touchent plus que vous.
 
--*who_manlius
+-*who_manlius 
 Achevez, achevez, dites aussi Madame,
 Que l'amour du Consul, soûmet enfin vostre ame ;
 Que ce rang eminent, ces titres glorieux⁎,
@@ -1285,7 +1285,7 @@ Crois⁎ mon cœur, Manlius, si tu ne croy⁎ ma bouche,
 S'il pouvoit sans témoins s'exprimer dans ce lieu,
 Que ne diroit-il point ? aime, & te sauve. Adieu.
 
-**** *book_ *id_body-505 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-505 *act_ *date_1662 *creator_villedieu 
 
 -*who_manlius
 Aime & te sauve, helas ! dans un sort si contraire,
@@ -1458,7 +1458,7 @@ Et Decius merite un plus grand successeur.
 Cesse donc de penser, qu'aux biens que tu hazardes⁎
 Je prenne d'interest⁎…
 
-**** *book_ *id_body-603 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-603 *act_ *date_1662 *creator_villedieu 
 
 -*who_junius
                   Manlius a des gardes ;
@@ -1678,7 +1678,7 @@ La vie ou le trépas de quelqu'un des Romains ?
 Depuis quand, juste Ciel, une foible captive
 Donne t'elle des loix qu'il faut que Rome suive ?
 
--*who_torquatus
+-*who_torquatus 
 Depuis que de vos yeux le pouvoir souverain
 Est reconnu pour tel par un Consul Romain,
 Ouy, Madame, vos traits en touchant un seul homme,
@@ -1762,7 +1762,7 @@ Et du reste ?
 -*who_omphale
               Seigneur, je voudrois y réver⁎.
 
--*who_torquatus
+-*who_torquatus 
 Ha ! c'est trop écouter tant de discours frivoles⁎,
 Je ne me repais point de ces vaines⁎ paroles.
 Hola, Gardes.
@@ -1827,7 +1827,7 @@ Gardes, retirez-vous.
 -*who_torquatus
 Tâchons sans estre veu, d'écouter leurs discours.
 
-**** *book_ *id_body-703 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-703 *act_ *date_1662 *creator_villedieu 
 
 -*who_omphale
 Que de trouble je sens ! ah ! Seigneur.
@@ -1918,7 +1918,7 @@ Quel Arrest ! ha ! Seigneur.
 Helas, si la pitié toucha jamais vostre ame,
 Ordonnez donc, Seigneur, que je suive son sort.
 
--*who_torquatus
+-*who_torquatus 
 Gardes, encore un coup, qu'on le traîne à la mort.
 
 -*who_pison
@@ -1982,7 +1982,7 @@ Vont meriter, cruel, toute cette vengeance.
 -*who_torquatus
 Quand un peu de raison viendra vous secourir…
 
-**** *book_ *id_body-704 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-704 *act_ *date_1662 *creator_villedieu 
 
 -*who_camille
 Ha, Consul ! ah, Cruel ! ton fils va donc perir !
@@ -1992,7 +1992,7 @@ Apres avoir commis un si grand attentat⁎,
 Tu ne crains ny remors, ny honte, ny Senat :
 Ton ame apres ce coup n'est donc point alarmée⁎ ?
 
-**** *book_ *id_body-705 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-705 *act_ *date_1662 *creator_villedieu 
 
 -*who_junius
 Seigneur, il seroit bon de veiller sur l'armée ;
@@ -2002,7 +2002,7 @@ Contre vostre rigueur tout le monde déteste :
 Je crains de cét Arrest une suitte funeste⁎ ;
 Il s'éleve par tout un murmure⁎ confus.
 
-**** *book_ *id_body-706 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-706 *act_ *date_1662 *creator_villedieu 
 
 -*who_torquatus
 Voicy Pison. Mon fils ?
@@ -2024,7 +2024,7 @@ Ce poignard…
 -*who_pison
               Arrestez, Madame, il n'est pas mort.
 
--*who_torquatus
+-*who_torquatus 
 Manlius n'est pas mort ? hé quel bras temeraire⁎
 A pû le dérober à ma juste colere ?
 
@@ -2067,7 +2067,7 @@ Que la punition de leur temerité,
 Servira d'un exemple à la posterité.
 Qu'on me suive.
 
-**** *book_ *id_body-707 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_body-707 *act_ *date_1662 *creator_villedieu 
 
 -*who_manlius
               Seigneur…..
@@ -2142,7 +2142,7 @@ Je puis vous élever au but de vos souhaits,
 Ou je seray deceu⁎ dans ma juste esperance,
 Ou bien tost vostre Hymen⁎ lavera mon offence.
 
--*who_manlius
+-*who_manlius 
 Ah, mon Pere, ah, Seigneur, ay-je bien entendu ?
 
 -*who_torquatus

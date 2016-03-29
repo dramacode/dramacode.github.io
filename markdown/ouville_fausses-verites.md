@@ -803,7 +803,7 @@ huictiesme Janvier 1643.
  – LISIS.Serviteur de Tomire.
  – 
 La SCENE est à Paris.
-
+ 
 
 
 ## ACTE I.
@@ -847,7 +847,7 @@ Que vous estes la sœur de son Amy Leandre,
 Quand vous luy deffendrez [109] je le tiens si discret,  
 Qu'il ne voudra pour rien reveler ce secret.  
 
-    FLORIMONDE.
+    FLORIMONDE. 
 Tu ne sçais pas encor, & c'est ce qui m'afflige  
 Jusqu'à quel point d'honneur [110] l'amitié nous oblige.  
 C'est un lien trop fort, je sçay que Lidamant  
@@ -903,7 +903,7 @@ Que je viens de dehors.
         Quelqu'un vient pour le voir  
 Il entre j'oy du bruit.  
 
-    FLORIMONDE.
+    FLORIMONDE. 
         Dieux j'estois attrapée,  
 C'est Lidamant sans doute, ou je suis bien trompée.  
 Cette porte respond dans son appartement  
@@ -929,7 +929,7 @@ Voyant que mon esprit s'esgare à tout propos [114],
 Mais vous libre d'humeur quel suject vous oblige,  
 D'estre si matinal ?  
 
-    LIDAMANT.
+    LIDAMANT. 
         Un tourment qui m'afflige  
 Une rare beauté me met en tel soucy  
 Que je n'en puis dormir [115].  
@@ -1011,7 +1011,7 @@ Et tenez pour certain quoy qu'elle dissimule,
 Puis que vous tesmoignez qu'elle a l'esprit jaloux,  
 Qu'elle est sans doute en peine encore plus que vous.  
 
-    LEANDRE.
+    LEANDRE. 
 Je ne crois en cecy que ce que j'en doy faire [122],  
 Parlez à vostre tour, contez moy vostre histoire.  
 
@@ -1037,7 +1037,7 @@ Et vous doy taire aussy tout ce qu'elle me dit,
 Car un homme est trop vain, & merite du blame,  
 De vanter [124] les faveurs⁎ qu'il reçoit d'une Dame [125].  
 
-    NERINE *bas à Florimonde.*
+    NERINE *bas à Florimonde.* 
 Madame, c'est de nous qu'il parle asseurement.  
 
     FLORIMONDE *bas.*
@@ -1065,7 +1065,7 @@ A mon œil curieux c'est finement soustraitte.
     LEANDRE.
 Comment en cette rue.  
 
-    LIDAMANT.
+    LIDAMANT. 
         Ouy tout proche d'icy.  
 
     LEANDRE.
@@ -1093,7 +1093,7 @@ Nous pourrons escouter le reste une autre fois,
 Vous me permetrez bien de parler avec elle,  
 Sans doute elle m'apporte une heureuse nouvelle.  
 
-    FLORIMONDE *bas.*
+    FLORIMONDE *bas.* 
 Femme qui que tu sois, que tu viens à propos,  
 Mais un Ange plustost [129] venu pour mon repos. [130]  
 
@@ -1185,7 +1185,7 @@ Va, marche, je te suis.
 
     JULIE.
         Il faut bien peu d'adresse,  
-Pour tromper un amant espris d'une maistresse [139].  
+Pour tromper un amant espris d'une maistresse [139].   
 
 
 ### Scene V.
@@ -1210,7 +1210,7 @@ Mais il faut sans manquer que ce soit au jourd'huy.
     NERINE.
 Le moyen de le voir, & de parler à luy ?  
 
-    FLORIMONDE.
+    FLORIMONDE. 
 Amour m'en fournira je vay voir Orazie,  
 Qui peut sur ce suject seconder mon envie,  
 Je sçay bien qu'elle m'aime, il faut au pis aller  
@@ -1236,7 +1236,7 @@ Sans t'en vanter ingrat, & sans en faire gloire ?
 Ma Julie as tu veu cét infidelle Amant !  
 
 
-### Scene VII.
+### Scene VII. 
 Julie, Leandre, Orazie.
 
 
@@ -1263,7 +1263,7 @@ Et j'auray le plaisir du moins qu'il me la face [144].
 Pourveu que je le voye & soumis, & rendu,  
 Je croiray tout gagner quoy que j'aie tout perdu [145].  
 
-    JULIE *à la porte avec Leandre.*
+    JULIE *à la porte avec Leandre.* 
 Elle est seulle au logis l'occasion est belle.  
 
     LEANDRE.
@@ -1437,7 +1437,7 @@ Si jamais.
         Taisez vous, je sçay bien le contraire,  
 On entre j'oy du bruit.  
 
-    JULIE.
+    JULIE. 
         He Dieux ! c'est vostre Pere.  
 
     ORAZIE.
@@ -1445,7 +1445,7 @@ Va Julie ouvre luy par l'autre appartement
 Qui respond sur la ruë, Adieu parfaict Amant.  
 Allez voir ce Soleil qui chasse la nuict sombre  
 Pres duquel je ne suis qu'une estoille & qu'une ombre.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1475,7 +1475,7 @@ Vous direz que de vous j'use trop librement.
 Vous avez tout pouvoir, parlez moy franchement.  
 Mais seyons nous devant⁎.  
 
-    FLORIMONDE.
+    FLORIMONDE. 
         Oyez doncques Madame,  
 Je vous veux descouvrir tout ce que j'ay dans l'ame  
 Vous estes genereuse, & je puis que je croy⁎  
@@ -1588,7 +1588,7 @@ Sortant par cette porte, il ne le peut surprendre,
 Dieux ! j'ay bien plus de peur encore de Leandre,  
 Elle ne sçait pas tout.  
 
-    FLORIMONDE.
+    FLORIMONDE. 
         Parlez moy franchement,  
 
     ORASIE.
@@ -1623,7 +1623,7 @@ Où vous estes Maistresse. Adieu ma Dame.
 
 ### Scene III.
 Nerine, Lidamant, Florimonde,
-
+ 
 
     NERINE.
 Voicy cette maison que vous brusliez d'envie  
@@ -1676,7 +1676,7 @@ J'entreprinse [172] jamais sur son affection,
 Vous pensez Lidamant que je sois sa Maistresse,  
 Mais vous vous trompez fort.  
 
-    LIDAMANT.
+    LIDAMANT. 
         Mais donc par quelle adresse  
 Avez vous peu sçavoir que je loge chez luy ?  
 Mon nom, mes qualitez ? & tout ce qu'aujourd'huy  
@@ -1730,7 +1730,7 @@ Que feray-je Madame ?
     FLORIMONDE.
         Ah Lidamant Adieu.  
 
-    JULIE *le metant dans une Chambre.*
+    JULIE *le metant dans une Chambre.* 
 Entrez, & vous cachez promptement en ce lieu.  
 
     LIDAMANT* se cachant.*
@@ -1753,7 +1753,7 @@ Voyés qu'on nous surprend & mesme sur le fait.
 Eust on jamais pensé !  
 
     ORASIE.
-        Je voudrois estre morte.  
+        Je voudrois estre morte.   
 
 
 ### Scene VI.
@@ -1783,7 +1783,7 @@ Quelle confusion.
 Vous m'obligez Monsieur plus que je ne merite.  
 Adieu belle Orasie, il faut que je vous quitte.  
 
-    ORASIE* bas à Florimonde.*
+    ORASIE* bas à Florimonde.* 
 Quoy je patiray [176] donc pour la faute d'autruy ?  
 Laissant ce Cavalier, que ferai-je de luy ?  
 
@@ -1809,7 +1809,7 @@ Faites moy cét honneur, ne me refusez point.
 
     FLORIMONDE.
 Puis que vous desirez m'obliger à ce point,  
-J'accepte cét honneur.  
+J'accepte cét honneur.   
 
 
 ### Scene VII.
@@ -1833,7 +1833,7 @@ Ouvre luy je m'en vay, Dieux de crainte je tremble [177].
 
     JULIE *ouvre & dit bas.*
 C'est Leandre, Madame, ah Dieux tout est perdu,  
-Il entre.  
+Il entre.   
 
 
 ### Scene VIII.
@@ -1922,7 +1922,7 @@ Et je veux en effect m'esclarcir sur ce point.
     ORASIE *l'empeschant d'entrer.*
 N'entrez pas.  
 
-    LEANDRE,
+    LEANDRE, 
         Desloyalle est ce ainsi qu'on me traitte ?  
 
     ORAZIE *bas.*
@@ -1955,7 +1955,7 @@ Je dissimuleray cette offence cogneue.
 
 ### Scene IX.
 Tomire, Orasie, Leandre, Julie,
-
+ 
 
     TOMIRE.
 Quoy ! Leandre ?  
@@ -1982,7 +1982,7 @@ Ils s'entresaluent, & Leandre sort.
         Ma fille allons là-haut.  
 Je veux parler à vous.  
 
-    ORASIE *bas.*
+    ORASIE *bas.* 
         Ah Dieux le cœur me faut [184].  
 Mais que veut-il de moy ? Que ce discours m'estonne  
 Endurons constamment [185] puis que le Ciel l'ordonne.  
@@ -2004,11 +2004,11 @@ Endurons cét affront Amour puis qu'il te plaist
 Et que tu veux ainsi t'opposer à ma joye.  
 Escartons nous, il faut aujourd'huy que je voye,  
 S'il est vray que le sort qu'on fait capricieux  
-Se plaist de seconder les cœurs audacieux.  
+Se plaist de seconder les cœurs audacieux.   
 
 
 ### Scene XI.
-JULIE LIDAMANT.
+JULIE, LIDAMANT.
 
 
     JULIE *seule.*
@@ -2037,7 +2037,7 @@ Sortons d'icy.
     LIDAMANT.
         Je vous en conjure.  
 
-    JULIE *bas.*
+    JULIE *bas.* 
 Qu'il sorte seulement, quand il sera dehors  
 Qu'il arrive en la rue apres dix mille morts [188].  
 
@@ -2100,7 +2100,7 @@ Me faire cette injure ?
         Mesme à mes yeux !  
 Quoy ne m'estonner pas de vous voir si coupable ?  
 
-    ORASIE *bas.*
+    ORASIE *bas.* 
 Que dois-je devenir.  
 
     LEANDRE.
@@ -2132,7 +2132,7 @@ Lasche & meschant esprit, que voulez vous de moy ?
     ORASIE.
 Je veux que vous n'ayez nul doute de ma foy.  
 
-    LEANDRE *se promenant.*
+    LEANDRE *se promenant.* 
 Non vous ne m'avez fait jamais aucune injure.  
 J'ay veu chez vous un homme ? oh l'estrange imposture,  
 J'ay grand tort d'accuser vostre fidelité,  
@@ -2159,7 +2159,7 @@ Ouy j'atteste les Dieux,
     ORASIE.
 Si je ments que les Dieux punissent mon blaspheme.  
 
-    LEANDRE.
+    LEANDRE. 
 Infidelle avez vous encor assez de front  
 De vous justifier apres un tel affront.  
 Quoy tout ce que j'ay veu n'est-il pas infaillible,  
@@ -2218,7 +2218,7 @@ Vous ne me causerez jamais aucun soucy.
     ORASIE *le retenant.*
 Non, non, je ne veux pas que vous partiez ainsi.  
 
-    LEANDRE.
+    LEANDRE. 
 J'atteste tous les Dieux à qui je rends hommage  
 Que si vous me pressez encore davantage,  
 Je vous perdray Madame, & que j'obligeray  
@@ -2246,7 +2246,7 @@ Va va, perfide ingrat, va si tu fuis de moy,
 Je sçay bien les moyens de te trouver chez toy.  
 Florimonde faut-il que pour t'avoir servie  
 Je perde en mesme temps & l'honneur & la vie ?  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III.
@@ -2359,7 +2359,7 @@ Femme qui que tu sois avec ton artifice,
 Et tes precautions que le Ciel te benisse.  
 Va je te dis adieu, je vay t'abandonner.  
 
-    FABRICE *rentre.*
+    FABRICE *rentre.* 
 Vostre habit est tout prest, on me le va donner,  
 J'ay dit que nous montons à cheval dans une heure.  
 
@@ -2412,7 +2412,7 @@ Et l'empescher aussi de m'arracher la vie,
 Et d'emporter un cœur que l'ingrat m'a volé.  
 Atten moy.  
 Elle sort.
-
+ 
 
 
 ### Scene III.
@@ -2500,7 +2500,7 @@ Vous vous desesperez & je ne sçay pourquoy.
 Leandre est mon Amy, vous estes avec moy  
 De quoy vous fachez vous.  
 
-    FLORIMONDE.
+    FLORIMONDE. 
         Que je suis miserable,  
 Mais puis que le malheur de tous costez m'accable,  
 Et qu'il faut succomber à la fin au tourment,  
@@ -2529,7 +2529,7 @@ Leandre, Lidamant, Fabrice & Florimonde cachée.
     LIDAMANT.
 Leandre, qu'avez vous ?  
 
-    LEANDRE.
+    LEANDRE. 
         Un excez de tourment,  
 Une gesne, une rage, un despit si sensible  
 Que de vous l'exprimer il ne m'est pas possible,  
@@ -2560,7 +2560,7 @@ Cher amy, qu'aussy tost qu'une ame en est saisie
 C'est le plus grand malheur qu'on puisse recevoir,  
 Qu'il vaut mieux la donner cent fois que de l'avoir.  
 
-    LIDAMANT.
+    LIDAMANT. 
 Mais en si peu de temps, comment vous a peu naistre  
 Ce soubçon si facheux que vous faites paroistre ?  
 Sans doute il l'a [215] suivie, & ce soubçon je croy,  
@@ -2586,7 +2586,7 @@ J'ay veu l'ombre d'un homme,
         Ah grands Dieux je proteste  
 Que voila de tout point, ce qui m'est survenu.  
 
-    LEANDRE.
+    LEANDRE. 
 Ah cher Amy, pourquoy me suis-je retenu ?  
 Et pourquoy le respect, & d'elle & de son pere  
 Ont ils en ce besoin fait calmer ma colere ?  
@@ -2632,7 +2632,7 @@ Que me conseillez vous ?
     Oubliez.  
 
     LEANDRE.
-        Je ne puis.  
+        Je ne puis.   
 
 
 ### Scene V.
@@ -2686,7 +2686,7 @@ Changeons, changeons d'avis je ne veux plus partir,
 Mon doute est esclarcy, rien ne m'y peut contraindre,  
 Et je n'ay plus icy desormais rien à craindre.  
 Sa maistresse est icy, l'autre donc ne l'est pas.  
-Laissons les, descendons & j'attendray là-bas.  
+Laissons les, descendons & j'attendray là-bas.   
 
 
 ### Scene VI.
@@ -2781,7 +2781,7 @@ Me voila bien sçavant, je suis fort satisfait.
 La satisfaction la plus grande en effect  
 Est de n'en rien sçavoir [221].  
 
-    LEANDRE.
+    LEANDRE. 
         Je rougis de sa honte [222].  
 Le beau resonnement, l'excuse à vostre conte  
 Est en ce que j'ignore, où je ne comprens rien,  
@@ -2842,7 +2842,7 @@ Dont les attraits⁎ communs me causent peu de peine [226].
 Tenez pour verité, mais verité certaine,  
 Que je ne sçai qui c'est j'en atteste les Dieux.  
 
-    ORASIE.
+    ORASIE. 
 Ne jurez point Leandre, & desmentez mes yeux.  
 Vous le sçavez tres bien, C'est Iris je l'ay veuë,  
 Et croyez qu'en passant je l'ay bien recognue.  
@@ -2868,7 +2868,7 @@ Que mon bien soit douteux, & mon mal asseuré [228] ?
 Je ne sçay ce que c'est, je vous en ay juré  
 Par là vous vous sauvez de vostre perfidie ?  
 
-    ORASIE.
+    ORASIE. 
 Ce que je dis est vray, suffit que je le die,  
 Je suis plus veritable en ce point là que vous.  
 
@@ -2896,7 +2896,7 @@ Vous le sçavez tres bien, car vous l'alliez nommer.
 Adieu, perfide, adieu, n'osez pas presumer  
 Que jamais je vous parle, ou que je vous regarde.  
 
-    LEANDRE.
+    LEANDRE. 
 Prenez garde Orasie.  
 
     ORASIE.
@@ -2926,7 +2926,7 @@ Ne viens-je pas de voir une femme en ce lieu ?
 Je vais à la Campagne, Adieu perfide, Adieu,  
 Ne vous attendez pas de me voir de ma vie.  
 
-    LEANDRE.
+    LEANDRE. 
 Apres ce que j'ay veu j'en ay fort peu d'envie.  
 Allés vous promener aveque ce rival,  
 A qui ce fer icy bien tost sera fatal,  
@@ -2936,7 +2936,7 @@ A qui par mille endroits je feray vomir l'ame [231].
 Et moy j'arracheray les yeux à cette infame.  
 Ils s'en vont l'un par un costé & l'autre par l'autre.
 
-Fin du troisiesme Acte.
+Fin du troisiesme Acte. 
 
 
 ## ACTE IV.
@@ -2993,7 +2993,7 @@ Quelqu'un entre,
     Voyez [234].  
 
     NERINE.
-        C'est Monsieur vostre frere,  
+        C'est Monsieur vostre frere,   
 
 
 ### Scene II.
@@ -3023,7 +3023,7 @@ Un homme qu'elle avoit dans sa chambre enfermé.
     FLORIMONDE.
 Est-il possible ô Dieux.  
 
-    LEANDRE.
+    LEANDRE. 
         Lors de rage enflamé  
 Je sors hors de sa Chambre & l'attends à la ruë,  
 Mais il ne paroist point, Orasie est venue,  
@@ -3248,7 +3248,7 @@ Faites de mesme icy.
         Toy pren garde Julie  
 De luy bien obeyr.  
 
-    JULIE.
+    JULIE. 
         Je n'y manqueray pas.  
 
     FLORIMONDE.
@@ -3278,7 +3278,7 @@ A sept livres huit sols, en memoire du temps
 Que je vous ay servy, qui sont pres de cinq ans  
 Moins quatre mois, six jours.  
 
-    LIDAMANT.
+    LIDAMANT. 
         Qui [247] t'oblige à ce faire ?  
 
     FABRICE.
@@ -3337,7 +3337,7 @@ Qui c'est ? je le sçay bien moy,
     LIDAMANT,
 Que ne le dis tu donc ?  
 
-    FABRICE.
+    FABRICE. 
         C'est quelque Creature  
 Qui par inventions cherche de vous tromper,  
 Croyez que les plus fins s'y laissent attraper.  
@@ -3396,7 +3396,7 @@ Vous n'irez point tout seul si vous me voulez croire.
 
     LIDAMANT.
 Sçaurois-je estre en peril lors que je suis en gloire [250] ?  
-Je ne puis là-dedans, estre qu'asseurement [251].  
+Je ne puis là-dedans, estre qu'asseurement [251].   
 
 
 ### Scene VI.
@@ -3456,7 +3456,7 @@ Toy, va-t'en au logis.
         Non, je n'en veux rien faire,  
 Je les suivray tous deux leur deusse-je desplaire;  
 Mais de peur d'estre veu, je les suivray de loing,  
-Je ne desire pas leur manquer au besoing [253].  
+Je ne desire pas leur manquer au besoing [253].   
 
 
 ### Scene VII.
@@ -3487,7 +3487,7 @@ Je vay voir si je puis en rencontrer quelqu'une.
 Je plains ma fille helas sçachant mon infortune  
 J'ay peur que le regret ne la face mourir.  
 
-    LISIS.
+    LISIS. 
 Ayez soin seulement de bien tost vous guerir  
 Vous serez mieux pensé [254] chez vous qu'à la Campagne.  
 
@@ -3514,7 +3514,7 @@ Ah la jambe.
     LISIS.
         Attendez, je m'en vay de ce pas  
 Au prochain Carrefour je ne tarderay pas.  
-Fin du quatriesme Acte.
+Fin du quatriesme Acte. 
 
 
 ## ACTE V.
@@ -3545,7 +3545,7 @@ De sçavoir vos secrets, ny troubler vostre Amour,
 J'attendray dans la ruë & jusqu'au poinct du jour.  
 Ouy, je veux s'il le faut toute la nuit attendre.  
 
-    LIDAMANT.
+    LIDAMANT. 
 Ce seroit abuser de vous, mon cher Leandre,  
 
     LEANDRE.
@@ -3575,7 +3575,7 @@ Il s'approche.
     LIDAMANT.
 J'oy du bruit.  
 
-    LEANDRE
+    LEANDRE 
     Qui va là ?  
 
     FABRICE.
@@ -3612,7 +3612,7 @@ Que fais tu là ?
     FABRICE.
     Je viens.  
 
-    LEANDRE.
+    LEANDRE. 
         Retourne t'en maraut  
 Ou je te,  
 
@@ -3645,7 +3645,7 @@ A t'elle un pere ?
         Quoy ! c'est cette maison,  
 Où l'on vous a tenu pres d'une heure en prison ?  
 
-    LIDAMANT.
+    LIDAMANT. 
 C'est la mesme maison & la mesme personne.  
 
     LEANDRE.
@@ -3675,7 +3675,7 @@ Asseurement c'est là.
     LEANDRE.
         Cela ne peut pas estre.  
 
-    LIDAMANT.
+    LIDAMANT. 
 Voila, je le sçay bien, sa porte & sa fenestre,  
 Ne passez pas plus outre, Amy demeurez-là,  
 Je m'en vais apeler.  
@@ -3705,7 +3705,7 @@ Ouy c'est la mesme.
 Car nous estions ensemble, il n'en faut point douter,  
 Et que l'autre qui vint [261]  
 
-    LIDAMANT.
+    LIDAMANT. 
         Je ne puis escouter.  
 
     LEANDRE.
@@ -3744,7 +3744,7 @@ Devant⁎.
     LIDAMANT.
     Je ne le puis.  
 
-    LEANDRE *bas*.
+    LEANDRE *bas*. 
         Ah perfide Julie,  
 Si c'est.  
 
@@ -3767,7 +3767,7 @@ Me voila.
         Entrez donc promptement  
 
     LIDAMANT *en entrant*.
-Nous nous verrons apres.  
+Nous nous verrons apres.   
 
 
 ### Scene II.
@@ -3825,7 +3825,7 @@ Tomire, Julie, Leandre, Lidamant, Florimonde, Fabrice.
     TOMIRE *derriere le Theatre.*
 Ouvrez Julie, ouvrez.  
 
-    JULIE *derriere le Theatre.*
+    JULIE *derriere le Theatre.* 
         Grands Dieux je desespere,  
 C'est Monsieur.  
 
@@ -3853,7 +3853,7 @@ Puis que je suis dehors, je vous deffendray bien.
     FLORIMONDE.
 Menez moy droit chez vous, & je ne crains plus rien.  
 
-    LIDAMANT.
+    LIDAMANT. 
 Cherchons un mien amy qui m'attend à la rue.  
 
     FLORIMONDE.
@@ -3884,7 +3884,7 @@ Je suis morte autant vaut [264].
     LIDAMANT.
     Leandre.  
 
-    LEANDRE.
+    LEANDRE. 
         Me voicy,  
 
     LIDAMANT.
@@ -3916,7 +3916,7 @@ Seulle avec un valet & dans ce lieu suspect !
 Non ce seroit par trop luy manquer de respect.  
 Moy de peur d'accident⁎ je garderay la ruë,  
 Lidamant s'en va.
-
+ 
 
 
 ### Scene IV.
@@ -3947,7 +3947,7 @@ Que sera-ce de moy ?
 
     LEANDRE,
         Grands Dieux est-il possible,  
-Que vous me reservez un tourment si sensible [267] ?  
+Que vous me reservez un tourment si sensible [267] ?   
 
 
 ### Scene V.
@@ -3977,7 +3977,7 @@ Rejoignons nostre amy qui doit estre en lieu seur.
     FABRICE.
 Où diable suis-je allé ? j'estois bien las de vivre ?  
 
-    TOMIRE.
+    TOMIRE. 
 Où vas-tu traistre ? Ah Dieux, je ne le sçaurois suivre,  
 Lisis mon mal me presse & ne puis advancer.  
 
@@ -4005,7 +4005,7 @@ Si la peur ne me trompe.
     TOMIRE.
         Infame rend l'espée.  
 
-    FABRICE *presentant son espée.*
+    FABRICE *presentant son espée.* 
 Elle ne fut jamais aux combats occupée,  
 C'est trop peu de l'espée. Ah prenez mon chapeau,  
 Mon poignard, mon pourpoint [269], mes chausses [270], mon manteau,  
@@ -4035,7 +4035,7 @@ Je ne te turay pas, mais je te feray pendre,
     FABRICE.
 Il faut en quelque lieu qu'il soit l'aller chercher [272].  
 
-    TOMIRE.
+    TOMIRE. 
 Mais Lisis soustiens moy, je ne sçaurois marcher  
 Je periray plustost que l'affront m'en demeure.  
 
@@ -4043,7 +4043,7 @@ Je periray plustost que l'affront m'en demeure.
 ### Scene VI.
 Leandre, Florimonde, un valet, Orasie & Nerine, au logis de Leandre, dans l'obscurité.
 
-Leandre vient chez luy avec Florimonde qu'il tient par la main, pensant tenir Orasie, ou vre avec la clef la porte, & Orasie & Nerine, escoutent dans la Chambre de Florimonde, en obscurité.
+Leandre vient chez luy avec Florimonde qu'iltient par la main, pensant tenir Orasie, ouvre avec la clef la porte, & Orasie &Nerine, escoutent dans la Chambre de Florimonde, en obscurité.
 
 
     LEANDRE
@@ -4061,7 +4061,7 @@ Escoutons ce que c'est, j'entends du bruit icy.
 Me voila belle ingratte à la fin esclaircy ?  
 Pourriez vous soustenir.  
 
-    ORASIE* à Nerine*,
+    ORASIE* à Nerine*, 
         C'est avec une femme  
 Qu'il parle, escoutons le ?  
 
@@ -4117,7 +4117,7 @@ Je la cherche Monsieur, je m'en vay de ce pas.
 S'il l'apporte grands Dieux, que ne dira t'il pas ?  
 Voyons si je pourrois de ses mains me deffaire.  
 
-    LEANDRE.
+    LEANDRE. 
 Respondez, n'ayant rien à dire, il se faut taire.  
 
     FLORIMONDE* s'eschappe de ses mains & dit bas.*
@@ -4284,7 +4284,7 @@ Mais je la cognoist bien je sçay bien quelle elle est.
 Pardonnez chere Amy, icy mon interest,  
 Doit marcher le premier [282].  
 
-    ORASIE.
+    ORASIE. 
         Je commence à comprendre  
 L'affaire comme elle est. Escoutez moy Leandre.  
 Madame asseurez vous, que je n'oubliray rien,  
@@ -4308,7 +4308,7 @@ Tout est perdu l'on va descouvrir le mistere,
 Qui pourroit l'advertir du danger où je suis.  
 Rentrons, Dieux je retombe en un gouffre d'ennuis⁎.  
 Elle entre dans sa Chambre.
-
+ 
 
 
 ### Scene VII.
@@ -4337,7 +4337,7 @@ Nous romprons je vous jure, & nous aurons querelle.
     LEANDRE* luy monstrant Orasie.*
 Est-ce cette beauté.  
 
-    LIDAMANT.
+    LIDAMANT. 
         Non non, ce n'est point elle,  
 Gardez bien celle-là, je ne la cognoy point [283].  
 
@@ -4392,7 +4392,7 @@ Ouy qui me doit payer un si sanglant affront,
 Moderez vous un peu ne soyez pas si pront  
 Je la sers, & je doy m'armer pour sa deffense.  
 
-    LEANDRE.
+    LEANDRE. 
 Son sang, ou je mouray, lavera cette offence  
 Sçachant bien qui je suis, vous imaginez vous,  
 Qu'aucun la serve à moins que d'estre son espoux ?  
@@ -4410,11 +4410,11 @@ Ma sœur seroit heureuse, & moy trop glorieux.
 Donnez moy vostre main puis qu'il plaist à Leandre.  
 
     FLORIMONDE.
-Mon frere y consentant je ne m'en puis deffendre.  
+Mon frere y consentant je ne m'en puis deffendre.   
 
 
 ### Scene VIII.
-Tomire, Leandre, Fabrice, Lidamant, Orasie, Florimonde, Nerine, Lisis.
+Tomire, Leandre, Fabrice, Lidamant, Orasie,Florimonde, Nerine, Lisis.
 
 
     TOMIRE.
@@ -4440,7 +4440,7 @@ On m'a ravy l'honneur, & je me pourray taire [287] ?
 Si c'est pour vostre fille, il vous faut satisfaire.  
 Ce n'est point Lidamant, il espouse ma sœur.  
 
-    TOMIRE.
+    TOMIRE. 
 Qui de ma fille est donc l'infame ravisseur ?  
 
     LEANDRE.

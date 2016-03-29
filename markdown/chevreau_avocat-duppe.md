@@ -549,10 +549,10 @@ Acte V, | scène 3 | Veut prendre en mon endroit le titre d'homicide : | v. 
 *Remarque* : les points, les points virgules ainsi que certaines virgules placés en fin de réplique, pouvaient correspondre à des interruptions de réplique symbolisées aujourd'hui par les points de suspension. Nous avons relevé les vers interrompus : vers 93, 241, 553, 1171, 1401.
 
 
-# L'ADVOCAT DUPPÉ. COMEDIE.
+# L'ADVOCAT DUPPÉ. COMEDIE. 
 
 
-## **A HAUT ET PUISSANT SEIGNEUR, MESSIRE, JEAN VICOMTE DE SCUDAMORE, Ambassadeur en France, pour sa Majesté de la grande Bretagne.**
+## A HAUT ET PUISSANT SEIGNEUR, MESSIRE, JEAN VICOMTE DE SCUDAMORE, Ambassadeur en France, pour sa Majesté de la grande Bretagne.
 
 MONSEIGNEUR,
 
@@ -566,29 +566,29 @@ Le tres-humble, et tres-
 
 obeïssant serviteur,
 
-*Chevreau*.
+*Chevreau*. 
 
 
-## **AU LECTEUR.**
+## AU LECTEUR.
 
-Mon dessein n'est pas de blamer ici tous les Advocats, je ferois conscience de toucher à ceux qu'Atalante soupçonne de n'en point avoir, et ce ne seroit pas faire justice à ceux qui la demandent tous les jours. J'en ai seulement choisi un, dont les images [39] sont un peu troublées, et dont l'esprit n'a pas assez de lumiere pour se faire jour aux entreprises d'une fille. Je l'ai voulu rendre capable d'amour, afin de le disposer à des actions qui sont bien souvent de l'intelligence de cette passion, qui d'ordinaire éblouït les sens quand elle ne les peut aveugler. Cét Advocat est jeune, et par consequent les ruses du Palais ne luy ont point encore apris à éviter celles qu'on luy avoit preparées, et l'amour est un mal dont on ne treuve pas le remede dans Barthole ni dans Cujas, qui n'enseignent pas le droict qui est si necessaire pour cét effet. Il est vrai que son entreprise a reüssi dans sa fin, qui est le mariage, mais si vous considerez les moyens dont on se sert pour le dupper d'un bout à l'autre, les artifices de Flaminie, le consentement d'Atalante, l'intrigue de Mainalte, la feinte generosité de Tharzinte, et les divers mouvement où il est luy-même lors qu'il se propose de l'abandonner ; vous advoüerez qu'il s'est fait des pieges que les autres ont tendus pour le prendre, et où il tombe insensiblement. Que si vous treuvez des injures contre les Advocats dont les æquivoques necessaires ne changent pas tout à fait la force ; donnez au ressentiment d'Atalante ce que le commencement du sujet en doit exiger. Si c'est une feinte, elle est vrai semblable ; et si c'est une vérité, vous ne devez point passer plus avant. Pour la pièce, je l'ai acommodée à la nature du Poëme Comique, qui rebute en tout des vers et des sujet graves [40], pource que les uns ni les autres ne sont point de la jurisdiction, et qu'elle se treuveroit defectueuse de ce qui embellit la Tragédie. Pour ce qui est des fautes, si vous condannez à mort tous ceux qui en font, je suis en danger de ne vivre pas long-temps, si je n'obtiens ma grace de quelque autre qui les excuse, et qui connessant ma franchise et mon humeur, relachera peut-estre de sa sévérité, à dessein seulement de me donner advantage de me corriger.
+Mon dessein n'est pas de blamer ici tous les Advocats, je ferois conscience de toucher à ceux qu'Atalante soupçonne de n'en point avoir, et ce ne seroit pas faire justice à ceux qui la demandent tous les jours. J'en ai seulement choisi un, dont les images [39] sont un peu troublées, et dont l'esprit n'a pas assez de lumiere pour se faire jour aux entreprises d'une fille. Je l'ai voulu rendre capable d'amour, afin de le disposer à des actions qui sont bien souvent de l'intelligence de cette passion, qui d'ordinaire éblouït les sens quand elle ne les peut aveugler. Cét Advocat est jeune, et par consequent les ruses du Palais ne luy ont point encore apris à éviter celles qu'on luy avoit preparées, et l'amour est un mal dont on ne treuve pas le remede dans Barthole ni dans Cujas, qui n'enseignent pas le droict qui est si necessaire pour cét effet. Il est vrai que son entreprise a reüssi dans sa fin, qui est le mariage, mais si vous considerez les moyens dont on se sert pour le dupper d'un bout à l'autre, les artifices de Flaminie, le consentement d'Atalante, l'intrigue de Mainalte, la feinte generosité de Tharzinte, et les divers mouvement où il est luy-même lors qu'il se propose de l'abandonner ; vous advoüerez qu'il s'est fait des pieges que les autres ont tendus pour le prendre, et où il tombe insensiblement. Que si vous treuvez des injures contre les Advocats dont les æquivoques necessaires ne changent pas tout à fait la force ; donnez au ressentiment d'Atalante ce que le commencement du sujet en doit exiger. Si c'est une feinte, elle est vrai semblable ; et si c'est une vérité, vous ne devez point passer plus avant. Pour la pièce, je l'ai acommodée à la nature du Poëme Comique, qui rebute en tout des vers et des sujet graves [40], pource que les uns ni les autres ne sont point de la jurisdiction, et qu'elle se treuveroit defectueuse de ce qui embellit la Tragédie. Pour ce qui est des fautes, si vous condannez à mort tous ceux qui en font, je suis en danger de ne vivre pas long-temps, si je n'obtiens ma grace de quelque autre qui les excuse, et qui connessant ma franchise et mon humeur, relachera peut-estre de sa sévérité, à dessein seulement de me donner advantage de me corriger. 
 
 
-## **Privilege du Roy.**
+## Privilege du Roy.
 
 *Louis* par la grace de Dieu Roy de France et de Navarre. A nos amez et feaux les gens tenans nos Cours de Parlements, Baillifs, Seneschaux, Prevosts, Juges, ou leurs Lieutenans, et à chacun d'eux en droit soy, Salut. Nostre cher et bien aimé *Toussainct Quinet* Marchand Libraire, nous a fait remonstrer qu'il desirerait faire imprimer et mettre en lumiere une Comedie, Intitulée *L'Advocat duppé*, mais crainte que l'impression ne luy soit dommageable, si d'autres que luy s'ingeroient de le faire imprimer, il nous a sur ce requis nos Lettres necessaires. *A ces causes* nous avons permis et octroyé, permettons et octroyons audit Quinet d'imprimer, ou faire imprimer ladite Comédie par tels Imprimeurs que bon luy semblera, icelle vendre et exposer durant le temps de sept ans, pendant lequel temps nous avons fait et faisons tres-expresses inhibitions et defences à tous autres Libraires et Imprimeurs de la faire imprimer, vendre, ny debiter sur peine de perte des exemplaires, et de trois mil livres d'amende, appliquable un tiers à nous, et un tiers à l'Hostel Dieu de Paris, et l'autre tiers à l'exposant, despens dommages et interests, et afin qu'ils n'en pretendent cause d'ignorance. Nous voulons que mettant en fin des exemplaires autant des presentes, elles soient tenües pour certifiées, à la charge toutefois de mettre deux exemplaires de ladite Comedie dans nostre bibliothecque des Cordeliers à Paris, et un exemplaire és d'icelle és mains de nostre amé et feal Chevalier, Chancelier de France le Sieur Seguier. *Car* tel est nostre plaisir. *Donne à* Paris le vingt-uniesme jour d'Aoust, l'an de grace mil six cens trente-sept, Et nostre regne le 28. Par le Roy en son Conseil. *De S. Andre*, et scellé du grand seau de cire jaune.
 
 Achevé d'imprimer le dernier Septembre 1637.
 
-Lesdits exemplaires ont esté fournis.
+Lesdits exemplaires ont esté fournis. 
 
 
 ## ARGUMENT DU PREMIER ACTE.
 
-*Atalante* avec sa sœur Izidore se plaint de sa misere, que la perte d'un procez leur fait naistre en méme temps qu'elles se proposoient beaucoup de choses pour leur advancement, et dans ce ressentiment elle ne peut s'empescher de parler avec un peu de liberté des Advocats qu'elle ne pouvoit aimer pour beaucoup de considerations legitimes. Izidore neantmoins pour la consoler dans sa necessité, luy donne advis de l'amour de Polydas Advocat, qui par la seule reputation d'Atalante l'avoit tellement aymée qu'il ne pût s'empescher d'en donner advis à sa sœur Flaminie afin de la rendre confidente d'une passion si forte ; ce qu'Izidore sçachant, aidée de Philemon leur curateur, elle prend l'habit d'un Clerc, et va se presenter à Polydas, apres avoir esté asseurée qu'il en cherchoit un.
+*Atalante* avec sa sœur Izidore se plaint de sa misere, que la perte d'un procez leur fait naistre en méme temps qu'elles se proposoient beaucoup de choses pour leur advancement, et dans ce ressentiment elle ne peut s'empescher de parler avec un peu de liberté des Advocats qu'elle ne pouvoit aimer pour beaucoup de considerations legitimes. Izidore neantmoins pour la consoler dans sa necessité, luy donne advis de l'amour de Polydas Advocat, qui par la seule reputation d'Atalante l'avoit tellement aymée qu'il ne pût s'empescher d'en donner advis à sa sœur Flaminie afin de la rendre confidente d'une passion si forte ; ce qu'Izidore sçachant, aidée de Philemon leur curateur, elle prend l'habit d'un Clerc, et va se presenter à Polydas, apres avoir esté asseurée qu'il en cherchoit un. 
 
 
-## **ACTEURS.**
+## ACTEURS.
  – ATALANTE.
  – IZIDORE.Sœurs.
  – PHILEMON.Curateur d'Atalante et d'Izidore.
@@ -599,7 +599,7 @@ Lesdits exemplaires ont esté fournis.
  – THARZINTE.Amoureux d'Izidore, sous le nom de Sicandre.
  – CALLIANTE.
 La Scene est à Paris.
-
+ 
 
 
 ## ACTE PREMIER.
@@ -768,7 +768,7 @@ Où le pourray-je voir ? Qui parlera pour moy ?
 Il faut auprés de luy quelqu'un qui l'entretienne⁎,  
 Et dont la bonne humeur⁎ seconde un peu la sienne.  
 
-    ISIDORE.
+    ISIDORE. 
 Il ne me connest point, je veux m'offrir à luy,  
 Ce moyen seulement finira vostre ennuy⁎,  
 J'auray d'autres habits, tout nous sera propice,  
@@ -788,7 +788,7 @@ Il faut bien en avoir, nous l'y sçaurons contraindre,
 Pour en tirer de luy, nous n'avons qu'à nous plaindre.  
 
 
-### ACTE I. SCENE DEUXIEME.
+### ACTE I. SCENE DEUXIEME. 
 PHILEMON, ATALANTE, ISIDORE.
 
 
@@ -828,7 +828,7 @@ Que vôtre esprit un jour devra me reconêtre,
 Et qu'à present bien loing de vous estre importun  
 Je ne possede rien qui ne vous soit commun.  
 
-    ISIDORE.
+    ISIDORE. 
 Vous sçavez justement l'art de charmer nos penes⁎,  
 « Un ami se connest aux choses incertenes.  
 Je voi dans cét âvis vôtre esprit ingenu,  
@@ -852,7 +852,7 @@ Et vous serez perduë aiant perdu la honte ;
 Ainsi n'esperez plus d'avoir aucun bon-heur,  
 « Tout mal⁎ doit arriver à qui n'a plus d'honneur.  
 
-    ATALANTE.
+    ATALANTE. 
 Ah ! Monsieur, la raison finiroit mon envie,  
 J'aime bien plus l'honneur que je n'aime la vie ;  
 Je suivray le sentier que vous m'avez batu,  
@@ -921,7 +921,7 @@ Qu'aujourd'huy vos soupirs ne sont plus que de flâme⁎ ;
 L'homme est d'un naturel si sensible à nos coups  
 Qu'il ne sçaurait nous voir sans se plaindre de nous.  
 
-    POLYDAS.
+    POLYDAS. 
 Je la cheris ma sœur d'une amour [68] legitime,  
 Où l'excès est loüable et le change est un crime,  
 Le feu⁎ que j'ai pour elle est si dous et si beau  
@@ -945,7 +945,7 @@ Car des-ja vôtre amour tient de la jalousie :
 Vous l'aimez sans la voir, et pour vous mieux aider  
 Vous croiez qu'un chacun vous la doive ceder.  
 
-    POLYDAS.
+    POLYDAS. 
 S'il te falloit aimer, ah tu craindrois de même,  
 Il faut estre jalous de la chose qu'on aime,  
 N'aimer pas comme moi, c'est n'aimer rien qu'un peu.  
@@ -967,7 +967,7 @@ D'en avoir plus deux fois que leurs cœurs n'en desirent.
 Au moins je me resous à souffrir cét afront,  
 Les cornes rarement incommodent le front.  
 
-    FLAMINIE.
+    FLAMINIE. 
 Ha ! Si par une marque on les pouvoit connêtre,  
 Sans doute la plus-part auroient peur de parêtre.  
 
@@ -987,7 +987,7 @@ Et contenter mes yeux quand j'en devrois mourir.
 Vôtre mal⁎ est puissant, il faut que je l'apaise,  
 Sans doute mon esprit vous doit mettre à vôtre aise.  
 
-    POLYDAS.
+    POLYDAS. 
 Si tu me fais ce bien, je dépite le Ciel  
 De me verser jamés une goutte de fiel⁎ ;  
 Si ton invention me doit estre propice  
@@ -996,12 +996,12 @@ Et si je puis l'avoir, je serai plus ravi
 Que si tout l'Univers devoit m'estre asservi.  < FIN DU PREMIER ACTE de l’Advocat duppé de Chevreau. >
 
 
-## ARGUMENT DU DEUXIESME ACTE.
+## ARGUMENT DU DEUXIESME ACTE. 
 
 *Polydas* ayant recogneu la gentillesse d'Izidore qu'il ne cognoissoit que sous le nom de Sicandre, sans sçavoir que ce fut une fille, et ayant apris qu'Atalante répondroit de sa fidelité, va la treuver, ravi d'une ocasion si favorable. Flaminie qui ne recevoit pas moins de contentement par la veüe de Sicandre, faisoit des-ja mille chimeres, et s'assuroit d'avoir de luy tout ce qu'un honneste homme ne peut pas refuser à celles de son sexe. Cependant Mainalte frere d'Izidore et d'Atalante revenu des armées, aprend de Philemon l'intrigue de cette amour de laquelle il veut les desambarasser, et fait dessein d'interrompre toute cette entreprise, au mesme temps qu'Atalante prioit Polydas de recevoir Sicandre qui s'y 20 voyoit des-ja instalé par son industrie, par les persuasions d'Atalante, et par la courtesie de Polydas. Dans ce commerce d'amour Tharzinte et Calliante amoureux également d'Izidore, se disputent et prennent heure pour se battre afin quelle demeure au plus heureux ou au plus adroit.
 
 
-## ACTE II.
+## ACTE II. 
 POLYDAS, FLAMINIE, ISIDORE sous le nom de SICANDRE, MAINALTE, PHILEMON, THARZINTE, CALLIANTE.
 
 
@@ -1072,7 +1072,7 @@ Ouï, j'ay beaucoup d'amis qui seront mes garans,
 Et vous pourrez tantôt voir une Damoiselle  
 Qui vous assurera comme je suis fidelle.  
 
-    POLYDAS.
+    POLYDAS. 
 Son nom.  
 
     SICANDRE.
@@ -1123,7 +1123,7 @@ C'est d'elle maintenant que dépend vôtre attente.
 
     FLAMINIE.
 Si le Clerc est d'humeur à bien faire l'amour [77],  
-Nous aurons le moien de rire à nôtre tour.  
+Nous aurons le moien de rire à nôtre tour.   
 
 
 ### ACTE II. SCENE DEUXIESME.
@@ -1189,7 +1189,7 @@ Mais voila Philemon, si je suis miserable⁎
 Il me rendra bien tôt le sort⁎ plus favorable.  
 
 
-### ACTE II. SCENE TROISIESME.
+### ACTE II. SCENE TROISIESME. 
 PHILEMON, MAINALTE,
 
 
@@ -1247,7 +1247,7 @@ Ne croi pas m'abuser d'une fausse douceur,
 Je veux un compte d'or, et non pas de ma sœur [89].  
 
 
-### ACTE II. SCENE QUATRIESME.
+### ACTE II. SCENE QUATRIESME. 
 ATALANTE, POLYDAS, SICANDRE.
 
 Ils sortent de la maison d'Atalante.
@@ -1289,7 +1289,7 @@ Qu'il n'aprehende point aucune violence.
 Il a ses volontez, il en peut disposer,  
 Estant chez moi, Madame, il poura tout oser.  
 
-    ATALANTE.
+    ATALANTE. 
 Ne sois plus glorieux⁎, prens le soin de luy plêre,  
 Autrement sois certain d'êpreuver ma colêre :  
 Si tu ne te resous desormés à changer,  
@@ -1316,7 +1316,7 @@ Tantôt [92] je t'irai voir.
         Sa fortune⁎ est extrême,  
 Je voudrois estre Clerc pour estre aimé de même.  
 
-    ATALANTE.
+    ATALANTE. 
 Monsieur je n'ûs jamés d'assez dous compliment,  
 Qui suffise assez bien à ce remerciment,  
 Mais dans l'occasion je me rendrai capable  
@@ -1338,7 +1338,7 @@ Un homme est trop heureux d'en avoir une œillade,
 Et si j'ozois attendre un tel contentement,  
 Je craindrois de mourir par un ravissement.  
 
-    SICANDRE.
+    SICANDRE. 
 Monsieur il est bien vrai ; quand je me considere  
 Je me dois consoler dans ma triste misere,  
 Et de quelque disgrace, ou de quelque douleur,  
@@ -1388,7 +1388,7 @@ Allons cela suffit, ce jour m'est trop heureux,
 Sois donc autant ami que je suis amoureux⁎.  
 
 
-### ACTE II. SCENE CINQUIESME.
+### ACTE II. SCENE CINQUIESME. 
 THARZINTE, CALLIANTE.
 
 
@@ -1458,7 +1458,7 @@ Mais quoi je ne le puis, car il mourroit de peur
 Viste sans plus tarder, c'est ce que je demande,  
 Sa mort doit faire apres ma fortune⁎ assez grande.  
 
-    CALLIANTE.
+    CALLIANTE. 
 Qu'as-tu donc à resver ?  
 
     THARZINTE.
@@ -1481,7 +1481,7 @@ Sans doute la rêzon [102] t'en fera plainte un jour,
 Et je serai fachê si tu veux l'entreprendre  
 De te causer la mort en pensant me deffendre.  
 
-    THARZINTE.
+    THARZINTE. 
 Non, non, si j'ay manqué ce n'est que pour mon bien,  
 Ma devise en amour est d'estre tout, ou rien.  
 
@@ -1492,12 +1492,12 @@ Mais du moins souviens-toi que si je suis vainqueur,
 Tu cherches le poignard dont tu t'ouvres le cœur.  < FIN DU SECOND Acte. >
 
 
-## ARGUMENT DU TROISIESME ACTE.
+## ARGUMENT DU TROISIESME ACTE. 
 
 P olydas d'Advocat devient Poëte, et est rencontré par sa Sœur Flaminie, où il composoit certains vers à la loüange d'Atalante, dont il estoit extremement amoureux. Lors que Flaminie eut veu les vers, et qu'elle les eut leus, Sicandre advertit Polydas qu'Atalante estoit à la porte. Flaminie treuvant l'heure à propos parle secrettement à Sicandre, et par mille traits d'esprit lui declare à la fin sa passion. Ils prennent l'assignation [103] sur le soir dans le jardin, Mainalte venant au logis de Polydas treuve Isidore en habit de garçon, et pensant la gourmander [104] d'abord, il se voit contraint d'apreuver son invention, surtout quand il sceut le lieu où Flaminie se devoit treuver, et qu'il pouvoit prendre sa place. En luy disant adieu il 44 rencontre Calliante et Tharzinte qui se vouloient battre, et aiant apris le sujet de leur querelle, il promet Isidore à Tharzinte, voiant que l'autre manquoit de cœur. Lorsqu'il luy donne connessance de son secret, Atalante par importunité promet à Polydas de l'aller treuver le soir au jardin, ne sachant pas que Sicandre y dût aller, et ne s'imaginant pas qu'il y eut grande ⁎fortune à risquer, puis qu'elle estoit si proche de sa Sœur, dans laquelle elle avoit toûjours mis la meilleure de ses esperances.
 
 
-## ACTE III.
+## ACTE III. 
 POLYDAS, FLAMINIE, SICANDRE, MAINALTE, THARZINTE, CALLIANTE, ATALANTE.
 
 
@@ -1679,7 +1679,7 @@ Il faut le caresser en faveur d'Atalante,
 Et tacher : le voila, faisons-luy bon accueil,  
 Sa presence ma Sœur vient d'acroistre mon dueil.  
 
-    SICANDRE
+    SICANDRE 
 arrive.
 
 Quelqu'un vient maintenant de frapper à la porte.  
@@ -1704,7 +1704,7 @@ Cacherez-vous toujours le dessein qui me picque ?
 Du moins inspirez-moi quelque doux compliment,  
 Qui sans difficulté le fasse mon Amant⁎.  
 (Elle parle à Sicandre.)
-
+ 
 Mon frere est trop heureux de parler bouche à bouche  
 A l'adorable objet⁎, dont la beauté le touche.  
 Qu'en juges-tu Sicandre ? a-t'on pas du plesir  
@@ -1752,7 +1752,7 @@ A ton occasion j'en prendrai la creance [111],
 Et je m'estimerai pourveu que mon amour  
 Oblige ton esprit à me faire la cour.  
 
-    SICANDRE
+    SICANDRE 
 (Sicandre dit ceci bas.)
 
 O Ciel je n'en puis plus ! Je me voi découverte !  
@@ -1849,7 +1849,7 @@ Et je n'en puis avoir que l'habit seulement ;
 Toutefois.  
 
 
-### ACTE III. SCENE TROISIESME.
+### ACTE III. SCENE TROISIESME. 
 MAINALTE, SICANDRE.
 
 
@@ -1868,7 +1868,7 @@ Semble si doucement terminer mon desir !
 Mon frere c'est donc vous ? Quel bon sort⁎ vous envoie  
 Pour ravir mes esprits d'une parfaite joie ?  
 
-    MAINALTE.
+    MAINALTE. 
 Cessez de me surprendre, et de me caresser,  
 Je vous étouferois pensant vous embrasser.  
 Quels habits avez-vous ? et quel ordre de vivre ?  
@@ -1892,7 +1892,7 @@ Et croi que la voiant vous lui serez fidelle.
 Mettez-vous dans ma place, et fiez-vous sur moi,  
 Qu'elle ne peut manquer de vous donner sa foi⁎.  
 
-    MAINALTE.
+    MAINALTE. 
 Ma sœur si tu dis vrai, maintenant je t'advoüe  
 Que malgré ma colere il faut que je te loüe.  
 Mais est-il assuré.  
@@ -1969,7 +1969,7 @@ Qu'on estimoit jadis, cede à ta lacheté.
 Ah ! c'est trop m'ofenser, si j'etois insensible  
 Je pourois endurer un afront si visible.  
 
-    MAINALTE.
+    MAINALTE. 
 C'est trop dit ; j'y consens, aujourd'hui le vainqueur  
 Doit gaigner Isidore, et posseder son cœur.  
 
@@ -1993,7 +1993,7 @@ Et que par ce moien je cherche ton profit.
 J'aime plus un ami que toutes les richesses,  
 Et pour en avoir un je perdrois cent Maitresses.  
 
-    MAINALTE
+    MAINALTE 
 à Tharzinte.
 
 Je te donne Isidore, et je perdrai le jour  
@@ -2022,7 +2022,7 @@ Quelqu'un nous surprendroit, ta querelle est connuë
 Et tu ne devois pas te battre en pleine ruë.  
 
 
-### ACTE III. SCENE CINQUIESME.
+### ACTE III. SCENE CINQUIESME. 
 POLYDAS, ATALANTE, FLAMINIE, SICANDRE.
 
 
@@ -2052,7 +2052,7 @@ Y devons-nous entrer, parle.
     FLAMINIE.
 Je me resoudrai donc à les laisser ensemble.  
 
-    ATALANTE.
+    ATALANTE. 
 Ouï je vous le promets ; si la discretion  
 Entretient vôtre crainte, et vôtre affection.  
 
@@ -2082,12 +2082,12 @@ Je hazarde⁎ beaucoup, mais n'aiant plus de bien
 Excepté mon honneur, je ne hazarde⁎ rien.  < FIN DU TROISIESME ACTE. >
 
 
-## ARGUMENT DU QUATRIESME ACTE.
+## ARGUMENT DU QUATRIESME ACTE. 
 
 P olydas apres avoir long-temps attendu, entend du bruit et s'imaginant tenir Atalante, prend Mainalte sans le connêtre, qui croit estre trompé par sa sœur. Mainalte en sortant entend venir Flaminie, qui d'abord est prise par Polydas, lequel se voyant duppé si souvent, proteste d'avoir à l'advenir moins d'amour. Lors qu'il est encore à faire ses plaintes, Flaminie est surprise par Mainalte, qui l'emmene dans la chambre sans la voir, et Atalante arrive au lieu de l'assignation ; mais Polydas prenant Atalante pour Flaminie, la rebute par des termes assez injurieux : ce qui oblige Atalante de sortir : Polydas aiant reconnu se faute, s'en va au logis, où il treuve sa sœur avec un homme inconnu, et Sicandre avec Tharzinte. Flami- nie se voiant abusée, et croiant posseder Sicandre, aprend la cause de ce changement, et treuvant Tharzinte aussi bien fait du moins que Sicandre, apres avoir renvoié Polydas au jardin, où elle disoit qu'Atalante l'attendoit encore pour joüer la piece entiere, donne jour aux uns et aux autres de dupper son frere, et s'y porte dés l'heure avec une industrie tout à fait étrange.
 
 
-## ACTE IV.
+## ACTE IV. 
 POLYDAS, SICANDRE, MAINALTE, THARZINTE, FLAMINIE.
 
 
@@ -2151,7 +2151,7 @@ Mais je l'entens venir ; c'est à tort que j'en doute,
 « Nous devons avoüer qu'Argus [121] ne voit pas mieux.  
 
 
-### ACTE IV. SCENE DEUXIESME.
+### ACTE IV. SCENE DEUXIESME. 
 SICANDRE, MAINALTE, THARZINTE.
 
 
@@ -2171,7 +2171,7 @@ Témoignez moins d'ardeur, paressez moins sensible ;
 Ou si cela vous fâche aiez du sentiment  
 Pour soulager le mal⁎ d'un malheureux Amant⁎.  
 
-    SICANDRE.
+    SICANDRE. 
 Pourveu qu'en un moment il treuve sa fortune⁎,  
 Mon esprit est content si rien ne l'importune.  
 Allons dedans ma chambre, attendant son retour,  
@@ -2190,7 +2190,7 @@ Soient égaux pour le moins à vos plus grands desirs.
 Vous ne me parlez point ; quoi rien ne me console !  
 Lors que je pers le cœur, perdez-vous la parole ?  
 
-    MAINALTE.
+    MAINALTE. 
 Ma sœur m'en a donné.  
 
     POLYDAS.
@@ -2286,7 +2286,7 @@ Lui soit dans cette nuit plus claire que le jour ?
 Dequoi puis-je couvrir ma flame⁎ illegitime,  
 Mon indiscretion passera pour un crime.  
 
-    POLYDAS.
+    POLYDAS. 
 Et bien que voulez-vous ? suis-je point vostre Amant⁎ ?  
 Esperez-vous de moi quelque contentement ?  
 Non, je ne le croi pas ; un autre que Sicandre  
@@ -2352,7 +2352,7 @@ As-tu perdu le soin de soulager Sicandre ?
     FLAMINIE.
 Ne parlez pas si haut, mon frere.  
 
-    MAINALTE.
+    MAINALTE. 
         Je sçai tout.  
 Mais avoir un dessein sans en venir à bout.  
 
@@ -2365,7 +2365,7 @@ Et malgré Polydas, les destins, et les Parques [125],
 Je t'en rendrai bien tôt d'assez visibles marques.  
 
 
-### ACTE IV. SCENE SEPTIESME.
+### ACTE IV. SCENE SEPTIESME. 
 
     POLYDAS.
 Non, non c'est trop soufrir ; si je suis amoureux⁎  
@@ -2380,7 +2380,7 @@ O Ciel je n'en puis plus ! je me rends à mon tour,
 Il faut estre bien sot⁎ pour faire ainsi l'amour.  
 
 
-### ACTE IV. SCENE HUICTIESME.
+### ACTE IV. SCENE HUICTIESME. 
 ATALANTE, POLYDAS.
 
 
@@ -2401,7 +2401,7 @@ Troubler mon entretien⁎ c'est troubler ma fortune⁎ ;
 Adieu donc laissez-moi dans l'humeur⁎ où je suis,  
 Tant plus vous demeurés, et tant plus j'ai d'ennuis⁎.  
 
-    ATALANTE.
+    ATALANTE. 
 Quoi me traiter ainsi ! ta fourbe est découverte,  
 Mais si j'ai des amis tu dois craindre ta perte.  
 Ne m'opose plus rien afin de me changer [128],  
@@ -2448,7 +2448,7 @@ Vous n'avez maintenant qu'à vous aimer vous-même.
 Si les hommes avoient d'aussi puissans apas⁎,  
 Les filles desormais ne nous charmeroient pas.  
 
-    SICANDRE.
+    SICANDRE. 
 Mais parlons de Mainalte à qui ma Flaminie  
 Crêra devoir la fin de sa pêne⁎ infinie,  
 Ils sont à mediter des propos amoureux,      
@@ -2470,7 +2470,7 @@ en se tirant à l'écart.
 Ou quelque compliment qui fasse mon excuse.  
 
 
-### ACTE IV. SCENE DIXIESME.
+### ACTE IV. SCENE DIXIESME. 
 POLYDAS, SICANDRE, FLAMINIE, MAINALTE, THARZINTE.
 
 
@@ -2559,7 +2559,7 @@ Elle est dans le jardin.
         Non je n'ai plus d'attente,  
 Elle en vient de sortir.  
 
-    FLAMINIE.
+    FLAMINIE. 
         Elle y retourne encor.  
 
     POLYDAS
@@ -2588,7 +2588,7 @@ Madame montrez-nous vôtre ame toute nue,
 Et malgré cette ruse avoüez franchement  
 Que nous ne differons qu'en habit seulement.  
 
-    MAINALTE.
+    MAINALTE. 
 Ma sœur j'en ai trop dit.  
 
     FLAMINIE.
@@ -2637,12 +2637,12 @@ Bref nous le dupperons par cét aimable tour,
 Dont nous nous servirons pour croître son amour.  < FIN DU QUATRIESME ACTE. >
 
 
-## ARGUMENT DU CINQUIESME ACTE.
+## ARGUMENT DU CINQUIESME ACTE. 
 
 A TALANTE fachée de ce dernier affront qu'elle devoit à l'imprudence de Polydas, promet à Philemon de ne songer plus à cette amour ; et lors qu'elle va querir Isidore, elle aprend la ruse dans laquelle elle commence à jouër le premier personnage. Car Polydas revenant du jardin, où il s'estoit endormi, et protestant de nouveau de n'aimer plus Atalante eut advis de Flaminie que Tharzinte qui avoit des-ja parole d'Isidore, et Mainalte qui avoit receu la foy de Flaminie en secret, se vouloient battre pour sa maitresse. Si bien que prenant son épée entre les mains de Sicandre, et pensant defendre Atalante, il la blessa legerement, pource qu'elle s'estoit advancée. Tharzinte voiant la fourbe bien commencée, pour l'achever feint de vouloir tuer Poly-96 das avec Mianalte, qui se joint à cette entreprise. Atalante bien instruite demande sa vie qu'elle obtient et fait donner Flaminie à Mainalte, à qui Polydas croioit devoir la vie, Tharzinte qui ne vouloit qu'Isidore feignoit cependant de disputer Atalante, mais s'en estant remis au choix de cette Dame ; elle dit d'abort qu'elle estime Sicandre pour sa fidélité. Polydas se desespere en effet, et Tharzinte en apparence ; mais ce qui remet l'esprit de Polydas, et ce qui l'étonne pourtant, c'est que Sicandre se découvre ; et qu'on lui donne le choix, elle prend Tharzinte, ce qui pensa faire mourir Polydas ; en fin il épouse Atalante, dont il esperoit de grands biens, donne sa sœur, qui estoit riche à Mainalte qui estoit pauvre, voit le mariage d'Isidore et de Tharzinte, et est duppé dans le déguisement de Sicandre, dans les assignations du jardin, dans les feintes de la querelle, et dans la pluspart de ses inventions amoureuses.
 
 
-## ACTE V.
+## ACTE V. 
 ATALANTE, PHILEMON, FLAMINIE, SICANDRE, THARZINTE, MAINALTE, POLYDAS.
 
 
@@ -2659,7 +2659,7 @@ Qu'ils peuvent seulement nous donner de l'ennui⁎,
 Que nous perdons le temps, et que tant de chimeres  
 En augmentant sa gloire⁎ augmente nos miseres.  
 
-    PHILEMON.
+    PHILEMON. 
 J'ay crû qu'il n'estoit pas d'un si facile accés,  
 Et que vôtre dessein n'auroit point de succés.  
 Qui pourroit-on dupper dans le siecle où nous sommes ?  
@@ -2706,7 +2706,7 @@ J'y vais sans differer, et je suis assez pronte
 Pour treuver aujourd'hui de quoi couvrir ma honte.  
 
 
-### ACTE V. SCENE DEUXIESME.
+### ACTE V. SCENE DEUXIESME. 
 FLAMINIE, SICANDRE, THARZINTE, MAINALTE, ATALANTE.
 
 
@@ -2768,7 +2768,7 @@ Je ne viens en ce lieu qu'afin de l'en tirer.
     FLAMINIE.
 Nous voulez-vous ainsi contraindre à soûpirer.  
 
-    SICANDRE.
+    SICANDRE. 
 Tout ira bien pour vous, ma sœur soiez plus sage,  
 Et suivez mon conseil sans parler d'avantage.  
 
@@ -2785,7 +2785,7 @@ Sentons encore un coup, et voions si le sort⁎
 Nous doit faire aujourd'huy rencontrer quelque port.  
 
 
-### ACTE V. SCENE TROISIESME.
+### ACTE V. SCENE TROISIESME. 
 
     POLYDAS
 sortant du jardin.
@@ -2849,7 +2849,7 @@ Vous les avez pû voir.
 Fais- moy donc par le nom connêtre ces personnes.  
 
 
-### ACTE V. SCENE CINQUIESME ET DERNIERE.
+### ACTE V. SCENE CINQUIESME ET DERNIERE. 
 MAINALTE, THARZINTE, FLAMINIE, ATALANTE, POLYDAS, SICANDRE.
 
 
@@ -2869,7 +2869,7 @@ A toûjours esté ferme au milieu du maleur.
 Le bruit qu'on t'a donné n'est rien qu'une fumée,  
 Car je voi que l'effet cede à la renommée.  
 
-    FLAMINIE.
+    FLAMINIE. 
 Mon frere empeschons les.  
 
     POLYDAS.
@@ -2898,7 +2898,7 @@ Et s'il vous faut mourir, mourez pour cette belle.
 Je la voulois hair, mais lors que je la voi  
 Je pers ma liberté, je ne suis plus à moi.  
 
-    SICANDRE.
+    SICANDRE. 
 Donnez donc seulement.  
 
     POLYDAS.
@@ -2928,7 +2928,7 @@ tirant son épée en touche Atalante, qui se met devant lui pour continuer la fe
 
 Sicandre qu'ai-je fait ?  
 
-    ATALANTE
+    ATALANTE 
 feint d'estre blessée.
 
         O Ciel quelle rigueur !  
@@ -2961,7 +2961,7 @@ Il nous plaist de servir s'il vous plaist d'ordonner.
     ATALANTE.
 Je ne crerai jamés cette faveur petite.  
 
-    MAINALTE.
+    MAINALTE. 
 Madame esperez tout, aiant tant de merite.  
 
     POLYDAS.
@@ -2986,7 +2986,7 @@ Que ma sœur ait reduit un cœur si genereux⁎.
 Ce plesir est trop doux, mon ame est trop contente,  
 Je ne pouvois mieux choir en perdant Atalante.  
 
-    POLYDAS
+    POLYDAS 
 à Atalante.
 
 Il est vrai, tout va bien, mais consentez aussi  
@@ -3060,7 +3060,7 @@ Car son choix seulement finira la querelle.
 Puis qu'on veut m'imposer cette necessité.  
 Sicandre me ravit pour sa fidelité.  
 
-    POLYDAS.
+    POLYDAS. 
 Sicandre vous ravit ! que mon ame est confuse !  
 Juste Ciel est-ce ainsi qu'il faut qu'on me refuse !  
 
@@ -3138,7 +3138,7 @@ Que rien ne peut troubler une semblable joie.
 N'aprehendons plus rien, nous serons trop contents,  
 Et nos plêsirs iront par delà tous les temps.  
 
-    SICANDRE.
+    SICANDRE. 
 Tout nous a reüssi, nôtre fortune⁎ est belle,  
 Flaminie à propos a fait cette querelle,  
 Polydas la cajolle, elle est selon son vœu,  

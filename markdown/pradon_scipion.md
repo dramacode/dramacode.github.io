@@ -655,7 +655,7 @@ Achevé d'imprimer pour la premiere fois le premier Avril 1697.
  – BARCÉ,Confidente d'Erixene.
  – GARDES.
 La Scene est dans le Camp de Scipion, prés de Zama [207].
-
+ 
 
 
 ## ACTE I.
@@ -672,7 +672,7 @@ De vous entretenir pendant quelques momens,
 Nous sçaurons d'Annibal les secrets sentimens,  
 C'est vous qui dans ce Camp annoncez sa venuë.  
 
-    AURILCAR.
+    AURILCAR. 
 Oüy, Seigneur, Annibal souhaite une entreveuë,  
 Je viens la demander, c'est son intention  
 Que de voir aujourd'huy le fameux Scipion [209] ;  
@@ -774,7 +774,7 @@ Elle n'espere plus qu'en sa seule conduite⁎ ;
 Ne me déguisez rien sur ses nouveaux projets,  
 Je prévois, Aurilcar, qu'ils tendent à la paix.  
 
-    AURILCAR.
+    AURILCAR. 
 Vous avez penetré ce que veut sa prudence [231],  
 Une paix de Cartage est l'unique esperance ;  
 Mais, Madame, que dit, & que fait Scipion ?  
@@ -839,7 +839,7 @@ Mais quoy ? Si l'on faisoit la paix avec Cartage,
 Plût au Ciel ! que l'amour en ébauchât l'ouvrage,  
 Et du moins je voudrois pour flater⁎ ma fierté⁎,  
 Que l'heureuse Erixene eût part à ce traité [235].  
-Adieu, Scipion vient, & vous allez l'entendre.  
+Adieu, Scipion vient, & vous allez l'entendre.   
 
 
 ### SCENE III.
@@ -912,7 +912,7 @@ Je jure par les Dieux appuis du Capitole,
 Qu'il peut en seureté se fier à ma foy⁎ [240],  
 Il n'aura dans mon Camp pour ôtage que moy [241].  
 
-    AURILCAR.
+    AURILCAR. 
 Seigneur, c'en est assez.  
 
     SCIPION.
@@ -944,7 +944,7 @@ Que me vient proposer ce fameux Capitaine ?
 Dieux ! seroit-ce la paix ? mon esprit agité  
 Fremit en ce moment du seul mot de traité [246].  
 
-    LEPIDE.
+    LEPIDE. 
 S'il demande la paix, n'estes-vous pas le maître  
 D'accepter, d'imposer…  
 
@@ -982,7 +982,7 @@ La prise de Zama coûte cher à mon cœur.
 Je vous entends, Seigneur, des atteintes si vives  
 Sont de l'amour…  
 
-    SCIPION.
+    SCIPION. 
         Ecoûte, une de mes captives,  
 Je tremble seulement d'en prononcer le nom [248],  
 A soûmis, a vaincu le cœur⁎ de Scipion [249] ;  
@@ -1016,7 +1016,7 @@ Me firent vivement ressentir ma foiblesse,
 Je n'en suis plus le maître, & malgré mes efforts⁎  
 Je succombe, Lepide, à de si doux transports.  
 
-    LEPIDE.
+    LEPIDE. 
 Il est vray qu'elle est belle, & digne d'estre aimée.  
 
     SCIPION.
@@ -1097,7 +1097,7 @@ Annibal peut former, & quelle est sa conduite⁎,
 De ses desseins sans doute⁎ elle doit estre instruite ;  
 Je veux sonder son cœur, je veux estre éclaircy  
 Des secretes raisons qui l'amenent icy.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1125,7 +1125,7 @@ Ravir à Scipion une telle conqueste ;
 Il n'a rien fait encor pour me prouver sa foy⁎,  
 Je ne merite pas qu'il s'expose pour moy.  
 
-    ERMILIE.
+    ERMILIE. 
 Eh ? pouvez-vous douter que ce Prince vous aime,  
 Madame, rapellez son desespoir extrême [265],  
 Quand Zama pris d'assaut le sépara de vous [266] :  
@@ -1158,7 +1158,7 @@ Cependant aujourd'huy c'est luy seul qui m'accable,
 Il fait couler mes pleurs malgré tant de vertus⁎,  
 Et sans luy je serois unie à Lucejus.  
 
-    ERMILIE.
+    ERMILIE. 
 Madame pouvez-vous murmurer de sa chaîne ?  
 Ce Heros vous regarde & traite en souveraine,  
 Vôtre nom dans Zama seroit moins respecté,  
@@ -1183,7 +1183,7 @@ Tous deux également me donnent de l'effroy,
 S'il manque de courage est-il digne de moy ?  
 Ce penser [274] contre luy me revolte, m'indigne,  
 Et s'il manque d'amour en sera-t-il plus digne ?  
-Mais que vois-je ? est-ce luy ? grands Dieux !…  
+Mais que vois-je ? est-ce luy ? grands Dieux !…   
 
 
 ### SCENE II.
@@ -1250,7 +1250,7 @@ Tomber peut-être…
         Helas ! que mon sort⁎ sera doux  
 Si je puis…  
 
-    ISPERIE.
+    ISPERIE. 
         Non, Seigneur, gardez-vous d'entreprendre [284]  
 Si je l'ay souhaité, je dois vous le défendre ;  
 Loin de vous j'accusois vôtre trop [285] de lenteur,  
@@ -1318,7 +1318,7 @@ Vous partirez.
         Seigneur, je promets de vous suivre,  
 Et même de mourir si vous cessez de vivre.  
 (Il sort avec Celsus [292])
-
+ 
 
 
 ### SCENE III.
@@ -1340,7 +1340,7 @@ Justes Dieux ! détournez ce funeste⁎ présage !
 Inspirez Annibal pour la paix de Cartage !  
 C'est ma seule esperance en cette occasion,  
 Et sur tout portez-y le cœur de Scipion :  
-Il vient, que me veut-il ?  
+Il vient, que me veut-il ?   
 
 
 ### SCENE IV.
@@ -1373,7 +1373,7 @@ Du Prince vôtre Amant j'ay causé les malheurs,
 Et vous vous en plaignez du moins sans vous contraindre,  
 Il est d'autres malheurs dont on n'ose se plaindre.  
 
-    ISPERIE.
+    ISPERIE. 
 Seroit-il des malheurs comparables aux siens ?  
 Tout prêts à nous unir [296] par les plus beaux liens,  
 Ce jeune Prince helas ! attendoit la journée  
@@ -1526,7 +1526,7 @@ Je veux rendre un hommage éclatant à ses charmes⁎,
 Abandonnons des yeux toujours noyez de larmes,  
 Tout le veut, la raison, la gloire, l'équité,  
 Il faut par d'autres fers me mettre en liberté.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III.
@@ -1623,7 +1623,7 @@ Et moy, j'aime un ingrat [328] sans espoir d'estre aimée.
 
     BARCÉ.
 Que vôtre cœur si fier⁎ rappelle sa raison,  
-Madame, soûtenez l'éclat de vôtre nom.  
+Madame, soûtenez l'éclat de vôtre nom.   
 
 
 ### SCENE II.
@@ -1936,7 +1936,7 @@ Que faire cependant en ce desordre extrême ? [385]
 Dois-je accorder la paix & m'oublier moy-même ?  
 Dieux ! soûtenez ma gloire, & versez dans mon sein  
 Un conseil salutaire à l'Empire⁎ Romain.  
-Fin du troisiéme Acte.
+Fin du troisiéme Acte. 
 
 
 ## ACTE IV.
@@ -2083,7 +2083,7 @@ Détournez ce malheur, guidez ses pas, grands Dieux !
 Donnez à cet Amant un destin plus heureux,  
 Qu'il regagne son Camp, & qu'enfin il revienne  
 Soûtenir dignement & sa gloire & la mienne ?  
-Dieux ! Annibal paroît…  
+Dieux ! Annibal paroît…   
 
 
 ### SCENE IV.
@@ -2230,7 +2230,7 @@ De vôtre sort⁎, du mien, je vous laisse l'arbitre,
 Vous avez ou la paix, ou la guerre en vos mains,  
 Le destin de l'Afrique & celuy des Romains.  
 
-    ISPERIE.
+    ISPERIE. 
 Que dites-vous, Seigneur ? ah Ciel ! pourois-je croire [410]  
 Qu'un cœur tel que le mien meritât tant de gloire,  
 Que le sort⁎ de l'Afrique & celuy des Romains  
@@ -2328,7 +2328,7 @@ Vous en dites assez enfin pour m'offenser [426].
 Vous êtes dans mon Camp, Seigneur, je vous respecte,  
 Mais la foy⁎ de Cartage aux Romains est suspecte [427].  
 
-    ANNIBAL.
+    ANNIBAL. 
 Ah ! c'en est trop, il faut…  
 
     SCIPION.
@@ -2364,7 +2364,7 @@ Et vous, Dieux ! protecteurs du sacré Capitole,
 Il faut dans ce combat vous vanger, & j'y vole :  
 Rome, vous attendez cette grande action,  
 Qu'Annibal suive un jour le char de Scipion [432].  
-Fin du quatriéme Acte.
+Fin du quatriéme Acte. 
 
 
 ## ACTE V.
@@ -2458,7 +2458,7 @@ Ouy, trop cruel amour il faut que je te domte,
 Retournons dans Cartage ensevelir ma honte,  
 On la doit assieger, j'y finiray mes jours,  
 J'attends de Scipion ce funeste⁎ secours ;  
-Je l'aperçois, parlons.  
+Je l'aperçois, parlons.   
 
 
 ### SCENE IV.
@@ -2596,7 +2596,7 @@ Dans toutes ses horreurs [454] je cherchois ce que j'aime.
 Ne craignez plus pour luy, dissipez vôtre effroy,  
 Lucejus est vivant, & plus heureux que moy.  
 
-    ISPERIE.
+    ISPERIE. 
 Il est vivant, mais quoy vous en êtes le maître ! [455]  
 Vous pouvez disposer de son sort⁎, & peut-être  
 La haine d'un rival qui vous a combatu…  

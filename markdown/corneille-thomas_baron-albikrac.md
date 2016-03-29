@@ -560,7 +560,7 @@ Enfin, les lettres entre crochets correspondent aux changements de cahier dans l
 # LE BARON D'ALBIKRAC, COMÉDIE
 
 
-## A M. B. E. C. S [31]
+## A M. B. E. C. S [31] 
 
 Madame,
 
@@ -614,7 +614,7 @@ T. CORNEILLE.
  – LA MONTAGNE,Valet d'Oronte.
  – CASCARET,Laquais de la Tante.
 La scene est à Paris.
-
+ 
 
 
 ## ACTE I.
@@ -715,7 +715,7 @@ Qu'elle déclare…
     Adieu.  
 
 
-### SCENE III.
+### SCENE III. 
 PHILIPIN, LYSETTE.
 
 
@@ -906,7 +906,7 @@ Plus effronté qu'un Page en vain on le retient.
 Tay-toy, ne vois-tu pas que nostre Tante vient ?  
 
 
-### SCENE IV.
+### SCENE IV. 
 LA TANTE, LYSETTE, PHILIPIN.
 
 
@@ -982,7 +982,7 @@ Le Défunt vous aimoit, et chacun sçait bien comme…
 Au mal de Jaloux prés je le trouvois bon homme,  
 Mais il estoit si vieux…  
 
-    LYSETTE.
+    LYSETTE. 
         J'entens, pour reconfort  
 Vous en voulez un jeune.  
 
@@ -1069,7 +1069,7 @@ Le vouloir jeune et riche…
         Eh, pour le bien, Lysette,  
 Tu sçais que ce n'est pas…  
 
-    LYSETTE.
+    LYSETTE. 
         L'affaire vaut donc faite,  
 Le Baron d'Albikrac sera vostre vray fait.  
 
@@ -1200,7 +1200,7 @@ Voila proprement l'air d'une fille modeste,
 Mais Leandre…  
 
 
-### SCENE VII.
+### SCENE VII. 
 LA TANTE, ANGELIQUE, LEANDRE, ORONTE, LYSETTE.
 
 
@@ -1415,7 +1415,7 @@ Si j'ay quelque merite⁎, il n'est pas raisonnable
 De prétendre qu'à peine⁎ il s'en trouve un semblable,  
 Et quelqu'un que je sçay vaut tout ce que je vaux.  
 
-    LYSETTE *bas*.
+    LYSETTE *bas*. 
 Bon cela.  
 
     LEANDRE.
@@ -1456,7 +1456,7 @@ Et bien, qu'est-ce ?
     LYSETTE.
 C'est peut-estre un galant qu'elle veut emprunter.  
 
-    LA TANTE.
+    LA TANTE. 
 Qu'on la reçoive ailleurs. L'incommode personne !  
 Ah !  
 
@@ -1504,7 +1504,7 @@ Adieu, pour un moment souffrez que je vous quitte,
 Je sçauray m'en défaire, et perdray peu de temps.  
 
 
-### SCENE IX.
+### SCENE IX. 
 LEANDRE, ORONTE, LYSETTE.
 
 
@@ -1543,7 +1543,7 @@ C'est de perdre l'esprit.
         La défaite est naisve.  
 Mais nostre Niepce enfin ?  
 
-    ORONTE.
+    ORONTE. 
         Qu'elle est aimable ! Ah Dieux !  
 
     LYSETTE.
@@ -1588,7 +1588,7 @@ Mais de plus de dix jours il ne sçauroit partir.
     LYSETTE.
 Et Leandre pour rien ne voudra consentir…  
 
-    LEANDRE.
+    LEANDRE. 
 Non, mais à mon defaut employez la Montagne,  
 Qu'il fasse quelques jours le Baron de Bretagne,  
 On ne le connoit point.  
@@ -1625,7 +1625,7 @@ Peux-tu le devenir ?
     LA MONTAGNE.
         Moy, Baron ? et de reste [73].  
 
-    ORONTE.
+    ORONTE. 
 Tu connois Albikrac ?  
 
     LA MONTAGNE.
@@ -1670,7 +1670,7 @@ As-tu plus de quinze ans ?
     LYSETTE.
         Environ, Dieu mercy.  
 
-    ORONTE *à la Montagne*.
+    ORONTE *à la Montagne*. 
 Sors viste, s'il falloit qu'on te vist avec elle,  
 Tu perdrois tout.  
 
@@ -1686,7 +1686,7 @@ Jusqu'au revoir.
 Tu gemis ?  
 
     PHILIPIN.
-        Que je crains la Montagne Baron.  < Fin du premier Acte. >
+        Que je crains la Montagne Baron.  < Fin du premier Acte. > 
 
 
 ## ACTE II.
@@ -1883,7 +1883,7 @@ Non, quoy que vous fassiez, pour vaincre le soucy⁎…
 N'est-ce point déja trop que vous souffrir icy ?  
 J'en rougis, et s'il faut que ma Tante soupçonne…  
 
-    ORONTE.
+    ORONTE. 
 A ce scrupule en vain vostre esprit s'abandonne⁎,  
 Lysette y met bon ordre, et seconde mon feu,  
 Il s'agit seulement d'obtenir vostre aveu,  
@@ -1914,7 +1914,7 @@ L'amour est tel en vous que vous me le peignez,
 Je ne me defens plus.  
 
 
-### SCENE III.
+### SCENE III. 
 LA TANTE, ANGELIQUE, ORONTE.
 
 
@@ -1951,7 +1951,7 @@ Parler d'amour chez moi ! vous estes fort mignonne.
     ANGELIQUE.
 Ne croyez pas…  
 
-    LA TANTE.
+    LA TANTE. 
         Comptez [78], je vous la garde bonne [79],  
 Et si…  
 
@@ -1994,7 +1994,7 @@ Laissez, par le recit que je veux qu'elle fasse
 J'auray lieu de juger s'il faut lui faire grace.  
 Ce doit estre sa peine aprés ce qu'elle a fait.  
 
-    ORONTE *à la Tante*.
+    ORONTE *à la Tante*. 
 Vous haïssez la cause, épargnez-vous l'effet [80].  
 
     ANGELIQUE.
@@ -2064,7 +2064,7 @@ Qu'il m'en peignoit le feu si plein d'ardeur…
         Rentrez.  
 
 
-### SCENE IV.
+### SCENE IV. 
 LA TANTE, ORONTE.
 
 
@@ -2103,7 +2103,7 @@ Mais si vous faites grace à l'ardeur de mon zele,
 Souffrez que quelquefois j'en soûpire avec elle,  
 C'est tout ce que je veux pour prix d'un si beau feu.  
 
-    LA TANTE.
+    LA TANTE. 
 Il me paroist trop beau pour obtenir si peu.  
 Pour prix de vostre amour, si sa flame est constante,  
 Il vaut mieux que j'en sois la seule confidente,  
@@ -2141,7 +2141,7 @@ Je ne dis pas cela pour me faire valoir,
 Au contraire, je veux…  
 
 
-### SCENE V.
+### SCENE V. 
 LA TANTE, ANGELIQUE, ORONTE.
 
 
@@ -2180,7 +2180,7 @@ Il peut les vendre ailleurs.
 Qu'il les vende, ce soin vous rend officieuse⁎ ?  
 Si…  
 
-    ORONTE *bas*.
+    ORONTE *bas*. 
         Le friand⁎ragoust⁎ qu'une vieille amoureuse !  
 
 
@@ -2217,7 +2217,7 @@ Aprés, ne craignez rien, nous vivrons bons amis.
 Vous priver de sa veuë, et que rien m'autorise…  
 
 
-### SCENE VII.
+### SCENE VII. 
 LA TANTE, ANGELIQUE, ORONTE.
 
 
@@ -2261,7 +2261,7 @@ L'ouvrage saute aux yeux, il est égal par tout.
 Ne finirez-vous point ? que veut encor Lysette ?  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 LA TANTE, ANGELIQUE, ORONTE, LYSETTE.
 
 
@@ -2340,7 +2340,7 @@ Ma Tante !
     LA TANTE.
 Elle s'est déclarée.  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
         Ouy, pour me faire piece⁎,  
 Comme Provincial vous voulez me sonder,  
 Mais ce n'est pas à moy qu'on en baille⁎ à garder.  
@@ -2384,7 +2384,7 @@ Mais enfin.
     ANGELIQUE *bas à Lysette*.
         Est-il fou de s'estre ainsi mépris ?  
 
-    LYSETTE.
+    LYSETTE. 
 Le beau jeune Seigneur ! qu'il est bien fait !  
 
     LA MONTAGNE.
@@ -2546,7 +2546,7 @@ Suivez-nous.
         En suivant éloignons-nous un peu.  
 
     LYSETTE *à Oronte*.
-Profitez du moment, on vous donne beau jeu [101].  < Fin du Second Acte. >
+Profitez du moment, on vous donne beau jeu [101].  < Fin du Second Acte. > 
 
 
 ## ACTE III.
@@ -2579,7 +2579,7 @@ Vous passez vostre temps à ravir⁎ ?
         Justement,  
 Oronte en a tâté.  
 
-    LYSETTE.
+    LYSETTE. 
         Tres copieusement.  
 Jamais on ne souffrit de si longue torture.  
 
@@ -2624,7 +2624,7 @@ Vous l'emportez en tout de bien loin sur Oronte,
 Jamais homme à ses yeux ne parut si parfait.  
 Vous resvez⁎ ?  
 
-    LEANDRE.
+    LEANDRE. 
         Je cherchois quel grand crime j'ay fait,  
 Pour se trouver aimé d'une vieille et luy plaire,  
 Il faut avoir du moins assassiné son Pere.  
@@ -2781,7 +2781,7 @@ Et je la debitois sans doute en écolier.
     LA TANTE.
 Mais que luy trouviez-vous de plus particulier ?  
 
-    ORONTE.
+    ORONTE. 
 Qu'elle court grand hazard d'estre Religieuse,  
 Je voy de certains traits…  
 
@@ -2827,7 +2827,7 @@ Il ne s'en peut saouler.
     LEANDRE.
         Il est encor là-haut ?  
 
-    LA TANTE.
+    LA TANTE. 
 Je vay l'y retrouver.  
 
     LEANDRE.
@@ -2876,7 +2876,7 @@ Aller seule avec luy !
         Lysette vous suivra,  
 Vous estes scrupuleuse.  
 
-    ORONTE.
+    ORONTE. 
         Ah detestable Tante !  
 
 
@@ -3069,7 +3069,7 @@ bas à Lysette.
 
         Si tu sçavois, Lysette…  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
 J'ay toûjours bon espoir, et connoy ma Planete,  
 Sans rien dire pourtant je voy ce que je voy,  
 Mais patience.  
@@ -3112,7 +3112,7 @@ Je n'en puis plus.
     LA TANTE.
         Il faut moderer vostre flame.  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
 Sans cesse auprés de vous le cœur me fait tic tac.  
 Tâtez.  
 
@@ -3200,7 +3200,7 @@ Vous estes bien secret.
     LEANDRE.
 J'écoute le reproche et n'en sçay point la cause.  
 
-    LA TANTE.
+    LA TANTE. 
 Eh, j'en avois déja soupçonné quelque chose,  
 Mais mon Sexe⁎…  
 
@@ -3245,7 +3245,7 @@ Mourir plûtost cent fois d'un desespoir jaloux…
 Madame, Dieu me damne [129], il se moque de vous,  
 Je n'y pensay jamais.  
 
-    LA TANTE.
+    LA TANTE. 
         Vous le voulez bien dire,  
 Mais…  
 
@@ -3333,7 +3333,7 @@ Je ne m'étonne plus s'il a joüé d'adresse.
     LA TANTE.
 Seroit-il marié ?  
 
-    LEANDRE.
+    LEANDRE. 
     Non pas, mais…  
 
     LA TANTE.
@@ -3379,13 +3379,13 @@ La comtesse d'Uspek qu'à son tour il charma.
 De leurs amours secrets ce fruit serra la chaîne,  
 Mais au moins songez bien…  
 
-    LA TANTE.
+    LA TANTE. 
         N'en soyez point en peine,  
 Allons les retrouver, mais si vous m'aimiez ?  
 
     LEANDRE.
         Non,  
-Madame, vous sçavez que j'agis sans façon.  < Fin du troisiéme Acte. >
+Madame, vous sçavez que j'agis sans façon.  < Fin du troisiéme Acte. > 
 
 
 ## ACTE IV
@@ -3457,7 +3457,7 @@ LA TANTE, ORONTE, LYSETTE.
 Quand je fausse pour vous compagnie à tout autre,  
 Du jardin tout exprés j'ay sçeu me dérober.  
 
-    ORONTE.
+    ORONTE. 
 Aussi Lysette sçait…  
 
     LA TANTE.
@@ -3502,7 +3502,7 @@ N'estant instruit de rien je ne sçay que répondre.
     LA TANTE.
 Et bien, sçay-je la carte [139], et ce qu'on fait à Londre ?  
 
-    ORONTE.
+    ORONTE. 
 Madame…  
 
     LA TANTE.
@@ -3548,7 +3548,7 @@ Pour vous cacher mon sort, j'avois feint que Leandre…
 Je le sçay, mais d'aimer doit-on pas se défendre  
 Quand on voit que le sang nous en fait une loy ?  
 
-    ORONTE.
+    ORONTE. 
 Helas ! combien de fois aime-t'on malgré soy ?  
 Quand je m'en apperceus, si vous sçaviez, Madame,  
 Les efforts que je fis pour éteindre ma flame,  
@@ -3583,7 +3583,7 @@ Vous nous épiez donc ?
     LYSETTE.
 Quand on a des Neveux on peut les embrasser.  
 
-    ANGELIQUE.
+    ANGELIQUE. 
 Oronte est le Neveu de ma Tante ?  
 
     LYSETTE.
@@ -3632,7 +3632,7 @@ Le Cousinage n'est…
         Leandre m'a tout dit.  
 
 
-### SCENE IV
+### SCENE IV 
 LA TANTE, ORONTE, LYSETTE.
 
 
@@ -3717,7 +3717,7 @@ Lysette.
         M'en voilà pour vous toute alarmée,  
 Vous l'échaperez belle en parant celuy-cy.  
 
-    LA TANTE.
+    LA TANTE. 
 Donc pour la parenté n'ayez aucun soucy,  
 Lysette ira ce soir nous chercher un Notaire,  
 Et demain en secret… mais quoy c'est vous déplaire,  
@@ -3757,7 +3757,7 @@ Mais…
         Contre un temeraire armez vostre couroux.  
 
 
-### SCENE V.
+### SCENE V. 
 LA TANTE, ORONTE, PHILIPIN, LYSETTE.
 
 
@@ -3792,7 +3792,7 @@ Combien m'a-t'il oüy tant de nuict que de jour
 Me plaindre en vous nommant et soûpirer d'amour ?  
 Il a voulu cent fois en avertir Lysette.  
 
-    PHILIPIN.
+    PHILIPIN. 
 Vostre nom prononcé, nostre nuict estoit faite.  
 Mille doux souvenirs pour le mieux embraser  
 Luy peignoient…  
@@ -3841,7 +3841,7 @@ Mais je vous prie aussi, plus aucune visite.
     ORONTE.
 Ah Dieux !  
 
-    LA TANTE.
+    LA TANTE. 
         Jamais de vous je n'en veux recevoir.  
 
     ORONTE.
@@ -3876,7 +3876,7 @@ J'en chercheray la voye, et sorts pour y resver⁎.
 La fourbe est commencée, il la faut achever.  
 
 
-### SCENE VI.
+### SCENE VI. 
 LA TANTE, PHILIPIN, LYSETTE.
 
 
@@ -4040,7 +4040,7 @@ Jamais on n'a tenu contre les Albikracs.
     LA TANTE.
 Je le croy.  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
         Pas trop fou qui suit mes Almanachs.  
 
     LA TANTE.
@@ -4086,7 +4086,7 @@ Vous l'eussiez veu…
 Que vous fistes dresser sa Figure en tableau ?  
 Si jamais il est pris vous luy ferez grand chere [154].  
 
-    PHILIPIN *bas*.
+    PHILIPIN *bas*. 
 Pour peu qu'il parle encor adieu tout le mystere.  
 
     LA MONTAGNE *bas*.
@@ -4172,7 +4172,7 @@ De ma sœur qu'elle estoit la faire de nos sœurs [161],
 Et quand il en est saoul luy tourner le derriere !  
 Ah, vous serez pendu, Monsieur de la Rapiere.  
 
-    LA TANTE.
+    LA TANTE. 
 Je sçay qu'il est coupable, et je l'ay dit d'abord⁎,  
 Mais il est des moments où l'amour est bien fort,  
 Et pour un peu d'empire⁎ usurpé sur son ame  
@@ -4259,7 +4259,7 @@ Que je n'ay plus…
     LA MONTAGNE.
         Tant mieux vous en serez plus sage.  
 
-    LA TANTE.
+    LA TANTE. 
 On m'a parlé de vous, je ne le puis nier,  
 Mais si-tost que je songe à me remarier,  
 Les soins⁎ que le Defunt prit toûjours de me plaire,  
@@ -4305,7 +4305,7 @@ Vingt mille escus [168] pour elle ont entré dans la masse [169].
     LA MONTAGNE.
 Mille Barons et plus sont sortis de ma race.  
 
-    LA TANTE.
+    LA TANTE. 
 Mon bien en l'épousant vous est seur quelque jour.  
 
     LA MONTAGNE.
@@ -4348,7 +4348,7 @@ Mais la Rapiere aussi, net, il sera pendu.
 Adieu, Tante.  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 LA TANTE, LYSETTE.
 
 
@@ -4373,7 +4373,7 @@ Il va gagner païs [174].
 
     LA TANTE.
         Pour fuir ce dur ennuy⁎,  
-Lysette, allons de tout conferer avec luy.  < Fin du quatriéme Acte. >
+Lysette, allons de tout conferer avec luy.  < Fin du quatriéme Acte. > 
 
 
 ## ACTE V.
@@ -4444,7 +4444,7 @@ Pourveu qu'il trouve l'un il la quite de l'autre [176].
 Que j'aye aussi mon compte en vous donnant le vôtre,  
 J'aime Lysette.  
 
-    ANGELIQUE.
+    ANGELIQUE. 
         Va, nous songerons à toy.  
 
     PHILIPIN.
@@ -4522,7 +4522,7 @@ Combien de fois déja…
     ORONTE.
         Daignez le repeter.  
 
-    ANGELIQUE.
+    ANGELIQUE. 
 Adieu, j'en dirois trop si j'osois écouter.  
 
 
@@ -4595,7 +4595,7 @@ ORONTE, LA TANTE, LYSETTE, PHILIPIN.
 Tâchez d'en avoir l'ame un peu moins abatuë.  
 Si l'on trompe vos feux c'est pour vous secourir.  
 
-    ORONTE.
+    ORONTE. 
 Ah, qu'il vaudroit bien mieux qu'on me laissast périr !  
 Tu dis que cet Hymen luy tient lieu de supplice,  
 Qu'elle fait en tremblant ce triste sacrifice,  
@@ -4803,7 +4803,7 @@ La Rapiere… autant vaut.
     LA TANTE *à Oronte*.
     Mon cher Monsieur.  
 
-    ORONTE.
+    ORONTE. 
         Madame.  
 
     LA MONTAGNE.
@@ -4846,7 +4846,7 @@ Epousez-là de grace, et me laissez Oronte.
 Epargnez-luy l'ennuy⁎ de me voir dans vos bras,  
 Il m'aime tant.  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
         Et moy, ne vous aimay-je pas ?  
 
     LA TANTE.
@@ -4893,7 +4893,7 @@ Je seray ton Magot, tu seras ma Guenonne,
 Nous choisirons ainsi cent jolis petits noms.  
 
 
-### SCENE VI.
+### SCENE VI. 
 LA TANTE, ANGELIQUE, ORONTE, LEANDRE, LA MONTAGNE, LYSETTE, PHILIPIN.
 
 
@@ -4926,7 +4926,7 @@ La chate [207] a le goust bon, et ne prend pas le pire.
     ANGELIQUE.
 Ne m'avez-vous pas dit que vous vouliez…  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
         Toux doux,  
 Un Baron tel que moy n'est pas viande pour vous.  
 Un mets si delicat n'est que pour une Tante.  
@@ -4973,7 +4973,7 @@ Finissons en deux mots, veut-on ? ne veut-on pas ?
 Mais en quoy mon Hymen importe-t'il au vostre  
 Pour vouloir que…  
 
-    LA MONTAGNE.
+    LA MONTAGNE. 
         C'est là me prendre pour un autre,  
 Il me faut faire un tour en Bretagne, et tandis [208]  
 Vous auriez tout loisir de vous estre ébaudis [209].  
@@ -5057,7 +5057,7 @@ Si la Noblesse a droit de chatoüiller vostre ame,
 Je vous en garantis satisfaite.  
 
 
-### SCENE VII.
+### SCENE VII. 
 LA TANTE, LEANDRE, ORONTE, ANGELIQUE, LA MONTAGNE, LYSETTE, CASCARET, PHILIPIN.
 
 

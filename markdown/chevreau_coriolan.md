@@ -1732,7 +1732,7 @@ Qu'il y doit rencontrer un eternel azile :
 Bref, sans vous retenir, qu'il y doit commander  
 C'est tout ce qu'à plus prés [153] on luy peut demander.  
 
-    SICINIE.
+    SICINIE. 
 Dans ma commission [154] je feray mon possible  
 Pour le rendre bien tost [155] plus doux & plus sensible⁎ ;  
 Je n'épargneray rien qui puisse l'émouvoir :  
@@ -1753,7 +1753,7 @@ A quelques accidens que m'engage le sort⁎,
 Je ne puis en tout cas endurer qu'une mort.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 
     CORIOLAN.
 Vous voyez aujourd'huy que son inquietude [156]  
@@ -1795,7 +1795,7 @@ Démolir leur remparts, & brizer leurs Autels,
 Et faire en fin que l'air devienne si funeste⁎  
 Que mesme les corbeaux y meurent de la peste.  
 
-    SANCINE.
+    SANCINE. 
 Vous n'estes pas l'autheur de tout ce qui leur nuit,  
 Eux mesmes ont causé le mal-heur qui les suit ;  
 Vostre vangeance est juste, & leur mal legitime,  
@@ -1834,7 +1834,7 @@ Il ne trouvera pas dequoy se consoler ;
 Voyons-le toute-fois, & l'entendons parler.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 
     SICINIE.
 Dans les ressentimens⁎ d'une peine infinie,  
@@ -1925,7 +1925,7 @@ Se réveille, & poursuit nostre troupe ennemie ;
 En fin j'ateins mes gens : car dans cét Element  
 Nous vismes tous perir mon vaisseau seulement.  
 
-    SICINIE.
+    SICINIE. 
 Seigneur, je suis témoin de vostre grand courage,  
 Je vis vostre conduitte aussi bien que l'orage.  
 
@@ -1962,7 +1962,7 @@ Ruiner son païs, & tuer [190] ses parens⁎,
 N'a rien de genereux⁎ ; c'est le fait des Tyrans.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME 
 
     AUFIDIE.
 Que vouloit ce Romain ?  
@@ -2023,7 +2023,7 @@ Et pour elle & pour vous serve de cimetiere.
 
     SICINIE.
 Dieux nous sommes perdus ! n'esperons plus de bien⁎,  
-Nostre meilleure attente est de n'attendre rien [197].  
+Nostre meilleure attente est de n'attendre rien [197].   
 
 
 ## ACTE II.
@@ -2095,7 +2095,7 @@ Quels fruits nous recueillons de vostre tyranie,
 Et de quelle façon vous nous avez traittez  
 Par vostre jalousie, & par vos laschetez.  
 
-    SICINIE.
+    SICINIE. 
 Je ne m'excuse point : je n'en suis pas capable  
 Je ne suis toute-fois innocent ny coupable ;  
 Ou si l'on me punit d'une telle action  
@@ -2119,7 +2119,7 @@ Parurent devant moy justes & violens.
 On me loüa tout haut d'une telle entreprise⁎,  
 Où je n'eus d'interest⁎ que pour nostre franchise⁎ [217].  
 
-    UN AUTRE SENATEUR.
+    UN AUTRE SENATEUR. 
 Mais lors qu'on veut punir un puissant ennemy,  
 On ne le doit choquer ny punir à demy.  
 On doit chercher sa mort alors qu'il la mérite,  
@@ -2178,7 +2178,7 @@ Sur tout asseurez vous que dedans nos mal-heurs
 Vous verserez du sang si nous versons des pleurs.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 
     VERGINIE.
 Allons, Madame, allons, & que ce nom de mere  
@@ -2218,7 +2218,7 @@ Sa faveur seulement précedoit sa disgrace,
 Ainsi qu'un temps serain précede bien souvent  
 Quelque grande tempeste, & quelque horrible vent.  
 
-    VELUMNIE.
+    VELUMNIE. 
 J'advois eu cy-devant [231] une esperance haute,  
 Mais j'ay donné la vie à celuy qui me l'oste,  
 Et qui dedans ce mal dont il nous peut guerir  
@@ -2283,7 +2283,7 @@ Ou si nos propres maux ne le peuvent ranger [237]
 Nous vangerons sur nous l'afront qu'il veut vanger.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 
     SANCINE.
 Vostre gloire⁎ sur tout trouble⁎ sa fantaisie⁎,  
@@ -2319,14 +2319,14 @@ Que pour les conserver je détruis ma Patrie.
 Donc si vous m'en croyez, triomphons promptement  
 Pour ne luy pas laisser un soupçon seulement.  
 
-    CORIOLAN.
+    CORIOLAN. 
 J'y suis bien resolu ; la chose est déjà preste,  
 Mon sort⁎ est glorieux [240] d'une telle conqueste,  
 Et je meurs trop content en ce que j'ay soubmis  
 Soubmettant les Romains, mes plus grands ennemis.  
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 
     AUFIDIE.
 A quoy reservons nous la force de nos armes,  
@@ -2365,13 +2365,13 @@ Cherchons leur sur [243] le soir une fin déplorable,
 Apaisons par leur sang nos esprits irritez⁎,  
 Et ne diferons plus des tourmens meritez.  
 
-    CORIOLAN.
+    CORIOLAN. 
 Je serois mal-heureux s'ils ne le pouvoient estre :  
 Mais [244] dans mes cruautez je leur feray connestre  
 Que j'eus dés mon exil toute Rome en horreur ;  
 Que je la fis l'objet de toute ma fureur,  
 Et que le Ciel devoit me fournir une foudre [245]  
-Qui dans une heure ou deux la va reduire en poudre.  
+Qui dans une heure ou deux la va reduire en poudre.   
 
 
 ## ACTE III.
@@ -2542,7 +2542,7 @@ Coriolan la saisit par la main, & luy oste le poignard [266]
     VELUMNIE.
 Mon fils, que de mal-heurs vous causerez ensemble !  
 
-    VERGINIE.
+    VERGINIE. 
 C'est par là seulement qu'il se faut secourir,  
 Je sçay comme on doit vivre, & comme [267] on peut mourir,  
 Et je ne puis manquer dans ce dessein tragique  
@@ -2579,7 +2579,7 @@ Durant ce peu de temps je vais prier les Dieux
 Qu'ils veuillent vous ouvrir, & l'esprit & les yeux.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 
     AUFIDIE.
 Sancine j'ay bien peur qu'en fin tant de paroles  
@@ -2636,7 +2636,7 @@ Que je ne puis attendre, & que dans cette nuit
 Il faut que son païs soit tout à fait détruit.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 
     CORIOLAN
 seul dans son Camp.
@@ -2752,7 +2752,7 @@ Car ces empeschemens seront tous superflus,
 Je suivrois de bon cœur leur legitime envie :  
 Mais je doy conserver mon honneur & ma vie.  
 Allons, je veux user d'un pouvoir absolu,  
-Les Romains periront j'y suis trop resolu.  
+Les Romains periront j'y suis trop resolu.   
 
 
 ## ACTE IV.
@@ -2813,7 +2813,7 @@ Artifice, courage, honneur, vangeance, foy⁎,
 Ne m'abandonnez pas, & combatez pour moy.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 
     AUFIDIE.
 Sancine tout va bien, je voy l'afaire preste.  
@@ -2868,7 +2868,7 @@ Et que de tous les maux dont on punit une ame,
 Le moindre qu'ils auront est le fer & la flame.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 
     CORIOLAN.
 J'y résve bien encore, & je ne puis treuver  
@@ -3043,7 +3043,7 @@ Ouy, j'y vais de bon cœur, & demain du matin
 Je vous suivray par tout où voudra mon destin.  
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 
     AUFIDIE.
 J'ay bien peur qu'à la fin la pitié⁎ ne le tente,  
@@ -3075,7 +3075,7 @@ Dans ce qu'il entreprend rien ne le peut changer,
 Outre que son humeur⁎ le porte à se vanger.  
 
 
-### SCENE CINQUIESME.
+### SCENE CINQUIESME. 
 
     CORIOLAN
 à Aufidie.
@@ -3091,7 +3091,7 @@ Je me tiens dés cette heure à ce que j'ay conclu :
 Ma fame en portera la premiere nouvelle,  
 Et vous verrez par là si je leur suis fidelle⁎.  
 
-    AUFIDIE.
+    AUFIDIE. 
 O Dieux ! Coriolan, je meurs dans ces transports⁎,  
 Je ne redoute plus tous les plus grands éforts.  
 Si vous avez pû vaincre une fame, une mere,  
@@ -3100,7 +3100,7 @@ Et dedans cét espoir dont je me sens flater,
 Je m'en vais donner ordre à ce qu'il faut tenter.  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 
     CORIOLAN
 avec Sancine.
@@ -3130,7 +3130,7 @@ Ayant mal commencé, je doy finir de mesme :
 Mais suy moy seulement si tu veux que je t'aime.  
 
 
-### SCENE SEPTIESME.
+### SCENE SEPTIESME. 
 
     VERGINIE.
 Ouy, je vous en asseure, il pardonne aux Romains,  
@@ -3152,7 +3152,7 @@ D'un peuple qui n'atend que ce dernier bon-heur.
 Il vous doit honorer [312], car vous pouvez bien croire,  
 Que le triomphe au moins suivra cette victoire,  
 Et que tous les Romains vous restent obligez⁎  
-Apres tant de tourmens dont vous les soulagez.  
+Apres tant de tourmens dont vous les soulagez.   
 
 
 ## ACTE V.
@@ -3196,7 +3196,7 @@ Il est bien mal-aisé de parler sans courous.
 Vous nous avez trahy, vous nous faites connestre  
 Que vous estes ingrat, & que vous estes traistre.  
 
-    CORIOLAN.
+    CORIOLAN. 
 Ne vous emportez plus, ces mots injurieux  
 Treuveroient contre vous un esprit furieux  
 J'eusse rendu bien tost vostre sort⁎ plus prospere⁎ :  
@@ -3254,7 +3254,7 @@ Je poursuy mes desseins, & mal-gré tous les vostres
 Je me puis bien sauver si je sauve les autres.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 
     VERGINIE.
 Apres tous ces honneurs il faut le visiter [322],  
@@ -3295,7 +3295,7 @@ A combatre une armée, à forcer une ville :
 Mais nostre sexe est foible, & vous ne songez pas  
 Qu'un peril l'épouvante, & qu'il craint le trépas  
 
-    VERGINIE.
+    VERGINIE. 
 Sçache que de bon cœur je m'éloigne de Rome ;  
 J'ay les mains d'une fame, & j'ay le cœur d'un homme ;  
 Je ne puis estre lâche en voyant devant moy  
@@ -3318,7 +3318,7 @@ Madame, je le veux, je vous suy sans contrainte :
 Mais pourtant ce dessein me fait trembler de crainte.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 
     AUFIDIE.
 Observez mes amis le tout de point en point,  
@@ -3397,7 +3397,7 @@ Et je m'en vais le voir avec fort peu de conte [330]
 Aussi couvert de sang qu'il nous couvre de honte.  
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 
     CORIOLAN.
 Fais ce que je te dis si tu veux m'obliger⁎,  
@@ -3456,7 +3456,7 @@ J'ay suivy vos desseins sans regret & sans crainte,
 Et je vous obeïs encore sans contrainte.  
 
 
-### SCENE CINQUIESME.
+### SCENE CINQUIESME. 
 
     CORIOLAN.
 Il est vray que j'ay tort, & je dois l'advouër,  
@@ -3475,7 +3475,7 @@ Et je seray trop cher à la posterité
 D'avoir servy des gens qui m'avoient irrité⁎ [332].  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 
     UN LIEUTENANT DES VOLSQUES.
 Il est tout à propos, nostre entreprise⁎ est belle  
@@ -3497,7 +3497,7 @@ Ils se jettent sür Coriolan
 
 O Dieux ! je suis blessé, je tombe, je suis mort !  
 
-    UN VOLSQUE.
+    UN VOLSQUE. 
 Encore un coup, perfide ; il est mort l'infidelle⁎,  
 L'Enfer va recevoir son ame criminelle.  
 Mais ne demeurons pas davantage en ces lieux  
@@ -3514,7 +3514,7 @@ Afin de luy parler je ne veux qu'un moment ;
 Et lors tu connétras jusqu'où va ma franchise⁎,  
 Et jusqu'où peut aller toute nostre entreprise⁎.  
 
-    CAMILLE.
+    CAMILLE. 
 Je vous attens, Madame, il faut vous obeïr :  
 Mais songez apres tout à ne vous pas trahir.  
 Camille rentre [334] derriere le Theatre
@@ -3580,13 +3580,13 @@ Soufre⁎-la sans horreur, tu la dois treuver belle.  < FIN. >
 
 # Lexique
 
-Nous avons adopté les abréviations suivantes : (F) = Furetière, *Dictionnaire universel* ; (R) = Richelet, *Dictionnaire françois* ; (A) = *Dictionnaire de l'Académie* (1694).AllegeanceSouslagement d'un mal (F)V. 83AmitiéAffection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. Plaisir, bon office. (F)V. 617 ; 1181AmorceCharme, apas (R)V. 930 ; 1133ArrêterEmpescher quelque chose de se mouvoir, d'aller plus loinV. 735 ; 1121 ; 1268Cesser de faire quelque chose (R)ÉpitreConvenir des conditions. Conclurre aprés quelque deliberation, soit en soy-même, soit en compagnie. (F)V. 1076BalanceIncertitude, irrésolution (R)V. 67 ; 380 ; 787BalancerDemeurer en équilibre aprés avoir esté agité de part et d'autre. Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. (F)V. 882 ; 909BienEn termes de Jurisprudence, signifie, Toutes sortes de possessions et de richesses. (F)V. 189 ; 972 ; 1119Bonnes actions, bons offices, bienfaits, services. (F)V. 18 ; 82 ; 89 ; 146 ; 274 ; 293 ; 674 ; 857 ; 956 ; 1430Plaisir, bonheur (R)V. 448 ; 674 ; 571 ; 796 ; 1018Intérêt, utilité (R)V. 1038BontezEn Morale Chrêtienne, se dit de la vertu, et particulierement de la charité, de la douceur, des mœurs, de l'inclination à assister son prochain, de la patience à souffrir les afflictions, les injures (F).V. 283 ; 872 ; 902 ; 1029CependantPendant ce temps.V. 17 ; 237 ; 327 ; 561 ; 992 ; 1031 ; 1049 ; 1135 ; 1217 ; 1326 ; 1405 ; 1445CharmesPuissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature. Se dit figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration. (F)V. 591 ; 1106 ; 1285ChimereSe dit figurément des vaines imaginations qu'on se met dans l'esprit, des terreurs et des monstres qu'on se forge pour les combattre, des esperances malfondées que l'on conçoit, et generalement de tout ce qui n'est point reel et solide. (F)V. 897 ; 1162ConfondreTroubler profondément, en parlant des personnes, jusqu'à brouiller l'esprit ; bouleverser. (F)V. 739ConseilToute sorte d'advis qu'on prendV. 1499Résolution (F)V. 67 ; 337 ; 471 ; 1343ConsidérerS'attacher à regarder avec attention, à examiner quelque chose. Faire reflexion. Estimer une chose pour sa valeur, pour son merite. (F)V. 682.ConsommerAccomplir, achever, mettre dans sa derniere perfection. (R). Le terme se confond encore avec *consumer* « porter à son comble, amener à sa destruction en employant la chose à son usage ». La confusion est critiquée par Vaugelas.V. 7 ; 306 ; 385 ; 600 ; 1122DécevoirTromper (F)V. 261 ; 1079DélicesChose agreable qui donne du plaisir aux sens, ou à l'esprit. Se dit ordinairement au pluriel. (F)V. 539 ; 852DésertAbandonné (en parlant des personnes). Lieu qui n'est pas habité.V. 96 ; 439 ; 627 ; 862 ; 1414DueilDouleur qu'on sent dans le cœur pour quelque perte ou accident, ou la mort de quelque personne chere (Furetière)V. 43 ; 322 ; 441 ; 478 ; 637Ennui/EnnuyChagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long (F).V. 21 ; 693 ; 1020EntrepriseCe qu'on a résolu de faire. Ce qu'on s'est chargé d'éxécuter. (R)V. 371 ; 487 ; 769 ; 909 ; 1066 ; 1114 ; 1437 ; 1458EstonnerCauser à l'âme de l'émotion, une violente commotion, par surprise, admiration ou crainte (F)Épitre ; 120 ; 741EbatDivertissement. (F)V. 259 ; 1271EsprouverExperimenter, essayer. (F)V. 426EstrangeSurprenant, grand, extraordinaire, fâcheux. (R)V. 48 ; 135 ; 1433FantaisieL'imagination, la seconde des puissances qu'on attribuë à l'ame sensitive, ou raisonnable. determination de l'esprit à croire ou à vouloir les choses selon les impressions des sens. ce qui est opposé à la raison, et signifie Caprice, bizarrerie (F)V. 272 ; 519FeintesDissimulation, Deguisement, Artifice par lequel on cache une chose, sous une apparence contraire. (A)V. 656 ; 1391FidelleEn qui on peut avoir foi, en parlant des personnes.V. 1158 ; 1254 ; 1426 ; 1438En quoi on peut avoir foi, conforme à la vérité.V. 126Fidélité Sorte de vertu qui consiste à observer éxactement et sincérement ce qu'on a promis. Loiauté. (R)V. 1255InjureParole qu'on dit pour offenser quelqu'un, en luy reprochant quelque defaut, ou quelque vice vray ou faux ; se dit aussi des affronts, des torts et dommages qu'on fait à une personne par voyes de fait. (F)V. 48 ; 311 ; 408 ; 527 ; 568 ; 1077 ; 1222 ; 1338InfidélitéVice contraire à la fidélité Trahison. (R)V. 165InfidelleQui n'a point de fidélité, qui a manqué à sa foi.V. 768 ; 1238 ; 1270 ; 1449FoySerment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. (F) V. 565 ; 634 ; 931 ; 1269FortuneDéesse à qui les Païens donnoient la disposition de toutes les choses du mondeÉpitreHazardV. 264 ; 320 ; 455 ; 532 ; 680Bonheur. Agrandissement. (R)V. 1065 ; 1078 ; 1120 ; 1337Franc, franchiseQui ne desguise rien, qui parle avec sincerité, qui est veritable. Qui est en liberté. Exempt des charges et impositions publiques ou particulieres. (F)V. 372 ; 488 ; 1457FrivoleInutile, vain. (R)V. 752 ; 1493FunesteQui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable. (F)V. 27 ; 107 ; 239 ; 443 ; 812 ; 1485Qui concerne la mort, funèbre V. 223GénéreuxQui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest.V. 246 ; 1498Signifie aussi, Brave, vaillant, courageux. (F)V. 474 ; 563GloireHonneur aquis par de belles actions. Le mot de *gloire* signifiant *orgueil* se prend en bonne et mauvaise part. (R)Épitre ; 191 ; 318 ; 364 ; 467 ; 519 ; 572 ; 799 ; 838 ; 885 ; 896 ; 907 ; 1006 ; 1061 ; 1258 ; 1409HumeurCe terme renvoie, dans la théâtre du XVII*e* siècle, à la théorie des quatre humeurs, qui sont sensées « abreuver tous les corps des animaux », et influencer sur leur état psychique, selon l'humeur dominante (le flegme, l'humeur sanguine, la bile – ou humeur noire –, la mélancolie). Substance fluide dont les parties sont en mouvement. (F)V. 1018Se dit en Morale, des passions qui s'esmeuvent en nous suivant la disposition ou l'agitation de ces quatre *humeurs*. Presque en ce sens se dit de la resolution, de la disposition de l'esprit. (F)V. 527 ; 1148ImpitoyableCruel, barbare, qui n'a point de pitié des maux de son prochain (F).V. 296 ; 1426InfamieDéshonneur, ce qui donne du mépris.V. 15 ; 1214Paroles injurieuses, affronts qu'on fait à quelqu'un (F)V. 237InterestCe qu'on a affection de conserver ou d'acquerir, ce qui nous importe soit dans nostre personne, soit dans nos biens.Privilège ; 372 ; 543 ; 619 ; 622 ; 1176Signifie quelquefois en Morale, Passion. (F)V. 1116IrriterFascher, offenser, mettre en colere.V. 10 ; 85 ; 312 ; 376 ; 577 ; 1001 ; 1134 ; 1436Se dit figurément en choses morales, et signifie exciter, rendre plus vif et plus fort. (F)V. 5 ; 995MachinerConspirer contre quelqu'un, faire agir plusieurs ressorts secrets pour le perdre, pour luy nuire. (F)V. 117 ; 287MiserablePauvre, malheureux. Qui est dans un état fâcheux. (R)V. 92 ; 284 ; 396 ; 604 ; 697 : 1330MouvemensPensée, sentiment. Tout ce qui touche et meut le cœur. (R)V. 851 ; 897 ; 1087ObligerContraindre, engager par une sorte de devoir, ou de bien-séance.V. 377 ; 865 ; 884 ; 1195 ; 1395Forcer à faire, ou à ne pas faire. V. 25 ; 379 ; 492 ; 1237 ; 1319Faire plaisir, rendre un bon officeV. 1375 ; 1419 ; 1424ParensPersonne qui nous est unie par le sang. Race, famille. Proximité et alliance que le sang a établie entre de certaines personnes. (R)V. 245 ; 442 ; 623 ; 783 ; 800 ; 883 ; 955Pitié Passion de l'ame qui est esmeuë de tendresse, de compassion, en voyant la douleur, ou la misere d'autruy. (F)V. 65 ; 148 ; 172 ; 432 ; 437 ; 618 ; 761 ; 914 ; 919 ; 940 ; 1129 ; 1199 ; 1232 ; 1253 ; 1352 ; 1397 ; 1431PrévenirAnticiper. Aller au devant d'une chose et en détourner ce qu'il en pourroit arriver de fâcheux.  (R) V. 715PrévoyanceFaculté ou action de prevoir. (A)V. 547PrévoirJuger par avance qu'une chose doit arriver. (A)V. 1005ProcurerCauser quelque chose à quelqu'un. Faire en sorte qu'une personne ait quelque chose. Etre cause de quelque chose. (R)V. 34 ; 60 ; 144 ; 314 ; 1386 ; 1430Propice Favorable (F)V. 420 ; 1389 ; 1505ProspereHeureux, favorable. (F)V. 171 ; 779 ; 1229RemontrerFaire voir. Faire considérer. Représenter. (R)V. 41RespectDeference, honneur, soûmission qu'on fait à son superieur.V. 430 ; 446 ; 1182 ; 1352Signifie quelquefois, Consideration, égard. (F)V. 268 ; 270RessentimentQuelque reste de douleur qu'on a de tems en tems. Quelque nouvelle ataque de mal. Quelque sentiment de malV. 139Ressouvenir d'une injure qu'on nous a faite. (F)V. 525Sensible Ce mot se dit des choses et des personnes et veut dire *délicat*, qui sent les choses qui le touchent, ou qui le choquent, qui a de la sensibilité pour les gens qui l'obligent.V. 56 ; 310 ; 440 ; 628 ; 942 ; 982 ; 1058 ; 1144 ; 1234 ; 1261Qui a du ressentiment. (R)V. 667Qui frappe les sens. D'où « Insensible » : qui se connoist difficilement par les sens (A)V. 128SentimentBon vouloir, zèle, dévouementV. 678Avis, opinion, pensée.ÉpitreSoinInquiétude d'esprit, travail d'esprit venant de la forte aplication qu'on donne à quelque chose, aplication d'esprit, aplication de la personne qui prend garde à quelque chose. (R)Épitre ; 679 ; 743 ; 987 ; 1017 ; 1167 ; 1264SortHasard, ce qui arrive fortuitement, par une cause inconnuë, et qui n'est pas reglée ni certaine. Incertitude des evenements. (F)V. 69 ; 119 ; 153 ; 314 ; 395 ; 450 ; 548 ; 601 ; 709 ; 779 ; 824 ; 973 ; 1151 ; 1170 ; 1229 ; 1311 ; 1389 ; 1447 ; 1491 ; 1504SouffrirSupporter patiemment, sans révolte, tolérer.V. 703 ; 1510Permettre, laisser passer, consentir.V. 611 ; 1098Supporter, subir, endurerV. 101 ; 102 ; 113 ; 298 ; 427 ; 662 ; 837 ; 864 ; 975 ; 1034 ; 1144 ; 1151SubtilSe dit figurément en choses spirituelles et morales. Un esprit *subtil*, est celuy qui comprend aisément les choses. (F)Avertissement ; 949 ; 1049 ; 1356SurmonterSurpasser, se mettre au dessus de quelque chose. Se dit figurément en choses morales, et signifie, vaincre, avoir avantage sur quelqu'un. (F)V. 914 ; 1242 ; 1283 ; 1408TransportSe dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. (F)V. 847 ; 1001 ; 1118 ; 1159TristeSombre, lugubre, funeste, redoutableV. 42 ; 64 ; 199 ; 227 ; 443 ; 468 ; 515 ; 660 ; 711 ; 917 ; 1019 ; 1062 ; 1109 ; 1239TristesseAffliction, abbattement de cœur causé par quelque accident fascheux. (A)V. 612 ; 1245TroublerCauser du désordre, aporter de la confusion.V. 519 ; 526Fâcher. Epouvanter, inquiéter. (R)V. 369 ; 1076 ; 1221VertuPuissance d'agir qui est dans tous les corps naturels suivant leurs qualitez ou proprietez. Force, vigueur, tant du corps que de l'ame.V. 253 ; 398 ; 1068Se dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy et la raison. (F)Épitre ; 872
+Nous avons adopté les abréviations suivantes : (F) = Furetière, *Dictionnaire universel* ; (R) = Richelet, *Dictionnaire françois* ; (A) = *Dictionnaire de l'Académie* (1694).AllegeanceSouslagement d'un mal (F)V. 83AmitiéAffection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un costé, soit qu'elle soit reciproque. Plaisir, bon office. (F)V. 617 ; 1181AmorceCharme, apas (R)V. 930 ; 1133ArrêterEmpescher quelque chose de se mouvoir, d'aller plus loinV. 735 ; 1121 ; 1268Cesser de faire quelque chose (R)ÉpitreConvenir des conditions. Conclurre aprés quelque deliberation, soit en soy-même, soit en compagnie. (F)V. 1076BalanceIncertitude, irrésolution (R)V. 67 ; 380 ; 787BalancerDemeurer en équilibre aprés avoir esté agité de part et d'autre. Se dit figurément de l'examen qu'on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d'autre. (F)V. 882 ; 909BienEn termes de Jurisprudence, signifie, Toutes sortes de possessions et de richesses. (F)V. 189 ; 972 ; 1119Bonnes actions, bons offices, bienfaits, services. (F)V. 18 ; 82 ; 89 ; 146 ; 274 ; 293 ; 674 ; 857 ; 956 ; 1430Plaisir, bonheur (R)V. 448 ; 674 ; 571 ; 796 ; 1018Intérêt, utilité (R)V. 1038BontezEn Morale Chrêtienne, se dit de la vertu, et particulierement de la charité, de la douceur, des mœurs, de l'inclination à assister son prochain, de la patience à souffrir les afflictions, les injures (F).V. 283 ; 872 ; 902 ; 1029CependantPendant ce temps.V. 17 ; 237 ; 327 ; 561 ; 992 ; 1031 ; 1049 ; 1135 ; 1217 ; 1326 ; 1405 ; 1445CharmesPuissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature. Se dit figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration. (F)V. 591 ; 1106 ; 1285ChimereSe dit figurément des vaines imaginations qu'on se met dans l'esprit, des terreurs et des monstres qu'on se forge pour les combattre, des esperances malfondées que l'on conçoit, et generalement de tout ce qui n'est point reel et solide. (F)V. 897 ; 1162ConfondreTroubler profondément, en parlant des personnes, jusqu'à brouiller l'esprit ; bouleverser. (F)V. 739ConseilToute sorte d'advis qu'on prendV. 1499Résolution (F)V. 67 ; 337 ; 471 ; 1343ConsidérerS'attacher à regarder avec attention, à examiner quelque chose. Faire reflexion. Estimer une chose pour sa valeur, pour son merite. (F)V. 682.ConsommerAccomplir, achever, mettre dans sa derniere perfection. (R). Le terme se confond encore avec *consumer* « porter à son comble, amener à sa destruction en employant la chose à son usage ». La confusion est critiquée par Vaugelas.V. 7 ; 306 ; 385 ; 600 ; 1122DécevoirTromper (F)V. 261 ; 1079DélicesChose agreable qui donne du plaisir aux sens, ou à l'esprit. Se dit ordinairement au pluriel. (F)V. 539 ; 852DésertAbandonné (en parlant des personnes). Lieu qui n'est pas habité.V. 96 ; 439 ; 627 ; 862 ; 1414DueilDouleur qu'on sent dans le cœur pour quelque perte ou accident, ou la mort de quelque personne chere (Furetière)V. 43 ; 322 ; 441 ; 478 ; 637Ennui/EnnuyChagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long (F).V. 21 ; 693 ; 1020EntrepriseCe qu'on a résolu de faire. Ce qu'on s'est chargé d'éxécuter. (R)V. 371 ; 487 ; 769 ; 909 ; 1066 ; 1114 ; 1437 ; 1458EstonnerCauser à l'âme de l'émotion, une violente commotion, par surprise, admiration ou crainte (F)Épitre ; 120 ; 741EbatDivertissement. (F)V. 259 ; 1271EsprouverExperimenter, essayer. (F)V. 426EstrangeSurprenant, grand, extraordinaire, fâcheux. (R)V. 48 ; 135 ; 1433FantaisieL'imagination, la seconde des puissances qu'on attribuë à l'ame sensitive, ou raisonnable. determination de l'esprit à croire ou à vouloir les choses selon les impressions des sens. ce qui est opposé à la raison, et signifie Caprice, bizarrerie (F)V. 272 ; 519FeintesDissimulation, Deguisement, Artifice par lequel on cache une chose, sous une apparence contraire. (A)V. 656 ; 1391FidelleEn qui on peut avoir foi, en parlant des personnes.V. 1158 ; 1254 ; 1426 ; 1438En quoi on peut avoir foi, conforme à la vérité.V. 126Fidélité Sorte de vertu qui consiste à observer éxactement et sincérement ce qu'on a promis. Loiauté. (R)V. 1255InjureParole qu'on dit pour offenser quelqu'un, en luy reprochant quelque defaut, ou quelque vice vray ou faux ; se dit aussi des affronts, des torts et dommages qu'on fait à une personne par voyes de fait. (F)V. 48 ; 311 ; 408 ; 527 ; 568 ; 1077 ; 1222 ; 1338InfidélitéVice contraire à la fidélité Trahison. (R)V. 165InfidelleQui n'a point de fidélité, qui a manqué à sa foi.V. 768 ; 1238 ; 1270 ; 1449FoySerment, parole qu'on donne de faire quelque chose, et qu'on promet d'executer. (F) V. 565 ; 634 ; 931 ; 1269FortuneDéesse à qui les Païens donnoient la disposition de toutes les choses du mondeÉpitreHazardV. 264 ; 320 ; 455 ; 532 ; 680Bonheur. Agrandissement. (R)V. 1065 ; 1078 ; 1120 ; 1337Franc, franchiseQui ne desguise rien, qui parle avec sincerité, qui est veritable. Qui est en liberté. Exempt des charges et impositions publiques ou particulieres. (F)V. 372 ; 488 ; 1457FrivoleInutile, vain. (R)V. 752 ; 1493FunesteQui cause la mort, ou qui en menace, ou quelque autre accident fascheux, quelque perte considerable. (F)V. 27 ; 107 ; 239 ; 443 ; 812 ; 1485Qui concerne la mort, funèbre V. 223GénéreuxQui a l'ame grande et noble, et qui prefere l'honneur à tout autre interest.V. 246 ; 1498Signifie aussi, Brave, vaillant, courageux. (F)V. 474 ; 563GloireHonneur aquis par de belles actions. Le mot de *gloire* signifiant *orgueil* se prend en bonne et mauvaise part. (R)Épitre ; 191 ; 318 ; 364 ; 467 ; 519 ; 572 ; 799 ; 838 ; 885 ; 896 ; 907 ; 1006 ; 1061 ; 1258 ; 1409HumeurCe terme renvoie, dans la théâtre du XVII*e* siècle, à la théorie des quatre humeurs, qui sont sensées « abreuver tous les corps des animaux », et influencer sur leur état psychique, selon l'humeur dominante (le flegme, l'humeur sanguine, la bile – ou humeur noire –, la mélancolie). Substance fluide dont les parties sont en mouvement. (F)V. 1018Se dit en Morale, des passions qui s'esmeuvent en nous suivant la disposition ou l'agitation de ces quatre *humeurs*. Presque en ce sens se dit de la resolution, de la disposition de l'esprit. (F)V. 527 ; 1148ImpitoyableCruel, barbare, qui n'a point de pitié des maux de son prochain (F).V. 296 ; 1426InfamieDéshonneur, ce qui donne du mépris.V. 15 ; 1214Paroles injurieuses, affronts qu'on fait à quelqu'un (F)V. 237InterestCe qu'on a affection de conserver ou d'acquerir, ce qui nous importe soit dans nostre personne, soit dans nos biens.Privilège ; 372 ; 543 ; 619 ; 622 ; 1176Signifie quelquefois en Morale, Passion. (F)V. 1116IrriterFascher, offenser, mettre en colere.V. 10 ; 85 ; 312 ; 376 ; 577 ; 1001 ; 1134 ; 1436Se dit figurément en choses morales, et signifie exciter, rendre plus vif et plus fort. (F)V. 5 ; 995MachinerConspirer contre quelqu'un, faire agir plusieurs ressorts secrets pour le perdre, pour luy nuire. (F)V. 117 ; 287MiserablePauvre, malheureux. Qui est dans un état fâcheux. (R)V. 92 ; 284 ; 396 ; 604 ; 697 : 1330MouvemensPensée, sentiment. Tout ce qui touche et meut le cœur. (R)V. 851 ; 897 ; 1087ObligerContraindre, engager par une sorte de devoir, ou de bien-séance.V. 377 ; 865 ; 884 ; 1195 ; 1395Forcer à faire, ou à ne pas faire. V. 25 ; 379 ; 492 ; 1237 ; 1319Faire plaisir, rendre un bon officeV. 1375 ; 1419 ; 1424ParensPersonne qui nous est unie par le sang. Race, famille. Proximité et alliance que le sang a établie entre de certaines personnes. (R)V. 245 ; 442 ; 623 ; 783 ; 800 ; 883 ; 955Pitié Passion de l'ame qui est esmeuë de tendresse, de compassion, en voyant la douleur, ou la misere d'autruy. (F)V. 65 ; 148 ; 172 ; 432 ; 437 ; 618 ; 761 ; 914 ; 919 ; 940 ; 1129 ; 1199 ; 1232 ; 1253 ; 1352 ; 1397 ; 1431PrévenirAnticiper. Aller au devant d'une chose et en détourner ce qu'il en pourroit arriver de fâcheux.  (R) V. 715PrévoyanceFaculté ou action de prevoir. (A)V. 547PrévoirJuger par avance qu'une chose doit arriver. (A)V. 1005ProcurerCauser quelque chose à quelqu'un. Faire en sorte qu'une personne ait quelque chose. Etre cause de quelque chose. (R)V. 34 ; 60 ; 144 ; 314 ; 1386 ; 1430Propice Favorable (F)V. 420 ; 1389 ; 1505ProspereHeureux, favorable. (F)V. 171 ; 779 ; 1229RemontrerFaire voir. Faire considérer. Représenter. (R)V. 41RespectDeference, honneur, soûmission qu'on fait à son superieur.V. 430 ; 446 ; 1182 ; 1352Signifie quelquefois, Consideration, égard. (F)V. 268 ; 270RessentimentQuelque reste de douleur qu'on a de tems en tems. Quelque nouvelle ataque de mal. Quelque sentiment de malV. 139Ressouvenir d'une injure qu'on nous a faite. (F)V. 525Sensible Ce mot se dit des choses et des personnes et veut dire *délicat*, qui sent les choses qui le touchent, ou qui le choquent, qui a de la sensibilité pour les gens qui l'obligent.V. 56 ; 310 ; 440 ; 628 ; 942 ; 982 ; 1058 ; 1144 ; 1234 ; 1261Qui a du ressentiment. (R)V. 667Qui frappe les sens. D'où « Insensible » : qui se connoist difficilement par les sens (A)V. 128SentimentBon vouloir, zèle, dévouementV. 678Avis, opinion, pensée.ÉpitreSoinInquiétude d'esprit, travail d'esprit venant de la forte aplication qu'on donne à quelque chose, aplication d'esprit, aplication de la personne qui prend garde à quelque chose. (R)Épitre ; 679 ; 743 ; 987 ; 1017 ; 1167 ; 1264SortHasard, ce qui arrive fortuitement, par une cause inconnuë, et qui n'est pas reglée ni certaine. Incertitude des evenements. (F)V. 69 ; 119 ; 153 ; 314 ; 395 ; 450 ; 548 ; 601 ; 709 ; 779 ; 824 ; 973 ; 1151 ; 1170 ; 1229 ; 1311 ; 1389 ; 1447 ; 1491 ; 1504SouffrirSupporter patiemment, sans révolte, tolérer.V. 703 ; 1510Permettre, laisser passer, consentir.V. 611 ; 1098Supporter, subir, endurerV. 101 ; 102 ; 113 ; 298 ; 427 ; 662 ; 837 ; 864 ; 975 ; 1034 ; 1144 ; 1151SubtilSe dit figurément en choses spirituelles et morales. Un esprit *subtil*, est celuy qui comprend aisément les choses. (F)Avertissement ; 949 ; 1049 ; 1356SurmonterSurpasser, se mettre au dessus de quelque chose. Se dit figurément en choses morales, et signifie, vaincre, avoir avantage sur quelqu'un. (F)V. 914 ; 1242 ; 1283 ; 1408TransportSe dit aussi figurément en choses morales, du trouble ou de l'agitation de l'ame par la violence des passions. (F)V. 847 ; 1001 ; 1118 ; 1159TristeSombre, lugubre, funeste, redoutableV. 42 ; 64 ; 199 ; 227 ; 443 ; 468 ; 515 ; 660 ; 711 ; 917 ; 1019 ; 1062 ; 1109 ; 1239TristesseAffliction, abbattement de cœur causé par quelque accident fascheux. (A)V. 612 ; 1245TroublerCauser du désordre, aporter de la confusion.V. 519 ; 526Fâcher. Epouvanter, inquiéter. (R)V. 369 ; 1076 ; 1221VertuPuissance d'agir qui est dans tous les corps naturels suivant leurs qualitez ou proprietez. Force, vigueur, tant du corps que de l'ame.V. 253 ; 398 ; 1068Se dit figurément en choses morales, de la disposition de l'ame, ou habitude à faire le bien, à suivre ce qu'enseignent la loy et la raison. (F)Épitre ; 872 
 
 
 # Annexe nº 1 : Œuvres diverses
 
 
-## A MONSEIGNEUR L'EMINENTISSIME CARDINAL DUC DE RICHELIEU ⁎ ODE ⁎
+## A MONSEIGNEUR L'EMINENTISSIME CARDINAL DUC DE RICHELIEU ⁎ ODE ⁎ 
     
 
 Quand la France connoit vostre fidelité  
@@ -3707,7 +3707,7 @@ Ou si l'Estranger les veut lire,
 Il faut qu'il nous ouvre le cœur.  
 
 
-## A MADAME LA DUCHESSE DE LORRAINE. ⁎ STANCES ⁎
+## A MADAME LA DUCHESSE DE LORRAINE. ⁎ STANCES ⁎ 
     
 
 Adorable Princesse, objet de mille cœurs  
@@ -3811,7 +3811,7 @@ Elle attend seulement apres vos faits divers
 Que l'on joigne la Pourpre à des Lauriers si vers.  
 
 
-## MADRIGAL.
+## MADRIGAL. 
 
 Alors qu'un objet de merite  
 Se vient presenter à mes yeux,  
@@ -3869,7 +3869,7 @@ Lors je luy fis ce que je n'oze dire
 Dessus mon lit.  
 
 
-## RONDEAU.
+## RONDEAU. 
     
 
 Elle a tout fait le mal que je ressens,  
@@ -3891,7 +3891,7 @@ Bref depuis peu pour plaire aux plus pressens
 Elle a tout à fait.  
 
 
-## POUR UN PORTRAIT. ⁎ SONNET ⁎
+## POUR UN PORTRAIT. ⁎ SONNET ⁎ 
     
 
 Ha ‘Peintre que ton huile entretient bien ma flamme !  

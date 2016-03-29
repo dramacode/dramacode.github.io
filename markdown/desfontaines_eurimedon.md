@@ -973,7 +973,7 @@ Lecteur je croirois offencer ton jugement si je ne le croyois capable de discern
  – ALERINESuivante de Pasithee.
  – AGRAMORPage de Tygrane.
 La Scene est en l'Isle de Lesbos.
-
+ 
 
 
 ## ACTE I
@@ -1038,7 +1038,7 @@ Toutesfois de son front l'auguste⁎ majesté
 Mieux qu'un sceptre Royal faict voir sa qualité.  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME 
 ARCHELAS, EURIMEDON, PASITHEE, FALANTE.
 
 
@@ -1232,7 +1232,7 @@ Et sa grace⁎ conjointe aux offices du bras [157]
 Nous fera confesser que nous sommes ingrats.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME 
 
     TYGRANE.
 Destin, Neptune, Amour, Dieux cruels⁎, tristes Astres⁎  
@@ -1650,7 +1650,7 @@ Cependant je veux bien que l'un et l'autre espere
 Pour moy je m'en vay voir ce que fait le Roy mon pere.  
 
 
-### SCENE TROISIEME.
+### SCENE TROISIEME. 
 
     TYGRANE.
 Dieux que viens-je d'oüyr : mais helas qu'ay-je veu ?  
@@ -1715,7 +1715,7 @@ N'esteindra qu'en mon sang mon amoureuse⁎ ardeur, [202]
 Ah pour un lasche cœur trop magnifique offrande !  
 
 
-### SCENE CINQUIESME.
+### SCENE CINQUIESME. 
 CELIANE, ARGAMOR.
 
 
@@ -1816,7 +1816,7 @@ Fera de son tombeau celuy de son amour ;
 Mais je le vois venir, songeons à nous deffendre.  
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME 
 TYGRANE, CELIANE
 
 
@@ -1864,7 +1864,7 @@ Et fuyant les abords de l'Infante et du Roy,
 Sçachons ce qu'ils auront deliberé de moy. [212]  
 
 
-### SCENE SEPTIESME.
+### SCENE SEPTIESME. 
 
     CELIANE *revenant de son esvanoüissement.*
 Quel Astre⁎ malheureux⁎ jaloux⁎ de ma fortune⁎  
@@ -1884,7 +1884,7 @@ Vivons, mon cœur le veut, et je m'y vois contrainte,
 Attendant que le Ciel plus esmeu de pitié  
 Lance le dernier traict de son inimitié ;  
 J'iray dans le sejour de quelque solitude  
-Chercher allegement à mon inquiétude.  
+Chercher allegement à mon inquiétude.   
 
 
 ## ACTE III.
@@ -2110,7 +2110,7 @@ Malgré ce beau mignon qui cause tout cecy
 Vos discours changeront dans peu de temps d'icy.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 
     EURIMEDON *s'en allant*. [225]
 
@@ -2392,7 +2392,7 @@ Puisque vous partagez cette loüable envie,
 Allons Prince adorable⁎ où l'honneur⁎ nous convie.  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 PASITHEE, ALERINE dans la prison.
 
 
@@ -2485,7 +2485,7 @@ Souvent les malheureux sont jettez dans le port
 Reservent aujourd'huy la fatale Couronne,  
     Nous mourrons tousjours bien aprez,  
     Et si dans le champ de Bellonne [236]  
-Il cueille le Laurier⁎, Je prendray le Cyprez⁎. [237]  
+Il cueille le Laurier⁎, Je prendray le Cyprez⁎. [237]   
 
 
 ## ACTE IV.
@@ -2539,7 +2539,7 @@ S'il n'estoit protegé de la force du nombre ;
 Sans cela le combat serait desja finy,  
 Vous vangé, nous vainqueurs, et le traistre puny.  
 
-    ARCHELAS.
+    ARCHELAS. 
 Les Dieux ont de tout temps protegé ma Couronne.  
 
     FALANTE.
@@ -2874,7 +2874,7 @@ Que ce jeune estranger avoit des qualitez,
 Capables de fleschir les plus rares beautez,  
 Et mesme il nous avoit rendu quelque service.  
 
-    EURIMEDON.
+    EURIMEDON. 
 Vous luy rendiez pourtant un tres-mauvais office,  
 Et c'est mal s'acquitter d'une obligation,  
 De donner pour un prix une punition :  
@@ -2959,7 +2959,7 @@ Ainsi le mesme traict qui fit vostre tourment
 Fera d'oresnavant vostre contentement,  
 Si vous favorisez sa prudente conduitte.  
 
-    PASITHEE.
+    PASITHEE. 
 Ah Dieux ! à cét object je suis toute interdite,  
 Et j'ay dans mon esprit tant de confusion⁎,  
 Que tout ce que je voy me semble illusion.  
@@ -2986,7 +2986,7 @@ Qu'Hermionne ne soit de tout poinct satisfaite,
 Qu'il ne m'ayt de mon frere accordé le pardon,  
 Et que vous ne soyez femme d'Eurimedon.  
 
-    PASITHEE.
+    PASITHEE. 
 Madame, Je croyrois que vous voudriez surprendre  
 Cét esprit innocent qui vient de vous entendre,  
 Si le Ciel en naissant ne vous avoit faict don  
@@ -3108,7 +3108,7 @@ Madame : la voicy.
                 J'en rends grace⁎ à l'amour.  
 
 
-### SCENE CINQUIESME.
+### SCENE CINQUIESME. 
 EURIMEDON, PASITHEE, ALERINE.
 
 
@@ -3137,7 +3137,7 @@ Certes voilà des traicts d'une extréme bonté⁎.
 Mais plustost du credit de vostre Majesté,  
 Dont la grace⁎ est unique ainsi que sans pareille.  
 
-    EURIMEDON.
+    EURIMEDON. 
 Exceptez-en la vostre (adorable⁎ merveille,)  
 Car c'est d'elle qu'on peut dire avecque raison  
 Que ses charmes⁎ divins sont sans comparaison.  
@@ -3197,7 +3197,7 @@ Parlez moy clairement.
                     Ah Madame ! pardon.  
 C'est trop vous abuser, Je suis Eurimedon.  
 
-    PASITHEE.
+    PASITHEE. 
 Eurimedon bons Dieux ! [253]  
 
     EURIMEDON.
@@ -3227,7 +3227,7 @@ Mais permets à la mort destouffer mes regrets.
 O sensible malheur !  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 EURIMEDON, PASITHEE, ALERINE.
 
 
@@ -3269,7 +3269,7 @@ Ne sont pas tout à faict de son cœur effacez,
 Puisque dans sa douleur sa bouche s'est contrainte,  
 Et n'a pas descouvert le sujet de sa plainte,  
 Ce silence discret montre qu'asseurément  
-Son amour est plus fort que son ressentiment⁎.  
+Son amour est plus fort que son ressentiment⁎.   
 
 
 ## ACTE V.
@@ -3314,7 +3314,7 @@ Et de te regarder lors⁎ que tu vas la voir ;
 Pasithee a des traits⁎ qui font que Celiane  
 N'oseroit esperer l'entretien de Tygrane.  
 
-    TYGRANE.
+    TYGRANE. 
 Ah Madame ! espargnez un malheureux Amant⁎,  
 Je bornois mes desseins à vous voir seulement.  
 
@@ -3346,7 +3346,7 @@ Ah belle Celiane !
     CELIANE.
                 Hé bien Prince volage ?      
 
-    TYGRANE.
+    TYGRANE. 
 Serez-vous sans pitié ?  
 
     CELIANE.
@@ -3382,7 +3382,7 @@ L'amour que j'ay voüee à vos divins apas.
 Il sort.
 
 
-    CELIANE *seule*.
+    CELIANE *seule*. 
 En fin ma passion triomphe de Tygrane,  
 Ce superbe⁎ vainqueur se rend à Celiane,  
 Et les traits⁎ de mes yeux plus forts que ses desdains  
@@ -3492,7 +3492,7 @@ Ainsi doncques l'amour a produit son contraire :
 Et ce qui faict aymer a faict haïr mon frere,  
 Ah miserable Prince où t'a reduit le sort ?  
 
-    ARCHELAS.
+    ARCHELAS. 
 Si jamais son destin le rendoit à ce bord.  
 Je traitterois si bien ce genereux⁎ courage  
 Que je le forcerois d'oublier⁎ mon outrage,  
@@ -3512,7 +3512,7 @@ Et qui d'oresnavant doit partager mon trosne,
 Je le veux bien, voyons cette belle Amazone.  
 
 
-### SCENE QUATRIEME.
+### SCENE QUATRIEME. 
 EURIMEDON, PASITHEE, CELIANE.
 
 
@@ -3532,7 +3532,7 @@ Souffrez que je vous mette à couvert⁎ de l'orage⁎,
 Et comme cèt Estat m'a tiré de soucy,  
 Permettez que le mien vous en retire aussi.  
 
-    PASITHEE.
+    PASITHEE. 
 Ce conseil seroit bon genereuse Princesse  
 Si mon esprit timide⁎ avoit moins de foiblesse :  
 Mais mon cœur⁎ interdit de crainte, et de respect  
@@ -3581,7 +3581,7 @@ Il fait semblant de s'en aller.
 
 
 
-### SCENE CINQUIESME ET DERNIERE.
+### SCENE CINQUIESME ET DERNIERE. 
 ARCHELAS, MELINTE, TYGRANE, PASITHEE, CELIANE, et leur suite.
 
 
@@ -3630,7 +3630,7 @@ Il met la main à l'espee.
 Ne souffrez pas (grand Roy) que l'ire vous surmonte,  
 Appaisez ce couroux un peu trop violent.  
 
-    ARCHELAS.
+    ARCHELAS. 
 Plustost à me vanger je suis un peu trop lent ;  
 Quoy seduire une fille, et se jouer du pere  
 Ce n'est pas (dites-vous) un sujet de colere ?  
@@ -3684,7 +3684,7 @@ Et si j'ay faict paroistre une injuste fureur,
 Songez que cette feinte a causé mon erreur.  
 Ma fille je vous donne à ce Prince adorable⁎.  
 
-    PASITHEE.
+    PASITHEE. 
 Sire, cette faveur rend mon sort honorable,  
 Et les commandemens sont doux à recevoir  
 Où vostre volonté s'accorde à mon devoir.  

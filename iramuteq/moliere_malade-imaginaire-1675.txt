@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1673 *creator_moliere
 
 -*who_argan
 Trois et deux font cinq, et cinq font dix, et dix font vingt.
@@ -67,7 +67,7 @@ Drelin, drelin, drelin.
 Ah, mon Dieu, ils me laisseront ici mourir.
 Drelin, drelin, drelin.
 
-**** *book_ *id_I02 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1673 *creator_moliere
 
 -*who_toinette
 On y va.
@@ -179,7 +179,7 @@ Qu'on me fasse venir ma fille Angélique, j'ai à lui dire quelque chose.
 -*who_toinette
 La voici qui vient d'elle-même ; elle a deviné votre pensée.
 
-**** *book_ *id_I03 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1673 *creator_moliere
 
 -*who_argan
 Approchez, Angélique, vous venez à propos.
@@ -197,7 +197,7 @@ Je vais revenir tout à l'heure.
 Allez vite, Monsieur, allez.
 Monsieur Fleurant nous donne des affaires.
 
-**** *book_ *id_I04 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1673 *creator_moliere
 
 -*who_angelique
 Toinette.
@@ -325,7 +325,7 @@ Toinette, si celui-là me trompe, je ne croirai de ma vie aucun Homme.
 -*who_toinette
 Voilà votre Père qui revient.
 
-**** *book_ *id_I05 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1673 *creator_moliere
 
 -*who_argan
 Ô çà, ma Fille, je vais vous dire une nouvelle, où peut-être ne vous attendez-vous pas.
@@ -713,7 +713,7 @@ Et moi je la déshériterai, si elle vous obéit.
 Ah, ah ! je n'en puis plus.
 Voilà pour me faire mourir.
 
-**** *book_ *id_I06 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1673 *creator_moliere
 
 -*who_argan
 Ah ma Femme, approchez.
@@ -879,7 +879,7 @@ Le voici dans votre Antichambre, et je l'ai fait venir tout exprès.
 -*who_argan
 Faites-le entrer mamour.
 
-**** *book_ *id_I07 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1673 *creator_moliere
 
 -*who_argan
 Ah bonjour Monsieur Bonnefoy, je veux faire mon Testament ; et pour cela dites-moi, s'il vous plaît, comment je dois faire pour donner tout mon bien à ma Femme, et en frustrer mes Enfants.
@@ -938,7 +938,7 @@ Oui, mais nous serons mieux dans mon petit cabinet qui est ici près ; allons-y
 -*who_beline
 Allons, pauvre petit Mari.
 
-**** *book_ *id_I08 *act_I *date_1675 *creator_moliere
+**** *book_ *id_I08 *act_I *date_1673 *creator_moliere
 
 -*who_toinette
 Entrez, entrez, ils ne sont plus ici : j'ai une inquiétude prodigieuse ; j'ai vu un Notaire avec eux, et ai entendu parler de Testament ; votre belle-Mère ne s'endort point, et veut sans doute profiter de la colère où vous avez tantôt mis votre Père ; elle aura pris ce temps pour nuire à vos intérêts.
@@ -961,7 +961,7 @@ As-tu quelqu'un propre à faire ce message ?
 -*who_toinette
 Il est assez difficile, et je ne trouve personne plus propre à s'en acquitter que le vieux Usurier Polichinelle mon Amant, il m'en coûtera pour cela quelques faveurs, et quelques baisers que je veux bien dépenser pour vous ; Allez, reposez-vous sur moi, dormez seulement en repos, il est tard, je crains qu'on ait affaire de moi ; j'entends qu'on m'appelle, retirez-vous, adieu bonsoir, je vais songer à vous.
 
-**** *book_ *id_Ib01 *act_Ib *date_1675 *creator_moliere
+**** *book_ *id_Ib01 *act_Ib *date_1673 *creator_moliere
 
 -*who_polichinelle
 Ô Amour, amour, amour, amour ! pauvre Polichinelle, quelle Diable de fantaisie t'es-tu allé mettre dans la cervelle ?
@@ -1115,7 +1115,7 @@ Mon nom est, va te faire pendre.
 Ici camarade, ici.
 Saisissons l'insolent qui nous répond ainsi.
 
-**** *book_ *id_Ib02 *act_Ib *date_1675 *creator_moliere
+**** *book_ *id_Ib02 *act_Ib *date_1673 *creator_moliere
 
 -*who_polichinelle
 Qui va là ?
@@ -1137,7 +1137,7 @@ Ah, ah, ah.
 -*who_archers
 Nous le tenons, à nous, Camarades, à nous, Dépêchez, de la lumière.
 
-**** *book_ *id_Ib03 *act_Ib *date_1675 *creator_moliere
+**** *book_ *id_Ib03 *act_Ib *date_1673 *creator_moliere
 
 -*who_archers
 Ah traître, ah fripon, c'est donc vous,
@@ -1301,7 +1301,7 @@ Adieu Seigneur, adieu, Seigneur Polichinelle.
 -*who_polichinelle
 Jusqu'au revoir.
 
-**** *book_ *id_II01 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1673 *creator_moliere
 
 -*who_toinette
 Que demandez-vous, Monsieur ?
@@ -1328,7 +1328,7 @@ Aussi ne viens-je pas ici comme Cléante, et sous l'apparence de son Amant ; ma
 Voici son Père.
 Retirez-vous un peu, et me laissez lui dire que vous êtes là.
 
-**** *book_ *id_II02 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1673 *creator_moliere
 
 -*who_argan
 Monsieur Purgon m'a dit de me promener le matin dans ma Chambre douze allées et venues ; mais j'ai oublié à lui demander si c'est en long ou en large.
@@ -1419,7 +1419,7 @@ Monsieur, cela ne fera que vous étourdir, et il ne faut rien pour vous émouvoi
 Point, point, j'aime la Musique, et je serai bien aise de… Ah ! la voici.
 Allez vous-en voir, vous, si ma Femme est habillée.
 
-**** *book_ *id_II03 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1673 *creator_moliere
 
 -*who_argan
 Venez, ma Fille, votre Maître de Musique est allé aux champs, et voilà une personne qu'il envoie à sa place pour vous montrer.
@@ -1449,7 +1449,7 @@ J'ai songé cette nuit que j'étais dans le plus grand embarras du monde, et qu'
 -*who_cleante
 Ce n'est pas être malheureux que d'occuper votre pensée soit en dormant soit en veillant, et mon bonheur serait grand sans doute, si vous étiez dans quelque peine dont vous me jugeassiez assez digne de vous tirer ; et il n'y a rien que je ne fisse pour…
 
-**** *book_ *id_II04 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1673 *creator_moliere
 
 -*who_toinette
 Ma foi, Monsieur, je suis pour vous maintenant, et je me dédis de tout ce que je disais hier.
@@ -1485,7 +1485,7 @@ Vous me faites beaucoup d'honneur.
 -*who_toinette
 Allons qu'on se range, les voici.
 
-**** *book_ *id_II05 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1673 *creator_moliere
 
 -*who_argan
 Monsieur Purgon, Monsieur, m'a défendu de découvrir ma tête.
@@ -1838,7 +1838,7 @@ J'ai cru vous divertir.
 Les sottises ne divertissent point.
 Ah ! voici ma Femme.
 
-**** *book_ *id_II06 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1673 *creator_moliere
 
 -*who_argan
 Mamour, voilà le Fils de Monsieur Diafoirus
@@ -2057,7 +2057,7 @@ Six, huit, dix, par les nombres pairs, comme dans les médicaments par les nombr
 -*who_argan
 Jusques au revoir, Monsieur.
 
-**** *book_ *id_II07 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II07 *act_II *date_1673 *creator_moliere
 
 -*who_beline
 Je viens, mon Fils, avant que de sortir, vous donner avis d'une chose, à laquelle il faut que vous preniez garde.
@@ -2075,7 +2075,7 @@ Envoyez-la ici, mamour ; envoyez-la ici.
 Ah l'effrontée !
 Je ne m'étonne plus de sa résistance.
 
-**** *book_ *id_II08 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II08 *act_II *date_1673 *creator_moliere
 
 -*who_louison
 Qu'est-ce que vous voulez, mon Papa ? ma belle-Maman m'a dit que vous me demandez.
@@ -2304,7 +2304,7 @@ Oh bien bien nous verrons cela.
 Allez-vous-en, et prenez bien garde à tout.
 Ah que d'affaires ! je n'ai pas seulement le loisir de songer à ma Maladie, en vérité je n'en puis plus.
 
-**** *book_ *id_II09 *act_II *date_1675 *creator_moliere
+**** *book_ *id_II09 *act_II *date_1673 *creator_moliere
 
 -*who_beralde
 Hé bien, mon Frère, qu'est-ce ? comment vous portez-vous ?
@@ -2339,7 +2339,7 @@ Je vous amène ici un divertissement que j'ai rencontré, qui dissipera votre ch
 Ce sont des Égyptiens vêtus en Maures, qui font des danses mêlées de chansons, où je suis sûr que vous prendrez plaisir, et cela vaudra bien une Ordonnance de Monsieur Purgon.
 Allons.
 
-**** *book_ *id_IIb *date_1675 *creator_moliere
+**** *book_ *id_IIb *date_1673 *creator_moliere
 
 Second Intermède
 
@@ -2427,7 +2427,7 @@ S'il a quelques supplices,
 Il a cent délices
 Qui charment les cœurs.
 
-**** *book_ *id_III01 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1673 *creator_moliere
 
 -*who_beralde
 Hé bien, mon Frère, que dites-vous du plaisir que vous venez d'avoir, cela ne vaut-il pas bien une prise de Casse ?
@@ -2447,7 +2447,7 @@ Monsieur, vous oubliez votre bâton ; vous ne songez pas que vous ne sauriez ma
 -*who_argan
 Tu as raison, donne vite.
 
-**** *book_ *id_III02 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1673 *creator_moliere
 
 -*who_toinette
 Eh, Monsieur, n'avez-vous point de pitié pour votre Nièce, et la laisserez-vous sacrifier au caprice de son Père, qui veut absolument qu'elle épouse ce qu'elle hait le plus au monde?
@@ -2472,7 +2472,7 @@ Quel est-il ?
 -*who_toinette
 Vous verrez ce que c'est, j'entends votre Frère secondez-moi bien seulement.
 
-**** *book_ *id_III03 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1673 *creator_moliere
 
 -*who_beralde
 Je veux, mon Frère, vous faire une prière avant que de vous parler d'affaires.
@@ -2621,7 +2621,7 @@ Par la mort non d'un diable, je les attraperais bien quand ils seraient malades,
 -*who_beralde
 Ils ne s'exposent point à de pareilles épreuves, et ils savent très bien se guérir eux-mêmes lorsqu'ils sont malades.
 
-**** *book_ *id_III04 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1673 *creator_moliere
 
 -*who_fleurant
 C'est un petit Clystère que je vous apporte ; prenez vite, Monsieur, prenez vite, il est comme il faut, il est comme il faut.
@@ -2647,7 +2647,7 @@ On voit bien, Monsieur, que vous n'avez pas accoutumé de parler à des visages.
 -*who_fleurant
 Que voulez-vous dire avec vos visages ? sachez que je ne perds pas ainsi mes pas, et que je viens ici en vertu d'une bonne Ordonnance, et vous Monsieur, vous vous repentirez du mépris que vous en faites, je vais le dire à Monsieur Purgon, vous verrez, vous verrez.
 
-**** *book_ *id_III05 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1673 *creator_moliere
 
 -*who_argan
 Mon Frère, vous allez être cause ici de quelque malheur ; et je crains fort que Monsieur Purgon ne se fâche quand il saura que je n'ai pas pris son Lavement.
@@ -2675,7 +2675,7 @@ Ah ! j'étais bien étonné si l'on ne me parlait pas de la pauvre femme, c'est
 -*who_beralde
 Ah ! j'ai tort, il est vrai, c'est une femme qui a trop d'amitié pour vos enfants ; et qui pour l'amitié qu'elle leur porte, voudrait les voir toutes deux bonnes Religieuses.
 
-**** *book_ *id_III06 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1673 *creator_moliere
 
 -*who_purgon
 Qu'est-ce ? on vient de m'apprendre de belles nouvelles.
@@ -2798,7 +2798,7 @@ Monsieur Purgon ?
 -*who_purgon
 De l'Apoplexie dans la privation de la vie où vous aura conduit votre folie.
 
-**** *book_ *id_III07 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1673 *creator_moliere
 
 -*who_argan
 Ah, c'en est fait, de moi, je suis perdu, je n'en puis revenir ; ah je sens déjà que la Médecine se venge.
@@ -2827,7 +2827,7 @@ Mon Dieu, mon Frère, puisque c'est une nécessité pour vous d'avoir un Médeci
 -*who_argan
 Ah, mon frère, il connaissait mon tempérament, et savait mon mal mieux que moi-même.
 
-**** *book_ *id_III08 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III08 *act_III *date_1673 *creator_moliere
 
 -*who_toinette
 Monsieur, il y a un Médecin à la porte qui souhaite parler à vous.
@@ -2841,7 +2841,7 @@ C'est un Médecin de la Médecine qui me ressemble comme deux gouttes d'eau ; e
 -*who_argan
 Dis-lui qu'il prenne la peine d'entrer, c'est sans doute un Médecin qui vient de la part de Monsieur Purgon, pour nous bien remettre ensemble ; il faut voir ce que c'est, et ne pas laisser échapper une si belle occasion de me raccommoder avec lui.
 
-**** *book_ *id_III09 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III09 *act_III *date_1673 *creator_moliere
 
 -*who_toinette
 Monsieur, quoique je n'aie pas l'honneur d'être connu de vous, ayant appris que vous êtes malade, je viens vous offrir mon service pour toutes les purgations et les saignées dont vous aurez besoin.
@@ -3111,7 +3111,7 @@ Vous verrez par le regret qu'elle témoignera de votre perte, l'amitié qu'elle 
 -*who_argan
 Oui, oui, oui, oui ; bon, bon, bon, bon.
 
-**** *book_ *id_III10 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III10 *act_III *date_1673 *creator_moliere
 
 -*who_toinette
 Ah Ciel ! quelle cruelle aventure ! quel malheur imprévu vient de m'arriver ? que ferai-je malheureuse ?
@@ -3173,7 +3173,7 @@ Mais j'aperçois votre fille, retournez-vous-en où vous étiez ; et vous remet
 -*who_argan
 Tu as raison, tu as raison.
 
-**** *book_ *id_III11 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III11 *act_III *date_1673 *creator_moliere
 
 -*who_toinette
 Ah quel étrange accident ! mon pauvre Maître est mort ; que de larmes, que de pleurs il nous va coûter ! quel désastre ! s'il était encore mort d'une autre manière, on n'en aurait pas tant de regret ! ah ! que j'en ai de déplaisir ; ha, ha, ha !
@@ -3195,7 +3195,7 @@ Ha, ha.
 -*who_angelique
 Mon Père est mort, et justement dans le temps où il était en colère contre moi, par la résistance que je lui ai faite tantôt, en refusant le Mari qu'il me voulait donner ? que deviendrai-je, misérable que je suis ? et comment cacher une chose qui a paru devant tant de personnes ?
 
-**** *book_ *id_III12 *act_III *date_1675 *creator_moliere
+**** *book_ *id_III12 *act_III *date_1673 *creator_moliere
 
 -*who_cleante
 Juste Ciel ! que vois-je ? dites, qu'avez-vous, belle Angélique ?
@@ -3288,7 +3288,7 @@ Y consentez-vous ?
 -*who_angelique
 Il le faut bien.
 
-**** *book_ *id_IIIb *date_1675 *creator_moliere
+**** *book_ *id_IIIb *date_1673 *creator_moliere
 
 Troisième Intermède
 

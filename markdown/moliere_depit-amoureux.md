@@ -1,7 +1,7 @@
 ---
 identifier: moliere_depit-amoureux  
 creator: Molière  
-date: 1663  
+date: 1656  
 title: Le Dépit amoureux  
 ---
 

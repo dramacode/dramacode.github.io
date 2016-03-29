@@ -1,7 +1,7 @@
 ---
 identifier: moliere_tartuffe  
 creator: Molière  
-date: 1669  
+date: 1664  
 title: Le Tartuffe, ou L’Imposteur  
 ---
 

@@ -631,7 +631,7 @@ p. 79 : FIN DU CINQUIEME ET DERNIER ACTE.
  – 
 
 
-## PROLOGUE
+## PROLOGUE 
 Le Theatre represente un lieu rustique, embelly par la Nature, de Rochers & de Cascades.
 
 
@@ -643,7 +643,7 @@ Rendons-luy des honneurs dignes de sa presence.
 Rendons-luy des honneurs dignes des grands exploits          
 Qui consacrent le Nom du plus puissant des Roys.  
 
-    CHŒURS D’HABITANS & DE BERGERS HEROÏQUES.
+    CHŒURS D’HABITANS & DE BERGERS HEROÏQUES. 
 LOUIS est triomphant, tout céde à sa puissance,  
 La Victoire en tous lieux, fait reverer ses Loix.  
 Pour la voir avec nous toujours d'intelligence,  
@@ -833,7 +833,7 @@ Et lorsqu'en ce peril, comme l'amour l'ordonne,
 Jason veut de Créüse aquerir la faveur,  
 Faut-il que ce soins⁎ vous étonne ?  
 
-    MEDÉE.
+    MEDÉE. 
 Qu'il soit abandonné de Créüse & du Roy,  
 S'il luy faut un appuy, ne l'a-t-il pas en moy ?  
 Quand de Colchos il prit la fuite,  
@@ -888,7 +888,7 @@ S'il faut d'un fier destin suivre la loy⁎ cruelle,
 Ils trouveront un azyle en ces lieux ;  
 La Princesse les doit retenir auprés d'elle.  
 
-    MEDÉE.
+    MEDÉE. 
 C'est estre genereuse.  
 
     JASON.
@@ -917,7 +917,7 @@ Quoy [104] vous me soupçonnez ?
         Jason doit me connaistre ;  
 Il me coûte assez cher pour ne le perdre pas.  
 
-    JASON.
+    JASON. 
 Ah ! que me dites-vous ?  
 
     MEDÉE
@@ -1069,7 +1069,7 @@ Voyez nos peuples accourir,
 Et souffrez que leur joye auprés de vous s'exprime.  
 
 
-### Scene sixième.
+### Scene sixième. 
 Creon, Jason, Oronte. Troupe de Corinthiens & d'Argiens.
 
 
@@ -1119,7 +1119,7 @@ Nous ferons triompher & la gloire⁎& l'amour.
 Fin du premier Acte.
 
 
-## Acte second.
+## Acte second. 
 Le Theatre represente un Vestibule, orné d'un grand Portique.
 
 
@@ -1226,7 +1226,7 @@ Que [126] de céder au temps [127] ;
 Faisons taire les mécontens.  
 
 
-### Scène seconde.
+### Scène seconde. 
 Creon, Medée, Créüse, Cléone.
 
 
@@ -1365,7 +1365,7 @@ De l'amour à nos cœurs, faisons suivre l'empire :
 Le plaisir d'estre aimé passe tous les plaisirs.  
 
 
-### Scène sixième.
+### Scène sixième. 
 Oronte, Créüse, Jason, Cléone.
 
 
@@ -1392,7 +1392,7 @@ Et qu'icy mille voix par un doux assemblage,
 De mon amour vous parlent avec moy.  
 
 
-### Scene septième.
+### Scene septième. 
 Un petit Argien representant l'Amour, paroist dans un char traisné par des captifs de differentes nations & de tout sexe.
 
 Créüse, Jason, Oronte, Cléone.
@@ -1501,7 +1501,7 @@ L'hommage est sincere,
 D'un amant qui veut plaire  
 L'hommage est constant.  
 
-    LES TROIS CAPTIFS.
+    LES TROIS CAPTIFS. 
 Aimer & l'oser dire,  
 C'est ce qu'il desire ;  
 Aimer & l'oser dire,  
@@ -1559,7 +1559,7 @@ L'amant que tu veux rendre heureux,
 Est seur de l'estre par la gloire⁎ ;  
 La gloire⁎ est l'objet de ses vœux.  
 Ton triomphe est certain, victoire, Amour, victoire.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## Acte III.
@@ -1635,7 +1635,7 @@ Deust payer le beau feu⁎ qui regne dans mon cœur ?
 Souffrirez-vous qu'on vous enleve  
 Ce cher objet de vos desirs ?  
 
-    ORONTE.
+    ORONTE. 
 Si cette trahison vous coûte des soupirs,  
 Souffrirez-vous qu'elle s'acheve ?  
 
@@ -1832,7 +1832,7 @@ La devorante ardeur⁎ de vos feux⁎ invisibles.
 Il paroît tout à coup une Troupe de Demons.
 
 
-    CHŒUR DE DEMONS.
+    CHŒUR DE DEMONS. 
 L'Enfer obéït à ta voix,  
 Commande, il va suivre tes loix [171].  
 
@@ -1898,7 +1898,7 @@ Medée emporte la robe & les Demons disparoissent.
 Fin du troisième Acte.
 
 
-## Acte IV.
+## Acte IV. 
 Le Theatre represente l'avant-cour d'un Palais, & un jardin magnifique dans le fonds.
 
 
@@ -1924,7 +1924,7 @@ Elle paroist. Voyez quel air de Majesté
 Anime & soutient sa beauté.  
 
 
-### Scene seconde.
+### Scene seconde. 
 Créüse, Jason, Cleone.
 
 
@@ -1987,7 +1987,7 @@ Et son importune presence
 Me force à m'éloigner de vous.  
 
 
-### Scene troisième.
+### Scene troisième. 
 Oronte, Jason.
 
 
@@ -2070,7 +2070,7 @@ Laissez-moy seule icy ; dans [180] ce que je medite
 J'ay besoin de calmer le trouble qui m'agite.  
 
 
-### Scene cinquième.
+### Scene cinquième. 
 Medée, Nerine.
 
 
@@ -2094,7 +2094,7 @@ C'est par l'endroit le plus sensible
 Qu'il faut porter les derniers coups.  
 
 
-### Scene sixième.
+### Scene sixième. 
 Créon, Medée, Nerine, Gardes.
 
 
@@ -2119,7 +2119,7 @@ Ignorez-vous que je commande icy,
 Et que mes volontez y seront souveraines ?  
 C'est à moy seul de les regler.  
 
-    MEDÉE.
+    MEDÉE. 
 Creon, sur ton pouvoir cesse de t'aveugler. [186]  
 Tu prens une trompeuse idée  
 De te croire en estat de me faire la loy⁎ ;  
@@ -2270,7 +2270,7 @@ Jusqu'où va la noirceur de ses enchantemens.
 Fin du quatriéme Acte.
 
 
-## Acte V.
+## Acte V. 
 Le Theatre represente le Palais de Medée.
 
 
@@ -2368,7 +2368,7 @@ Mais on n'offence pas Medée impunément ;
 D'une entreprise⁎ si hardie  
 L'Univers étonné verra le châtiment.  
 
-    CRÉÜSE.
+    CRÉÜSE. 
 Ah, reprenez Jason, & me rendez mon Pere.  
 Que Jason parte, & qu'il fuye avec vous.  
 
@@ -2389,7 +2389,7 @@ Dieux cruels, est-ce ainsi que vostre haine accable
 Ceux que vous devez soutenir ?  
 
 
-### Scène troisième.
+### Scène troisième. 
 Créüse, Medée, Nerine, Cléone.
 
 Chœur de Corinthiens.
@@ -2414,7 +2414,7 @@ Ce que peut un prompt desespoir.
     CRÉÜSE. 
 Helas !  
 
-    CLEONE.
+    CLEONE. 
         Dans ce malheur extrême,       
 Chacun s'est empressé de luy prêter secours.  
 Le Roy dans ce moment a terminé ses jours,  
@@ -2439,7 +2439,7 @@ C'est assez, laissez-moy, vos pleurs ne font qu'aigrir,
 Les maux que je me dois preparer à souffrir⁎.  
 
 
-### Scene quatrième.
+### Scene quatrième. 
 Medée, Créüse, Nerine, Cleone.
 
 
@@ -2484,7 +2484,7 @@ Mon mal est sans remede, à quoy servent ces pleurs ?
 Rien ne peut soûlager l'excez de mes douleurs.  
 
 
-### Scène sixième.
+### Scène sixième. 
 Jason, Créüse, Cleone.
 
 

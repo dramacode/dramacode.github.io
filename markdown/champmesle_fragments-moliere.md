@@ -313,7 +313,7 @@ Page 36 : oh corrigé en : or / 37 : fera en : sera / 38 : qui a-t-il en :
 Page 5 : Oüy ? corrigé en Oüy. / 13 : Parsanguenne çay-je en Parsanguenne, çay-je / 14 : gager ; çay-je en gager, çay-je, icy ; çay-je fait morguienne en icy ? çay-je fait ; morguienne, dix sols, que, si, je en dix sols que si ? Je / 15 : justement Charlote comment en justement, Charlote, comment / 18 : à te dire moy. en à te dire, moy. / 23 : donc là Charlote en donc là, Charlote / 24 : Ah la jolie en Ah ! la jolie / 25 : La peste le joly tendron. en La peste, le joly tendron !, Regarde Gusman qu'elle est bien prise. en Regarde, Gusman, qu'elle est bien prise. / 28 : Ah les belles dents, en Ah ! les belles dents, / 30 : Ah que de brüit. en Ah ! que de brüit. / 31 : veux pas moy. en veux pas, moy., notte barbe ; en notte barbe ?, Hein. en Hein ! / 34 : plus que. la en plus que la / 37 : non sera, non sera, vostre Monsieur le Monsieur en non sera, non sera vostre Monsieur, le Monsieur, Ah voicy en Ah, voicy / 43 : Juge. Eh ? en Juge ? Eh ? / 44 : Comment marauts, en Comment, marauts,, bon pied ; bon œil. en bon pied, bon œil. / 45 : oh je me mocque en oh, je me mocque / 46 : là-dessus. J'iray en là-dessus, j'iray / 49 : dedans. Le premier en dedans, le premier / 55 : Mais Monsieur. en Mais Monsieur… / 56 : vous M*r* Gusman ? en vous, M*r* Gusman ? / 58 : Oh pargué vela en Oh, pargué, vela.
 
 
-# LES FRAGMENS DE MOLIERE. COMEDIE.
+# LES FRAGMENS DE MOLIERE. COMEDIE. 
 
 
 ## PERSONNAGES.
@@ -325,7 +325,7 @@ Page 5 : Oüy ? corrigé en Oüy. / 13 : Parsanguenne çay-je en Parsanguenne
  – le juge.
  – d. jouan.
  – m*r* dimanche.
- – SILVESTRE.
+ – SILVESTRE. 
 
 
 ## ACTE I.
@@ -344,7 +344,7 @@ Charlote, Belle Charlote !
     LIGNON.
 Pourquoy, cruel Amour…
 
-    JOURDAIN.
+    JOURDAIN. 
 Si l'ardeur de la flâme…
 
     LIGNON.
@@ -377,7 +377,7 @@ Si tu veux montrer ton pouvoir…
     JOURDAIN.
 Pour obtenir de tes bontez [22]…
 
-    LIGNON.
+    LIGNON. 
 En nous forçant d'aimer…
 
     JOURDAIN.
@@ -410,7 +410,7 @@ Mais si toute mon ardeur…
     LIGNON.
 Veux-tu que tes moindres plaisirs…
 
-    JOURDAIN.
+    JOURDAIN. 
 Tous mes soins et tous mes respects…
 
     LIGNON.
@@ -434,7 +434,7 @@ Oüy ; mais je suis un Amant qui ay besoin de cette place pour soûpirer.
     LIGNON.
 Je suis aussi un Amant qui ay affaire de ce lieu-cy pour resver à mon amour.
 
-    JOURDAIN.
+    JOURDAIN. 
 Vous estes Amant ?
 
     LIGNON.
@@ -464,7 +464,7 @@ Vous vous moquez.
     LIGNON.
 Moy !
 
-    JOURDAIN.
+    JOURDAIN. 
 Oüy.
 
     LIGNON.
@@ -494,7 +494,7 @@ Je l'aime aussy.
     LIGNON.
 Vous l'aimez aussi, Pasteur ?
 
-    JOURDAIN.
+    JOURDAIN. 
 Oüy, Pasteur ; mais puis-je sçavoir le nom de mon Rival ?
 
     LIGNON.
@@ -518,7 +518,7 @@ Il y a des Remedes plus humains que cela, si nous voulons nous en servir.
     LIGNON.
 Et quels ?
 
-    JOURDAIN.
+    JOURDAIN. 
 Ouy, avez-vous declaré votre amour ? [25]
 
     LIGNON.
@@ -538,7 +538,7 @@ LIGNON, JOURDAIN, CHARLOTE.
     JOURDAIN.
 Belle Nymphe, vous voyez icy deux Fleuves tous deux amoureux de vous.
 
-    LIGNON.
+    LIGNON. 
 Oüy, nous sommes deux pauvres Amans nécessiteux, qui viennent à vostre Porte vous demander l'aumône de vos bonnes graces.
 
     JOURDAIN.
@@ -553,7 +553,7 @@ N'avez-vous point veu Pierrot ? Je ne sçay où il est depuis ce matin qu'il s'
     JOURDAIN.
 Ah, trois et quatre fois belle et trop belle Beauté, nous n'avons rien veu icy que le mérite des perfections de vos avantages.
 
-    LIGNON.
+    LIGNON. 
 Cela est vray, belle Nymphe.
 
     CHARLOTE.
@@ -596,7 +596,7 @@ Non, ne nous pendons point. Je trouve que pour nostre disgrace ce n'est pas asse
 Ah ! voicy nostre Rival ; retirons-nous, Pasteur, de peur de quelques demeslez.
 
 
-    LIGNON.
+    LIGNON. 
 Cela est vray, Pasteur.
 
 
@@ -634,7 +634,7 @@ Est-ce qu'il est encore tout nud, Pierrot ?
     PIERROT.
 Nanain, ils l'avon r'habillé devant nou. Mon Dieu, je n'en avois jamais veu s'habiller, que d'histoire et d'angins gorniaux [43] ils boutons⁎, ces Messieus-là : Je me pardrais là-dedans, pour moy, et j'estois tout ébauby [44] de voir ça : Tien Charlote, ils avons des cheveux qui ne tenans point à leurs testes, et ils boutons ça aprés tout, comme un gros bonnet de filace [45]. Ils ant des chemises qui ant des manches où j'entrerien tout brandy toy et moy [46]. En lieu d'audechausse [47] ils portons un garderobe aussi large que d'icy à Pasques. En lieu de pourpoint [48], de petites brassieres qui ne leur venons pas jusqu'au brichet [49], et en lieu de rabat, un grand mouchoir de cou [50] à risiau, avec quatre grosses houpes [51] de linge qui leur pendon sur l'estomac. Ils avon itou d'autres petits rabats au bout des bras, et parmi tout ça tant de ribans que c'est grande piquié. Il n'y a pas jusqu'aux souliez qui n'en soiont tous farcy, tout depuis un bout jusqu'à l'autre ; et ils sont faits d'une façon que je me romprois le cou aveuc.
 
-    CHARLOTE.
+    CHARLOTE. 
 Il faut que j'aille voir un peu ça.
 
     PIERROT.
@@ -655,7 +655,7 @@ Il y a que tu me chagrines l'esprit, franchement.
     CHARLOTE.
 Comment donc ?
 
-    PIERROT.
+    PIERROT. 
 Testedienne⁎, tu ne m'aimes point.
 
     CHARLOTE.
@@ -679,7 +679,7 @@ Jernidienne⁎ je veux que tu m'aimes.
     CHARLOTE.
 Est-ce que je ne t'aime pas ?
 
-    PIERROT.
+    PIERROT. 
 Non, tu ne m'aimes pas ; et si [54] je fais tout ce que je pis pour ça. Je t'achette sans reproche des ribans à tous les maciez [55] qui passon. Je me romps le cou à t'aller dénicher des marles. Je fais joüer pour toy les Vielleux [56] quand se vient ta Feste, et tout ça comme si je me frapois la teste contre un mur. Vois-tu, ça n'est ny bian ny honneste de n'aimer pas les gens qui nous aimon.
 
     CHARLOTE.
@@ -694,7 +694,7 @@ Qu'est-ce que tu veux qu'on fasse ?
     PIERROT.
 Je veux que l'on fasse comme on fait quand on aime comme il faut.
 
-    CHARLOTE.
+    CHARLOTE. 
 Mais je t'aime comme il faut.
 
     PIERROT.
@@ -753,7 +753,7 @@ Par ma foy il semble que nous n'ayons jamais bû que du vin, et nous voila aussi
     D. JUAN.
 Tais-toy. Ah ! la jolie Personne, Gusman.
 
-    GUSMAN.
+    GUSMAN. 
 La peste, le joly tendron [67] !
 
     D. JUAN.
@@ -771,7 +771,7 @@ Ho, Monsieur, il y a bien des filles et des garçons dans notre hameau.
     D. JUAN.
 Il faut que vous quittiez une si triste demeure.
 
-    CHARLOTE.
+    CHARLOTE. 
 Ho, Monsieur, mon pere me vouloit marier au gros Lucas, mais ma mere n'a pas voulu, à cause qu'il me falloit aller demeurer à trois lieuës d'icy avec luy.
 
     D. JUAN.
@@ -807,7 +807,7 @@ O Monsieur, vous ne voudriez pas aimer une petite fille comme moy.
     GUSMAN.
 Si fait, si fait, je vous en répons.
 
-    CHARLOTE.
+    CHARLOTE. 
 Mais, Monsieur, il faut demander à ma mere.
 
     GUSMAN.
@@ -828,7 +828,7 @@ O Monsieur, quand j'ay mes habits des Dimanches.
     D. JUAN.
 Ah ! les belles dents, montrez-les-moy encore de grace ; quel rang de perles, quelles mains, elles sont faites au tour [72] ; quelle blancheur !
 
-    CHARLOTE.
+    CHARLOTE. 
 O Monsieur, si j'avois sçeu ça, je les aurois lavées ce matin avec du son [73], elles seroient bien plus blanches.
 
     DON JUAN.
@@ -838,7 +838,7 @@ Ma belle enfant, souffrez qu'un baisé….
 O Monsieur, ma mere m'a dit qu'il ne falloit pas baiser les hommes, je ne baise pas seulement [74] Pierrot.
 
     DON JUAN.
-Tant mieux, ma belle, tant mieux, abandonnez-moy seulement vostre main ; je ne me sens pas de joye et rien n'égale le ravissement où je suis.
+Tant mieux, ma belle, tant mieux, abandonnez-moy seulement vostre main ; je ne me sens pas de joye et rien n'égale le ravissement où je suis. 
 
 
 ### SCÈNE V.
@@ -857,7 +857,7 @@ Je vous dis qu'ou vous teniais, et que vous ne caressiais pas nos accordées [76
     D. JUAN.
 Ah ! que de brüit.
 
-    PIERROT.
+    PIERROT. 
 Jernidienne⁎, ce n'est pas comme ça qu'il faut pousser les gens.
 
     CHARLOTE.
@@ -899,7 +899,7 @@ Jarnigué⁎, oüy, j'aime mieux te voir crever, que de te voir à un autre.
     CHARLOTE.
 Va va Pierrot, tu porteras des fromages cheux nous.
 
-    PIERROT.
+    PIERROT. 
 Ventredienne⁎, je n'y en porteray jamais quand tu m'en poirois [80] deux fois autant qu'un autre ; est-ce donc comme ça que t'escoutes ce qu'il te dit ? Morguienne⁎, si j'avois sceu ça tantost, je me serois bien gardé de le tirer de liau, et je luy aurois baillé⁎ un bon coup d'aviron sur la teste.
 
     D. JUAN.
@@ -920,7 +920,7 @@ Voyons cela.
     PIERROT.
 J'en avons bian veu d'autres.
 
-    GUSMAN.
+    GUSMAN. 
 Eh ! laisse-le faire, mon pauvre garçon, et ne luy dis rien.
 
     PIERROT *luy donnant un souflet.*
@@ -942,7 +942,7 @@ Tout de bon, vous tient-elle au cœur ?
 Oüy, Gusman, et je craindrois plus que la mort qu'elle fust querellée par son pere.
 
     GUSMAN.    [35]
-Ecoutez, pour servir vostre passion, vous sçavez que j'ay accoûtumé d'entreprendre bien des choses ; laissez-moy faire, j'ay déja beu avec son pere, et ce sont de ces bonnes gens qui font connnoissance en deux verres de vin. J'imagine une piece assez plaisante pour l'intimider et l'empescher de quereller sa fille. Reposez-vous sur moy ; je luy vay mettre mon camarade en teste [82], et de la façon dont je conduiray la chose, je vous promets de servir vostre amour. Allons seulement faire un doigt de collation.< Fin du premier acte. >
+Ecoutez, pour servir vostre passion, vous sçavez que j'ay accoûtumé d'entreprendre bien des choses ; laissez-moy faire, j'ay déja beu avec son pere, et ce sont de ces bonnes gens qui font connnoissance en deux verres de vin. J'imagine une piece assez plaisante pour l'intimider et l'empescher de quereller sa fille. Reposez-vous sur moy ; je luy vay mettre mon camarade en teste [82], et de la façon dont je conduiray la chose, je vous promets de servir vostre amour. Allons seulement faire un doigt de collation.< Fin du premier acte. > 
 
 
 ## ACTE SECOND.
@@ -956,7 +956,7 @@ LE JUGE, CHARLOTE.
 Mon pere, pourquoy me tourmentez-vous ? Est-ce ma faute si j'aime mieux ce Monsieur que ce gros vilain Pierrot que vous me voulez donner ?
 
     LE JUGE.
-Allons, petite baboüine, allons, vous aimez donc les Monsieur ; or je vous apprendray que les Monsieur ne sont pas pour vous, et que vous n'estes pas pour eux. Rentrez au logis, et qu'il ne vous arrive plus de songer à d'autres qu'à Pierrot, c'est luy qui sera mon gendre, il a bon mestier, et vous ne sçauriez mourir de faim avec luy. Adieu, qu'on ne m'en souffle pas seulement un petit mot. Voyez-vous, il leur faut des godeluriaux [83], de ces petits muguets [84] bastis comme des poupées, avec leurs grands cheveux et leurs petites épées ; non sera, non sera vostre Monsieur, le Monsieur ne sera pas pour vous, ma fille. Ah, voicy son Valet de Chambre, c'est le plus honneste d'eux tous, celuy-là, car dés le matin nous avons bû ensemble.
+Allons, petite baboüine, allons, vous aimez donc les Monsieur ; or je vous apprendray que les Monsieur ne sont pas pour vous, et que vous n'estes pas pour eux. Rentrez au logis, et qu'il ne vous arrive plus de songer à d'autres qu'à Pierrot, c'est luy qui sera mon gendre, il a bon mestier, et vous ne sçauriez mourir de faim avec luy. Adieu, qu'on ne m'en souffle pas seulement un petit mot. Voyez-vous, il leur faut des godeluriaux [83], de ces petits muguets [84] bastis comme des poupées, avec leurs grands cheveux et leurs petites épées ; non sera, non sera vostre Monsieur, le Monsieur ne sera pas pour vous, ma fille. Ah, voicy son Valet de Chambre, c'est le plus honneste d'eux tous, celuy-là, car dés le matin nous avons bû ensemble. 
 
 
 ### SCENE II.
@@ -975,7 +975,7 @@ Qu'y a-t-il pour vostre service ? Vous estes un brave homme, vous ; et de tout
     GUSMAN.
 Monsieur, je vous suis bien obligé, et aussi en récompense je vous viens avertir de quelque petite chose qui vous touche.
 
-    LE JUGE.
+    LE JUGE. 
 Moy !
 
     GUSMAN.
@@ -1025,7 +1025,7 @@ Il est vray qu'il ne veut pas consentir à ce mariage, parce que sa parole est e
     SILVESTRE.
 Par la mort, par la teste, par le ventre, si je le trouve, je le veux échigner, deussay-je estre roüé tout vif.
 
-    GUSMAN.
+    GUSMAN. 
 Hé, Monsieur, c'est un honneste homme, peut-estre ne vous craindra-t'il point.
 
     SILVESTRE.
@@ -1069,7 +1069,7 @@ C'est ce que je demande, morbleu ; c'est ce que je demande : ah, teste ; ah, 
 ⁎Il met l'épée à la main, et pousse des bottes de tous costez, et devant les yeux du Juge.
 
 
-    GUSMAN.
+    GUSMAN. 
 Nous n'en sommes pas.
 
     SILVESTRE.
@@ -1100,7 +1100,7 @@ Oh, je n'en doute pas ! on voit bien que vous estes un homme ferme.
 Je m'en vais un peu consulter ce que j'ay à faire, et si on ne me conseille rien de bon là-dessus, j'iray assembler le Village, et on sonnera le toxin [93] sur vostre Maistre et sur vous.
 
     GUSMAN.
-La peste soit le vieux fou, il nous va attirer icy quelque défluxion [94] sur les épaules.
+La peste soit le vieux fou, il nous va attirer icy quelque défluxion [94] sur les épaules. 
 
 
 ### SCENE IV. [95]
@@ -1154,7 +1154,7 @@ D. JUAN, GUSMAN, M*r* DIMANCHE.
     D. JUAN.
 Ah, que vois-je ? M*r* Dimanche icy ! quelle heureuse rencontre !
 
-    M*r* DIMANCHE.
+    M*r* DIMANCHE. 
 Monsieur….
 
     D. JUAN.
@@ -1172,7 +1172,7 @@ Monsieur, c'est beaucoup d'honneur que vous me faites ; mais si vous y vouliez 
     D. JUAN.
 Comment se porte Madame Dimanche vostre femme ?
 
-    M*r* DIMANCHE.
+    M*r* DIMANCHE. 
 Fort à vostre service, Monsieur. Je voudrois donc vous prier….
 
     D. JUAN.
@@ -1211,7 +1211,7 @@ Il vous ressemble comme deux goutes d'eau.
     M*r* DIMANCHE.
 Voyez-vous, Monsieur, dans le negoce si nous ne payons à jour nommé, on proteste d'abord contre nous ; c'est ce qui fait, Monsieur, que nous importunons quelquefois nos debiteurs ; et comme vous m'avez fait l'honneur de prendre….
 
-    D. JUAN.
+    D. JUAN. 
 A propos, vostre petit Chien est-il encore en vie ?
 
     GUSMAN.
@@ -1245,7 +1245,7 @@ Je sçay trop ce que je vous dois.
     M*r* DIMANCHE.
 Et oüy Môsieur, d'accord, mais le besoin…
 
-    D. JUAN.
+    D. JUAN. 
 Allons, allons, permettez-moy de vous conduire.
 
     M*r* DIMANCHE.

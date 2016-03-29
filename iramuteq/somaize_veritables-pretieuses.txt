@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_epitre *date_1660 *creator_somaize
+**** *book_ *id_epitre *date_1660 *creator_somaize 
 
 EPISTRE. A MONSEIGNEUR, MESSIRE HENRY LOUIS HABERT, Chevalier, Comte du Mesny Habert, Seigneur de Monmort, la Brosse, le Peray, le Fargis, & autres lieux, Conseiller du Roy en tous ses Conseils, & Maistre des Requestes ordinaires de son Hostel, &c.
 
@@ -17,7 +17,7 @@ De vostre tres-humble, tres-obeïssant, & tres-fidelle serviteur Jean Ribou.
 
 **** *book_ *id_preface *date_1660 *creator_somaize
 
-Preface.
+Preface. 
 
 Depuis que la modestie, & l'insolence sont deux contraires, on ne les a jamais veuës mieux unies qu'a fait dans la Preface l'Autheur pretendu des Pretieuses Ridicules : Car si nous examinons ses paroles, il semble qu'il soit assez modeste pour craindre de faire mestre son nom sous la presse, cependant il cache sous cette fausse vertu tout ce que l'insolence a de plus effronté, & met sur le theatre une Satyre, qui quoy que sous des images crotesques ne laisse pas de blaisser tous ceux qu'il a voulu accuser ; il fait plus de Critique, il s'erige en Juge, & condamne à la berne les Singes, sans voir qu'il prononce un Arrest contre luy en le prononçant contre eux, puis qu'il est certain qu'il est Singe en tout ce qu'il fait, & que non seulement il a copié les Pretieuses de Monsieur l'Abbé de Pure, joüées par les Italiens ; Mais encore qu'il a imité par une singerie, dont il est seul capable le Medecin volant, & plusieurs autres pieces des mesmes Italiens qu'il n'imite pas seulement en ce qu'ils ont joüé sur leur theatre ; mais encor en leurs postures, contrefaisant sans cesse sur le sien & Trivelin & Scaramouche ; mais qu'atendre d'un homme qui tire toute sa gloire des Mémoires de Gillot-Gorgeu, qu'il a acheptez de sa veufve, & dont il s'adopte tous les Ouvrages.
 
@@ -75,7 +75,7 @@ Ah ! ma chere, vous faites trop de despence en beaux discoursn pour me dauber s
 Ce que vous me dites là est du dernier obligeant⁎ ; mais si vous voulez que je vous donne un quart d'heure de divertissement, entrons dans mon cabinet je vous feray voir un innocentq que l'on m'a envoyé ; dont l'encombrement du stil, est capable de faire changer l'assiette de vostre ame.
 (q Poulet)
 
-**** *book_ *id_body-403 *act_ *date_1660 *creator_somaize
+**** *book_ *id_body-403 *act_ *date_1660 *creator_somaize 
 
 -*who_beatrix
 Dites moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n'entends⁎ point ce jargon & s'il faut qu'elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage & de nous remettre à l'abc.

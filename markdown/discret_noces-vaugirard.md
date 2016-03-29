@@ -503,7 +503,7 @@ Nous avons rectifié la ponctuation en corrigeant les coquilles et lorsque cela 
 # LES NOPCES DE VAvGIRARD [77], OU LES NAIFVETEZ CHAMPESTRES. PASTORALLE Dediée à ceux qui veulent rire.
 
 
-## EPISTRE SERVANT D'ADVERTISSEMENT à ceux qui veulent rire.
+## EPISTRE SERVANT D'ADVERTISSEMENT à ceux qui veulent rire. 
 
 MESSIEvRS,
 
@@ -518,7 +518,7 @@ Obeïssant serviteur
 L. C. D.
 
 
-## ARGUMENT.
+## ARGUMENT. 
 
 **A**marille est jointe par mariage à Floridon qu'elle n'ayme point sous promesse faite de l'advis de ses parens, & pour la contenter que Floridon ne cueillera le fruict de son amour, que six mois apres le jour de leurs nopces, pendant lequel temps Polydas fils d'une des Illustres maisons de Paris déguisé en Berger, & qui cherissoit grandement Amarille, promettoit de l'enlever secrettement, mais estant mandé⁎ à la nopce avec une jeune Bergere nommée Lidiane, qui estoit venuë avec sa mere demeurer à Vaugirard à cause des guerres qui estoient dans la Province de leur naissance [84]. Polydas devient amoureux de Lidiane, oublie la promesse qu'il avoit faicte à Amarille, & continuë ses amours avec elle, nonobstant les jalousies d'Amarille.
 
@@ -527,7 +527,7 @@ Pendant que Polydas, Lidiane, Pysandre, Cleanide, & Amarille Bergers, & Bergeres
 Polydas qui croit qu'elle est morte se precipite dans la grotte des Demons, Amarille qui se doute qu'elle est trompée, voyant que Polydas estoit precipité, s'y jette pareillement, laissans tous leurs parents dans une confusion épouventable, & en fin Lidiane repeschée, & ramenée par les Pescheurs au lieu où elle pensoit retrouver Polydas, est à l'instant prise par les Deputez de Vaugirard qui faisoient la recherche d'eux, par le soupçon qu'ils avoient que Polydas avoit efté le boutte-feu⁎, elle est ménée devant les Juges qui luy font son procez, & quelques prieres, & supplications que leur puissent faire les habitans du village, elle est par eux condamnée à estre precipitée dans la mesme grotte des Demons, où estoient Polydas, & Amarille ; mais comme on vient pour executer cette sentence, l'ombre⁎ de Castrape Magicien, qui avoit basty cette grotte, sort tenant Polydas d'une main, & Amarille de l'autre sains & sauves, arreste l'execution de cette condamnation, & faisant le recit de toutes leurs advantures, ordonne des mariages du bon homme Pancrace avec la vieille Luciane, dont les crotesques [86] amours sont naïfuement traictées, redonne Amarille à son Floridon Polydas à sa Lidiane, & Pyfandre à Cleanide, & par ces mariages inesperez calment les differents de tout le village, & leur cause une réjoüissance publique.
 
 
-## A. D. D. L. R. D. L. P. [87]
+## A. D. D. L. R. D. L. P. [87] 
 
 Beautez de qui les yeux captivent les franchises⁎  
 De tous les jeunes cœurs qui passent devant eux,  
@@ -557,7 +557,7 @@ Vous entendrez mes sentimens.
 **P**age 13, vers 4 lisez baise pour baiser p. 40. v.7. 1. sans vous veoir p.49.v.13. l. d'Orphee. p.53 v.18 & 19 l. affection au premier, & affliction au second. p.57.v.8. l. qu'un pour qu'en. p.58.v.10. l. faicts pour faictes. p.63.v.9. l. me parleront. p.101.v.15 l. seile pour sicle. p.107.v.10. l. qu'un pour qu'en.
 
 
-## Les Acteurs [90].
+## Les Acteurs [90]. 
  – PANCRACE,vieil Berger, pere d'Amarille.
  – FLORIDON,mary d'Amarille.
  – POLYDAS,Berger.
@@ -572,7 +572,7 @@ Vous entendrez mes sentimens.
  – LE GREFFIER DE VAUGIRARD.
  – LES DEPUTEZ DE VAUGIRARD.Un en trouppe.
  – L'OMBRE DU GRAND CASTRAPPEMagicien.
- – 
+ –  
 
 
 ## ACTE PREMIER.
@@ -1073,7 +1073,7 @@ Mais je veux retourner peur d'estre [126] encor surpris.
 Afin de remener [127] cette rare merveille,  
 Amour fais la moy veoir avant que je sommeille :  
 Favorise l'effet de mon contentement,  
-Et je te feray veoir que je suis vray amant.  
+Et je te feray veoir que je suis vray amant.   
 
 
 ## ACTE II.
@@ -1724,7 +1724,7 @@ Je croy que cét Echo qui respond quand j'apelle
 Pour en estre esclaircy je veux parler à elle.  
                     elle
 Ha que je suis fasché d'avoir tant arresté⁎  
-Ils riront maintenant de ma simplicité⁎.  
+Ils riront maintenant de ma simplicité⁎.   
 
 
 ### SCENE TROISIESME.
@@ -1806,7 +1806,7 @@ Croyez que Luciane est vostre humble servante.
 
     PANCRACE.
 Bonsoir ma Royne adieu ô celeste faveur,  
-Allons plus à loisir admirer ta valleur.  
+Allons plus à loisir admirer ta valleur.   
 
 
 ## ACTE III.
@@ -1971,7 +1971,7 @@ L'amour pour y aller me donnera des aisles,
 Amy fais qu'aujourd'huy j'en sache des nouvelles.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 AMARILLE, FLORIDON.
 
 
@@ -2372,7 +2372,7 @@ Je reçois trop d'honneur,
                     Il n'en faut point parler  
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 PYSANDRE, LIDIANE.
 
 
@@ -2698,7 +2698,7 @@ Or sus⁎ le jour s'en va, moy je m'en vais aussi,
 Jupin⁎, l'Amour, & Pan, prennent de moy soucy.  
 
 
-## ACTE IV.
+## ACTE IV. 
 POLYDAS, LUCIANE, PANCRACE, PYSANDRE, LIDIANE, AMARILLE, CLEANIDE, FLORIDON.
 
 
@@ -2750,7 +2750,7 @@ Prenant l'occasion ferme [212] au poil inconstant,
 J'iray ma Lidiane enlever à l'instant.  
 
 
-### SCENE DEUXSIEME.
+### SCENE DEUXSIEME. 
 LUCIANE. PANCRACE. PYSANDRE Trouppe de Pafteurs.
 
 
@@ -2910,7 +2910,7 @@ Il se precipite.
 
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 
     LUCIANE.
 **A**Ccablee d'ennuys⁎, de maux, d'afflictions,  
@@ -3042,7 +3042,7 @@ Elle se precipite.
 
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 PYSANDRE, CLEANIDE,
 
 
@@ -3319,7 +3319,7 @@ Le mal que Polydas est venu preparer.
 A tout le voisinage ! O bons dieux, que les filles  
 Sont cause de tourmens pour estre trop fragiles.  
 Que ne leur a-t-on fait un esprit moins malin,  
-Puisque c'est le secours du sexe masculin ?  
+Puisque c'est le secours du sexe masculin ?   
 
 
 ## ACTE V
@@ -3457,7 +3457,7 @@ Que jamais Polydas ne fut d'un crime autheur.
 
     FLORIDON.
 Vous estes trop rusee & pleine de malice,  
-Sus, allons la livrer és [237] mains de la Justice.  
+Sus, allons la livrer és [237] mains de la Justice.   
 
 
 ### SCENE DEUXIESME.
@@ -3811,7 +3811,7 @@ Dieux je ne puis aller tant, tout le corps me tremble.
 Prestez moy vostre main pour marcher fermement,  
 
     CLEANIDE.
-Pan face reussir le tout heureusement.  
+Pan face reussir le tout heureusement.   
 
 
 ### SCENE DERNIERE.

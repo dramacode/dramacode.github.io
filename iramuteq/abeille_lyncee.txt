@@ -34,7 +34,7 @@ Vous me dites encore que j'ayme, que j'espere .
 Ouy ; de Lyncée Iphis ne soyez point Jaloux,
 D'Hypermestre Jamais il ne sera l'Epoux.
 
--*who_iphis
+-*who_iphis 
 Dites , dites aussy , pour endormir ma hayne,
 Qu' Hipermestre consent à soulager ma peine.
 Que pour elle Lyncée est un objet d'horreur,
@@ -162,7 +162,7 @@ Moy du sang de son Pere arrosant ses genoux  ?
 Ah serons nous apres cette action cruelle,
 Elle digne de moy, moy mesme digne d'elle ?
 
--*who_erigone
+-*who_erigone 
 Non mon fils, je veux bien épargner sa vertu,    
 D'une si vaine peur ne sois pas combatu .
 Mais ne t'empresse point d'en sçavoir davantage ;
@@ -286,7 +286,7 @@ Il est triste, ses yeux accablez⁎ de langueur...
 Laisse moy penetrer le trouble de son coeur,
 Dircé retire toy.
 
-**** *book_ *id_body-203 *act_ *date_1681 *creator_abeille
+**** *book_ *id_body-203 *act_ *date_1681 *creator_abeille 
 
 -*who_erigone
       Quel funeste nuage,
@@ -513,7 +513,7 @@ Nos plaisirs eternels ainsy que nostre amour.
 -*who_hipermestre
 Prince voicy le Roy.
 
-**** *book_ *id_body-302 *act_ *date_1681 *creator_abeille
+**** *book_ *id_body-302 *act_ *date_1681 *creator_abeille 
 
 -*who_danaus
       Je trouble vostre Joye,
@@ -591,7 +591,7 @@ Que sans crainte à vos yeux la mienne se deploye,
 Vostre coeur malgré vous se trahit devant moy,
 Et des soupirs contraints…
 
--*who_danaus
+-*who_danaus 
       Aussy n'est ce qu'à toy,
 Qu'un Roy persecuté, qu'un Pere miserable,
 Ose ouvrir le secret du tourment qui l'accable⁎ :
@@ -639,7 +639,7 @@ Tandis que loin de moy... vous verrez l'imposture
 Allons Seigneur, voyons Erigone et son fils,
 Qu'ils parlent c'est assez.
 
--*who_danaus
+-*who_danaus 
       N'accusez point Iphis.
 Accusez s'il le faut un oracle celeste,
 Qui m'explique en ces mots leur pratique funeste,
@@ -831,7 +831,7 @@ Pour peindre des amans les douloureux combats,
 Il faut un coeur bien tendre et le tien ne l'est pas .
 Eh quoy ! toûjours Iphis !
 
-**** *book_ *id_body-402 *act_ *date_1681 *creator_abeille
+**** *book_ *id_body-402 *act_ *date_1681 *creator_abeille 
 
 -*who_iphis
       Mon coeur s'ouvre à la joye,
@@ -868,7 +868,7 @@ Mais que vostre recit m'epargne de soucis ;
 Vous estes trop heureux c'est assez vous en dire,
 Et jusques à demain ce mot vous doit suffire.
 
-**** *book_ *id_body-403 *act_ *date_1681 *creator_abeille
+**** *book_ *id_body-403 *act_ *date_1681 *creator_abeille 
 
 -*who_danaus
 Qu'on nous laisse. Madame admirez mon bonheur,
@@ -937,7 +937,7 @@ Que Danaus objet d'une commune hayne,
 Nous verra…Vien Dircé vien me tirer de ma peine,
 Qu'a t'il dit ?
 
-**** *book_ *id_body-405 *act_ *date_1681 *creator_abeille
+**** *book_ *id_body-405 *act_ *date_1681 *creator_abeille 
 
 -*who_dirce
       Ah Madame il marche sur mes pas,
@@ -972,7 +972,7 @@ Madame, et de vos mains j'obtiendray ma Princesse,
 Vous voyez que l'amour a bien conduit mes pas,
 Je vis encor, je viens, entrons, ne tardons pas.
 
--*who_erigone
+-*who_erigone 
 Lyncée , où courez vous ?
 
 -*who_lyncee
@@ -1131,7 +1131,7 @@ Puisque d'un tel forfait vous me croyez capable,
 Et que plus empressée à vous sauver le jour,
 Une autre a prevenu⁎ les soins⁎ de mon amour.
 
--*who_lyncee
+-*who_lyncee 
 Eh Madame cessez de differer ma peine,
 Sauvez moy par ma mort de l'amour de la Reyne,
 Elle m'ayme: j'ay pu l'ecouter un moment,
@@ -1171,7 +1171,7 @@ N'auray je à vos bourreaux arraché leur victime,
 Pour conserver vos jours abandonné des miens,
 Que pour oster la vie à ceux dont je la tiens ?
 
--*who_lyncee
+-*who_lyncee 
 Non vous ne serez point funeste à vostre Pere .
 Dissipez vos frayeurs ma promesse est sincere :
 Je ne voy plus en luy l'ennemi qui me perd,
@@ -1498,7 +1498,7 @@ S'apreste⁎ à vous porter un poignard dans le sein.
 -*who_danaus
 Que me dit elle , Iphis ?
 
--*who_hipermestre
+-*who_hipermestre 
       Que la fiere⁎ Erigone  
 Par des meurtres sans fin veut remonter au trône,
 Qu'immolant vos neveux par les mains de mes soeurs,
@@ -1538,7 +1538,7 @@ Vostre bonté pour nous peut elle chanceler ?
 Doutez vous quel dessein la fait ainsy parler ?
 Croyez vous…
 
--*who_danaus
+-*who_danaus 
       Je ne crois ny n'accuse personne .
 Iphis laissez moy seul... Je veux voir Erigone :
 Vous sçavez , si mon coeur vous fut jamais connu,
@@ -1691,7 +1691,7 @@ Hipermestre, Hipermestre est tout ce qu'ils demandent,
 Ils sont prests , disent ils , s'ils peuvent l'obtenir,
 D'abandonner nos bords pour n'y plus revenir.
 
--*who_danaus
+-*who_danaus 
 Vain pretexte! et mes gens ont quitté le Rivage,
 Ils ont cedé. Destins , achevez vos ouvrages,
 Et puisque vainement je m'oppose à vos coups,
@@ -1768,7 +1768,7 @@ Qu'est ce qui te retient ?
 -*who_iphis
       Madame...
 
--*who_erigone
+-*who_erigone 
       Que veux tu ?
 Esclave scrupuleux d'une fausse vertu,
 Indigne protecteur d'un tyran qui m'oprime,
@@ -1802,7 +1802,7 @@ Pour vanger mes parens, pour sauver une mere,
 Infortuné vangeur, amant desesperé,
 Triste vertu c'est vous que je sacrifieray.
 
-**** *book_ *id_body-602 *act_ *date_1681 *creator_abeille
+**** *book_ *id_body-602 *act_ *date_1681 *creator_abeille 
 
 -*who_erigone
 Il menace je croy. N'importe, qu'il acheve,
@@ -1919,7 +1919,7 @@ Allons attendre ailleurs le succes que j'espere ;    
 Tout aigrit en ces lieux nostre commun soucy,
 Nous serons dans Argos plus tranquiles qu'icy.
 
--*who_hipermestre
+-*who_hipermestre 
 Ah ! mon Pere mourroit de ce depart funeste,
 Il croit que vostre coeur est le seul qui luy reste,
 Ne l'abandonnez pas. Son plus ferme secours,
@@ -2035,7 +2035,7 @@ Rendez moy donc la mort que vous m'avez ravie,
 Achevez, prononcez l'arrest de mon trepas,
 Mais en le prononçant ne me haissez pas.
 
--*who_hipermestre
+-*who_hipermestre 
 Vous hair je ne puis, vous aymer je ne l'ose,
 Vous voyez mes soupirs, vous en estes la cause .
 Il suffit . Laissez moy dans ce malheureux jour,

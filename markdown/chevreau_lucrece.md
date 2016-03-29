@@ -1541,7 +1541,7 @@ Mais j'enten le combat où la gloire⁎ m'apelle,
 Adieu, cours à Lucresse [220] et sois toujours fidelle.  < Fin du premier Acte. >
 
 
-## ARGUMENT DU SECOND ACTE.
+## ARGUMENT DU SECOND ACTE. 
 
 Sexte entretient⁎ Maxime de la violence de sa passion, et quelque difficulté que Maxime oppose au dessein⁎ de ce jeune Prince : il est contraint luy-mesme d'aller voir Lucresse pour luy descouvrir ce secret. Cependant qu'ils sont à contester [221], Tullie arrive, que Sexte entretient⁎ du succez des armes de Tarquin ; ce qui luy oste la peur qu'elle avoit toujours euë, que le courage de ce Roy ne fût la cause de leur infortune. Lucresse apres avoir veu Misene, raconte à Cecilie un songe dont elle n'attend rien de bon : et commence à en espreuver l'éfet par la fausse nouvelle de la mort de son mary, que Maxime tasche de rendre veritable, pour l'assujettir par ce moyen plus facilement aux volontez de Sexte.
 
@@ -1984,7 +1984,7 @@ Icy elle tombe en pamoison, et on la porte dans sa chambre.
 < Fin du second Acte. >
 
 
-## ARGUMENT DU TROISIESME ACTE.
+## ARGUMENT DU TROISIESME ACTE. 
 
 Maxime dans la violence de la douleur de Lucresse [262] ; tasche de preparer son esprit à l'amour ; et s'imagine ce dessein⁎ assez facile en luy representant [263] que Colatin a trahy l'Empire, et qu'il s'est joint aux artifices⁎ de ceux d'Ardée pour venir plus facilement à bout des Romains. Mais cette vertueuse femme qui ne considere que la personne de son mary et sa qualité, sans s'arrester à ce vice dont elle n'oze le soupçonner ; n'est point de l'intelligence de ce Confident [264], et ne peut croire qu'une personne de sa reputation puisse l'écouter sans scandale.
 
@@ -2288,7 +2288,7 @@ Et de quelque costé, que vienne son malheur,
 Il faut à tout le moins [293] divertir sa douleur.  
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 TARQUIN, COLATIN, BRUTE.
 
 
@@ -2333,7 +2333,7 @@ C'est là que vous pourez finir vôtre tristesse⁎,
 Servez donc vôtre humeur⁎ [295], et contentez Lucresse.  
 
 
-### SCENE CINQUIESME.
+### SCENE CINQUIESME. 
 SEXTE. LUCRESSE dans un lit.
 
 
@@ -2459,12 +2459,12 @@ Cecilie au secours ? createurs de ces lieus,
 Helas ! si vous m'aimez jettez icy les yeus.  < Fin du troisiesme Acte. >
 
 
-## ARGUMENT DU QUATRIESME [306] ACTE.
+## ARGUMENT DU QUATRIESME [306] ACTE. 
 
 Lucresse ne croyant pas devoir conserver sa vie, apres avoir perdu son honneur⁎ ; se fait des armes de tout pour se faciliter la mort : mais elle en est empeschée par Cécilie, qui pour la flatter⁎ dans son mal-heur luy veut persuader que la force⁎ rend son peché excusable. Mal-gré les sentiments de Cécilie elle envoye une lettre dans laquelle son regret est assez visible ; mais où elle ne se blâme pas tout à fait, aiant esté violée, et où elle ne veut pas s'excuser estant adultere. Sexte et Maxime se doutant de la rage de Lucresse, et craignant les premiers mouvements du Peuple Romain, deliberent d'aller à Tarquin [307], pour obtenir le pardon d'une telle faute. Cependant qu'ils vont à Rome, le valet de Lucresse rencontre Colatin qui revenoit à Colatie, qui s'estant enquis de la santé de sa femme, treuve dans sa lettre un sujet de desespoir. Ayant sçeu l'autheur de cette infamie, il jure avec son beau-pere Lucretie, de punir une action si detestable ; et dés l'heure vont esmouvoir [308] tout le peuple et Brute principalement, qui n'attendoit que l'occasion de s'exenter de leur tyrannie ; et qui treuva celle-cy pour donner aux Romains la liberté pour laquelle ils faisoient des vœux secrets ; sans oser aller plus avant.
 
 
-## ACTE IV. [309]
+## ACTE IV. [309] 
 
 
 ### SCENE PREMIERE.
@@ -2610,7 +2610,7 @@ Fais ce que tu voudras, mais il faut que la mort
 Succede au desespoir que me livre le sort⁎.  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 MAXIME, SEXTE.
 
 
@@ -2662,7 +2662,7 @@ Cependant [320] j'ay finy le sujet de ma plainte ;
 Et si le repentir me rend triste⁎ ou confus,  
 C'est d'avoir eu de l'heur, et ne n'en avoir plus.  
 
-    MAXIME.
+    MAXIME. 
 Toutefois confessez.  
 
     SEXTE.
@@ -2835,7 +2835,7 @@ Il a forcé⁎ Lucresse, et ce Prince brutal
 A contenté ses sens d'un plaisir si fatal ?  
 
 
-### SCENE QUATRIESME.
+### SCENE QUATRIESME. 
 LUCRETIE. COLATIN.
 
 
@@ -2860,7 +2860,7 @@ Dieux qui sçavez l'autheur de cèt injuste éfort !
 Le pouvez vous bien voir sans luy donner la mort ?  
 Sexte a fait nos mal-heurs.  
 
-    LUCRETIE.
+    LUCRETIE. 
         Il faut tout entreprendre⁎,  
 Viste ne craignons rien, tachons de nous defendre.  
 Tel que [335] soit le tyran qui nous ôte l'honneur⁎,  
@@ -2881,9 +2881,9 @@ Aions pour nous vanger un dessein⁎ genereux⁎,
 Et faisons d'un grand Prince un pauvre malheureux.  < Fin du quatriesme Acte. >
 
 
-## ARGUMENT DU CINQUIESME ACTE.
+## ARGUMENT DU CINQUIESME ACTE. 
 
-Tarquin pensant joindre la joye à son triomphe, se treuve surpris du pardon que Sexte veut exiger de luy : apres avoir apris la nouvelle d'une action où il s'attendoit le moins ; il commande à son fils de se retirer ; ce que Sexte ne pùt refuser dans la crainte qu'ils avoient, que les ressentimens du peuple irritez par sa presence, ne se convertissent en fureur. Il s'en alla avec Maxime dans une petite colonie où il fut tüé un an apres [337]. Tullie ayant veu dans la passion du Prince, le commencement de son mal-heur, apprend que le peuple cherche Tarquin, et que Brute en ce rencontre [338] fait tout ce qui n'estoit pas impossible pour se delivrer de sa tyrannie. L'éfet succede à la crainte ; car Lucretie, Colatin, Brute et quelques autres, donnent la fuitte à leur Roy, et chassent toute la race des Tarquins [339]. Apres avoir contenté, leurs desirs, Colatin et Lucretie vont voir Lucresse, qui ne pouvant survivre à son deshonneur⁎, apres avoir prié Colatin de vanger son injure, tire secretement de son sein un poignard et se tüe voulant laisser par sa mort la mémoire de sa vie et de sa vertu⁎ aux nations les plus reculées.
+Tarquin pensant joindre la joye à son triomphe, se treuve surpris du pardon que Sexte veut exiger de luy : apres avoir apris la nouvelle d'une action où il s'attendoit le moins ; il commande à son fils de se retirer ; ce que Sexte ne pùt refuser dans la crainte qu'ils avoient, que les ressentimens du peuple irritez par sa presence, ne se convertissent en fureur. Il s'en alla avec Maxime dans une petite colonie où il fut tüé un an apres [337]. Tullie ayant veu dans la passion du Prince, le commencement de son mal-heur, apprend que le peuple cherche Tarquin, et que Brute en ce rencontre [338] fait tout ce qui n'estoit pas impossible pour se delivrer de sa tyrannie. L'éfet succede à la crainte ; car Lucretie, Colatin, Brute et quelques autres, donnent la fuitte à leur Roy, et chassent toute la race des Tarquins [339]. Apres avoir contenté, leurs desirs, Colatin et Lucretie vont voir Lucresse, qui ne pouvant survivre à son deshonneur⁎, apres avoir prié Colatin de vanger son injure, tire secretement de son sein un poignard et se tüe voulant laisser par sa mort la mémoire de sa vie et de sa vertu⁎ aux nations les plus reculées. 
 
 
 ## ACTE V.
@@ -2932,7 +2932,7 @@ Je sçay bien comme il faut rabatre ton orgueil,
 Pren garde que ce char ne te soit un cercueil [340].  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 MAXIME, SEXTE, BRUTE, TARQUIN.
 
 
@@ -2981,7 +2981,7 @@ Vous estes crû trop pront pour estre estimé Roy.
 « Et celuy que les sens veulent parfois trahir,  
 « Doit estre estimé Roy s'il s'en fait obeïr.  
 
-    SEXTE.
+    SEXTE. 
 Si bien qu'il faut sortir, et que votre puissance,  
 Ne me deffendroit pas de la moindre insolence ?  
 Verrai-je où vous serez tout un peuple irrité ?  
@@ -3136,7 +3136,7 @@ Poursuivons les Romains, c'est trop s'entretenir⁎ :
 Nous commençons fort bien, mais il faut mieux finir.  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME 
 
     TARQUIN SEUL.
 Quelles extremitez⁎ où la rage les porte,  
@@ -3183,7 +3183,7 @@ Mais funeste malheur où mon ame⁎ est reduitte
 Toute ma seureté doit estre dans ma fuitte.  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 
     COLATIN.
 Helas ! ce n'est pas tout ; l'Empereur est bani,  
@@ -3198,7 +3198,7 @@ Mais allons plus avant, et qu'une mort cruelle
 Acheve de toucher cette ame⁎ criminelle.  
 
 
-### SCENE DERNIERE.
+### SCENE DERNIERE. 
 LUCRESSE. COLATIN. LUCRETIE.BRUTE [355].
 
 
@@ -3306,7 +3306,7 @@ Allons chercher le fils, vangeons nous sur la mere,
 Par leur banissement ou leur commune mort,  
 Rome sera sauvee, et nous serons au port [358].  
 
-    COLATIN.
+    COLATIN. 
 La vengeance est trop douce, ah ne retardons pas,  
 S'il a plus d'une vie, il a plus d'un trépas.  
 Quand il sera puni, je suivray ta belle ombre,  

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1661 *creator_moliere
 
 -*who_eraste
 Sous quel astre, bon Dieu, faut-il que je sois né,
@@ -235,7 +235,7 @@ Au diantre tout valet qui vous est sur les bras ;
 Qui fatigue son Maître, et ne fait que déplaire
 À force de vouloir trancher du nécessaire.
 
-**** *book_ *id_I02 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1661 *creator_moliere
 
 -*who_eraste
 Mais vois-je pas Orphise ? oui c'est elle, qui vient.
@@ -287,7 +287,7 @@ Qu'on me l'eût fait manquer, ce fatal rendez-vous.
 Je pensais y trouver toutes choses propices ;
 Et mes yeux pour mon cœur y trouvent des supplices.
 
-**** *book_ *id_I03 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1661 *creator_moliere
 
 -*who_lysandre
 Sous ces arbres, de loin, mes yeux t'ont reconnu,
@@ -364,7 +364,7 @@ De cent sots, tous les jours, nous oblige à souffrir ;
 Et nous fasse abaisser jusques aux complaisances,
 D'applaudir bien souvent à leurs impertinences ?
 
-**** *book_ *id_I04 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1661 *creator_moliere
 
 -*who_montagne
 Monsieur, Orphise est seule, et vient de ce côté.
@@ -384,7 +384,7 @@ Une belle, d'un mot, rajuste bien des choses.
 Hélas, je te l'avoue, et déjà cet aspect,
 À toute ma colère imprime le respect.
 
-**** *book_ *id_I05 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1661 *creator_moliere
 
 -*who_orphise
 Votre front à mes yeux montre peu d'allégresse.
@@ -447,7 +447,7 @@ J'en mourrai, mais enfin je ne m'en plaindrai pas.
 Quand de tels sentiments régneront dans votre âme,
 Je saurai de ma part…
 
-**** *book_ *id_I06 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1661 *creator_moliere
 
 -*who_alcandre
 Marquis, un mot. Madame,
@@ -487,7 +487,7 @@ Je ne sais.
 Pour savoir où la belle est allée,
 Va-t-en chercher partout, j'attends dans cette allée.
 
-**** *book_ *id_II01 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1661 *creator_moliere
 
 -*who_eraste
 Mes Fâcheux à la fin se sont-ils écartés ?
@@ -501,7 +501,7 @@ Qu'ils en eussent chassé tous les gens qui fatiguent !
 Le Soleil baisse fort, et je suis étonné,
 Que mon Valet encor ne soit point retourné.
 
-**** *book_ *id_II02 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1661 *creator_moliere
 
 -*who_alcipe
 Bonjour.
@@ -567,7 +567,7 @@ En quel lieu sommes-nous !
 De quelque part qu'on tourne, on ne voit que des fous.
 Ah ! que tu fais languir ma juste impatience.
 
-**** *book_ *id_II03 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1661 *creator_moliere
 
 -*who_montagne
 Monsieur, je n'ai pu faire une autre diligence.
@@ -646,7 +646,7 @@ Mais, puisque l'ordre ici m'offre quelque loisir,
 Laisse-moi méditer, j'ai dessein de lui faire
 Quelques vers, sur un air, où je la vois se plaire.
 
-**** *book_ *id_II04 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1661 *creator_moliere
 
 -*who_orante
 Tout le monde sera de mon opinion.
@@ -796,7 +796,7 @@ L'arrêt est plein d'esprit ; mais…
 Suffit, j'en suis quitte.
 Après ce que j'ai dit, souffrez que je vous quitte.
 
-**** *book_ *id_II05 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1661 *creator_moliere
 
 -*who_eraste
 Que vous tardez, Madame, et que j'éprouve bien…
@@ -821,7 +821,7 @@ Conspirent à troubler les plus chers de mes vœux !
 Mais allons sur ses pas, malgré sa résistance,
 Et faisons à ses yeux briller notre innocence.
 
-**** *book_ *id_II06 *act_II *date_1662 *creator_moliere
+**** *book_ *id_II06 *act_II *date_1661 *creator_moliere
 
 -*who_dorante
 Ha Marquis que l'on voit de Fâcheux tous les jours,
@@ -953,7 +953,7 @@ Où nous ne craindrons point de chasseur Campagnard.
 Fort bien. Je crois qu'enfin je perdrai patience.
 Cherchons à m'excuser avecque diligence.
 
-**** *book_ *id_III01 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1661 *creator_moliere
 
 -*who_eraste
 Il est vrai, d'un côté mes soins ont réussi :
@@ -997,7 +997,7 @@ Te tairas-tu, vingt fois ?
 Et ne veux-tu jamais quitter cette méthode,
 De te rendre, à toute heure, un valet incommode !
 
-**** *book_ *id_III02 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1661 *creator_moliere
 
 -*who_caritides
 Monsieur, le temps répugne à l'honneur de vous voir.
@@ -1128,7 +1128,7 @@ Oui, vous l'aurez demain, Monsieur Caritidès.
 Ma foi de tels savants sont des ânes bien faits.
 J'aurais dans d'autres temps bien ri de sa sottise…
 
-**** *book_ *id_III03 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1661 *creator_moliere
 
 -*who_ormin
 Bien qu'une grande affaire en ce lieu me conduise,
@@ -1226,7 +1226,7 @@ Voyez quel contretemps prend ici leur visite !
 Je pense qu'à la fin je pourrai bien sortir.
 Viendra-t-il point quelqu'un encor me divertir ?
 
-**** *book_ *id_III04 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1661 *creator_moliere
 
 -*who_filinte
 Marquis, je viens d'apprendre une étrange nouvelle.
@@ -1316,7 +1316,7 @@ Vous serez mon ami quand vous me quitterez.
 Mais voyez quels malheurs suivent ma destinée !
 Ils m'auront fait passer l'heure qu'on m'a donnée.
 
-**** *book_ *id_III05 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1661 *creator_moliere
 
 -*who_damis
 Quoi, malgré moi, le traître espère l'obtenir ?
@@ -1382,7 +1382,7 @@ Ma haine, trop longtemps, vous a fait injustice ;
 Et pour la condamner par un éclat fameux,
 Je vous joins, dès ce soir, à l'objet de vos vœux.
 
-**** *book_ *id_III06 *act_III *date_1662 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1661 *creator_moliere
 
 -*who_orphise
 Monsieur, quelle aventure a d'un trouble effroyable…

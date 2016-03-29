@@ -1,7 +1,7 @@
 ---
 identifier: moliere_facheux  
 creator: Molière  
-date: 1662  
+date: 1661  
 title: Les Fâcheux. Comédie  
 ---
 

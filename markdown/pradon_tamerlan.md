@@ -1290,7 +1290,7 @@ Le lecteur me fera assez de justice, pour ne me pas imputer quelques fautes qui 
  – ZAIDE,Confidente d'Astérie.
  – SUITE DE GARDES.
 La Scene est dans le Camp de Tamerlan.
-
+ 
 
 
 ## ACTE I.
@@ -1414,7 +1414,7 @@ A noury nostre amour de douleur et de crainte,
 Et la foule des maux que je dois prévenir⁎,  
 Leon, me fait encor trembler pour l'avenir.  
 
-    LEON.
+    LEON. 
 Seigneur, pour Bajazet vous n'avez rien à craindre,  
 Par vos soins⁎ du Tartare il n'a plus à se plaindre ;  
 Sans-doute⁎ l'Otoman le touche, et son malheur⁎  
@@ -1451,7 +1451,7 @@ Je puis la faire agir aupres de l'Empereur,
 C'est de luy que dépend [202] ma vie et mon bonheur.  
 Bajazet vient, sondons cette ame si hautaine,  
 Et tâchons d'étoufer les restes de sa haine.  
-Laisse-nous.  
+Laisse-nous.   
 
 
 ### SCENE II.
@@ -1487,7 +1487,7 @@ Ah ! Seigneur, oubliez une vangeance vaine,
 Tamerlan peut briser tout-à-fait vostre chaîne,  
 Il est Maistre, il peut tout, et j'entens⁎ à regret…  
 
-    BAJAZET.
+    BAJAZET. 
 Pour estre son Captif, suis-je moins Bajazet ?  
 Oüy, quand il m'ofriroit le Sceptre, la Couronne,  
 La liberté, le jour, sa main les empoisonne ;  
@@ -1558,7 +1558,7 @@ Je me suis aperçeu qu'elle vous estoit chere ;
 Que l'amour soit le sçeau du secret⁎ de son Pere.  
 Vous essuyrez ses pleurs, si je meurs aujourd'huy ;  
 Ne l'abandonnez pas, et luy servez d'apuy.  
-Adieu, Seigneur.  
+Adieu, Seigneur.   
 
 
 ### SCENE III.
@@ -1573,7 +1573,7 @@ Mais Tamerlan paroist, je tremble et je soûpire.
 
 
 ### SCENE IV.
-TAMERLAN, ANDRONIC, TAMUR Capitaine des Gardes, Suite de Gardes.
+TAMERLAN, ANDRONIC, TAMURCapitaine des Gardes, Suite de Gardes.
 
 
     TAMERLAN.
@@ -1624,7 +1624,7 @@ Vous seul pouvez fléchir son courage⁎ indomptable,
 Adoucir sa fierté⁎, la rendre plus traitable ;  
 C'est aujourd'huy qu'il faut nous réünir⁎ tous deux.  
 
-    ANDRONIC.
+    ANDRONIC. 
 Vous réünir⁎ ? Ah Ciel ! c'est l'objet⁎ de mes vœux⁎ ;  
 Soufrez⁎ qu'à ce dessein, Seigneur, ma joye éclate,  
 Et quand pour Bajazet vostre pitié me flate⁎,  
@@ -1727,7 +1727,7 @@ Mais quoy, dans cet instant, que résoudre⁎? que faire ?
 Allons voir Astérie, allons trouver son Pere ;  
 Dans le goufre et l'horreur des maux que je prévois,  
 O Ciel ! ferme mes yeux sur tout ce que je vois.  
-Fin du Premier Acte.
+Fin du Premier Acte. 
 
 
 ## ACTE II.
@@ -1868,7 +1868,7 @@ Et cachez le desordre où se trouve vostre ame.
 
 
 ### SCENE II.
-TAMERLAN, ASTERIE, ZAIDE, Suite de Tamerlan.
+TAMERLAN, ASTERIE, ZAIDE,Suite de Tamerlan.
 
 
     TAMERLAN.
@@ -1898,7 +1898,7 @@ Andronic s'est chargé d'aprendre à vostre Pere…
 Quoy ? Seigneur, Andronic est-il assez heureuse⁎  
 Pour vous faire aprouver…  
 
-    TAMERLAN.
+    TAMERLAN. 
         Il sçait ce que je veux,  
 Luy-mesme à Bajazet en doit parler, Madame ;  
 Et tandis que je viens vous découvrir⁎ mon ame,  
@@ -2003,7 +2003,7 @@ Parlez avec le Prince, et gagnez⁎ vostre Pere ;
 Pourveu⁎ que vostre main soit le prix du Traité,  
 Je luy laisse la vie avec la liberté.  
 Je vous laisse y penser, et vous quite, Madame,  
-Pour vous donner le temps d'y résoudre⁎ vostre ame.  
+Pour vous donner le temps d'y résoudre⁎ vostre ame.   
 
 
 ### SCENE III
@@ -2036,7 +2036,7 @@ Pouront-ils d'Andronic me conserver⁎ le cœur ?
 Les siens sont-ils à craindre ? est-elle jeune, belle ?  
 Enfin⁎, est-elle propre à faire un Infidelle ?  
 
-    ZAIDE.
+    ZAIDE. 
 On a crû l'Empereur charmé⁎ de sa beauté,  
 La vostre cependant a vaincu sa fierté⁎ ;  
 Mais, Madame, Andronic poura mieux vous aprendre…  
@@ -2106,7 +2106,7 @@ Ciel ! quel est son dessein ?
 Il va pour se sauver, par une audace extréme,  
 Briser bientost sa chaîne, ou se perdre⁎.  
 
-    ASTERIE.
+    ASTERIE. 
         Ah ! Seigneur,  
 Etoufons ce projet dont je frémis d'horreur :  
 Il périroit ; ah Ciel ! mettons tout en usage,  
@@ -2192,7 +2192,7 @@ Dites-luy que je puis… vous m'entendez⁎, Seigneur ;
 Mais enfin⁎ il est temps de calmer sa fureur⁎,  
 Faisons notre devoir dans un coup⁎ si funeste⁎,  
 Sortons, et le Destin ordonnera⁎ du reste.  
-Fin du Second Acte.
+Fin du Second Acte. 
 
 
 ## ACTE III.
@@ -2319,7 +2319,7 @@ De braver Tamerlan jusqu'au dernier soûpir.
 
     ANDRONIC. 
 Ah Seigneur ! le voicy, modérez-vous de grace,  
-Calmez…  
+Calmez…   
 
 
 ### SCENE II.
@@ -2353,7 +2353,7 @@ Devant moy reprenez une ame plus tranquile,
 Et bien qu'elle paroisse incapable d'éfroy,  
 Du moins, souvenez-vous que vous parlez à moy [321].  
 
-    BAJAZET.
+    BAJAZET. 
 Oüy je parle à Thémir, dont l'obscure naissance  
 Doit mettre entre nous deux un peu de différence ;  
 Et le Fils de Sangal, vil Pastre qu'autrefois  
@@ -2418,7 +2418,7 @@ Tu seras satisfait. Qu'on l'éloigne de moy.
 Si je meurs, je seray plus satisfait que toy.  
 
 
-### SCENE III.
+### SCENE III. 
 ANDRONIC, TAMERLAN.
 
 
@@ -2472,7 +2472,7 @@ Vostre gloire⁎, Seigneur.
 
     TAMERLAN.
         J'en auray soin sans vous,  
-Et [332] feray ce que veut un trop juste couroux.  
+Et [332] feray ce que veut un trop juste couroux.   
 
 
 ### SCENE IV.
@@ -2543,7 +2543,7 @@ Si vous m'aimez, partez, et ne me voyez plus.
     ANDRONIC.
 Je ne vous verrois plus ! hé de grace, Madame…  
 
-    ASTERIE.
+    ASTERIE. 
 Hé du moins par pitié cachez-moi vostre flame,  
 Retirez-vous, Seigneur, Bajazet doit venir,  
 Pourois-je devant vous helas ! l'entretenir ?  
@@ -2567,7 +2567,7 @@ Helas ! je ne pourois parler que foiblement.
 On vient, retirez-vous, sortez.  
 
     ANDRONIC.
-        Adieu, Madame.  
+        Adieu, Madame.   
 
 
 ### SCENE VI.
@@ -2674,7 +2674,7 @@ Oüy, je vais de ce pas…
         Epouser le Tartare,  
 Immoler Andronic, rendre heureux⁎ un Barbare.  
 
-    ASTERIE.
+    ASTERIE. 
 Ah ! ne m'exposez plus au trouble où [349] je me voy,  
 Vous armez un Amant⁎ contre vous, contre moy,  
 Ne me repetez point ce nom seul qui m'acable,  
@@ -2695,7 +2695,7 @@ Elle sort.
 Arrestez, je l'ordonne, et craignez mon couroux.  
 Gardes, suivez vostre ordre, à la mort je m'apreste,  
 Et portez au Tyran mes refus et ma teste.  
-Fin du Troisiéme Acte.
+Fin du Troisiéme Acte. 
 
 
 ## ACTE IV.
@@ -2747,7 +2747,7 @@ Et peut-estre, j'auray le reste de ses pleurs.
 Mais avant qu'un Rival en ait fait sa conqueste,  
 J'iray sur les Autels ensanglanter la Feste [359] ;  
 Pour réponse à ses pleurs j'ay du sang à verser,  
-J'iray… Mais elle vient, Ciel ! que dois-je penser ?  
+J'iray… Mais elle vient, Ciel ! que dois-je penser ?   
 
 
 ### SCENE II.
@@ -2819,7 +2819,7 @@ De grace épargnez-vous par pitié de moy-mesme,
 Et si vous le frapiez dans ce cruel⁎ moment,  
 C'est le cœur d'Andronic, le cœur de vostre Amant⁎.  
 
-    ASTERIE.
+    ASTERIE. 
 Si Tamerlan m'épouse, helas ! ce cœur si tendre⁎,  
 Qu'Andronic malgré moy veut encore défendre,  
 Sera-t-il pas [367] frapé du coup⁎ le plus afreux…  
@@ -2857,7 +2857,7 @@ J'oublîray tout, pourveu⁎ que vous songiez à vivre,
 De mon triste⁎ destin je seray satisfait,  
 Oubliez Andronic, songez à Bajazet.  
 
-    ASTERIE.
+    ASTERIE. 
 Quoy ? vous-mesme, Andronic, ordonne [371] qu'Astérie  
 Etoufe son amour, l'abandonne, l'oublie ?  
 Oüy, puis que mon Amant⁎ m'aprend sans s'émouvoir  
@@ -3005,7 +3005,7 @@ Peut emporter l'amour contre qui nous outrage,
 Et puis que cet amour sçait agir en Tyran,  
 Malheur⁎! [380] à qui sera Rival de Tamerlan !  
 
-    ASTERIE.
+    ASTERIE. 
 Auriez vous un Rival pour une infortunée⁎,  
 Languissante⁎, captive, aux pleurs abandonnée,  
 Qui fust longtemps en bute à vostre inimitié,  
@@ -3079,7 +3079,7 @@ Et que puis-je, Madame ?
 
     TAMERLAN.
         Eloignez de mes yeux  
-Cet objet⁎ insolent d'un Rival odieux.  
+Cet objet⁎ insolent d'un Rival odieux.   
 
 
 ### SCENE IV.
@@ -3122,7 +3122,7 @@ Ferme, ferme les yeux sur toute ma foiblesse,
 Excuse ma douleur, pardonne à ma tendresse⁎ ;  
 Bajazet, Andronic, Pere, Amant⁎ malheureux⁎,  
 Je sçauray périr seule, et vous sauver tous deux.  
-Fin du Quatriéme Acte.
+Fin du Quatriéme Acte. 
 
 
 ## ACTE V.
@@ -3327,7 +3327,7 @@ Il est vray qu'il viendra bientôt me satisfaire,
 Et sans plus écouter une aveugle fureur⁎,  
 Qu'il a soin de sa vie et de vostre grandeur.  
 
-    ASTERIE *à part*.
+    ASTERIE *à part*. 
 Ah Ciel !  
 
     TAMERLAN.
@@ -3365,7 +3365,7 @@ Son intrépidité vous doit faire trembler.
     ASTERIE.
 Quoy ? Seigneur, auriez-vous l'ame assez inhumaine…  
 
-    TAMERLAN.
+    TAMERLAN. 
 Non, Madame, au contraire, on va briser sa chaîne,  
 Et Bajazet et moy, dans nos embrassemens,  
 Nous allons étoufer tous nos ressentimens.  
@@ -3395,7 +3395,7 @@ Pouroit vous perdre⁎ un jour en se perdant⁎ luy-mesme,
 Et qui n'ayant pour luy plus rien à ménager,  
 Ne cherche qu'à mourir, enfin⁎, ou se vanger. [412]  
 
-    TAMERLAN.
+    TAMERLAN. 
 J'excuse d'Andronic la fureur⁎ et l'audace,  
 Je luy pardonne mesme une telle menace,  
 Son desepoir luy dicte un discours emporté  
@@ -3417,7 +3417,7 @@ Et faudra-t-il périr, pour croistre ma misere,
 De la main d'un Amant⁎ et de celle d'un Pere ?  
 J'en seray la Victime, et je dois obeïr,  
 Mais je n'ignore pas quand il faudra mourir.  
-Il vient. Ah Ciel !  
+Il vient. Ah Ciel !   
 
 
 ### SCENE V.
@@ -3527,7 +3527,7 @@ Ah ! laisse-moy [424], Tyran, expirer de douleur !
 Tu pers tout aujoud'huy, malheureuse⁎ Astérie,  
 Et pour dernier malheur⁎ il te reste la vie.  
 Elle sort.
-
+ 
 
 
 ### SCENE DERNIERE.
@@ -3558,7 +3558,7 @@ Elle peut à son gré terminer⁎ vostre sort⁎,
 Araxide et ma gloire⁎ exigent cet effort,  
 Je l'épouse, et je pars.  
 
-    ANDRONIC.
+    ANDRONIC. 
         Quelle reconnoissance,  
 Seigneur, pour des bontez qui passent⁎ l'espérance...  
 Ciel ! pouvois-je espérer⁎ en ce funeste⁎ jour  

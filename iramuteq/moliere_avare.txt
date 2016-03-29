@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1668 *creator_moliere
 
 -*who_valere
 Hé quoi, charmante Élise, vous devenez mélancolique, après les obligeantes assurances que vous avez eu la bonté de me donner de votre foi ?Je vous vois soupirer, hélas, au milieu de ma joie !Est-ce du regret, dites-moi, de m'avoir fait heureux ? et vous repentez-vous de cet engagement où mes feux ont pu vous contraindre ?
@@ -63,7 +63,7 @@ Il vient.Je me retire.Prenez ce temps pour lui parler ; et ne lui découvrez de 
 -*who_elise
 Je ne sais si j'aurai la force de lui faire cette confidence.
 
-**** *book_ *id_I02 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1668 *creator_moliere
 
 -*who_cleante
 Je suis bien aise de vous trouver seule, ma Sœur ; et je brûlais de vous parler, pour m'ouvrir à vous d'un secret.
@@ -135,7 +135,7 @@ Il est bien vrai que tous les jours il nous donne, de plus en plus, sujet de reg
 J'entends sa voix.
 Éloignons-nous un peu, pour nous achever notre confidence ; et nous joindrons après nos forces pour venir attaquer la dureté de son humeur.
 
-**** *book_ *id_I03 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1668 *creator_moliere
 
 -*who_harpagon
 Hors d'ici tout à l'heure, et qu'on ne réplique pas.
@@ -352,7 +352,7 @@ Me voilà fort bien congédié.
 -*who_harpagon
 Je te le mets sur ta conscience au moins.Voilà un pendard de valet qui m'incommode fort ; et je ne me plais point à voir ce chien de boiteux-là.
 
-**** *book_ *id_I04 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1668 *creator_moliere
 
 -*who_harpagon
 Certes, ce n'est pas une petite peine que de garder chez soi une grande somme d'argent ; et bienheureux qui a tout son fait bien placé, et ne conserve seulement que ce qu'il faut pour sa dépense.
@@ -694,7 +694,7 @@ Oui, j'en passerai par ce qu'il dira.
 -*who_harpagon
 Voilà qui est fait.
 
-**** *book_ *id_I05 *act_I *date_1669 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1668 *creator_moliere
 
 -*who_harpagon
 Ici, Valère.
@@ -867,7 +867,7 @@ Heureux qui peut avoir un Domestique de la sorte !
 
 Fin du Premier Acte.
 
-**** *book_ *id_II01 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1668 *creator_moliere
 
 -*who_cleante
 Ah ! traître que tu es, où t'es-tu donc allé fourrer ?Ne t'avais-je pas donné ordre…
@@ -1016,7 +1016,7 @@ Je n'ai pas, Dieu merci, les inclinations fort patibulaires ; et parmi mes confr
 -*who_cleante
 Donne-moi un peu ce Mémoire, que je le voie encore.
 
-**** *book_ *id_II02 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1668 *creator_moliere
 
 -*who_maitre_simon
 Oui, Monsieur, c'est un jeune Homme qui a besoin d'argent.
@@ -1089,7 +1089,7 @@ Qui est plus criminel, à votre avis, ou celui qui achète un argent dont il a b
 Retire-toi, te dis-je, et ne m'échauffe pas les oreilles.
 Je ne suis pas fâché de cette aventure ; et ce m'est un avis de tenir l'œil, plus que jamais, sur toutes ses actions.
 
-**** *book_ *id_II03 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1668 *creator_moliere
 
 -*who_frosine
 Monsieur…
@@ -1098,7 +1098,7 @@ Monsieur…
 Attendez un moment.
 Je vais revenir vous parler, Il est à propos que je fasse un petit tour à mon argent.
 
-**** *book_ *id_II04 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1668 *creator_moliere
 
 -*who_la_fleche
 L'Aventure est tout à fait drôle Il faut bien qu'il ait quelque part un ample magasin de hardes ; car nous n'avons rien reconnu au Mémoire que nous avons.
@@ -1143,7 +1143,7 @@ Il est Turc là-dessus, mais d'une Turquerie à désespérer tout le monde ; et 
 En un mot, il aime l'argent, plus que réputation, qu'honneur, et que vertu ; et la vue d'un demandeur lui donne des convulsions.
 C'est le frapper par son endroit mortel, c'est lui percer le cœur, c'est lui arracher les entrailles ; et si…Mais il revient ; je me retire.
 
-**** *book_ *id_II05 *act_II *date_1669 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1668 *creator_moliere
 
 -*who_harpagon
 Tout va comme il faut.
@@ -1420,7 +1420,7 @@ Que la fièvre te serre, chien de vilain à tous les Diables.Le ladre a été fe
 
 Fin du Second Acte.
 
-**** *book_ *id_III01 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1668 *creator_moliere
 
 -*who_harpagon
 Allons.Venez çà tous, que je vous distribue mes ordres pour tantôt, et règle à chacun son emploi.Approchez, Dame Claude.
@@ -1704,7 +1704,7 @@ Vous ne m'avez pas voulu croire.Je vous l'avais bien dit que je vous fâcherais 
 -*who_harpagon
 Apprenez à parler.
 
-**** *book_ *id_III02 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1668 *creator_moliere
 
 -*who_valere
 À ce que je puis voir, Maître Jacques, on paye mal votre franchise.
@@ -1777,7 +1777,7 @@ Apprenez que vous êtes un mauvais railleur.
 Peste soit la sincérité, c'est un mauvais métier.Désormais j'y renonce, et je ne veux plus dire vrai.
 Passe encore pour mon Maître, il a quelque droit de me battre : mais pour ce Monsieur l'Intendant, je m'en vengerai si je puis.
 
-**** *book_ *id_III03 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1668 *creator_moliere
 
 -*who_frosine
 Savez-vous, Maître Jacques, si votre maître est au logis ?
@@ -1788,7 +1788,7 @@ Oui vraiment il y est, je ne le sais que trop.
 -*who_frosine
 Dites-lui, je vous prie, que nous sommes ici.
 
-**** *book_ *id_III04 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1668 *creator_moliere
 
 -*who_mariane
 Ah ! que je suis, Frosine, dans un étrange état ! et s'il faut dire ce que je sens, que j'appréhende cette vue !
@@ -1825,7 +1825,7 @@ Il serait bien impertinent de ne pas mourir dans trois mois !Le voici en propre 
 -*who_mariane
 Ah Frosine, quelle figure !
 
-**** *book_ *id_III05 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1668 *creator_moliere
 
 -*who_harpagon
 Ne vous offensez pas, ma Belle, si je viens à vous avec des lunettes.
@@ -1839,7 +1839,7 @@ C'est qu'elle est encore toute surprise ; et puis les Filles ont toujours honte
 Tu as raison.
 Voilà, belle mignonne, ma Fille, qui vient vous saluer.
 
-**** *book_ *id_III06 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III06 *act_III *date_1668 *creator_moliere
 
 -*who_mariane
 Je m'acquitte bien tard, Madame, d'une telle visite.
@@ -1884,7 +1884,7 @@ L'aventure est merveilleuse.
 -*who_harpagon
 Je vois que vous vous étonnez de me voir de si grands Enfants ; mais je serai bientôt défait et de l'un, et de l'autre.
 
-**** *book_ *id_III07 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III07 *act_III *date_1668 *creator_moliere
 
 -*who_cleante
 Madame, à vous dire le vrai, c'est ici une aventure où sans doute je ne m'attendais pas ; et mon Père ne m'a pas peu surpris, lorsqu'il m'a dit tantôt le dessein qu'il avait formé.
@@ -2059,7 +2059,7 @@ Gardez la Bague, puisque Monsieur le veut.
 -*who_mariane
 Pour ne vous point mettre en colère, je la garde maintenant ; et je prendrai un autre temps pour vous la rendre.
 
-**** *book_ *id_III08 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III08 *act_III *date_1668 *creator_moliere
 
 -*who_brindavoine
 Monsieur, il y a là un Homme qui veut vous parler.
@@ -2074,7 +2074,7 @@ Il dit qu'il vous apporte de l'argent.
 Je vous demande pardon.
 Je reviens tout à l'heure.
 
-**** *book_ *id_III09 *act_III *date_1669 *creator_moliere
+**** *book_ *id_III09 *act_III *date_1668 *creator_moliere
 
 -*who_la_merluche
 Monsieur…
@@ -2116,7 +2116,7 @@ C'est assez.
 -*who_harpagon
 Ô fils impertinent, as-tu envie de me ruiner !
 
-**** *book_ *id_IV01 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1668 *creator_moliere
 
 -*who_cleante
 Rentrons ici, nous serons beaucoup mieux.Il n'y a plus autour de nous personne de suspect, et nous pouvons parler librement.
@@ -2205,7 +2205,7 @@ Sois assurée, Frosine, de ma reconnaissance, si tu viens à bout de la chose : 
 -*who_mariane
 J'y ferai tout ce que je puis, et n'oublierai aucune chose.
 
-**** *book_ *id_IV02 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1668 *creator_moliere
 
 -*who_harpagon
 Ouais ! mon Fils baise la main de sa prétendue belle-mère, et sa prétendue Belle-mère ne s'en défend pas fort.Y aurait-il quelque mystère là-dessous ?
@@ -2224,7 +2224,7 @@ Puisque vous n'y allez pas, mon Père, je m'en vais les conduire.
 Non, demeurez.
 Elles iront bien toutes seules ; et j'ai besoin de vous.
 
-**** *book_ *id_IV03 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1668 *creator_moliere
 
 -*who_harpagon
 Ô çà, intérêt de Belle-Mère à part, que te semble à toi de cette Personne ?
@@ -2368,7 +2368,7 @@ Point du tout.
 -*who_harpagon
 Donnez-moi un bâton tout à l'heure.
 
-**** *book_ *id_IV04 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1668 *creator_moliere
 
 -*who_maitre_jacques
 Eh, eh, eh, Messieurs, qu'est-ce ci ? à quoi songez-vous ?
@@ -2479,7 +2479,7 @@ Va, je m'en souviendrai, je t'assure.
 -*who_maitre_jacques
 Je vous baise les mains.
 
-**** *book_ *id_IV05 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1668 *creator_moliere
 
 -*who_cleante
 Je vous demande pardon, mon Père, de l'emportement que j'ai fait paraître.
@@ -2593,7 +2593,7 @@ Et je te donne ma malédiction.
 -*who_cleante
 Je n'ai que faire de vos dons.
 
-**** *book_ *id_IV06 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV06 *act_IV *date_1668 *creator_moliere
 
 -*who_la_fleche
 Ah, Monsieur, que je vous trouve à propos !Suivez-moi vite.
@@ -2629,7 +2629,7 @@ Comment as-tu fait ?
 Vous saurez tout.
 Sauvons-nous, je l'entends crier.
 
-**** *book_ *id_IV07 *act_IV *date_1669 *creator_moliere
+**** *book_ *id_IV07 *act_IV *date_1668 *creator_moliere
 
 -*who_harpagon
 Au voleur, au voleur, à l'assassin, au meurtrier.Justice, juste Ciel.Je suis perdu, je suis assassiné, on m'a coupé la gorge, on m'a dérobé mon argent.
@@ -2656,7 +2656,7 @@ Je veux faire pendre tout le monde ; et si je ne retrouve mon argent, je me pen
 
 Fin du Quatrième Acte.
 
-**** *book_ *id_V01 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1668 *creator_moliere
 
 -*who_commissaire
 Laissez-moi faire.
@@ -2700,7 +2700,7 @@ Tout le Monde ; et je veux que vous arrêtiez prisonniers la Ville et les Faubo
 -*who_commissaire
 Il faut, si vous m'en croyez, n'effaroucher personne, et tâcher doucement d'attraper quelques preuves, afin de procéder après par la rigueur, au recouvrement des deniers qui vous ont été pris.
 
-**** *book_ *id_V02 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1668 *creator_moliere
 
 -*who_maitre_jacques
 Je m'en vais revenir.
@@ -2871,7 +2871,7 @@ Il ne faut plus jurer de rien ; et je crois après cela que je suis Homme à me
 Monsieur, le voici qui revient.
 Ne lui allez pas dire, au moins, que c'est moi qui vous ai découvert cela.
 
-**** *book_ *id_V03 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1668 *creator_moliere
 
 -*who_harpagon
 Approche.
@@ -3086,7 +3086,7 @@ Allons, Monsieur, faites le dû de votre Charge, et dressez-lui-moi son Procès,
 -*who_valere
 Ce sont des noms qui ne me sont point dus ; et quand on saura qui je suis…
 
-**** *book_ *id_V04 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1668 *creator_moliere
 
 -*who_harpagon
 Ah ! fille scélérate !
@@ -3121,7 +3121,7 @@ Tu me payeras mes coups de bâton.
 -*who_frosine
 Voici un étrange embarras.
 
-**** *book_ *id_V05 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1668 *creator_moliere
 
 -*who_anselme
 Qu'est-ce, Seigneur Harpagon, je vous vois tout ému.
@@ -3267,7 +3267,7 @@ Pouvez-vous me croire capable d'une action si lâche ?
 -*who_harpagon
 Capable, ou non capable, je veux ravoir mon argent.
 
-**** *book_ *id_V06 *act_V *date_1669 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1668 *creator_moliere
 
 -*who_cleante
 Ne vous tourmentez point, mon Père, et n'accusez personne.

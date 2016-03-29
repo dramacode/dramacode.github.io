@@ -406,7 +406,7 @@ Adieu, cours à Lucresse et sois toujours fidelle.
 
 **** *book_ *id_argument2 *date_1637 *creator_chevreau
 
-ARGUMENT DU SECOND ACTE.
+ARGUMENT DU SECOND ACTE. 
 
 Sexte entretient⁎ Maxime de la violence de sa passion, et quelque difficulté que Maxime oppose au dessein⁎ de ce jeune Prince : il est contraint luy-mesme d'aller voir Lucresse pour luy descouvrir ce secret.
 Cependant qu'ils sont à contester, Tullie arrive, que Sexte entretient⁎ du succez des armes de Tarquin ; ce qui luy oste la peur qu'elle avoit toujours euë, que le courage de ce Roy ne fût la cause de leur infortune.
@@ -829,7 +829,7 @@ Car procurer son bien⁎ c'est se rendre coupable.
 
 **** *book_ *id_argument3 *date_1637 *creator_chevreau
 
-ARGUMENT DU TROISIESME ACTE.
+ARGUMENT DU TROISIESME ACTE. 
 
 Maxime dans la violence de la douleur de Lucresse ; tasche de preparer son esprit à l'amour ; et s'imagine ce dessein⁎ assez facile en luy representant que Colatin a trahy l'Empire, et qu'il s'est joint aux artifices⁎ de ceux d'Ardée pour venir plus facilement à bout des Romains.
 Mais cette vertueuse femme qui ne considere que la personne de son mary et sa qualité, sans s'arrester à ce vice dont elle n'oze le soupçonner ; n'est point de l'intelligence de ce Confident, et ne peut croire qu'une personne de sa reputation puisse l'écouter sans scandale.
@@ -1119,7 +1119,7 @@ Quelque fille qu'il ayme ou facile, ou severe,
 Et de quelque costé, que vienne son malheur,
 Il faut à tout le moins divertir sa douleur.
 
-**** *book_ *id_acte304 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte304 *act_acte3 *date_1637 *creator_chevreau 
 
 -*who_tarquin
 Estes-vous satisfaits ? Ardée est-elle prise ?
@@ -1159,7 +1159,7 @@ Je vais à Colasie, adieu jusqu'à demain.
 C'est là que vous pourez finir vôtre tristesse⁎,
 Servez donc vôtre humeur⁎, et contentez Lucresse.
 
-**** *book_ *id_acte305 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte305 *act_acte3 *date_1637 *creator_chevreau 
 
 -*who_sexte
 Madame, Colatin n'a plus aucun souci,
@@ -1284,7 +1284,7 @@ Helas ! si vous m'aimez jettez icy les yeus.
 
 **** *book_ *id_argument4 *date_1637 *creator_chevreau
 
-ARGUMENT DU QUATRIESME ACTE.
+ARGUMENT DU QUATRIESME ACTE. 
 
 Lucresse ne croyant pas devoir conserver sa vie, apres avoir perdu son honneur⁎ ; se fait des armes de tout pour se faciliter la mort : mais elle en est empeschée par Cécilie, qui pour la flatter⁎ dans son mal-heur luy veut persuader que la force⁎ rend son peché excusable.
 Mal-gré les sentiments de Cécilie elle envoye une lettre dans laquelle son regret est assez visible ; mais où elle ne se blâme pas tout à fait, aiant esté violée, et où elle ne veut pas s'excuser estant adultere.
@@ -1292,7 +1292,7 @@ Sexte et Maxime se doutant de la rage de Lucresse, et craignant les premiers mou
 Cependant qu'ils vont à Rome, le valet de Lucresse rencontre Colatin qui revenoit à Colatie, qui s'estant enquis de la santé de sa femme, treuve dans sa lettre un sujet de desespoir.
 Ayant sçeu l'autheur de cette infamie, il jure avec son beau-pere Lucretie, de punir une action si detestable ; et dés l'heure vont esmouvoir tout le peuple et Brute principalement, qui n'attendoit que l'occasion de s'exenter de leur tyrannie ; et qui treuva celle-cy pour donner aux Romains la liberté pour laquelle ils faisoient des vœux secrets ; sans oser aller plus avant.
 
-**** *book_ *id_acte401 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte401 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_lucresse
 Et tu veux que je vive apres sa perfidie,
@@ -1426,7 +1426,7 @@ Mon bras me peut guerir, et le tien le retire.
 Fais ce que tu voudras, mais il faut que la mort
 Succede au desespoir que me livre le sort⁎.
 
-**** *book_ *id_acte402 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte402 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_maxime
 J'entendois vos debats, et je n'osois parétre,
@@ -1476,7 +1476,7 @@ Cependant j'ay finy le sujet de ma plainte ;
 Et si le repentir me rend triste⁎ ou confus,
 C'est d'avoir eu de l'heur, et ne n'en avoir plus.
 
--*who_maxime
+-*who_maxime 
 Toutefois confessez.
 
 -*who_sexte
@@ -1633,7 +1633,7 @@ Il a forcé⁎Lucresse, et nous force⁎ à vous plaindre.
 Il a forcé⁎ Lucresse, et ce Prince brutal
 A contenté ses sens d'un plaisir si fatal ?
 
-**** *book_ *id_acte404 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte404 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_lucretie
 Mon fils, quel nouveau bruit trouble nostre esperance ?
@@ -1656,7 +1656,7 @@ Dieux qui sçavez l'autheur de cèt injuste éfort !
 Le pouvez vous bien voir sans luy donner la mort ?
 Sexte a fait nos mal-heurs.
 
--*who_lucretie
+-*who_lucretie 
       Il faut tout entreprendre⁎,
 Viste ne craignons rien, tachons de nous defendre.
 Tel que soit le tyran qui nous ôte l'honneur⁎,
@@ -1678,7 +1678,7 @@ Et faisons d'un grand Prince un pauvre malheureux.
 
 **** *book_ *id_argument5 *date_1637 *creator_chevreau
 
-ARGUMENT DU CINQUIESME ACTE.
+ARGUMENT DU CINQUIESME ACTE. 
 
 Tarquin pensant joindre la joye à son triomphe, se treuve surpris du pardon que Sexte veut exiger de luy : apres avoir apris la nouvelle d'une action où il s'attendoit le moins ; il commande à son fils de se retirer ; ce que Sexte ne pùt refuser dans la crainte qu'ils avoient, que les ressentimens du peuple irritez par sa presence, ne se convertissent en fureur.
 Il s'en alla avec Maxime dans une petite colonie où il fut tüé un an apres.
@@ -1720,7 +1720,7 @@ Mille pensers confus importunent ma joye.
 Je sçay bien comme il faut rabatre ton orgueil,
 Pren garde que ce char ne te soit un cercueil.
 
-**** *book_ *id_acte502 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte502 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_maxime
 Allez ne craignez rien ; tout vous sera prospere,
@@ -1767,7 +1767,7 @@ Vous estes crû trop pront pour estre estimé Roy.
 « Et celuy que les sens veulent parfois trahir,
 « Doit estre estimé Roy s'il s'en fait obeïr.
 
--*who_sexte
+-*who_sexte 
 Si bien qu'il faut sortir, et que votre puissance,
 Ne me deffendroit pas de la moindre insolence ?
 Verrai-je où vous serez tout un peuple irrité ?
@@ -1915,7 +1915,7 @@ S'ils sont loing de ces lieux comme de ta memoire.
 Poursuivons les Romains, c'est trop s'entretenir⁎ :
 Nous commençons fort bien, mais il faut mieux finir.
 
-**** *book_ *id_acte505 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte505 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_tarquin
 Quelles extremitez⁎ où la rage les porte,
@@ -1961,7 +1961,7 @@ Et votre seureté depend de mon pouvoir.
 Mais funeste malheur où mon ame⁎ est reduitte
 Toute ma seureté doit estre dans ma fuitte.
 
-**** *book_ *id_acte506 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte506 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_colatin
 Helas ! ce n'est pas tout ; l'Empereur est bani,
@@ -1975,7 +1975,7 @@ Que l'effet d'un grand crime est un grand repentir.
 Mais allons plus avant, et qu'une mort cruelle
 Acheve de toucher cette ame⁎ criminelle.
 
-**** *book_ *id_acte507 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte507 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_lucresse
 Comment les puis-je voir sans mourir à leurs yeux ?
@@ -2075,7 +2075,7 @@ Allons chercher le fils, vangeons nous sur la mere,
 Par leur banissement ou leur commune mort,
 Rome sera sauvee, et nous serons au port.
 
--*who_colatin
+-*who_colatin 
 La vengeance est trop douce, ah ne retardons pas,
 S'il a plus d'une vie, il a plus d'un trépas.
 Quand il sera puni, je suivray ta belle ombre,

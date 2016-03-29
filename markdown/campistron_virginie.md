@@ -438,7 +438,7 @@ La Scene est à Rome dans le Palais d'Appius.
 
 
 
-## Acte I.
+## Acte I. 
 
 
 ### Scene premiere.
@@ -487,7 +487,7 @@ Mille perils divers s'offrent à ma pensée ;
 Mais je tremble sur tout qu'un odieux Rival  
 Au repos de mes jours ne soit encor fatal.  
 
-    CLODIUS.
+    CLODIUS. 
 De mon zele pour vous assuré [149] dés l'enfance  
 Vous m'avez honoré de vostre confiance,  
 Seigneur, et vostre main par de nouveaux bienfaits  
@@ -625,7 +625,7 @@ Et dés le moindre effort*⁎* qu'il osera tenter, 
 Sans bruit*⁎* dans ce Palais je le fais arrester.  
 
     CLODIUS.
-Ah ! je prevoy...  
+Ah ! je prevoy...   
 
 
 ### Scene II.
@@ -846,7 +846,7 @@ Est-ce trop peu de maux, dont je suis déchirée,
 Seray-je d'avec vous encore separée !  
 Aprés tant de soûpirs*⁎*, à peine je vous voy...  
 
-    PLAUTIE.
+    PLAUTIE. 
 Crois-tu qu'à te quitter je souffre moins que toy,  
 Quand à partir d'icy je me crois toute preste,  
 Malgré tous mes efforts ma tendresse m'arreste,  
@@ -888,7 +888,7 @@ Camille, s'il falloit le perdre pour toûjours ?
 N'importe en ce moment, quoy que le Ciel ordonne,  
 A ses ordres sacrez mon ame s'abandonne,  
 Je respecte les traits [180] qui partent de sa main,  
-Et je vay sans murmure [181] attendre mon destin.  < Fin du premier Acte. >
+Et je vay sans murmure [181] attendre mon destin.  < Fin du premier Acte. > 
 
 
 ## Acte II.
@@ -1138,7 +1138,7 @@ Mais comment ?
     ICILE.
         C'est à moy de vanger vostre injure,  
 C'est à moy de convaincre [204], et punir l'imposture,  
-J'y cours, adieu, Madame.  
+J'y cours, adieu, Madame.   
 
 
 ### Scene III.
@@ -1164,7 +1164,7 @@ Hastons-nous, empeschons mon amant*⁎* de perir,
 Courons voir Appius, il peut nous secourir,  
 Que ses yeux soient témoins de mes vives allarmes,  
 Peut estre, sera-t'il [207], attendry par mes larmes ?  
-Ne nous contraignons plus, le voicy.  
+Ne nous contraignons plus, le voicy.   
 
 
 ### Scene IV.
@@ -1279,7 +1279,7 @@ Clodius n'a point seul commencé ma disgrace*⁎*,
 C'est un bras plus puissant qui soustient son audace,  
 Seigneur, vous m'entendez*⁎*.  
 
-    APPIUS.
+    APPIUS. 
         Ah ! que soupçonnez-vous ?  
 Au moment que ma main vous dérobe à ses coups*⁎*  
 Que pensez-vous de moy.  
@@ -1347,7 +1347,7 @@ Il n'importe à quel prix j'obtienne Virginie,
 Allons encor un coup*⁎* luy presenter ma main,  
 Allons mettre à ses pieds le pouvoir souverain,  
 Et si sa flame encor la seduit [216] ou l'abuse,  
-Forçons-la d'accepter l'honneur qu'elle refuse.  < Fin du second Acte. >
+Forçons-la d'accepter l'honneur qu'elle refuse.  < Fin du second Acte. > 
 
 
 ## Acte III.
@@ -1370,7 +1370,7 @@ Aux discours*⁎* des Romains touchez de vos malheurs,
 Vous avez seulement répondu par des pleurs,  
 Leurs soins officieux [218]...  
 
-    PLAUTIE.
+    PLAUTIE. 
         Eh que puis-je répondre,  
 Leurs discours*⁎* et leurs soins ne font que me confondre*⁎*,  
 Pour flatter*⁎* ma disgrace*⁎*, ils m'en viennent parler,  
@@ -1477,7 +1477,7 @@ Oüy, Madame, je vais soulager vostre peine,
 Sortez. Retirez-vous dans la chambre prochaine [224],  
 Je sçauray prononcer*⁎* lorsqu'il en sera temps.  
 
-    CLODIUS.
+    CLODIUS. 
 Vous differez encor, Seigneur,  je vous entens*⁎*,  
 Vous n'osez de Plautie augmenter la misere,  
 Mais un Chef des Romains doit estre plus severe,  
@@ -1788,7 +1788,7 @@ D'un Empire si saint faire toute la gloire*⁎*.
     VIRGINIE.
 Je conçois [260] la grandeur d'un si noble dessein,  
 Mais helas ! que je crains qu'on ne le tente en vain,  
-Je crains...  
+Je crains...   
 
 
 ### Scene VII.
@@ -1856,7 +1856,7 @@ Je cours perir moy mesme, ou changer ton destin.
 Secondez Dieux puissans ce desir legitime,  
 Que si pour vous fléchir il faut une victime,  
 Frapez me voilà preste, et par un prompt effort*⁎*,  
-Epargnez-moy des maux plus cruels*⁎* que la mort.  < Fin du troisiéme Acte. >
+Epargnez-moy des maux plus cruels*⁎* que la mort.  < Fin du troisiéme Acte. > 
 
 
 ## Acte IV.
@@ -2058,7 +2058,7 @@ Madame, prevenons*⁎* un mal-heur si funeste*⁎*,
 Du temps que je vous donne employez mieux le reste,  
 Icile en ce moment va parestre à vos yeux,  
 J'ay moy mesme ordonné qu'on l'ameine en ces lieux.  
-Il vient.  
+Il vient.   
 
 
 ### Scene III.
@@ -2130,7 +2130,7 @@ Et dés ce mesme jour...
 Par où pretendez vous nous pouvoir secourir ?  
 Qu'avez vous resolu, Madame ?  
 
-    VIRGINIE.
+    VIRGINIE. 
         De mourir [280],  
 
     ICILE.
@@ -2208,7 +2208,7 @@ Ah perfide ! ta mort, mais une mort cruelle*⁎*,
 Punira de ton cœur l'audace criminelle,  
 Rien ne te peut sauver, c'en est fait.  
 
-    ICILE.
+    ICILE. 
         Haste toy,  
 La mort n'a rien d'affreux ny de triste pour moy,  
 Mais que dis-je ? ma mort encor plus que ma vie,  
@@ -2243,7 +2243,7 @@ Qu'on les ramene.
     Adieu, Seigneur.  
 
     ICILE.
-        Adieu, Madame.  
+        Adieu, Madame.   
 
 
 ### Scene VI.
@@ -2289,7 +2289,7 @@ Il faut dés ce moment la remettre en mes mains,
 Attendant que ce bruit*⁎* avec le temps s'efface...  
 
     APPIUS.
-Vien, suy-moy, nous verrons ce qu'il faut que je fasse [290].  < Fin du quatriéme Acte. >
+Vien, suy-moy, nous verrons ce qu'il faut que je fasse [290].  < Fin du quatriéme Acte. > 
 
 
 ## Acte V.
@@ -2590,7 +2590,7 @@ Où sont nos ennemis [304], que mon bras les immole,
 Que Virginie enfin ne les redoute plus,  
 Que j'aille...  
 
-    CAMILLE.
+    CAMILLE. 
         Moderez des transports*⁎* superflus,  
 Il n'est plus temps.  
 
@@ -2668,7 +2668,7 @@ S'élance [311] sur le fer, et d'une main hardie,
 Prend celle de son pere, et poussant le coûteau,  
 S'en frape, tombe, et s'ouvre un chemin au tombeau.  
 
-    PLAUTIE.
+    PLAUTIE. 
 Helas !  
 
     CAMILLE.

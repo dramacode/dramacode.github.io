@@ -200,7 +200,7 @@ Cleonice & son sort⁎ n'ont rien que je regarde,
 Je n'y prens plus de part, & vous devez penser
 Qu'entre elle & vous mes vœux n'ont guere à balancer.
 
--*who_pausanias
+-*who_pausanias 
 Je ne puis plus quitter ce dessein⁎ qu'avec honte,
 Ce seroit de mon rang faire trop peu de conte,
 Ce seroit exposer ma dignité, mes droits,
@@ -261,7 +261,7 @@ Luy donner le loisir de se donner luy mesme,
 Aprés cela de peur de vous embarasser,
 Seigneur je me retire, & vous laisse y penser.
 
-**** *book_ *id_body-403 *act_ *date_1669 *creator_quinault
+**** *book_ *id_body-403 *act_ *date_1669 *creator_quinault 
 
 -*who_eurianax
 De si beaux sentimens où tant d'amour⁎ s'exprime,
@@ -383,7 +383,7 @@ Pour rendre de mon rang la hauteur odieuse,
 Vostre art⁎ à colorer l'orgueil de vos desseins,
 Si rien n'allarme en vous, c'est tout ce que j'y crains.
 
--*who_aristide
+-*who_aristide 
 Je serai bien coupable en effet, si c'est crime
 Seigneur, que d'adoucir ceux que l'aigreur anime⁎,
 D'appaiser des mutins qui pourroient s'emporter,
@@ -452,7 +452,7 @@ Je la cherche en moi-mesme & n'en veux point d'ailleurs.
 Assemblez le Conseil, demandez Cleonice,
 J'irai donner l'exemple à vous rendre justice.
 
--*who_pausanias
+-*who_pausanias 
 Que ne vous dois-je pas Seigneur, & quel moïen…
 
 -*who_aristide
@@ -662,7 +662,7 @@ Mon choix est approuvé les Grecs me font justice.
 Je suis maistre absolu de tout vostre destin⁎,
 C'est à dire qu'ici vous estes libre enfin.
 
--*who_cleonice
+-*who_cleonice 
 Libre ! & par vous Seigneur !
 
 -*who_pausanias
@@ -750,7 +750,7 @@ Le sort⁎ de Cleonice est en vostre pouvoir ;
 Mais Seigneur j'ose attendre une grace nouvelle,
 Et viens vous demander la liberté pour elle.
 
--*who_pausanias
+-*who_pausanias 
 Son sort⁎ merite bien que vous y preniez part.
 Mais pour sa liberté vous venez un peu tard.
 Ouï c'en est déja fait elle est libre Madame,
@@ -986,7 +986,7 @@ Et par de vrais effets d'une amitié parfaite,
 Rendons avec usure à sa gloire⁎ en ce jour
 Tout ce que nous venons d'oster à son Amour⁎.
 
--*who_sophane
+-*who_sophane 
 On n'attend que vostre ordre & pour cette entreprise,
 Seigneur, selon vos vœux tout est prest sans remise
 Au camp, dans nos vaisseaux, partout, sans hesiter,
@@ -1147,7 +1147,7 @@ Je veux tout déclarer⁎ & j'irai de ce pas.
 -*who_aristide
 Vous n'irez pas bien loin voici Pausanias.
 
-**** *book_ *id_body-603 *act_ *date_1669 *creator_quinault
+**** *book_ *id_body-603 *act_ *date_1669 *creator_quinault 
 
 -*who_pausanias
 A vostre tour, Seigneur, fuyez vous ma presence,
@@ -1167,7 +1167,7 @@ Qui cherche tant l'éclat⁎, les témoins, & le bruit ?
 M'en jugerez vous digne, & pourrai-je pretendre
 Ensuitte d'Aristide à l'honneur de l'apprendre ?
 
--*who_demarate
+-*who_demarate 
 Aristide, Seigneur, ne l'a sçeu que pour vous ;
 J'ai crû que de moi-mesme il vous seroit moins doux ;
 Mais il répond si mal à ce que je desire,
@@ -1235,7 +1235,7 @@ Et pour tout dire enfin cet ingrat c'est vous même.
 -*who_pausanias
 Moi, Madame ?
 
--*who_demarate
+-*who_demarate 
       Ouï, Seigneur, cessons de déguiser,
 Vous aimez Cleonice & voulez l'épouser.
 Ce feu qui me trahit menace vostre teste
@@ -1327,7 +1327,7 @@ Le trouble⁎ où je vous voi paroist d'heureux presage :
 L'Amour⁎ & la Vertu⁎, la Gloire⁎, & le Devoir
 Pour Demarate enfin semblent vous émouvoir.
 
--*who_pausanias
+-*who_pausanias 
 Sans doute, Eurianax, un si grand sacrifice,
 Engage trop mon cœur à lui rendre justice.
 Il le faut, tout le veut : Cleonice aussi bien
@@ -1489,7 +1489,7 @@ Je n'écoute plus rien vos soins⁎ sont superflus.
 -*who_aristide
 Je voi pourquoi Seigneur vous ne m'écoutez plus
 
-**** *book_ *id_body-702 *act_ *date_1669 *creator_quinault
+**** *book_ *id_body-702 *act_ *date_1669 *creator_quinault 
 
 -*who_cleonice
 Aprés tant de bien-faits & pour faveur derniere,
@@ -1702,7 +1702,7 @@ Ce que vous m'avez dit me sert trop pour m'en plaindre.
 -*who_pausanias
 Mais encor qu'ai-je dit qui vous presse à tel point ?
 
--*who_cleonice
+-*who_cleonice 
 L'oubliez vous si-tost ?
 
 -*who_pausanias
@@ -1737,7 +1737,7 @@ Ah la Grece Seigneur ne le voudra jamais !
 -*who_pausanias
 Oserois-je esperer qu'il ne tient qu'à la Grece ?
 
--*who_cleonice
+-*who_cleonice 
 Vostre exemple authorise & me rend ma foiblesse ;
 Allez esperez tout vous m'aprenez trop bien,
 Seigneur que quand on aime on ne refuse rien.
@@ -1863,7 +1863,7 @@ Amour⁎, services, soins⁎, rien ne peut l'arrester.
 -*who_charile
 J'admire que vostre ame ait tant pû se contraindre.
 
--*who_demarate
+-*who_demarate 
 Tu l'as vû, jusqu'ici, j'ai souffert sans me plaindre.
 J'ai pris d'extrémes soins⁎, fait les derniers efforts
 Pour retenir l'ardeur de mes jaloux transports⁎ :
@@ -1891,7 +1891,7 @@ Pour m'aider à trouver le chemin de son coeur.
 -*who_charile
 Il mourra donc enfin l'ingrat qui vous offence ?
 
--*who_demarate
+-*who_demarate 
 Il mourra, ce seroit trop peu pour ma vengance.
 Il faut pour le punir au gré de mon transport⁎
 Quelque genre de peine au dessus de la mort.
@@ -1923,7 +1923,7 @@ Et qu'en ces lieux enfin contre vous tout conspire.
 Les mutins font un Chef dont je prens peu d'effroi.
 Aristide est ici le seul... Mais je le voi.
 
-**** *book_ *id_body-802 *act_ *date_1669 *creator_quinault
+**** *book_ *id_body-802 *act_ *date_1669 *creator_quinault 
 
 -*who_aristide
 Je me dérobe aux Grecs & viens ici moi-même
@@ -1952,7 +1952,7 @@ Si vous en jugez bien, vous n'en sçauriez douter.
 Pour vous au moindre effort tout est à redouter.
 Craignez tout des mutins...
 
--*who_pausanias
+-*who_pausanias 
       Quoi donc vous pouvez croire
 Que si je perds mon Rang je survive à ma Gloire⁎ ?
 Que je puisse ramper dans un destin⁎ plus bas !
@@ -2083,7 +2083,7 @@ Du faiste des Grandeurs au comble des plaisirs.
 -*who_eurianax
 Quel changement Seigneur d'un coeur tel que le vostre,
 
--*who_pausanias
+-*who_pausanias 
 Un grand coeur quand il aime, aime encor plus qu'un autre ;
 Et les mesmes ardeurs, les mesmes sentimens
 Qui font les grands Heros font les tendres Amans.
@@ -2110,7 +2110,7 @@ Mon Rival ?
 -*who_aristide
       Il promet de ne jamais vous nuire.
 
--*who_pausanias
+-*who_pausanias 
 Hé mon Rival lui-mesme aussi vous a parlé ?
 
 -*who_aristide
@@ -2141,7 +2141,7 @@ En habit déguisé pour passer inconnuë,
 Quelques uns de vos Gens craignant les Factieux
 L'ont mise en seureté chez Demarate...
 
--*who_pausanias
+-*who_pausanias 
       O Dieux !
 
 -*who_sophane
@@ -2173,7 +2173,7 @@ De grace expliquez moi ce que je veux sçavoir,
 Tirez moi des horreurs⁎ d'un embarras⁎ funeste⁎,
 Parlez de Cleonice & laissez tout le reste.
 
--*who_demarate
+-*who_demarate 
 Que vous pressez le coup qui vous doit accabler,
 J'en tremble encor pour vous, commencez d'en trembler.
 J'ai trompé Cleonice en lui faisant entendre⁎,

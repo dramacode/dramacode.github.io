@@ -498,7 +498,7 @@ Le 23 Janvier 1673.
  – Ataulphe,Capitaine des Gardes d'Amalasonte.
  – Gepilde,Confidente d'Amalasonte.
  – Valmire,Confidente d'Ildegonde.
- – Euthar,Confident de Theodat.
+ – Euthar,Confident de Theodat. 
 
 
 ## ACTE PREMIER
@@ -704,7 +704,7 @@ Quoy que peut-estre icy je fusse peu suspect,
 La Reyne qui paroist m'oblige à ce respect⁎.  
 
 
-### SCENE II
+### SCENE II 
 AMALASONTE, THEODAT, GEPILDE
 
 
@@ -875,7 +875,7 @@ D'embarrasser ma gloire⁎, & n'en profiter pas.
 Laissez-moy seule.  
 
 
-### SCENE III
+### SCENE III 
 AMALASONTE, GEPILDE.
 
 
@@ -974,7 +974,7 @@ Je le voy , mais enfin mon cœur n'est point content⁎.
 Un je ne sçay quel trouble⁎ incessamment l'agite [86],  
 Ma raison qui s'alarme⁎ en demeure interdite⁎.  
 Revoyons Theodat, & dés ce mesme jour  
-Sçachons s'il faut éteindre, ou croire mon amour.  < Fin du Premier Acte. >
+Sçachons s'il faut éteindre, ou croire mon amour.  < Fin du Premier Acte. > 
 
 
 ## ACTE II
@@ -1569,7 +1569,7 @@ Vous m'aviez sçeu contraindre à force de douleurs
 A démentir l'orgueil qui cause mes malheurs.  
 
 
-### SCENE V.
+### SCENE V. 
 THEODAT, EUTHAR .
 
 
@@ -1607,7 +1607,7 @@ Quels périls…
     THEODAT.
         Ils sont grands, j'y périray peut-estre ;  
 Mais, Euthar, quand on a le cœur bien enflamé,  
-C'est mourir satisfait, que de mourir aimé.  < Fin du Second Acte. >
+C'est mourir satisfait, que de mourir aimé.  < Fin du Second Acte. > 
 
 
 ## ACTE III.
@@ -2155,7 +2155,7 @@ Hola, Gardes, à moy .
 
     AMALASONTE.
         Allez, courez,  
-Surprenez Theodat, & vous en assurez [148].  < Fin du Troisième Acte. >
+Surprenez Theodat, & vous en assurez [148].  < Fin du Troisième Acte. > 
 
 
 ## ACTE IV.
@@ -2218,7 +2218,7 @@ L'interest seul du Trône estant digne de moy,
 J'abandonnerois tout à ce que je lui doy.  
 
 
-### SCENE II.
+### SCENE II. 
 AMALASONTE, ATAULPHE, GEPILDE.
 
 
@@ -2320,7 +2320,7 @@ C'estoit lors [158] que l'honneur t'obligeoit à trembler.
 Mais de ton cœur séduit⁎ les mouvemens rebelles …  
 
 
-### SCENE IV
+### SCENE IV 
 AMALASONTE, HONORIC, GEPILDE.
 
 
@@ -2385,7 +2385,7 @@ Du moins, forcés à voir mon Ennemy regner,
 Si j'obtiens quelque temps, je croiray tout gagner.  
 
 
-### SCENE V.
+### SCENE V. 
 AMALASONTE, GEPILDE .
 
 
@@ -2521,7 +2521,7 @@ L'appas est sensible⁎, & qui sçait bien aimer,
 Avec un Sceptre en main, est en droit de charmer⁎.  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 ILDEGONDE, THEODAT, VALMIRE.
 
 
@@ -2665,7 +2665,7 @@ Dites que vous m'aimez, elle est en assurance.
 
     ILDEGONDE.
 Vous avez là-dessus tout lieu d'estre content⁎ ;  
-Si j'estois sans amour, je ne craindrois par tant.  < Fin du Quatrième Acte. >
+Si j'estois sans amour, je ne craindrois par tant.  < Fin du Quatrième Acte. > 
 
 
 ## ACTE V.
@@ -2722,7 +2722,7 @@ L'arrache de ses mains, & prend soin de ses jours.
 Veux-tu que sans rien voir de tout…  
 
 
-### SCENE II.
+### SCENE II. 
 AMALASONTE, ILDEGONDE, VALMIRE, GEPILDE.
 
 
@@ -2896,7 +2896,7 @@ Ce Theodat…Mais, Dieux, faut-il que je m'en croye [184] ?
 On m'a trompée ! Ah Ciel !  
 
 
-### SCENE III.
+### SCENE III. 
 AMALASONTE, ILDEGONDE, THEODAT, GEPILDE, VALMIRE.
 
 

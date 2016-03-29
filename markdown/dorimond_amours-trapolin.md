@@ -1,6 +1,6 @@
 ---
 identifier: dorimond_amours-trapolin  
-creator: Drouin, Nicolas  
+creator: Dorimond  
 date: 1662  
 title: La comédie de la comédie et Les amours de Trapolin  
 ---
@@ -2333,6 +2333,7 @@ Avec moy vous aurez liberté toute entière :
 Ouy, chacun avec moy peut vivre à sa maniere.  
 
     TRAPOLIN.
+
 Ah ! cette fille est brave fille,  
 Elle m'a fort bien répondu,  
 Elle est courtoise, elle est gentille,  
@@ -2398,12 +2399,14 @@ Et si lors qu'elles vont voir le sacré vallon,
 Chacune sçait fort bien trouver son Apollon.  
 
     TRAPOLIN.
+
 Et l'Apollon avec emphase  
 Monte la Muse sur Pegase⁎  
 Ma foy fille qui fait des vers  
 Est sujette à cheoir à l'envers⁎.  
 
     POESIE.
+
 Ma foy garçon qui n'en fait pas,  
 Est sujet à porter le bas.  
 

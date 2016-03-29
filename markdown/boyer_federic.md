@@ -1417,7 +1417,7 @@ La Scene est à Messine dans le Palais Royal [76].
 
 
 
-## ACTE I
+## ACTE I 
 
 
 ### SCENE PREMIERE
@@ -1678,7 +1678,7 @@ Que j'aurois moins d'ennuis⁎, si j'avois moins d'amour.
 D'une si foible amour [97], Seigneur, je vous dispense,  
 Acquitez vous au moins des soins⁎de ma vengeance ;  
 Federic vient, adieu ; sçachez, Seigneur, de luy  
-Ce que me doit un Roy qui se fait mon appuy.  
+Ce que me doit un Roy qui se fait mon appuy.   
 
 
 ### SCENE III
@@ -1788,7 +1788,7 @@ Haste donc ce beau jour, et sçache …
         Quoy, Madame.  
 Quel trouble …  
 
-    LE  ROY.
+    LE  ROY. 
     Ignore encor le secret de mon ame.  
 
     FEDERIC
@@ -1943,7 +1943,7 @@ Allons le prévenir⁎ pour cet illustre aveu⁎.
 Se flate⁎ qui voudra d'un Trône imaginaire,  
 La faveur d'un grand Roy, les tendresses d'un Pere,  
 Ne sont rien où je vois un Empire à gagner ;  
-Et je préfere à tout le hazard⁎ de regner.  < Fin du premier Acte. >
+Et je préfere à tout le hazard⁎ de regner.  < Fin du premier Acte. > 
 
 
 ## ACTE II
@@ -2088,7 +2088,7 @@ Qu'il me mette en estat d'user de mon pouvoir.
 Vous l'aurez tout entier, n'en soyez plus en peine ;  
 Le Roy neglige trop l'interest d'une Reyne ;  
 Et vous sçaurez bien-tost, vous reposant sur moy,  
-Que ma parole icy vaut bien celle d'un Roy.  
+Que ma parole icy vaut bien celle d'un Roy.   
 
 
 ### SCENE III
@@ -2240,7 +2240,7 @@ Assez chere à vos yeux pour craindre mon absence ?
 Flater⁎d'un air si doux celle qu'on veut venger,  
 Fabrice, c'est sçavoir doublement l'obliger.  
 
-    FABRICE.
+    FABRICE. 
 Avec moins de bonté recevez cette plainte ;  
 A des vœux⁎ plus hardis imposez plus de crainte ;  
 Reprimez leur audace, et ne m'arrachez pas  
@@ -2274,7 +2274,7 @@ Aux plus grandes Beautez accoustume ses yeux.
 Vous avez tort de craindre avec tant d'avantage ;  
 Et songez, pour en prendre un peu plus de courage,  
 Que l'amour de Fabrice est heureux en ce poinct,  
-Qu'une Reyne le sçait, et n'en murmure point.  
+Qu'une Reyne le sçait, et n'en murmure point.   
 
 
 ### SCENE V
@@ -2310,7 +2310,7 @@ Vous pretendez sans doute un plus grand avantage [114].
     FABRICE
 Moy, je ne prétens rien.  
 
-    VALERE.
+    VALERE. 
         Vous faites le discret ;  
 Et sous cet air modeste on triomphe en secret.  
 
@@ -2430,7 +2430,7 @@ Vous permet de manquer de respect à Valere,
 Considerez son rang, sa gloire, et son appuy.  
 Mais quel ressentiment vous aigrit contre luy ?  
 
-    FABRICE
+    FABRICE 
 Seigneur, je reconnois le bonheur de Valere.  
 Mais quand j'ay vostre aveu⁎, quand j'ay celuy d'un Pere,  
 Est-ce avec ce secours manquer à mon devoir,  
@@ -2539,7 +2539,7 @@ Que ne se resout-il à faire son devoir ?
 Madame, est-ce y manquer, quand son grand cœur l'entraine  
 Au glorieux espoir d'acquerir une Reyne ?  
 
-    LE  ROY.
+    LE  ROY. 
 Je souffre à ce grand cœur le desir de regner ;  
 Mais ce cœur à l'Amour se peut laisser gagner ;  
 Il peut aimer Camille, et souffrir dans son ame,  
@@ -2586,10 +2586,10 @@ Craignez le contretemps d'une ardeur trop pressante.
 
     LE  ROY
 Pour les périls du rang cesse de m'alarmer⁎;  
-S'il est doux de regner, il est plus doux d'aimer.  < Fin du second Acte. >
+S'il est doux de regner, il est plus doux d'aimer.  < Fin du second Acte. > 
 
 
-## **ACTE III**
+## ACTE III
 
 
 ### SCENE PREMIERE
@@ -2625,7 +2625,7 @@ Que ne préfere-t'elle un Trône à son amour ?
     MARCELLIN
 Mais puis que ce secret s'en va paroistre au jour …  
 
-    FEDERIC.
+    FEDERIC. 
 Il n'est pas encor temps ; et l'ingrate Princesse  
 Me devoit consulter plustost que sa tendresse.  
 
@@ -2777,7 +2777,7 @@ FEDERIC, VALERE, OCTAVE
     FEDERIC
 Hé bien, mon Fils, le Ciel a changé vostre sort.  
 
-    VALERE.
+    VALERE. 
 Vous le pouvez juger,Seigneur, à mon transport.  
 Le cœur comblé de joye, et de reconnoissance,  
 Je viens mettre à vos pieds toute mon esperance.  
@@ -2819,7 +2819,7 @@ C'est le sens du billet ; voy son amour extréme.
     VALERE 
 Le Roy me rend Camille, achevez mon bonheur.  
 
-    FEDERIC.
+    FEDERIC. 
 A Octave.
 
 L'apparence le trompe, achevons son erreur.  
@@ -2853,7 +2853,7 @@ Que deviendra l'espoir dont mon cœur est charmé⁎?
 Plus je semble approcher du Trône que j'espere,  
 Plus je sens le péril d'un espoir temeraire.  
 Mais le Roy vient. Allons embrasser ses genoux,  
-Et réverer la main qui m'offre un bien si doux.  
+Et réverer la main qui m'offre un bien si doux.   
 
 
 ### SCENE VI
@@ -2932,7 +2932,7 @@ Dois-je croire mon Pere, et ma temerité ?
 N'est-ce point me flater⁎ d'un espoir inutile,  
 De pretendre au bonheur d'estre aimé de Camille ?  
 
-    LE  ROY.
+    LE  ROY. 
 Quoy, vous aimez Camille ?  
 
     VALERE
@@ -2976,7 +2976,7 @@ Pour vous plaire, Seigneur, que faut-il que je fasse ?
     LE  ROY
 Renoncer à Camille, et meriter ma grace.  
 
-    VALERE.
+    VALERE. 
 Aimez-vous la Beauté dont mes yeux sont charmez⁎?  
 
     LE  ROY
@@ -3017,7 +3017,7 @@ Voy quel est de mon sort l'injurieux caprice ;
 Ce billet que j'ay crû me rendre un bon office,  
 Authorise Valere à trahir mon espoir.  
 
-    MARCELLIN.
+    MARCELLIN. 
 Pour l'entendre sçait-il tout ce qu'il faut sçavoir ?  
 Peut-estre Federic cache encor ce mystere.  
 
@@ -3093,7 +3093,7 @@ De ne se flater⁎pas d'une indigne victoire :
 Je rougirois pour vous, si Valere aujourd'huy  
 Vous faisoit foiblement descendre jusqu'à luy.  
 
-    CAMILLE.
+    CAMILLE. 
 Vous prenez trop de soins⁎, et leur excés m'étonne⁎;  
 J'ay crû [133] qu'ils se bornoient au bien de ma Couronne  
 Mais à ce que je voy cette nouvelle ardeur  
@@ -3134,7 +3134,7 @@ Mais il est temps enfin qu'elle se fasse voir.
     LE  ROY
 Elle se [134] fera voir trop tost pour vostre gloire.  
 
-    CAMILLE.
+    CAMILLE. 
 Si vous la secondez à m'oster ma victoire,  
 J'ay du moins la douceur de rendre un Roy jaloux.  
 
@@ -3180,7 +3180,7 @@ Soyons donc la Rivale, et l'Amant⁎ de Camille,
 Servons un feu caché par de fausses amours.  
 Amour, fais reüssir ce bizarre secours ;  
 Si ma feinte à Valere oste une grande Reyne,  
-Ne punis pas au moins ma flame de sa haine.  < Fin du troisième Acte. >
+Ne punis pas au moins ma flame de sa haine.  < Fin du troisième Acte. > 
 
 
 ## ACTE IV
@@ -3277,7 +3277,7 @@ Je ne me plaignois pas d'aimer sans esperance.
 S'il vous estoit permis, cruels, de m'en flater⁎,  
 Pensez-vous qu'il le soit aussi de me l'oster ?  
 Et vous, dont la bonté trop sensible à ma peine …  
-Mais je la voy venir.  
+Mais je la voy venir.   
 
 
 ### SCENE IV
@@ -3311,7 +3311,7 @@ Mais mon cœur s'en defend, et je viens [139] vous l'aprendre.
 Ces bizarres transports, cette inégalité⁎,  
 M'asseurent mal d'un feu dont j'ay tousjours douté.  
 
-    FABRICE.
+    FABRICE. 
 Ah! c'est trop me flater⁎ dans ma trop juste crainte ;  
 L'amour de ce grand Roy ne vient point de la feinte ;  
 Et c'est trop de bonté, de vouloir à mes feux  
@@ -3562,7 +3562,7 @@ Cet orgueil ennemy de mes tendres desirs
 Murmure foiblement contre un cœur qui soûpire,  
 Quand il peut s'épargner la honte de le dire ;  
 Et qu'enfin ton aveu⁎ soulage ma pudeur  
-De l'indigne soucy d'expliquer mon ardeur.  
+De l'indigne soucy d'expliquer mon ardeur.   
 
 
 ### SCENE IX
@@ -3601,7 +3601,7 @@ J'en prens … mais mon respect⁎ me condamne au silence.
 Parlez, parlez, Valere, et me faites sçavoir  
 Si Camille tousjours est vostre unique espoir.  
 
-    VALERE.
+    VALERE. 
 A la faveur d'un Roy je préferois Camille ;  
 Mais quand je vous connois, ce choix est bien facile :  
 Me pardonnerez vous l'ingrate ambition  
@@ -3753,10 +3753,10 @@ Mes jours me sont moins chers que le bien où j'aspire.
 De vos seuls interests tout mon cœur est jaloux.  
 
     VALERE
-Je ne veux vivre, vaincre, et mourir que pour vous.  < Fin du quatrième Acte. >
+Je ne veux vivre, vaincre, et mourir que pour vous.  < Fin du quatrième Acte. > 
 
 
-## **ACTE V**
+## ACTE V
 
 
 ### SCENE PREMIERE
@@ -3780,7 +3780,7 @@ Si pres d'un grand combat ayant besoin d'un Maistre …
 
     CAMILLE
 Il en usera bien, estant digne de l'estre.  
-Va, dis luy de ma part que je plains son malheur.  
+Va, dis luy de ma part que je plains son malheur.   
 
 
 ### SCENE II
@@ -3879,7 +3879,7 @@ Viennent pour se soûmettre au nom de tout l'Estat.
 Le Roy dessus le Port les tient en conference ;  
 Que vous faut-il encor apres cette asseurance ?  
 Mais il paroist, Madame, et vous allez sçavoir  
-Tout ce qu'ont fait pour vous son zele et son devoir.  
+Tout ce qu'ont fait pour vous son zele et son devoir.   
 
 
 ### SCENE IV
@@ -3954,7 +3954,7 @@ C'est de leur politique un grossier artifice,
 Qui pour mettre à couvert de lâches revoltez,  
 Contre vostre pouvoir cherchent ces seuretez.  
 
-    CAMILLE.
+    CAMILLE. 
 Vostre haute vertu⁎ se fait par tout connaistre ;  
 Mais souffrez ( car enfin vous en estes le Maistre)  
 Que puis qu'à vos Estats il faut donner un Roy,  
@@ -4038,7 +4038,7 @@ Me pardonnerez-vous …
     CAMILLE
         Oublions tout, Madame.  
 
-    YOLAND.
+    YOLAND. 
 Vous me voyez encor sous ce déguisement ;  
 Honteuse de souffrir un triste changement,  
 Je me cache à moy-méme …  
@@ -4082,7 +4082,7 @@ O Ciel!
     YOLAND
     Quoy ? Federic.  
 
-    FEDERIC.
+    FEDERIC. 
         Ne croyez pas, Madame,  
 Que trop ambitieux, j'aspire à vostre flame.  
 Si je l'avois esté, mon rang et mon employ,  

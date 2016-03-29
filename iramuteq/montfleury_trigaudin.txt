@@ -51,7 +51,7 @@ Il n'est ny l'un ny l'autre.
 
 -*who_l_industrie
       Est-il possible ? Il a
-Une Biblioteque où toûjours…
+Une Biblioteque où toûjours… 
 
 -*who_trigaudin
       Tout cela
@@ -292,7 +292,7 @@ Il manquoit à son front ce qu'ils vouloient qu'il eut :
 Bref chacun luy dit tant…
 
 -*who_trigaudin
-      Hé bien ?
+      Hé bien ? 
 
 -*who_toinette
       Qu'elle le crût.
@@ -328,7 +328,7 @@ Pourquoy donc en parler ?
 -*who_toinette
       Par forme d'entretien.
 
-**** *book_ *id_body-203 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-203 *act_ *date_1674 *creator_montfleury 
 
 -*who_geronte
 O le charmant Portrait !
@@ -397,7 +397,7 @@ Ce crayon imparfait n'en est…
 Plus belle ? Quoy, ses yeux…
 
 -*who_trigaudin
-      Sont plus grands & plus doux.
+      Sont plus grands & plus doux. 
 
 -*who_geronte
 Son teint ?
@@ -445,7 +445,7 @@ Son esprit ?
       Engageante.
 
 -*who_geronte
-Jeune ?
+Jeune ? 
 
 -*who_trigaudin
       Cela se voit.
@@ -532,7 +532,7 @@ De croire que l'Hymen…
 -*who_geronte
       C'est par cette raison
 Qu'il en faut prendre une autre, & songer à luy plaire :
-Si la vostre vivoit, vous n'en auriez que faire.
+Si la vostre vivoit, vous n'en auriez que faire. 
 
 -*who_trigaudin
 J'aime le Célibat.
@@ -597,7 +597,7 @@ Vos bontez ont pour moy de si frequents effets,
 Que mes remercîemens ne finiroient jamais,
 Si mes soins, mon respect, & mon obeïssance,
 Ne marquoient mieux mon zele, & ma reconnoissance :
-Mais quel est ce présent ?
+Mais quel est ce présent ? 
 
 -*who_geronte
       Je vous donne un Mary ;
@@ -641,7 +641,7 @@ A prendre pour Epoux…
       Qui ?
 
 -*who_geronte
-      Monsieur Trigaudin !
+      Monsieur Trigaudin ! 
 
 -*who_julie
 Monsieur Trigaudin !
@@ -725,7 +725,7 @@ A-t-elle, en l'acceptant, perdu le souvenir
 De ces deux cœurs que rien ne devoit des-unir ?
 Geronte a-t-il trouvé son cœur sans Interprete,
 Son visage sans trouble, & sa bouche muette ?
-Dy-moy, qu'a t-elle dit pendant cet entretien ?
+Dy-moy, qu'a t-elle dit pendant cet entretien ? 
 
 -*who_toinette
 Et qu'auroit-elle dit ? Elle n'a rien dit.
@@ -835,7 +835,7 @@ Je vous quitte.
 -*who_valere
       Et je vay faire un dernier effort…
 
-**** *book_ *id_body-303 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-303 *act_ *date_1674 *creator_montfleury 
 
 -*who_geronte
 Sa Cousine sans doute est venuë, & j'espere
@@ -943,7 +943,7 @@ Et vous le pourrez ?
 Ne revoquera⁎ point un ordre qui me tuë ?
 
 -*who_geronte
-Non.
+Non. 
 
 -*who_valere
       Il épouseroit vostre Niéce demain ?
@@ -1010,7 +1010,7 @@ Je suis d'avis de voir ce qu'il est devenu,
 Il a quelque dessein qui ne m'est pas connu :
 Mais enfin par mes soins sa conduite observée…
 
-**** *book_ *id_body-306 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-306 *act_ *date_1674 *creator_montfleury 
 
 -*who_l_industrie
 Monsieur…
@@ -1074,7 +1074,7 @@ N'a pas mis en oubly ce que j'ay fait pour vous.
 
 -*who_lucie
 Mon ame est trop sensible à la reconnoissance,
-Pour oublier jamais…
+Pour oublier jamais… 
 
 -*who_trigaudin
       Mais sur cette assurance
@@ -1117,7 +1117,7 @@ Jetté les fondemens de cette intelligence⁎ ;
 Et soupant l'autre jour chez un Amy parfait,
 Où le hazard voulut qu'on vit vostre Portrait,
 Afin de parvenir au but que j'imagine,
-Je vous fis pres de luy passer pour ma Cousine.
+Je vous fis pres de luy passer pour ma Cousine. 
 
 -*who_lucie
 Vous avez vos raisons ; vous pouvez ordonner,
@@ -1157,7 +1157,7 @@ A moy, Monsieur ?
       Bon.
 
 -*who_trigaudin
-      Comment bon ?
+      Comment bon ? 
 
 -*who_lucie
       Vous dites
@@ -1281,7 +1281,7 @@ Voila, je vous l'avouë un méchant Garnement⁎.
 
 -*who_lucie
 Je ne puis revenir de mon étonnement,
-Car vostre bien suffit aux besoins d'une vie…
+Car vostre bien suffit aux besoins d'une vie… 
 
 -*who_trigaudin
 Oüy, j'en puis vivre avec bien de l'oeconomie,
@@ -1320,7 +1320,7 @@ M'aura mis…
 
 -*who_lucie
       Non, Monsieur, n'attendez rien de moy,
-Ce dessein me fait peur, j'en frémis.
+Ce dessein me fait peur, j'en frémis. 
 
 -*who_trigaudin
       L'Innocente⁎ !
@@ -1356,7 +1356,7 @@ Faites-luy bonne mine, autrement…Songez-y.
 Cecy me semble un songe, & jamais ma surprise
 N'estoit venuë au point où ce discours l'a mise.
 Quoy, toutes mes raisons contre celle qu'il a,
-N'ont pû…
+N'ont pû… 
 
 -*who_l_industrie
       Le grand pendard⁎ de Maistre que j'ay là !
@@ -1411,7 +1411,7 @@ Que malgré tant d'amour tout trahit nos souhaits,
 Et que je vay demain la perdre pour jamais.
 
 -*who_toinette
-Ah Monsieur !
+Ah Monsieur ! 
 
 -*who_valere
       Oüy, demain on contraindra sa flâme
@@ -1452,7 +1452,7 @@ Un juste desespoir n'osast tout entreprendre.
 Il vaut mieux m'éloigner.
 
 -*who_toinette
-      Ah gardez-vous-en bien.
+      Ah gardez-vous-en bien. 
 
 -*who_valere
 Non, non, tous tes conseils ne serviront de rien ;
@@ -1491,7 +1491,7 @@ Quel Galant ! La figure en est-elle pas bonne ?
 Mon amour est confus du Rival qu'on me donne ;
 Et si pour m'en vanger, je suivois mon chagrin…
 
-**** *book_ *id_body-402 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-402 *act_ *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ah Monsieur.
@@ -1526,7 +1526,7 @@ Vous sçavez bien que c'est…
       La Niéce de Géronte.
 
 -*who_valere
-Justement⁎.
+Justement⁎. 
 
 -*who_trigaudin
       Oh.
@@ -1567,7 +1567,7 @@ Moy, Monsieur ?
 Géronte à cet Hymen semble s'estre attendu ;
 Mais loin de l'accepter, je m'en suis défendu ;
 Je connois vostre amour, Monsieur, & je devine
-Les ennuis qui suivroient…
+Les ennuis qui suivroient… 
 
 -*who_valere
       Mais enfin s'il s'obstine
@@ -1615,7 +1615,7 @@ Et que de mes respects vous serez satisfait.
 -*who_valere
 Cela suffit ; Adieu, nous en verrons l'effet.
 
-**** *book_ *id_body-403 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-403 *act_ *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ce Geronte entesté de l'Hymen qu'il veut faire,
@@ -1686,7 +1686,7 @@ Vous adore.
 
 -*who_geronte
       Déja ? Voila qui prend bien fort.
-Ainsi donc nostre Hymen sera chose facile ?
+Ainsi donc nostre Hymen sera chose facile ? 
 
 -*who_trigaudin
 Il dépendra de vous.
@@ -1765,7 +1765,7 @@ Ainsi donc cet Epoux aura toute vostre ame ?
 Toute entiere !
 
 -*who_geronte
-      Et ses soins témoins de ses desirs…
+      Et ses soins témoins de ses desirs… 
 
 -*who_lucie
 Me plairont.
@@ -1812,7 +1812,7 @@ La pudeur d'une Fille⁎ à de telles épreuves ;
 Il faut, quand nous pouvons donner tout à nos sens,
 Epargner les témoins de nos empressemens,
 De crainte d'exciter, par un soin condamnable,
-De petits mouvemens dont on est responsable.
+De petits mouvemens dont on est responsable. 
 
 -*who_geronte
 Tout ce raisonnement me semble bien subtil ;
@@ -1845,7 +1845,7 @@ Il presse.
       Qu'il attende.
 
 -*who_l_industrie
-      Il dit que c'est pour faire…
+      Il dit que c'est pour faire… 
 
 -*who_trigaudin
 Ah Ciel ! il ne faut pas negliger cette affaire,
@@ -1871,7 +1871,7 @@ Laisse-nous seuls.
       Enfin, malgré la retenuë
 Où ses yeux me forçoient, je puis en liberté
 Vous montrer tout l'amour dont je suis transporté ;
-Et ces mains…
+Et ces mains… 
 
 -*who_lucie
       Ce transport qui paroist légitime,
@@ -1911,7 +1911,7 @@ De faire aveuglement ce qu'on exigera
 De vos soins.
 
 -*who_geronte
-      Je feray tout ce qu'il vous plaira.
+      Je feray tout ce qu'il vous plaira. 
 
 -*who_lucie
 Mon cœur n'ose exposer sur si peu d'assurance…
@@ -2030,7 +2030,7 @@ A dedans nos panneaux donné teste baissée.
 
 -*who_lucie
 Et qui n'y donneroit ? Les Gens de bonne-foy
-Sont aisez…
+Sont aisez… 
 
 -*who_trigaudin
       C'est un Homme à berner, croyez-moy ;
@@ -2102,7 +2102,7 @@ Aux ordres absolus que j'ay sçeu vous donner ;
 J'iray tantost trouver Géronte à sa demeure,
 Et pour l'Hymen qu'il veut, prendre le jour & l'heure.
 
-**** *book_ *id_body-410 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-410 *act_ *date_1674 *creator_montfleury 
 
 -*who_lucie
 Croyez-vous à present que ce soit tout de bon ?
@@ -2128,7 +2128,7 @@ Et je puis par un tour que je veux qu'on luy fasse,
 Le forcer, sans qu'il ose ou puisse s'en fâcher,
 A déclarer l'Hymen qu'il s'obstine à cacher ;
 Et l'embarras enfin où je le prétens mettre,
-Peut nous vanger tous deux de luy sans nous commettre.
+Peut nous vanger tous deux de luy sans nous commettre. 
 
 -*who_geronte
 Et si pendant ce temps il m'assaisonne un Plat
@@ -2185,7 +2185,7 @@ Pour conduire le tour qu'il s'est imaginé :
 Il doit venir chez nous, & je suis étonné…
 Mais je le vois : Hé bien, est-il temps, l'Industrie ?
 
-**** *book_ *id_body-502 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-502 *act_ *date_1674 *creator_montfleury 
 
 -*who_l_industrie
 Il faut se dépescher, Monsieur, je vous en prie,
@@ -2215,7 +2215,7 @@ Nous prenons la Forest.
 
 -*who_valere
 C'est mon Valet de Chambre ; il est déja tout prest,
-Et son humeur folâtre a de quoy satisfaire.
+Et son humeur folâtre a de quoy satisfaire. 
 
 -*who_geronte
 D'accord ; mais avec eux voyez ce qu'il faut faire,
@@ -2246,7 +2246,7 @@ Car si…
 C'est, en s'expliquant bien, répondre avec adresse :
 Mais je voy Trigaudin tout resveur, qu'on nous laisse.
 
-**** *book_ *id_body-504 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-504 *act_ *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 He bien, vous avez veu ma Cousine ?
@@ -2280,7 +2280,7 @@ Elle vous aime.
 Qu'un cœur… Avec le temps vous le pourrez aprendre.
 
 -*who_geronte
-A quoy l'avez-vous veu ?
+A quoy l'avez-vous veu ? 
 
 -*who_trigaudin
       Depuis vostre entretien,
@@ -2436,7 +2436,7 @@ On m'écrit d'Orleans…
 Que dans deux ou trois jours mon Frere s'y doit rendre.
 
 -*who_trigaudin
-Hé bien ; qu'avez-vous tant à craindre sur ce point ?
+Hé bien ; qu'avez-vous tant à craindre sur ce point ? 
 
 -*who_lucie
 Je dois apréhender que ne m'y trouvant point,
@@ -2474,7 +2474,7 @@ Oüy, je prens tout sur moy, vous dis-je, & vous dispense
 Du soin de m'expliquer quelle en est l'importance :
 Ce dessein sans péril se peut exécuter,
 L'occasion nous rit⁎, il en faut profiter ;
-Et puis que c'est pour vous un moyen de me plaire…
+Et puis que c'est pour vous un moyen de me plaire… 
 
 -*who_lucie
 Hé bien, Monsieur, hé bien, il faut vous satisfaire ;
@@ -2510,7 +2510,7 @@ La Forest, la voila, va luy donner l'aubade⁎.
 Ma Sœur, vous dans Paris !
 
 -*who_lucie
-      Ah mon Frere !
+      Ah mon Frere ! 
 
 -*who_trigaudin
       Sa Soeur!
@@ -2555,7 +2555,7 @@ Si suspect…
 Je viens de retenir deux places au Carosse.
 
 -*who_trigaudin
-Bon, le Beaufrere va nous quitter le terrain.
+Bon, le Beaufrere va nous quitter le terrain. 
 
 -*who_la_forest
 Mais puis que vous voila, je change de dessein,
@@ -2597,7 +2597,7 @@ Vous ne connoissez point Maistre Martin Braillart,
 Fils de Thibaut Braillard, ce torrent d'éloquence,
 Dont la voix faisoit peur aux Gens à l'Audiance,
 Dont les doctes Ayeuls connus de toutes parts
-Donnerent au Barreau tant d'Illustres Braillarts ?
+Donnerent au Barreau tant d'Illustres Braillarts ? 
 
 -*who_trigaudin
 Non. Où se sont-ils veus ? sur quelles assurances…
@@ -2677,7 +2677,7 @@ Où demeurez-vous ?
       Je m'en vay le chercher.
 Mais je le voy qui vient, ma course seroit vaine.
 
-**** *book_ *id_body-508 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-508 *act_ *date_1674 *creator_montfleury 
 
 -*who_la_riviere
 Je vay changer d'habit.
@@ -2706,7 +2706,7 @@ Figure les ardeurs dont je brûle pour vous.
 Ce début de ma part demanderoit des suites ;
 Mais tant d'esprit paroist en tout ce que vous dites,
 Qu'un discours si galant & si bien figuré,
-Doit n'estre interrompu, que pour estre admiré.
+Doit n'estre interrompu, que pour estre admiré. 
 
 -*who_la_riviere
 Je suis ravy de voir qu'il ait de quoy vous plaire ;
@@ -2783,7 +2783,7 @@ Belle conclusion !
 -*who_lucie
       Une pareille affaire
 Dedans un autre lieu veut qu'on en délibere.
-Nous pourons là-dedans en parler à loisir.
+Nous pourons là-dedans en parler à loisir. 
 
 -*who_la_forest
 Entrons, elle a raison ; je me fais un plaisir…
@@ -2814,7 +2814,7 @@ De me tirer du pas que vous m'avez fait faire ;
 Et pour vous épargner des conseils superflus,
 J'entre, & j'attens chez nous vos ordres là-dessus.
 
-**** *book_ *id_body-510 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-510 *act_ *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Sur tout cet embarras que faut-il que je fasse ?
@@ -2959,7 +2959,7 @@ Pour le tenir secret, tous les ordres qu'il faut.
 Oüy, oüy, je vay songer à regler cette affaire.
 Le Fourbe jusqu'au bout soûtient son caractere.
 
-**** *book_ *id_body-604 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-604 *act_ *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ce dessein est hardy, mais bien imaginé ;
@@ -2986,7 +2986,7 @@ Je vous feray bien voir…
       Mon Cousin, qu'avez-vous ?
 
 -*who_la_forest
-Je parlois à ma Sœur.
+Je parlois à ma Sœur. 
 
 -*who_trigaudin
       L'affaire est importante,
@@ -3059,7 +3059,7 @@ Je veux le dégoûter de l'hymen de ma Femme ;
 Mon discours peut avoir l'effet que j'en prévoy.
 Un mot, Monsieur Braillart ?
 
-**** *book_ *id_body-607 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-607 *act_ *date_1674 *creator_montfleury 
 
 -*who_la_riviere
       Que voulez-vous de moy ?
@@ -3090,7 +3090,7 @@ Pour oposer, afin de n'estre point surpris,
 Et pares aquilas  pila minantia pilis .
 
 -*who_trigaudin
-J'y consens.
+J'y consens. 
 
 -*who_la_riviere
       C'est beaucoup d'honneur que vous me faites.
@@ -3194,7 +3194,7 @@ Il traite tout cecy fort cavalierement :
 Je voy qu'il faut bientost changer de batterie,
 Pour ne pas m'exposer…Mais je voy L'Industrie.
 
-**** *book_ *id_body-609 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-609 *act_ *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ecoute, va chez nous promptement de ma part,
@@ -3221,7 +3221,7 @@ Il faut…
       Ah lâche Amy, sans honneur & sans foy !
 
 -*who_trigaudin
-Qu'auroit-il ?
+Qu'auroit-il ? 
 
 -*who_geronte
       Fourbe !
@@ -3292,7 +3292,7 @@ Elle a pour l'éviter trouvé, mais vainement,
 Un prétexte qui veut un éclaircissement :
 Mais à sa honte icy ce secret va paraistre,
 Et ce qu'elle nous dit enfin ne peut pas estre ;
-Personne ne m'en peut éclaircir mieux que vous.
+Personne ne m'en peut éclaircir mieux que vous. 
 
 -*who_trigaudin
 Que vous a-t-elle dit ?
@@ -3335,7 +3335,7 @@ Et quand de bonne-foy j'agissois avec vous,
 Vous vouliez en secret me la donner pour Femme ?
 
 -*who_trigaudin
-Croyez…
+Croyez… 
 
 -*who_geronte
       Ah nous sçavons le secret de vostre ame,
@@ -3370,7 +3370,7 @@ N'est qu'un Homme aposté ?
 -*who_trigaudin
       Et ce Frere ?
 
-**** *book_ *id_body-614 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_body-614 *act_ *date_1674 *creator_montfleury 
 
 -*who_valere
 Est mon Valet de Chambre.

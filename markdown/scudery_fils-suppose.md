@@ -805,7 +805,7 @@ Signé, CONRAR.< Achevé d’Imprimer le vingtiesme Avril mil >< six cens trente
  – CLORIAN,Gentil-homme Breton.
  – BELISE,Sœur de Clorian.
  – DORISTE,Domestique d'Almedor.
- – POLIDON,Page d'Almedor.
+ – POLIDON,Page d'Almedor. 
 
 
 ## ACTE PREMIER.
@@ -823,7 +823,7 @@ Rosandre, Luciane.
 Ha ! ne contestez plus; laissez vous enflamer;  
 Et sçachez obeïr [79], si vous sçavez aimer.  
 
-    LUCIANE.
+    LUCIANE. 
 Et quoy, vous lassez vous de souffrir⁎ mes services ?  
 Craignez vous que mon cœur ne s'abandonne aux vices ?  
 Croyez vous qu'un esprit que vous avez formé,  
@@ -865,7 +865,7 @@ De demeurer icy, comme je l'ay voulu;
 Sa volonté sans fard s'est peinte en son langage;  
 Il mourra dans Paris, j'en ay sa foy⁎ pour gage.  
 
-    LUCIANE.
+    LUCIANE. 
 Mais apres tout, Monsieur, son fils m'est inconnu:  
 
     ROSANDRE.
@@ -1355,7 +1355,7 @@ Partons, puis qu'à l'amour, le courage s'est joint;
 Il en est temps mon cœur; il nous y faut resoudre;  
 L'esclair assez souvent est suivy de la foudre:  
 Mais tousjours le bon-heur, sauve de ces hazards,  
-Les mirthes [122] de l'Amour, et les lauriers de Mars.  
+Les mirthes [122] de l'Amour, et les lauriers de Mars.   
 
 
 ## ACTE SECOND.
@@ -1458,7 +1458,7 @@ Enfermant tous vos maux dedans ma sepulture:
 Et puisse mon Rival, pour vos felicitez,  
 Connoistre comme moy, ce que vous meritez.  
 
-    LUCIANE.
+    LUCIANE. 
 Amoureux assassin dont la seule parole,  
 Me fait vivre et mourir, m'afflige, et me console,  
 Et gouverne à son gré les mouvemens d'un cœur,  
@@ -1732,7 +1732,7 @@ Par mes humbles devoirs que je vous tiens pour frere.
 Mon oreille me trompe aussi bien que mes yeux !  
 
     CLORIAN.
-Ha ! tirons la vertu de ces infames lieux.  
+Ha ! tirons la vertu de ces infames lieux.   
 
 
 ## ACTE TROISIESME
@@ -1983,7 +1983,7 @@ A darder contre luy ce qu'il a de plus rare;
 Qu'il agisse en esclair; et qu'au premier moment,  
 D'un esprit libertin il se fasse un Amant.  
 
-    ROSANDRE.
+    ROSANDRE. 
 Philante est arrivé ?  
 
     ALMEDOR.
@@ -2091,7 +2091,7 @@ Et devant tout le monde elles peuvent parler.
     BELISE.
 Le moyen de se taire, et se sentir brusler [157] ?  
 
-    ORONTE.
+    ORONTE. 
 Il me semble pourtant que par la modestie,  
 On tasche d'en cacher la meilleure partie.  
 
@@ -2142,7 +2142,7 @@ Luciane,
     ALMEDOR.
 Philante, suivez-la, je vous demande aussi.  
 
-    ORONTE.
+    ORONTE. 
 N'est-ce point un Demon qui forme en ma pensee,  
 Le tragique pourtraict de l'histoire passee ?  
 Suy-je point endormy ? peut-estre ay-je songé,  
@@ -2174,7 +2174,7 @@ Dans les bras de Venus, poignardons Adonis:
 Mais non, suivons plustost au lieu de cette rage,  
 Le conseil de l'honneur⁎, et celuy du courage;  
 Qu'il meure; mais qu'il meure, en deffendant un bien,  
-Que m'oste la fortune⁎, et que l'Amour fit mien.  
+Que m'oste la fortune⁎, et que l'Amour fit mien.   
 
 
 ## ACTE IV.
@@ -2401,7 +2401,7 @@ Fils d'Almedor ?
 De vous faire appeler, a creu de son devoir;  
 Si vous le desirez, je vous le feray voir.  
 
-    PHILANTE.
+    PHILANTE. 
 Son nom ?  
 
     BRASIDE.
@@ -2596,7 +2596,7 @@ Vous Philante !
     PHILANTE.
 On le voit en voyant mon habit de campagne:  
 
-    ORONTE.
+    ORONTE. 
 Fils d'Almedor ?  
 
     PHILANTE.
@@ -2658,7 +2658,7 @@ De ma faute commise un juste repentir,
 Vous n'avez point failly, c'est plustost la fortune⁎:  
 Qu'Oronte chasse donc cette crainte importune;  
 Loing d'estre son Rival je suis son serviteur;  
-Mais sans perdre⁎ le temps voyons cét imposteur.  
+Mais sans perdre⁎ le temps voyons cét imposteur.   
 
 
 ## ACTE V.
@@ -2740,7 +2740,7 @@ Il vient de me jurer qu'il ne veut plus attendre:
 Le dessein⁎ d'Almedor est celuy de Rosandre;  
 Si bien que nostre perte est un point arresté:  
 
-    LUCIANE.
+    LUCIANE. 
 Il faut mourir ma sœur; l'espoir nous est osté.  
 
     BELISE.
@@ -2818,7 +2818,7 @@ Sans doute que son cœur brusle d'une autre flame.
 Il la devoit esteindre et brusler aujourd'huy  
 D'un feu qui contentast vous et moy comme luy.  
 
-    ROSANDRE.
+    ROSANDRE. 
 Il aime un autre object⁎ qu'il trouve plus aimable⁎:  
 
     ALMEDOR.
@@ -2836,7 +2836,7 @@ En voyant vostre fille on la voit legitime.
 Elle n'est qu'une souche, et sa temerité,  
 Recevra de ma part ce qu'elle a merité.  
 
-    ALMEDOR.
+    ALMEDOR. 
 Philante est seul coupable;  
 
     ROSANDRE.
@@ -2871,7 +2871,7 @@ Le plus haut de ces deux est Monsieur vostre pere.
 Ha ! que nous allons voir un trompeur bien trompé;  
 Il ne voit pas le traict [185] dont il sera frappé.  
 
-    ROSANDRE.
+    ROSANDRE. 
 Ce Cavalier n'est point de nostre connoissance:  
 
     PHILANTE.
@@ -2888,7 +2888,7 @@ Je ne vous connois point;
                     Et ce fils inconnu,  
 Par vos commandemens est icy revenu.  
 
-    ALMEDOR.
+    ALMEDOR. 
 On m'appelle Almedor;  
 
     PHILANTE.
@@ -2910,7 +2910,7 @@ A fait qu'à vostre abord j'ay tressailly de joye.
 La raison qui me guide en ce dangereux pas,  
 Fait en vous escoutant que je ne tressauts [186] pas.  
 
-    PHILANTE.
+    PHILANTE. 
 Si [187] devriez vous sentir dedans cette advanture⁎,  
 Ces puissans mouvemens que donne la nature.  
 
@@ -2951,7 +2951,7 @@ Que je suis mal-heureux !
     PHILANTE.
 D'un si lasche projet me croyez vous capable ?  
 
-    ALMEDOR.
+    ALMEDOR. 
 Ouy de le commencer; mais non de le finir:  
 
     PHILANTE.
@@ -3131,7 +3131,7 @@ Pourray-je vous servir comme j'en ay l'envie ?
 Et fille, comme fils, oseray-je esperer,  
 Que vostre affection puisse encore durer ?  
 
-    ALMEDOR.
+    ALMEDOR. 
 Sçachez que fils, et fille, et Philante, et Belise,  
 Vous avez sur mon cœur toute puissance acquise:  
 
@@ -3150,7 +3150,7 @@ Vostre choix estoit juste, et mon jugement⁎ louche;
 Ne meslons rien d'amer avec cette douceur;  
 Oublions l'un et l'autre, et nous aimons, ma sœur [196].  
 
-    LUCIANE.
+    LUCIANE. 
 Et bien jaloux Oronte, estiez vous raisonnable ?  
 Vostre faute commise est elle pardonnable ?  
 Ce soupçon mal fondé n'est-il pas criminel ?  

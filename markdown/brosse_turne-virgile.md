@@ -429,7 +429,7 @@ La Scene est à Lavinium, ville du Latium, contrée d'Italie, maintenant appell�
 
 
 
-## ACTE I.
+## ACTE I. 
 
 
 ### SCENE PREMIERE.

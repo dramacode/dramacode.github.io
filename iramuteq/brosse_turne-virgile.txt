@@ -31,7 +31,7 @@ Remarque s'il te plaist qu'au poinct⁎ que les Latins excitez par la harangue d
 Cette observation devoit estre mise en marge, sur la fin du troisiesme Acte ; mais l'imprimeur l'ayant obmise, j'ai bien voulu la placer icy, afin de prevenir ta censure qui m'auroit pû reprendre d'ensanglanter la Scéne, et d'imiter hors de temps les rudes spectacles des Colleges.
 Je n'ay plus rien à te faire remarquer, si ce n'est quelques fautes survenuës à l'impression, dont voicy les plus importantes.
 
-**** *book_ *id_body-401 *act_ *date_1647 *creator_brosse
+**** *book_ *id_body-401 *act_ *date_1647 *creator_brosse 
 
 -*who_latinus
 Nous esperons en vain de surmonter⁎ Ænée,

@@ -57,7 +57,7 @@ Et comme si vous estiez insensible à toutes ces faveurs, vous en mesprisez la j
 Les Chrestiens doivent estre immolez à la juste cholere de l'Empereur, pour porter la peine de leur des-obeïssance.
 Nos Autels attendent aujourd'huy ces victimes, ou leurs offrandes.
 
--*who_rosilee
+-*who_rosilee 
 La Religion ne s'introduit pas dans nos ames, ma soeur, ny par le fer, ny par le feu, il faut que la Nature nous en donne les premiers sentimens, & que les Dieux achevent le reste.
 Car comme ils ne sont que lumiere, c'est à eux d'esclairer nos esprits pour les eslever jusques à leur connoissance, selon la portée⁎ de nostre condition.
 Les Chrestiens sont plus malheureux que coupables.
@@ -90,7 +90,7 @@ La Clemence assujetit plus de coeurs, que la Cruauté n'en sçauroit immoler.
 -*who_l_imperatrice
 En effet, si les Roys ne tiennent leurs sujets enchaisnez par l'amour, aussi bien que par la crainte, ils ne songent jamais qu'à recouvrer leur liberté, ne pouvant supporter le joug de leur servitude.
 
-**** *book_ *id_body-502 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-502 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_trasee
 Madame, les preparatifs du Sacrifice sont faits, l'Empereur est desja en chemin pour aller au Temple, le voicy qui vient.
@@ -111,7 +111,7 @@ Il est juste de rendre aux Dieux les hommages de reconnoisance que nous devons �
 Porphire, renouvelle mes plaisirs dans le nouveau⁎ recit des merveilles que Silanus & Thesiphonte ont faites à l'extremité de la terre pour m'en rendre l'unique conquerant.
 Tu ne sçaurois charmer mes oreilles d'une plus douce harmonie.
 
--*who_porphire
+-*who_porphire 
 Leur valeur incomparable et leur courage invincible, me fournissant d'abord trop de matiere, je me trouve muet dans un si beau sujet de parler.
 Toutesfois comme leurs actions sont également admirables, l'éclat des unes representera à vostre Majesté la beauté des autres.
 Ces deux Heros de nostre Siecle n'eurent pas plustost fait prendre terre à leur armée au premier port de la Scithie, apres avoir forcé la resistance qui s'opposa à leur dessein, que se rendans maistres de la campagne, le bruit de vostre renommée depeupla tout à coup les villes, & enrichit les deserts de leurs depoüilles pour en oster l'esperance à ces conquerans.
@@ -133,7 +133,7 @@ De sorte que vostre Majesté peut disposer / / aujourd'huy d'autant de Coronnes 
 Ces felicitez sont des presens des Dieux, plustost que de la Fortune, & les bruits de mon nom ny la force de mes armes ne me rendroient point aujourd'huy Maistre de toute la terre, si le Ciel n'eût donné un nouveau⁎ courage à mes Soldats pour emporter le prix⁎ d'une telle conqueste; je veux que Silanus et Thésiphonte ayent contraint les plus incredules d'adjoûter foy aux miracles de leur valeur; si faut-il confesser que les Dieux en soustenant mes interests ont gaigné la victoire.
 Ce qui m'oblige en recognoissance de tant de faveurs, de faire un Sacrifice aussi pompeux⁎ que mon Triomphe, & pour le rendre plus celebre⁎, il faut que les Chrestiens en soient, ou les admirateurs, ou les victimes, ne pouvant souffrir dans mon Empire des Sujets qui refusent de l'encens aux Divinitez que j'adore.
 
-**** *book_ *id_body-504 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-504 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_lepide
 Le Grand Prestre attend vos Majestez dans le Temple où tout le peuple est assemblé, pour commencer le Sacrifice.
@@ -161,7 +161,7 @@ Il se dit la parole de son Pere; Serois-je muette quand il faut confesser son no
 Vous devez menager egalement en cette rencontre⁎, & vostre vie & vostre credit; croyez vous faire changer en faveur des Chrestiens la resolution qu'on a prise de les perdre.
 Il faut de nécessité qu'ils soient ou victimes, ou idolatres: les Edits & l'Empereur sont des loix qu'on ne peut violer.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Quand le dessein que j'ay de les proteger ne reüssiroit pas, je me satisferay toujours la premiere, en courant un mesme sort; ma vie & mon credit sont au rang des choses périssables, je ne veux faire fortune que dans le Ciel.
 
 -*who_emilie
@@ -173,7 +173,7 @@ Je méprise les conseils de la prudence humaine, où il y va de l'interest⁎ de
 Ma mort sera plus utile aux Chrestiens que ma vie, puis que l'exemple de mon Martyre doit donner du courage aux plus timides pour franchir la carriere⁎ des tourmens⁎ où ils sont destinez.
 Voicy Corvin qui m'en porte sans doute les premieres nouvelles.
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-602 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_corvin
 Madame, l'horreur & la pitié rendent mes yeux plus éloquens que ma bouche, pour vous faire voir par mes larmes plutost que par mes discours le deplorable sort des Chrestiens; lisez donc Madame sur mon triste visage le funeste recit de leur mort, puisque la voix me defaut pour vous en raconter l'histoire; Je vous diray toutefois en peu de mots, qu'Alexandrie n'est plus qu'un Theatre sanglant où l'Empereur fait representer aujourd'huy la tragedie de ses cruautez, par autant de bourreaux qu'il a choisi de victimes; & à voir les ruës toutes couvertes de sang, on diroit que le Nil qui en porte la couleur s'est débordé pour en tirer vangeance.
@@ -214,7 +214,7 @@ Un esprit resolu comme le mien
 -*who_emilie
 La tyrannie de l'Empereur est à craindre
 
--*who_ste_catherine
+-*who_ste_catherine 
 Et la gloire du Martyre à desirer
 
 -*who_emilie
@@ -232,7 +232,7 @@ Parce qu'il y a plus d'honneur à l'encourir, que de contentement à l'évitter.
 -*who_corvin
 De quel charme⁎ trompeur avez vous les sens offusquez⁎, faisant si peu de cas des conseils que mon affection⁎ vous donne.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Et de quel funeste sommeil avez vous l'esprit assoupi meprisant les raisons que Dieu seul me suggere
 
 -*who_corvin
@@ -266,7 +266,7 @@ Il est temps ce me semble de faire cognoistre vostre bonté, apres avoir fait re
 -*who_l_empereur
 Les plaintes des criminels sont autant de Cantiques de gloire pour les Dieux, puisqu'elles publient hautement leur Justice; que si nos sens sont effrayez des tourmens⁎ qu'ils endurent, la force de la raison doit prevaloir sur cette foiblesse de la nature, pour rejouïr nos esprits de l'avantage qui nous en revient.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-604 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_lepide
 Sire, la Princesse Catherine demande audience à vostre Majesté.
@@ -279,7 +279,7 @@ Qu'on la face entrer, pour sçavoir le sujet qui la meine: mais j'appréhende d'
 -*who_l_empereur
 Que desirez-vous de moi, ma Princesse.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Un moment d'audience⁎
 
 -*who_l_empereur
@@ -295,7 +295,7 @@ Qui vous rend si hardie de plaider la cause des Criminels d'Estat en ma presence
 -*who_ste_catherine
 Mon devoir
 
--*who_l_empereur
+-*who_l_empereur 
 Mais vous ne considerez pas qu'en demandant leur grace, vous vous rendez coupable.
 
 -*who_ste_catherine
@@ -311,7 +311,7 @@ Si je rougis de honte ce sera pour vostre aveuglement, & si je pâlis de crainte
 -*who_l_empereur
 Ne songez qu'à vostre salut, puis que vous respirez à la veille de vos funerailles.
 
--*who_ste_catherine
+-*who_ste_catherine 
 J'y songe aussi continuellement par le mespris que je fay de vos nouvelles loix.
 
 -*who_l_empereur
@@ -327,7 +327,7 @@ Ne savez vous pas que mes volontez sont reverées par toute la terre, & que mon 
 A quoy vous servent toutes ces marques de souveraineté, si vostre raison est au nombre de vos esclaves.
 Vostre Sceptre est de mesme matiere que la main qui le porte: son authorité absoluë ne fait peur qu'aux meschans, les ames innocentes en méprisent la tyrannie, ayant assez de constance⁎ pour la souffrir, quand le pouvoir leur manque de l'éviter.
 
--*who_l_empereur
+-*who_l_empereur 
 Je sçay l'art de me faire craindre.
 
 -*who_ste_catherine
@@ -342,7 +342,7 @@ Croyez vous que la force des tourmens⁎ estonne⁎ le courage des Martyrs: Ils 
 -*who_l_empereur
 Mes passions⁎ ne s'interessent point dans ma Justice, & si je l'exerce aujourd'huy avec severité, mon devoir m'y contraint, & avec violence.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Les Chrestiens ont toujours eu du respect & de la sousmission⁎ pour vos commandemens, que s'ils preferent maintenant la mort à l'obéïssance de vostre nouvel Edict; j'envie la gloire d'un si beau trespas à ceux qui m'ont déja devancée!
 On doit subir les decrets du Ciel, plutost que les ordonnances des hommes.
 
@@ -416,7 +416,7 @@ Ha Porphire, que mon sort est deplorable!
 J'ay fait prisonniere dans mon Palais celle-là mesme qui me tient esclave sous son Empire; ma tyrannie a commandé qu'on la mist aux fers, & sa beauté plus cruelle encore me donne à tous momens la gesne⁎.
 Je veux vanger les Dieux de son impieté, & elle me punit déja de la pensée que j'en ai euë; quel party dois-je prendre en l'estat où tu me vois reduit.
 
--*who_porphire
+-*who_porphire 
 Quoy, la Princesse Catherine seroit si heureuse dans son malheur d'enchesner son geolier, d'imposer des loix à son Souverain, & de se faire dresser des Autels par celuy-là mesme qui l'avoit desja destinée⁎ pour victime: ce discours me surprend.
 
 -*who_l_empereur
@@ -426,7 +426,7 @@ Comment l'accuseray-je d'idolatrie, si j'en fais aujourd'huy mon Idole.
 -*who_porphire
 C'est toujours servir les Dieux d'obeir à celuy qui s'en dit le maistre; vostre Majesté se doit faire justice la premiere, la colere & la vengeance ne sont plus de saison contre un ennemy qui se fait redouter dans sa foiblesse, & qui mene en triomphe son vainqueur.
 
--*who_l_empereur
+-*who_l_empereur 
 J'approuve ce conseil: Mais j'ay besoin de ton secours; Il faut que tu la persuades de changer de Religion, & d'agreer l'amour que j'ay pour elle.
 Que si la vertu prenant ses interests luy fait mépriser les miens; represente⁎ luy pour la satisfaire⁎, que la justice autorise ma passion⁎ dans le dessein que j'ay de partager mon autorité avec elle en qualité d'espouse.
 
@@ -436,7 +436,7 @@ Les honneurs dont vostre Majesté la veut combler aujourd'huy, me semblent si co
 -*who_l_empereur
 Offre luy hardiment & mon sceptre & ma couronne, puis que le coeur qui anime la teste et la main qui les portent, ne connoist plus que ses loix.
 
--*who_porphire
+-*who_porphire 
 Si le succez des desseins de vostre Majesté ne depend que de mes services, elle sera bien tost satisfaite.
 
 -*who_l_empereur
@@ -449,7 +449,7 @@ Enfin ménage discretement⁎ le temps & l'occasion de l'entretenir, & ne hazard
 -*who_porphire
 J'executeray fidelement les commandemens de vostre Majesté.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-702 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_l_imperatrice
 J'ay decouvert à la fin⁎ les artifices de l'empereur; il fait semblant de vanger les Dieux, en punissant les Chrestiens, & il protege Catherine dans son Palais, la fait traiter en Reine plustost qu'en esclave, & commande qu'on luy rende les honneurs qui ne sont deuz qu'à ma qualité, comme si elle occupoit déja la place de mon trosne.
@@ -468,7 +468,7 @@ Ce n'est pas le moyen de moderer sa vanité, que de luy rendre visite jusques da
 -*who_l_imperatrice
 Je veux bien me satisfaire⁎ dans l'inquietude où je me treuve, son entretien éclaircira⁎ mon esprit de ses doutes; Suivez moy, ne vous opposez plus à mon contentement.
 
-**** *book_ *id_body-703 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-703 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_ste_catherine
 "O Divin Redempteur de mon ame, puis que vostre bonté toujours "infinie guide aujourd'huy mes pas dans le mesme chemin que vous avez "tenu pour acquerir vostre propre gloire, éclairez mon esprit de la lumiere de "vos "graces: Echaufez ma volonté du feu de vostre amour, & animez mon "courage de la force de vostre protection, afin que je connoisse la verité en "vous adorant, que je mesprise teutes choses en vous aymant, & que je "triomphe de tous mes ennemis en leur faisant confesser & vostre nom, & "leur erreur par la voix d'une humble repentance.
@@ -487,7 +487,7 @@ Monsieur, les chesnes de ma servitude me sont plus agreables, que les nouvelles 
 -*who_porphire
 Ne vous est-ce pas un grand honneur de voir assujetty sous vos loix par la seule force de vos appas le seul Monarque de la terre.
 
--*who_ste_catherine
+-*who_ste_catherine 
 La gloire est bien plus grande de se vaincre soy-mesme par le mespris de toutes ces vanitez.
 
 -*who_porphire
@@ -523,7 +523,7 @@ Elle vieillit à toute heure.
 -*who_porphire
 Songez aux grandeurs qui vous accompagnent.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Elles ne me suivront que jusques au tombeau.
 
 -*who_porphire
@@ -541,7 +541,7 @@ Les contentemens du monde sont des jeux d'enfant, puis que leur usage nous oste 
 -*who_porphire
 Ne changerez-vous jamais d'humeur, vostre merite attire à vos pieds & les Sceptres & les Coronnes, pourquoy en méprisez-vous le present,
 
--*who_ste_catherine
+-*who_ste_catherine 
 Parce que je n'en sçaurois que faire.
 
 -*who_porphire
@@ -569,7 +569,7 @@ Que dites-vous, Madame, de preferer aux caresses⁎, & aux respects d'un grand M
 -*who_ste_catherine
 Ouy, Porphire: Car ses respects & ses caresses ruineront ma reputation en retardant ma perte, & ses mespris & ses vengeances me combleront de joye en avançant ma mort.
 
--*who_porphire
+-*who_porphire 
 Pensez à ce que vous dites, Madame.
 
 -*who_ste_catherine
@@ -589,7 +589,7 @@ Madame, je m'en vay rendre compte à l'Empereur de mon message.
 Allez hardiment, le Ciel prépare vostre recompense.
 Mais voicy l'Imperatrice; Je sçay le dessein qui l'ameine, le succez⁎ luy en sera favorable.
 
-**** *book_ *id_body-705 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_body-705 *act_ *date_1643 *creator_puget_de_la_serre 
 
 -*who_l_imperatrice
 CHere Princesse, je suis fort ayse⁎ que vostre vertu & vostre beauté obligent aujourd'huy l'Empereur à vous élever sur son trosne.
@@ -598,7 +598,7 @@ Je n'envieray jamais vos felicitez, & moins encore vos grandeurs, sçachant que 
 -*who_ste_catherine
 Madame, vostre Majesté remplit⁎ si dignement la place qu'elle occupe, que je n'ay pas sujet⁎ d'y pretendre: Et quelque éclat qu'ayt ma naissance, & quelque loüange que la flaterie me donne, mon devoir me tiendra toujours rabaissée aux pieds de vostre Majesté, pour luy rendre les respects & les deferances d'une sujete.
 
--*who_l_imperatrice
+-*who_l_imperatrice 
 Pourquoy me celez-vous le secret de vostre ambition; vostre naissance, vostre esprit, vostre beauté, & mille autres qualitez aymables qui vous rendent aujourd'huy si admirable aux yeux de toute la Cour, trahissent vos desseins, & me font voir jusques dans vostre coeur la verité que vos discours me cachent.
 
 -*who_ste_catherine
@@ -652,7 +652,7 @@ C'est en vain que tu t'eforces à me le persuader.
 -*who_porphire
 Je ne sçaurois flatter⁎ vostre Majesté en une action si importante à son repos, elle a paru insensible à toutes les offres des grandeurs & des richesses, de mesmes qu'aux menasses des suplices, & de la mort.
 
--*who_l_empereur
+-*who_l_empereur 
 En quel état me voy-je reduit, à quoy me sert cette puissance absoluë que le destin, la fortune, & mes armes victorieuses m'ont fait acquerir sur toute la terre, si une fille aujourd'huy borne mon autorité de ses desirs, assujetit mon Sceptre sous ses loix, & porte sur ses levres, l'Empire de ma Couronne?
 Où sont ces flatteurs maintenant qui disent que les Roys sont Tous-puissans icy bas, afin que ma foiblesse leur reproche cette imposture ?
 Fut-il jamais sujet⁎ si miserable que moy ? je regne par tout fors que⁎ dans le coeur de celle qui possede le mien; tout le monde me craint, & celle que j'ayme uniquement, méprise mon amour, & se rit de mes peines ?
@@ -674,7 +674,7 @@ Belle Princesse, l'Amour a beau me solliciter⁎ de luy accorder la grace de vos
 -*who_ste_catherine
 L'innocence ne se repent jamais.
 
--*who_l_empereur
+-*who_l_empereur 
 Vous voyez le respect que j'ay pour vostre condition, que n'avez vous de la defference pour mes Edits.
 
 -*who_ste_catherine
@@ -689,7 +689,7 @@ Et n'est-ce pas estre jalouse⁎ de vostre gloire de vous representer⁎ les mal
 -*who_l_empereur
 Quel Demon vous anime⁎ avec tant d'opiniatreté à creuser le tombeau où vous devez estre ensevelie.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Et quelle fureur⁎ vous transporte avec tant d'aveuglement de chercher vos plaisirs dans les miseres d'autrui
 
 -*who_l_empereur
@@ -707,7 +707,7 @@ Donnez quelque intervalle à cette passion⁎ de vengence qui vous fait passer p
 -*who_l_empereur
 Est-ce tyrannie de rompre vos fers, ou d'en partager la servitude.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Est-ce bonté de combatre des ennemis, apres que vostre puissance les a desarmez.
 
 -*who_l_empereur
@@ -722,7 +722,7 @@ Mais vostre aveuglement comme volontaire, ne vous peut estre que funeste; & le m
 -*who_l_empereur
 Le Philosophe que j'ay envoyé querir vous instruira en ma presence, pour vous faire connoistre⁎ vostre erreur.
 
--*who_ste_catherine
+-*who_ste_catherine 
 J'espere que luy-mesme confessera bien tost la sienne à vostre confusion & à son avantage, puis que les larmes de son repentir, & le sang de son martyre en éteignant les foudres du Ciel, luy en feront acquerir la gloire.
 
 -*who_l_empereur
@@ -733,7 +733,7 @@ Quelle apparence⁎, qu'un disciple instruise son maistre: deffendez-vous seulem
 -*who_corvin
 Le Philosophe Lucius choisi & deputé de tous ses compagnons⁎, est à la porte de la chambre; il demande à vostre Majesté la liberté d'entrer.
 
--*who_l_empereur
+-*who_l_empereur 
 Faites le venir, j'attends desja avec impatience le succez de son entreprise.
 
 **** *book_ *id_body-804 *act_ *date_1643 *creator_puget_de_la_serre
@@ -787,7 +787,7 @@ Le nombre des Dieux ne differe point de l'Atheisme, comme nous asseure la Sibile
 Et quand tous les mortels adoreroient vos Dieux, cette idolatrie n'en preuveroit pas la verité.
 Les Romains dans leurs conquestes nous ont laissé beaucoup plus de marques de leur folle ambition, que de temoins⁎ de la puissance de leurs Dieux.
 
--*who_lucius
+-*who_lucius 
 Quelle comparaison peut-on faire des Dieux des Gentils, avec le Dieu des Chrestiens; Si ceux-là regnent glorieusement dans le Ciel, & si celuy-cy est mort honteusement sur la terre.
 
 -*who_ste_catherine
@@ -800,7 +800,7 @@ Mais si vostre Dieu est Tout-puissant, donnez moy des preuves de sa puissance so
 -*who_ste_catherine
 En sçauriez vous souhaiter de plus grandes que de voir cette fille dont vous preschiez⁎ si haut & l'ignorance & le begayement, vous rendre muet et confus avec toute vostre sagesse.
 
--*who_lucius
+-*who_lucius 
 Ce sont des merveilles, je suis curieux de voir ses miracles.
 
 -*who_ste_catherine
@@ -814,7 +814,7 @@ Sa lumiere perce le bandeau de mon aveuglement: Je ressens ta Bonté, je recogno
 Sire, vostre Majesté peut voir son erreur dans la confession publique que je fais mienne, mon esprit humilié, & ma raison sousmise sous le doux joug de la Foy, me font cognoistre⁎ mon ignorance.
 Le Dieu seul des Chrestiens doit estre adoré.
 
--*who_l_empereur
+-*who_l_empereur 
 Quel subit changement ?
 Quoy Lucius ? une fille nouvellement instruite dans sa Religion vous imposera silence au mépris des Dieux & de mon autorité, c'est ce que je ne puis concevoir.
 Recommencez la dispute.
@@ -832,7 +832,7 @@ Si vous ne changez de discours, je vous immoleray à mon juste ressentiment.
 O agreable Sacrifice ! que n'ay-je mille vies à vous offrir pour acquerir mille couronnes en souffrant autant de morts.
 Je ne cognois d'autre Dieu que celuy des Chrestiens.
 
--*who_l_imperatrice
+-*who_l_imperatrice 
 Je luy ay dressé un autel dans mon ame, où elle-mesme luy a présenté tous ses voeux; & afin qu'on n'en puisse plus douter, je confesse hautement que je suis Chrestienne.
 
 -*who_l_empereur
@@ -848,7 +848,7 @@ Changez de creance, Madame, ou vous ressentirez bien-tost les effets⁎ de mon c
 Je cherche la mort, pour treuver la vie.
 Alons, allons au martyre, où sont les bourreaux, il ne faut point de témoins pour me convaincre⁎, ny de Juge pour me condemner, j'adore le Dieu des Chrestiens.
 
--*who_porphire
+-*who_porphire 
 Je veux mourir pour sa gloire en confessant son Nom.
 
 -*who_l_empereur
@@ -908,7 +908,7 @@ Refuserez-vous la couronne de l'Univers.
 Toutes les couronnes du monde ne meritent pas seulement d'estre souhaitees, puisqu'à peine a t'on le loisir de les essayer en passant.
 Je ne voy rien icy bas digne de mon envie.
 
--*who_l_empereur
+-*who_l_empereur 
 Mais pourquoy voulez-vous mourir à la veille de posseder toutes les grandeurs de mon Empire.
 
 -*who_ste_catherine
@@ -929,7 +929,7 @@ Ne resistez plus à celles de mon zele.
 -*who_l_empereur
 Considerez les richesses que vous mesprisez.
 
--*who_ste_catherine
+-*who_ste_catherine 
 Pensez aux tresors que vous pouvez acquerir.
 
 -*who_l_empereur
@@ -1006,7 +1006,7 @@ Parle hardiment, il n'est plus temps de feindre, le desespoir commence d'amortir
 Ses veines n'on versé que du laict.
 Et à ce miracle visible qui a frappé d'estonnement⁎ tous les spectateurs, la Musique des Anges qui ont enlevé son corps a charmé si doucement mes oreilles, que mon esprit en est encore tout ravy.
 
--*who_l_empereur
+-*who_l_empereur 
 Puis-je adjoûter foy à tes paroles.
 Mais qu'est-ce que j'entends ?
 

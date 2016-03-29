@@ -832,7 +832,7 @@ Qu'en secret ce chagrin porte envie à ma gloire,
 Et que dans vostre cœur un mouvement jaloux,  
 Lors qu'on m'appelle au Trône…  
 
-    ANTIOCHUS
+    ANTIOCHUS 
         Ah, que me dites- vous ?  
 Qu'à l'ardeur de mes vœux le juste Ciel réponde,  
 Et vous estes soudain la Maistresse du Monde ;  
@@ -3088,7 +3088,7 @@ Je la laisse à ton choix.
 
 
 ### SCENE V.
-SELEUCUS, STRATONICE, ANTIOCHUS, ARSINOE TIGRANE, PHENICE, BARSINE, Suite.
+SELEUCUS, STRATONICE, ANTIOCHUS, ARSINOE, TIGRANE, PHENICE, BARSINE, Suite.
 
 
     ARSINOE.

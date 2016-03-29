@@ -1302,7 +1302,7 @@ La Scene est dans la Capitale de Galatie [123].
 
 
 
-## CAMMA REINE DE GALATIE, *TRAGEDIE.*
+## CAMMA REINE DE GALATIE, *TRAGEDIE.* 
 
 
 ## ACTE I.
@@ -1428,7 +1428,7 @@ Sur vous de la Princesse attire la vangeance,
 Et pretendre à son cœur, c'est presser son couroux  
 D'accepter une main qui la vange de vous.  
 
-    SINORIX.
+    SINORIX. 
 Contre moy de Sostrate il n'est rien qu'elle obtienne,  
 Mon amitié pour luy me répond de la sienne,  
 Sa vertu m'est connuë, et ce que je luy doy  
@@ -1646,7 +1646,7 @@ Sostrate pouvant tout, on ne peut rien sans luy,
 Il vous faut l'acquerir, et l'amour qui le flate⁎  
 Le peut seul obliger…  
 
-    CAMMA.
+    CAMMA. 
         Tu connois mal Sostrate,  
 Il aime, il cherche à plaire, et toutefois, helas !  
 Son cœur contre un Tyran craint d'advoüer son bras. [172]  
@@ -1761,7 +1761,7 @@ Qui l'en empescheroit ?
         Ma volonté peut-estre,  
 Ou quelque autre raison que l'on ne peut connoître.  
 
-    HESIONE.
+    HESIONE. 
 Mais vous l'auriez souffert⁎ un peu plus rarement.  
 
     CAMMA.
@@ -1789,7 +1789,7 @@ L'injurieux⁎ éclat de l'affront qu'on vous fait,
 Sans me considerer pressez-en la vangeance,  
 Je la verray sans peine, et pour plus d'asseurance  
 Je vous laisse Sostrate, avec qui consulter  
-Des moyens les plus seurs de bien l'executer.  
+Des moyens les plus seurs de bien l'executer.   
 
 
 ### SCENE V.
@@ -1873,7 +1873,7 @@ C'en sera l'asseurance⁎, adieu.
         Que fuir ta veuë  
 N'est-ce tout le peril d'un ordre qui me tuë ! [189]  
 Mais las ! forcé d'aimer, quels seront mes souhaits  
-S'il faut trahir par tout, ou n'esperer jamais ?  < Fin du premier Acte. >
+S'il faut trahir par tout, ou n'esperer jamais ?  < Fin du premier Acte. > 
 
 
 ## ACTE II
@@ -2002,7 +2002,7 @@ Plus tu seras Tyran, plus tu seras haï,
 Mes Sujets me plaindront, et leur haine timide⁎  
 Cessera dans ta mort de croire un parricide⁎.  
 Redouble tes forfaits ; loin d'en rien⁎ redouter,  
-Je vay faire des vœux afin de les haster.  
+Je vay faire des vœux afin de les haster.   
 
 
 ### SCENE II.
@@ -2035,7 +2035,7 @@ Avec mon injustice [215] esteindre mon amour ;
 Mais helas ! je sens bien que vain de sa défaite  
 Mon cœur craint à ce prix le repos qu'il souhaite,  
 Et qu'il n'est point de maux où je n'ose m'offrir  
-S'il faut cesser d'aimer pour cesser de souffrir [216].  
+S'il faut cesser d'aimer pour cesser de souffrir [216].   
 
 
 ### SCENE III.
@@ -2377,7 +2377,7 @@ Madame…
         Il me suffit ; puisque c'est te déplaire  
 Porte luy ma réponce, et dy luy qu'il espere,  
 Que mon cœur n'aime rien, et que dans peu sa foy⁎  
-Peut selon ses souhaits attendre tout de moy.  < Fin du second Acte. >
+Peut selon ses souhaits attendre tout de moy.  < Fin du second Acte. > 
 
 
 ## ACTE III.
@@ -2482,7 +2482,7 @@ Fais agir ton adresse à lire dans le sien.
 Je connois mon devoir et n'épargneray rien.  
 
 
-### SCENE II.
+### SCENE II. 
 
     SINORIX.
 Dieux, dont les loix pour nous doivent estre adorables⁎,  
@@ -2722,7 +2722,7 @@ C'est moy seul dont le sang doit laver vostre injure⁎.
     SINORIX.
 Les sermens d'un perfide entraînent un parjure,  
 En vain tu crois par là nous ébloüir⁎ les yeux,  
-Qui peut perdre son Roy ne connoit point de Dieux [269].  
+Qui peut perdre son Roy ne connoit point de Dieux [269].   
 
 
 ### SCENE IV.
@@ -2945,7 +2945,7 @@ Songez-y.
 
     HESIONE.
         Tu pers temps [285] ; puisque sa mort te plaist,  
-Tonne contre tous deux, j'attendray ton arrest.  < Fin du troisiéme Acte >
+Tonne contre tous deux, j'attendray ton arrest.  < Fin du troisiéme Acte > 
 
 
 ## ACTE IV.
@@ -3148,7 +3148,7 @@ Et que le vain effort⁎ d'un coup si malheureux
 Luy coûte la douleur de m'avoir fait heureux.  
 
 
-### SCENE III.
+### SCENE III. 
 SINORIX, CAMMA, SOSTRATE, PHAEDIME, SOSIME, PHENICE, GARDES.
 
 
@@ -3210,7 +3210,7 @@ Je le laisse avec vous afin que ses advis,
 S'ils flatent⁎ vos souhaits, puissent estre suivis.  
 
 
-### SCENE IV.
+### SCENE IV. 
 CAMMA, SOSTRATE.
 
 
@@ -3395,7 +3395,7 @@ Je ne puis écouter ny raison, ny devoir [320],
 Mon amour s'abandonne au torrent qui l'entraîne [321].  
 
 
-### SCENE V.
+### SCENE V. 
 CAMMA, HESIONE, SOSTRATE.
 
 
@@ -3462,7 +3462,7 @@ Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,
 Je porte ma réponce, et n'écoute plus rien.  
 
 
-### SCENE VI.
+### SCENE VI. 
 HESIONE, SOSTRATE.
 
 
@@ -3509,7 +3509,7 @@ Où les Dieux irritez, où la Reine… Ah, Sosime [326] !
 Seigneur, si la pitié que j'ay de vostre sort…  
 
     SOSTRATE.
-Allons, et s'il se peut, qu'on me méne à la mort.  < Fin du quatrième Acte. >
+Allons, et s'il se peut, qu'on me méne à la mort.  < Fin du quatrième Acte. > 
 
 
 ## ACTE V.
@@ -3975,7 +3975,7 @@ Peut-estre l'heure est proche où tu seras content.
     SOSTRATE.
 Où je seray content ? Et le puis-je, Madame,  
 Dans l'affreux desespoir où vous voyez ma flame⁎ ?  
-Tout l'augmente, et je fais cent efforts⁎ superflus…  
+Tout l'augmente, et je fais cent efforts⁎ superflus…   
 
 
 ### SCENE VI.

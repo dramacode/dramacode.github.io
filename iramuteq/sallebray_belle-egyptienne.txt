@@ -423,7 +423,7 @@ Nos gens vont à la ville, il faut que tu te pares.
 -*who_precieuse
 Nous bravons sans cela les beautés les plus rares.
 
-**** *book_ *id_body-305 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-305 *act_ *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Hé bien, es-tu content puissant Maistre des Dieux,
@@ -809,7 +809,7 @@ Dans ce beau champ d'Amour marche plus assurée.
 Le Ciel rit à mes vœux, l'air me semble plus dous.
 C'est l'effet du Soleil qui s'approche de nous.
 
-**** *book_ *id_body-402 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-402 *act_ *date_1642 *creator_sallebray 
 
 -*who_le_capitaine
 Il faut entretenir le feu qui le consome.
@@ -1095,7 +1095,7 @@ Et trompe des Argus l'exacte vigilance.
 Suivés-moy Compagnons, tous en ordre rangés,
 Ces ducas⁎ au retour vous seront partagés.
 
-**** *book_ *id_body-403 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-403 *act_ *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Enfin j'ay le bon-heur où mon amour aspire,
@@ -1396,7 +1396,7 @@ Pour en estre content, rens-la devant⁎ contente.
 -*who_le_poete
 Je n'épargneray rien pour mon soulagement.
 
-**** *book_ *id_body-502 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-502 *act_ *date_1642 *creator_sallebray 
 
 -*who_la_vieille
 Mon fils, où courés-vous ?
@@ -1459,7 +1459,7 @@ Cours, es-tu revenuë ?
 C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,
 De nuit, et déguisé, je crains quelque surprise.
 
-**** *book_ *id_body-503 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-503 *act_ *date_1642 *creator_sallebray 
 
 -*who_le_poete
 Soleil dont la lumiere est si douce à mes yeux,
@@ -1478,7 +1478,7 @@ Entrés-là, c'en est fait, son sang est arresté.
 -*who_dom_jean_de_carcame
 O discours salutaire en cette extremité.
 
-**** *book_ *id_body-504 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-504 *act_ *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Quoy déjà de retour ?
@@ -1708,7 +1708,7 @@ Tirons de ce rival un éclaircissement,
 Arrachons son aveu par force ou par adresse,
 Et perdons puis apres le traitre et la traitresse.
 
-**** *book_ *id_body-509 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-509 *act_ *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Camarade, dors-tu ?
@@ -2316,7 +2316,7 @@ Allons, c'est icy prez, et s'ils font resistance,
 Sans attendre ma voix, main basse, tués tout,
 Du meurtre general mon pouvoir vous absout.
 
-**** *book_ *id_body-606 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-606 *act_ *date_1642 *creator_sallebray 
 
 -*who_hipolite
 Je te tiens arrogant, et ta perte arrestée
@@ -2359,7 +2359,7 @@ Sur nos chastes desseins mon amour se repose.
 -*who_la_vieille
 On dit bien vray, l'épine est proche de la rose.
 
-**** *book_ *id_body-608 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-608 *act_ *date_1642 *creator_sallebray 
 
 -*who_le_prevost
 Demeurés. Le premier qui fait le moindre effort.
@@ -3303,7 +3303,7 @@ A qui premier de vous faut-il que je m'adresse ?
 -*who_ferdinand
 Dieux ! qui nous vient troubler en ce jour solemnel ?
 
-**** *book_ *id_body-706 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_body-706 *act_ *date_1642 *creator_sallebray 
 
 -*who_le_capitaine
 Grace, grace, Monsieur, il n'est point criminel.

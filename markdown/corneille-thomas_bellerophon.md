@@ -586,18 +586,18 @@ Nous avons cependant corrigé ce qui nous a semblé être des « coquilles » 
  * – v. 699    mesme.
  * – v. 727    en lair (didascalie du combat avec la Chimère)
 
-De même que nous avons ajouté, pour plus de clarté, la mention CHŒUR de Peuple au v. 541 et les accents à l'adverbe de lieu « où » lorsque cela était nécessaire à la compréhension du texte (v. 19, 219, 484 et 681).
+De même que nous avons ajouté, pour plus de clarté, la mention CHŒUR de Peuple au v. 541 et les accents à l'adverbe de lieu « où » lorsque cela était nécessaire à la compréhension du texte (v. 19, 219, 484 et 681). 
 
 
-# BELLEROPHON TRAGEDIE. REPRESENTÉE PAR L'ACADEMIE ROYALE DE MUSIQUE.
+# BELLEROPHON TRAGEDIE. REPRESENTÉE PAR L'ACADEMIE ROYALE DE MUSIQUE. 
 
 
-## Argument
+## Argument 
 
 Le Roy ayant donné la Paix à l'Europe, l'Académie Royale de Musique a creu devoir marquer la part qu'elle prend à la joye publique par un Spectacle, où elle pust faire entrer les témoignages de son zele pour la gloire de cet Auguste Monarque. Elle s'y est creuë d'autant plus obligée que la protection qu'il donne aux beaux Arts les a toûjours fait joüir, pendant le cours méme de la Guerre, de l'heureuse tranquillité qui leur est si nécessaire. C'est ce qui a donné occasion à cette Tragedie en Musique. Le Theatre represente d'abord le Parnasse François. Apollon y vient avec les Muses celebrer le retour d'une paix si glorieuse à la France. Pan & Bacchus y arrivent en méme temps, & signalent leur joye par des Danses & par des Chants d'allegresse. Mais Apollon pour mieux divertir le plus Grand Prince de la Terre, imagine sur le champ un Spectacle, où luy-méme avec les Muses veut représenter l'Histoire de Bellerophon. Chacun sçait que ce Heros combatit autrefois la Chimere⁎, monté sur Pegase⁎, & que ce fut d'un coup de / pied de ce Cheval que nâquit ensuite la fameuse Fontaine qui inspire les Vers, & qui a fait naître la Poësie [98]. On ne sçait pas trop bien qui estoit le Pere de Bellerophon. Les uns tiennent que c'estoit Glaucus, les autres le font Fils de Neptune ; & c'est sur cette diversité d'opinions qu'on a formé l'intrigue de cette Piece, & l'Oracle qui en fut le nœud. Amisodar est un Personnage Episodique, fondé sur ce que quelques Mythologistes raportent sur cette Fable, qu'il y a eu une Femme nommée Chimere⁎, qui épousa un Roy de Lycie⁎, appellé Amisodar.
 
 
-## Acteurs du Prologue.
+## Acteurs du Prologue. 
  – APOLLON.
  – LES NEUF MUSES.
  – BACCHUS.
@@ -607,7 +607,7 @@ Le Roy ayant donné la Paix à l'Europe, l'Académie Royale de Musique a creu de
  – 
 
 
-## Acteurs de la Tragédie.
+## Acteurs de la Tragédie. 
  – PALLAS [99].
  – IOBATE,Roy de Lycie.
  – STENOBEE,Veuve de Pretus, Roy d'Argos.
@@ -673,7 +673,7 @@ Chantons un Roy digne de nos Autels.
     CHŒUR D’APOLLON ET DES MUSES
 Par luy tous nos champs refleurissent.  
 
-    CHŒUR DE BACCHUS & DE PAN
+    CHŒUR DE BACCHUS & DE PAN 
 Les tranquilles plaisirs par [109] luy sont de retour.  
 
     CHŒUR D’APOLLON & DES MUSES
@@ -726,7 +726,7 @@ Qui rendent ses peines legeres.
 Si l'Amour a des maux, il a mille plaisirs  
 Qui rendent ses peines legeres.  
 
-    APOLLON
+    APOLLON 
 Quittez de si vaines Chansons.  
 Il faut par de plus nobles sons  
 Honorer en ce jour le Heros⁎ de la France.  
@@ -818,7 +818,7 @@ Espoir, qui séduisez les Amans mal-heureux,
 Pourquoy suspendre ma vangeance ?  
 
 
-### SCENE II
+### SCENE II 
 STENOBEE, PHILONOE, ARGIE
 
 
@@ -845,7 +845,7 @@ En vain j'ay voulu m'en défendre.
     STENOBEE
 Et qui donc aimez-vous ?  
 
-    PHILONOE
+    PHILONOE 
 Un Heros⁎ que les Dieux  
 Ont fait des Conquerans l'exemple glorieux.  
 Estimé dans la paix, redouté dans la guerre,  
@@ -871,7 +871,7 @@ Il possède mon cœur, je puis tout sur son ame.
 Reyne, favorisez une si belle flâme⁎.  
 
 
-### SCENE III
+### SCENE III 
 STENOBEE, ARGIE
 
 
@@ -1052,7 +1052,7 @@ Met nôtre gloire enfin en seureté.
 FIN DU PREMIER ACTE.
 
 
-## Acte II
+## Acte II 
 Le Theatre represente un Jardin delicieux, au milieu duquel paroist un Berceau [132] en forme de Dôme, soûtenu à l'entour de plusieurs Termes. Au travers de ce Berceau on découvre trois Allées, dont celle du milieu est terminée par un superbe Palais en éloignement. Les deux autres finissent à perte de veuë.
 
 
@@ -1071,7 +1071,7 @@ Soûpirs languissans,
 Si j'ay souffert vos tourments les plus rudes,  
 Je n'ay pas trop payé les douceurs que je sens.  
 
-    I. AMAZONE
+    I. AMAZONE 
 Les douceurs que l'amour fait trouver dans ses chaînes,  
 Aux plus heureux Amans ont coûté des soûpirs.  
 
@@ -1175,7 +1175,7 @@ Et je ne dois rien écouter
 De ma plus mortelle Ennemie.  
 
 
-### SCENE IV
+### SCENE IV 
 STENOBEE, ARGIE
 
 
@@ -1198,7 +1198,7 @@ Non, il faut dans son sang que mon amour s'éteigne.
 Perdons⁎ tout , faisons tout perir.  
 
 
-### SCENE V
+### SCENE V 
 STENOBEE, AMISODAR, ARGIE
 
 
@@ -1256,7 +1256,7 @@ Vos yeux seroient trop effrayez
 De l'horreur qu'en ces lieux mes Charmes⁎ vont répandre.  
 
 
-### SCENE VI
+### SCENE VI 
 
     AMISODAR *seul.*
 Que ce jardin se change en Desert affreux.  
@@ -1271,7 +1271,7 @@ Quatre Magiciens & quatre Magiciennes paroissent, & témoignent en dançant l'ar
 
 
 
-### SCENE VII
+### SCENE VII 
 AMISODAR, MAGICIENS
 
 
@@ -1317,7 +1317,7 @@ Les honneurs que de nous elles ont méritez.
 La Terre s'ouvre, & on en voit sortir trois Monstres qui s'élevent au dessus de trois Bûchers ardens, l'un en forme de Dragon, l'autre de Lyon, & le dernier de Bouc. Trois des Magiciens montent dessus; Apres quoi, les quatre qui ont désja dancé font une nouvelle Entrée⁎ avec les quatre Magiciennes, pour marquer leur joye de ce que le Charme a reüssi. Leur Dance estant finie, les trois Magiciens qui sont sur les Monstres chantent alternativement les paroles suivantes avec les autres Magiciens.
 
 
-    MAGICIENS
+    MAGICIENS 
 La Terre nous ouvre  
 Ses Gouffres profonds,  
 L'Enfer se découvre.  
@@ -1341,7 +1341,7 @@ Faisons qu'un seul corps les assemble,
 Pour en venir à bout descendons aux Enfers  
 Les Gouffres nous en sont ouverts.  
 Tout s'abysme [148], & la Terre se referme.  
-FIN DU SECOND ACTE.
+FIN DU SECOND ACTE. 
 
 
 ## ACTE III
@@ -1361,7 +1361,7 @@ On voit regner partout l'image du trespas,
 Et le Monstre animé par la force des Charmes⁎  
 Marque de mille morts la trace de ses pas.  
 
-    STENOBEE
+    STENOBEE 
 Lieux désolez, & remplis de carnage,  
 Campagnes où le Monstre a semé tant d'horreur,  
 Ne me reprochez point ma jalouse fureur⁎,  
@@ -1384,7 +1384,7 @@ Impuissante vangeance ! inutile secours !
 Dequoy [149] peux-tu servir quand on aime toûjours ?  
 
 
-### SCENE II
+### SCENE II 
 LE ROY, STENOBEE, ARGIE
 
 
@@ -1412,7 +1412,7 @@ Que sa valeur⁎ en delivre ces lieux,
 Puisque son crime vous attire.  
 
 
-### SCENE III
+### SCENE III 
 LE ROY, BELLEROPHON
 
 
@@ -1440,7 +1440,7 @@ Sont unis dans ce Monstre affreux ?
 A son aspect il n'est rien qui ne tremble,  
 De sa brûlante haleine il pousse mille feux.  
 
-    BELLEROPHON
+    BELLEROPHON 
 Ces trois Monstres unis n'ont rien qui m'épouvante ;  
 Plus le Combat coûte au Vainqueur,  
 Plus la Victoire est éclatante,  
@@ -1550,7 +1550,7 @@ Quand le Ciel est propice à nos vœux,
 Bannissons l'ennuy⁎ qui nous presse,  
 Nous allons tous estre heureux.  
 Le peuple continuë sa dance, & chante ce second couplet.
-
+ 
 Le Ciel veut qu'on espere,  
 Il adoucit son courroux.  
 Notre hommage a sçeu luy plaire,  
@@ -1635,7 +1635,7 @@ Dans quel accablement cet Oracle me laisse !
     PHILONOE
 Ah, cruelle surprise [158] !  
 
-    BELLEROPHON
+    BELLEROPHON 
 O funeste revers !  
 Quoy ? je vous pers, belle Princesse ?  
 
@@ -1667,7 +1667,7 @@ N'y pensons plus.
         Quoy ? vous pourrez [159], cruelle,  
 Engager ailleurs votre foy ?  
 
-    PHILONOE
+    PHILONOE 
 Brisez, brisez une fatale chaîne.  
 Quand j'ay receu l'hommage de vos vœux,  
 Je croyois que le Ciel consentiroit sans peine  
@@ -1698,7 +1698,7 @@ Ce n'est pas au Destin à separer les cœurs.
 FIN DU TROISIEME ACTE.
 
 
-## ACTE IV
+## ACTE IV 
 Des Rochers forts hauts & forts escarpez, couverts de Sapins & d'autres Arbres solitaires font la Decoration de cét Acte. Au fond du Theatre paroist un Rocher de la méme hauteur, & garny des mémes Arbres. Il est percé par trois Grotes, au travers desquelles on découvre un Païsage à perte de veuë.
 
 
@@ -1740,7 +1740,7 @@ Laissez vivre l'Ingrat⁎ dans ses jaloux transports⁎ ;
 Voir aux mains d'un Rival l'Objet de sa tendresse⁎,  
 C'est tous les jours endurer mille morts.  
 
-    AMISODAR
+    AMISODAR 
 Le laisser vivre ! O Dieux ! que faut-il que je pense ?  
 Je voy pour luy la Reyne s'alarmer  
 Lors que sa mort est preste à remplir sa vangeance.  
@@ -1802,7 +1802,7 @@ Plaignons, plaignons les maux qui désolent ces lieux
 Les pleurs qu'ils font couler devroient toucher les Dieux.  
 
 
-### SCENE IV
+### SCENE IV 
 DIEUX des Bois, NAPEE, DRYADE
 
 
@@ -1833,7 +1833,7 @@ Pour adoucir le Ciel qui voit tant de malheurs,
 Joignons nos soûpirs & nos pleurs.  
 
 
-### SCENE V
+### SCENE V 
 LE ROY, BELLEROPHON
 
 
@@ -1860,7 +1860,7 @@ C'est vous livrer vous-mesme au plus funeste sort.
     BELLEROPHON
 Accablé de mal-heurs, puis-je craindre la mort ?  
 
-    LE ROY
+    LE ROY 
 Ménagez vostre vie, elle m'est toujours chere.  
 Par ces aimables nœuds⁎  
 Que je vous destinois avec mon Diadéme,  
@@ -1884,7 +1884,7 @@ On commence à voir icy tout le Païsage de l'enfoncement du Theatre, remply de 
 
 
 
-### SCENE VI
+### SCENE VI 
 BELLEROPHON, seul
 
 
@@ -1907,7 +1907,7 @@ PALLAS dans son Char, BELLEROPHON
 Espere en ta valeur⁎, Bellerophon, espere,  
 Pallas descend du Ciel pour t'ofrir son secours.  
 
-    BELLEROPHON
+    BELLEROPHON 
 Déesse, en vain tu prens soin de mes jours,  
 Quand la mort seule peut me plaire.  
 
@@ -1935,7 +1935,7 @@ Bellerophon remporte la victoire.
 FIN DU QUATRIEME ACTE.
 
 
-## ACTE V
+## ACTE V 
 Le Theatre represente une grande avant-cour d'un Palais qui paroist élevé dans la Gloire. On y monte par deux grands degrez qui forment les deux costez de cette Decoration en ovale, & qui sont enfermez par deux grands Bâtiments d'Architecture, d'une hauteur extraordinaire. Les deux Degrez & les Galleries qui les environnent sont remplis des Peuples de la Lycie⁎ assemblez en ce lieu pour y recevoir Bellerophon que Pallas doit ramener apres la défaite de la Chimere.
 
 
@@ -1982,7 +1982,7 @@ D'un changement si doux ?
 Qu'il est grand ce Heros⁎, qui ne voit point d'obstacles !  
 Que le Sort contre luy ne forme vainement !  
 
-    PHILONOE
+    PHILONOE 
 Pour tout vaincre, il suffit qu'un Heros⁎ soit Amant,  
 La valeur⁎ & l'amour font toûjours des miracles.  
 
@@ -2102,7 +2102,7 @@ Ce qu'un sort rigoureux vous causa de tourments.
 On entend icy les Timbales & les Trompetes, & tous les autres Instruments, dont le son se mesle aux acclamations du Peuple qui chante les Vers suivants.
 
 
-    CHŒUR DE PEUPLE
+    CHŒUR DE PEUPLE 
 Le plus grand des Heros⁎ rend le calme à la Terre,  
 Il fait cesser les horreur de la Guerre.  
 Joüissons à jamais  

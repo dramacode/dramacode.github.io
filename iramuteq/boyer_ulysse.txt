@@ -50,7 +50,7 @@ Toy qu'un coup de tempeste a poussé dans cette isle
 Et qui dans ce rocher cherches en vain azile,
 Sors, Perimede, sors.
 
-**** *book_ *id_body-302 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-302 *act_ *date_1650 *creator_boyer 
 
 -*who_perimede
       Que voulez-vous grand Roy ?
@@ -143,7 +143,7 @@ Mais…
 -*who_ulisse
 Que veut cet étranger ?
 
--*who_perimede
+-*who_perimede 
       Perimede, Seigneur.
 
 -*who_ulisse
@@ -169,7 +169,7 @@ Par les traits⁎ qu'elle-mesme a peints dans cette lettre.
 Quel estrange surprise, et quel trouble soudain
 De l'esprit et du cœur passent jusqu'à ma main !
 Que vous allez jetter de soucis⁎ dans mon ame,
-Justes douleurs d'un fils, d'un pere et d'une femme !
+Justes douleurs d'un fils, d'un pere et d'une femme ! 
 Celle qu'un sainct amour a mise en tes liens
 Penelope t'écrit trop insensible Ulisse ;
 Pour finir son supplice
@@ -244,7 +244,7 @@ Je cognoy mon destin plus fort que ces obstacles.
 Qui fut tousjours vainqueur auroit-il pû déchoir
 Jusques à n'avoir pas sa fuite en son pouvoir ?
 
--*who_euriloche
+-*who_euriloche 
 Hé bien, exposons-nous à de nouveaux naufrages,
 Devenons derechef l'objet de mille orages ;
 Les hostes vagabons de ces tombeaux mouvans,
@@ -289,7 +289,7 @@ Peut-on estre autrement quand on ne vous voit pas ?
 Cette serenité que troubloit vostre absence,
 Je la sens revenir avec vostre presence.
 
--*who_circe
+-*who_circe 
 Je le voy bien, Ulisse est dans sa belle humeur ;
 Les Syrenes s'en vont l'accroistre par la leur ;
 Car n'apprehendez point que leurs chants infidelles⁎
@@ -311,7 +311,7 @@ Allons.
 -*who_euriloche
       Ils sont partis ; approche Perimede.
 
--*who_leucosie
+-*who_leucosie 
 Quoy vous ne suivez pas ? quel ennuy⁎ vous possede ?
 Qu'est-ce ?
 
@@ -392,7 +392,7 @@ Circé prendra le soin de retenir Ulisse :
 Et si contre sa force il ose resister,
 Je sçay par quels liens je doy vous arrester.
 
-**** *book_ *id_body-307 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-307 *act_ *date_1650 *creator_boyer 
 
 -*who_euriloche
 Cognoy mieux, Euriloche, et quitte la pensee
@@ -461,7 +461,7 @@ Cependant vous avez éventé son secret.
 Je l'ay dit, Perimede, et j'en ay du regret.
 Qu'ay-je fait ?
 
--*who_perimede
+-*who_perimede 
       Mais, Seigneur, une secrette fuite
 Peut reparer bien-tost ce manque de conduite.
 
@@ -514,7 +514,7 @@ M'offrant pour le secours que son bras luy refuse.
 -*who_perimede
 Que voyons-nous, Seigneur ?
 
--*who_euriloche
+-*who_euriloche 
       Circé dans ce vaisseau
 Prepare à son Ulisse un plaisir fort nouveau.
 Desja dessus les eaux j'apperçoy les Syrenes
@@ -767,7 +767,7 @@ Vous suis-je…
 -*who_phaetuse
       Il a parlé selon mon sentiment.
 
--*who_euriloche
+-*who_euriloche 
 Au moins c'est me traiter sans fard, sans complaisance.
 Mais qui vous fait si fort detester ma presence
 Pour traiter vos amours le temps ne manque pas.
@@ -845,7 +845,7 @@ Et ne permettez pas que vostre amant⁎ s'expose.
 -*who_phaetuse
 Il scauroit s'exposer, si j'en avois besoin.
 
--*who_elpenor
+-*who_elpenor 
 Euriloche, quitez cet inutile soin⁎,
 D'un estrange soucy⁎ vostre esprit s'embarrasse.
 Et cette raillerie est de mauvaise grace.
@@ -871,7 +871,7 @@ C'en est trop.
 -*who_elpenor
 Souffrez⁎…
 
--*who_phaetuse
+-*who_phaetuse 
       Obeissez.
 
 -*who_elpenor
@@ -892,7 +892,7 @@ Tu verras, insolent, dans ta punition
 Que la plus temeraire et la plus fiere audace
 Doit trembler au courroux de celles de ma race.
 
-**** *book_ *id_body-404 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-404 *act_ *date_1650 *creator_boyer 
 
 -*who_euriloche
 Qu'ay-je fait imprudent ! où me suis-je emporté ?
@@ -932,7 +932,7 @@ Explique le bonheur que le Ciel nous enuoye.
 J'ay si peu de commerce avec le bonheur,
 Que tout ce qui m'en parle est suspect à mon cœur.
 
--*who_leucosie
+-*who_leucosie 
 Si la peur d'un départ nous a couté des larmes
 Circé s'en va bientost dissiper tant d'allarmes,
 Icy ses volontez sont d'invincibles loix
@@ -957,7 +957,7 @@ Que son ambition a tousjours differé.
 -*who_euriloche
 Quel bonheur ? quelle joye ? ô fortune⁎ cruelle.
 
--*who_leucosie
+-*who_leucosie 
 Est-ce ainsi qu'on reçoit cette heureuse nouvelle ?
 
 -*who_euriloche
@@ -1007,7 +1007,7 @@ De qui la guerison ne depend pas de moy.
 -*who_euriloche
 Ouy j'en ay.
 
--*who_leucosie
+-*who_leucosie 
       L'infidelle, ô ! soubçon qui me tuë.
 Desja depuis long-temps je m'en suis apperceuë ;
 Je ne m'estonne point si vous versiez des pleurs,
@@ -1055,7 +1055,7 @@ Il va pour premier coup me perdre auprez de vous.
 -*who_leucosie
 Cet effort⁎ Euriloche est hors de sa puissance.
 
--*who_euriloche
+-*who_euriloche 
 A couvert de ce coup je ris de sa vengeance
 Que la terre et le Ciel, cette isle, son amant⁎
 S'arment pour le secours de son ressentiment⁎.
@@ -1079,7 +1079,7 @@ Qu'il tombe par ma main, ou m'égorge à vos yeux.
 -*who_leucosie
 O Dieux !
 
--*who_euriloche
+-*who_euriloche 
       Pour prevenir⁎ ma mort ou son suplice
 Ouvrez quelque chemin à la fuite d'Ulisse.
 Si tantost nostre amour a trahi son dessein
@@ -1104,7 +1104,7 @@ Helas si vostre amant⁎ vous trahissoit sa foy⁎…
 -*who_leucosie
 Je fremis au penser d'un malheur si terrible.
 
--*who_euriloche
+-*who_euriloche 
 Penelope, Princesse est-elle moins sensible ?
 Mais de plus grands motifs demandent ce depart,
 Nostre gloire le veut, elle y prent tant de part,
@@ -1130,7 +1130,7 @@ Je suis preste pour vous…
       Princesse c'est assez,
 Et vous faites pour moy plus que vous ne pensez.
 
-**** *book_ *id_body-406 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-406 *act_ *date_1650 *creator_boyer 
 
 -*who_circe
 Foible et dernier secours, que mon amour lassée⁎
@@ -1218,7 +1218,7 @@ Qui luy fasse hayr ce qu'il aymoit en elle ;
 Fais-la luy voir perfide⁎, et que par cette erreur
 Je m'en puisse vanger mieux que par ma fureur⁎.
 
--*who_sommeil
+-*who_sommeil 
 Vous pouvez icy tout, Nymphe que faut-il faire ?
 Commandez, et Morphée aura soin de vous plaire.
 
@@ -1241,7 +1241,7 @@ Euriloche a failly ; mais malgré son audace,
 J'ayme assez de nos Grecs le reste malheureux,
 Pour trembler de leur perte, et pour m'offrir pour eux.
 
--*who_circe
+-*who_circe 
 Euriloche a failly ; mais Ulisse l'excuse,
 Pour Circé c'en est trop ; assez pour Phaëtuse ;
 Pour si juste qu'il soit, il n'est point de courroux,
@@ -1597,7 +1597,7 @@ Dieux Phaëtuse vient et sa sœur avec elle.
 -*who_leucosie
 Vostre Conseil ma sœur m'oblige infiniment.
 
--*who_elpenor
+-*who_elpenor 
 Ah ! c'est trop consulter vostre ressentiment⁎.
 Je cede au mien Princesse, et seur de ma disgrace
 Je suis mon desespoir, sans que vostre menace
@@ -1690,7 +1690,7 @@ C'est à moy comme à vous une entreprise vaine.
 Je l'ayme, et d'autant plus que j'ay tousjours pensé
 Que vous y consentiez aussi bien que Circé.
 
--*who_phaetuse
+-*who_phaetuse 
 Dés l'abord, comme vous, j'ay mal cognu ce traistre ;
 Mais maintenant, ma sœur, qu'on me l'a fait cognoistre,
 Sans inhumanité je ne puis approuver
@@ -1752,7 +1752,7 @@ Enfin je touche au terme, et je puis aujourd'huy…
 Mais helas ! il retombe, et je tombe avec luy.
 Triomphe Jupiter, triomphe de ma peine⁎.
 
-**** *book_ *id_body-602 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-602 *act_ *date_1650 *creator_boyer 
 
 -*who_ulisse
 Dans quel gouffre d'horreur ta puissance m'entraine ?
@@ -1765,7 +1765,7 @@ Malgré ta trahison ton sort me fait pitié.
 Et si prez de Pluton ma priere n'est vaine,
 Bien loin de l'agrandir j'amoindriray ta peine⁎.
 
-**** *book_ *id_body-603 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-603 *act_ *date_1650 *creator_boyer 
 
 -*who_suite_ulysse
 Rocher qu'en vain tousjours je tasche à remonter.
@@ -1782,7 +1782,7 @@ C'est Siziphe ; luy mesme.
 -*who_suite_ulysse
       O ! rigoureux suplice !
 
--*who_ulisse
+-*who_ulisse 
 Spectacle insuportable au malheureux Ulisse !
 N'importe... En ma faveur quittes pour aujourd'huy.
 
@@ -1832,7 +1832,7 @@ Siziphe : apprenez moy si Penelope est morte.
 Mais non, n'en faites rien, dans un coup si fatal⁎
 Je sens quelque douceur à douter de mon mal⁎.
 
--*who_suite_ulysse
+-*who_suite_ulysse 
 Par les mains de ton fils elle est morte infidelle,
 Au lieu de tant d'amants⁎ qui soupiroient pour elle,
 Mille serpens affreux⁎ qui nous comblent d'horreur,
@@ -1878,7 +1878,7 @@ Cher Ulisse, arrestez, que vous dit cet infame ?
 Ce dernier deshonneur de vos braves ayeux,
 La honte et le rebut d'un sang si glorieux.
 
--*who_suite_ulysse
+-*who_suite_ulysse 
 Qu'il me laisse en repos.
 
 -*who_suite_ulysse
@@ -2083,7 +2083,7 @@ Doit obtenir de vous la fin de vostre haine.
 Euriloche paroist, retirons-nous ma sœur,
 Ce que vous allez voir changera vostre cœur.
 
-**** *book_ *id_body-608 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-608 *act_ *date_1650 *creator_boyer 
 
 -*who_euriloche
 Je me pers, Perimede, ah ! non c'est trop d'audace.
@@ -2219,7 +2219,7 @@ Elpenor vous voyez que l'on vous tend les bras.
 -*who_elpenor
 A moy, Madame.
 
--*who_euriloche
+-*who_euriloche 
       A vous.
 
 -*who_elpenor
@@ -2289,7 +2289,7 @@ Madame, Ulisse vient.
       Cette heureuse nouvelle    
 Pour revoir ce heros au Palais me rappelle.
 
--*who_phaetuse
+-*who_phaetuse 
 Nous vous suivons.
 
 -*who_circe
@@ -2388,7 +2388,7 @@ Fais le venir.
 -*who_melante
       Ulisse, où sera ton espoir ?
 
-**** *book_ *id_body-702 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1650 *creator_boyer 
 
 -*who_circe
 Mes charmes⁎ auroient pû faire perir Ulisse ;
@@ -2425,7 +2425,7 @@ Il sçaura qu'un amour qu'on ose dedaigner,
 Sçait arracher des cœurs s'il ne peut les gagner.
 Il faut mourir.
 
-**** *book_ *id_body-703 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-703 *act_ *date_1650 *creator_boyer 
 
 -*who_ulisse
       Frapez, vous voyez la victime ;
@@ -2495,7 +2495,7 @@ Pour eviter la honte où mon amour m'engage
 Que ne peut-il la vaincre aussi bien que ma rage ?
 Mais, helas !
 
--*who_ulisse
+-*who_ulisse 
       Enfoncez ce poignard dans mon sein.
 Fuir un coup qui vous plaist n'estoit pas mon dessein ;
 Mais ne concevant point de suplice si rude,
@@ -2537,7 +2537,7 @@ Je ne m'estonne plus si vous l'ayant apris,
 Avant sortir du port mon vaisseau fut surpris.
 Retournez sur leur pas Euriloche et ce traitre…..
 
-**** *book_ *id_body-704 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1650 *creator_boyer 
 
 -*who_leucosie
 Ah ! ma sœur, Dieux, comment oseray-je paroistre ?
@@ -2556,7 +2556,7 @@ Euriloche s'en sert pour enlever ma sœur.
 -*who_circe
 L'enlever.
 
--*who_ulisse
+-*who_ulisse 
       Euriloche ô ! Dieux.
 
 -*who_leucosie
@@ -2626,7 +2626,7 @@ Aussi purs et brillans que ceux de vostre pere.
 Pars Ulisse, et m'espargne, abandonnant ce lieu,    
 Ce que souffre mon cœur en te disant adieu.
 
-**** *book_ *id_body-706 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-706 *act_ *date_1650 *creator_boyer 
 
 -*who_euriloche
 Ouy, le voile est levé, Princesse, je vous ayme ;
@@ -2744,7 +2744,7 @@ Dedans mes yeux l'horreur qu'on a d'un criminel.
 Et dans toute mon ame une hayne immortelle
 Pour un voleur, un lasche, un meurtrier, un rebelle.
 
--*who_euriloche
+-*who_euriloche 
 Portez encor plus loin ces transports⁎ furieux⁎ ;
 Ces cœurs⁎, ces belles mains ; cette bouche et ces yeux
 Que vous taschés de rendre un subjet de ma hayne,
@@ -2764,7 +2764,7 @@ Je ne puis me resoudre à perdre un bien si cher.
 -*who_phaetuse
 O ! Dieux.
 
--*who_perimede
+-*who_perimede 
       Sauvez là donc, on vient vous l'arracher.
 
 -*who_euriloche
@@ -2851,7 +2851,7 @@ Tombe foudre en ses mains trop long-temps retenuë,
 Tombe à la voix du sang, qu'un traistre a sceu verser ;
 Tombe aux cris d'une sœur, qu'un traistre veut forcer.
 
--*who_leucosie
+-*who_leucosie 
 Tombe aux justes douleurs d'une amante⁎ abusée⁎.
 Mais la perte du traistre est bien plus mal aisée,
 Il est desja si loin qu'il eschape à mes yeux.
@@ -2877,7 +2877,7 @@ La terre preste au Ciel de quoy punir la terre.
 Vous seule... Mais quels feux s'allument dans la nuit ?
 Quel trouble ! quel esclat ! quel desordre ! quel bruit !
 
-**** *book_ *id_body-710 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-710 *act_ *date_1650 *creator_boyer 
 
 -*who_jupiter
 Nimphes voicy le coup qui vous fera justice
@@ -2908,7 +2908,7 @@ Ouy, ouy, c'est elle mesme, allons la recevoir.
 -*who_circe
 Phaëtuse, est-ce vous ?
 
-**** *book_ *id_body-712 *act_ *date_1650 *creator_boyer
+**** *book_ *id_body-712 *act_ *date_1650 *creator_boyer 
 
 -*who_phaetuse
       Vous puis-je encor revoir ?
@@ -2949,7 +2949,7 @@ Vivons sans passions, et Reynes de nous-mesmes.
 Puisqu'Elpenor est mort, nul ne peut dignement    
 Apres un tel heros se dire mon amant⁎.
 
--*who_leucosie
+-*who_leucosie 
 Moy, qui presumois trop d'un traistre et d'un coupable
 Je hay son sexe autant qu'il me parut aymable.
 

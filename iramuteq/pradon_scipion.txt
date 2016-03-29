@@ -42,7 +42,7 @@ De vous entretenir pendant quelques momens,
 Nous sçaurons d'Annibal les secrets sentimens,
 C'est vous qui dans ce Camp annoncez sa venuë.
 
--*who_aurilcar
+-*who_aurilcar 
 Oüy, Seigneur, Annibal souhaite une entreveuë,
 Je viens la demander, c'est son intention
 Que de voir aujourd'huy le fameux Scipion ;
@@ -141,7 +141,7 @@ Elle n'espere plus qu'en sa seule conduite⁎ ;
 Ne me déguisez rien sur ses nouveaux projets,
 Je prévois, Aurilcar, qu'ils tendent à la paix.
 
--*who_aurilcar
+-*who_aurilcar 
 Vous avez penetré ce que veut sa prudence,
 Une paix de Cartage est l'unique esperance ;
 Mais, Madame, que dit, & que fait Scipion ?
@@ -208,7 +208,7 @@ Et du moins je voudrois pour flater⁎ ma fierté⁎,
 Que l'heureuse Erixene eût part à ce traité.
 Adieu, Scipion vient, & vous allez l'entendre.
 
-**** *book_ *id_body-403 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-403 *act_ *date_1697 *creator_pradon 
 
 -*who_scipion
 Est-il donc vray, Seigneur, ce qu'on vient de m'apprendre,
@@ -276,7 +276,7 @@ Je jure par les Dieux appuis du Capitole,
 Qu'il peut en seureté se fier à ma foy⁎,
 Il n'aura dans mon Camp pour ôtage que moy.
 
--*who_aurilcar
+-*who_aurilcar 
 Seigneur, c'en est assez.
 
 -*who_scipion
@@ -305,7 +305,7 @@ Que me vient proposer ce fameux Capitaine ?
 Dieux ! seroit-ce la paix ? mon esprit agité
 Fremit en ce moment du seul mot de traité.
 
--*who_lepide
+-*who_lepide 
 S'il demande la paix, n'estes-vous pas le maître
 D'accepter, d'imposer…
 
@@ -343,7 +343,7 @@ La prise de Zama coûte cher à mon cœur.
 Je vous entends, Seigneur, des atteintes si vives
 Sont de l'amour…
 
--*who_scipion
+-*who_scipion 
       Ecoûte, une de mes captives,
 Je tremble seulement d'en prononcer le nom,
 A soûmis, a vaincu le cœur⁎ de Scipion ;
@@ -377,7 +377,7 @@ Me firent vivement ressentir ma foiblesse,
 Je n'en suis plus le maître, & malgré mes efforts⁎
 Je succombe, Lepide, à de si doux transports.
 
--*who_lepide
+-*who_lepide 
 Il est vray qu'elle est belle, & digne d'estre aimée.
 
 -*who_scipion
@@ -480,7 +480,7 @@ Ravir à Scipion une telle conqueste ;
 Il n'a rien fait encor pour me prouver sa foy⁎,
 Je ne merite pas qu'il s'expose pour moy.
 
--*who_ermilie
+-*who_ermilie 
 Eh ? pouvez-vous douter que ce Prince vous aime,
 Madame, rapellez son desespoir extrême,
 Quand Zama pris d'assaut le sépara de vous :
@@ -513,7 +513,7 @@ Cependant aujourd'huy c'est luy seul qui m'accable,
 Il fait couler mes pleurs malgré tant de vertus⁎,
 Et sans luy je serois unie à Lucejus.
 
--*who_ermilie
+-*who_ermilie 
 Madame pouvez-vous murmurer de sa chaîne ?
 Ce Heros vous regarde & traite en souveraine,
 Vôtre nom dans Zama seroit moins respecté,
@@ -540,7 +540,7 @@ Ce penser contre luy me revolte, m'indigne,
 Et s'il manque d'amour en sera-t-il plus digne ?
 Mais que vois-je ? est-ce luy ? grands Dieux !…
 
-**** *book_ *id_body-502 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-502 *act_ *date_1697 *creator_pradon 
 
 -*who_lucejus
       N'en doutez plus,
@@ -602,7 +602,7 @@ Tomber peut-être…
       Helas ! que mon sort⁎ sera doux
 Si je puis…
 
--*who_isperie
+-*who_isperie 
       Non, Seigneur, gardez-vous d'entreprendre
 Si je l'ay souhaité, je dois vous le défendre ;
 Loin de vous j'accusois vôtre trop de lenteur,
@@ -670,7 +670,7 @@ Vous partirez.
       Seigneur, je promets de vous suivre,
 Et même de mourir si vous cessez de vivre.
 
-**** *book_ *id_body-503 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-503 *act_ *date_1697 *creator_pradon 
 
 -*who_isperie
 A present je respire ! il a rempli mes vœux,
@@ -689,7 +689,7 @@ C'est ma seule esperance en cette occasion,
 Et sur tout portez-y le cœur de Scipion :
 Il vient, que me veut-il ?
 
-**** *book_ *id_body-504 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-504 *act_ *date_1697 *creator_pradon 
 
 -*who_scipion
       Je vous cherchois, Madame ;
@@ -717,7 +717,7 @@ Du Prince vôtre Amant j'ay causé les malheurs,
 Et vous vous en plaignez du moins sans vous contraindre,
 Il est d'autres malheurs dont on n'ose se plaindre.
 
--*who_isperie
+-*who_isperie 
 Seroit-il des malheurs comparables aux siens ?
 Tout prêts à nous unir par les plus beaux liens,
 Ce jeune Prince helas ! attendoit la journée
@@ -960,7 +960,7 @@ Et moy, j'aime un ingrat sans espoir d'estre aimée.
 Que vôtre cœur si fier⁎ rappelle sa raison,
 Madame, soûtenez l'éclat de vôtre nom.
 
-**** *book_ *id_body-602 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-602 *act_ *date_1697 *creator_pradon 
 
 -*who_lepide
 Annibal dans ces lieux à l'instant va se rendre,
@@ -1386,7 +1386,7 @@ Qu'il regagne son Camp, & qu'enfin il revienne
 Soûtenir dignement & sa gloire & la mienne ?
 Dieux ! Annibal paroît…
 
-**** *book_ *id_body-704 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-704 *act_ *date_1697 *creator_pradon 
 
 -*who_isperie
       J'embrasse vos genoux,
@@ -1520,7 +1520,7 @@ De vôtre sort⁎, du mien, je vous laisse l'arbitre,
 Vous avez ou la paix, ou la guerre en vos mains,
 Le destin de l'Afrique & celuy des Romains.
 
--*who_isperie
+-*who_isperie 
 Que dites-vous, Seigneur ? ah Ciel ! pourois-je croire
 Qu'un cœur tel que le mien meritât tant de gloire,
 Que le sort⁎ de l'Afrique & celuy des Romains
@@ -1607,7 +1607,7 @@ Vous en dites assez enfin pour m'offenser.
 Vous êtes dans mon Camp, Seigneur, je vous respecte,
 Mais la foy⁎ de Cartage aux Romains est suspecte.
 
--*who_annibal
+-*who_annibal 
 Ah ! c'en est trop, il faut…
 
 -*who_scipion
@@ -1725,7 +1725,7 @@ On la doit assieger, j'y finiray mes jours,
 J'attends de Scipion ce funeste⁎ secours ;
 Je l'aperçois, parlons.
 
-**** *book_ *id_body-804 *act_ *date_1697 *creator_pradon
+**** *book_ *id_body-804 *act_ *date_1697 *creator_pradon 
 
 -*who_scipion
       Qu'on observe Isperie ?
@@ -1848,7 +1848,7 @@ Dans toutes ses horreurs je cherchois ce que j'aime.
 Ne craignez plus pour luy, dissipez vôtre effroy,
 Lucejus est vivant, & plus heureux que moy.
 
--*who_isperie
+-*who_isperie 
 Il est vivant, mais quoy vous en êtes le maître !
 Vous pouvez disposer de son sort⁎, & peut-être
 La haine d'un rival qui vous a combatu…

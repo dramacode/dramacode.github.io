@@ -95,7 +95,7 @@ Et beaucoup moins encor en venir aux reproches :
 Mais à ce que je croy nous en sommes bien proches,
 Demande son logis.
 
-**** *book_ *id_body-502 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-502 *act_ *date_1642 *creator_ouville 
 
 -*who_angelique
       Si comme je le croy,
@@ -135,7 +135,7 @@ J'useray de la force.
 Quelque subtil⁎ moyen, à propos cette lettre
 Nous y pourra servir.
 
-**** *book_ *id_body-503 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-503 *act_ *date_1642 *creator_ouville 
 
 -*who_licidas
       Ouy je la veux cognoistre
@@ -187,7 +187,7 @@ As-tu du cœur⁎ ? il faut le faire icy paroistre.
 Toubeau, je n'oserois, j'offencerois mon maistre,
 Il me l'a deffendu.
 
-**** *book_ *id_body-504 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-504 *act_ *date_1642 *creator_ouville 
 
 -*who_lizandre
       Que vois-je justes Dieux ?
@@ -289,7 +289,7 @@ J'en demande pardon.
 -*who_lizandre
 Allons icy devant penser vostre blessure.
 
--*who_florestan
+-*who_florestan 
 En entrant dans Paris, Dieux ! quel mauvais augure,
 Qu'il me couste du sang.
 
@@ -303,7 +303,7 @@ M'en doutais-je pas bien ? on a payé mon maistre,
 Il le meritoit bien pour avoir imité
 Ce fol de Don Quixote en sa temerité.
 
-**** *book_ *id_body-505 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-505 *act_ *date_1642 *creator_ouville 
 
 -*who_angelique
 Oste-moy promptement ces habits Isabelle,
@@ -396,7 +396,7 @@ Madame taisez-vous,vostre frere entre icy.
 -*who_angelique
 Ah dieux ! Que j'apprehende, il semble estre en colere.
 
-**** *book_ *id_body-506 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-506 *act_ *date_1642 *creator_ouville 
 
 -*who_licidas
 Que faites-vous ma sœur ?
@@ -416,7 +416,7 @@ Ah Madame, il le sçait.
       Grands Dieux ! je suis perdüe,
 Qu'avez-vous donc ?
 
--*who_licidas
+-*who_licidas 
       Je viens de me battre en la ruë.
 
 -*who_angelique
@@ -441,7 +441,7 @@ Mais quel sujet a fait naistre votre querelle ?
 -*who_licidas
 Nous nous sommes battus pour une damoiselle.
 
--*who_angelique
+-*who_angelique 
 Pour une damoiselle ?
 
 -*who_licidas
@@ -569,7 +569,7 @@ Aux occupations qui me sont ordinaires,
 A pleurer tout le jour l'excez de mes miseres,
 Me le demandez-vous ?
 
--*who_licidas
+-*who_licidas 
       Ma sœur vous avez tort,
 Vos pleurs ne peuvent pas faire revivre un mort,
 Aux plus ardans soupirs, laissez la porte ouverte
@@ -693,7 +693,7 @@ Qui n'a pas épargné mesme jusqu'à son sang,
 Qui m'a gaigné le cœur, et de si bonne grace,
 Isabelle il n'est rien pour luy que je ne face.
 
--*who_isabelle
+-*who_isabelle 
 J'y songerois devant, car en cette action,
 Quelle preuve avez-vous de sa discretion ?
 Ne nous fions jamais aux Amours passageres,
@@ -739,7 +739,7 @@ Lizandre, vostre frere est un homme de cœur⁎,
 Je veux doresnavant estre son serviteur,
 Et l'honorer bien fort, sa vertu⁎ m'y convie.
 
-**** *book_ *id_body-602 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-602 *act_ *date_1642 *creator_ouville 
 
 -*who_licidas
 C'est moy qui dois pour vous mettre cent fois la vie.
@@ -831,7 +831,7 @@ Entrer quand vous voudrez sans qu'on vous divertisse.
 -*who_florestan
 Quand pourray-je jamais payer ce bon office ?
 
--*who_lizandre
+-*who_lizandre 
 Si vous ne voulez pas si tost vous mettre au lit
 Pour tascher d'acquerir un peu plus d'appetit,
 Puis que vous estimez si peu vostre blesseure
@@ -854,7 +854,7 @@ Carrille escoute un mot.
 -*who_carrille
       Bien Monsieur sans remise.
 
-**** *book_ *id_body-604 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-604 *act_ *date_1642 *creator_ouville 
 
 -*who_carrille
 Or ça revisitons un peu nostre valize,
@@ -875,7 +875,7 @@ Mais prenons notre linge et le portons blanchir.
 Pourquoy rien refermer, laissons tout de la sorte,
 J'ay la clef, c'est à faire à bien fermer la porte.
 
-**** *book_ *id_body-605 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-605 *act_ *date_1642 *creator_ouville 
 
 -*who_isabelle
 Madame, tout à l'heure on me vient d'advertir
@@ -994,7 +994,7 @@ Ouvre, c'est de l'Iris pour poudrer les cheveux.
 En verité Madame il est fort curieux⁎,
 Voicy force papiers.
 
--*who_angelique
+-*who_angelique 
       Monstre.
 
 -*who_isabelle
@@ -1044,7 +1044,7 @@ Prenons-les et mettons des charbons à la place,
 Il deviendra tantost aussi froid qu'une glace,
 Et se verra sans doute en estrange soucy.
 
--*who_angelique
+-*who_angelique 
 Ma lettre est faite , il faut que je la laisse icy,
 Raccomode le tout, rajuste ces valizes.
 
@@ -1162,7 +1162,7 @@ Tay toy, tu feras mieux, il te faut interdire
 Le mestier de bouffon si tu t'en veux mesler,
 Au plus chaud de l'esté tu nous ferois geler.
 
-**** *book_ *id_body-608 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-608 *act_ *date_1642 *creator_ouville 
 
 -*who_florestan
 Et bien traistre, qui peut souffrir tes impudences,
@@ -1322,7 +1322,7 @@ J'aymerois mieux mourir.
       Vous avez donc envie
 D'offencer Licidas.
 
--*who_florestan
+-*who_florestan 
       Moy, je perdray la vie
 Avant que je consente à cette lascheté,
 Je puis bien contenter ma curiosité,
@@ -1467,7 +1467,7 @@ Et semble qu'en effect vous me contez des fables,
 Qu'il doit estre surpris s'il a veu vostre escrit,
 Sans mentir c'est assez pour luy troubler l'esprit.
 
--*who_angelique
+-*who_angelique 
 Je croy qu'il l'aura veu.
 
 -*who_lucinde
@@ -1493,7 +1493,7 @@ Ce sera dés ce soir.
 -*who_lucinde
       Et vous faire cognoistre ?
 
--*who_angelique
+-*who_angelique 
 Je m'en garderay bien.
 
 -*who_lucinde
@@ -1663,7 +1663,7 @@ Et qu'ils soient retirez, Isabelle les porte.
 Disiez-vous pas tantost, qu'on vous a faict sçavoir
 Qu'ils doivent tous ensemble aller au bal ce soir ?
 
--*who_angelique
+-*who_angelique 
 Oüy, je luy veux mander que l'on m'en a priée,
 Qu'il y vienne, et d'autant que je suis espiée,
 Qu'il me pardonnera, si je n'ose pas là
@@ -1740,7 +1740,7 @@ Et de changer d'habit.
       Sans vous precipiter,
 Vous avez trop de temps.
 
--*who_florestan
+-*who_florestan 
       Donc sans plus de demeure
 Je vous iray trouver chez vous avant une heure.
 
@@ -1761,7 +1761,7 @@ Pourquoy n'es-tu là haut ?
 -*who_florestan
 Pour quel sujet, qu'as-tu ?
 
--*who_carrille
+-*who_carrille 
       Dois-je pas avoir crainte
 Que cét Esprit Folet⁎ ne me donne une atteinte ?
 Je crains trop d'esprouver ce que pese sa main.
@@ -1829,7 +1829,7 @@ Je suis le serviteur, tu n'en veux qu'à mon Maistre.
 -*who_isabelle
 La lumiere m'a faict aysément recognoistre.
 
--*who_carrille
+-*who_carrille 
 Aye pitié de moy, tout mal-heur me poursuit,
 Je suis las, laissez-moy reposer cette nuit.
 
@@ -1963,7 +1963,7 @@ Et s'est enfuy apres.
 Vous me feriez mourir, bien mocquez-vous de moy,
 Je l'ay veu, je vous jure, ainsi que je vous voy.
 
--*who_florestan
+-*who_florestan 
 Dy donc comme il est fait ?
 
 -*who_carrille
@@ -2069,7 +2069,7 @@ Allons sans discourir en ce lieu davantage.
 Tout comme je vous dis estoit desesperé,
 Mais je l'ay sans mentir plaisamment reparé.
 
--*who_angelique
+-*who_angelique 
 Tu nous contes icy de bien estranges choses,
 Et je doute quasi que tu nous les supposes,
 Je ne puis sans mentir l'imaginer encor,
@@ -2097,7 +2097,7 @@ Quand nous effectuërons ce que nous avons dit.
 Qui ne serait confus se trouvant en sa place ?
 Le fait est tres-subtil⁎, mais grands Dieux quand sera-ce ?
 
--*who_angelique
+-*who_angelique 
 Cette nuit, je n'attends pour luy joüer ce tour,
 Que l'heure et le moment qu'il sera de retour,
 Il ne s'est veu jamais si surpris en sa vie
@@ -2202,7 +2202,7 @@ Peut-on desavoüer ce qui nous est visible ?
 -*who_florestan
 Je suis quasi forcé de croire un impossible.
 
-**** *book_ *id_body-803 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-803 *act_ *date_1642 *creator_ouville 
 
 -*who_angelique
 Mettons là la chandelle, et voyons ces escrits.
@@ -2244,7 +2244,7 @@ Qu'il esbloüit mes yeux, et sille ma paupiere.
 Voyez-vous pas aussi qu'au plus creux de l'Enfer
 Elle a pris cet esclat des yeux de Lucifer ?
 
--*who_florestan
+-*who_florestan 
 Je ne luy puis donner d'assez dignes loüanges
 Et sans doute je croy qu'elle est du rang des Anges.
 
@@ -2273,7 +2273,7 @@ Il faut voir ce que c'est.
       Ne soyez pas si fou
 De vous joüer du Diable, il vous tordroit le cou.
 
--*who_florestan
+-*who_florestan 
 Quoy ? dans mon cœur⁎ la peur pouroit-elle estre empreinte ?
 Non non, resolvons-nous, banissons toute crainte.
 Ombre, Ange, Diable, Esprit, femme, ou qui que tu sois
@@ -2384,7 +2384,7 @@ Vos rares qualitez à l'egal de moy-mesme,
 C'est de ce crime seul, dont on peut m'accuser
 Voyez si vous devez vous en formaliser.
 
--*who_florestan
+-*who_florestan 
 Que je sçache ton nom.
 
 -*who_angelique
@@ -2425,7 +2425,7 @@ Tout m'arrive grands Dieux comme je le souhaite,
 J'ay pour m'eschaper d'eux trouvé cette deffaite,
 Rentrons et refermons aussi-tost apres nous.
 
-**** *book_ *id_body-804 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-804 *act_ *date_1642 *creator_ouville 
 
 -*who_florestan
 Tout est fermé, Madame, avec de bons verrous,
@@ -2555,7 +2555,7 @@ Joignant Saint-Innocent.
 -*who_carrille
       Estrange rendez-vous.
 
--*who_florestan
+-*who_florestan 
 J'iray.
 
 -*who_carrille
@@ -2599,7 +2599,7 @@ Laissez-moy seul icy, Monsieur, je vous supplie,
 Mais que dis-je ? aussi bien y mourrois-je de peur,
 Je ne sçay qui pour moy des deux est le meilleur.
 
--*who_florestan
+-*who_florestan 
 C'est à cent pas d'icy, tien pren cette lumiere.
 
 -*who_carrille
@@ -2725,7 +2725,7 @@ Je voy de la clarté, je croy par cette fente.
 On ouvre, justes Dieux, que mon ame est contente.
 Carrille, vois-tu pas cette rare beauté ?
 
-**** *book_ *id_body-902 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-902 *act_ *date_1642 *creator_ouville 
 
 -*who_carrille
 C'est à ce coup, Monsieur, que je suis enchanté⁎.
@@ -2880,7 +2880,7 @@ Mais ces attraits sont faux, ils sont tous empruntez,
 Car si je vous voyois en forme autre qu'humaine,
 Je mourrois sur le champ, la chose est tres certaine.
 
--*who_angelique
+-*who_angelique 
 Quoy doncques Florestan vous vous pleignez de moy ?
 
 -*who_florestan
@@ -2960,7 +2960,7 @@ Que nous sert-on donc ?
 -*who_lucinde
       Madame, tout est prest.
 
-**** *book_ *id_body-903 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-903 *act_ *date_1642 *creator_ouville 
 
 -*who_angelique
 Apelle-t'on ?
@@ -3065,7 +3065,7 @@ Vous vous trompez, vous dis-je.
 Ah dieu ! si cette fois de ses griffes j'eschape,
 Il sera bien subtil⁎, s'il faut qu'il m'y r'atrape.
 
--*who_licidas
+-*who_licidas 
 Aurez-vous bien encor l'esprit assez rusé
 De dire qu'en cela je me suis abusé ?
 Comment Lucinde aussi vous en estes complice ?
@@ -3092,7 +3092,7 @@ Je verray ce que c'est, baillez-moy la chandelle.
 -*who_angelique
 Dieux, il les trouvera, Cousine.
 
--*who_lucinde
+-*who_lucinde 
       Nullement,
 Ils seront repassez dans leur appartement.
 
@@ -3115,7 +3115,7 @@ D'entrer avec l'espée.
 Resolvons-nous au pis, nous allons estouffer ,
 Car nous sommes sans doute en un cachot d'enfer.
 
--*who_florestan
+-*who_florestan 
 Quels hazards⁎ ne court point un homme de courage,
 Qui veut entrer par tout où son desir l'engage,
 Sans se fier à rien qu'à sa propre valeur ?
@@ -3172,7 +3172,7 @@ Mais il ne me faut point consulter là dessus,
 Je ne doy craindre rien, puis que j'ay l'advantage
 De pouvoir au besoin m'ayder de mon courage.
 
--*who_carrille
+-*who_carrille 
 Je me coule pour moy derriere ce buffet.
 
 **** *book_ *id_body-905 *act_ *date_1642 *creator_ouville
@@ -3225,7 +3225,7 @@ Avec tant de chaleur vous vous pleignez de moy,
 Obligez-moy, voyons sans vous mettre en colere
 Si par autre moyen je vous puis satisfaire ?
 
--*who_licidas
+-*who_licidas 
 Par quel autre moyen, dy lasche suborneur
 Puis-je estre satisfaict si tu m'ostes l'honneur ?
 
@@ -3278,7 +3278,7 @@ Se voyant poursuivy ?
 Il vous faut confronter avecque cette infame,
 Cause où je suis trompé de ce scandale icy.
 
--*who_florestan
+-*who_florestan 
 Je le veux, vous serez de tout point esclaircy
 Que je ne trempe point du tout dans ce mystere.
 
@@ -3296,7 +3296,7 @@ J'ay d'apprehension lasché tout dans mes chausses.
 Mais quoy sans les laver les laisserois-je ainsi ?
 Oüy, suivons-les de loing, j'aurois peur seul icy.
 
-**** *book_ *id_body-906 *act_ *date_1642 *creator_ouville
+**** *book_ *id_body-906 *act_ *date_1642 *creator_ouville 
 
 -*who_angelique
 Que me dis-tu, grands dieux !
@@ -3319,7 +3319,7 @@ Il nous faut bien garder d'attendre sa venuë.
 -*who_angelique
 A telle heure qu'il est, irons-nous par la ruë ?
 
--*who_lucinde
+-*who_lucinde 
 Allons-nous-en chez nous, mon logis n'est pas loing.
 
 -*who_angelique
@@ -3335,7 +3335,7 @@ Fuyons sans consulter sur ce fait davantage.
 Où vas-tu mal-heureuse ? et vous Lucinde aussi
 Où l'accompagnez-vous ? quel desordre est-ce icy ?
 
--*who_angelique
+-*who_angelique 
 Puis que Florestan vit, qu'il paroist à ma veuë,
 Mourons s'il faut mourir, m'y voilà resoluë :
 Mais oyez mes raisons, et ne me jugez pas,
@@ -3417,7 +3417,7 @@ Auras-tu bien le front de te voir refusee,
 Et de servir apres à chacun de risee ?
 Avant que cela soit tu mourras de ma main.
 
--*who_florestan
+-*who_florestan 
 Ah ! tuez-moy plutost que d'avoir ce dessein.
 Licidas, j'ay le cœur comblé de telle joye
 Du bien inesperé que mon destin m'envoye,

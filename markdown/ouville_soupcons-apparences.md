@@ -1111,7 +1111,7 @@ Tirons nous à l'écart, et gardons le silence.
 
 
 ### SCENE IV.
-PICARD, ALCIPE, SYLVAIN, ASTRÉE. HYPPOLITE.
+PICARD, ALCIPE, SYLVAIN, ASTRÉE.HYPPOLITE.
 
 
     PICARD *tenant un flambeau.*
@@ -1387,7 +1387,7 @@ Et sans qu'elle me voye, essayer de la voir.
 
 
 ### SCENE VI.
-ASTRÉE, HYPPOLITE, PICARD, ALCIPE, SYLVAIN, FILEMON.
+ASTRÉE, HYPPOLITE, PICARD,ALCIPE, SYLVAIN, FILEMON.
 
 
     ASTRÉE.
@@ -1562,7 +1562,7 @@ Asseurez vous du reste, et soyez en repos.
 
 
 ### SCENE II.
-LEANDRE, FILEMON, ALCIPE, SYLVAIN.
+LEANDRE, FILEMON,ALCIPE, SYLVAIN.
 
 
     LEANDRE.
@@ -1673,7 +1673,7 @@ D'un Marchand de Lyon, qui nous l'avoit apris.
 
 
 ### SCENE III.
-ASTRÉE, LEANDRE, ALCIPE, SYLVAIN.
+ASTRÉE, LEANDRE, ALCIPE,SYLVAIN.
 
 
     ASTRÉE.
@@ -1806,7 +1806,7 @@ S'ils avoient en courant nos filoux attrapez.
 
 
 ### SCENE VI.
-FILEMON, LEANDRE, ALCIPE, SYLVAIN.
+FILEMON, LEANDRE, ALCIPE,SYLVAIN.
 
 
     FILEMON.
@@ -2205,7 +2205,7 @@ Il rendra sur ce point nostre doute éclaircy.
 
 
 ### SCENE II.
-VALENTIN, ASTRÉE, ORPHISE, HYPPOLITE.
+VALENTIN, ASTRÉE,ORPHISE, HYPPOLITE.
 
 
     ASTRÉE.
@@ -2283,7 +2283,7 @@ Que ne dira-t'il pas de me trouver icy !
 
 
 ### SCENE III.
-FILEMON, ASTRÉE, ORPHISE. VALENTIN.
+FILEMON, ASTRÉE, ORPHISE.VALENTIN.
 
 
     FILEMON.
@@ -2439,7 +2439,7 @@ Si je voy que mes feux ne leur deplaisent pas.
 
 
 ### SCENE IV.
-VALENTIN, FILEMON, ASTRÉE, ORPHISE.
+VALENTIN, FILEMON, ASTRÉE,ORPHISE.
 
 
     FILEMON.
@@ -2545,7 +2545,7 @@ Destournez ce papier, Leandre vient à nous.
 
 
 ### SCENE VII.
-LEANDRE, ASTRÉE, ORPHISE. HYPPOLITE.
+LEANDRE, ASTRÉE, ORPHISE.HYPPOLITE.
 
 
     LEANDRE.
@@ -3130,7 +3130,7 @@ Mon honneur m'y contraint, attendez donc la mort.
 
 
 ### SCENE XI.
-FILEMON, ORPHISE, ASTRÉE, LEANDRE, HYPPOLITE.
+FILEMON, ORPHISE, ASTRÉE,LEANDRE, HYPPOLITE.
 
 
     FILEMON.
@@ -3236,7 +3236,7 @@ Ami, parole, honneur vous serez satisfaits.
 
 
 ### SCENE XII.
-FILEMON, ASTRÉE, ORPHISE. HYPPOLITE.
+FILEMON, ASTRÉE, ORPHISE.HYPPOLITE.
 
 
     ASTRÉE.
@@ -3458,7 +3458,7 @@ Et l'obligeons par ruse à nous ceder la place.
 
 
 ### SCENE IV.
-FILEMON, ASTRÉE, ALCIPE, SYLVAIN, HYPPOLITE.
+FILEMON, ASTRÉE, ALCIPE,SYLVAIN, HYPPOLITE.
 
 
     ALCIPE.
@@ -3483,7 +3483,7 @@ Je feray repentir quiconque l'entreprend [335].
 
 
 ### SCENE V.
-ALCIPE, ASTRÉE. HYPPOLITE, SYLVAIN.
+ALCIPE, ASTRÉE.HYPPOLITE, SYLVAIN.
 
 
     ALCIPE.
@@ -3632,7 +3632,7 @@ J'en ay plus d'une preuve et plus d'une apparence ;
 Mais pour n'en faire pas un importun recit :  
 Consultez ce billet, et voyez ce qu'il dit.  
 (Il lit le billet qu'Alcipe a laissé tomber.)
-
+ 
 Vous demeurez confus.  
 
     FILEMON.
@@ -3747,7 +3747,7 @@ Et fait quelqu'autre effort⁎ plus grand ; mais aussi vain.
 
 
 ### SCENE VIII.
-ALCIPE, ASTRÉE, ORPHISE, HYPPOLITE, SYLVAIN.
+ALCIPE, ASTRÉE, ORPHISE,HYPPOLITE, SYLVAIN.
 
 
     HYPPOLITE.
@@ -3797,7 +3797,7 @@ Fuyons Sylvain.
 
 
 ### SCENE IX.
-LEANDRE, FILEMON, ASTRÉE, ORPHISE, HYPPOLITE, SYLVAIN, VALENTIN.
+LEANDRE, FILEMON, ASTRÉE,ORPHISE, HYPPOLITE,SYLVAIN, VALENTIN.
 
 (Hyppolite retient Sylvain.)
 

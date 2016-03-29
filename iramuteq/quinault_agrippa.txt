@@ -284,7 +284,7 @@ Lassez de mes regards, avec soin les evitent.
 Voicy de mon amant le Pere infortuné,
 Quelque soucy le presse, il paroit estonné.
 
-**** *book_ *id_body-403 *act_ *date_1663 *creator_quinault
+**** *book_ *id_body-403 *act_ *date_1663 *creator_quinault 
 
 -*who_tirrhene
 Ne vous offencez pas, Seigneur, si je m'avance,
@@ -758,7 +758,7 @@ Et servir à la fois mon depit, & mon pere,
 Si la Princesse en croit mon violent transport…
 Mais on ouvre chez elle, & je la voy qui sort.
 
-**** *book_ *id_body-503 *act_ *date_1663 *creator_quinault
+**** *book_ *id_body-503 *act_ *date_1663 *creator_quinault 
 
 -*who_lavinie
 J'allois vous voir, Albine, & confuse & troublée,
@@ -872,7 +872,7 @@ Il vient.
 -*who_albine
       Si je le voy, c'est pour mieux m'irriter.
 
-**** *book_ *id_body-504 *act_ *date_1663 *creator_quinault
+**** *book_ *id_body-504 *act_ *date_1663 *creator_quinault 
 
 -*who_agrippa
 Le sort m'offre un bonheur où je n'osois pretendre,
@@ -1011,7 +1011,7 @@ Où tout cœur court hazard de retomber toûjours.
 Je veux en m'éloignant vous sauver cette peine,
 Et mettre en seureté l'honneur de vôtre haine.
 
-**** *book_ *id_body-505 *act_ *date_1663 *creator_quinault
+**** *book_ *id_body-505 *act_ *date_1663 *creator_quinault 
 
 -*who_albine
 Pour te faire haïr, va ne prens aucun soin,
@@ -2141,7 +2141,7 @@ Qu'on pense tout, pourveu qu'on n'execute rien.
 Dieux ! si le coup fatal qu'a tant pressé ma haine
 Tomboit…mais qu'on me laisse entretenir Tirrhene.
 
-**** *book_ *id_body-802 *act_ *date_1663 *creator_quinault
+**** *book_ *id_body-802 *act_ *date_1663 *creator_quinault 
 
 -*who_lavinie
 Venez, Seigneur, venez, s'il se peut, dissiper
@@ -2395,7 +2395,7 @@ Rien ne me couste à perdre, après ce que je pers,
 Avec mon Fils & nous, perisse l'Univers ;
 Que ma Fille elle-mesme évite ma colere.
 
-**** *book_ *id_body-804 *act_ *date_1663 *creator_quinault
+**** *book_ *id_body-804 *act_ *date_1663 *creator_quinault 
 
 -*who_tirrhene
 Mal-heureuse ! où viens-tu ?

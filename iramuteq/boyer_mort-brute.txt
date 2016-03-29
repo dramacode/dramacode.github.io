@@ -1255,7 +1255,7 @@ Si nous mourons tous seuls, que nostre sort est doux !
 -*who_tullie
 Je ne vivray jamais un moment apres vous.
 
-**** *book_ *id_body-501 *act_ *date_1648 *creator_boyer
+**** *book_ *id_body-501 *act_ *date_1648 *creator_boyer 
 
 -*who_julie
 Un Pere peut flechir.
@@ -1273,7 +1273,7 @@ Sa bouche parricide a condamné ses fils.
 -*who_julie
 La voix de la nature a d'invincibles charmes⁎.
 
--*who_tullie
+-*who_tullie 
 Sa soif ne s'esteint point avec l'eau de nos larmes ;
 Pour la des-alterer ce Tigre veut du sang.
 Que ne viens-tu Barbare en puiser dans ce flanc ?

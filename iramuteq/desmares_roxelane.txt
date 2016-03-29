@@ -215,7 +215,7 @@ Nous met dans le naufrage⁎ et du naufrage au port
 Pour ma seule vertu je prends la patience
 Et desormais la feinte est ma seule science.
 
--*who_acmat
+-*who_acmat 
 Pour moy que la fortune⁎ a toujours destiné,
 A perdre les cadets pour asseurer l'aîné,
 Je suis bien resolu de hazarder ma vie,
@@ -235,7 +235,7 @@ Sur tout preparés-vous contre ses artifices.
 -*who_circasse
 Que je vous doy de biens pour tant de bons offices.
 
-**** *book_ *id_body-402 *act_ *date_1643 *creator_desmares
+**** *book_ *id_body-402 *act_ *date_1643 *creator_desmares 
 
 -*who_roxelane
 Non, non, ne pensés pas que la présomption
@@ -306,7 +306,7 @@ J'epouze Soliman ou bien la sepulture.
 De ce dessein je crains quelque étrange avanture,
 Et qu'à ce grand empire il ne couste du sang⁎.
 
--*who_roxelane
+-*who_roxelane 
 S'il en est répandu ce sera de ce flanc.
 
 -*who_le_mufti
@@ -331,7 +331,7 @@ Et ne me blasmés plus de ma presomption.
 -*who_le_mufti
 Mais je voy du peril en l'execution.
 
--*who_roxelane
+-*who_roxelane 
 Le chemin que je tiens n'est pas la violence,
 Je ne veux seulement que vostre confidence,
 Me la puis-je promettre ?
@@ -354,7 +354,7 @@ Que mesme l'Empereur m'en vienne suplier.
 Immortels je vous fais une injuste priere,
 Soyez les protecteurs d'un dessein temeraire.
 
--*who_roxelane
+-*who_roxelane 
 Vous verrez qu'il est juste et que les immortels,
 Veullent pour m'y servir employer leurs Autels,
 Et lors que vous sçaurés mes moyens infaillibles,
@@ -399,7 +399,7 @@ Cet amour bien que grand n'efface pas ma crainte.
 Vous craindre ? qui pouvez possedant Soliman
 D'un mot faire trembler tout l'Empire Othoman.
 
--*who_roxelane
+-*who_roxelane 
 La crainte a ce mal-heur pour celuy qui la donne,
 Qu'en la donnant, jamais elle ne l'abandonne.
 
@@ -422,7 +422,7 @@ Se plaindre qui le peut, tout vous estant soûmis ?
 -*who_roxelane
 Tout ceux que mon bon-heur m'a rendus ennemis.
 
--*who_circasse
+-*who_circasse 
 Mais que pouvez-vous craindre en ce degré supréme ?
 
 -*who_roxelane
@@ -473,7 +473,7 @@ Que par une vertu qui passe l'ordinaire :
 Aymer ces ennemis c'est la vertu des Dieux
 Que jamais les mortels n'ont pu tirer des Cieux.
 
--*who_roxelane
+-*who_roxelane 
 Croyant avec raison meriter vostre hayne,
 Je la doy recevoir comme une juste peine,
 Et recevant de vous ce juste chastiment
@@ -500,7 +500,7 @@ Du moins souvenez-vous que mon esprit mal sein,
 Vous dépleût par foiblesse et non pas par dessein ;
 Et reglés desormais la suite de ma vie.
 
--*who_circasse
+-*who_circasse 
 De si hautes faveurs surpassent mon envie :
 J'attends beaucoup de vous mais je dois recevoir
 Tout de vostre bonté, rien de vostre devoir.
@@ -524,7 +524,7 @@ Ma soeur jusqu'au revoir.
 De quelque faux appas⁎ que ton discours se farde
 Je suis bien resoluë à me donner de garde.
 
-**** *book_ *id_body-404 *act_ *date_1643 *creator_desmares
+**** *book_ *id_body-404 *act_ *date_1643 *creator_desmares 
 
 -*who_roxelane
 Je vous croiray, Circasse, et vous et vostre fils
@@ -619,7 +619,7 @@ Un Prince peut et doit revoquer ses Arrests.
 On ne contredit pas, on suplie on remonstre,
 Apres un sage Roy decide, ou pour, ou contre.
 
--*who_soliman
+-*who_soliman 
 Parlez parlez, Acmat, j'écoute librement
 Mon amour se soûmet à vostre sentiment.
 Comme d'un Potentat c'est le bon-heur supréme,
@@ -771,7 +771,7 @@ Qu'elle sera modeste en son ambition. 
 Combien que vostre rang ne luy deust rien permettre :
 L'amour de vos enfans semble tout luy promettre.
 
--*who_soliman
+-*who_soliman 
 Je les ayme il est vray, mais j'ayme plus les lois
 Qui sont les vrais enfans des legitimes Roys.
 Je veux par mes respects pour les lois anciennes
@@ -820,7 +820,7 @@ N'ayme pas pour cela, mais il rend la justice.
 -*who_soliman
 Mais, Acmat, Roxelane adresse icy ses pas.
 
--*who_acmat
+-*who_acmat 
 Seigneur je me soûmets, et mets les armes bas.
 
 -*who_soliman
@@ -839,7 +839,7 @@ Seigneur, se vient soumettre à vos commandements.
 Vostre ame conservant cet ennuy⁎ qui l'oppresse,
 Ne se peut dire à moy mais bien à la tristesse.
 
--*who_roxelane
+-*who_roxelane 
 La nature, Seigneur, a de puissantes lois
 Que ne peuvent forcer ny le sort ny les Rois,
 Elle a voulu regler mes humeurs, mais en sorte
@@ -1000,7 +1000,7 @@ Qui soit de ma grandeur la veritable image.
 Qu'elle choisisse un lieu, vous, Acmat, suivez moi,
 Un grand dessein que j'ay demande vostre employ.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_desmares
+**** *book_ *id_body-503 *act_ *date_1643 *creator_desmares 
 
 -*who_roxelane
 Jusqu'icy la fortune⁎ à nos vœux exorable
@@ -1155,7 +1155,7 @@ Et d'un visage peint d'une grave froideur
 Mépriser pour le Ciel la mortelle grandeur,
 Je n'entens point cela.
 
--*who_circasse
+-*who_circasse 
       C'est qu'elle desespere
 De voir monter ses fils au trosne de leur pere,
 Connoissant que le mien par sa rare valeur
@@ -1199,7 +1199,7 @@ He bien mon cher Osman, que nous apportés-vous ?
 Tout succede à vos veux, la fortune⁎ se change
 Et de vostre parti favorable se range.
 
--*who_circasse
+-*who_circasse 
 Comment ?
 
 -*who_osman
@@ -1248,7 +1248,7 @@ La ruine de l'une est le salut de l'autre.
 Allons mon cher Acmat, que ce bien-heureux jour,
 Me fasse posseder mon Prince et son amour.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_desmares
+**** *book_ *id_body-604 *act_ *date_1643 *creator_desmares 
 
 -*who_roxelane
 STANCES.
@@ -1298,7 +1298,7 @@ Quand il meurt genéreux vit eternellement.
 Mais l'alarme est au cap, Rustan est hors d'haleine
 Et ma fille est en pleurs.
 
-**** *book_ *id_body-605 *act_ *date_1643 *creator_desmares
+**** *book_ *id_body-605 *act_ *date_1643 *creator_desmares 
 
 -*who_roxelane
                   Rustan qui vous amene ?
@@ -1917,7 +1917,7 @@ Qu'on l'oste, sa presence augmente mon courrous.
 -*who_roxelane
 O Seigneur accordez la mort à ma priere.
 
--*who_soliman
+-*who_soliman 
 Je te l'accorderois si je voulois te plaire,
 La mort est une grace et non pas un tourment
 Pour ceux que je destine à mon ressentiment.

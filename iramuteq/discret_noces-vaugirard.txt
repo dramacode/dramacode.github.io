@@ -2,7 +2,7 @@
 
 **** *book_ *id_epitre *date_1638 *creator_discret
 
-EPISTRE SERVANT D'ADVERTISSEMENT à ceux qui veulent rire.
+EPISTRE SERVANT D'ADVERTISSEMENT à ceux qui veulent rire. 
 
 MESSIEvRS,
 
@@ -25,7 +25,7 @@ L. C. D.
 
 **** *book_ *id_argument *date_1638 *creator_discret
 
-ARGUMENT.
+ARGUMENT. 
 
 Amarille est jointe par mariage à Floridon qu'elle n'ayme point sous promesse faite de l'advis de ses parens, & pour la contenter que Floridon ne cueillera le fruict de son amour, que six mois apres le jour de leurs nopces, pendant lequel temps Polydas fils d'une des Illustres maisons de Paris déguisé en Berger, & qui cherissoit grandement Amarille, promettoit de l'enlever secrettement, mais estant mandé⁎ à la nopce avec une jeune Bergere nommée Lidiane, qui estoit venuë avec sa mere demeurer à Vaugirard à cause des guerres qui estoient dans la Province de leur naissance.
 Polydas devient amoureux de Lidiane, oublie la promesse qu'il avoit faicte à Amarille, & continuë ses amours avec elle, nonobstant les jalousies d'Amarille.
@@ -37,7 +37,7 @@ Polydas qui croit qu'elle est morte se precipite dans la grotte des Demons, Amar
 
 **** *book_ *id_poeme-liminaire *date_1638 *creator_discret
 
-A. D. D. L. R. D. L. P.
+A. D. D. L. R. D. L. P. 
 
 Beautez de qui les yeux captivent les franchises⁎
 De tous les jeunes cœurs qui passent devant eux,
@@ -1170,7 +1170,7 @@ Pour en estre esclaircy je veux parler à elle.
 Ha que je suis fasché d'avoir tant arresté⁎
 Ils riront maintenant de ma simplicité⁎.
 
-**** *book_ *id_body-803 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-803 *act_ *date_1638 *creator_discret 
 
 -*who_pancrace
 UN parfaict amoureux jamais ne se repose
@@ -1397,7 +1397,7 @@ Rendez vous en ce temps aupres du carrefour.
 L'amour pour y aller me donnera des aisles,
 Amy fais qu'aujourd'huy j'en sache des nouvelles.
 
-**** *book_ *id_body-902 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-902 *act_ *date_1638 *creator_discret 
 
 -*who_amarille
 L'Esprit inquieté de milles pensemens⁎,
@@ -1792,7 +1792,7 @@ Je reçois trop d'honneur,
 -*who_pancrace
                   Il n'en faut point parler
 
-**** *book_ *id_body-904 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-904 *act_ *date_1638 *creator_discret 
 
 -*who_pysandre
 L'Amitié d'un amy oblige à l'impossible,
@@ -2147,7 +2147,7 @@ Chacun courir à l'eau pour sauver le village,
 Prenant l'occasion ferme au poil inconstant,
 J'iray ma Lidiane enlever à l'instant.
 
-**** *book_ *id_body-1002 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-1002 *act_ *date_1638 *creator_discret 
 
 -*who_luciane
 VIste viste debout, une espaisse fumee
@@ -2289,7 +2289,7 @@ Pesez mon innocence & ma fidelité.
 Sur tout permettez moy qu'en la plaine Elizee    
 Je voye la beauté qui m'a la mort causee.
 
-**** *book_ *id_body-1004 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-1004 *act_ *date_1638 *creator_discret 
 
 -*who_luciane
 ACcablee d'ennuys⁎, de maux, d'afflictions,
@@ -2417,7 +2417,7 @@ Prenez l'ame & le corps de la pauvre Amarille :
 Et si vous la voulez doublement obliger⁎,
 Faites tant qu'elle soit aupres de son Berger.
 
-**** *book_ *id_body-1006 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-1006 *act_ *date_1638 *creator_discret 
 
 -*who_pysandre
 EN verité mon cœur il faut que je confesse
@@ -2813,7 +2813,7 @@ Que jamais Polydas ne fut d'un crime autheur.
 Vous estes trop rusee & pleine de malice,
 Sus, allons la livrer és mains de la Justice.
 
-**** *book_ *id_body-1102 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-1102 *act_ *date_1638 *creator_discret 
 
 -*who_le_juge
 NOus qui tenons des Dieux la balance à la main,
@@ -3157,7 +3157,7 @@ Prestez moy vostre main pour marcher fermement,
 -*who_cleanide
 Pan face reussir le tout heureusement.
 
-**** *book_ *id_body-1104 *act_ *date_1638 *creator_discret
+**** *book_ *id_body-1104 *act_ *date_1638 *creator_discret 
 
 -*who_le_juge
 VOicy le lieu Bergere où il faut que ta vie,

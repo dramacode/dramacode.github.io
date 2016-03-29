@@ -1,7 +1,7 @@
 ---
 identifier: moliere_melicerte  
 creator: Molière  
-date: 1666  
+date: 1682  
 title: Mélicerte  
 ---
 

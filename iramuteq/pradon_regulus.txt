@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_dedicace *date_1688 *creator_pradon
+**** *book_ *id_dedicace *date_1688 *creator_pradon 
 
 A MADAME LA DAUPHINE
 
@@ -15,9 +15,9 @@ Vostre tres-humble & tres-obeïssant serviteur,
 
 PRADON.
 
-**** *book_ *id_epitre *date_1688 *creator_pradon
+**** *book_ *id_epitre *date_1688 *creator_pradon 
 
-A MADAME LA DAUPHINE EPISTRE.
+A MADAMELA DAUPHINE EPISTRE.
 Toy, dont le sang auguste & fecond à la fois,
 Promet à l'Univers des Heros & des Rois ;
 Princesse incomparable, écoute, & daigne entendre
@@ -117,7 +117,7 @@ Semblent estre formez pour les grandes Princesses ;
 Heureux si mes Heros toujours par leurs vertus⁎
 S'attirent ton sufrage ainsi que Regulus.
 
-**** *book_ *id_preface *date_1688 *creator_pradon
+**** *book_ *id_preface *date_1688 *creator_pradon 
 
 PREFACE
 
@@ -151,7 +151,7 @@ Regulus considere un Romain tel que vous,
 Dans peu vous le verrez, il doit icy se rendre,
 Cependant⁎ vous pouvez me parler & l'attendre.
 
--*who_priscus
+-*who_priscus 
 Oüy, Seigneur, le Senat qui m'envoye en ces lieux
 Croit que de Regulus le bras victorieux,
 Secondé par vos soins⁎ & par vôtre courage
@@ -265,7 +265,7 @@ Il a voulu venir dans le Camp de Cartage,
 A peine a-t-il encor deux lustres accomplis,
 Que déja de son Pere il est le digne Fils.
 
-**** *book_ *id_body-502 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-502 *act_ *date_1688 *creator_pradon 
 
 -*who_priscus
 Je viens remplir le choix dont Scipion m'honore,
@@ -490,7 +490,7 @@ Dans peu vous reviendrez me trouver dans ma tente,
 Que la gloire de Rome anime vôtre espoir,
 Vous m'entendez, Tribun, faites vôtre devoir.
 
-**** *book_ *id_body-505 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-505 *act_ *date_1688 *creator_pradon 
 
 -*who_mannius
 Qu'entens-je Regulus en moy seul se confie,
@@ -642,7 +642,7 @@ Aprés cela sa gloire en doit estre contente,
 Regulus est trop seur de l'immortalité,
 Et n'en a que trop fait pour la posterité.
 
-**** *book_ *id_body-602 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-602 *act_ *date_1688 *creator_pradon 
 
 -*who_regulus
 NON, non, je n'ay rien fait si je ne prens Cartage,
@@ -745,7 +745,7 @@ Il estoit le plus grand de tous vos ennemis,
 Pour l'en punir partez, oubliez sa tendresse,
 Et que la gloire soit vostre unique maîtresse⁎.
 
-**** *book_ *id_body-603 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-603 *act_ *date_1688 *creator_pradon 
 
 -*who_regulus
 Ah ! Seigneur, servez-vous de vostre authorité,
@@ -770,7 +770,7 @@ J'adore⁎ sa vertu⁎, je cheris sa tendresse,
 Je cours où mon devoir m'appelle, & je vous laisse,
 Adieu, Madame, vous prenez soin⁎ de mon fils.
 
-**** *book_ *id_body-604 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-604 *act_ *date_1688 *creator_pradon 
 
 -*who_metellus
 He' quoy ? donc nous serons tous deux desobeïs,
@@ -844,7 +844,7 @@ Mannius doit venir pour vous prester la main,
 Dites-luy que pour vous j'ay changé de dessein ;
 Adieu, mais oubliez toute vostre foiblesse.
 
-**** *book_ *id_body-605 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-605 *act_ *date_1688 *creator_pradon 
 
 -*who_fulvie
 Ciel ! que ne dois-je point à sa juste tendresse,
@@ -853,7 +853,7 @@ Mais pourquoy Mannius prend-il de nouveaux soins⁎ ?
 Pourquoy pour m'escorter s'offre-t-il à mon pere ?
 Pourquoy ?....mais j'en sçay trop penetrer le mistere.
 
-**** *book_ *id_body-606 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-606 *act_ *date_1688 *creator_pradon 
 
 -*who_mannius
 Madame, tout est prest si vous voulez partir,
@@ -878,7 +878,7 @@ Où mon pere est, Seigneur, je ne vois rien à craindre,
 Je sçauray partager les perils avec luy ;
 Allez à Clypea nous attendre aujourd'huy.
 
-**** *book_ *id_body-607 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-607 *act_ *date_1688 *creator_pradon 
 
 -*who_mannius
 Ah ! sans aller si loin, vous iriez à Cartage,
@@ -976,7 +976,7 @@ Seigneur, voicy Fulvie, ah ! cachons luy de grace
 Du sort de Regulus la cruelle disgrace,
 D'un funeste recit épargnons luy l'éclat.
 
-**** *book_ *id_body-702 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-702 *act_ *date_1688 *creator_pradon 
 
 -*who_fulvie
 Seigneur, apprenez-moy le succés du combat,
@@ -1025,7 +1025,7 @@ Dés ce mesme moment souffrez⁎ que je le voye,
 N'attestez⁎ point icy les hommes & les Dieux,
 Mon cœur n'en croira plus desormais que mes yeux.
 
--*who_metellus
+-*who_metellus 
 Vous le verrez dans peu, nous allons dans sa tente,
 Soyez moins inquiete, ou soyez plus constante,
 Ayez pour Regulus moins de crainte & d'ennuy⁎,
@@ -1051,7 +1051,7 @@ Faustine, allons, suivons mon pere dans sa tente,
 Le respect ne peut rien sur un cœur plein d'effroy,
 Si Regulus est mort tout est perdu pour moy.
 
--*who_faustine
+-*who_faustine 
 Non, de trop de douleur vostre crainte est suivie,
 Metellus & Priscus répondent de sa vie,
 A cette vaine erreur pourquoy vous attacher ?
@@ -1185,7 +1185,7 @@ Esperer....
 Plaise aux Dieux qu'en ce jour il propose la paix
 Lepide, ce sont là mes plus ardans souhaits !
 
-**** *book_ *id_body-707 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-707 *act_ *date_1688 *creator_pradon 
 
 -*who_metellus
 Pour épargner vos pleurs & vostre ame étonnée⁎,
@@ -1207,7 +1207,7 @@ J'obeïs,
 -*who_metellus
       Laissez-nous.
 
-**** *book_ *id_body-708 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-708 *act_ *date_1688 *creator_pradon 
 
 -*who_metellus
                       Mon ame est allarmée,
@@ -1330,7 +1330,7 @@ Hé ! qui pouroit douter de ma foy, de mon zele ?
 Il faut m'abandonner en aveugle à mon sort,
 Je perds Fulvie, helas ! & je cherche la mort.
 
-**** *book_ *id_body-802 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-802 *act_ *date_1688 *creator_pradon 
 
 -*who_lepide
 Seigneur, quand tout le Camp marque tant d'allegresse,
@@ -1380,7 +1380,7 @@ Nous le verrons bien-tôt, & déja Metellus....
 -*who_mannius
 Juste Ciel ! il avance avecque Regulus.
 
-**** *book_ *id_body-803 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-803 *act_ *date_1688 *creator_pradon 
 
 -*who_regulus
 La fortune, Romains, vient de changer de face,
@@ -1468,7 +1468,7 @@ Ce seroit leur laisser de braves combatans,
 Des Chefs dont la valeur peut servir contre Rome,
 Et perdant Regulus, vous ne perdez qu'un homme.
 
--*who_priscus
+-*who_priscus 
 Un homme tel que vous dans l'ardeur des combats,
 Sçait conduire, animer plus de cent mille bras ;
 Enfin nous perirons plûtôt que de vous rendre,
@@ -1495,7 +1495,7 @@ Aussi-tost qu'il devient utile à la patrie.
 -*who_priscus
 Hé quoy ? Seigneur, faut-il qu'un lâche Xantipus....
 
--*who_regulus
+-*who_regulus 
 Parlez-en mieux, sans doute il a quelques vertus⁎ ;
 Ouy, la finesse & l'art de ce grand Capitaine
 Egalent la valeur & la force Romaine ;
@@ -1553,7 +1553,7 @@ Et mon bon-heur a sceu me soustraire à leurs coups.
 Dans un pareil discours qu'on a peine à comprendre,
 On s'accuse souvent en voulant se défendre.
 
--*who_mannius
+-*who_mannius 
 Quoy ? Seigneur.
 
 -*who_regulus
@@ -1569,7 +1569,7 @@ Moy, Seigneur ? je pourois....
                       Ne me répondez plus,
 Allez, & qu'on me laisse avecque Metellus.
 
-**** *book_ *id_body-804 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-804 *act_ *date_1688 *creator_pradon 
 
 -*who_regulus
 Seigneur, nous sommes seuls, & je puis sans contrainte
@@ -1623,7 +1623,7 @@ De quelque grand malheur l'infaillible présage,
 Retiendrais-je des pleurs qu'ils viendront m'arracher ?
 Et je devrois songer moy-mesme à me cacher.
 
--*who_regulus
+-*who_regulus 
 Seigneur déguisons mieux toute nostre tristesse,
 Et tâchons d'épuiser icy nostre foiblesse ;
 Il faut pour achever un si noble dessein
@@ -1677,7 +1677,7 @@ Quelle gloire Seigneur ? de grace apprenez-moy....
 -*who_metellus
 Quelle grande victoire il remporte sur soy !
 
--*who_fulvie
+-*who_fulvie 
 Ah ! j'y dois prendre part, & quand sa gloire brille..
 
 -*who_metellus
@@ -1702,7 +1702,7 @@ Faustine, explique-moy les pleurs de Metellus,
 Pourquoy dans ces momens se cache Regulus ?
 Mais que me veut Priscus qui paroît tout en larmes ?
 
-**** *book_ *id_body-807 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-807 *act_ *date_1688 *creator_pradon 
 
 -*who_priscus
 Ah ! Madame, je viens augmenter vos allarmes⁎,
@@ -1909,7 +1909,7 @@ Justes Dieux ! ah ! mon fils !
                       Seigneur, tant de tendresse
 Ne peut-elle toucher ?...
 
-**** *book_ *id_body-905 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-905 *act_ *date_1688 *creator_pradon 
 
 -*who_regulus
                   Ciel ! je voy Metellus,
@@ -1929,7 +1929,7 @@ Vous me rendez la vie en me rendant la gloire,
 Maîtresse⁎, fils, Romains je ne vous connois plus,
 Et ne vois de Romain icy que Metellus.
 
--*who_attilius
+-*who_attilius 
 Mon pere ?
 
 -*who_fulvie
@@ -1957,7 +1957,7 @@ Vous accorder, mon fils, de plus longues années ;
 Ou s'il les doit finir par quelque coup du sort,
 Qu'il prenne pour modelle & ma vie & ma mort.
 
--*who_fulvie
+-*who_fulvie 
 Faustine, soûtiens-moy.
 
 -*who_attilius
@@ -1972,7 +1972,7 @@ Il court où son devoir l'appelle, & nous au nôtre.
 Esperez cependant⁎, Priscus, moy, les Romains,
 Nous allons l'arracher aux cruels Africains.
 
-**** *book_ *id_body-906 *act_ *date_1688 *creator_pradon
+**** *book_ *id_body-906 *act_ *date_1688 *creator_pradon 
 
 -*who_fulvie
 Quel espoir justes Dieux !
@@ -2120,7 +2120,7 @@ Je cours m'ensevelir sous les murs de Cartage ;
 La mort de Regulus luy poura coûter cher,
 Qu'elle nous serve, au moins ! à tous deux de bucher ?
 
-**** *book_ *id_privilege *date_1688 *creator_pradon
+**** *book_ *id_privilege *date_1688 *creator_pradon 
 
 EXTRAIT DV PRIVILEGE du Roy.
 

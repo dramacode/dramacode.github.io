@@ -3307,7 +3307,7 @@ Est-ce là cet Amant qui se tenoit caché ?
 -*who_ariste
 Avec tous mes efforts j'y suis bien empesché.
 
--*who_moron
+-*who_moron 
 Je suis en mon païs, quelle resjouïssance ?
 Il faut baiser la terre où j'ay pris ma naissance.
 

@@ -1,7 +1,7 @@
 ---
 identifier: moliere_avare  
 creator: Molière  
-date: 1669  
+date: 1668  
 title: L'Avare. Comédie  
 ---
 

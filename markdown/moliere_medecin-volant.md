@@ -1,7 +1,7 @@
 ---
 identifier: moliere_medecin-volant  
 creator: Molière  
-date: 1668  
+date:   
 title: Le médecin volant  
 ---
 

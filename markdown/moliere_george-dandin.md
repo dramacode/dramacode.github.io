@@ -1,7 +1,7 @@
 ---
 identifier: moliere_george-dandin  
 creator: Molière  
-date: 1669  
+date: 1668  
 title: George dandin. ou le mari confondu. Comédie  
 ---
 

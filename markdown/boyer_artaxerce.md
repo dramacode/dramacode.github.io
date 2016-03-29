@@ -1096,7 +1096,7 @@ Allons pour Tiribaze affecter tant de zèle.
 Mais aimant Nitocris, présumant tout pour elle,  
 S'il presse vostre Hymen, vous devez l'accorder.  
 
-    DARIUS.
+    DARIUS. 
 Il a trop de fierté pour me le demander ;  
 Pour sa Fille et pour luy, mes soins, ma complaisance,  
 Luy donnent plus d'orgueil, et plus de confiance.  
@@ -1130,7 +1130,7 @@ DARIUS, TIRIBAZE.
 Ce grand choix que le Roy fait si longtemps attendre,  
 Le va-t-il faire enfin pour le commun bonheur ?  
 
-    TIRIBAZE.
+    TIRIBAZE. 
 Il brûle de le faire, et malgré tant d'ardeur,  
 Il plaint Ariarathe, et son inquiétude  
 Entre deux Fils si chers fait son incertitude.  
@@ -1375,7 +1375,7 @@ Il fait tout pour la gloire, et j'en use [293] de mesme.
 Mais enfin Darius, de l'air dont je le voy,  
 Vous rendre quelques soins⁎…  
 
-    NITOCRIS.
+    NITOCRIS. 
         Hé qui peut mieux que moy  
 Au Trône qui l'attend avec luy prendre place ?  
 La faveur de mon Pere, et l'éclat de ma Race,  
@@ -1405,7 +1405,7 @@ Implorons son pouvoir, et servons Darius.
 Tu murmures⁎ en vain, orgueil⁎ fier et rebelle,  
 Il faut sans balancer te contraindre aupres d'elle.  
 Ne crains rien, de quelque air que nous puissions agir,  
-Tout ce qui fait régner, ne fait jamais rougir [294].  < Fin du Premier Acte. >
+Tout ce qui fait régner, ne fait jamais rougir [294].  < Fin du Premier Acte. > 
 
 
 # ACTE II
@@ -1509,7 +1509,7 @@ Me fait toûjours aimer ce que j'aime une fois.
 Quelle est cette fureurs⁎ ? Faut-il parce que j'aime,  
 Renoncer à la gloire, et m'oublier moy-mesme ?  
 
-    BARSINE.
+    BARSINE. 
 Quel est vostre dessein ? Artaxerce aujourd'huy      
 Choisit un de ses Fils pour régner apres luy.  
 S'il nomme Darius par une Loy supréme,  
@@ -1585,7 +1585,7 @@ Je devore en secret mes cruels⁎ déplaisirs ;
 Je plains Ariarathe, et mon cœur qui soûpire⁎,  
 Fait ce grand sacrifice au bonheur de l'Empire.  
 
-    ASPASIE.
+    ASPASIE. 
 Nous vous devons, Madame, apres ce digne éclat,  
 De grands remercîmens au nom de tout l'Etat.  
 S'il faut à cet effort laisser tout son mérite,  
@@ -1763,7 +1763,7 @@ Ne précipitez point un choix si dangereux.
 Les Destins ont parlé. Que ne puis-je vous dire  
 Les maux que je prévois pour vous et pour l'Empire !  
 Tiribaze qui vient, seconde vos desseins,  
-Et moy je vais pleurer les malheurs que je crains.  
+Et moy je vais pleurer les malheurs que je crains.   
 
 
 ## SCENE V.
@@ -1830,7 +1830,7 @@ Allons nommer enfin l'Héritier de mon rang.
 Que mon Conseil s'assemble, et quand toute la Terre  
 Voit finir par mes soins les troubles de la Guerre,  
 Qu'un Successeur nommé comble tous nos souhaits,  
-Et rende à ma Maison une profonde Paix.  < Fin du Second Acte. >
+Et rende à ma Maison une profonde Paix.  < Fin du Second Acte. > 
 
 
 # ACTE III.
@@ -1889,7 +1889,7 @@ Témoigne pour me voir si peu d'impatience…
     TIRIBAZE.
 Peut-il si-tost au Peuple arracher sa présence ?  
 Mais le voicy qui vient, avant que [324] voir le Roy,  
-T'offrir l'espoir du Trône, aussi-bien que sa foy.  
+T'offrir l'espoir du Trône, aussi-bien que sa foy.   
 
 
 ## SCENE II.
@@ -1950,7 +1950,7 @@ LE ROY, DARIUS, TIRIBAZE.
 
     TIRIBAZE *au Roy.* [333]
 Le Prince est satisfait, et vous allez apprendre  
-Quel est le fruit des soins que je viens de luy rendre.  
+Quel est le fruit des soins que je viens de luy rendre.   
 
 
 ## SCENE IV.
@@ -1989,7 +1989,7 @@ Sa Fille doit régner, le Sceptre est à ce prix.
     DARIUS.
 Mon Frere perdra-t-il le Trône, et Nitocris ?  
 
-    LE ROY.
+    LE ROY. 
 Reposez-vous sur moy du sort de vostre Frere,  
 J'ay le pouvoir d'un Roy, j'auray le soin d'un Pere.  
 
@@ -2090,7 +2090,7 @@ Mettons nos diférens au pouvoir d'Aspasie.
     DARIUS.
 Quels diférens, Seigneur ? Mon sort dépend de vous.  
 Regardez seulement sans haine, et sans courroux,  
-Un Amant⁎ malheureux, dont le choix légitime…  
+Un Amant⁎ malheureux, dont le choix légitime…   
 
 
 ## SCENE V.
@@ -2237,7 +2237,7 @@ Aussi de mes remords la juste⁎ violence
 Me tourmente sans cesse, et me rend à mes yeux  
 Horrible, et digne encor des noms plus [350] odieux [351].  
 
-    DARIUS.
+    DARIUS. 
 Mais le Roy vous laissant disposer de vous-mesme…  
 
     ASPASIE.
@@ -2277,7 +2277,7 @@ Mais si mes pleurs [353] pouvoient vous obtenir du Roy,
 Ne me défendez pas dans un sort si funeste,  
 Ce secours innocent, et le seul qui me reste… [354]  
 
-    ASPASIE.
+    ASPASIE. 
 Adieu, Seigneur [355].  
 
     DARIUS.
@@ -2290,7 +2290,7 @@ Adieu, Seigneur [355].
 Vous ne me dites rien.  
 
     ASPASIE.
-        Hé n'est-ce pas assez ?  < Fin du Troisiéme Acte. >
+        Hé n'est-ce pas assez ?  < Fin du Troisiéme Acte. > 
 
 
 # ACTE IV
@@ -2316,7 +2316,7 @@ Que va porter sur moy la honte de ma flâme⁎. [357]
 Le Peuple est discret, Seigneur, mais quelquefois  
 Le Ciel le [358] fait parler pour avertir les Roys.  
 
-    LE ROY.
+    LE ROY. 
 Mais je veux tout sçavoir.  
 
     MINDATE.
@@ -2382,7 +2382,7 @@ Seigneur, le Prince est là, qui demande à vous voir.
     LE ROY.
 Est-il seul ?  
 
-    MINDATE
+    MINDATE 
         Oüy, Seigneur, et plein de desespoir,  
 J'ay vû sur son visage une douleur mortelle.  
 
@@ -2418,7 +2418,7 @@ Mon Sceptre doit passer un jour dans vostre main ;
 Je ne veux qu'Aspasie. Un Prince qui soûpire⁎,  
 Vous demande-t-il trop pour le prix d'un Empire ?  
 
-    DARIUS.
+    DARIUS. 
 Connoissez [364] vostre Fils. Il n'est pas sans vertu⁎ ;  
 Ne me reprochez point d'avoir mal combatu.  
 J'ay mis devant mes yeux tout ce qu'aime et révere  
@@ -2454,7 +2454,7 @@ Au moins je puis mourir, et cela doit suffire.
     LE ROY.
 Ah ! mon Fils, n'avez-vous autre chose à me dire ?  
 
-    DARIUS.
+    DARIUS. 
 Non, Seigneur, un cœur foible, un cœur comme le mien,  
 Plein de trouble et d'effroy, n'est capable de rien.  
 Le vostre qui peut tout, se rend-il quand il aime ?  
@@ -2557,7 +2557,7 @@ Oüy, Seigneur, et ma mort n'est que trop légitime.
     LE ROY.
 Oüy sans-doute, et c'est trop faire grace à ton crime.  
 Songe enfin que je regne, et que ce lâche cœur  
-Se lasse de parler toûjours en ta faveur.  
+Se lasse de parler toûjours en ta faveur.   
 
 
 ## SCENE VI.
@@ -2596,7 +2596,7 @@ Brisons des fers⁎ honteux.
 Seigneur, ne mettez pas ma gloire au desespoir,  
 Aidez ce foible cœur à faire son devoir.  
 
-    DARIUS.
+    DARIUS. 
 A faire son devoir ? Est-ce un devoir, Princesse,  
 Est-ce un devoir pour vous de trahir ma tendresse,  
 Quand de tous mes devoirs, c'est le premier de tous,  
@@ -2623,7 +2623,7 @@ De grace, écoutez-moy.
 
     ASPASIE.
         Je n'écoute plus rien.  
-Faites vostre devoir, ou je feray le mien.  
+Faites vostre devoir, ou je feray le mien.   
 
 
 ## SCENE VII.
@@ -2662,7 +2662,7 @@ J'ignore son dessein.
     TIRIBAZE.
 J'exécute son ordre, et n'examine rien. [373]  
 
-    DARIUS.
+    DARIUS. 
 Cet ordre, quel qu'il soit, couvre quelque injustice,  
 Et vostre haine en est la cause, ou le complice.  
 Vos perfides conseils empoisonnent le Roy.  
@@ -2798,7 +2798,7 @@ Aideront seulement à le faire périr.
 Toy, cependant [379] soûtien⁎ l'espoir d'Ariarathe ;  
 Mais il est temps d'agir. Tout nous sert, tout nous flate,  
 Tout est icy pour nous, trouble, confusion⁎,  
-Vengeance, jalousie, amour, ambition.  < Fin du Quatriéme Acte. >
+Vengeance, jalousie, amour, ambition.  < Fin du Quatriéme Acte. > 
 
 
 # ACTE V
@@ -2821,7 +2821,7 @@ Sur le point d'enlever l'Objet⁎ qui l'a charmé⁎,
 Par un avis secret Artaxerce allarmé,  
 Vient d'armer contre luy toute sa jalousie.  
 Ce combat, où tous deux disputoient Aspasie,  
-Par des coups mutuels sans-doute ensanglanté…  
+Par des coups mutuels sans-doute ensanglanté…   
 
 
 ## SCENE II.
@@ -3004,7 +3004,7 @@ En frémir de respect, et son ardent couroux,
 Tremblant et desarmé, tomber à mes genoux ?  
 On va me l'amener.  
 
-    TIRIBAZE.
+    TIRIBAZE. 
         Hé bien, qu'avec ses larmes,  
 Il vienne de vos mains faire tomber les armes.  
 Souffrez⁎, pour m'épargner ce spéctacle odieux,  
@@ -3028,7 +3028,7 @@ Je sçauray contenter ma gloire, ta vengeance,
 La Nature, l'Amour, Darius, Nitocris.  
 
     TIRIBAZE *en s'en allant, tout bas.*
-Rien ne peut nous vanger que le sang de son Fils.  
+Rien ne peut nous vanger que le sang de son Fils.   
 
 
 ## SCENE IV.
@@ -3066,7 +3066,7 @@ Que la necessité de perdre un Fils que j'aime.
 Il faut pour vous sauver, épouser Nitocris,  
 Je n'ay que ce prétexte à conserver mon Fils.  
 
-    DARIUS
+    DARIUS 
 Que jusque-là, Seigneur, le sang des Roys s'abaisse.  
 Sauvez-vous par ma mort d'une indigne foiblesse.  
 La blessure d'un Frere, et par un de mes coups,  
@@ -3102,7 +3102,7 @@ La vie est-elle un bien à qui perd Aspasie ? [387]
 Et voila d'où te vient cette ardeur de périr.  
 Sans elle, on aime mieux mourir que m'obeïr.  
 Il faut donc contenter ta rage, et ma justice.  
-Qu'on l'oste de mes yeux, et que l'Ingrat périsse.  
+Qu'on l'oste de mes yeux, et que l'Ingrat périsse.   
 
 
 ## SCENE V.
@@ -3125,7 +3125,7 @@ A-t-il glacé d'horreur, Sujets, Maîtresse⁎, Amis ?
 Non, non, je voy déja sa fidelle Aspasie.  
 Mais l'Ingrate ne vient qu'aigrir ma jalousie,  
 Et voulant à mon Fils prêter tout son appuy,  
-Elle vient seulement m'irriter contre luy. [390]  
+Elle vient seulement m'irriter contre luy. [390]   
 
 
 ## SCENE VI.
@@ -3275,7 +3275,7 @@ Il blasphéme en mourant, et déteste [400] les Dieux.
     LE ROY.
 Est-ce à luy que j'avois confié ma puissance ?  
 
-    ORONTE.
+    ORONTE. 
 Darius qui mouroit, malgré nostre assistance,  
 Frapé de ce discours, tournant les yeux vers nous,  
 Vous cherche, croit vous voir, et s'adressant à vous ;  

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_epitre *date_1647 *creator_desfontaines
+**** *book_ *id_epitre *date_1647 *creator_desfontaines 
 
 EPISTRE. A HAUT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE BEAUVILLIER Chevalier Comte de S. Aignan, Baron des Baronnies de la Ferté, le Fau Chemery, la Salle lez Clery Luçay ; Vicomte de Valogne, Seigneur d'Olinuillé lez Aix, d'Anguillon Cery, Montigny, Humbligni, la Grange, Foullay, Draché Beauvais, & autres lieux : Conseiller d'Estat, et Mareschal des Camps & Armées du Roy, &c.
 
@@ -23,7 +23,7 @@ DESFONTAINES.
 
 **** *book_ *id_body-2 *date_1647 *creator_desfontaines
 
-Extraict du Privilege du Roy.
+Extraict du Privilege du Roy. 
 
 Par grace & Privilege du Roy, donné à Paris le 17. d'Avril 1647. il est permis à Pierre Lamy Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre & distribuer pendant le temps & espace de cinq ans un livre intitulé la veritable Semiramis Tragedie, composee par le sieur Desfontaines, avec deffences à tous Libraires & Imprimeurs, & autres personnes de quelque qualité & condition qu'ils soient, d'imprimer ni faire imprimer ledit livre, de n'en vendre ny distribuer autres exemplaires que ceux qui seront imprimez par ledit Lamy, ou de son consentement, à peine de confiscation desdits exemplaires, & de cinq cens livres d'amende, comme il est declaré plus amplement en l'original des lettres passées le jour & an que dessus, scellees du grandsceau, & signée.
 Par le Roy en son Conseil.
@@ -302,7 +302,7 @@ Ses soûpirs, son espoir, ses voeus & ses desseins.
 -*who_semiramis
 C'est ce que je veux faire ; allez, qu'on se retire.
 
-**** *book_ *id_body-402 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-402 *act_ *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Il suffit, je connais le charme qui l'attire ;
@@ -1209,7 +1209,7 @@ Qu'il faut suivre mes Loix, ou redouter ma haine ;
 Et quiconque ozera me choquer⁎, ou m'aigrir,
 Qu'il doit, avec Ninus, se resoudre à perir.
 
-**** *book_ *id_body-603 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-603 *act_ *date_1647 *creator_desfontaines 
 
 -*who_merzabane
 He bien, Seigneurs, enfin qu'elle est vostre pensée ?
@@ -1302,7 +1302,7 @@ Reposez-vous sur moy de ce coup d'importance ;
 Puis que vous consentez, il va perdre le jour,
 Victime infortunée, & d'Estat & d'Amour.
 
-**** *book_ *id_body-604 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-604 *act_ *date_1647 *creator_desfontaines 
 
 -*who_merzabane
 De ce pas, Oronclide, allez treuver la Reyne,
@@ -1567,7 +1567,7 @@ Arrestez, je le veux, & je vous le commande ;
 Je vay suivre Ninus; & c'est beaucoup pour moy,
 Qu'on répande mon sang, sur celuy de mon Roy.
 
-**** *book_ *id_body-702 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-702 *act_ *date_1647 *creator_desfontaines 
 
 -*who_oronclide
 O Fureurs ! ô desirs ! ô pouvoir d'une Reyne !
@@ -1579,7 +1579,7 @@ Retire mon honneur des bords du precipice ;
 Et malgré ma foiblesse en un pas si glissant,
 Fay moy vivre equitable, ou, mourir innocent.
 
-**** *book_ *id_body-703 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-703 *act_ *date_1647 *creator_desfontaines 
 
 -*who_melistrate
 Ah !
@@ -1735,7 +1735,7 @@ Il n'est pas temps encore de parestre à ses yeux ;
 Sortons ; & vous verrez par un trait⁎ sans exemple,
 D'un juste repentir, une preuve assez grande.
 
-**** *book_ *id_body-704 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-704 *act_ *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Ouy, sans vous je n'avois l'Empire qu'à demy,
@@ -1776,7 +1776,7 @@ C'est assez, nous pourrons, ainsi que je l'espere,
 Recompenser au Fils, les services du Pere,
 Le voicy de retour.
 
-**** *book_ *id_body-705 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-705 *act_ *date_1647 *creator_desfontaines 
 
 -*who_semiramis
       He bien, qu'avez-vous fait ?
@@ -1822,7 +1822,7 @@ Que Melistrate est foible, & moy toute puissante ;
 Que tout me doit ceder, que mes vœux sont des Loix,
 Qu'il n'est rien qu'un sujet, & moy Reyne des Roys.
 
--*who_oronclide
+-*who_oronclide 
 Ne diferez⁎ donc point, que vostre haine éclate,
 En Oronclide icy vous trouvez Melistrate,
 Son ame vit en moy, mon ame vit en luy,
@@ -1892,7 +1892,7 @@ Qu'il est audacieux ! Qu'on l'emmeine.
 -*who_merzabane
       Ah, je tremble !
 
-**** *book_ *id_body-706 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-706 *act_ *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Il confond aujourd'huy nos interests ensemble ;
@@ -1951,7 +1951,7 @@ Il faut par mon retour dégager sa parole ;
 Et bravant mes malheurs, comme nos ennemis,
 Le tirer noblement des fers⁎ où je l'ay mis.
 
--*who_palmedon
+-*who_palmedon 
 Dites que vous allez par des ardeurs si vaines⁎,
 Vous perdre imprudemment & resserrer ses chaisnes :
 Dites que par ce prompt & mal-heureux retour,
@@ -1978,7 +1978,7 @@ D'un bras qu'arma le sort, & que la vertu guide,
 A blessé Merzabane, & ce grand coup est tel,
 Que d'un commun accord, on le juge mortel.
 
--*who_melistrate
+-*who_melistrate 
 Mais il est dans les fers⁎, & je ne puis comprendre
 Comment ce coup s'est fait.
 
@@ -2081,7 +2081,7 @@ Sans que hors de saison vostre abord le redouble.
 Hé bien, d'un peu de temps diferons⁎ cet effort ;
 Mais ce jour doit conclure ou ma vie ou ma mort.
 
-**** *book_ *id_body-802 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_body-802 *act_ *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Que demande un perfide, & qu'est-ce qu'il espere ?
@@ -2127,7 +2127,7 @@ Helas ! il n'est pas mien !
 -*who_semiramis
       Comment ? il n'est pas vostre !
 
--*who_merzabane
+-*who_merzabane 
 Non.
 
 -*who_semiramis
@@ -2253,7 +2253,7 @@ Qui veut mourir pour elle, & sauver Oronclide,
 Qui bien plus genereux⁎, que vous ne l'esperiez,
 S'est jetté dans les fers⁎ que vous me prepariez.
 
--*who_semiramis
+-*who_semiramis 
 C'est en vain qu'apresent ce zele vous emporte,
 En vain vostre courage éclate de la sorte,
 En vain à mon courroux vous venez vous offrir,

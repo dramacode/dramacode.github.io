@@ -424,7 +424,7 @@ Signé, DUBRAY, Scyndic.
  – ATIS,Officiers d'Agrippa.
  – Gardes.
 La scène est au Palais des Roys d'Albe, dans l'Appartement de Lavinie.
-
+ 
 
 
 ## Acte I
@@ -666,8 +666,8 @@ Voicy de mon amant le Pere infortuné,
 Quelque soucy le presse [71], il paroit estonné [72].  
 
 
-### Scène III.
-Tirrhene, Lavinie, Mezence, Fauste, Camille.
+### Scène III. 
+Tirrhene, Lavinie, Mezence,Fauste, Camille.
 
 
     TIRRHENE *à Mezence*
@@ -714,7 +714,7 @@ Gardez qu'il ne vous voye, il vient, retirez-vous.
 
 
 ### Scène V.
-Agrippa, sous le nom de Tiberinus Mezence, Lauzus, Atis, Tirrhene
+Agrippa, sous le nom de TiberinusMezence, Lauzus, Atis, Tirrhene
 
 
     AGRIPPA*à Mezence*
@@ -960,7 +960,7 @@ De ce que je vous doy faire si peu de conte !
 Un mepris qui vous sert ne me peut faire honte :  
 Je vous deffends moy-mesme icy de m'espargner ;  
 Ma veritable gloire [89] est de vous voir regner.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## Acte II
@@ -1161,7 +1161,7 @@ Je vous respons [97], Seigneur, de vous bien obeïr [98].
 Ouy, Julie, en effet je vais me satisfaire,  
 Et servir à la fois mon depit, & mon pere,  
 Si la Princesse en croit mon violent transport…  
-Mais on ouvre chez elle, & je la voy qui sort.  
+Mais on ouvre chez elle, & je la voy qui sort.   
 
 
 ### Scene III.
@@ -1282,7 +1282,7 @@ Et toutefois…
 Il vient.  
 
     ALBINE
-        Si je le voy, c'est pour mieux m'irriter.  
+        Si je le voy, c'est pour mieux m'irriter.   
 
 
 ### Scene IV.
@@ -1424,7 +1424,7 @@ On s'arrache à l'amour quand ce qu'on aime outrage ;
 Mais tant qu'on se peut voir, l'amour a des retours  
 Où tout cœur court hazard de retomber toûjours.  
 Je veux en m'éloignant vous sauver cette peine,  
-Et mettre en seureté l'honneur de vôtre haine.  
+Et mettre en seureté l'honneur de vôtre haine.   
 
 
 ### Scene V
@@ -1450,7 +1450,7 @@ Allons prester nos soins pour hâter son suplice,
 Mon frere & mon dépit veulent ce sacrifice ;  
 Et le sang, & l'amour, à la fois outragez,  
 Sont trop forts, estants joints, pour n'étre pas vangez.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## Acte III
@@ -1931,7 +1931,7 @@ J'attens tout de vos soins, c'est en eux que j'espere [138].
 Ah, Seigneur ! pour un fils que ne fait point un pere !  
 Pour peu que par le Ciel mes soins soient secondez,  
 Ils pourront faire encore plus que vous n'attendez.  
-Fin du troisième Acte.
+Fin du troisième Acte. 
 
 
 ## Acte IV.
@@ -2526,7 +2526,7 @@ Va, barbare.
 
     TIRRHENE
 Que peut-on craindre, helas ! quand on a tout perdu !  
-Fin du quatrième Acte.
+Fin du quatrième Acte. 
 
 
 ## Acte V.
@@ -2609,7 +2609,7 @@ Si ce n'est que le Roy par un doux entretien…
     LAVINIE
 Qu'on pense tout, pourveu qu'on n'execute rien.  
 Dieux ! si le coup fatal qu'a tant pressé ma haine  
-Tomboit…mais qu'on me laisse entretenir Tirrhene.  
+Tomboit…mais qu'on me laisse entretenir Tirrhene.   
 
 
 ### Scene II.
@@ -2873,11 +2873,11 @@ D'avoir trop bien servy mes vœux qui m'ont trahie.
     TIRRHENE
 Rien ne me couste à perdre, après ce que je pers,  
 Avec mon Fils & nous, perisse l'Univers ;  
-Que ma Fille elle-mesme évite ma colere.  
+Que ma Fille elle-mesme évite ma colere.   
 
 
 ### Scene IV.
-Albine, Tirrhene, Lavinie, Camille, Julie.
+Albine, Tirrhene, Lavinie,Camille, Julie.
 
 
     TIRRHENE
@@ -2904,7 +2904,7 @@ Il vient.
 
 
 ### Scene V.
-Agrippa, Tirrhene, Lavinie, Albine, Camille, Julie, Suite.
+Agrippa, Tirrhene, Lavinie,Albine, Camille, Julie, Suite.
 
 
     AGRIPPA

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1666
+**** *book_ *id_I01 *act_I *date_1682
 
 
 
@@ -66,7 +66,7 @@ Daigne au moins par pitié lui dire un mot ou deux.
 Obligeante Daphné, parle à cette inhumaine.
 Et sache d'où pour moi procède tant de haine.
 
-**** *book_ *id_I02 *act_I *date_1666
+**** *book_ *id_I02 *act_I *date_1682
 
 
 
@@ -222,7 +222,7 @@ Décide par son choix ce combat de nos vœux.
 Soit, je vois Lycarsis avec Mopse et Nicandre,
 Ils pourront le quitter, cachons-nous pour attendre.
 
-**** *book_ *id_I03 *act_I *date_1666
+**** *book_ *id_I03 *act_I *date_1682
 
 
 
@@ -331,7 +331,7 @@ Allez vous promener.
 -*who_mopse
 Va-t'en te faire pendre.
 
-**** *book_ *id_I04 *act_I *date_1666
+**** *book_ *id_I04 *act_I *date_1682
 
 
 
@@ -505,7 +505,7 @@ Mais le voici ; souffrez qu'un peu je le dispose,
 Il tient quelque moineau qu'il a pris fraîchement.
 Et voilà ses amours et son attachement.
 
-**** *book_ *id_I05 *act_I *date_1666
+**** *book_ *id_I05 *act_I *date_1682
 
 
 
@@ -687,7 +687,7 @@ Il fuit, mais on verra qui de nous est le maître.
 Ne vous effrayez point de tous ces vains transports,
 Vous l'aurez pour époux, j'en réponds corps pour corps.
 
-**** *book_ *id_II01 *act_ *date_1666
+**** *book_ *id_II01 *act_ *date_1682
 
 
 
@@ -760,7 +760,7 @@ D'un cœur, hélas rempli de tendres sentiments.
 Va-t'en, laisse-moi seule en cette solitude
 Passer quelques moments de mon inquiétude.
 
-**** *book_ *id_II02 *act_ *date_1666
+**** *book_ *id_II02 *act_ *date_1682
 
 -*who_melicerte
 Vous le voyez, mon cœur, ce que c'est que d'aimer,
@@ -788,7 +788,7 @@ Ah, mon cœur ! ah, mon cœur ! je vous l'avais bien dit :
 Mais tenons, s'il se peut, notre douleur couverte.
 Voici...
 
-**** *book_ *id_II03 *act_ *date_1666
+**** *book_ *id_II03 *act_ *date_1682
 
 
 
@@ -909,7 +909,7 @@ Ah ! Myrtil, levez-vous, de peur qu'on ne vous voie.
 -*who_myrtil
 Est-il rien.… Mais, ô Ciel, on vient troubler ma joie.
 
-**** *book_ *id_II04 *act_ *date_1666
+**** *book_ *id_II04 *act_ *date_1682
 
 
 
@@ -962,7 +962,7 @@ Je vous promets ici d'éviter sa présence ;
 De faire place au choix où vous vous résoudrez,
 Et ne souffrir ses vœux que quand vous le voudrez.
 
-**** *book_ *id_II05 *act_ *date_1666
+**** *book_ *id_II05 *act_ *date_1682
 
 
 
@@ -1070,7 +1070,7 @@ Je n'accepterais pas une Couronne offerte,
 Pour le plaisir que j'ai de courir lui porter,
 Ce merveilleux succès qui la doit contenter.
 
-**** *book_ *id_II06 *act_ *date_1666
+**** *book_ *id_II06 *act_ *date_1682
 
 
 
@@ -1122,7 +1122,7 @@ Et qu'à notre poursuite elle ôte un grand obstacle.
 Elle peut renvoyer ces Nymphes à nos vœux,
 Et nous donner moyen d'être contents tous deux.
 
-**** *book_ *id_II07 *act_ *date_1666
+**** *book_ *id_II07 *act_ *date_1682
 
 
 

@@ -1156,6 +1156,9 @@ BNF, site François Mitterrand : YF-7417
 Bibliothèque municipale de Besançon : 282429
 
 Modène, Université : E 049 A 004 003
+
+
+# Boursault, *Trois petites comédies*
 Le Jaloux endormy
 
 Comédie
@@ -1168,7 +1171,7 @@ A PARIS Chez ESTIENNE LOYSON, au Palais à l'entrée de la Gallerie des Prisonni
 Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2014-2015)
 
 
-# A MONSEIGNEUR LE COMTE DE SAUX [96].
+## A MONSEIGNEUR LE COMTE DE SAUX [96]. 
 
 MONSEIGNEUR,
 
@@ -1185,7 +1188,7 @@ et tres-passionné Serviteur [99],
 BOURSAULT.
 
 
-# Extraict du Privilege du Roy.
+## Extraict du Privilege du Roy. 
 
 Par grace et Privilege du Roy donne à Paris le unziesme jour de May 1662. Signé par le Roy en son Conseil, DUMOLEY ; Il est permis à Jean Guignard fils, Marchand Libraire à Paris, d'imprimer ou faire imprimer une Piece de Theatre, intitulée *Le Jaloux Endormi, par le Sieur Boursault* et ce durant le temps de cinq années à compter du jour qu'elle sera achevée d'imprimer pour la premiere fois. Et deffenses sont faites à tous Imprimeurs, Libraires, et autres, de l'imprimer, ou faire imprimer, vendre, debiter ny contrefaire ledit Livre sans le consentement dudit Jean Guignard fils, à peine aux contrevenants de trois mil livres d'amende, confiscation des exemplaires, et de tout despens, dommages et interests, ainsi qu'il est plus amplement porté parle dit Privilege.
 
@@ -1198,7 +1201,7 @@ le treize Juin 1662.
 Les exemplaires ont esté fournis.
 
 
-# PERSONNAGES
+## PERSONNAGES 
  – SPADARILLE,Gouverneur⁎ de Toulon, mari d'Olimpie, qui en est si jaloux qu'il l'enferme à six cadenats.
  – CLEANDRE,Amoureux⁎ d'Olimpie, à qui Alcidor l'osta pour la donner en mariage à Sparadille.
  – OLIMPIE,femme de Spadarille, et fille d'Alcidor, autrefois promise à Cléandre.
@@ -1208,7 +1211,7 @@ La scène est à Toulon.
 
 
 
-# SCENE PREMIERE
+## SCENE PREMIERE
 SPADARILLE, OLIMPIE
 
 
@@ -1371,7 +1374,7 @@ Rentrez donc.
 Diable ! que j'ay bien fait de la cadenasser.  
 
 
-# SCENE II
+## SCENE II
 CLEANDRE, SPADARILLE, CASCARET
 
 
@@ -1434,7 +1437,7 @@ Si je ne trouve rien, je ne reviendray pas.
 Bon jour [126].  
 
 
-# SCENE III
+## SCENE III
 CLEANDRE, CASCARET
 
 
@@ -1492,7 +1495,7 @@ Sous l'habit d'une fille un garçon déguisé.
 Si bien…mais il écoute, évitons ses reproches…  
 
 
-# SCENE IV
+## SCENE IV
 SPADARILLE, CLEANDRE, CASCARET
 
 
@@ -1603,7 +1606,7 @@ Puis qu'il vous plaist, Monsieur, d'admirer ma Maistresse⁎,
 J'obéïs.  
 
 
-# SCENE V
+## SCENE V
 
     SPADARILLE *seul, ouvrant la porte de la chambre d'Olimpie*
         Je vous tiens, ô la double Traistresse,  
@@ -1616,7 +1619,7 @@ Les aiz [143] de vostre porte en seront resserrez.
 Voyons un peu sa mine.  
 
 
-# SCENE VI
+## SCENE VI
 SPADARILLE, OLIMPIE
 
 
@@ -1767,7 +1770,7 @@ Amour…
         Entrez, entrez, et ne raisonnez pas.  
 
 
-# SCENE VII
+## SCENE VII
 ALCIDOR, SPADARILLE
 
 
@@ -1881,7 +1884,7 @@ La seroit-ce ?
 Ma foy, si ce ne l'est, elle en a bien la mine.  
 
 
-# SCENE VIII
+## SCENE VIII
 SPADARILLE, CLEANDRE, OLIMPIE, sous le nom d'Aspasie, ALCIDOR, CASCARET
 
 
@@ -2006,7 +2009,7 @@ Bon cela [171].
 Cascaret, d'Aspasie accompagne les pas.  
 
 
-# SCENE IX
+## SCENE IX
 SPADARILLE, CLEANDRE, ALCIDOR
 
 
@@ -2044,7 +2047,7 @@ Et pour l'amour de vous je m'en vais de ce pas
 Réveiller les ressorts [173] de mes six Cadenats.  
 
 
-# SCENE X
+## SCENE X
 ALCIDOR, CLEANDRE, et Spadarille au bout du Theatre [174] qui ouvre ses Cadenats
 
 
@@ -2067,7 +2070,7 @@ La vertu mal-heureuse ait le droict d'exiger.
 Ainsi…  
 
 
-# SCENE XI
+## SCENE XI
 SPADARILLE, OLIMPIE, CLEANDRE, ALCIDOR
 
 
@@ -2263,7 +2266,7 @@ Adieu.
         Pauvre Galand te voilà bien chanceux !  
 
 
-# SCENE XII
+## SCENE XII
 SPADARILLE, CLEANDRE, ALCIDOR
 
 
@@ -2282,7 +2285,7 @@ Quand des preuves de haine ont des marques d'amour.
 Mais je vois Aspasie.  
 
 
-# SCENE XIII
+## SCENE XIII
 OLIMPIE sous le nom d'Aspasie, SPADARILLE, CLEANDRE,
 
 ALCIDOR, CASCARET
@@ -2373,7 +2376,7 @@ Ils s'en vont.
 
 
 
-# SCENE XIV
+## SCENE XIV
 SPADARILLE, ALCIDOR
 
 
@@ -2524,7 +2527,7 @@ Adieu.
 Au voleur, au voleur.  
 
 
-# SCENE XV, ET DERNIERE
+## SCENE XV, ET DERNIERE
 
     SPADARILLE *à sa fenestre*
         Le traistre est échapé,  
@@ -2540,7 +2543,7 @@ Songez que qui s'en passe est bien-aymé de Dieu.
 FIN
 
 
-# Lexique du Jaloux endormiAmant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 50, v. 114, v. 173, v. 188, v. 292Amoureux « Qui a de la passion pour quelque chose, ou quelque personne. » (Furetière).Acteurs, v. 113Attraper « Se dit aussi de toutes les choses où on est trompé innocemment. » (Furetière).V. 471Prendre au piège.V. 546Finesse « Ruse, astuce. » (Dictionnaire de l'Académie française, 1694).V. 307, v. 549Gouverneur« Officier du Roy qui commande dans une Province, dans une place. … Un *Gouverneur* represente le Roy dans une place, et commande non seulement à la garnison, mais aussi aux bourgeois, et à toutes les trouppes qui entrent dans sa place. » (Furetière).Acteurs, v. 159, v. 263Heur Bonne fortune.V. 275, v. 416Quand « Encore que » (Furetière).DédicaceMaistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).V. 207, v. 308Mignon « Favory, soit en matiere d'amitié, soit d'amour. La plupart des Princes ont des *mignons*, des favoris qui les gouvernent. Beaucoup des Dames ont des *mignons*, de couchette. » (Furetière).V. 84, v. 169Murmurer « Se plaindre tout bas et avec timidité » (Furetière).V. 25, v. 57Obliger « Faire plaisir, rendre de bons offices à quelqu'un. » (Dictionnaire de l'Académie française, 1694).V. 204, v. 340, v. 452Patente Les patentes ou lettres patentes « sont des Lettres du Roy scellées du grand sceau, qui servent de titre pour la concession de quelque octroy, grace, privilege, de quelque établissement. Elles doivent estre signées en commandement d'un Secretaire d'Estat, et verifiées dans les Parlements. Ce que sont les Edits pour le public, les *Patentes* le sont à l'égard des particuliers. » (Furetière).Ce mot est une allusion au métier de Gouverneur de Spadarille.V. 179, v. 199, v. 339, v. 480Prime « Signifie aux cartes une espece de jeu qui a eu grande vogue. Joüez à *prime* à grande *prime*, à petite *prime*. » (Furetière).V. 92, v. 94Sans doute Assurément.V. 79, v. 286, v. 394Souffrir Permettre.V. 29, v. 44, v. 271, v. 389
+## Lexique du Jaloux endormiAmant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 50, v. 114, v. 173, v. 188, v. 292Amoureux « Qui a de la passion pour quelque chose, ou quelque personne. » (Furetière).Acteurs, v. 113Attraper « Se dit aussi de toutes les choses où on est trompé innocemment. » (Furetière).V. 471Prendre au piège.V. 546Finesse « Ruse, astuce. » (Dictionnaire de l'Académie française, 1694).V. 307, v. 549Gouverneur« Officier du Roy qui commande dans une Province, dans une place. … Un *Gouverneur* represente le Roy dans une place, et commande non seulement à la garnison, mais aussi aux bourgeois, et à toutes les trouppes qui entrent dans sa place. » (Furetière).Acteurs, v. 159, v. 263Heur Bonne fortune.V. 275, v. 416Quand « Encore que » (Furetière).DédicaceMaistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).V. 207, v. 308Mignon « Favory, soit en matiere d'amitié, soit d'amour. La plupart des Princes ont des *mignons*, des favoris qui les gouvernent. Beaucoup des Dames ont des *mignons*, de couchette. » (Furetière).V. 84, v. 169Murmurer « Se plaindre tout bas et avec timidité » (Furetière).V. 25, v. 57Obliger « Faire plaisir, rendre de bons offices à quelqu'un. » (Dictionnaire de l'Académie française, 1694).V. 204, v. 340, v. 452Patente Les patentes ou lettres patentes « sont des Lettres du Roy scellées du grand sceau, qui servent de titre pour la concession de quelque octroy, grace, privilege, de quelque établissement. Elles doivent estre signées en commandement d'un Secretaire d'Estat, et verifiées dans les Parlements. Ce que sont les Edits pour le public, les *Patentes* le sont à l'égard des particuliers. » (Furetière).Ce mot est une allusion au métier de Gouverneur de Spadarille.V. 179, v. 199, v. 339, v. 480Prime « Signifie aux cartes une espece de jeu qui a eu grande vogue. Joüez à *prime* à grande *prime*, à petite *prime*. » (Furetière).V. 92, v. 94Sans doute Assurément.V. 79, v. 286, v. 394Souffrir Permettre.V. 29, v. 44, v. 271, v. 389
 LE MORT VIVANT
 
 COMÉDIE
@@ -2555,7 +2558,7 @@ A PARIS, Chez N. PEPINGUE', en la grande Salle du Palais, vis à vis les Consult
 Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2014-2015)
 
 
-# A MONSEIGNEUR LE DUC DE GUISE [210]
+## A MONSEIGNEUR LE DUC DE GUISE [210] 
 
 MONSEIGNEUR,
 
@@ -2572,7 +2575,7 @@ Et tres-passionné Serviteur [211],
 BOURSAULT
 
 
-# PERSONNAGES
+## PERSONNAGES 
  – FERDINAND,creu Pere de Stephanie [212]
  – STEPHANIE,Fille d'Henriquez
  – LAZARILLE,Frere de Stephanie, et Amoureux d'elle
@@ -2585,10 +2588,10 @@ La Scene est à Seville
 
 
 
-# ACTE PREMIER
+## ACTE PREMIER
 
 
-## SCENE PREMIERE
+### SCENE PREMIERE
 FABRICE, GUSMAN
 
 
@@ -2651,7 +2654,7 @@ Mais de l'objet aymé⁎ le Pere icy se monstre.
 De ce fascheux Vieillard évitons la rencontre.  
 
 
-## SCENE II
+### SCENE II
 FERDINAND, STEPHANIE
 
 
@@ -2763,7 +2766,7 @@ Il s'avance.
         Oh mal-heur ! Que ne suis-je sa fille.  
 
 
-## SCENE III
+### SCENE III
 LAZARILLE, FERDINAND
 
 
@@ -2914,7 +2917,7 @@ Qu'elle borne sa gloire au bon-heur de m'avoir.
 Adieu [237].  
 
 
-## SCENE IV
+### SCENE IV
 
     LAZARILLE *seul*
         Peut-on souffrir⁎ une douleur plus dure !  
@@ -2924,7 +2927,7 @@ Embrasser les genoux, de qui doit l'adorer !
 L'ingratte ! Elle paroist.  
 
 
-## SCENE V
+### SCENE V
 STEPHANIE, LAZARILLE
 
 Fabrice et Gusman sont au même jardin
@@ -3053,7 +3056,7 @@ Lazarille sort
 
 
 
-## SCENE VI
+### SCENE VI
 FABRICE, STEPHANIE, GUSMAN
 
 
@@ -3101,7 +3104,7 @@ J'en ay fait la promesse, et je la veux tenir.
 Adieu, ce sentiment est selon qu'il doit estre [244].  
 
 
-## SCENE VII
+### SCENE VII
 FABRICE, GUSMAN
 
 
@@ -3315,10 +3318,10 @@ Entrons, et sur chacun consultons [256] à loisir.
 Fin du premier Acte.
 
 
-# ACTE SECOND
+## ACTE SECOND
 
 
-## SCENE PREMIERE
+### SCENE PREMIERE
 LAZARILLE, FABRICE
 
 
@@ -3445,7 +3448,7 @@ Et si je ne m'abuse il vient lui-mesme exprès,
 Pour parler de ses feux.  
 
 
-## SCENE II
+### SCENE II
 GUSMAN, FABRICE, LAZARILLE, SUITE
 
 
@@ -3604,7 +3607,7 @@ Disposez-vous [277] …
         Quelle est ma peine ?  
 
 
-## SCENE III
+### SCENE III
 FERDINAND, GUSMAN, LAZARILLE, STEPHANIE, FABRICE, SUITE.
 
 
@@ -3837,7 +3840,7 @@ Sors te dis-je : Et pour toy. Belzebut te confonde⁎.
 Bon jour [293].  
 
 
-## SCENE IV
+### SCENE IV
 LAZARILLE, FABRICE
 
 
@@ -3869,7 +3872,7 @@ Ton oreille charmée, et tes sens interdits,
 Deviendront les garants de ce que je te dis.  
 
 
-## SCENE V
+### SCENE V
 GUSMAN, LAZARILLE, FABRICE
 
 
@@ -3938,7 +3941,7 @@ Sinon sa mort est seure, et je te le promets.
 Adieu.  
 
 
-## SCENE VI
+### SCENE VI
 FABRICE, GUSMAN
 
 
@@ -4052,10 +4055,10 @@ Et caressons ensemble et les pots et les plats.
 Fin du second Acte.
 
 
-# ACTE TROISIEME
+## ACTE TROISIEME
 
 
-## SCENE PREMIERE
+### SCENE PREMIERE
 HENRIQUEZ, LA SERVANTE.
 
 
@@ -4109,7 +4112,7 @@ Ce qu'il faut faire.
     J'obeïs.  
 
 
-## SCENE II
+### SCENE II
 
     HENRIQUEZ *seul*
         La courriere [310]  
@@ -4122,7 +4125,7 @@ A ne pas le troubler appliquons nostre effort,
 Et ceddons au pouvoir du frere de la mort [311].  
 
 
-## SCENE III
+### SCENE III
 LAZARILLE, HENRIQUEZ endormis,
 
 
@@ -4402,7 +4405,7 @@ S'il faut faire l'Esprit, faisons le par raison,
 Et tâchons d'éviter les coups qu'on nous prepare.  
 
 
-## SCENE IV
+### SCENE IV
 L'HOTE, LAZARILLE, HENRIQUEZ, GUSMAN
 
 
@@ -4428,7 +4431,7 @@ Une peur effroyable a coulé dans mon ame.
 Je vois d'autre chandelle.  
 
 
-## SCENE V
+### SCENE V
 DES GARCONS, L'HÔTE, HENRIQUEZ, LAZARILLE, GUSMAN.
 
 
@@ -4507,7 +4510,7 @@ Qui des deux soit mon pere, excusez mes efforts.
 A mon secours, mon Maistre, on me veut mener pendre.  
 
 
-## SCENE VI
+### SCENE VI
 FABRICE, GUSMAN, LAZARILLE, HENRIQUEZ, L'HÔTE, SES GARCONS.
 
 
@@ -4558,7 +4561,7 @@ Qu'est-cecy !
     Juste Ciel !  
 
 
-## SCENE VII ET DERNIERE
+### SCENE VII ET DERNIERE
 FERDINAND, STEPHANIE, LAZARILLE, HENRIQUEZ, GUSMAN, FABRICE.
 
 
@@ -4647,7 +4650,7 @@ Te fait le Vivant Mort, et moy le MORT VIVANT.
 FIN
 
 
-# Extraict du Privilege du Roy
+## Extraict du Privilege du Roy 
 
 Par grace et Privilege du Roy, donné à Paris le II May 1662 signé par le Roy en son Conseil, DUMOLEY ; il est permis à JEAN GUIGNARD fils, Marchand Libraire à Paris, d'imprimer ou faire imprimer une Piece de Theatre, intitulée, *Le Mort Vivant, par le Sieur Boursault*, et ce durant le temps de cinq années, à compter du jour qu'il sera achevé d'imprimer pour la premiere fois. Et deffences sont faites à tous Imprimeurs, Libraires et autres, de l'imprimer, ou faire imprimer, vendre, debiter ny contrefaire ledit Livre sans le consentement du dit Exposant, à peine aux contrevenans de trois mil livres d'amende, confiscation des exemplaires, et de tous despens, dommages et interests, ainsi qu'il est plus amplement porté par ledit Privilege.
 
@@ -4660,7 +4663,7 @@ Les exemplaires ont esté fournis.
 Registré sur le Livre de la Communauté des Imprimeurs et Marchands Libraires de cette ville Paris.
 
 
-# Lexique du Mort vivantAmant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 66, v. 67, v. 198, v. 230, v. 234, v. 290, v. 376, v. 924Animer« Se dit figurément Pour marquer la force que l'on donne à un discours par la maniere de le prononcer » (Dictionnaire de l'Académie française, 1694).V. 211, v. 628, v. 785Encourager.V. 455AvisConseil.V. 217« Il se dit aussi des nouvelles qu'on mande, & de celles qu'on reçoit. » (Dictionnaire de l'Académie française, 1762).V. 358Aymer « Avoir de l'affection pour quelque chose … il est naturel d'*aimer* sa femme et ses enfants, ses amis. » (Furetière).V. 27, v. 42, v. 44, v. 68, v. 71, v. 97, v. 107, v. 195, v. 199, v. 203, v. 215, v. 223, v. 237, v. 241, v. 246, v. 272, v. 279, v. 298, v. 396, v. 402, v. 410, v. 503, v. 522, v. 524, v. 528, v. 529, v. 538, v. 553, v. 557, v. 598, v. v. 627, v. 905, v. 907Confondre « Troubler, Mettre en desordre, Couvrir de honte » (Dictionnaire de l'Académie française, 1694).V. 568, v. 582, v. 873Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. » (Furetière)V. 781, v. 815Hola « Est quelquefois interjection qui sert pour appeller des gens de basse condition, des laquais. » (Furetière).V. 502, v. 852, v. 855Obliger Rendre service, faire une faveur.V. 304, v. 323, 537, 642Contraindre.V. 350Potentat « Qui a une puissance souveraine et fort étenduë. Le Roy est le plus redouté de tous les Potentats de l'Europe » (Furetière).V. 400, v. 586Soûpir « Respiration plus forte & plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse, etc. » (Dictionnaire de l'Académie française, 1694).V. 462, v. 509, v. 671Souffrir Permettre.Dédicace, v. 79, v. 94, v. 574, v. 611Endurer.V. 183, v. 282 Admettre, recevoir.V. 14, v. 270 
+## Lexique du Mort vivantAmant« Celuy qui aime d'une passion violente et amoureuse. » (Furetière).V. 66, v. 67, v. 198, v. 230, v. 234, v. 290, v. 376, v. 924Animer« Se dit figurément Pour marquer la force que l'on donne à un discours par la maniere de le prononcer » (Dictionnaire de l'Académie française, 1694).V. 211, v. 628, v. 785Encourager.V. 455AvisConseil.V. 217« Il se dit aussi des nouvelles qu'on mande, & de celles qu'on reçoit. » (Dictionnaire de l'Académie française, 1762).V. 358Aymer « Avoir de l'affection pour quelque chose … il est naturel d'*aimer* sa femme et ses enfants, ses amis. » (Furetière).V. 27, v. 42, v. 44, v. 68, v. 71, v. 97, v. 107, v. 195, v. 199, v. 203, v. 215, v. 223, v. 237, v. 241, v. 246, v. 272, v. 279, v. 298, v. 396, v. 402, v. 410, v. 503, v. 522, v. 524, v. 528, v. 529, v. 538, v. 553, v. 557, v. 598, v. v. 627, v. 905, v. 907Confondre « Troubler, Mettre en desordre, Couvrir de honte » (Dictionnaire de l'Académie française, 1694).V. 568, v. 582, v. 873Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou trop long. » (Furetière)V. 781, v. 815Hola « Est quelquefois interjection qui sert pour appeller des gens de basse condition, des laquais. » (Furetière).V. 502, v. 852, v. 855Obliger Rendre service, faire une faveur.V. 304, v. 323, 537, 642Contraindre.V. 350Potentat « Qui a une puissance souveraine et fort étenduë. Le Roy est le plus redouté de tous les Potentats de l'Europe » (Furetière).V. 400, v. 586Soûpir « Respiration plus forte & plus longue qu'à l'ordinaire, causée souvent par quelque passion, comme l'amour, la tristesse, etc. » (Dictionnaire de l'Académie française, 1694).V. 462, v. 509, v. 671Souffrir Permettre.Dédicace, v. 79, v. 94, v. 574, v. 611Endurer.V. 183, v. 282 Admettre, recevoir.V. 14, v. 270 
 LE MEDECIN VOLANT,
 
 COMÉDIE
@@ -4671,7 +4674,7 @@ A PARIS, Chez N. PEPINGUÉ, à l'entrée de la ruë de la Huchette. Et en sa bou
 Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2014-2015)
 
 
-# A MONSIEUR C⁎⁎⁎⁎⁎⁎⁎ [325] Medecin de mon Païs.
+## A MONSIEUR C⁎⁎⁎⁎⁎⁎⁎ [325] Medecin de mon Païs. 
 
 MONSIEUR,
 
@@ -4679,19 +4682,17 @@ Soit par coustume, ou soit par generosité [326], je n'ay jusqu'icy dédié aucu
 
 MONSIEUR,
 
-Vostre tres-humble, et
-
-affectionné Serviteur,
+Vostre tres-humble, et affectionné Serviteur,
 
 BOURSAULT.
 
 
-# ADVIS AU LECTEUR
+## ADVIS AU LECTEUR 
 
 LE MEDECIN VOLANT que j'expose à ton jugement, mon cher LECTEUR, est l'une des plus aimables Pieces qui soit au Theatre, et j'en puis parler de la sorte sans choquer la bien-seance, puisque ce n'est pas moy qui en suis l'Auteur. Le sujet est Italien ; il a esté traduit en nostre langue ; representé de tous costez ; et je crois qu'il est plus beau de ma façon que d'aucune autre, à cause qu'outre la Traduction qui en est fidele, il a encore la grace de la Poësie. Il est vray qu'on le represente au Marais ; mais quoy qu'il soit en vers, on peut dire que la Poësie ne luy a point donné de grace : Veritablement les nouveaux Acteurs qui sont entrez dans cette Trouppe, l'ont apporté de Flandres [330], et c'est pour cela que le langage de cette Piece est si corrompu. Je te fais juge de ce Medecin Volant-cy, et c'est tout ce que j'ay à te dire.
 
 
-# Extraict du Privilege du Roy
+## Extraict du Privilege du Roy 
 
 Par Grace et Privilege du Roy, donné à Pari le dernier Octobre mil six cens soixante-quatre. Signé, Par le Roy en son Conseil, GUITONNEAU. Il est permis à NICOLAS PEPINGUE', Imprimeur et Marchand Libraire à Paris, d'imprimer, faire imprimer, vendre et debiter une Piece de Theatre, intitulée, *Le Medecin volant, Comedie, composée par le Sr Boursault*, pendant le temps et l'espace de sept années, à commencer du jour que ladite Piece sera achevée d'imprimer pour la premiere fois ; Et deffenses sont faites à toutes personnes de quelque qualité et condition qu'elles soient, d'imprimer, ny faire imprimer, vendre et debiter ladite Piece sans le consentement de l'Exposant, ou de ceux qui auront droict de luy, à peine de trois mil livres d'amende, confiscation des exemplaires, despens, dommages et interests, ainsi que plus au long il est porté audit Privilege.
 
@@ -4702,7 +4703,7 @@ Achevé d'imprimer pour la premiere fois le quatorziesme Janvier 1665.
 Les Exemplaires ont esté fournis.
 
 
-# ACTEURS.
+## ACTEURS. 
  – CLEON,Amant⁎ de Lucresse
  – LISE,Servante de Lucresse
  – LUCRESSE,Maistresse⁎ de Cleon
@@ -4714,7 +4715,7 @@ La Scene est devant la Maison de Fernand
 
 
 
-# SCENE PREMIERE.
+## SCENE PREMIERE.
 LISE, CLEON.
 
 
@@ -4725,7 +4726,7 @@ Mais enfin de son pere elle craint le pouvoir,
 Et ne peut se resoudre au plaisir de vous voir.  
 Une fille bien née a tousjours de la crainte.  
 
-    CLEON
+    CLEON 
 Que veux-tu, la douleur dont mon ame est atteinte,  
 Rend ma plainte équitable, et me fait murmurer [332]  
 Contre un Objet charmant que je dois adorer.  
@@ -4746,7 +4747,7 @@ Adieu, pensez à vous, et vous ressouvenez,
 Qu'il n'est rien d'impossible aux cœurs passionnez [336].  
 
 
-# SCENE II
+## SCENE II
 
     CLEON *seul*.
 Aux cœurs passionnez il n'est rien d'impossible,  
@@ -4755,7 +4756,7 @@ De donner à mon ame un moment de repos ;
 Il faut…mais ô Crispin que tu viens à propos.  
 
 
-# SCENE III
+## SCENE III
 CLEON, CRISPIN.
 
 
@@ -4912,7 +4913,7 @@ Il sort.
 
 
 
-# SCENE IV
+## SCENE IV
 CLEON, FERNAND, PHILIPIN.
 
 
@@ -4927,7 +4928,7 @@ D'un secours necessaire avance les effets.
 Adieu.  
 
 
-# SCENE V
+## SCENE V
 FERNAND, PHILIPIN.
 
 
@@ -4967,14 +4968,14 @@ Sur tout ne revient point que tu ne me l'ameines,
 Je t'en prie.  
 
 
-# SCENE VI
+## SCENE VI
 
     FERNAND *seul.*
         En mon âge, ô bons Dieux que de peines !  
 Et que dans mes vieux ans…  
 
 
-# SCENE VII
+## SCENE VII
 CRISPIN, FERNAND.
 
 
@@ -5118,7 +5119,7 @@ Appellez. Je le tiens, ô le franc animal [373].
 Hola [374], Lise.  
 
 
-# SCENE VIII
+## SCENE VIII
 LISE, FERNAND, CRISPIN.
 
 
@@ -5171,7 +5172,7 @@ Ce que cette malade à peu prés peut avoir ;
 Mais je vois de l'urine, et je vais le savoir.  
 
 
-# SCENE IX
+## SCENE IX
 CRISPIN, FERNAND, LISE
 
 
@@ -5215,7 +5216,7 @@ Il sent mieux une chose à la langue qu'au doigt [378].
 A ces fortes raisons je n'ay point de replique.  
 
 
-# SCENE X
+## SCENE X
 LISE, CRISPIN, FERNAND.
 
 
@@ -5264,7 +5265,7 @@ Elle s'est resoluë à venir jusqu'icy.
 Elle vient.  
 
 
-# SCENE XI
+## SCENE XI
 LUCRESSE, FERNAND, CRISPIN, LISE
 
 
@@ -5410,7 +5411,7 @@ Si sombre.
 Qu'on l'y mene, aussi bien la journée est mal saine [387].  
 
 
-# SCENE XII
+## SCENE XII
 PHILIPIN, FERNAND, CANTEAS, CRISPIN
 
 
@@ -5533,7 +5534,7 @@ De chercher un pretexte à me faire jouyr [397]
 Du plaisir qu'on reçoit quand on peut vous oüyr.  
 
 
-# SCENE XIII
+## SCENE XIII
 FERNAND, CRISPIN
 
 
@@ -5623,7 +5624,7 @@ Il s'en va.
 
 
 
-# SCENE XIV
+## SCENE XIV
 
     FERNAND *seul*.
 Que cét homme est habile, et qu'il est grand Docteur !  
@@ -5635,7 +5636,7 @@ Voyons ce qu'au logis la science a fait naistre,
 Et sachons …  
 
 
-# SCENE XV
+## SCENE XV
 FERNAND, CRISPIN
 
 
@@ -5722,7 +5723,7 @@ Sans savoir si vos soins auront fait quelque chose :
 Je m'en vais s'il vous plaist vous attendre à l'escart.  
 
 
-# SCENE XVI
+## SCENE XVI
 
     FERNAND *seul.*
 Ce garçon mal-heureux est venu sur le tard ;  
@@ -5731,7 +5732,7 @@ Foin de moy [411]; je ne sais où son frere demeure :
 Mais tousjours je l'attends sur le soir…  
 
 
-# SCENE XVII
+## SCENE XVII
 CRISPIN, FERNAND
 
 
@@ -5795,7 +5796,7 @@ Mais touchant ce Maraut⁎ je consens qu'il revienne.
 Serviteur.  
 
 
-# SCENE XVIII
+## SCENE XVIII
 
     FERNAND *seul.*
         Quelque effect qui jamais en avienne  
@@ -5805,7 +5806,7 @@ Que son frere est honneste, il s'en vient de l'absoudre,
 Et j'ose…  
 
 
-# SCENE XIX
+## SCENE XIX
 CRISPIN, FERNAND
 
 
@@ -5873,7 +5874,7 @@ Il entre, et Fernand ferme la porte à clef.
 
 
 
-# SCENE XX
+## SCENE XX
 
     FERNAND *seul.*
         En ceci ma charité se monstre ;  
@@ -5881,7 +5882,7 @@ Mais de notre Docteur recherchons la rencontre,
 Il faut battre le fer cependant qu'il est chaud.  
 
 
-# SCENE XXI
+## SCENE XXI
 
     CRISPIN *à la fenestre.*
 Me voilà, grace à Dieu, raisonnablement haut.  
@@ -5896,7 +5897,7 @@ Il saute de la fenestre en bas.
 
 
 
-# SCENE XXII
+## SCENE XXII
 
     PHILIPIN *qui sort.*
         A Present  
@@ -5906,7 +5907,7 @@ Il faut pour l'épier qu'un moment je me cache.
 Mais j'entends que l'on parle, attrapons quelque coin [420].  
 
 
-# SCENE XXIII
+## SCENE XXIII
 CRISPIN, FERNAND, ET PHILIPIN au bout du Theatre [421]
 
 
@@ -5949,7 +5950,7 @@ CRISPIN entre seul.
 Et voyons…  
 
 
-# SCENE XXIV
+## SCENE XXIV
 PHILIPIN, FERNAND, ET CRISPIN dans la maison.
 
 
@@ -6137,7 +6138,7 @@ Ah perfide…
 Le voicy.  
 
 
-# SCENE XXV et derniere.
+## SCENE XXV et derniere.
 FERNAND, CLEON, LUCRESSE, CRISPIN, PHILIPIN, LISE
 
 
@@ -6172,7 +6173,7 @@ Faisons des Medecins ou Volans, ou Voleurs.
 FIN
 
 
-# Lexique du Médecin volantAbuser Tromper.V. 40, v. 41Amant « Celuy qui aime d'une passion violente et amoureuse. » (Furetière).Acteurs, v. 14Coquin« Un poltron, un homme qui fait quelque action lasche, ou infame. » (Furetière).V. 375, v. 389, v. 436, v. 489Garde« *N'avoir garde*, pour dire, N'avoir pas la volonté, ou le pouvoir de faire une chose, en estre bien esloigné. » (Dictionnaire de l'Académie française, 1694).V. 262, v. 332Maistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).Acteurs, v. 13Dans le sens courant de maitre.V. 182, v. 187Maraud « Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (Furetière).V. 370, v. 392, v. 442Souffrir Permettre.Dédicace, v. 356, v. 361Tendresse « Sensibilité du cœur et de l'ame. La delicatesse du siecle a renfermé ce mot dans l'amour et dans l'amitié. » (Furetière).V. 2, v. 209
+## Lexique du Médecin volantAbuser Tromper.V. 40, v. 41Amant « Celuy qui aime d'une passion violente et amoureuse. » (Furetière).Acteurs, v. 14Coquin« Un poltron, un homme qui fait quelque action lasche, ou infame. » (Furetière).V. 375, v. 389, v. 436, v. 489Garde« *N'avoir garde*, pour dire, N'avoir pas la volonté, ou le pouvoir de faire une chose, en estre bien esloigné. » (Dictionnaire de l'Académie française, 1694).V. 262, v. 332Maistresse « On le dit particulierement d'une fille qu'on recherche en mariage. » (Furetière).Acteurs, v. 13Dans le sens courant de maitre.V. 182, v. 187Maraud « Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez. » (Furetière).V. 370, v. 392, v. 442Souffrir Permettre.Dédicace, v. 356, v. 361Tendresse « Sensibilité du cœur et de l'ame. La delicatesse du siecle a renfermé ce mot dans l'amour et dans l'amitié. » (Furetière).V. 2, v. 209
 
 
 # Appendice 1

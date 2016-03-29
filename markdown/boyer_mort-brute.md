@@ -2536,7 +2536,7 @@ Je ne vivray jamais un moment apres vous.
 
 ### SCENE PREMIERE
 TULLIE, JULIE [369], LIVIE.
-
+ 
 
     JULIE.
 Un Pere peut flechir.  
@@ -2554,7 +2554,7 @@ Sa bouche parricide a condamné ses fils.
     JULIE.
 La voix de la nature a d'invincibles charmes⁎.  
 
-    TULLIE.
+    TULLIE. 
 Sa soif ne s'esteint point avec l'eau de nos larmes ;  
 Pour la des-alterer ce Tigre veut du sang. [372]  
 Que ne viens-tu Barbare en puiser dans ce flanc ?  

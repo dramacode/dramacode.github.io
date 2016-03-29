@@ -659,7 +659,7 @@ Les Exemplaires ont esté fournis.
  – Deux Pages.
  – Deux Janissaires.
 La Scene est au Serrail [63].
-
+ 
 
 
 ## ACTE PREMIER.
@@ -846,7 +846,7 @@ Nous met dans le naufrage⁎ et du naufrage au port
 Pour ma seule vertu je prends la patience  
 Et desormais la feinte est ma seule science.  
 
-    ACMAT.
+    ACMAT. 
 Pour moy que la fortune⁎ a toujours destiné,  
 A perdre les cadets pour asseurer l'aîné,  
 Je suis bien resolu de hazarder ma vie,  
@@ -867,7 +867,7 @@ Sur tout preparés-vous contre ses artifices.
 Que je vous doy de biens pour tant de bons offices [77].  
 
 
-### SCENE II
+### SCENE II 
 ROXELANE, LE MUFTI
 
 
@@ -940,7 +940,7 @@ J'epouze Soliman ou bien la sepulture.
 De ce dessein je crains quelque étrange avanture,  
 Et qu'à ce grand empire il ne couste du sang⁎.  
 
-    ROXELANE.
+    ROXELANE. 
 S'il en est répandu ce sera de ce flanc.  
 
     LE MUFTI.
@@ -965,7 +965,7 @@ Et ne me blasmés plus de ma presomption.
     LE MUFTI.
 Mais je voy du peril en l'execution.  
 
-    ROXELANE.
+    ROXELANE. 
 Le chemin que je tiens [86] n'est pas la violence,  
 Je ne veux seulement que vostre confidence,  
 Me la puis-je promettre ?  
@@ -988,7 +988,7 @@ Que mesme l'Empereur m'en vienne suplier.
 Immortels [87] je vous fais une injuste priere,  
 Soyez les protecteurs d'un dessein temeraire.  
 
-    ROXELANE.
+    ROXELANE. 
 Vous verrez qu'il est juste et que les immortels,  
 Veullent pour m'y servir employer leurs Autels,  
 Et lors que vous sçaurés mes moyens infaillibles,  
@@ -1040,7 +1040,7 @@ Cet amour bien que grand n'efface pas ma crainte.
 Vous craindre ? qui pouvez possedant Soliman  
 D'un mot faire trembler tout l'Empire Othoman.  
 
-    ROXELANE.
+    ROXELANE. 
 La crainte a ce mal-heur pour celuy qui la donne,  
 Qu'en la donnant, jamais elle ne l'abandonne.  
 
@@ -1063,7 +1063,7 @@ Se plaindre qui le peut, tout vous estant soûmis ?
     ROXELANE.
 Tout ceux que mon bon-heur m'a rendus ennemis.  
 
-    CIRCASSE.
+    CIRCASSE. 
 Mais que pouvez-vous craindre en ce degré supréme ?  
 
     ROXELANE. 
@@ -1114,7 +1114,7 @@ Que par une vertu qui passe l'ordinaire :
 Aymer ces ennemis c'est la vertu des Dieux  
 Que jamais les mortels n'ont pu tirer des Cieux.  
 
-    ROXELANE.
+    ROXELANE. 
 Croyant avec raison meriter vostre hayne,  
 Je la doy recevoir comme une juste peine,  
 Et recevant de vous ce juste chastiment  
@@ -1141,7 +1141,7 @@ Du moins souvenez-vous que mon esprit mal sein [94],
 Vous dépleût par foiblesse et non pas par dessein ;  
 Et reglés desormais la suite de ma vie.  
 
-    CIRCASSE.
+    CIRCASSE. 
 De si hautes faveurs surpassent mon envie :  
 J'attends beaucoup de vous mais je dois recevoir  
 Tout de vostre bonté, rien de vostre devoir.  
@@ -1166,7 +1166,7 @@ De quelque faux appas⁎ que ton discours se farde
 Je suis bien resoluë à me donner de garde. [96]  
 
 
-### SCENE IV
+### SCENE IV 
 
     ROXELANE.
 Je vous croiray, Circasse, et vous et vostre fils  
@@ -1214,7 +1214,7 @@ D'où Mustafa ne puisse aprocher que des yeux :
 Et d'où quand nous voudrons lançant un coup de foudre  
 S'il sort de son devoir nous le mettions en poudre,  
 Faisons ce coup d'esprit qui nous mette en état  
-De pouvoir éviter et faire un attentat [103].  
+De pouvoir éviter et faire un attentat [103].   
 
 
 ## ACTE II
@@ -1267,7 +1267,7 @@ Un Prince peut et doit revoquer ses Arrests.
 On ne contredit pas, on suplie on remonstre,  
 Apres un sage Roy decide, ou pour, ou contre.  
 
-    SOLIMAN.
+    SOLIMAN. 
 Parlez parlez, Acmat, j'écoute librement  
 Mon amour se soûmet à vostre sentiment.  
 Comme d'un Potentat [107] c'est le bon-heur supréme,  
@@ -1419,7 +1419,7 @@ Qu'elle sera modeste en son ambition. 
 Combien que vostre rang ne luy deust rien permettre :  
 L'amour de vos enfans semble tout luy promettre.  
 
-    SOLIMAN.
+    SOLIMAN. 
 Je les ayme il est vray, mais j'ayme plus les lois  
 Qui sont les vrais enfans des legitimes Roys.  
 Je veux par mes respects pour les lois anciennes  
@@ -1468,7 +1468,7 @@ N'ayme pas pour cela, mais il rend la justice.
     SOLIMAN.
 Mais, Acmat, Roxelane adresse icy ses pas.  
 
-    ACMAT.
+    ACMAT. 
 Seigneur je me soûmets, et mets les armes bas.  
 
     SOLIMAN.
@@ -1490,7 +1490,7 @@ Seigneur, se vient soumettre à vos commandements.
 Vostre ame conservant cet ennuy⁎ qui l'oppresse,  
 Ne se peut dire à moy mais bien à la tristesse.  
 
-    ROXELANE.
+    ROXELANE. 
 La nature, Seigneur, a de puissantes lois  
 Que ne peuvent forcer ny le sort ny les Rois [115],  
 Elle a voulu regler mes humeurs, mais en sorte  
@@ -1652,7 +1652,7 @@ Qu'elle choisisse un lieu, vous, Acmat, suivez moi,
 Un grand dessein que j'ay demande vostre employ.  
 
 
-### SCENE III
+### SCENE III 
 ROXELANE, LE MUFTI
 
 
@@ -1818,7 +1818,7 @@ Et d'un visage peint d'une grave froideur
 Mépriser pour le Ciel la mortelle grandeur,  
 Je n'entens point cela.  
 
-    CIRCASSE.
+    CIRCASSE. 
         C'est qu'elle desespere  
 De voir monter ses fils au trosne de leur pere,  
 Connoissant que le mien par sa rare valeur  
@@ -1865,7 +1865,7 @@ He bien mon cher Osman, que nous apportés-vous ?
 Tout succede à vos veux, la fortune⁎ se change  
 Et de vostre parti favorable se range [136].  
 
-    CIRCASSE.
+    CIRCASSE. 
 Comment ?  
 
     OSMAN.
@@ -1915,7 +1915,7 @@ Allons mon cher Acmat, que ce bien-heureux jour,
 Me fasse posseder mon Prince et son amour.  
 
 
-### SCENE IV
+### SCENE IV 
 
     ROXELANE.
 STANCES [139].
@@ -1966,7 +1966,7 @@ Mais l'alarme est au cap [143], Rustan est hors d'haleine
 Et ma fille est en pleurs.  
 
 
-### SCENE V
+### SCENE V 
 ROXELANE, RUSTAN, CHAMERIE
 
 
@@ -2198,7 +2198,7 @@ Allons.
 La colere du Roy me fait craindre pour vous.  
 
     ROXELANE.
-Il luy faut obeyr, mesme dans son courrous.  
+Il luy faut obeyr, mesme dans son courrous.   
 
 
 ## ACTE IV
@@ -2606,7 +2606,7 @@ Qu'on l'oste, sa presence augmente mon courrous.
     ROXELANE.
 O Seigneur accordez la mort à ma priere.  
 
-    SOLIMAN.
+    SOLIMAN. 
 Je te l'accorderois si je voulois te plaire,  
 La mort est une grace et non pas un tourment  
 Pour ceux que je destine à mon ressentiment.  
@@ -2626,7 +2626,7 @@ Je veux que tout son mal soit la peur seulement.
 Asseurez-vous pourtant toujours de sa presence,  
 Faut-il que cette affaire esbranle ma confiance,  
 Possible elle a raison, j'en veux estre éclaircy,  
-Assemblez le Conseil pour une heure d'icy.  
+Assemblez le Conseil pour une heure d'icy.   
 
 
 ## ACTE V

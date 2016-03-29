@@ -29,7 +29,7 @@ class Dramacode
       "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
     ),
     "tc" => array(
-      "glob" => '../theatre-classique/RACINE*.xml',
+      "glob" => '../theatre-classique/RACINE*.xml ../theatre-classique/CORNEILLEP_*.xml ../theatre-classique/BOISROBERT_*.xml ../theatre-classique/CYRANO_*.xml ../theatre-classique/ROTROU_*.xml',
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
       "source" => "http://dramacode.github.io/theatre-classique/%s.xml",
@@ -139,30 +139,35 @@ CREATE INDEX play_setcode ON play(setcode);
       }
     }
   }
-
+  /**
+   *
+   */
   /**
    * Produire les exports depuis le fichier XML
    */
   public function add($srcfile, $setcode=null, $force=false) {
     $set = self::$sets[$setcode];
+    if (!isset($set['predir'])) $set['predir'] = ''; // used for Théâtre Classique
     $srcname = pathinfo($srcfile, PATHINFO_FILENAME);
     $srcmtime = filemtime($srcfile);
     $this->_sqlmtime->execute(array($srcname));
     list($basemtime) = $this->_sqlmtime->fetch();
+    // TODO optimize on dates
     $teinte = new Teinte_Doc($srcfile);
+    // time compared
+    if ($basemtime < $srcmtime) {
+      $this->insert($teinte, $setcode);
+    }
     // Specific Théâtre Classique
     if ($setcode == 'tc') {
       $teinte->pre(dirname(__FILE__).'/tc-norm.xsl');
     }
-    if ($basemtime < $srcmtime) {
-      $this->insert($teinte, $setcode);
-    }
     $echo = "";
     foreach (self::$formats as $format => $extension) {
-      if (isset($set['predir'])) $dir = $set['predir'].$format;
-      else $dir = $format;
+      $dir = $set['predir'].$format;
       $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$extension;
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
+      if ($format == 'kindle') continue; // kindle mobi should be done just after epub
       // delete destfile if exists ?
       if (file_exists($destfile)) unlink($destfile);
       $echo .= " ".$format;
@@ -174,25 +179,9 @@ CREATE INDEX play_setcode ON play(setcode);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($teinte->dom, self::$_logger);
         $livre->epub($destfile);
-        // transformation auto en kindle
-        $cmd = dirname(dirname(__FILE__))."/Livrable/kindlegen ".$destfile;
-        $last = exec ($cmd, $output, $status);
-        $mobi = dirname(__FILE__).'/'.$dir.'/'.$teinte->filename.".mobi";
-        // error ?
-        if (!file_exists($mobi)) {
-          self::log(E_USER_ERROR, "\n".$status."\n".join("\n", $output)."\n".$last."\n");
-        }
-        else {
-          if (isset($set['predir'])) $dir = $set['predir'].'kindle';
-          else $dir = 'kindle';
-          $dest = dirname(__FILE__).'/'.$dir.'/'.$teinte->filename.".mobi";
-          if (!is_dir(dirname($dest))) {
-            mkdir(dirname($dest), 0775, true);
-            @chmod(dirname($dest), 0775);  // let @, if www-data is not owner but allowed to write
-          }
-          rename( $mobi, $dest);
-          $echo .= " kindle";
-        }
+        // transformation auto en mobi, toujours après epub
+        $mobifile = dirname(__FILE__).'/'.$set['predir'].'kindle/'.$srcname.".mobi";
+        Livrable_Tei2epub::mobi($destfile, $mobifile);
       }
       else if ($format == 'docx') {
         $echo .= " docx";
@@ -207,39 +196,31 @@ CREATE INDEX play_setcode ON play(setcode);
   private function insert($teinte, $setcode) {
     // supprimer la pièce, des triggers doivent normalement supprimer la cascade.
     $this->pdo->exec("DELETE FROM play WHERE code = ".$this->pdo->quote($teinte->filename));
-    // métadonnées de pièces
-    $year = null;
-    $verse = null;
-    $genrecode = null;
-    $genre = null;
-    $author = $teinte->xpath->query("/*/tei:teiHeader//tei:author");
-    if ($author->length) $author = $author->item(0)->textContent;
-    else $author = null;
-    $nl = $teinte->xpath->query("/*/tei:teiHeader/tei:profileDesc/tei:creation/tei:date");
-    if ($nl->length) {
-      $n = $nl->item(0);
-      $year = 0 + $n->getAttribute ('when');
-      if(!$year) $year = 0 + $n->nodeValue;
-    }
-    if(!$year) $year = null;
-    $title = $teinte->xpath->query("/*/tei:teiHeader//tei:title");
-    if ($title->length) $title = $title->item(0)->textContent;
-    else $title = null;
+    // globa TEI meta
+    $meta = $teinte->meta();
+    // acts
+    $meta['acts'] = $teinte->xpath->evaluate("count(/*/tei:text/tei:body//tei:*[@type='act'])");
+    if (!$meta['acts']) $meta['acts'] = $teinte->xpath->evaluate("count(/*/tei:text/tei:body/*[tei:div|tei:div2])");
+    if (!$meta['acts']) $meta['acts'] = 1;
+    // verse
+    $l = $teinte->xpath->evaluate("count(//tei:sp/tei:l)");
+    $p = $teinte->xpath->evaluate("count(//tei:sp/tei:p)");
+    if ($l > 2*$p) $meta['verse'] = true;
+    else if ($p > 2*$l) $meta['verse'] = false;
+    else $meta['verse'] = null;
+    // genre
+    $genre = $genrecode = null;
     $nl = $teinte->xpath->evaluate("/*/tei:teiHeader//tei:term[@type='genre']");
     if ($nl->length) {
       $n = $nl->item(0);
       $genrecode = $n->getAttribute ('subtype');
       $genre = $n->nodeValue;
     }
-    $acts = $teinte->xpath->evaluate("count(/*/tei:text/tei:body//tei:*[@type='act'])");
-    if (!$acts) $acts = $teinte->xpath->evaluate("count(/*/tei:text/tei:body/*[tei:div|tei:div2])");
-    if (!$acts) $acts = 1;
-    $l = $teinte->xpath->evaluate("count(//tei:sp/tei:l)");
-    $p = $teinte->xpath->evaluate("count(//tei:sp/tei:p)");
-    if ($l > 2*$p) $verse = true;
-    else if ($p > 2*$l) $verse = false;
+
+
     if (isset(self::$sets[$setcode]['identifier'])) $identifier = sprintf (self::$sets[$setcode]['identifier'], $teinte->filename);
     else $identifier = null;
+
     $this->_insert->execute(array(
       $setcode,
       $teinte->filename,
@@ -247,11 +228,11 @@ CREATE INDEX play_setcode ON play(setcode);
       self::$sets[$setcode]['publisher'],
       $identifier,
       sprintf (self::$sets[$setcode]['source'], $teinte->filename),
-      $author,
-      $title,
-      $year,
-      $acts,
-      $verse,
+      $meta['author'],
+      $meta['title'],
+      $meta['year'],
+      $meta['acts'],
+      $meta['verse'],
       $genrecode,
       $genre,
     ));
@@ -350,7 +331,7 @@ CREATE INDEX play_setcode ON play(setcode);
     $this->pdo->exec("PRAGMA temp_store = 2;");
     $this->_insert = $this->pdo->prepare("
     INSERT INTO play (setcode, code, filemtime, publisher, identifier, source, author, title, year, acts, verse, genrecode, genre)
-              VALUES (?,   ?,    ?,         ?,         ?,          ?,      ?,      ?,     ?,    ?,    ?,     ?,         ?);
+              VALUES (?,       ?,    ?,         ?,         ?,          ?,      ?,      ?,     ?,    ?,    ?,     ?,         ?);
     ");
     $this->_sqlmtime = $this->pdo->prepare("SELECT filemtime FROM play WHERE code = ?");
   }
@@ -375,17 +356,6 @@ CREATE INDEX play_setcode ON play(setcode);
     else {
       include_once($inc);
     }
-    /*
-    $inc = dirname(__FILE__).'/../Toff/Tei2docx.php';
-    if (!file_exists($inc)) {
-      echo "Impossible de trouver ".realpath(dirname(__FILE__).'/../')."/Toff/
-    Vous pouvez le télécharger sur https://github.com/oeuvres/Toff\n";
-      exit();
-    }
-    else {
-      include_once($inc);
-    }
-    */
     self::$_deps=true;
   }
   /**
@@ -430,9 +400,10 @@ CREATE INDEX play_setcode ON play(setcode);
     if (!count($_SERVER['argv'])) {
       $base = new Dramacode($sqlite, STDERR);
       foreach(self::$sets as $setcode=>$setrow) {
-        $glob = $setrow['glob'];
-        foreach(glob($glob) as $file) {
-          $base->add($file, $setcode);
+        foreach(split(' ', $setrow['glob']) as $glob) {
+          foreach(glob($glob) as $file) {
+            $base->add($file, $setcode);
+          }
         }
       }
       exit();
@@ -445,8 +416,10 @@ CREATE INDEX play_setcode ON play(setcode);
     $base = new Dramacode($sqlite,  STDERR);
     if (!count($_SERVER['argv'])) exit("\n    Quel set insérer ?\n");
     $setcode = array_shift($_SERVER['argv']);
-    foreach(glob(self::$sets[$setcode]['glob']) as $file) {
-      $base->add($file, $setcode);
+    foreach(split(" ", self::$sets[$setcode]['glob']) as $glob) {
+      foreach(glob($glob) as $file) {
+        $base->add($file, $setcode);
+      }
     }
   }
 }

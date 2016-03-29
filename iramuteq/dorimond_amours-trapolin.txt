@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_dedicace *date_1662 *creator_drouin
+**** *book_ *id_dedicace *date_1662 *creator_dorimond
 
 A MONSIEUR DE VAISSÉ.
 
@@ -11,7 +11,7 @@ Mais, MONSIEUR, je viens vous confesser que je suis hors d'estat de m'acquitter 
 
 Vostre tres-humble et tres-obeïssant serviteur, DORIMOND.
 
-**** *book_ *id_privilege *date_1662 *creator_drouin
+**** *book_ *id_privilege *date_1662 *creator_dorimond
 
 EXTRAICT DU Privilege du Roy.
 
@@ -27,7 +27,7 @@ Signé JOSSE, Syndic.
 
 Achevé d'imprimer pour la première fois,
 
-**** *book_ *id_body-401 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-401 *act_ *date_1662 *creator_dorimond
 
 -*who_leandre
 Puis que je vous rencontre, il faut faire partie:
@@ -89,7 +89,7 @@ Qu'ils meslent gallamment avec leurs faceties⁎;
 On rencontre des gens qui tondroient sur un œuf⁎
 Et qui bien souvent ont l'esprit comme un boeuf.
 
-**** *book_ *id_body-402 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-402 *act_ *date_1662 *creator_dorimond
 
 -*who_dame1
 Pour moy, je vous le dis, jamais la comedie,
@@ -118,7 +118,7 @@ Allons-y je vous prie.
       Allons; je le veux bien.
 Pour moy je la prefere au plus bel entretien.
 
-**** *book_ *id_body-403 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-403 *act_ *date_1662 *creator_dorimond
 
 -*who_portier
 Ce teston⁎ est-il bon ? Cette piastre⁎ est legere !
@@ -150,7 +150,7 @@ Contre luy vaillamment je veux tirer la brette⁎;
 Mon sang est échauffé, je suis las d'en souffrir:
 N'en laissons plus passer, c'est à faire mourir.
 
-**** *book_ *id_body-404 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-404 *act_ *date_1662 *creator_dorimond
 
 -*who_comedienne
 Al Dieu ! je voy passer un qui fait l'idolastre
@@ -328,7 +328,7 @@ Et qu'elles sont aussi toutes spirituelles.
 Allons les divertir par nos accens mignards
 Et recevoir l'honneur d'attirer leurs regards.
 
-**** *book_ *id_body-405 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-405 *act_ *date_1662 *creator_dorimond
 
 -*who_portier
 Voicy deux grands filoux de fort mauvais augure :
@@ -399,7 +399,7 @@ ACTEURS.
 
 LES AMOURS DE TRAPOLIN. COMEDIE;
 
-**** *book_ *id_body-502 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-502 *act_ *date_1662 *creator_dorimond
 
 -*who_ignorance
 Et bien mon cher, mon beau, mon tout, mon agreable,
@@ -481,7 +481,7 @@ Se quitter quand on s'aime, quelle cruauté !
 -*who_trapolin
 Je soûpire à tout coup, et de tous les costez.
 
-**** *book_ *id_body-503 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-503 *act_ *date_1662 *creator_dorimond
 
 -*who_le_docteur
 J'ay des filles chez moy, doctes, spirituelles;
@@ -503,7 +503,7 @@ Je ne puis toutefois luy dire de grands mots
 Car je n'ay point appris la basse complaisance,
 De peur de déroger et soüiller ma science.
 
-**** *book_ *id_body-504 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-504 *act_ *date_1662 *creator_dorimond
 
 -*who_trapolin
 Docteurs, musiciens, poëtes; à mon lever,
@@ -755,7 +755,7 @@ Un homme est fort constant, la femme ne l'est pas;
 Et je vous prouveray.... mais il n'écoute pas !
 Docteur, Docteur ! il est méchant comme un guenuche⁎.
 
-**** *book_ *id_body-505 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-505 *act_ *date_1662 *creator_dorimond
 
 -*who_le_docteur
 Que veux-tu, veau doré, franc badin, esprit cruche ?
@@ -802,7 +802,7 @@ Soit faict.
 -*who_le_docteur
       Poetica et Philosophica.
 
-**** *book_ *id_body-506 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-506 *act_ *date_1662 *creator_dorimond
 
 -*who_poesie
 Qvid vis Papa ego sum paratissima.
@@ -983,7 +983,7 @@ Ne me charme jamais qu'après avoir diné;
 La table a des apas quand elle est bien garnie.
 Quelle est cette beauté ?
 
-**** *book_ *id_body-507 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-507 *act_ *date_1662 *creator_dorimond
 
 -*who_poesie
       La ? C'est Galanterie.
@@ -1009,6 +1009,7 @@ Avec moy vous aurez liberté toute entière :
 Ouy, chacun avec moy peut vivre à sa maniere.
 
 -*who_trapolin
+
 Ah ! cette fille est brave fille,
 Elle m'a fort bien répondu,
 Elle est courtoise, elle est gentille,
@@ -1074,12 +1075,14 @@ Et si lors qu'elles vont voir le sacré vallon,
 Chacune sçait fort bien trouver son Apollon.
 
 -*who_trapolin
+
 Et l'Apollon avec emphase
 Monte la Muse sur Pegase⁎
 Ma foy fille qui fait des vers
 Est sujette à cheoir à l'envers⁎.
 
 -*who_poesie
+
 Ma foy garçon qui n'en fait pas,
 Est sujet à porter le bas.
 
@@ -1098,7 +1101,7 @@ Dés le berceau je suis charmé de sa beauté,
 Avec elle je dors sans estre inquieté;
 Mais la voicy qui vient, que je la treuve aimable !
 
-**** *book_ *id_body-508 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-508 *act_ *date_1662 *creator_dorimond
 
 -*who_ignorance
 Quoy ? traistre déloyal, perfide, ingrat, coupable,
@@ -1127,7 +1130,7 @@ Ah ! ma chere Ignorance.
 Si tu peux la prenant en purger tout le monde,
 Je serois opulente, et dans fort peu de temps.
 
-**** *book_ *id_body-509 *act_ *date_1662 *creator_drouin
+**** *book_ *id_body-509 *act_ *date_1662 *creator_dorimond
 
 -*who_le_docteur
 ET bien captivez-vous ce Phoenix des amans ?

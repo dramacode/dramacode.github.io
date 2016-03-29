@@ -1017,7 +1017,7 @@ C. B. [26]
  – ARIMANT,vieillard, pere de Liliane.
  – MORON,vieillard, Escuyer de Liliane.
 La Scene est à Paris.
-
+ 
 
 
 ## ACTE I.
@@ -3774,7 +3774,7 @@ Sans doute elle est ouverte, on monte, que je croy.
 
 
 ### SCENE II.
-TIMANDRE, JACINTE, ACASTE, JULIE, JODELET.
+TIMANDRE, JACINTE, ACASTE,JULIE, JODELET.
 
 
     TIMANDRE.
@@ -3887,7 +3887,7 @@ Il luy faut, Jodelet, joüer d'un tour de Maistre.
 
 
 ### SCENE III.
-ARISTE, ACASTE, TIMANDRE, JODELET.
+ARISTE, ACASTE, TIMANDRE,JODELET.
 
 
     ARISTE.
@@ -3963,7 +3963,7 @@ Ce n'est pas mal pensé, mais que veut ce Vieillard ?
 
 
 ### SCENE IV.
-JODELET, ARIMANT, TIMANDRE, ACASTE.
+JODELET, ARIMANT, TIMANDRE,ACASTE.
 
 
     JODELET.
@@ -4360,7 +4360,7 @@ Tindare, et vous cachez derriere ce jasmin.
 
 
 ### SCENE X.
-TIMANDRE, LILIANE, NISE, JODELET, ARIMANT, MORON derriere.
+TIMANDRE, LILIANE, NISE, JODELET,ARIMANT, MORON derriere.
 
 
     TIMANDRE.
@@ -4393,7 +4393,7 @@ Que vous aviez perdu ?
 
 
 ### SCENE XI et derniere.
-JACINTE, ARISTE, TIMANDRE, LILIANE, JULIE, NISE, JODELET, MORON, ARIMANT, TINDARE.
+JACINTE, ARISTE, TIMANDRE,LILIANE, JULIE, NISE, JODELET,MORON, ARIMANT, TINDARE.
 
 
     JACINTE.
@@ -4483,7 +4483,7 @@ Est-ce là cet Amant qui se tenoit caché ?
     ARISTE.
 Avec tous mes efforts j'y suis bien empesché [180].  
 
-    MORON *deslié*.
+    MORON *deslié*. 
 Je suis en mon païs, quelle resjouïssance ?  
 Il faut baiser la terre où j'ay pris ma naissance.  
 

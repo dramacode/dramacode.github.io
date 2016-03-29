@@ -396,7 +396,7 @@ Signé LEMOINE.< Achevé d’imprimer pour la premiere fois, le 6 Juillet mil si
  – SOPHIENiepce de Justinian.
  – AMALAZONTHEPrincesse de Saxe.
 La scene est à Constantinople.
-
+ 
 
 
 ## ACTE PREMIER
@@ -464,7 +464,7 @@ Ostez luy sa Maistresse, & laissez luy la vie,
 Conservez par ma mort un homme de son rang [19],  
 Et s'il faut sa rançon, payez vous de mon sang.  
 
-    JUSTINIAN
+    JUSTINIAN 
 Ne vous affligez pas belle & charmante Reine,  
 Cette rigueur pour vous seroit trop inhumaine,  
 je croirois faillir, si j'avois accepté  
@@ -543,7 +543,7 @@ Amant infortuné⁎.
 Car c'est heureusement [26] perdre sa liberté,  
 Que d'estre compagnon de ta captivité,  
 
-    BELISAIRE
+    BELISAIRE 
 Je plaindrois vostre sort illustre Amalazonthe,  
 Si vous ne voyez [27] pas celuy qui vous surmonte,  
 Et mes yeux ne verroient mon bras qu'avec horreur,  
@@ -695,7 +695,7 @@ Comme je sçais en fin m'acquiter d'un bien-fait.
 Il est vray, ce dessein le fait assez paroistre :  
 Mais je seray plutost ton ennemy que traistre.  
 
-    THEODORE
+    THEODORE 
 Ma niepce, c'est icy que vous me ferez voir  
 Si le sang m'a sur vous donné quelque pouvoir [40].  
 Comme à moy desormais cette affaire vous touche,  
@@ -721,7 +721,7 @@ Et vostre ambition se doit bien contenter ;
 Car par ce riche don que vous devez eslire,  
 Un Hymen⁎ si charmant vous asseure l'Empire.  
 
-    SOPHIE
+    SOPHIE 
 Quand le sang, & le soing que vous avez de moy  
 Ne m'obligeroient pas à ce que je vous doy,  
 Mon inclination seroit assez puissante  
@@ -876,7 +876,7 @@ Et souffre⁎ si tu veux m'obliger tout à fait,
 Que mesme Belisaire ignore ce bien fait [53].  
 
 
-### SCENE IV
+### SCENE IV 
 
     NARSE’S [54]
 Confus, triste, pensif, je ne sçay que resoudre⁎  
@@ -910,7 +910,7 @@ C'est trop perdre de temps en propos superflus,
 Allons tout de ce pas destourner cet orage,  
 Empescher les effets⁎ d'un visible naufrage,  
 Et sauver s'il se peut, mais genereusement,  
-En Amy Belisaire, & Sophie en Amant.  
+En Amy Belisaire, & Sophie en Amant.   
 
 
 ## ACTE II
@@ -933,7 +933,7 @@ Diophante entre dans le bois.
 
 
 
-### SCENE II
+### SCENE II 
 
     BELISAIRE *seul*
 
@@ -1109,7 +1109,7 @@ Moy, Narsés ? que dis-tu ?
     NARSE’S
                     Je dis ce que je dois [72].  
 
-    BELISAIRE
+    BELISAIRE 
 Ah ! sans doute ton coeur dement icy ta voix,  
 Je n'eus jamais de part aux lâchetez d'un traistre.  
 
@@ -1133,7 +1133,7 @@ Adieu, cruel amy, le Ciel te soit prospere,
 Et rende ton destin plus doux que je n'espere.  
 
 
-### SCENE IV
+### SCENE IV 
 NARSE'S, BELISAIRE, ISKIRION [76]
 
 
@@ -1231,7 +1231,7 @@ Et puisque son trépas a vangé son injure,
 Que mon dernier present soit une sepulture.  
 
 
-### SCENE V
+### SCENE V 
 
     BELISAIRE [86]
 
@@ -1281,7 +1281,7 @@ Contre toy-mesme icy par toy-mesme occupée,
 Soit ton juste supplice, & ta main ton bourreau.  
 
 
-### SCENE VI
+### SCENE VI 
 BELISAIRE, DIOPHANTE
 
 
@@ -1323,7 +1323,7 @@ A quelle occasion ?
 Tu ne sçauras que trop cette tragique histoire [92] ;  
 Et mesme si tu veux appaiser mes transports⁎,  
 Oste à mes tristes yeux ce deplorable corps.  
-Fin du secon Acte
+Fin du secon Acte 
 
 
 ## ACTE III
@@ -1351,7 +1351,7 @@ On doit tout hazarder pour avoir ce qu'on aime,
 Il faut tout entreprendre, & tenter jusqu'au bout,  
 Un esprit amoureux est capable de tout.  
 
-    ISKIRION
+    ISKIRION 
 Hé bien, Madame, il faut complaire à vostre envie,  
 Un sujet vous deplaist, vous demandez sa vie,  
 Vous avez sur mon coeur un pouvoir absolu,  
@@ -1524,7 +1524,7 @@ Amour vous nuit icy, qu'Amour vous en retire [109].
     AMALAZONTHE
 Je perdrois mon espoir, & non pas mon martyre.  
 
-    BELISAIRE
+    BELISAIRE 
 Cét espoir, ma Princesse, entretient vos malheurs,  
 Cette espine jamais ne produira de fleurs :  
 Vitigés qui nourrit cette vaine esperance,  
@@ -1627,7 +1627,7 @@ Que ma faveur perisse avec mon esperance,
 Mon repos, mes plaisirs, & mesme mon amour,  
 Plûtost que de souffrir⁎ qu'il vous coustent le jour.  
 
-    BELISAIRE
+    BELISAIRE 
 Ah ! c'est trop, je connois ces redoutables Astres [118]  
 Dont le fatal éclat a causé mes desastres :  
 Ouy, je connois ces yeux, ces tyrans inhumains,  
@@ -1652,7 +1652,7 @@ C'est là tout mon desir, c'est là tout mon espoir,
 Et l'unique bon-heur que je veux recevoir.  
 Adieu, je me retire avec cette esperance.  
 
-    BELISAIRE
+    BELISAIRE 
 Ouy, mon Prince, vivez avec cette asseurance,  
 Et si cette amitié que je vous jure icy  
 Perit, faites grands Dieux que je perisse aussy [121].  
@@ -1700,7 +1700,7 @@ J'en doute.
     SOPHIE
                 Je me ris de son ressentiment.  
 
-    THEODORE
+    THEODORE 
 Il est pourtant à craindre en l'esprit d'un amant,  
 Et si ce coeur altier épargne un peu le vostre,  
 Craignez que son courroux n'éclate sur un autre [124].  
@@ -1738,7 +1738,7 @@ Mais apres mes devoirs rendus à l'innocence,
 Vous verrez quant & quant⁎ ma mort & ma constance,  
 Et je vous feray voir, quoy qu'il faille endurer,  
 Que ce qu'Amour a fait ne se peut separer [126].  
-Fin du troisième Acte
+Fin du troisième Acte 
 
 
 ## ACTE IV
@@ -1790,7 +1790,7 @@ Vous le voyez, Seigneur.
     AMALAZONTHE
                             Mon Amour.  
 
-    VITIGEZ
+    VITIGEZ 
 Madame, c'est assés, je voy mon infortune,  
 Et je sçay maintenant ce qui vous importune,  
 Cét amour que vos yeux ont fait naistre en mon coeur,  
@@ -1893,7 +1893,7 @@ A gravé dans son coeur ma Reyne & ses attraits,
 Permets que cét object en efface les traits⁎ [134].  
 
 
-### SCENE II
+### SCENE II 
 BELISAIRE, SOPHIE
 
 
@@ -2045,7 +2045,7 @@ Madame.
     SOPHIE
                     Importun laisse moy.  
 
-    BELISAIRE
+    BELISAIRE 
 Un mot, & puis mon coeur s'offre à vous satisfaire.  
 
     SOPHIE
@@ -2263,7 +2263,7 @@ Il faut que par un trait d'obeissance extreme
 Ma main te l'aille offrir & porter elle mesme.  
 Il te plaist, je le veux, allons par cét effort  
 Eviter mille morts par une seule mort.  
-Fin du quatriéme Acte
+Fin du quatriéme Acte 
 
 
 ## ACTE V
@@ -2414,7 +2414,7 @@ O le parfaict amant !
                     Mais qu'il est malheureux !  
 O Dieux, que dois-je faire apres ce coup de foudre ?  
 
-    THEODORE
+    THEODORE 
 Le quitter.  
 
     SOPHIE
@@ -2460,7 +2460,7 @@ Ma veuë est égarée & ma voix est pesante,
 Rassurons-nous pourtant ; Quel soucy vous tourmente,  
 Seigneur ? & quel sujet vous altere si fort ?  
 
-    JUSTINIAN
+    JUSTINIAN 
 Un malheur que je crains à l'égal de la mort.  
 
     THEODORE
@@ -2542,7 +2542,7 @@ Justinian sort
 
 
 
-### SCENE VII
+### SCENE VII 
 
     THEODORE *seule*
 Courage, tout va bien, il n'en peut échaper,  
@@ -2586,7 +2586,7 @@ Et que me negliger ou que me contredire,
 Est pis que de choquer ny l'Estat ny l'Empire.  
 
 
-### SCENE VIII
+### SCENE VIII 
 SOPHIE, ISKIRION
 
 
@@ -2610,7 +2610,7 @@ Et la discretion est icy criminelle [171],
 Allons donc le trouver, allons le secourir,  
 Et mesme s'il se peut le sauver, ou mourir.  
 
-    SOPHIE
+    SOPHIE 
 Allons, puis que ce mal veut un remede extreme,  
 En cette occasion je me vaincray moy-méme,  
 Je suivray vos conseils, & par cette action,  
@@ -2633,7 +2633,7 @@ Est-ce là le respect que vous me devez rendre ?
 Ne vous informez point, je sçay vostre devoir,  
 Et vous ne devez pas ignorer mon pouvoir.  
 
-    PIRANDRE
+    PIRANDRE 
 Mais l'Empereur me fait une expresse defense...  
 
     SOPHIE
@@ -2648,7 +2648,7 @@ Et ma foy t'en promet d'agreables effects.
 Ah, Madame, en ce cas j'obeis & me tais.  
 
 
-### SCENE X
+### SCENE X 
 SOPHIE, ISKIRION, BELISAIRE dans la prison [172]
 
 
@@ -2739,7 +2739,7 @@ Là Sophie veut oster les fers à Belisaire
 
 
 
-### SCENE XI
+### SCENE XI 
 THEODORE, SOPHIE, ISKIRION, BELISAIRE
 
 
@@ -2786,7 +2786,7 @@ Helas !
     BELISAIRE
             Prenez mon sang & épargnez le sien.  
 
-    ISKIRION
+    ISKIRION 
 Il est malaisé qu'il coule sans le mien,  
 Tenez, frappez, Madame.  
 
@@ -2907,7 +2907,7 @@ J'ay souslevé les flots, calmons en la tempeste,
 Suivez moy seulement, & je feray le reste.  
 
 
-### SCENE XII
+### SCENE XII 
 JUSTINIAN, VITIGEZ, AMALAONTHE
 
 
@@ -3002,7 +3002,7 @@ Il donneroit son sang.
                     Il n'en faut pas douter,  
 Ouy, Seigneur, je l'attens, & je vous la demande,  
 
-    JUSTINIAN
+    JUSTINIAN 
 Vous l'aurez.  
 
     THEODORE
@@ -3029,7 +3029,7 @@ Ce qui fait son bon-heur fera le mien aussy,
 Et c'est le seul espoir qui me retient icy ;  
 Consentez, grand Monarque, à cette illustre envie.  
 
-    JUSTINIAN
+    JUSTINIAN 
 S'il vous plaist, je le veux.  
 
     SOPHIE
@@ -3056,7 +3056,7 @@ Vous voulez m'attaquer à force de bien-faicts :
 Mais pour recompenser tant de nobles effects⁎,  
 Mon cher Iskirion, enfin que dois-je faire ?  
 
-    ISKIRION
+    ISKIRION 
 Permettre que mon coeur soit tout à Belisaire,  
 Et par un zele ardent que je monstre en ce jour,  
 Qu'il est des amitiez plus fortes que l'amour.  
@@ -3107,7 +3107,7 @@ Douce punition ! agreable sentence !
     AMALAZONTHE
 Que j'adore les loix d'une telle ordonnance !  
 
-    JUSTINIAN
+    JUSTINIAN 
 Enfin cét heureux jour si long temps differé,  
 Est venu quand mon coeur l'avoit moins esperé,  
 Et lors que je prenois le bandeau de Justice,  

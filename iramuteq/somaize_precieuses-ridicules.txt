@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_epitre *date_1660 *creator_somaize
+**** *book_ *id_epitre *date_1660 *creator_somaize 
 
 EPÎTRE A MADEMOISELLE MADEMOISELLE MARIE DE MANCINY.
 

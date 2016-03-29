@@ -175,7 +175,7 @@ Sur vous de la Princesse attire la vangeance,
 Et pretendre à son cœur, c'est presser son couroux
 D'accepter une main qui la vange de vous.
 
--*who_sinorix
+-*who_sinorix 
 Contre moy de Sostrate il n'est rien qu'elle obtienne,
 Mon amitié pour luy me répond de la sienne,
 Sa vertu m'est connuë, et ce que je luy doy
@@ -387,7 +387,7 @@ Sostrate pouvant tout, on ne peut rien sans luy,
 Il vous faut l'acquerir, et l'amour qui le flate⁎
 Le peut seul obliger…
 
--*who_camma
+-*who_camma 
       Tu connois mal Sostrate,
 Il aime, il cherche à plaire, et toutefois, helas !
 Son cœur contre un Tyran craint d'advoüer son bras.
@@ -499,7 +499,7 @@ Qui l'en empescheroit ?
       Ma volonté peut-estre,
 Ou quelque autre raison que l'on ne peut connoître.
 
--*who_hesione
+-*who_hesione 
 Mais vous l'auriez souffert⁎ un peu plus rarement.
 
 -*who_camma
@@ -529,7 +529,7 @@ Je la verray sans peine, et pour plus d'asseurance
 Je vous laisse Sostrate, avec qui consulter
 Des moyens les plus seurs de bien l'executer.
 
-**** *book_ *id_body-405 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1661 *creator_corneille 
 
 -*who_hesione
 Viens, Sostrate, il est temps que je t'ouvre mon ame
@@ -733,7 +733,7 @@ Cessera dans ta mort de croire un parricide⁎.
 Redouble tes forfaits ; loin d'en rien⁎ redouter,
 Je vay faire des vœux afin de les haster.
 
-**** *book_ *id_body-502 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-502 *act_ *date_1661 *creator_corneille 
 
 -*who_phaedime
 Je l'avois bien preveu, Seigneur, que la menace,
@@ -763,7 +763,7 @@ Mon cœur craint à ce prix le repos qu'il souhaite,
 Et qu'il n'est point de maux où je n'ose m'offrir
 S'il faut cesser d'aimer pour cesser de souffrir.
 
-**** *book_ *id_body-503 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-503 *act_ *date_1661 *creator_corneille 
 
 -*who_sinorix
 Et bien ? as-tu, Sostrate, entretenu la Reine ?
@@ -1192,7 +1192,7 @@ Fais agir ton adresse à lire dans le sien.
 -*who_phaedime
 Je connois mon devoir et n'épargneray rien.
 
-**** *book_ *id_body-602 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1661 *creator_corneille 
 
 -*who_sinorix
 Dieux, dont les loix pour nous doivent estre adorables⁎,
@@ -1427,7 +1427,7 @@ Les sermens d'un perfide entraînent un parjure,
 En vain tu crois par là nous ébloüir⁎ les yeux,
 Qui peut perdre son Roy ne connoit point de Dieux.
 
-**** *book_ *id_body-604 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1661 *creator_corneille 
 
 -*who_sinorix
 Phaedime, aurois-tu crû l'attentat⁎ d'un perfide ?
@@ -1835,7 +1835,7 @@ Que demain vostre hymen me vange et la punisse,
 Et que le vain effort⁎ d'un coup si malheureux
 Luy coûte la douleur de m'avoir fait heureux.
 
-**** *book_ *id_body-703 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-703 *act_ *date_1661 *creator_corneille 
 
 -*who_sinorix
 Approche, et quoy qu'ait pû ta criminelle audace,
@@ -1894,7 +1894,7 @@ Qu'on se tienne éloigné par respect pour la Reine.
 Je le laisse avec vous afin que ses advis,
 S'ils flatent⁎ vos souhaits, puissent estre suivis.
 
-**** *book_ *id_body-704 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1661 *creator_corneille 
 
 -*who_camma
 Sous quel voile trompeur le lâche se déguise !
@@ -2076,7 +2076,7 @@ Je me pers, je m'égare, et dans mon desespoir
 Je ne puis écouter ny raison, ny devoir,
 Mon amour s'abandonne au torrent qui l'entraîne.
 
-**** *book_ *id_body-705 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1661 *creator_corneille 
 
 -*who_sostrate
 Ah, Madame, empeschez le dessein de la Reine,
@@ -2138,7 +2138,7 @@ Nommez-en les motifs injustice, bassesse,
 Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,
 Je porte ma réponce, et n'écoute plus rien.
 
-**** *book_ *id_body-706 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1661 *creator_corneille 
 
 -*who_sostrate
 Madame… elle nous quitte. O cœur impitoyable !
@@ -2631,7 +2631,7 @@ Où je seray content ? Et le puis-je, Madame,
 Dans l'affreux desespoir où vous voyez ma flame⁎ ?
 Tout l'augmente, et je fais cent efforts⁎ superflus…
 
-**** *book_ *id_body-806 *act_ *date_1661 *creator_corneille
+**** *book_ *id_body-806 *act_ *date_1661 *creator_corneille 
 
 -*who_sosime
 Ah, Madame, le Roy…

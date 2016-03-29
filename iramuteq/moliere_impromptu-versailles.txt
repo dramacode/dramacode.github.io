@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1668
+**** *book_ *id_I01 *act_I *date_1663
 
 -*who_moliere
 Allons donc, messieurs et mesdames, vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici ?
@@ -318,7 +318,7 @@ Ah !
 Voici justement un fâcheux !
 Il ne nous fallait plus que cela.
 
-**** *book_ *id_I02 *act_I *date_1668
+**** *book_ *id_I02 *act_I *date_1663
 
 -*who_la_thorilliere
 Bonjour, Monsieur Molière.
@@ -455,7 +455,7 @@ Je m'en vais donc dire que vous êtes prêts.
 -*who_moliere
 Point du tout, Monsieur ; ne vous hâtez pas, de grâce.
 
-**** *book_ *id_I03 *act_I *date_1668
+**** *book_ *id_I03 *act_I *date_1663
 
 -*who_moliere
 Ah !
@@ -569,7 +569,7 @@ Le tien est bien aventuré.
 -*who_la_grange
 À qui nous en rapporter ?
 
-**** *book_ *id_I04 *act_I *date_1668
+**** *book_ *id_I04 *act_I *date_1663
 
 -*who_moliere
 Voici un homme qui nous jugera.
@@ -769,7 +769,7 @@ Hélas !
 Je ne sais pas seulement ce qu'on appelle mettre quelque chose.
 Mais où vont ces dames ?
 
-**** *book_ *id_I05 *act_I *date_1668
+**** *book_ *id_I05 *act_I *date_1663
 
 -*who_mademoiselle_de_brie
 Vous voulez bien, mesdames, que nous vous donnions, en passant, la plus agréable nouvelle du monde.
@@ -1008,7 +1008,7 @@ Ni moi.
 Que pensez-vous donc faire ?
 Vous moquez-vous toutes de moi ?
 
-**** *book_ *id_I06 *act_I *date_1668
+**** *book_ *id_I06 *act_I *date_1663
 
 -*who_bejart
 Messieurs, je viens vous avertir que le roi est venu, et qu'il attend que vous commenciez.
@@ -1019,7 +1019,7 @@ Monsieur, vous me voyez dans la plus grande peine du monde, je suis désespéré
 Voici des femmes qui s'effrayent et qui disent qu'il leur faut répéter leurs rôles avant que d'aller commencer Nous demandons, de grâce, encore un moment.
 Le roi a de la bonté, et il sait bien que la chose a été précipitée.
 
-**** *book_ *id_I07 *act_I *date_1668
+**** *book_ *id_I07 *act_I *date_1663
 
 -*who_moliere
 Eh !
@@ -1031,7 +1031,7 @@ Vous devez vous aller excuser.
 -*who_moliere
 Comment m'excuser ?...
 
-**** *book_ *id_I08 *act_I *date_1668
+**** *book_ *id_I08 *act_I *date_1663
 
 -*who_un_necessaire
 Messieurs, commencez donc.
@@ -1040,7 +1040,7 @@ Messieurs, commencez donc.
 Tout à l'heure, Monsieur.
 Je crois que je perdrai l'esprit de cette affaire-ci, et...
 
-**** *book_ *id_I09 *act_I *date_1668
+**** *book_ *id_I09 *act_I *date_1663
 
 -*who_autre_necessaire
 Messieurs, commencez donc.
@@ -1050,7 +1050,7 @@ Dans un moment, Monsieur.
 Et quoi donc ?
 Voulez-vous que j'aie l'affront ?...
 
-**** *book_ *id_I10 *act_I *date_1668
+**** *book_ *id_I10 *act_I *date_1663
 
 -*who_autre_necessaire
 Messieurs, commencez donc.
@@ -1060,7 +1060,7 @@ Oui, Monsieur, nous y allons.
 Eh !
 Que de gens se font de fête, et viennent dire : "Commencez donc, à qui le roi ne l'a pas commandé !"
 
-**** *book_ *id_I11 *act_I *date_1668
+**** *book_ *id_I11 *act_I *date_1663
 
 -*who_autre_necessaire
 Messieurs, commencez donc.
@@ -1070,7 +1070,7 @@ Voilà qui est fait, Monsieur.
 Quoi donc ?
 Recevrai-je la confusion ?...
 
-**** *book_ *id_I12 *act_I *date_1668
+**** *book_ *id_I12 *act_I *date_1663
 
 -*who_moliere
 Monsieur, vous venez pour nous dire de commencer, mais...

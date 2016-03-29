@@ -1075,7 +1075,7 @@ Mais laissez pour Ulisse et pour tous ses vaisseaux
 Un chemin applani sur l'empire des eaux.  
 Toy qu'un coup de tempeste a poussé dans cette isle  
 Et qui dans ce rocher cherches en vain azile,  
-Sors, Perimede, sors.  
+Sors, Perimede, sors.   
 
 
 ### SCENE II.
@@ -1179,7 +1179,7 @@ Mais…
     ULISSE.
 Que veut cet étranger ?  
 
-    PERIMEDE.
+    PERIMEDE. 
         Perimede, Seigneur.  
 
     ULISSE.
@@ -1207,7 +1207,7 @@ De l'esprit et du cœur passent jusqu'à ma main !
 Que vous allez jetter de soucis⁎ dans mon ame,  
 Justes douleurs d'un fils, d'un pere et d'une femme !  
 Il lit.
-
+ 
 Celle qu'un sainct amour a mise en tes liens  
 Penelope t'écrit trop insensible Ulisse ;  
 Pour finir son supplice  
@@ -1282,7 +1282,7 @@ Je cognoy mon destin plus fort que ces obstacles [100].
 Qui fut tousjours vainqueur auroit-il pû déchoir  
 Jusques à n'avoir pas sa fuite en son pouvoir ?  
 
-    EURILOCHE.
+    EURILOCHE. 
 Hé bien, exposons-nous à de nouveaux naufrages,  
 Devenons derechef [101] l'objet de mille orages ;  
 Les hostes vagabons de ces tombeaux mouvans [102],  
@@ -1334,7 +1334,7 @@ Peut-on estre autrement quand on ne vous voit pas ?
 Cette serenité que troubloit vostre absence,  
 Je la sens revenir avec vostre presence.  
 
-    CIRCÉ.
+    CIRCÉ. 
 Je le voy bien, Ulisse est dans sa belle humeur ;  
 Les Syrenes s'en vont l'accroistre par la leur ;  
 Car n'apprehendez point que leurs chants infidelles⁎ [104]  
@@ -1359,7 +1359,7 @@ EURILOCHE, LEUCOSIE, PERIMEDE.
     EURILOCHE.
         Ils sont partis ; approche Perimede.  
 
-    LEUCOSIE *revenant sur ses pas à Euriloche.*
+    LEUCOSIE *revenant sur ses pas à Euriloche.* 
 Quoy vous ne suivez pas ? quel ennuy⁎ vous possede ?  
 Qu'est-ce ?  
 
@@ -1438,7 +1438,7 @@ Mais un semblable adveu ne veut pas de témoins.
 Si ce n'est pas assez pour vous faire justice  
 Circé prendra le soin de retenir Ulisse :  
 Et si contre sa force il ose resister,  
-Je sçay par quels liens je doy vous arrester.  
+Je sçay par quels liens je doy vous arrester.   
 
 
 ### SCENE VII.
@@ -1512,7 +1512,7 @@ Cependant vous avez éventé son secret.
 Je l'ay dit, Perimede, et j'en ay du regret.  
 Qu'ay-je fait ?  
 
-    PERIMEDE.
+    PERIMEDE. 
         Mais, Seigneur, une secrette fuite  
 Peut reparer bien-tost ce manque de conduite.  
 
@@ -1565,7 +1565,7 @@ M'offrant pour le secours que son bras luy refuse.
     PERIMEDE.
 Que voyons-nous, Seigneur ?  
 
-    EURIL[OCHE].
+    EURIL[OCHE]. 
         Circé dans ce vaisseau  
 Prepare à son Ulisse un plaisir fort nouveau.  
 Desja dessus les eaux j'apperçoy les Syrenes  
@@ -1637,7 +1637,7 @@ L'un nuit à mon amour ; tous deux peuvent regner.
 Mais malgré mes Rivaux⁎ j'obtiendray la victoire,  
 Que si cet attentat peut offenser ma gloire,  
 Attentif à la voix d'un si superbe⁎ espoir,  
-Je rejette, et je fuis celle de mon devoir.  < Fin du premier Acte. >
+Je rejette, et je fuis celle de mon devoir.  < Fin du premier Acte. > 
 
 
 ## ACTE II.
@@ -1837,7 +1837,7 @@ Vous suis-je…
     PHAETUSE.
         Il a parlé selon mon sentiment.  
 
-    EURILOCHE.
+    EURILOCHE. 
 Au moins c'est me traiter sans fard, sans complaisance.  
 Mais qui vous fait si fort detester ma presence  
 Pour traiter vos amours le temps ne manque pas.  
@@ -1915,7 +1915,7 @@ Et ne permettez pas que vostre amant⁎ s'expose.
     PHAETUSE.
 Il scauroit s'exposer, si j'en avois besoin.  
 
-    ELPENOR.
+    ELPENOR. 
 Euriloche, quitez cet inutile soin⁎,  
 D'un estrange soucy⁎ vostre esprit s'embarrasse. [133]  
 Et cette raillerie est de mauvaise grace.  
@@ -1941,7 +1941,7 @@ C'en est trop.
     ELPENOR.
 Souffrez⁎…  
 
-    PHAETUSE.
+    PHAETUSE. 
     Obeissez.  
 
     ELPENOR.
@@ -1963,7 +1963,7 @@ Seule je l'entreprens de toute ma puissance.
 Tu sçauras jusqu'où va mon indignation,  
 Tu verras, insolent, dans ta punition  
 Que la plus temeraire et la plus fiere audace  
-Doit trembler au courroux de celles de ma race.  
+Doit trembler au courroux de celles de ma race.   
 
 
 ### SCENE IV.
@@ -2009,7 +2009,7 @@ Explique le bonheur que le Ciel nous enuoye. [138]
 J'ay si peu de commerce [139] avec le bonheur,  
 Que tout ce qui m'en parle est suspect à mon cœur.  
 
-    LEUCOSIE.
+    LEUCOSIE. 
 Si la peur d'un départ nous a couté des larmes  
 Circé s'en va bientost dissiper tant d'allarmes,  
 Icy ses volontez sont d'invincibles loix  
@@ -2034,7 +2034,7 @@ Que son ambition a tousjours differé.
     EURILOCHE.
 Quel bonheur ? quelle joye ? ô fortune⁎ cruelle.  
 
-    LEUCOSIE.
+    LEUCOSIE. 
 Est-ce ainsi qu'on reçoit cette heureuse nouvelle ?  
 
     EURILOCHE.
@@ -2084,7 +2084,7 @@ De qui la guerison ne depend pas de moy.
     EURILOCHE.
 Ouy j'en ay.  
 
-    LEUCOSIE.
+    LEUCOSIE. 
         L'infidelle, ô ! soubçon [140] qui me tuë.  
 Desja depuis long-temps je m'en suis apperceuë ;  
 Je ne m'estonne point si vous versiez des pleurs,  
@@ -2132,7 +2132,7 @@ Il va pour premier coup me perdre auprez de vous.
     LEUCOSIE.
 Cet effort⁎ Euriloche est hors de sa puissance.  
 
-    EURILOCHE.
+    EURILOCHE. 
 A couvert de ce coup je ris de sa vengeance  
 Que la terre et le Ciel, cette isle, son amant⁎  
 S'arment pour le secours de son ressentiment⁎.  
@@ -2156,7 +2156,7 @@ Qu'il tombe par ma main, ou m'égorge à vos yeux.
     LEUCOSIE.
 O Dieux !  
 
-    EURILOCHE.
+    EURILOCHE. 
         Pour prevenir⁎ ma mort ou son suplice  
 Ouvrez quelque chemin à la fuite d'Ulisse.  
 Si tantost nostre amour a trahi son dessein  
@@ -2181,7 +2181,7 @@ Helas si vostre amant⁎ vous trahissoit sa foy⁎…
     LEUCOSIE.
 Je fremis au penser d'un malheur si terrible.  
 
-    EURILOCHE.
+    EURILOCHE. 
 Penelope, Princesse est-elle moins sensible ?  
 Mais de plus grands motifs demandent ce depart,  
 Nostre gloire le veut, elle y prent [143] tant de part,  
@@ -2205,7 +2205,7 @@ Je suis preste pour vous…
 
     EURILOCHE.
         Princesse c'est assez,  
-Et vous faites pour moy plus que vous ne pensez.  
+Et vous faites pour moy plus que vous ne pensez.   
 
 
 ### SCENE VI.
@@ -2301,7 +2301,7 @@ Qui luy fasse hayr ce qu'il aymoit en elle ;
 Fais-la luy voir perfide⁎, et que par cette erreur  
 Je m'en puisse vanger mieux que par ma fureur⁎.  
 
-    LE SOMMEIL.
+    LE SOMMEIL. 
 Vous pouvez icy tout, Nymphe que faut-il faire ?  
 Commandez, et Morphée aura soin de vous plaire.  
 
@@ -2309,7 +2309,7 @@ Commandez, et Morphée aura soin de vous plaire.
 Ainsi malgré les soins⁎, les pertes, les douleurs  
 Puissent tous les mortels joüir de tes douceurs.  
 Qu'aucun bruit ne te trouble, et qu'à jamais mon pere  
-De ton antre sacré recule sa lumiere.  < Fin du second acte. >
+De ton antre sacré recule sa lumiere.  < Fin du second acte. > 
 
 
 ## ACTE III.
@@ -2332,7 +2332,7 @@ Euriloche a failly ; mais malgré son audace,
 J'ayme assez de nos Grecs le reste malheureux,  
 Pour trembler de leur perte, et pour m'offrir pour eux.  
 
-    CIRCÉ.
+    CIRCÉ. 
 Euriloche a failly ; mais Ulisse l'excuse,  
 Pour Circé c'en est trop ; assez pour Phaëtuse ;  
 Pour si juste qu'il soit, il n'est point de courroux,  
@@ -2700,7 +2700,7 @@ LEUCOSIE, PHAETUSE, ELPENOR.
     LEUCOSIE.
 Vostre Conseil ma sœur m'oblige [171] infiniment.  
 
-    ELPENOR *à Phaëtuse.*
+    ELPENOR *à Phaëtuse.* 
 Ah ! c'est trop consulter vostre ressentiment⁎.  
 Je cede au mien Princesse, et seur de ma disgrace  
 Je suis mon desespoir, sans que vostre menace  
@@ -2796,7 +2796,7 @@ C'est à moy comme à vous une entreprise vaine.
 Je l'ayme, et d'autant plus que j'ay tousjours pensé  
 Que vous y consentiez aussi bien que Circé.  
 
-    PHAETUSE.
+    PHAETUSE. 
 Dés l'abord, comme vous, j'ay mal cognu ce traistre ;  
 Mais maintenant, ma sœur, qu'on me l'a fait cognoistre,  
 Sans inhumanité je ne puis approuver  
@@ -2823,7 +2823,7 @@ Dans ces ressentimens⁎ Elpenor s'est mespris
 Il veut perdre Euriloche, et malgré sa complice  
 Il faut qu'il quitte l'isle ou bien qu'il y perisse. [175]  
 Pour faire reussir ce que j'ay projetté,  
-Je consens d'en venir à toute extrémité.  
+Je consens d'en venir à toute extrémité.   
 
 
 ## ACTE IV.
@@ -2862,7 +2862,7 @@ Il faudra malgré toy qu'un si cruel supplice.
 Sous un effort supreme, ou m'accable, ou finisse.  
 Enfin je touche au terme, et je puis aujourd'huy…  
 Mais helas ! il retombe, et je tombe avec luy.  
-Triomphe Jupiter, triomphe de ma peine⁎.  
+Triomphe Jupiter, triomphe de ma peine⁎.   
 
 
 ### SCENE II.
@@ -2876,7 +2876,7 @@ Perfide⁎, s'il te reste un remors legitime
 Fais toy voir à qui fut ta fidelle moitié,  
 Malgré ta trahison ton sort me fait pitié.  
 Et si prez de Pluton [181] ma priere n'est vaine,  
-Bien loin de l'agrandir j'amoindriray ta peine⁎.  
+Bien loin de l'agrandir j'amoindriray ta peine⁎.   
 
 
 ### SCENE III.
@@ -2898,7 +2898,7 @@ C'est Siziphe ; luy mesme.
     SIZIPHE.
         O ! rigoureux suplice !  
 
-    ULISSE.
+    ULISSE. 
 Spectacle insuportable au malheureux Ulisse !  
 N'importe... En ma faveur quittes pour aujourd'huy. [182]  
 
@@ -2948,7 +2948,7 @@ Siziphe : apprenez moy si Penelope est morte.
 Mais non, n'en faites rien, dans un coup si fatal⁎  
 Je sens quelque douceur à douter de mon mal⁎.  
 
-    SIZIPHE.
+    SIZIPHE. 
 Par les mains de ton fils elle est morte infidelle,  
 Au lieu de tant d'amants⁎ qui soupiroient pour elle,  
 Mille serpens affreux⁎ qui nous comblent d'horreur,  
@@ -2997,7 +2997,7 @@ Cher Ulisse, arrestez, que vous dit cet infame ?
 Ce dernier deshonneur de vos braves ayeux,  
 La honte et le rebut d'un sang si glorieux.  
 
-    SIZIPHE.
+    SIZIPHE. 
 Qu'il me laisse en repos.  
 
     TYRESIE.
@@ -3209,7 +3209,7 @@ De changer en respects tout son ressentiment,
 Et qui par la pitié, que vous fera sa peine  
 Doit obtenir de vous la fin de vostre haine.  
 Euriloche paroist, retirons-nous ma sœur,  
-Ce que vous allez voir changera vostre cœur.  
+Ce que vous allez voir changera vostre cœur.   
 
 
 ### SCENE VIII.
@@ -3357,7 +3357,7 @@ Elpenor vous voyez que l'on vous tend les bras.
     ELPENOR.
 A moy, Madame.  
 
-    EURILOCHE. 
+    EURILOCHE.  
     A vous.  
 (Circé frappe Elpenor de sa verge.)
 
@@ -3436,7 +3436,7 @@ Madame, Ulisse vient.
         Cette heureuse nouvelle      
 Pour revoir ce heros au Palais me rappelle.  
 
-    PHAETUSE.
+    PHAETUSE. 
 Nous vous suivons.  
 
     CIRCÉ.
@@ -3500,7 +3500,7 @@ Sur le vaisseau je vays [205] engager son amant⁎.
 Assuré de le rendre avec mon artifice⁎  
 Malgré luy compagnon de la fuite d'Ulisse.  
 Ainsi vostre secours favorable⁎ en ce jour  
-Va faire triompher ma gloire et mon amour.  < Fin du quatriesme acte. >
+Va faire triompher ma gloire et mon amour.  < Fin du quatriesme acte. > 
 
 
 ## ACTE V.
@@ -3544,7 +3544,7 @@ Poignard, c'est à toy seul que je la veux devoir,
 Fais le venir.  
 
     MELANTE.
-        Ulisse, où sera ton espoir ?  
+        Ulisse, où sera ton espoir ?   
 
 
 ### SCENE II.
@@ -3582,7 +3582,7 @@ Je l'apperçoy, l'ingrat⁎, il sçaura qu'une femme
 Peut autant pour sa hayne et plus que pour sa flame⁎.  
 Il sçaura qu'un amour qu'on ose dedaigner,  
 Sçait arracher des cœurs s'il ne peut les gagner.  
-Il faut mourir.  
+Il faut mourir.   
 
 
 ### SCENE III.
@@ -3657,7 +3657,7 @@ Pour eviter la honte où mon amour m'engage
 Que ne peut-il la vaincre aussi bien que ma rage ?  
 Mais, helas !  
 
-    ULISSE.
+    ULISSE. 
         Enfoncez ce poignard dans mon sein.  
 Fuir un coup qui vous plaist n'estoit pas mon dessein ;  
 Mais ne concevant point de suplice si rude,  
@@ -3697,7 +3697,7 @@ Mais malgré…
 Eux de qui je tenois l'ordre de cette trame,  
 Je ne m'estonne plus si vous l'ayant apris,  
 Avant [212] sortir du port mon vaisseau fut surpris.  
-Retournez sur leur pas Euriloche et ce traitre…..  
+Retournez sur leur pas Euriloche et ce traitre…..   
 
 
 ### SCENE IV.
@@ -3723,7 +3723,7 @@ Euriloche s'en sert pour enlever ma sœur.
     CIRCÉ.
 L'enlever.  
 
-    ULISSE.
+    ULISSE. 
     Euriloche ô ! Dieux.  
 
     LEUCOSIE.
@@ -3794,7 +3794,7 @@ Aussi purs et brillans que ceux de vostre pere.
 
     CIRCÉ.
 Pars Ulisse, et m'espargne, abandonnant ce lieu,      
-Ce que souffre mon cœur en te disant adieu.  
+Ce que souffre mon cœur en te disant adieu.   
 
 
 ### SCENE VI.
@@ -3919,7 +3919,7 @@ Dedans mes yeux l'horreur qu'on a d'un criminel.
 Et dans toute mon ame une hayne immortelle  
 Pour un voleur, un lasche, un meurtrier [220], un rebelle [221].  
 
-    EURILOCHE.
+    EURILOCHE. 
 Portez encor plus loin ces transports⁎ furieux⁎ ;  
 Ces cœurs⁎, ces belles mains ; cette bouche et ces yeux  
 Que vous taschés de rendre un subjet de ma hayne,  
@@ -3942,7 +3942,7 @@ Je ne puis me resoudre à perdre un bien si cher.
     PHAETUSE *s'en allant.*
 O ! Dieux.  
 
-    PERIMEDE.
+    PERIMEDE. 
         Sauvez là donc, on vient vous l'arracher.  
 
     EURILOCHE.
@@ -4037,7 +4037,7 @@ Tombe foudre en ses mains trop long-temps retenuë,
 Tombe à la voix du sang, qu'un traistre a sceu verser ;  
 Tombe aux cris d'une sœur, qu'un traistre veut forcer.  
 
-    LEUCOSIE.
+    LEUCOSIE. 
 Tombe aux justes douleurs d'une amante⁎ abusée⁎.  
 Mais la perte du traistre est bien plus mal aisée,  
 Il est desja si loin qu'il eschape à mes yeux.  
@@ -4063,7 +4063,7 @@ Dont les Dieux en courroux foudroyent l'univers ;
 De ces noires vapeurs formez-vous un tonnerre ;  
 La terre preste au Ciel de quoy punir la terre.  
 Vous seule... Mais quels feux s'allument dans la nuit ?  
-Quel trouble ! quel esclat ! quel desordre ! quel bruit !  
+Quel trouble ! quel esclat ! quel desordre ! quel bruit !   
 
 
 ### SCENE X.
@@ -4100,7 +4100,7 @@ Je voy sur un Dauphin triompher Phaëtuse.
 Ouy, ouy, c'est elle mesme, allons la recevoir.  
 
     CIRCÉ.
-Phaëtuse, est-ce vous ?  
+Phaëtuse, est-ce vous ?   
 
 
 ### SCENE DERNIERE.
@@ -4146,7 +4146,7 @@ Vivons sans passions, et Reynes de nous-mesmes.
 Puisqu'Elpenor est mort, nul ne peut dignement      
 Apres un tel heros se dire mon amant⁎.  
 
-    LEUCOSIE.
+    LEUCOSIE. 
 Moy, qui presumois trop d'un traistre et d'un coupable  
 Je hay son sexe autant qu'il me parut aymable.  < FIN. >
 

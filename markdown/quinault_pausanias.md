@@ -1369,7 +1369,7 @@ Cleonice & son sort⁎ n'ont rien que je regarde [146],
 Je n'y prens plus de part, & vous devez penser  
 Qu'entre elle & vous mes vœux n'ont guere à balancer.  
 
-    PAUSANIAS.
+    PAUSANIAS. 
 Je ne puis plus quitter ce dessein⁎ qu'avec honte,  
 Ce seroit de mon rang faire trop peu de conte [147],  
 Ce seroit exposer ma dignité, mes droits,  
@@ -1431,7 +1431,7 @@ Aprés cela de peur de vous embarasser,
 Seigneur je me retire, & vous laisse y penser.  
 
 
-### SCENE III.
+### SCENE III. 
 PAUSANIAS, EURIANAX.
 
 
@@ -1512,7 +1512,7 @@ Je le sçay, mais passons, je le voy qui s'avance.
 
 
 ### SCENE IV.
-ARISTIDE, SOPHANE, PAUSANIAS EURIANAX.
+ARISTIDE, SOPHANE, PAUSANIASEURIANAX.
 
 
 
@@ -1560,7 +1560,7 @@ Pour rendre de mon rang la hauteur odieuse,
 Vostre art⁎ à colorer l'orgueil de vos desseins,  
 Si rien n'allarme en vous, c'est tout ce que j'y crains.  
 
-    ARISTIDE.
+    ARISTIDE. 
 Je serai bien coupable en effet, si c'est crime  
 Seigneur, que d'adoucir ceux que l'aigreur anime⁎,  
 D'appaiser des mutins qui pourroient s'emporter,  
@@ -1683,7 +1683,7 @@ Et pretens d'autant plus faire voir que je l'aime,
 Que j'ose le servir en dépit⁎ de lui même ;  
 Mais pour l'y preparer prenons soin⁎ de le voir,  
 Et qu'il s'en plaigne ou non faisons nostre devoir.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1851,7 +1851,7 @@ Mon choix est approuvé les Grecs me font justice.
 Je suis maistre absolu de tout vostre destin⁎,  
 C'est à dire qu'ici [164] vous estes libre enfin.  
 
-    CLEONICE.
+    CLEONICE. 
 Libre ! & par vous Seigneur !  
 
     PAUSANIAS.
@@ -1942,7 +1942,7 @@ Le sort⁎ de Cleonice est en vostre pouvoir ;
 Mais Seigneur j'ose attendre une grace nouvelle,  
 Et viens vous demander la liberté pour elle.  
 
-    PAUSANIAS.
+    PAUSANIAS. 
 Son sort⁎ merite bien que vous y preniez part.  
 Mais pour sa liberté vous venez un peu tard.  
 Ouï c'en est déja fait elle est libre Madame,  
@@ -1956,7 +1956,7 @@ A ne connoistre plus d'ennemis parmi nous.
 
 
 ### SCENE IV.
-DEMARATE, CLEONICE, CHARILE STRATONE.
+DEMARATE, CLEONICE, CHARILESTRATONE.
 
 
     DEMARATE.
@@ -2162,7 +2162,7 @@ Et contre son Amour⁎ joignons pour ma deffence.
 La Gloire⁎, le Devoir, & la Reconnoissance.  
 Si tout nous manque⁎ enfin, je sçais où l'attaquer,  
 Et la vengeance au moins ne me sçauroit manquer⁎.  
-Fin du Second Acte.
+Fin du Second Acte. 
 
 
 ## ACTE III.
@@ -2352,7 +2352,7 @@ L'ayant fait une fois il n'a rien qui m'estonne⁎.
 Je veux tout déclarer⁎ & j'irai de ce pas.  
 
     ARISTIDE.
-Vous n'irez pas bien loin voici Pausanias.  
+Vous n'irez pas bien loin voici Pausanias.   
 
 
 ### SCENE III.
@@ -2448,7 +2448,7 @@ Et pour tout dire enfin cet ingrat c'est vous même.
     PAUSANIAS.
 Moi, Madame ?  
 
-    DEMARATE.
+    DEMARATE. 
         Ouï, Seigneur, cessons de déguiser,  
 Vous aimez Cleonice & voulez l'épouser.  
 Ce feu qui me trahit menace vostre teste  
@@ -2543,7 +2543,7 @@ Le trouble⁎ où je vous voi paroist d'heureux presage :
 L'Amour⁎ & la Vertu⁎, la Gloire⁎, & le Devoir  
 Pour Demarate enfin semblent vous émouvoir.  
 
-    PAUSANIAS.
+    PAUSANIAS. 
 Sans doute, Eurianax, un si grand sacrifice,  
 Engage trop mon cœur à lui rendre justice.  
 Il le faut, tout le veut : Cleonice aussi bien  
@@ -2552,7 +2552,7 @@ Qu'elle parte à son gré, renonçons à sa veuë,
 Et tandis que je sens ma vertu⁎ revenuë,  
 Hastons nous d'éloigner ses dangereux attrais,  
 Allons lui dire adieu pour ne la voir jamais [187].  
-Fin du Troisième Acte.
+Fin du Troisième Acte. 
 
 
 ## ACTE IV.
@@ -2709,7 +2709,7 @@ Vous avez ma réponse & cela doit suffire.
 Je n'écoute plus rien vos soins⁎ sont superflus.  
 
     ARISTIDE.
-Je voi pourquoi Seigneur vous ne m'écoutez plus [191]  
+Je voi pourquoi Seigneur vous ne m'écoutez plus [191]   
 
 
 ### SCENE II.
@@ -2927,7 +2927,7 @@ Ce que vous m'avez dit me sert trop pour m'en plaindre.
     PAUSANIAS.
 Mais encor qu'ai-je dit qui vous presse à tel point ?  
 
-    CLEONICE.
+    CLEONICE. 
 L'oubliez vous si-tost ?  
 
     PAUSANIAS.
@@ -3094,7 +3094,7 @@ Amour⁎, services, soins⁎, rien ne peut l'arrester.
     CHARILE.
 J'admire que vostre ame ait tant pû se contraindre.  
 
-    DEMARATE. 
+    DEMARATE.  
 Tu l'as vû, jusqu'ici, j'ai souffert sans me plaindre.  
 J'ai pris d'extrémes soins⁎, fait les derniers efforts  
 Pour retenir l'ardeur de mes jaloux transports⁎ :  
@@ -3122,7 +3122,7 @@ Pour m'aider à trouver le chemin de son coeur.
     CHARILE.
 Il mourra donc enfin l'ingrat qui vous offence ?  
 
-    DEMARATE.
+    DEMARATE. 
 Il mourra, ce seroit trop peu pour ma vengance.  
 Il faut pour le punir au gré de mon transport⁎  
 Quelque genre de peine au dessus de la mort.  
@@ -3130,7 +3130,7 @@ Dans un coeur trop charmé, tu viens de voir sans cesse,
 Ce que peut de l'Amour⁎ la derniere tendresse⁎ ;  
 Dans un coeur outragé, vien Charile, vien voir  
 Ce que peut à son tour l'Amour⁎ au desespoir [196].  
-Fin du Quatriéme Acte.
+Fin du Quatriéme Acte. 
 
 
 ## ACTE V.
@@ -3158,11 +3158,11 @@ Et qu'en ces lieux enfin contre vous tout conspire.
 
     PAUSANIAS.
 Les mutins font un Chef [197] dont je prens peu d'effroi.  
-Aristide est ici le seul... Mais je le voi.  
+Aristide est ici le seul... Mais je le voi.   
 
 
 ### SCENE II.
-ARISTIDE, PAUSANIAS, SOPHANE, EURIANAX.
+ARISTIDE, PAUSANIAS,SOPHANE, EURIANAX.
 
 
     ARISTIDE.
@@ -3192,7 +3192,7 @@ Si vous en jugez bien, vous n'en sçauriez douter.
 Pour vous au moindre effort tout est à redouter.  
 Craignez tout des mutins...  
 
-    PAUSANIAS.
+    PAUSANIAS. 
         Quoi donc vous pouvez croire  
 Que si je perds mon Rang je survive à ma Gloire⁎ ?  
 Que je puisse ramper dans un destin⁎ plus bas !  
@@ -3326,7 +3326,7 @@ Du faiste des Grandeurs au comble des plaisirs.
     EURIANAX.
 Quel changement Seigneur d'un coeur tel que le vostre,  
 
-    PAUSANIAS.
+    PAUSANIAS. 
 Un grand coeur quand il aime, aime encor plus qu'un autre ;  
 Et les mesmes ardeurs, les mesmes sentimens  
 Qui font les grands Heros font les tendres Amans.  
@@ -3356,7 +3356,7 @@ Mon Rival ?
     ARISTIDE.
         Il promet de ne jamais vous nuire.  
 
-    PAUSANIAS.
+    PAUSANIAS. 
 Hé mon Rival lui-mesme aussi vous a parlé ?  
 
     ARISTIDE.
@@ -3390,7 +3390,7 @@ En habit déguisé pour passer inconnuë,
 Quelques uns de vos Gens craignant les Factieux  
 L'ont mise en seureté chez Demarate...  
 
-    PAUSANIAS.
+    PAUSANIAS. 
         O Dieux !  
 
     SOPHANE.
@@ -3402,7 +3402,7 @@ Vous la voyez.
 
 
 ### SCENE IV.
-PAUSANIAS, DEMARATE ARISTIDE, SOPHANE, EURIANAX.
+PAUSANIAS, DEMARATEARISTIDE, SOPHANE, EURIANAX.
 
 
     PAUSANIAS.
@@ -3425,7 +3425,7 @@ De grace expliquez moi ce que je veux sçavoir,
 Tirez moi des horreurs⁎ d'un embarras⁎ funeste⁎,  
 Parlez de Cleonice & laissez tout le reste.  
 
-    DEMARATE.
+    DEMARATE. 
 Que vous pressez le coup qui vous doit accabler,  
 J'en tremble encor pour vous, commencez d'en trembler.  
 J'ai trompé Cleonice en lui faisant entendre⁎,  
@@ -3510,7 +3510,7 @@ Mais Sophane revient & quitte Demarate.
 
 
 ### SCENE VII ET DERNIERE.
-SOPHANE, PAUSANIAS, ARISTIDE EURIANAX.
+SOPHANE, PAUSANIAS, ARISTIDEEURIANAX.
 
 
     SOPHANE.

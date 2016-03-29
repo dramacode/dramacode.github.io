@@ -610,7 +610,7 @@ v. 896, 1519, 1577 : Nicander
  – UN SERGENT du Chastelet.
  – DES ARCHERS muëts.
 La Scene est en Prison [51].
-
+ 
 
 
 # ACTE PREMIER.
@@ -635,7 +635,7 @@ Il me suit.
     HIPOLITE.
     Ah, Jacinte !  
 
-    JACINTE
+    JACINTE 
     Et quoy donc…  
 
     HIPOLITE
@@ -703,7 +703,7 @@ Madame.
         Vous croyez que me dire un secret  
 C'est peut-estre…  
 
-    HIPOLITE.
+    HIPOLITE. 
         Nicandre, éloignez ce valet.  
 
     LE PREMIER NICANDRE, *à Ragotin.*
@@ -742,7 +742,7 @@ Qu'il est aspre⁎ !
         Encor [53] une fois ?  
 
     RAGOTIN *s'en allant.*
-Adieu l'honneur.  
+Adieu l'honneur.   
 
 
 ## SCENE III.
@@ -775,7 +775,7 @@ A tous ses mouvemens j'aperçois qu'elle est meure…
 Je ne sçay quoy pour elle a des charmes si dous…  
 Dites-moy, s'il vous plaist, Monsieur, m'entendez-vous ?  
 
-    LE PREMIER NICANDRE.
+    LE PREMIER NICANDRE. 
 Me jouër c'est vous plaire, & je m'offre moi méme…  
 
     JACINTE.
@@ -818,7 +818,7 @@ Mais enfin…
     LE PREMIER NICANDRE.
         Mais enfin, je ne puis y respondre.  
 
-    JACINTE.
+    JACINTE. 
 Justement.  
 
     HIPOLITE.
@@ -861,7 +861,7 @@ Qu'en est-il ?
     LE PREMIER NICANDRE.
         Tous ses traits à mes traits sont égaux.  
 
-    JACINTE.
+    JACINTE. 
 Est-ce tout ?  
 
     LE PREMIER NICANDRE.
@@ -927,7 +927,7 @@ Je ne puis deviner quel endroit le recelle :
 Et pour comble de maux je vous trouve si belle,  
 Qu'il faloit que mon cœur qu'Hipolite asservit  
 Ou jamais ne jurât, ou jamais ne vous vid [62].  
-Adieu Madame.  
+Adieu Madame.   
 
 
 ## SCENE IV.
@@ -966,7 +966,7 @@ Je vous le garentis franc donneur de canards [65].
 Tu crois donc que quelqu'autre ait surpris⁎ ses regards ?  
 
     JACINTE.
-Si je le crois ? Vrayment ; ce matois⁎, ce Nicandre…  
+Si je le crois ? Vrayment ; ce matois⁎, ce Nicandre…   
 
 
 ## SCENE V.
@@ -1146,7 +1146,7 @@ Je l'ay veu.
 Madame, estes-vous Ange ? Ou bien estes-vous Diable ?  
 Quoy, sans vous dire mot vous sçavez nos secrets ?  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Il est vray que tous deux nous avons mesmes traits,  
 J'ay la voix, le visage, & la taille de mesme,  
 J'ay l'humeur…  
@@ -1187,7 +1187,7 @@ Et vous vous y prenez de mauvaise façon.
     ROBIN.
 Parbleu, pas tant bigotte⁎, elle change de ton.  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Et quoy…  
 
     HIPOLITE.
@@ -1230,7 +1230,7 @@ Et comment croyez-vous qu'on me nomme ?
         Nicandre.  
 Fourbe, artificieux⁎, diseur de faussetez.  
 
-    ROBIN.
+    ROBIN. 
 Puis qu'il ne respond rien, d'accord des qualitez.  
 
     LE SECOND NICANDRE.
@@ -1261,7 +1261,7 @@ Et quoy que depuis peu vous soyez à Paris
 Ainsi que vostre nom je sçay vostre logis,  
 Pensez-y bien.  
 (Elle sort.)
-
+ 
 
 
 ## SCENE VIII.
@@ -1295,7 +1295,7 @@ Voyez-vous cette main au fin bout de ma manche ?
 Elle pourroit tomber dessus vostre museau ;  
 Allez vous-en chercher vostre frere jumeau ;  
 Ou dessus cette jouë un puissant cataplasme [77]…  
-Adieu.  
+Adieu.   
 
 
 ## SCENE IX.
@@ -1336,7 +1336,7 @@ De la nuict noire en Diable il estoit plus d'une heure.
 Et déja toutes deux ont appris ma demeure  
 Robin.  
 
-    ROBIN.
+    ROBIN. 
         Les Poussecus⁎ sont de vilaines gens,  
 Garre apres vostre queuë [78] un troupeau de Sergens,  
 Et si vostre personne est par eux attrapée,  
@@ -1369,7 +1369,7 @@ Tandis qu'en galopant & par vaux & par monts
 Nous passons vous & moy pour de francs vagabonds.  
 Voyez si la Donzelle⁎ a sujet de bien rire.  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Ah Robin ! De ce frere on n'a pû me rien dire,  
 Je m'en meurs. Cependant va dedans mon logis,  
 On me veut faire piece [81], & j'ay peur d'estre pris :  
@@ -1406,7 +1406,7 @@ Car enfin…
 
 Attendant qu'il revienne allons voir Clidimace,  
 Comme dans cette ville il a bien du credit  
-Cét Amy…  
+Cét Amy…   
 
 
 ## SCENE X.
@@ -1448,7 +1448,7 @@ Dites-moy.
         Mon enfant, je ne t'ay jamais veu,  
 Quel es-tu ?  
 
-    RAGOTIN.
+    RAGOTIN. 
         Qui je suis ? Qu'ay-je accoustumé d'estre ?  
 Ragotin.  
 
@@ -1491,7 +1491,7 @@ Je vous sers.
         Je m'irrite,  
 Maraut⁎…  
 
-    RAGOTIN.
+    RAGOTIN. 
         Payez-moy donc, & sortons quitte à quitte.  
 
     LE SECOND NICANDRE
@@ -1529,7 +1529,7 @@ Je le pense, & repense.
 Que si tu l'entreprends je te casse les bras.  
 Suy-moy donc si tu veux, viens, tu n'as rien à craindre.  
 (Il sort.)
-
+ 
 
 
 ## SCENE XI.
@@ -1541,7 +1541,7 @@ Que la peste t'étouffe, & te saute au colet⁎.
 Qu'au fin fond des Enfers le grand diable te plonge.  
 Mais j'enrage de faim, à propos, quand j'y songe,  
 Pour branler la machoire [85], & nous faire laquais  
-Allons chercher fortune aux degrez⁎ du Palais [86].  < Fin du premier Acte. >
+Allons chercher fortune aux degrez⁎ du Palais [86].  < Fin du premier Acte. > 
 
 
 # ACTE II.
@@ -1573,7 +1573,7 @@ Vous m'aymiez autrefois, & j'ay dû presumer…
 Si je vous ay connu, j'ay bien pû vous aymer ;  
 Où vous ay-je pû voir ? Tirez moy d'une peine.  
 
-    ISMENE.
+    ISMENE. 
 A Lyon.  
 
     LE PREMIER NICANDRE.
@@ -1613,7 +1613,7 @@ Vous l'aymez ?
     LE PREMIER NICANDRE.
 Vouloir toute ma vie adorer ses appas⁎…  
 
-    ISMENE.
+    ISMENE. 
 Ingrat, c'est le paraistre, et c'est ne l'estre pas ;  
 Ouvre les yeux.  
 
@@ -1724,7 +1724,7 @@ On connoit…
     JACINTE.
         Ismene.  
 
-    LE PREMIER NICANDRE.
+    LE PREMIER NICANDRE. 
 Je vous entends Jacinte, Hipolite sçait bien…  
 
     JACINTE.
@@ -1837,7 +1837,7 @@ C'est assez, & de plus…
     LE PREMIER NICANDRE *seul.*
 Temeraire serment sors de cette memoire,  
 Ne fais pas un obstacle à l'excés de ma gloire,  
-Depuis plus de six ans je me suis deffendu…  
+Depuis plus de six ans je me suis deffendu…   
 
 
 ## SCENE VI.
@@ -1872,7 +1872,7 @@ Comme il fait le gausseur⁎, d'où je viens, me dit-il,
 Il a crû tout d'abord que j'estois Algoüazil [95],  
 Et qu'en vrais pas de loup je venois le surprendre.  
 
-    LE PREMIER NICANDRE.
+    LE PREMIER NICANDRE. 
 Sçais-tu, mon amy, qu'on me nomme Nicandre,  
 Et que l'on me deplaist quand on fait le badin ?  
 
@@ -1953,7 +1953,7 @@ Et je pense…
         Maraut⁎, tu veux estre battu,  
 Et si je n'avois haste insolent… Où vas-tu ?  
 
-    ROBIN.
+    ROBIN. 
 Où vous mesme allez-vous ? J'accompagne mon Maistre.  
 
     LE PREMIER NICANDRE.
@@ -1980,7 +1980,7 @@ Mais où Diable à present le pourray-je rejoindre ?
 Sa valize restée au logis d'où je viens  
 Où parmy ses habits sont aussi tous les miens  
 En tout cas… Le voicy la gueule enfarinée  
-Le bon traistre !  
+Le bon traistre !   
 
 
 ## SCENE VIII.
@@ -2053,7 +2053,7 @@ C'est gageure⁎.
     ROBIN *monstrant sa jouë.*
         On m'en donne des erres [103]  
 (Il chante de rage.)
-
+ 
 Voyez-vous ? Mon cadet… Là, là, là, là, là, là.  
 
 
@@ -2129,7 +2129,7 @@ Mais tu sçais…
         Je ne sçay si je sçais quelque chose,  
 Mais je me tais.  
 
-    HIPOLITE *à Jacinte.*
+    HIPOLITE *à Jacinte.* 
         Tu vois où ton zele m'expose  
 A ton rapport sans doute il n'a pas consenty.  
 
@@ -2173,7 +2173,7 @@ En presence…
     LE SECOND NICANDRE.
 Mais perfide Robin le desssein où tu buttes…  
 
-    ROBIN *monstrant sa jouë.*
+    ROBIN *monstrant sa jouë.* 
 Il ressouvient⁎ tousjours à Robin de ses flutes [105].  
 
     LE SECOND NICANDRE.
@@ -2213,7 +2213,7 @@ Paumez-luy [108] moy la gueule, & luy cassez le nez,
 Faut-il tant de façons ? J'en enrage d'envie,  
 Son valet qui me pousse à cela me convie.  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Tu la pousses, perfide, & ton cœur est si bas…  
 
     ROBIN.
@@ -2280,7 +2280,7 @@ HIPOLITE, JACINTE.
 Depeschez vistement de joüer vostre rolle.  
 Au secours, à la force, embrassez l'interest…  
 Tout va le mieux du monde, Isidore paraist,  
-Isidore !  
+Isidore !   
 
 
 ## SCENE XI.
@@ -2334,7 +2334,7 @@ D'où dérive…
     HIPOLITE.
         Autre part je sçauray vous tout dire,  
 Et puisqu'un prompt remede est icy de saison⁎  
-Vous forcerez le traistre à m'en faire raison [115].  < Fin du second Acte. >
+Vous forcerez le traistre à m'en faire raison [115].  < Fin du second Acte. > 
 
 
 # ACTE III.
@@ -2363,7 +2363,7 @@ Vous craignez vainement qu'il se puisse deffendre,
 Jusques dans son logis on le peut aller prendre,  
 Et quinze ou seize Archers aux captures forts prompts…  
 
-    ISMENE.
+    ISMENE. 
 Ah ! De grace, à Nicandre espargnons ces affronts,  
 L'ingrat m'est tousjours cher, tout cruel qu'il puisse estre ;  
 Et quoy qu'il soit éteint, son amour peut renaistre :  
@@ -2528,7 +2528,7 @@ A luy qui me veut battre, et qui fait le mâdré [121],
 Ah Nicandre, ma foy tu seras Nicandré [122] !  
 Tu t'en vas étrenner mon épée. Il avance,  
 Mais il ne songe pas à cecy que je pense ;  
-Dieu sçait si le Cartel⁎ le va rendre esperdu !  
+Dieu sçait si le Cartel⁎ le va rendre esperdu !   
 
 
 ## SCENE IV.
@@ -2565,7 +2565,7 @@ Où crois-tu que tu sois, dy marouffle⁎.
 J'ay mon droict comme vous sur le pavé du Roy,  
 Dequoy vous meslez-vous ? Qu'est-ce donc ? J'y veux estre.  
 
-    LE PREMIER NICANDRE.
+    LE PREMIER NICANDRE. 
 Mais à qui donc és-tu ?  
 
     RAGOTIN.
@@ -2605,7 +2605,7 @@ Voyons si ta valeur à ton zele respond.
 (Il tire l'épée, et Ragotin remet la sienne.)
 
 
-    RAGOTIN.
+    RAGOTIN. 
 Que ne suis-je Premier aussi bien que Second !  
 Voyez-vous de courroux comme le nez me fronce ?  
 
@@ -2633,7 +2633,7 @@ Ciel vous m'estes propice, & l'on ouvre la porte ;
 Le bon-heur de vous voir va donc m'estre accordé  
 Hipolite, Jacinte, ay-je point trop tardé ?  
 Si vous pouviez sçavoir quel plaisir vous me faites,  
-Je jure…  
+Je jure…   
 
 
 ## SCENE VI.
@@ -2671,7 +2671,7 @@ Il me semble cela.
     LE PREMIER NICANDRE.
 Mais vous m'avez promis…  
 
-    JACINTE.
+    JACINTE. 
         Mais je vous dépromets [126].  
 Et de plus laissez-moy, j'ay des mains, je devore [127].  
 
@@ -2706,7 +2706,7 @@ Qu'as-tu fait de ma fille ?
     JACINTE *appelle à une fenestre.*
         Isidore ! Allons viste.  
 (A Eutrope.)
-
+ 
 Tenez ferme, tenez ; car il faut qu'on le gifle.  
 Isidore !  
 
@@ -2818,8 +2818,8 @@ Une fille abusée…
     EUTROPE.
     Ah !  
 
-    ISIDORE. 
-              
+    ISIDORE.
+               
     Ah !  
 
     EUTROPE.
@@ -2851,7 +2851,7 @@ Les deux vieillards estans embrassez, Robin passe auprés d'eux, trébuche, se l
     EUTROPE.
         Ah maudite balourde [144] !  
 
-    ISIDORE.
+    ISIDORE. 
 J'ay les muscles froissez, & le corps mutilé.  
 
     LE SECOND NICANDRE.
@@ -2890,7 +2890,7 @@ Et que touchant son Maistre une reminiscence⁎…
     ROBIN.
 Moy, Messieurs, en prison ? Vous raillez⁎ que je pense.  
 
-    EUTROPE.
+    EUTROPE. 
 Dy l'endroit qui le cache, ou du moins nous le rend.  
 
     ROBIN.
@@ -2924,7 +2924,7 @@ Et qu'un jour à venir le bon Dieu vous le rende
 Charitables Messieurs qui voulez qu'on me pende,  
 Et qui tous acharnez sur un pauvre garçon…  
 Mais que voicy des gens de méchante façon ;  
-Ah ! Combien les Bourreaux ont de Valets de Chambre !  
+Ah ! Combien les Bourreaux ont de Valets de Chambre !   
 
 
 ## SCENE XI.
@@ -2958,7 +2958,7 @@ Qu'il serve d'holocauste⁎ à mon sang putrefect [151].
     EUTROPE.
 Vôtre sang, dites-vous ? C'est le mien qu'on outrage.  
 
-    ISIDORE.
+    ISIDORE. 
 C'est le mien.  
 
     EUTROPE.
@@ -3077,7 +3077,7 @@ Venez.
 (Au Sergent.)
 
 Debonnaires Messieurs vous serez satisfaits ;  
-Mais au traistre Robin daignez joindre Nicandre.  
+Mais au traistre Robin daignez joindre Nicandre.   
 
 
 ## SCENE XII.
@@ -3101,7 +3101,7 @@ O cher Membre.
     ROBIN.
 Menez donc à ma suite en prison la valise  
 O Gigot de Justice [165], & traisnez avec moy  
-Mon mal-heureux pacquet dans la Maison du Roy [166].  < Fin du troiziesme Acte. >
+Mon mal-heureux pacquet dans la Maison du Roy [166].  < Fin du troiziesme Acte. > 
 
 
 # ACTE IV.
@@ -3190,7 +3190,7 @@ Mon frere, & souffre au moins qu'une flâme si belle…
 Mais au Cours de la Reyne enfin l'heure m'apelle :  
 Je n'ay point de Second, mais du moins j'ay du cœur,  
 Et de plus mon espée est de bonne longueur.  
-Il est vray qu'assez foible est le bras qui seconde…  
+Il est vray qu'assez foible est le bras qui seconde…   
 
 
 ## SCENE II.
@@ -3297,7 +3297,7 @@ On m'attend de ce pas dans le Cours de la Reyne,
 Je veux à mon retour reconnoistre ta peine ;  
 Je reviens dans une heure, attend-moy dans ce lieu.  
 
-    ROBIN.
+    ROBIN. 
 Mais tout est appaisé ?  
 
     LE PREMIER NICANDRE.
@@ -3327,7 +3327,7 @@ Te voicy.
     JACINTE.
         Le perfide, il est hors de prison !  
 
-    ROBIN.
+    ROBIN. 
 Te voicy donc, te dis-je & te voicy toy seule ;  
 Ta carogne [181] de main m'a baillé⁎ sur la gueule,  
 Tu le sçais, la pucelle ?  
@@ -3361,7 +3361,7 @@ Sçache que mon courroux qu'on ne peut égaler…
 Ah tout beau ! Je suis prest de te depuceler !  
 Si ce n'est que cela n'ayons point de querelle,  
 Qui peut empuceler aisément dépucelle ;  
-Et si tu sens de l'estre une demangeaison…  
+Et si tu sens de l'estre une demangeaison…   
 
 
 ## SCENE V.
@@ -3402,7 +3402,7 @@ Vous me paîrez ma peine, & paîrez tout du long ;
 Celle qui vous aymoit est si fort en colere  
 Que de vous faire prendre elle a prié son pere.  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Me croit-elle volage ? Elle dont le pouvoir…  
 
     JACINTE.
@@ -3472,7 +3472,7 @@ Et de peur que mon pere entendit vos discours
 Je suis venuë en haste embrasser son secours.  
 Qui l'outrage m'outrage, & mon ame & la sienne…  
 
-    ROBIN *à Jacinte.*
+    ROBIN *à Jacinte.* 
 Je veux t'aymer aussi bonne peste de Chienne.  
 
     JACINTE.
@@ -3515,7 +3515,7 @@ Si vous le sçavez ?
     LE SECOND NICANDRE.
 Que feray-je ? Pour faire une chose qui plaise…  
 
-    ROBIN.
+    ROBIN. 
 Et que fait-on ? Pour faire une fille bien aise,  
 Idiot ?  
 
@@ -3558,7 +3558,7 @@ Car il ne tient qu'à vous de comprendre.
               
 Madame, comprenons, si comprendre se peut…  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Impertinent… De grace, excusez si ce traistre…  
 
     HIPOLITE.
@@ -3675,7 +3675,7 @@ ISMENE, HIPOLITE.
 Il vous aime Nicandre, & me fait un affront  
 L'ingrat.  
 
-    HIPOLITE.
+    HIPOLITE. 
         S'il m'aime, il fait ce que bien d'autres font.  
 
     ISMENE.
@@ -3759,7 +3759,7 @@ Il vous nomme perfide.
     JACINTE.
         Il vous nomme cruelle.  
 
-    ISMENE *à Hipolite.*
+    ISMENE *à Hipolite.* 
 Escoutez.  
 
     HIPOLITE *à Ismene.*
@@ -3803,7 +3803,7 @@ C'est par l'ordre à Monsieur.
     JACINTE.
         C'est par l'ordre à Madame.  
 
-    RAGOTIN.
+    RAGOTIN. 
 Effrontée.  
 
     JACINTE.
@@ -3834,7 +3834,7 @@ Tu verras beau jeu.
 
     JACINTE.
 Croyez-m'en Hipolite, appellons vostre pere,  
-Isidore !  
+Isidore !   
 
 
 ## SCENE X.
@@ -3910,7 +3910,7 @@ Maculée⁎.
         A la fin je l'ay sçeu faire prendre ;  
 Mais Madame qui l'aime, & qui vit sous sa loy…  
 
-    ISMENE.
+    ISMENE. 
 Il est vray que je l'ayme, & c'est à faire à moy [192] ;  
 Mais il faut que mon pere en secret m'interroge,  
 Allons où vous logez, ou venez où je loge,  
@@ -3946,7 +3946,7 @@ Vous le verrez aussi sans qu'il puisse estre à vous.
     JACINTE *à Ismene.*
 Adieu donc voyageuse.  
 
-    ISMENE.
+    ISMENE. 
         Adieu bonne rusée  
 Intrigueuse.  
 
@@ -3962,7 +3962,7 @@ Elle l'est par dehors.
     RAGOTIN.
         Et tu l'es par dedans.  
 (Hipolite & Jacinte s'en vont du costé d'Isidore, & Ismene & Ragotin du costé d'Eutrope.)
-< Fin du quatriesme Acte. >
+< Fin du quatriesme Acte. > 
 
 
 # ACTE V.
@@ -3995,7 +3995,7 @@ D'une vieille muraille on ramasse la bave [197],
 Et de foin tout pourry les petits brins épars  
 Sont sans cesse traisnez par Messieurs les Piquars [198].  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
 Mais d'où vient que si tard ta personne est si nuë ?  
 
     ROBIN.
@@ -4033,7 +4033,7 @@ J'y feray bien mon compte.
     LE SECOND NICANDRE.
         Et comment, Ridicule ?  
 
-    ROBIN.
+    ROBIN. 
 Et par le petit trou quand on ferre la mule [201].  
 Ah que j'auray bien-tost regagné mon habit.  
 
@@ -4104,7 +4104,7 @@ Mais faut-il de regret que je m'en aille pendre ?)
     ISMENE.
 Je t'ay veu dans Lyon souvent suivre Nicandre.  
 
-    ROBIN.
+    ROBIN. 
 Si vous m'avez veu là, vous me voyez icy.  
 
     ISMENE.
@@ -4136,7 +4136,7 @@ Agy. Par ton moyen si l'ingrat se resoud…
     ROBIN *parlant des Louys qu'il ne peut avoir.*
 Je suis trop mal-heureux pour en venir à bout.  
 
-    ISMENE.
+    ISMENE. 
 Toy qui sers cét ingrat, ne peux-tu faire en sorte,  
 Robin…  
 
@@ -4174,7 +4174,7 @@ Qui m'appelle ?
     LE PREMIER NICANDRE.
     Qui ?  
 
-    ROBIN.
+    ROBIN. 
     C'est moy.  
 
     LE PREMIER NICANDRE.
@@ -4207,7 +4207,7 @@ Je descends.
 
     ISMENE *à Robin*.
         Que dis-tu, de la peine qu'il a ?  
-N'as-tu pas apperceu… Mais l'ingrat le voila.  
+N'as-tu pas apperceu… Mais l'ingrat le voila.   
 
 
 ## SCENE IV.
@@ -4243,7 +4243,7 @@ Nostre cher ?
     LE PREMIER NICANDRE.
         Dis-tu moy ? J'ay plutost de la hayne…  
 
-    ROBIN.
+    ROBIN. 
 Que diable dites vous étourdy ? C'est Ismene  
 Que vous aymez tant.  
 
@@ -4277,7 +4277,7 @@ C'est donc quand il vous plaist que vous estes mon Maistre ?
 Jamais je ne le fus, & ne veux jamais l'estre.  
 J'aurois trop de regret si la moindre union…  
 
-    ISMENE.
+    ISMENE. 
 Et qui donc te servoit quand tu vins à Lyon ?  
 Mais tu n'y fus jamais, tu le vas faire accroire [204].  
 
@@ -4453,7 +4453,7 @@ Voyons dans la geole⁎, Hipolite y doit estre, [210]
 Elle m'a fait entrer pour pressentir ton Maistre,  
 Et puisqu'enfin Nicandre à l'aymer se resout  
 Disons-luy qu'elle vienne, & l'informe de tout.  
-Hipolite ! Hipolite !  
+Hipolite ! Hipolite !   
 
 
 ## SCENE VIII.
@@ -4487,7 +4487,7 @@ Si tu penses…
         Jacinte, il va mourir de joye ;  
 Je le sçay de science, & je t'en donne avis ;  
 Jamais nul amoureux n'eut les sens si ravis ;  
-Et tu vas voir.  
+Et tu vas voir.   
 
 
 ## SCENE IX.
@@ -4566,7 +4566,7 @@ Mais aussi…
     HIPOLITE.
     Quoy, mais ?  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
     Mais…  
 
     ROBIN.
@@ -4632,7 +4632,7 @@ Traistre. Tu sçais Jacinte où mon pere m'attend ?
     JACINTE.
 Ouy je le sçais Madame, & je vais à l'instant…  
 Il previent mon voyage, & le voila qu'il entre.  
-Voyez.  
+Voyez.   
 
 
 ## SCENE X.
@@ -4661,7 +4661,7 @@ ISMENE, EUTROPE, ISIDORE, HIPOLITE, le second NICANDRE, ROBIN, JACINTE, RAGOTIN.
     HIPOLITE.
 Volage, il n'est plus temps de rien dissimuler.  
 
-    ROBIN.
+    ROBIN. 
 S'il s'en peut demesler il n'est pas mal-habile.  
 
     LE SECOND NICANDRE *à Eutrope.*
@@ -4702,7 +4702,7 @@ Sois mon Gener, sinon…
     ISMENE.
 L'ay-je pas, volage ?  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
     Ouy.  
 
     HIPOLITE.
@@ -4745,7 +4745,7 @@ Si pas un de ceux là ne vous semble croyable,
 Je le scais aussi, moy, témoin irreprochable,  
 Je le scais.  
 
-    LE SECOND NICANDRE.
+    LE SECOND NICANDRE. 
         Quoy Robin, quoy j'aurois consenty…  
 
     ROBIN.
@@ -4781,7 +4781,7 @@ Qui Diable est celuy-cy qui s'en vient droit à nous ?
     LE SECOND NICANDRE.
 Que vois-je ?  
 
-    LE PREMIER NICANDRE.
+    LE PREMIER NICANDRE. 
     Qu'apperçois-je ?  
 
     LE SECOND NICANDRE.
@@ -4821,7 +4821,7 @@ Mais lors qu'on vous a pris dans le Cours de la Reyne…
     LE PREMIER NICANDRE.
 Luy Madame ? C'est moy qu'on a pris dans ce lieu.  
 
-    JACINTE.
+    JACINTE. 
 Tout va le mieux du monde, ou je me donne à Dieu ;  
 Car aucun contre aucun n'aura sujet de plainte.  
 
@@ -4861,7 +4861,7 @@ C'est le cœur qui le dit, & s'il est trop obscur
     LE PREMIER NICANDRE.
 Quelles graces vous rendre ! Une gloire parfaite…  
 
-    ROBIN.
+    ROBIN. 
 Tournez-moy les talons, vostre besogne est faite  
 Monsieur. Toy que dis-tu ?  
 
@@ -4908,9 +4908,9 @@ Et ledit N. Pepingué a associé audit present Privilege Thomas Jolly, Guillaume
 
 Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour. Signé E. MARTIN, Syndic.
 
-Achevé d'imprimer pour la premiere fois Le 5. Decembre 1664.
+*Achevé d'imprimer pour la premiere fois Le 5. Decembre 1664.*
 
-Les Exemplaires ont esté fournis.
+*Les Exemplaires ont esté fournis.*
 
 
 # LexiqueAppas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les

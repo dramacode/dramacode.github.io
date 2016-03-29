@@ -705,7 +705,7 @@ Prenez-en soin Achmat.
 
     PERSIDE, *s'en allant.*
         Que mon sort seroit beau  
-Si plutost qu'un palais il m'offroit un tombeau [35].  < FIN DU PREMIER ACTE. >
+Si plutost qu'un palais il m'offroit un tombeau [35].  < FIN DU PREMIER ACTE. > 
 
 
 ## ACTE SECOND
@@ -1072,7 +1072,7 @@ Qu'heureux sont les malheurs qui me rendent à vous ?
 Ah ! vous me faites tort par cette defference⁎  
 Levez-vous, c'est assez, Soliman s'en offence.  
 
-    HERMINIE. *à Achmat.*
+    HERMINIE. *à Achmat.* 
 Certes ce rare amour ne se peut trop loüer.  
 
     PERSIDE. *à Soliman.*
@@ -1097,7 +1097,7 @@ Prennent ce que je vois pour une illusion,
 Et qu'en l'excés de joie ou ce bonheur me plonge  
 Mon esprit seulement pense faire un beau songe.  
 
-    SOLIMAN.
+    SOLIMAN. 
 Je sçay bien que d'abord cet objet t'a surpris,  
 Mais rapelle tes sens, et reprens tes esprits.  
 Eraste ton cœur ayme, il adore Perside,  
@@ -1124,7 +1124,7 @@ Me fit auprés de toy rechercher un asile,
     SOLIMAN.
 Qui causa ce desordre ?  
 
-    PERSIDE.
+    PERSIDE. 
         Un celebre tournois  
 Où parut son adresse en mille beaux exploits.  
 
@@ -1203,7 +1203,7 @@ Pour faire par mon sang raison à ton amour.
     ACHMAT.
 J'en puis estre tesmoing.  
 
-    ERASTE.
+    ERASTE. 
         O vertu sans pareille!  
 Vouloir pour moy mourir ? ô prodige !ô merveille !  
 Rare exemple d'amour, et de fidelité  
@@ -1280,7 +1280,7 @@ Du pouvoir qu'à sur lui vostre rare beauté,
 En cette occasion vous l'estes l'un de l'autre  
 Le sort vous a faict sienne, et l'amour le faict vostre,  
 
-    HERMINIE.
+    HERMINIE. 
 Cet illustre captif fait de trop beaux liens  
 Pour descendre jamais à la honte⁎ des miens,  
 Je suis trop malheureuse et Perside est trop belle.  
@@ -1359,7 +1359,7 @@ Mais c'est trop peu pour toy.
 Mais quelque passion qui te puisse enflammer  
 Mon esprit ne sçauroit se resoudre⁎ à l'aymer.  
 
-    ALCOMIRE.
+    ALCOMIRE. 
 Aussi vaut-il mieux estre Sultane Reyne  
 Que femme d'un Bassa⁎.  
 
@@ -1492,7 +1492,7 @@ Ainsi le veut amour, et telle est ma fortune⁎
 Je cours apres mon mal, mais je vous importune.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME 
 
     ALCOMIRE, *seule*
 Il s'en va dans l'espoir d'estre bientost heureux  
@@ -1511,7 +1511,7 @@ Mais voicy l'empereur. Amour esteins mes feux
 Ou fay qu'Achmat enfin les rende plus heureux.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME 
 PERSIDE, SOLIMAN, HERMINIE, ACHMAT,
 
 
@@ -1563,7 +1563,7 @@ Le sort vous a fait Reyne et non pas ma sujette,
 Et desormais ma gloire et ma felicité  
 Dependent tout à faict de cette qualité,  
 
-    HERMINIE. *à Part*
+    HERMINIE. *à Part* 
 Il l'ayme il l'ayme encor.  
 
     PERSIDE.
@@ -1588,7 +1588,7 @@ Que ce discours me plaist !
     HERMINIE. *à Part.*
         Mais helas ! qu'il m'outrage.  
 
-    SOLIMAN. *à Achmat.*
+    SOLIMAN. *à Achmat.* 
 He bien mon cher Achmat, est-il sous le Soleil,  
 Un Prince plus heureux ?  
 
@@ -1615,7 +1615,7 @@ Et tu l'es de ma haine
         Achmat ouy je le veux,  
 J'accorde à vos desirs cette belle Herminie.  
 
-    HERMINIE
+    HERMINIE 
 Vaines pretentions où me reduisez-vous ?  
 
     ACHMAT,*à Soliman.*
@@ -1642,7 +1642,7 @@ Ils sortent.
 
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME 
 SOLIMAN, PERSIDE.
 
 
@@ -1668,7 +1668,7 @@ Vous devez consentir au bonheur qu'il souhaitte,
 Et par un traittement aussi juste que doux  
 Faire aujourd'huy pour luy ce qu'il a fait pour vous.  
 
-    PERSIDE.
+    PERSIDE. 
 Quel charme, justes dieux ! rend ma veuë esblouïe,  
 Confond mon jugement, et trompe mon ouïe.  
 Ce n'est point Soliman qui me paroit icy,  
@@ -1694,7 +1694,7 @@ Soliman est discret, Soliman est plus sage.
     SOLIMAN
 C'est luy-mesme pourtant qui vous rend cet hommage.  
 
-    PERSIDE.
+    PERSIDE. 
 Ah ! si c'est toy Seigneur pourquoy te demens⁎-tu ?  
 Quel monstre ? quel demon a destruit ta vertu ?  
 Cette force d'esprit si rare et si connuë  
@@ -1724,7 +1724,7 @@ Sortons.
     Adieu cruelle⁎.  
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME 
 
     SOLIMAN *Seul.*
         O Desespoir [65] ! o rage [66] ?  
@@ -1745,7 +1745,7 @@ Et sans m'oster le jour luy ravis sa vertu.
 Songe doncq Soliman à ce que tu veux faire  
 Sois plus respectueux, ou sois plus temeraire⁎,  
 Cesse enfin de languir, et par un prompt effort  
-Choisis sans differer ou l'amour [67] ou la mort.  < FIN DU TROISIESME ACTE >
+Choisis sans differer ou l'amour [67] ou la mort.  < FIN DU TROISIESME ACTE > 
 
 
 ## ACTE QUATRIESME
@@ -1772,7 +1772,7 @@ Soliman qui peut tout.
     HERMINIE.
         Ne peut rien sur ma foy⁎.  
 
-    ACHMAT.
+    ACHMAT. 
 Vous estes son esclave.  
 
     HERMINIE.
@@ -1845,7 +1845,7 @@ Amour cruel auteur de ce hardy dessein
 Favorise un forfaict⁎ que tu m'as mis au sein⁎.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME 
 
     PERSIDE.
 
@@ -2031,7 +2031,7 @@ Adieu donc cher Eraste.
         helas !  
 Te reverray-je encor ?  
 
-    ERASTE
+    ERASTE 
         Non ne l'esperes pas ?  
 Adieu.  
 
@@ -2090,7 +2090,7 @@ Mais pour executer un conseil salutaire
 Achmat la diligence⁎ est tousjours necessaire,  
 Faictes venir Eraste allez,  
 
-    ACHMAT
+    ACHMAT 
         Prends ce soucy⁎  
 Pyrrhus, va, ma presence est necessaire icy,  
 
@@ -2120,7 +2120,7 @@ Et qu'Eraste.
     SOLIMAN.
     Achevez....  
 
-    HALY.
+    HALY. 
         Te doit estre suspect.  
 
     SOLIMAN.
@@ -2173,7 +2173,7 @@ Vanger ses passions et troubler ton repos,
 En cette occasion qu'est-il besoing de faire ?  
 Que me conseillez-vous ?  
 
-    HALY.
+    HALY. 
         De perdre un temeraire⁎,  
 Qui conspire dans l'ame à te priver du jour  
 Qui s'oppose à ta gloire et nuit à ton amour.  
@@ -2195,7 +2195,7 @@ Je vay par un reproche et juste et legitime⁎
 Imprimer dans son cœur le remords de son crime,  
 
 
-### SCENE HUICTIESME
+### SCENE HUICTIESME 
 SOLIMAN, ERASTE, ACHMAT, HALY, PYRRHUS, et Janissaires.
 
 
@@ -2407,7 +2407,7 @@ Rendra son heur⁎ [76] parfaict, et le mien sans esgal.
 Mais je voids Herminie advançons.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME 
 ACHMAT, HERMINIE.
 
 
@@ -2488,7 +2488,7 @@ Assez proche d'icy je le vais [77]abismer,
 De peur que pour ce coup nous ne soyons en peine.  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME 
 
     HERMINIE.
 Depeschez donc Pyrrhus que quelqu'un ne survienne  
@@ -2513,7 +2513,7 @@ Cher Eraste !
     HERMINIE.
 Est-ce Perside ô Dieux ?  
 
-    PERSIDE.
+    PERSIDE. 
         Eraste ma chere ame.  
 
     HERMINIE.
@@ -2565,7 +2565,7 @@ Rendez-la juste Ciel moins sensible⁎ et moins forte,
 Et ne permettez pas que son cœur abatu  
 Perde dans ce malheur sa premiere vertu,  
 
-    HERMINIE.
+    HERMINIE. 
 Courage, elle revient.  
 
     PERSIDE.
@@ -2666,7 +2666,7 @@ Aussy bien Soliman, et le coup que j'ay fait
 Semblent-ils m'ordonner ce legitime⁎ effect⁎.  
 
 
-### SCENE SEPTIESME
+### SCENE SEPTIESME 
 SOLIMAN, PYRRHUS HALY.
 
 troupe de Janissaires.
@@ -2693,7 +2693,7 @@ Pyrrus frape à la porte de Perside.
     ORMANE. *du balcon*
 Que voulez-vous ?  
 
-    HALY.
+    HALY. 
         Je demande Perside.  
 
     ORMANE.
@@ -2749,7 +2749,7 @@ Cet armet⁎ t'espouvente et te met en alarmes
 Et ton maistre rougit d'avoir si lachement,  
 Assassiné celuy dont il fut l'ornement.  
 
-    SOLIMAN.
+    SOLIMAN. 
 C'est trop, c'est trop souffrir depeschez Janissaires  
 Perdez cet insolent⁎, percez ces temeraires⁎,  
 Faites pleuvoir sur eux une grelle de traits⁎  

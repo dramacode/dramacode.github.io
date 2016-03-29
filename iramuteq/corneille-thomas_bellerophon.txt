@@ -2,7 +2,7 @@
 
 **** *book_ *id_argument *date_1679 *creator_corneille
 
-Argument
+Argument 
 
 Le Roy ayant donné la Paix à l'Europe, l'Académie Royale de Musique a creu devoir marquer la part qu'elle prend à la joye publique par un Spectacle, où elle pust faire entrer les témoignages de son zele pour la gloire de cet Auguste Monarque.
 Elle s'y est creuë d'autant plus obligée que la protection qu'il donne aux beaux Arts les a toûjours fait joüir, pendant le cours méme de la Guerre, de l'heureuse tranquillité qui leur est si nécessaire.
@@ -59,7 +59,7 @@ Chantons un Roy digne de nos Autels.
 -*who_apollon_muses
 Par luy tous nos champs refleurissent.
 
--*who_bacchus_pan
+-*who_bacchus_pan 
 Les tranquilles plaisirs par luy sont de retour.
 
 -*who_apollon_muses
@@ -108,7 +108,7 @@ Qui rendent ses peines legeres.
 Si l'Amour a des maux, il a mille plaisirs
 Qui rendent ses peines legeres.
 
--*who_apollon
+-*who_apollon 
 Quittez de si vaines Chansons.
 Il faut par de plus nobles sons
 Honorer en ce jour le Heros⁎ de la France.
@@ -191,7 +191,7 @@ Et je sens qu'avec vous il est d'intelligence.
 Espoir, qui séduisez les Amans mal-heureux,
 Pourquoy suspendre ma vangeance ?
 
-**** *book_ *id_acte102 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte102 *act_acte1 *date_1679 *creator_corneille 
 
 -*who_philonoe
 Reyne, vous sçavez qu'en ce jour
@@ -216,7 +216,7 @@ En vain j'ay voulu m'en défendre.
 -*who_stenobee
 Et qui donc aimez-vous ?
 
--*who_philonoe
+-*who_philonoe 
 Un Heros⁎ que les Dieux
 Ont fait des Conquerans l'exemple glorieux.
 Estimé dans la paix, redouté dans la guerre,
@@ -241,7 +241,7 @@ Et les Solymes enchaînez ;
 Il possède mon cœur, je puis tout sur son ame.
 Reyne, favorisez une si belle flâme⁎.
 
-**** *book_ *id_acte103 *act_acte1 *date_1679 *creator_corneille
+**** *book_ *id_acte103 *act_acte1 *date_1679 *creator_corneille 
 
 -*who_stenobee
 Et je croyois qu'aucune ardeur⁎
@@ -415,7 +415,7 @@ Soûpirs languissans,
 Si j'ay souffert vos tourments les plus rudes,
 Je n'ay pas trop payé les douceurs que je sens.
 
--*who_amazone1
+-*who_amazone1 
 Les douceurs que l'amour fait trouver dans ses chaînes,
 Aux plus heureux Amans ont coûté des soûpirs.
 
@@ -512,7 +512,7 @@ Vous n'avez espargné ma gloire⁎ ny ma vie,
 Et je ne dois rien écouter
 De ma plus mortelle Ennemie.
 
-**** *book_ *id_acte204 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte204 *act_acte2 *date_1679 *creator_corneille 
 
 -*who_stenobee
 Tu me quittes, cruel⁎ ! arreste. Il fuit, helas !
@@ -532,7 +532,7 @@ Qu'on vous brave, qu'on vous dédaigne ?
 Non, il faut dans son sang que mon amour s'éteigne.
 Perdons⁎ tout , faisons tout perir.
 
-**** *book_ *id_acte205 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte205 *act_acte2 *date_1679 *creator_corneille 
 
 -*who_stenobee
 Vous me jurez sans cesse une amour eternelle.
@@ -587,7 +587,7 @@ Fuyez, Reyne, fuyez ;
 Vos yeux seroient trop effrayez
 De l'horreur qu'en ces lieux mes Charmes⁎ vont répandre.
 
-**** *book_ *id_acte206 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte206 *act_acte2 *date_1679 *creator_corneille 
 
 -*who_amisodar
 Que ce jardin se change en Desert affreux.
@@ -597,7 +597,7 @@ Redoublez, s'il se peut, le silence des Ombres.
 Et vous, à me servir employez tant de fois,
 Ministres de mon Art, accourez à ma voix.
 
-**** *book_ *id_acte207 *act_acte2 *date_1679 *creator_corneille
+**** *book_ *id_acte207 *act_acte2 *date_1679 *creator_corneille 
 
 -*who_magiciens
 Parle, nous voilà prests, tout nous sera possible.
@@ -635,7 +635,7 @@ La Terre s'ouvre, & me fait connoistre.
 Rendons aux sombres Deïtez
 Les honneurs que de nous elles ont méritez.
 
--*who_magiciens
+-*who_magiciens 
 La Terre nous ouvre
 Ses Gouffres profonds,
 L'Enfer se découvre.
@@ -671,7 +671,7 @@ On voit regner partout l'image du trespas,
 Et le Monstre animé par la force des Charmes⁎
 Marque de mille morts la trace de ses pas.
 
--*who_stenobee
+-*who_stenobee 
 Lieux désolez, & remplis de carnage,
 Campagnes où le Monstre a semé tant d'horreur,
 Ne me reprochez point ma jalouse fureur⁎,
@@ -693,7 +693,7 @@ N'en fait pas moins sentir son tyrannique empire.
 Impuissante vangeance ! inutile secours !
 Dequoy peux-tu servir quand on aime toûjours ?
 
-**** *book_ *id_acte302 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte302 *act_acte3 *date_1679 *creator_corneille 
 
 -*who_iobate
 Que de mal-heurs accablent la Lycie⁎ ?
@@ -718,7 +718,7 @@ Qui desole tout vostre Empire.
 Que sa valeur⁎ en delivre ces lieux,
 Puisque son crime vous attire.
 
-**** *book_ *id_acte303 *act_acte3 *date_1679 *creator_corneille
+**** *book_ *id_acte303 *act_acte3 *date_1679 *creator_corneille 
 
 -*who_bellerophon
 Vous venez consulter l'Oracle d'Apollon⁎ ?
@@ -744,7 +744,7 @@ Sont unis dans ce Monstre affreux ?
 A son aspect il n'est rien qui ne tremble,
 De sa brûlante haleine il pousse mille feux.
 
--*who_bellerophon
+-*who_bellerophon 
 Ces trois Monstres unis n'ont rien qui m'épouvante ;
 Plus le Combat coûte au Vainqueur,
 Plus la Victoire est éclatante,
@@ -834,7 +834,7 @@ Renonçons à la tristesse,
 Nos mal-heurs vont prendre fin.
 Quand le Ciel est propice à nos vœux,
 Bannissons l'ennuy⁎ qui nous presse,
-Nous allons tous estre heureux.
+Nous allons tous estre heureux. 
 Le Ciel veut qu'on espere,
 Il adoucit son courroux.
 Notre hommage a sçeu luy plaire,
@@ -908,7 +908,7 @@ Dans quel accablement cet Oracle me laisse !
 -*who_philonoe
 Ah, cruelle surprise !
 
--*who_bellerophon
+-*who_bellerophon 
 O funeste revers !
 Quoy ? je vous pers, belle Princesse ?
 
@@ -940,7 +940,7 @@ N'y pensons plus.
       Quoy ? vous pourrez, cruelle,
 Engager ailleurs votre foy ?
 
--*who_philonoe
+-*who_philonoe 
 Brisez, brisez une fatale chaîne.
 Quand j'ay receu l'hommage de vos vœux,
 Je croyois que le Ciel consentiroit sans peine
@@ -1004,7 +1004,7 @@ Laissez vivre l'Ingrat⁎ dans ses jaloux transports⁎ ;
 Voir aux mains d'un Rival l'Objet de sa tendresse⁎,
 C'est tous les jours endurer mille morts.
 
--*who_amisodar
+-*who_amisodar 
 Le laisser vivre ! O Dieux ! que faut-il que je pense ?
 Je voy pour luy la Reyne s'alarmer
 Lors que sa mort est preste à remplir sa vangeance.
@@ -1062,7 +1062,7 @@ Quel excés d'ennuis⁎ !
 Plaignons, plaignons les maux qui désolent ces lieux
 Les pleurs qu'ils font couler devroient toucher les Dieux.
 
-**** *book_ *id_acte404 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte404 *act_acte4 *date_1679 *creator_corneille 
 
 -*who_dieux_bois
 Les Forests sont en feu, le ravage s'augmente,
@@ -1090,7 +1090,7 @@ Que de sujets de larmes !
 Pour adoucir le Ciel qui voit tant de malheurs,
 Joignons nos soûpirs & nos pleurs.
 
-**** *book_ *id_acte405 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte405 *act_acte4 *date_1679 *creator_corneille 
 
 -*who_iobate
 Ah Prince ! où vous emporte une ardeur⁎ trop guerriere ?
@@ -1115,7 +1115,7 @@ C'est vous livrer vous-mesme au plus funeste sort.
 -*who_bellerophon
 Accablé de mal-heurs, puis-je craindre la mort ?
 
--*who_iobate
+-*who_iobate 
 Ménagez vostre vie, elle m'est toujours chere.
 Par ces aimables nœuds⁎
 Que je vous destinois avec mon Diadéme,
@@ -1136,7 +1136,7 @@ Ah, que je crains pour vous ce fatal desespoir !
 Adieu, quand le peril ne vous peut émouvoir,
 Je dois vous cacher ma foiblesse.
 
-**** *book_ *id_acte406 *act_acte4 *date_1679 *creator_corneille
+**** *book_ *id_acte406 *act_acte4 *date_1679 *creator_corneille 
 
 -*who_bellerophon
 Heureuse mort, tu vas me secourir
@@ -1152,7 +1152,7 @@ Il ne reste plus qu'à mourir.
 Espere en ta valeur⁎, Bellerophon, espere,
 Pallas descend du Ciel pour t'ofrir son secours.
 
--*who_bellerophon
+-*who_bellerophon 
 Déesse, en vain tu prens soin de mes jours,
 Quand la mort seule peut me plaire.
 
@@ -1213,7 +1213,7 @@ D'un changement si doux ?
 Qu'il est grand ce Heros⁎, qui ne voit point d'obstacles !
 Que le Sort contre luy ne forme vainement !
 
--*who_philonoe
+-*who_philonoe 
 Pour tout vaincre, il suffit qu'un Heros⁎ soit Amant,
 La valeur⁎ & l'amour font toûjours des miracles.
 
@@ -1317,7 +1317,7 @@ Soient doux & charmants,
 Et qu'un bon-heur sans fin répare
 Ce qu'un sort rigoureux vous causa de tourments.
 
--*who_choeur_peuple
+-*who_choeur_peuple 
 Le plus grand des Heros⁎ rend le calme à la Terre,
 Il fait cesser les horreur de la Guerre.
 Joüissons à jamais

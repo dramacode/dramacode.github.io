@@ -786,7 +786,7 @@ BOYER.
  – SABINE.
  – OCTAVE.
 La Scene est à Preneste [32], dans le Palais de Marius.
-
+ 
 
 
 ## ACTE I.
@@ -801,7 +801,7 @@ Quel zele, quel *⁎*bon-heur t'a conduit en ces lieux,
 Et t'a fait traverser un Camp victorieux ?  
 Enfermé dans Preneste, où Sylla nous assiege [33]...  
 
-    MAXIME.
+    MAXIME. 
 De nos troubles, Seigneur, c'est le seul privilege,  
 Qu'un seul peuple formant deux partis differens [34],  
 Parmy nos ennemis nous trouvons des *⁎*parens.  
@@ -1157,7 +1157,7 @@ Est-ce pour les perils d'un *⁎*Amant ou d'un pere ?
 Ne craignez rien pour eux ; des jours si precieus  
 Et qui vous sont si chers, le sont trop à nos Dieux,  
 Et si vous vous plaignez du *⁎*bon-heur de mes armes,  
-Vous aurez tout mon sang pour le prix de vos larmes.  
+Vous aurez tout mon sang pour le prix de vos larmes.   
 
 
 ### SCENE II.
@@ -1215,7 +1215,7 @@ C'est là de Marius l'image veritable ;
 Mais en trouverez-vous qui luy soit comparable ?  
 Est-il quelque Romain qui luy put estre égal ?  
 
-    CECILIE.
+    CECILIE. 
 Avant que d'en juger connois mieux son Rival.  
 Pour t'en faire un portrait juste et qui luy ressemble,  
 Mets la gloire elle-mesme et la grandeur ensemble,  
@@ -1292,7 +1292,7 @@ Mon pere devroit seul occuper ma douleur.
 Va du haut de la tour, va voir ce qui se passe,  
 Va voir, Marcelle, à qui le sort veut faire grace,  
 Tandis que dans mon cœur mon pere et deux *⁎*Amans  
-Semblent se disputer mes tendres sentimens.  
+Semblent se disputer mes tendres sentimens.   
 
 
 ## ACTE II.
@@ -1383,7 +1383,7 @@ Que Marius qui craint de perdre ses lauriers,
 Rappelle du combat ses plus ardens guerriers,  
 Et par cette prudente et modeste retraite  
 D'un ennemy qu'il aime, honore la défaite [79].  
-Mais il vient.  
+Mais il vient.   
 
 
 ### SCENE II.
@@ -1731,7 +1731,7 @@ Qui t'a deu preferer un objet si charmant,
 Sylla vient d'accorder mon zele et ma tendresse,  
 Ma *⁎*flâme et mon devoir, Rome avec ma *⁎*Maistresse :  
 Mais sans plus differer allons le recevoir ;  
-Et de sa propre bouche apprendre mon espoir.  
+Et de sa propre bouche apprendre mon espoir.   
 
 
 ## ACTE III.
@@ -1831,7 +1831,7 @@ Mais pour voir tout le prix de ton obeyssance,
 Sçache que Marius t'obtiendra malgré moy,  
 Quand Pompée, à qui seul j'avois voüé ta foy...  
 
-    CECILIE.
+    CECILIE. 
 C'est donc Pompée à qui vous m'aviez destinée.  
 
     SYLLA.
@@ -1864,7 +1864,7 @@ Encore ay-je un peu moins à me plaindre du sort :
 Si c'est un mal de voir ma tendresse trompée,  
 S'il m'eut esté plus doux de vivre avec Pompée,  
 Du moins en Marius je rencontre un épous,  
-Digne de Cecilie, et de Rome et de vous.  
+Digne de Cecilie, et de Rome et de vous.   
 
 
 ### SCENE III.
@@ -2156,7 +2156,7 @@ C'est vostre sentiment, si je vous entens bien.
 Ou je m'explique mal, ou je ne puis comprendre.  
 Qu'on réponde si mal à ce qu'on doit entendre :  
 Cecilie et l'amour vous ouvriront les yeux,  
-Allez la voir, Seigneur, et vous m'entendrez mieux.  
+Allez la voir, Seigneur, et vous m'entendrez mieux.   
 
 
 ## ACTE IV.
@@ -2184,7 +2184,7 @@ Vous pouvez-vous, Seigneur, dispenser de la voir ?
 Voyons là, comme elle est aussi fiere que belle,  
 Son orgueil et le mien se deffendront contr'elle.  
 
-    MARCELLE.
+    MARCELLE. 
 Vous la verrez bien-tost, elle va revenir,  
 Son pere l'a mandée, et veut l'entretenir.  
 
@@ -2250,7 +2250,7 @@ Ce pouvoir qui forçoit ma tendresse au silence,
 Veut que par un adveu, qui n'est plus de saison,  
 De toutes mes rigueurs je vous fasse raison.  
 
-    POMPEE.
+    POMPEE. 
 Aprés avoir cent fois rejetté mon homage,  
 Attendiez-vous ce jour pour changer de langage ?  
 Pourquoy m'embarasser par ces feintes douceurs,  
@@ -2282,7 +2282,7 @@ De ne vous plus cacher ce que je sens pour vous.
 Quoy, vous m'aimez ? ô ! Dieux m'est-il permis de croire,  
 Quand je n'espere rien, tant d'heur et tant de gloire ?  
 
-    CECILIE.
+    CECILIE. 
 Que ces transports plairoient au beau *⁎*feu que je sens,  
 Qu'ils seroient doux, Seigneur, s'ils estoient innocens !  
 Mais loin de s'applaudir d'un adveu legitime,  
@@ -2363,7 +2363,7 @@ Fuyons.
 
     POMPEE.
         Je ne puis,  
-Et ne veux rien resoudre en l'estat où je suis.  
+Et ne veux rien resoudre en l'estat où je suis.   
 
 
 ### SCENE III.
@@ -2456,7 +2456,7 @@ Mon pouvoir est mal seur contre tant de vertu.
     CECILIE.
 Quoy donc tant de vertu merite qu'on l'opprime ?  
 
-    SYLLA.
+    SYLLA. 
 J'apprehende en autruy la vertu que j'estime,  
 Et voulant m'asseurer mon repos et mon rang,  
 Je puis avec honneur répandre un peu de sang.  
@@ -2482,7 +2482,7 @@ Et songez qu'il y va de toute ma puissance.
 
     CECILIE. *en s'en allant.*
 O ! Dieux qui d'un tel sang avez formé le mien,  
-Que ne me donnez-vous un cœur comme le sien  
+Que ne me donnez-vous un cœur comme le sien   
 
 
 ### SCENE IV.
@@ -2644,7 +2644,7 @@ Ainsi souffrez qu'un choix et juste et raisonnable...
 Que ce soit artifice ou zele veritable,  
 N'importe, regle tout selon ton interest,  
 Pourveu que Cecilie en prononce l'Arrest.  
-Adieu.  
+Adieu.   
 
 
 ### SCENE VI.
@@ -2661,7 +2661,7 @@ De perir par son crime et par son attentat :
 C'est ainsi que je puis sans trahir Cecilie  
 M'épargner d'un grand crime et la haine et l'envie.  
 Mais sans rien negliger sur un si doux espoir  
-Voyons ce qu'il faut craindre, et tâchons d'y pourvoir.  
+Voyons ce qu'il faut craindre, et tâchons d'y pourvoir.   
 
 
 ## ACTE V.
@@ -2755,7 +2755,7 @@ Le font doux et cruel , arrogant et flateur,
 Font qu'il ose et craint tout, et que sa violence  
 Agit ou se retient selon sa défiance.  
 
-    CECILIE.
+    CECILIE. 
 Ainsi quand sur ce choix je cherche mon devoir,  
 Je ne trouve pour moy que honte et desespoir,  
 Ainsi lorsque ce choix me rend trop incertaine,  
@@ -3003,7 +3003,7 @@ Je partage aujourd'huy mon hymen et la mort [118].
     POMPEE.
 O ! Dieux quelle fureur, ne craignez rien, ma vie  
 Peut encor défier toute sa tyrannie,  
-Il vient.  
+Il vient.   
 
 
 ### SCENE V.
@@ -3089,7 +3089,7 @@ Une fille comme elle, un amy comme luy.
 J'admire ce beau zele , et ne puis m'en defendre,  
 Je voy par vos conseils quel *⁎*party je doy prendre  
 Il faut vous contenter. Qu'on l'aille donc chercher,  
-Ce precieux Rival, cet ennemy si cher.  
+Ce precieux Rival, cet ennemy si cher.   
 
 
 ### SCENE VI.
@@ -3139,7 +3139,7 @@ Le sang, quoyqu'allarmé s'explique foiblement.
 Je vay donc s'il se peut secourir l'un et l'autre.  
 
     CECILIE.
-Allez, et reglez seul mon devoir et le vostre.  
+Allez, et reglez seul mon devoir et le vostre.   
 
 
 ### SCENE VIII.
@@ -3172,7 +3172,7 @@ Pourquoy d'un nom si cher *⁎*étonner ma vertu ?
 Faut-il avec un pere estre d'intelligence,  
 Alors qu'il faut trahir l'honneur et l'innocence ?  
 Pour un pere sans foy, le sang est sans pouvoir  
-Et le soin de ma gloire est mon premier devoir.  
+Et le soin de ma gloire est mon premier devoir.   
 
 
 ### SCENE IX.
@@ -3199,7 +3199,7 @@ L'univers tout entier a veu trembler ses Rois :
 Marius reste seul sans secours, sans defence,  
 
     CECILIE.
-Allons sans plus tarder, allons par ma presence...  
+Allons sans plus tarder, allons par ma presence...   
 
 
 ### SCENE X.
@@ -3255,7 +3255,7 @@ Se livrer à quiconque aura soif de son sang.
 Cependant pour combler ses remors et ses crimes  
 Il cherche à s'immoler mille et mille victimes.  
 Et si vous n'avez soin de calmer son *⁎*courrous,  
-Je crains tout pour luy-mesme, et pour Rome et pour nous.  
+Je crains tout pour luy-mesme, et pour Rome et pour nous.   
 
 
 ### SCENE DERNIÈRE.

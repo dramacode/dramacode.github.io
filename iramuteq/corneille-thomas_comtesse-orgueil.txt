@@ -366,7 +366,7 @@ Qui vous force à venir ?
       Vous voyant dans la rüe,    
 Passeray-je tout droit sans que je vous salüe ?
 
--*who_marquis
+-*who_marquis 
 Salüez-moy de loin, & ne me dites mot.
 
 -*who_chevalier
@@ -408,7 +408,7 @@ Est-ce ma faute ?
       Au moins, si par le droit d'aînesse,
 Vous avez de grands bien, j'ay la mesme Noblesse.
 
--*who_marquis
+-*who_marquis 
 Vous estes Chevalier, mais quand il faut manger,
 Vostre Chevalerie est un mets bien leger,
 Et souvent la machoire est fort mal occupée,
@@ -601,7 +601,7 @@ Elle auroit préparé l'esprit de sa maîtresse⁎,
 Mais vous m'avez fait taire, et tout estoit perdu
 Si j'eusse osé…
 
--*who_chevalier
+-*who_chevalier 
       Je voy que j'ay trop attendu,
 Qu'il seroit bon qu'Olympe eust approuvé ma flame⁎,
 Mais je ne sçavois pas qu'on dust lire en mon ame,
@@ -638,7 +638,7 @@ Le peril en est beau.
 L'ordre vous en est doux, mais à quand l'hymenée ?
 Lucrece vous aimant…
 
--*who_oronte
+-*who_oronte 
       Anselme son Tuteur⁎
 Attend obstinément le retour de ma Sœur,
 Parce qu'elle est Comtesse, il s'est mis à la teste
@@ -740,7 +740,7 @@ Un Marquis si charmé, dit-il, de ses appas⁎,
 Qu'il se pendra demain s'il ne l'épouse pas,
 Le Marquis de Lorgnac.
 
--*who_olympe
+-*who_olympe 
       Quoy, j'en serois aimée ?
 
 -*who_virgine
@@ -823,7 +823,7 @@ Qu'on ne peut…
 -*who_oronte
 De luy-mesme.
 
--*who_olympe
+-*who_olympe 
       A sa mine on connoit sa naissance,
 Mais l'effet répond mal souvent à l'apparence,
 L'air ne fait pas l'esprit ; et je douterois fort
@@ -910,7 +910,7 @@ M'aprit que quand l'honneur qu'on daigne nous faire…
 Votre caducité de trop loin se souvient ;
 Si je vous fais l'honneur, le profit m'en revient.
 
--*who_anselme
+-*who_anselme 
 Du moins je vous répons d'une fille fort sage,
 Modeste, accorte⁎, douce, à qui, dés son Bas âge
 Où l'esprit est toûjours de fadaise⁎ remply,
@@ -1038,7 +1038,7 @@ Deux nopces⁎ !
 Pour l'épouser, Oronte attend icy sa Sœur,
 Demain elle y doit estre.
 
--*who_marquis
+-*who_marquis 
       Il differe pour elle ?
 
 -*who_anselme
@@ -1088,7 +1088,7 @@ Un Duc aussi, dit-on, cherche fort à luy plaire.
 -*who_marquis
 Un Duc ?
 
--*who_anselme
+-*who_anselme 
       Ouy, qui voudroit…
 
 -*who_marquis
@@ -1158,7 +1158,7 @@ Je le croy.
 Tout Chahütan qu'il est, m'a-t'il pû resister ?
 Où l'on me voit tout céde.
 
--*who_carlin
+-*who_carlin 
       Il se résout à prendre,
 Sur vostre bonne foy, le Chevalier pour Gendre ?
 
@@ -1281,7 +1281,7 @@ Eprouver si mon cœur aisement s'apprivoise ?
 Du moins je vous apporte un advis⁎ important,
 Ce soir à la fenestre Olympe vous attends.
 
--*who_marquis
+-*who_marquis 
 Quoy, la Fille d'Anselme ?
 
 -*who_virgine
@@ -1320,7 +1320,7 @@ Va viste.
 Ne vous éloignez point, Monsieur ; à la fenestre
 Avec moy tout à l'heure Olympe va paroistre.
 
--*who_marquis
+-*who_marquis 
 Tu la peux advertir, je reviens sur mes pas.
 Si elle me connoit ?
 
@@ -1397,7 +1397,7 @@ Quelle gloire !
 -*who_marquis
       Pour vaincre, il suffit que j'attaque.
 
--*who_chevalier
+-*who_chevalier 
 Que ne vous dois-je point !
 
 -*who_marquis
@@ -1462,7 +1462,7 @@ Si ce grand serieux n'est pas dans ce qu'il dit,
 C'est qu'il a l'humeur gaye et qu'il se divertit,
 Mais quand il veut il parle, et des mieux.
 
--*who_olympe
+-*who_olympe 
       Je souhaite
 Qu'il n'ait pas les defauts…
 
@@ -1969,7 +1969,7 @@ Son courage l'égale, et l'on n'en peut trop dire.
 Si je te pouvois bien dépeindre de quel air
 Il repoussa son Frere, et le fit reculer…
 
-**** *book_ *id_body-604 *act_ *date_1671 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1671 *creator_corneille 
 
 -*who_virgine
 Madame, une visite où vous ne songiez guere.
@@ -2001,7 +2001,7 @@ Prenez l'occasion de faire enfin ma paix.
 -*who_olympe
 J'employeray le Marquis, va, je te le promets.
 
-**** *book_ *id_body-605 *act_ *date_1671 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1671 *creator_corneille 
 
 -*who_chevalier
 Madame, j'ay douté si ce seroit vous plaire
@@ -2111,7 +2111,7 @@ A trop d'emportement⁎ j'abandonne ma flame⁎,
 Et sans doute j'ay tort de mesler mes chagrins
 Aux sensibles douceurs de vos heureux destins.
 
-**** *book_ *id_body-606 *act_ *date_1671 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1671 *creator_corneille 
 
 -*who_lucrece
 Dy tant que tu voudras que ton Marquis l'efface,
@@ -2149,7 +2149,7 @@ Il dit qu'il a parlé.
 D'accord ; on le maltraite, et tu ferois de mesme,
 Qu'importe quel Objet sa passion ait eu ?
 
--*who_olympe
+-*who_olympe 
 Voicy quelque message.
 
 **** *book_ *id_body-607 *act_ *date_1671 *creator_corneille
@@ -2194,7 +2194,7 @@ Il est tout englouty dedans sa chevelure.
 -*who_olympe
 Que dis-tu de son air ? L'a-t'il galant⁎ et doux ?
 
-**** *book_ *id_body-608 *act_ *date_1671 *creator_corneille
+**** *book_ *id_body-608 *act_ *date_1671 *creator_corneille 
 
 -*who_marquis
 C'est celle-cy ?
@@ -2228,7 +2228,7 @@ Me veut-il éprouver ?
 Vous avez à me voir le cœur bien palpitant.
 Que je taste.
 
--*who_olympe
+-*who_olympe 
       Ah, grands Dieux !
 
 -*who_marquis
@@ -2320,7 +2320,7 @@ Je le suis.
 -*who_olympe
       Quoy, celuy qu'en qualité⁎ d'Epoux…
 
--*who_marquis
+-*who_marquis 
 Celuy qui cette nuit avoit le rendez-vous.
 Quel rendez-vous ! jamais je n'eus frayeur semblable,
 Mon Cadet dégainant a fait d'abord le diable,
@@ -2408,7 +2408,7 @@ Mais vous ne riez point, vous ?
 -*who_olympe
       Moy rire ? et dequoy ?
 
--*who_marquis
+-*who_marquis 
 De la voir rire. Elle est grassette.
 
 -*who_olympe
@@ -2499,7 +2499,7 @@ Est-elle…
       Contre vous gardez que je me pique,
 Je vous épouserois toutes deux.
 
--*who_lucrece
+-*who_lucrece 
       Bon cela.
 
 -*who_marquis
@@ -2535,7 +2535,7 @@ C'est qu'il est gay, ma fille.
       Et gay seul plus que trente.
 Je ne vois point icy paroistre de suivante.
 
--*who_anselme
+-*who_anselme 
 Ma Fille en avoit une, il l'a falu chasser.
 Certains tours trop rusez…
 
@@ -2582,7 +2582,7 @@ Le laict de sa nourrice estoit-il bon ?
 -*who_lucrece
       Courage.
 
--*who_marquis
+-*who_marquis 
 Pas là l'humeur des gens⁎…
 
 -*who_anselme
@@ -2672,7 +2672,7 @@ Mais, mon Oncle, souffrez…
 Beaupere, mon carrosse est là bas, et je pense
 Qu'on peut, tout en roulant, se donner audience.
 
--*who_anselme
+-*who_anselme 
 Il vaut mieux qu'icy seul…
 
 -*who_marquis
@@ -2713,7 +2713,7 @@ Pour se l'imaginer je le donne au plus fin⁎.
 -*who_virgine
 Le bon homme est sorty, je puis paroistre enfin.
 
--*who_olympe
+-*who_olympe 
 Ah, Virgine.
 
 -*who_virgine
@@ -2760,7 +2760,7 @@ Il faudra qu'il les paye en trompant le Marquis.
 Ah, pour m'en dégager vint mille au lieu de dix.
 Moy l'épouser ?
 
--*who_lucrece
+-*who_lucrece 
       Encor si nous avions Oronte,
 Qu'il pust…
 
@@ -2810,7 +2810,7 @@ Et vous mander icy pour prendre vostre advis⁎
 Sur le tour qu'on s'appreste à joüer au Marquis.
 Lyse de ce logis rend Virgine Maîtresse⁎.
 
--*who_lyse
+-*who_lyse 
 Vous sçavez que j'attens Madame la Comtesse,
 Il faut de l'arrivée essuyer le hazard.
 
@@ -2887,7 +2887,7 @@ Ay-je perdu mon temps ?
       Tu m'ébloüis les yeux.
 Quel éclat !
 
--*who_virgine
+-*who_virgine 
       Je feray la Comtesse des mieux.
 
 -*who_lucrece
@@ -3031,7 +3031,7 @@ Vous en serez charmé.
 Nous pourrons elle et moy faire de grands voyages.
 Je vay haut quand je veux.
 
--*who_carlin
+-*who_carlin 
       La voicy.
 
 -*who_marquis
@@ -3110,7 +3110,7 @@ Au lieu qu'en m'admirant les gens⁎ d'esprit s'écrient,
 Je ne trouve par tout que des sottes⁎ qui rient,
 Point de raisonnement.
 
--*who_virgine
+-*who_virgine 
       Pourquoy les voyez-vous ?
 
 -*who_marquis
@@ -3197,7 +3197,7 @@ Ordonnez du Contract, tout mon bien est le vôtre.
 Carlin, si je conclus, après le mot lâché
 Tu diras que de moy je fais trop bon marché ?
 
--*who_carlin
+-*who_carlin 
 Sans les meubles elle a dix mille écus de rente.
 Vous pourriez trouver mieux.
 
@@ -3241,7 +3241,7 @@ Qu'est-ce ?
 -*who_virgine
 Qu'il vienne trente encor, je n'y suis pour personne.
 
--*who_lyse
+-*who_lyse 
 On a suivy vôtre ordre.
 
 -*who_marquis
@@ -3381,7 +3381,7 @@ Quel bruit faisoit-on là ?
 -*who_virgine
 Oronte ?
 
--*who_carlin
+-*who_carlin 
       Adieu la fourbe.
 
 -*who_lyse
@@ -3421,7 +3421,7 @@ Lyse, aucun de ses Gens⁎ n'est-il encore venu ?
 -*who_lyse
 Non, Monsieur.
 
--*who_oronte
+-*who_oronte 
       Un Portier qui ne m‘est pas connû
 M'a fait façon là bas quand je t'ay demandée.
 
@@ -3470,7 +3470,7 @@ Pour vous, estant Geante, elle auroit plus d'appas⁎.
 -*who_marquis
 Geante !
 
--*who_oronte
+-*who_oronte 
       Il parle d'elle, et ne la connoit pas.
 
 -*who_marquis
@@ -3515,7 +3515,7 @@ Encor, quelle rencontre…
 Ces Freres curieux parlent si lentement.
 Laissez-moy mes secrets, je vous laisse les vôtres.
 
--*who_oronte
+-*who_oronte 
 J'admire…
 
 -*who_marquis
@@ -3589,7 +3589,7 @@ Serviteur.
       En maison étrangere,
 N'en eust-on qu'un à dire, il est bon de se taire.
 
--*who_anselme
+-*who_anselme 
 Puisqu'on sçait que pour vous ma Fille…
 
 -*who_marquis
@@ -3677,7 +3677,7 @@ Ma Reine, un peu de cœur.
 -*who_marquis
 Ne vous pressez point tant, j'ay dequoy vous guerir.
 
--*who_virgine
+-*who_virgine 
 Vous ?
 
 -*who_marquis
@@ -3722,7 +3722,7 @@ Mais le dédit⁎ signé…
       Quitte à l'aller reprendre,
 Deux mots, et trop heureux encor de me le rendre.
 
--*who_virgine
+-*who_virgine 
 Vous iriez chez Olympe ? ah, ne me quittez pas.
 Si l'ardeur de ma flâme⁎ a pour vous quelque appas⁎,
 Pour ne troubler en rien l'heur⁎ de ma destinée,
@@ -3767,7 +3767,7 @@ Touchez, foy de Marquis.
       Je vis sur cét espoir,
 Mais si vous me trompez…
 
--*who_marquis
+-*who_marquis 
       Vous tromper ! je n'ay garde.
 
 -*who_virgine
@@ -3812,7 +3812,7 @@ S'il ne l'agréoit pas, l'auroit-il voulu voir ?
 -*who_olympe
 Je ne vay pas si viste en ce qui m'interesse.
 
--*who_virgine
+-*who_virgine 
 Ma foy, je me repens d'avoir esté Comtesse,
 De n'avoir pas laissé la chose au mesme point.
 Vous ne meritez pas…
@@ -3882,7 +3882,7 @@ Si vous ne le sçavez, vous tombez du haut mal.
 -*who_olympe
 A se rendre credule il n'a point son égal.
 
--*who_carlin
+-*who_carlin 
 Ces pretendus defauts peuvent tant sur son ame,
 Qu'avec joye à son Frere il vous cede pour Femme.
 
@@ -3954,7 +3954,7 @@ Mais je crains le Marquis.
 -*who_carlin
       C'est une affaire à part.
 
--*who_virgine
+-*who_virgine 
 S'il m'avoit icy veuë en habit de Suivante,
 Comme la fourbe alors deviendroit apparente,
 Piqué de cet affront, dans son secret dépit,
@@ -4102,7 +4102,7 @@ Vous enragez assez de ne pouvoir courir.
 -*who_anselme
 Continuez, le jeu commençoit à vous plaire.
 
--*who_virgine
+-*who_virgine 
 Ne croyez pas, Monsieur…
 
 -*who_anselme
@@ -4146,7 +4146,7 @@ Quoy, toûjours vos je veux ?
       Ma foy, j'en suis d'avis⁎
 Qu'un pied plat comme vous glose⁎ sur un Marquis.
 
--*who_anselme
+-*who_anselme 
 Vous l'estes, et je sçay ce qu'est vostre famille,
 Mais d'où vient ce mépris quand vous aimez ma Fille ?
 Son hymen⁎ avec vous n'est-il pas résolu ?
@@ -4224,7 +4224,7 @@ Dites, combien la Niéce a-t'elle à retirer ?
 -*who_anselme
 De quoy me parlez-vous ?
 
--*who_marquis
+-*who_marquis 
       On m'a dit le mystere.
 Pour la Fille, elle a trop herité de sa Mere.
 Tombe-t'elle souvent… Là, vous m'entendez bien ?
@@ -4300,7 +4300,7 @@ Allons, vieux Roquentin, les armes à la main.
 -*who_virgine
 Donnez-moy, vous seriez d'icy jusqu'à demain.
 
--*who_marquis
+-*who_marquis 
 Bon, voyla ton dédit⁎, Bourgeois.
 
 -*who_anselme
@@ -4411,7 +4411,7 @@ Et qu'entre nous jamais ny discorde ny guerre…
 Et quand il la verra se debatre par terre,
 Faire des cris, hurler, rira-t'il bien ?
 
--*who_anselme
+-*who_anselme 
       Dequoy ?
 
 -*who_marquis
@@ -4454,7 +4454,7 @@ Et d'ailleurs j'ay pour vous…
 On m'a dit que je dois vous estre quelque chose
 Que vous épouserez la Comtesse.
 
--*who_marquis
+-*who_marquis 
       Comment,
 Qui vous l'a dit ?
 
@@ -4516,7 +4516,7 @@ Vous l'avez veuë ?
       Hola, qu'on appelle Virgine.
 Que j'en vay voir icy qui feront grise mine !
 
--*who_virgine
+-*who_virgine 
 On a besoin de moy, qu'est-ce ?
 
 -*who_marquis
@@ -4609,7 +4609,7 @@ J'ay levé tout obstacle aux vœux du Chevalier.
 -*who_marquis
 M'avoir fourbé ?
 
--*who_virgine
+-*who_virgine 
       J'ay tort ; mais Carlin qui me gaste…
 
 -*who_marquis

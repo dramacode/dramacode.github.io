@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1683 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1665 *creator_moliere
 
 -*who_sganarelle
 Quoique puisse dire Aristote et toute la Philosophie, il n'est rien d'égal au Tabac, c'est la passion des honnêtes gens, et qui vit sans tabac n'est pas digne de vivre ; non seulement il réjouit et purge les cerveaux humains, mais encore il instruit les âmes à la vertu, et leur apprend avec lui à demeurer honnête homme ; Ne voyez vous pas bien, dès qu'on en prend, de quelle manière obligeante on en use avec tout le monde, et comme on est ravi d'en donner à droite et à gauche, partout où l'on se trouve ?
@@ -39,7 +39,7 @@ Je ne sais pas de vrai quel homme il peut être, s'il faut qu'il nous ait fait c
 Je n'ai pas grande peine à le comprendre moi, et si tu connaissais le pèlerin, tu trouverais la chose assez facile pour lui ; je ne dis pas qu'il ait changé de sentiments pour Done Elvire, je n'en ai point de certitude encore ; tu sais que par son ordre je partis avant lui, et depuis son arrivée, il ne m'a point entretenu ; mais par précaution je t'apprends inter nos, que tu vois en Don Juan mon Maître le plus grand scélérat que la terre ait jamais porté, un enragé, un chien, un Diable, un Turc, un hérétique, qui ne croit ni Ciel ni Saint, ni Dieu, ni loup-garou, qui passe cette vie en véritable bête brute, en pourceau d'Épicure, en vrai Sardanapale, ferme l'oreille à toutes les remontrances Chrétiennes qu'on lui peut faire, et traite de billevesées tout ce que nous croyons ; tu me dis qu'il a épousé ta Maitresse, crois qu'il aurait plus fait pour contenter sa passion, et qu'avec elle il aurait encore épousé toi, son chien et son chat ; un mariage ne lui coûte rien à contracter, il ne se sert point d'autre piège pour attraper les belles, et c'est un épouseur à toutes mains, Dame, Damoiselle, Bourgeoise, Paysanne ; Il ne trouve rien de trop chaud ni de trop froid pour lui, et si je te disais le nom de toutes celles qu'il a épousées en divers lieux, ce serait un chapitre à durer jusques au soir ; tu demeures surpris et changes de couleur à ce discours ; ce n'est là qu'une ébauche du personnage ; et pour en achever le portrait, il faudrait bien d'autres coups de pinceau : Suffit qu'il faut que le courroux du Ciel l'accable quelque jour, qu'il me vaudrait bien mieux d'être au Diable qu'à lui, et qu'il me fait voir tant d'horreurs que je souhaiterais qu'il fût déjà je ne sais où.
 C'est une chose terrible, il faut que je lui sois fidèle en dépit que j'en aie ; la crainte en moi fait l'office du zèle, bride mes sentiments et me réduit à la complaisance d'applaudir bien souvent à ce que mon âme déteste ; le voila qui vient se promener dans ce Palais, séparons nous ; écoute, au moins je te fais confidence avec grande franchise, et cela m'est sorti un peu bien vite de la bouche ; mais s'il fallait qu'il en vînt quelque chose à ses oreilles, je dirais hautement que tu aurais menti.
 
-**** *book_ *id_I02 *act_I *date_1683 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1665 *creator_moliere
 
 -*who_don_juan
 Quel homme te parlait là ? il a bien de l'air, ce me semble, du bon Gusman de Done Elvire.
@@ -202,7 +202,7 @@ Monsieur vous ne me l'aviez pas demandé.
 -*who_don_juan
 Est-elle folle de n'avoir pas changé d'habit, et de venir dans ce lieu-ci avec son équipage de Campagne ?
 
-**** *book_ *id_I03 *act_I *date_1683 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1665 *creator_moliere
 
 -*who_done_elvire
 Me feriez-vous la grâce, Don Juan, de vouloir bien me reconnaître, et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ?
@@ -295,7 +295,7 @@ Allons songer à l'exécution de notre entreprise amoureuse.
 -*who_sganarelle
 Ah ! quel abominable Maître me vois-je obligé de servir.
 
-**** *book_ *id_II01 *act_II *date_1683 *creator_moliere
+**** *book_ *id_II01 *act_II *date_1665 *creator_moliere
 
 -*who_charlotte
 Notre dinje, Piarrot, tu t'is trouvé là bien à point.
@@ -435,7 +435,7 @@ Ah mon quieu, qu'il est gentis, et que c'aurait été dommage qu'il eût été n
 -*who_pierrot
 Je revians à l'heure, je m'en vas boire chopaine pour me rebouter tent soit peu de la fatigue que j'ai eu.
 
-**** *book_ *id_II02 *act_II *date_1683 *creator_moliere
+**** *book_ *id_II02 *act_II *date_1665 *creator_moliere
 
 -*who_don_juan
 Nous avons manqué notre coup Sganarelle, et cette bourrasque imprévue a renversé, avec notre barque, le projet que nous avions fait ; mais à te dire vrai la paysanne que je viens de quitter répare ce malheur, et je lui ai trouvé des charmes qui effacent de mon esprit tout le chagrin que me donnait le mauvais succès de notre entreprise ; il ne faut pas que ce cœur m'échappe, et j'y ai déjà jeté des dispositions à ne me pas souffrir de pousser longtemps des soupirs.
@@ -574,7 +574,7 @@ Oh, Monsieur ! attendez que je soyons mariées, je vous prie, après ça je vou
 -*who_don_juan
 Et bien, belle Charlotte, je veux tout ce que vous voulez, abandonnez-moi seulement votre main, et souffrez, que par cent baisers je lui exprime le ravissement où je suis.
 
-**** *book_ *id_II03 *act_II *date_1683 *creator_moliere
+**** *book_ *id_II03 *act_II *date_1665 *creator_moliere
 
 -*who_pierrot
 Tout doucement Monsieur, tenez-vous s'il vous plaît, vous vous échauffez trop, et vous pourriez gagner la puresie.
@@ -675,7 +675,7 @@ Jarny, je vas dire à ta tante tout ce ménage-ci.
 -*who_don_juan
 Enfin je m'en vais être le plus heureux de tous les hommes, et je ne changerais pas mon bonheur à toutes les choses du monde : que de plaisirs, que de plaisirs, quand vous serez ma femme, et que !
 
-**** *book_ *id_II04 *act_II *date_1683 *creator_moliere
+**** *book_ *id_II04 *act_II *date_1665 *creator_moliere
 
 -*who_sganarelle
 Ah, ah.
@@ -870,7 +870,7 @@ Hon.
 -*who_sganarelle
 Ce sont des Impertinents.
 
-**** *book_ *id_II05 *act_II *date_1683 *creator_moliere
+**** *book_ *id_II05 *act_II *date_1665 *creator_moliere
 
 -*who_la_ramee
 Monsieur je viens vous avertir qu'il ne fait pas bon ici pour vous.
@@ -894,7 +894,7 @@ Allons vite, c'est trop d'honneur que je vous fais, et bien heureux est le valet
 Je vous remercie d'un tel honneur.
 Ô Ciel puisqu'il s'agit de mort, fais-moi la grâce de n'être point pris pour un autre.
 
-**** *book_ *id_III01 *act_III *date_1683 *creator_moliere
+**** *book_ *id_III01 *act_III *date_1665 *creator_moliere
 
 -*who_sganarelle
 Ma foi Monsieur, avouez que j'ai eu raison, et que nous voilà l'un et l'autre déguisés à merveille, votre premier dessein n'était point du tout à propos, et ceci nous cache bien mieux que tout ce que vous vouliez faire.
@@ -1029,7 +1029,7 @@ Mais tout en raisonnant, je crois que nous sommes égarés ; appelle un peu cet
 -*who_sganarelle
 Holà ho l'homme, ho mon compère, ho l'ami, un petit mot s'il vous plaît.
 
-**** *book_ *id_III02 *act_III *date_1683 *creator_moliere
+**** *book_ *id_III02 *act_III *date_1665 *creator_moliere
 
 -*who_sganarelle
 Enseigne nous un peu le chemin qui mène à la ville.
@@ -1100,7 +1100,7 @@ Non Monsieur, j'aime mieux mourir de faim.
 -*who_don_juan
 Va, va, je te le donne pour l'amour de humanité, mais que vois-je là ? un homme attaqué par trois autres ! la partie est trop inégale, et je ne dois pas souffrir cette lâcheté.
 
-**** *book_ *id_III03 *act_III *date_1683 *creator_moliere
+**** *book_ *id_III03 *act_III *date_1665 *creator_moliere
 
 -*who_sganarelle
 Mon Maître est un vrai enragé d'aller se présenter à un péril qui ne le cherche pas ; mais ma foi le secours a servi, et les deux ont fait fuir les trois.
@@ -1156,7 +1156,7 @@ Je suis si attaché à Don Juan qu'il ne saurait se battre que je ne me batte au
 -*who_don_carlos
 Que ma destinée est cruelle ! faut il que je vous doive la vie, et que Don Juan soit de vos amis !
 
-**** *book_ *id_III04 *act_III *date_1683 *creator_moliere
+**** *book_ *id_III04 *act_III *date_1665 *creator_moliere
 
 -*who_don_alonse
 Faites boire là nos chevaux, et qu'on les amène après nous, je veux un peu marcher à pied.
@@ -1196,7 +1196,7 @@ Je n'ai rien exigé de vous, et je vous tiendrai ce que j'ai promis.
 -*who_don_carlos
 Allons, mon frère, un moment de douceur ne fait aucune injure à la sévérité de notre devoir.
 
-**** *book_ *id_III05 *act_III *date_1683 *creator_moliere
+**** *book_ *id_III05 *act_III *date_1665 *creator_moliere
 
 -*who_don_juan
 Holà, ho, Sganarelle.
@@ -1313,7 +1313,7 @@ Allons, sortons d'ici.
 -*who_sganarelle
 Voilà de mes esprits forts qui ne veulent rien croire.
 
-**** *book_ *id_IV01 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV01 *act_IV *date_1665 *creator_moliere
 
 -*who_don_juan
 Quoiqu'il en soit laissons cela, c'est une bagatelle, et nous pouvons avoir été trompés par un faux jour, ou surpris de quelque vapeur qui nous ait troublé la vue.
@@ -1330,7 +1330,7 @@ Fort bien, Monsieur, le mieux du monde ; vous vous expliquez clairement ; c'es
 -*who_don_juan
 Allons, qu'on me fasse souper le plus tôt qu'on pourra, une chaise, petit garçon.
 
-**** *book_ *id_IV02 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV02 *act_IV *date_1665 *creator_moliere
 
 -*who_la_violette
 Monsieur, voilà votre marchand, Monsieur Dimanche, qui demande à vous parler.
@@ -1348,7 +1348,7 @@ Qu'il attende tant qu'il voudra.
 -*who_don_juan
 Non, au contraire, faites-le entrer, c'est une fort mauvaise politique que de se faire celer aux créanciers ; il est bon de les payer de quelque chose, et j'ai le secret de les renvoyer satisfaits sans leur donner un double.
 
-**** *book_ *id_IV03 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV03 *act_IV *date_1665 *creator_moliere
 
 -*who_don_juan
 Ah, Monsieur Dimanche, approchez ; que je suis ravi de vous voir, et que je veux de mal à mes gens de ne vous pas faire entrer d'abord ; j'avais donné ordre qu'on ne me fît parler à personne, mais cet ordre n'est pas pour vous, et vous êtes en droit de ne trouver jamais de porte fermée chez moi.
@@ -1586,7 +1586,7 @@ De.
 -*who_sganarelle
 Fi vous dis-je.
 
-**** *book_ *id_IV04 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV04 *act_IV *date_1665 *creator_moliere
 
 -*who_la_violette
 Monsieur.
@@ -1606,7 +1606,7 @@ Monsieur, si vous étiez assis, vous en seriez bien mieux pour parler.
 -*who_don_louis
 Non, insolent, je ne veux point m'asseoir ni parler davantage, et je vois bien que toutes mes paroles ne font rien sur ton âme ; mais sache, fils indigne, que la tendresse paternelle est poussée à bout par tes actions, que je saurais plutôt que tu ne penses mettre cette borne à tes dérèglements, prévenir sur toi le courroux du Ciel, et laver par ta punition la honte de t'avoir fait naître.
 
-**** *book_ *id_IV05 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV05 *act_IV *date_1665 *creator_moliere
 
 -*who_don_juan
 Eh mourez, le plus tôt que vous pourrez, c'est le mieux que vous puissiez faire ; il faut que chacun vive son tour, et j'enrage de voir que des Pères vivent autant que leurs fils.
@@ -1629,7 +1629,7 @@ Oui Monsieur vous avez tort, d'avoir souffert ce qu'il vous a dit, et vous le de
 -*who_don_juan
 Me fera-t-on souper bientôt ?
 
-**** *book_ *id_IV06 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV06 *act_IV *date_1665 *creator_moliere
 
 -*who_ragotin
 Monsieur, voici une Dame voilée qui vient vous parler.
@@ -1679,7 +1679,7 @@ Madame, vous me ferez plaisir de demeurer ici, je vous assure.
 -*who_done_elvire
 Non vous dis-je, ne perdons point de temps en discours superflus, laissez-moi vite aller, ne faites aucune instance pour me conduire, et songez seulement à profiter de mon avis.
 
-**** *book_ *id_IV07 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV07 *act_IV *date_1665 *creator_moliere
 
 -*who_don_juan
 Sais-tu bien que j'ai encore senti quelque peu d'émotion pour elle, que j'ai trouvé de l'agrément dans cette nouveauté bizarre, et que son habit négligé, son air languissant et ses larmes ont réveillé en moi quelques petits restes de feu éteint ?
@@ -1753,7 +1753,7 @@ Allons voir, et montrons que rien ne me saurait ébranler.
 -*who_sganarelle
 Ah pauvre Sganarelle ! où te cacheras tu ?
 
-**** *book_ *id_IV08 *act_IV *date_1683 *creator_moliere
+**** *book_ *id_IV08 *act_IV *date_1665 *creator_moliere
 
 -*who_don_juan
 Une chaise et un couvert, vite donc, allons, mets-toi à table.
@@ -1791,7 +1791,7 @@ Prends ce flambeau.
 -*who_la_statue
 On n'a pas besoin de lumières quand on est conduit par le Ciel.
 
-**** *book_ *id_V01 *act_V *date_1683 *creator_moliere
+**** *book_ *id_V01 *act_V *date_1665 *creator_moliere
 
 -*who_don_louis
 Quoi, mon fils, serait-il possible que la bonté du Ciel eût exaucé mes vœux ? ce que vous me dites est il bien vrai ? ne m'abusez-vous point d'un faux espoir, et puis-je prendre quelque assurance sur la nouveauté surprenante d'une telle conversion ?
@@ -1802,7 +1802,7 @@ Oui, vous me voyez revenu de toutes mes erreurs, je ne suis plus le même d'hier
 -*who_don_louis
 Ah mon fils, que la tendresse d'un père est facilement rappelée, et que les offenses d'un fils s'évanouissent vite au moindre mot de repentir ! je ne me souviens plus déjà de tous les déplaisirs que vous m'avez donnés, et tout est effacé par les paroles que vous venez de me faire entendre ; je ne me sens pas, je l'avoue, je jette des larmes de joie, tous mes vœux sont satisfaits, et je n'ai plus rien désormais à demander au Ciel ; embrassez-moi et persistez je vous conjure dans cette louable pensée ; pour moi je m'en vais tout de ce pas porter l'heureuse nouvelle à votre mère, partager avec elle les doux transports de ravissement où je suis, et rendre grâce au Ciel des saintes résolutions qu'il a daigné vous inspirer.
 
-**** *book_ *id_V02 *act_V *date_1683 *creator_moliere
+**** *book_ *id_V02 *act_V *date_1665 *creator_moliere
 
 -*who_sganarelle
 Ah Monsieur ! que j'ai de joie de vous voir converti ; il y a longtemps que j'attendais cela, et voilà, grâce au Ciel, tous mes souhaits accomplis.
@@ -1851,7 +1851,7 @@ Sachez Monsieur que tant va la cruche à l'eau qu'enfin elle s'y brise, et comme
 -*who_sganarelle
 Après cela, si ne vous rendez, tant pis pour vous.
 
-**** *book_ *id_V03 *act_V *date_1683 *creator_moliere
+**** *book_ *id_V03 *act_V *date_1665 *creator_moliere
 
 -*who_don_carlos
 Don Juan je vous trouve à propos, et suis bien aise de vous parler ici plutôt que chez vous, pour vous demander vos résolutions ; vous savez que ce soin me regarde, et que je me suis en votre présence chargé de cette affaire, pour moi je ne le cèle point, je souhaite fort que les choses aillent dans la douceur, et il n'y a rien que je ne fasse pour porter votre esprit à vouloir prendre cette voie, et pour vous voir publiquement à ma sœur confirmer le nom de votre femme.
@@ -1910,7 +1910,7 @@ Vous ferez ce que vous voudrez, vous savez que je ne manque point de cœur, et q
 -*who_don_carlos
 Nous verrons de vrai, nous verrons.
 
-**** *book_ *id_V04 *act_V *date_1683 *creator_moliere
+**** *book_ *id_V04 *act_V *date_1665 *creator_moliere
 
 -*who_sganarelle
 Monsieur, quel Diable de style prenez-vous là ? ceci est bien pis que le reste, et je vous aimerais bien mieux encore comme vous étiez auparavant, j'espérais toujours de votre salut, mais c'est maintenant que j'en désespère, et je croyais que le Ciel qui vous a souffert jusques ici ne pourra du tout souffrir cette dernière horreur.
@@ -1924,7 +1924,7 @@ Ah Monsieur, c'est le Ciel qui vous parle, et c'est un avis qu'il vous donne.
 -*who_don_juan
 Si le Ciel me donne un avis, il faut qu'il parle plus clairement s'il veut que je l'entende.
 
-**** *book_ *id_V05 *act_V *date_1683 *creator_moliere
+**** *book_ *id_V05 *act_V *date_1665 *creator_moliere
 
 -*who_le_spectre
 Don Juan n'a plus qu'un moment à pouvoir profiter de la miséricorde du Ciel, et s'il ne se repent ici sa perte est résolue.
@@ -1953,7 +1953,7 @@ Ah Monsieur, rendez-vous à tant de preuves et jetez-vous vite dans le repentir.
 -*who_don_juan
 Non, non, il ne sera pas dit que quoi qu'il arrive je sois capable de me repentir allons suis-moi.
 
-**** *book_ *id_V06 *act_V *date_1683 *creator_moliere
+**** *book_ *id_V06 *act_V *date_1665 *creator_moliere
 
 -*who_la_statue
 Arrêtez Don Juan, vous m'avez hier donné parole de venir manger avec moi.

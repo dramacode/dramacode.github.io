@@ -11,7 +11,7 @@ Charlote, Belle Charlote !
 -*who_lignon
 Pourquoy, cruel Amour…
 
--*who_jourdain
+-*who_jourdain 
 Si l'ardeur de la flâme…
 
 -*who_lignon
@@ -44,7 +44,7 @@ Si tu veux montrer ton pouvoir…
 -*who_jourdain
 Pour obtenir de tes bontez…
 
--*who_lignon
+-*who_lignon 
 En nous forçant d'aimer…
 
 -*who_jourdain
@@ -77,7 +77,7 @@ Mais si toute mon ardeur…
 -*who_lignon
 Veux-tu que tes moindres plaisirs…
 
--*who_jourdain
+-*who_jourdain 
 Tous mes soins et tous mes respects…
 
 -*who_lignon
@@ -101,7 +101,7 @@ Oüy ; mais je suis un Amant qui ay besoin de cette place pour soûpirer.
 -*who_lignon
 Je suis aussi un Amant qui ay affaire de ce lieu-cy pour resver à mon amour.
 
--*who_jourdain
+-*who_jourdain 
 Vous estes Amant ?
 
 -*who_lignon
@@ -132,7 +132,7 @@ Vous vous moquez.
 -*who_lignon
 Moy !
 
--*who_jourdain
+-*who_jourdain 
 Oüy.
 
 -*who_lignon
@@ -162,7 +162,7 @@ Je l'aime aussy.
 -*who_lignon
 Vous l'aimez aussi, Pasteur ?
 
--*who_jourdain
+-*who_jourdain 
 Oüy, Pasteur ; mais puis-je sçavoir le nom de mon Rival ?
 
 -*who_lignon
@@ -186,7 +186,7 @@ Il y a des Remedes plus humains que cela, si nous voulons nous en servir.
 -*who_lignon
 Et quels ?
 
--*who_jourdain
+-*who_jourdain 
 Ouy, avez-vous declaré votre amour ?
 
 -*who_lignon
@@ -204,7 +204,7 @@ Mais la voicy.
 -*who_jourdain
 Belle Nymphe, vous voyez icy deux Fleuves tous deux amoureux de vous.
 
--*who_lignon
+-*who_lignon 
 Oüy, nous sommes deux pauvres Amans nécessiteux, qui viennent à vostre Porte vous demander l'aumône de vos bonnes graces.
 
 -*who_jourdain
@@ -220,7 +220,7 @@ Je ne sçay où il est depuis ce matin qu'il s'est mis en Mer avec la Chaloupe.
 -*who_jourdain
 Ah, trois et quatre fois belle et trop belle Beauté, nous n'avons rien veu icy que le mérite des perfections de vos avantages.
 
--*who_lignon
+-*who_lignon 
 Cela est vray, belle Nymphe.
 
 -*who_charlote
@@ -264,7 +264,7 @@ Je trouve que pour nostre disgrace ce n'est pas assez de se pendre.
 Ah ! voicy nostre Rival ; retirons-nous, Pasteur, de peur de quelques demeslez.
 
 
--*who_lignon
+-*who_lignon 
 Cela est vray, Pasteur.
 
 **** *book_ *id_body-203 *act_ *date_1682 *creator_champmesle
@@ -316,7 +316,7 @@ En lieu de pourpoint, de petites brassieres qui ne leur venons pas jusqu'au bric
 Ils avon itou d'autres petits rabats au bout des bras, et parmi tout ça tant de ribans que c'est grande piquié.
 Il n'y a pas jusqu'aux souliez qui n'en soiont tous farcy, tout depuis un bout jusqu'à l'autre ; et ils sont faits d'une façon que je me romprois le cou aveuc.
 
--*who_charlote
+-*who_charlote 
 Il faut que j'aille voir un peu ça.
 
 -*who_pierrot
@@ -337,7 +337,7 @@ Il y a que tu me chagrines l'esprit, franchement.
 -*who_charlote
 Comment donc ?
 
--*who_pierrot
+-*who_pierrot 
 Testedienne⁎, tu ne m'aimes point.
 
 -*who_charlote
@@ -361,7 +361,7 @@ Jernidienne⁎ je veux que tu m'aimes.
 -*who_charlote
 Est-ce que je ne t'aime pas ?
 
--*who_pierrot
+-*who_pierrot 
 Non, tu ne m'aimes pas ; et si je fais tout ce que je pis pour ça.
 Je t'achette sans reproche des ribans à tous les maciez qui passon.
 Je me romps le cou à t'aller dénicher des marles.
@@ -380,7 +380,7 @@ Qu'est-ce que tu veux qu'on fasse ?
 -*who_pierrot
 Je veux que l'on fasse comme on fait quand on aime comme il faut.
 
--*who_charlote
+-*who_charlote 
 Mais je t'aime comme il faut.
 
 -*who_pierrot
@@ -440,7 +440,7 @@ Par ma foy il semble que nous n'ayons jamais bû que du vin, et nous voila aussi
 Tais-toy.
 Ah ! la jolie Personne, Gusman.
 
--*who_gusman
+-*who_gusman 
 La peste, le joly tendron !
 
 -*who_juan
@@ -461,7 +461,7 @@ Ho, Monsieur, il y a bien des filles et des garçons dans notre hameau.
 -*who_juan
 Il faut que vous quittiez une si triste demeure.
 
--*who_charlote
+-*who_charlote 
 Ho, Monsieur, mon pere me vouloit marier au gros Lucas, mais ma mere n'a pas voulu, à cause qu'il me falloit aller demeurer à trois lieuës d'icy avec luy.
 
 -*who_juan
@@ -498,7 +498,7 @@ O Monsieur, vous ne voudriez pas aimer une petite fille comme moy.
 -*who_gusman
 Si fait, si fait, je vous en répons.
 
--*who_charlote
+-*who_charlote 
 Mais, Monsieur, il faut demander à ma mere.
 
 -*who_gusman
@@ -519,7 +519,7 @@ O Monsieur, quand j'ay mes habits des Dimanches.
 -*who_juan
 Ah ! les belles dents, montrez-les-moy encore de grace ; quel rang de perles, quelles mains, elles sont faites au tour ; quelle blancheur !
 
--*who_charlote
+-*who_charlote 
 O Monsieur, si j'avois sçeu ça, je les aurois lavées ce matin avec du son, elles seroient bien plus blanches.
 
 -*who_juan
@@ -531,7 +531,7 @@ O Monsieur, ma mere m'a dit qu'il ne falloit pas baiser les hommes, je ne baise 
 -*who_juan
 Tant mieux, ma belle, tant mieux, abandonnez-moy seulement vostre main ; je ne me sens pas de joye et rien n'égale le ravissement où je suis.
 
-**** *book_ *id_body-205 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-205 *act_ *date_1682 *creator_champmesle 
 
 -*who_pierrot
 Tout doucement, Monsieur, tenez-vous, s'il vous plaist, vous vous échaufez trop, et vous pourriais gagner la puresie.
@@ -545,7 +545,7 @@ Je vous dis qu'ou vous teniais, et que vous ne caressiais pas nos accordées.
 -*who_juan
 Ah ! que de brüit.
 
--*who_pierrot
+-*who_pierrot 
 Jernidienne⁎, ce n'est pas comme ça qu'il faut pousser les gens.
 
 -*who_charlote
@@ -590,7 +590,7 @@ Jarnigué⁎, oüy, j'aime mieux te voir crever, que de te voir à un autre.
 -*who_charlote
 Va va Pierrot, tu porteras des fromages cheux nous.
 
--*who_pierrot
+-*who_pierrot 
 Ventredienne⁎, je n'y en porteray jamais quand tu m'en poirois deux fois autant qu'un autre ; est-ce donc comme ça que t'escoutes ce qu'il te dit ?
 Morguienne⁎, si j'avois sceu ça tantost, je me serois bien gardé de le tirer de liau, et je luy aurois baillé⁎ un bon coup d'aviron sur la teste.
 
@@ -612,7 +612,7 @@ Voyons cela.
 -*who_pierrot
 J'en avons bian veu d'autres.
 
--*who_gusman
+-*who_gusman 
 Eh ! laisse-le faire, mon pauvre garçon, et ne luy dis rien.
 
 -*who_pierrot
@@ -652,7 +652,7 @@ Adieu, qu'on ne m'en souffle pas seulement un petit mot.
 Voyez-vous, il leur faut des godeluriaux, de ces petits muguets bastis comme des poupées, avec leurs grands cheveux et leurs petites épées ; non sera, non sera vostre Monsieur, le Monsieur ne sera pas pour vous, ma fille.
 Ah, voicy son Valet de Chambre, c'est le plus honneste d'eux tous, celuy-là, car dés le matin nous avons bû ensemble.
 
-**** *book_ *id_body-302 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-302 *act_ *date_1682 *creator_champmesle 
 
 -*who_juge
 Monsieur Gusman, je suis le vostre ; comment vous va ?
@@ -667,7 +667,7 @@ Vous estes un brave homme, vous ; et de toute vostre bande, vous estes celuy qu
 -*who_gusman
 Monsieur, je vous suis bien obligé, et aussi en récompense je vous viens avertir de quelque petite chose qui vous touche.
 
--*who_juge
+-*who_juge 
 Moy !
 
 -*who_gusman
@@ -714,7 +714,7 @@ Il est vray qu'il ne veut pas consentir à ce mariage, parce que sa parole est e
 -*who_silvestre
 Par la mort, par la teste, par le ventre, si je le trouve, je le veux échigner, deussay-je estre roüé tout vif.
 
--*who_gusman
+-*who_gusman 
 Hé, Monsieur, c'est un honneste homme, peut-estre ne vous craindra-t'il point.
 
 -*who_silvestre
@@ -764,7 +764,7 @@ Ah, canaille, vous en voulez par là, je vous en feray tâter vostre saoul.
 Soûtenez, marauts, soûtenez.
 Allons, à cette botte, à cette autre, à celle-cy, à celle-là ; comment, vous reculez ? pied ferme, morbleu ; pied ferme.
 
--*who_gusman
+-*who_gusman 
 Nous n'en sommes pas.
 
 -*who_silvestre
@@ -799,7 +799,7 @@ Je m'en vais un peu consulter ce que j'ay à faire, et si on ne me conseille rie
 -*who_gusman
 La peste soit le vieux fou, il nous va attirer icy quelque défluxion sur les épaules.
 
-**** *book_ *id_body-304 *act_ *date_1682 *creator_champmesle
+**** *book_ *id_body-304 *act_ *date_1682 *creator_champmesle 
 
 -*who_juan
 Et bien, Gusman, qu'as-tu fait ?
@@ -852,7 +852,7 @@ Paix, paix ; ne dis mot, écoute seulement, je vay payer d'une monnoye toute no
 Ah, que vois-je ?
 Mr Dimanche icy ! quelle heureuse rencontre !
 
--*who_dimanche
+-*who_dimanche 
 Monsieur….
 
 -*who_juan
@@ -870,7 +870,7 @@ Monsieur, c'est beaucoup d'honneur que vous me faites ; mais si vous y vouliez 
 -*who_juan
 Comment se porte Madame Dimanche vostre femme ?
 
--*who_dimanche
+-*who_dimanche 
 Fort à vostre service, Monsieur.
 Je voudrois donc vous prier….
 
@@ -912,7 +912,7 @@ Il vous ressemble comme deux goutes d'eau.
 -*who_dimanche
 Voyez-vous, Monsieur, dans le negoce si nous ne payons à jour nommé, on proteste d'abord contre nous ; c'est ce qui fait, Monsieur, que nous importunons quelquefois nos debiteurs ; et comme vous m'avez fait l'honneur de prendre….
 
--*who_juan
+-*who_juan 
 A propos, vostre petit Chien est-il encore en vie ?
 
 -*who_gusman
@@ -945,7 +945,7 @@ Je sçay trop ce que je vous dois.
 -*who_dimanche
 Et oüy Môsieur, d'accord, mais le besoin…
 
--*who_juan
+-*who_juan 
 Allons, allons, permettez-moy de vous conduire.
 
 -*who_dimanche

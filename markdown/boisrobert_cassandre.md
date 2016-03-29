@@ -723,7 +723,7 @@ Ie m'aſſeure, LECTEVR, que cette Trage-Comedie, que toute la Cour & toute la V
  – BERALDE,Eſcuyer d'Astolfe.
  – D. BERNARD DE ROCCAS,Gouuerneur de la Princeſſe.
 La Scene eſt à Barcelone.
-
+ 
 
 
 # ACTE PREMIER.
@@ -837,7 +837,7 @@ Sans m'escouter, Madame.
 Obeïssez, vous dis-je, & ne repliquez pas.  
 
     ASTOLFE, *à part.*
-Quel accueil, justes Dieux, quelle atteinte à mon ame.  
+Quel accueil, justes Dieux, quelle atteinte à mon ame.   
 
 
 ## SCENE III.
@@ -934,7 +934,7 @@ Entre nous arresté, qui regle nostre sort.
 
     MONCADE.
 Ie le veux, aprenons sur son rapport fidelle  
-Qui de vous ou de moy plaist aux yeux d'Isabelle,  
+Qui de vous ou de moy plaist aux yeux d'Isabelle,   
 
 
 ## SCENE IV.
@@ -1104,7 +1104,7 @@ N'osant pas m'annoncer cette dure nouuelle,
 Pour me la faire entendre elle mande⁎ Isabelle.  
 Quoy Moncade, d'escrire a pris la liberté !  
 Quoy, i'aurois vn riual, plus chery, mieux traitté ?  
-Relisons ce billet, taschons d'y mieux connoistre.  
+Relisons ce billet, taschons d'y mieux connoistre.   
 
 
 ## SCENE VII.
@@ -1204,7 +1204,7 @@ Malheureuse Cassandre.
     MONCADE.
 Suiuons-la pour luy dire enfin tout mon tourment⁎ :  
 Car je n'attens plus rien de cét iniuste frere.  
-Elle emporte ma lettre.  
+Elle emporte ma lettre.   
 
 
 ## SCENE VIII.
@@ -1260,7 +1260,7 @@ Ie ne puis jamais l'estre, adieu.
         Quelle injustice.  
 D'où luy vient ce mespris, d'où luy naist ce caprice ?  
 Si i'apprens qu'Isabelle ait vn mespris pareil,  
-Enfin de la raison nous suiurons le conseil.  < Fin du premier Acte. >
+Enfin de la raison nous suiurons le conseil.  < Fin du premier Acte. > 
 
 
 # ACTE II.
@@ -1601,7 +1601,7 @@ O trop heureux Astolfe, Astolfe glorieux,
 Cette faueur⁎ t'égalle à la gloire des Dieux,  
 Voicy le Duc mon Pere, il faut luy faire entendre,  
 Les effets d'vn amour & si noble & si tendre,  
-Il est dénaturé⁎ s'il n'en est satisfait.  
+Il est dénaturé⁎ s'il n'en est satisfait.   
 
 
 ## SCENE IV.
@@ -1790,7 +1790,7 @@ Ah que fis-tu Nature en la faisant ma sœur ?
 M'en priuer, m'en bannir, helas m'est-il possible ?  
 A ce charme⁎ diuin mon ame est trop sensible,  
 L'esloignement tout seul ne me peut secourir,  
-Ie ne voy que la mort qui me puisse guerir.  < Fin du second Acte. >
+Ie ne voy que la mort qui me puisse guerir.  < Fin du second Acte. > 
 
 
 # ACTE III.
@@ -1952,7 +1952,7 @@ Pour vous rendre content.
     D. PEDRE.
         Amy je vous en prie.  
 
-    BERALDE *à part*.
+    BERALDE *à part*. 
 Ie me suis bien tiré d'vn pas fort dangereux,  
 Mais on ne peut long-temps fourber deux amoureux.  
 Il se tire à l'écart.
@@ -2181,7 +2181,7 @@ I'eusse conneu son ame aux mouuemens des yeux.
 La voicy ; dans l'air gay qui brille en son visage,  
 Ie voy de ma fortune vn asseuré⁎ presage ;  
 Ma rencontre a causé ce transport amoureux,  
-Si j'en sçay bien vser suis-je pas trop heureux ?  
+Si j'en sçay bien vser suis-je pas trop heureux ?   
 
 
 ## SCENE VII.
@@ -2329,7 +2329,7 @@ Quoy que mon triste cœur n'y puisse consentir,
 Quoy que je sente bien qu'en ma douleur extresme,  
 Me separant de vous je m'arrache à moy mesme,  
 Il faut de vos beaux yeux me priuer desormais,  
-Princesse, il faut vous dire vn adieu pour jamais [86].  
+Princesse, il faut vous dire vn adieu pour jamais [86].   
 
 
 ## SCENE IX.
@@ -2396,7 +2396,7 @@ Que voulez-vous, Madame.
 Son esprit agité souffre vne estrange⁎ peine.  
 
     CASSANDRE.
-Qu'on me cherche le Duc viste, & qu'on me l'ameine.  < Fin du troisiesme Acte. >
+Qu'on me cherche le Duc viste, & qu'on me l'ameine.  < Fin du troisiesme Acte. > 
 
 
 # ACTE IV.
@@ -2415,7 +2415,7 @@ Vostre équipage est prest, pour vostre passeport,
 Ie m'en vay le signer.  
 
     ASTOLFE *à part*.
-        Ah c'est signer ma mort.  
+        Ah c'est signer ma mort.   
 
 
 ## SCENE II.
@@ -2440,7 +2440,7 @@ Elle ne peut souffrir⁎ aucun retardement,
 Seigneur, l'ordre est pressant, donc sans plus de demeure⁎.  
 
     LE DVC.
-Allons, tenez vous prest, je reuiens dans vne heure.  
+Allons, tenez vous prest, je reuiens dans vne heure.   
 
 
 ## SCENE III.
@@ -2535,7 +2535,7 @@ Cette colere est juste, & j'ay mal fait ma cour,
 Puis qu'elle a veu ma lettre, auant que mon amour,  
 Auec tant de ferueur se declarast pour elle,  
 Ie luy deuois marquer vn oubly d'Isabelle   
-I'ay connu sa prudence, & je voy mon erreur.  
+I'ay connu sa prudence, & je voy mon erreur.   
 
 
 ## SCENE V.
@@ -3031,7 +3031,7 @@ Gardes ne souffrez pas qu'il parle dauantage.
     CASSANDE.
 Duc, vous nous respondrez de cét esprit⁎ volage :  
 Il a voulu la mort, mais j'en auray le choix ;  
-I'entens qu'il soit jugé dans la rigueur des loix⁎.  < Fin du quatriesme Acte. >
+I'entens qu'il soit jugé dans la rigueur des loix⁎.  < Fin du quatriesme Acte. > 
 
 
 # ACTE V.
@@ -3336,7 +3336,7 @@ Que trop injustement nous auons occuppé.
     LE DVC
 Ie vay vous obeïr.  
 Le Duc s'en va.
-
+ 
 
 
 ## SCENE IV.
@@ -3435,7 +3435,7 @@ Et suis vers vostre Altesse accouru promptement.
 
     CASSANDRE *en rentrant*.
 He bien, nous les verrons auecque la Noblesse,  
-Pourray-ie bien le voir sans monstrer ma foiblesse⁎ ?  
+Pourray-ie bien le voir sans monstrer ma foiblesse⁎ ?   
 
 
 ## SCENE VI.
@@ -3653,7 +3653,7 @@ Et luy donne Moncade.
         O ! regne heureux & doux.  
 
     ASTOLFE.
-O bonté sans exemple.  
+O bonté sans exemple.   
 
 
 ## SCENE DERNIERE.
@@ -3816,15 +3816,7 @@ ACTE V | JORNADA TERCERA
 
 ## LA MENTIROSA VERDAD COMEDIA FAMOSA. COMPVESTA POR IVAN DE VILLEGAS.
 
-Dedicada à Don Juan de Lujan y Aragon,
-
-Cauallero de la Orden de Santiago.
-
-Zagoroza, 1636
-
-Salen Violante, el Duque, Carlos, y
-
-acompañamiento.
+*Dedicada à Don Juan de Lujan y Aragon, Cauallero de la Orden de Santiago. Zagoroza, 1636 Salen Violante, el Duque, Carlos, y acompañamiento.*
 
 *Duque*. De vuestra mucha prudencia,
 
@@ -4286,9 +4278,7 @@ en su rostro conoci,
 
 (5)
 
-Sale Isabel con manto, y Beltran
-
-con ella.
+Sale Isabel con manto, y Beltran con ella.
 
 *Isa*. El que quiero se desuia
 
@@ -4916,9 +4906,7 @@ venga luego a visitarme. (v. 67)
 
 mal aya : (v. 71)
 
-Vase Violante, y sale don Ramon, y don
-
-Iaime.
+Vase Violante, y sale don Ramon, y don Iaime.
 
 (3)
 
@@ -5840,9 +5828,7 @@ causa de que don Carlos aya buelto,
 
 (8)
 
-Salen don Carlos, y don Ramon, y don Iayme,
-
-*y toda la compañia*.
+Salen don Carlos, y don Ramon, y don Iayme, y toda la compañia
 
 *Salen damas, y doña Isabel, y Violante*.
 

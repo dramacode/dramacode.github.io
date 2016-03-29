@@ -281,7 +281,7 @@ De mon timide⁎ espoir peignez-luy le suplice.
 Par tout ce que vos feux⁎ ont pour luy de plus doux,
 Priez, pressez.
 
-**** *book_ *id_body-203 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-203 *act_ *date_1673 *creator_corneille 
 
 -*who_polixene
       HÉLAS ! que luy demandez-vous ?
@@ -447,7 +447,7 @@ Les liens d'une paix qui doit toûjours durer.
 -*who_alcime
 Vous aimez Polixene ?
 
--*who_achille
+-*who_achille 
       Ouy, je l'adore, Alcime,
 L'amour que j'ay pour elle égale mon estime,
 Et de ma liberté l'entier engagement,
@@ -793,7 +793,7 @@ Polixene me montre...
       Encor qu'intéressée,
 Elle peut de Priam ignorer la pensée.
 
--*who_pyrrhus
+-*who_pyrrhus 
 Non, Seigneur, croyez-en l'amour qu'elle a pour moy,
 Elle m'a descouvert ce que pense le Roy,
 Son coeur qui de mon feu⁎ partage la tendresse...
@@ -963,7 +963,7 @@ Accordons tout le reste, il touche peu mon ame.
 Et c'est ce qui du Sort vous marque le couroux,
 La main⁎ que vous voulez ne sçauroit estre à vous.
 
--*who_pyrrhus
+-*who_pyrrhus 
 Ne sçauroit estre à moy ? Dieux ! mais non, je m'abuse,
 Et d'un transport⁎ trop prompt ma passion s'accuse.
 Ne m'avez-vous pas dit que selon mes souhaits,
@@ -1113,7 +1113,7 @@ Quoy, Priam contre Achille en auroit crû sa haine ;
 Et l'hommage du Fils n'auroit point effacé⁎
 Le souvenir du sang que le Pere a versé ?
 
--*who_pyrrhus
+-*who_pyrrhus 
 J'ignore à qui je dois imputer ma disgrace,
 Mais enfin, plus d'espoir, un autre a pris ma place,
 Achille à mon Rival consent à m'immoler,
@@ -1189,7 +1189,7 @@ A changer de tendresse, à vivre pour un autre,
 Et voyez-vous ces maux avec si peu d'effroy,
 Que vous n'ayez pitié ny de vous ny de moy ?
 
--*who_polixene
+-*who_polixene 
 J'en fremis, je l'avouë, & mon ame estonnée⁎,
 A mille morts par là se trouve condamnée,
 Mais dés que j'ose voir vos malheurs & les miens,
@@ -1231,7 +1231,7 @@ Achille est inconstant ?
 Sur cet affreux revers⁎ je n'ose ouvrir les yeux.
 Se pourroit-il qu'Achille eust souffert qu'en son ame...
 
--*who_polixene
+-*who_polixene 
 Et quoy, de ce barbare ignorez-vous la flame⁎,
 Et qu'il veut que ma main⁎, assassinant Pyrrhus,
 Soit le prix des honneurs qu'Hector en a receus ?
@@ -1655,7 +1655,7 @@ A l'honneur asseuré de régner sur la Grece,
 Son coeur m'a plus esté qu'un Diadême offert,
 J'ay tout fait pour luy plaire, & c'est luy qui me perd.
 
--*who_achille
+-*who_achille 
 Madame, il seroit bon...épargnez-moy de grace,
 Le tiltre de Vainqueur peut donner de l'audace,
 Et je serois faché que de trop durs adieux...
@@ -1851,7 +1851,7 @@ Falloit-il que le sang que tu dois conserver
 Me coûtast le repos dont tu me vas priver !
 Heureux ceux dont le fer mettant fin à leur peine⁎...
 
-**** *book_ *id_body-602 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-602 *act_ *date_1673 *creator_corneille 
 
 -*who_polixene
 AH, Prince, quel sujet en ce lieu vous amene ?
@@ -1924,7 +1924,7 @@ Madame, vous prendrez ce conseil pour vous même,
 Et Pyrrhus effacé⁎ malgré de si beaux feux⁎
 Verra bientost Achille en estat d'estre heureux.
 
--*who_polixene
+-*who_polixene 
 Si j'entens mon devoir, c'est ce qu'il me demande,
 A ses barbares loix il veut que je me rende,
 Et qu'aux voeux d'un Espoux un Amant⁎ immolé
@@ -2073,7 +2073,7 @@ De périr !
 -*who_briseis
       Il y va de sa vie.
 
--*who_pyrrhus
+-*who_pyrrhus 
 Adieu, Madame.
 
 -*who_briseis
@@ -2112,7 +2112,7 @@ Mais d'où vient que Paris vous est si redoutable ?
 Que craindre pour Achille ? il est invulnérable,
 Et par un privilege & noble & glorieux...
 
--*who_briseis
+-*who_briseis 
 Je ne m'asseure point sur ce qu'ont fait les Dieux,
 Paris suit contre Achille une fureur⁎ extréme,
 Et pour craindre sa perte il suffit que je l'aime.

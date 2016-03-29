@@ -996,7 +996,7 @@ Et je vous vois encor de l'œil dont je vous veis [161].
 O d'une honneste femme indigne effronterie !  
 O d'un fils impudent insigne fourberie !  
 Allons, Sylvestre, allons & donnons plaisamment  
-Une fin qui réponde à ce commencement.  < Fin du premier Acte >
+Une fin qui réponde à ce commencement.  < Fin du premier Acte > 
 
 
 ## Acte II
@@ -1215,7 +1215,7 @@ Qu'aux experts en cet Art tu servirois de maitre.
 Tu sçauras en allant de mes ordres exprés [176]  
 Comment il faut mener mes intrigues [177] secrets,  
 Je t'instruiray du temps où ta naïve⁎ adresse⁎  
-Pourra si tu le veux répondre à ta promesse.  
+Pourra si tu le veux répondre à ta promesse.   
 
 
 ### Scène III
@@ -1428,7 +1428,7 @@ De venir avec moy, parce qu'il vous importe.
 
     OLIMPE
 Suivez-le, Lidamas, quelquefois ses pareils  
-A de plus sages qu'eux donnent de bons conseils.  
+A de plus sages qu'eux donnent de bons conseils.   
 
 
 ### Scène V
@@ -1461,7 +1461,7 @@ Sans te donner le soin⁎ de m'en solliciter.
 Cleanthe, je l'avoüe, a regné dans mon ame,  
 Mais en l'estat qu'il est, merite-t'il ma flame,  
 Certes si je pouvois l'estimer aujourd'huy  
-Je me declarerois plus aveugle que luy.  < Fin du second Acte >
+Je me declarerois plus aveugle que luy.  < Fin du second Acte > 
 
 
 ## Acte III
@@ -1499,7 +1499,7 @@ Et l'œil noyé de pleurs, il s'enfuit & me laisse.
 Lucille à ce surcroist de malheurs sans esgaux,  
 Laisse-moy chercher seule un remede à mes maux,  
 Souffre que sans secours je combatte ma peine.  
-Cependant attends-moy dans la chambre prochaine⁎.  
+Cependant attends-moy dans la chambre prochaine⁎.   
 
 
 ### Scène II
@@ -1683,7 +1683,7 @@ Qui maintiendra l'honneur de la fille & du pere.
 Dictez.  
 
     CLEANTHE *dicte.* [199]
-< Lettre. >
+ < Lettre. >
         Monsieur, sçachez que ma fille veut bien  
 Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,  
 Qu'il vienne promptement, & n'apprehende rien,  
@@ -1776,7 +1776,7 @@ Forçons nostre destin à devenir plus doux,
 Lucille m'a promis son silence & sa peine,  
 Allons la retrouver dans la chambre prochaine⁎,  
 Et d'un pas aussi prompt que mon commandement,  
-Envoyons-la porter ce mot à mon Amant.  
+Envoyons-la porter ce mot à mon Amant.   
 
 
 ### Scène IV
@@ -1795,7 +1795,7 @@ Parlons de Lidamas, esperes-tu qu'il vienne ?
     SYLVESTRE
 S'il ne vient pas, il faut que le Diable le tienne,  
 Mais il ne le tient pas, je l'apperçoy qui vient,  
-Comportons-nous tous deux, ainsi qu'il appartient.  
+Comportons-nous tous deux, ainsi qu'il appartient.   
 
 
 ### Scène V
@@ -1885,7 +1885,7 @@ Voy ma condition, & regarde la tienne.
     LIDAMAS
 Enfin j'ay pris sa montre, & supposé⁎ la mienne,  
 Allons trouver Olimpe, & faisons aujourd'huy  
-Un commerce⁎ amoureux des richesses d'autruy.  
+Un commerce⁎ amoureux des richesses d'autruy.   
 
 
 ### Scène VI
@@ -1909,7 +1909,7 @@ Ne te relâche point.
 
     SYLVESTRE
         Par Nerine & ses yeux  
-Je me comporteray tousjours de bien en mieux.  < Fin du troisiesme Acte >
+Je me comporteray tousjours de bien en mieux.  < Fin du troisiesme Acte > 
 
 
 ## Acte IV
@@ -2127,7 +2127,7 @@ Apprends-moy plus au long cette facheuse histoire.
     NERINE
 Telle qu'il me l'a dite elle est dans ma memoire,  
 Mais j'apperçoy quelqu'un qui pourroit écouter,  
-Venez ailleurs qu'icy l'entendre raconter.  
+Venez ailleurs qu'icy l'entendre raconter.   
 
 
 ### Scène IV
@@ -2269,7 +2269,7 @@ Que je choque⁎ l'ardeur dont vostre ame est atteinte,
 Je vous promets ma fille, & par dedans mes biens,  
 Vous avez des tresors qui surpassent les miens.  
 La voici cette fille, indigne de ma grace  
-Rejettons ce papier, & luy cedons la place.  
+Rejettons ce papier, & luy cedons la place.   
 
 
 ### Scène VI
@@ -2312,7 +2312,7 @@ Il peut en y passant accourcir son chemin [235],
 Et sçachant du logis jusqu'à la moindre addresse⁎  
 Il peut encor sans bruit venir voir sa maitresse⁎,  
 Comme je l'ay preveu l'affaire a reüssi,  
-Mes yeux se sont trompez, ou c'est lui que voici.  
+Mes yeux se sont trompez, ou c'est lui que voici.   
 
 
 ### Scène VII
@@ -2354,7 +2354,7 @@ Adieu.
         Je ne sçaurois vous dire adieu Thelame  
 On manque de parolle au poinct de perdre l'Ame  
 Recevez un soupir au defaut de la voix.  
-Mais qui [236] conduit icy, ce valet que je vois.  
+Mais qui [236] conduit icy, ce valet que je vois.   
 
 
 ### Scène VIII
@@ -2510,7 +2510,7 @@ Que puissions-nous mourir, si nous le declarons.
 En jurez vous tous deux.  
 
     THELAME & MELICE *ensemble.*
-        Ouy nous vous en jurons.  < Fin du quatriesme Acte. >
+        Ouy nous vous en jurons.  < Fin du quatriesme Acte. > 
 
 
 ## Acte V
@@ -2550,7 +2550,7 @@ Quelle autre me retient d'une invisible chaisne [247] ?
 Quelle autre me remarque entre ses courtisans ?  
 Et quelle autre a jamais receu de mes presents ?  
 Respond, il te sied mal de craindre & de te taire  
-Ta crainte & ton silence augmentent ma colere.  
+Ta crainte & ton silence augmentent ma colere.   
 
 
 ### Scène II
@@ -2707,7 +2707,7 @@ Moy n'avoir aujourd'huy rien humé que du vent !
 Ma foy j'éviteray ce mal d'orénavant.  
 Plustost que de jeusner, j'iray la teste nuë,  
 Estocader [260] du bras les passans dans la ruë ,   
-Mon Maistre me deusse-t -il… il vient à petits pas.  
+Mon Maistre me deusse-t -il… il vient à petits pas.   
 
 
 ### Scène IV
@@ -2944,7 +2944,7 @@ Mais apprenez m'en l'heure, & comment, & pourquoy ?
 Il m'a fait par priére accepter une montre…  
 Juste Ciel à mes yeux permets-tu qu'il se montre,  
 Il s'avance, le lasche, & marque son mespris  
-En mal traitant celuy par qui j'ay tout appris.  
+En mal traitant celuy par qui j'ay tout appris.   
 
 
 ### Scène VII
@@ -3088,7 +3088,7 @@ Apres ce sentiment de mon Amour esteinte [289],
 Apprenez-moy de qui vous avez sçeu ma feinte ?  
 
     SYLVESTRE *bas.*
-Ils me vont declarer, je tremble de frayeur.  
+Ils me vont declarer, je tremble de frayeur.   
 
 
 ### Scène dernière

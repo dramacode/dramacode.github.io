@@ -265,7 +265,7 @@ Allons pour Tiribaze affecter tant de zèle.
 Mais aimant Nitocris, présumant tout pour elle,
 S'il presse vostre Hymen, vous devez l'accorder.
 
--*who_darius
+-*who_darius 
 Il a trop de fierté pour me le demander ;
 Pour sa Fille et pour luy, mes soins, ma complaisance,
 Luy donnent plus d'orgueil, et plus de confiance.
@@ -296,7 +296,7 @@ Je le voy. Laisse-nous.
 Ce grand choix que le Roy fait si longtemps attendre,
 Le va-t-il faire enfin pour le commun bonheur ?
 
--*who_tiribaze
+-*who_tiribaze 
 Il brûle de le faire, et malgré tant d'ardeur,
 Il plaint Ariarathe, et son inquiétude
 Entre deux Fils si chers fait son incertitude.
@@ -532,7 +532,7 @@ Il fait tout pour la gloire, et j'en use de mesme.
 Mais enfin Darius, de l'air dont je le voy,
 Vous rendre quelques soins⁎…
 
--*who_nitocris
+-*who_nitocris 
       Hé qui peut mieux que moy
 Au Trône qui l'attend avec luy prendre place ?
 La faveur de mon Pere, et l'éclat de ma Race,
@@ -660,7 +660,7 @@ Me fait toûjours aimer ce que j'aime une fois.
 Quelle est cette fureurs⁎ ? Faut-il parce que j'aime,
 Renoncer à la gloire, et m'oublier moy-mesme ?
 
--*who_barsine
+-*who_barsine 
 Quel est vostre dessein ? Artaxerce aujourd'huy    
 Choisit un de ses Fils pour régner apres luy.
 S'il nomme Darius par une Loy supréme,
@@ -731,7 +731,7 @@ Je devore en secret mes cruels⁎ déplaisirs ;
 Je plains Ariarathe, et mon cœur qui soûpire⁎,
 Fait ce grand sacrifice au bonheur de l'Empire.
 
--*who_aspasie
+-*who_aspasie 
 Nous vous devons, Madame, apres ce digne éclat,
 De grands remercîmens au nom de tout l'Etat.
 S'il faut à cet effort laisser tout son mérite,
@@ -905,7 +905,7 @@ Les maux que je prévois pour vous et pour l'Empire !
 Tiribaze qui vient, seconde vos desseins,
 Et moy je vais pleurer les malheurs que je crains.
 
-**** *book_ *id_acte205 *act_acte2 *date_1683 *creator_boyer
+**** *book_ *id_acte205 *act_acte2 *date_1683 *creator_boyer 
 
 -*who_tiribaze
 Tout le Peuple demande avec impatience
@@ -1022,7 +1022,7 @@ Peut-il si-tost au Peuple arracher sa présence ?
 Mais le voicy qui vient, avant que voir le Roy,
 T'offrir l'espoir du Trône, aussi-bien que sa foy.
 
-**** *book_ *id_acte302 *act_acte3 *date_1683 *creator_boyer
+**** *book_ *id_acte302 *act_acte3 *date_1683 *creator_boyer 
 
 -*who_darius
 Je me dérobe enfin à la foule empressée,
@@ -1073,7 +1073,7 @@ Le Roy vient. Dérobons notre trouble à ses yeux.
 Le Prince est satisfait, et vous allez apprendre
 Quel est le fruit des soins que je viens de luy rendre.
 
-**** *book_ *id_acte304 *act_acte3 *date_1683 *creator_boyer
+**** *book_ *id_acte304 *act_acte3 *date_1683 *creator_boyer 
 
 -*who_darius
 Puis-je assez dignement répondre à vos bontez ?
@@ -1107,7 +1107,7 @@ Sa Fille doit régner, le Sceptre est à ce prix.
 -*who_darius
 Mon Frere perdra-t-il le Trône, et Nitocris ?
 
--*who_artaxerce
+-*who_artaxerce 
 Reposez-vous sur moy du sort de vostre Frere,
 J'ay le pouvoir d'un Roy, j'auray le soin d'un Pere.
 
@@ -1210,7 +1210,7 @@ Quels diférens, Seigneur ? Mon sort dépend de vous.
 Regardez seulement sans haine, et sans courroux,
 Un Amant⁎ malheureux, dont le choix légitime…
 
-**** *book_ *id_acte305 *act_acte3 *date_1683 *creator_boyer
+**** *book_ *id_acte305 *act_acte3 *date_1683 *creator_boyer 
 
 -*who_darius
 Elle vient ? Ay-je tort ? Seigneur, voila mon crime.
@@ -1347,7 +1347,7 @@ Aussi de mes remords la juste⁎ violence
 Me tourmente sans cesse, et me rend à mes yeux
 Horrible, et digne encor des noms plus odieux.
 
--*who_darius
+-*who_darius 
 Mais le Roy vous laissant disposer de vous-mesme…
 
 -*who_aspasie
@@ -1387,7 +1387,7 @@ Mais si mes pleurs pouvoient vous obtenir du Roy,
 Ne me défendez pas dans un sort si funeste,
 Ce secours innocent, et le seul qui me reste…
 
--*who_aspasie
+-*who_aspasie 
 Adieu, Seigneur.
 
 -*who_darius
@@ -1420,7 +1420,7 @@ Que va porter sur moy la honte de ma flâme⁎.
 Le Peuple est discret, Seigneur, mais quelquefois
 Le Ciel le fait parler pour avertir les Roys.
 
--*who_artaxerce
+-*who_artaxerce 
 Mais je veux tout sçavoir.
 
 -*who_mindate
@@ -1482,7 +1482,7 @@ Seigneur, le Prince est là, qui demande à vous voir.
 -*who_artaxerce
 Est-il seul ?
 
--*who_mindate
+-*who_mindate 
       Oüy, Seigneur, et plein de desespoir,
 J'ay vû sur son visage une douleur mortelle.
 
@@ -1515,7 +1515,7 @@ Mon Sceptre doit passer un jour dans vostre main ;
 Je ne veux qu'Aspasie. Un Prince qui soûpire⁎,
 Vous demande-t-il trop pour le prix d'un Empire ?
 
--*who_darius
+-*who_darius 
 Connoissez vostre Fils. Il n'est pas sans vertu⁎ ;
 Ne me reprochez point d'avoir mal combatu.
 J'ay mis devant mes yeux tout ce qu'aime et révere
@@ -1551,7 +1551,7 @@ Au moins je puis mourir, et cela doit suffire.
 -*who_artaxerce
 Ah ! mon Fils, n'avez-vous autre chose à me dire ?
 
--*who_darius
+-*who_darius 
 Non, Seigneur, un cœur foible, un cœur comme le mien,
 Plein de trouble et d'effroy, n'est capable de rien.
 Le vostre qui peut tout, se rend-il quand il aime ?
@@ -1649,7 +1649,7 @@ Oüy sans-doute, et c'est trop faire grace à ton crime.
 Songe enfin que je regne, et que ce lâche cœur
 Se lasse de parler toûjours en ta faveur.
 
-**** *book_ *id_acte406 *act_acte4 *date_1683 *creator_boyer
+**** *book_ *id_acte406 *act_acte4 *date_1683 *creator_boyer 
 
 -*who_aspasie
 Voila comme vos pleurs ont sçeu toucher son ame.
@@ -1683,7 +1683,7 @@ Brisons des fers⁎ honteux.
 Seigneur, ne mettez pas ma gloire au desespoir,
 Aidez ce foible cœur à faire son devoir.
 
--*who_darius
+-*who_darius 
 A faire son devoir ? Est-ce un devoir, Princesse,
 Est-ce un devoir pour vous de trahir ma tendresse,
 Quand de tous mes devoirs, c'est le premier de tous,
@@ -1712,7 +1712,7 @@ De grace, écoutez-moy.
       Je n'écoute plus rien.
 Faites vostre devoir, ou je feray le mien.
 
-**** *book_ *id_acte407 *act_acte4 *date_1683 *creator_boyer
+**** *book_ *id_acte407 *act_acte4 *date_1683 *creator_boyer 
 
 -*who_darius
 Est-ce par ce discours, dont la rigueur me tuë,
@@ -1745,7 +1745,7 @@ J'ignore son dessein.
 -*who_tiribaze
 J'exécute son ordre, et n'examine rien.
 
--*who_darius
+-*who_darius 
 Cet ordre, quel qu'il soit, couvre quelque injustice,
 Et vostre haine en est la cause, ou le complice.
 Vos perfides conseils empoisonnent le Roy.
@@ -1897,7 +1897,7 @@ Vient d'armer contre luy toute sa jalousie.
 Ce combat, où tous deux disputoient Aspasie,
 Par des coups mutuels sans-doute ensanglanté…
 
-**** *book_ *id_acte502 *act_acte5 *date_1683 *creator_boyer
+**** *book_ *id_acte502 *act_acte5 *date_1683 *creator_boyer 
 
 -*who_tiribaze
 Le sort trompe l'espoir dont je m'estois flaté.
@@ -2072,7 +2072,7 @@ En frémir de respect, et son ardent couroux,
 Tremblant et desarmé, tomber à mes genoux ?
 On va me l'amener.
 
--*who_tiribaze
+-*who_tiribaze 
       Hé bien, qu'avec ses larmes,
 Il vienne de vos mains faire tomber les armes.
 Souffrez⁎, pour m'épargner ce spéctacle odieux,
@@ -2098,7 +2098,7 @@ La Nature, l'Amour, Darius, Nitocris.
 -*who_tiribaze
 Rien ne peut nous vanger que le sang de son Fils.
 
-**** *book_ *id_acte504 *act_acte5 *date_1683 *creator_boyer
+**** *book_ *id_acte504 *act_acte5 *date_1683 *creator_boyer 
 
 -*who_artaxerce
 Approchez.
@@ -2131,7 +2131,7 @@ Que la necessité de perdre un Fils que j'aime.
 Il faut pour vous sauver, épouser Nitocris,
 Je n'ay que ce prétexte à conserver mon Fils.
 
--*who_darius
+-*who_darius 
 Que jusque-là, Seigneur, le sang des Roys s'abaisse.
 Sauvez-vous par ma mort d'une indigne foiblesse.
 La blessure d'un Frere, et par un de mes coups,
@@ -2169,7 +2169,7 @@ Sans elle, on aime mieux mourir que m'obeïr.
 Il faut donc contenter ta rage, et ma justice.
 Qu'on l'oste de mes yeux, et que l'Ingrat périsse.
 
-**** *book_ *id_acte505 *act_acte5 *date_1683 *creator_boyer
+**** *book_ *id_acte505 *act_acte5 *date_1683 *creator_boyer 
 
 -*who_artaxerce
 Qu'il meure ? Que ce mot est horrible à mon cœur !
@@ -2191,7 +2191,7 @@ Mais l'Ingrate ne vient qu'aigrir ma jalousie,
 Et voulant à mon Fils prêter tout son appuy,
 Elle vient seulement m'irriter contre luy.
 
-**** *book_ *id_acte506 *act_acte5 *date_1683 *creator_boyer
+**** *book_ *id_acte506 *act_acte5 *date_1683 *creator_boyer 
 
 -*who_aspasie
 Vous le voyez, Seigneur, à mon devoir fidelle,
@@ -2333,7 +2333,7 @@ Il blasphéme en mourant, et déteste les Dieux.
 -*who_artaxerce
 Est-ce à luy que j'avois confié ma puissance ?
 
--*who_oronte
+-*who_oronte 
 Darius qui mouroit, malgré nostre assistance,
 Frapé de ce discours, tournant les yeux vers nous,
 Vous cherche, croit vous voir, et s'adressant à vous ;

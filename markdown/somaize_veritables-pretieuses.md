@@ -902,7 +902,7 @@ Enfin, nous avons corrigé une erreur de pagination à la page 90, qui portait l
 Lorsque le sens d'un mot diffère du sens actuel, un astérisque renvoie le lecteur au lexique, commun aux deux oeuvres, pour une définition de ce mot en usage au XVII*e* siècle et un renvoi aux différentes occurrences dans le texte. Les notes de bas de page viennent éclaircir le texte pour une meilleure compréhension linguistique et historique. Nous y avons indiqué entre parenthèses les différents outils de travail convoqués, référencés dans la bibliographie.
 
 
-# LES VÉRITABLES PRÉTIEUSES. COMEDIE.
+# LES VÉRITABLES PRÉTIEUSES. COMEDIE. 
 
 
 ## EPISTRE. A **MONSEIGNEUR**, MESSIRE HENRY **LOUIS HABERT**, *Chevalier, Comte* du Mesny Habert, Seigneur de Monmort, la Brosse, le Peray, le Fargis, & autres lieux, Conseiller du Roy en tous ses Conseils, & Maistre des Requestes ordinaires de son Hostel, &c. [205]
@@ -916,7 +916,7 @@ Monseigneur,
 De vostre tres-humble, tres-obeïssant, & tres-fidelle serviteur *Jean Ribou*.
 
 
-## Preface.
+## Preface. 
 
 Depuis que la modestie, & l'insolence sont deux contraires, on ne les a jamais veuës mieux unies qu'a fait dans la Preface l'Autheur pretendu des Pretieuses Ridicules : Car [210] si nous examinons ses paroles, il semble qu'il soit assez modeste pour craindre de faire mestre son nom sous la presse, cependant il cache sous cette fausse vertu tout ce que l'insolence a de plus effronté, & met sur le theatre une Satyre, qui quoy que sous des images crotesques ne laisse pas de blaisser tous ceux qu'il a voulu accuser ; il fait plus de Critique [211], il s'erige en Juge, & condamne à la berne les Singes, sans voir qu'il prononce un Arrest contre luy en le prononçant contre eux, puis qu'il est certain qu'il est Singe en tout ce qu'il fait, & que non seulement il a copié les Pretieuses de Monsieur l'Abbé de Pure, joüées par les Italiens ; Mais encore qu'il a imité par une singerie, dont il est seul capable [212] le Medecin volant, & plusieurs autres pieces des mesmes Italiens qu'il n'imite pas seulement en ce qu'ils ont joüé sur leur theatre ; mais encor en leurs postures, contrefaisant sans cesse sur le sien & Trivelin & Scaramouche ; mais qu'atendre d'un homme qui tire toute sa gloire des Mémoires de Gillot-Gorgeu, qu'il a acheptez de sa veufve, & dont il s'adopte tous les Ouvrages.
 
@@ -938,7 +938,7 @@ Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pour
  – 
  – 
 La Scène est à Paris.
-
+ 
 
 
 ## Acte I
@@ -995,7 +995,7 @@ Ah ! ma chere, vous faites trop de despence en beaux discours*n* pour me dauber
 
     ISCARIE.
 Ce que vous me dites là est du dernier obligeant⁎ ; mais si vous voulez que je vous donne un quart d'heure de divertissement, entrons dans mon cabinet je vous feray voir un innocent*q* que l'on m'a envoyé ; dont l'encombrement du stil [233], est capable de faire changer l'assiette de vostre ame [234].
-*(q Poulet* [235])
+*(q Poulet* [235]) 
 
 
 ### SCENE III.

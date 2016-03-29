@@ -104,7 +104,7 @@ Et bien que je le voye avecque peu de pompe⁎
 Toutesfois de son front l'auguste⁎ majesté
 Mieux qu'un sceptre Royal faict voir sa qualité.
 
-**** *book_ *id_body-502 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-502 *act_ *date_1637 *creator_desfontaines 
 
 -*who_archelas
 Falante : je ne sçay quelle secrette joye
@@ -295,7 +295,7 @@ Ou bien ce grand esprit qui tout autre surmonte
 Et sa grace⁎ conjointe aux offices du bras
 Nous fera confesser que nous sommes ingrats.
 
-**** *book_ *id_body-503 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-503 *act_ *date_1637 *creator_desfontaines 
 
 -*who_tygrane
 Destin, Neptune, Amour, Dieux cruels⁎, tristes Astres⁎
@@ -698,7 +698,7 @@ Nous en pourrons donner une autrefois l'arrest⁎,
 Cependant je veux bien que l'un et l'autre espere
 Pour moy je m'en vay voir ce que fait le Roy mon pere.
 
-**** *book_ *id_body-603 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-603 *act_ *date_1637 *creator_desfontaines 
 
 -*who_tygrane
 Dieux que viens-je d'oüyr : mais helas qu'ay-je veu ?
@@ -761,7 +761,7 @@ Et toutesfois jamais l'excez de sa froideur
 N'esteindra qu'en mon sang mon amoureuse⁎ ardeur,
 Ah pour un lasche cœur trop magnifique offrande !
 
-**** *book_ *id_body-605 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-605 *act_ *date_1637 *creator_desfontaines 
 
 -*who_argamor
 Voyla comme je croy celuy que je demande.
@@ -857,7 +857,7 @@ Car Tygrane privant Celiane du jour
 Fera de son tombeau celuy de son amour ;
 Mais je le vois venir, songeons à nous deffendre.
 
-**** *book_ *id_body-606 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-606 *act_ *date_1637 *creator_desfontaines 
 
 -*who_tygrane
 Chevalier excusez, Je vous ay faict attendre.
@@ -902,7 +902,7 @@ Mettons nous pour un temps à couvert⁎ de l'orage⁎,
 Et fuyant les abords de l'Infante et du Roy,
 Sçachons ce qu'ils auront deliberé de moy.
 
-**** *book_ *id_body-607 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-607 *act_ *date_1637 *creator_desfontaines 
 
 -*who_celiane
 Quel Astre⁎ malheureux⁎ jaloux⁎ de ma fortune⁎
@@ -1138,7 +1138,7 @@ Pour vous persuader je sçauray vous contraindre ;
 Malgré ce beau mignon qui cause tout cecy
 Vos discours changeront dans peu de temps d'icy.
 
-**** *book_ *id_body-703 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-703 *act_ *date_1637 *creator_desfontaines 
 
 -*who_eurimedon
 
@@ -1415,7 +1415,7 @@ Mais bien pour vous ayder à finir vos travaux⁎.
 Puisque vous partagez cette loüable envie,
 Allons Prince adorable⁎ où l'honneur⁎ nous convie.
 
-**** *book_ *id_body-706 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-706 *act_ *date_1637 *creator_desfontaines 
 
 -*who_alerine
 Ah Madame ! ces pleurs, et ce cœur⁎ abatu
@@ -1554,7 +1554,7 @@ S'il n'estoit protegé de la force du nombre ;
 Sans cela le combat serait desja finy,
 Vous vangé, nous vainqueurs, et le traistre puny.
 
--*who_archelas
+-*who_archelas 
 Les Dieux ont de tout temps protegé ma Couronne.
 
 -*who_falante
@@ -1881,7 +1881,7 @@ Que ce jeune estranger avoit des qualitez,
 Capables de fleschir les plus rares beautez,
 Et mesme il nous avoit rendu quelque service.
 
--*who_eurimedon
+-*who_eurimedon 
 Vous luy rendiez pourtant un tres-mauvais office,
 Et c'est mal s'acquitter d'une obligation,
 De donner pour un prix une punition :
@@ -1961,7 +1961,7 @@ Ainsi le mesme traict qui fit vostre tourment
 Fera d'oresnavant vostre contentement,
 Si vous favorisez sa prudente conduitte.
 
--*who_pasithee
+-*who_pasithee 
 Ah Dieux ! à cét object je suis toute interdite,
 Et j'ay dans mon esprit tant de confusion⁎,
 Que tout ce que je voy me semble illusion.
@@ -1988,7 +1988,7 @@ Qu'Hermionne ne soit de tout poinct satisfaite,
 Qu'il ne m'ayt de mon frere accordé le pardon,
 Et que vous ne soyez femme d'Eurimedon.
 
--*who_pasithee
+-*who_pasithee 
 Madame, Je croyrois que vous voudriez surprendre
 Cét esprit innocent qui vient de vous entendre,
 Si le Ciel en naissant ne vous avoit faict don
@@ -2109,7 +2109,7 @@ Madame : la voicy.
 -*who_eurimedon
               J'en rends grace⁎ à l'amour.
 
-**** *book_ *id_body-805 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-805 *act_ *date_1637 *creator_desfontaines 
 
 -*who_eurimedon
 He bien qu'a dit le Roy ?
@@ -2134,7 +2134,7 @@ Certes voilà des traicts d'une extréme bonté⁎.
 Mais plustost du credit de vostre Majesté,
 Dont la grace⁎ est unique ainsi que sans pareille.
 
--*who_eurimedon
+-*who_eurimedon 
 Exceptez-en la vostre (adorable⁎ merveille,)
 Car c'est d'elle qu'on peut dire avecque raison
 Que ses charmes⁎ divins sont sans comparaison.
@@ -2194,7 +2194,7 @@ Parlez moy clairement.
                   Ah Madame ! pardon.
 C'est trop vous abuser, Je suis Eurimedon.
 
--*who_pasithee
+-*who_pasithee 
 Eurimedon bons Dieux !
 
 -*who_eurimedon
@@ -2223,7 +2223,7 @@ Ne m'importunes plus de tes vœux indiscrets⁎,
 Mais permets à la mort destouffer mes regrets.
 O sensible malheur !
 
-**** *book_ *id_body-806 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-806 *act_ *date_1637 *creator_desfontaines 
 
 -*who_alerine
               He qu'avez-vous Madame ?
@@ -2299,7 +2299,7 @@ Et de te regarder lors⁎ que tu vas la voir ;
 Pasithee a des traits⁎ qui font que Celiane
 N'oseroit esperer l'entretien de Tygrane.
 
--*who_tygrane
+-*who_tygrane 
 Ah Madame ! espargnez un malheureux Amant⁎,
 Je bornois mes desseins à vous voir seulement.
 
@@ -2331,7 +2331,7 @@ Ah belle Celiane !
 -*who_celiane
               Hé bien Prince volage ?    
 
--*who_tygrane
+-*who_tygrane 
 Serez-vous sans pitié ?
 
 -*who_celiane
@@ -2365,7 +2365,7 @@ Et vous vivez (Madame) avec cette asseurance,
 Que je conserveray mesme apres le trespas
 L'amour que j'ay voüee à vos divins apas.
 
--*who_celiane
+-*who_celiane 
 En fin ma passion triomphe de Tygrane,
 Ce superbe⁎ vainqueur se rend à Celiane,
 Et les traits⁎ de mes yeux plus forts que ses desdains
@@ -2472,7 +2472,7 @@ Ainsi doncques l'amour a produit son contraire :
 Et ce qui faict aymer a faict haïr mon frere,
 Ah miserable Prince où t'a reduit le sort ?
 
--*who_archelas
+-*who_archelas 
 Si jamais son destin le rendoit à ce bord.
 Je traitterois si bien ce genereux⁎ courage
 Que je le forcerois d'oublier⁎ mon outrage,
@@ -2491,7 +2491,7 @@ Et qui d'oresnavant doit partager mon trosne,
 -*who_melinte
 Je le veux bien, voyons cette belle Amazone.
 
-**** *book_ *id_body-904 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-904 *act_ *date_1637 *creator_desfontaines 
 
 -*who_celiane
 Madame : Je vous ay tant d'obligation
@@ -2509,7 +2509,7 @@ Souffrez que je vous mette à couvert⁎ de l'orage⁎,
 Et comme cèt Estat m'a tiré de soucy,
 Permettez que le mien vous en retire aussi.
 
--*who_pasithee
+-*who_pasithee 
 Ce conseil seroit bon genereuse Princesse
 Si mon esprit timide⁎ avoit moins de foiblesse :
 Mais mon cœur⁎ interdit de crainte, et de respect
@@ -2555,7 +2555,7 @@ Estouffez vos souspirs au fonds de vostre sein,
 Fiez vous cependant dessus ma prevoyance
 Je vay tout preparer.
 
-**** *book_ *id_body-905 *act_ *date_1637 *creator_desfontaines
+**** *book_ *id_body-905 *act_ *date_1637 *creator_desfontaines 
 
 -*who_archelas
               La voyla qui s'advance.
@@ -2600,7 +2600,7 @@ Ah ! mon ressentiment⁎ effacera ma honte.
 Ne souffrez pas (grand Roy) que l'ire vous surmonte,
 Appaisez ce couroux un peu trop violent.
 
--*who_archelas
+-*who_archelas 
 Plustost à me vanger je suis un peu trop lent ;
 Quoy seduire une fille, et se jouer du pere
 Ce n'est pas (dites-vous) un sujet de colere ?
@@ -2654,7 +2654,7 @@ Et si j'ay faict paroistre une injuste fureur,
 Songez que cette feinte a causé mon erreur.
 Ma fille je vous donne à ce Prince adorable⁎.
 
--*who_pasithee
+-*who_pasithee 
 Sire, cette faveur rend mon sort honorable,
 Et les commandemens sont doux à recevoir
 Où vostre volonté s'accorde à mon devoir.

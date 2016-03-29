@@ -801,7 +801,7 @@ Achevé d'imprimer le 12. Novembre, 1641.
  – ARBANTE,Confident de Phalante.
  – CLEONE,
  – AMINTE,Demoiselles de la Reyne.
- – 
+ –  
 
 
 ## ACTE I.
@@ -921,7 +921,7 @@ Ah ! l'ingrat, le voicy, cache un peu ta foiblesse.
 
     PHILOXENE.
 Qu'il arrive à propos, cher amy je vous laisse,  
-Ma vie est en vos mains et j'attens tout de vous.  
+Ma vie est en vos mains et j'attens tout de vous.   
 
 
 ### SCENE III.
@@ -1062,7 +1062,7 @@ Tes yeux ont des attraits qui le pourront toucher,
 Force cette pudeur qui te fait violence.  
 Ah ! pardon, ma vertu,  
 
-    PHALANTE.
+    PHALANTE. 
         La princesse balance,  
 Sans doute mes discours auront fait quelque fruit.  
 Ah ! cruauté du ciel où m'avez-vous reduit ?  
@@ -1140,7 +1140,7 @@ Avant que [82] prononcer l'arrest que j'en attends.
 Et que pour mon repos vostre bonté permette,  
 Qu'apres ce grand effort mon ame se remette :  
 Elle est toute troublée⁎ en cette extremité,  
-Adieu pardonnez-moy cette incivilité⁎.  
+Adieu pardonnez-moy cette incivilité⁎.   
 
 
 ### SCENE IV.
@@ -1216,7 +1216,7 @@ Cent tristes visions, cent songes que j'ay faits,
 Menacent cest amour d'une funeste issuë,  
 Grands Dieux si dans⁎ ma peur je ne suis point deceuë⁎,  
 Et si vous haïssez un feu⁎ qui me fait tort,  
-Envoyez moy bien-tost le remede ou la mort.  
+Envoyez moy bien-tost le remede ou la mort.   
 
 
 ## ACTE II.
@@ -1375,7 +1375,7 @@ O Dieu ! qu'en mes malheurs ce souvenir m'est doux,
 Et que j'ay de bonheur parmy tant de disgrace,  
 D'avoir fait un amy,  
 
-    PHALANTE.
+    PHALANTE. 
         Souffrez⁎ que je vous chasse :  
 Adieu laissez moy seul y rever un moment,  
 Vous trouverez la Reyne en son appartement.  
@@ -1399,7 +1399,7 @@ D'une fidelité qui fut toute ma gloire⁎,
 Recompensez Seigneur, ces preuves de ma foy.  
 
     PHALANTE.
-Je n'ay rien à te dire, Arbante laisse moy,  
+Je n'ay rien à te dire, Arbante laisse moy,   
 
 
 ### SCENE III.
@@ -1507,7 +1507,7 @@ Avant que mon amour t'oblige à me haïr,
 Et que ce mesme amour me force à te trahir.  
 Mais j'apperçois la Reyne, ô rencontre cruelle !  
 Que dois-je devenir, dois-je m'esloigner d'elle ?  
-Evite son abord, fuy miserable fuy [97].  
+Evite son abord, fuy miserable fuy [97].   
 
 
 ### SCENE IV
@@ -1535,7 +1535,7 @@ Je craignois d'approcher de vostre Majesté,
 Et m'allois retirer dans ce bois escarté,  
 Pour n'interrompre point vos secrettes pensées.  
 
-    HELENE.
+    HELENE. 
 Ah ! Phalante, à vous seul elles sont adressées,  
 Et si la solitude a pour moy rien de doux,  
 Je l'ayme seulement pour mieux songer à vous.  
@@ -1624,7 +1624,7 @@ Vous me comblez d'honneur⁎.
 
     HELENE.
         Venez donc avec nous.  
-Je ne veux rien oüir [100] ny resoudre sans vous.  < Fin du second Acte. >
+Je ne veux rien oüir [100] ny resoudre sans vous.  < Fin du second Acte. > 
 
 
 ## ACTE III.
@@ -1699,7 +1699,7 @@ Vous me perdriez [102], Seigneur.
     PHILOXENE.
         Vy dans⁎ cette asseurance,  
 Et previens⁎ cet esprit de tes bonnes leçons,  
-Mais entrons, je veux mieux éclaircir mes soupçons.  
+Mais entrons, je veux mieux éclaircir mes soupçons.   
 
 
 ### SCENE II.
@@ -1835,7 +1835,7 @@ Et vous ne pouvez plus sans faire une injustice,
 Luy refuser le prix qu'on doit à son service.  
 Sa vertu, son amour,  
 
-    HELENE.
+    HELENE. 
         Ces discours superflus  
 M'aigrissent contre luy, bien, bien, n'en parlons plus,  
 Deportez⁎-vous d'un soin⁎ qui n'est plus necessaire,  
@@ -1864,7 +1864,7 @@ Le lairrez [106]-vous perir ?
     PHALANTE.
 Pouvez-vous l'oublier ?  
 
-    HELENE.
+    HELENE. 
         Ne m'oublierez-vous pas ?  
 
     PHALANTE.
@@ -1946,7 +1946,7 @@ Et j'adore Phalante.
     PHALANTE.
     Il meurt.  
 
-    HELENE.
+    HELENE. 
         Je meurs aussi.  
 
     PHALANTE.
@@ -1965,7 +1965,7 @@ Fay grand Dieu quelque effort sur ce cœur endurcy.
     PHALANTE.
 Je prends congé, Madame, et m'esloigne d'icy,  
 Pour regretter ailleurs ma mauvaise fortune⁎,  
-Qui vous rend mon discours et ma veuë importune⁎ [109].  
+Qui vous rend mon discours et ma veuë importune⁎ [109].   
 
 
 ### SCENE III.
@@ -2034,7 +2034,7 @@ Et pour vous escouter Phalante est trop aymable.
 Je l'ayme, ma raison⁎, et je le veux aymer,  
 Enfin c'est un buscher qui me doit consommer⁎ :  
 C'est un feu⁎ qui me plaist, et je serois marrie [115]  
-Si du mal qu'il me fait mon ame estoit guerie.  
+Si du mal qu'il me fait mon ame estoit guerie.   
 
 
 ### SCENE IV.
@@ -2145,11 +2145,11 @@ En me parlant pour luy comme il parle pour vous.
     PHILOXENE.
 Phalante, ah ! le perfide.  
 
-    HELENE.
+    HELENE. 
         Evitez ma cholere,  
 Et si vostre fureur vous porte à luy déplaire,  
 Sçachez que je l'appuye, et que j'ay le pouvoir  
-De punir un subjet qui sort de son devoir.  < Fin du Troisiesme Acte. >
+De punir un subjet qui sort de son devoir.  < Fin du Troisiesme Acte. > 
 
 
 ## ACTE IV.
@@ -2220,7 +2220,7 @@ Pour vouloir qu'on y songe encore un peu de temps,
 Adieu, dans peu de jours je vous rendray contens.  
 
     TIMANDRE.
-Dieux ! rendez son dessein tel que je le desire.  
+Dieux ! rendez son dessein tel que je le desire.   
 
 
 ### SCENE II.
@@ -2288,7 +2288,7 @@ Quelque Prince qu'il soit, il verra mon pouvoir.
 Devant moy l'orgueilleux a menacé Phalante,  
 Vous sçavez son caprice et son humeur boüillante,  
 Gardez qu'il ne s'attaque à ce Prince estranger  
-Puis que je le protege, et le sçauray venger.  
+Puis que je le protege, et le sçauray venger.   
 
 
 ### SCENE III.
@@ -2331,7 +2331,7 @@ Je mourray satisfait, pourveu que je le voye.
 Que je puisse à ce cœur noircy de lâchetez,  
 Reprocher en mourant ses infidelitez.  
 Et laver dans ton sang la faute que j'ay faite,  
-D'honorer⁎ un ingrat d'une amitié⁎ parfaite.  
+D'honorer⁎ un ingrat d'une amitié⁎ parfaite.   
 
 
 ### SCENE IV.
@@ -2356,7 +2356,7 @@ Il faut mourir perfide.
     PHALANTE.
     O Dieux !  
 
-    PHILOXENE.
+    PHILOXENE. 
         Deffends toy traistre,  
 Cette confusion que tu me fais paroistre,  
 Est un effet leger du remords que tu sens,  
@@ -2382,7 +2382,7 @@ Arme ce bras vangeur.
     PHALANTE.
         Contre mon innocence.  
 
-    PHILOXENE.
+    PHILOXENE. 
 Ton innocence traistre, ah ! c'est estre innocent,  
 De violer sa foy, de trahir un absent,  
 Et d'oster lâchement par haine ou par envie,  
@@ -2516,7 +2516,7 @@ Courons, ah ! que je crains que ce ne soit trop tard,
 Grands Dieux ! guidez mes pas.  
 
     CLEOMEDE.
-        Courez d'une autre part.  
+        Courez d'une autre part.   
 
 
 ### SCENE VI.
@@ -2542,7 +2542,7 @@ Et toy seul transporté⁎ d'un trop boüillant courroux,
 Mesprisant une espée à son maistre infidelle,  
 Tu t'es precipité dans sa pointe mortelle.  
 
-    PHILOXENE.
+    PHILOXENE. 
 Phalante, les Dieux seuls m'ont mis en cet estat,  
 Mais si tu peux encore escouter un ingrat,  
 Et si le souvenir d'une amitié⁎ passée  
@@ -2691,7 +2691,7 @@ Arbante assistez nous.
         O pitoyable office⁎,  
 Helas avec quel cœur te rends-je ce service !  
 Cher et noble fardeau d'un mal-heureux amy  
-Dans⁎ ce reste d'espoir dois-je vivre à demy ?  
+Dans⁎ ce reste d'espoir dois-je vivre à demy ?   
 
 
 ## ACTE V.
@@ -2814,7 +2814,7 @@ Il parle de la Reyne, ô Dieux changez ce cœur !
     PHALANTE.
 Aminte quel dessein.  
 
-    AMINTE.
+    AMINTE. 
         Vous me voyez Seigneur  
 Par le commandement d'une Reyne affligée.  
 
@@ -3111,7 +3111,7 @@ Je perds la voix, adieu recevez
     ARBANTE.
 Ah ! Seigneur.  
 
-    HELENE.
+    HELENE. 
         Il est mort, et moy je suis vivante.  
 Et l'effort du poison est si foible et si lent,  
 Pour me faire mourir d'un coup plus violent,  

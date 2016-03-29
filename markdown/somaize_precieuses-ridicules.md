@@ -897,7 +897,7 @@ Enfin, nous avons corrigé une erreur de pagination à la page 90, qui portait l
 Lorsque le sens d'un mot diffère du sens actuel, un astérisque renvoie le lecteur au lexique, commun aux deux oeuvres, pour une définition de ce mot en usage au XVII*e* siècle et un renvoi aux différentes occurrences dans le texte. Les notes de bas de page viennent éclaircir le texte pour une meilleure compréhension linguistique et historique. Nous y avons indiqué entre parenthèses les différents outils de travail convoqués, référencés dans la bibliographie.
 
 
-# LES PRETIEUSES RIDICULES COMEDIE. REPRESENTÉE *au Petit Bourbon.* NOUVELLEMENT mises en Vers.
+# LES PRETIEUSES RIDICULES COMEDIE. REPRESENTÉE *au Petit Bourbon.* NOUVELLEMENT mises en Vers. 
 
 
 ## EPÎTRE A MADEMOISELLE MADEMOISELLE **MARIE** DE **MANCINY** [1].
@@ -1076,7 +1076,7 @@ Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis q
  – LE VICOMTE DE JODELET,Valet de du Croisy.
  – DEUX PORTEURS de chaise.
  – VOISINES.
- – VIOLONS                                
+ – VIOLONS                                 
 
 
 ## Acte I

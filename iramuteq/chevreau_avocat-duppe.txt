@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_dedicace *date_1637 *creator_chevreau
+**** *book_ *id_dedicace *date_1637 *creator_chevreau 
 
 A HAUT ET PUISSANT SEIGNEUR, MESSIRE, JEAN VICOMTE DE SCUDAMORE, Ambassadeur en France, pour sa Majesté de la grande Bretagne.
 
@@ -25,7 +25,7 @@ obeïssant serviteur,
 
 Chevreau.
 
-**** *book_ *id_au-lecteur *date_1637 *creator_chevreau
+**** *book_ *id_au-lecteur *date_1637 *creator_chevreau 
 
 AU LECTEUR.
 
@@ -39,7 +39,7 @@ Si c'est une feinte, elle est vrai semblable ; et si c'est une vérité, vous n
 Pour la pièce, je l'ai acommodée à la nature du Poëme Comique, qui rebute en tout des vers et des sujet graves, pource que les uns ni les autres ne sont point de la jurisdiction, et qu'elle se treuveroit defectueuse de ce qui embellit la Tragédie.
 Pour ce qui est des fautes, si vous condannez à mort tous ceux qui en font, je suis en danger de ne vivre pas long-temps, si je n'obtiens ma grace de quelque autre qui les excuse, et qui connessant ma franchise et mon humeur, relachera peut-estre de sa sévérité, à dessein seulement de me donner advantage de me corriger.
 
-**** *book_ *id_privilege *date_1637 *creator_chevreau
+**** *book_ *id_privilege *date_1637 *creator_chevreau 
 
 Privilege du Roy.
 
@@ -57,7 +57,7 @@ Achevé d'imprimer le dernier Septembre 1637.
 
 Lesdits exemplaires ont esté fournis.
 
-**** *book_ *id_argument-acte1 *date_1637 *creator_chevreau
+**** *book_ *id_argument-acte1 *date_1637 *creator_chevreau 
 
 ARGUMENT DU PREMIER ACTE.
 
@@ -220,7 +220,7 @@ Où le pourray-je voir ? Qui parlera pour moy ?
 Il faut auprés de luy quelqu'un qui l'entretienne⁎,
 Et dont la bonne humeur⁎ seconde un peu la sienne.
 
--*who_isidore
+-*who_isidore 
 Il ne me connest point, je veux m'offrir à luy,
 Ce moyen seulement finira vostre ennuy⁎,
 J'auray d'autres habits, tout nous sera propice,
@@ -239,7 +239,7 @@ Voy nostre Curateur d'où dépend mon repos⁎.
 Il faut bien en avoir, nous l'y sçaurons contraindre,
 Pour en tirer de luy, nous n'avons qu'à nous plaindre.
 
-**** *book_ *id_acte102 *act_acte1 *date_1637 *creator_chevreau
+**** *book_ *id_acte102 *act_acte1 *date_1637 *creator_chevreau 
 
 -*who_philemon
 Mes Dames quel sujet vous servoit d'entretien⁎ ?
@@ -277,7 +277,7 @@ Que vôtre esprit un jour devra me reconêtre,
 Et qu'à present bien loing de vous estre importun
 Je ne possede rien qui ne vous soit commun.
 
--*who_isidore
+-*who_isidore 
 Vous sçavez justement l'art de charmer nos penes⁎,
 « Un ami se connest aux choses incertenes.
 Je voi dans cét âvis vôtre esprit ingenu,
@@ -301,7 +301,7 @@ Et vous serez perduë aiant perdu la honte ;
 Ainsi n'esperez plus d'avoir aucun bon-heur,
 « Tout mal⁎ doit arriver à qui n'a plus d'honneur.
 
--*who_atalante
+-*who_atalante 
 Ah ! Monsieur, la raison finiroit mon envie,
 J'aime bien plus l'honneur que je n'aime la vie ;
 Je suivray le sentier que vous m'avez batu,
@@ -367,7 +367,7 @@ Qu'aujourd'huy vos soupirs ne sont plus que de flâme⁎ ;
 L'homme est d'un naturel si sensible à nos coups
 Qu'il ne sçaurait nous voir sans se plaindre de nous.
 
--*who_polydas
+-*who_polydas 
 Je la cheris ma sœur d'une amour legitime,
 Où l'excès est loüable et le change est un crime,
 Le feu⁎ que j'ai pour elle est si dous et si beau
@@ -391,7 +391,7 @@ Car des-ja vôtre amour tient de la jalousie :
 Vous l'aimez sans la voir, et pour vous mieux aider
 Vous croiez qu'un chacun vous la doive ceder.
 
--*who_polydas
+-*who_polydas 
 S'il te falloit aimer, ah tu craindrois de même,
 Il faut estre jalous de la chose qu'on aime,
 N'aimer pas comme moi, c'est n'aimer rien qu'un peu.
@@ -413,7 +413,7 @@ D'en avoir plus deux fois que leurs cœurs n'en desirent.
 Au moins je me resous à souffrir cét afront,
 Les cornes rarement incommodent le front.
 
--*who_flaminie
+-*who_flaminie 
 Ha ! Si par une marque on les pouvoit connêtre,
 Sans doute la plus-part auroient peur de parêtre.
 
@@ -433,7 +433,7 @@ Et contenter mes yeux quand j'en devrois mourir.
 Vôtre mal⁎ est puissant, il faut que je l'apaise,
 Sans doute mon esprit vous doit mettre à vôtre aise.
 
--*who_polydas
+-*who_polydas 
 Si tu me fais ce bien, je dépite le Ciel
 De me verser jamés une goutte de fiel⁎ ;
 Si ton invention me doit estre propice
@@ -443,7 +443,7 @@ Que si tout l'Univers devoit m'estre asservi.
 
 **** *book_ *id_argument-acte2 *date_1637 *creator_chevreau
 
-ARGUMENT DU DEUXIESME ACTE.
+ARGUMENT DU DEUXIESME ACTE. 
 
 Polydas ayant recogneu la gentillesse d'Izidore qu'il ne cognoissoit que sous le nom de Sicandre, sans sçavoir que ce fut une fille, et ayant apris qu'Atalante répondroit de sa fidelité, va la treuver, ravi d'une ocasion si favorable.
 Flaminie qui ne recevoit pas moins de contentement par la veüe de Sicandre, faisoit des-ja mille chimeres, et s'assuroit d'avoir de luy tout ce qu'un honneste homme ne peut pas refuser à celles de son sexe.
@@ -514,7 +514,7 @@ Ouï, j'ay beaucoup d'amis qui seront mes garans,
 Et vous pourrez tantôt voir une Damoiselle
 Qui vous assurera comme je suis fidelle.
 
--*who_polydas
+-*who_polydas 
 Son nom.
 
 -*who_sicandre
@@ -563,7 +563,7 @@ C'est d'elle maintenant que dépend vôtre attente.
 Si le Clerc est d'humeur à bien faire l'amour,
 Nous aurons le moien de rire à nôtre tour.
 
-**** *book_ *id_acte202 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte202 *act_acte2 *date_1637 *creator_chevreau 
 
 -*who_mainalte
 Enfin je suis rendu, j'ay fini mes traverses,
@@ -625,7 +625,7 @@ Et que je nommerois ceux que j'ai mis à bas.
 Mais voila Philemon, si je suis miserable⁎
 Il me rendra bien tôt le sort⁎ plus favorable.
 
-**** *book_ *id_acte203 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte203 *act_acte2 *date_1637 *creator_chevreau 
 
 -*who_philemon
 Quelle surprise, ô Ciel ! Vous estes revenu,
@@ -680,7 +680,7 @@ Mais dans cét entretient⁎ je ne voi rien parêtre.
 Ne croi pas m'abuser d'une fausse douceur,
 Je veux un compte d'or, et non pas de ma sœur.
 
-**** *book_ *id_acte204 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte204 *act_acte2 *date_1637 *creator_chevreau 
 
 -*who_atalante
 Il est vrai qu'il est vain, qu'il se plaist d'ordinére
@@ -718,7 +718,7 @@ Qu'il n'aprehende point aucune violence.
 Il a ses volontez, il en peut disposer,
 Estant chez moi, Madame, il poura tout oser.
 
--*who_atalante
+-*who_atalante 
 Ne sois plus glorieux⁎, prens le soin de luy plêre,
 Autrement sois certain d'êpreuver ma colêre :
 Si tu ne te resous desormés à changer,
@@ -743,7 +743,7 @@ Tantôt je t'irai voir.
       Sa fortune⁎ est extrême,
 Je voudrois estre Clerc pour estre aimé de même.
 
--*who_atalante
+-*who_atalante 
 Monsieur je n'ûs jamés d'assez dous compliment,
 Qui suffise assez bien à ce remerciment,
 Mais dans l'occasion je me rendrai capable
@@ -765,7 +765,7 @@ Un homme est trop heureux d'en avoir une œillade,
 Et si j'ozois attendre un tel contentement,
 Je craindrois de mourir par un ravissement.
 
--*who_sicandre
+-*who_sicandre 
 Monsieur il est bien vrai ; quand je me considere
 Je me dois consoler dans ma triste misere,
 Et de quelque disgrace, ou de quelque douleur,
@@ -814,7 +814,7 @@ Et tu me serviras si j'oze l'entreprendre.
 Allons cela suffit, ce jour m'est trop heureux,
 Sois donc autant ami que je suis amoureux⁎.
 
-**** *book_ *id_acte205 *act_acte2 *date_1637 *creator_chevreau
+**** *book_ *id_acte205 *act_acte2 *date_1637 *creator_chevreau 
 
 -*who_tharzinte
 Je ne te puis celer cher ami Calliante
@@ -882,7 +882,7 @@ Mais quoi je ne le puis, car il mourroit de peur
 Viste sans plus tarder, c'est ce que je demande,
 Sa mort doit faire apres ma fortune⁎ assez grande.
 
--*who_calliante
+-*who_calliante 
 Qu'as-tu donc à resver ?
 
 -*who_tharzinte
@@ -905,7 +905,7 @@ Sans doute la rêzon t'en fera plainte un jour,
 Et je serai fachê si tu veux l'entreprendre
 De te causer la mort en pensant me deffendre.
 
--*who_tharzinte
+-*who_tharzinte 
 Non, non, si j'ay manqué ce n'est que pour mon bien,
 Ma devise en amour est d'estre tout, ou rien.
 
@@ -917,7 +917,7 @@ Tu cherches le poignard dont tu t'ouvres le cœur.
 
 **** *book_ *id_argument-acte3 *date_1637 *creator_chevreau
 
-ARGUMENT DU TROISIESME ACTE.
+ARGUMENT DU TROISIESME ACTE. 
 
 P olydas d'Advocat devient Poëte, et est rencontré par sa Sœur Flaminie, où il composoit certains vers à la loüange d'Atalante, dont il estoit extremement amoureux.
 Lors que Flaminie eut veu les vers, et qu'elle les eut leus, Sicandre advertit Polydas qu'Atalante estoit à la porte.
@@ -1096,7 +1096,7 @@ Il faut le caresser en faveur d'Atalante,
 Et tacher : le voila, faisons-luy bon accueil,
 Sa presence ma Sœur vient d'acroistre mon dueil.
 
--*who_sicandre
+-*who_sicandre 
 Quelqu'un vient maintenant de frapper à la porte.
 
 -*who_polydas
@@ -1117,7 +1117,7 @@ Mais il faut malgré tout montrer de la froideur.
 Obstacle injurieux, respect, loy tyrannique,
 Cacherez-vous toujours le dessein qui me picque ?
 Du moins inspirez-moi quelque doux compliment,
-Qui sans difficulté le fasse mon Amant⁎.
+Qui sans difficulté le fasse mon Amant⁎. 
 Mon frere est trop heureux de parler bouche à bouche
 A l'adorable objet⁎, dont la beauté le touche.
 Qu'en juges-tu Sicandre ? a-t'on pas du plesir
@@ -1165,7 +1165,7 @@ A ton occasion j'en prendrai la creance,
 Et je m'estimerai pourveu que mon amour
 Oblige ton esprit à me faire la cour.
 
--*who_sicandre
+-*who_sicandre 
 O Ciel je n'en puis plus ! Je me voi découverte !
 Qui peut de cette sorte entreprendre ma perte ?
 Quoi voulez-vous tenter dans cette extremité⁎
@@ -1257,7 +1257,7 @@ Je parois un garçon dans ce déreglement,
 Et je n'en puis avoir que l'habit seulement ;
 Toutefois.
 
-**** *book_ *id_acte303 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte303 *act_acte3 *date_1637 *creator_chevreau 
 
 -*who_mainalte
       C'est trop fait, c'est trop estre à la gêne,
@@ -1274,7 +1274,7 @@ Semble si doucement terminer mon desir !
 Mon frere c'est donc vous ? Quel bon sort⁎ vous envoie
 Pour ravir mes esprits d'une parfaite joie ?
 
--*who_mainalte
+-*who_mainalte 
 Cessez de me surprendre, et de me caresser,
 Je vous étouferois pensant vous embrasser.
 Quels habits avez-vous ? et quel ordre de vivre ?
@@ -1298,7 +1298,7 @@ Et croi que la voiant vous lui serez fidelle.
 Mettez-vous dans ma place, et fiez-vous sur moi,
 Qu'elle ne peut manquer de vous donner sa foi⁎.
 
--*who_mainalte
+-*who_mainalte 
 Ma sœur si tu dis vrai, maintenant je t'advoüe
 Que malgré ma colere il faut que je te loüe.
 Mais est-il assuré.
@@ -1370,7 +1370,7 @@ Qu'on estimoit jadis, cede à ta lacheté.
 Ah ! c'est trop m'ofenser, si j'etois insensible
 Je pourois endurer un afront si visible.
 
--*who_mainalte
+-*who_mainalte 
 C'est trop dit ; j'y consens, aujourd'hui le vainqueur
 Doit gaigner Isidore, et posseder son cœur.
 
@@ -1394,7 +1394,7 @@ Et que par ce moien je cherche ton profit.
 J'aime plus un ami que toutes les richesses,
 Et pour en avoir un je perdrois cent Maitresses.
 
--*who_mainalte
+-*who_mainalte 
 Je te donne Isidore, et je perdrai le jour
 Si je ne la contrains d'apreuver ton amour.
 
@@ -1420,7 +1420,7 @@ D'obliger Isidore à n'aimer plus que toi.
 Quelqu'un nous surprendroit, ta querelle est connuë
 Et tu ne devois pas te battre en pleine ruë.
 
-**** *book_ *id_acte305 *act_acte3 *date_1637 *creator_chevreau
+**** *book_ *id_acte305 *act_acte3 *date_1637 *creator_chevreau 
 
 -*who_polydas
 Enfin si vous m'aimez, faites-moi ce plesir,
@@ -1444,7 +1444,7 @@ Y devons-nous entrer, parle.
 -*who_flaminie
 Je me resoudrai donc à les laisser ensemble.
 
--*who_atalante
+-*who_atalante 
 Ouï je vous le promets ; si la discretion
 Entretient vôtre crainte, et vôtre affection.
 
@@ -1471,7 +1471,7 @@ Excepté mon honneur, je ne hazarde⁎ rien.
 
 **** *book_ *id_argument-acte4 *date_1637 *creator_chevreau
 
-ARGUMENT DU QUATRIESME ACTE.
+ARGUMENT DU QUATRIESME ACTE. 
 
 P olydas apres avoir long-temps attendu, entend du bruit et s'imaginant tenir Atalante, prend Mainalte sans le connêtre, qui croit estre trompé par sa sœur.
 Mainalte en sortant entend venir Flaminie, qui d'abord est prise par Polydas, lequel se voyant duppé si souvent, proteste d'avoir à l'advenir moins d'amour.
@@ -1534,7 +1534,7 @@ Mais je l'entens venir ; c'est à tort que j'en doute,
 « Ou si ce Dieu puissant n'a jamés eu des yeux,
 « Nous devons avoüer qu'Argus ne voit pas mieux.
 
-**** *book_ *id_acte402 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte402 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_sicandre
 Allez, elle m'attend, montrez vôtre prudence,
@@ -1550,7 +1550,7 @@ Témoignez moins d'ardeur, paressez moins sensible ;
 Ou si cela vous fâche aiez du sentiment
 Pour soulager le mal⁎ d'un malheureux Amant⁎.
 
--*who_sicandre
+-*who_sicandre 
 Pourveu qu'en un moment il treuve sa fortune⁎,
 Mon esprit est content si rien ne l'importune.
 Allons dedans ma chambre, attendant son retour,
@@ -1566,7 +1566,7 @@ Soient égaux pour le moins à vos plus grands desirs.
 Vous ne me parlez point ; quoi rien ne me console !
 Lors que je pers le cœur, perdez-vous la parole ?
 
--*who_mainalte
+-*who_mainalte 
 Ma sœur m'en a donné.
 
 -*who_polydas
@@ -1652,7 +1652,7 @@ Lui soit dans cette nuit plus claire que le jour ?
 Dequoi puis-je couvrir ma flame⁎ illegitime,
 Mon indiscretion passera pour un crime.
 
--*who_polydas
+-*who_polydas 
 Et bien que voulez-vous ? suis-je point vostre Amant⁎ ?
 Esperez-vous de moi quelque contentement ?
 Non, je ne le croi pas ; un autre que Sicandre
@@ -1713,7 +1713,7 @@ As-tu perdu le soin de soulager Sicandre ?
 -*who_flaminie
 Ne parlez pas si haut, mon frere.
 
--*who_mainalte
+-*who_mainalte 
       Je sçai tout.
 Mais avoir un dessein sans en venir à bout.
 
@@ -1725,7 +1725,7 @@ Le brasier que je sens ne se peut exprimer,
 Et malgré Polydas, les destins, et les Parques,
 Je t'en rendrai bien tôt d'assez visibles marques.
 
-**** *book_ *id_acte407 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte407 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_polydas
 Non, non c'est trop soufrir ; si je suis amoureux⁎
@@ -1739,7 +1739,7 @@ Et comme un Ixion n'embrasser que la nuë.
 O Ciel je n'en puis plus ! je me rends à mon tour,
 Il faut estre bien sot⁎ pour faire ainsi l'amour.
 
-**** *book_ *id_acte408 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte408 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_atalante
 Est-ce vous Polydas ?
@@ -1758,7 +1758,7 @@ Troubler mon entretien⁎ c'est troubler ma fortune⁎ ;
 Adieu donc laissez-moi dans l'humeur⁎ où je suis,
 Tant plus vous demeurés, et tant plus j'ai d'ennuis⁎.
 
--*who_atalante
+-*who_atalante 
 Quoi me traiter ainsi ! ta fourbe est découverte,
 Mais si j'ai des amis tu dois craindre ta perte.
 Ne m'opose plus rien afin de me changer,
@@ -1802,7 +1802,7 @@ Vous n'avez maintenant qu'à vous aimer vous-même.
 Si les hommes avoient d'aussi puissans apas⁎,
 Les filles desormais ne nous charmeroient pas.
 
--*who_sicandre
+-*who_sicandre 
 Mais parlons de Mainalte à qui ma Flaminie
 Crêra devoir la fin de sa pêne⁎ infinie,
 Ils sont à mediter des propos amoureux,    
@@ -1821,7 +1821,7 @@ Mais voici Polydas.
       Inventez quelque ruse,
 Ou quelque compliment qui fasse mon excuse.
 
-**** *book_ *id_acte410 *act_acte4 *date_1637 *creator_chevreau
+**** *book_ *id_acte410 *act_acte4 *date_1637 *creator_chevreau 
 
 -*who_polydas
 J'ai pensé sucomber à ces nouveaux maleurs,
@@ -1890,7 +1890,7 @@ Elle est dans le jardin.
       Non je n'ai plus d'attente,
 Elle en vient de sortir.
 
--*who_flaminie
+-*who_flaminie 
       Elle y retourne encor.
 
 -*who_polydas
@@ -1915,7 +1915,7 @@ Madame montrez-nous vôtre ame toute nue,
 Et malgré cette ruse avoüez franchement
 Que nous ne differons qu'en habit seulement.
 
--*who_mainalte
+-*who_mainalte 
 Ma sœur j'en ai trop dit.
 
 -*who_flaminie
@@ -1965,7 +1965,7 @@ Dont nous nous servirons pour croître son amour.
 
 **** *book_ *id_argument-acte5 *date_1637 *creator_chevreau
 
-ARGUMENT DU CINQUIESME ACTE.
+ARGUMENT DU CINQUIESME ACTE. 
 
 A TALANTE fachée de ce dernier affront qu'elle devoit à l'imprudence de Polydas, promet à Philemon de ne songer plus à cette amour ; et lors qu'elle va querir Isidore, elle aprend la ruse dans laquelle elle commence à jouër le premier personnage.
 Car Polydas revenant du jardin, où il s'estoit endormi, et protestant de nouveau de n'aimer plus Atalante eut advis de Flaminie que Tharzinte qui avoit des-ja parole d'Isidore, et Mainalte qui avoit receu la foy de Flaminie en secret, se vouloient battre pour sa maitresse.
@@ -1984,7 +1984,7 @@ Qu'ils peuvent seulement nous donner de l'ennui⁎,
 Que nous perdons le temps, et que tant de chimeres
 En augmentant sa gloire⁎ augmente nos miseres.
 
--*who_philemon
+-*who_philemon 
 J'ay crû qu'il n'estoit pas d'un si facile accés,
 Et que vôtre dessein n'auroit point de succés.
 Qui pourroit-on dupper dans le siecle où nous sommes ?
@@ -2030,7 +2030,7 @@ Et vous m'aporterés moins d'incommodité.
 J'y vais sans differer, et je suis assez pronte
 Pour treuver aujourd'hui de quoi couvrir ma honte.
 
-**** *book_ *id_acte502 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte502 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_flaminie
 Confessez pour le moins que c'est bien mediter.
@@ -2090,7 +2090,7 @@ Je ne viens en ce lieu qu'afin de l'en tirer.
 -*who_flaminie
 Nous voulez-vous ainsi contraindre à soûpirer.
 
--*who_sicandre
+-*who_sicandre 
 Tout ira bien pour vous, ma sœur soiez plus sage,
 Et suivez mon conseil sans parler d'avantage.
 
@@ -2106,7 +2106,7 @@ Et sçachez que la sœur vous assure du frere.
 Sentons encore un coup, et voions si le sort⁎
 Nous doit faire aujourd'huy rencontrer quelque port.
 
-**** *book_ *id_acte503 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte503 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_polydas
 Comment je voi des-ja le départ de l'Aurore,
@@ -2164,7 +2164,7 @@ Vous les avez pû voir.
       O Ciel que tu m'estonnes !
 Fais- moy donc par le nom connêtre ces personnes.
 
-**** *book_ *id_acte505 *act_acte5 *date_1637 *creator_chevreau
+**** *book_ *id_acte505 *act_acte5 *date_1637 *creator_chevreau 
 
 -*who_mainalte
 L'Amour à mes dépens te veut faire esperer
@@ -2178,7 +2178,7 @@ A toûjours esté ferme au milieu du maleur.
 Le bruit qu'on t'a donné n'est rien qu'une fumée,
 Car je voi que l'effet cede à la renommée.
 
--*who_flaminie
+-*who_flaminie 
 Mon frere empeschons les.
 
 -*who_polydas
@@ -2203,7 +2203,7 @@ Et s'il vous faut mourir, mourez pour cette belle.
 Je la voulois hair, mais lors que je la voi
 Je pers ma liberté, je ne suis plus à moi.
 
--*who_sicandre
+-*who_sicandre 
 Donnez donc seulement.
 
 -*who_polydas
@@ -2229,7 +2229,7 @@ Mais il faut qu'il rougisse, et de sang et de honte.
 -*who_polydas
 Sicandre qu'ai-je fait ?
 
--*who_atalante
+-*who_atalante 
       O Ciel quelle rigueur !
 
 -*who_tharzinte
@@ -2256,7 +2256,7 @@ Il nous plaist de servir s'il vous plaist d'ordonner.
 -*who_atalante
 Je ne crerai jamés cette faveur petite.
 
--*who_mainalte
+-*who_mainalte 
 Madame esperez tout, aiant tant de merite.
 
 -*who_polydas
@@ -2281,7 +2281,7 @@ Que ma sœur ait reduit un cœur si genereux⁎.
 Ce plesir est trop doux, mon ame est trop contente,
 Je ne pouvois mieux choir en perdant Atalante.
 
--*who_polydas
+-*who_polydas 
 Il est vrai, tout va bien, mais consentez aussi
 Que je treuve comme eux la fin de mon souci.
 Quel dessein feriez-vous de me voir miserable ?
@@ -2353,7 +2353,7 @@ Car son choix seulement finira la querelle.
 Puis qu'on veut m'imposer cette necessité.
 Sicandre me ravit pour sa fidelité.
 
--*who_polydas
+-*who_polydas 
 Sicandre vous ravit ! que mon ame est confuse !
 Juste Ciel est-ce ainsi qu'il faut qu'on me refuse !
 
@@ -2427,7 +2427,7 @@ Que rien ne peut troubler une semblable joie.
 N'aprehendons plus rien, nous serons trop contents,
 Et nos plêsirs iront par delà tous les temps.
 
--*who_sicandre
+-*who_sicandre 
 Tout nous a reüssi, nôtre fortune⁎ est belle,
 Flaminie à propos a fait cette querelle,
 Polydas la cajolle, elle est selon son vœu,

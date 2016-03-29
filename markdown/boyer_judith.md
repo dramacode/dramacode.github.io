@@ -1015,7 +1015,7 @@ Achior, je ne puis en dire davantage ;
 à Ozias
 
 Vous, allez rasseurer un Peuple plein d'effroy ;  
-Et du reste, Ozias, reposez-vous sur moi.  
+Et du reste, Ozias, reposez-vous sur moi.   
 
 
 ### SCENE VI [83]
@@ -1056,7 +1056,7 @@ Par tout ce qu'on attend de l'illustre⁎ Judith.
 J'attens tout de Judith, mais le Peuple indocile  
 Ne prenant pas sur elle un espoir bien tranquile :  
 Je vais par vôtre exemple et par vôtre valeur  
-Appaiser son murmure, et calmer sa frayeur.  < Fin du premier Acte >
+Appaiser son murmure, et calmer sa frayeur.  < Fin du premier Acte > 
 
 
 ## ACTE II
@@ -1584,10 +1584,10 @@ De la soif, de la faim le ravage funeste [120]
 Nous laisse encor [121] la fleur de nos meilleurs soldats. [122]  
 Dés que j'aurai reçû les ordres d'Ozias  
 Je me livre aux transports⁎ dont mon ame est saisie,  
-Soit amour ou fureur⁎, soit zele⁎ ou jalousie.  < Fin du deuxiéme Acte >
+Soit amour ou fureur⁎, soit zele⁎ ou jalousie.  < Fin du deuxiéme Acte > 
 
 
-## **ACTE III**
+## ACTE III
 
 
 ### SCENE PREMIERE
@@ -1669,7 +1669,7 @@ Il est honteux pour moy que le Roy que je sers
 Soit un seul jour plus tard maître de l'Univers.  
 Penetrons ces rochers, rien n'est inaccessible  
 Aux vifs et prompts efforts d'une armée invincible. [128]  
-Mais quels cris m'ont frapé ?  
+Mais quels cris m'ont frapé ?   
 
 
 ### SCENE II
@@ -1852,7 +1852,7 @@ Qu'on aille satisfaire à mon impatience,
 Je brûle de la voir.  
 
     MISAEL
-        Que je crains sa presence !  
+        Que je crains sa presence !   
 
 
 ### SCENE VI
@@ -2030,7 +2030,7 @@ Quel secours il destine au succés que j'attends.
 Allez le consulter et hâter ma victoire,  
 Et j'avouëray tout haut, pour payer tant de gloire⁎,  
 Que vainqueur tant de fois, un nom si grand, si doux,  
-Me fera plus d'honneur si je le tiens de vous.  
+Me fera plus d'honneur si je le tiens de vous.   
 
 
 ### SCENE VIII
@@ -2078,10 +2078,10 @@ Le Ciel, le juste Ciel n'a-t-il pas son tonnerre ?
 Allons hors de ce Camp dont l'air est infecté,  
 Où tout est corrompu par son impieté,  
 Allons prier le Ciel que sans blesser sa gloire⁎  
-Il me fasse achever cette affreuse⁎ victoire.  < Fin du troisiéme Acte >
+Il me fasse achever cette affreuse⁎ victoire.  < Fin du troisiéme Acte > 
 
 
-## **ACTE IV**
+## ACTE IV
 
 
 ### SCENE PREMIERE
@@ -2168,7 +2168,7 @@ Loin du monde et du bruit⁎ elle implore ce Dieu
 Qui luy promet pour vous... La voici qui s'avance.  
 
     HOLOFERNE
-A peine mes regards soutiennent sa presence.  
+A peine mes regards soutiennent sa presence.   
 
 
 ### SCENE II
@@ -2474,7 +2474,7 @@ Tout ce qui doit enfin honorer ce grand jour.
 Holoferne sur tout impatient⁎ d'attendre...  
 
     JUDITH
-Je vous suis.  
+Je vous suis.   
 
 
 ### SCENE VI
@@ -2518,7 +2518,7 @@ Allez, je vous suivray, j'ay même impatience.
     JUDITH
 Voyez tout. Loin de craindre icy votre presence,  
 J'aime à vous voir toûjours curieux et jaloux ;  
-Ma gloire⁎ avoit besoin d'un témoin comme vous.  
+Ma gloire⁎ avoit besoin d'un témoin comme vous.   
 
 
 ### SCENE VII
@@ -2527,10 +2527,10 @@ Ma gloire⁎ avoit besoin d'un témoin comme vous.
 Me trompay-je ? Judith seroit-elle innocente ?  
 Je commence à douter, sa fierté⁎ m'épouvante.  
 Allons nous éclaircir. Puisse le Dieu vengeur  
-Confondre mes soupçons, et punir mon erreur.  < Fin du quatriéme Acte >
+Confondre mes soupçons, et punir mon erreur.  < Fin du quatriéme Acte > 
 
 
-## **ACTE V**
+## ACTE V
 
 
 ### SCENE PREMIERE
@@ -2598,7 +2598,7 @@ Qui pourroit vous comprendre, ô Sagesse éternelle ?
 
     ACHIOR
 J'ay douté comme vous, mais je voy Misael :  
-Son desordre... [176]  
+Son desordre... [176]   
 
 
 ### SCENE III

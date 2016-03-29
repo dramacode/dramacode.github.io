@@ -18,7 +18,7 @@ tres-obeïssant serviteur
 
 C ⁎ ⁎ ⁎
 
-**** *book_ *id_acte101 *act_acte1 *date_1683 *creator_campistron
+**** *book_ *id_acte101 *act_acte1 *date_1683 *creator_campistron 
 
 -*who_clodius
 De ma temerité Rome entiere surprise,
@@ -62,7 +62,7 @@ Mille perils divers s'offrent à ma pensée ;
 Mais je tremble sur tout qu'un odieux Rival
 Au repos de mes jours ne soit encor fatal.
 
--*who_clodius
+-*who_clodius 
 De mon zele pour vous assuré dés l'enfance
 Vous m'avez honoré de vostre confiance,
 Seigneur, et vostre main par de nouveaux bienfaits
@@ -202,7 +202,7 @@ Sans bruit⁎ dans ce Palais je le fais arrester.
 -*who_clodius
 Ah ! je prevoy...
 
-**** *book_ *id_acte102 *act_acte1 *date_1683 *creator_campistron
+**** *book_ *id_acte102 *act_acte1 *date_1683 *creator_campistron 
 
 -*who_fabian
       Plautie, aux pleurs abandonnée,
@@ -410,7 +410,7 @@ Est-ce trop peu de maux, dont je suis déchirée,
 Seray-je d'avec vous encore separée !
 Aprés tant de soûpirs⁎, à peine je vous voy...
 
--*who_plautie
+-*who_plautie 
 Crois-tu qu'à te quitter je souffre moins que toy,
 Quand à partir d'icy je me crois toute preste,
 Malgré tous mes efforts ma tendresse m'arreste,
@@ -692,7 +692,7 @@ Mais comment ?
 C'est à moy de convaincre, et punir l'imposture,
 J'y cours, adieu, Madame.
 
-**** *book_ *id_acte203 *act_acte2 *date_1683 *creator_campistron
+**** *book_ *id_acte203 *act_acte2 *date_1683 *creator_campistron 
 
 -*who_camille
       Il court vous secourir,
@@ -715,7 +715,7 @@ Que ses yeux soient témoins de mes vives allarmes,
 Peut estre, sera-t'il, attendry par mes larmes ?
 Ne nous contraignons plus, le voicy.
 
-**** *book_ *id_acte204 *act_acte2 *date_1683 *creator_campistron
+**** *book_ *id_acte204 *act_acte2 *date_1683 *creator_campistron 
 
 -*who_virginie
       Quoy, Seigneur,
@@ -825,7 +825,7 @@ Clodius n'a point seul commencé ma disgrace⁎,
 C'est un bras plus puissant qui soustient son audace,
 Seigneur, vous m'entendez⁎.
 
--*who_appius
+-*who_appius 
       Ah ! que soupçonnez-vous ?
 Au moment que ma main vous dérobe à ses coups⁎
 Que pensez-vous de moy.
@@ -907,7 +907,7 @@ Aux discours⁎ des Romains touchez de vos malheurs,
 Vous avez seulement répondu par des pleurs,
 Leurs soins officieux...
 
--*who_plautie
+-*who_plautie 
       Eh que puis-je répondre,
 Leurs discours⁎ et leurs soins ne font que me confondre⁎,
 Pour flatter⁎ ma disgrace⁎, ils m'en viennent parler,
@@ -1005,7 +1005,7 @@ Oüy, Madame, je vais soulager vostre peine,
 Sortez. Retirez-vous dans la chambre prochaine,
 Je sçauray prononcer⁎ lorsqu'il en sera temps.
 
--*who_clodius
+-*who_clodius 
 Vous differez encor, Seigneur,  je vous entens⁎,
 Vous n'osez de Plautie augmenter la misere,
 Mais un Chef des Romains doit estre plus severe,
@@ -1304,7 +1304,7 @@ Je conçois la grandeur d'un si noble dessein,
 Mais helas ! que je crains qu'on ne le tente en vain,
 Je crains...
 
-**** *book_ *id_acte307 *act_acte3 *date_1683 *creator_campistron
+**** *book_ *id_acte307 *act_acte3 *date_1683 *creator_campistron 
 
 -*who_severe
       N'attendez plus un secours inutile,
@@ -1562,7 +1562,7 @@ Icile en ce moment va parestre à vos yeux,
 J'ay moy mesme ordonné qu'on l'ameine en ces lieux.
 Il vient.
 
-**** *book_ *id_acte403 *act_acte4 *date_1683 *creator_campistron
+**** *book_ *id_acte403 *act_acte4 *date_1683 *creator_campistron 
 
 -*who_appius
       Derobez vous au coup⁎ qui vous menace,
@@ -1622,7 +1622,7 @@ Et dés ce mesme jour...
 Par où pretendez vous nous pouvoir secourir ?
 Qu'avez vous resolu, Madame ?
 
--*who_virginie
+-*who_virginie 
       De mourir,
 
 -*who_icile
@@ -1695,7 +1695,7 @@ Ah perfide ! ta mort, mais une mort cruelle⁎,
 Punira de ton cœur l'audace criminelle,
 Rien ne te peut sauver, c'en est fait.
 
--*who_icile
+-*who_icile 
       Haste toy,
 La mort n'a rien d'affreux ny de triste pour moy,
 Mais que dis-je ? ma mort encor plus que ma vie,
@@ -1730,7 +1730,7 @@ Qu'on les ramene.
 -*who_icile
       Adieu, Madame.
 
-**** *book_ *id_acte406 *act_acte4 *date_1683 *creator_campistron
+**** *book_ *id_acte406 *act_acte4 *date_1683 *creator_campistron 
 
 -*who_appius
 C'en est fait, bannissons la pitié de mon ame,
@@ -2041,7 +2041,7 @@ Où sont nos ennemis, que mon bras les immole,
 Que Virginie enfin ne les redoute plus,
 Que j'aille...
 
--*who_camille
+-*who_camille 
       Moderez des transports⁎ superflus,
 Il n'est plus temps.
 
@@ -2119,7 +2119,7 @@ S'élance sur le fer, et d'une main hardie,
 Prend celle de son pere, et poussant le coûteau,
 S'en frape, tombe, et s'ouvre un chemin au tombeau.
 
--*who_plautie
+-*who_plautie 
 Helas !
 
 -*who_camille

@@ -635,7 +635,7 @@ DES JARDINS.
  – PHENICE,Suivante d'Omphale.
  – PISON,Licteur [107].
 La Scene est au Camp des Romains [108] devant les Tentes du Consul.
-
+ 
 
 
 ## ACTE I.
@@ -818,7 +818,7 @@ Sont des amusemens [128] indignes d'un Romain :
 Je sçay le peu d'attraits dont le ciel m'a pourveuë ;  
 Et le sort m'a laissé du sens⁎ & de la veuë.  
 
-    TORQUATUS.
+    TORQUATUS. 
 Quoy⁎ tousjours opposer cette extréme froideur,  
 Aux sinceres effets⁎ de ma bouïllante ardeur⁎ ?  
 Vous doutez de mes feux⁎, adorable⁎ insensible,  
@@ -909,7 +909,7 @@ Il sort.
 
 
 
-### SCENE IV.
+### SCENE IV. 
 OMPHALE, PHENICE.
 
 
@@ -965,7 +965,7 @@ Le voicy qui s'avance.
                     En croiray-je mes yeux ?  
 
 
-### SCENE V.
+### SCENE V. 
 OMPHALE, MANLIUS, PHENICE.
 
 
@@ -1051,7 +1051,7 @@ Si j'avois moins de peur, j'aurois moins de tendresse,
 Et mon superbe⁎ cœur par l'amour enflâmé  
 N'auroit jamais tremblé, s'il n'avoit point aimé.  
 
-    MANLIUS.
+    MANLIUS. 
 Apres un tel discours qui pourroit me détruire ?  
 Mortels audacieux, conspirez pour me nuire,  
 Empruntez s'il se peut, pour avancer ma mort,  
@@ -1070,7 +1070,7 @@ Sans craindre aucun peril, je cours m'en acquiter,
 Un Amant⁎ fortuné⁎ n'a rien à redouter.  
 
 
-### SCENE VI.
+### SCENE VI. 
 OMPHALE, PHENICE.
 
 
@@ -1097,7 +1097,7 @@ Par un effet divin de leurs soins paternels,
 Leurs yeux incessamment veillent sur les mortels :  
 Allons donc dans ce Temple offrir un sacrifice,  
 Pour nous rendre le Ciel, s'il se peut plus propice.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1351,7 +1351,7 @@ Voyez si dans ce camp, il ne se passe rien :
 Je vous suy.  
 
 
-### SCENE V.
+### SCENE V. 
 TORQUATUS, OMPHALE, PHENICE.
 
 
@@ -1476,7 +1476,7 @@ Devenir d'un forfait la cause ou le complice,
 Monter à ce haut rang par une lâcheté,  
 Torquatus à ce prix seroit trop achepté [158].  
 
-    CAMILLE.
+    CAMILLE. 
 Mais aussi par ce prix vous rachetez l'Epire.  
 
     OMPHALE.
@@ -1525,10 +1525,10 @@ Pour les apprendre mieux entrons dans vostre tente.
     CAMILLE.
 J'y consens avec joye, allons, cét entretien  
 Me rend vostre interest⁎ aussi cher que le mien.  
-Fin du Second Acte.
+Fin du Second Acte. 
 
 
-## **ACTE III.**                
+## ACTE III.
 
 
 ### SCENE PREMIERE.
@@ -1586,7 +1586,7 @@ Offrons luy du secours embrassons sa deffence
 Tâchons de l'irriter : Le voicy qui s'avance.  
 
 
-### SCENE II.
+### SCENE II. 
 CAMILLE, MANLIUS.
 
 
@@ -1747,7 +1747,7 @@ Vostre seule injustice a merité la mort,
 Et je vous abandonne aux cruautez⁎ du sort.  
 
 
-### SCENE III.
+### SCENE III. 
 
     MANLIUS, *seul.*
 O Sort vrayement cruel ! ô funeste⁎ avanture !  
@@ -1791,7 +1791,7 @@ Font exprés dans ce lieu rencontrer ta Princesse ;
 R'anime en la voyant ton espoir abbatu.  
 
 
-### SCENE IV.
+### SCENE IV. 
 OMPHALE, MANLIUS, PHENICE.
 
 
@@ -1852,7 +1852,7 @@ Souvenez-vous sur tout que la gloire⁎ m'est chere ;
 Et que de quelques traits dont je sente les coups,  
 La gloire⁎ & mon devoir me touchent plus que vous.  
 
-    MANLIUS.
+    MANLIUS. 
 Achevez, achevez, dites aussi Madame,  
 Que l'amour du Consul, soûmet enfin vostre ame ;  
 Que ce rang eminent, ces titres glorieux⁎,  
@@ -1944,7 +1944,7 @@ S'il pouvoit sans témoins s'exprimer dans ce lieu,
 Que ne diroit-il point ? aime, & te sauve. Adieu.  
 
 
-### SCENE V.
+### SCENE V. 
 
     MANLIUS, *seul.*
 Aime & te sauve, helas ! dans un sort si contraire,  
@@ -1955,10 +1955,10 @@ Ce que l'une défend, l'autre me le commande
 C'est trop long-temps souffrir⁎ une peine si grande,  
 Il faut y succomber, c'en est fait & mon cœur  
 Ne consultera plus que sa propre fureur.  
-Fin du troisiéme Acte.
+Fin du troisiéme Acte. 
 
 
-## **ACTE IV.**                         [173]
+## ACTE IV. [173]
 
 
 ### SCENE PREMIERE.
@@ -2125,7 +2125,7 @@ Cesse donc de penser, qu'aux biens que tu hazardes⁎
 Je prenne d'interest⁎…  
 
 
-### SCENE III.
+### SCENE III. 
 TORQUATUS, CAMILLE, JUNIUS.
 
 
@@ -2327,7 +2327,7 @@ Et toute ma vertu n'a que de foibles armes,
 Quand il faut surmonter la Princesse, & ses charmes⁎,  
 Ne balançons⁎ donc point, & courons de ce pas  
 Avancer mon bon-heur, en pressant ce trépas.  
-Fin du quatriéme Acte.
+Fin du quatriéme Acte. 
 
 
 ## ACTE V.
@@ -2357,7 +2357,7 @@ La vie ou le trépas de quelqu'un des Romains ?
 Depuis quand, juste Ciel, une foible captive  
 Donne t'elle des loix qu'il faut que Rome suive ?  
 
-    TORQUATUS.
+    TORQUATUS. 
 Depuis que de vos yeux le pouvoir souverain  
 Est reconnu pour tel par un Consul Romain,  
 Ouy, Madame, vos traits en touchant un seul homme,  
@@ -2444,7 +2444,7 @@ Et du reste ?
     OMPHALE.
                 Seigneur, je voudrois y réver⁎.  
 
-    TORQUATUS.
+    TORQUATUS. 
 Ha ! c'est trop écouter tant de discours frivoles⁎,  
 Je ne me repais point de ces vaines⁎ paroles.  
 Hola, Gardes.  
@@ -2510,7 +2510,7 @@ Gardes, retirez-vous.
 Tâchons sans estre veu, d'écouter leurs discours.  
 
 
-### SCENE III.
+### SCENE III. 
 OMPHALE, MANLIUS, PHENICE, TORQUATUS, PISON.
 
 
@@ -2603,7 +2603,7 @@ Quel Arrest ! ha ! Seigneur.
 Helas, si la pitié toucha jamais vostre ame,  
 Ordonnez donc, Seigneur, que je suive son sort.  
 
-    TORQUATUS.
+    TORQUATUS. 
 Gardes, encore un coup, qu'on le traîne à la mort.  
 
     PISON.
@@ -2668,7 +2668,7 @@ Vont meriter, cruel, toute cette vengeance.
 Quand un peu de raison viendra vous secourir…  
 
 
-### SCENE IV.
+### SCENE IV. 
 TORQUATUS, CAMILLE, OMPHALE, PHENICE.
 
 
@@ -2681,7 +2681,7 @@ Tu ne crains ny remors, ny honte, ny Senat :
 Ton ame apres ce coup n'est donc point alarmée⁎ ?  
 
 
-### SCENE V.
+### SCENE V. 
 TORQUATUS, CAMILLE, OMPHALE, PHENICE, JUNIUS.
 
 
@@ -2694,7 +2694,7 @@ Je crains de cét Arrest une suitte funeste⁎ ;
 Il s'éleve par tout un murmure⁎ confus.  
 
 
-### SCENE VI.
+### SCENE VI. 
 TORQUATUS, CAMILLE, OMPHALE, PHENICE, JUNIUS, PISON.
 
 
@@ -2718,7 +2718,7 @@ Ce poignard…
     PISON.
                 Arrestez, Madame, il n'est pas mort.  
 
-    TORQUATUS.
+    TORQUATUS. 
 Manlius n'est pas mort ? hé quel bras temeraire⁎  
 A pû le dérober à ma juste colere ?  
 
@@ -2762,7 +2762,7 @@ Servira d'un exemple à la posterité.
 Qu'on me suive.  
 
 
-### SCENE VII.
+### SCENE VII. 
 TORQUATUS, CAMILLE, OMPHALE, MANLIUS, PHENICE, JUNIUS, PISON.
 
 
@@ -2839,7 +2839,7 @@ Je puis vous élever au but de vos souhaits,
 Ou je seray deceu⁎ dans ma juste esperance,  
 Ou bien tost vostre Hymen⁎ lavera mon offence.  
 
-    MANLIUS.
+    MANLIUS. 
 Ah, mon Pere, ah, Seigneur, ay-je bien entendu ?  
 
     TORQUATUS.
@@ -3008,7 +3008,7 @@ Théâtre du xvii*e* siècle
 
 
 
-#### Théâtre du xvii*e* siècle*Baby*La Tragi-comédie de Corneille à Quinault
+#### Théâtre du XVII*e* siècle*Baby*La Tragi-comédie de Corneille à Quinault
 *Baby*La Pratique du ThéâtreLa Pratique du Théâtre, op. cit.
 *Deierkauf-Holsboer*Le Théâtre l'Hôtel de Bourgogne
 *Forestier*Introduction à l'analyse des textes classiques

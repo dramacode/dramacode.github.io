@@ -631,7 +631,7 @@ T. CORNEILLE
  – ELISE,Fille d'Annibal.
  – ALCINE,Confidente d'Elise.
  – PROCULE,Tribun Romain.
- – ARAXE,Capitaine des Gardes de Prusias.
+ – ARAXE,Capitaine des Gardes de Prusias. 
 
 
 ## ACTE I.
@@ -756,7 +756,7 @@ Mais laissez-moy me taire où vos feux parleront.
 Seigneur, vous apprendrez le succez qu'ils auront.  
 
 
-### SCENE II.
+### SCENE II. 
 PRUSIAS, ARAXE.
 
 
@@ -796,7 +796,7 @@ Mais il faudra qu'Elise…
     PRUSIAS
 Quoy, d'Elise…  
 
-    ARAXE
+    ARAXE 
         Seigneur, je crois qu'elle vous plaist ?  
 
     PRUSIAS
@@ -902,7 +902,7 @@ Pour…
         Il est un moyen de luy faire tout croire.  
 Si vous l'autorisez…  
 
-    PRUSIAS
+    PRUSIAS 
         Quel que soit ce moyen,  
 Offrez, promettez tout, je ne reserve⁎ rien.  
 
@@ -978,7 +978,7 @@ Cent Princes opprimez prendront votre défence,
 Toute l'Asie aspire à voir briser ses fers,  
 Tirez-la d'esclavage, et vangez l'Univers.  
 
-    PRUSIAS
+    PRUSIAS 
 Voila les sentiments que l'amour vous inspire ?  
 Elise vous apprend ce que vous m'osez dire,  
 Et ce parfait rapport de haine et d'interest  
@@ -1081,7 +1081,7 @@ Avecque sa fortune errante et vagabonde [197]
 Un seul homme fait peur à ces Maistres du monde.  
 A nous voir vostre appuy [198], leur trouble est sans égal.  
 
-    PRUSIAS
+    PRUSIAS 
 Madame, je ne sçay ce qu'en juge Annibal,  
 Mais si j'ay le malheur qu'aprés mille asseurances  
 Rome le fasse entrer en quelques défiances⁎,  
@@ -1118,7 +1118,7 @@ Ils se fussent servis de toute leur fierté,
 Mais l'adoucissement qu'y meslent vos disgraces  
 Fait briller…  
 
-    ELISE
+    ELISE 
         Ces douceurs [201] sont pour les ames basses,  
 Seigneur, et mon orgueil s'en accommode mal,  
 De grace, traitez mieux la Fille d'Annibal.  
@@ -1211,7 +1211,7 @@ Et que…
 
     PRUSIAS
         Lors qu'il s'agit de voir nos vœux⁎ contents,  
-Promettons tout, Araxe, et laissons faire au temps.  < Fin du premier Acte. >
+Promettons tout, Araxe, et laissons faire au temps.  < Fin du premier Acte. > 
 
 
 ## ACTE II.
@@ -1242,7 +1242,7 @@ Où l'ordre est absolu, que peut sa resistance ?
     ELISE
 Quoy, son cœur à ceder n'a point de repugnance ?  
 
-    ALCINE
+    ALCINE 
 J'ay peu l'art de connoistre un cœur comme le sien.  
 Mais pourquoy…  
 
@@ -1365,7 +1365,7 @@ Pardonnez mon desordre à ma surprise extréme.
 Quoy, Madame, il se peut que Prusias vous aime,  
 Que l'ordre de partir…  
 
-    ELISE
+    ELISE 
         Si vous obeïssez,  
 Prince, voyez de grace à qui vous me laissez.  
 
@@ -1407,7 +1407,7 @@ Je voudrois de mon sang racheter vostre perte,
 Et par ce sacrifice apprendre assez à tous  
 Que peut-estre mon cœur estoit digne de vous.  
 
-    ELISE
+    ELISE 
 Quoy, si ce pur amour fait toute vostre gloire,  
 Il faut m'abandonner pour me le faire croire ?  
 
@@ -1446,7 +1446,7 @@ J'aurois le nom de Reine, et vous celuy d'esclave,
 Et les fers que dans Rome on vous feroit traisner  
 Me vaudroient la douceur de me voir couronner ?  
 
-    NICOMEDE
+    NICOMEDE 
 Et quel repos pour moy pretendre en Bithynie  
 Si faute d'en partir je vous en vois bannie,  
 Et de nouveau reduite au funeste revers⁎  
@@ -1480,7 +1480,7 @@ Prince.
 De sa hayne par vous les Romains sont l'objet [236].  
 Laisseriez-vous ainsi détruire vostre ouvrage [237] ?  
 
-    ANNIBAL
+    ANNIBAL 
 J'ay d'asseurez moyens de rompre ce voyage,  
 Ne vous alarmez point.  
 
@@ -1691,7 +1691,7 @@ Et leur Flaminius que j'éloigne de nous
 Vous répond-il assez que mon cœur est à vous ?  
 Vous restez dans ma Cour, et je vous tiens parole.  
 
-    ANNIBAL
+    ANNIBAL 
 Je voy qu'il s'est flaté d'une attente frivole,  
 Et vous dois d'autant plus, Seigneur, qu'en vain par luy  
 Rome a tout employé pour m'oster vostre appuy.  
@@ -1843,7 +1843,7 @@ Si j'éloigne ce Fils fait partir Annibal.
 Voyons Flaminius, l'infortune est égale,  
 J'ai parlé contre un Fils, parlons-lui contre Attale,  
 Et ménageons si bien l'éclat de son couroux,  
-Qu'Annibal soit reduit à n'esperer qu'en nous.  < Fin du second Acte. >
+Qu'Annibal soit reduit à n'esperer qu'en nous.  < Fin du second Acte. > 
 
 
 ## ACTE III.
@@ -1943,7 +1943,7 @@ Mon cœur vous est offert, venez-vous l'accepter,
 Et du grand Annibal ma flame obtiendra-t'elle  
 Qu'une heureuse union soit le prix de mon zele ?  
 
-    ANNIBAL
+    ANNIBAL 
 Il doit m'estre bien doux de voir que mon malheur  
 A mes Amis pour moi laisse tant de chaleur.  
 D'un Prince tel que vous l'alliance m'honore,  
@@ -1977,7 +1977,7 @@ Et sur ce que j'apprens j'aurois mauvaise grace
 De vous offrir encor un secours qui vous lasse,  
 On vous a mis au Trône, et cela vous suffit.  
 
-    ATTALE
+    ATTALE 
 Je ne sçay pas, Seigneur, ce que l'on vous a dit,  
 Mais ce que je vous dois m'asseure trop de gloire  
 Pour souffrir⁎ que jamais j'en perde la memoire,  
@@ -2016,7 +2016,7 @@ De Royaume en Royaume elle vous fait errer,
 Et chercher dans l'exil tout ce que l'on peut croire  
 Que doive un grand courage⁎ au soucy de sa gloire [288].  
 
-    ANNIBAL
+    ANNIBAL 
 Cet exil qui déja m'a fait voir tant d'Estats  
 Vous couste quelques soins⁎ que vous ne dites pas,  
 Et pour tenir vostre ame en tous lieux alarmée,  
@@ -2093,7 +2093,7 @@ A Attale.
 Seigneur, deliberez, vous avez ma réponse.  
 
 
-### SCENE V.
+### SCENE V. 
 FLAMINIUS, PRUSIAS, ATTALE, ARAXE.
 
 
@@ -2124,7 +2124,7 @@ Ainsi je le receus, mais sans attachement,
 Et l'on me voit pour Rome une foy⁎ trop sincere      
 Pour douter des motifs de ce que j'osay faire.  
 
-    ATTALE
+    ATTALE 
 Ce zele si vanté dont vous estes jaloux  
 N'est pas moins fort en moy qu'il pourroit l'estre en vous.  
 Et quand vers Annibal ma parole m'engage  
@@ -2422,7 +2422,7 @@ Consultez avec luy si mon zele et ma foy⁎
 Ne peuvent meriter que l'on me traite en Roy.  
 
 
-### SCENE VII.
+### SCENE VII. 
 FLAMINIUS, PROCULE.
 
 
@@ -2433,7 +2433,7 @@ A trente pas d'icy je viens de le quitter.
 Il presse fort.  
 
     FLAMINIUS
-        Allons, il le faut écouter.  < Fin du troisiéme Acte. >
+        Allons, il le faut écouter.  < Fin du troisiéme Acte. > 
 
 
 ## ACTE IV.
@@ -2565,7 +2565,7 @@ Pour meriter par vous d'en sçavoir la nouvelle,
 Vous pourrez avec luy, Seigneur, vous declarer.  
 
 
-### SCENE III.
+### SCENE III. 
 PRUSIAS, ATTALE, ARAXE.
 
 
@@ -2601,7 +2601,7 @@ Que par l'hymen d'Elise il comble mes souhaits.
     PRUSIAS
 Flaminius consent…  
 
-    ATTALE
+    ATTALE 
         Oüy, que j'épouse Elise,  
 Vous en voyez ma joye, envain je la déguise,  
 Mes yeux la font paroistre.  
@@ -2641,7 +2641,7 @@ Vous estes hors d'estat de me le faire croire,
 Mais puis-je de la mienne asseurer mieux l'éclat  
 Qu'à ne pretendre rien sans l'adveu⁎ du Senat ?  
 
-    PRUSIAS
+    PRUSIAS 
 C'est dont pourtant d'abord⁎ vous faisiez peu de compte [330].  
 
     ATTALE
@@ -2783,7 +2783,7 @@ Pour tirer mon adveu⁎ la voye est assez bonne,
 Et Rome à qui je porte un courage⁎ soûmis  
 Peut répondre de moy quand elle aura promis.  
 
-    NICOMEDE
+    NICOMEDE 
 Mais on livre Annibal, et c'est ce qu'on vous cache.  
 
     ELISE
@@ -2862,7 +2862,7 @@ Evitez leur presence, et prenez garde à tout
 Tandis que j'apprendray ce qu'Annibal resout.  
 
 
-### SCENE VII.
+### SCENE VII. 
 ANNIBAL, ATTALE, ELISE.
 
 
@@ -2891,7 +2891,7 @@ Mais quand je la sousmets à ce qu'elle vous doit,
 Sçavez-vous à quel prix Attale la reçoit ?  
 Il vous livre aux Romains.  
 
-    ATTALE
+    ATTALE 
         Ah, Madame, je jure  
 Qu'on me fera…  
 
@@ -3043,7 +3043,7 @@ Vous aurez mon exemple, apprenez à le suivre.
 
     ELISE
 Pour vous quitter, Seigneur, je sçay trop mon devoir.  
-L'exemple sera grand, je vay le recevoir.  < Fin du quatriéme Acte. >
+L'exemple sera grand, je vay le recevoir.  < Fin du quatriéme Acte. > 
 
 
 ## ACTE V.
@@ -3073,7 +3073,7 @@ Il falloit empescher qu'on ne vous fist outrage,
 Voila ce qui m'amene, et je viens vous offrir  
 Tout ce que peut un Roy qui veut vous secourir.  
 
-    ELISE
+    ELISE 
 Ce zele est obligeant⁎ [350], genereux, magnanime.  
 
     PRUSIAS
@@ -3182,7 +3182,7 @@ Si la trahison plaist on abhorre le Traistre,
 Et pour gouster le fruit de vos desseins jaloux,  
 Tout mon sang à verser est de l'employ pour vous.  
 
-    PRUSIAS
+    PRUSIAS 
 Nous verrons s'il sera difficile à répandre  
 Quand vous attaquerez ce que je viens défendre.  
 
@@ -3323,7 +3323,7 @@ Qu'on l'observe, et d'abord⁎, s'il ose rien tenter [363],
 Donnez ordre, Procule, à le faire arrester⁎.  
 
 
-### SCENE IV.
+### SCENE IV. 
 ELISE, PRUSIAS, FLAMINIUS, ARAXE.
 
 
@@ -3389,7 +3389,7 @@ Jusque dans le Palais il les a repoussez,
 Et tous, tremblant d'effroy dés qu'ils l'ont veu paroistre,  
 Negligeant Annibal, l'en ont laissé le maistre.  
 
-    PRUSIAS
+    PRUSIAS 
 Mon Fils a l'insolence…  
 
     FLAMINIUS
@@ -3426,7 +3426,7 @@ Comme le Ciel par tout seconde tes desseins.
 La victoire pour vous n'est pas encore entiere,  
 Et je vay donner ordre à vous revoir moins fiere.  
 
-    ELISE
+    ELISE 
 Je te conseillerois de ne t'éloigner pas.  
 Que sçais-tu si le Prince est maistre de son bras  [368] ?  
 Tu peux avoir besoin que je t'obtienne grace,  
@@ -3454,7 +3454,7 @@ Et consents qu'elle songe à se faire valoir
 Quand je seray d'humeur à l'aller recevoir [370].  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 ANNIBAL, ELISE, NICOMEDE, ALCINE.
 
 

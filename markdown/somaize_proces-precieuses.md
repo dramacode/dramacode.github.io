@@ -2129,7 +2129,7 @@ Vient de prononcer contre moy.
 
     RIBERCOUR. 
 (Prend la lettre & lit.)
-
+ 
 *Cher amy*,
 Je te conseille de laisser là ton procez, & de revenir dans nostre Province, car j'ay appris depuis que tu en es party que c'est un tour que l'on t'a joüé, & que ceux de ce païs qui t'ont envoyé s'entendent avec trois ou quatre personnes de Paris, qui doivent contrefaire les Juges, & les Pretieuses, pour se divertir de toy, je te donne cét advis ; & suis,
 Ton Serviteur,

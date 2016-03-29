@@ -13,8 +13,7 @@ Comédie
 PAR A.J. DE MONTFLEURY.
 
 A PARIS, Chez PIERRE PROMÉ, Sur le Quay des Grands Augustins, à la Charité. M. DC. LXXIV AVEC PERMISSION
-Édition critique établie par Adeline Garnier dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (2000-2001)
+Édition critique établie par Adeline Garnier dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000-2001)
 
 
 # Introduction
@@ -719,7 +718,7 @@ Nous avons corrigé les erreurs d'impression suivantes :
  – LA RIVIERE,Valet de Géronte.
  – L'INDUSTRIE,Valet de Trigaudin.
 La scène est à Paris.
-
+ 
 
 
 ## ACTE PREMIER.
@@ -778,7 +777,7 @@ Il n'est ny l'un ny l'autre.
 
     L’INDUSTRIE.
         Est-il possible ? Il a  
-Une Biblioteque où toûjours…  
+Une Biblioteque où toûjours…   
 
     TRIGAUDIN.
         Tout cela  
@@ -1022,7 +1021,7 @@ Il manquoit à son front ce qu'ils vouloient qu'il eut :
 Bref chacun luy dit tant…  
 
     TRIGAUDIN.
-    Hé bien ?  
+    Hé bien ?   
 
     TOINETTE.
         Qu'elle le crût.  
@@ -1056,7 +1055,7 @@ Ah Monsieur…
 Pourquoy donc en parler ?  
 
     TOINETTE.
-        Par forme d'entretien.  
+        Par forme d'entretien.   
 
 
 ### SCENE III.
@@ -1130,7 +1129,7 @@ Ce crayon imparfait n'en est…
 Plus belle ? Quoy, ses yeux…  
 
     TRIGAUDIN.
-        Sont plus grands & plus doux.  
+        Sont plus grands & plus doux.   
 
     GERONTE.
 Son teint ?  
@@ -1178,7 +1177,7 @@ Son esprit ?
         Engageante.  
 
     GERONTE.
-Jeune ?  
+Jeune ?   
 
     TRIGAUDIN.
     Cela se voit.  
@@ -1265,7 +1264,7 @@ De croire que l'Hymen…
     GERONTE.
         C'est par cette raison  
 Qu'il en faut prendre une autre, & songer à luy plaire :  
-Si la vostre vivoit, vous n'en auriez que faire.  
+Si la vostre vivoit, vous n'en auriez que faire.   
 
     TRIGAUDIN.
 J'aime le Célibat.  
@@ -1334,7 +1333,7 @@ Vos bontez ont pour moy de si frequents effets,
 Que mes remercîemens ne finiroient jamais,  
 Si mes soins, mon respect, & mon obeïssance,  
 Ne marquoient mieux mon zele, & ma reconnoissance :  
-Mais quel est ce présent ?  
+Mais quel est ce présent ?   
 
     GERONTE.
         Je vous donne un Mary ;  
@@ -1378,7 +1377,7 @@ A prendre pour Epoux…
     Qui ?  
 
     GERONTE.
-        Monsieur Trigaudin !  
+        Monsieur Trigaudin !   
 
     JULIE.
 Monsieur Trigaudin !  
@@ -1468,7 +1467,7 @@ A-t-elle, en l'acceptant, perdu le souvenir
 De ces deux cœurs que rien ne devoit des-unir ?  
 Geronte a-t-il trouvé son cœur sans Interprete,  
 Son visage sans trouble, & sa bouche muette ?  
-Dy-moy, qu'a t-elle dit pendant cet entretien ?  
+Dy-moy, qu'a t-elle dit pendant cet entretien ?   
 
     TOINETTE.
 Et qu'auroit-elle dit ? Elle n'a rien dit.  
@@ -1579,7 +1578,7 @@ Madame, & détaler, je l'aperçoy qui sort.
 Je vous quitte.  
 
     VALERE.
-        Et je vay faire un dernier effort…  
+        Et je vay faire un dernier effort…   
 
 
 ### SCENE III.
@@ -1692,7 +1691,7 @@ Et vous le pourrez ?
 Ne revoquera⁎ point un ordre qui me tuë ?  
 
     GERONTE.
-Non.  
+Non.   
 
     VALERE.
         Il épouseroit vostre Niéce demain ?  
@@ -1759,7 +1758,7 @@ Mon Maistre à son retour met un assez long terme,
 La Cousine est venuë, & l'attend de pié ferme ;  
 Je suis d'avis de voir ce qu'il est devenu,  
 Il a quelque dessein qui ne m'est pas connu :  
-Mais enfin par mes soins sa conduite observée…  
+Mais enfin par mes soins sa conduite observée…   
 
 
 ### SCENE VI.
@@ -1834,7 +1833,7 @@ N'a pas mis en oubly ce que j'ay fait pour vous.
 
     LUCIE.
 Mon ame est trop sensible à la reconnoissance,  
-Pour oublier jamais…  
+Pour oublier jamais…   
 
     TRIGAUDIN.
         Mais sur cette assurance  
@@ -1877,7 +1876,7 @@ Jetté les fondemens de cette intelligence⁎ ;
 Et soupant l'autre jour chez un Amy parfait,  
 Où le hazard voulut qu'on vit vostre Portrait,  
 Afin de parvenir au but que j'imagine,  
-Je vous fis pres de luy passer pour ma Cousine.  
+Je vous fis pres de luy passer pour ma Cousine.   
 
     LUCIE.
 Vous avez vos raisons ; vous pouvez ordonner,  
@@ -1917,7 +1916,7 @@ A moy, Monsieur ?
     Bon.  
 
     TRIGAUDIN.
-    Comment bon ?  
+    Comment bon ?   
 
     LUCIE.
         Vous dites  
@@ -2041,7 +2040,7 @@ Voila, je vous l'avouë un méchant Garnement⁎.
 
     LUCIE.
 Je ne puis revenir de mon étonnement,  
-Car vostre bien suffit aux besoins d'une vie…  
+Car vostre bien suffit aux besoins d'une vie…   
 
     TRIGAUDIN.
 Oüy, j'en puis vivre avec bien de l'oeconomie,  
@@ -2080,7 +2079,7 @@ M'aura mis…
 
     LUCIE.
         Non, Monsieur, n'attendez rien de moy,  
-Ce dessein me fait peur, j'en frémis.  
+Ce dessein me fait peur, j'en frémis.   
 
     TRIGAUDIN.
         L'Innocente⁎ !  
@@ -2121,7 +2120,7 @@ LUCIE, L'INDUSTRIE.
 Cecy me semble un songe, & jamais ma surprise  
 N'estoit venuë au point où ce discours l'a mise.  
 Quoy, toutes mes raisons contre celle qu'il a,  
-N'ont pû…  
+N'ont pû…   
 
     L’INDUSTRIE. *sortant de l'Entrée où il estoit.*
         **Le grand pendard⁎ de Maistre que j'ay là !  
@@ -2153,7 +2152,7 @@ Pourra-t-il…
 
     LUCIE.
 Vien m'en entretenir, pour en presser l'effet.  
-Fin du Second Acte
+Fin du Second Acte 
 
 
 ## ACTE III
@@ -2182,7 +2181,7 @@ Que malgré tant d'amour tout trahit nos souhaits,
 Et que je vay demain la perdre pour jamais.  
 
     TOINETTE.
-Ah Monsieur !  
+Ah Monsieur !   
 
     VALERE.
         Oüy, demain on contraindra sa flâme  
@@ -2223,7 +2222,7 @@ Un juste desespoir n'osast tout entreprendre.
 Il vaut mieux m'éloigner.  
 
     TOINETTE.
-        Ah gardez-vous-en bien.  
+        Ah gardez-vous-en bien.   
 
     VALERE.
 Non, non, tous tes conseils ne serviront de rien [192] ;  
@@ -2260,7 +2259,7 @@ Quel Galant ! La figure en est-elle pas bonne ?
 
     VALERE.
 Mon amour est confus du Rival qu'on me donne ;  
-Et si pour m'en vanger, je suivois mon chagrin…  
+Et si pour m'en vanger, je suivois mon chagrin…   
 
 
 ### SCENE II.
@@ -2300,7 +2299,7 @@ Vous sçavez bien que c'est…
         La Niéce de Géronte.  
 
     VALERE.
-Justement⁎.  
+Justement⁎.   
 
     TRIGAUDIN.
     Oh.  
@@ -2341,7 +2340,7 @@ Moy, Monsieur ?
 Géronte à cet Hymen semble s'estre attendu ;  
 Mais loin de l'accepter, je m'en suis défendu ;  
 Je connois vostre amour, Monsieur, & je devine  
-Les ennuis qui suivroient…  
+Les ennuis qui suivroient…   
 
     VALERE.
         Mais enfin s'il s'obstine  
@@ -2387,7 +2386,7 @@ Au feu dont vous brûlez je la cede avec joye,
 Et que de mes respects vous serez satisfait.  
 
     VALERE.
-Cela suffit ; Adieu, nous en verrons l'effet.  
+Cela suffit ; Adieu, nous en verrons l'effet.   
 
 
 ### SCENE III.
@@ -2464,7 +2463,7 @@ Vous adore.
 
     GERONTE.
         Déja ? Voila qui prend bien fort.  
-Ainsi donc nostre Hymen sera chose facile ?  
+Ainsi donc nostre Hymen sera chose facile ?   
 
     TRIGAUDIN.
 Il dépendra de vous.  
@@ -2546,7 +2545,7 @@ Ainsi donc cet Epoux aura toute vostre ame ?
 Toute entiere !  
 
     GERONTE.
-        Et ses soins témoins de ses desirs…  
+        Et ses soins témoins de ses desirs…   
 
     LUCIE.
 Me plairont.  
@@ -2593,7 +2592,7 @@ La pudeur d'une Fille⁎ à de telles épreuves ;
 Il faut, quand nous pouvons donner tout à nos sens,  
 Epargner les témoins de nos empressemens,  
 De crainte d'exciter, par un soin condamnable,  
-De petits mouvemens dont on est responsable.  
+De petits mouvemens dont on est responsable.   
 
     GERONTE.
 Tout ce raisonnement me semble bien subtil ;  
@@ -2629,7 +2628,7 @@ Il presse.
     Qu'il attende.  
 
     L’INDUSTRIE.
-        Il dit que c'est pour faire…  
+        Il dit que c'est pour faire…   
 
     TRIGAUDIN.
 Ah Ciel ! il ne faut pas negliger cette affaire,  
@@ -2661,7 +2660,7 @@ GERONTE, LUCIE.
         Enfin, malgré la retenuë  
 Où ses yeux me forçoient, je puis en liberté  
 Vous montrer tout l'amour dont je suis transporté ;  
-Et ces mains…  
+Et ces mains…   
 
     LUCIE.
         Ce transport qui paroist légitime,  
@@ -2701,7 +2700,7 @@ De faire aveuglement ce qu'on exigera
 De vos soins.  
 
     GERONTE.
-        Je feray tout ce qu'il vous plaira.  
+        Je feray tout ce qu'il vous plaira.   
 
     LUCIE.
 Mon cœur n'ose exposer sur si peu d'assurance…  
@@ -2823,7 +2822,7 @@ A dedans nos panneaux donné teste baissée.
 
     LUCIE.
 Et qui n'y donneroit ? Les Gens de bonne-foy  
-Sont aisez…  
+Sont aisez…   
 
     TRIGAUDIN.
         C'est un Homme à berner, croyez-moy ;  
@@ -2893,7 +2892,7 @@ Je retourne à loisir terminer mon affaire ;
 Préparez-vous sur tout à vous abandonner  
 Aux ordres absolus que j'ay sçeu vous donner ;  
 J'iray tantost trouver Géronte à sa demeure,  
-Et pour l'Hymen qu'il veut, prendre le jour & l'heure.  
+Et pour l'Hymen qu'il veut, prendre le jour & l'heure.   
 
 
 ### SCENE X.
@@ -2924,7 +2923,7 @@ Et je puis par un tour que je veux qu'on luy fasse,
 Le forcer, sans qu'il ose ou puisse s'en fâcher,  
 A déclarer l'Hymen qu'il s'obstine à cacher ;  
 Et l'embarras enfin où je le prétens mettre,  
-Peut nous vanger tous deux de luy sans nous commettre.  
+Peut nous vanger tous deux de luy sans nous commettre.   
 
     GERONTE.
 Et si pendant ce temps il m'assaisonne un Plat  
@@ -2934,7 +2933,7 @@ Quel est ce tour.
 
     LUCIE.
         Venez, je m'en vay vous l'aprendre.  
-Fin du Troisième Acte.
+Fin du Troisième Acte. 
 
 
 ## ACTE IV
@@ -2985,7 +2984,7 @@ Son Valet qui s'apreste à servir sa Maistresse,
 A besoin que nos soins secondent son adresse,  
 Pour conduire le tour qu'il s'est imaginé :  
 Il doit venir chez nous, & je suis étonné…  
-Mais je le vois : Hé bien, est-il temps, l'Industrie ?  
+Mais je le vois : Hé bien, est-il temps, l'Industrie ?   
 
 
 ### SCENE II.
@@ -3020,7 +3019,7 @@ Nous prenons la Forest.
 
     VALERE.
 C'est mon Valet de Chambre ; il est déja tout prest,  
-Et son humeur folâtre a de quoy satisfaire.  
+Et son humeur folâtre a de quoy satisfaire.   
 
     GERONTE.
 D'accord ; mais avec eux voyez ce qu'il faut faire,  
@@ -3052,7 +3051,7 @@ Car si…
 
     GERONTE.
 C'est, en s'expliquant bien, répondre avec adresse :  
-Mais je voy Trigaudin tout resveur, qu'on nous laisse.  
+Mais je voy Trigaudin tout resveur, qu'on nous laisse.   
 
 
 ### SCENE IV.
@@ -3091,7 +3090,7 @@ Elle vous aime.
 Qu'un cœur… Avec le temps vous le pourrez aprendre.  
 
     GERONTE.
-A quoy l'avez-vous veu ?  
+A quoy l'avez-vous veu ?   
 
     TRIGAUDIN.
         Depuis vostre entretien,  
@@ -3253,7 +3252,7 @@ On m'écrit d'Orleans…
 Que dans deux ou trois jours mon Frere s'y doit rendre.  
 
     TRIGAUDIN.
-Hé bien ; qu'avez-vous tant à craindre sur ce point ?  
+Hé bien ; qu'avez-vous tant à craindre sur ce point ?   
 
     LUCIE.
 Je dois apréhender que ne m'y trouvant point,  
@@ -3291,7 +3290,7 @@ Oüy, je prens tout sur moy, vous dis-je, & vous dispense
 Du soin de m'expliquer quelle en est l'importance :  
 Ce dessein sans péril se peut exécuter,  
 L'occasion nous rit⁎, il en faut profiter ;  
-Et puis que c'est pour vous un moyen de me plaire…  
+Et puis que c'est pour vous un moyen de me plaire…   
 
     LUCIE.
 Hé bien, Monsieur, hé bien, il faut vous satisfaire ;  
@@ -3330,7 +3329,7 @@ La Forest, la [202] voila, va luy donner l'aubade⁎.
 Ma Sœur, vous dans Paris !  
 
     LUCIE.
-    Ah mon Frere !  
+    Ah mon Frere !   
 
     TRIGAUDIN.
         Sa Soeur!  
@@ -3375,7 +3374,7 @@ Si suspect…
 Je viens de retenir deux places au Carosse.  
 
     TRIGAUDIN.
-Bon, le Beaufrere va nous quitter le terrain.  
+Bon, le Beaufrere va nous quitter le terrain.   
 
     LA FOREST.
 Mais puis que vous voila, je change de dessein,  
@@ -3417,7 +3416,7 @@ Vous ne connoissez point Maistre Martin Braillart,
 Fils de Thibaut Braillard, ce torrent d'éloquence,  
 Dont la voix faisoit peur aux Gens à l'Audiance,  
 Dont les doctes Ayeuls connus de toutes parts  
-Donnerent au Barreau tant d'Illustres Braillarts ?  
+Donnerent au Barreau tant d'Illustres Braillarts ?   
 
     TRIGAUDIN.
 Non. Où se sont-ils veus ? sur quelles assurances…  
@@ -3495,7 +3494,7 @@ Où demeurez-vous ?
 
     LA FOREST.
         Je m'en vay le chercher.  
-Mais je le voy qui vient, ma course seroit vaine.  
+Mais je le voy qui vient, ma course seroit vaine.   
 
 
 ### SCENE VIII.
@@ -3529,7 +3528,7 @@ Figure les ardeurs dont je brûle pour vous.
 Ce début de ma part demanderoit des suites ;  
 Mais tant d'esprit paroist en tout ce que vous dites,  
 Qu'un discours si galant & si bien figuré,  
-Doit n'estre interrompu, que pour estre admiré.  
+Doit n'estre interrompu, que pour estre admiré.   
 
     LA RIVIERE.
 Je suis ravy de voir qu'il ait de quoy vous plaire ;  
@@ -3606,7 +3605,7 @@ Belle conclusion !
     LUCIE.
         Une pareille affaire  
 Dedans un autre lieu veut qu'on en délibere.  
-Nous pourons là-dedans en parler à loisir.  
+Nous pourons là-dedans en parler à loisir.   
 
     LA FOREST.
 Entrons, elle a raison ; je me fais un plaisir…  
@@ -3638,7 +3637,7 @@ Que je sois aujourd'huy Femme de trois Maris.
 Voyez par quel moyen il sera necessaire  
 De me tirer du pas que vous m'avez fait faire ;  
 Et pour vous épargner des conseils superflus,  
-J'entre, & j'attens chez nous vos ordres là-dessus.  
+J'entre, & j'attens chez nous vos ordres là-dessus.   
 
 
 ### SCENE X.
@@ -3660,7 +3659,7 @@ Cet obstacle impréveu trouble tout le mystere :
 J'enrage ; tout m'alarme, & tout me desespere.  
 Que résoudre ? que faire ? Entrons pour y resver,  
 Et voyons quel remede on y poura trouver.  
-Fin du Quatrième Acte.
+Fin du Quatrième Acte. 
 
 
 ## ACTE V
@@ -3796,7 +3795,7 @@ Pour le tenir secret, tous les ordres qu'il faut.
 Oüy, oüy, je vay songer à regler cette affaire.  
 à part.
 
-Le Fourbe jusqu'au bout soûtient son caractere.  
+Le Fourbe jusqu'au bout soûtient son caractere.   
 
 
 ### SCENE IV.
@@ -3829,7 +3828,7 @@ Je vous feray bien voir…
         Mon Cousin, qu'avez-vous ?  
 
     LA FOREST.
-Je parlois à ma Sœur.  
+Je parlois à ma Sœur.   
 
     TRIGAUDIN.
         L'affaire est importante,  
@@ -3901,7 +3900,7 @@ Tout cet emportement ne m'épouvante pas :
 Mais j'aperçoy Braillart qui paroît plein de flâme,  
 Je veux le dégoûter de l'hymen de ma Femme ;  
 Mon discours peut avoir l'effet que j'en prévoy.  
-Un mot, Monsieur Braillart ?  
+Un mot, Monsieur Braillart ?   
 
 
 ### SCENE VII.
@@ -3937,7 +3936,7 @@ Pour oposer, afin de n'estre point surpris,
 *Et pares aquilas  pila minantia pilis* [215] .  
 
     TRIGAUDIN.
-J'y consens.  
+J'y consens.   
 
     LA RIVIERE.
         C'est beaucoup d'honneur que vous me faites.  
@@ -4040,7 +4039,7 @@ Son front d'un pareil nœud craint peu la consequence,
 Et je voy que malgré tout mon raisonnement,  
 Il traite tout cecy fort cavalierement :  
 Je voy qu'il faut bientost changer de batterie [219],  
-Pour ne pas m'exposer…Mais je voy L'Industrie.  
+Pour ne pas m'exposer…Mais je voy L'Industrie.   
 
 
 ### SCENE IX.
@@ -4076,7 +4075,7 @@ TRIGAUDIN, GERONTE.
         Ah lâche Amy, sans honneur & sans foy !  
 
     TRIGAUDIN *à part.*
-Qu'auroit-il ?  
+Qu'auroit-il ?   
 
     GERONTE.
     Fourbe !  
@@ -4153,7 +4152,7 @@ Elle a pour l'éviter trouvé, mais vainement,
 Un prétexte qui veut un éclaircissement :  
 Mais à sa honte icy ce secret va paraistre,  
 Et ce qu'elle nous dit enfin ne peut pas estre ;  
-Personne ne m'en peut éclaircir mieux que vous.  
+Personne ne m'en peut éclaircir mieux que vous.   
 
     TRIGAUDIN.
 Que vous a-t-elle dit ?  
@@ -4196,7 +4195,7 @@ Et quand de bonne-foy j'agissois avec vous,
 Vous vouliez en secret me la donner pour Femme ?  
 
     TRIGAUDIN.
-Croyez…  
+Croyez…   
 
     GERONTE.
         Ah nous sçavons le secret de vostre ame,  
@@ -4229,7 +4228,7 @@ N'est qu'un Homme aposté ?
     Justement.  
 
     TRIGAUDIN.
-        Et ce Frere ?  
+        Et ce Frere ?   
 
 
 ### SCENE DERNIERE.
@@ -4271,7 +4270,7 @@ Dictionnaire de l'Académie Françoise, Dédié au Roy
 Dictionnaire universelF
 Dictionnaire du français classique, la langue du XVII*e* siècle*e*
 Comprendre la langue des œuvres classiques, de Corneille à Châteaubriand
-Aigrefin« Terme ironique et burlesque, qui veut dire un escroc, un escamoteur. On le dit aussi dans le style bas, et par mépris d'un jeune étourdi. » (*R., 1759*)V. 1097Air«Se dit de la mine, de la contenance. » (*A, 94*)V. 767« Physionomie, mine ». *(R.)* « Ce mot vague était très à la mode. Il « veut dire je ne sais quoi qui paraît en un instant, que la nature donne et qu'on ne peut bien définir », dit Andry de Boisregard (*Réflexion sur l'Usage présent de la Langue Française, 1689*). Mais l'abus du mot le rendit ridicule. « Ceux qui parlent bien, dit le Père Bohours (*Les Entretiens d'Ariste et Eugène, 1671*) ne s'en servent qu'en riant pour se moquer des gens du *bel air* ». (*Cayr.*)AlcoveLa graphie est aujourd'hui « alcôve ». « Endroit dans une chambre séparé du reste où l'on place d'ordinaire le lit. » (*A, 94*)V. 195AlmanacAujourd'hui « almanach ». « Imprimé qui marque les fêtes et les changements de lune et de temps. » (*R.*)V. 489« On dit figurément et en raillant *Faire des almanachs* pour dire s'occuper à de vaines imaginations, à des rêveries. » (*A, 94*)  Allûre« Se dit au figuré, en parlant de la conduite, des intrigues de quelqu'un. » (*F.*)V. 533 Amant« Celui qui aime » (*R.*)V. 395Aposter« Disposer, préparer quelqu'un pour s'en servir dans une méchante action. » (*A, 94*)V. 52 « Donner charge à quelqu'un de tenter, & d'entreprendre quelque chose pour faire réussir un dessein. » (*R.*) AppasOrthographié apas dans *Dictionnaire français, P. Richelet, 1680* et dont la définition est « Charmes puissants, grands attraits, beauté, agrément, plaisir. »V. 215Applaudire (s')« Se louer, se vanter soi-même. » (*A, 94*)V. 438, 825 « Se savoir bon gré de quelque chose. » (*R.*)Aprester (s')« Se préparer. » (*R.*)V. 950Astrolabes« Instrument astronomique, qui est un plan sur lequel sont décrits plusieurs cercles servant à faire des observations astronomiques. » (*A, 94*)V. 113« Instrument avec lequel on observe la hauteur, la grandeur, le mouvement et la distance des astres. » (*R.*)Babil« Vice qui consiste à trop parler (le babil est la marque d'un petit esprit). » (*R.*)V. 1306« Caquet, superfluité excessive de paroles. » (*A, 94*)  Baiser« Appliquer la bouche sur quelque chose en signe d'amitié, d'amour, de respect. » (*A, 94*)V. 15Balancer« Examiner, considérer, chanceler, hésiter, ne savoir se résoudre. » (*R.*)V. 929« Peser, signifie figurément considérer mûrement dans son esprit une chose. » (*A, 94*) Blondin« On appelle *blondins* les jeunes galants qui font les beaux, parce qu'ils portent d'ordinaire des perruques blondes. » (*A, 94*)V. 962Brûler« Être consumé d'amour. Avoir de l'amour. Avoir de la passion pour quelque chose. Désirer ardemment. » (*R.*)V. 406Cadet« Se dit de celui qui est plus jeune qu'un autre, ou qui a été reçu dans une charge après un autre. (Les cadets doivent céder à leurs anciens). » (*R., 1759*)V. 484 Cajoler« Dire des paroles civiles et obligeantes. » (*R.*)V. 1576 « Flatter, louer, entretenir quelqu'un de choses qui lui plaisent et qui le touchent. »Campagnes« Temps durant lequel les armées sont ordinairement en campagne, qui est le printemps, l'été et l'automne. » (*A, 94*)V. 502Chagrin« Tristesse, fâcherie. » (*R.*)V. 1192« Mélancolie, ennuie ; fâcheuse, mauvaise humeur. » (*A, 94*)Chambre« Partie de logis où l'on habite.» (*R.*)Collation« Signifie encore ce repas léger qu'on fait au lieu de souper, particulièrement les jours de jeûnes… » (*A, 94*). « Repas qu'on fait entre le dîner et le souper. » (*R.*)V. 1182Contorsion« Mouvement du corps accompagné de postures peu agréables. » (*R.*)V. 332Divertir (Se)« Se divertir de quelqu'un : en faire son jouet et s'en moquer » (R.)« Railler, se moquer agréablement. » (*A, 94*)V. 599 Donner l'aubade« Régal de violons qu'on donne à quelqu'un pour lui marquer l'estime qu'on fait de lui, ou pour lui marquer de la joie, ou de la passion. » (*R.*)V. 1238« Concert de musique que l'on donne vers l'aube du jour, à la porte ou sous les fenêtres d'une personne. Se dit aussi figurément et à contresens d'une insulte, d'un vacarme que l'on fait à quelqu'un. » (*A, 94*) Éclater« Briller, reluire. Faire du bruit. » (*R.*)V. 1623Écot«Ce que chacun paie par tête pour avoir bu et mangé au cabaret, ou en quelque autre lieu où chacun paie ses dépens. » (*R.*)V. 35Embrasser« Serrer, étreindre avec les deux bras » (*A, 94*)V. 176EmpressemensAujourd'hui orthographié « empressements ». « Soins ardents et pleins de zèle. Bons offices. » (*R.*)V. 636« Mouvement que se donne celui qui recherche une chose avec ardeur. » (*A, 94*)  Enquester (s')« S'enquérir. » (*A, 94*)V. 8Entretien« Conversation, discours qu'on a avec quelqu'un touchant quelque matière. » (*R.*)V. 871Équipage«Tout le meuble d'un particulier, état, habit. » (*R.*)V. 485« Se dit du train, de la suite, mulets, chevaux, valets, hardes… » (*A, 94*)  Étourdy« Qui est un peu précipité dans sa conduite, qui a de l'imprudence. » (*R.*)V. 806Éventé« Écervelé, étourdi. » (*R.*)V. 259« Se dit d'un homme qui a l'esprit léger, écervelé, évaporé. » (*A, 94*)Facilité« Indulgence excessive. » (*A, 94*)V. 1064Faire commerce« Trafic, négoce de marchandise, d'argent, soit en gros, soit en détail. » (*A, 94*)V. 604 Fanfaron« Qui veut passer pour brave et qui ne l'est pas. Se dit aussi pour celui qui se vante au delà de la vérité ou de la bienséance. » (*A, 94*)V. 486Faquin« Homme de néant. Un misérable  sans mérite, sans honneur et sans cœur. » (*R.*) « Terme de mépris et d'injure qui se dit d'un homme de néant, d'un homme qui fait des actions indignes d'un honnête homme. » (*A, 94*)V. 776Feu(x)« Se dit poétiquement pour signifier la passion de l'amour ». (*A, 94*)V. 395, 422, 1152Fiel« Signifie figurément haine, animosité. » (*A, 94*)V. 1725 « Haine, ressentiment, aigreur, colère. » (*R.*)  Fille« Se dit simplement pour marquer simplement le sexe féminin. Se dit aussi par opposition à la femme mariée. » (*A, 94*)V. 878Fin« Se dit des personnes et signifie habile, avisé, rusé.» (*A, 94*)V. 1575FoyAujourd'hui orthographié foi. « Assurance donnée de garder sa parole, sa promesse. » (*A, 94*)V. 235, 375Fracas« Bruit, tumulte, désordre. » (*A, 94*)V. 485Fripon« Méchant, maraud, fourbe et coquin. » (*R.*) « Fourbe qui n'a ni honneur, ni foy, ni probité. » (*A, 94*)V. 531Friponne« Coquine, fourbe et méchante. » (*R.*)V. 953Gager« Parier » (*R.*)V. 163 GaillartS'écrit de nos jours « gaillard ». « Un peu trop libre, plaisant » (*R.*). « Chose hardies, périlleuses, nouvelles, extraordinaires. » (*A, 94*) V. 1647Galants« Celui qui aime une Dame et qui en est aimé. » (*R.*)V. 149« Se dit le plus ordinairement de celui qui fait (sa cour) à une femme mariée, ou à une fille qu'il n'a pas dessein d'épouser. » (*A, 94*)Garnement« Libertin, et dont la vie est un peu déréglée. » (*R.*)V. 655 « Fripon, vau-rien. » (*A, 94*)Gaster« Changer de bien en mal. Corrompre, Rendre pire. » (*R.*)V. 130Gendarmer (Se)« Se fâcher. Se piquer de quelque chose, s'en alarmer, s'en mettre en colère. » (*R.*)V. 623GesnerSignifie faire souffrir.V. 307, 562La gesne est aussi une torture. Elle se dit également « de toute peine ou affliction de corps ou d'esprit.Les poètes mettent leur esprit à la gesne, à la torture pour trouver des anagrammes. » (*F*.)Gorge« Sein de femme. » (*R.*)V. 174 Gourmander« Maltraiter une personne de paroles. Quereller. » (*R.*)  V. 669« Traiter rudement, impérieusement de paroles. » (*A, 94*) Hableur« *L'h de ce mot est aspirée.* Grand parleur, celui qui à force de trop parler et de trop exagérer ment. » (*R.*)V. 76 Heur« Bonne fortune. » (*A, 94*) « Ce mot signifie bonheur, mais il est bas et peu usité *& se prononce sans faire sentir son h*. » (*R.*)V. 818Idole« On appelle Idole une personne qui paraît stupide ou qui ne se donne pas assez de mouvement.» (*A, 94*)V. 837 Impudente« Effrontée. » (*R.*)V. 1519 Innocente« Bonne et simple. » (*R.*)V. 681 Intelligence« Amitié, union, paix, liaison, concorde. » (*R.*)V. 566, 1438« Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre. » (*A, 94*) Joug« Prononcez *jouc*. » (*R.*) « Il signifie figurément servitude, sujétion. » (*A, 94*)V. 98 Justement« Précisément, à point nommé. » (*R.*)V. 770 Languissans« Plein d'amour, amoureux, plein d'une langueur amoureuse. » (*R.*)V. 173 Larder« Piquer de la viande avec une lardoire et y laisser le lardon. » (*R*). « On dit figurément *larder de coups d'épée* pour dire percer de plusieurs coups d'épée. » (*A, 94*)V. 1141 Liards« Petite pièce de monnaie blanche qui vaut trois deniers et qui avait cours au temps de François Premier. » (*R.*)V. 110MarautOrthographié *Maraud* dans le dictionnaire de P. Richelet. « Coquin, fripon. » (*R.*) « Terme d'injure et de mépris. » (*A, 94*)V. 36, 1136Mâtin« Gros chien. » (*R.*)V. 348 Mine« Façon, manière et action d'une personne, air d'une personne. » (*R.*) V. 10 Mitonner« Mitonner quelqu'un : Ménager adroitement son esprit en vue d'en tirer quelque avantage. » (A, 94)V. 952 Mutin« Opiniâtre, obstiné. » (*R.*)V. 259 ObjetDésigne « la personne aimée, qui est alors l'« objet » du désir amoureux. » (*H. & P.*)V. 186Obligé de« Qui a reçu un bon office, qui a obligation envers une personne parce qu'il en a reçu quelque plaisir. » (*R.*)V. 1632 Occurrence« Rencontre, conjoncture. » (*R.*)V. 1709 OysonOrthographié *oison* dans le dictionnaire de P. Richelet. « Sot, ou sotte, niais, qui est fat et innocent. » (*R.*)V. 981« Se dit figurément pour dire que c'est un idiot à qui l'on fait faire tout ce qu'on veut. » (*A, 94*)PartyOrthographié *parti* dans le dictionnaire de P. Richelet. « Avantage, offre qu'on présente à quelqu'un. Chose avantageuse, utile et considérable pour une personne. » (*R.*)V. 1520Peine« Inquiétude, ennui, chagrin, fâcherie. » (*R.*)V. 185Penaut« Qui est embarrassé, honteux, interdit. » (*A, 94*) (Ce mot est orthographié *penaud* dans ce dictionnaire.)V. 1164 Pendard« Prononcez *pandar*. Méchant, coquin, fripon, scélérat. » (*R.*)V. 700 PétulentOrthographié *pétulant* dans le dictionnaire de P. Richelet. « Qui a une sorte de conduite emportée et insolente. » (*R.*)V. 1306Pied-platOrthographié *pié-plat* dans le dictionnaire de P. Richelet. « Misérable, coquin, rustre, grossier. » (*R.*) N. B. : « Il se dit proprement « d'un rustre, d'un paysan qui a des souliers tout unis » (*Dictionnaire universel, A. Furetière, 1690*), au lieu de porter de hauts talons, comme les gentilshommes » (*Cayr.*)V. 348Plaire (Se)« Trouver du plaisir et de la satisfaction en quelque chose, en quelque lieu, ou avec quelque personne. » *(R.*)V. 123 Portée« Se dit des personnes, et veut dire capacité, ce que peut faire une personne, ce que peut produire son esprit. » (*R.*)V. 32Presse« Foule, multitude de monde. » (*R.*)V. 1309 Provision« Ce mot se dit en parlant d'offices civils. Ce sont des lettres repliées et scellées du sceau de la grande Chancellerie de France par lesquelles le Roi déclare qu'étant informé de la capacité d'une personne, il donne à cette personne l'office vacant pour en jouir dans tous ses droits avec ordre à ceux à qui il appartient  de recevoir cette personne dans la charge dont il est pourvu. » (*R.*)V. 1371 Raillerie« Mot plaisant et satirique, moquerie. » (*R.*)V. 592 RégulierCelui « qui vit selon les règles et les canons de l'Église. Qui observe telles règles. Qui est fait dans les formes et selon les règles de l'art. Qui ne fait rien contre son devoir. » (*R.*)V. 607Rendre des soins« On dit rendre des soins à quelqu'un pour dire : Le voir avec assiduité et lui faire sa cour. » (A, 94)V. 424, 584RévoquerAvec un complément d'objet signifie « retirer, annuler » (*Cayr.*)V. 478Rire (Se)« Se moquer. » (*R.*)V. 1224 SçavoirOrthographié *savoir* dans le dictionnaire de P. Richelet. « Connaître, découvrir. » (*R.*)V. 708ScéleratOrthographié *sélérat* dans le dictionnaire de P. Richelet. « Ce mot se dit des personnes et des choses, et veut dire méchant, perfide, noir, malin. » (*R.*)V. 1048Signalé« Considérable, particulier, remarquable. » (*R.*)V. 1722 Soins« Application d'esprit à faire quelque chose. » (*A, 94*)V. 799 Souffrir«Endurer, avoir de la peine, supporter. » (*R.*)V. 440Suffisance« Orgueil. » (*R.*) « Vanité, présomption. » (*A, 94*)V. 25 Témoigner« Faire paraître, faire voir, faire éclater, découvrir. » (*R.*)V. 11 Tendresse« Se mot ne se dit bien qu'au figuré dans le discours ordinaire, et il veut dire amitié, amour. » (*R.*)V. 421, 562 Tenir (en)« Se laisser tromper, croire à des mensonges. » (*Cayr.*) « Être pris, être dupé, être attrapé. » (*R.*)V. 11Timbré« Mot burlesque qui n'entre que dans la conversation et le style comique, et qui veut dire qui a bonne tête, qui est sage. » (*R.*)V. 1316 Tomber de son haut« Être extrêmement surpris de quelque chose. » (*A, 94*)V. 1414Transports« Se dit… figurativement en choses morales du trouble ou de l'agitation de l'âme » (*Dictionnaire universel, A. Furetière, 1690*), « de toute violente émotion, agréable ou désagréable, qui nous met hors de nous ; emportement, égarement, élan de passion, en parlant de l'amour, de l'ambition, du désespoir, de la colère… » (*Cayr.*)V. 382, 1080 Travaille (se)« Se donner de la peine, se fatiguer à une tâche, se torturer moralement ou physiquement. » (*H. & P.*)V. 509Verbiage« Paroles inutiles. » (*R.*)V. 181 Vertu« Se dit de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite » (*Cayr.*)V. 557 « Habitude de l'âme qui la porte à faire le bien et à fuir le mal. » (*A, 94*)Violence« Exaction, sorte de tirannie. » (*R., 1759*)V. 389
+Aigrefin« Terme ironique et burlesque, qui veut dire un escroc, un escamoteur. On le dit aussi dans le style bas, et par mépris d'un jeune étourdi. » (*R., 1759*)V. 1097Air«Se dit de la mine, de la contenance. » (*A, 94*)V. 767« Physionomie, mine ». *(R.)* « Ce mot vague était très à la mode. Il « veut dire je ne sais quoi qui paraît en un instant, que la nature donne et qu'on ne peut bien définir », dit Andry de Boisregard (*Réflexion sur l'Usage présent de la Langue Française, 1689*). Mais l'abus du mot le rendit ridicule. « Ceux qui parlent bien, dit le Père Bohours (*Les Entretiens d'Ariste et Eugène, 1671*) ne s'en servent qu'en riant pour se moquer des gens du *bel air* ». (*Cayr.*)AlcoveLa graphie est aujourd'hui « alcôve ». « Endroit dans une chambre séparé du reste où l'on place d'ordinaire le lit. » (*A, 94*)V. 195AlmanacAujourd'hui « almanach ». « Imprimé qui marque les fêtes et les changements de lune et de temps. » (*R.*)V. 489« On dit figurément et en raillant *Faire des almanachs* pour dire s'occuper à de vaines imaginations, à des rêveries. » (*A, 94*) Allûre« Se dit au figuré, en parlant de la conduite, des intrigues de quelqu'un. » (*F.*)V. 533 Amant« Celui qui aime » (*R.*)V. 395Aposter« Disposer, préparer quelqu'un pour s'en servir dans une méchante action. » (*A, 94*)V. 52 « Donner charge à quelqu'un de tenter, & d'entreprendre quelque chose pour faire réussir un dessein. » (*R.*) AppasOrthographié apas dans *Dictionnaire français, P. Richelet, 1680* et dont la définition est « Charmes puissants, grands attraits, beauté, agrément, plaisir. »V. 215Applaudire (s')« Se louer, se vanter soi-même. » (*A, 94*)V. 438, 825 « Se savoir bon gré de quelque chose. » (*R.*)Aprester (s')« Se préparer. » (*R.*)V. 950Astrolabes« Instrument astronomique, qui est un plan sur lequel sont décrits plusieurs cercles servant à faire des observations astronomiques. » (*A, 94*)V. 113« Instrument avec lequel on observe la hauteur, la grandeur, le mouvement et la distance des astres. » (*R.*)Babil« Vice qui consiste à trop parler (le babil est la marque d'un petit esprit). » (*R.*)V. 1306« Caquet, superfluité excessive de paroles. » (*A, 94*) Baiser« Appliquer la bouche sur quelque chose en signe d'amitié, d'amour, de respect. » (*A, 94*)V. 15Balancer« Examiner, considérer, chanceler, hésiter, ne savoir se résoudre. » (*R.*)V. 929« Peser, signifie figurément considérer mûrement dans son esprit une chose. » (*A, 94*) Blondin« On appelle *blondins* les jeunes galants qui font les beaux, parce qu'ils portent d'ordinaire des perruques blondes. » (*A, 94*)V. 962Brûler« Être consumé d'amour. Avoir de l'amour. Avoir de la passion pour quelque chose. Désirer ardemment. » (*R.*)V. 406Cadet« Se dit de celui qui est plus jeune qu'un autre, ou qui a été reçu dans une charge après un autre. (Les cadets doivent céder à leurs anciens). » (*R., 1759*)V. 484 Cajoler« Dire des paroles civiles et obligeantes. » (*R.*)V. 1576 « Flatter, louer, entretenir quelqu'un de choses qui lui plaisent et qui le touchent. »Campagnes« Temps durant lequel les armées sont ordinairement en campagne, qui est le printemps, l'été et l'automne. » (*A, 94*)V. 502Chagrin« Tristesse, fâcherie. » (*R.*)V. 1192« Mélancolie, ennuie ; fâcheuse, mauvaise humeur. » (*A, 94*)Chambre« Partie de logis où l'on habite.» (*R.*)Collation« Signifie encore ce repas léger qu'on fait au lieu de souper, particulièrement les jours de jeûnes… » (*A, 94*). « Repas qu'on fait entre le dîner et le souper. » (*R.*)V. 1182Contorsion« Mouvement du corps accompagné de postures peu agréables. » (*R.*)V. 332Divertir (Se)« Se divertir de quelqu'un : en faire son jouet et s'en moquer » (R.)« Railler, se moquer agréablement. » (*A, 94*)V. 599 Donner l'aubade« Régal de violons qu'on donne à quelqu'un pour lui marquer l'estime qu'on fait de lui, ou pour lui marquer de la joie, ou de la passion. » (*R.*)V. 1238« Concert de musique que l'on donne vers l'aube du jour, à la porte ou sous les fenêtres d'une personne. Se dit aussi figurément et à contresens d'une insulte, d'un vacarme que l'on fait à quelqu'un. » (*A, 94*) Éclater« Briller, reluire. Faire du bruit. » (*R.*)V. 1623Écot«Ce que chacun paie par tête pour avoir bu et mangé au cabaret, ou en quelque autre lieu où chacun paie ses dépens. » (*R.*)V. 35Embrasser« Serrer, étreindre avec les deux bras » (*A, 94*)V. 176EmpressemensAujourd'hui orthographié « empressements ». « Soins ardents et pleins de zèle. Bons offices. » (*R.*)V. 636« Mouvement que se donne celui qui recherche une chose avec ardeur. » (*A, 94*) Enquester (s')« S'enquérir. » (*A, 94*)V. 8Entretien« Conversation, discours qu'on a avec quelqu'un touchant quelque matière. » (*R.*)V. 871Équipage«Tout le meuble d'un particulier, état, habit. » (*R.*)V. 485« Se dit du train, de la suite, mulets, chevaux, valets, hardes… » (*A, 94*) Étourdy« Qui est un peu précipité dans sa conduite, qui a de l'imprudence. » (*R.*)V. 806Éventé« Écervelé, étourdi. » (*R.*)V. 259« Se dit d'un homme qui a l'esprit léger, écervelé, évaporé. » (*A, 94*)Facilité« Indulgence excessive. » (*A, 94*)V. 1064Faire commerce« Trafic, négoce de marchandise, d'argent, soit en gros, soit en détail. » (*A, 94*)V. 604 Fanfaron« Qui veut passer pour brave et qui ne l'est pas. Se dit aussi pour celui qui se vante au delà de la vérité ou de la bienséance. » (*A, 94*)V. 486Faquin« Homme de néant. Un misérable sans mérite, sans honneur et sans cœur. » (*R.*) « Terme de mépris et d'injure qui se dit d'un homme de néant, d'un homme qui fait des actions indignes d'un honnête homme. » (*A, 94*)V. 776Feu(x)« Se dit poétiquement pour signifier la passion de l'amour ». (*A, 94*)V. 395, 422, 1152Fiel« Signifie figurément haine, animosité. » (*A, 94*)V. 1725 « Haine, ressentiment, aigreur, colère. » (*R.*) Fille« Se dit simplement pour marquer simplement le sexe féminin. Se dit aussi par opposition à la femme mariée. » (*A, 94*)V. 878Fin« Se dit des personnes et signifie habile, avisé, rusé.» (*A, 94*)V. 1575FoyAujourd'hui orthographié foi. « Assurance donnée de garder sa parole, sa promesse. » (*A, 94*)V. 235, 375Fracas« Bruit, tumulte, désordre. » (*A, 94*)V. 485Fripon« Méchant, maraud, fourbe et coquin. » (*R.*) « Fourbe qui n'a ni honneur, ni foy, ni probité. » (*A, 94*)V. 531Friponne« Coquine, fourbe et méchante. » (*R.*)V. 953Gager« Parier » (*R.*)V. 163 GaillartS'écrit de nos jours « gaillard ». « Un peu trop libre, plaisant » (*R.*). « Chose hardies, périlleuses, nouvelles, extraordinaires. » (*A, 94*) V. 1647Galants« Celui qui aime une Dame et qui en est aimé. » (*R.*)V. 149« Se dit le plus ordinairement de celui qui fait (sa cour) à une femme mariée, ou à une fille qu'il n'a pas dessein d'épouser. » (*A, 94*)Garnement« Libertin, et dont la vie est un peu déréglée. » (*R.*)V. 655 « Fripon, vau-rien. » (*A, 94*)Gaster« Changer de bien en mal. Corrompre, Rendre pire. » (*R.*)V. 130Gendarmer (Se)« Se fâcher. Se piquer de quelque chose, s'en alarmer, s'en mettre en colère. » (*R.*)V. 623GesnerSignifie faire souffrir.V. 307, 562La gesne est aussi une torture. Elle se dit également « de toute peine ou affliction de corps ou d'esprit.Les poètes mettent leur esprit à la gesne, à la torture pour trouver des anagrammes. » (*F*.)Gorge« Sein de femme. » (*R.*)V. 174 Gourmander« Maltraiter une personne de paroles. Quereller. » (*R.*) V. 669« Traiter rudement, impérieusement de paroles. » (*A, 94*) Hableur« *L'h de ce mot est aspirée.* Grand parleur, celui qui à force de trop parler et de trop exagérer ment. » (*R.*)V. 76 Heur« Bonne fortune. » (*A, 94*) « Ce mot signifie bonheur, mais il est bas et peu usité *& se prononce sans faire sentir son h*. » (*R.*)V. 818Idole« On appelle Idole une personne qui paraît stupide ou qui ne se donne pas assez de mouvement.» (*A, 94*)V. 837 Impudente« Effrontée. » (*R.*)V. 1519 Innocente« Bonne et simple. » (*R.*)V. 681 Intelligence« Amitié, union, paix, liaison, concorde. » (*R.*)V. 566, 1438« Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre. » (*A, 94*) Joug« Prononcez *jouc*. » (*R.*) « Il signifie figurément servitude, sujétion. » (*A, 94*)V. 98 Justement« Précisément, à point nommé. » (*R.*)V. 770 Languissans« Plein d'amour, amoureux, plein d'une langueur amoureuse. » (*R.*)V. 173 Larder« Piquer de la viande avec une lardoire et y laisser le lardon. » (*R*). « On dit figurément *larder de coups d'épée* pour dire percer de plusieurs coups d'épée. » (*A, 94*)V. 1141 Liards« Petite pièce de monnaie blanche qui vaut trois deniers et qui avait cours au temps de François Premier. » (*R.*)V. 110MarautOrthographié *Maraud* dans le dictionnaire de P. Richelet. « Coquin, fripon. » (*R.*) « Terme d'injure et de mépris. » (*A, 94*)V. 36, 1136Mâtin« Gros chien. » (*R.*)V. 348 Mine« Façon, manière et action d'une personne, air d'une personne. » (*R.*) V. 10 Mitonner« Mitonner quelqu'un : Ménager adroitement son esprit en vue d'en tirer quelque avantage. » (A, 94)V. 952 Mutin« Opiniâtre, obstiné. » (*R.*)V. 259 ObjetDésigne « la personne aimée, qui est alors l'« objet » du désir amoureux. » (*H. & P.*)V. 186Obligé de« Qui a reçu un bon office, qui a obligation envers une personne parce qu'il en a reçu quelque plaisir. » (*R.*)V. 1632 Occurrence« Rencontre, conjoncture. » (*R.*)V. 1709 OysonOrthographié *oison* dans le dictionnaire de P. Richelet. « Sot, ou sotte, niais, qui est fat et innocent. » (*R.*)V. 981« Se dit figurément pour dire que c'est un idiot à qui l'on fait faire tout ce qu'on veut. » (*A, 94*)PartyOrthographié *parti* dans le dictionnaire de P. Richelet. « Avantage, offre qu'on présente à quelqu'un. Chose avantageuse, utile et considérable pour une personne. » (*R.*)V. 1520Peine« Inquiétude, ennui, chagrin, fâcherie. » (*R.*)V. 185Penaut« Qui est embarrassé, honteux, interdit. » (*A, 94*) (Ce mot est orthographié *penaud* dans ce dictionnaire.)V. 1164 Pendard« Prononcez *pandar*. Méchant, coquin, fripon, scélérat. » (*R.*)V. 700 PétulentOrthographié *pétulant* dans le dictionnaire de P. Richelet. « Qui a une sorte de conduite emportée et insolente. » (*R.*)V. 1306Pied-platOrthographié *pié-plat* dans le dictionnaire de P. Richelet. « Misérable, coquin, rustre, grossier. » (*R.*) N. B. : « Il se dit proprement « d'un rustre, d'un paysan qui a des souliers tout unis » (*Dictionnaire universel, A. Furetière, 1690*), au lieu de porter de hauts talons, comme les gentilshommes » (*Cayr.*)V. 348Plaire (Se)« Trouver du plaisir et de la satisfaction en quelque chose, en quelque lieu, ou avec quelque personne. » *(R.*)V. 123 Portée« Se dit des personnes, et veut dire capacité, ce que peut faire une personne, ce que peut produire son esprit. » (*R.*)V. 32Presse« Foule, multitude de monde. » (*R.*)V. 1309 Provision« Ce mot se dit en parlant d'offices civils. Ce sont des lettres repliées et scellées du sceau de la grande Chancellerie de France par lesquelles le Roi déclare qu'étant informé de la capacité d'une personne, il donne à cette personne l'office vacant pour en jouir dans tous ses droits avec ordre à ceux à qui il appartient de recevoir cette personne dans la charge dont il est pourvu. » (*R.*)V. 1371 Raillerie« Mot plaisant et satirique, moquerie. » (*R.*)V. 592 RégulierCelui « qui vit selon les règles et les canons de l'Église. Qui observe telles règles. Qui est fait dans les formes et selon les règles de l'art. Qui ne fait rien contre son devoir. » (*R.*)V. 607Rendre des soins« On dit rendre des soins à quelqu'un pour dire : Le voir avec assiduité et lui faire sa cour. » (A, 94)V. 424, 584RévoquerAvec un complément d'objet signifie « retirer, annuler » (*Cayr.*)V. 478Rire (Se)« Se moquer. » (*R.*)V. 1224 SçavoirOrthographié *savoir* dans le dictionnaire de P. Richelet. « Connaître, découvrir. » (*R.*)V. 708ScéleratOrthographié *sélérat* dans le dictionnaire de P. Richelet. « Ce mot se dit des personnes et des choses, et veut dire méchant, perfide, noir, malin. » (*R.*)V. 1048Signalé« Considérable, particulier, remarquable. » (*R.*)V. 1722 Soins« Application d'esprit à faire quelque chose. » (*A, 94*)V. 799 Souffrir«Endurer, avoir de la peine, supporter. » (*R.*)V. 440Suffisance« Orgueil. » (*R.*) « Vanité, présomption. » (*A, 94*)V. 25 Témoigner« Faire paraître, faire voir, faire éclater, découvrir. » (*R.*)V. 11 Tendresse« Se mot ne se dit bien qu'au figuré dans le discours ordinaire, et il veut dire amitié, amour. » (*R.*)V. 421, 562 Tenir (en)« Se laisser tromper, croire à des mensonges. » (*Cayr.*) « Être pris, être dupé, être attrapé. » (*R.*)V. 11Timbré« Mot burlesque qui n'entre que dans la conversation et le style comique, et qui veut dire qui a bonne tête, qui est sage. » (*R.*)V. 1316 Tomber de son haut« Être extrêmement surpris de quelque chose. » (*A, 94*)V. 1414Transports« Se dit… figurativement en choses morales du trouble ou de l'agitation de l'âme » (*Dictionnaire universel, A. Furetière, 1690*), « de toute violente émotion, agréable ou désagréable, qui nous met hors de nous ; emportement, égarement, élan de passion, en parlant de l'amour, de l'ambition, du désespoir, de la colère… » (*Cayr.*)V. 382, 1080 Travaille (se)« Se donner de la peine, se fatiguer à une tâche, se torturer moralement ou physiquement. » (*H. & P.*)V. 509Verbiage« Paroles inutiles. » (*R.*)V. 181 Vertu« Se dit de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite » (*Cayr.*)V. 557 « Habitude de l'âme qui la porte à faire le bien et à fuir le mal. » (*A, 94*)Violence« Exaction, sorte de tirannie. » (*R., 1759*)V. 389
 
 
 # Bibliographie d'Antoine Jacob, dit Montfleury

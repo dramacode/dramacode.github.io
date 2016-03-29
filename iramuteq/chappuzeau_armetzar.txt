@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_dedicace *date_1656 *creator_chappuzeau
+**** *book_ *id_dedicace *date_1656 *creator_chappuzeau 
 
 A MONSIEUR SNOECKAERT de SCHAUNBURGH, etc.
 
@@ -24,7 +24,7 @@ Votre tres-humble et tres-obeïssant serviteur
 
 CHAPPUZEAU.
 
-**** *book_ *id_argument *date_1656 *creator_chappuzeau
+**** *book_ *id_argument *date_1656 *creator_chappuzeau 
 
 ARGUMENT
 
@@ -275,7 +275,7 @@ Quoy qu'il en soit, Organte, espere en mon destin.
 -*who_organte
 Seigneur, le Roy qui vient vous en rendra certain.
 
-**** *book_ *id_body-402 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-402 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_zinton
 En vain à m'attaquer Tamerlan se prepare,
@@ -396,7 +396,7 @@ S'il n'avoit à ses traits⁎ opposé sa valeur⁎.
 Il s'est jetté pour moy dans des perils extremes ;
 Enfin, tu dois, mon fils, le cherir si tu m'aimes.
 
--*who_vanlie
+-*who_vanlie 
 Estant aimé de vous, Sire, je l'aime aussi :
 Mais j'entre en méme temps dans un juste soucy⁎.
 Sanga par tous moyens tasche de vous détruire,
@@ -453,7 +453,7 @@ Vous, Prince, suivez moy.
       Rasseure toy, mon cœur,
 Et de tes faux soupçons condamne la rigueur.
 
-**** *book_ *id_body-405 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-405 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_vanlie
 C'est trop, il faut enfin pour étaler ma joye,
@@ -841,7 +841,7 @@ Le Roy vient à propos pour m'en faire justice :
 Mais il faut à present luy cacher mon depit,
 Et pour mieux me vanger, feindre qu'il s'assoupit.
 
-**** *book_ *id_body-503 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-503 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_zinton
 Madame, et vous, ma fille, apres le noir orage
@@ -971,7 +971,7 @@ Entretenir la Reine et loin de ta presence :
 Artaban, comme luy retirez vous d'icy ;
 Vous, mon fils, demeurez ; et vous, ma fille, aussy.
 
-**** *book_ *id_body-504 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-504 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_zinton
 La chose est d'importance, et je veux qu'on l'avoüe.
@@ -1504,7 +1504,7 @@ Suy, si tu veux, Organte.
       Ouy, faisons diligence ;
 Allons, Seigneur, allons, je vous suis en tous lieux.
 
-**** *book_ *id_body-605 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-605 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_ladice
 Iliane, c'est luy qui se cache à mes yeux.
@@ -1639,7 +1639,7 @@ Et ton bon-heur depend de l'hymen glorieux⁎
 Où nous devons porter ce cœur⁎ ambitieux.
 Que t'a donc reparti cette fiere⁎ Princesse ?
 
--*who_artaban
+-*who_artaban 
 Qu'elle ne m'aime point, Madame, et je confesse
 Que si j'en suis haï, je l'aime aussy fort peu,
 Et que ses longs dedains ont amorti mon feu⁎.
@@ -1736,7 +1736,7 @@ Mais le Prince en ce cas ne peut l'avoir suivi,
 Et quelque autre malheur, Sire, vous l'a ravi.
 Voilà ce que je puis juger de leur absence.
 
--*who_zinton
+-*who_zinton 
 Qu'on les cherche par tout, qu'on aille en diligence⁎.
 Ma fille assurement m'a causé ce malheur.
 Prince, vous jugez mal d'une insigne valeur⁎ ;    
@@ -1759,7 +1759,7 @@ Et Phocate sans doute étoit de la partie.
 Mais déjà mon transport⁎ me les fait decouvrir ;
 O mon fils ! ô Phocate ! auquel dois-je courir !
 
-**** *book_ *id_body-703 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-703 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_armetzar
 Sire, voicy le bras qui vange vôtre offence,
@@ -1891,7 +1891,7 @@ Le fameux different de deux peuples fameux.
 Assisté de ton bras le Cham⁎ ne peut m'abattre,
 Mon fils, vien prendre haleine afin de mieux combattre.
 
-**** *book_ *id_body-704 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-704 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_artaban
 O depit ! ô fureur⁎ ! quoy cet audacieux    
@@ -1983,7 +1983,7 @@ Non, non, il les abuse, et fût toûjours trompeur.
 -*who_iliane
 Mais, Madame, Armetzar vient chasser vôtre peur.
 
-**** *book_ *id_body-706 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-706 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_ladice
 Armetzar, approchez, je vous permets ma vûe ;
@@ -2200,7 +2200,7 @@ Les Dieux sont irritez, cedons à leur colere.
 -*who_ulanie
 Madame…
 
--*who_zarimene
+-*who_zarimene 
       C'en est fait, qu'on m'emporte d'icy,
 Puisque mon fils est mort, il faut mourir aussy.
 
@@ -2229,7 +2229,7 @@ Et déja le Tartare en ces lieux s'est rendu !
 -*who_ladice
 Fuyons, chere Iliane.
 
-**** *book_ *id_body-804 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-804 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_armetzar
       Ouy, fuyons, ma Princesse,
@@ -2284,7 +2284,7 @@ Sauvez moy, sauvez vous.
 -*who_armetzar
       Dieux ! appaisez mon pere…
 
-**** *book_ *id_body-805 *act_ *date_1656 *creator_chappuzeau
+**** *book_ *id_body-805 *act_ *date_1656 *creator_chappuzeau 
 
 -*who_tamerlan
 Enfin, je suis vainqueur de tous mes ennemis,
@@ -2408,7 +2408,7 @@ De quel œil le verray-je ? ha Dieux !
 -*who_tamerlan
       Que dis Phocate ?
 
--*who_vanlie
+-*who_vanlie 
 Qu'il sied bien aux Vainqueurs que leur clemence eclate,
 Et que vous pourriez bien par un trait⁎ genereux⁎
 Epargner cette honte à ce Roy malheureux.
@@ -2447,7 +2447,7 @@ Qu'on le face venir avecques tous les siens.
 -*who_garde
 Seigneur, on vous l'ameine.
 
--*who_vanlie
+-*who_vanlie 
       O mandement severe !
 Pourray-je supporter la presence d'un pere !
 
@@ -2603,7 +2603,7 @@ Sans cette lasche main tu n'aurois plus vécu.
 -*who_zinton
 Ce perfide⁎ tout seul a causé ma defaitte
 
--*who_tamerlan
+-*who_tamerlan 
 Ce perfide⁎ tout seul rend ma gloire⁎ imparfaitte.
 
 -*who_zinton
@@ -2794,7 +2794,7 @@ C'est assez qu'un moment Zinton me fut soûmis,
 Et je veux aujourd'huy pour comble de ma gloire⁎,
 Que ma clemence eclate autant que ma victoire.
 
--*who_zinton
+-*who_zinton 
 En pouvant me donner ces genereuses⁎ loix,
 Tamerlan, c'est me vaincre une seconde fois.
 
@@ -2826,6 +2826,6 @@ Et je te donne ensemble et ma fille et la paix.
 De vos rares bontez c'est une illustre marque ;
 Que ne vous dois-je point, invincible Monarque !
 
--*who_tamerlan
+-*who_tamerlan 
 Ouy, par de tels bienfaits je veux vous enchaîner,
 Et Tamerlan enfin sçait vaincre et pardonner.

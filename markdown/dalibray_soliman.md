@@ -905,7 +905,7 @@ Et ledit sieur Dalibray a cedé et transporté le present Privilège à Toussain
  – GENTIL-HOMME DE SOLIMAN.
  – L'AMBASSADEUR DE PERSE.
 La Scene est en Alep, ville de Syrie
-
+ 
 
 
 ## ACTE PREMIER
@@ -971,7 +971,7 @@ Je la vay retreuver⁎ si j'en obtiens licence [264].
 Allez  
 
 
-### SCENE DEUXIESME.
+### SCENE DEUXIESME. 
 SOLIMAN. OSMAN. ACMAT.
 
 
@@ -997,7 +997,7 @@ Et qui remplit mon cœur d'une joye incroyable.
 A ce conte [266] ses soins⁎ furent bien diligens⁎ !  
 Comment a-t'il si tost ramassé tant de gens ?  
 
-    OSMAN.
+    OSMAN. 
 Le seul bruit de son nom et de sa renommée,  
 Pourroit en moins de temps lever toute une armée,  
 L'esclat de sa valeur sans exemple et sans pris  
@@ -1044,7 +1044,7 @@ Car quoy que le Roy feigne, on tient cette maxime,
 Qu'un vieux Roy, de son fils, hait la trop grande estime. [274]  
 
 
-### SCENE TROISIEME.
+### SCENE TROISIEME. 
 PERSINE, ALVANTE.
 
 
@@ -1115,7 +1115,7 @@ Mais qu'un beaucoup plus noble et plus fort mouvement⁎
 M'a fait venir icy sous cet habillement ;  
 Un mouvement⁎ d'amour, que tu croiois de hayne.  
 
-    ALVANTE.
+    ALVANTE. 
 Un mouvement⁎ d'amour, est celuy qui vous meine  
 Et pour qui ?  
 
@@ -1213,7 +1213,7 @@ LA REINE. SELINE.
 J'ignore en quel endroit⁎ mon pié douteux me guide,  
 Au trouble des pensers [291] qui me rendent timide.  
 
-    SELINE.
+    SELINE. 
 Ceux qui renferment mieux leurs pensers au dedans,  
 Sont Madame, à la Cour tenus les plus prudens [292] :  
 C'est pourquoy je voudrois ; qu'avecques [293] plus d'adresse,  
@@ -1237,7 +1237,7 @@ Vous en serez au Roy d'autant plus agreable,
 Et par là vos discours auront plus de credit,  
 Plus on ayme quelqu'un, plus on croit ce qu'il dit.  
 
-    LA REYNE.
+    LA REYNE. 
 Ha ! Seline, un temps fut que je pouvois bien croire  
 Que le Roy m'eslevoit à ce degré de gloire :  
 Mais maintenant helas ! et c'est là mon tourment,  
@@ -1274,7 +1274,7 @@ Pour vivre, et pour regner, tout se fait, tout s'excuse.
     LA REINE
 Je te croiray, Seline, et veux dés aujourd'huy,  
 Commencer à le perdre, et me tirer d'ennuy⁎.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1296,7 +1296,7 @@ Et conduis les Soldats qu'à tes soins⁎ j'ay commis*1* :
 Je te suivray de prez avec une autre armée,  
 Et bien-tost leurs projets s'en iront en fumée.  
 
-    MUSTAPHA.
+    MUSTAPHA. 
 Derechef⁎ je rends grace à vostre Majesté  
 D'un honneur que je sçay n'avoir point merité :  
 Le pouvoir qui me vient de cette main auguste  
@@ -1345,7 +1345,7 @@ RUSTAN, OSMAN.
     RUSTAN.
 Avant que je le souffre⁎ il faudra que je meure,  
 
-    OSMAN.
+    OSMAN. 
 Mon Maistre qu'avez-vous ?  
 
     RUSTAN.
@@ -1370,7 +1370,7 @@ Vantast à Soliman son merite supresme ;
 Sans doute ces discours, contre vostre dessein,  
 Ont jetté plus d'amour que d'envie, en son sein.  
 
-    RUSTAN.
+    RUSTAN. 
 Ainsi le plus souvent la Fortune⁎ mesprise,  
 De faire reüssir une sage entrerprise :  
 Mais je mespriseray moy-mesme ses mespris,  
@@ -1393,7 +1393,7 @@ Mais, Madame, c'est estre à soy-mesme, inhumaine :
 Tais-toy, voicy Rustan : je te treuve⁎ à propos  
 Pour en parler ensemble, et me mettre en repos.  
 
-    RUSTAN.
+    RUSTAN. 
 Madame, dans l'estat que nous voyons l'affaire,  
 Bien plus que le discours l'effet⁎ est necessaire.  
 Je m'en allois vers vous afin d'en conferer,  
@@ -1445,7 +1445,7 @@ Qu'il a sous son pouvoir presque tous nos Soldats ?
     LA REINE.
 Est-il donc vray !  
 
-    RUSTAN.
+    RUSTAN. 
         Que trop : jugez donc à cette heure  
 S'il est bon qu'imparfaict nostre dessein demeure ;  
 Un Sceptre rarement s'arrache aux mains d'autruy,  
@@ -1470,7 +1470,7 @@ Il nous delivre aussi du mal qui nous menace.
     RUSTAN.
 C'est le meilleur moyen que nous puissions tenir.  
 
-    LA REINE.
+    LA REINE. 
 Allons donc le treuver⁎ : mais le voicy venir.  
 
 
@@ -1495,7 +1495,7 @@ Ce trouble obscurcira la verité du fait.
 Seigneur, que le Destin tousjours plus favorable  
 Vous comble d'un bon-heur qui soit incomparable.  
 
-    SOLIMAN.
+    SOLIMAN. 
 Il le peut, s'il le veut : Mais qui [307] vous meine icy ?  
 
     LA REINE.
@@ -1521,7 +1521,7 @@ Prenez le temps, Madame.
     LA REINE.
         Hé que dites-vous, Sire !  
 
-    SOLIMAN.
+    SOLIMAN. 
 Ce qui n'est que trop vray.  
 
     RUSTAN.
@@ -1642,7 +1642,7 @@ Il l'executera du jour au lendemain.
 Tant s'en faut, ce pouvoir est un tres-seur remede,  
 On ne desire plus le bien que l'on possede.  
 
-    LA REINE.
+    LA REINE. 
 Mais, Seigneur, vous sçavez ce que c'est du pouvoir,  
 Que tant plus on en a, plus on en veut avoir.  
 
@@ -1762,7 +1762,7 @@ Or entends⁎ maintenant comme elle prit croissance :
 Et puis tu jugeras par quel heureux chemin  
 Elle doit desormais parvenir à sa fin.  
 
-    ALVANTE
+    ALVANTE 
 Qu'une amour née en guerre et parmy les alarmes,  
 N'attende que la mort, et des subjets de larmes.  
 
@@ -1853,7 +1853,7 @@ Allez, et je feray tout ce qu'il faudra faire.
 Je m'en vay, daigne Amour conduire cette affaire.  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 ALVANTE, OSMAN.
 
 
@@ -1882,7 +1882,7 @@ Son pere ! et son Royaume !
     OSMAN.
         O fortune⁎ prospere !  
 
-    ALVANTE.
+    ALVANTE. 
 Me croire l'instrument de sa lâche fureur !  
 Comment pûst son esprit tomber dans cette erreur !  
 Moy porter ces papiers où ta honte est enclose !  
@@ -1903,7 +1903,7 @@ C'est son propre cachet ! qu'il nous vient à souhait !
 Je m'en vais à Rustan exposer⁎ tout le fait :  
 Il est bien si rusé qu'en ce peu de matiere,  
 Il treuvera⁎ subject d'une ruine entiere.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III.
@@ -2023,7 +2023,7 @@ Et dans son propre sang lave son infamie :
 Allons, pour revenir avec tant de soldats,  
 Que nous mettions sa teste et son orgueil à bas.  
 
-    PERSINE.
+    PERSINE. 
 Allons, c'est la raison que l'amoureuse flame  
 Cede aux feux que la haine attise dans mon ame.  
 Va donc pour donner ordre à nostre partement [332],  
@@ -2041,7 +2041,7 @@ Songeons à nous donner un trespas honorable :
 Mais que ce soit aux yeux de ce traistre et brutal,  
 Que je voye en mourant l'objet⁎ qui m'est fatal,  
 Afin qu'au triste aspect d'une fin si cruelle,  
-De son crime, il conçoive une horreur eternelle.  
+De son crime, il conçoive une horreur eternelle.   
 
 
 ### SCENE DEUXIESME.
@@ -2118,7 +2118,7 @@ Le talent qu'en naissant il a receu des Cieux :
 Et quoy qu'à ma couronne il doive seul pretendre,  
 Peut-estre ayme-t'il mieux l'usurper que l'attendre.  
 
-    ACMAT.
+    ACMAT. 
 Mais, Sire, de sa gloire il est si fort jaloux,  
 Que l'on ne doit jamais apprehender pour vous  
 Que s'emparant ainsi d'une chose asseurée  
@@ -2144,7 +2144,7 @@ Dans une douce paix maintenant je respire,
 Et dessus moy la peur n'a plus aucun empire.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 RUSTAN. SOLIMAN.
 
 
@@ -2166,7 +2166,7 @@ Mais tout vostre salut ne depend que de vous.
 Sire, hâtez-vous donc ainsi que veut l'affaire,  
 En ces occasions, il se perd qui differe.  
 
-    SOLIMAN *lit.*
+    SOLIMAN *lit.* 
 Je n'attens pour partir que vostre mandement.  
 Cette puissante armée est deja toute preste.  
 Commencez seulement d'attaquer cette teste,  
@@ -2292,7 +2292,7 @@ Voyez donc si je crains avec de justes causes,
 Et vous-mesme jugez combien il est besoin⁎,  
 D'apporter en ce fait, de prudence et de soin⁎.  
 
-    MUSTAPHA.
+    MUSTAPHA. 
 J'approuve ta sagesse, Ormene, et je l'escoute :  
 Mais ta peur apres tout, n'est que sur une doute [342] :  
 Si bien que je ne puis, sans manquer au devoir,  
@@ -2317,7 +2317,7 @@ Que veut dire, et d'où vient mon Adraste fidelle ?
     ADRASTE.
 Du camp, où ce malheur vous-mesme vous r'appelle.  
 
-    MUSTAPHA.
+    MUSTAPHA. 
 L'homme ferme et constant⁎ n'a pas le pied leger [343],  
 Et ne se trouble point sans sçavoir le danger.  
 Apprends moy donc devant⁎, ce qui te met en peine.  
@@ -2342,7 +2342,7 @@ Evitez promptement son injuste colere.
     ORMENE.
 Fuyons, mon fils, fuyons.  
 
-    MUSTAPHA.
+    MUSTAPHA. 
         L'innocent est trop fort,  
 Il est invulnerable à tous les traicts du sort.  
 
@@ -2367,7 +2367,7 @@ Et laisse avec le temps sortir la verité.
     MUSTAPHA.
 Non, ne differons plus, qui differe est coupable.  
 
-    ORMENE.
+    ORMENE. 
 Hé mon Fils !  
 
     ADRASTE.
@@ -2411,7 +2411,7 @@ Vostre mort sera-t elle honorable et sans blasme ?
 Le Temps descouvrira la verité du faict.  
 
     ORMENE.
-Vivez donc, pour joüyr de cét heureux effect⁎.  
+Vivez donc, pour joüyr de cét heureux effect⁎.   
 
 
 ### SCENE SIXIESME.
@@ -2437,7 +2437,7 @@ Aux paroles d'autruy prestent si tost creance ?
 A peine voudront-ils s'en fier à leurs yeux,  
 Seul vous appaiserez leurs esprits furieux.  
 
-    ORMENE.
+    ORMENE. 
 Si de ce cœur fidelle, et de ce grand courage,  
 Vous craignez que le Roy prenne le moindre ombrage.  
 Seigneur, vous jugez bien qu'il est plus à propos,  
@@ -2448,7 +2448,7 @@ Seigneur, trouvez-vous pas cét advis raisonnable ?
 
     MUSTAPHA.
 Que trop ; allons-y donc, ô Sort impitoyable !  
-Fin du troisiesme Acte.
+Fin du troisiesme Acte. 
 
 
 ## ACTE IIII.
@@ -2472,7 +2472,7 @@ C'est de cette façon qu'un grand Prince doit faire :
     ACMAT.
 Mais non de la façon que doit agir un Pere.  
 
-    SOLIMAN.
+    SOLIMAN. 
 A l'endroit⁎ d'un tel Fils, un Pere avec raison  
 Peut oublier de Pere et l'amour et le nom.  
 
@@ -2497,7 +2497,7 @@ Quel besoin⁎ de l'oüir si son crime est sans doute ?
     ACMAT.
 Mais quel signe le rend criminel comme on dit ?  
 
-    SOLIMAN.
+    SOLIMAN. 
 Quel indice veux-tu plus clair que cét escrit ?  
 
     ACMAT.
@@ -2545,7 +2545,7 @@ A l'aspect du Soleil, disparoissent les ombres.
 Vous verrez que ce camp qui nous fait tant de peur  
 N'est qu'un camp fabuleux, chimerique et trompeur.  
 
-    RUSTAN.
+    RUSTAN. 
 Sire, encore une fois je declare et proteste,  
 Que puis que nous voyons le crime manifeste ;  
 C'est avecques danger, mais danger tres-pressant,  
@@ -2616,7 +2616,7 @@ O Fils !
         Seigneur, voicy venir la verité.  
 
     RUSTAN.
-Et de tous mes dangers, le moins premedité.  
+Et de tous mes dangers, le moins premedité.   
 
 
 ### SCENE DEUXIESME.
@@ -2643,7 +2643,7 @@ Qu'apres l'evenement⁎ de son juste trépas.
     RUSTAN.
 Dieu ! qu'est-ce qu'il veut dire !  
 
-    SOLIMAN.
+    SOLIMAN. 
         Et pourtant cette létre  
 M'apprend la trahison, avec le nom du trétre ?  
 
@@ -2668,7 +2668,7 @@ S'addressant à ton Fils, ne regardoit que toy.
     RUSTAN.
 Ouy, Sire, il regardoit vostre seule Couronne.  
 
-    ACMAT.
+    ACMAT. 
 Plutost ne s'adressoit qu'au Roy mesme en personne.  
 
     SOLIMAN.
@@ -2720,7 +2720,7 @@ Vient pour vous éclaircir de son intention.
     SOLIMAN.
 C'est sans doute, Rustan, quelqu'un de ses complices.  
 
-    RUSTAN.
+    RUSTAN. 
 Il faut qu'il le confesse au milieu des supplices.  
 
     ACMAT.
@@ -2743,7 +2743,7 @@ Et sans nous resister il fut conduit icy.
 Jeune homme, avoüez-vous ce que dit celuy-cy ?  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME 
 ALVANTE. SOLIMAN. RUSTAN. PERSINE. ACMAT. SOLDATS.
 
 
@@ -2770,7 +2770,7 @@ Et de plus Espion ?
     ALVANTE.
 Ah fille mal-heureuse ! hé Dieu ! tout est perdu.  
 
-    SOLIMAN.
+    SOLIMAN. 
 Tu mourras.  
 
     ALVANTE.
@@ -2800,7 +2800,7 @@ Ne dis que ce qui peut me faire oster la vie.
 Seigneur, sans vous tenir plus long-temps en soucy,  
 La fille de Tamas, Persine, la voicy.  
 
-    PERSINE.
+    PERSINE. 
 O par trop pitoyable, et trop cruel Alvante.  
 
     ALVANTE.
@@ -2828,7 +2828,7 @@ Qu'elle serre au dedans entortillez par nœuds :
     SOLIMAN.
 Mais quelle occasion en ce pays t'ameine ?  
 
-    ALVANTE.
+    ALVANTE. 
 Seigneur, je le diray.  
 
     PERSINE.
@@ -2881,7 +2881,7 @@ O Persine.
         O tourmens d'une main douce offers !  
 
 
-### SCENE CINQUIESME
+### SCENE CINQUIESME 
 SOLDATS. PERSINE.
 
 
@@ -2928,7 +2928,7 @@ Me saisissant la langue et le pied tout ensemble,
 Oste la voix à l'une et fait que l'autre tremble.  
 
 
-### SCENE SIXIESME.
+### SCENE SIXIESME. 
 MUSTAPHA. PERSINE. SOLDAT.
 
 
@@ -3066,7 +3066,7 @@ Puis qu'elle ne sçauroit me sauver du trespas ?
 On ne respectera plus de si divins appas [364],  
 Et quand tant de beauté ne te pourroit deffendre,  
 Si quelqu'un doit mourir, J'ay du sang à respandre.  
-Fin du quatriesme Acte.
+Fin du quatriesme Acte. 
 
 
 ## ACTE V.
@@ -3088,7 +3088,7 @@ Ny s'usurper⁎ [365] la gloire ou le Sceptre d'autruy ?
 Ne reconnoist-on pas quelle est son innocence ?  
 Si ce n'est que l'amour ait causé son offence.  
 
-    PERSINE.
+    PERSINE. 
 Mais plutost ce visage est luy seul criminel,  
 Et digne que je souffre⁎ un supplice eternel,  
 Puisque pour avoir eu le bon-heur de te plaire,  
@@ -3112,7 +3112,7 @@ Qui nous livre aujourd'huy cette funeste guerre,
 J'en deteste l'autheur, mais la cause m'en plaist,  
 Et j'en benis l'effet⁎ tout injuste qu'il est.  
 
-    MUSTAPHA.
+    MUSTAPHA. 
 Avançons donc, Persine, et courons avec joye,  
 Où par arrest⁎ du Ciel un Pere nous envoye ;  
 Et puis qu'on nous deffend de nous joindre autrement,  
@@ -3135,7 +3135,7 @@ Je suis donc l'instrument d'une mort si cruelle !
 La raison, le devoir, les loix de l'amitié⁎,  
 Vouloient que vous eussiez de vous-mesme pitié.  
 
-    LA REINE.
+    LA REINE. 
 Mais il meurt innocent.  
 
     SELINE.
@@ -3161,7 +3161,7 @@ N'importe.
 Si celuy-cy qui vient nous avoit entenduës⁎.  
 
 
-### SCENE TROISIESME.
+### SCENE TROISIESME. 
 ORMENE. LA REINE. SELINE.
 
 
@@ -3260,7 +3260,7 @@ Et si l'ayant trouvé je le pers aujourd'huy,
 Moy-mesme je mourray de regret et d'ennuy⁎.  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME 
 SOLIMAN. ACMAT.
 
 
@@ -3283,7 +3283,7 @@ Mais Dieu ! voicy la Reyne et Rustan qui l'arreste,
 A quelque autre dessein leur malice s'appreste ?  
 
 
-### SCENE CINQUIESME.
+### SCENE CINQUIESME. 
 RUSTAN. LA REINE. SOLIMAN. ACMAT. ORMENE.
 
 
@@ -3305,7 +3305,7 @@ Seigneur, c'est à moy seule
     RUSTAN *s'enfuit.*
         O Ciel, je suis perdu !  
 
-    LA REINE.
+    LA REINE. 
 A qui de Mustapha le chastiment est deu ;  
 Ma mort plus que la sienne, est juste et legitime,  
 Et seule contre vous, j'ay peu commettre un crime,  
@@ -3331,7 +3331,7 @@ Des soupçons esloignez de toute verité :
 Ou souffrez⁎ donc, Seigneur, qu'avec luy je perisse,  
 Ou que j'aille à l'instant le tirer du supplice.  
 
-    SOLIMAN.
+    SOLIMAN. 
 O Ciel ! qu'ay-je entendu⁎ ! Courez, Courez Soldats ;  
 Que son funeste arrest⁎ ne s'exécute pas.  
 
@@ -3358,7 +3358,7 @@ Et que j'aille embrasser⁎ celuy que j'ay fait naistre.
 Allez, Madame, allez, et l'amenez icy.  
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME 
 SOLIMAN. ACMAT.
 
 
@@ -3405,7 +3405,7 @@ Puis-je mourir apres d'une assez rude mort.
 Seigneur, voicy la Reyne, et son Fils qu'elle embrasse⁎.  
 
 
-### SCENE SEPTIESME.
+### SCENE SEPTIESME. 
 LA REINE. MUSTAPHA. PERSINE. ALVANTE. SOLIMAN. ACMAT.
 
 
@@ -3525,7 +3525,7 @@ Et que sans sacrilege on ne te peut toucher :
 Aussi reconnoissant tes vertus nompareilles  
 Je devais croire moins mes yeux et mes oreilles.  
 
-    MUSTAPHA.
+    MUSTAPHA. 
 Pere, et Roy, le meilleur et plus grand des humains,  
 Et ma vie et ma mort sont bien entre vos mains ;  
 Vous avez trop de soin⁎ de l'ame la plus basse,  
@@ -3550,7 +3550,7 @@ Seigneur, voicy venir l'Ambassadeur des Perses.
 Escoutons-le. Tamas meu d'une juste peur  
 Veut renoncer sans doute à son espoir trompeur.  
 
-    L’AMBASSADEUR DE PERSE.
+    L’AMBASSADEUR DE PERSE. 
 Invincible Seigneur, le Roy Tamas mon Maistre,  
 Privé du doux aspect de celle qu'il fit naistre,  
 Et qu'il a fait chercher par d'inutiles soins⁎  
@@ -3909,7 +3909,7 @@ Le Torrismon
 ## Études historiques et critiques
 
 
-### Sur le théâtre du xvii*e* siècle, le contexte littéraire et le contexte historiqueLa tragi-comédie de Corneille à Quinault
+### Sur le théâtre du XVII*e* siècle, le contexte littéraire et le contexte historiqueLa tragi-comédie de Corneille à Quinault
 Des tavernes aux bistrots : histoire des cafés
 La Querelle du Cid
 L'arte dell'interpretare
@@ -3960,7 +3960,7 @@ La Mythologie : Ses dieux, ses héros, ses légendes
 
 
 
-### Éditions critiques des œuvres du xvi*e*, du xvii*e* et du xix*e* siècleLe Cid
+### Éditions critiques des œuvres du XVI*e*, du XVII*e* et du XIX*e* siècleLe Cid
 Le Cid
 Cinna
 Polyeucte
@@ -3979,7 +3979,7 @@ Venceslas
 ## Instruments de travail
 
 
-### Langue, Rhétorique, grammaire et ponctuation au xvii*e* siècleSyntaxe française du xvii*e* siècle
+### Langue, Rhétorique, grammaire et ponctuation au XVII*e* siècleSyntaxe française du XVII*e* siècle
 Précis de phonétique historique
 Études historiques, littéraires et morales sur les proverbes français et le langage proverbial
 La Ponctuation du théâtre imprimé au xvii*e* siècle

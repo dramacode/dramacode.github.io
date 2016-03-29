@@ -809,7 +809,7 @@ Nous avons corrigé les coquilles dans les mots suivants :
 Nous avons supprimé la répétition des vers 1484 et 1485, placés au bas de la page 75 de l'édition originale, en haut de la page suivante. Nous avons aussi relevé l'oubli de la rubrique de personnage « Oronclide » en haut de la page 75 de l'édition originale. Son nom n'est pas mentionné sous le titre courant et nous l'avons donc rétabli entre crochets. Enfin, nous avons également rajouté un point à la fin de la réplique d'Oronclide au vers 1778.
 
 
-# LA VERITABLE SEMIRAMIS. Tragédie.
+# LA VERITABLE SEMIRAMIS. Tragédie. 
 
 
 ## EPISTRE. [92] A HAUT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE BEAUVILLIER [93] Chevalier Comte de S. Aignan, Baron des Baronnies de la Ferté, le Fau Chemery, la Salle lez Clery Luçay ; Vicomte de Valogne, Seigneur d'Olinuillé lez Aix, d'Anguillon Cery, Montigny, Humbligni, la Grange, Foullay, Draché Beauvais, & autres lieux : Conseiller d'Estat, et Mareschal des Camps & Armées du Roy, &c.
@@ -825,14 +825,14 @@ Votre tres-humble, tres-obeissant, & tres-affectionné serviteur,
 DESFONTAINES.
 
 
-## Extraict du Privilege du Roy.
+## Extraict du Privilege du Roy. 
 
 Par grace & Privilege du Roy, donné à Paris le 17. d'Avril 1647. il est permis à Pierre Lamy Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre & distribuer pendant le temps & espace de cinq ans un livre intitulé *la veritable Semiramis Tragedie, composee par le sieur Desfontaines*, avec deffences à tous Libraires & Imprimeurs, & autres personnes de quelque qualité & condition qu'ils soient, d'imprimer ni faire imprimer ledit livre, de n'en vendre ny distribuer autres exemplaires que ceux qui seront imprimez par ledit Lamy, ou de son consentement, à peine de confiscation desdits exemplaires, & de cinq cens livres d'amende, comme il est declaré plus amplement en l'original des lettres passées le jour & an que dessus, scellees du grandsceau, & signée. Par le Roy en son Conseil. OLIER.
 
-Achevé d'imprimé le 11. May 1647.
+*Achevé d'imprimé le 11. May 1647.*
 
 
-## Les Personnages.
+## Les Personnages. 
  – NINUS,Roy des Assiriens.
  – SEMIRAMIS,Reyne & femme de Ninus.
  – PRAZIMENE,Princesse alliee de Semiramis. [98]
@@ -844,7 +844,7 @@ Achevé d'imprimé le 11. May 1647.
  – PALMEDON,Escuyer [100] de Melistrate.
  – LES GARDES, de Ninus et de Semiramis.
 LA SCENE est dans une Salle du Palais Royal à Babilone.
-
+ 
 
 
 ## ACTE I.
@@ -1125,7 +1125,7 @@ Ses soûpirs, son espoir, ses voeus & ses desseins.
 C'est ce que je veux faire ; allez, qu'on se retire.  
 
 
-### SCENE II.
+### SCENE II. 
 
     SEMIRAMIS *seule.* 
 Il [148] suffit, je connais le charme qui l'attire ;  
@@ -1344,7 +1344,7 @@ Dy que par cette voye à ma faveur ouverte,
 Tu t'en vas, mal-heureux, travailler à ta perte ;  
 Et par l'effet d'un prodige⁎ nouveau,  
 Me preparer un Trône, & t'ouvrir le tombeau.  
-Fin du Premier Acte.
+Fin du Premier Acte. 
 
 
 ## ACTE II.
@@ -1807,14 +1807,14 @@ Je vous venois, Madame, annoncer son retour.
 
     PRAZIMENE.
 Tu me rends, Palmedon, & la vie & l'amour.  
-Fin du Second Acte.
+Fin du Second Acte. 
 
 
 ## ACTE III.
 
 
 ### SCENE PREMIERE.
-NINUS, SEMIRAMIS, MERZABANE, ORONCLIDE, CAMBISES, ZENOPHIRE, & les Gardes.
+NINUS, SEMIRAMIS, MERZABANE, ORONCLIDE, CAMBISES, ZENOPHIRE,& les Gardes.
 
 
     NINUS *au Trône.*
@@ -2064,8 +2064,8 @@ Et quiconque ozera me choquer⁎, ou m'aigrir [262],
 Qu'il doit, avec Ninus, se resoudre à perir.  
 
 
-### SCENE III.
-CAMBISES, ZENOPHIRE, MERZABANE, ORONCLIDE.
+### SCENE III. 
+CAMBISES, ZENOPHIRE, MERZABANE,ORONCLIDE.
 
 
     MERZABANE.
@@ -2160,7 +2160,7 @@ Puis que vous consentez, il va perdre le jour,
 Victime infortunée, & d'Estat & d'Amour.  
 
 
-### SCENE IV.
+### SCENE IV. 
 MERZABANE, ORONCLIDE.
 
 
@@ -2177,7 +2177,7 @@ Que dans ce mesme lieu vous ne voyez paroistre
 Melistrate reduit en l'estat qu'il doit estre.  
 Il revient, & tantost [271], comme je l'ay pû voir,  
 On a fait choix de vous, pour l'aller recevoir.  
-Fin du Troisième Acte
+Fin du Troisième Acte 
 
 
 ## ACTE IV.
@@ -2434,7 +2434,7 @@ Je vay suivre Ninus; & c'est beaucoup pour moy,
 Qu'on répande mon sang, sur celuy de mon Roy.  
 
 
-### SCENE II.
+### SCENE II. 
 
     ORONCLIDE *seul.*
 O Fureurs ! ô desirs ! ô pouvoir d'une Reyne !  
@@ -2447,8 +2447,8 @@ Et malgré ma foiblesse en un pas si glissant,
 Fay moy vivre equitable [285], ou, mourir innocent.  
 
 
-### SCENE III.
-MELISTRATE, ORONCLIDE, PRAZIMENE, PALMEDON, & les Gardes.
+### SCENE III. 
+MELISTRATE, ORONCLIDE, PRAZIMENE, PALMEDON,& les Gardes.
 
 
     MELISTRATE *de derriere le Theatre.*
@@ -2606,7 +2606,7 @@ Sortons ; & vous verrez par un trait⁎ sans exemple [289],
 D'un juste repentir, une preuve assez grande [290].  
 
 
-### SCENE IV.
+### SCENE IV. 
 SEMIRAMIS, MERZABANE.
 
 
@@ -2650,7 +2650,7 @@ Recompenser au Fils, les services du Pere,
 Le voicy de retour.  
 
 
-### SCENE V.
+### SCENE V. 
 SEMIRAMIS, MERZABANE, ORONCLIDE, & suitte.
 
 
@@ -2698,7 +2698,7 @@ Que Melistrate est foible, & moy toute puissante ;
 Que tout me doit ceder, que mes vœux sont des Loix,  
 Qu'il n'est rien qu'un sujet, & moy Reyne des Roys.  
 
-    [ORONCLIDE.] 
+    [ORONCLIDE.]  
 Ne diferez⁎ donc point, que vostre haine éclate,  
 En Oronclide icy vous trouvez Melistrate,  
 Son ame vit en moy, mon ame vit en luy,  
@@ -2769,7 +2769,7 @@ Qu'il est audacieux ! Qu'on l'emmeine.
         Ah, je tremble !  
 
 
-### SCENE VI.
+### SCENE VI. 
 SEMIRAMIS, MERZABANE.
 
 
@@ -2785,7 +2785,7 @@ Puis que pour un ingrat sa passion éclate,
 Commençons par sa mort, à punir Melistrate;  
 Attendant que le temps plus propice à nos vœux,  
 Nous donne les moyens de les perdre tous deux.  
-Fin du Quatriéme Acte.
+Fin du Quatriéme Acte. 
 
 
 ## ACTE V.
@@ -2838,7 +2838,7 @@ Il faut par mon retour dégager [306] sa parole ;
 Et bravant mes malheurs, comme nos ennemis,  
 Le tirer noblement des fers⁎ où je l'ay mis.  
 
-    PALMEDON. 
+    PALMEDON.  
 Dites que vous allez par des ardeurs si vaines⁎,  
 Vous perdre imprudemment & resserrer ses chaisnes :  
 Dites que par ce prompt & mal-heureux retour,  
@@ -2865,7 +2865,7 @@ D'un bras qu'arma le sort, & que la vertu guide,
 A blessé Merzabane, & ce grand coup est tel,  
 Que d'un commun accord, on le juge mortel.  
 
-    MELISTRATE.
+    MELISTRATE. 
 Mais il est dans les fers⁎, & je ne puis comprendre  
 Comment ce coup s'est fait.  
 
@@ -2969,7 +2969,7 @@ Hé bien, d'un peu de temps diferons⁎ cet effort ;
 Mais ce jour doit conclure ou ma vie ou ma mort.  
 
 
-### SCENE II.
+### SCENE II. 
 SEMIRAMIS, MERZABANE, ORONCLIDE, PRAZIMENE, & suitte.
 
 
@@ -3017,7 +3017,7 @@ Helas ! il n'est pas mien !
     SEMIRAMIS.
         Comment ? il n'est pas vostre !  
 
-    MERZABANE.
+    MERZABANE. 
 Non.  
 
     SEMIRAMIS.
@@ -3146,7 +3146,7 @@ Qui veut mourir pour elle, & sauver Oronclide,
 Qui bien plus genereux⁎, que vous ne l'esperiez,  
 S'est jetté dans les fers⁎ que vous me prepariez.  
 
-    SEMIRAMIS.
+    SEMIRAMIS. 
 C'est en vain qu'apresent ce zele vous emporte,  
 En vain vostre courage éclate de la sorte,  
 En vain à mon courroux vous venez vous offrir,  

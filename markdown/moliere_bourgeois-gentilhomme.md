@@ -1,7 +1,7 @@
 ---
 identifier: moliere_bourgeois-gentilhomme  
 creator: Molière  
-date: 1671  
+date: 1670  
 title: Le Bourgeois gentilhomme  
 ---
 

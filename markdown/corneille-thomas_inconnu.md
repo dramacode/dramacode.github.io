@@ -1346,7 +1346,7 @@ Mais contre un tendre
 Pourquoy défendre  
 Sa liberté ?  
 
-     LE GENIE.
+     LE GENIE. 
 Achevez, & formez, pour Spéctacles nouveaux,                   
 Et des Buissons & des Berceaux.  
 Les Arbres qui ont paru sur la Montagne, s'en séparent, & forment successivement des Buissons, des Allées, & des Berceaux.
@@ -1381,7 +1381,7 @@ Allons, c'est trop tarder, suy-moy.    
     THALIE.
 Pour l'Inconnu j'attens beaucoup de toy.                  
 
-     LE GENIE.
+     LE GENIE. 
 L'entreprise est un peu hardie,       
 Mais je n'ay rien promis dont je ne vienne à bout.  
 
@@ -1462,7 +1462,7 @@ C'est dequoy l'exercer, quelque adroit qu'il puisse estre.
 Mais tout cela n'est rien, si l'on me fait connoistre.      
 Prens bien garde au secret.  
 
-     LA MONTAGNE.
+     LA MONTAGNE. 
     Il vous est seûr.          
 
     LE MARQUIS.
@@ -1509,7 +1509,7 @@ En resvant…
     LA MONTAGNE.
 La Montre [75] qu'il faudra…Non, je l'ay.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
         Va-t-en, traistre,              
 Tu me perdras⁎.  
 
@@ -1591,7 +1591,7 @@ Et cet unique Agent par qui tout se conduit,         
 Va porter dans un Bois mes ordres chaque nuit.                  
 Peut-on mieux assurer un secret ?              
 
-    VIRGINE.
+    VIRGINE. 
         Je l'avouë,      
 Tant de précaution [76] mérite qu'on vous loue :  
 Mais vous perdez beaucoup à vous cacher ainsy,  
@@ -1697,7 +1697,7 @@ La Comtesse…
 Laissons à son panchant liberté toute entiere.  
 Pour moy…                  
 
-     OLIMPE.
+     OLIMPE. 
         La complaisance⁎ est un peu singuliere ;      
 Un Rival rend des soins, la Comtesse en fait cas…  
 
@@ -1738,7 +1738,7 @@ Ayant de vostre attiré la tendresse⁎,
 Voulussent consentir au chagrin⁎ sans égal          
 Où vous peut exposer l'obstacle d'un Rival.                  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Ce chagrin⁎ n'a sur moy qu'un assez foible empire ;      
 Et sans m'expliquer mieux, je puis icy vous dire          
 Que j'auray veu remplir mes souhaits les plus doux,  
@@ -1763,7 +1763,7 @@ Quoy, vous le soufririez⁎ ?
         Qu'il est bien fait, Melisse !      
 
     MELISSE.
-Oüy, mais au Chevalier il faut rendre justice.              
+Oüy, mais au Chevalier il faut rendre justice.               
 
 
 ### SCENE V.
@@ -1803,7 +1803,7 @@ Me trouvent sans façon preste à les écouter,
 Je vois avec plaisir leur différent génie⁎,              
 Et j'appelle cela, recevoir compagnie.                      
 
-     OLIMPE.
+     OLIMPE. 
 Mais en vous contant, ils vous parlent d'aimer ?          
 
     LA COMTESSE.
@@ -1839,7 +1839,7 @@ L'un veille à mes Procés, l'autre à mes Bastimens.    
     OLIMPE.
 Et comment accorder ce grand nombre d'Amans⁎ ?               
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Si c'est estre Coquette [79], au moins quoy qu'on en croye,      
 C'est l'estre de bon sens, & vivre pour la joye.  
 Chacun cherche à me plaire, & ne promettant rien,  
@@ -1982,7 +1982,7 @@ L'aimable Couple !                
     LA COMTESSE.
         Il n'est rien de si beau.      
 
-    OLIMPE.
+    OLIMPE. 
 De leur petite Mascarade [83]                  
 Le dessein⁎ est assez nouveau.  
 
@@ -2015,7 +2015,7 @@ Et je ne sçache que les Fous,                
 Qui mal guéris de leur blessure,  
 Veüillent renoüer avec vous.      
 
-    L’AMOUR.
+    L’AMOUR. 
 *Et quand on ne rompt point, est-il douceurs pareilles* ?                  
 
     LA JEUNESSE.
@@ -2092,7 +2092,7 @@ Tandis qu'elle reprend haleine,
 Approchez, nostre Conducteur,              
 C'est à vous d'entrer sur la Scene.                      
 
-    *CHANSON ITALIENNE DU* MORE.
+    *CHANSON ITALIENNE DU* MORE. 
 Occhi neri, il cui splendore  
 Hora uccide, hora da vita,  
 Al mio cuore  
@@ -2161,7 +2161,7 @@ Et veux mettre à ses pieds mon Arc & mon Carquois [89].    
 Qu'il est bien fait ! Mais Dieux ! *A l'aimable Comtesse.*  
 Madame, c'est à vous que ce Billet s'adresse.  
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Lisons.                              
 
     OLIMPE.
@@ -2204,7 +2204,7 @@ Il n'est pas mal dans ses affaires.
 L'Amour & la Jeunesse s'en vont avec le More.
 
 
-    OLIMPE.
+    OLIMPE. 
 On les a bien instruits.              
 
     LA COMTESSE.
@@ -2244,7 +2244,7 @@ Et trop pleine du trouble où ce chagrin⁎ me jette,         
 Dans ce Bois frais & sombre où je la viens trouver,  
 Je la cherche à pas lents, & n'aime qu'à resver.  
 
-     MELISSE
+     MELISSE 
 Mais vous n'ignorez pas qu'il aime la Comtesse ?          
 
     OLIMPE.
@@ -2344,7 +2344,7 @@ Qu'entens-je ? L'Inconnu ! Madame l'aimez-vous ?
 Me quittez-vous pour luy ? sera-t-il vostre Epoux ?               
 Vous a-t-il fait parler ?  
 
-     OLIMPE.
+     OLIMPE. 
         Voila de jalousie              
 Comme souvent sans cause on a l'ame saisie.  
 
@@ -2428,7 +2428,7 @@ Peut-estre me nuiront moins que vous ne croyez.    
 La Comtesse l'estime, & son ame incertaine          
 Peut malgré vostre amour…  
 
-    LE MARQUIS.
+    LE MARQUIS. 
         N'en soyez point en peine,  
 Sur elle, sur son je fais ce que je puis.                  
 
@@ -2581,7 +2581,7 @@ Il peut, je le confesse, avoir plus de mérite,            
 A l'ardeur⁎ de ses soins donner un plus grand jour,      
 Mais jamais, quoy qu'il fasse, il n'aura plus d'amour.  
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Je le veux croire ainsy, mais puis-je avec justice                          
 De son attachement vous faire un sacrifice,  
 Avant qu'avec luy-mesme une civilité [94]                  
@@ -2621,7 +2621,7 @@ Et si de mon Rival… Moy, vous le faire voir ?
 Non, qu'il cherche luy-mesme à se faire connoistre,  
 Ce ne sera jamais que trop tost, & peut-estre…      
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Suffit ; j'aime à sçavoir, Marquis, ce que je sçais ;              
 Vous m'osez refuser, & je m'en souviendray.  
 
@@ -2789,7 +2789,7 @@ Et qu'à l'envy⁎ chacun se montre infatigable.
 La Comtesse s'avance avec Olympe & le Chevalier vers les Corbeilles de Fruit ; & tandis que chacun choisit ce qui flate le plus son goust, les Païsans qui ont ordre de divertir la Comtesse, apres avoir fait quelques figures pour marquer leur joye, font un Jeu avec des Bastons, & l'ont à peine finy, que sans sortir du lieu où ils sont, ils paroissent tous en un moment vestus en Arlequins, & réjouissent la Comtesse par mille figures plaisantes.
 
 
-    LA COMTESSE
+    LA COMTESSE 
 On voit avec plaisir de semblables combats          
 Qui ne font craindre pour personne.                       
 
@@ -2824,7 +2824,7 @@ Et je viens d'avoir la douleur
 *Qu'aupres d'elle mes Fruits ont changé de couleur.*      
 Apres un tel affront puis-je estre sans colere ?      
 
-     VERTUMNE
+     VERTUMNE 
 J'aurois la mesme plainte à faire.                  
 J'ay beau, comme Dieu des Jardins,                              
 Chercher à luy fournir toûjours des Fleurs nouvelles :  
@@ -2862,7 +2862,7 @@ Les soucis partagez vous font peur,            
 Rendez-vous au beau feu⁎ qui le presse,  
 Vous verrez qu'ils sont pleins de douceur.  
 
-    *CHANSON DE* VERTUMNE
+    *CHANSON DE* VERTUMNE 
 L'Amour est à suivre,  
 Laissez-vous charmer ;  
 Tout dois s'enflamer⁎ :  
@@ -2902,7 +2902,7 @@ La Divinité s'humanise,
 Le Dieu Comus pourroit m'apprendre à qui je dois               
 Le divertissement⁎ dont il me voit surprise.  
 
-    COMUS
+    COMUS 
 C'est un secret qu'à conserver      
 Ma qualité de Dieu m'engage.                              
 Si de ses soins l'Amour qui veut vous éprouver,  
@@ -2967,7 +2967,7 @@ L'Inconnu, je le sçay, partage vostre estime,        
 On ne peut condamner ce qu'il s'en est acquis,  
 Mais enfin vous devez vostre au Marquis.                  
 
-     LA COMTESSE
+     LA COMTESSE 
 Moy ? je ne luy dois rien.                      
 
     OLIMPE.
@@ -3046,7 +3046,7 @@ Il n'est pas sans mérite, & doit estre écouté,    
 Par luy-mesme, ou du moins par l'ancienneté [112] :  
 De tout mes Protestans [113] c'est le premier.          
 
-     OLIMPE
+     OLIMPE 
         J'avoue              
 Qu'il a des qualitez bien dignes qu'on le louë,  
 L'air noble.      
@@ -3088,7 +3088,7 @@ Hé, Madame pourquoy me parlez-vous ainsy ?
 Le trouble⁎ de vos yeux me fait beaucoup entendre ;  
 Et quand le Chevalier…  
 
-    OLIMPE
+    OLIMPE 
         Vous voulez m'entreprendre,  
 Je quitte [114], & me sentant trop foible contre vous,  
 Je vay chercher ailleurs des Ennemis plus doux.  
@@ -3198,7 +3198,7 @@ Qu'on est fou quand on aime !
     LE CHEVALIER.
         Oüy, blâmez-moi, Madame.  
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Quoy, vous ne sçavez pas ce que c'est qu'une Femme,  
 Et que lors qu'elle veut mettre sa flame⁎ au jour,  
 Ses inégalitez sont des marques d'amour ?                  
@@ -3273,7 +3273,7 @@ Ce que je pense ?
         Que pourrois-je penser ?  
 Il vous baisoit la main.          
 
-    LA COMTESSE
+    LA COMTESSE 
         Il peut recommencer  
 Est-ce là tout ?  
 
@@ -3318,7 +3318,7 @@ J'ay donc tort de me plaindre, & trop osé prétendre.             
     LA COMTESSE.
 Vous me faites pitié.  
 
-    LE MARQUIS
+    LE MARQUIS 
         Je n'y puis rien comprendre.          
 Tantost à vous oüir parler de l'Inconnu,              
 Je croyois que ses soins avoient tout obtenu,          
@@ -3516,7 +3516,7 @@ Point de mort, ny de marriage.                        
 Leur raport ne peut rien que sur les scrupuleux  
 Qui s'en font un fâcheux augure [126].  
 
-    OLIMPE.
+    OLIMPE. 
 Et ces Enfants qu'ils menent avec eux,  
 Disent-ils la Bonne-Avanture ?  
 
@@ -3657,7 +3657,7 @@ Un Billet, avec cette Montre.
     OLIMPE.
 Quel éclat ! ce ne sont par tout que Diamans.              
 
-    LA COMTESSE *lit*
+    LA COMTESSE *lit* 
 Puis que l'excès de ma tendresse⁎  
 Rend mes jours par vous seule ou plus, ou moins charmans,  
 Souffrez⁎ que cette Montre, ô Divine Comtesse,                              
@@ -3687,7 +3687,7 @@ Ils n'ont rien voulu m'accorder.                        
     LA COMTESSE.
 Mais la Montre, je la veux rendre.  
 
-    OLIMPE.
+    OLIMPE. 
 Pour moy, je la voudrois garder,              
 L'Inconnu le mérite, & tout ce qui se passe      
 Montre un cœur à vos loix si bien assujetty…      
@@ -3742,7 +3742,7 @@ Quand à vostre bonheur ma passion s'immole [130],            
 C'est qu'au moins je pourray, malgré mes feux⁎ jalous,  
 Montrer qu'en vous aimant je n'ay cherché que vous.  
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Je ne vous croyois pas l'ame si genéreuse.  
 
     LE MARQUIS.
@@ -3785,7 +3785,7 @@ Je dois chérir sa flame⁎, & dés demain peut-estre,
 Puis que c'est pour vos vœux un spectacle si doux,              
 Vous aurez le plaisir de le voir mon Epoux.  
 
-    LE MARQUIS
+    LE MARQUIS 
 J'auray ce plaisir ?  
 
     LA COMTESSE.
@@ -3985,7 +3985,7 @@ Mais j'ay si bien tourné, que j'y suis parvenu.
     LA COMTESSE.
 A quoy ?      
 
-    LE VICOMTE
+    LE VICOMTE 
         Vostre Inconnu ne m'est plus inconnu.              
 
     LE MARQUIS *bas.*
@@ -4029,7 +4029,7 @@ J'ay crû qu'elle servoit d'Auberge à des Voleurs.
     LE MARQUIS.
 La peur prendroit à moins ; dans un Bois ! une Tente !  
 
-    LE VICOMTE
+    LE VICOMTE 
 Tout-franc, la vision n'est point divertissante.  
 
     LA COMTESSE.
@@ -4106,7 +4106,7 @@ Il est bon quelquefois de voir comme on se fâche.
     LA COMTESSE.
 Et qu'est-il arrivé ?  
 
-    LE VICOMTE
+    LE VICOMTE 
         Je n'ay trouvé qu'un lâche,  
 Qu'un farouche Animal, sans cœur & sans vertu,              
 Qu'un…cela fait pitié.  
@@ -4146,7 +4146,7 @@ J'ay trouvé l'Inconnu.
     OLIMPE.
         Oüy moy, dans ce Bois.  
 
-    LE VICOMTE
+    LE VICOMTE 
 Justement.  
 
     OLIMPE.
@@ -4296,7 +4296,7 @@ Mais ne sçachant à qui…    
         Je suis Comédien,  
 Madame.  
 
-    LE VICOMTE.
+    LE VICOMTE. 
 Ah, Serviteur, ne vous manque-t-il rien  
         Pour nous pouvoir icy donner la Comédie ?  
 
@@ -4345,7 +4345,7 @@ On y pleure, & je hais les Lamentations.
     OLIMPE.
 Vous estes gay.  
 
-    LE VICOMTE.
+    LE VICOMTE. 
         Jamais aucun chagrin⁎ en teste,      
 Je ris toûjours.  
 
@@ -4382,7 +4382,7 @@ Ma mort est resolue. Hé bien, il faut vouloir
 C'en est fait, je me meurs, j'expire,  
 Goustez le plaisir de le voir.  
 
-    AMINTE.
+    AMINTE. 
 De grace, moderez vos plaintes,  
 Je n'ay pas moins d'amour que vous,  
 *Et la mesme douleur dont vous sentez les coups*,                  
@@ -4424,7 +4424,7 @@ Qui s'oppose à des feux⁎ si doux,
 *Nous condamne à perdre la vie*,  
 Mourons en disant, aimons-nous.  
 
-    LA COMTESSE.
+    LA COMTESSE. 
 Il n'est guére de Voix plus douces, ny plus nettes.  
 
     LE VICOMTE.
@@ -4463,7 +4463,7 @@ Voila mon amitié [149].
         La Chanson est jolie.          
 Mais en chantant toûjours, le Théatre s'oublie.                  
 
-    LE COMEDIEN.
+    LE COMEDIEN. 
 J'en auray soin.  
 
     LE VICOMTE.
@@ -4503,7 +4503,7 @@ Vous prendrez un Epoux de ma main.
         Doutez-vous      
 Que je n'en fasse pas mon bonheur le plus doux ?  
 
-    LE MARQUIS
+    LE MARQUIS 
 Je crains quand vous sçaurez…  
 
     OLIMPE.
@@ -4608,7 +4608,7 @@ Nostre Chevalier ?        
         Sa colere est passée,  
 L'Amour par l'espérance est bien-tost adoucy.  
 
-    VIRGINE.
+    VIRGINE. 
 Il a pû voir pourtant qu'Olimpe…  
 
     LE MARQUIS.
@@ -4647,7 +4647,7 @@ Qu'un leger changement pour me mettre en defaut.
     LE MARQUIS.
 Qu'il vienne, c'est à luy de se tirer d'affaire.      
 
-     OLIMPE.
+     OLIMPE. 
 Je ne parleray point, & le laisseray faire ;  
 Mais s'il est bien reçeu, vous empescherez-vous,      
 Quoy que vous m'ayez dit, d'en paroistre jaloux ?  
@@ -4691,7 +4691,7 @@ Sont-ils prests à joüer ?
         Ils repassent leurs Vers ;  
 S'ils n'ont un peu de temps, tout ira de travers.  
 
-    LE VICOMTE.
+    LE VICOMTE. 
 Avant que de les voir, si vous m'en voulez croire,      
 Nous souperons ; je sçay quelques Chansons à boire,               
 Où le Verre à la main, je vaux mon pesant d'or,  
@@ -4738,7 +4738,7 @@ Vous aurez bien choisy ? La Piece…
     LE VICOMTE.
 Qui l'a faite ?  
 
-    LE COMEDIEN
+    LE COMEDIEN 
         Jamais nous ne nommons personne.  
 Nous voulons, si l'Ouvrage a quelque Approbateur,  
 Qu'il l'ait pour son mérite, & non point pour l'Autheur ;  
@@ -5069,7 +5069,7 @@ J'en doute à voir ta toille [171].
         Alors que je t'adore,  
 De cette verité tu peux estre en soucy ?      
 
-    CEPHISE.
+    CEPHISE. 
 De grace, estois-tu ainsy  
 Lors que tu soûpirois pour Flore [172] ?                  
 

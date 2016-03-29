@@ -2,11 +2,11 @@
 identifier: moliere_amphitryon  
 creator: Molière  
 date: 1668  
-title: Amphytrion. Comédie  
+title: Amphitryon. Comédie  
 ---
 
 
-AMPHYTRION
+AMPHITRYON
 
 COMÉDIE
 

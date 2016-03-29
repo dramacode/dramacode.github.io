@@ -2,7 +2,7 @@
 
 **** *book_ *id_dedicace *date_1667 *creator_corneille
 
-A M. B. E. C. S
+A M. B. E. C. S 
 
 Madame,
 
@@ -144,7 +144,7 @@ Qu'elle déclare…
 -*who_angelique
       Adieu.
 
-**** *book_ *id_body-303 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-303 *act_ *date_1667 *creator_corneille 
 
 -*who_philipin
       C'est bien dit. Ah, les sots
@@ -332,7 +332,7 @@ Plus effronté qu'un Page en vain on le retient.
 -*who_lysette
 Tay-toy, ne vois-tu pas que nostre Tante vient ?
 
-**** *book_ *id_body-304 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-304 *act_ *date_1667 *creator_corneille 
 
 -*who_tante
 Que te dit Philipin ?
@@ -403,7 +403,7 @@ Le Défunt vous aimoit, et chacun sçait bien comme…
 Au mal de Jaloux prés je le trouvois bon homme,
 Mais il estoit si vieux…
 
--*who_lysette
+-*who_lysette 
       J'entens, pour reconfort
 Vous en voulez un jeune.
 
@@ -490,7 +490,7 @@ Le vouloir jeune et riche…
       Eh, pour le bien, Lysette,
 Tu sçais que ce n'est pas…
 
--*who_lysette
+-*who_lysette 
       L'affaire vaut donc faite,
 Le Baron d'Albikrac sera vostre vray fait.
 
@@ -617,7 +617,7 @@ Que de raisonnements ! approchez.
 Voila proprement l'air d'une fille modeste,
 Mais Leandre…
 
-**** *book_ *id_body-307 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-307 *act_ *date_1667 *creator_corneille 
 
 -*who_leandre
       Voyez si l'on se plaist chez vous,
@@ -828,7 +828,7 @@ Si j'ay quelque merite⁎, il n'est pas raisonnable
 De prétendre qu'à peine⁎ il s'en trouve un semblable,
 Et quelqu'un que je sçay vaut tout ce que je vaux.
 
--*who_lysette
+-*who_lysette 
 Bon cela.
 
 -*who_leandre
@@ -866,7 +866,7 @@ Et bien, qu'est-ce ?
 -*who_lysette
 C'est peut-estre un galant qu'elle veut emprunter.
 
--*who_tante
+-*who_tante 
 Qu'on la reçoive ailleurs. L'incommode personne !
 Ah !
 
@@ -911,7 +911,7 @@ Et nous n'eussions point veu la fin de la visite.
 Adieu, pour un moment souffrez que je vous quitte,
 Je sçauray m'en défaire, et perdray peu de temps.
 
-**** *book_ *id_body-309 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-309 *act_ *date_1667 *creator_corneille 
 
 -*who_leandre
 Faites icy le sot, pour moy si je l'attens…
@@ -948,7 +948,7 @@ C'est de perdre l'esprit.
       La défaite est naisve.
 Mais nostre Niepce enfin ?
 
--*who_oronte
+-*who_oronte 
       Qu'elle est aimable ! Ah Dieux !
 
 -*who_lysette
@@ -993,7 +993,7 @@ Mais de plus de dix jours il ne sçauroit partir.
 -*who_lysette
 Et Leandre pour rien ne voudra consentir…
 
--*who_leandre
+-*who_leandre 
 Non, mais à mon defaut employez la Montagne,
 Qu'il fasse quelques jours le Baron de Bretagne,
 On ne le connoit point.
@@ -1027,7 +1027,7 @@ Peux-tu le devenir ?
 -*who_la_montagne
       Moy, Baron ? et de reste.
 
--*who_oronte
+-*who_oronte 
 Tu connois Albikrac ?
 
 -*who_la_montagne
@@ -1072,7 +1072,7 @@ As-tu plus de quinze ans ?
 -*who_lysette
       Environ, Dieu mercy.
 
--*who_oronte
+-*who_oronte 
 Sors viste, s'il falloit qu'on te vist avec elle,
 Tu perdrois tout.
 
@@ -1276,7 +1276,7 @@ Non, quoy que vous fassiez, pour vaincre le soucy⁎…
 N'est-ce point déja trop que vous souffrir icy ?
 J'en rougis, et s'il faut que ma Tante soupçonne…
 
--*who_oronte
+-*who_oronte 
 A ce scrupule en vain vostre esprit s'abandonne⁎,
 Lysette y met bon ordre, et seconde mon feu,
 Il s'agit seulement d'obtenir vostre aveu,
@@ -1306,7 +1306,7 @@ Que depuis si long-temps que vous le contraignez
 L'amour est tel en vous que vous me le peignez,
 Je ne me defens plus.
 
-**** *book_ *id_body-403 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1667 *creator_corneille 
 
 -*who_tante
       La peinture est jolie,
@@ -1341,7 +1341,7 @@ Parler d'amour chez moi ! vous estes fort mignonne.
 -*who_angelique
 Ne croyez pas…
 
--*who_tante
+-*who_tante 
       Comptez, je vous la garde bonne,
 Et si…
 
@@ -1384,7 +1384,7 @@ Laissez, par le recit que je veux qu'elle fasse
 J'auray lieu de juger s'il faut lui faire grace.
 Ce doit estre sa peine aprés ce qu'elle a fait.
 
--*who_oronte
+-*who_oronte 
 Vous haïssez la cause, épargnez-vous l'effet.
 
 -*who_angelique
@@ -1453,7 +1453,7 @@ Qu'il m'en peignoit le feu si plein d'ardeur…
 -*who_tante
       Rentrez.
 
-**** *book_ *id_body-404 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-404 *act_ *date_1667 *creator_corneille 
 
 -*who_oronte
 Ma presence vous choque, et je vay…
@@ -1490,7 +1490,7 @@ Mais si vous faites grace à l'ardeur de mon zele,
 Souffrez que quelquefois j'en soûpire avec elle,
 C'est tout ce que je veux pour prix d'un si beau feu.
 
--*who_tante
+-*who_tante 
 Il me paroist trop beau pour obtenir si peu.
 Pour prix de vostre amour, si sa flame est constante,
 Il vaut mieux que j'en sois la seule confidente,
@@ -1527,7 +1527,7 @@ Sur moy-mesme à mon tour prendre assez de pouvoir…
 Je ne dis pas cela pour me faire valoir,
 Au contraire, je veux…
 
-**** *book_ *id_body-405 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-405 *act_ *date_1667 *creator_corneille 
 
 -*who_angelique
       Voicy, qu'on vous apporte
@@ -1564,7 +1564,7 @@ Il peut les vendre ailleurs.
 Qu'il les vende, ce soin vous rend officieuse⁎ ?
 Si…
 
--*who_oronte
+-*who_oronte 
       Le friand⁎ragoust⁎ qu'une vieille amoureuse !
 
 **** *book_ *id_body-406 *act_ *date_1667 *creator_corneille
@@ -1597,7 +1597,7 @@ Aprés, ne craignez rien, nous vivrons bons amis.
 -*who_oronte
 Vous priver de sa veuë, et que rien m'autorise…
 
-**** *book_ *id_body-407 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-407 *act_ *date_1667 *creator_corneille 
 
 -*who_angelique
 Ah, ma Tante, voicy ce beau point de Venise.
@@ -1638,7 +1638,7 @@ L'ouvrage saute aux yeux, il est égal par tout.
 -*who_tante
 Ne finirez-vous point ? que veut encor Lysette ?
 
-**** *book_ *id_body-408 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-408 *act_ *date_1667 *creator_corneille 
 
 -*who_lysette
 Le Baron d'Albikrac…
@@ -1708,7 +1708,7 @@ Ma Tante !
 -*who_tante
 Elle s'est déclarée.
 
--*who_la_montagne
+-*who_la_montagne 
       Ouy, pour me faire piece⁎,
 Comme Provincial vous voulez me sonder,
 Mais ce n'est pas à moy qu'on en baille⁎ à garder.
@@ -1752,7 +1752,7 @@ Mais enfin.
 -*who_angelique
       Est-il fou de s'estre ainsi mépris ?
 
--*who_lysette
+-*who_lysette 
 Le beau jeune Seigneur ! qu'il est bien fait !
 
 -*who_la_montagne
@@ -1941,7 +1941,7 @@ Vous passez vostre temps à ravir⁎ ?
       Justement,
 Oronte en a tâté.
 
--*who_lysette
+-*who_lysette 
       Tres copieusement.
 Jamais on ne souffrit de si longue torture.
 
@@ -1986,7 +1986,7 @@ Vous l'emportez en tout de bien loin sur Oronte,
 Jamais homme à ses yeux ne parut si parfait.
 Vous resvez⁎ ?
 
--*who_leandre
+-*who_leandre 
       Je cherchois quel grand crime j'ay fait,
 Pour se trouver aimé d'une vieille et luy plaire,
 Il faut avoir du moins assassiné son Pere.
@@ -2137,7 +2137,7 @@ Et je la debitois sans doute en écolier.
 -*who_tante
 Mais que luy trouviez-vous de plus particulier ?
 
--*who_oronte
+-*who_oronte 
 Qu'elle court grand hazard d'estre Religieuse,
 Je voy de certains traits…
 
@@ -2183,7 +2183,7 @@ Il ne s'en peut saouler.
 -*who_leandre
       Il est encor là-haut ?
 
--*who_tante
+-*who_tante 
 Je vay l'y retrouver.
 
 -*who_leandre
@@ -2226,7 +2226,7 @@ Aller seule avec luy !
       Lysette vous suivra,
 Vous estes scrupuleuse.
 
--*who_oronte
+-*who_oronte 
       Ah detestable Tante !
 
 **** *book_ *id_body-504 *act_ *date_1667 *creator_corneille
@@ -2411,7 +2411,7 @@ Courage, rira bien qui rira le dernier.
 En desesperez vous ?
       Si tu sçavois, Lysette…
 
--*who_la_montagne
+-*who_la_montagne 
 J'ay toûjours bon espoir, et connoy ma Planete,
 Sans rien dire pourtant je voy ce que je voy,
 Mais patience.
@@ -2454,7 +2454,7 @@ Je n'en puis plus.
 -*who_tante
       Il faut moderer vostre flame.
 
--*who_la_montagne
+-*who_la_montagne 
 Sans cesse auprés de vous le cœur me fait tic tac.
 Tâtez.
 
@@ -2539,7 +2539,7 @@ Vous estes bien secret.
 -*who_leandre
 J'écoute le reproche et n'en sçay point la cause.
 
--*who_tante
+-*who_tante 
 Eh, j'en avois déja soupçonné quelque chose,
 Mais mon Sexe⁎…
 
@@ -2584,7 +2584,7 @@ Mourir plûtost cent fois d'un desespoir jaloux…
 Madame, Dieu me damne, il se moque de vous,
 Je n'y pensay jamais.
 
--*who_tante
+-*who_tante 
       Vous le voulez bien dire,
 Mais…
 
@@ -2672,7 +2672,7 @@ Je ne m'étonne plus s'il a joüé d'adresse.
 -*who_tante
 Seroit-il marié ?
 
--*who_leandre
+-*who_leandre 
       Non pas, mais…
 
 -*who_tante
@@ -2718,7 +2718,7 @@ La comtesse d'Uspek qu'à son tour il charma.
 De leurs amours secrets ce fruit serra la chaîne,
 Mais au moins songez bien…
 
--*who_tante
+-*who_tante 
       N'en soyez point en peine,
 Allons les retrouver, mais si vous m'aimiez ?
 
@@ -2787,7 +2787,7 @@ Mais la voicy.
 Quand je fausse pour vous compagnie à tout autre,
 Du jardin tout exprés j'ay sçeu me dérober.
 
--*who_oronte
+-*who_oronte 
 Aussi Lysette sçait…
 
 -*who_tante
@@ -2832,7 +2832,7 @@ N'estant instruit de rien je ne sçay que répondre.
 -*who_tante
 Et bien, sçay-je la carte, et ce qu'on fait à Londre ?
 
--*who_oronte
+-*who_oronte 
 Madame…
 
 -*who_tante
@@ -2876,7 +2876,7 @@ Pour vous cacher mon sort, j'avois feint que Leandre…
 Je le sçay, mais d'aimer doit-on pas se défendre
 Quand on voit que le sang nous en fait une loy ?
 
--*who_oronte
+-*who_oronte 
 Helas ! combien de fois aime-t'on malgré soy ?
 Quand je m'en apperceus, si vous sçaviez, Madame,
 Les efforts que je fis pour éteindre ma flame,
@@ -2908,7 +2908,7 @@ Vous nous épiez donc ?
 -*who_lysette
 Quand on a des Neveux on peut les embrasser.
 
--*who_angelique
+-*who_angelique 
 Oronte est le Neveu de ma Tante ?
 
 -*who_lysette
@@ -2956,7 +2956,7 @@ Le Cousinage n'est…
 -*who_angelique
       Leandre m'a tout dit.
 
-**** *book_ *id_body-604 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-604 *act_ *date_1667 *creator_corneille 
 
 -*who_tante
 Sans mentir, vous joüez à luy gaster l'esprit,
@@ -3039,7 +3039,7 @@ Lysette.
       M'en voilà pour vous toute alarmée,
 Vous l'échaperez belle en parant celuy-cy.
 
--*who_tante
+-*who_tante 
 Donc pour la parenté n'ayez aucun soucy,
 Lysette ira ce soir nous chercher un Notaire,
 Et demain en secret… mais quoy c'est vous déplaire,
@@ -3078,7 +3078,7 @@ Mais…
 -*who_oronte
       Contre un temeraire armez vostre couroux.
 
-**** *book_ *id_body-605 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-605 *act_ *date_1667 *creator_corneille 
 
 -*who_philipin
 Monsieur, vostre Advocat vient d'envoyer chez vous,
@@ -3111,7 +3111,7 @@ Combien m'a-t'il oüy tant de nuict que de jour
 Me plaindre en vous nommant et soûpirer d'amour ?
 Il a voulu cent fois en avertir Lysette.
 
--*who_philipin
+-*who_philipin 
 Vostre nom prononcé, nostre nuict estoit faite.
 Mille doux souvenirs pour le mieux embraser
 Luy peignoient…
@@ -3160,7 +3160,7 @@ Mais je vous prie aussi, plus aucune visite.
 -*who_oronte
 Ah Dieux !
 
--*who_tante
+-*who_tante 
       Jamais de vous je n'en veux recevoir.
 
 -*who_oronte
@@ -3194,7 +3194,7 @@ J'en chercheray la voye, et sorts pour y resver⁎.
 -*who_philipin
 La fourbe est commencée, il la faut achever.
 
-**** *book_ *id_body-606 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-606 *act_ *date_1667 *creator_corneille 
 
 -*who_tante
 A-t'on rien veu d'égal au procédé d'Oronte ?
@@ -3353,7 +3353,7 @@ Jamais on n'a tenu contre les Albikracs.
 -*who_tante
 Je le croy.
 
--*who_la_montagne
+-*who_la_montagne 
       Pas trop fou qui suit mes Almanachs.
 
 -*who_tante
@@ -3399,7 +3399,7 @@ Vous l'eussiez veu…
 Que vous fistes dresser sa Figure en tableau ?
 Si jamais il est pris vous luy ferez grand chere.
 
--*who_philipin
+-*who_philipin 
 Pour peu qu'il parle encor adieu tout le mystere.
 
 -*who_la_montagne
@@ -3483,7 +3483,7 @@ De ma sœur qu'elle estoit la faire de nos sœurs,
 Et quand il en est saoul luy tourner le derriere !
 Ah, vous serez pendu, Monsieur de la Rapiere.
 
--*who_tante
+-*who_tante 
 Je sçay qu'il est coupable, et je l'ay dit d'abord⁎,
 Mais il est des moments où l'amour est bien fort,
 Et pour un peu d'empire⁎ usurpé sur son ame
@@ -3570,7 +3570,7 @@ Que je n'ay plus…
 -*who_la_montagne
       Tant mieux vous en serez plus sage.
 
--*who_tante
+-*who_tante 
 On m'a parlé de vous, je ne le puis nier,
 Mais si-tost que je songe à me remarier,
 Les soins⁎ que le Defunt prit toûjours de me plaire,
@@ -3616,7 +3616,7 @@ Vingt mille escus pour elle ont entré dans la masse.
 -*who_la_montagne
 Mille Barons et plus sont sortis de ma race.
 
--*who_tante
+-*who_tante 
 Mon bien en l'épousant vous est seur quelque jour.
 
 -*who_la_montagne
@@ -3658,7 +3658,7 @@ L'affront pour un Baron est un outrage indeu,
 Mais la Rapiere aussi, net, il sera pendu.
 Adieu, Tante.
 
-**** *book_ *id_body-608 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-608 *act_ *date_1667 *creator_corneille 
 
 -*who_lysette
       Il s'en va bien outré.
@@ -3746,7 +3746,7 @@ Pourveu qu'il trouve l'un il la quite de l'autre.
 Que j'aye aussi mon compte en vous donnant le vôtre,
 J'aime Lysette.
 
--*who_angelique
+-*who_angelique 
       Va, nous songerons à toy.
 
 -*who_philipin
@@ -3821,7 +3821,7 @@ Combien de fois déja…
 -*who_oronte
       Daignez le repeter.
 
--*who_angelique
+-*who_angelique 
 Adieu, j'en dirois trop si j'osois écouter.
 
 **** *book_ *id_body-703 *act_ *date_1667 *creator_corneille
@@ -3888,7 +3888,7 @@ La Tante vient.
 Tâchez d'en avoir l'ame un peu moins abatuë.
 Si l'on trompe vos feux c'est pour vous secourir.
 
--*who_oronte
+-*who_oronte 
 Ah, qu'il vaudroit bien mieux qu'on me laissast périr !
 Tu dis que cet Hymen luy tient lieu de supplice,
 Qu'elle fait en tremblant ce triste sacrifice,
@@ -4091,7 +4091,7 @@ La Rapiere… autant vaut.
 -*who_tante
       Mon cher Monsieur.
 
--*who_oronte
+-*who_oronte 
       Madame.
 
 -*who_la_montagne
@@ -4134,7 +4134,7 @@ Epousez-là de grace, et me laissez Oronte.
 Epargnez-luy l'ennuy⁎ de me voir dans vos bras,
 Il m'aime tant.
 
--*who_la_montagne
+-*who_la_montagne 
       Et moy, ne vous aimay-je pas ?
 
 -*who_tante
@@ -4180,7 +4180,7 @@ Sans rancune et sans fiel, volontiers, va, Mignonne,
 Je seray ton Magot, tu seras ma Guenonne,
 Nous choisirons ainsi cent jolis petits noms.
 
-**** *book_ *id_body-706 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-706 *act_ *date_1667 *creator_corneille 
 
 -*who_la_montagne
 La Belle, il faut vouloir ce que nous ordonnons,
@@ -4211,7 +4211,7 @@ La chate a le goust bon, et ne prend pas le pire.
 -*who_angelique
 Ne m'avez-vous pas dit que vous vouliez…
 
--*who_la_montagne
+-*who_la_montagne 
       Toux doux,
 Un Baron tel que moy n'est pas viande pour vous.
 Un mets si delicat n'est que pour une Tante.
@@ -4258,7 +4258,7 @@ Finissons en deux mots, veut-on ? ne veut-on pas ?
 Mais en quoy mon Hymen importe-t'il au vostre
 Pour vouloir que…
 
--*who_la_montagne
+-*who_la_montagne 
       C'est là me prendre pour un autre,
 Il me faut faire un tour en Bretagne, et tandis
 Vous auriez tout loisir de vous estre ébaudis.
@@ -4341,7 +4341,7 @@ Pour nous voir marier quinze ou trente Barons.
 Si la Noblesse a droit de chatoüiller vostre ame,
 Je vous en garantis satisfaite.
 
-**** *book_ *id_body-707 *act_ *date_1667 *creator_corneille
+**** *book_ *id_body-707 *act_ *date_1667 *creator_corneille 
 
 -*who_cascaret
       Madame,

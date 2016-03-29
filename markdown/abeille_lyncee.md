@@ -762,7 +762,7 @@ v. 1261 «  » : , // v. 1262 « , » : . // v. 1264 « . » : . // 
  – LYCASTEGouverneur d'Iphis.
  – DIRCÉE [48] Confidente d'Erigone.
 La Scène est à Nauplie [49] ville maritime du Peloponese dans une salle du Palais Royal.
-
+ 
 
 
 ## Acte I.
@@ -804,8 +804,8 @@ Vous me dites encore que j'ayme, que j'espere .
 Ouy ; de Lyncée Iphis ne soyez point Jaloux,  
 D'Hypermestre Jamais il ne sera l'Epoux.  
 
-    IPHIS. 
-            
+    IPHIS.
+             
 Dites , dites aussy , pour endormir ma hayne,  
 Qu' Hipermestre consent à soulager ma peine.  
 Que pour elle Lyncée est un objet d'horreur,  
@@ -933,7 +933,7 @@ Moy du sang de son Pere arrosant ses genoux  ?
 Ah serons nous apres cette action cruelle,  
 Elle digne de moy, moy mesme digne d'elle ?  
 
-    ERIGONE.
+    ERIGONE. 
 Non mon fils, je veux bien épargner sa vertu,      
 D'une si vaine peur ne sois pas combatu .  
 Mais ne t'empresse point d'en sçavoir davantage ;  
@@ -1058,7 +1058,7 @@ Il est triste, ses yeux accablez⁎ de langueur...
 
     ERIGONE
 Laisse moy penetrer le trouble de son coeur,  
-Dircé retire toy.  
+Dircé retire toy.   
 
 
 ### Scène III.
@@ -1175,7 +1175,7 @@ Et je puis à mon choix le perdre ou le sauver .
 Ombres autour de moy sans cesse gemissantes,  
 Tristes parens prenez ces victimes sanglantes,  
 Mais si l'amour encore est connu parmy vous,  
-Souffrez [66] qu'il en derobe une seule à mes coups.  < Fin du Premier Acte. >
+Souffrez [66] qu'il en derobe une seule à mes coups.  < Fin du Premier Acte. > 
 
 
 ## Acte II.
@@ -1296,7 +1296,7 @@ Et le Ciel adoucy va rendre des ce jour,    
 Nos plaisirs eternels ainsy que nostre amour.  
 
     HIPERMESTRE.
-Prince voicy le Roy.  
+Prince voicy le Roy.   
 
 
 ### Scène II.
@@ -1382,7 +1382,7 @@ Que sans crainte à vos yeux la mienne se deploye,
 Vostre coeur malgré vous se trahit devant moy,  
 Et des soupirs contraints…  
 
-    DANAUS.
+    DANAUS. 
         Aussy n'est ce qu'à toy,  
 Qu'un Roy persecuté, qu'un Pere miserable,  
 Ose ouvrir le secret du tourment qui l'accable⁎ :  
@@ -1430,7 +1430,7 @@ Tandis que loin de moy... vous verrez l'imposture
 Allons Seigneur, voyons Erigone et son fils,  
 Qu'ils parlent c'est assez.  
 
-    DANAUS.
+    DANAUS. 
         N'accusez point Iphis.  
 Accusez s'il le faut un oracle celeste,  
 Qui m'explique en ces mots leur pratique funeste,  
@@ -1587,7 +1587,7 @@ N'a t - il point d'autre main pour luy percer le cœur ?
 Ah faudra t'il toujours redouter la colere,  
 Du Pere pour l'époux , de l'époux pour le Pere ?  
 Juste Ciel qui semblez encourager mes voeux,  
-Montrez moy les moyens de les sauver tous deux.  < Fin du Second Acte. >
+Montrez moy les moyens de les sauver tous deux.  < Fin du Second Acte. > 
 
 
 ## Acte III.
@@ -1627,7 +1627,7 @@ Dy luy de quels perils sa teste est menacée ;
 Le reste languiroit sur ta langue glacée :  
 Pour peindre des amans les douloureux combats,  
 Il faut un coeur bien tendre et le tien ne l'est pas .  
-Eh quoy ! toûjours Iphis !  
+Eh quoy ! toûjours Iphis !   
 
 
 ### Scène II.
@@ -1667,7 +1667,7 @@ Dites moy le secret.
         Je ne le puis Iphis .  
 Mais que vostre recit m'epargne de soucis ;  
 Vous estes trop heureux c'est assez vous en dire,  
-Et jusques à demain ce mot vous doit suffire.  
+Et jusques à demain ce mot vous doit suffire.   
 
 
 ### Scène III.
@@ -1740,7 +1740,7 @@ C'est alors qu'unissant mes sentimens aux siens,
 Je me feray raison du sang de tous les miens,  
 Que Danaus objet d'une commune hayne,  
 Nous verra…Vien Dircé vien me tirer de ma peine,  
-Qu'a t'il dit ?  
+Qu'a t'il dit ?   
 
 
 ### Scène V.
@@ -1783,7 +1783,7 @@ Madame, et de vos mains j'obtiendray ma Princesse,
 Vous voyez que l'amour a bien conduit mes pas,  
 Je vis encor, je viens, entrons, ne tardons pas.  
 
-    ERIGONE.
+    ERIGONE. 
 Lyncée , où courez vous ?  
 
     LYNCEE.
@@ -1947,7 +1947,7 @@ Puisque d'un tel forfait vous me croyez capable,
 Et que plus empressée à vous sauver le jour,  
 Une autre a prevenu⁎ les soins⁎ de mon amour.  
 
-    LYNCEE.
+    LYNCEE. 
 Eh Madame cessez de differer ma peine [91],  
 Sauvez moy par ma mort de l'amour de la Reyne,  
 Elle m'ayme: j'ay pu l'ecouter un moment,  
@@ -1987,7 +1987,7 @@ N'auray je à vos bourreaux arraché leur victime,
 Pour conserver vos jours abandonné des miens,  
 Que pour oster la vie à ceux dont je la tiens ?  
 
-    LYNCEE.
+    LYNCEE. 
 Non vous ne serez point funeste à vostre Pere .  
 Dissipez vos frayeurs ma promesse est sincere :  
 Je ne voy plus en luy l'ennemi qui me perd,  
@@ -2326,7 +2326,7 @@ S'apreste⁎ à vous porter un poignard dans le sein.
     DANAUS.
 Que me dit elle , Iphis ?  
 
-    HIPERMESTRE.
+    HIPERMESTRE. 
         Que la fiere⁎ Erigone    
 Par des meurtres sans fin veut remonter au trône,  
 Qu'immolant vos neveux par les mains de mes soeurs,  
@@ -2368,7 +2368,7 @@ Vostre bonté pour nous peut elle chanceler ?
 Doutez vous quel dessein la fait ainsy parler ?  
 Croyez vous…  
 
-    DANAUS.
+    DANAUS. 
         Je ne crois ny n'accuse personne .  
 Iphis laissez moy seul... Je veux voir Erigone :  
 Vous sçavez , si mon coeur vous fut jamais connu,  
@@ -2528,7 +2528,7 @@ Hipermestre, Hipermestre est tout ce qu'ils demandent,
 Ils sont prests , disent ils , s'ils peuvent l'obtenir,  
 D'abandonner nos bords pour n'y plus revenir.  
 
-    DANAUS.
+    DANAUS. 
 Vain pretexte! et mes gens ont quitté le Rivage,  
 Ils ont cedé. Destins , achevez vos ouvrages,  
 Et puisque vainement je m'oppose à vos coups,  
@@ -2611,7 +2611,7 @@ Qu'est ce qui te retient ?
     IPHIS.
     Madame...  
 
-    ERIGONE.
+    ERIGONE. 
         Que veux tu ?  
 Esclave scrupuleux d'une fausse vertu,  
 Indigne protecteur d'un tyran qui m'oprime,  
@@ -2643,7 +2643,7 @@ Cet amour dont vous mesme entreteniez l'ardeur,
 Mais apres avoir fait ce que j'auray dû faire  
 Pour vanger mes parens, pour sauver une mere,  
 Infortuné vangeur, amant desesperé,  
-Triste vertu c'est vous que je sacrifieray.  
+Triste vertu c'est vous que je sacrifieray.   
 
 
 ### Scène II.
@@ -2769,7 +2769,7 @@ Allons attendre ailleurs le succes que j'espere ;    
 Tout aigrit en ces lieux nostre commun soucy,  
 Nous serons dans Argos plus tranquiles qu'icy.  
 
-    HIPERMESTRE.
+    HIPERMESTRE. 
 Ah ! mon Pere mourroit de ce depart funeste,  
 Il croit que vostre coeur est le seul qui luy reste,  
 Ne l'abandonnez pas. Son plus ferme secours,  
@@ -2891,7 +2891,7 @@ Rendez moy donc la mort que vous m'avez ravie,
 Achevez, prononcez l'arrest de mon trepas,  
 Mais en le prononçant ne me haissez pas [112].  
 
-    HIPERMESTRE.
+    HIPERMESTRE. 
 Vous hair je ne puis, vous aymer je ne l'ose,  
 Vous voyez mes soupirs, vous en estes la cause .  
 Il suffit . Laissez moy dans ce malheureux jour,  

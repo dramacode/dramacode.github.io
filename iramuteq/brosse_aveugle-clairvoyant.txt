@@ -754,7 +754,7 @@ Comment il faut mener mes intrigues secrets,
 Je t'instruiray du temps où ta naïve⁎ adresse⁎
 Pourra si tu le veux répondre à ta promesse.
 
-**** *book_ *id_body-403 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-403 *act_ *date_1650 *creator_brosse 
 
 -*who_lidamas
 Laissons l'aller, Madame, & nous entretenons
@@ -959,7 +959,7 @@ De venir avec moy, parce qu'il vous importe.
 Suivez-le, Lidamas, quelquefois ses pareils
 A de plus sages qu'eux donnent de bons conseils.
 
-**** *book_ *id_body-405 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-405 *act_ *date_1650 *creator_brosse 
 
 -*who_nerine
 Maintenant que je puis m'exprimer sans contrainte,
@@ -1021,7 +1021,7 @@ Laisse-moy chercher seule un remede à mes maux,
 Souffre que sans secours je combatte ma peine.
 Cependant attends-moy dans la chambre prochaine⁎.
 
-**** *book_ *id_body-502 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-502 *act_ *date_1650 *creator_brosse 
 
 -*who_melice
 L'Esprit envelopé d'un nuage d'ennuis⁎
@@ -1198,7 +1198,7 @@ J'espere d'en former quelque bon caractere⁎
 Qui maintiendra l'honneur de la fille & du pere.
 Dictez.
 
--*who_cleanthe
+-*who_cleanthe 
       Monsieur, sçachez que ma fille veut bien
 Qu'un celebre⁎ hymenée⁎ à vostre fils l'unisse,
 Qu'il vienne promptement, & n'apprehende rien,
@@ -1289,7 +1289,7 @@ Allons la retrouver dans la chambre prochaine⁎,
 Et d'un pas aussi prompt que mon commandement,
 Envoyons-la porter ce mot à mon Amant.
 
-**** *book_ *id_body-504 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-504 *act_ *date_1650 *creator_brosse 
 
 -*who_sylvestre
 Et puis fiez-vous-y, parbieu ce sexe est drôle,
@@ -1305,7 +1305,7 @@ S'il ne vient pas, il faut que le Diable le tienne,
 Mais il ne le tient pas, je l'apperçoy qui vient,
 Comportons-nous tous deux, ainsi qu'il appartient.
 
-**** *book_ *id_body-505 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-505 *act_ *date_1650 *creator_brosse 
 
 -*who_cleanthe
 Préparons le présent que j'ay promis de faire
@@ -1391,7 +1391,7 @@ Enfin j'ay pris sa montre, & supposé⁎ la mienne,
 Allons trouver Olimpe, & faisons aujourd'huy
 Un commerce⁎ amoureux des richesses d'autruy.
 
-**** *book_ *id_body-506 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-506 *act_ *date_1650 *creator_brosse 
 
 -*who_sylvestre
 Monsieur il est sorty, la feinte est superfluë,
@@ -1616,7 +1616,7 @@ Telle qu'il me l'a dite elle est dans ma memoire,
 Mais j'apperçoy quelqu'un qui pourroit écouter,
 Venez ailleurs qu'icy l'entendre raconter.
 
-**** *book_ *id_body-604 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-604 *act_ *date_1650 *creator_brosse 
 
 -*who_lucille
 Je ne vay qu'en tremblant retrouver ma maitresse,
@@ -1752,7 +1752,7 @@ Vous avez des tresors qui surpassent les miens.
 La voici cette fille, indigne de ma grace
 Rejettons ce papier, & luy cedons la place.
 
-**** *book_ *id_body-606 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-606 *act_ *date_1650 *creator_brosse 
 
 -*who_lucille
 Madame la voici, ne vous tourmentez plus,
@@ -1790,7 +1790,7 @@ Il peut encor sans bruit venir voir sa maitresse⁎,
 Comme je l'ay preveu l'affaire a reüssi,
 Mes yeux se sont trompez, ou c'est lui que voici.
 
-**** *book_ *id_body-607 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-607 *act_ *date_1650 *creator_brosse 
 
 -*who_thelame
 Non jamais vostre main n'écrivit cette lettre,
@@ -1829,7 +1829,7 @@ On manque de parolle au poinct de perdre l'Ame
 Recevez un soupir au defaut de la voix.
 Mais qui conduit icy, ce valet que je vois.
 
-**** *book_ *id_body-608 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-608 *act_ *date_1650 *creator_brosse 
 
 -*who_sylvestre
 Madame concluez de ce que je vay dire
@@ -2008,7 +2008,7 @@ Et quelle autre a jamais receu de mes presents ?
 Respond, il te sied mal de craindre & de te taire
 Ta crainte & ton silence augmentent ma colere.
 
-**** *book_ *id_body-702 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-702 *act_ *date_1650 *creator_brosse 
 
 -*who_sylvestre
 Monsieur promettez moy que vos mains en courroux,
@@ -2161,7 +2161,7 @@ Plustost que de jeusner, j'iray la teste nuë,
 Estocader du bras les passans dans la ruë , 
 Mon Maistre me deusse-t -il… il vient à petits pas.
 
-**** *book_ *id_body-704 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-704 *act_ *date_1650 *creator_brosse 
 
 -*who_cleanthe
 N'ay-je pas entendu la voix de Lidamas.
@@ -2387,7 +2387,7 @@ Juste Ciel à mes yeux permets-tu qu'il se montre,
 Il s'avance, le lasche, & marque son mespris
 En mal traitant celuy par qui j'ay tout appris.
 
-**** *book_ *id_body-707 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-707 *act_ *date_1650 *creator_brosse 
 
 -*who_lidamas
 Fay bien l'espouventé.
@@ -2526,7 +2526,7 @@ Apprenez-moy de qui vous avez sçeu ma feinte ?
 -*who_sylvestre
 Ils me vont declarer, je tremble de frayeur.
 
-**** *book_ *id_body-708 *act_ *date_1650 *creator_brosse
+**** *book_ *id_body-708 *act_ *date_1650 *creator_brosse 
 
 -*who_melice
 Le fils de Parménon est arrivé, Monsieur,

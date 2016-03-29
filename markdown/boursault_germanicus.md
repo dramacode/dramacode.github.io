@@ -438,7 +438,7 @@ Cette Tragedie mit mal ensemble les deux premiers Hommes de nôtre Temps pour la
  – ALBIN,Confident de Germanicus.
  – FLAVIAN,Confident de Pison.
 La Scene est à Rome, aux Jardins de Lucule.
-
+ 
 
 
 # ACTE PREMIER.
@@ -567,7 +567,7 @@ Ce bien semble usurpé s'il ne vient de vous-même ;
 Et parmy les Amans il n'est rien si cruel  
 Que d'avoir de l'amour qui n'est pas mutuel.  
 
-    AGRIPINE.
+    AGRIPINE. 
 Ah Seigneur !  
 
     DRUSUS.
@@ -703,7 +703,7 @@ Un respect si profond...
 
     AGRIPINE.
 De peur de le contraindre éloigne toy d'icy.  
-Quand je l'auray quitté je t'iray tout apprendre.  
+Quand je l'auray quitté je t'iray tout apprendre.   
 
 
 ## SCENE IV.
@@ -891,7 +891,7 @@ Si vous n'en donniez point, en aurois-je pû prendre ?
 Et qui des deux, enfin, fait un crime plus grand,  
 Ou de l'oeil qui le donne, ou du coeur qui le prend ? [84]  
 
-    AGRIPINE.
+    AGRIPINE. 
 Ah ! Pison, si mes yeux ont osé vous seduire⁎,  
 Puisque je l'ignorois deviez-vous m'en instruire ?  
 Et ne sçaviez-vous pas qu'en trahissant leur sort,  
@@ -963,7 +963,7 @@ Adieu, Madame.
     AGRIPINE.
         Ah ciel ! est-ce ainsi qu'on me laisse ?  
 
-    PISON.
+    PISON. 
 Pour vostre interest propre épargnez ma foiblesse,  
 Madame. Jusqu'icy je n'ay rien mis au jour  
 Qui soit honteux pour vous, excepté mon amour :  
@@ -1006,7 +1006,7 @@ Je vous l'ordonne.
     Helas ! Adieu, Madame.  
 
     AGRIPINE.
-        Adieu [94].  < Fin du premier Acte. >
+        Adieu [94].  < Fin du premier Acte. > 
 
 
 # ACTE II.
@@ -1142,7 +1142,7 @@ Toy, qui m'est si fidele, accompagne ses pas :
 Ameine icy ce Prince ; & de peur qu'on le voye,  
 Prens la plus sombre route, & la plus seure voye.  
 Un Guerrier si fameux, dans un lieu si suspect,  
-Allarmeroit⁎ Tibere, à qui je dois respect.  
+Allarmeroit⁎ Tibere, à qui je dois respect.   
 
 
 ## SCENE II.
@@ -1204,7 +1204,7 @@ Je ne vous diray plus, que l'amour qui m'enchaisne⁎,
 Me fait voir un supplice à l'hymen⁎ qui vous gesne :  
 Je ne vous diray plus qu'épris de vos appas⁎...  
 
-    AGRIPINE.
+    AGRIPINE. 
 Vous ne le direz plus ! ne le dites-vous pas ?  
 
     PISON.
@@ -1277,7 +1277,7 @@ Et si vous le perdez sans verser quelques larmes [118] ?
     AGRIPINE.
 Qu'avez-vous dit ?  
 
-    PISON.
+    PISON. 
         J'ay dit qu'il vous eût esté doux  
 De n'aimer que luy seul, comme il n'aime que vous :  
 Que son rare⁎ merite⁎ est gravé dans vostre Ame ;  
@@ -1307,7 +1307,7 @@ Ayez soin de ma gloire, & ne le souffrez⁎ pas.
 Je promets, puisqu'en vain vous m'aimez l'un & l'autre,  
 De traiter son Amour comme j'ay fait le vostre :  
 Et m'aimant, sans espoir, il vous doit estre doux  
-Qu'un Heros, comme luy, soit traité comme vous.         610  
+Qu'un Heros, comme luy, soit traité comme vous.         610   
 
 
 ## SCENE IV.
@@ -1339,7 +1339,7 @@ Et trouvois moins de gloire à les priver du jour⁎
 Immolez⁎ à l'Etat, qu'immolez⁎ à l'Amour.  
 Je vous aime, & vous vois, mon bonheur est extréme...  
 
-    AGRIPINE.
+    AGRIPINE. 
 Adieu, Prince.  
 
     GERMANICUS.
@@ -1458,7 +1458,7 @@ Je vous l'ay déja dit, que puis-je, enfin ?
     GERMANICUS.
         M'aimer.  
 
-    AGRIPINE.
+    AGRIPINE. 
 Vous aimer ! Ah, Seigneur, qu'osez-vous me prescrire⁎ ?  
 Songez-y : des malheurs vous souhaitez le pire.  
 Vous garder ma tendresse, & l'oser mettre au jour,  
@@ -1530,7 +1530,7 @@ Pour mettre en seureté vos sublimes vertus,
 Desormais, par respect, je ne vous verray plus.  
 à Pison.
 
-Remenez-moy.  
+Remenez-moy.   
 
 
 ## SCENE V.
@@ -1571,7 +1571,7 @@ Cependant tout mon crime est de l'avoir souffert.
 Comme au meilleur Amy que j'ay eu de ma vie,  
 C'est mon honneur, Pison, qu'icy je vous confie :  
 Et si j'ose avec vous m'expliquer à mon tour,  
-Vous n'étes pas le seul que maltraite l'Amour.  < Fin du second Acte. >
+Vous n'étes pas le seul que maltraite l'Amour.  < Fin du second Acte. > 
 
 
 # ACTE III.
@@ -1709,7 +1709,7 @@ Un amour si confiant pour un Amant rebelle,
 Vous préte un digne exemple à demeurer fidele :  
 Tout parle en sa faveur ; mais enfin...  
 
-    DRUSUS.
+    DRUSUS. 
         Ah ! Pison,  
 Elle vient ; vos conseils ne sont plus de saison [142].  
 Laissez-nous seuls.  
@@ -2089,7 +2089,7 @@ Il est de mon devoir de fuïr Germanicus.
 Pour sauver ma vertu dans ce desordre extrême,  
 Je fais ce que je puis, je m'immole⁎ moy-même :  
 Je me perds. Mais, Flavie, un coeur comme le mien,  
-Quand la gloire a parlé, ne consulte⁎ plus rien.  < Fin du troisième Acte. >
+Quand la gloire a parlé, ne consulte⁎ plus rien.  < Fin du troisième Acte. > 
 
 
 # ACTE IV.
@@ -2153,7 +2153,7 @@ Le bruit⁎ de ses exploits est suspect à Tibere :
 Et pour le Consulat il me fait designer,  
 Si je veux cette nuit l'aller assassiner.  
 
-    AGRIPINE.
+    AGRIPINE. 
 L'assassiner, Pison !  
 
     PISON.
@@ -2290,7 +2290,7 @@ M'ôte jusqu'au plaisir de me rendre croyable ;
 Et d'infidelité vous m'allez soupçonner,  
 Quand je vous auray dit qu'il faut m'abandonner,  
 
-    GERMANICUS.
+    GERMANICUS. 
 Moy, Madame ?  
 
     AGRIPINE.
@@ -2501,7 +2501,7 @@ Ne peut s'accoûtumer à voir couler vos larmes :
 Je ne partiray point si vous en soupirez ;  
 Promettez-moy...  
 
-    AGRIPINE.
+    AGRIPINE. 
         Seigneur, vous me desesperez.  
 Dans l'état déplorable où mon ame est réduite,  
 Je crains vostre presence, & je crains vostre fuite.  
@@ -2514,7 +2514,7 @@ Je vous rends vostre coeur, & vous laisse le mien :
 Je ne puis vous l'ôter, quelque effort que je fasse.  
 Venez, qu'en vous quittant, Prince, je vous embrasse ;  
 Et que dans ce moment tous mes sens interdits⁎...  
-Partez, je ne sçay plus, Seigneur, ce que je dis.  < Fin du quatriéme Acte. >
+Partez, je ne sçay plus, Seigneur, ce que je dis.  < Fin du quatriéme Acte. > 
 
 
 # ACTE V.
@@ -2723,7 +2723,7 @@ Flavie, as-tu compris la grandeur de ma peine ?
 
     FLAVIE.
 Albin de vostre sort va vous rendre certaine,  
-Il vient.  
+Il vient.   
 
 
 ## SCENE III.
@@ -2761,7 +2761,7 @@ Germanicus respire, & Pison ne vit plus.
     AGRIPINE.
 Et Pison ne vit plus !  
 
-    ALBIN.
+    ALBIN. 
     Non, Madame.  
 
     AGRIPINE.

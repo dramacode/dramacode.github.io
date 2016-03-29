@@ -1,0 +1,4465 @@
+---
+identifier: scudery_orante  
+creator: Scudéry, Georges de  
+date: 1635  
+title: Orante. Tragi-comédie  
+---
+
+
+Orante
+
+Tragi-comédie
+
+Par MONSIEUR DE SCUDERY
+
+A PARIS, Chez AUGUSTIN COURBE, imprimeur & Libraire de Monsieur frere du Roy, dans la Petite salle du Palais, à la Palme. M.DC.XXXVI AVEC PRIVILEGE DU ROY.
+Édition critique établie par Vanessa Thomann dans le cadre d'un mémoire de
+      maîtrise sous la direction de Georges Forestier (2000-2001).
+
+
+# La pièce et son auteur
+
+
+## Qui était Georges de Scudéry ?
+
+
+Et poette et guerrier il aura du laurier.
+
+Il était une fois un dramaturge qui s'appelait De Scudéry. Ce poète rencontra un grand succès, et, selon son expression, il eut du laurier [1]. Il fut l'un des plus grands hommes de lettres de la première moitié du XVII*e* siècle, et s'illustra dans tous les genres littéraires.
+
+Mais cette renommée ne dura pas et la génération suivante le poussa peu à peu dans l'ombre. Le goût classique acheva de faire méconnaître ses qualités, et aujourd'hui peu de gens ont entendu parler de lui. Il fut pourtant, on va le voir, une des figures incontournables du monde littéraire du premier XVII*e* siècle.
+
+Georges de Scudéry [2] est né au Havre le 11 avril 1601 (comme nous l'apprend son acte de baptême). Il est le deuxième de trois enfants qui moururent en bas âge. Madeleine naît en 1607. Nous savons que son père est issu d'une très ancienne famille noble [3]. Militaire, il semble s'être acquis une belle réputation sur les champs de bataille [4]. Il suit l'Amiral de Villars en Normandie, et devient en 1599, Capitaine du port du Havre de Grâce. Sa mère, qu'il épouse la même année, est Madeleine de Goutimesnil, « une riche demoiselle [5] » de Normandie.
+
+Pourtant en 1613 la mort de leurs parents laisse Georges et Madeleine sans fortune. Le capitaine, comme le dit Conrart [6], « ne laissa pas ses affaires en bon état en mourant ». Il faut savoir que ce brave père de famille était en fait un pirate. G. Mongrédien nous dit : « Des documents irréfutables attestent que, pour grossir ses modestes gages de capitaine, il se livrait tout simplement à la piraterie [7] ». Celui-ci a dépensé toute sa fortune pour le remboursement d'un navire hollandais qu'il avait pillé et détruit [8]. Cela lui valut deux mois à la conciergerie.
+
+Leur oncle, « un honnête homme et riche [9] » les recueille. Nous savons que Madeleine a été élevée chez lui, mais nous n'avons aucune information sur Georges. Eveline Dutertre pense qu'il a fréquenté un collège [10]. En effet Conrart [11] donne beaucoup de détails sur l'éducation de Madeleine, mais ne fait aucune allusion à son frère. Il semble donc qu'il n'ait pas été élevé comme sa sœur chez son oncle.
+
+Noble et pauvre, tout le destine à une carrière militaire. Il s'engage très tôt dans l'armée [12]. Cela lui donne l'occasion de voyager et de découvrir l'Italie. Comme le souligne la spécialiste du poète, il acquiert ainsi une connaissance précise des faits de guerre, qu'il ne manquera pas d'utiliser dans ses tragi-comédies. Il devient Capitaine du régiment des gardes (régiment d'élite), et se fait remarquer au pas de Suze, dans la guerre du Piémont. Ses qualités d'homme de lettres s'affirment déjà. Nous avons retrouvé des poèmes d'amour et d'éloge. Scudéry a même remporté un prix lors des Palinods de Caen pour le poème *Odes sur l'immaculée conception de la vierge*.
+
+Il quitte l'armée en 1629, mais n'abandonne pas pour autant son identité de militaire qu'il n'aura de cesse de rappeler [13]. Selon Lancaster, il fait représenter un an après *Ligdamon et Lydias*, sa première pièce [14]. Il s'acquiert dès lors le soutien de Richelieu qu'il gardera jusqu'à la mort de celui-ci. Il s'installe à Paris, rue Vieille du Temple, dans le Marais. Selon Conrart, à la mort de leur oncle, Madeleine vient vivre chez lui [15].
+
+Dès son arrivée à Paris, il se fait une place dans la vie mondaine parisienne et s'introduit dans le salon en vogue : celui de madame de Rambouillet. Il y rencontre tous les hommes illustres de l'époque, et participe alors, sous le pseudonyme de Sarraïdes (selon la mode précieuse), à tous les jeux qui y sont organisés. Il prend part à *la Guirlande de Julie*, avec entre autres Malleville, Chapelain et Conrart, et écrit pour cette occasion ses *Douze fleurs*, qu'il publiera plus tard à la suite du *Vassal généreux* (p. 123-127 de l'éd. de 1636). Il participe aux querelles littéraires, et prend tantôt le parti de Malleville dans la « querelle des sonnets » en 1635, tantôt celui de l'Arioste dans la « querelle des *Supposés* ».
+
+Cette période se caractérise par une production dramatique intense. À part quelques poèmes (« les douze fleurs » dans *La Guirlande de Julie* et des poèmes de louanges à Richelieu), il s'illustre surtout à travers son théâtre. Entre 1629 et 1642, il écrit douze tragi-comédies, deux tragédies, deux comédies dont une pastorale.
+
+Il se donne une stature de théoricien de la littérature, en lançant une retentissante critique du *Cid* en 1637. Avec ses *Observations sur le Cid* [16], contrairement aux autres adversaires de Corneille, il élève le débat, en dépassant le stade des injures stériles. Ses arguments, énoncés de façon assez informelle, sont tous issus d'Aristote. Cependant quelques mois plus tard, *Les Sentiments de l'Académie française sur le Cid*, rédigés pour l'essentiel par Chapelain, révéleront le peu de solidité d'un bon nombre de ses arguments. De plus cet épisode semble l'avoir brouillé pour longtemps avec Corneille.
+
+En 1639, Scudéry continue son travail de théoricien dans *L'Apologie du théâtre* [17] en montrant de quelle façon le théâtre doit permettre l'instruction morale. En 1641, dans la préface du roman de sa sœur,* Ibrahim*, Scudéry applique cette fois le principe de vraisemblance à la matière romanesque. Tous ses essais théoriques abondent dans le même sens : l'instauration d'une esthétique nouvelle que l'on appellera plus tard le Classicisme.
+
+En 1642, il renonce brusquement et définitivement au théâtre. Nous ne connaissons pas les raisons précises d'une telle décision. Le reste de sa vie sera, de ce fait, beaucoup moins riche littérairement. Il semble utile de noter que cela intervient l'année de la mort de Richelieu.
+
+Selon C. Biet et D. Moncond'Huy [18], Scudéry semble se rendre compte qu'il ne peut pas appliquer les préceptes classiques qu'il a énoncés auparavant. Il est probable qu'il a préféré abandonner un genre dans lequel il ne pouvait pas se distinguer.
+
+En 1642, grâce à Madame de Rambouillet, Scudéry obtient le gouvernement de Notre-Dame-de-la-Garde, à Marseille. Mais ce n'est qu'en 1644, qu'il prend ses fonctions. Georges et Madeleine s'installent donc à Marseille avec beaucoup d'enthousiasme. Mais bien vite le poète se sent exilé loin de la vie parisienne. De plus, il semble que le fort, loin d'être un site stratégique, ne soit qu'une triste masure. Mais cette inactivité laisse à Scudéry des loisirs : il écrit et fait publier en 1646, *Le Cabinet de M. de Scudéry.* Notre auteur est un amateur d'art éclairé. Il collectionne très tôt les portraits des poètes célèbres. Ce goût se retrouve dans ses pièces, ses poèmes et dans cette œuvre entièrement consacrée à cette passion, dans laquelle il commente cent douze œuvres, principalement des tableaux. Puis en 1647, Il publie *Les Discours politiques des rois*. Scudéry continue à écrire des poèmes qu'il publiera en 1649 sous le nom de *Poésies Diverses.*
+
+Sans raisons apparentes, le frère et la sœur reviennent à Paris en 1647. Scudéry peut alors de nouveau se consacrer exclusivement à la littérature. Il est élu à l'Académie française en 1649, pour remplacer Vaugelas. En 1651, il écrit et publie un poème adressé à Louis XIV, *Salomon instruisant le Roi*. Après s'être essayé à la poésie, au théâtre et au roman, il s'attaque au genre noble par excellence : l'épopée. Il publie en 1654 *Alaric ou Rome vaincue*, dédiée à la reine Christine de Suède. Mais Scudéry ne se mêle plus à la vie mondaine comme auparavant. Il traverse apparemment une période de découragement. M*lle* Du Val (une amie de Rouen) fait allusion dans un épigramme au « chagrin », à « l'espoir abattu » du poète.
+
+À cet isolement, viennent s'ajouter des problèmes politiques. C'est en effet le début de la Fronde. Cette affaire va particulièrement affecter Scudéry puisque le prince de Condé est son protecteur. En 1654, il tombe en disgrâce car il est soupçonné d'être un informateur du prince de Condé, alors exilé et allié aux Espagnols [19]. Il doit partir pour la Normandie.
+
+Scudéry reste exilé de Paris durant six années. Pendant ce temps, les seuls faits notables sont son mariage en 1655 avec Marie-Madeleine du Moncel de Martinvast, la naissance de son fils en 1658, et la composition du roman *Almahide ou l'esclave reine.* C'est un roman mauresque de 6 533 pages. D'après Somaize [20], M*me* de Scudéry, qui apparemment possède une belle plume, a participé à l'élaboration de ce roman.
+
+Il revient à Paris en même temps que la famille Condé en 1660. Il ne retourne pas vivre avec sa sœur, mais s'installe dans le Marais, rue de Berry. Madeleine, pendant l'absence de son frère, s'est libérée de sa tutelle, et semble tenir à garder son indépendance.
+
+En 1664, une pension de 1 200 livres lui est attribuée et l'année suivante, elle est augmentée de trois cents livres [21]. Il est donc à l'abri du besoin. Mais il reste cependant dans un certain isolement, et ne se mêle plus à la vie mondaine. Sa vie littéraire semble également s'éteindre. Il écrit une *Ode sur le retour de monseigneur le Prince*, publiée en 1660, un recueil de poèmes, intitulé *Poésies nouvelles* en 1661, puis son roman *Almahide* de 1661 à 1663.
+
+Il meurt d'une attaque le 14 mai 1667.
+
+L'image que les modernes ont retenue du personnage est celle d'un homme hautain et vaniteux. Charles Clerc titre son ouvrage consacré à Scudéry *Un Matamore des lettres* [22]. Il est vrai que tous les témoignages confirment ce trait de caractère. Gautier écrira deux siècles plus tard dans *Les Grotesques* : « C'est le bravache, le fanfaron … un vrai mâche-laurier qui taille sa plume avec sa rapière, et semble à chaque phrase offrir un cartel à son lecteur. » Nous trouvons beaucoup d'exemples de cette arrogance, mais pour n'en citer qu'un, nous avons choisi les premiers mots qu'il ait publiés. En 1629, dans *À qui lit*, préface de *Ligdamon et Lydias*, Scudéry écrit :
+
+
+La poésie me tient lieu de divertissement agréable, et non d'occupation sérieuse. Et quand même ce serait manquer que de se servir ensemble d'une épée et d'une plume, je tiens cette faute glorieuse, qui m'est commune avec César.
+
+L'image du théâtre a évolué, mais à l'époque de Scudéry, il n'est pas de bon ton qu'un noble paraisse s'abaisser à n'être qu'un « auteur ». Nous comprenons qu'il ait été obligé de justifier ses activités littéraires. Nous pouvons aussi nous demander s'il n'a pas brandi de façon outrancière l'étendard de la noblesse pour compenser une absence de fortune.
+
+Beaucoup l'ont attaqué sur son style. On lui a reproché de se répéter, de multiplier les longues descriptions et les aventures à tiroir. Pour ne retenir qu'un exemple, voyons les vers de Boileau dans sa *Seconde satyre* :
+
+Bienheureux Scudéry dont la fertile plume  
+Peut tous les mois sans peine enfanter un volume !  
+Tes escrits, il est vray, sans art & languissants   
+Semblent estre formes en dépit du bon sens :  
+Mais ils trouvent pourtant quoi qu'on en puisse dire,  
+Un marchand pour les vendre, & des sots pour les lire.  
+Et quand la rime enfin se trouve au bout des vers,  
+Qu'importe que le reste soit mis de travers.  
+
+Scudéry a été la victime (comme beaucoup de dramaturges de cette époque), du jugement des hommes du XVIII*e* siècle, qui à la lumière de la doctrine classique figée par Boileau ne comprenaient plus ce qui s'était écrit avant eux. Ils ont condamné dans ces pièces ce que les auteurs recherchaient et ce que le public adorait.
+
+**Principales œuvres publiées** (classées selon l'ordre de leur publication, non de leur représentation) :
+
+– *Ligdamon et Lidias ou la Ressemblance*, tragi-comédie, Paris, 1631, in-8°.
+
+– Edition des *Œuvres de Théophile*, Rouen, 1632, 3 tomes en 1 vol., in-8°.
+
+– *Le Trompeur puni ou l'histoire septentrionale*, tragi-comédie, Paris, 1633, in-8°.
+
+*– Le Temple*, poème à la gloire du Roi et de M. le Cardinal …, Paris, 1634, in-4°.
+
+– *La Comédie des Comédiens (L'Amour caché par l'Amour)*, comédie et pastorale, Paris, 1635, petit in-4°.
+
+*– Le Vassal généreux*, tragi-comédie, Paris, 1635, petit in-4°.
+
+*– Orante*, tragi-comédie, Paris, 1635, in-4°.
+
+*– Le Prince déguisé*, tragi-comédie, Paris, 1635, petit in-4°.
+
+*– Le Fils supposé*, comédie, Paris, 1636, petit in-4°.
+
+*– La Mort de César*, tragédie, Paris, 1636, in-4°.
+
+*– Didon*, tragédie, Paris, 1637, in-4°.
+
+*– Observations sur le Cid*, Paris, 1637, petit in-4°.
+
+– *Lettre de M. de Scudéry à l'illustre Académie*, Paris, 1637, petit in-4°.
+
+– *La Preuve des passages allégués dans les « Observations sur le Cid »*, Paris, 1637, petit in-4°.
+
+– *Réponse de M. de Scudéry à M. de Balzac*, Paris, 1638, petit in-4°.
+
+*– L'Amant libéral*, tragi-comédie, Paris, 1638, in-4°.
+
+*– L'Amour tyrannique*, tragi-comédie, Paris, 1639, in-4°.
+
+*– L'Apologie du théâtre*, Paris, 1639, in-4°.
+
+*– Eudoxe*, tragi-comédie, Paris, 1641, in-4°.
+
+*– Andromire*, tragi-comédie, Paris, 1641, in-4°.
+
+– *Les Femmes illustres ou les Harangues héroïques*, Paris, 1644, in-4°.
+
+*– Ibrahim ou l'Illustre Bassa*, tragi-comédie, Paris, 1643, in-4°.
+
+*– Arminius ou Les frères ennemis*, tragi-comédie, Paris, 1643, in-4°.
+
+– *L'Ombre du grand Armand*, Paris, 1643, in-4°.
+
+*– Axiane*, tragi-comédie en prose, Paris, Paris, in-4°.
+
+– *Les Femmes illustres ou les Harangues héroïques*, 2*e* partie, Paris, 1644, in-4°.
+
+*– Le Cabinet de M. de Scudéry*, première partie, Paris, 1646, in-4°.
+
+– *Discours politiques des Rois*, Paris, 1648, in-4°.
+
+*– Poésies diverses*, Paris, 1649, in-4°.
+
+– *Salomon instruisant le Roi*, Paris, 1651, in-4°.
+
+*– Alaric ou Rome vaincue*, poème héroïque, Paris, 1654, grand in-4°.
+
+*– Poésies nouvelles*, Amsterdam, 1661, in-12°.
+
+*– Almahide ou l'Esclave reine*, Paris, 1660-1663, 8 vol., in-8°.
+
+
+## Le théâtre des années 1630
+
+Ces années voient apparaître une nouvelle génération de dramaturges. C'est véritablement l'âge d'or du théâtre qui commence. Georges Mongrédien écrit que le théâtre « est né en réalité en 1630 [23] ». Commencent en effet leur carrière entre 1628 et 1629 des hommes comme Rotrou (l'*Hyponcondriaque* en 1628), Corneille (*Mélite* en 1629), Baro (*Célinde* en 1629), et évidemment Scudéry (*Ligdamon et lidias* en 1629).
+
+On assiste à une véritable renaissance du théâtre pour plusieurs raisons. Tout d'abord, la qualité du jeu s'améliore grâce à des acteurs de talent, comme Bellerose et Montdory. Par ailleurs l'aristocratie se rapproche du milieu théâtral, ce qui était loin d'être le cas auparavant. Le théâtre n'est plus un lieu de perdition et « les plus honnêtes femmes fréquentent maintenant l'Hôtel de Bourgogne avec aussi peu de scrupules qu'elles feraient celui du Luxembourg [24]. » Cela permet par exemple à Scudéry de se lancer dans une carrière dramatique, ce qui aurait été impossible pour un aristocrate à l'époque de Hardy. Comme on l'a vu, notre auteur n'aura de cesse tout de même de rappeler qu'il a été militaire bien avant d'être dramaturge, et de souligner que l'écriture n'est pour lui qu'un « passe-temps ».
+
+Le soutien de Richelieu au milieu artistique a également une grande importance. Comme le dit Tallemant [25], le cardinal est à la base de cette revalorisation du théâtre :
+
+
+La comédie n'a été en honneur que depuis que le Cardinal Richelieu en a pris soin et avant cela les honnêtes femmes n'y allaient point.
+
+Richelieu était amateur de théâtre et il ne manquait pas d'encourager les auteurs. Pellisson dans son *Histoire de l'Académie française* souligne que le théâtre était alors un moyen pratique pour s'introduire dans le monde :
+
+
+Tous ceux qui se sentaient quelque génie ne manquaient pas de travailler pour le théâtre : c'était le moyen d'approcher des Grands et d'être favorisé du Premier Ministre qui de tous les divertissements de la Cour ne goûtait presque que celui-ci [26].
+
+Scudéry est donc arrivé sur la scène théâtrale à un moment particulièrement favorable. Et il a su choisir un « passe-temps » qui était très porteur dans ces années là. C'est ce que souligne Conrart dans ses *Mémoires* :
+
+
+Son frère qui savait que les pièces de théâtre étaient alors fort estimées et que plusieurs en faisaient leur occupation à cause que c'était un des principaux divertissement du cardinal de Richelieu, en ayant composé quelques unes [27].
+
+La scène théâtrale se transforme alors en une sorte de laboratoire. Beaucoup s'interrogent sur la question des règles, l'encre coule mais rien n'est encore figé. Quand certains commencent à se plier à ces nouvelles exigences, d'autres proclament haut et fort leur goût pour la liberté. Cette période se caractérise donc par la coexistence de deux façons d'écrire. Nous voyons dans les propos de Raysiguier, dans l'épître Au lecteur de son* Aminte*, que les deux courants sont admis par le public, et que le classicisme est loin d'être installé : « Je ne blasme personne, et disant mon avis hardiment, je crois que l'une et l'autre façon d'écrire doit estre soufferte sans blasme [28]. »
+
+La génération de 1630 a d'ailleurs un goût très développé pour un genre théâtral par essence irrégulier, la tragi-comédie. C'est ce que souligne Lancaster : entre 1628 (*L'Hypocondriaque* de Rotrou) et 1636 (*Le Cid* de Corneille), on compte 53 tragi-comédies, plus qu'entre 1620 et 1628 [29]. C'est un véritable renversement de tendance : aux tragédies humanistes succèdent les tragi-comédies qui « sans pencher trop vers la sévérité de la tragédie ni vers le style railleur de la comédie, … sans estre ni l'une et ni l'autre », ont l'avantage de l'être « toute les deux ensemble » (préface d'*Andromire*).
+
+Comme l'écrit Ogier, ardent défenseur du mélange « des choses graves avec les moins sérieuses », le public des années trente est composé d'« un peuple impatient et amateur de changement et de nouveauté [30] ». Les spectateurs réclament, en effet, des émotions fortes, de la surprise, du dépaysement. La tragi-comédie remplit tout à fait ces conditions. Au début du XVII*e* siècle, les auteurs vont donc écrire des histoires pleines de rebondissements et d'actions, de scènes spectaculaires dans des lieux très divers.
+
+Bien que les critiques commencent à statuer sur les règles, les auteurs de tragi-comédies se refusent à enfermer leurs pièces dans de telles prisons :
+
+
+Nous autres prenons du lieu, du temps et de l'action ce qu'il nous en faut pour le faire curieusement et le dénouer avec grâce, en surprenant les esprits par des accidents qui sont hors d'attente, et non point hors d'apparence [31].
+
+Le public des années trente n'est pas prêt à apprécier des pièces régulières, et les dramaturges s'adaptent à leur goût. Sarasin se souvient de cette période et écrit dans son *Discours de la tragédie* :
+
+
+Pourvu que dans leurs poèmes, ils eussent mêlé confusément les amours, les jalousies, les duels, les déguisements, les prisons et les naufrages sur une scène divisée en plusieurs régions, ils croyaient avoir fait un excellent poème dramatique [32].
+
+Mais Sarasin généralise excessivement, et l'on peut dire que, pour beaucoup d'entre eux, ce n'est pas « qu'ils croyaient avoir fait », mais qu'ils avaient souvent effectivement fait « un bon poème dramatique ». On ne peut pas juger d'après les règles classiques, des pièces écrites avant celles-ci. Et nous pouvons dire que Scudéry est un homme de son temps. Doté d'un tempérament fougueux, élevé au son des récits de batailles navales de son père, il aimait ce genre dramatique. Bien qu'il ait été un des théoriciens du classicisme [33], il a abandonné le théâtre quand les règles se sont installées. Le théâtre de Scudéry correspond tout à fait à la nouvelle esthétique dont parle Jean Rousset : « une esthétique, du mélange, du changement et de la luxuriance [34]. »
+
+
+## Création et réception
+
+Nous n'avons aucune information sur la création d'*Orante*. Lancaster [35] pense qu'elle a été produite au début de l'année 1633. Comme nous n'en trouvons aucune trace dans la mémoire de Mahelot, il est probable que ce soit la troupe de Montdory qui l'ait jouée. Eveline Dutertre dans *Scudéry dramaturge* [36] situe la représentation de cette tragi-comédie en 1635, et sa composition en 1634-1635. Nous ne savons pas sur quoi elle s'appuie. Et, par ailleurs, si l'on refuse d'admettre l'hypothèse de Lancaster, selon qui la pièce est plus ancienne, on se heurte à une difficulté : bien que Scudéry soit un écrivain très fécond, est-il possible qu'il ait composé en un an cinq pièces de théâtre ?
+
+Nous n'avons pas plus d'informations sur sa réception. Scudéry dans la préface d'*Arminius*, dit : « Je repris le ton ordinaire dans mon *Orante* : et par elle je tirai cent et cent fois des larmes, non seulement du peuple mais des plus beaux yeux du monde [37]. » Nous connaissons la tendance de notre auteur à l'exagération, donc nous nous contenterons de dire que sa tragi-comédie a dû rencontrer un certain succès. Nous n'avons pas retrouvé de témoignages, comme ceux M. de Balzac et Le Sieur d'Arbois [38] au sujet de l'*Amour tyrannique*.
+
+Scudéry savait que le décors et les costumes étaient très importants dans la réussite d'une pièce [39], et on pet penser qu'il prenait soin de cet aspect du spectacle. Nous n'avons malheureusemant pas d'informations sur la mise en scène, nous pouvons tout d'abord nous rapporter au frontispice.
+
+Orante se trouve dans une chambre et sur les murs sont représentés différents paysages. Nous voyons sur le mur de droite une maison, et sur le pas de la porte deux personnages. Il semble que ce soit un homme et une femme. Cette scène nous rappelle la rencontre de Nérine avec Clindor, car il semble que la femme attende l'autre personnage devant la maison (I, 3). Le mur principal, derrière Orante, représente un bois avec un château au loin à gauche. Un homme et une femme se regardent de face en se donnant la main. Nous pensons qu'il s'agit de la scène où Orante va retrouver Isimandre dans le bois (IV, 8).
+
+Nous voyons sur le mur de gauche deux personnages portant de hauts chapeaux. L'un est debout, et derrière l'autre, assis adossé à un muret, nous voyons un arbre. Il semble qu'il s'agisse d'Orante et de Nérine dans le temple de Mars. L'héroïne nous décrit cet endroit comme « un lieu toujours ouvert » (IV, 4), et cela correspond assez bien à ce que nous voyons.
+
+Nous avons par ailleurs tenté de reconstituer le décors d'*Orante* d'après les indications de lieux du texte, et les instructions du *Mémoire de Mahelot* [40]. Deux solutions paraissent possibles.
+
+Dans le texte, nous avons déterminé cinq lieux différents. Une partie de la scène doit être consacrée au château (soit de Pise, soit de Naples), une salle neutre où les personnages puissent se réunir. Ce lieu doit posséder un escalier, comme le précise Nérine au vers 199 : «  Monte au grand escalier ». Il faut aussi une autre chambre pour Orante. En effet, Clindor nous précise qu'« il faut qu'(il) s'advance à la chambre voisine » (v. 293). Par ailleurs un temple doit être représenté. À la scène 1 de l'Acte IV, Nérine nous indique sa présence : « Madame, sauvons nous, entrons dedans le Temple » (v. 906). Pour finir, nous devons voir apparaître sur scène un petit bois, lieu des deux duels. Eveline Dutertre propose un cinquième lieu qui serait les rues d'une ville (Pise ou Naples). Ce dernier point n'est pas absolument nécessaire car les scènes concernées peuvent se dérouler sur le devant des décors. Cependant, nous remarquons le plus souvent des scènes à cinq compartiments. Bien que ce cinquième lieu ne soit pas absolument nécessaire, il est possible qu'il ait été représenté par convention.
+
+Une autre solution est aussi possible. Il se peut que la scène ne posséde que trois décors différents. Comme le précise Lancaster dans *Le Mémoire de Mahelot* [41], « Quelquefois on cachait un compartiment par une décoration qui représentait une autre. ». De cette façon, le bois pouvait être signalé par la présence d'un arbre posé sur le devant d'un autre décor [42]. Tout comme la rue où se trouve Lucinde à la scène 8 de l'Acte V pouvait être représentée par une fenêtre [43]. Ainsi toutes les scènes qui se déroulent dans un champ ou dans une rue, pouvaient donc avoir lieu au milieu de la scène. Il s'agit ici de deux hypothèses. Par économie, il est possible qu'une scène à trois compartiments pouvait être privilégiée. Par ailleurs, une scène à cinq compartiments pouvait être choisie par habitude. Nous avons donc tenté d'établir le visage de l'une et l'autre solution.
+
+Grâce aux indications trouvées dans le texte, nous remarquons que certains accessoires étaient nécessaires. Tout d'abord, la chambre d'Orante posséde une une chaise. En effet, une didascallie nous indique à la scène 4 de l'acte II qu'Orante offre un siège à Florange. Une table est également nécessaire lorsqu'elle écrit le billet juste avant de s'évanouir, ainsi que du papier et une plume (I, 5). Comme nous l'avons déjà signalé, l'action nécessite la présence d'un arbre. Une fois encore une didascallie nous précise son utilisation : « Il le lie à un arbre. » (IV, 2). Cinq épées et un poignard étaient également utilisées lors des combats. Ces accessoires, comme le précise Lancaster, pouvaient être fournis par les acteurs. Ils ont également besoin de quatre feuilles pour désigner le sonnet (I, 1), la lettre d'Isimandre (II, 3), le billet d'Orante (II, 8), et une dernière pour le cartel d'Ormin (V, 1). L'action nécessite aussi du sang pour représenter la blessure d'Orante (I, 5), d'Isimandre (IV, 2), et pour figurer la mort de Florange (V, 7).
+
+Nous avons donc cherché de quelles façons étaient représentés les différents lieux de l'action, et nous avons effectué un montage en utilisant le décor de *Ligdamon et Lydias* de Scudéry, et celui de *Ménechmes* de Rotrou. Nous renvoyons pour cela le lecteur à l'appendice V (voir la version imprimée déposée à la Bibliothèque de l'Institut de littérature française).
+
+
+## Le jeu de paume de la fontaine
+
+
+### L'itinéraire de la troupe du Théatre du Marais
+
+C'est en 1629 que la troupe des Comédiens du Prince d'Orange tente de s'établir définitivement à Paris, disputant l'exclusivité du Théâtre de l'Hôtel de Bourgogne à la troupe des Comédiens du Roi. Mais ce sont ces derniers qui finissent par s'entendre avec les Confrères de la Passion, propriétaires du théâtre, pour une location permanente. Les Comédiens du Prince d'Orange vont donc aller de jeu de paume en jeu de paume : le jeu de paume de Berthault, tout d'abord ; puis le 12 décembre 1631, la troupe s'installe au jeu de paume de la Sphère, rue Vieille du Temple. Le bail nous indique que le loyer, trois cent soixante livres tournois, était cher pour l'époque. C'est pourquoi la troupe déménage trois mois plus tard. Les comédiens s'installent alors le 15 mars 1632, au « tripot de la fontaine » dans la rue Michel le Comte. Il s'agit d'un jeu de paume. Le seul document que nous ayons est une requête des voisins pour se plaindre des désagréments que cause la proximité du théâtre. Cela nous permet d'apprendre que la troupe attire un public nombreux. La rue Michel le Comte est étroite et à la fin de la représentation les gens envahissent les lieux. Il ne reste alors aucune place pour « les gens de pieds ». Ces attroupements laissent aussi la porte ouverte aux petits vols et menus larcins. Les voisins ont donc porté plainte au près d'Avenet, le propriétaire des lieux. Ce dernier ne voulant pas expulser la troupe qui, du reste, avait un bail de deux ans, les plaignants déposent une requête au Parlement. Il est finalement décidé que les comédiens pourront rester dans le jeu de paume de la Fontaine jusqu'à la fin de leur bail. D'après Lancaster, c'est dans ce théâtre qu'*Orante* est représentée.
+
+Enfin, en mars 1634, la troupe s'installera dans le jeu de paume de la rue Vieille-du-Temple, dans le quartier du Marais, et elle s'illustrera désormais sous le nom de « Théâtre du Marais ».
+
+
+### À quoi ressemblait un jeu de paume
+
+Au XVI*e* siècle, les jeux de paume furent les premières salles à acceuillir des troupes de théâtre.
+
+Ces salles mesuraient en moyenne 30 m de longueur et 10 m de largeur. Cet espace n'était pas adapté à accueillir une scène, et les comédiens étaient obligés de l'installer dans la longueur. Cela ne leur laissait que 10 m (voire 12 m en comptant les galeries) pour jouer. Le public était obligé de se serrer dans la longueur, et dans cette salle complètement plate, les spectateurs ne devaient qu'apercevoir la scène. Les murs mesuraient en moyenne 5 m, par contre la toiture devait être particulièrement haute par rapport à ses fondations, car l'ensemble du bâtiment atteignait 12 m.
+
+Nous n'avons guère d'informations sur le jeu de paume de la fontaine. D'après le bail du 29 juillet 1641, nous apprenons qu'au-dessus de la porte d'entrée se trouvait une chambre :
+
+
+lesdits preneurs laisseront jouir lesd. Avenet et sa femme de la grande chambre sur le devant qui est au-dessus de la porte du jeu de paume [44].
+
+
+# Les sources
+
+
+L'on a tant fait d'avant propos, qu'il est comme impossible maintenant que mes pensées ne se rencontrent avec celles d'un autre.
+
+« Au Lecteur », *Orante.*
+
+
+## Résumé de la pièce
+
+I) L'action se déroule en Italie. Isimandre, le fils du roi de Naples, est amoureux d'Orante. Malheureusement une terrible haine oppose les familles de ces jeunes gens. Or ces derniers ont été séparés car Poliante, le père d'Isimandre et roi de Naples, a chassé la jeune fille et sa mère, Lucinde, de son royaume. La mère d'Orante « étant veuve et ne sachant que faire » est partie se réfugier chez Ormin, « leur proche cousin », qui est roi de Pise. Isimandre ne supportant pas cette séparation, a envoyé Clindor, son fidèle écuyer, remettre une lettre pleine d'amour à Orante. Pendant ce temps, la jeune fille souffre, elle aussi, car sa mère, Ormin et Palinice (la femme de ce dernier), veulent la marier à Florange, un vieux barbon. Mais Ormin a une idée toute particulière sur l'issue de cet éventuel mariage : malgré leur liens familiaux, il est éperdument épris de sa jeune cousine. Pour conquérir Orante, absolument vertueuse, il espère séduire la belle, dégoutée par la laideur de son mari. Pendant ce temps, la jeune fille ne pouvant supporter l'idée de cette union décide de mettre fin à ses jours en débandant son bras qui venait d'être saigné. Mais avant de perdre connaissance, elle écrit de son sang : « tienne je meurs mon Isimandre. » C'est alors que Nérine amenant joyeusement la lettre d'Isimandre, entre dans la chambre et découvre la jeune fille évanouie « baignant dans son sang ». Elle se retourne alors vers Clindor le messager, et pensant qu'Orante est morte, lui remet l'ultime message en demandant à son maître de venger cette pauvre enfant. Clindor part sur-le-champ. Aux cris de la suivante tout le monde accourt alors, on ranime la jeune fille, mais le messager est déjà parti.
+
+Nérine déclare alors qu'il ne sert à rien de la secourir s'ils continuent à la forcer à ce mariage. Ormin, comprenant le désespoir de la jeune fille, décide d'interdire cette union.
+
+II) Palinice découvre alors les sentiments de son mari, et une fois seule ne peut contenir sa jalousie. Elle se promet de le ramener sur le droit chemin.Orante revient doucement à elle et s'aperçoit que Clindor est parti avec le billet. Nérine lui conseille alors d'envoyer elle-même un messager pour rectifier ce malentendu. Pendant ce temps, Isimandre qui attend avec impatience la réponse à sa lettre, apprend la nouvelle de la mort d'Orante. Il décide de se suicider mais seulement après s'être vengé du vieillard Florange. Il part donc pour Pise déguisé en marchand de tableau pour pouvoir s'introduire dans le royaume d'Ormin, qui, ne l'oublions pas, est un ennemi de la famille.
+
+III) Pendant ce temps à Naples, Florange a découvert les sentiments d'Orante pour Isimandre. Le vieillard plus résolu que jamais, se promet d'obtenir la jeune fille par les armes s'il le faut. Il déclare aussi qu'Ormin peut bien s'opposer au mariage, il faudra le tuer pour qu'il renonce à la belle.
+
+Isimandre en route pour Pise apprend avec joie l'annonce de cette « fausse mort ». Le jeune homme se réjouit que son déguisement, d'abord destiné à un affrontement avec Florange, puisse lui servir à s'introduire chez sa maîtresse.
+
+À Pise, Palinice qui ne peut plus supporter l'amour de son mari, prévient Lucinde du malheur qui les guette, elle et sa fille. Lucinde, qui se doutait des sentiments de son cousin, est au désespoir et ne sait pas quoi faire. Palinice lui conseille alors de quitter Pise avec Florange sans prévenir Ormin. Une fois à Florence, le mariage pourra être célébré sans encombre. Pour ce qui est de la colère de son mari, Palinice pense que : « Le temps qui change tout, pourra changer Ormin. » Mais Nérine cachée, a tout entendu. Ne pouvant supporter une telle traîtrise, elle court prévenir Orante. La jeune fille ne sachant que faire attend du secours d'Isimandre.
+
+Isimandre arrive enfin. Les deux amants, heureux de se retrouver sont vite ramenés à la réalité. Que faire pour éviter qu'Orante épouse Florange ? Isimandre a une idée : la jeune fille et sa suivante vont se déguiser en hommes : De cette façon, tous pourront partir de Pise sans être reconnus et aller se réfugier à Naples. À ce moment Ormin arrive dans la chambre d'Orante. Isimandre s'empare alors d'un tableau et commence la présentation de leurs sujets. Ormin achète sans discuter les quatre tableaux car Orante les apprécie. Isimandre se retire et promet de revenir apporter un autre tableau, c'est le prétexte pour apporter les habits d'homme. Ormin commence une description des sujets mythologiques. À travers les amours contrariés des héros, il avoue de manière déguisée son amour, et finit par lui faire une réelle déclaration. Face à la gêne de la jeune fille, Ormin se retire. Elle comprend qu'elle n'a plus le choix et qu'il faut partir.
+
+IV) Orante et Nérine déguisées en homme se rendent alors dans le Temple de Mars, lieu de rendez-vous avec Isimandre. Ce dernier tarde à venir et la jeune fille s'inquiète. Le jeune homme pendant ce temps est attaqué par surprise par Florange. Le vieillard est vite vaincu mais il a tout de même blessé Isimandre. Celui-ci ne peut pas se rendre au temple et envoie Clindor cherchait Orante et Nérine à sa place.
+
+Au même moment, Lucinde découvre la disparition de la jeune fille. Elle pense tout de suite à un enlèvement et Palinice accuse son mari. Ormin qui apprend la nouvelle est, quant à lui, persuadé que son épouse a tout manigancé. Il projette de la tuer si celle-ci n'avoue pas où elle cache la belle jeune fille.
+
+Pendant ce temps Isimandre, qui a obtenu le repentir de Florange, le laisse partir. Il confie sa bien aimée à Clindor et le charge de la conduire jusqu'auprès de son père. Une fois à Naples, l'écuyer devra la présenter sous le nom de Cléomire, un jeune seigneur ayant sauvé la vie d'Isimandre alors qu'il était attaqué par des bandits. La blessure faite par Florange attestera cette supercherie.
+
+Au palais de Pise, la situation s'aggrave. Ormin et Palinice qui se sont rencontrés s'accusent mutuellement. Furieux contre sa femme, il brandit un poignard et tente de l'assassiner. Mais les pages accourent et empêchent ce malheur. À ce moment Florange arrive, et apprend à l'assemblée qu'Isimandre a emmené la jeune fille dans son royaume. Hors de lui, Ormin part sur le champ en promettant de tuer le jeune homme. Face à cette colère le barbon découvre sa passion secrète, et comprend qu'il a été manipulé. Il décide alors d'employer deux hommes pour l'aider à tuer Ormin.
+
+(V) Les deux amants sont arrivés à Naples. Mais un nouveau malheur les accable : Isimandre reçoit un cartel d'Ormin. Le jeune homme ne pouvant refuser pour une question d'honneur, accepte d'affronter le roi de Pise. Mais avant de partir, il persuade Orante d'aller plaider leur cause auprès de Poliante. Craignant d'être tué, il ne veut pas laisser Orante sous une apparence mensongère et sans honneur. Cléomire (alias Orante) parvient à convaincre Poliante : celui-ci se réjouit d'un tel amour et espère que la querelle familiale pourra s'éteindre grâce à l'union des jeunes gens.
+
+Pendant ce temps, Ormin qui attend Isimandre au lieu de rendez-vous, est attaqué par surprise par Florange secondé de deux braves. Le jeune homme arrive au même moment. Ne pouvant supporter une telle traîtrise, il prend la défense d'Ormin, et tue le barbon. Le cousin d'Orante, alors charmé par la noblesse de cœur de son adversaire lui cède la belle. Isimandre propose à son ancien rival de l'accompagner auprès de son père, pour que les deux rois oublient cette vieille haine.
+
+Les deux hommes retrouvent au palais Lucinde et Palinice. Poliante et Ormin mettent fin à la guerre qui opposait leurs deux familles. Palinice pardonne à son mari repentant et décide d'oublier le passé. Poliante, qui s'est pris d'affection pour Cléomire, demande à le voir et à sa grande surprise découvre Orante. Lucinde pardonne l'escapade des deux amoureux, et le père d'Isimandre accorde leur union.
+
+
+## *L'Astrée* d'Honoré d'Urfé
+
+
+### Les ressemblances
+
+Orante est la quatrième pièce que Scudéry tire d'un épisode de l'*Astrée* [45]* : L'Histoire de Cryséide et Arimant* [46], comme l'a montré Barterau [47].
+
+Notre auteur a exactement suivi la trame tracée par Honoré d'Urfé. Dans les deux œuvres une jeune fille, séparée de celui qu'elle aime par une haine opposant leurs deux familles, s'ouvre les veines pour échapper à un mariage arrangé. Elle est réanimée et préfère se sauver déguisée en homme plutôt que d'épouser un homme qu'elle n'aime pas. Le déguisement lui permet de convaincre le père de son amant du bien fondé d'une telle union, pendant que le jeune homme tue en duel le prétendant [48].
+
+Scudéry, a adapté cette histoire romanesque jusque dans la forme des discours. Nous avons relevé beaucoup de passages semblables, mais nous nous contenterons de trois exemples. Nous remarquons, tout d'abord, une grande similitude dans la scène du suicide. Voici ce que dit Cryséide :
+
+
+La premiere chose qui me vint devant les yeux estant en cest estat, fut le desplaisir qu'Arimant auroit de ceste nouvelle …, je pris promptement mon mouchoir et l'estendant sur le lict, je trempay le doigt dans mon sang et j'escrivis fust bien ou mal ces trois paroles : TIENNE JE MEURS MON ARIMANT [49] ?
+
+Quant à Orante  à la scène 5, acte I :
+
+Mais puisque ce papier se trouve favorable,  
+Taschons de consoler l'esprit d'un miserable,  
+Faisons voir que la mort ne peut rien sur l'Amour :  
+Adieu cher Isimandre, adieu, je perds le jour.  
+
+C'est à la scène 8, qu'Isimandre venant de recevoir le billet, nous le lit : « Tienne je meurs mon Isimandre. »
+
+Scudéry a réutilisé avec succès cet épisode spectaculaire, où l'on voit sur scène la jeune fille débander son bras. Il a également repris la même expression, qui selon nous est tout à fait judicieux. En effet, la structure de cette courte phrase est tout à fait représentative de leur amour malheureux. De part et d'autre de l'action du suicide se trouve le rappel de leur attachement. « Tienne » et « mon Isimandre» montre une possessivité à double sens et signifie : je t'appartiens et tu m'appartiens. Or ces deux mots sont séparés par le suicide de la jeune fille, « je meurs ». Même si celle-ci veut montrer par son acte que son amour est plus fort que tout, la mort va tout de même les séparer, tout du moins physiquement.
+
+Cette scène est très importante sur le plan dramaturgique. C'est tout d'abord la première apparition de l'héroïne, personnage éponyme de la pièce. Le spectateur attend avec impatience son entrée sur scène. Par ailleurs cela plonge le public d'emblée dans le désespoir de la jeune fille, créant un phénomène de pitié, qui ne l'oublions pas est un des deux ressorts tragiques selon Aristote [50].
+
+Le dramaturge a d'ailleurs choisi de représenter cette scène sur le frontispice (voir Appendice IV). Cette gravure, très évocatrice montre Orante une plume à la main écrivant sur une table, et de l'autre coté un jet de sang se déversant de son bras. Cet épisode a un coté spectaculaire indéniable, propre à susciter les émotions fortes chez le spectateur. Nous renvoyons le lecteur à la reproduction du frontispice dans l'appendice III.
+
+Scudéry a aussi repris la scène où la suivante découvre Orante morte (en vérité seulement évanouie).
+
+Clarinice, dans l'*Astrée* :
+
+
+« Ô Dieux, s'escrioit-t-elle, elle est morte ! Cryséide est morte ! » … De fortune elle rencontra celuy qui luy avoit apporté la lettre qu'Arimant m'escrivoit …. « C'est, dit-elle, toute en pleurs et toute eschevelée, une triste response que tu porteras à ton maistre cette fois. Cryséide est morte, parce qu'on la vouloit forcer d'espouser Clorange. Porte luy ce mouchoir, où il verra escrit de la main et du sang de Cryséide le subject qu'il a d'en aymer la mémoire [51]. »
+
+Nérine dans *Orante* à la scène 6 de l'acte I :
+
+Ha, Ciel ! quel accident ? au secours mes amis ;  
+Dieux ! vous l'avez veu faire, & vous l'avez permis !  
+Elle nage en son sang : ô l'horrible spectacle !  
+Son funeste projet n'a point trouvé d'obstacle :  
+Et ce papier m'apprend, que sa fidelité,  
+Arrive par la mort à l'immortalité.  
+
+À la scène 7 de l'acte I, Nérine dit à Clindor, le messager :
+
+Retourne vers ton Maistre, & va-t'-en l'advertir,  
+Qu'Orante ne vit plus, qu'il est temps de partir :  
+Porte luy ce papier : …  
+Qu'il punisse Florange autheur de ce dommage ;  
+On la vouloit forcer de vivre sous sa Loy ;  
+
+Là encore, Scudéry a réutilisé une scène tout à fait spectaculaire. À la réaction affolée de la suivante, il a ajouté l'horreur du spectacle. Car ne l'oublions pas, ce que la suivante décrit rapidement devait être représenté sur scène. « Elle nage en son sang » vient accentuer l'effet d'horreur. Cet épisode dévoile au spectateur la perspective d'un avenir tragique : le messager part sur le champ annoncer la fausse mort de la jeune fille. Cette scène est chargée d'émotion pour le spectateur : l'horreur, et l'attente angoissée de la réaction d'Isimandre.
+
+Nous notons un dernier exemple de cette similitude : Cryséide/Orante déguisée en homme tente de convaincre le père d'Arimant/Isimandre que l'amour qui les unit est acceptable.
+
+Dans l'*Astrée* :
+
+
+« Il me semble luy, dis-je, que vous oubliez l'un des plus grands poincts. Et lequel ? me respondit-il.- c'est, luy-dis-je, qu'ils s'entre-aymassent bien tous deux.- Il est vray, reprit-il incontinent, mais je n'ay point mis ceste condition, parce qu'elle doit estre la premiere presupposée, vous protestant, Cléomire, que j'aymerois mieux la mort que si je voyois que la necessité de mes affaires me contraignist Arimant d'espouser une femme indigne de luy ou qu'il n'aymast pas [52].
+
+Dans *Orante* à la scène 3 de l'acte V :
+
+
+Cléomire/Orante
+Vous oubliez un point d'une importance extréme :  
+
+Poliante
+Quel ?  
+
+Cléomire/Orante 
+qu'il aime une fille, & qu'une fille l'aime.  
+
+Poliante
+Je ne l'oubliois pas, j'y suis trop disposé ;  
+Mais estant necessaire, il est presupposé.  
+Ces marchez d'interest, sont des maux qu'on doit craindre ;  
+Et j'aime trop mon fils pour le vouloir contraindre ;  
+
+L'entretien entre Orante et Poliante suit le même déroulement que dans le roman. Peu à peu le père cède.
+
+
+### Le travail de dramatisation
+
+Scudéry n'a pas suivi docilement ce que lui indiquait l'*Astrée*, il a effectué un réel travail de dramatisation, et a dû procéder à quelques modifications pour adapter cette histoire à la scène.
+
+Il a tout d'abord fait un travail de concentration dramatique. L'*Astrée* est très riche en événements. Ses histoires s'étalent quelque fois sur des mois ou même des années. La suite d'une histoire est parfois racontée quelques livres plus tard. Bien que Scudéry ne vise pas l'unité, il faut tout de même resserrer le temps et l'action. Le dramaturge choisit ainsi de faire débuter sa pièce au moment de la crise, l'amour d'Orante et Isimandre est déjà né, et ils viennent d'être séparés. Dans l'*Astrée*, une grande partie est consacrée à la rencontre et à la cour d'Isimandre. Dans *Orante*, Scudéry rappelle dans la scène d'exposition uniquement les faits antérieurs nécessaires pour comprendre la situation. Son ami Rosimond à la scène 1 de l'acte I, lui rappelle leur haine familiale :
+
+Le moyen de la voir à travers la querelle  
+Et cette inimitié qui vous est naturelle [53] ?  
+
+Quelques vers plus loin Isimandre finit par avouer que son amour est partagé.
+
+Scudéry a choisi de rassembler deux histoires différentes dans l'*Astrée : L'Histoire de Cryséide et Arimant* (livre 7) et *la suite de l'Histoire de Cryséide et Arimant* (livre 8). Mais a éliminé le passage où Cryséide et Arimant, en fuite, sont fait prisonnier par le roi Gondeault.
+
+Dans le même souci de concentration dramatique, il a fondu deux personnages en un seul. C'est un procédé très habile qui réduit le temps et qui en même temps enrichit l'action. Rithimier est amoureux de sa cousine, Cryséide. Il a pour projet de la marier à un être repoussant. Il espère ainsi obtenir les faveurs de la jeune fille par le contraste qu'il fera avec son époux. Rithimier finit par s'opposer à ce mariage voyant la souffrance de la jeune fille. Le roi Gondebaut rencontre Cryséide alors que celle-ci déguisée en homme est en fuite. Il tombe amoureux de la jeune fille et ne veut plus la laisser partir rejoindre son amant. Il finit tout de même par renoncer à Cryséide, en découvrant les qualités d'âme d'Arimant.
+
+Scudéry a donc crée un seul personnage de ces deux rivaux. Ce procédé permet une action plus riche, plus rythmée, mais aussi plus plaisante. Isimandre rencontrera à deux reprises Ormin : une fois déguisé en marchand de tableau et une autre pour se battre en duel avec lui : « vous le voyez soldat, & l'avez veu Marchant » (V, 7). Le héros sauve finalement la vie d'Ormin, qui se trouve être un rival mais aussi un ennemi héréditaire. Ce retournement de situation permet un dénouement particulièrement heureux : les deux familles se réconcilient et les deux amants peuvent se marier.
+
+Scudéry a également su développer certaines scènes qui n'étaient dans l'*Astrée* que de très courts épisodes. De simples indications dans le roman sont devenues des scènes. Par exemple Cryséide rencontre sa mère alors qu'elle est déguisée en homme :
+
+
+Je ne manquay point de m'y rendre, vestue en homme, et Clarine aussi, et si bien déguisées, qu'ayant rencontré au sortir du logis ma mere qui revenoit du temple, elle ne nous recogneut ny l'une ny l'autre [54].
+
+Scudéry a transformé cette phrase en une scène tout à fait angoissante. À la scène 1 de l'acte IV, les deux fugitives déguisées en homme rencontrent Lucinde et Palinice. Ces dernières se disent adieu car le départ pour Florence est imminent, et elles se félicitent de pouvoir marier Florange et Orante malgré l'interdiction d'Ormin. La jeune fille craignant d'être reconnue chuchote à Nérine : « Ha ! Je tremble Nérine ». Cette fois, le spectateur suit la scène, elle ne nous est pas racontée *a posteriori*. Ce passage est chargé d'une grande tension, et tout comme Orante, le public « tremble » (IV, 1).
+
+Notre auteur, a aussi su exploiter une scène tout à fait riche en potentielle dramatique. Dans l'*Astrée*, il nous est rapporté :
+
+
+Les autres, qui pensoient estre plus fins, alloient murmurans contre la femme de Rithimier, disans qu'elle m'avoit fait dérober, jalouse de l'amitié que son mary me faisoit paroistre ; et cette derniere opinion passa si avant que Rithimier le creut. … Sa femme (...) ayant assez recogneu l'affection qu'il me portoit qu'elle creut qu'asseurément Rithimier m'avoit fait desrober pour me tenir cacher en quelque lieu de plaisir [55].
+
+Scudéry a utilisé ce passage dans une scène tout à fait réussie où le mari et la femme se renvoient l'enlèvement de la jeune fille. Cela donne lieu à un long passage en stichomythie amusant (v. 1112-1115) :
+
+
+Palinice
+Orante est en vos mains, que sert de la cacher ?  
+
+Ormin
+Mon esprit affligé n'entend point raillerie :  
+
+Palinice
+Est elle au cabinet, ou dans la gallerie ?  
+
+Ormin
+Vous qui la retenez pouvez m'en esclaicir :  
+
+mais qui prend vite une tonalité tragique, car Ormin pris de fureur tente d'assassiner sa femme en la poignardant (v. 1124-1126) :
+
+
+Palinice
+Puis qu'elle est en tes mains, perfide, va la voir.  
+
+Ormin
+Ha ! ne contestez plus, rendez la moy, vous dis-je  
+Quoy ! vous n'en ferez rien ?  
+
+Il la veut frapper d'un poignard.
+
+De la même façon, Scudéry transforme Isimandre en marchand de tableaux, alors que le héros dans l'*Astrée* est simple vendeur de toiles. Cette modification donne elle aussi une scène particulièrement amusante.
+
+Isimandre et Orante sont en train de mettre au point leur fuite, quand soudain Ormin entre en scène. Le roi de Naples est un peu sur ses gardes, mais Isimandre l'étourdit par les descriptions des tableaux qu'il entreprend.
+
+Malgré une remarque pleine d'interrogations de la part d'Ormin (III, 7) :
+
+Certes, Peintre ou Marchand, ou tous les deux ensemble,  
+La langue & le pinceau, font très bien ce me semble.  
+
+Sans répondre, Isimandre continue avec encore plus d'élan et de fougue son analyse des peintures :
+
+Voyez comme Apollon court après sa Daphné ?  
+Elle devient un bois, dont il est couronné ;  
+Pour atteindre plustost cette Nymphe superbe,  
+Il laisse choir sa lire, & son carquois sur l'herbe ;  
+
+Cette scène est très réussie, car elle instaure une complicité entre le public et les deux héros. Il s'installe même une certaine ironie quand Isimandre confirme devant Ormin qu'il reviendra apporter les vêtements d'homme pour la fuite d'Orante. Il s'agit d'un discours double tout à fait amusant où le tableau signifie l'équipement dont la jeune fille aura besoin pour s'enfuir (v. 839-840) :
+
+
+Orante
+Et cét autre tableau ?  
+
+Isimandre :
+je l'envoyray, ma foy :  
+
+Orante
+Adieu, n'y manquez pas, souvenez vous de moy.  
+
+La suite du passage est assez réussie également. Toujours sous le masque d'un discours double, Ormin va être peu à peu amené à avouer son amour à Orante. À travers les scènes mythologiques des peintures, le prétendant va défendre sa cause, en s'identifiant au personnage. Aveuglé par son amour, il ne fait plus la distinction entre les valeurs du bien et celles du mal. Par exemple, Ixion, personnage qui a trahi Zeus en tentant de séduire Junon, devient « un grand cœur » qui eut « un haut projet » et aurait même mérité « une couronne ».
+
+Selon E. Dutertre [56], le choix de transformer le héros non pas en vendeur de toile mais en marchand de tableaux dénote de la part du dramaturge une connaissance approfondie de la peinture. Scudéry, comme nous l'avons déjà dit, était un grand amateur d'art. Nous en trouvons ici la marque.
+
+Nous avons donc vu que Scudéry visait deux effets dans son remaniement du roman. Il a tout d'abord cherché à condenser l'action dramatique et à réduire sa durée pour qu'elle puisse s'adapter aux exigences du théâtre. Il a ensuite accentué le coté dramatique de certaines scènes. Scudéry a joué sur l'émotion du spectateur en ménageant des effets de surprise et d'angoisse.
+
+
+## *Chryséide et Arimant*, 1*re* tragi-comédie de Mairet
+
+L'histoire de Cryséide et Arimant avait déjà inspiré une tragi-comédie, publiée en 1625, par Mairet sous le titre : *Cryséide et Arimant*. H. C. Lancaster a montré dans son édition critique que cette oeuvre avait eu une très grande importance dans l'histoire du théâtre au XVII*e* siècle. « C'est le premier essai dramatique de Mairet et de sa génération, qui est celle de Corneille [57]. » Mairet, en effet ouvre une porte et établit une sorte de « trait d'union » entre Hardy et Corneille ou encore Scudéry.
+
+*Chrysédie et Arimant* était au répertoire de l'Hôtel de Bourgogne en 1633-1634, années où *Orante* a dû être représentée. La pièce de Mairet a rencontré un grand succès car nous apprenons grâce au *Mémoire de Mahelot* qu'elle est restée dix ans au répertoire de la troupe. De plus, Scudéry mentionne cette pièce dans le répertoire de sa *Comédie des comédiens* [58] : « Nous avons aussi la Silvie, la Chriséide, & la Sylvanire. »
+
+Mais les deux dramaturges ont traité de façon tout à fait différente cette histoire. Alors que Scudéry a fondu en un même personnage le cousin de la jeune fille et le roi Gondebault, Mairet n'a traité que la seconde partie de cette histoire. En effet, sa pièce commence lorsque Cryséide et Arimant se sont déjà sauvés et qu'ils sont tous les deux capturés par le Roi Gondebault. Toute la pièce est centrée sur le problème de l'évasion des deux amants et de leur serviteurs (eux mêmes amoureux l'un de l'autre), et sur l'amour que Gondebault porte à Cryséide.
+
+Scudéry s'est davantage concentré sur la première partie de cette histoire, et a tout à fait éludé l'épisode du roi Gondebault. Il n'a gardé de ce personnage uniquement ce qui lui était utile pour le dénouement. Comme ce roi, Ormin séduit par la beauté d'âme de son rival renonce à la jeune fille. Chez Mairet, Gondebault renonce à Chryséide car Arimant choisit de se livrer pour libérer sa bien-aimée.
+
+Par ailleurs, Lancaster montre que Mairet a été très influencé par *Pyrame* de Théophile de Viau, qui fut son ami intime. Il n'existe donc comme point commun dans ses deux pièces que l'histoire de deux amants qu'un rival sépare.
+
+
+## Les influences de Hardy
+
+Comme Lancaster le rappelle [59], Bartereau a découvert la source d'un passage (III, 7) :
+
+Ordonnez luy de mettre Osse sur Pelion ;  
+J'attaqueray le Ciel, & dans cette escalade,  
+Je seray plus heureux que ne fut Encelade :  
+Si ces lambris d'azur peuvent plaire à vos yeux,  
+J'oseray vous placer dans le Throsne des Dieux ;  
+
+Et nous trouvons chez Hardy, dans *Gigantomachie* :
+
+Or sus venez enter Osse sur Pellion…  
+Ma dextre suffiroit, ouy le seul Encelade  
+Hardy peut emporter l'Olympe d'escalade,  
+Son farouche regard met en fuite les Dieux,  
+Et ne prétends borner mon empire des Cieux.  
+
+Il n'est pas tellement étonnant de retrouver chez Scudéry, ou chez d'autres des passages provenant de pièces de Hardy. Ce dramaturge est le père fondateur du théâtre du XVII*e* siècle. Comme le dit Roger Guichemmerre, c'est lui qui « va populariser la tragi-comédie et en fixer les caractéristiques ».
+
+
+# La structure de la pièce
+
+
+## « Une tragi-comédie des amours contrariées »
+
+Orante, selon la classification de R. Guichemmerre [60], est « une tragi-comédie des amours contrariées ». Cela ressemble à une tragi-comédie d'aventure, mais l'intrigue est centrée sur les amours des protagonistes. La pièce se résume en effet à la seule question : Malgré tous les obstacles, Orante et Isimandre vont-ils pouvoir s'aimer ?
+
+La haine familiale, le mariage que Lucinde a organisé avec Florange, et enfin l'amour incestueux d'Ormin empêche les deux amants de vivre leur amour librement. Isimandre devra sortir victorieux de deux duels et Orante, déguisée en homme, devra convaincre Poliante d'oublier le différent qui sépare les deux familles. Ce thème de la haine familiale est très répandu dans la tragi-comédie. Que cela soit *Pyrame et Thisbé* de Théophile de Viau [61], *Astrée et Céladon*, où les très célèbres *Roméo et Juliette*, tous sont séparés par le même obstacle. Orante possède un autre ressort tragi-comique très courant : le problème des rivaux. Comme le montre Roger Guichemerre [62] cette situation constitue l'obstacle le plus fréquent.
+
+De même dans les tragi-comédies du XVII*e* siècle, il est habituel que le héros soit obligé de se déguiser pour approcher de la jeune fille. Isimandre prend l'habit d'un marchand de tableaux pour pénétrer dans le château d'Ormin, qui d'une part est un obstacle à leur union, et qui d'autre part est un ennemi [63]. *Orante*, comme le dit Scudéry dans sa préface d'*Arminius ou les frères ennemis*, possède « le ton ordinaire » des autres tragi-comédies.
+
+Lancaster écrit au sujet d'*Orante* que l'action est « presque » unifiée. Nous remarquons en effet trois fils secondaires tous entièrement liès à l'action principale : l'amour d'Orante et Isimandre. Le premier fil est l'amour de Florange pour Orante. La passion d'Ormin pour sa cousine, et la jalousie de sa femme (qui en est la conséquence) constitue le deuxième fil. Le dernier concerne la haine familiale qui divise les deux familles.
+
+Ces trois fils constituent tous un obstacle au bonheur des héros et l'intrigue repose entièrement sur leur amour. Sans ce lien, les deux familles ne se seraient pas rencontrées, Orante aurait épousé docilement Florange, et Ormin se serait désespéré de ne pouvoir corrompre la jeune fille. De la même façon, l'action peut se dénouer dès qu'Isimandre parvient à renverser ces obstacles. Mais les personnages secondaires interviennent aussi dans ce dénouement. Florange attaquant Ormin, est tué par Isimandre. Ormin, par reconnaissance, lui cède la jeune fille.
+
+Par ailleurs les fils secondaires sont également liés entre eux. Florange et Ormin sont tous les deux opposés à Isimandre, mais ils sont aussi rivaux car amoureux de la même femme. Ainsi leur fils se croisent souvent : Ormin, après avoir soutenu Florange dans son projet de mariage, lui défend ensuite d'approcher Orante. Ce sont pour ces mensonges que Florange va chercher à se venger, et c'est cela qui va permettre le dénouement.
+
+
+## Recherche du spectaculaire
+
+Même quand Scudéry se fait le porte-parole de la doctrine classique, il ne cesse de réaffirmer son goût pour les histoires merveilleuses et surprenantes. Dans la préface de *Didon* [64], il déclare :
+
+
+Cette pièce est un peu hors de la sévérité des règles, bien que je ne les ignore pas ; mais-souvenez vous (je vous prie) qu'ayant satisfait les savants par elles, il faut parfois contenter le peuple par la diversité des spectacles et par les différentes face du théâtre.
+
+Dans sa recherche du spectaculaire, Scudéry est très représentatif de l'homme du début du XVII*e* siècle. Comme l'écrit Roger Guichemerre, les Français sortent d'une longue période de troubles politiques et religieux [65]. Les violences font partie de leur vie quotidienne. Pour retenir l'attention de ce public, il faut le surprendre, le faire trembler, le faire s'émouvoir.
+
+*Orante* est assez représentative de cette tendance : elle multiplie les événements hors du commun et les émotions fortes. Nous comptons deux duels dans cette pièce. Le premier affrontement a lieu entre Isimandre et Florange. Ce dernier a découvert chez Orante « comme Isimandre occupe sa belle ame ». Le vieillard décide de tuer Isimandre pour récupérer sa belle. Alors qu'Isimandre part rejoindre Orante, Florange l'interpelle ainsi (IV, 2) : « Temeraire Isimandre, apprens qu'il faut mourir. » Ce dernier n'a pas le choix et le combat commence. Malheureusement nous n'avons aucune indication sur le déroulement de l'affrontement. À peine Isimandre se décide à le combattre que déjà il attache le vieillard à un arbre. Pourtant la lutte a dû durer quelques instants car le héros est blessé. On imagine donc que les acteurs devaient avoir une scène de bataille assez spectaculaire, et bien préparée : Florange blesse Isimandre, et celui-ci attache le vieillard toujours armé à un arbre, tout en gardant son épée à la main.
+
+L'autre embuscade est assez traditionnelle comme le précise R. Guichemerre :
+
+
+Les ennemis et les rivaux n'ont pas toujours le courage d'affronter leur adversaire en face. Il arrive par exemple qu'un jaloux tende une embuscade à celui qu'une belle lui préfère [66] ....
+
+En effet, Florange fort de son expérience (il vient d'être battu par Isimandre), décide de faire « agir la force avecque l'industrie ; Deux braves employez seconderont (ses) coups ; ». Ainsi pendant qu'Ormin attend Isimandre au rendez-vous du duel, Florange l'attaque par surprise aidé de deux hommes. Trois hommes sont donc en train de se battre contre le pauvre Ormin, quand Isimandre arrive. Ne pouvant supporter une telle traîtrise, le jeune homme attaque Florange. Malheureusement, une fois encore nous manquons cruellement d'informations. Mais tout laisse supposer que notre héros tue très rapidement le vieillard (v. 1367-1370) :
+
+
+Isimandre
+Je ne sçaurois souffrir ce complot inhumain :  
+Le Ciel te destinoit à mourir de ma main ;  
+La seconde rencontre, acheve la premiere :  
+
+Argamor
+Fuyons,  
+
+Florange
+Je perds l'espoir, avecque la lumiere.  
+
+Nous remarquons l'héroïsme d'Isimandre qui n'hésite pas une seconde à s'attaquer à trois hommes, met en fuite les deux « braves », et tue le troisième. Cette scène a une valeur spectaculaire indéniable grâce tout d'abord à l'affrontement de quatre hommes, et ensuite au retournement de situation qui s'opère à l'arrivée d'Isimandre, venu à l'origine pour combattre Ormin.
+
+Nous remarquons un troisième affrontement à la scène 10 de l'acte IV. Ormin tente de poignarder Palinice la croyant responsable de la disparition d'Orante. Ce geste dèjà spectaculaire est accentué par une scène tout en stichomythie (v. 1109-1128). Ce procédé accélére le discours et fait monter la tension. Il s'agit véritablement d'un affrontement verbal où chaque vers et un nouveau coup porté à l'adversaire. Cette situation tient le public en haleine jusqu'à la crise. Les pages ont juste le temps d'arrêter Ormin.
+
+Une autre action particulièrement spectaculaire et appréciée du public, est la tentative de suicide d'Orante. Cette scène constitue un point fort de la pièce. Scudéry a choisi de la représenter sur le frontispice. Cette gravure est particulièrement parlante puisque l'on voit une gerbe de sang jaillir du bras d'Orante, alors que de l'autre main elle écrit à l'aide de ce liquide un message pour Isimandre. Grâce au *Mémoire de Mahelot*, nous savons que le décorateur avait tous les accesoires pour représenter une telle effusion de sang [67].
+
+Ce type de scène ne choque pas encore dans les années trente. Il s'agirait pour les classiques d'un manquement à la bienséance. Mais pour le public de cette époque, ce passage est tout à fait propice à susciter l'émotion.
+
+Eveline Dutertre va jusqu'à parler de merveilleux. L'évanouissement d'Orante et son réveil sont, selon elle, une mort suivie d'une résurrection. Ces propos semblent un peu exagérés, car il s'agit en réalité d'un évanouissement. Cependant, il est vrai que dans le roman, les personnages insistent à plusieurs reprises sur le coté extraordinaire de ce retours à la vie. Le messager de Cryséide confie à Arimant : « Seigneur, respondit le messager, elle a encor esté plus mal que l'on ne vous a point dit ; car on peut dire qu'elle a esté morte, et puis retournée en vie [68]. »
+
+
+## L'espace et le temps : sous le signe du mouvement
+
+Tout est mouvement et agitation dans *Orante.* Tout d'abord, Scudéry déplace son théâtre très souvent. Eveline Dutertre compte 15 changements de lieux [69]. Ce simple fait donne à l'action un mouvement indéniable. Il faut ajouter à cela les déplacements des personnages et les nombreux aller et retours entre Naples et Pise. Ces voyages s'accompagnent d'une profusion de verbes de mouvements. Isimandre parle de « l'esloignement de l'homme … qui doit rendre (sa) lettre » (I, 1). Clindor en effet est parti depuis six jours. Arrivé à Pise, il revient aussitôt avec le billet funèbre (II, 8). Mais ce n'est que pour repartir aussitôt ; car Isimandre veut se venger : « Partons Clindor, allons lui rendre cét office ; ». Entre temps Lucinde projette de partir pour Florence. Palinice lui conseille ce voyage pour échapper à Ormin (v. 735-738) :
+
+Ostez vous de ce lieu,  
+Ne voyez plus Ormin, partez sans dire adieu ;  
+Que Florange vous suive, & qu'apres dans Florence,  
+Il reçoive le fruit de sa persévérance.  
+
+Sous les conseils d'Isimandre, Orante s'enfuie « vistement » à Naples pour échapper au projet de sa mère (v. 782-783) :
+
+Sur les aisles d'Amour vollons en ma patrie :  
+Que Naples vous revoye en jeune Cavalier,  
+
+Quand Ormin apprend cette nouvelle, fou de colère, il part immédiatement (v. 1147-1148) :
+
+Quand tu pourrois voller, perfide assure toy,  
+Que tu me la rendrois, Leriste suivez moy.  
+
+Palinice et Lucinde ont la même réaction (v. 1151- 1156) :
+
+
+Lucinde
+Mais j'yray la trouver pour en avoir raison,  
+
+Palinice
+Souffrez en ce dessein que je vous accompagne ;  
+
+Lucinde
+Pourveu que nous partions, tout ce qu'il vous plaira.  
+
+Isimandre part rapidement à Pouzzole pour un duel : Lucinde qui l'espionnait dans les rues de Naples n'a pu voir où il allait (v. 1404-1408) :
+
+Je n'ay sceu dans trois pas, ce qu'il est devenu ;  
+Son extréme vistesse a trompé ma poursuite ;  
+A peine mes regards ont descouvert sa fuite,  
+(Chose qui m'a faschée, & qui l'a resjoüy)  
+Qu'en esclair, en phantosme, il s'est esvanoüy.  
+
+Scudéry a voulu doter sa pièce d'une certaine agitation à travers les nombreux lieux mais aussi les voyages des personnages. Eveline Dutertre remarque que Scudéry précise assez bien les déplacements de ses personnages, mais qu'il a cependant oublié de signaler le départ de Lucinde :
+
+
+Mais Scudéry représente sur la scène les mouvements de ses personnages avec une précision remarquable. Sans doute arrive-t-il parfois qu'il oublie de mentionner un voyage. L'on retrouve à Naples la mère d'Orante, que l'on avait laissée à Pise [70].
+
+Cette remarque nous paraît non fondée, car Scudéry a signalé le départ de Lucinde en même temps que celui de Palinice (v. 1151-1156) ;
+
+
+Lucinde
+Mais j'yray la trouver pour en avoir raison,  
+Deust mon pays natal me servir de prison.  
+
+Palince
+Souffrez en ce dessein que je vous accompagne ;  
+Car sans doute qu'Ormin va se mettre en campagne ;  
+Mon interest au vostre se meslera :  
+
+Lucinde
+Pourvueu que nous partions tout ce qu'il vous plaira.  
+
+Le relevé des verbes d'action est évidemment incomplet, mais il nous permet de comprendre que Scudéry a multiplié les voyages. Eveline Dutertre dans son étude, explique qu'*Orante* est un exemple particulièrement frappant de ce goût pour le mouvement [71].
+
+Scudéry accentue cet effet de mouvement par la récurrence du vocabulaire temporelle. Dès le début de la pièce, il revient très souvent dans le sonnet d'Isimandre la notion du temps (I, 1) :
+
+Mille ans ont fait leur cours depuis l'esloignement  
+De l'homme paresseux qui doit rendre ma lettre :  
+……………………………………………………  
+Avoir vescu mille ans, n'est-ce pas un bel âge ?  
+Mais que l'impatience, helas ! me rend peu sage,  
+…………………………………………………….  
+Depuis que j'escrivis, j'ay compté mille années ;  
+Et tout considéré, ce n'est que six journées,  
+Dieux ! que le temps est long pour un bien qu'on attend.  
+
+À la scène 7 de l'acte II :
+
+Que l'attente est fascheuse à l'Amant qui souspire !  
+Qu'un bien semble tardif quand on le désire !  
+Le cours d'un Siecle entier a bien moins de moments,  
+Que la crainte & l'espoir ne donnent de tourments.  
+
+Nous pouvons aussi signaler cette richesse des déplacements jusque dans les quatre tableaux qu'Isimandre décrit à la scène 7 de l'Acte III (v. 827-832).
+
+Voyez comme Apollon court apres sa Dafné ?  
+Elle devient un bois, dont il est couronné ;  
+Pour atteindre plustost cette Nimphe superbe,  
+Il laisse choir sa lire, & son carquois sur l'herbe ;  
+Il la suit, elle fuit, & va de toutes parts,  
+La robe retroussée & les cheveux espars.  
+
+Il est par ailleurs très difficile d'évaluer la durée de l'action. Nous savons que Clindor met six jours pour apporter la lettre à Orante. Mais combien de temps lui faut-il pour rapporter le billet de la jeune fille ? Est-ce que les six journées représentent le temps qu'il a fallu au serviteur pour faire l'aller retour ? Nous n'avons rien de précis. Nous savons tout du moins que l'action s'étend sur quelques semaines.
+
+
+## Les déguisements
+
+Les déguisements sont assez communs : Le héros change de condition pour s'introduire chez sa belle. Cette motivation est l'une des plus courantes comme l'explique Georges Forestier : « l'approche est la principale finalité des déguisements masculins [72]. » L'héroïne se travestit pour échapper à un mariage. Ce déguisement motivé par la fuite est lui aussi assez commun. Il s'agit de deux déguisements d'apparence conscients. Nous pouvons compter un troisième déguisement qui est celui de la suivante, que Georges Forestier appelle un « déguisement accessoire [73] ».
+
+Bien que classiques, ces déguisements sont très importants dans le déroulement de l'action. C'est grâce à eux que la situation va pouvoir évoluer. Cela permet au couple d'échapper au premier obstacle : le mariage arrangé. Isimandre déguisé s'introduit chez Orante, et organise la fuite de la jeune fille. Le travestissement va permettre à la pièce de se dénouer. Ormin, fou de colèe décide de provoquer en duel Isimandre.
+
+Et grâce à son déguisement, Orante parvient à convaincre Poliante du bien fondé de leur amour (V, 3). Ce dernier point nous semble très important car il est probable que la jeune fille avec son statut de femme n'aurait pu parler au roi de Pise comme elle le fait. Orante s'adresse à Poliante avec une certaine assurance. Elle utilise l'impératif à plusieurs reprises (v. 1271-72):
+
+Vous dervriez desormais l'arrester en ces lieux ;  
+Songez que la fortune est un monstre sans yeux,  
+
+Puis, en utilisant la seconde personne du pluriel, elle s'inclut dans l'éducation du prince. Orante va même jusqu'à lui signaler les erreurs que Poliante commet :
+
+Peut-estre en cét Himen voulez vous trop choisir : (v. 1280)  
+Vous oubliez un point d'une importance extréme : (v. 1285)  
+
+La jeune fille aborde sans détours des problèmes politiques très anciens, et affirme au roi qui l'a chassée quelques semaines auparavant de la cité que cette haine héréditaire est ridicule. Orante emploie des tournures simples, sans artifice. Nous remarquons une certaine économie des mots de liaison qui donne à son langage un ton autoritaire et assuré (v. 1309-1314) :
+
+Les haines des parens sont de foibles obstacles ;  
+Et l'Amour est un Dieu, qui se plaist aux miracles.  
+Cette vieille querelle a desja trop duré ;  
+Elle desplaist au Ciel ; soyez en assuré :  
+Il n'assemble les cœurs d'un fils et d'une fille,  
+Que pour mettre en repos l'une & l'autre famille.  
+
+Cette assurance contraste nettement avec l'attitude qu'adopte Orante une fois qu'elle revêt son costume féminin. Sa prise de parole est fortement réduite. Dans la dernière scène, elle n'intervient que deux fois. Tout d'abord pour traduire sa gêne : « Mon silence, & mon teint vous parlent de ma honte : » (v. 1477).
+
+Puis pour acquiescer ce que décrit Poliante (v. 1485-1489) :
+
+
+Poliante
+Sous l'un & l'autre habit esgalement j'admire,  
+Tantost la belle Orante, & tantost Cleomire ;  
+Mon cœur n'est pas un bien que je donne à demy ;  
+Je l'aime comme fille, & l'aimois comme amy.  
+
+Orante
+Et je vous serviray pour tous les deux ensemble :  
+
+Ce changement d'attitude nous prouve que le déguisement d'Orante conditionne sa manière de parler.
+
+
+# Les personnages
+
+La pièce de Scudéry met en scène des personnages tout à fait communs aux autres tragi-comédies. Leurs traits de caractère sont assez conventionnels, et pour reprendre les termes d'Eveline Dutertre, les personnages « se réduisent à quelques marionnettes sans épaisseur humaine [74] ». Comme nous l'avons déjà dit, les dramaturges du début du XVII*e* recherchaient avant tout du spectacle, et n'accordaient qu'une place très réduite aux caractères des personnages.
+
+
+## Un couple de héros
+
+Les personnages centraux sont, sans doute possible, Orante et Isimandre. Mais il faut tout de même noter que le véritable héros de la pièce n'est pas, comme le titre pourrait nous le laisser penser, Orante, mais Isimandre. Nous en avons l'indication dès le début dans la liste des acteurs. Comme l'écrit Jacques Scherer [75] : « On nomme d'abord dans la pièce … les véritables héros … après eux … leurs maîtresses. »
+
+L'étude tabulaire nous donne une idée assez exacte de la place des héros. Nous comptabilisons pour Isimandre trois cent soixante sept vers et demi, alors qu'Orante n'a droit qu'à deux cent vingt-sept vers.
+
+Isimandre correspond au héros type : beau, jeune, courageux, vertueux, galant…
+
+Il semble absolument parfait comme le souligne Lucinde (v. 1420) : « Il est nostre ennemy, mais il est tout parfait. »
+
+Courageux, il l'est sans aucun doute. Avant le début de la pièce, il s'est déjà acquis une très solide réputation sur le champ de bataille (V, 3) :
+
+On ne sçauroit cacher une si belle vie,  
+Qui fait parler l'Histoire, & fait taire l'envie.  
+Mais comme sa valeur dés ses plus jeunes ans,  
+A mis la poudre aux yeux à tous les Courtisans ;  
+Et que suivant vos pas aux dangers de l'armée,  
+Il a pris bonne part à vostre renommée,  
+
+Il n'aura cesse de prouver sa force militaire tout au long de la pièce. Il triomphe aisément de Florange, quand ce dernier l'attaque par surprise. Isimandre parvient à désarmer immédiatement le vieillard et l'attache à un arbre (IV, 1).
+
+Par ailleurs, Isimandre est un jeune homme absolument vertueux. Il possède une certaine noblesse de cœur, qui l'empêche de tuer Florange quand celui ci, ligoté, est à sa merci. Cette admirable bonté s'accompagne d'un sens aigu de l'honneur. Et dans les propos de son père, nous reconnaissons la ligne de conduite du fils (V, 9) :
+
+Si je suivois mon fils, en suivant mon envie,  
+Je perdrois son honneur pour luy sauver la vie :  
+Qu'il revienne vainqueur, ou qu'il reste vaincu,  
+Je desire qu'il meure ainsi qu'il a vescu.  
+
+Ce sens poussé de l'honneur lui fait prendre la défense d'Ormin, pourtant son ennemi et rival. Voyant que Florange l'attaque par surprise, secondé de deux braves, il ne peut « souffrir ce complot inhumain ». À peine a t-il fini sa réplique qu'il tue Florange.
+
+Ce qui caractérise bien sûr tous les héros de Scudéry est l'incroyable amour qu'il voue à l'héroïne. Isimandre rend un culte à Orante. On assiste à un total abandon de soi pour l'être dont il est épris (I, 1) :
+
+A quiconque aime bien qu'importe l'un ou l'autre ?  
+Le veritable amant ne doit rien esperer ;  
+Rien demander aux Dieux, c'est assez d'adorer :  
+Je me tiens satisfait, seulement quand j'y pense ;  
+L'amour qui fait ma peine en est la recompense ;  
+
+Il faut signaler un dernier point très important : il est un amoureux malheureux. Dès la première scène, il prend ce ton de lamentation lyrique qu'il ne quittera qu'à la fin. Nous pouvons reprendre les termes assez ironiques de son écuyer, pour comprendre dans quels excès la mélancolie l'a poussé (I, 3):
+
+Il désire la mort ; il maudit sa naissance ;  
+Il accuse le sort ; il attaque les Cieux ;  
+Et croit que pour pleurer Nature fit les yeux.  
+………………  
+Il rend les Bois tesmoings de son inquietude,  
+Son unique recours est en la solitude ;  
+C'est là, que librement dans le mal qui le point,  
+Il se plaint à l'Amour, qui ne le quitte point :  
+
+Ce dernier aspect fait de lui un héros accompli : fine lame, excellent guerrier, valeureux et courageux. Il manque uniquement une indication sur son âge. En effet, il doit s'agir d'un jeune homme, mais rien n'est écrit à ce sujet.
+
+Orante possède, elle aussi les mêmes caractéristiques héroïques que son amant. Elle est incroyablement belle (II, 2) :
+
+Qui peut n'aimer pas, et la voir ?  
+A ses beaux yeux tout est possible :  
+Qui n'est point touché par ses appas,  
+A la qualité d'insensible.  
+
+Et en effet, Ormin dit juste, tout le monde succombe à ses charmes, Florange le vieux barbon, son cousin, le prince ennemi, même Poliante a été charmé d'une certaine façon par Cléomire (V, sc. dernière) :
+
+Souz l'un & l'autre habit esgalement j'admire,  
+Tantost la belle Orante, & tantost Cléomire ;  
+Mon cœur n'est pas un bien que je donne à demy ;  
+Je l'aime comme fille, & l'aimois comme amy.  
+
+Elle aussi est très malheureuse. Dès sa première apparition, le spectateur compatit au malheur de cette pauvre fille, le suicide sur scène après une longue déploration en stances aidant. Le personnage d'Orante est assez grossier. Scudéry la présente comme une jeune fille issue de la haute noblesse (son cousin germain est roi de Naples), absolument vertueuse comme le rappelle la femme de son cousin : « Orante aime l'honneur » (v. 319).
+
+Nous pouvons signaler un dernier point, qu'Eveline Dutertre a très justement remarqué [76], la jeune fille a plus la trame d'un héros qu'Isimandre :
+
+
+Paradoxalement, les figures féminines échappent à cette mollesse généralisée chez les jeunes premiers, au point que l'on serait tenté de dire que les caractères les plus virils du théâtre de Scudéry se trouvent chez les femmes.
+
+Orante, en effet, au lieu de se répandre en lamentation, agit. Dès sa première apparition sur la scène, elle préfère s'ouvrir les veines plutôt que d'épouser un homme qu'elle n'aime pas. Alors qu'elle met au point son projet d'évasion avec Isimandre déguisé en marchand, elle garde un magnifique sang froid quand Ormin fait intrusion. De la même façon, elle va convaincre avec une fermeté incroyable le roi de Naples sur le bien fondé de leur amour (V, 3). Alors qu'Isimandre lui conseille d'user de ses grâces féminines (V, 2), elle n'essaie pas une seule fois d'apitoyer Poliante, mais garde un ton ferme et posé. Comme nous l'avons vu dans l'étude des déguisements, pleine d'assurance, elle lui donne des conseils sur sa manière d'élever son fils (v. 1271-1274) :
+
+Vous devriez desormais l'arrester en ces lieux ;  
+Songez que la fortune est un monstre sans yeux,  
+Et qu'elle peut frapper ceux qu'elle favorise :  
+Donnons-luy des desirs que le vostre authorise ;  
+
+Après l'impératif, Orante passe du vouvoiement à la deuxième personne du pluriel, comme si elle s'incluait dans l'éducation du prince. Elle va aborder un sujet de politique sur le même ton (v. 1311-1314) :
+
+Cette vieille querelle a desja trop duré ;  
+Elle desplaist au Ciel ; soyez en assuré :  
+Il n'assemble les cœurs d'un fils et d'une fille,  
+Que pour mettre en repos l'une & l'autre famille,  
+
+Scudéry semble avoir esquissé un personnage assez déterminé. Elle n'hésite pas, ou à peine [77], à s'enfuir avec son amant, déguisée en homme vers une terre dont elle a été exilée.
+
+
+## Les rivaux
+
+Les personnages des rivaux, Ormin et Florange sont deux caractères assez différents. Le premier, bien qu'étant un personnage secondaire semble être très dépendant de l'action. Le deuxième, est d'une façon plus schématique LE mauvais de l'histoire, et le sort que la pièce lui réserve nous l'indique : c'est à partir de sa mort que tout va pouvoir s'arranger.
+
+Ormin représente le principal obstacle au bonheur des deux héros. En rival qui se respecte, il va tout faire pour conquérir Orante. Comme le précise Héléne Baby, il n'est pas innocent qu'Ormin soit noble, car sa condition de rival « présuppose celle d'égalité [78] ».
+
+Il va user de son pouvoir royal sans complexe pour élaborer un plan de séduction. Il veut marier Orante à Florange, pour séduire la jeune fille déçue par ce vieux mari. Palinice le confirme dès la scène 4, de l'acte I : « La foy de mon mary vous assure la sienne. »
+
+Quand Ormin s'aperçoit qu'il peut la séduire en lui étant agréable, il interdit cette union et revient sur sa parole. Il n'hésite pas, pour cela à rappeler son pouvoir royal (II, 6) :
+
+
+Ormin
+Qui vous fait si hardy, que de m'estre rebelle ?  
+
+Florange
+Fermez l'œil pour ma faute, & voyez cette Belle.  
+
+Ormin
+Allez, si jamais plus vous procedez ainsi,  
+Je vous feray bien voir, que je commande icy.  
+
+Cet aspect correspond assez bien au type de personnage que La Mesnadière a décrit dans sa *Poétique* :
+
+
+Par exemple un roi sera … jaloux de son autorité, … & punira sévérement les manquemens de respect que l'on commettra devant lui [79].
+
+Ormin, icy s'arrête à la menace, mais quand Florange lui apprend qu'« Isimandre emmène » Orante, il n'hésite pas un instant (IV, 10) :
+
+Mais quand Naples seroit en ces Plages desertes,  
+Qui par les Matelots ne sont pas descouvertes ;  
+Quand tu la cacherois en ces lieux retirez,  
+Que les rayons du jour n'ont jamais esclairez ;  
+Quand tu te logerois au milieu d'une armée ;  
+Quand tu disparoistrois comme un corps de fumée ;  
+Quand tu pourrois voller, perfide assure toy  
+Que tu me la rendrois, Leriste suivez moy.  
+
+Cette série d'anaphore montre chez le personnage une colère croissante. La répétition de « quand » vient marteler la phrase et donne au passage un grand potentielle rythmique. Cette insistance accompagnée d'un certain crescendo produit l'effet d'un personnage perdant peu à peu le contrôle de soi-même. Ormin commence par énoncer des situations plausibles et réelles : cacher la jeune fille dans un lieu ignoré de tous même du soleil. Il ajoute une difficulté : Orante est défendue par toute une armée. La tentative pour sauver la jeune fille devient alors particulièrement périlleuse, mais nous restons dans le domaine du possible. Les deux situations qu'Ormin décrit ensuite sont par contre absolument irréalistes : même si Isimandre se transformait en fumée, ou s'il pouvait voler, il serait capable de la ramener. Les propos d'Ormin sont tout à fait hyperboliques. Ce procédé montre l'étendue de sa colère. Comme La Mesnardière le préconise, ce prince jaloux va immédiatement se mettre à la poursuite d'Isimandre pour l'affronter :
+
+
+S'il lui prend une jalousie sur quelque sujet apparent, je ne trouveray point mauvais que l'excès de la colère lui fasse … affronter son rival à la première rencontre [80].
+
+Le caractère d'Ormin correspond aussi au « prince amoureux » selon la classification de la Mesnardière [81] :
+
+
+Ses respects seront si grands qu'ils tiendront plus de l'Idolatrie plutot que de la servitude. Il ne lui parlera jamais qu'avec des termes soumis, qu'il semble que ses discours s'adressent à une déesse, plustost qu'à une mortelle.
+
+Le vocabulaire divin pour qualifier Orante revient effectivement très souvent. Palinice décrit bien l'attitude de son époux (II, 1) :
+
+Il la peint des couleurs, dont on peindroit un Ange ;  
+Il luy donne l'encens qu'on offriroit aux Dieux ;  
+Il méprise la terre, & se mocque des Cieux ;  
+Afin de l'obliger, il manque à sa promesse ;  
+Florange, n'estant qu'homme offence sa Deesse ;  
+Pour posseder ce corps il faut estre immortel,  
+Bref, pour avoir sa couche il luy dresse un Autel.  
+
+Mais comme nous l'apprend Eveline Dutertre, il s'agit d'une constante chez les héros des pièces de la première manière :
+
+
+Comme les héros de l'*Astrée*, les amoureux de Scudéry, même lorsque leur amour coupable les entraîne au crime, sont vis-à-vis de l'être qu'ils aiment des amoureux parfaits, d'une fidélité à toute épreuve, dévoués jusqu'à la mort.
+
+Ce dernier point montre que Scudéry n'a pas cherché à créer un caractère cohérent. Le personnage d'Ormin dépend entièrement de l'action. Ormin passe d'un amour respectueux, à une haine criminelle. Par douleur et colère, soupçonnant sa femme d'avoir enlevé Orante, il menace de l'assassiner (IV, 7) :
+
+Mais un coup de poignard luy va percer le sein,
+
+Si sa ruse entreprend de faire l'ignorante ;
+
+Elle perdra le jour, si je perds mon Orante.
+
+À la scène 10 de l'acte IV, après un dialogue en stichomythie entre Lucinde et Ormin, celui-ci va tenter de la tuer. Les pages heureusement l'arrêtent à temps (v. 1125-1127) :
+
+
+Ormin
+Ha ! ne contestez plus, rendez la moy, vous dis-je :  
+Quoy ! vous n'en ferez rien ?  
+
+Il la veut frapper d'un poignard.
+
+Lucinde
+O bons Dieux, quel prodige⁎ :  
+Page, secourez moy, je ne le puis tenir :  
+
+Ormin est donc un rival qu'on ne peut pas opposer de façon manichéenne au héros ; comme le suggère Roger Guichemerre [82]. Ainsi à la fin de la pièce, on assite à un complet revirement. Ormin qui a tout le temps négligé son devoir, repproche à Florange d'oublier l'honneur. Ce sursaut de vertu est tout à fait surprenant car à la scène précédente il tentait encore d'assassiner son épouse. De la même façon, Ormin fait preuve d'une grande honnêteté lorsque, séduit par les qualités d'âme d'Isimandre, il lui céde Orante sans discussion. À partir de ce moment, Ormin apparaît comme un roi sage et humble. Il met fin à la haine ancestrale qui séparait les deux familles et demande immédiatement pardon à sa femme.
+
+Ce revirement est donc soumis aux exigences de l'action. Il est impératif que le Roi de Pise mette fin à la guerre, qui sépare les deux amants. Il s'agit du principal obstacle, sans lequel le dénouement serait impossible.
+
+Cette dualité de caractère, qu'Eveline Dutertre apparente à une esquisse psychologique [83], montre que Scudéry n'a pas cherché à construire des caractères cohérents. Ormin n'est ni absolument mauvais, ni absolument bon, son attitude est simplement soumise aux impératifs de l'action. Comme l'écrit Baby Héléne, « l'action tragi-comique s'encre dans la contingence interne ». Contrairement à la dramaturgie classique, les événements ne sont pas définis dans l'introduction mais « prennent naissance au fur et à mesure de la pièce [84] ». C'est pourquoi le personnage d'Ormin n'obéit pas à une logique qui aurait été fixée dans la présentation du caractére, mais il dépend de l'évolution de l'action.
+
+Ainsi Ormin est tantôt un calculateur machiavélique, tantôt un amoureux respectueux. Il passe du crime passionnel à la clémence et à la sagesse royale.
+
+Le personnage de Florange, occupant un rôle moindre dans le déroulement de l'action, à un caractère plus constant. Il correspond tout à fait au « personnage antipathique, au repoussoir du héros », que Roger Guichemerre [85] décrit.
+
+Il est tout d'abord vieux, comme le rappelle Orante (II, 4) : « Songez que le Sepulchre est près de votre couche. » Comme Clorange dans *L'Astrée*, il est laid. C'est sur ces deux points qu'Ormin a fondé son stratagème (I, 2) : « Je bastis sur l'espoir de sa mauvaise mine. ».
+
+Florange est complètement ridicule en amoureux. Comme le montre la Mesnardière, un vieil homme sera avare, sage, se plaindra des turbulences de la jeunesse. L'amour ne doit pas faire partie de ses préoccupations. Ici, ce contraste avec la « vraisemblance ordinaire » [86], crée une situation comique. « Ce vieux spectre que les ans n'ont pas rendu plus sage. » (IV, 3) se dit amoureux mais ne comprend rien à ce sentiment, et conseille maintes fois à Orante de « compter (son) argent plustost que (ses) années ». Il est par ailleurs totalement égoïste. La tristesse de la jeune fille lui fait peur pour une unique raison : il craint que le mariage soit annulé. Il « pleint la douleur que (son) plaisir lui donne », mais ne s'en soucie guère plus. Lucinde lui assure qu'elle a « le pouvoir de la mettre en « ses » bras comme dans son devoir » et « ce discours (le) ravit ». Il n'a aucun égard pour les sentiments de la jeune fille et prolonge des entretiens qui lui sont désagréables. Personnage antipathique, obstacle au bonheur des amoureux, il est vite catalogué comme « méchant » [87] de la pièce.
+
+Le reste de son comportement ne va venir qu'accentuer cette idée. Florange peureux, préfére attaquer par surprise Isimandre, et Ormin. Il est le personnage, qui, épargné par le héros, va immédiatement le trahir en allant annoncer sa fuite. Lors de ce duel, il s'était d'ailleurs couvert d'infamie, en demandant à Isimandre de l'épargner et en lui rendant son épée, marque ultime de déshonneur. Il est absolument lâche, et pour se venger engage deux hommes pour lui prêter main forte contre Ormin. Leur mission remplie, il projette de les assassiner pour ne laisser aucune trace de sa culpabilité. L'injustice d'un tel affrontement ne l'inquiète pas un instant (v. 1187-1190) :
+
+Deux BRAVES employez seconderont mes coups ;  
+Ce sont là des exploits qui sont dignes de nous.  
+Aux combats inégaux la victoire est certaine ;  
+Quand on veut rompre en lice, ou courre à la quintaine  
+L'egalité sied bien, car elle est sans danger :  
+
+Nous voyons que Florange n'a pas une once de morale. Mauvaise lame, il est tué très rapidement par Isimandre qui l'avait déjà épargné une première fois. Florange, cet homme sans honneur est puni, la morale est respectée.
+
+La lacheté, l'égoïsme, l'amour de l'argent, il est clair que le vieillard ressemble au personnage de la comédie à l'italienne, que nous retrouvons dans les comédies de Molière. De la même façon que Sganarelle est manipulé par Scapin, Florange va l'être par Ormin. Comme l'écrit Marcel Gutwirth au sujet du personnage du célébre comédien et dramatuge, « sa protestation (le barbon) aggrave la caricature : ne pouvant échapper à son destin il le nie » [88]. Florange, à la scène 8 de l'acte V, affirme qu'en amour son âge « n'a rien qui soit infâme ».
+
+Absolument ridicule, laid et mal-honnête, Florange d'une façon schématique, est le repoussoir du héros.
+
+
+## Des amoureux précieux
+
+L'attitude des personnages amoureux correspond au code de l'amour tendre. Ce code établit une ligne de conduite que le couple doit respecter.
+
+L'amant est tout d'abord malheureux. Jean-Michel Pelous rapporte très justement un vers de Suréna (I, 3) : « toujours aimer, toujours souffrir, toujours mourir [89]. » C'est pourquoi nous voyons souvent des amoureux galants pris dans de longs monologues plaintifs. C'est l'occasion pour eux de montrer la force de leur amour. La première apparition d'Ormin est entièrement consacrée à ce sentiment (I, 2) : l'amour l'« attaque », les regards de sa bien aimée « ont des traicts qui percent jusqu'au cœur » (v. 133). À l'acte II, scène 2, nous le voyons encore plus abatu, il ne parle plus que de « malheur », de « douleurs », et son amour peut le conduire jusqu'à la mort : « Ouy, je la veux aimer jusqu'en la sepulture » (v. 385). Isimandre n'est pas épargné par cette souffrance, le départ d'Orante le torture (v. 455-457) :
+
+Je ne sçaurois plus endurer ;  
+Mon mal est trop grand pour durer ;  
+Vostre abscence me tyrannise :  
+
+Florange n'échappe pas non plus à ce sentiment de douleur. Bien que cela prenne une connotation comique, lui aussi souffre. Dès qu'il se retrouve seul, il se laisse aller à son malheur : Il n'éprouve que « peine », et «souffrance ». Nos personnages correspondent tout à fait aux amants précieux que Jean-Michel Pelous décrit : « le malheur est une nécessité attachée à la condition d'amant et dès qu'ils se croient seuls, ils passent le plus clair de leur temps à gémir [90]. »
+
+Mais il ne s'agit cependant pas d'amants agonisants. Ils ne sont en aucun cas des lâches, car ils aiment leur soumission. Ormin nous le confie dès la scène 2, de l'acte I : « J'aime (je le confesse) Orante me posséde », son cœur est « bon esclave il aime son vainqueur ». Isimandre rappelle cette servitude adorable de l'amour (I, 1) : « la Liberté s'enfuit, d'où la belle se treuve ». Ormin résume assez bien leur condition d'amant (v. 355-356) :
+
+Je me vante de mes douleurs ;  
+Tant je cheris ma servitude :  
+
+
+## Les parents
+
+Ils ont dans Orante un rôle assez minime. Ils ont tous les deux une fonction d'opposant : Lucinde, car elle veut marier sa fille à Florange, et Poliante car il est celui qui a exclu Orante et sa mère.
+
+Lucinde a le pouvoir du père puisqu'elle est veuve. Elle représente comme le dit Jacques Scherer le pouvoir absolu et indiscutable [91]. En effet, « il revient au père, selon les usages, au moins littéraires au XVII*e* siècle, de décider sans appel du mariage de ses enfants [92]. » Chose que Lucinde rappelle clairement (v. 201-204) :
+
+Vous l'accusez à tort, elle a plus de bonté ;  
+Son cœur ne prend de loy que de ma volonté ;  
+Son esprit est fort doux, j'en dispose absoluë ;  
+Florange, elle est à vous, si j'y suis resoluë :  
+
+Contrairement à Poliante, à aucun moment elle se soucie de sa fille. Elle a purement le rôle de responsable d'Orante, mais non pas le rôle de mère.
+
+Poliante n'a pas seulement ce rôle de responsable, il apparaît comme un père à la fois sévère et aimant. Dès sa première apparition (IV, 3), on remarque une certaine sévérité conjuguée à un sentiment d'inquiétude (v. 949-1000) :
+
+Que n'es tu tesmoing de mon inquietude ?
+
+Je te ferois rougir de ton ingratitude ;  
+Fils sans obeïssance, enfant sans amitié,  
+A qui mes cheveux blancs n'ont sçeu faire pitié.  
+………………………………………….  
+Il (mon esprit) a desja couru tous les coings de la terre,  
+Ingenieux qu'il est, il feint [93] mille dangers,  
+Que trouve ce cher fils aux climats estrangers ;  
+Je le crois voir sur l'onde, & pris par un Corsaire ;  
+……………….  
+Grands Dieux, de qui les mains tiennent nos destinées,  
+Pour allonger ses jours, retranchez mes années ;  
+Et bornant son voyage ainsi que mon ennuy,  
+Que je meure en moy mesme, & que je vive en luy.  
+
+Malgré un premier sentiment de colère, nous gardons l'image d'un père aimant et prêt à tous les sacrifices pour son fils. Bien qu'Isimandre se soit montré irrespectueux en quittant le logis paternel sans autorisation, Poliante ne lui en tient pas réellement rigueur. D'ailleurs ces premiers reproches semblent davantage suscités par les angoisses d'un père inquiet, plutôt que par un orgueil froissé.
+
+Mais Poliante est aussi un roi, et sait ce qu'exige le devoir. Quand il apprend que son fils est parti seul pour se battre en duel, pris de peur il veut partir à se recherche pour empêcher cet affrontement. Mais bien qu'il soit « homme & père », il se souvient qu'il faut combattre ce sentiment pour respecter l'honneur de son fils. En effet (v. 1423-1426) :
+
+L'Amitié m'abusoit ; son conseil estoit faux ;  
+En le considerant j'en ay veu les deffaux :  
+Si je suivois mon fils, en suivant mon envie,  
+Je perdrois son honneur pour luy sauver la vie :  
+
+Il n'oublie donc pas son rang, et la ligne de conduite que cela exige.
+
+Il est aussi sage et clément. Il condamne cette haine qui l'oppose à la famille d'Ormin et se réjouit d'y mettre un terme.
+
+Poliante représente, plus qu'un simple obstacle au bonheur des héros, l'image du roi juste. Reconnaissant ses erreurs, aimant son fils, et plaçant au-dessus de tout l'honneur.
+
+
+# L'écriture de la tragi-comédie
+
+
+## Les thèmes
+
+
+### Le thème du hasard et de l'inconstance
+
+Dans toute la pièce les personnages ne cessent de se plaindre de la fortune et de son inconstance.
+
+Poliante tremble à l'idée des périls qu'encourt son fils et sait que le hasard gouverne la vie des hommes. Il sait que les forces de la nature dépendent de « la fortune » (v. 985), et que « l'inconstance » (v. 986) y régne en maîtresse.
+
+Orante dans les différents malheurs qui l'accablent, sait que l'homme est le jouet des caprices du sort. C'est ce qu'elle rappelle à Poliante : « la Fortune est un monstre sans yeux. »
+
+Jean Rousset a remarqué ce phénomène dans toutes les tragi-comédies du XVII*e* siècle :
+
+
+La destinée dans la tragi-comédie, est une fée capricieuse et joueuse, méchante sans cruauté, qui marche en dansant et en ligne brisée, n'accablant l'homme que pour le relever, le jetant de péripétie en péripétie comme une balle dont elle s'amuse [94].
+
+Nous trouvons aussi dans *Orante* une idée de discontinuité. Tout d'abord dans les lieux. Nous passons de Pise à Naples d'une scène à l'autre. Ce théme se retrouve également dans la nature même des lieux : ouverts ou fermés. Entre le temple « un lieu toujours ouvert » (v. 1004), et le Palais, ou encore la chambre, le spectateur « sautille » d'espace en espace. Par ailleurs comme le suggére Baby Héléne, il existe aussi une discontinuité dans l'écriture même. Et pour cela Orante est très représentative. Nous passons de la rigueur alexandrine à la légéreté des stances, ou d'un sonnet, du dialogue à la lecture d'une lettre ou d'un billet. « Tous ces passages sont autant d'îlots textuels qui surgissent sur la toile tissée pas les Alexandrins ».
+
+Tous ces éléments traduisent à travers cette irrégularité, un gôut pour l'inconstance et l'illusion. Comme le précise Georges Forestier [95], le début du XVII*e* est en pleine transition, l'homme passe des valeurs sûres médiévales aux doutes de la renaissance, et c'est ce qui explique le succés que connaît ces thémes dans les années trente.
+
+
+### La nature
+
+Les éléments de la nature reviennent très souvent dans cette tragi-comédie. Cette récurrence n'est pas sans importance. Comme le souligne Jean Rousset, cette « nature est à demi symbolique ». L'*Astrée* a donné comme un modèle de vie à ses lecteurs. Ce célèbre roman nous enseigne qu'il faut se tourner vers la nature, et qu'elle est en fait « un songe d'amour ». Les héros d'*Orante* ne cessent d'y faire appel. La beauté d'Orante dépasse selon Isimandre les plus belles choses du monde : les lys, les roses, l'albastre, le corail, les perles ou encore l'or. Clindor nous confie que son maître, malheureux d'être séparé de sa bien aimée, se réfugie dans les bois. C'est dans ces lieux que l'amour lui a dicté sa lettre. Comme dans la pastorale, tout est amour dans cette nature.
+
+Mais ce n'est pas la seule image que nous avons de la nature. Elle prend tour à tour une douceur pastorale, ou une instabilité baroque.
+
+La terre, lieu d'amour, apparaît aussi comme un univers dangereux, où des milliers de périls guettent le voyageur. Poliante craint pour la vie de son fils, et rappelle qu'Isimandre a déjà parcouru tous les coins de la terre. Tous les lieux sont exposés à la violence farouche de l'environnement (IV, 3) :
+
+Je le crois voir sur l'onde, & pris par un Corsaire ;  
+Je crois que son argent tente les matelots ;  
+Je crains comme les vents, les rochers, & les flots ;  
+Leur calme le plus doux despend de la fortune ;  
+Et l'inconstance y regne aussi bien que Neptune.  
+Je le descends à terre avecque mes douleurs ;  
+Je le vois dans un bois attaqué des voleurs.  
+Je l'apperçoy combattre au milieu d'une armée ;  
+
+Nous voyons dans *Orante* une double influence. Tout d'abord la source de cette œuvre, l'*Astrée*, apporte comme jean Rousset le dit à propos des pastorales dramatiques, un certain mode de vie [96] : « Dans la nature, le bonheur existe pour les cœurs purs ». C'est la situation que nous retrouvons ici. Le plus souvent, c'est Isimandre, le héros vertueux, qui se réfugie dans les bois, et admire les beautés du monde. La nature prend deux visages : elle peut être protection et amour, ou danger et instabilité.
+
+Nous pouvons souligner un autre aspect issu de la pastorale dans *Orante*. Il s'agit du passage où Isimandre commente les tableaux (III ; 6, 7). Les épisodes mythologiques choisis par Scudéry ressemblent parfaitement aux amours de ce genre théâtral. Les quatre scènes nous montrent une nature propisce à cette passion : nous voyons Actéon dans un bois, en train d'observer Diane dans son bain. Toujours dans une forêt, Isimandre nous montre Dafnée fuyant les avances d'Apollon. Dans sa course le Dieu abandonne ses affaires sur l'herbe, mais il ne parvient tout de même pas à rattraper la jeune fille qui est changée en laurier. Nous voyons aussi Junon allant retrouver dans un bois caché Ixion, ou encore Vénus changeant Adonis en fleur pour le sauver de la mort. Les amants séparés, victimes des dieux, sont des thèmes tout droit sortis de la pastorale dramatique :
+
+
+Les chaînes d'amoureux qui se poursuivent en vain dans les sous-bois et qu'un Dieu capricieux tour à tour associe et dissocie en couples instables [97].
+
+Ces deux courants donnent à *Orante* une même dominante, c'est l'instabilité.
+
+
+### Le pictural
+
+Dans la préface d'*Andromire*, Scudéry reprend le traditionnel parallèle entre la poésie et la peinture :
+
+
+Pour moi, je mets la même différence entre ces sortes de poèmes [98] qu'entre ces peintures qui ne savent faire qu'une figure à demy corps et cet illustre et fameux Poussin qui … a peu de maitres aux siècles passés et a peu d'égaux dans le nostre [99].
+
+Nous remarquons cette passion à plusieurs reprises dans la pièce. Scudéry s'attarde aux couleurs, aux lignes. Il affectionne particulièrement les images colorées, l'amour devient « flame », la colère n'est que « feu » (v. 1045) : « Le feu de mon courroux se mesle avec ma flame » et la honte se lit sur les joues (v. 1477) : « Mon silence, & mon teint vous parlent de ma honte ».
+
+Scudéry utilise en effet les couleurs chaudes qui sont propres à toutes les passions (v. 1051) :
+
+Et permets que son sang puisse effacer l'affront,  
+Qui me perce le cœur, & me rougit le front.  
+
+Ici la vengeance et la honte prennent la même couleur. Nous pouvons noter le paradoxe qui accentue l'aspect tout à fait sanglant de l'image. Ormin veut effacer la rougeur de sa honte, par l'incarnat du sang.
+
+Il aime les images colorées et vivantes, et comme le dit Eveline Dutertre : « sa plume s'est transformée en pinceau » [100]. En choisissant de faire d'Isimandre un marchand de peinture et non pas un vendeur de toile, comme c'était le cas dans l'*Astrée*, Scudéry a pu insérer cette petite scène amusante où Isimandre décrit quatre tableaux représentant des scènes mythologiques. L'utilisation des tableaux est un moyen pour le dramaturge de susciter les passions. Comme le dit Emmanuelle Henin dans sa thèse Ut Pictura theatrum.* Théâtre et peinture de la renaissance au classicisme français*, la peinture « est douée d'une *enargeia* maximale ». Cela lui donne un grand pouvoir pour agir sur les passions. En effet les images viennent soutenir le discours. Scudéry cherche à émouvoir le spectateur par la pitié. Dafnée affolée et désemparée face au Dieu est soutenue par la descrition qu'en fait Isimandre (v. 831-832) :
+
+Il la suit, elle fuit, & va de toutes parts,  
+La robe retroussée, & les cheveux espars.  
+
+Le discours du marchand traduit la détresse de Dafnée. Le rythme du vers 831 est haletant, et traduit la course rapide des deux personnages.
+
+Par ailleurs, le simple fait de traduire à haute voix les scènes accentue la charge émotionnnelle. Isimandre interpelle le spectateur et le force à contempler ces tableaux (v. 823-824) :
+
+Voyez de Jupiter le regard inhumain ;  
+Comme il hausse le bras, la foudre dans la main.  
+
+
+### Les réalités dédoublées
+
+L'intervention de ces scènes picturales a une importance toute particulière. Tout d'abord nous assistons réellement à une sorte de dédoublement de l'action. Comme l'explique Emmanuelle Hénin [101], dans les années 1630-1650, le théme du tableau dans le théâtre connaît un grand dévelopement, comme le témoigne *Le Mémoire de Mahelot*. « Le procédé prend alors deux formes, selon que le tableau intérieur réfléchit le contenu ou la forme de la représentation ». *Orante* appartient à la première catégorie. Les quatre peintures que nous présente Isimandre « contiennent en germe une partie de l'histoire, sous une forme voilée ». La scène illustrant la trahison d'Ixion avec le double de Junon annonce le sort réservé à Florange. Comme le personnage mythologique, le vieillard poursuit une femme qui le rejette et qui en aime un autre. Apollon poursuivant Dafnée, qui pour lui échapper se transforme en bois, illustre tout à fait l'attitude d'Ormin, qui va suivre Orante, déguisée en homme, jusqu'à Pise pour l'enlever des mains d'Isimandre. L'issue de ces deux épisodes annonce le dénouement heureux de la pièce. En effet, dans un cas, Ixion meurt par la main du mari, et dans l'autre Apollon laisse vivre paisiblement Dafnée transformée en laurier.
+
+Quant à l'histoire d'Actéon et Diane, elle peut illustrer l'attitude de Florange et d'Ormin. En effet, ils transgressent tous les deux une loi en aimant Orante. L'un ne respecte pas les différences d'âge, et l'autre commet un inceste.
+
+Pour finir, l'amour d'Adonis et de Vénus traduit l'amour des deux héros, que même la mort ne peut séparer. Vénus pour se consoler de la mort de son amant le transforme en fleur.
+
+Le théme des réalités dédoublées se retrouve aussi grâce au jeu sur les différents niveaux du regard. Ici, tout le monde s'observe. Isimandre ne cesse d'attirer l'attention de ses interlocuteurs sur ces toiles :
+
+*Voyez* comme Adonis semble *admirer* Venus ;  
+Comme à travers le crespe on *voit* ses membres nus ;  
+Cét autre est ravissant, où le Pinceau prophane,  
+Offre *aux yeux* d'Acteon les beautez de Diane ;  
+*Voyez* que ce visage est en colere & beau ; (v. 811-816)  
+*Voyez* dans ce tableau… (v. 821)  
+*Voyez* de Jupiter le *regard* inhumain ; (v. 823)  
+*Voyez* comme Apollon… (v. 827)  
+
+Nous avons donc les personnages de la pièce qui regardent ces tableaux, sur lesquelles les héros mythologiques eux aussi observent d'autres personnages.
+
+Ce jeu sur les différents niveaux du regard est très intéressant. Les spectateurs voient les acteurs, qui eux-mêmes regardent les toiles, où des héros observent à leur tour d'autres personnages. Ces trois niveaux de regards participent à l'effet de surprise que recherche Scudéry. Ils apportent un certain agrément au déroulement de la pièce. Et par ailleurs, ce théme tout à fait baroque, instaure une notion de mouvement et une certaine instabilité. Nous ne savons plus où s'arrête le monde réel et où commence celui de l'illusion, nous ne faisons plus de différence entre le domaine du théâtre et celui de la peinture. Ce jeu des regards dédouble l'espace de la scène, tout comme l'identification des personnages aux héros mythologiques dédouble l'action.
+
+L'annonce de la fausse mort d'Orante apporte elle aussi une image dédoublée de la réalité. Cet incident n'a pas beaucoup d'effet dans le déroulement de l'action, tout au plus il précipite le départ d'Isimandre. Mais cet événement participe à une ambiance générale de duplicité. Pendant quelques scènes, Orante a une double réalité : morte pour son amant, mais vivante à Pise.
+
+Cet aspect se retrouve dans l'utilisation des déguisements. C'est le dédoublement des personnages qui va permettre de débloquer la situation des deux amants.
+
+
+## La métaphore
+
+Comme le souligne Jean Rousset, la métaphore est la figure baroque par excellence [102], car elle transforme la réalité de l'objet.
+
+Scudéry utilise volontiers cette figure pour exprimer des sentiments propres à la passion. L'amour est décliné sous toutes les images traditionnelles. Il le compare souvent à un feu. La métaphore de la flamme et ses dérivés (feu, ardeur…) « symbolise la toute puissante emprise de l'amour sur l'âme ». Cette image se retrouve dans toute la pièce et chez tous les personnages. Scudéry associe volontiers ce sentiment à une blessure : les flêches et les « traits » d'Orante touchent tous les coeurs. Le thème de l'esclavage et ses outils (fers, chaînes…) est aussi assez récurrent.
+
+Bien que ces comparaisons soient des lieux communs de la rhétorique, elles apportent au discours une dynamique plaisante. Les plaintes des héros deviennent particulièrement visuelles : Orante parle souvent de « ses feux et ses fers » (v. 245) qui la poussent au suicide. Ormin amoureux ne veut rien « opposer à sa flame. » (v. 128), et constate que les regards d'Orante « ont des traicts qui percent jusqu'au cœur » (v. 133). Palinice ne peut supporter l'infidélité de son mari, et sait que le mariage est un « brasier (qui) s'éteint dedans sa propre cendre » (v. 330).
+
+Il est facile de comprendre pourquoi Scudéry affectionne particulièrement cette figure de style : elle correspond parfaitement au style de théâtre qu'il veut représenter. La métaphore rend picturale les paroles des personnages, elle donne du relief aux sentiments. Passionné de peinture, il a bien compris le parallèle qui pouvait s'établir entre ces deux domaines artistiques [103]. Il utilise ce procédé pour offrir aux lecteurs des images colorées et vivantes. À propos de la *Comédie des comédiens*, Scudéry la nomme « la peinture parlante [104] ».
+
+Cette figure donne aussi à l'objet une double réalité. Jean Rousset rapportant les termes de Bouhours, écrit :
+
+
+C'est le plaisir que donne la métaphore, en représentant toujours deux choses ensemble. Elle plait encore parce qu'elle nous fait voir les objets *sous un habit étranger*, et j'ose le dire, *sous un masque* qui surprend.
+
+Et c'est justement la surprise que Scudéry recherche. Le public veut des scènes spectaculaires, ce qui implique un langage hors du commun. Florange emporté par la colère transforme son envie de vengeance en un cheval fougueux dont il « ne tient plus la bride ». Le vieillard ne se contrôle plus et décrit sa colère en ces termes : « il m'emporte, il m'entraîne, il me force à courir. » Le rythme ternaire nous révèle un certain crescendo. Le premier hémistiche comprend deux expressions de trois pieds. Puis le rythme s'allonge après la césure, et le troisième énoncé compte six pieds. Nous avons une impression d'allongement, comme le ferait un cheval changeant d'allure. L'animal allonge ses foulées quand il passe du pas au trot, et du trot au galop. Il nous semble que ce ralentissement du rythme conjugué à des verbes de mouvements toujours plus actifs, produit plutôt une impression d'accélération.
+
+Cette métaphore donne une image très mouvementée de la colère et correspond, selon nous, à ce que décrit Jean Rousset.
+
+
+## La stichomythie
+
+Nous remarquons deux passages en stichomythie. Comme le précise R. Guichemerre, cette figure est particulièrement appréciée des dramaturges baroques « pour sa vivacité pathétique [105] ». En effet, ce procédé frappe les oreilles autant que l'esprit. Ces affrontements verbaux suivent un crescendo qui finit souvent dans une explosion de violence. C'est le cas de la scène 10 de l'acte IV. Les propos au fil des vers se font plus violents et aggressifs. En effet, le rythme se fait plus haletant multipliant interrogations, interjections et exclamations (v. 1119-1126) :
+
+
+Ormin
+Vostre ruse paroist plus claire que le jour.  
+
+Palinice
+Vostre haine descouvre , & fait vostre amour.  
+
+Ormin
+Descouvre mon amour ! pour qui ? pour ma parente ?  
+
+Palinice
+Vous n'aimez pas le sang, mais la beauté d'Orante.  
+
+Ormin
+Et bien ; soit ; il est vray ; mais je la veux avoir :  
+
+Palinice
+Puis qu'elle est en tes mains, perfide, va la voir.  
+
+Ormin
+Ha ! ne contestez plus, rendez la moy, vous dis-je :  
+Quoy vous n'en ferez rien ?  
+
+Il la veut frapper d'un poignard.
+
+Grâce à ce procédé, la scène acquiert une dimension tragique et spectaculaire. Une grave tension s'installe, et Ormin complétement emporté par ses passions n'a plus d'emprise sur lui même. Cette scène finit en une explosion de violence.
+
+Un autre passage en stichomythie occupe toute la scène 8 de l'acte IV et une partie de la scène 9. Il s'agit d'une dispute entre Florange et Isimandre. L'utilisation de ce procédé donne à cette scène un coté dynamique. Ce passage est assez important sur le plan dramaturgique car il vient renforcer l'accélératon de l'action. Les deux amants sont en fuite et n'ont aucune minute à perdre car bientôt, Orante va être recherchée. Ce mode de dialogue est donc tout à fait adapté à la situation. Cette scène intervient donc à un moment particulièrement tendu, et la dynamique de ce dialogue est propre à susciter l'émotion chez le spectateur.
+
+En effet le rappel de champs lexicaux vient renforcer l'impression de vitesse et attire l'attention du public. Nous pouvons voir Florange s'enfoncer peu à peu dans le désespoir le plus complet. Le vieil homme commence par des plaintes : « souffrez qu'elle (la voix) me serve à pleindre ». Puis l'hyperbole « le plus grand des malheurs » est vite remplacée par le désir de mourir : « Donnez moy cette fin en celle de mes jours ». L'impression de lente descente est renforcée par les connecteurs sémantiques. Le « mal » (v. 1064) fait écho au « mal-heur » (v. 1063), « cette fin » (v. 1066) renvoie à l'« inévitable fin » (v. 1065), La « vieillesse » (v. 1072) est reprise par « âge » (V. 1073). Le rappel des champs lexicaux combiné à cette figure de style donne une dynamique propre à émouvoir le spectateur. Cela entraîne le public dans l'empressement et la panique des deux amants.
+
+
+## Les stances
+
+Nous avons dans cette pièce deux passages en stances. Ce mode est très utilisé par Scudéry. Tout d'abord le dramaturge satisfaisait les acteurs qui réclamaient dans leur texte des passages en stances. Cela leur permettait de mettre en valeur leur maîtrise de la déclamation.
+
+Au cours du XVII*e* siècle, les stances ont disparu peu à peu. C'est ce qu'explique Marie-France Hilgar dans *La Mode des stances dans le théâtre français 1610-1687* :
+
+
+La raison profonde de ce succès et de ce déclin réside probablement dans le fait que les stances étaient plus faites pour exprimer lyriquement des émotions que pour faire avancer l'action. Le goût du public et des auteurs a passé du lyrisme au drame [106].
+
+En effet, les stances étaient pour le dramaturge comme pour l'acteur de vrais morceaux d'éloquence. Cette pratique a été assez décriée au XVIII*e* et au XIX*e* siècle. Bizos a reproché à Scudéry d'avoir écrit dans *Orante* des stances prétentieuses et extravagantes : « Si Scudéry s'était proposé de perdre le gongorisme en le poussant au dernier excès, il n'aurait pu mieux faire que cette ridicule tragi-comédie [107]. »
+
+Pourtant ce mode poétique nous paraît intéressant. Les stances ont une double fonction. Tout d'abord ce ralentissement de l'action est particulièrement bien utilisé par le dramaturge. Scudéry a su se servir de cette technique pour tenir son public en haleine. Par ailleurs, ce procédé permet d'explorer les sentiments intimes du personnage. Cette forme poétique est particulièrement adaptée à l'expression du trouble intérieur.
+
+Il y a deux passages en stances dans *Orante*, et tous les deux interviennent avant une accélération de l'action.
+
+Le premier passage à la scène 5 de l'acte I, se trouve juste avant la tentative de suicide d'Orante. La jeune fille est au désespoir parce qu'on veut la faire épouser un vieillard et qu'elle en aime un autre. Elle préfère mourir, et tout le passage est un appel à la mort (v. 231-236).
+
+Amour, je veux suivre l'envie,  
+Qui me pousse à mourir ;  
+Et trouver pour me secourir,  
+La fin de mes malheurs, dans celle de ma vie :  
+Mais puis qu'il me faut un Tombeau,  
+Amour, fais au moins qu'il soit beau.  
+
+Suit un court monologue où Orante commente son suicide. Marie-France Hilgar explique qu'il s'agit de sixains à distique finale hétérométriques. Mais au lieu que l'alexandrin soit en sixième position, Scudéry l'a placé au quatrième vers. Cette pratique est assez peu commune [108]. Cette pause dans l'action intervient juste avant un des moments forts de la pièce : le suicide sur scène de l'héroïne. Cela installe une situation d'attente pour le spectateur. Une tension se met en place et nous fait redouter un événement tragique. Dans des termes plus modernes, Scudéry utilise ici la technique du suspens, procédé si apprécié de nos jours par les scénaristes de films d'action.
+
+Ce passage a un autre rôle important, il présente le personnage. Il s'agit de la première apparition du personnage éponyme et ces stances nous montrent la détresse intérieure de la jeune fille.
+
+Ce mode poétique est comme une porte ouverte sur les sentiments intimes de l'héroïne. Comme le précise Marie-France Hilgar, les stances sont particulièrement bien adaptées à l'expression des passions [109].
+
+Le deuxième passage en stances est prononcé par Ormin à la scène 2 de l'acte II. Il s'agit encore de sixains. La disposition des rimes suit un mode assez courant au XVII*e* siècle : aabcbc. Tous les vers comptent huit syllabes, sauf deux alexandrins placés à la quatrième et sixième place. Marie-France Hilgar explique que le rythme inégal de la strophe traduit le trouble du personnage [110]. Ici encore les stances ont un rôle particulièrement intéressant dans la présentation du personnage. Bien qu'Ormin soit déjà connu du public, son caractère est particulièrement changeant comme nous l'avons déjà vu. Nous remarquons dans ce passage que cohabitent chez Ormin vertu et lacheté, qualités qui interviendront tour à tour selon les nécessités de l'action. Ces stances sont une sorte de délibération où Ormin tente de trouver des excuses à sa faiblesse (v. 361-366) :
+
+Je la sers, mais c'est par devoir :  
+Qui peut n'aimer pas & la voir ?  
+A ses beaux yeux tout est possible :  
+Et qui n'est point touché par de si doux appas,  
+A la qualité d'insensible,  
+Où malgré ses rigueurs, mon cœur n'aspire pas.  
+
+Même dans sa conclusion, Ormin a conscience de mal agir, car il « quitte … la lumière du jour » (v. 376).
+
+Cette longue plainte amoureuse marque une pause à un moment tout à fait stratégique de l'action. À la scène 7 de l'acte 1, trois scènes avant, nous avons vu partir Clindor avec le billet ensanglanté annonçant la mort de la jeune fille. À la scène 8, tout le monde accourt mais, le mal est fait. La scène suivante (II, 1) est consacrée au monologue de Palinice. Puis vient notre passage en stance. Nous remarquons donc que Scudéry ménage une période d'attente qui atteint son apogée avec les stances d'Ormin. Le public attend avec impatience la suite des évènements, et là encore, une situation de suspens s'installe.
+
+Les stances, que certains ont prises pour un ornement artificiel et prétentieux, trouvent ici leur place dans l'action, et participent pour une grande part au rythme dramatique de la pièce.
+
+
+# Le texte de la présente édition
+
+
+## Édition originale
+
+Il n'existe qu'une édition d'*Orante*, exécutée en 1635 à Paris par le libraire Augustin Courbé. En voici la description :
+
+In-4°, 7f. 120 pages. Privilège du 30 juin 1635. Achevé d'imprimer le 1*er* septembre 1635, en italiques excepté l'épître, *au lecteur, le privilège* et* les acteurs* ;
+
+Pages non chiffrées :
+
+(I): ORANTE, / TRAGI-COMEDIE / PAR / MONSIEUR DE SCUDERY. / Fleuron du libraire / A PARIS, / Chez AUGUSTIN COURBE, Imprimeur & / Libraire de Monsieur frère du Roy, dans la / petite Salle du Palais, à la Palme./ < filet > / M.DC.XXXVI. / AVEC PRIVILEGE DU ROY.
+
+(II bl)
+
+(III-VII): A MADAME LA DUCHESSE DE LONGUEVILLE.
+
+(VIII): Fautes survenues en l'impression d'Orante.
+
+(IX): AU LECTEUR.
+
+(X): PRIVILEGE DU ROY.
+
+(XII): LES ACTEURS.
+
+Le texte de la pièce est précédé d'un rappel du titre en haut de la première page.
+
+
+## Établissement du texte
+
+Il semble qu'il n'y ait eu qu'une seule édition, cependant nous avons remarqué dans un exemplaire se trouvant à la Bibliothèque nationale, qu'une des fautes signalées par l'auteur a été corrigée. Les trois autres exemplaires que nous avons consultés comportaient l'*errata*. Il s'agit de la même édition dans tous les cas. Nous en avons déduit que l'imprimeur avait peut-être corrigé cette faute au cours de l'impression de cette édition.
+
+Pour l'établissement du texte nous nous sommes contentée de suivre la version de cette unique édition.
+
+Toutefois nous avons opéré quelques rectifications qui nous ont paru nécessaires à la bonne compréhension du texte.
+
+Nous avons entrepris les modifications traditionnelles aux usages typographiques pouvant nuire à la compréhension d'un lecteur moderne.
+
+– Nous avons donc effectué une dissimilation du* i* et du *j*, mais aussi du *u* et du *v*.
+
+– Ensuite nous avons supprimé le tilde employé quelque fois pour indiquer la nasalisation des voyelles.
+
+– Enfin, nous avons remplacé le ** par *ss*.
+
+– Nous n'avons pas ajouté ou retranché d'accents. La différenciation du *où* relatif et du *ou* conjonction, et le *à* préposition du *a* auxiliaire, étant faite partout dans cette édition.
+
+– Pour finir, nous avons retranscrit en caractère romain le texte à l'origine en italiques. Et inversement, les didascalies en caractères romains ont été transformées en italiques.
+
+
+## Rectifications
+
+Nous avons respecté la ponctuation de cette unique édition, cependant nous avons procédé à une correction. Nous avons remarqué deux absences de ponctuation aux vers 304 et 948, qui nous ont paru fautives. Il ne s'agit pas d'une interruption du discours. Au vers 304, le personnage finit sa phrase normalement, et le vers 948 est le dernier de la scène 2 de l'Acte IV. La scène suivante se déroule dans un autre lieu, et est consacrée au monologue d'Ormin. Nous avons donc ajouté un point dans les deux cas.
+
+Nous livrons ci-dessous la liste des erreurs et coquilles qui ont été corrigées dans le texte présenté.
+
+Dans la dédicace : *apresavoir*.
+
+Dans le dédicace : *vo'.*
+
+v. 27 : *vœux.*
+
+v.198 : *La manteau*.
+
+v 244 : *mots* (faute signalée par l'auteur).
+
+v 267 : *infortuné* ( faute signalée par l'auteur).
+
+v. 295 : *va ten.*
+
+v 372 : *Dien* ( faute signalée par l'auteur).
+
+v.552 : *où*.
+
+v.859 : *troisiéme.*
+
+v.862 : *quatriéme.*
+
+v 884 : *Le* ( faute signalée par l'auteur).
+
+p 82 : *SCENE CINQUIESME.*
+
+v 910 : *seule.*
+
+v. 1010: *marque*
+
+v. 1043: *pris.*
+
+v. 1053: *a.*
+
+v 1061 : *fouffrez* ( faute signalée par l'auteur ).
+
+v 1292: *pere* ( faute signalée par l'auteur ).
+
+v 1339: *suivez* ( faute signalée par l'auteur ).
+
+p 112 :: *ORMIN.*
+
+
+# ORANTE TRAGI-COMEDIE
+
+
+## A MADAME, MADAME LA DUCHESSE DE LONGUEVILLE [111]
+
+Madame,
+
+j'advouë que ce que je presente à vostre Grandeur est indigne d'elle : Mais si vous ne deviez recevoir que les choses qui meritent de l'estre de vous, il est certain que vous auriez droict de refuser tout ce qu'on vous pourroit offrir. Cette foiblesse, qui m'est commune, avec tout le reste des hommes, ne me donne point d'affliction ; je sçay qu'il est mesme des fuites, qui ne sont pas honteuses aux particuliers, parce qu'elles sont generales, & que ceux qui se sauvent de la perte d'une bataille n'estoient pas obligez d'y mourir. Mais quand ce raisonnement n'auroit pas esté capable de me faire hardy, le favorable accueil que j'ay tousjours receu de V.E. m'eust aussi bien obligé de l'estre. Oüy, MADAME, vostre bonté fait ma hardiesse, & mon crime vient de vostre vertu : mais quoy que l'on tienne pour asseuré qu'une erreur en appelle une autre, je m'empescheray bien d'adjouster à la faute que je commets, en vous donnant une chose de si peu d'importance, celle de vous loüer de mauvaise grace : que s'il faut toutefois que je le fasse, pour suivre la coustume que les autres ont establie, je pense avoir assez d'adresse pour m'en acquiter plus dignement sans eloquence, qu'ils ne feroient avec toutes les regles & toutes les beautez de leur art. Et cela, MADAME, en disant seulement que vous estes l'illustre Sang de BOURBON [112], si Noble & si pur, qu'il a moins de taches que le Soleil ; de sorte que vous auriez plus de peine à faillir, que les autres n'en ont à bien faire : Et s'il faut encore adjouster à cette gloire essentielle une qui vous vienne d'ailleurs ; apres avoir remarqué que vous avez l'honneur d'appartenir au plus grand Monarque de la terre : Je diray que vous estes Sœur d'un Prince [113], qui possede toutes les bonnes qualitez que doit avoir un homme de la sienne, & femme d'un autre [114], de qui le cœur & l'esprit disputent de grandeur avec sa naissance : C'est tout ce que peut vous dire,
+
+Madame,
+
+Vostre très-humble &
+
+très-obéïssant serviteur,
+
+DE SCUDERY.
+
+
+## Fautes survenuës en l'impression de l'Orante.
+
+Page 18. vers 2. mots, lisez maux.
+
+Page 19. vers 19. infortuné, lisez infortunée.
+
+Page 29. vers 6. un Dien, lisez un Dieu.
+
+Page 70. vers 2. le, lisez la.
+
+Page 85. vers 7. fouffrez, lisez souffrez.
+
+Page 104. vers 8. pere, lisez peres.
+
+Page 108. vers 1.suivez, lisez suiviez.
+
+
+## AU LECTEUR.
+
+Je confesse ingenuëment que ma sterilité vient de l'abondance d'autruy : L'on a tant fait d'Avant-propos, qu'il est comme impossible maintenant que mes pensées ne se rencontrent avec celles d'un autre ; & je ne veux point te donner sujet d'appeller larcin ce qui ne seroit que concurrence. Contente-toy donc que je te prie seulement d'excuser mes fautes, & celles de l'Impression.
+
+Adieu.
+
+
+## PRIVILEGE DU ROY.
+
+LOUIS PAR LA GRACE DE DIEU ROY DE FRANCE ET DE NAVARRE :
+
+A nos amez [115], et Feaux [116] Conseillers, les gens tenans nos Cours de Parlement ; Maistres des requestes ordinaires de nostre Hostel, Baillifs [117], Seneschaux [118], Prevosts [119], leurs Lieutenans,& tous autres de nos Justiciers & Officiers qu'il appartiendra ; Salut. Nostre bien-aimé AUGUSTIN COURBE, Marchand Libraire en nostre bonne ville de Paris, nous a fait remonstrer qu'il desireroit imprimer un Livre intitulé *Orante, Tragi-Comédie* du Sieur de SCUDERY, s'il nous plaisoit de luy accorder nos Lettres sur ce necessaires ; humblement nous requerant icelles. A CES CAUSES, Nous avons permis & permettons par ces présentes à l'exposant, d'imprimer ou faire imprimer, vendre & debiter ledit Livre en tous les lieux de nostre obeyssance, durant l'espace de sept ans entiers & accomplis, à compter du jour qu'il sera achevé d'imprimer pour la premiere fois. Et faisons deffenses à toutes personnes, de quelque qualité qu'elles soient, tant de nos subjects que des estrangers, d'en exposer en vente aucuns exemplaires contrefaits, à peine de quinze cens livres d'amende, qui sera payée sans deport [120], et nonobstant oppositions ou appellations quelconques, par chacun de ceux qui en seront trouvez saisis, ou qui l'auront imprimé ou fait imprimer sans le consentement dudit exposant ; de confiscation de tous les exemplaires, & de tous les despens dommages & interests : A condition qu'il en sera mis deux exemplaires en nostre Bibliothéque publique, à faute dequoy les présentes seront de nul effect. Si vous mandons que du contenu en icelles, vous fassiez joüïr plainement & paisiblement ledit exposant, sans souffrir qu'aucun empeschement luy soit donné. Voulons qu'en mettant au commencement, ou à la fin dudit livre, un bref extraict des presentes, elles soient tenuës pour deuëment signifiées, & que foy soit adjoustée aux coppies qui en seront colationnées par un de nos amez et seaux Conseiller, Secrétaires, comme à l'original. Mandons au premier nostre Huissier ou Sergent sur ce requis, de faire pour l'execution d'iceluy, tous exploicts necessaires, sans demander autre permission. CAR TEL EST nostre plaisir, nonobstant Clameur de Haro, Chartre Normande ; et autres lettres à ces contraires. Donné à Paris le dernier jour de juin, l'an de grace mille six cens trente cinq. Et de nostre Regne le vingt-sixiesme.
+
+Par le Roy en son Conseil.
+
+CONRART.
+
+Achevé d'imprimer ce I. Septembre 1635.
+
+Lesdits livres ont este fournis, ainsi qu'il est porté par le Privilege.
+
+
+## Les Acteurs.
+ – ISIMANDREFils du gouverneur de Naples.
+ – ORANTEDame Napolitaine.
+ – ROSIMONDAmy d'Isimandre
+ – ORMINGouverneur de Pise.
+ – PALINICEFemme d'Ormin.
+ – LUCINDEMere d'Orante.
+ – FLORANGEGentil-homme Pisan.
+ – NERINEDemoiselle d'Orante.
+ – POLIANTEPere d'Isimandre.
+ – CLINDOREscuyer d'Isimandre.
+ – LINDOMANValet de Chambre d'Orante.
+ – LERISTEPage d'Ormin.
+ – ARGAMORBrave [121].
+ – GERTIMANTBrave.
+
+
+## ACTE PREMIER. 
+ROSIMOND, ISIMANDRE, ORMIN, CLINDOR, NERINE, LUCINDE, FLORANGE, PALINICE, ORANTE.
+
+
+
+### SCENE PREMIERE.
+ROSIMOND, ISIMANDRE.
+
+
+    ROSIMOND.
+Malgré le vœu⁎ discret d'une bouche muette,  
+Enfin je vous connois amoureux & Poëte :  
+Non, non, je vous y prends ; que sert de le celer⁎ ?  
+C'est trop en mesme temps, que se taire, & brusler ;  
+Voyons dans ce Sonnet, qu'on cache comme un crime ;  
+Des regrets mesurez⁎, & des souspirs en rime.  
+
+    ISIMANDRE.
+Rends-le moy cher Amy :  
+
+    ROSIMOND.
+        J'y suis bien resolu,  
+Mais ce ne sera pas avant que [122] l'avoir leu.  
+
+    ISIMANDRE.
+Comme tous mes plaisirs ont desja fait naufrage,  
+Le desordre des sens en met en mon ouvrage,  
+Et mes vers sont confus, autant que mon humeur⁎ :  
+
+    ROSIMOND.
+
+Icy l'humilité ne sent point le Rimeur [123].  
+Il falloit preparer mes yeux & mes oreilles ;  
+Me dire qu'à genoux on doit voir des merveilles ;  
+Me reciter vos vers en accents relevez⁎ ;  
+C'est tout leur ornement, & vous les en privez :  
+Les Maistres du mestier ont bien une autre emphase ;  
+Pour vous ravir l'esprit, ils tombent en extase⁎ ;  
+A chaque fin de stance on les voit se pasmer⁎,  
+Pour vous donner le temps qu'il faut à l'estimer ;  
+Et faisant les yeux doux, ils semblent vouloir dire,  
+Vous devez m'adorer, parce que je m'admire ;  
+Mais mon visage froid desespere un Autheur,  
+Et je le fais tomber d'une belle hauteur.  
+Or vous dont je connois, & l'adresse, & la force ;  
+Me faisant un refus, me jettez une amorce ;  
+En un mot, je veux voir, en voyant ce sonnet,  
+Ce que vous enfantez⁎ dans vostre Cabinet.  
+SONNET.
+il lit.
+
+
+Qu'on me fasse un Tombeau, je ne me puis promettre  
+De vivre desormais l'espace d'un moment :  
+Mille ans ont fait leur cours depuis l'esloignement,  
+De l'homme paresseux qui doit rendre ma lettre :  
+
+Dieux, Parques [124], & Destins, me voulez vous permettre,  
+Immortel comme vous, d'estre eternellement ?  
+Si vous estes puissans, faites le moy parestre,  
+Me donnant le repos qu'on trouve au monument⁎.  
+
+Avoir vescu mille ans, n'est-ce pas un bel âge ?  
+Mais que l'impatience, helas ! me rend peu sage,  
+Mon esprit agité, soy-mesme ne s'entend⁎ :  
+
+Depuis que j'escrivis, j'ay compté mille années,  
+Et tout consideré, ce n'est que six journées,  
+Dieux [125] ! que le temps est long pour un bien qu'on attend.  
+
+Quoy donc, vous en tenez [126]? & cette humeur⁎ rebelle,  
+Enfin dans l'Univers, a pû voir une Belle ?  
+Il se trouve un object⁎, qui merite vos soins ?  
+Si ce discours est vray, c'est Venus pour le moins.  
+
+    ISIMANDRE.
+Celle dont le Berceau fut pris d'une Coquille [127],  
+Pourroit servir de lustre⁎ à cette belle fille ;  
+Et l'on doit confesser malgré ses cruautez,  
+Qu'on n'a veu qu'en ce temps la Reine des beautez :  
+La liberté s'enfuit, d'où la Belle se treuve ;  
+Pour les coups de ses yeux, il n'est rien à l'espreuve ;  
+Et bien qu'un arbre, un roc, s'en laissassent charmer,  
+Elle a plus fait encor, en me faisant aimer.  
+
+    ROSIMOND.
+De sçavoir quelle [128] elle est, le desir vient de naistre :  
+
+    ISIMANDRE.
+Sans te dire son nom tu la [129] pourras connaistre :  
+On ne voit rien d'esgal au moindre de ses traicts⁎ ;  
+Escoute moy parler pour voir de ses Portraicts.  
+Forme toy dans l'esprit toutes les belles choses,  
+Mesle confusément, & des Lis, & des Roses ;  
+Que l'imaginative en soy figure encor,  
+L'albastre, le coral, & les perles, & l'or ;  
+Feins toy deux cents Amours [130], qui vont baiser ses traces ;  
+Pense de voir un port⁎, qui fait rougir les Graces [131];  
+Songe à tous les attraicts, songe à tous les appas⁎,  
+Telle est cette Beauté, ne la connois tu pas ?  
+
+    ROSIMOND.
+Mon ame en est ravie, & non moins ignorante :  
+
+    ISIMANDRE.
+Est-il besoin encor de te nommer Orante ?  
+Injurieux amy, confesse moy ce point,  
+Qu'à juger des portraicts tu ne te connois point.  
+
+    ROSIMOND.
+Le moyen de la voir à travers la querelle,  
+Et cette inimitié qui vous est naturelle [132] ?  
+
+    ISIMANDRE.
+Espouse qui voudra ses injustes fureurs⁎ ;  
+Je dois cherir mon pere, & non pas ses erreurs :  
+Ces vieux ressentimens que la colere attise,  
+N'ont rien de genereux⁎, & chocquent la franchise⁎ :  
+Mon courroux tient du foudre⁎, en ce qu'en un instant,  
+Il punit, ou pardonne un outrage important.  
+Et deust ma lacheté me combler d'infamie,  
+Je baiseray les pas de ma belle ennemie,  
+Mon esprit ne sçauroit en estre diverti⁎ ;  
+Malgré mon interest, il est de son parti.  
+
+    ROSIMOND.
+Estes vous assuré, que le sien est du vostre ?  
+
+    ISIMANDRE.
+A quiconque aime bien qu'importe l'un ou l'autre ?  
+Le veritable amant ne doit rien esperer ;  
+Rien demander aux Dieux, c'est assez d'adorer :  
+Je me tiens satisfait, seulement quand j'y pense ;  
+L'amour qui fait ma peine en est la recompense ;  
+Les bonnes actions ont un certain plaisir,  
+Qui s'esleve plus haut que ne [133] fait le desir.  
+
+    ROSIMOND.
+Pourquoy donc desirer responce d'une lettre ?  
+
+    ISIMANDRE.
+Ha ! que je hay ces vers, parce qu'un d'eux est traistre :  
+Il apprend un secret qui me descouvrira⁎ ;  
+Et le mettant au jour, ta voix m'en privera,  
+Pardonne Rosimond, à cette violence ;  
+Sçache que pour cela, je craindrois le silence ;  
+Tout endormy qu'il est d'une froide vapeur ;  
+Son sommeil de pavots [134] esveilleroit ma peur.  
+
+    ROSIMOND.
+Que ma fidelité me pleige [135], & vous console ;  
+Sçachez que mon devoir commande à ma parole ;  
+Un secret en mon ame, augmente son credit⁎ ;  
+Ne le dire qu'à moy, c'est ne l'avoir point dit.  
+
+    ISIMANDRE.
+Je le crois, cher Amy, tu pleurerois ma perte :  
+C'est pour toy seul aussi que mon ame est ouverte ;  
+Je descouvre⁎ à toy seul l'injustice du sort ;  
+Qui m'esloigne d'Orante, & me donne la mort.  
+Je te monstre une flame à tout autre invisible :  
+Voy comme mon mal-heur se va rendre invincible :  
+Le pouvoir de mon pere esloigne de ces lieux,  
+Celle qui mit au jour la merveille des yeux :  
+Car Orante & sa mere ont quitté la Contrée ;  
+Elles sont en des lieux où je n'ay point d'entrée ;  
+Elles sont chez Ormin, qui leur proche parent,  
+Mesle ses interests dans nostre different.  
+Mais si le Ciel permet qu'Orante puisse lire  
+Les termes pleins de feu qu'Amour m'a fait escrire,  
+Et que ses volontez m'ordonnent de la voir,  
+En despit du malheur je feray mon devoir.  
+
+    ROSIMOND.
+Soyez Amant discret, ainsi qu'Amant fidelle ;  
+Puis qu'elle vous cherit, conservez vous pour elle ;  
+Si vous allez à Pise, où gist vostre bon-heur,  
+Souvenez-vous qu'Ormin en est le Gouverneur.  
+
+    ISIMANDRE.
+La force de l'Amour rendra la sienne vaine ;  
+Mon cœur tout genereux⁎ se mocque de sa haine ;  
+Et sçache que pour voir ce que j'aime le mieux,  
+J'attaquerois l'enfer & forcerois le Cieux.  
+
+
+### SCENE SECONDE.
+
+    ORMIN.
+Rude & foible raison, abandonne mon ame :  
+Ta froideur ne sçauroit s'opposer à ma flame :  
+L'amitié⁎ vient du sang ; & j'espreuve⁎ en ce jour,  
+Qu'elle n'est qu'un chemin qui conduit à l'amour.  
+J'aime (je le confesse) Orante me possede ;  
+Je suis homme, elle est belle , on m'attaque, & je cede :  
+Ses regards ont des traicts⁎ qui percent jusqu'au cœur ;  
+Le mien est bon esclave, il aime son vainqueur.  
+Et pourroit-on blasmer ce qui n'est point blasmable ?  
+Pour estre ma parente, est-elle moins aimable ?  
+Loix, qui nous deffendez les plaisirs innocens,  
+Laissez nous l'esprit libre, ou nous [136] ostez les sens.  
+L'object⁎ de mon desir luy peut servir d'excuse ;  
+Il arrache de force un cœur qu'on luy refuse ;  
+La raison & la crainte ont beau le secourir,  
+L'esperance le flatte, en le faisant mourir,  
+Et trouvant que l'amour est fille de l'estime,  
+Tout ce qu'on luy deffend luy semble legitime :  
+Une conqueste aisee est digne de mespris ;  
+La peine est une amorce aux genereux⁎ esprits ;  
+Et quoy qu'un sot discours en pareille advanture⁎,  
+Oppose aux loix d'Amour celles de la Nature,  
+Il les faut mespriser, pour estre possesseur ;  
+Si j'aime une cousine, un Dieu cherit sa sœur.  
+Ouy, puis qu'Amour le veut, la sentence est donnée :  
+Allumons son flambeau par celuy d'Hymenée⁎ ;  
+Laissons cueïllir la fleur, pour receuïllir le fruit ;  
+Et tirons cent bons jours d'une mauvaise nuit.  
+Orante sera mienne estant à ce Florange ;  
+Les deffauts d'un mary la porteront au change⁎ ;  
+Et dedans [137] son esprit toutes ses actions,  
+Pourront servir de lustre⁎ à mes perfections [138].  
+C'est de là que mon bien prendra son origine ;  
+Je bastis sur l'espoir de sa mauvaise mine⁎ ;  
+L'entretien d'un brutal est capable d'aider  
+Au dessein que j'ay pris de la persuader :  
+J'ay le vent favorable, & j'apercoy la rive ;  
+Pour posseder Orante, il faut que je m'en prive ;  
+Le Ciel entend mes vœus⁎, & mon bon-heur s'y lit ;  
+Mais, Amour avec eux n'entre pas dans le lit .  
+
+
+### SCENE TROISIESME.
+CLINDOR, NERINE.
+
+
+    CLINDOR.
+Nerine, qu'à propos je vous ay rencontrée !  
+Vous pouvez au Chasteau me donner libre entrée ;  
+Mon maistre vous en prie, & l'Amour comme luy,  
+Demande que vos soins l'assistent aujourd'huy.  
+
+    NERINE.
+Ha ! fidelle Clindor, un bon demon t'ameine :  
+Si ton Maistre pâtit, Orante est bien en peine ;  
+Florange la recherche, & sa Mere y consent ;  
+Juge par là des maux que son esprit ressent.  
+Mais que fait Isimandre en cette longue absence ?  
+
+    CLINDOR.
+Il desire la mort ; il maudit sa naissance ;  
+Il accuse le sort ; il attaque les Cieux ;  
+Et croit que pour pleurer Nature fit les yeux.  
+Son ame suit Orante, & n'a point d'autre idée ;  
+Son feu [139] ne peut souffrir celuy de Celidée ;  
+Il croit qu'aupres de l'œil, dont le sien est espris,  
+Une Desse mesme, est digne de mespris.  
+Il rend les Bois tesmoings de son inquietude,  
+Son unique recours est en la solitude ;  
+C'est là, que librement dans le mal qui le point [140] :  
+Il se plaint à l'Amour, qui ne le quitte point,  
+C'est là que ce grand Dieu luy dicta les pensées,  
+Que garde ce papier, que sa main a tracées ;  
+Il luy baille une lettre.
+
+Et qu'il adresse aux yeux qui luy font endurer  
+Un mal si violent, qu'il ne sçauroit durer.  
+
+    NERINE.
+Ma Maistresse aujourd'huy n'est point accompagnée ;  
+Sa fievre à ce matin, a voulu la seignée ;  
+Elle garde la Chambre, où je m'en vay courir ;  
+Mieux que le Medecin je la puis secourir ;  
+Son remede consiste au papier que je porte,  
+Dont je vay r'animer son esperance morte ;  
+Toy, fidelle Clindor suis moy dans le Chasteau ;  
+Passe la basse court, le nez dans le manteau ;  
+Monte au grand escalier, où je m'en vay t'attendre :  
+
+    CLINDOR.
+J'ose tout, je fais tout, pour servir Isimandre.  
+
+
+### SCENE QUATRIESME.
+LUCINDE, FLORANGE, PALINICE.
+
+
+    LUCINDE.
+Vous l'accusez à tort, elle a plus de bonté⁎ ;  
+Son cœur ne prend de loy que de ma volonté,  
+Son esprit est fort doux, j'en dispose absoluë,  
+Florange, elle est à vous, si j'y suis resoluë :  
+Et puis qu'Ormin l'agrée, & Palinice encor,  
+Quand vous auriez les ans, que l'on donne à Nestor [141] ;  
+Quand plus de cent Hyvers, horribles en tempeste ;  
+Auroient ainsi qu'aux champs, neigé sur vostre teste ;  
+Croyez (puisqu'il est vray) que j'aurois le pouvoir  
+De la mettre en vos bras comme dans son devoir.  
+
+    FLORANGE.
+Mon âge luy fait peur, sa tristesse m'estonne⁎ ;  
+Et je pleins la douleur que mon plaisir luy donne :  
+Je ne la trouve point favorable à mes vœux⁎ ;  
+L'or ne sçauroit cacher l'argent de mes cheveux.  
+
+    PALINICE.
+La foy⁎ de mon mary vous assure la sienne :  
+
+    LUCINDE.
+Puis que je l'ay promis, il faut que je le tienne :  
+On ne peut vous l'oster, Orante est vostre bien ;  
+Esperez tout Florange, & ne craignez plus rien ;  
+Condamnez desormais cette pleinte au silence,  
+Aussitost que son mal perdra sa violence,  
+Guarissant la douleur par qui vous souspirez⁎,  
+Je sçauray bien la mettre où vous la desirez [142].  
+
+    FLORANGE.
+Ce discours me ravit [143] ; n'en parlons plus Madame :  
+L'excez de ce plaisir me deroberoit⁎ l'ame ;  
+Je mourrois à vos yeux, & mon cœur a dessein,  
+De prendre pour Tombeau l'albastre de son sein.  
+Courronné des lauriers [144] d'une victoire insigne⁎ [145],  
+Puis qu'il me faut mourir je veux je mourir en Cygne [146],  
+Et chante les beautez, & vanter les appas⁎,  
+Que je trouve en ses yeux, que je gouste au trespas.  
+
+
+### SCENE CINQUIESME.
+
+    ORANTE.
+STANCES. 
+Elle est dans sa chambre, le bras en escharpe ;
+
+
+Amour, je veux suivre l'envie,  
+Qui me pousse à mourir ;  
+Et trouver pour me secourir,  
+La fin de mes malheurs, dans celle de ma vie :  
+Mais puisqu'il me faut un Tombeau,  
+Amour, fais au moins qu'il soit beau.  
+
+Invisible Demon de flame,  
+Qui cause mon tourment ;  
+Parois dessus ce Monument⁎ ;  
+Mais aussi triomphant, que tu l'es dans mon ame :  
+Puis que je t'ay fait immortel,  
+Prends mon Sepulchre pour autel.  
+
+Pour éterniser la memoire  
+Des maux que j'ay soufferts,  
+Peinds-y bien mes feux & mes fers ,  
+Qui sont les seuls Tableaux qui font bien voir ta gloire :  
+Et fais y paroistre mon cœur,  
+Dessous les pieds de son vainqueur.  
+
+Mais pour achever la structure,  
+D'un si noble dessein ;  
+Prends le traict⁎ qui m'ouvrit le sein,  
+Et grave ces deux vers dessus ma sepulture :  
+Sa constance⁎ a causé sa mort,  
+Passe, va-t'en, & pleins son sort.  
+
+Ce n'est pas tout ; fais qu'Isimandre,  
+En sa pasle couleur,  
+Y tesmoigne un peu de douleur,  
+Pour la perte d'un bien qu'il n'aura pû deffendre :  
+Et qu'il semble dire à par soy,  
+Helas ! elle est morte pour moy.  
+
+Fantastiques propos, songes, chimeres vaines,  
+Vous irritez⁎ mes pleurs, vous augmentez mes peines,  
+Et le temps que je perds à discourir icy,  
+Ne doit estre employé qu'à finir mon soucy.  
+J'aspire apres un bien qui n'a point d'apparance ;  
+C'est me nourrir de vent, que vivre d'esperance ;  
+Orante infortunée, & bien ne vivons plus :  
+Bornons avec nos jours ces regrets superflus :  
+Innocent criminel, vieil importun Florange,  
+Par mon triste dessein, vois où le tien me range :  
+Isimandre fidelle, apprends que je le suis ;  
+Sans partager ma mort, partage mes ennuis⁎ ;  
+Et juge par le sang que je m'en vay respandre,  
+Qu'Orante n'aima rien que le seul Isimandre.  
+Vivant en ton penser [147], je mourray sans douleur :  
+Dieux, ce sang est de flame, il en a la couleur ;  
+Reçois au lieu d'encens l'agreable fumée,  
+Elle desbande le bras.
+
+
+Qui sort parmy le sang de la personne aimée,  
+Ce sont là des esprits qui vont chercher le tien :  
+La mort n'est point un mal, à qui la connoist bien :  
+Mais puisque ce papier se trouve favorable,  
+Taschons de consoler l'esprit d'un miserable ;  
+Faisons voir que la mort ne peut rien sur l'Amour :  
+Elle escrit de son sang.
+
+Adieu cher Isimandre, adieu, je perds le jour.  
+
+
+### SCENE SIXIESME.
+ORANTE [148], NERINE.
+
+
+    [NERINE]
+Que me donneriez vous d'une bonne nouvelle ?  
+Madame, vous dormez ; c'est en vain que j'appelle :  
+Ha Ciel ! quel accident⁎ ? au secours mes amis ;  
+Dieux ! vous l'avez veu faire, & vous l'avez permis !  
+Elle nage en son sang : ô l'horrible spectacle !  
+Son funeste projet n'a point trouvé d'obstacle :  
+Et ce papier m'apprend, que sa fidelité,  
+Arrive par la mort à l'immortalité.  
+
+
+### SCENE SEPTIESME.
+CLINDOR, NERINE, ORANTE.
+
+
+    CLINDOR.
+Il faut que je m'advance à la chambre voisine :  
+Quel prodige⁎ est-ce-là ? que faites vous Nerine ?  
+
+    NERINE.
+Retourne vers ton Maistre, & va-t'en l'advertir,  
+Qu'Orante ne vit plus, qu'il est temps de partir :  
+Porte luy ce papier :  
+
+    CLINDOR.
+        O funeste message !  
+
+    NERINE.
+Qu'il punisse Florange autheur de ce dommage ;  
+On la vouloit forcer de vivre sous sa Loy ;  
+Adieu, ne sois point veu, quelqu'un vient, sauve toy.  
+
+
+### SCENE HUICTIESME.
+LUCINDE, ORMIN, FLORANGE, PALINICE, NERINE, ORANTE.
+
+
+    LUCINDE.
+Quel bruit ay-je entendu ?  
+
+    ORMIN.
+        Bons Dieux Orante est morte !  
+
+    FLORANGE.
+Quel homme, ou quel demon, l'a mise de la sorte ?  
+
+    PALINICE.
+Elle s'est fait saigner, & son bras s'est ouvert ;  
+Mais je vois qu'elle vit, par le sang qu'elle pert [149].  
+
+    LUCINDE.
+Ma fille,  
+
+    PALINICE.
+    Ma Cousine,  
+
+    ORMIN.
+    Orante,  
+
+    FLORANGE.
+        Ma Maistresse :  
+
+    NERINE.
+Qu'on luy jette de l'eau, remettons la compresse :  
+
+    ORMIN.
+Ha Ciel ! elle revient ;  
+
+    NERINE.
+        Ouy mais c'est pour mourir,  
+Elle parle bas.
+
+Si vous n'avez dessein de la mieux secourir ;  
+Florange luy desplaist, sa mere la martire⁎ :  
+
+    ORMIN.
+Le bruit luy feroit mal, que chacun se retire,  
+Il parle bas.
+
+Vivez aimable Orante, on ne vous peut forcer [150] ;  
+
+    ORANTE.
+Je conjure les Dieux de vous recompenser.  
+
+
+## ACTE SECOND.
+PALINICE, ORMIN, ORANTE, NERINE, FLORANGE, ISIMANDRE, CLINDOR.
+
+
+
+### SCENE PREMIERE.
+
+    PALINICE.
+Invisible serpent, cruelle jalousie,  
+Qui vomis ton venin dans nostre fantaisie⁎,  
+Bourreau de mon repos, vray Monstre des enfers,  
+Qui mets l'ame à la gesne⁎, & l'esprit dans les fers ;  
+Cesse de me monstrer ta vaine, & pasle image ;  
+Cesse de me predire un funeste dommage ;  
+Orante aime l'honneur⁎, Ormin sçait son devoir ;  
+Mais Amour est aveugle, il ne sçauroit rien voir.  
+La plus forte raison cede à cette manie [151] ;  
+Et bien qu'elle soit Reine, elle est souvent bannie.  
+Le change⁎ a des attraits plus forts que la beauté :  
+Tousjours l'esprit d'un homme aime la nouveauté ;  
+L'Hymen⁎ est un fardeau qu'il juge insupportable ;  
+Plus un bien est aisé, moins il est delectable ;  
+Ce que nous possedons, est presque sans plaisir ;  
+L'amour trouve sa fin en celle du desir ;  
+Lors qu'il est au sommet, il commence à descendre ;  
+Et ce brasier s'esteint dedans sa propre cendre.  
+Dieux ! je l'experimente en ma juste douleur :  
+Ormin est tousjours triste, il change de couleur ;  
+Des souspirs continus descouvrent⁎ sa folie ;  
+Son cœur suit par les yeux la belle qui le lie ;  
+Il ne me parle plus qu'en termes de mespris ;  
+Orante est un miracle entre les beaux esprits ;  
+Elle seule merite une extreme loüange ;  
+Il la peint des couleurs, dont on peindroit un Ange ;  
+Il luy donne l'encens qu'on offriroit aux Dieux ;  
+Il mesprise la terre, & se mocque des Cieux ;  
+Afin de l'obliger⁎, il manque à sa promesse ;  
+Florange n'estant qu'homme offence sa Deesse ;  
+Pour posseder ce corps il faut estre immortel,  
+Bref, pour avoir sa couche il luy dresse un Autel.  
+Il est vray, je le voy, son ame en est blessée ;  
+Elle est l'unique object⁎ qu'il a dans la pensée ;  
+Il mesprise ma flame aussi bien que sa foy ;  
+Pour rendre Orante à luy, l'ingrat n'est plus à moy.  
+Mais il manque d'amour, & non moy de courage⁎ ;  
+On connoist le Pilote au milieu de l'orage ;  
+Faisons agir l'esprit pour rompre ses desseins ;  
+Taschons de luy donner des sentimens plus seins :  
+Qu'il prenne pour guarir la medecine amere,  
+Et que son pouvoir cede à celuy d'une mere.  
+
+
+### SCENE SECONDE.
+
+    ORMIN.
+STANCES.
+
+Je fais gloire de mes malheurs ;  
+Je me vante de mes douleurs ;  
+Tant je cheris ma servitude :  
+Et bien que dans mes maux l'espoir me soit osté,  
+(Sans l'accuser d'ingratitude)  
+J'adore ma maistresse, & haïs ma liberté.  
+
+Je la sers, mais c'est par devoir :  
+Qui peut n'aimer pas & la voir ?  
+A ses beaux yeux tout est possible :  
+Et qui n'est point touché par de si doux appas⁎,  
+A la qualité d'insensible,  
+Où malgré ses rigueurs, mon cœur n'aspire pas.  
+
+La peine me semble un plaisir ;  
+Je fuy l'espoir & le desir,  
+Qui font aimer les ames basses :  
+Un Tombeau glorieux ne peut estre que doux ;  
+Et mourir pour une des Graces,  
+Est un sort qui peut rendre, un Dieu mesme jaloux.  
+
+C'en est fait, j'y suis resolu ;  
+Le Ciel, & mon cœur l'ont voulu ;  
+Je suis content des destinees ;  
+Je quitte sans regret, la lumiere du jour ;  
+Mais dans la fin de mes annees,  
+On ne verra jamais celle de mon amour.  
+
+Les espines me sont des fleurs ;  
+Dans l'Oubly, comme dans les pleurs,  
+Je conserveray sa memoire :  
+Et mon esprit sans corps, & sans legereté,  
+Donnera mes feux, & sa gloire,  
+Dans l'Empire des morts à l'immortalité.  
+
+Ouy, je la veux aimer jusqu'en la sepulture :  
+Elle merite bien qu'on force la Nature ;  
+On doit à ses vertus un amour eternel ;  
+S'il estoit perissable il seroit criminel.  
+On ne peut trop aimer un object⁎ tant aimable,  
+Jamais l'excez du bien ne peut estre blasmable,  
+(S'il est permis de mettre un excez dans le bien)  
+Il faut que mon esprit prenne la loy du sien ;  
+Et que ses volontez regnent sur mes pensées :  
+*Que Florange n'ait plus ses flames insensées* [152]  
+Puis qu'il desplaist à l'œil [153] que je veux adorer,  
+Le respect qu'il me doit luy deffend d'esperer ;  
+Et mes commandemens l'obligent à se taire :  
+O toy de mes pensers, fidele Secretaire,  
+Amour ; qui les fais naistre, & seul les vois au cœur ;  
+Viens rendre une visite au bel œil mon vainqueur ;  
+Et pour faire un miracle, en voyant ma Rebelle ;  
+Suy moy dans mon retour, & demeure chez elle.  
+
+
+### SCENE TROISIESME. 
+ORANTE, NERINE.
+
+
+    ORANTE.
+M'empeschant de mourir, ton secours me conduit,  
+Du repos à la peine, & du silence au bruit.  
+
+    NERINE.
+Vous irez (si le sort calme sa violence)  
+De la peine au repos, & du bruit au silence.  
+
+    ORANTE.
+Ha ! ne me flatte⁎ pas d'un espoir decevant⁎,  
+J'arresterois plustost les ondes, & le vent,  
+Que la suitte des maux, dont je suis traversée ;  
+L'esperance est trop foible, elle en est renversée ;  
+La rigueur de ma mere, & celle de mon sort,  
+Ne laissent à mon choix, que Florange, ou la mort ;  
+Toutes mes volontez panchent vers la derniere :  
+Elle delivrera mon ame prisonniere ;  
+Et malgré tous vos soins, mon esprit enflamé,  
+Fera voir que le feu ne peut estre enfermé :  
+Une ame genereuse⁎ a la clef de sa porte :  
+Rien ne peut empescher que la mienne ne sorte ;  
+Je meurs sans desespoir, je finis par raison ;  
+La liberté vaut mieux que ne fait la prison.  
+
+    NERINE.
+La parole d'Ormin doit bannir cette crainte ;  
+
+    ORANTE.
+La crois-tu veritable ?  
+
+    NERINE.
+        Et la croyez vous feinte ?  
+Non, esperez Madame, un traitement plus dous ;  
+Vivez pour Isimandre, ainsi qu'il vit pour vous ;  
+Et croyez que le Ciel, par ses Loix souveraines,  
+Mesurera vos biens aux grandeurs de vos peines ;  
+Il vous a fait un mal, dont il aura pitié.  
+Faistes que le Destin cede à vostre amitié⁎ ;  
+Le sage (à ce qu'on dit) se fait ses destinées :  
+Le pilote se rit des vagues mutinées ;  
+C'est parmy les mal-heurs que paroist la vertu ;  
+La fortune mesprise un courage⁎ abatu ;  
+On gagne ses faveurs avec la resistance ;  
+Elle est fille, elle est belle, on la vainc par constance⁎.  
+
+    ORANTE.
+Et bien donc, je vivray, puis qu'il te plaist ainsi :  
+Mais Nerine, mon cœur, tire moy de soucy,  
+Quand la perte du sang (estant esvanoüye)  
+M'eust dérobé la veuë aussi bien que l'oüye ;  
+Apprends-moy que devint, un papier, un escrit,  
+Où l'Amour par ma plume avoit peint mon esprit ;  
+Ne l'apperceus-tu point ? il estoit sur ma table :  
+
+    NERINE.
+Ha ! Madame pardon, ma memoire est coupable :  
+Le soin de soulager vostre corps affoibly,  
+A fait que mes pensers ont mis tout en oubly :  
+Ouy Madame, je leus cette honorable marque,  
+Que laissoit vostre amour en despit de la parque ;  
+Et Clindor la receut à l'instant de ma main :  
+
+    ORANTE.
+Clindor est donc icy ?  
+
+    NERINE.
+        Non, il partit soudain :  
+Et porta ce billet, & la mort à son Maistre,  
+De qui j'avois receu pour vous une autre lettre :  
+Mais ayant le dessein d'accompagner vos pas :  
+Je voulois que sa fin, suivist nostre trespas [154].  
+
+    ORANTE.
+O mal-heur sans esgal ! ô faute incomparable !  
+Voyons ce qu'escrivoit cét Amant déplorable⁎.  
+LETTRE.
+
+Je ne sçaurois plus endurer ;  
+Mon mal est trop grand pour durer  
+Vostre absence me tyrannise :  
+Bornant mes jours ou mon soucy ;  
+Permettez moy d'aller à Pise,  
+Ou souffrez⁎ que je meure icy.  
+Faites Orante (au nom des Dieux)  
+Qu'un miroir vous monstre vos yeux ;  
+Sa glace vous rendant sensible,  
+Mes Soleils verront clairement,  
+Que sans doute il n'est pas possible,  
+De souffrir⁎ leur esloignement.  
+
+Naples me paroist un desert  
+Mon œil perd tout, quand il vous pert ;  
+Je ne me sçaurois plus deffendre  
+D'aller voir ces Rois de mon cœur ;  
+Adieu, je suis  
+    Vostre  
+        ISIMANDRE [155].  
+Au divin Object⁎ mon vainqueur.  
+C'est le dessus de la lettre.
+
+Ha Ciel ! tout est perdu, si ton conseil ne m'aide ;  
+
+    NERINE.
+Je vous ay fait un mal dont voicy le remede :  
+Escrivez seulement trois mots de vostre main ;  
+Que Lindoman les porte, & qu'il parte demain :  
+
+    ORANTE.
+Est-il assez discret pour luy monstrer ma flame ?  
+
+    NERINE.
+Un secret important, l'est tousjours dans son ame :  
+Isimandre, sans doute, a besoin de cela :  
+
+    ORANTE.
+Je le veux : mais Floran …  
+
+    NERINE.
+        Madame, le voila.  
+
+
+### SCENE QUATRIESME.
+FLORANGE, ORANTE, NERINE.
+
+
+    FLORANGE.
+Mon abord vous desplaist ; mon respect vous offence ;  
+Mais contre vos rigueurs, Amour prend ma deffence :  
+Et promet à mon cœur, pour le reconforter,  
+La force de les vaincre, ou de les supporter.  
+
+    ORANTE.
+Mettez vous en repos, sans parler davantage ;  
+Je vous doit du respect, à cause de vostre aage.  
+Elle lui offre un siege.
+
+
+    FLORANGE.
+Mon feu ne peut souffrir⁎ un si froid compliment :  
+Vous me traittez en Pere, & non pas en Amant !  
+Ha ! veuïllez adoucir mes peines obstinées ;  
+Et compter mon argent plustost que mes années ;  
+Pour faire que mon Astre⁎, ait un aspect plus dous,  
+Songez que mon Amour est jeune comme vous.  
+
+    ORANTE.
+Songez que le Sepulcre est prés de vostre couche,  
+Et qu'Ormin vous deffend d'en ouvrir plus la bouche ;  
+
+    FLORANGE.
+Ormin peut tout sur moy, mais rien sur mon amour :  
+Il ne peut me l'oster, qu'en me privant du jour.  
+Sa foy⁎ me veut trahir, mais en cette advanture⁎,  
+Mon Amour outragé s'adresse à la Nature :  
+Lucinde arrive.
+
+Madame, c'est de vous que j'attends aujourd'huy,  
+Ou ma premiere joye, ou mon dernier ennuy⁎ :  
+Ormin est sans parole ; Orante me mesprise ;  
+Et ce jour pour mon ame, est bien un jour de crise.  
+Prononçant un arrest⁎, que j'attends à genous,  
+Vuidez le different, qui s'esmeut entre nous.  
+
+
+### SCENE CINQUIESME.
+LUCINDE, ORANTE, FLORANGE, NERINE.
+
+
+    LUCINDE.
+Ma parole tiendra, puis que je l'ay donnée :  
+
+    ORANTE.
+Amour est bien un Dieu plus puissant qu'Hymenée⁎.  
+Ah, Monsieur ! on me force, & les Cieux ennemis,  
+Ormin paroist.
+
+Veulent m'oster un bien que vous m'avez promis.  
+
+
+### SCENE SIXIESME.
+ORMIN, FLORANGE, ORANTE, LUCINDE, NERINE.
+
+
+    ORMIN.
+Qui vous fait si hardy, que de m'estre rebelle ?  
+
+    FLORANGE.
+Fermez l'œil pour ma faute, & voyez cette Belle.  
+
+    ORMIN.
+Allez, si jamais plus vous procedez ainsi,  
+Je vous feray bien voir, que je commande icy [156].  
+Madame, ce Mary n'est pas bon pour Orante ;  
+Leur âge est inesgal, leur humeur⁎ differente ;  
+Pour agir là dessus avecque [157] jugement,  
+Souffrez que je vous meine à vostre Appartement.  
+
+    ORANTE.
+Servons nous du loisir qui nous vient sans l'attendre ;  
+Despeschons Lindoman au fidele Isimandre ;  
+Afin que son esprit, où regne la raison,  
+Tire le mien de peine, & mon corps de prison.  
+
+
+### SCENE SEPTIESME.
+
+    ISIMANDRE.
+Que l'attente est fascheuse à l'Amant qui souspire⁎ !  
+Qu'un bien semble tardif alors qu'on le desire !  
+Le cours d'un Siecle entier a bien moins de moments,  
+Que la crainte & l'espoir ne donnent de tourments.  
+Paresseux Messager, qui fait languir mon ame,  
+Resouds toy de quitter les beaux yeux de ma Dame :  
+Voy mes maux, songe à moy, regarde ton devoir ;  
+Et sois prompt à venir, si tu me veux revoir.  
+Pense que ta longueur, m'assassine, & me tuë ;  
+Toy seul peux relever ma pauvre ame abatuë :  
+Souffre que mes desirs t'arrachent de ce Ciel ;  
+Voudrois-tu du Nectar [158], quand je n'ai que du fiel [159] ?  
+Ton immortalité me cousteroit la vie :  
+He ! sois plus pitoyable, en suivant mon envie :  
+Tu m'as cent fois promis d'aider à mon dessein ;  
+Ha bons Dieux ! le voicy ; le cœur me bat au sein ;  
+Je tremble en remarquant, qu'il s'est peint le visage,  
+De la pasle couleur d'un funeste presage ;  
+La tristesse le suit,& marche sur ses pas ;  
+Je lis dedans ses yeux ce qu'il ne me dit pas ;  
+Et dans l'incertitude où me met son silence,  
+L'excez de mon supplice, accroist sa violence :  
+Mes pleurs suivent les siens, sans en voir le subjet ;  
+Toy qui fais ma douleur, monstre luy son objet.  
+Ne me le cele point ; veut-on forcer Orante ?  
+As tu veu les abois de sa vertu mourante ?  
+As tu veu son esprit à travers son discours ?  
+Suis-je desesperé ? n'ay-je plus de secours ?  
+N'implore-t'elle point le pouvoir de mes armes ?  
+N'as-tu point veu ses pleurs, comme tu vois mes larmes ?  
+Ne m'escrit-elle pas ? Que sert de le celer⁎ ?  
+Enfin, dois-je mourir ? ou si tu dois parler  [160]?  
+
+
+### SCENE HUICTIESME.
+Clindor, Isimandre.
+
+
+    CLINDOR.
+Juste Ciel, je voudrois dans le mal qui me touche,  
+Qu'un silence eternel me vint fermer la bouche :  
+
+    ISIMANDRE.
+N'adjouste point aux miens, tes regrets superflus ;  
+Prononce mon arrest⁎ ;  
+
+    CLINDOR.
+        Orante ne vit plus,  
+Elle a voulu mourir, plustost qu'aller au change⁎ ;  
+Elle vous adoroit, & n'aimoit point Florange,  
+Que le pouvoir d'Ormin luy donnoit pour Espous ;  
+Enfin, que vous diray-je, elle est morte pour vous.  
+Et trouvant un remede aux rigueurs de ses peines,  
+Sa generosite s'est fait coupper les veines :  
+Ce tragique Tesmoing vous dira mieux que moy,  
+Il luy baille [161] le billet d'Orante.
+
+Quelle fut son amour, sa constance⁎, & sa foy⁎.  
+
+    ISIMANDRE.
+Tout ce que tu me dis est remply de mensonge :  
+Et ton cerveau debile⁎ a fait un mauvais songe.  
+Orante ne vit plus ! Orante est au cerceuil !  
+Dois-je croire ta voix ? Dois-je croire mon œil ?  
+C'est de toy cher papier que je le veux apprendre :  
+BILLET.
+Tienne je meurs, mon Isimandre.  
+Il lit ce billet.
+
+Il n'en faut plus douter ; par la rigueur du sort,  
+La vertu ne vit plus, & le Soleil est mort.  
+Il n'en faut plus douter, sa plume veritable,  
+Ne m'a que trop bien peint sa perte lamentable :  
+Il n'en faut plus douter ; elle abandonne aux vers,  
+Le plus rare thresor qui fust en l'Univers.  
+Orante ne vit plus ! Orante n'est que poudre :  
+Et moy je ne meurs pas apres ce coup de foudre !  
+Apres l'avoir souffert⁎, je respire un moment :  
+Ha ! je ne me crois plus un veritable Amant :  
+Je flattois mon esprit, en l'estimant fidelle ;  
+S'il eust sçeu bien aimer, il seroit aupres d'elle ;  
+Quand la blessure est grande on finit sans parler ;  
+Et celui qui se pleint, tasche à se consoler.  
+Chere Ombre⁎, je te suis, si tu me veux attendre :  
+BILLET.
+Tienne je meurs, mon Isimandre.  
+Il lit.
+
+He n'est-ce pas respondre, à mon cœur, à ma voix ?  
+Disant ce qu'elle a fait, on dit ce que je dois.  
+Caracteres sanglans, entrez dans ma pensée ;  
+Representez y bien mon Orante blessée ;  
+Que le traict⁎ de la Mort, la peigne en mon esprit,  
+En l'estat qu'elle estoit, en traçant cét escrit ;  
+Ha ! je voy ce Phantosme, & sa main tasche à mettre,  
+Les derniers traits⁎ de l'ame en ceux de cette lettre ;  
+Et l'Amour semble dire à mon cœur prisonnier,  
+Tout le sang est sorty, j'y reste le dernier.  
+Suy moy dans les Enfers, où je m'en vay descendre.  
+BILLET.
+Tienne je meurs, mon Isimandre.  
+Il relit.
+
+Attends, Orante, attends, mon ame qui te suit ;  
+Ne t'en va point sans elle en l'eternelle nuit ;  
+Juge de mon amour, juge de ta puissance ;  
+Remarque l'une & l'autre en mon obeïssance ;  
+Mais souffre que je pousse en un mesme chemin,  
+Et le traistre Florange, & le cruel Ormin :  
+Permets que nous goustions ceste douce allegeance⁎,  
+Que les cœurs irritez⁎ trouvent en la vangeance ;  
+Mon esprit au tombeau ne peut estre endormy.  
+S'il ne mesle à mon sang celuy de l'ennemy :  
+Ma Deesse demande un pareil sacrifice :  
+Partons Clindor, allons luy rendre cét office ;  
+Et quand j'auray puny ces volleurs de mon bien,  
+Je respandray mon sang sur les marques du sien.  
+
+
+## ACTE TROISIESME.
+FLORANGE, ISIMANDRE, LINDOMAN, CLINDOR, PALINICE, LUCINDE, NERINE, ORMIN.
+
+
+
+### SCENE PREMIERE.
+
+    FLORANGE.
+La peine que je sens leur est indifferante :  
+Amour que dois-je faire ? on me ravit Orante ;  
+O toy qui le fais naistre, assiste mon ennuy⁎ ;  
+Ou si tu vis d'espoir, meurs aussi bien que luy.  
+Mon extreme douleur n'a rien qui la console ;  
+Orante est sans amour, Ormin est sans parole ;  
+Que dis-je mal-heureux ? Elle a donné sa foy⁎ ;  
+Elle est bien sans amour, mais ce n'est que pour moy.  
+J'ay sceu comme Isimandre occupe sa belle ame ;  
+Son cœur est consommé d'une secrete flame ;  
+Mais croyant que mon œil ne le sçauroit ouvrir,  
+L'Amour qu'elle a caché me l'a fait descouvrir⁎.  
+Ha qu'on voit clairement, en despit de la feinte,  
+Si le cœur est sans playe, ou si l'ame est atteinte ;  
+L'œil d'un Amant jaloux, voit tout, peut tout percer ;  
+Et mesme dans l'esprit il surprend un penser :  
+Un sousris [162], une larme, un souspir, une œillade,  
+Sont indices [163] certains que l'esprit est malade,  
+Sur quoy l'homme subtil fonde son jugement :  
+Celuy qui souffre un mal le connoist aisément.  
+Il n'est que trop certain qu'Orante aime Isimandre :  
+Mais puis qu'elle est à moy, je sçauray la deffendre ;  
+Naples n'est pas si loing, ny son bon-heur si prés ;  
+Tel cherche du Laurier [164], qui trouve du Cyprés [165].  
+Et bien que ce Rival ait la place occupée,  
+Il faudra qu'il la prenne au bout de mon espée ;  
+Ormin, la Mere, Orante, Isimandre, & le sort,  
+Ne peuvent me l'oster, qu'en me donnant la mort.  
+
+
+### SCENE SECONDE.
+ISIMANDRE [166], LINDOMAN, CLINDOR.
+
+
+    ISIMANDRE.
+Orante n'est pas morte ! Orante vit encore !  
+Fidelle Messager, il faut que je t'adore.  
+
+    LINDOMAN.
+Quoy Monsieur, doutez vous, d'un bon-heur asseuré ?  
+Vos yeux verront bientost ce que j'ay tant juré ;  
+Nous approchons de Pise ; & dans l'heure où nous sommes,  
+Vous vous confesserez le plus heureux des hommes.  
+Cét habit de Marchand ravira vos esprits,  
+Dans un autre dessein que vous ne l'aviez pris :  
+Et sans vous en servir contre vostre adversaire,  
+Pour approcher d'Orante, il vous est necessaire.  
+
+    ISIMANDRE.
+Orante ! ce beau nom, me charme, & me ravit ;  
+Mais bien-heureux papier, redis moy qu'elle vit.  
+LETTRE.
+L'esperance m'estant ostée,  
+Il lit.
+
+
+Le trespas me sembla fort doux ;  
+L'amour me fit mourir, & m'a ressuscitée [167]  
+Mais je veux que ce soit pour vous.  
+
+Ha trop heureux Amant ! O trop fidelle Amante !  
+Dieux que le calme plaist, lors qu'il suit la tourmente :  
+Miracle de nos jours, incomparable foy⁎,  
+Que ne vous dois-je point ? vivre & mourir pour moy !  
+Mon sang a marqué mon courage⁎ ;  
+Il lit encore.
+
+
+Mais apprenez de ce discours ;  
+Que pour sauver le reste, apres ce grand orage,  
+J'ay besoin de vostre secours.  
+
+Vous l'aurez chere Orante, & pour voir tant de charmes ;  
+Amour joindra sa force à celle de mes armes :  
+J'auray pour obeïr à ce divin escrit,  
+Autant de force au bras, comme vous en l'esprit.  
+Soyez discret, soyez fidelle,  
+Il acheve de lire.
+
+
+Sans estre connu dans ce lieu :  
+Orante vous permet de venir aupres d'elle ;  
+Vollez s'il est possible ; adieu.  
+
+Observons de tout point les loix de ma Maistresse :  
+Aide par tes advis⁎ au desir qui me presse :  
+Apprends moy Lindoman, par ton sage conseil,  
+Sans estre veu d'aucun d'approcher [168] du Soleil.  
+
+    LINDOMAN.
+La ruse d'un Demon ne verroit pas la nostre :  
+Cet habit vous desguise, & vous fait tout [169] un autre ;  
+Je vous laissois passer quand vous estes venu,  
+Si Clindor par malheur ne m'eust pas reconnu.  
+Je vay marcher devant, afin qu'on ne soubçonne [170];  
+Venez droit au Chasteau sans parler à personne ;  
+Clindor vous conduira dans son Apartement :  
+
+    CLINDOR.
+J'en sçay bien le chemin, quittez nous seulement.  
+
+    ISIMANDRE.
+Prepare mon Orante, apprends-luy ma venuë ;  
+Allons voir le Soleil à travers cette nuë⁎ ;  
+C'est ainsi que sans crime on peut estre trompeur ;  
+Qu'Argus [171] soit en ce lieu, je n'en ay point de peur ;  
+Comme le feu se cache en sa Sphere supréme,  
+Le mien plus pur que luy se cachera de mesme ;  
+Mon cœur est son vray centre, où son esclat ne luit,  
+Que pour moy qui le sens, & pour qui l'a produit.  
+
+
+### SCENE TROISIESME.
+PALINICE, LUCINDE, NERINE.
+
+
+    PALINICE.
+Ce n'est pas sans rougir que je me voy contrainte,  
+D'obliger vostre esprit à partager ma crainte :  
+J'ay balancé long-temps avant que de parler ;  
+Et je souffrois un mal que je voulois celer⁎.  
+J'en esloignois mes pas ; j'en destournois ma veuë ;  
+J'accusois ma raison d'en estre despourvueuë ;  
+Je chocquois⁎ ses advis⁎, au lieu d'y consentir ;  
+Et flattois ma douleur, pour ne la pas sentir.  
+Mais enfin le peril est trop grand pour le taire :  
+On ne pleint pas un mal quand il est volontaire :  
+Nos interests communs se doivent conseiller ;  
+Et puis que vous dormez, je vous veux resveiller.  
+Ne remarquez vous point qu'Ormin n'aime qu'Orante ?  
+Mais vous me respondrez, c'est qu'elle est sa parente ;  
+On discerne aisément l'ardeur & la pitié ;  
+Les sentimens d'amour & ceux de l'amitié.  
+Le sang ne peut donner une si haute estime ;  
+Croyez moy, ses desseins n'ont rien de legitime ;  
+Je connois mieux que vous ses inclinations ;  
+J'ay leu dedans son cœur ses folles passions ;  
+Le feu le plus caché jette un peu de fumée ;  
+Orante n'aime point, mais elle est trop aimée :  
+J'estime son esprit ; j'adore sa vertu ;  
+Le vice qui l'attaque est tousjours abatu ;  
+Mais songez que la force est une chose estrange ;  
+Voyez qu'il a manqué de parole à Florange ;  
+Il suit l'humeur d'Orante afin de l'obliger⁎ ;  
+Croyez que mon advis⁎ n'est pas à negliger.  
+
+    LUCINDE.
+Vos pensers & les miens ont de la simpathie :  
+Je prevoyois le mal dont je suis advertie ;  
+Et taschois de trouver par mon raisonnement ,  
+Dans la fin de ce feu celle de mon tourment :  
+Mais que peut toute seule une veufve affligée ?  
+Une femme sans force, une Mere outragée,  
+Qui trouve en son Azile un ennemy caché ;  
+Mon mal est sans remede, en vain j'en ay cherché ;  
+Pour moy le Ciel est sourd ; ma priere inutile,  
+Est un grain que je seme en un champ infertile ;  
+Elle s'adresse au Ciel qui ne la reçoit point ;  
+Il passe ; & mon malheur est tousjours en un point [172].  
+
+    PALINICE.
+Suivrez vous un moyen que l'esprit me sugere ?  
+
+    LUCINDE.
+Toute difficulté me paroistra legere,  
+Proposez seulement :  
+
+    PALINICE.
+        Ostez vous de ce lieu,  
+Ne voyez plus Ormin, partez sans dire adieu ;  
+Que Florange vous suive, & qu'apres dans Florence,  
+Il recoive le fruit de sa perseverance ;  
+Le temps qui change tout, pourra changer Ormin :  
+
+    LUCINDE.
+Dans six jours au plus tard je me mets en chemin.  
+
+    PALINICE.
+Vous serez en repos, & nostre Amant en peine :  
+
+    LUCINDE.
+J'aime plus mon honneur⁎ que je ne crains sa haine.  
+
+    NERINE.
+Dieux ! on la veut forcer, je n'y puis consentir ;  
+Elle a escouté.
+
+Mais ce mal est pressant, je vay l'en advertir.  
+
+
+### SCENE QUATRIESME.
+ORANTE, LINDOMAN.
+
+
+    ORANTE.
+Je ne puis te payer, je le voy plus j'y pense :  
+
+    LINDOMAN.
+En faisant mon devoir, j'ay pris ma recompense.  
+
+    ORANTE.
+Je l'ay desja present, je croy le regarder,  
+
+    LINDOMAN.
+Madame, assurez vous qu'il ne sçauroit tarder.  
+
+    ORANTE.
+Mais s'il est reconnu, le danger est extreme ;  
+
+    LINDOMAN.
+Il est si fort changé, que ce n'est plus luy mesme :  
+Sous l'habit d'un Marchand qui cache ses appas⁎,  
+Vous qui l'avez au cœur ne le connoistrez pas.  
+
+    ORANTE.
+Souz un mauvais habit paroist sa bonne mine⁎,  
+Ainsi que l'or esclate en l'obscur d'une mine [173].  
+
+
+### SCENE CINQUIESME.
+NERINE, ORANTE, LINDOMAN.
+
+
+    NERINE.
+Ha Madame, escoutez…  
+Elle lui parle à l'oreille.
+
+
+    ORANTE.
+        Je n'en ay point de peur :  
+Mon projet est certain, leur espoir est trompeur ;  
+Je verray leur pratique aujourd'huy renversée ;  
+Si je suis Andromede, Isimandre est Persée [174] ;  
+Son œil escartera le malheur qui me suit.  
+
+    LINDOMAN.
+Je l'apperçoy Madame, & Clindor le conduit.  
+
+    ORANTE.
+Mon cœur nage en la joye, & rien ne l'importune ;  
+Il ne craint plus les traicts⁎ que tire la fortune.  
+
+
+### SCENE SIXIESME.
+ISIMANDRE, ORANTE, NERINE, CLINDOR, LINDOMAN.
+
+
+    ISIMANDRE.
+Lisez dedans mes yeux, voyez en ma couleur,  
+Que l'extreme plaisir ressemble à la douleur :  
+Ma bouche en est muette, & mon esprit se pasme⁎  
+Fermez la d'un baiser, pour retenir mon ame  [175]:  
+
+    ORANTE.
+Vous me faites pitié, je veux vous secourir ;  
+Vivez cher Isimandre, où j'ay voulu mourir [176].  
+
+    ISIMANDRE.
+Lieux sacrez à l'Amour, pleins d'appas⁎, & de charmes ;  
+Monstrez moy ce beau sang, que j'y mesle mes larmes ;  
+Mais non, je me repens de ma temerité ;  
+Conservez-le tout pur à la posterité.  
+Quand on vous couvriroit des richesses du Gange [177],  
+Cét esmail est si beau que vous perdriez [178] au change :  
+Puisse bientost l'Aurore en orner ses habits ;  
+Et le mesler au Ciel avecque ses rubis.  
+Ce tresor est trop grand, pour rester sur la terre.  
+
+    ORANTE.
+On triomphe en la paix, & nous sommes en guerre,  
+On me veut enlever ; quel remede avons nous ?  
+
+    ISIMANDRE.
+On vous veut enlever ! y consentirez vous :  
+
+    ORANTE.
+Cherchez nostre secours dedans vostre industrie⁎ :  
+
+    ISIMANDRE.
+Sur les ailes d'Amour vollons en ma patrie :  
+Que Naples vous revoye en jeune Cavalier,  
+Ce remede est fascheux, mais il est singulier ;  
+L'Amour s'est tousjours pleu dans les metamorphoses ;  
+Le temps en s'enfuyant ameine toutes choses ;  
+Sous le nom d'un Amy mon pere vous peut voir :  
+
+    ORANTE.
+Il se fait un combat d'amour & du devoir :  
+
+    ISIMANDRE.
+Le devoir & l'amour obligent ma Maistresse.  
+A fuir [179] sagement l'ennemy qui la presse.  
+
+    ORANTE.
+Mais se peut-il trouver un Amoureux constant⁎ ?  
+
+    ISIMANDRE.
+Ha ! si vous en doutez, que je meure à l'instant.  
+
+    ORANTE.
+Où prendre des habits ? le moyen ? l'apparence ?  
+
+    ISIMANDRE.
+Je feray sourdement [180] l'equipage à Florence ;  
+Et dans trois jours Clindor vous les apportera,  
+Sur le pretexte faux des Tableaux qu'il aura.  
+
+    ORANTE.
+Ne laissons pas Nerine, elle est de la querelle :  
+
+    ISIMANDRE.
+Et bien ; j'en feray faire, & pour vous, & pour elle ;  
+Et les ayant vestus, soyez le jour suivant,  
+Dans le temple de Mars, dés le Soleil levant.  
+Là vous me trouverez couvert d'une autre sorte [181] ;  
+Les Chevaux seront prests à cent pas de la porte ;  
+Et pourveu que le cœur ne vous manque au besoing [182],  
+Quand on vous cherchera, nous serons desja loing.  
+
+    ORANTE.
+Vous avez dessus luy la puissance absoluë :  
+Puis que vous le voulez, m'y voilà resoluë.  
+Et deussay-je trouver la mort à mon chemin [183] ;  
+Je vous suivray par tout :  
+
+    NERINE.
+        Voicy venir Ormin.  
+
+    ISIMANDRE.
+Madame, remarquez comme en cette peinture,  
+Il prend un tableau.
+
+L'Art plus divin qu'humain, imite la Nature :  
+Voyez comme Adonis semble admirer Venus [184] ;  
+Comme à travers le crespe on voit ses membres nus [185] ;  
+Cét autre est ravissant, où le Pinceau prophane,  
+Offre aux yeux d'Acteon les beautez de Diane [186] ;  
+Il prend le second.
+
+Voyez que ce visage est en colere & beau ;  
+Et que ce corps plongé se fait un habit d'eau [187].  
+
+    ORANTE.
+Ha Monsieur, approchez, venez voir des merveilles ;  
+Ormin arrive.
+
+Qui chez les plus grands Rois n'auroient point de pareilles ;  
+Tout ainsi que les miens, vos yeux seront charmez :  
+
+
+### SCENE SEPTIESME.
+ORMIN, ISIMANDRE, ORANTE, NERINE, CLINDOR,
+
+LINDOMAN.
+
+
+    ORMIN.
+Elles valent beaucoup, si vous les estimez.  
+
+    ISIMANDRE.
+Voyez dans ce tableau, cette histoire connuë,  
+Il prend le troisiesme.
+
+Où le fol Ixion n'embrasse que la nuë [188] ;  
+Voyez de Jupiter le regard inhumain ;  
+Comme il hausse le bras, la foudre dans la main.  
+
+    ORMIN.
+Certes, Peintre, ou Marchand, ou tous les deux ensemble,  
+La langue & le pinceau, font tres-bien ce me semble.  
+
+    ISIMANDRE.
+Voyez comme Apollon court apres sa Dafné [189] ?  
+Il prend le quatriesme.
+
+Elle devient un bois, dont il est couronné ;  
+Pour atteindre plustost cette Nimphe superbe,  
+Il laisse choir sa lire, & son carquois sur l'herbe ;  
+Il la suit, elle fuit, et va de toutes parts,  
+La robe retroussée, & les cheveux espars [190].  
+
+    ORANTE.
+Que me demandez vous de ces quatre Peintures ?  
+
+    ORMIN.
+Allez chercher ailleurs vos bonnes advantures⁎ ;  
+Desja vostre marché, sans marchander est fait ;  
+Qu'on le meine là bas, & qu'il soit satisfait ;  
+Le prix se mesurant avecque sa demande,  
+Qu'il ait ce qu'il dira, puis que je le commande ;  
+
+    ORANTE.
+Et cét autre Tableau ?  
+
+    ISIMANDRE.
+        Je l'envoyray, ma foy⁎ :  
+
+    ORANTE.
+Adieu, n'y manquez pas, souvenez vous de moy.  
+
+    ISIMANDRE.
+Cét homme qui me sert l'apportera (Madame)  
+Ha ! que n'ay-je son cœur, ainsi qu'il a mon ame.  
+Il dit ce vers bas.
+
+
+    ORANTE. 
+Elle tient le premier Tableau [191].
+
+Monsieur, cét Ixion me semble le plus beau  
+
+    ORMIN.
+Il eut un haut dessein, & le Ciel pour Tombeau ;  
+Il fut heureux en songe, & je luy porte envie ;  
+Sa mort fut glorieuse aussi bien que sa vie.  
+
+    ORANTE.
+Mais le foudre⁎ punit ses projects orgueilleux ;  
+
+    ORMIN.
+Les desseins eslevez sont tousjours perilleux :  
+Ce grand cœur rencontra la fortune irritée,  
+Il n'eut pas la Couronne, & l'avoit meritée ;  
+Mais si j'avois son sort, je mourrois sans regret ;  
+Il descouvrit⁎ son mal, & le mien est secret :  
+
+    ORANTE.
+Que Diane me plaist ! Que j'aime ce rivage !  
+Second tableau.
+
+
+    ORMIN.
+Dieux ! elle n'a pas seule un naturel sauvage :  
+Une autre haït mes yeux qui l'osent adorer,  
+Et fait que mes pensers me viennent devorer :  
+Miserable Acteon, je l'esprouve⁎ rebelle ;  
+Mais n'importe mon cœur, mourons, car elle est belle.  
+
+    ORANTE.
+Cette Nimphe qui fuit me touche de pitié :  
+Troisième tableau.
+
+
+    ORMIN.
+Vous aimez un object⁎ qui n'a point d'amitié⁎ :  
+Voyez qu'elle est aveugle en fuyant la lumiere.  
+
+    ORANTE.
+Il faudra qu'un rideau couvre cette premiere.  
+Quatrième tableau.
+
+
+    ORMIN.
+Si les feux d'Adonis sont indignes du jour,  
+Laissez-les moy couvrir, je sçay cacher l'Amour.  
+
+    ORANTE.
+Vous prendriez trop de soing ;  
+
+    ORMIN.
+        Ha ! qu'elle est inhumaine ;  
+Elle pleint mon travail [192], & ne pleint pas ma peine [193].  
+
+    ORANTE.
+Je devois [194] recevoir ce present à genous :  
+
+    ORMIN.
+Je ne puis rien donner, moy mesme estant à vous,  
+
+    ORANTE.
+L'excez de vos bontez me rend toute confuse :  
+
+    ORMIN.
+Croyez Ormin sans cœur, si je vous le refuse.  
+Que vos commandemens secondent mes desirs ;  
+Demandez quelque bien qui serve à vos plaisirs ;  
+Ordonnez moy d'aller sur la terre & sur l'onde,  
+Avecque le Soleil faire le tour du monde.  
+Commandez à mon bras d'esgorger un Lion ;  
+Ordonnez luy de mettre Osse [195] sur Pelion [196] ;  
+J'attaqueray le Ciel, & dans cette escalade [197],  
+Je seray plus heureux que ne fut Encelade [198] :  
+Si ces lambris d'azur peuvent plaire à vos yeux,  
+J'oseray vous placer dans le Throsne des Dieux;  
+Vostre seule froideur a borné ma puissance ;  
+Esprouvez mon amour par mon obeïssance.  
+
+    ORANTE.
+En m'obligeant⁎ (Monsieur) jusqu'en un si haut point,  
+Vous me croirez ingrate, & je ne la suis point.  
+
+    ORMIN.
+Je crois qu'une Deesse est tousjours veritable.  
+Mais ce long entretien vous est insupportable ;  
+Et mon esprit grossier aupres de vos appas⁎,  
+Gouste un contentement qu'il ne vous donne pas.  
+Adieu, voicy la nuit, les objects se ternissent ;  
+Je souhaite à vos yeux un bien qu'ils me ravissent.  
+
+    ORANTE.
+De ce discours obscur j'ay l'esprit estonné⁎,  
+Mais prenez le repos que vous m'avez donné.  
+Ormin s'en va.
+
+Tousjours quelque malheur le Destin me suscite⁎ :  
+Florange me poursuit, Ormin me solicite ;  
+Sa femme veut ma perte ; & ma Mere y consent ;  
+Helas ! que d'ennemis contre un cœur innocent.  
+Mais j'apperçoy le port en depit de l'orage ;  
+Je sortiray des fers si j'en ay le courage⁎ ;  
+Comment ! j'hesite encor ! sur un point assuré !  
+Non, non, il faut partir ; Orante l'a juré.  
+
+
+## ACTE QUATRIESME.
+PALINICE, LUCINDE, ORANTE, NERINE, FLORANGE, ISIMANDRE, CLINDOR, POLIANTE, ORMIN, LERISTE.
+
+
+
+### SCENE PREMIERE.
+LUCINDE, PALINICE, ORANTE, NERINE.
+
+
+    PALINICE.
+Vous serez dans le calme, & rirez des tempestes ;  
+Car pour vostre départ toutes choses sont prestes ;  
+
+    LUCINDE.
+Demain sans differer m'esloignant de ce lieu,  
+Mon esprit affligé vous dérobe un Adieu.  
+
+    ORANTE.
+Ha ! je tremble Nerine :  
+Orante & Nerine en habit d'hommes les rencontrerent.
+
+
+    NERINE.
+        O bon-heur sans exemple ;  
+Madame, sauvons nous, entrons dedans [199] le Temple ;  
+Souz cét habit trompeur on ne vous connoist pas :  
+
+    ORANTE.
+Veüille Amour, qu'Isimandre ait devancé mes pas.  
+
+
+### SCENE SECONDE.
+FLORANGE, ISIMANDRE, CLINDOR.
+
+
+    FLORANGE.
+C'est en vain qu'on me fuit, c'est en vain qu'on se cache ;  
+Je suis seul, ils sont deux, mais l'un & l'autre est lâche ;  
+Quelque mauvais dessein les oblige à courir ;  
+Téméraire Isimandre, apprens qu'il faut mourir.  
+
+    ISIMANDRE.
+Bons Dieux que d'accidens⁎ choquent⁎ mon entreprise⁎ ;  
+Si je ne me bats point, il me suivra dans Pise ;  
+
+    CLINDOR.
+Ouvrons nous par sa mort le chemin du bon-heur ;  
+
+    ISIMANDRE.
+Je suivray ton conseil, & celuy de l'honneur⁎.  
+Cét arbre, & cette escharpe asseureront Florange,  
+Que ma main sans second, sçait bien comme on se vange ;  
+Il le lie à un arbre.
+
+
+    FLORANGE.
+Me monstrez vous mes yeux ce que je pense voir ?  
+
+    CLINDOR.
+Monsieur, que faites vous ?  
+
+    ISIMANDRE.
+        Ce que veut mon devoir.  
+O toy que le mal-heur oppose à mon passage,  
+Vieux spectre que les ans n'ont pas rendu plus sage,  
+Souviens toy du beau sang qu'Orante a respandu :  
+Et reçoy de mon bras le loyer⁎ qui t'est deu ;  
+
+    FLORANGE.
+Témerité sans force ! esperance trompée :  
+Il tombe.
+
+
+    ISIMANDRE.
+Demande moy la vie, & me rends ton espée :  
+
+    FLORANGE.
+Je fais l'un, prenez l'autre, & gloire des Guerriers,  
+Ne soüillez point de sang l'esclat de vos lauriers,  
+
+    CLINDOR.
+Monsieur, punissez-le du travail qu'il vous donne ;  
+
+    FLORANGE.
+Je vous cede mon droict,  
+
+    ISIMANDRE.
+        & moy je vous pardonne ;  
+Ciel ! de quelle douleur ay-je le cœur percé ?  
+Clindor, que ferons nous ? je me trouve blessé ;  
+Le moyen que sanglant j'aille où l'Amour m'appelle ?  
+Ha chetif Isimandre ! O fortune infidelle !  
+Traverser cette ville en l'estat où je suis,  
+Sans estre reconnu, c'est ce que je ne puis :  
+On m'attend cependant ; helas ! que dois-je faire ?  
+Il deslie son escuyer.
+
+
+    CLINDOR.
+Deschargez vous sur moy du poids de cette affaire ;  
+J'auray par mon travail la fin de vos travaux [200] ;  
+Allez vous reposer aupres de nos Chevaux ;  
+Mais de peur qu'il ne parle, il faut garder ce traistre ;  
+
+    ISIMANDRE.
+C'est au Temple de Mars que ma Venus doit estre.  
+
+    CLINDOR.
+Cachez vous dans le bois, & soyez sans effroy :  
+
+    ISIMANDRE.
+Tasche donc de voller, Florange, suivez moy.  
+
+    FLORANGE.
+Que desirez vous plus de mon obeïssance ?  
+
+    ISIMANDRE.
+Ce secret est trop haut pour vostre connoissance [201] ;  
+Le vaincu doit ployer sous les loix du vainqueur ;  
+
+    FLORANGE.
+Que n'avois je le bras aussi bon que le cœur.  
+Il parle bas.
+
+
+
+### SCENE TROISIESME.
+
+    POLIANTE.
+Que n'es tu le tesmoing de mon inquietude [202] ?  
+Je te ferois rougir de ton ingratitude ;  
+Fils sans obeïssance, enfant sans amitié,  
+A qui mes cheveux blancs n'ont sçeu faire pitié.  
+Quel exploit genereux⁎, quelle belle advanture⁎,  
+Oblige ton esprit à choquer⁎ la nature ?  
+Isimandre cruel, ton depart m'est suspect :  
+Le veritable amour n'est jamais sans respect :  
+Il s'impose luy mesme une loüable crainte ;  
+Il estime le joug qu'il porte sans contrainte ;  
+Et devant qu'entreprendre [203] un dessein qu'il aura,  
+Sans songer s'il luy plaist, il pense s'il plaira.  
+Toutes ses volontez ne font rien en tumulte ;  
+L'Oracle paternel est le seul qu'il consulte ;  
+Il combat ses desirs, sans en estre abatu ;  
+Et suit heureusement les pas de la Vertu.  
+Si son ame a des feux la raison les tempere ;  
+Il pense qu'il est fils, & qu'il doit estre pere ;  
+Et toujours l'amitié⁎ l'emportant sur l'amour,  
+Il rend le mesme honneur⁎ qu'on lui doit rendre un jour.  
+Ha ! que tu marches loing de cette heureuse trace ;  
+Ton esprit libertin ne craint point ma disgrace [204] ;  
+Tu parts sans mon congé, tu vas quittant ces lieux,  
+Sans songer que mes pleurs sont apperçeus des Dieux ,  
+Qui Peres comme moy prendront part à l'outrage,  
+Mais celestes Clements ! sauvez-le du nauffrage ;  
+Et ne punissant point ses desirs mutinez,  
+Pardonnez-luy sa faute, & me le ramenez,  
+Que j'ay le sens⁎ troublé ! que j'ay l'esprit en guerre !  
+Il a desja couru tous les coings de la terre ;  
+Ingenieux qu'il est, il feint [205] mille dangers,  
+Que trouve ce cher fils aux climats estrangers ;  
+Je le crois voir aux mains avec un adversaire ;  
+Je le crois voir sur l'onde, & pris par un Corsaire  
+Je crois que son argent tente les matelots ;  
+Je crains comme les vents, les rochers & les flots ;  
+Leur calme le plus doux despend de la fortune ;  
+Et l'inconstante y regne aussi bien que Neptune.  
+Je le descends à terre avecque mes douleurs ;  
+Je le vois dans un bois attaqué des voleurs ;  
+Je l'apperçoy combattre au milieu d'une armée ;  
+J'y crois voir sa valeur par le nombre opprimée ;  
+Je le vois tout sanglant, je le vois qui paslit ;  
+Je le crois voir malade, & mourir dans un lit ;  
+Abandonné, tout seul, & privé d'assistance ;  
+Bref, tous les accidents⁎ esprouvent⁎ ma constance⁎ ;  
+Et pour luy mon amour se porte en un tel point,  
+Que je ressens les maux que peut-estre il n'a point.  
+Grand Dieux, de qui les mains tiennent nos destinées ;  
+Pour allonger ses jours, retranchez mes années ;  
+Et bornant son voyage ainsi que mon ennuy⁎,  
+Que je meure en moy mesme, & que je vive en luy.  
+
+
+### SCENE QUATRIESME.
+ORANTE, NERINE.
+
+
+    ORANTE.
+Elles sont dans le temple.
+
+Dieux ! il ne songe point au tourment qui me presse :  
+Pour avoir tant d'amour, il a trop de paresse.  
+Si ne me trouvant pas on se met à chercher,  
+Un lieu tousjours ouvert, pourra-t'il me cacher ?  
+Et si par ces habits on connoist mon envie,  
+Rien me peut-il sauver & l'honneur⁎, & la vie ?  
+
+    NERINE.
+Je ne sçay que juger de son retardement ;  
+Mais qu'il manque d'amour, Madame, nullement,  
+
+    ORANTE.
+Quand Clindor te donna ces habillements d'hommes,  
+Ne te marqua-t'il pas ce lieu mesme où nous sommes ?  
+
+    NERINE.
+Il me marqua le lieu, le jour, & le matin.  
+
+    ORANTE.
+Sans doute que leur faute est celle du destin ;  
+Qui jaloux de mon aise, & l'ayant reconnuë,  
+Pour me desesperer, empesche leur venuë :  
+Quelque obstacle fascheux leur deffend de venir.  
+Mais je n'en auray point quand je voudray finir ;  
+Dans l'excez des mal-heurs, où personne ne m'aide,  
+J'ay tousjours creu la mort un souverain remede ;  
+Qui l'a pris une fois, le prendra bien encor :  
+
+    NERINE.
+O ciel ! voicy venir le fidelle Clindor,  
+
+
+### SCENE CINQUIESME [206].
+CLINDOR, ORANTE, NERINE.
+
+
+    CLINDOR.
+Si vous me voyez seul, qu'il ne vous semble estrange ;  
+Mon Maistre par mal-heur a rencontré Florange ;  
+Mais souffrez⁎ en fuyant la colère d'Ormin,  
+Que ce discours se fasse avec nostre chemin.  
+
+    ORANTE.
+Prends pitié de mon cœur, en luy faisant connoistre,  
+Si vainqueur ou blessé je dois revoir ton Maistre.  
+
+    CLINDOR.
+Et vainqueur, & blessé, mais fort legerement ;  
+Quelqu'un nous surprendra, sauvons nous vistement.  
+
+
+### SCENE SIXIESME.
+Lucinde, Palinice.
+
+
+    LUCINDE.
+Helas ! de mon support⁎ je me trouve privée ;  
+Madame, c'en est fait, ma fille est enlevée ;  
+Elle n'est plus icy ; Nerine a disparu ;  
+En vain tout le Chasteau j'ay quatre fois couru ;  
+Son Cabinet est vuide ; & sa Chambre est ouverte ;  
+Ha ! je n'en doute plus, cela me dit ma perte !  
+Je suis au desespoir ; & je perds la raison,  
+Souffrez⁎ vous des voleurs dedans vostre maison ?  
+Soulagez ma douleur, puis qu'elle vous afflige ;  
+Un mal est incurable, alors qu'on le neglige ;  
+Il est encore temps, faites courir après :  
+
+    PALINICE.
+Ne cherchons pas si loing, les ennemis sont pres :  
+Le principe du mal m'en fit prevoir l'issuë  
+Ormin a fait ce coup, ou je suis fort deceuë⁎ ;  
+Mais allons descouvrir la route qu'elle a prise :  
+
+    LUCINDE.
+Vous redoublez encor la gesne⁎ à mes esprits.  
+
+
+### SCENE SEPTIESME.
+
+    ORMIN.
+Le feu de mon courroux se mesle avec ma flame ;  
+On enleve mon cœur, on dérobe mon ame ;  
+Au moins cruel destin, fais voir à mes desirs,  
+L'invisible ennemy qui destruit mes plaisirs.  
+Descouvre moy le Ciel où mon Soleil demeure ;  
+Que je meure vangé puis qu'il faut que je meure ;  
+Et permets que son sang puisse effacer l'affront,  
+Qui me perce le cœur, & me rougit le front.  
+Mais à tort ce soupçon m'entre en la fantaisie⁎ ;  
+Et je donne à l'Amour un trait de jalousie :  
+Sans doute que ma femme a fait ce beau dessein ;  
+Mais un coup de poignard luy va percer le sein,  
+Si sa ruse entreprend de faire l'ignorante ;  
+Elle perdra le jour, si je perds mon Orante.  
+
+
+### SCENE HUICTIESME.
+FLORANGE, ISIMANDRE.
+
+
+    FLORANGE.
+La fortune a trahy tout l'espoir que j'avois :  
+
+    ISIMANDRE.
+Aussi vieux qu'un rocher, vous n'avez que la voix.  
+
+    FLORANGE.
+Il est vray ; mais souffrez⁎ qu'elle me serve à pleindre ;  
+
+    ISIMANDRE.
+Desormais vous ny moy n'avons plus rien à craindre.  
+
+    FLORANGE.
+Le plus grand des mal-heurs, enfin m'est advenu :  
+
+    ISIMANDRE.
+Le mal dont vous parlez ne vous est pas connu.  
+
+    FLORANGE.
+Que sçauroit adjouster la fortune à ma peine ?  
+
+    ISIMANDRE.
+L'inevitable fin d'une esperance vaine.  
+
+    FLORANGE.
+Donnez moy cette fin en celle de mes jours :  
+
+    ISIMANDRE.
+Ce poil [207] s'accorde mal avecque ce discours.  
+
+    FLORANGE.
+Et ce discours s'accorde mal avec mon advanture⁎ :  
+
+    ISIMANDRE.
+Par luy vous renversez l'ordre de la Nature.  
+
+    FLORANGE.
+Comment l'entendez vous ? expliquez ce propos :  
+
+    ISIMANDRE.
+Songez que la vieillesse a besoin de repos.  
+
+    FLORANGE.
+L'âge dont vous parlez n'a rien qui soit infame :  
+
+    ISIMANDRE.
+Mais l'Amour est aveugle, & la fortune est femme.  
+
+    FLORANGE.
+Desja depuis long-temps j'en ay senty les coups :  
+
+    ISIMANDRE.
+Vous en verrez bien tost de plus heureux que vous.  
+
+    FLORANGE.
+Ne pouvant l'empescher, il faudra m'y resoudre :  
+
+    ISIMANDRE.
+Que votre œil se prepare à voir tomber la foudre.  
+
+    FLORANGE.
+Que je ne meure point d'un coup inopiné ;  
+Orante vient icy ;  
+
+    ISIMANDRE
+        Vous l'avez deviné.  
+Approche mon espoir,  
+Elle arrive.
+
+
+
+### SCENE NEUFIESME
+ORANTE, ISIMANDRE, FLORANGE, CLINDOR, NERINE.
+
+
+    ORANTE.
+        Fuyons, fuyons ma vie ;  
+Nostre heur⁎ est assez grand, pour exciter l'envie.  
+
+    ISIMANDRE.
+Nous la tenons captive, elle est prise en ces lieux,  
+Il monstre Florange.
+
+
+    ORANTE.
+Ha ! chassez ce phantosme il desplait à mes yeux.  
+
+    FLORANGE 
+Que par l'ombre du bien l'ame est souvent trompée :  
+Il parle bas.
+
+
+    ISIMANDRE.
+Allez, retirez vous, reprenez vostre espée,  
+Et sur vos passions ayez plus de pouvoir :  
+
+    FLORANGE.
+Je meurs de voir Orante, & de ne la plus voir.  
+
+    ISIMANDRE.
+Icy la diligence⁎ est bien fort necessaire ;  
+Ce vieux monstre amoureux, ce debile⁎ adversaire,  
+Va chercher du secours, & nous serons suivis,  
+Si tost que de ma route on aura quelque advis⁎.  
+Clindor, volle devant, & forme une chimere,  
+Qui puisse trouver place en l'esprit de mon pere ;  
+Dis luy qu'ayant quitté le logis paternel,  
+Je me suis repenty de me voir criminel,  
+Et que par mes douleurs jugeant de sa souffrance,  
+J'ay rompu le dessein d'un voyage de France ;  
+Dis luy que deux Guerriers m'ont tiré du danger,  
+Où mettent les voleurs l'un & l'autre estranger,  
+Dis luy que je les meine, & qu'il fasse connoistre,  
+En les bien recevant, la grandeur de mon estre ;  
+La blessure que j'ay prouvera ton discours ;  
+Mais les meilleurs conseils sont icy les plus cours ;  
+Donne viste un cheval, que j'enleve ma proye ;  
+Elle vaut mieux qu'Helene, & Naples moins que Troye ;  
+Et premier que [208] je rende un bien que j'ay vollé,  
+Brusle comme mon cœur mon païs desolé.  
+
+
+### SCENE DIXIESME.
+ORMIN, PALINICE, LUCINDE, LERISTON.
+
+
+    ORMIN.
+La belle invention ! ô Dieux qu'elle est subtile !  
+
+    PALINICE.
+Mensonge bien pensé ! mais pourtant inutile.  
+
+    ORMIN.
+Tousjours vostre chagrin se plaist à me fascher :  
+
+    PALINICE.
+Orante est en vos mains, que sert de la cacher ?  
+
+    ORMIN.
+Mon esprit affligé n'entend point raillerie :  
+
+    PALINICE.
+Est elle au cabinet, ou dans la gallerie ?  
+
+    ORMIN.
+Vous qui la retenez pouvez m'en esclaircir:  
+
+    PALINICE.
+Un dessein descouvert ne sçauroit reüssir.  
+
+    ORMIN.
+Vous me croyez aveugle, & j'ay fort bonne veuë :  
+
+    PALINICE.
+Je ne m'estonne⁎ point, sa perte estoit preveuë.  
+
+    ORMIN.
+Votre ruse paroist plus claire que le jour.  
+
+    PALINICE.
+Votre haine descouvre, & fait voir vostre amour.  
+
+    ORMIN.
+Descouvre mon amour ! pour qui ? pour ma parente ?  
+
+    PALINICE.
+Vous n'aimez pas le sang, mais la beauté d'Orante.  
+
+    ORMIN.
+Et bien ; soit ; il est vray ; mais je la veux avoir :  
+
+    PALINICE.
+Puis qu'elle est en tes mains, perfide, va la voir.  
+
+    ORMIN.
+Ha ! ne contestez plus, rendez la moy, vous dis-je :  
+Quoy ! vous n'en ferez rien ?  
+Il la veut frapper d'un poignard.
+
+
+    LUCINDE.
+        O bons Dieux, quel prodige⁎ :  
+Page, secourez moy, je ne le puis tenir :  
+
+    PALINICE.
+Ciel ! peux-tu voir son crime, & ne le pas punir ?  
+
+
+### SCENE ONZIESME.
+FLORANGE, LUCINDE, ORMIN, PALINICE, LERISTE.
+
+
+    FLORANGE.
+Si vous cherchez Orante, elle n'est plus à Pise :  
+Et ses charmes ont pris un Amant qui la prise.  
+Isimandre l'emmene, apres m'avoir vaincu :  
+
+    LUCINDE.
+Pour avoir moins de maux, que n'ay-je moins vescu !  
+
+    ORMIN.
+Resolvons nous mon cœur, ma perte est assurée ;  
+Orante la procure, & le Ciel l'a jurée ;  
+Un autre la possede : ô penser assassin !  
+Jamais volleur ne fit un si riche larcin.  
+Bien-heureux Isimandre, en cette douce guerre,  
+Tu pilles les thresors du Ciel & de la Terre ;  
+Ce fameux Conquerant, qu'on a fait immortel [209],  
+Prit l'Univers entier, & ne prit rien de tel.  
+Mais quand Naples seroit en ces Plages desertes,  
+Qui par les Matelots ne sont pas descouvertes ;  
+Quand [210] tu la cacherois en ces lieux retirez,  
+Que les rayons du jour n'ont jamais esclairez ;  
+Quand tu te logerois au milieu d'une armée ;  
+Quand tu disparoistrois comme un corps de fumée ;  
+Quand tu pourrois voller, perfide assure toy,  
+Que tu me la rendrois, Leriste suivez moy.  
+
+    LUCINDE.
+O combien d'accidents⁎ chocquent⁎ nostre famille !  
+Ses plus grands ennemis sont aimez de ma fille ;  
+Mais j'yray la trouver pour en avoir raison,  
+Deust mon pays natal devenir ma prison.  
+
+    PALINICE.
+Souffrez⁎ en ce dessein que je vous accompagne ;  
+Car sans doute qu'Ormin se va mettre en campagne ;  
+Mon interest au vostre, icy se meslera :  
+
+    LUCINDE.
+Pourveu que nous partions, tout ce qu'il vous plaira. [211]  
+
+    FLORANGE.
+Comme j'avois des feux, il avoit de la flame :  
+L'excez de la douleur m'a fait lire en son ame ;  
+Et comme son esprit adoroit mon vainqueur,  
+Il n'a pû retenir les sentiments du cœur.  
+Sa raison a perdu son ordinaire usage ;  
+Sa folle passion s'est peinte en son visage ;  
+Ses souspirs ont fait voir en mesme temps au jour,  
+Le feu de la colere, & celuy de l'amour.  
+L'un & l'autre esclatoit ; l'un & l'autre visible,  
+Me l'on fait reconnoistre, amoureux & sensible.  
+Et j'ay veu par les pleurs que respandoyent ses yeux,  
+Qu'il perdoit comme moy, ce qu'il aimoit le mieux.  
+Ouy, j'ay veu clairement quelle est sa maladie :  
+L'amour qu'il a pour elle, a fait sa perfidie ;  
+Le traistre a fait mon mal, pour establir son bien ;  
+Et rompu mon dessein pour achever le sien.  
+Ce coup est sans remede,& moy sans allegeance⁎,  
+Si je ne la rencontre avecque la vangeance ;  
+Ouy, vangeons nous mon cœur des outrages souffers,  
+Afin de t'exciter, voy le bien que tu pers ;  
+Figure toy les traicts⁎ de la beauté d'Orante ;  
+Songe que le perfide a trompé ton attente ;  
+Qu'apres t'avoir promis il t'a manqué de foy⁎ ;  
+Te ravissant un bien qu'il reservoit pout soy ;  
+Voudrois tu le souffrir⁎ ? responds à ma demande ?  
+Non, non qu'il soit puny puis qu'Amour le commande.  
+Vangeant la foy⁎ rompuë, & qu'il eut à mespris,  
+Qu'il n'ait point de retour au voyage entrepris.  
+Suivons, suivons ses pas, & loing de la patrie,  
+Faisons agir la force avecque l'industrie⁎ ;  
+Deux BRAVES employez seconderont mes coups ;  
+Ce sont là des exploits qui sont dignes de nous.  
+Aux combats inégaux la victoire est certaine ;  
+Quand on veut rompre en lice [212], ou courre à la quintaine [213]  
+L'egalité sied bien, car elle est sans danger :  
+Je ne veux point mourir, je cherche à me vanger.  
+Je veux choisir le temps, & le moyen propice ;  
+Je veux qu'il tombe seul dedans le precipice ;  
+Je veux qu'apres sa perte, en perdant les tesmoins,  
+Je sois celuy de tous qu'on en soupçonne moins.  
+Ha ! je nâge desja dans le sang du perfide ;  
+J'obeïs au courroux, je n'en tiens plus la bride ;  
+Il m'emporte, il m'entraine, il me force à courir [214],  
+Je te suy, je te tiens, Ormin, il faut mourir.   
+
+
+## ACTE CINQUIESME.
+ISIMANDRE, LERISTE, ORANTE, POLIANTE, LUCINDE, PALINICE, ORMIN, FLORANGE, GERTIMANT, ARGAMOR, CLINDOR, NERINE.
+
+
+
+### SCENE PREMIERE.
+ISIMANDRE, LERISTE.
+
+
+    ISIMANDRE.
+CARTEL⁎.
+Isimandre, Orante trompée,  
+Il lit.
+
+
+Oblige Ormin à te punir ;  
+Je t'attends avec une espée,  
+Souviens toy que tu dois venir.  
+Si tu satisfais mon envïe,  
+Autre que moy ne te nuira :  
+Viens m'oster, ou perdre la vie,  
+Où ce Page te conduira.  
+
+Dures extremitez, où le destin m'engage :  
+Amour oste le cœur, & non pas le courage⁎ :  
+Si je fais ce combat, je hazarde mon heur⁎,  
+Et j'en serois indigne, en vivant sans honneur⁎ :  
+Ha ! mon affliction n'a rien qui la console.  
+Où me dois tu mener ?  
+
+    LERISTE
+        Du costé de Pouzzole [215].  
+Mais sans vous designer espressément le lieu,  
+Je vous y conduiray,  
+
+    ISIMANDRE
+        Je le veux bien ; adieu.  
+Separons nous, je crains que mon pere ne sorte :  
+Je te suy pas à pas, va m'attendre à la porte.  
+Tousjours l'homme est subjet aux caprices du sort ;  
+Et son premier repos est celuy de la mort.  
+Si tu donnes ta vie au danger qui la presse,  
+Amant infortuné, que fera ta Maistresse ?  
+Quoy ! la veux tu laisser souz un habit trompeur ?  
+Ne mourra-t'elle pas ? n'en as tu point de peur ?  
+Veux tu que sans support⁎ elle soit (vagabonde)  
+L'oppobre, le mespris, & la fable du monde ?  
+O dangereux voisins, temeraires Gaulois.  
+Dont les mauvaises mœurs ont perverty nos loix,  
+Que par vous mon esprit souffre une peine amere,  
+Suivant ce point d'honneur qui n'est qu'une Chimere [216] !  
+Il le faut cependant ; le destin l'a voulu,  
+Mon honneur le commande, & j'y suis resolu,  
+Ha ! voicy mon Orante, & mon ame contrainte,  
+Aura peine à cacher sa douleur & sa crainte :  
+Mais je luy veux donner un conseil au besoing⁎,  
+Afin si je peris que quelqu'un en ait soing.  
+Veux-tu pas te resoudre à parler à mon pere ?  
+Tu sçais bien comme un cœur souffre quand il espere.  
+Le danger nous tallonne, & le mal va croissant ;  
+Fais agir sur le sien ton esprit tout puissant :  
+Force-le par raison, fléchy-le par des larmes,  
+Une ame de rocher cederoit à ces armes ;  
+Fay combattre pour toy l'amour & la pitié,  
+Et fay lui voir qu'Orante a pris son amitié⁎.  
+Quitte cette pudeur, elle nous est contraire ;  
+Ressuscite Isimandre, & fay mourir son frere ;  
+Que ce nom desormais soit banny d'entre nous ;  
+Veux-tu pour l'obtenir que je sois à genous ?  
+
+
+### SCENE SECONDE
+ORANTE, ISIMANDRE.
+
+
+    ORANTE 
+Cruel, que ne fais tu ce que ta voix m'ordonne ?  
+
+    ISIMANDRE
+Le Ciel m'a refusé les graces qu'il te donne ;  
+Et mon discours n'a point l'art de persuader :  
+Helas ! je le vois bien, tu ne veux pas m'aider :  
+
+    ORANTE
+Charmeur, tes volontez sont tousjours souveraines ;  
+Elles tiennent sur moy la qualité de Reines.  
+
+    ISIMANDRE
+L'espreuve en fera foy ; le voicy, tu le vois,  
+Adieu, peut-estre adieu, pour la derniere fois.  
+Il dit ce vers bas.
+
+
+
+### SCENE TROISIESME.
+POLIANTE, ORANTE.
+
+
+    POLIANTE.
+Dequoy s'entretenoit le brave Cleomire ?  
+
+    ORANTE.
+Des vertus d'un Seigneur que tout le monde admire ;  
+De ce fils que le Ciel accomplit de tout point ;  
+Et certes ce penser ne m'abandonne point.  
+
+    POLIANTE.
+L'amitié⁎ vous deçoit⁎, ainsi qu'elle m'abuse [217] ;  
+Les deffauts d'un amy ne manquent pas d'excuse ;  
+L'œil flatte ce qu'il aime, & mon fils n'est parfait,  
+Desirant vous servir qu'au vœu qu'il en a fait.  
+
+    ORANTE.
+On ne sçauroit cacher une si belle vie,  
+Qui fait parler l'Histoire, & fait taire l'envie.  
+Mais comme sa valeur dés ses plus jeunes ans,  
+A mis la poudre aux yeux à tous les Courtisans ;  
+Et que suivant vos pas aux dangers de l'armée,  
+Il a pris bonne part à vostre renommée,  
+Vous devriez desormais l'arrester en ces lieux ;  
+Songez que la fortune est un monstre sans yeux,  
+Et qu'elle peut frapper ceux qu'elle favorise :  
+Donnons-luy des desirs que le vostre authorise ;  
+Afin que l'arrestant, comme il est à propos,  
+Les derniers de vos jours se coulent en repos.  
+
+    POLIANTE.
+Ce que vous proposez est le but où j'aspire ;  
+C'est un bien que je cherche, & pour qui je souspire⁎ ;  
+Mais je ne trouve point où borner ce desir.  
+
+    ORANTE.
+Peut-estre en cét Himen⁎ voulez vous trop choisir  [218]:  
+
+    POLIANTE.
+Nullement ; mon esprit n'a point cette foiblesse :  
+Pourveu que la vertu se joigne à la Noblesse,  
+Je seray satisfait, je ne cherche point l'or,  
+Ces qualitez chez moy tiendront lieu de thresor.  
+
+    ORANTE.
+Vous oubliez un point d'une importance extréme :  
+
+    POLIANTE.
+Quel ?  
+
+    ORANTE.
+        Qu'il aime une fille, & qu'une fille l'aime.  
+
+    POLIANTE.
+Je ne l'oubliois pas, j'y suis trop disposé ;  
+Mais estant necessaire, il est presupposé.  
+Ces marchez d'interest, sont des maux qu'on doit craindre ;  
+Et j'aime trop mon fils pour le vouloir contraindre ; 1290  
+Aussi loing d'y songer je blasme ces parents,  
+Qui peres comme moy deviennent des tirans.  
+
+    ORANTE.
+Et si je vous nommois, une fille estimée ;  
+Honneste, noble, riche, & qui plus est, aimée ;  
+Y consenteriez vous ?  
+
+    POLIANTE.
+        N'en doutez nullement :  
+Mais Naples n'en a point, selon mon jugement ;  
+Et si vous la sçavez, mon ame est ignorante :  
+
+    ORANTE.
+Jugez si je me trompe, en vous nommant Orante :  
+
+    POLIANTE.
+Orante (a ce qu'on dit) a ces trois qualitez :  
+Mais on ne peut finir ce que vous projettez.  
+La haine hereditaire (execrable folie ;  
+Qui semble estre fatale à toute l'Italie)  
+Bien que contre mon sens⁎, & contre la raison,  
+A tousjours divisé, les siens, & ma maison.  
+Et je ne puis penser, comme sans la connoistre,  
+L'amour dont vous parlez auroit jamais pû naistre.  
+
+    ORANTE.
+Il est nay cependant : & s'est bien rendu tel,  
+Que d'une part & d'autre il doit estre immortel.  
+Les haines des parens sont de foibles obstacles ;  
+Et l'Amour est un Dieu, qui se plaist aux miracles.  
+Cette vieille querelle a desja trop duré ;  
+Elle desplaist au Ciel ; soyez en assuré :  
+Il n'assemble les cœurs d'un fils & d'une fille,  
+Que pour mettre en repos l'une & l'autre famille.  
+Mais pourtant leurs esprits qui sçavent leur devoir,  
+Rangent leurs volontez, dessous vostre pouvoir :  
+Tous prests de se priver du jour qui les esclaire,  
+Plutost que d'achever rien qui vous pust desplaire.  
+
+    POLIANTE.
+Pardonnez Cleomire, à mon estonnement ;  
+Mon esprit pense faire un beau songe en dormant.  
+Ce que vous m'apprenez est si plein de merveille,  
+Que mesme en vous parlant je doute si je veille.  
+Que ce penser profond ne vous soit pas suspect ;  
+J'estime cét amour autant que son respect ;  
+Et pour voir aujourd'huy ses peines terminées,  
+Ma volonté suivra celle des destinées :  
+Ouy, dites à ce fils qui vous a fait parler,  
+Que j'approuve le feu dont il osa brusler.  
+
+    ORANTE.
+Ha ! formez quelques pas, que j'en baise les traces ;  
+Aussi bien que ce fils je vous dois rendre graces :  
+C'est moy qui suis ……qui suis ……  
+
+
+### SCENE QUATRIESME. 
+CLINDOR, POLIANTE, ORANTE.
+
+
+    CLINDOR.
+        Je viens vous advertir  
+Que mon Maistre a querelle, & qu'on l'a veu sortir  
+Avec sa longue espée, & sans nul equipage :  
+
+    POLIANTE.
+Quelqu'un le conduit-il ?  
+
+    CLINDOR.
+        Ouy Monseigneur, un Page,  
+De livrée inconnuë, & qui nous fait juger,  
+Que celuy qui l'envoye, est sans doute Estranger.  
+
+    ORANTE.
+Quelles sont ses couleurs ?  
+
+    CLINDOR.
+        Si mon œil ne s'abuse,  
+Incarnat [219], blanc, & verd :  
+
+    ORANTE.
+        Dieux, que je suis confuse !  
+Elle parle bas.
+
+
+    POLIANTE.
+Que ne le suiviez vous ?  
+
+    CLINDOR.
+        En vain je l'ay tasché ;  
+Et contre mon devoir il a paru fasché.  
+
+    POLIANTE.
+Viste, viste, à cheval, qu'on batte la campagne ;  
+Empeschons ce duel [220].  
+
+    ORANTE.
+        Quel mal-heur m'accompagne !  
+Sans doute c'est Ormin, car ce Page est à luy.  
+Reprenons nos habits, il est temps aujourd'huy ;  
+Afin que si du sort les loix me sont fatales,  
+Je les puisse changer en celuy des Vestales [221] :  
+C'est un port⁎ assuré qui s'offre à ma douleur :  
+Mes feux sont eternels aussi bien que le leur.  
+
+
+### SCENE CINQUIESME.
+
+    ORMIN.
+C'est icy que ma main se va remplir de gloire ;  
+C'est icy qu'on verra le champ de ma victoire ;  
+Icy j'effaceray la marque d'un affront,  
+Par la rougeur du sang ostant celle du front.  
+Le terrain est fort bon : dans l'ardeur qui me presse,  
+Que n'avons nous au moins, entre nous la Maistresse ;  
+Pour la faire rester comme un prix amoureux,  
+Non pas au plus rusé, mais au plus genereux⁎.  
+Afin que le peril plus aisément j'escarte,  
+Dois-je porter en tierce [222] ? ou bien plus tost en quarte [223] ?  
+Non, par un autre coup, je prepare sa mort,  
+Je passeray sur luy, car je suis assez fort.  
+
+
+### SCENE SIXIESME.
+FLORANGE, ARGAMOR, GERTIMANT, ORMIN.
+
+
+    FLORANGE.
+Main basse Compagnons:  
+
+    ORMIN.
+        Que faites vous Florange ?  
+
+    FLORANGE.
+Je fais ce que je dois ; je punis, je me vange.  
+
+    ORMIN.
+Oubliez vous l'honneur⁎ ?  
+
+    FLORANGE.
+        Je le trouve à punir,  
+Un qui donne sa foy⁎, pour ne la pas tenir.  
+
+
+### SCENE SEPTIESME.
+ISIMANDRE, LERISTE, GERTIMANT, ARGAMOR, FLORANGE, ORMIN.
+
+
+    ISIMANDRE.
+J'entends un bruit d'espée ; advançons :  
+
+    LERISTE.
+        Ha ! le traistre ;  
+Florange, Monseigneur, assassine mon Maistre :  
+
+    ISIMANDRE.
+Je ne sçaurois souffrir⁎ ce complot inhumain :  
+Le Ciel te destinoit à mourir de ma main ;  
+La seconde rencontre, acheve la premiere :  
+
+    ARGAMOR.
+Fuyons,  
+
+    FLORANGE.
+        Je perds l'espoir, avecque la lumiere [224].  
+
+    ISIMANDRE.
+Le sort pour m'obliger, en ce jour a permis,  
+Qu'un ennemy pour vous combat vos ennemis ;  
+Afin que l'honneur sauf, sa voix vous fasse entendre,  
+Qu'Amour, & la raison ont conduit Isimandre :  
+Je suis ce mal-heureux que vous allez cherchant ;  
+Vous le voyez soldat, & l'avez veu Marchant.  
+
+    ORMIN.
+Pour un cœur genereux⁎, les biens-faits ont des charmes ;  
+Et vous me desarmez en conservant mes armes :  
+Vous venez de me vaincre, en me rendant vainqueur ;  
+Au lieu d'en tesmoigner je manquerois de cœur,  
+Si je vous disputois une palme [225] obtenuë ;  
+Ma colere s'en va comme elle estoit venuë ;  
+Elle s'esvanoüit ; & dedans ce moment,  
+Vous avez triomphé de mon ressentiment.  
+Je connois mon erreur, elle est toute apparente,  
+Mais ne vous souvenez que des beautez d'Orante :  
+Possedez-la paisible ; & m'accordez ce point,  
+(Au nom de vostre amour) de ne me haïr point.  
+Bornons enfin le cours d'une haine ancienne,  
+Qui perd vostre Maison, & qui destruit la mienne ;  
+Faites souscrire un pere avecque mon desir :  
+
+    ISIMANDRE.
+Mon ame est dans mes yeux, jugez de son plaisir.  
+Je ne puis exprimer les transports de ma joye ;  
+Et mon cœur veut s'ouvrir, à dessein qu'on la voye.  
+Ouy, Ouy, soyons unis ; mon pere est appaisé ;  
+Le chemin de son ame est un chemin aisé ;  
+Le repos est un bien que son esprit souhaite :  
+Mais Monsieur il est temps de faire la retraite ;  
+Naples vous peut revoir, y venant quant & [226] moy :  
+
+    [ORMIN] [227].
+Je marche sans frayeur, marchant sur vostre foy.  
+
+
+### SCENE HUICTIESME. 
+LUCINDE, PALINICE.
+
+
+    LUCINDE.
+Voyant ce ravisseur [228], qui passoit dans la ruë,  
+J'ay quitté la fenestre, & j'y suis accouruë ;  
+Mais comme il se cachoit, de peur d'estre connu,  
+Je n'ay sceu dans trois pas, ce qu'il est devenu ;  
+Son extréme vistesse a trompé ma poursuite ;  
+A peine mes regards ont descouvert sa fuite,  
+(Chose qui m'a faschée, & qui l'a resjoüy)  
+Qu'en esclair, en phantome, il s'est esvanoüy.  
+
+    PALINICE.
+Patientez un peu, nous le verrons sans doute :  
+Je me mocque d'un mal que vostre esprit redoute ;  
+Puisqu'il paroist icy, je le tiens innocent ;  
+Vostre fille est sa femme, & son pere y consent :  
+Un nouveau possesseur est ardent & fidelle ;  
+S'il la tenoit cachée il seroit aupres d'elle ;  
+Ces plaisirs dérobez attachent tout le jour ;  
+Je la croy plus à luy, puis qu'il a moins d'amour.  
+
+    LUCINDE
+Plûst au Ciel que ce mal eust enfin bonne issuë ;  
+Et qu'elle fust ainsi que vous l'avez conçeuë ;  
+Je me consolerois ; ma fille auroit bien fait ;  
+Il est nostre ennemy, mais il est tout parfait.  
+
+    PALINICE.
+Mettons nous dans ce lieu qui regarde la porte ;  
+Nous le descouvrirons, soit qu'il entre, ou qu'il sorte :  
+
+
+### SCENE NEUFIESME.
+POLIANTE, CLINDOR.
+
+
+    POLIANTE.
+L'Amitié⁎ m'abusoit ; son conseil estoit faux ;  
+En le considerant j'en ay veu les deffaux :  
+Si je suivois mon fils, en suivant mon envie,  
+Je perdrois son honneur⁎ pour luy sauver la vie :  
+Qu'il revienne vainqueur, ou qu'il reste vaincu,  
+Je desire qu'il meure ainsi qu'il a vescu.  
+C'est un juste tribut qu'on doit à la Nature :  
+En voyant son berceau, je vis sa sepulture ;  
+Je nasquis pour mourir ; je l'ay fait naistre tel ;  
+Mais une belle mort le peut rendre immortel.  
+
+    CLINDOR.
+Cette Philosophie est un peu trop austere :  
+
+    POLIANTE.
+Tu verrois dans mon cœur que je suis homme, & pere :  
+J'en ay le sentiment ; mais il est combatu,  
+Des armes du discours que preste la vertu.  
+
+    CLINDOR.
+Ha Monsieur le voicy !  
+
+    POLIANTE.
+        n'ay-je pas bonne veuë ?  
+Mon ame de raison est-elle bien pourveuë ?  
+Je reconnois Ormin, ce n'est point une erreur ;  
+Je l'ay veu maintes fois aupres de l'Empereur.  
+
+
+### SCENE DIXIESME. 
+ORMIN, POLIANTE, ISIMANDRE, CLINDOR, LERISTE.
+
+
+    ORMIN.
+Il n'est rien d'eternel en la terre où nous sommes :  
+La haine doit finir aussi bien que les hommes ;  
+Le merite d'un fils esteignant mon courrous,  
+Je viens vous assurer que je suis tout à vous.  
+
+    POLIANTE.
+Dans l'accommodement ainsi qu'à la Victoire,  
+Qui marche le premier, a la premiere gloire ;  
+Mais puis que vos bontez me la veulent ravir,  
+Je garderay pour moy celle de vous servir.  
+
+
+### SCENE ONZIESME.
+LUCINDE, PALINICE, POLIANTE, ORMIN, ISIMANDRE, CLINDOR, LERISTE.
+
+
+    LUCINDE.
+J'ay ma part à la paix aussi bien qu'à la guerre :  
+Je crois avoir acquis le reste de la terre,  
+Puisque par cét accord on me donne pouvoir,  
+D'habiter un païs que je n'osois revoir.  
+
+    POLIANTE.
+Madame, esperez tout de mon obeïssance ;  
+Naples que je gouverne est en vostre puissance ;  
+Et tant que j'y seray, vostre commandement,  
+Aura tousjours le droict d'agir absolument.  
+
+    ORMIN.
+Oublions le passé (mon cœur) je t'en conjure :  
+
+    PALINICE.
+Vostre seul repentir efface mon injure [229].  
+
+    ISIMANDRE.
+Vous qui pouvez donner à mon cœur amoureux,  
+La fortune prospere, ou le sort mal-heureux,  
+Si vous avez pitié de me voir dans la flame,  
+Commandez à ce corps d'aller querir son ame.  
+
+    POLIANTE.
+Il parle d'un Amy que la sienne cherit.  
+Allez ; qu'il vienne voir comme le Ciel nous rit :  
+Jamais deux volontez ne furent mieux unies ;  
+Leur accord va passant toutes les harmonies ;  
+Chaque jour l'un à l'autre ils parlent en secret ;  
+Et la nuit les separe avec bien du regret.  
+
+    ORMIN. 
+Je me doute à peu pres quel amy ce peut estre :  
+Ha ! sans faute c'est luy, car je le voy paroistre ;  
+Mais souz un autre habit que vous ne l'avez veu :  
+
+    POLIANTE.
+Quel prodige⁎ nouveau m'attaque à l'impourvueu ?  
+
+
+### SCENE DERNIERE.
+ISIMANDRE, LUCINDE, ORANTE, ORMIN, POLIANTE, PALINICE, NERINE, CLINDOR, LERISTE.
+
+
+    ISIMANDRE.
+Madame, je vous rends un bien inestimable ;  
+Moy seul ay fait la faute, elle n'est point blamable :  
+
+    LUCINDE.
+Pour l'amour d'Isimandre il faut luy pardonner :  
+Et je ne la reprens que pour vous la donner,  
+
+    ORANTE. 
+Mon silence, & mon teint vous parlent de ma honte :  
+
+    LUCINDE.
+Soyez desormais sage, ayant esté trop prompte :  
+Oubliant le passé qui ne nous sert de rien,  
+Ne parlons plus d'un mal qui nous produit un bien.  
+
+    ORMIN.
+C'est de vous maintenant que ce couple fidelle,  
+Attend une faveur qu'il vient de prendre d'elle :  
+Monsieur, soyez bon pere en exauçant leurs vœux :  
+
+    POLIANTE.
+Ce brave Cavalier sçait bien que je le veux.  
+Il parle d'Orante.
+
+Sous l'un & l'autre habit esgalement j'admire,  
+Tantost la belle Orante, & tantost Cleomire ;  
+Mon cœur n'est pas un bien que je donne à demy ;  
+Je l'aime comme fille, & l'aimois comme amy.  
+
+    ORANTE.
+Et je vous serviray pour tous les deux ensemble :  
+
+    POLIANTE.
+On ne peut separer ce que le Ciel assemble.  
+Il a certains ressorts qu'on ne peut descouvrir :  
+C'est un livre fermé qu'on ne sçauroit ouvrir :  
+Et la fin des desseins, non plus que des années,  
+Ne se voit que des Dieux, qui font nos destinées :  
+C'est à nous d'obeïr aux Maistres des humains :  
+Aussi je tends vers eux, l'œil, le cœur, & les mains ;  
+Et demande pour vous une trame choisie ;  
+Une amour sans froideur, comme sans jalousie ;  
+Et pour comble de joye, & de prosperité,  
+Des Enfans aussi bons que vous l'aurez esté.  
+FIN.
+
+
+# GlossaireDictionnaire de l'Académie française
+Dictionnaire universel
+Dictionnaire français
+Accidens« Evenement fortuit ; hasard ; coup de fortune ; malheur imprévu. » (F.)V. 287, 913, 994, 1149Advanture« Chose qui arrive inopinément. » (F.)V. 147, 497, 834, 953, 1069Advis« Avertissement, instruction, qu'on donne à quelqu'un ou quelque chose qu'il ignore, ou à quoy il ne prend garde. » (F.)V. 674, 699, 720, 1092Allégeance« Soulagement d'un mal. » (F.)V. 605, 1173Amitié« Affection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un coté, soit qu'elle soit réciproque. » (F.)V. 129, 428, 860, 967, 1244, 1261, 1423Appas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les attirer, à les inviter à faire quelque chose. » (F.)V. 65, 229, 364, 751, 769, 887Arrest« Jugement d'une puissance souveraine, & en dernier ressort, contre lequel il n'y a nul appel. » (F.)V. 503, 556Astre« Se dit figurément en Morale, d'une personne extraordinaire en mérite, en beauté. » (F.)V. 491Besoing« Necessité ; affaire. » (F.)V. 1235Bonté« Bienveillance ; affection ; tendresse. » (F.)V. 201Cartel« Defi par écrit pour un combat singulier. » (A.)Début acte VCeler« Tenir quelque chose cachée, & secrète ; dissimuler ; taire. » (F.)V. 3, 696Change« Se dit en morale et signifie, changement. (…) Ce mot est plus usité en poësie, on ne s'en doit servir que très rarement, & à moins qu'il ne soit employé bien à propos. » (F.)V. 156, 323, 557Choquer« Heurter avec violence. Signifie figurément, quereller, offenser. » (F.)V. 699, 913, 954, 1149Constance, constant« Force de l'âme qui la maintient toujours dans une assiette ferme, & tranquille, et qui la rend inébranlable aux disgrâces de la fortune, à la douleurs, à l'affliction, à la nécessité… » (F.)V. 253, 434, 564, 791, 994Courage« … est aussi une force, ou une vertu qui élève l'âme, et qui la porte à mépriser les périls, à soutenir les douleurs, avec constance et fermeté. » (F.)V. 349, 432, 661, 898, 1210Crédit« Considération ; réputation ; estime qu'on acquiert dans le public par la vertu, la probité, la bonne foi, & le mérite. » (F.)V. 101Débile« Qui n'a pas les forces qu'il doit avoir naturellement et ordinairement. » (F.)V. 566, 1090Decevoir« Tromper adroitement ; seduire. » (F.)V. 407, 1042, 1261  Descouvrir« Montrer un chose qu'on doit cacher. » (F.)V. 93, 333, 624, 852Déplorable« Qui mérite d'être pleuré, qui attriste » (F.)V. 454Dérober« Se dit figurément en choses spirituelles & morales, & signifie, ravir ; enlever. » (F.)V. 224Diligence« Activité, promptitude à exécuter notre devoir, ou nos desseins. » (F.)V. 1089Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein, de se vanger, son entreprise, son travail. » (F.)V. 81Enfanter« Se dit figurément des productions, des conceptions de l'esprit. » (A.)V. 28Ennuy« Chagrin, déplaisir, souci. » (A.)V. 272, 500, 615, 999Entendre« Se dit figurément, & signifie, concevoir, comprendre, pénétrer dans les sens de celui qui parle, ou qui écrit. » (F.)V. 39Entreprise« Résolution hardie de faire quelque chose » (F.)V. 913Esprouver« Reconnoître, ressentir les effets » (F.)V. 129, 857, 994Estonner« Surprendre, épouvanter ; causer à l'âme de l'émotion, soit par surprise, soit par admiration, soit par crainte. » (F.)V. 211, 891, 1118Extase« Ravissement d'un esprit hors de son assiette naturelle, transport hors de soi-même qui suspend la fonction des sens, suspension des sens causée par une forte contemplation de quelque objet extraordinaire ou surnaturel. » (F.)V. 18Fantaisie« La détermination à croire, ou à vouloir les choses selon les impressions des sens. » (F.)V. 314, 1053Flatter« Déguiser la verité qui seroit désagréable à celui qui y est interressé ; lui donner une meilleur opinion d'une chose qu'il n'en doit avoir. » (F.)V. 407Foudre« Se dit figurément de la colère des dieu, ou des rois. » (F.)V. 77, 847Foy« Signifie encore, fidélité, assurance, promesse, serment, parole qu'on donne de faire quelque chose & de l'exécuter. » (F.)V. 215, 497, 564, 619, 659, 1179, 1183, 1364FranchiseLiberté, « en ce sens, il n'a guère d'usage qu'en poésie, et en parlant d'amour. » (A.)V. 76Fureur« Se dit figurément des emportements de colère, lorsqu'elle est violent et démesurée, des vices et des excès où l'on s'abandonne. » (F.)V. 73Généreux« Qui a l'âme grande et noble, & qui préfère l'honneur à tout autre interest. (…) Signifie aussi brave, vaillant, courageux. » (F.)V. 76, 124, 146, 417, 953, 1356, 1377Gesne« Torture. Les gesnes ont été mises en usage pour arracher la vérité de la bouche des grands criminels. » (F.)V. 316, 1044.Heur« Bonne fortune » (A.)V. 1082, 1211Honneur« Vertu, probité ; qualité qui nous porte à faire des actions nobles, courageuses, loyales, etc. » (A.)V. 319, 916, 1212« L'action, la démonstration extérieure par laquelle on fait connaître la vénération, le respect, l'estime qu'on a pour la dignité ou le mérite de quelqu'un. » (A.)V. 968« L'estime, la réputation dont une personne jouit dans le monde. » (A.)V. 742, 1006, 1426Humeur« Signifie en morale, la disposition, la situation de l'esprit. » (F.)V. 11, 43, 514Hymen, hyménéeMariage.V. 152, 325, 506, 1280Industrie« Dextérité, invention, adresse à faire réussir quelque chose, quelque dessein, quelque travail. » (F.)V. 781, 1186Insigne« Signalé, remarquable, qui se fait distinguer de ses semblables. Il se dict tant en bonne qu'en mauvaise part. » (F.)V. 227Irriter« Se dit figurément, & signifie exciter ; piquer ; aigrir ; rendre plus vif, & plus violent. » (F.)V. 262, 606Loyer« Salaire, prix, récompense. » (F.)V. 924« Plus en usage en vers qu'en prose » (R.)Lustre« Est un brillant qui résulte des choses polies, ou qui réfléchit agréablement la lumière. » (F.)V. 48, 158Martyrer« Vieux mot, qui signifie tourmenter, faire souffrir. » (F.)V. 309Mesuré, ée« On appelle des vers mesurez, des vers que nos anciens ont voulu faire à la manière, & avec les mesures des latins. » (F.)V. 6Mine« Physionomie, extérieur, air, disposition du corps, & surtout du visage. » (F.)V. 160, 753Monument« Signifie encore le Tombeau, & particulièrement en poésie. » (F.)V. 36, 239Objet« Chose où l'on arrête sa pensée, son cœur, son but, ou son dessein. » (R.)V. 45, 139, 346, 389, 472, 860Obliger« Faire quelque faveur, quelque plaisir ; rendre bon office. » (F.)V. 341, 719, 883Ombre« L'ame d'un mort, qu'on se représente sous la figure qu'il avoit vivant ; mais qui est une image vaine sans corps. » (F.)V. 585Pasmer (se)« Tomber en défaillance, perdre l'usage des sens ; ce qui arrive, lorsque l'agitation & les mouvements des esprits est arrêté par quelque cause, ou passion violente et subite. » (F.)V. 19, 765Port« Se dit de la mine, de l'air, de la contenance ; de la manière de marcher, de porter son corps. » (F.)V. 64, 1347Prodige« Signe ou accident surprenant dont on ignore la cause. » (F.)V. 294, 1472Relever« Signifie au sens figuré, faire paraître davantage une chose, lui donner plus de relief, plus d'éclat. » (A.)V. 15Sens« Signifie aussi l'opinion particulière d'une personne ; son advis, son sentiment ; sa pensée ; sa manière ; de connoître les choses ; d'en juger. » (F.)V. 977, 1303Souffrir« … se dit en sens moins étendu, en parlant de ce qui déplait, de ce qui incommode, qui gêne ou fait quelque peine aux gens, ou à l'esprit. » (F.)V. 460, 466, 487, 579, 1023, 1036, 1061, 1153, 1181, 1367Souspirer« Au figuré, éprouver de la douleur. » (A.)V. 221« Signifie quelque fois désirer ardemment, rechercher avec passion » (A.)V. 1278 Support« Se dit figurément en Morale, de ce qui donne à l'appui, de secours, de la protection. » (F.)V. 1029, 1225Susciter« Produire, mettre en avant, faire paroître. » (F.)V. 893Traict, trait« Terme générique qui signifie également, les flèches qu'on tire avec l'arc ou l'arbalète, et les dards & les javelots qui se lancent avec la main. » (A.)V. 133, 251, 762« En ce sens, se dit figurément, & poëtiquement des regards, & des charmes qui touchent les cœurs, & qui inspirent l'amour. » (F.)V. 57, 1177« Linéaments du visage ; et alors il s'emploie surtout au pluriel. » (A.)V. 594« En peinture signifie, une ligne au moyen de laquelle on imite la forme d'un objet. » (A.)V. 591Vœu« Hommage, soins amoureux. » (F.)V. 1, 165, 213
+
+
+# Appendice I : étude tabulaire
+ | ACTE I
+Scène 1 | Scène 2 | Scène 3 | Scène 4 | Scène 5 | Scène 6 | Scène 7 | Scène 8 | TOTAL
+ISIMANDRE | 69,5 |  |  |  |  |  |  |  | 69,5
+ORANTE |  |  |  |  | 54 |  |  | 1 | 55
+ROSIMOND | 56,5 |  |  |  |  |  |  |  | 56,5
+ORMIN |  | 40 |  |  |  |  |  | 3,25 | 43,25
+PALINICE |  |  |  | 1 |  |  |  | 2,25 | 3,25
+LUCINDE |  |  |  | 17 |  |  |  | 0,75 | 17,75
+FLORANGE |  |  |  | 12 |  |  |  | 1,25 | 13,25
+NERINE |  |  | 14 |  |  | 8 | 5,5 | 3,5 | 31
+POLIANTE |  |  |  |  |  |  | 2,5 |  | 
+CLINDOR |  |  | 20 |  |  |  |  |  | 22,5
+LINDOMAN |  |  |  |  |  |  |  |  | 
+LERISTE |  |  |  |  |  |  |  |  | 
+ARGAMOR |  |  |  |  |  |  |  |  | 
+GERTIMANT |  |  |  |  |  |  |  |  | 
+TOTAL | 126 | 40 | 34 | 30 | 54 | 8 | 8 | 12 | 312
+
+
+
+
+# Bibliographie
+
+
+## Instruments de travailDictionnaire de l'Académie Françoise
+Dictionnaire Universel
+Petit glossaire français du XVII*e* siècle
+Dictionnaire français
+Le Grand Dictionnaire historique ou mélange curieux de l'histoire sacrée et profane
+Grammaire de la langue française du XVII*e* siècle
+
+
+
+## Œuvres de Georges de Scudéry utiliséesLa Comédie des Comédiens
+Observations sur Le CidLa Querelle du Cid, pièces et pamphlet publiés d'après les originaux
+L'Apologie du théâtre
+Le Cabinet de M. de Scudéry*re*
+Didon
+Andromire
+Arminius ou les frères ennemis
+
+
+
+## Textes de l'antiquité, du XVI*e*, du XVII*e* et du XVIII*e* siècleLa Poétique
+Jugemens des Savans sur les principaux ouvrages des auteurs
+Mémoires
+Chryseide et Arimant
+La Généreuse AllemandePréface
+La Poétique
+Mémoires pour servir à l'Histoire des hommes illustres dans la République des Lettres
+Histoire du Théâtre français
+Histoire de l'Académie française de son établissement jusqu'en 1652*e*
+L'Aminte du Tasse
+Discours de la tragédie ou Remarques sur l'Amour tyrannique de Monsieur de Scudéry par M. de Sillac D'Arbois dans ses Œuvres, éd. Père FestugièresŒuvres en prose
+L'Astrée
+Historiettes
+Les Amours tragiques de Pyrame et Thisbéœuvres du Sieur Théophile
+
+
+
+## Études et textes du XIX*e* et du XX*e* sièclesHistoire de la littérature françoise du XVII*e* siècle
+L'Esthétique de la Tragi-comédie en France de 1628 à 1643
+Georges de Scudéry als Dramatiker
+Morales du Grand Siècle
+Un Matamore des lettres, la vie tragi-comique de Georges de Scudéry
+Nouvelle mythologie grecque et romaine
+Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
+Le Théâtre du Marais
+Langue et sensibilité au XVII*e* siècle
+Scudéry dramaturge
+Scudéry, théoricien du classicisme
+Esthétique de l'identité dans le théâtre français (1550-1680), les déguisements et ses avatars
+Introduction à l'analyse des textes classiques
+Le Théâtre dans le théâtre sur la scène française du XVII*e* siècle*e*
+La Littérature indépendante et les écrivains oubliés
+La Querelle du Cid. Pièces et pamphlet publiés d'après les originaux avec une introduction
+Les Grotesques
+La Tragi-comédie
+Molière ou l'invention comique, la métamorphose des thèmes la création de types
+Ut pictura theatrum, Théâtre et peinture de la rennaissance italienne au classicisme français
+La Mode des stances dans le théâtre français 1610-1687
+A History of French Dramatic Litterature in the Seventeeth Century
+The French Tragi-Comedy. Its Origin and Development from 1552 to 1628
+Précieux et précieuses
+Madeleine de Scudéry et son salon
+La Vie littéraire au XVII*e* siècle
+Les Trois Scudéry
+Madeleine Scudéry, Paul Pelisson et leur monde
+Tyr et SidonL'Ancien Théâtre français
+Amour précieux, amour galant
+La Littérature de l'âge baroque en France. Circé et le Paon*e*
+L'Intérieur et l'extérieur. Essai sur la poésie et sur le théâtre au XVII*e* siècle*e*
+La Dramaturgie classique en France
+Le Grand Dictionnaire des précieuses
+
+
+-------
+
+
+[1] C'est la phrase que Scudéry avait fait graver par Michel Lasne, autour de son portrait. Nous renvoyons le lecteur à l'appendice III.
+
+[2] Le nom de Scudéry a évolué au fil des générations. Nicéron, dans *Mémoire pour servir à l'Histoire des hommes illustres dans la république des Lettres*, Paris, Briasson, 1727-1745, t. XV, p. 115, nous dit que : « le nom de Scutifer dans les contrats latins, Scudier ou Ecuyer, quand on commença à contracter en français, et depuis celui de Scudéry. » Il semble que ce nom est adopté la forme qu'on lui connaît à partir du père du poète.
+
+[3] Scudéry a publié la généalogie complète de sa famille, qu'il a retrouvée dans la *Naples française* (1663) du chevalier l'Hermite par E. Perrier. Scudéry a éliminé les commentaires de L'Hermite, et l'a publié à la suite de *Scudéry et sa sœur à Marseille* (1644-1547), dans le *Répertoire des travaux de la société de statistique de Marseille*, 1*ère* partie, publiée par P. Rigaud, 1906-1907, t. 47, p. 174.
+
+[4] Scudéry,* Ode au roi*, faite à Suze, dans autres *Œuvres de M. de Scudéry*, qui font suite à *Ligdamon et Lidias*, dans l'édition de 1631, nous dit : « Moi qui suis fils d'un capitaine / Que le monde estima jadis… ».
+
+[5] Niceron,*op. cit*., p.115.
+
+[6] Conrart,* Mémoires*, collection des* Mémoires relatifs à l'Histoire de France*, éd. M. Petitot, Paris, Foucault, 1825, t. XLVIII, p. 253.
+
+[7] G. Mongrédien, *Mademoiselle de Scudéry et son salon*, d'après des documents inédits, Paris, éd. Tallandier, 1946, p. 11-12.
+
+[8] CH. De la Roncière, *Histoire de la Marine française*, t. IV, p. 342, dans E. Dutertre, *Scudéry dramaturge*, Genève, Droz, 1988, p. 21.
+
+[9] Conrart, *op. cit.*, p. 254
+
+[10] Eveline Dutertre,* op. cit.*, p. 21.
+
+[11] Conrart, *op. cit*., p. 254.
+
+[12] Les frères Parfaict, *Histoire du théâtre françois depuis son origine jusqu'à présent*, 15 vol., Paris, Morin, 1734-1749, vol. IV, p. 430.
+
+[13] Il se présente par la bouche d'un de ses personnages comme étant « un des gentilshommes qui portent une épée qui s'aident le mieux d'une plume. »* La Comédie des comédiens*, Paris, Courbé, 1635, II, 1, p. 31.
+
+[14] Selon les frères Parfaict cette pièce est représentée dès son départ de l'armée (*op. cit*., IV, p. 430).
+
+[15] Conrart, *op. cit*., p. 256, nous dit : « … son oncle étant mort et se voyant obligée de s'établir en quelques lieu, elle crut qu'elle ferait mieux de se retirer à Paris qu'à Rouen. »
+
+[16] G. de Scudéry, Observations sur le cid, dans A. Gasté, La Querelle du cid, pièces et pamphlets publiés d'après les originaux, Genève, Slatkine reprints, 1970, in-8°, p. 71-111.
+
+[17] L'*Apologie du théâtre*, par M. de Scudéry, à Paris, chez Augustin Courbé, imprimeur et libraire de Monsieur frère unique du Roi, au palais, en la petite salle à la Palme, 1639. Avec privilège du roi du 20 février 1639 ; achevé d'imprimer pour la première fois, le 10 mai 1639.
+
+[18] « … on peut supposer que, lucide, Scudéry comprend qu'il ne connaîtra plus que des demi-succès qui risquent finalement d'entacher sa réputation. » G. de Scudéry, *Le Cabinet de M. de Scudéry*, éd. C. Biet et D. Moncond'huy, Paris, Klincksieck, 1991.
+
+[19] A. Adam (éd.),* Historiettes de Tallemant*, t. II, p. 1459, n. 4, dit : « il aurait servi d'agent de renseignement de Condé et lui aurait envoyé une correspondance qui le tenait au courant de ce qui se passait à Paris. »
+
+[20] Somaize, *Le Grand Dictionnaire des précieuses par le sieur de Somaize*, éd. Ch. L. Livet, Paris, Jannet, 1856, 2 vol., in-12°, t. I, p. 213.
+
+[21] G. Mongrédien, *La Vie littéraire au XVII*e* siècle*, Paris, Tallandier, 1947, in-12°, p. 266.
+    Ce sont des sommes assez conséquentes. À titre de comparaison, il nous paraît bon de rappeler que le jeune Racine recevait 800 livres et Corneille 2 000 en 1664.
+
+[22] Charles Clerc, Un Matamore des Lettres. La vie tragi-comique de Georges de Scudéry, Paris, SPES, 1929, in-8°.
+
+[23] G. Mongrédien, La Vie littéraire, op. cit., p. 33.
+
+[24] Mairet, Épître dédicatoire des *Galanteries du Duc d'Ossonne*, 1636.
+
+[25] Tallemant des Réaux, *Historiettes*, éd. A. Adam, Paris, Gallimard, Bibliothèque de la Pléiade, 1970, 2*e* vol., p. 774.
+
+[26] Pellisson, *op. cit*.
+
+[27] Conrart*, Mémoires, op. cit*., t. XLVIII, p. 256.
+
+[28] Rayssiguier, «Au lecteur », dans *Aminte*, Paris, Courbé, 1632.
+
+[29] H. C. Lancaster, The French Tragi-comedy, its Origin and Development from 1552 to 1628, J. H. Trust Company, 1907, Ch. IV, p. 12.
+
+[30] Ogier, préface de *Tyr et Sidon* (1628).
+
+[31] Mareschal, préface de *La Généreuse Allemande* (deuxième journée), 1630, cité par A. Adam, *Histoire de la littérature française au XVII*e* siècle*, Paris, Del Duca, 1948-1956, 5 vol., in-16°, t. I, p. 433.
+
+[32] J. F. Sarasin, *Discours de la tragédie ou remarques sur l'Amour tyrannique de M. de Scudéry*, par M. de Sillac d'Arbois (pseudonyme de Sarasin) dans *Œuvres*, éd. Père Festugières, Paris, Champion, 1926, 2 vol., in-12°, t. II, *Œuvres en prose*, p. 8.
+
+[33] Voir E. Dutertre,* Scudéry théoricien du Classicisme*, Paris, Biblio 17, 1991.
+
+[34] Jean Rousset,* La Littérature de l'âge baroque en France*, Paris, José Corti, 1954, in-8°, 6*e* réimpression, 1968, p. 77. 
+
+[35] H. C. Lancaster, *The French Tragi-comedy, op. cit.*, part. I, vol. II, p. 452.
+
+[36] E. Dutertre,* op. cit*., tableau 1, p. 88. Selon elle,* Orante, Le Fils supposé, Le Prince déguisé, La Mort de César* et* Didon* auraient été composées dans l'année 1635.
+
+[37] G. de Scudéry,* Arminius ou les frères ennemis*, Paris, chez Toussainct Quinet et Nicolas de Sercy, 1643, in-4°.
+
+[38] A. Baillet, *Jugemens des savans sur les principaux ouvrages des auteurs III/IV* : « M. de Balzac … écrit à Chapelain sur *l'Amour tyrannique* avec beaucoup d'éloges … qui l'ont fait pleurer en dépit de lui même. » Le sieur d'Arbois, M. Sarasin, dit sur la même pièce : « un poème si parfaict et si achevé, digne d'écrire sous Alexandre Le Grand. Il y a apparence que ce philosophe (Aristote) aurait réglé sa poétique sur cette excellente tragédie, et qu'il en auroit d'aussi beaux exemples que celle d'Œdipe. »
+
+[39] Georges de Scudéry, Préface du *Prince déguisé* : « Le superbe appareil de la scène… »
+
+[40] H. C. Lancaster, Le Mémoire de Mahelot, et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie française au XVII*e* siècle, Paris, Champion, 1920.
+
+[41] Lancaster, *Le Mémoire de Mahelot*, éd. cit., p. 35.
+
+[42] Lancaster, dans *ibid*., p. 37 : « Le milieu de la scène reste vide à l'exception d'un arbre ou d'un arbrisseau qui s'y trouvent en quelques pièces. »
+
+[43] Lancaster, dans *ibid*., p. 36, précise aussi l'emploie de ce genre d'accessoires : « On pouvait disposer les décorations pour montrer des acteurs qui regardaient par une fenêtre, descandaient d'une tour, grimpaient dans un arbre ou sur un rocher. » 
+
+[44] BAIL DU JEU DE PAUME DE LA FONTAINE A JACQUES TROCHE (AN, *Minutier central*, fonds LII, liasse 523).
+
+[45] D'Urfé H., *L'Astrée* (1607-1627), éd. H. Vaganay, Genève, Slatkine reprints, 1966, 5 vol., in-8°.
+
+[46] Titre d'une tragi-comédie contemporaine de Mairet.
+
+[47] Batereau A., *Georges de Scudéry als dramatiker*, Leipzig-Plagwitz, Emil Stephan, 1902, in-8°.
+
+[48] Dans *L'Astrée*, le prétendant est un être difforme, Scudéry a préféré en faire un barbon.
+
+[49] D'Urfé H., *op. cit*., 3*e* partie, livre 7, p. 396.
+
+[50] Aristote,* La Poétique*, trad. Michel Magnien, Paris, Le livre de poche classique, 1990.
+
+[51] D'Urfé H.,* op.cit*., 3*ème* partie, livre 7*ème*, p. 396-397.
+
+[52] D'Urfé H., *op. cit*., p. 419.
+
+[53] « Qui est conforme à la nature particulière de chaque espèce, de chaque individu », d'après le *Dictionnaire de l'Académie française*, Paris, Coignard, 1694. Nous devons comprendre que cette inimitié fait partie des caractéristiques de cette famille comme un trait physique le serait.
+
+[54] D'Urfé H., *op. cit*., p. 412.
+
+[55] *Ibid.*, p. 414.
+
+[56] E. Dutertre, *Scudéry dramaturge, op. cit.*, p. 136, n. 98.
+
+[57] Mairet,* Cryséide et Arimant*, 1625, éd. H. C. Lancaster, Paris, PUF, 1925.
+
+[58] G. de Scudéry, *La Comédie des Comédiens*, Paris, Courbé, 1635, p. 30.
+
+[59] H. C. Lancaster, *History of French dramatic Literature in the Seventeenth Century*, Baltimore, Johns Hopkins Press, 1929-1942, in-8°, part I, vol. II, p. 454.
+
+[60] R. Guichemerre, *La Tragi-comédie*, Paris, PUF, 1981, p. 52.
+
+[61] T. De Viau, *Les Amours tragiques de Pyrame et Thisbé*, Paris, chez Pierre Bilaine, 1623 ; Paris, Cicero, 1992.
+
+[62] R. Guichemerre, *op. cit*., p. 53.
+
+[63] Ce procédé est très commun. Scudéry le réutilisera dans *le Prince déguisé*. À l'acte II, scène 2, Cléarque se déguise en jardinier pour les mêmes raisons.
+
+[64] G. de Scudéry, *Didon*, Paris, A. Courbé, 1637, in-4°.
+
+[65] R. Guichemerre, *op. cit*., p. 173 : « Après les massacres et les violences des guerres de religion, le règne d'Henri IV ne fut qu'un court répit, suivi de nouveaux désordres, avec les rébellions des princes, les séditions des protestants et la cruelle répression de l'armée royale, les guerres étrangères et enfin cette nouvelle guerre civile que fut la Fronde… »
+
+[66] R. Guichemerre,* op. cit*., p. 181.
+
+[67] H. C. Lancaster,* Le Mémoire de Mahelot*, éd. cit. : « il faut du sang, des éponges » pour *Clitophon* de Du Ryer, « il faut des dards, des houlettes, deux poignards » pour *La Sylvanire* de Mairet.
+
+[68] L'*Astrée*, éd. cit., p. 407.
+
+[69] E. Dutertre, *op. cit*., p. 163.
+
+[70] *Ibid*., p. 200.
+
+[71] *Ibid*., p. 198.
+
+[72] G. Forestier, Esthétique de l'identité dans le théâtre français (1550-1680), le déguisement et ses avatars, Paris, Droz, 1988, p. 116.
+
+[73] *Ibid.*, p. 169.
+
+[74] E. Dutertre, *op. cit*., p. 180.
+
+[75] J. Scherer, *La Dramaturgie classique en France*, Paris, Nizet, 1986, p. 19.
+
+[76] E. Dutertre, *op. cit*., p. 187-188.
+
+[77] Ces hésitations sont en effet très brèves. Après avoir accepté de fuir avec Isimandre (v. 898-900) : « Je sortiray des fers si j'en ay le courage ; / Comment ! j'hésite encor ! sur un point assuré ! / Non, non il faut partir ; Orante l'a juré. » C'est la première fois que le spectateur entend l'ombre d'une hésitation. Orante dans l'ensemble apparaît comme une jeune fille résolue et courageuse.
+
+[78] H. Baby, Esthétique de la tragi-comédie en France de 1628 à 1643, thése Paris III, 1993, p. 318, t. I.
+
+[79] Le Mesnardière, *La Poétique*, Paris, Antoine Sommaville, 1640 ; réimp Genève, Slatkine reprints, 1972, p. 36.
+
+[80] *Ibid.*, p. 248.
+
+[81] *Ibid.*, p. 248.
+
+[82] R. Guichemerre, *op. cit*., p. 106 : « Dans un genre où s'oppose souvent de façon schématique le bon et le méchant, le héros sympathique et le brutal où le traitre, le rival, est généralement le personnage anti-pathique, le repoussoir du héros. »
+
+[83] E. Dutertre, *op. cit*., p. 187.
+
+[84] H. Baby, *op. cit*., p. 386, t. II.
+
+[85] R. Guichemerre, *op. cit*., p. 106.
+
+[86] La Mesnardière, *op. cit*., p. 36.
+
+[87] R. Guichemerre, *op. cit*., p. 106.
+
+[88] M. Gutwirth,* Molière ou l'invention comique*, Paris, Minard Lettres Modernes, 1966, p. 100.
+
+[89] J.-M. Pelous, *Amour précieux, amour galant*, Paris, Klincsieck, 1980, p. 46.
+
+[90] *Ibid.*, p. 46.
+
+[91] J. Scherer, *op. cit*., p. 30.
+
+[92] *Ibid*., p. 31.
+
+[93] « imaginer, inventer des choses fausses. » (Furetière). Il faut donc comprendre que son esprit est tellement inquiet qu'il imagine son fils victime de mille dangers.
+
+[94] J. Rousset,* La Littérature de l'âge baroque*, Paris, José Corti, 1954, in- 4°, p. 58.
+
+[95] G. Forestier, Le Théâtre dans le Théâtre sur la scène française du XVII*e* siècle, Genève, Droz, 1988, p. 45.
+
+[96] J. Rousset, La Littérature de l'age baroque, op. cit., p. 32.
+
+[97] *Ibid*., p. 44.
+
+[98] Il parle des poèmes qui « ont une action tout nue … sans épisodes et sans incidents imprévus » (préface d'*Andromire*, Paris, Antoine de Sommaville, 1641).
+
+[99] Ibid.
+
+[100] E. Dutertre, Scudéry dramaturge, op. cit., p. 56.
+
+[101] E. Hénin, Ut pictura theatrum. Théâtre et peinture de la rennaissance italienne au classicisme français, Thése Université Paris IV, 2000, p. 765.
+
+[102] J. Rousset, *L'Intérieur et l'Extérieur*, Paris, José Corti, 1968, p. 57-58.
+
+[103] Voir la préface d'*Andromire*, éd. cit.
+
+[104] Avis au lecteur dans *La Comédie des comédiens*.
+
+[105] R. Guichemerre, *op. cit*., p. 211.
+
+[106] M.-F. Hilgar, La Mode des stances dans le théâtre français 1610-1687, Paris, Nizet, p. 231.
+
+[107] G. Bizos, Étude sur la vie et les œuvres de Jean de Mairet, Paris, Thoirin, 1877, dans ibid., p. 137.
+
+[108] *Ibid.*, p. 77.
+
+[109] *Ibid.*, p. 116.
+
+[110] *Ibid.*, p. 73.
+
+[111] *Orante* est dédicacée à madame de Longueville. Elle est la sœur du prince de Condé, qui est le protecteur de Scudéry. Scudéry restera toujours fidèle à cette famille, même quand leurs affaires sont au plus mal. En effet, Il fait même parvenir au prince le quatrième et le cinquième volume de *Cyrus*, lorsque celui-ci est en prison à Vincennes. Il semble que Scudéry renforce son amitié, un exercice de bravoure en quelques sortes. Il dit lui-même que son amitié est « assez généreuse pour mépriser tout ce que les autres craignent ». Pendant la fronde, son attachement à cette famille lui vaudra six ans d'exil en Normandie.
+
+[112] Les Longueville formaient une branche de la famille royale issue de Jean d'Orléans, comte de Dunois.
+
+[113] La Duchesse de Longueville est la sœur ainée de Louis II de bourbon, dit Grand Condé, fils de Henri II de bourbon.
+
+[114] La Duchesse de Longueville est l'épouse de Henri II de Longueville, fils naturel de Louis 1*er*.
+
+[115] « Termes de Lettres de Chancelerie qui marque l'affection du Roi envers son sujet. (…) C'est aussi une formule pour intituler les Lettres que le Roi écrit à ses sujets, quand ils ne sont pas de la première qualité. » (Furetière).
+
+[116] « Fidelle. Termes de Chancelerie dont se sert le roi en adressant ses Lettres à ses Officiers. »
+
+[117] « … Depuis Henri III les baillis ne sont plus que Juges honoraires et titulaires : seulement les sentences, & commissions s'expédient en leur nom ; on ne leur a réservé que le commandement du ban & Arrièreban, & leurs lieutenans qui ont quitté l'épée pour prendre la robe, sont revetus du pouvoir d'administrer la justice. » (Furetière).
+
+[118] « … n'est plus qu'un Magistrat titulaire & honoraire : le droit de juridiction est dévolu à son lieutenant. (…) Il ne leur reste (les baillis et les sénéchaux) que la simple séance à l'audience, & l'honneur que les sentences & contrats sont intitulez en leur nom. » (Furetière).
+
+[119] « … sont les premiers Juges Royaux, & qui jugent les affaires civiles en première instance. » (Furetière).
+
+[120] « Se dit quelque fois au Palais ; pour dire sur le champ. »
+
+[121] « Fier, intrépide ; vaillant ; courageux ; qui affronte les périls, & qui s'exposent sans craindre la mort. » (Furetière).
+
+[122] L'emploi de la préposition *avant que* est perdue à notre époque. Nous avons remplacé le *que* par *de*, comme le souligne G. Spillebout, dans *Grammaire de la langue française du XVII*e* siècle*, Paris, Picard, 1985, p. 241.
+
+[123] « Icy l'humilité ne sent point le Rimeur » : le poète n'est pas humble comme vous l'êtes.
+
+[124] Les poètes disent que ce sont trois sœurs (…). On les fait maitresses du destin de la vie des hommes, depuis leur naissance jusqu'à leur mort. On supposent qu'elles la filent. » (Moreri).
+
+[125] Georges de Scudéry, « A qui lit », dans *Ligdamon et Lidias*, Paris, Chez Francois Targa, 1631 : « Il vient de me souvenir que certains demy-savans ont remarqué que les personnages de ma tragi-comédie parlent des dieux au pluriel, (…) mais j'apprends à ces docteurs d'Astrée, que partout où les Romains estendoient leurs conquêtes, ils ne manquoient pas d'établir le culte de leur religion. »
+
+[126] « PROV., fig. et avec une espèce de joie maligne,* Il en tient*, se dit d'un homme à qui il arrive quelque chose de facheux, de désagréable, d'embarrassant, de honteux. (…) On dit également dans un langage très familier, *Cette femme lui a donné dans la vue, il en tient*, il en est amoureux. » (*Dictionnaire de l'Académie Française*).
+
+[127] Allusion à la naissance de Vénus. Cette déesse de l'amour naquit de l'écume de la mer.
+
+[128] Cet adjectif interrogatif était employé au XVII*e* siècle à propos de l'identité. Mais il a complètement disparu en français moderne (G. Spillebout, *op. cit.*, p. 170).
+
+[129] *Ibid*., p. 407 : « quand un infinitif est précédé d'un verbe qui le régit, le pronom complément de l'infinitif se place devant le premier verbe et non devant l'infinitif. » Nous continuons d'employer en français moderne cette structure avec certains verbes (laisser, voir, entendre, sentir, faire). 
+
+[130] « AMOUR est aussi le nom de la divinité fabuleuse à qui les anciens païens attribuaient le pouvoir de faire aimer. (…) Les anciens ont donné plusieurs frères à l'Amour. » (*Dictionnaire de l'Académie française*)
+
+[131] « Chez les païens, étoient trois divinités, qu'on peignoit toutes nües, (…) c'était pour montrer que les graces n'empruntent rien à l'art & qu'elles n'ont d'autres charmes que celles de la nature. » (Furetière).
+
+[132] « Naturel » : « qui est conforme à la nature particulière de chaque espèce, de chaque individu » (*Dictionnaire de l'Académie Française*). Nous devons comprendre que cette inimitié est ancrée dans ces familles comme une caractéristique innée.
+
+[133] Nous remarquons qu'il y a une omission du pronom complément *le*. G. Spillebout classe cet emploi dans l'omission totale du pronom personnel complément atone (*op. cit*., p. 145).
+
+[134] « Plante (…) dont le suc a la vertu d'assoupir » (*Dictionnaire de l'Académie française*).
+
+[135] « Cautionner en justice, répondre pour quelqu'un, & s'obliger de payer le jugé. » (Furetière).
+
+[136] « Au XVI*e* s. le pronom personnel complément de l'impératif est régulièrement antéposé. » (G. Spillebout, *op. cit*., p. 146). Nous rencontrons encore cette structure au XVII*e* siècle.
+
+[137] L'emploi de *dedans* à la place de *dans* est « très fréquent dans la première moitié du XVII*e* siècle, rare ensuite. » (*ibid.*, p. 240).
+
+[138] Dans l'*Astrée*, éd. cit., p. 392 : « Luy qui avoit quelque dessein sur moy, encores qu'il vist Clorange si difforme et si mal fait, ne laissa de l'appreuver, pensant que tant moins j'aimerois mon mary, tant plus aisément viendroit-il à bout de ce qu'il desiroit. »
+
+[139] « son feu » : son amour.
+
+[140] « Causer une douleur aigüe. » (Furetière).
+
+[141] « … Il combatit les centaures, qui vouloient enlever Hyppodamie ; et se trouva au siège de Troye (…). On dit qu'il vécut trois cents ans par la faveur d'Appollon. » (Moreri).
+
+[142] « La mettre où vous la desirez. » = La mettre en état d'être telle que vous désirez qu'elle soit.
+
+[143] Les paroles de Florange lui donne un caractère tout à fait ridicule. L'emploi du lexique hyperbolique de la passion comme « ravir » établit un décalage amusant avec le personnage. L'amour du vieillard frôle le ravissement mystique. Pierre Dumonceaux, dans *Langue et sensibilité au XVII*e* siècle*, Genève, Droz, 1975, p. 81, écrit que le verbe ravir, issu à la base du vocabulaire religieux, est souvent employé dans un contexte amoureux : « L'adoration vouée à la créature, à une femme, est une image ou un reflet de celle qu'on accorde au créateur. » Cette idolâtrie est tout à fait déplacée dans la bouche d'un vieillard.
+
+[144] « se dit figurement en Morale, pour signifier la gloire d'un triomphe, d'une conqueste. » *Furetière.*
+
+[145] « Signalé, remarquable, qui se fait distinguer de ses semblables. » *Furetière*, 
+
+[146] « Les anciens croyaient que le cygne chantait mélodieusement lorsqu'il était près de mourir. »* Dictionnaire de l'Académie Française*, Paris, Coignard, 1698.
+
+[147] « Penser » est utilisé pour pensée, « n'est guerre usité qu'en poésie » (*Dictionnaire de l'Académie Française*).
+
+[148] Nérine se trouve dans la chambre d'Orante qui s'est évanouie. Son nom a été omis, de même qu'à la scène suivante. Nous corrigeons donc cet oubli.
+
+[149] Etant donné l'absence de ponctuation, nous avons ajouté un point.
+
+[150] Dans l'*Astrée*, éd. cit., p. 399 : « Vivez, me respondit-il, et soyez certaine que je consentiray plustost à ma mort qu'au contraire de ce que je vous ay promis. »
+
+[151] « Se dit aussi de l'emportement & du dereglement de l'esprit (…) est encore une fantaisie, une passion qu'on a pour quelque chose. » (Furetière)
+
+[152] « Que Florange n'ait plus ses flames insensées » : il faut que Florange oublie son amour absurde.
+
+[153] « L'œil que je veux adorer » : il s'agit d'un synecdoque qui figure Orante. Il s'agit par ailleurs d'une figure courante dans la poédie galante issue du néo-pétrarquisme.
+
+[154] Dans l'*Astrée*, éd. cit., p. 400 : « Ma Maistresse, me dit-elle, je vous en demande pardon, le desplaisir que j'avois de vostre mort estoit tel, que je me resolvois à vous suivre, et j'avoue que j'envoyay ce mouchoir à Arimant expres pour le convier d'en faire de mesme. »
+
+[155] Le nom fait partie du dernier octosyllabe de la lettre.
+
+[156] Dans l'*Astrée*, éd. cit., p. 399 : « il ne faut point en parler davantage, et qui fera autrement, je luy donneray cognoissance qu'il me fera desplaisir. »
+
+[157] « Avecque » est utilisé devant une consonne, car cela permet de rallonger le vers d'une syllabe. Il s'agit d'un doublé poétique qui sera utilisé jusqu'à la fin du XVII*e*  siècle.
+
+[158] « Terme poétique, le breuvage des Dieux fabuleux de l'antiquité. » (Furetière)
+
+[159] « Nom que l'on donne quelque fois à la bile de l'homme (…) il signifie au figuré, Haine, animosité, humeur caustique. » (*Dictionnaire de l'Académie française*, 1698).
+
+[160] Dans l'*Astrée*, éd. cit., p. 402 : « Arimant le voyant tout effroyé, soupçonnant quelque grand, s'estoit à moitié relevé sur le lict et comme devinant son mal : Est-elle morte, luy demanda-t'il, ou vit-elle encore ? », « ou si tu dois parler ? » : il faut comprendre « est-ce que tu dois parler ? ».
+
+[161] « Donner, mettre en main. » (*Dictionnaire de l'Académie Française*, 1698).
+
+[162] « Action de sourire » (Furetière.)
+
+[163] « L'omission de l'article s'explique ici par le fait que logiquement le substantif attribut a plus d'extension que le substantif sujet. » (G. Spillebout, *op. cit*., p. 45).
+
+[164] « Se dit figurément en Morale, pour signifier la gloire d'un triomphe, d'une conqueste. (…) Scudéri s'est fait peindre avec cette devise, poète & guerrier, il aura du laurier. » (Furetière).
+
+[165] « Il se dit figurément et poétiquement, en parlant de la mort, du deuil, de la tristesse. » (*Dictionnaire de l'Académie Française*, 1698).
+
+[166] Déguisé en marchand de tableau.
+
+[167] Dans l'*Astrée*, éd. cit, p. 401, Clarine envoie une lettre à Arimant : « Elle mourut certes quand je vous manday, mais les dieux l'ont ressuscitée pour vous. »
+
+[168] L'emploi de « de » devant un infinitif est habituel au XVII*e* siècle. Il s'agit d'un emploi disparu dans le français moderne (G. Spillebout, *op. cit*., p. 252)
+
+[169] L'emploi de « tout » représente ici le degré le plus élevé de l'intensité. « C'est ce qu'on appelle le superlatif absolu ». (*ibid.*, p. 35).
+
+[170] Cet emploi absolu semble régulier puisque nous trouvons dans le *Furetière* la phrase : « Il ne faut pas soupçonner légérement. »
+
+[171] « … avoit, dit-on, cent yeux, dont il en avoit toujours cinquante d'ouverts, lorsqu'il fermoit les autres pour dormir. Il fut choisi par Junon, pour garder Io, que Jupiter aimoit, et qui fut changée en vache.» (Moreri).
+
+[172] « Se dit aussi de la conjoncture, de l'état où sont la santé  & les affaires des hommes. Vous voyez en quel point la fortune me prend » (Furetière).
+
+[173] Comme le montre G. Forestier, dans* Esthétique de l'identité dans le théâtre français, op. cit.*, p. 54-58, ce déguisement d'apparence attire l'attention du spectateur sur la question de l'être et du paraître. En effet le dramaturge, en présentant son héro dans une condition nettement inférieure, établit un contraste avec son élégance naturelle. Ici, Orante signale que son port princier ne peut être effacé sous un mauvais habit. À la scène 7 de cet acte, c'est Ormin, cette fois qui souligne ce contraste : « Certes, Peintre, ou Marchand, ou tous les deux ensemble, La langue & le pinceau, font très bien ce me semble. » Scudéry en établissant ce contraste joue sur le coté spectaculaire d'un tel déguisement.
+
+[174] « Cassioppe (…) eut assez de témérité et de présomption pour disputer de la beauté de Junon et des Néréides. En punition, sa fille (Andromède) fut condamnée à être exposée nue sur un rocher, et y fut attachée par les nymphes pour être dévorée par un monstre marin ; mais elle fut délivrée par Persée. Il (…) la ramena à son père qui pour récompense la lui donna en mariage. » (Moreri).
+
+[175] Ce baiser est dans l'*Astrée*, éd. cit, p. 349 : « luy jettent les bras au col, & joignant sa bouche à la sienne, elle y demeura si longuement qu'il sembloit qu'elle eut perdu le souvenir de s'en oster. »
+
+[176] Il faut comprendre : vivez…par où j'ay voulu mourir. Elle doit lui tendre son bras pansé pour qu'il le baise.
+
+[177] « Fleuve de l'Inde, un des plus grands et plus considérables du monde. On dit qu'il roule avec son sable des paillettes d'or, & des pierres précieuses. » (Moreri)
+
+[178] Il s'agit d'une synérèse. Elle est assez courante sous cette forme verbale dans la première moitié du XVII*e* siècle.
+
+[179] Il s'agit d'un diérése assez rare sur ce verbe.
+
+[180] Il faut comprendre : Je feray faire secrétement l'équipage à Florence.
+
+[181] « Là vous me trouverez couvert d'un autre sorte » : vous me verrez habillé d'une autre façon.
+
+[182] « Necessité ; affaire » (Furetière).
+
+[183] « Se dit proverbialement en plusieurs phrases. (…) On dit aussi en menaçant, il me trouvera toûjours en son chemin ; pour dire, je lui formerai des obstacles en toutes les affaires qu'il entreprendra » (Furetière).
+
+[184] « Jeune homme extrêmement beau (…) La déesse Vénus fut charmée de sa beauté et l'aima tendrement. Adonis comptant trop sur ses forces, attaqua seul un sanglier en furie ; mais cet animal l'ayant atteint avec une de ses défenses, le tua. Venus ne pouvant se consoler, changea son amant en fleur afin de calmer son désespoir par cette vue. » (Moreri)
+
+[185] G. de Scudéry, *Le Cabinet de M. de Scudéry*, Paris, Courbé, 1646 ; éd. C. Biet et D. Moncond'huy, Paris Klincksieck, 1991. Dans ce recueil de poéme, Scudéry se livre à la description d'un cabinet imaginaire. Même si nous pouvons retrouver les tableaux dont il parle, nous nous apercevons qu'il transforme en grande partie les scènes qui y sont reprèsentées. Dix ans plutard, Scudéry réutilisera ce tableau dans* Le Cabinet de M. de Scudéry : La Mort d'Adonis de la main de Raphaël d'Urbin*, CI.
+
+[186] « Il fut déchiré par ses propres chiens pour avoir regardé Diane nue dans son bain. (…) Selon Ovide, Diane le métamorphosa en cerf ce qui empêcha les chiens de le reconnaître. » (Moreri)
+
+[187] Scudéry consacrera également un poème au personnage d'Actéon dans son Cabinet : *Actéon dévoré par ses chiens de la main de Carrache*, LVII.
+
+[188] « … Il devint amoureux de Junon et tacha de la corrompre, mais cette déesse en avertit son mari lequel, voulant éprouver Ixion, forma une nuë qui ressembloit parfaitement à Junon, et la fit paroître devant lui dans un lieu secret. Il ne manqua pas alors de suivre les mouvements de sa passion. Jupiter ne doutant plus de son mauvais dessein, foudroya ce téméraire le précipita dans les enfers, et l'attacha avec des serpents à une roue, qui tournoit sans cesse. » (Moreri)
+
+[189] Fille du fleuve Pénée, fuyant Appollon amoureux d'elle, fut transformée en laurier, qui est le symbole de la pureté. Ovide *métam.* » (Moreri)
+
+[190] Dans *Le Cabinet de M. de Scudéry*, notre auteur consacre un poème à ce tableau : La fuite de Daphné peinte par Jules Romain, LXXI.
+
+[191] Lorsqu'Isimandre, à la scène précédente, nous présente les peintures, il dit que le premier tableau est consacré aux amours d'Adonis et Vénus. Nous remarquons une certaine confusion, car ici il est écrit que le premier tableau représente Ixion. Or Orante confirme, au vers 847, l'ordre établi par Isimandre: la première toile est consacrée à Adonis et Vénus. Il s'agit donc d'une erreur dans la didascalie. Nous corrigeons : Orante s'empare du troisième tableau.
+
+[192] « Occupation, application à quelque exercice penible, fatiguant » (Furetière).
+
+[193] « Fatigue, salaire du travail » (Furetière). Il faut comprendre : Orante pleint le travail, et non pas la « fatigue » d'Ormin, c'est à dire, l'effort d'Ormin pour cacher son amour mais pas son chagrin.
+
+[194] « L'indicatif passé est couramment employé au XVII*e* siècle là où nous emploierions le conditionnel passé, pour exprimer une action qui aurait pu se produire et ne s'est pas produite. » (G. Spillebout, *op. cit*., p. 225-226).
+
+[195] « Montagne de Tessalie (…) est près de Pelion & de l'Olympe, vers le fleuve Pénée.
+
+[196] « Montagne de Thessalie, près d'Ossa & d'Olympe (...) Dicéarque de Sicile, disciple d'Aristote, trouva qu'elle estoit plus autres que les hautes montagnes de Thessalie. » (Moreri).
+
+[197] « Mais à la guerre des titans succéda la révolte des géants, enfants du Ciel et de la Terre. D'une taille monstrueuse et d'une force proportionnée (…) Résolus de détrôner Jupiter, ils entassérent Ossa sur Pélion, et l'Olympe sur Ossa d'où ils essayérent d'escalader le ciel. » (P. Commelin, *Nouvelle mythologie grecque et romaine*, Paris, Garnier frères, 1921, p. 21).
+
+[198] Le plus puissant des géants selon la fable, étoit fils du Tartare ou de l'abyme & de la terre. Il fit la guerre aux Dieux et autres géants. Mais il fut foudroyé par Jupiter, qui renversa sur lui le mont Etna, ayant le corps à demi-brulé, comme nous le dit Virgile après Homere (Moreri).
+
+[199] L'emploi de « dedans » à la place de « dans » est très courant dans la première moitié du siècle (G. Spillebout, *op. cit*., p. 240).
+
+[200] Scudéry joue ici sur les différents sens du mot travail. Travail au singulier signifie : « occupation, application à quelque exercice difficile, fatiguant, ou qui demande de la dextérité », et travaux : « se dit au pluriel des actions, de la vie d'une personne, & particulièrement des gens héroïques » (Furetière).
+
+[201] « Ce secret est trop haut … » : ce secret a une trop grande importance…
+
+[202] Ce mot comporte une diérèse. Placé à la fin du vers, et prononcé de cette façon,* inquiétude* prend un sens particulièrement important. C'est une sorte de clé qui nous permet de comprendre dans la suite du monologue les paroles de Poliante. Sa colère est du à la profonde affection qu'il porte à son fils.
+
+[203] Comme nous le montre G. Spillebout, *op. cit*., p. 289, l'emploi de « devant que » + infinitif signifie « avant que ».
+
+[204] Il faut comprendre « de subir ma disgrâce ».
+
+[205] « Imaginer, inventer des choses fausses. » (Furetière). Il faut donc comprendre « Mon esprit troublé imagine mille dangers ».
+
+[206] Dans le texte de l'édition de 1636, il est écrit : « SCENE QUATRIESME ». Nous rectifions donc la numérotation de cette scène et des suivantes.
+
+[207] « Se dit aussi de la chevelure » (*Dictionnaire de l'Académie Française*).
+
+[208] Comme le souligne G. Spillebout, *op. cit.*, p. 289, « premier que » + infinitif signifie avant que.
+
+[209] Il s'agit d'Alexandre Le Grand.
+
+[210] « Quand » est ici employé à la place de « même si ». Cette structure est utilisée avec le conditionnel. Comme le remarque Spillebout, « cette tournure, d'un emploi universel au XVII*e* siècle a pratiquement disparu de notre usage courant » (*op. cit*., p. 336).
+
+[211] Elles sortent de scène laissant Florange seul.
+
+[212] « Champs clos, carrière où combattoient les anciens chevaliers » (Furetière).
+
+[213] « Poteau ou jacquemart qu'on fiche en terre, où l'on attache un bouclier, pour faire des exercices miliaires à cheval, jeter des dards, rompre la lance » (Furetière).
+
+[214] Personnification de son courroux, sa vengeance prend la forme d'un cheval fougueux.
+
+[215] « Pouzzole est une ville à huit milles de Naples » (Moreri.).
+
+[216] Isimandre condamne la pratique du duel, mais rappelle que c'est une question d'honneur. On peut se demander si ce genre d'assertion n'était pas destinée à Richelieu, qui s'était opposé à la pratique du duel. Le cardinal, cependant, grand amateur de théâtre les tolérait sur la scène.
+
+[217] Dans l'*Astrée*, éd. cit., p. 418 : « Il me respondit, que l'amitié que je luy porte me le faisoit croire tel. »
+
+[218] *Ibid.*, p. 419 : « Peut-estre, adjoustay-je, vous voulez trop choisir ? »
+
+[219] Couleurs de la chair, rouge clair et vif.
+
+[220] Poliante sort de scène, laissant Orante seule.
+
+[221] « Ordre de vierge institué chez les Romains par Numa Pompilius, pour honorer la déesse Vesta, & conserver dans sont temple un feu sacré. » Pour Orante avoir le sort des vestales signifie entrer au couvent.
+
+[222] « Il y a quatre gardes générales de l'épée, que pour bien concevoir, il faut se représenter un cercle décrit sur un mur à plomb, & divisé en ces quatre points cardinaux de haut en bas, & de droit à gauche. (…) La tierce ou la troisième garde se fait en posant la pointe de l'épée au point supérieur du même cercle (…) & alors le corps, le bras & l'épée sont dans leur naturelle disposition, & dans le milieu des extremitez de leurs mouvements » (Furetière).
+
+[223] « Il y a une quinte ou cinquième garde, qui n'est que le retours de la pointe de l'épée à droite après la révolution du cercle, au point inférieur de la Prime, d'où elle étoit partie. » (*ibid.*)
+
+[224] Il meurt, blessé par Isimandre.
+
+[225] « Cela se dit des avantages qu'on remporte dans un combat, mais de ceux qu'on obtient dans quelque lutte que ce soit. » *Dictionnaire de l'Académie française*, Paris, Coignard, 1698.
+
+[226] « Quant et » est utilisé pour signifier « avec ». C'est un emploi perdu dans le français moderne. (G. Spillebout, *op. cit*., p. 242).
+
+[227] Dans le texte, on nous signale qu'Orante prend la parole. Nous corrigeons l'erreur.
+
+[228] Elle parle d'Isimandre.
+
+[229] « Outrage, insulte » (Furetière). Il faut comprendre : votre repentir efface l'outrage que j'ai subi.

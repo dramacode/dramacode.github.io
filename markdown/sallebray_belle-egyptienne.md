@@ -1748,7 +1748,7 @@ Nos gens vont à la ville, il faut que tu te pares.
     PRECIEUSE.
 Nous bravons sans cela les beautés les plus rares.  
 (En se retirant elle laisse choir sans dessein le papier que le Poëte luy a donné.)
-
+ 
 
 
 ### SCENE V.
@@ -2113,7 +2113,7 @@ Au reste, allons hâter nos desseins resolus.
 
     LA VIEILLE.
 Passe pour cette fois, mais n'y retourne plus.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II
@@ -2153,7 +2153,7 @@ Dans ce beau champ d'Amour marche plus assurée.
 Le Ciel rit à mes vœux, l'air me semble plus dous.  
 (Voyant Precieuse.)
 
-C'est l'effet du Soleil qui s'approche de nous. [264]  
+C'est l'effet du Soleil qui s'approche de nous. [264]   
 
 
 ### SCENE II.
@@ -2442,7 +2442,7 @@ Mercure inspire luy tes bonnes qualités,
 Afin qu'aux yeux de tous il vole en assurance,  
 Et trompe des Argus [298] l'exacte vigilance.  
 Suivés-moy Compagnons, tous en ordre rangés,  
-Ces ducas⁎ au retour vous seront partagés.  
+Ces ducas⁎ au retour vous seront partagés.   
 
 
 ### SCENE III.
@@ -2696,7 +2696,7 @@ Mais il faut qu'avec moy vous y mettiés la main [317].
 
     ANDRES.
 Elle s'en doute, Amour seconde⁎ son dessein.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III
@@ -2768,7 +2768,7 @@ Nous allons de ce pas te porter dans sa tante,
 Pour en estre content, rens-la devant⁎ contente.  
 
     LE POETE.
-Je n'épargneray rien pour mon soulagement.  
+Je n'épargneray rien pour mon soulagement.   
 
 
 ### SCENE II.
@@ -2834,7 +2834,7 @@ Cours, es-tu revenuë ? [322]
     PRECIEUSE, *à part en s'en allant.*
         Il est trop assuré [323],  
 C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,  
-De nuit, et déguisé, je crains quelque surprise.  
+De nuit, et déguisé, je crains quelque surprise.   
 
 
 ### SCENE III.
@@ -2858,7 +2858,7 @@ Entrés-là, c'en est fait, son sang est arresté.
     ANDRES.
 O discours salutaire en cette extremité [325].  
 (Les Egiptiens portent le poëte dans une tante.)
-
+ 
 
 
 ### SCENE IV.
@@ -3103,7 +3103,7 @@ Puisque ma volonté ne m'est pas favorable ? [342]
 Mais pour mieux profiter de ce raisonnement,  
 Tirons de ce rival un éclaircissement,  
 Arrachons son aveu par force ou par adresse,  
-Et perdons puis apres [343] le traitre et la traitresse.  
+Et perdons puis apres [343] le traitre et la traitresse.   
 
 
 ### SCENE IX.
@@ -3316,7 +3316,7 @@ Qui cherche ma maitresse il cherche le trespas⁎,
 Je t'irois immoler⁎, à ses yeux, dans ses bras,  
 Et si son lâche cœur trempoit dedans ton crime,  
 J'abatrois d'un seul coup l'autel et la victime.  
-Fin du troisieme Acte.
+Fin du troisieme Acte. 
 
 
 ## ACTE IV
@@ -3738,7 +3738,7 @@ Ces assés, ces voleurs rendront tout aujourd'huy.
 Ne perdons point de temps, l'affaire est d'importance,  
 Allons, c'est icy prez, et s'ils font resistance,  
 Sans attendre ma voix, main basse, tués tout,  
-Du meurtre general mon pouvoir vous absout. [381]  
+Du meurtre general mon pouvoir vous absout. [381]   
 
 
 ### SCENE VI.
@@ -3787,7 +3787,7 @@ Ainsi rien ne s'oppose à vos soins diligens⁎.
 Sur nos chastes desseins mon amour se repose.  
 
     LA VIEILLE.
-On dit bien vray, l'épine est proche de la rose [384].  
+On dit bien vray, l'épine est proche de la rose [384].   
 
 
 ### SCENE VIII.
@@ -3987,7 +3987,7 @@ Je sçauray reconnestre un si loüable office.
 
     LE PREVOST.
 Je seray toujours prest à vous rendre service.  
-Fin du quatriéme Acte.
+Fin du quatriéme Acte. 
 
 
 ## ACTE V
@@ -4758,7 +4758,7 @@ Madame, Amour, Monsieur, mon pere, ma Maitresse,
 A qui premier de vous faut-il que je m'adresse ?  
 
     FERDINAND.
-Dieux ! qui nous vient troubler en ce jour solemnel ?  
+Dieux ! qui nous vient troubler en ce jour solemnel ?   
 
 
 ### SCENE DERNIERE.

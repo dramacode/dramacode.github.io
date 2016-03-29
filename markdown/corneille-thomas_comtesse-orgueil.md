@@ -760,7 +760,7 @@ Signé LOUIS SEVESTRE, Syndic.
  – LYSESuivante de la Comtesse d'Orgueil.
  – CARLINValet du Marquis.
 La Scene est à Paris.
-
+ 
 
 
 ## ACTE I.
@@ -1071,7 +1071,7 @@ Qui vous force à venir ?
         Vous voyant dans la rüe,      
 Passeray-je tout droit sans que je vous salüe ?  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Salüez-moy de loin, & ne me dites mot.  
 
     LE CHEVALIER.
@@ -1113,7 +1113,7 @@ Est-ce ma faute ?
         Au moins, si par le droit d'aînesse [138],  
 Vous avez de grands bien, j'ay la mesme Noblesse.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Vous estes Chevalier, mais quand il faut manger,  
 Vostre Chevalerie est un mets bien leger,  
 Et souvent la machoire est fort mal occupée,  
@@ -1311,7 +1311,7 @@ Elle auroit préparé l'esprit de sa maîtresse⁎,
 Mais vous m'avez fait taire, et tout estoit perdu  
 Si j'eusse osé…  
 
-    LE CHEVALIER.
+    LE CHEVALIER. 
         Je voy que j'ay trop attendu,  
 Qu'il seroit bon qu'Olympe eust approuvé ma flame⁎,  
 Mais je ne sçavois pas qu'on dust lire en mon ame,  
@@ -1351,7 +1351,7 @@ Le peril en est beau.
 L'ordre vous en est doux, mais à quand l'hymenée ?  
 Lucrece vous aimant…  
 
-    ORONTE.
+    ORONTE. 
         Anselme son Tuteur⁎  
 Attend obstinément le retour de ma Sœur,  
 Parce qu'elle est Comtesse, il s'est mis à la teste  
@@ -1459,7 +1459,7 @@ Un Marquis si charmé, dit-il, de ses appas⁎,
 Qu'il se pendra demain s'il ne l'épouse pas,  
 Le Marquis de Lorgnac.  
 
-    OLYMPE.
+    OLYMPE. 
         Quoy, j'en serois aimée ?  
 
     VIRGINE.
@@ -1542,7 +1542,7 @@ Qu'on ne peut…
     ORONTE.
 De luy-mesme.  
 
-    OLYMPE.
+    OLYMPE. 
         A sa mine on connoit sa naissance,  
 Mais l'effet répond mal souvent à l'apparence,  
 L'air ne fait pas l'esprit ; et je douterois fort  
@@ -1606,7 +1606,7 @@ Rendez-moy du Marquis un plus fidelle compte,
 Informez-vous par tout en quelle estime il est.  
 
     ORONTE.
-Il suffit, vous sçavez si j'y prens interest [174].  < Fin du premier Acte. >
+Il suffit, vous sçavez si j'y prens interest [174].  < Fin du premier Acte. > 
 
 
 ## ACTE II.
@@ -1635,7 +1635,7 @@ M'aprit que quand l'honneur qu'on daigne nous faire…
 Votre caducité de trop loin se souvient ;  
 Si je vous fais l'honneur, le profit m'en revient.  
 
-    ANSELME.
+    ANSELME. 
 Du moins je vous répons d'une fille fort sage,  
 Modeste, accorte⁎, douce, à qui, dés son Bas âge  
 Où l'esprit est toûjours de fadaise⁎ remply,  
@@ -1763,7 +1763,7 @@ Deux nopces⁎ !
 Pour l'épouser, Oronte attend icy sa Sœur,  
 Demain elle y doit estre.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
         Il differe pour elle ?  
 
     ANSELME.
@@ -1813,7 +1813,7 @@ Un Duc aussi, dit-on, cherche fort à luy plaire.
     LE MARQUIS.
 Un Duc ?  
 
-    ANSELME.
+    ANSELME. 
     Ouy, qui voudroit…  
 
     LE MARQUIS.
@@ -1889,7 +1889,7 @@ Je le croy.
 Tout Chahütan qu'il est, m'a-t'il pû resister ?  
 Où l'on me voit tout céde.  
 
-    CARLIN.
+    CARLIN. 
         Il se résout à prendre,  
 Sur vostre bonne foy, le Chevalier pour Gendre ?  
 
@@ -2015,7 +2015,7 @@ Eprouver [225] si mon cœur aisement s'apprivoise ?
 Du moins je vous apporte un advis⁎ important,  
 Ce soir à la fenestre Olympe vous attends.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Quoy, la Fille d'Anselme ?  
 
     VIRGINE.
@@ -2057,7 +2057,7 @@ LE MARQUIS, VIRGINE.
 Ne vous éloignez point, Monsieur ; à la fenestre  
 Avec moy tout à l'heure Olympe va paroistre.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Tu la peux advertir, je reviens sur mes pas.  
 Si [229] elle me connoit ?  
 
@@ -2137,7 +2137,7 @@ Quelle gloire !
     LE MARQUIS.
         Pour vaincre, il suffit que j'attaque.  
 
-    LE CHEVALIER.
+    LE CHEVALIER. 
 Que ne vous dois-je point !  
 
     LE MARQUIS.
@@ -2208,7 +2208,7 @@ Si ce grand serieux n'est pas dans ce qu'il dit,
 C'est qu'il a l'humeur gaye et qu'il se divertit,  
 Mais quand il veut il parle, et des mieux.  
 
-    OLYMPE.
+    OLYMPE. 
         Je souhaite [236]  
 Qu'il n'ait pas les defauts…  
 
@@ -2559,7 +2559,7 @@ Je crains toûjours pour luy.
 
     OLYMPE.
         Helas !  
-Je ne craindrois pas tant si je ne l'aimois pas  < Fin du second Acte. >
+Je ne craindrois pas tant si je ne l'aimois pas  < Fin du second Acte. > 
 
 
 ## ACTE III.
@@ -2734,7 +2734,7 @@ Si je te pouvois bien dépeindre de quel air
 Il repoussa son Frere, et le fit reculer…  
 
 
-### SCENE IV.
+### SCENE IV. 
 OLYMPE, LUCRECE, VIRGINE.
 
 
@@ -2769,7 +2769,7 @@ Prenez l'occasion de faire enfin ma paix.
 J'employeray le Marquis, va, je te le promets [260].  
 
 
-### SCENE V.
+### SCENE V. 
 LE CHEVALIER, OLYMPE, LUCRECE.
 
 
@@ -2884,7 +2884,7 @@ Et sans doute j'ay tort de mesler mes chagrins
 Aux sensibles douceurs de vos heureux destins.  
 
 
-### SCENE VI.
+### SCENE VI. 
 LUCRECE, OLYMPE.
 
 
@@ -2924,7 +2924,7 @@ Il dit qu'il a parlé.
 D'accord ; on le maltraite, et tu ferois de mesme,  
 Qu'importe quel Objet sa passion ait eu ?  
 
-    OLYMPE.
+    OLYMPE. 
 Voicy quelque message.  
 
 
@@ -2973,7 +2973,7 @@ Il est tout englouty dedans [265] sa chevelure.
 Que dis-tu de son air ? L'a-t'il galant⁎ et doux ?  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 LE MARQUIS, OLYMPE, LUCRECE, CARLIN.
 
 
@@ -3011,7 +3011,7 @@ Me veut-il éprouver ?
 Vous avez à me voir le cœur bien palpitant.  
 Que je taste.  
 
-    OLYMPE.
+    OLYMPE. 
     Ah, grands Dieux !  
 
     LE MARQUIS *montrant Lucrece.*
@@ -3105,7 +3105,7 @@ Je le suis.
     OLYMPE.
         Quoy, celuy qu'en qualité⁎ d'Epoux…  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Celuy qui cette nuit avoit le rendez-vous.  
 Quel rendez-vous ! jamais je n'eus frayeur semblable,  
 Mon Cadet dégainant a fait d'abord le diable,  
@@ -3193,7 +3193,7 @@ Mais vous ne riez point, vous ?
     OLYMPE.
         Moy rire ? et dequoy ?  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 De la voir rire. Elle est grassette.  
 
     OLYMPE.
@@ -3284,7 +3284,7 @@ Est-elle…
         Contre vous gardez que je me pique [278],  
 Je vous épouserois toutes deux.  
 
-    LUCRECE.
+    LUCRECE. 
         Bon cela.  
 
     LE MARQUIS *à Olympe.*
@@ -3323,7 +3323,7 @@ C'est qu'il est gay, ma fille.
         Et gay seul plus que trente.  
 Je ne vois point icy paroistre de suivante.  
 
-    ANSELME.
+    ANSELME. 
 Ma Fille en avoit une, il l'a falu chasser.  
 Certains tours trop rusez…  
 
@@ -3370,7 +3370,7 @@ Le laict de sa nourrice estoit-il bon ?
     LUCRECE.
         Courage.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Pas là l'humeur des gens⁎…  
 
     ANSELME.
@@ -3460,7 +3460,7 @@ Mais, mon Oncle, souffrez…
 Beaupere, mon carrosse est là bas, et je pense  
 Qu'on peut, tout en roulant, se donner audience [286].  
 
-    ANSELME.
+    ANSELME. 
 Il vaut mieux qu'icy seul…  
 
     LE MARQUIS.
@@ -3504,7 +3504,7 @@ Pour se l'imaginer je le donne au plus fin⁎.
     VIRGINE.
 Le bon homme est sorty, je puis paroistre enfin.  
 
-    OLYMPE.
+    OLYMPE. 
 Ah, Virgine.  
 
     VIRGINE.
@@ -3551,7 +3551,7 @@ Il faudra qu'il les paye en trompant le Marquis.
 Ah, pour m'en dégager vint mille au lieu de dix.  
 Moy l'épouser ?  
 
-    LUCRECE.
+    LUCRECE. 
         Encor si nous avions Oronte,  
 Qu'il pust…  
 
@@ -3577,7 +3577,7 @@ Elle gasteroit tout.
         Qu'est-ce que tu prétens ?  
 
     VIRGINE.
-Allons, vous le sçaurez quand il en sera temps.  < Fin du troisiéme Acte. >
+Allons, vous le sçaurez quand il en sera temps.  < Fin du troisiéme Acte. > 
 
 
 ## ACTE IV.
@@ -3607,7 +3607,7 @@ Et vous mander [289] icy pour prendre vostre advis⁎
 Sur le tour qu'on s'appreste à joüer au Marquis.  
 Lyse de ce logis rend Virgine Maîtresse⁎.  
 
-    LYSE.
+    LYSE. 
 Vous sçavez que j'attens Madame la Comtesse,  
 Il faut de l'arrivée essuyer le hazard.  
 
@@ -3687,7 +3687,7 @@ Ay-je perdu mon temps ?
         Tu m'ébloüis les yeux.  
 Quel éclat !  
 
-    VIRGINE.
+    VIRGINE. 
         Je feray la Comtesse des mieux.  
 
     LUCRECE.
@@ -3842,7 +3842,7 @@ Vous en serez charmé.
 Nous pourrons elle et moy faire de grands voyages.  
 Je vay haut quand je veux.  
 
-    CARLIN.
+    CARLIN. 
     La voicy.  
 
     LE MARQUIS.
@@ -3924,7 +3924,7 @@ Au lieu qu'en m'admirant les gens⁎ d'esprit s'écrient,
 Je ne trouve par tout que des sottes⁎ qui rient,  
 Point de raisonnement.  
 
-    VIRGINE.
+    VIRGINE. 
         Pourquoy les voyez-vous ?  
 
     LE MARQUIS.
@@ -4011,7 +4011,7 @@ Ordonnez du Contract, tout mon bien est le vôtre.
 Carlin, si je conclus, après le mot lâché  
 Tu diras que de moy je fais trop bon marché ?  
 
-    CARLIN.
+    CARLIN. 
 Sans les meubles elle a dix mille écus de rente.  
 Vous pourriez trouver mieux.  
 
@@ -4057,7 +4057,7 @@ Qu'est-ce ?
     VIRGINE.
 Qu'il vienne trente encor, je n'y suis pour personne.  
 
-    LYSE.
+    LYSE. 
 On a suivy vôtre ordre.  
 
     LE MARQUIS.
@@ -4197,7 +4197,7 @@ Quel bruit faisoit-on là ?
     VIRGINE.
 Oronte ?  
 
-    CARLIN.
+    CARLIN. 
     Adieu la fourbe.  
 
     LYSE.
@@ -4240,7 +4240,7 @@ Lyse, aucun de ses Gens⁎ n'est-il encore venu ?
     LYSE.
 Non, Monsieur.  
 
-    ORONTE.
+    ORONTE. 
         Un Portier qui ne m‘est pas connû  
 M'a fait façon là bas quand je t'ay demandée.  
 
@@ -4289,7 +4289,7 @@ Pour vous, estant Geante, elle auroit plus d'appas⁎.
     LE MARQUIS.
 Geante !  
 
-    ORONTE *à Lyse.*
+    ORONTE *à Lyse.* 
         Il parle d'elle, et ne la connoit pas.  
 
     LE MARQUIS.
@@ -4334,7 +4334,7 @@ Encor, quelle rencontre…
 Ces Freres curieux parlent si lentement.  
 Laissez-moy mes secrets, je vous laisse les vôtres.  
 
-    ORONTE.
+    ORONTE. 
 J'admire…  
 
     LE MARQUIS.
@@ -4414,7 +4414,7 @@ Serviteur.
         En maison étrangere,  
 N'en eust-on qu'un à dire, il est bon de se taire.  
 
-    ANSELME.
+    ANSELME. 
 Puisqu'on sçait que pour vous ma Fille…  
 
     LE MARQUIS.
@@ -4505,7 +4505,7 @@ Ma Reine, un peu de cœur.
     LE MARQUIS.
 Ne vous pressez point tant, j'ay dequoy vous guerir.  
 
-    VIRGINE.
+    VIRGINE. 
 Vous ?  
 
     LE MARQUIS.
@@ -4550,7 +4550,7 @@ Mais le dédit⁎ signé…
         Quitte à l'aller reprendre,  
 Deux mots, et trop heureux encor de me le rendre.  
 
-    VIRGINE.
+    VIRGINE. 
 Vous iriez chez Olympe ? ah, ne me quittez pas.  
 Si l'ardeur de ma flâme⁎ a pour vous quelque appas⁎,  
 Pour ne troubler en rien l'heur⁎ de ma destinée,  
@@ -4595,7 +4595,7 @@ Touchez, foy de Marquis.
         Je vis sur cét espoir,  
 Mais si vous me trompez…  
 
-    LE MARQUIS.
+    LE MARQUIS. 
         Vous tromper ! je n'ay garde.  
 
     VIRGINE.
@@ -4617,7 +4617,7 @@ Auprés de ton Vieillard, pourveu qu'on te seconde,
 Les vœux du Chevalier pourront avoir effet.  
 
     VIRGINE.
-Viens sçavoir avec moy ce qu'Olympe aura fait.  < Fin du quatriéme Acte. >
+Viens sçavoir avec moy ce qu'Olympe aura fait.  < Fin du quatriéme Acte. > 
 
 
 ## ACTE V.
@@ -4648,7 +4648,7 @@ S'il ne l'agréoit pas, l'auroit-il voulu voir ?
     OLYMPE.
 Je ne vay pas si viste en ce qui m'interesse [326].  
 
-    VIRGINE.
+    VIRGINE. 
 Ma foy, je me repens d'avoir esté Comtesse,  
 De n'avoir pas laissé la chose au mesme point.  
 Vous ne meritez pas…  
@@ -4721,7 +4721,7 @@ Si vous ne le sçavez, vous tombez du haut mal.
     OLYMPE.
 A se rendre credule il n'a point son égal.  
 
-    CARLIN.
+    CARLIN. 
 Ces pretendus defauts peuvent tant sur son ame,  
 Qu'avec joye à son Frere il vous cede pour Femme.  
 
@@ -4799,7 +4799,7 @@ Mais je crains le Marquis.
     CARLIN.
         C'est une affaire à part.  
 
-    VIRGINE.
+    VIRGINE. 
 S'il m'avoit icy veuë en habit de Suivante,  
 Comme la fourbe alors deviendroit apparente,  
 Piqué de cet affront, dans son secret dépit,  
@@ -4953,7 +4953,7 @@ Vous enragez assez de ne pouvoir courir.
     ANSELME.
 Continuez [340], le jeu commençoit à vous plaire.  
 
-    VIRGINE *à Anselme.*
+    VIRGINE *à Anselme.* 
 Ne croyez pas, Monsieur…  
 
     ANSELME.
@@ -4997,7 +4997,7 @@ Quoy, toûjours vos je veux ?
         Ma foy, j'en suis d'avis⁎  
 Qu'un pied plat [341] comme vous glose⁎ sur un Marquis.  
 
-    ANSELME.
+    ANSELME. 
 Vous l'estes, et je sçay ce qu'est vostre famille,  
 Mais d'où vient ce mépris quand vous aimez ma Fille ?  
 Son hymen⁎ avec vous n'est-il pas résolu ?  
@@ -5080,7 +5080,7 @@ Dites, combien la Niéce a-t'elle à retirer ?
     ANSELME.
 De quoy me parlez-vous ?  
 
-    LE MARQUIS.
+    LE MARQUIS. 
         On m'a dit le mystere.  
 Pour la Fille, elle a trop herité de sa Mere.  
 Tombe-t'elle souvent… Là, vous m'entendez bien ?  
@@ -5161,7 +5161,7 @@ Allons, vieux Roquentin [345], les armes à la main.
     VIRGINE *Prenant le billet du Marquis qu'elle déchire.*
 Donnez-moy, vous seriez d'icy jusqu'à demain.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
 Bon, voyla ton dédit⁎, Bourgeois.  
 
     ANSELME *déchirant son billet.*
@@ -5277,7 +5277,7 @@ Et qu'entre nous jamais ny discorde ny guerre…
 Et quand il la verra se debatre par terre,  
 Faire des cris, hurler, rira-t'il bien ?  
 
-    ANSELME.
+    ANSELME. 
         Dequoy ?  
 
     LE MARQUIS.
@@ -5322,7 +5322,7 @@ Et d'ailleurs j'ay pour vous…
 On m'a dit que je dois vous estre quelque chose  
 Que vous épouserez la Comtesse.  
 
-    LE MARQUIS.
+    LE MARQUIS. 
         Comment,  
 Qui vous l'a dit ?  
 
@@ -5387,7 +5387,7 @@ Vous l'avez veuë ?
         Hola, qu'on appelle Virgine.  
 Que j'en vay voir icy qui feront grise mine !  
 
-    VIRGINE.
+    VIRGINE. 
 On a besoin de moy, qu'est-ce ?  
 
     LE MARQUIS *à Oronte.*
@@ -5482,7 +5482,7 @@ J'ay levé tout obstacle aux vœux du Chevalier.
     LE MARQUIS.
 M'avoir fourbé ?  
 
-    VIRGINE.
+    VIRGINE. 
         J'ay tort ; mais Carlin qui me gaste…  
 
     LE MARQUIS.

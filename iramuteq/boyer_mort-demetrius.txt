@@ -55,7 +55,7 @@ Vous la verrez bien-tost.
       Qu'on sorte,  ; qu'on me laisse ;
 Et que nul n'entre icy que par un ordre exprés.
 
-**** *book_ *id_body-402 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-402 *act_ *date_1661 *creator_boyer 
 
 -*who_milon
 La Reyne...
@@ -197,7 +197,7 @@ J'en veux tousjours garder l'esperance  ; l'envie :
 Mais n'espere jamais d'un parjure odieux
 Estre quitte envers moy, ny quitte envers les Dieux.
 
-**** *book_ *id_body-403 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1661 *creator_boyer 
 
 -*who_demetrius
 Ton interest n'est pas ce qui trouble mon ame,
@@ -261,7 +261,7 @@ Alexandre revient.
 -*who_demetrius
 Sçais-tu qu'il vient m'oster mon Sceptre  ; ma Princesse ?
 
--*who_milon
+-*who_milon 
 Craignez vous un Rival avec tant de foiblesse ?
 Il revient par vostre ordre,  ; ce retour fatal⁎
 Va mettre entre vos mains ce dangereux Rival.
@@ -377,7 +377,7 @@ Tâchons donc de fléchir cet objet adorable.
 -*who_milon
 Mais la Reine...
 
--*who_demetrius
+-*who_demetrius 
       Tu sçais quel genereux dessein
 Me força malgré moy de luy donner la main :
 Pour sauver mon Rival  ; ma chere Ismenie
@@ -474,7 +474,7 @@ Faites à mon Rival un glorieux retour ;
 Mettez-le promptement au dessus de l'envie ;
 Asseurez sur le Thrône  ; sa gloire  ; sa vie.
 
--*who_ismenie
+-*who_ismenie 
 Ah ! si vostre amitié pouvoit en sa faveur
 Jusqu'à ce grand effort élever vostre coeur,
 Qu'elle auroit à mes yeux de merite  ; de gloire !
@@ -637,7 +637,7 @@ Il faut aneantir ce qu'on ne peut avoir ;
 Mais je suis encor loin de ce malheur extrême,
 J'ay du pouvoir assez pour avoir ce que j'aime.
 
--*who_seleucus
+-*who_seleucus 
 Milon, n'en croyez pas un desespoir jaloux ;
 Servez le vray Monarque,  ; travaillez pour vous.
 Pour faire nostre paix relevons sa puissance,
@@ -849,7 +849,7 @@ Seigneur, souffrirez-vous...
 -*who_alexandre
       Suy ton Maistre,  ; me laisse.
 
-**** *book_ *id_body-503 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-503 *act_ *date_1661 *creator_boyer 
 
 -*who_alexandre
 Amy, cruel autant qu'on peut l'imaginer,
@@ -873,7 +873,7 @@ Un peu moins amoureux  ; plus ambitieux,
 Cher  ; cruel amy, regne,  ; souffre que j'aime.
 Dieux ! qu'est-ce que je voy ? ma Princesse, elle mesme.
 
-**** *book_ *id_body-504 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-504 *act_ *date_1661 *creator_boyer 
 
 -*who_alexandre
 Rendez-vous cet honneur au rang que je n'ay plus ?
@@ -1021,7 +1021,7 @@ Adieu, je fuis des pleurs qui tentent ma tendresse,
 Et vay dans mon exil attendre un sort plus doux,
 Et du temps,  ; des Dieux,  ; plus encor de vous.
 
-**** *book_ *id_body-505 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-505 *act_ *date_1661 *creator_boyer 
 
 -*who_laodice
 Quoy, le Prince s'enfuit,  ; cet ingrat vous quitte ?
@@ -1547,7 +1547,7 @@ Quel torrent de bon-heur d'un cours precipité
 M'entraîne dans ce port si long-temps souhaité ?
 Thrône, Maistresse...
 
-**** *book_ *id_body-608 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-608 *act_ *date_1661 *creator_boyer 
 
 -*who_milon
       Enfin nous tenons Alexandre.
@@ -1665,7 +1665,7 @@ Je crains...
 -*who_alexandre
       Seleucus, je la voy.
 
-**** *book_ *id_body-702 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1661 *creator_boyer 
 
 -*who_telamon
 Madame, vous sçavez quel est l'ordre du Roy ;
@@ -1850,7 +1850,7 @@ Quoy ? Madame...
 -*who_ismenie
       Obeïs, laisse-moy, vis,  ; m'aime.
 
-**** *book_ *id_body-704 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1661 *creator_boyer 
 
 -*who_alexandre
 Que ton dessein me jette en un desordre extrême !
@@ -1879,7 +1879,7 @@ La fille d'Artaban ?
 -*who_arsinoe
       La femme de ton Roy.
 
--*who_alexandre
+-*who_alexandre 
 Ennemy des Tyrans, du Trône,  ; de ma flame,
 J'abhorre également  ; sa fille  ; sa femme.
 
@@ -2052,7 +2052,7 @@ Voy l'advis que m'en donne un Rival genereux.
 -*who_milon
 Vous laissez-vous corrompre à l'advis qu'il vous donne ?
 
--*who_arsinoe
+-*who_arsinoe 
 Quoy ! Seigneur ?
 
 -*who_demetrius
@@ -2127,7 +2127,7 @@ Tu vois de tous costez qu'on menace mes jours ;
 J'aime encore des jours qui sont pour Ismenie,
 Je mets entre tes mains ma cruelle ennemie.
 
--*who_milon
+-*who_milon 
 Ne craignez rien, Seigneur, je feray mon devoir.
 
 -*who_demetrius
@@ -2220,7 +2220,7 @@ Un grand coupable est joint à cette criminelle.
 Toy qui gardes ce traistre, enfin fais-le venir ;
 C'est luy seul, Seleucus, c'est luy qu'il faut punir.
 
--*who_seleucus
+-*who_seleucus 
 Mais, Seigneur...
 
 -*who_milon
@@ -2256,7 +2256,7 @@ J'auray soin du dehors,  ; vous répons de tout.
 Va, de quelques malheurs que le Ciel nous menace,
 Ma peur s'évanoüit par cette noble audace.
 
-**** *book_ *id_body-802 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-802 *act_ *date_1661 *creator_boyer 
 
 -*who_milon
 Ah ! si le Sort vouloit s'entendre avecque moy,
@@ -2322,7 +2322,7 @@ Je deviens son témoin,  ; son Juge,  ; son Roy.
 -*who_telamon
 Vous attirez sur vous une horrible tempeste.
 
--*who_milon
+-*who_milon 
 Je voy tous les perils qui menacent ma teste ;
 Avant que m'exposer à ce fatal instant,
 Je les avois tous veus d'un oeil ferme  ; constant.
@@ -2500,7 +2500,7 @@ Vostre juge tremblant de respect  ; d'amour.
 Qu'entens-je ? juste Ciel ! pour comble d'infamie
 C'est peu de m'accuser, Milon aime Ismenie !
 
--*who_milon
+-*who_milon 
 Je vous aime, il est vray, le mot en est lâché ;
 Ce feu que mes respects ont si long-temps caché,
 Laisse aller aujourd'hui toute sa violence :
@@ -2669,7 +2669,7 @@ Faites que mon amant fasse enfin son devoir,
 Ou ma mort ostera cet obstacle à sa gloire ;
 Mais quel tumulte affreux...
 
-**** *book_ *id_body-808 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-808 *act_ *date_1661 *creator_boyer 
 
 -*who_laodice
       Le Prince a la victoire,
@@ -2755,7 +2755,7 @@ Ah ! Seigneur, prévenez...
 -*who_diocles
       Le voicy.
 
-**** *book_ *id_body-811 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-811 *act_ *date_1661 *creator_boyer 
 
 -*who_milon
 Ingrate, il faut mourir. Mais Dieux ! quelle foiblesse !
@@ -2771,7 +2771,7 @@ Me font perdre aujourd'huy, Maistresse, Trône  ; vie ;
 Mais pour comble de maux, de honte  ; de malheur,
 Rival, je te les laisse, et j'en meurs de douleur.
 
-**** *book_ *id_body-812 *act_ *date_1661 *creator_boyer
+**** *book_ *id_body-812 *act_ *date_1661 *creator_boyer 
 
 -*who_alexandre
 Va, monstre furieux, ta derniere injustice

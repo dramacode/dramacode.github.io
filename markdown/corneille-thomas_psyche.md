@@ -468,8 +468,7 @@ Venez nous donner de beaux jours.
 Les Nymphes de Flore, Vertumne & Palemon, avec les Divinitez qui les accompagnent, joignent leurs voix à celle de Flore, pour presser Venus de descendre sur la Terre.
 
 
-    CHOEUR DE TOUTES LES DIVINITEZ   
-DE LA TERRE & DES EAUX.
+    CHOEUR DE TOUTES LES DIVINITEZ DE LA TERRE & DES EAUX.
 Nous goûtons une paix profonde ;  
 Les plus doux Jeux sont icy bas ;  
 On doit ce repos plein d'appas  
@@ -480,7 +479,7 @@ Venez nous donner de beaux jours.
 
 
 
-### DIALOGUE DE VERTUMNE
+### DIALOGUE DE VERTUMNE ET DE PALEMON.
 
     VERTUMNE.
 Rendez-vous, Beautez cruelles,  
@@ -549,8 +548,7 @@ La liberté n'a rien qui soit si doux.
 Venus descend dans une grande Machine de Nüages qui occupe tout le Theatre, au travers de laquelle on découvre son Palais. Pendant qu'elle descend, les Divinitez de la Terre & des Eaux recommencent de joindre toutes leurs voix, & continüent par leurs Dances de luy témoigner la joye qu'elles ressentent à son abord.
 
 
-    CHOEUR DE TOUTES LES DIVINITEZ DE LA TERRE   
-& DES EAUX.
+    CHOEUR DE TOUTES LES DIVINITEZ DE LA TERRE & DES EAUX.
 Nous goûtons une Paix Profonde ;  
 Les plus doux Jeux sont icy bas ;  
 On doit ce repos plein d'appas  
@@ -612,7 +610,7 @@ L'Amour s'envole, & la grande Machine enleve Venus sur le ceintre, pendant que l
  – DEUX SATIRES.taille, basse
  – 
  – 
- – 
+ –  
 
 
 ## ACTE PREMIER.
@@ -664,7 +662,7 @@ Mais d'où vient qu'avec tant d'attraits
 Psyché n'aima jamais ?  
 Qui brave trop l'Amour doit craindre sa colere.  
 
-    CIDIPPE.
+    CIDIPPE. 
 Il est un fatal moment,  
 Où l'Objet le plus severe  
 Se rend aux vœux d'un Amant,  
@@ -823,7 +821,7 @@ Che condanni à morir tanta beltà
 Cieli, stelle, ahi crudeltà.  
 
 
-### SCENE III
+### SCENE III 
 LE ROY, PSYCHE' [94], AGLAURE, CIDIPPE.
 
 
@@ -967,7 +965,7 @@ Quatre Zephirs volent vers Psyché qui est sur la Montagne, & l'enlevent sur le 
 
 
 
-## ACTE II.
+## ACTE II. 
 La Scene change [96], & represente un Palais que Vulcain fait achever par ses Cyclopes. Sa Forge se voit dans le fond, & toute la Decoration est embarassée d'Enclumes, & de quantité d'autres Ustenciles propres aux Cyclopes.
 
 
@@ -985,7 +983,7 @@ Les Cyclopes se preparent icy à travailler, & on entend une Symphonie qui les y
 
 
 
-### SCENE II.
+### SCENE II. 
 ZEPHIRE, VULCAIN.
 
 
@@ -1197,7 +1195,7 @@ Ah ! venez-donc, n'importe sous quels traits,
 Pourveu qu'en vous voyant mon esprit se rasseure.  
 
 
-### SCENE VI [107].
+### SCENE VI [107]. 
 L'AMOUR sous la figure d'un homme. PSYCHE'.
 
 
@@ -1363,7 +1361,7 @@ On est payé de mille maux
 Par un heureux moment [111].  < FIN DU SECOND ACTE. >
 
 
-## ACTE III.
+## ACTE III. 
 Le Theatre represente la Chambre la plus magnifique du Palais de l'Amour. Elle est ornée de Cabinets, de Miroirs, & d'autres meubles tres-riches; on voit dans le fond une Alcove fermée d'un rideau.
 
 
@@ -1634,7 +1632,7 @@ Psyché va s'asseoir auprés du Fleuve, & il se perd avec elle sous les eaux [11
 < FIN DU IIIe ACTE. >
 
 
-## ACTE IV.
+## ACTE IV. 
 Le Theatre represente une Salle du Palais de Proserpine, au travers de laquelle on voit ce Palais au milieu des flâmes.
 
 
@@ -1795,7 +1793,7 @@ Quatre Demons traversent le Theatre, & vont se perdre au travers de la voûte de
 < FIN DU IVe ACTE. >
 
 
-## ACTE V.
+## ACTE V. 
 Le Theatre represente les magnifiques Jardins de Venus.
 
 
@@ -1968,7 +1966,7 @@ Aimez sans trouble & sans alarmes.
 Vous, Dieux, accourez tous, & dans cet heureux jour  
 Celebrez à l'envy la gloire de l'Amour.  
 Lors que Jupiter appelle l'Amour, & ensuite toutes les Divinitez, l'Amour descend sur la Gloire⁎, & va s'asseoir aux pieds de Jupiter. Venus & Psyché estant enlevées par un nüage, vont se placer aux deux costez de l'Amour, & Apollon, Bacchus, Mome & Mars, descendent dans leurs Machines auprés de leurs Quadrilles. Le Jardin disparoist, & tout le Theatre represente le Ciel.
-
+ 
 Apollon conduit les Muses, & les Arts ; Bacchus est accompagné de Silene [126], des Ægipans & des Mœnades [127] ; Mome [128], Dieu de la Raillerie, méne aprés luy une Troupe enjoüée de Polichinelles⁎, & de Matassins⁎ ; & Mars paroist à la teste d'une Troupe de Guerriers, suivis de Tymbales, de Tambours, & de Trompettes.
 
 Apollon Dieu de l'Harmonie commence le premier à chanter, pour inviter les Dieux à se réjoüir.
@@ -2176,7 +2174,7 @@ Accordez-vous toujours
 Avec le doux chant des Amours.  < FIN. >
 
 
-## PRIVILEGE DU ROY.
+## PRIVILEGE DU ROY. 
 
 LOUIS par la grace de Dieu Roy de France & de Navarre : A nos amez & féaux Conseillers, les Gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, & du Palais, Baillifs, Seneschaux, leurs Prevosts, & leurs Lieutenans, & tous autres nos Justiciers & Officiers qu'il appartiendra, SALUT. Nostre bien amé Jean Baptiste Lully Sur-Intendant de la Musique de nostre Chambre, Nous a fait remonstrer que les Airs de Musique qu'il a cy-devant composez, ceux qu'il compose journellement par nos ordres, & ceux qu'il sera obligé de composer à l'avenir pour les Pieces qui seront representées par l'Academie Royale de Musique, laquelle Nous luy avons permis d'établir en nostre bonne Ville de Paris, & autres lieux de nostre Royaume où bon luy semblera, estant purement de son invention, & de telle qualité que le moindre changement ou obmission leur fait perdre leur grace naturelle ; de sorte que comme son esprit seul les produit pour les appliquer aux sujets qu'il y trouve proportionnez, nul autre ne peut si bien que luy rendre lesdits Ouvrages publics dans leur perfection, & avec l'exactitude qui leur est deue. Et d'ailleurs, il est juste que si leur impression doit aporter quelque avantage, il revienne plûtost à l'Autheur pour le recompenser de son travail, & de partie des frais qu'il avance pour l'execution des Desseins qu'il doit faire representer par ladite Academie, qu'à de simples Copistes qui les imprimeroient, sous pretextes de Permissions generales ou particulieres qu'ils peuvent avoir obtenuës par surprises ou autrement ; ce qui l'oblige d'avoir recours à nos Lettres sur ce necessaires. A CES CAUSES ; Voulans favorablement traitter l'Exposant, Nous luy avons permis et accordé, permettons & accordons par ces Presentes, de faire imprimer par tel Libraire ou Imprimeur, en tel volume, marge, caractere, & autant de fois qu'il voudra, avec Planches et Figures, tous & chacuns les Airs de Musique qui seront par luy faits ; comm'aussi les Vers, Paroles, Sujets, Desseins & Ouvrages sur lesquels lesdits Airs de Musique auront esté composez, sans en rien ex- cepter, & cependant le temps de trente années, consecutives, à commencer du jour que chacun desdits Ouvrages seront achevez d'imprimer, iceux vendre & debiter dans tout nostre Royaume, par luy ou par autre ainsi que bon luy semblera, sans qu'aucun trouble ny empéchement quelconque luy puisse estre aporté, mesme par ceux qui pretendent avoir de Nous Privilege pour l'impression des Airs de Musique & Ballets, lesquels pour ce regard en tant que besoin est ou seroit, Nous avons revoqué & revoquons par cesdites presentes ; Faisant tres-expresses inhibitions & défenses à tous Libraires, Imprimeurs, Colporteurs, & autres personnes de quelque qualité qu'elles soient, d'imprimer, faire imprimer, vendre & distribuer lesdites Pieces de Musique, Vers, Paroles, Desseins, Sujets, & generalement tout ce qui a esté & sera composé par ledit Lully, sous quelque pretexte que ce soit, mesme d'impression étrangere & autrement, sans son consentement, ou de ses ayans cause, sur peine de confiscation des Exemplaires contrefaits, dix mil livres d'amende, tant contre ceux qui les auront imprimez & vendus, que contre ceux qui s'en trouveront saisis & de tous dépens, dommages & interests ; à la charge d'en mettre deux Exemplaires en nostre Biblioteque publique, un en nostre Cabinet des livres de nostre Château du Louvre, & un en celle de nostre tres cher & féal Chevalier, Garde des Sceaux de France, le S*r* d'Aligre, à peine de nullité des presentes. Du contenu desquelles, vous mandons & enjoignons faire joüir l'Exposant & ses ayans cause plainement & paisiblement, cessant & faisant cesser tous troubles & empeschemens au contraire ; Voulons qu'en mettant au commencement ou à la fin desdits Livres l'Extrait des Presentes, elles soient tenuës deuëment signifiées, & qu'aux copies collationnées par l'un de nos amez & feaux Conseillers & Secretaires, foy soit ajôutée comme à l'Original. Mandons au premier nostre Huissier ou Sergent, faire pour l'execution des presentes, toutes signifiations, défenses, saisies, & autres actes requis & necessaires, sans pour ce demander autre permission, nonobstant oppositions ou appellations quelconques, dont si aucunes interviennent, Nous nous en reservons & à notre Conseil la connoissance, & icelle interdisons & défendons à tous autres Juges : CAR tel est notre plaisir. DONNE' à Versailles le vingtiéme jour de Septembre, l'an de grace mil six cens soixante-douze, & de nostre Regne le trentiéme. Signé, LOUIS. Et plus bas : Par le Roy, COLBERT. Et scellé du grand Sceau de cire jaune.
 

@@ -1,7 +1,7 @@
 ---
 identifier: moliere_malade-imaginaire-1675  
 creator: Molière  
-date: 1675  
+date: 1673  
 title: Le Malade imaginaire  
 ---
 

@@ -227,7 +227,7 @@ Et le temps qui peut tout…
 Quoy que peut-estre icy je fusse peu suspect,
 La Reyne qui paroist m'oblige à ce respect⁎.
 
-**** *book_ *id_body-402 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-402 *act_ *date_1673 *creator_corneille 
 
 -*who_amalasonte
 Enfin Justinian n'a pû voir sans alarmes⁎
@@ -395,7 +395,7 @@ Et qu'il est dangereux, quand j'ay fait ce faux pas,
 D'embarrasser ma gloire⁎, & n'en profiter pas.
 Laissez-moy seule.
 
-**** *book_ *id_body-403 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-403 *act_ *date_1673 *creator_corneille 
 
 -*who_gepilde
       Enfin vous le voyez, Madame ;
@@ -1071,7 +1071,7 @@ Et je vous haïrois, si lors que j'en soûpire⁎
 Vous m'aviez sçeu contraindre à force de douleurs
 A démentir l'orgueil qui cause mes malheurs.
 
-**** *book_ *id_body-505 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-505 *act_ *date_1673 *creator_corneille 
 
 -*who_euthar
 Qu'oseray-je penser ? La Princesse vous quitte,
@@ -1690,7 +1690,7 @@ Et s'il luy falloit mesme un plus grand sacrifice,
 L'interest seul du Trône estant digne de moy,
 J'abandonnerois tout à ce que je lui doy.
 
-**** *book_ *id_body-702 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-702 *act_ *date_1673 *creator_corneille 
 
 -*who_amalasonte
 He bien, des Factieux a-t-on calmé l'audace ?
@@ -1786,7 +1786,7 @@ Preste à sentir le coup qui devoit t'accabler,
 C'estoit lors que l'honneur t'obligeoit à trembler.
 Mais de ton cœur séduit⁎ les mouvemens rebelles …
 
-**** *book_ *id_body-704 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-704 *act_ *date_1673 *creator_corneille 
 
 -*who_honoric
 Je viens vous apportez de fâcheuses nouvelles,
@@ -1848,7 +1848,7 @@ Fait ce qu'on auroit crû ne pouvoir sans miracles ;
 Du moins, forcés à voir mon Ennemy regner,
 Si j'obtiens quelque temps, je croiray tout gagner.
 
-**** *book_ *id_body-705 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-705 *act_ *date_1673 *creator_corneille 
 
 -*who_amalasonte
 Est-il une infortune à ma disgrace égale,
@@ -1975,7 +1975,7 @@ Montrez-luy les honneurs où vostre amour l'appelle,
 L'appas est sensible⁎, & qui sçait bien aimer,
 Avec un Sceptre en main, est en droit de charmer⁎.
 
-**** *book_ *id_body-708 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-708 *act_ *date_1673 *creator_corneille 
 
 -*who_theodat
 Donc à me rendre heureux lors que tout se dispose,
@@ -2164,7 +2164,7 @@ Soudain, quoy que Rival, il vole à son secours,
 L'arrache de ses mains, & prend soin de ses jours.
 Veux-tu que sans rien voir de tout…
 
-**** *book_ *id_body-802 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-802 *act_ *date_1673 *creator_corneille 
 
 -*who_amalasonte
       Enfin, Princesse,
@@ -2335,7 +2335,7 @@ Ce Theodat…Mais, Dieux, faut-il que je m'en croye ?
 -*who_amalasonte
 On m'a trompée ! Ah Ciel !
 
-**** *book_ *id_body-803 *act_ *date_1673 *creator_corneille
+**** *book_ *id_body-803 *act_ *date_1673 *creator_corneille 
 
 -*who_ildegonde
       Vous vivez ? quelle joie !

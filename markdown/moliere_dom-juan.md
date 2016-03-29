@@ -1,7 +1,7 @@
 ---
 identifier: moliere_dom-juan  
 creator: Molière  
-date: 1682  
+date: 1665  
 title: Don Juan, ou Le Festin de Pierre. Comédie  
 ---
 

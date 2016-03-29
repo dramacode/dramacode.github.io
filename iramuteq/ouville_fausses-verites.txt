@@ -47,7 +47,7 @@ Que vous estes la sœur de son Amy Leandre,
 Quand vous luy deffendrez je le tiens si discret,
 Qu'il ne voudra pour rien reveler ce secret.
 
--*who_florimonde
+-*who_florimonde 
 Tu ne sçais pas encor, & c'est ce qui m'afflige
 Jusqu'à quel point d'honneur l'amitié nous oblige.
 C'est un lien trop fort, je sçay que Lidamant
@@ -103,7 +103,7 @@ Que je viens de dehors.
       Quelqu'un vient pour le voir
 Il entre j'oy du bruit.
 
--*who_florimonde
+-*who_florimonde 
       Dieux j'estois attrapée,
 C'est Lidamant sans doute, ou je suis bien trompée.
 Cette porte respond dans son appartement
@@ -126,7 +126,7 @@ Voyant que mon esprit s'esgare à tout propos ,
 Mais vous libre d'humeur quel suject vous oblige,
 D'estre si matinal ?
 
--*who_lidamant
+-*who_lidamant 
       Un tourment qui m'afflige
 Une rare beauté me met en tel soucy
 Que je n'en puis dormir.
@@ -208,7 +208,7 @@ Et tenez pour certain quoy qu'elle dissimule,
 Puis que vous tesmoignez qu'elle a l'esprit jaloux,
 Qu'elle est sans doute en peine encore plus que vous.
 
--*who_leandre
+-*who_leandre 
 Je ne crois en cecy que ce que j'en doy faire,
 Parlez à vostre tour, contez moy vostre histoire.
 
@@ -234,7 +234,7 @@ Et vous doy taire aussy tout ce qu'elle me dit,
 Car un homme est trop vain, & merite du blame,
 De vanter les faveurs⁎ qu'il reçoit d'une Dame.
 
--*who_nerine
+-*who_nerine 
 Madame, c'est de nous qu'il parle asseurement.
 
 -*who_florimonde
@@ -262,7 +262,7 @@ A mon œil curieux c'est finement soustraitte.
 -*who_leandre
 Comment en cette rue.
 
--*who_lidamant
+-*who_lidamant 
       Ouy tout proche d'icy.
 
 -*who_leandre
@@ -287,7 +287,7 @@ Nous pourrons escouter le reste une autre fois,
 Vous me permetrez bien de parler avec elle,
 Sans doute elle m'apporte une heureuse nouvelle.
 
--*who_florimonde
+-*who_florimonde 
 Femme qui que tu sois, que tu viens à propos,
 Mais un Ange plustost venu pour mon repos.
 
@@ -378,7 +378,7 @@ Va, marche, je te suis.
       Il faut bien peu d'adresse,
 Pour tromper un amant espris d'une maistresse.
 
-**** *book_ *id_body-305 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-305 *act_ *date_1643 *creator_ouville 
 
 -*who_florimonde
 Dieux que j'apprehendois qu'en contant ses Amours
@@ -398,7 +398,7 @@ Mais il faut sans manquer que ce soit au jourd'huy.
 -*who_nerine
 Le moyen de le voir, & de parler à luy ?
 
--*who_florimonde
+-*who_florimonde 
 Amour m'en fournira je vay voir Orazie,
 Qui peut sur ce suject seconder mon envie,
 Je sçay bien qu'elle m'aime, il faut au pis aller
@@ -420,7 +420,7 @@ Ne peux tu sur mon cœur emporter la victoire
 Sans t'en vanter ingrat, & sans en faire gloire ?
 Ma Julie as tu veu cét infidelle Amant !
 
-**** *book_ *id_body-307 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-307 *act_ *date_1643 *creator_ouville 
 
 -*who_julie
 Ouy j'ay jouë mon rolle assez adroittement.
@@ -445,7 +445,7 @@ Et j'auray le plaisir du moins qu'il me la face.
 Pourveu que je le voye & soumis, & rendu,
 Je croiray tout gagner quoy que j'aie tout perdu.
 
--*who_julie
+-*who_julie 
 Elle est seulle au logis l'occasion est belle.
 
 -*who_leandre
@@ -619,7 +619,7 @@ Si jamais.
       Taisez vous, je sçay bien le contraire,
 On entre j'oy du bruit.
 
--*who_julie
+-*who_julie 
       He Dieux ! c'est vostre Pere.
 
 -*who_orasie
@@ -651,7 +651,7 @@ Vous direz que de vous j'use trop librement.
 Vous avez tout pouvoir, parlez moy franchement.
 Mais seyons nous devant⁎.
 
--*who_florimonde
+-*who_florimonde 
       Oyez doncques Madame,
 Je vous veux descouvrir tout ce que j'ay dans l'ame
 Vous estes genereuse, & je puis que je croy⁎
@@ -764,7 +764,7 @@ Sortant par cette porte, il ne le peut surprendre,
 Dieux ! j'ay bien plus de peur encore de Leandre,
 Elle ne sçait pas tout.
 
--*who_florimonde
+-*who_florimonde 
       Parlez moy franchement,
 
 -*who_orasie
@@ -793,7 +793,7 @@ Où vous estes Maistresse. Adieu ma Dame.
 -*who_florimonde
       Adieu.
 
-**** *book_ *id_body-403 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-403 *act_ *date_1643 *creator_ouville 
 
 -*who_nerine
 Voicy cette maison que vous brusliez d'envie
@@ -846,7 +846,7 @@ J'entreprinse jamais sur son affection,
 Vous pensez Lidamant que je sois sa Maistresse,
 Mais vous vous trompez fort.
 
--*who_lidamant
+-*who_lidamant 
       Mais donc par quelle adresse
 Avez vous peu sçavoir que je loge chez luy ?
 Mon nom, mes qualitez ? & tout ce qu'aujourd'huy
@@ -897,7 +897,7 @@ Que feray-je Madame ?
 -*who_florimonde
       Ah Lidamant Adieu.
 
--*who_julie
+-*who_julie 
 Entrez, & vous cachez promptement en ce lieu.
 
 -*who_lidamant
@@ -919,7 +919,7 @@ Eust on jamais pensé !
 -*who_orasie
       Je voudrois estre morte.
 
-**** *book_ *id_body-406 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-406 *act_ *date_1643 *creator_ouville 
 
 -*who_tomire
 Depuis quand Orasie ouvre t'on cette porte,
@@ -944,7 +944,7 @@ Quelle confusion.
 Vous m'obligez Monsieur plus que je ne merite.
 Adieu belle Orasie, il faut que je vous quitte.
 
--*who_orasie
+-*who_orasie 
 Quoy je patiray donc pour la faute d'autruy ?
 Laissant ce Cavalier, que ferai-je de luy ?
 
@@ -972,7 +972,7 @@ Faites moy cét honneur, ne me refusez point.
 Puis que vous desirez m'obliger à ce point,
 J'accepte cét honneur.
 
-**** *book_ *id_body-407 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-407 *act_ *date_1643 *creator_ouville 
 
 -*who_orasie
       Est-il vray que je veille !
@@ -993,7 +993,7 @@ Ouvre luy je m'en vay, Dieux de crainte je tremble.
 C'est Leandre, Madame, ah Dieux tout est perdu,
 Il entre.
 
-**** *book_ *id_body-408 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-408 *act_ *date_1643 *creator_ouville 
 
 -*who_leandre
       Ayant long temps en la ruë attendu,
@@ -1075,7 +1075,7 @@ Et je veux en effect m'esclarcir sur ce point.
 -*who_orasie
 N'entrez pas.
 
--*who_leandre
+-*who_leandre 
       Desloyalle est ce ainsi qu'on me traitte ?
 
 -*who_orasie
@@ -1105,7 +1105,7 @@ Au nom de nostre Amour.
       Bien bien puis qu'il vous plaist
 Je dissimuleray cette offence cogneue.
 
-**** *book_ *id_body-409 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-409 *act_ *date_1643 *creator_ouville 
 
 -*who_tomire
 Quoy ! Leandre ?
@@ -1130,7 +1130,7 @@ Je m'en vay la trouver.
       Ma fille allons là-haut.
 Je veux parler à vous.
 
--*who_orasie
+-*who_orasie 
       Ah Dieux le cœur me faut.
 Mais que veut-il de moy ? Que ce discours m'estonne
 Endurons constamment puis que le Ciel l'ordonne.
@@ -1153,7 +1153,7 @@ Escartons nous, il faut aujourd'huy que je voye,
 S'il est vray que le sort qu'on fait capricieux
 Se plaist de seconder les cœurs audacieux.
 
-**** *book_ *id_body-411 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-411 *act_ *date_1643 *creator_ouville 
 
 -*who_julie
 Puis qu'ilz sont tous sortis, je puis en asseurance
@@ -1181,7 +1181,7 @@ Sortons d'icy.
 -*who_lidamant
       Je vous en conjure.
 
--*who_julie
+-*who_julie 
 Qu'il sorte seulement, quand il sera dehors
 Qu'il arrive en la rue apres dix mille morts.
 
@@ -1233,7 +1233,7 @@ Me faire cette injure ?
       Mesme à mes yeux !
 Quoy ne m'estonner pas de vous voir si coupable ?
 
--*who_orasie
+-*who_orasie 
 Que dois-je devenir.
 
 -*who_leandre
@@ -1265,7 +1265,7 @@ Lasche & meschant esprit, que voulez vous de moy ?
 -*who_orasie
 Je veux que vous n'ayez nul doute de ma foy.
 
--*who_leandre
+-*who_leandre 
 Non vous ne m'avez fait jamais aucune injure.
 J'ay veu chez vous un homme ? oh l'estrange imposture,
 J'ay grand tort d'accuser vostre fidelité,
@@ -1292,7 +1292,7 @@ Ouy j'atteste les Dieux,
 -*who_orasie
 Si je ments que les Dieux punissent mon blaspheme.
 
--*who_leandre
+-*who_leandre 
 Infidelle avez vous encor assez de front
 De vous justifier apres un tel affront.
 Quoy tout ce que j'ay veu n'est-il pas infaillible,
@@ -1346,7 +1346,7 @@ Vous ne me causerez jamais aucun soucy.
 -*who_orasie
 Non, non, je ne veux pas que vous partiez ainsi.
 
--*who_leandre
+-*who_leandre 
 J'atteste tous les Dieux à qui je rends hommage
 Que si vous me pressez encore davantage,
 Je vous perdray Madame, & que j'obligeray
@@ -1475,7 +1475,7 @@ Femme qui que tu sois avec ton artifice,
 Et tes precautions que le Ciel te benisse.
 Va je te dis adieu, je vay t'abandonner.
 
--*who_fabrice
+-*who_fabrice 
 Vostre habit est tout prest, on me le va donner,
 J'ay dit que nous montons à cheval dans une heure.
 
@@ -1525,7 +1525,7 @@ Et l'empescher aussi de m'arracher la vie,
 Et d'emporter un cœur que l'ingrat m'a volé.
 Atten moy.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-503 *act_ *date_1643 *creator_ouville 
 
 -*who_lidamant
       Va sçavoir où Leandre est allé,
@@ -1604,7 +1604,7 @@ Vous vous desesperez & je ne sçay pourquoy.
 Leandre est mon Amy, vous estes avec moy
 De quoy vous fachez vous.
 
--*who_florimonde
+-*who_florimonde 
       Que je suis miserable,
 Mais puis que le malheur de tous costez m'accable,
 Et qu'il faut succomber à la fin au tourment,
@@ -1628,7 +1628,7 @@ Je n'en sçaurois douter.
 -*who_lidamant
 Leandre, qu'avez vous ?
 
--*who_leandre
+-*who_leandre 
       Un excez de tourment,
 Une gesne, une rage, un despit si sensible
 Que de vous l'exprimer il ne m'est pas possible,
@@ -1657,7 +1657,7 @@ Cher amy, qu'aussy tost qu'une ame en est saisie
 C'est le plus grand malheur qu'on puisse recevoir,
 Qu'il vaut mieux la donner cent fois que de l'avoir.
 
--*who_lidamant
+-*who_lidamant 
 Mais en si peu de temps, comment vous a peu naistre
 Ce soubçon si facheux que vous faites paroistre ?
 Sans doute il l'a suivie, & ce soubçon je croy,
@@ -1683,7 +1683,7 @@ J'ay veu l'ombre d'un homme,
       Ah grands Dieux je proteste
 Que voila de tout point, ce qui m'est survenu.
 
--*who_leandre
+-*who_leandre 
 Ah cher Amy, pourquoy me suis-je retenu ?
 Et pourquoy le respect, & d'elle & de son pere
 Ont ils en ce besoin fait calmer ma colere ?
@@ -1731,7 +1731,7 @@ Que me conseillez vous ?
 -*who_leandre
       Je ne puis.
 
-**** *book_ *id_body-505 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-505 *act_ *date_1643 *creator_ouville 
 
 -*who_fabrice
 Une Dame est là-bas qui demande Leandre.
@@ -1780,7 +1780,7 @@ Et je n'ay plus icy desormais rien à craindre.
 Sa maistresse est icy, l'autre donc ne l'est pas.
 Laissons les, descendons & j'attendray là-bas.
 
-**** *book_ *id_body-506 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-506 *act_ *date_1643 *creator_ouville 
 
 -*who_orasie
 Puis que nous sommes seuls escoutez moy Leandre.
@@ -1870,7 +1870,7 @@ Me voila bien sçavant, je suis fort satisfait.
 La satisfaction la plus grande en effect
 Est de n'en rien sçavoir.
 
--*who_leandre
+-*who_leandre 
       Je rougis de sa honte.
 Le beau resonnement, l'excuse à vostre conte
 Est en ce que j'ignore, où je ne comprens rien,
@@ -1927,7 +1927,7 @@ Dont les attraits⁎ communs me causent peu de peine.
 Tenez pour verité, mais verité certaine,
 Que je ne sçai qui c'est j'en atteste les Dieux.
 
--*who_orasie
+-*who_orasie 
 Ne jurez point Leandre, & desmentez mes yeux.
 Vous le sçavez tres bien, C'est Iris je l'ay veuë,
 Et croyez qu'en passant je l'ay bien recognue.
@@ -1953,7 +1953,7 @@ Que mon bien soit douteux, & mon mal asseuré ?
 Je ne sçay ce que c'est, je vous en ay juré
 Par là vous vous sauvez de vostre perfidie ?
 
--*who_orasie
+-*who_orasie 
 Ce que je dis est vray, suffit que je le die,
 Je suis plus veritable en ce point là que vous.
 
@@ -1981,7 +1981,7 @@ Vous le sçavez tres bien, car vous l'alliez nommer.
 Adieu, perfide, adieu, n'osez pas presumer
 Que jamais je vous parle, ou que je vous regarde.
 
--*who_leandre
+-*who_leandre 
 Prenez garde Orasie.
 
 -*who_orasie
@@ -2011,7 +2011,7 @@ Ne viens-je pas de voir une femme en ce lieu ?
 Je vais à la Campagne, Adieu perfide, Adieu,
 Ne vous attendez pas de me voir de ma vie.
 
--*who_leandre
+-*who_leandre 
 Apres ce que j'ay veu j'en ay fort peu d'envie.
 Allés vous promener aveque ce rival,
 A qui ce fer icy bien tost sera fatal,
@@ -2072,7 +2072,7 @@ Quelqu'un entre,
 -*who_nerine
       C'est Monsieur vostre frere,
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-602 *act_ *date_1643 *creator_ouville 
 
 -*who_florimonde
 Je voy bien qu'il n'a pas la fortune⁎ prospere,
@@ -2097,7 +2097,7 @@ Un homme qu'elle avoit dans sa chambre enfermé.
 -*who_florimonde
 Est-il possible ô Dieux.
 
--*who_leandre
+-*who_leandre 
       Lors de rage enflamé
 Je sors hors de sa Chambre & l'attends à la ruë,
 Mais il ne paroist point, Orasie est venue,
@@ -2317,7 +2317,7 @@ Faites de mesme icy.
       Toy pren garde Julie
 De luy bien obeyr.
 
--*who_julie
+-*who_julie 
       Je n'y manqueray pas.
 
 -*who_florimonde
@@ -2344,7 +2344,7 @@ A sept livres huit sols, en memoire du temps
 Que je vous ay servy, qui sont pres de cinq ans
 Moins quatre mois, six jours.
 
--*who_lidamant
+-*who_lidamant 
       Qui t'oblige à ce faire ?
 
 -*who_fabrice
@@ -2403,7 +2403,7 @@ Qui c'est ? je le sçay bien moy,
 -*who_lidamant
 Que ne le dis tu donc ?
 
--*who_fabrice
+-*who_fabrice 
       C'est quelque Creature
 Qui par inventions cherche de vous tromper,
 Croyez que les plus fins s'y laissent attraper.
@@ -2459,7 +2459,7 @@ Vous n'irez point tout seul si vous me voulez croire.
 Sçaurois-je estre en peril lors que je suis en gloire ?
 Je ne puis là-dedans, estre qu'asseurement.
 
-**** *book_ *id_body-606 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-606 *act_ *date_1643 *creator_ouville 
 
 -*who_leandre
 Où s'adressent vos pas ? vous sortez Lidamant !
@@ -2516,7 +2516,7 @@ Je les suivray tous deux leur deusse-je desplaire;
 Mais de peur d'estre veu, je les suivray de loing,
 Je ne desire pas leur manquer au besoing.
 
-**** *book_ *id_body-607 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-607 *act_ *date_1643 *creator_ouville 
 
 -*who_lisis
 Reposez-vous sur moy Monsieur, à l'heure mesme
@@ -2542,7 +2542,7 @@ Je vay voir si je puis en rencontrer quelqu'une.
 Je plains ma fille helas sçachant mon infortune
 J'ay peur que le regret ne la face mourir.
 
--*who_lisis
+-*who_lisis 
 Ayez soin seulement de bien tost vous guerir
 Vous serez mieux pensé chez vous qu'à la Campagne.
 
@@ -2594,7 +2594,7 @@ De sçavoir vos secrets, ny troubler vostre Amour,
 J'attendray dans la ruë & jusqu'au poinct du jour.
 Ouy, je veux s'il le faut toute la nuit attendre.
 
--*who_lidamant
+-*who_lidamant 
 Ce seroit abuser de vous, mon cher Leandre,
 
 -*who_leandre
@@ -2622,7 +2622,7 @@ Approchons de plus pres, & marchons sur leurs pas.
 -*who_lidamant
 J'oy du bruit.
 
--*who_leandre
+-*who_leandre 
       Qui va là ?
 
 -*who_fabrice
@@ -2659,7 +2659,7 @@ Que fais tu là ?
 -*who_fabrice
       Je viens.
 
--*who_leandre
+-*who_leandre 
       Retourne t'en maraut
 Ou je te,
 
@@ -2692,7 +2692,7 @@ A t'elle un pere ?
       Quoy ! c'est cette maison,
 Où l'on vous a tenu pres d'une heure en prison ?
 
--*who_lidamant
+-*who_lidamant 
 C'est la mesme maison & la mesme personne.
 
 -*who_leandre
@@ -2722,7 +2722,7 @@ Asseurement c'est là.
 -*who_leandre
       Cela ne peut pas estre.
 
--*who_lidamant
+-*who_lidamant 
 Voila, je le sçay bien, sa porte & sa fenestre,
 Ne passez pas plus outre, Amy demeurez-là,
 Je m'en vais apeler.
@@ -2752,7 +2752,7 @@ Ouy c'est la mesme.
 Car nous estions ensemble, il n'en faut point douter,
 Et que l'autre qui vint
 
--*who_lidamant
+-*who_lidamant 
       Je ne puis escouter.
 
 -*who_leandre
@@ -2791,7 +2791,7 @@ Devant⁎.
 -*who_lidamant
       Je ne le puis.
 
--*who_leandre
+-*who_leandre 
       Ah perfide Julie,
 Si c'est.
 
@@ -2816,7 +2816,7 @@ Me voila.
 -*who_lidamant
 Nous nous verrons apres.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-702 *act_ *date_1643 *creator_ouville 
 
 -*who_leandre
       Me traitter de la sorte ?
@@ -2862,7 +2862,7 @@ Qui frappe à quelque porte, aussy bien comme vous.
 -*who_tomire
 Ouvrez Julie, ouvrez.
 
--*who_julie
+-*who_julie 
       Grands Dieux je desespere,
 C'est Monsieur.
 
@@ -2888,7 +2888,7 @@ Puis que je suis dehors, je vous deffendray bien.
 -*who_florimonde
 Menez moy droit chez vous, & je ne crains plus rien.
 
--*who_lidamant
+-*who_lidamant 
 Cherchons un mien amy qui m'attend à la rue.
 
 -*who_florimonde
@@ -2919,7 +2919,7 @@ Je suis morte autant vaut.
 -*who_lidamant
       Leandre.
 
--*who_leandre
+-*who_leandre 
       Me voicy,
 
 -*who_lidamant
@@ -2951,7 +2951,7 @@ Seulle avec un valet & dans ce lieu suspect !
 Non ce seroit par trop luy manquer de respect.
 Moy de peur d'accident⁎ je garderay la ruë,
 
-**** *book_ *id_body-704 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-704 *act_ *date_1643 *creator_ouville 
 
 -*who_leandre
 A la fin Orasie.
@@ -2979,7 +2979,7 @@ Que sera-ce de moy ?
       Grands Dieux est-il possible,
 Que vous me reservez un tourment si sensible ?
 
-**** *book_ *id_body-705 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-705 *act_ *date_1643 *creator_ouville 
 
 -*who_tomire
 Si les forces du corps, me manquent, j'ay du cœur⁎,
@@ -3002,7 +3002,7 @@ Rejoignons nostre amy qui doit estre en lieu seur.
 -*who_fabrice
 Où diable suis-je allé ? j'estois bien las de vivre ?
 
--*who_tomire
+-*who_tomire 
 Où vas-tu traistre ? Ah Dieux, je ne le sçaurois suivre,
 Lisis mon mal me presse & ne puis advancer.
 
@@ -3030,7 +3030,7 @@ Si la peur ne me trompe.
 -*who_tomire
       Infame rend l'espée.
 
--*who_fabrice
+-*who_fabrice 
 Elle ne fut jamais aux combats occupée,
 C'est trop peu de l'espée. Ah prenez mon chapeau,
 Mon poignard, mon pourpoint, mes chausses, mon manteau,
@@ -3060,7 +3060,7 @@ Je ne te turay pas, mais je te feray pendre,
 -*who_fabrice
 Il faut en quelque lieu qu'il soit l'aller chercher.
 
--*who_tomire
+-*who_tomire 
 Mais Lisis soustiens moy, je ne sçaurois marcher
 Je periray plustost que l'affront m'en demeure.
 
@@ -3079,7 +3079,7 @@ Escoutons ce que c'est, j'entends du bruit icy.
 Me voila belle ingratte à la fin esclaircy ?
 Pourriez vous soustenir.
 
--*who_orasie
+-*who_orasie 
       C'est avec une femme
 Qu'il parle, escoutons le ?
 
@@ -3133,7 +3133,7 @@ Je la cherche Monsieur, je m'en vay de ce pas.
 S'il l'apporte grands Dieux, que ne dira t'il pas ?
 Voyons si je pourrois de ses mains me deffaire.
 
--*who_leandre
+-*who_leandre 
 Respondez, n'ayant rien à dire, il se faut taire.
 
 -*who_florimonde
@@ -3292,7 +3292,7 @@ Mais je la cognoist bien je sçay bien quelle elle est.
 Pardonnez chere Amy, icy mon interest,
 Doit marcher le premier.
 
--*who_orasie
+-*who_orasie 
       Je commence à comprendre
 L'affaire comme elle est. Escoutez moy Leandre.
 Madame asseurez vous, que je n'oubliray rien,
@@ -3316,7 +3316,7 @@ Tout est perdu l'on va descouvrir le mistere,
 Qui pourroit l'advertir du danger où je suis.
 Rentrons, Dieux je retombe en un gouffre d'ennuis⁎.
 
-**** *book_ *id_body-707 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-707 *act_ *date_1643 *creator_ouville 
 
 -*who_lidamant
 De crainte que quelqu'un vous suivist dans la ruë,
@@ -3340,7 +3340,7 @@ Nous romprons je vous jure, & nous aurons querelle.
 -*who_leandre
 Est-ce cette beauté.
 
--*who_lidamant
+-*who_lidamant 
       Non non, ce n'est point elle,
 Gardez bien celle-là, je ne la cognoy point.
 
@@ -3393,7 +3393,7 @@ Ouy qui me doit payer un si sanglant affront,
 Moderez vous un peu ne soyez pas si pront
 Je la sers, & je doy m'armer pour sa deffense.
 
--*who_leandre
+-*who_leandre 
 Son sang, ou je mouray, lavera cette offence
 Sçachant bien qui je suis, vous imaginez vous,
 Qu'aucun la serve à moins que d'estre son espoux ?
@@ -3413,7 +3413,7 @@ Donnez moy vostre main puis qu'il plaist à Leandre.
 -*who_florimonde
 Mon frere y consentant je ne m'en puis deffendre.
 
-**** *book_ *id_body-708 *act_ *date_1643 *creator_ouville
+**** *book_ *id_body-708 *act_ *date_1643 *creator_ouville 
 
 -*who_tomire
 Pardonnez si de nuit j'entre ainsi librement,
@@ -3438,7 +3438,7 @@ On m'a ravy l'honneur, & je me pourray taire ?
 Si c'est pour vostre fille, il vous faut satisfaire.
 Ce n'est point Lidamant, il espouse ma sœur.
 
--*who_tomire
+-*who_tomire 
 Qui de ma fille est donc l'infame ravisseur ?
 
 -*who_leandre

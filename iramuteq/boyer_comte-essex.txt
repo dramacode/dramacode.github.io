@@ -173,7 +173,7 @@ Vous avez plus d'adresse et plus d'experience.
 Mais sans m'embarrasser de vos ruses de Cour
 Elisabeth m'écoute et je sçay vostre amour.
 
--*who_coban
+-*who_coban 
 Quel amour ?
 
 -*who_clarence
@@ -245,7 +245,7 @@ Mais le Comte appuyé du peuple qui le garde....
 -*who_elizabet
 Je veux sans plus tarder.... Hé quoy, vous vous troublez.
 
--*who_coban
+-*who_coban 
 Le Comte ayant chez luy ses amis assemblez,
 Madame, permettez s'il se met en deffence
 Que j'aille avec les miens forcer sa resistance.
@@ -264,7 +264,7 @@ Forcer les miens, braver mon ordre souverain,
 Venir jusqu'en ces lieux m'arracher la Couronne,
 Et porter l'attentat jusques sur ma personne.
 
-**** *book_ *id_body-305 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-305 *act_ *date_1678 *creator_boyer 
 
 -*who_alix
 Le Comte est là.
@@ -288,7 +288,7 @@ Madame, et que Coban craignoit ma resistance :
 Qu'il ne craigne plus rien, me voicy sans deffence,
 J'ay prevenu⁎ vostre ordre.
 
--*who_elizabet
+-*who_elizabet 
       Osez-vous en ces lieux
 Avec cette fierté vous offrir à mes yeux ?
 
@@ -486,7 +486,7 @@ N'ose lancer la foudre et ménage ses jours.
 -*who_elizabet
 Osteray-je à l'Etat ce glorieux secours ?
 
--*who_coban
+-*who_coban 
 Mille autres dans l'Etat peuvent remplir sa place.
 
 -*who_elizabet
@@ -516,7 +516,7 @@ Tu me flattois fortune et voila tes faveurs.
 Tu ne m'as point trompé, je connois ton caprice ;
 Mais c'est un peu trop loin pousser ton injustice.
 
--*who_salisbery
+-*who_salisbery 
 Si vous avez conceu quelque injuste dessein
 Confessez tout, Seigneur, le pardon est certain.
 A cét aveu la Reine encore vous convie.
@@ -661,7 +661,7 @@ Le Ciel éclaircira vos injustes soubçons.
 -*who_comte_essex
 Le Ciel éclaircira vos noires trahisons.
 
--*who_coban
+-*who_coban 
 De quoy m'accusez-vous ?
 
 -*who_comte_essex
@@ -730,7 +730,7 @@ Et d'un crime noûveau nous sçavons le mistere,
 Dont le remords déja se peut faire sentir    
 Et qu'au moins vostre cœur ne sçauroit démentir.
 
-**** *book_ *id_body-403 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-403 *act_ *date_1678 *creator_boyer 
 
 -*who_comte_essex
 Venez, venez, Duchesse, et par vostre presence
@@ -794,7 +794,7 @@ Loin de me faire part de la grandeur suprême,
 D'un infame destin menace ces beaux jours
 Que j'avois destinez à nos tendres amours.
 
--*who_clarence
+-*who_clarence 
 Pour détourner un coup dont la crainte m'accable,
 Aimez la Reine enfin d'un amour veritable.
 Le perfide Coban a connu nôtre amour.
@@ -832,7 +832,7 @@ Laissez-moy vous tirer d'un état si funeste.
 -*who_comte_essex
 Sauvez, sauvez ma gloire et disposez du reste.
 
-**** *book_ *id_body-404 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-404 *act_ *date_1678 *creator_boyer 
 
 -*who_elizabet
 Quoy ce fier criminel ne veut pas obeir ?
@@ -865,7 +865,7 @@ Mais qu'il paroisse au moins innocent à vos yeux.
 Vous pouvez me tout dire, en faveur de sa gloire
 Je veux tout oublier et je ne veux rien croire.
 
--*who_clarence
+-*who_clarence 
 Je vois qu'il a pour vous un si profond respect,
 Qu'il aime mieux mourir que vous estre suspect.
 Si dans l'emportement d'une rage insensée,
@@ -948,7 +948,7 @@ La Reine cependant vous invite à répondre,
 Vous pouvez vous deffendre et ne rien oublier
 De ce qui peut servir à vous justifier.
 
--*who_comte_essex
+-*who_comte_essex 
 Où me voy-je reduit ! Il est donc veritable
 Que la Reine et l'Etat me traitent de coupable.
 Dequoy m'accuse-t'on ? à peine ma memoire
@@ -1020,7 +1020,7 @@ Mais enfin je suis Juge et veux tout oublier.
 Luy qui s'aime luy seul, qui seul se considere,
 Coban tranche⁎ du Juge équitable et sincere.
 
--*who_raleg
+-*who_raleg 
 Le Comte en offensant ses Juges souverains
 Rend icy ses forfaits plus grands et plus certains.
 
@@ -1056,7 +1056,7 @@ De mesler lâchement ma voix avec la leur.
 Cher Comte je vous plains et vay dire à la Reine
 Ce que font contre vous l'injustice et la haine.
 
-**** *book_ *id_body-502 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-502 *act_ *date_1678 *creator_boyer 
 
 -*who_popham
 Je n'abuseray point, Comte, de mon pouvoir ;
@@ -1077,7 +1077,7 @@ Je n'ay rien à repondre à qui me connoist bien.
 Comte d'Essex, en vain vous bravez la justice ;
 Au devoir de mon rang il faut que j'obeisse.
 
-**** *book_ *id_body-503 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-503 *act_ *date_1678 *creator_boyer 
 
 -*who_salisbery
 Ne precipitez rien,
@@ -1094,7 +1094,7 @@ C'est son ordre, elle vient.
 -*who_elizabet
       Allez, qu'on se separe.
 
-**** *book_ *id_body-505 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-505 *act_ *date_1678 *creator_boyer 
 
 -*who_elizabet
 Ingrat pour vous encor, ma bonté se declare.
@@ -1207,7 +1207,7 @@ Quel eût esté sans vous son secours, son refuge ?
 Raleg l'alloit juger, Coban estoit son Juge ;
 Sa haine triomphoit, et ce traitre aujourd'huy....
 
--*who_elizabet
+-*who_elizabet 
 Ah Clarence ! le Comte est plus traitre que luy.
 
 -*who_clarence
@@ -1243,7 +1243,7 @@ J'ay remarqué souvent quelque éclat de sa flame.
 Mais ou j'ay negligé ses feux audacieux,
 Ou j'ay toûjours douté de la foy de mes yeux.
 
--*who_clarence
+-*who_clarence 
 Cependant conservant toûjours la mesme audace,
 Il veut perdre le Comte et puis prendre sa place.
 
@@ -1275,7 +1275,7 @@ Allons sans plus tarder éclaircir l'imposture.
 Que l'on cherche Coban. S'il veut dissimuler,
 Il aime, c'est assez nous le ferons parler.
 
--*who_clarence
+-*who_clarence 
 Cependant par vostre ordre on va juger le Comte.
 Pour le faire perir l'envie ardente et promte.....
 
@@ -1339,7 +1339,7 @@ Nous vange heureusement de sa temerité.
 Je me devois enfin un si grand sacrifice,
 Et je dois à vos soins cét important service.
 
--*who_coban
+-*who_coban 
 Madame, quand on sert et sa Reine et l'Etat....
 
 -*who_elizabet
@@ -1458,7 +1458,7 @@ Ecoutez et voyez jusqu'où va son audace.
 Clarence aime le Comte, et le Comte charmé
 Aime cette perfide autant qu'il est aimé.
 
--*who_elizabet
+-*who_elizabet 
 Ciel ! mais quel interest.....
 
 -*who_coban
@@ -1637,7 +1637,7 @@ Plus vous montrez pour luy de troubles et d'alarmes,
 Plus vous montrez d'ardeur, plus je sens que je doy
 Faire perir ce traistre et pour vous et pour moy.
 
--*who_clarence
+-*who_clarence 
 S'il vivoit pour vous seule en vous devant la vie,
 Pourriez-vous conserver cette cruelle envie ?
 Si je le ramenois soûmis à vos genoux,
@@ -1814,7 +1814,7 @@ Mais la Reine paroist, et ses yeux pleins de rage
 Font briller les éclairs qui precedent l'orage.
 Il faut prendre son temps. L'état où je la voy....
 
-**** *book_ *id_body-702 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-702 *act_ *date_1678 *creator_boyer 
 
 -*who_elizabet
 Quoy ! pour sauver le Comte on s'arme contre moy ?
@@ -1842,7 +1842,7 @@ Et je n'écoute plus ce soubçon trop cruel,
 Qui m'a fait sans raison condamner vostre zele :
 Le Comte est un perfide et vous este fidelle.
 
--*who_coban
+-*who_coban 
 Madame, vous voyez mon trouble et ma douleur.
 Voyant avec quels traits, avec quelle fureur
 Les partisans du Comte attaquent vostre gloire....
@@ -1883,7 +1883,7 @@ Et que ne pouvant pas obtenir ce qu'il aime,
 Il aime mieux descendre, obeir comme nous,
 Il aime mieux perir que régner avec vous.
 
--*who_elizabet
+-*who_elizabet 
 Ah Coban ! c'en est trop, un si cruel outrage,
 Ce dernier déplaisir accable mon courage⁎.
 Oüy, le traistre, à Clarence ayant donné sa foy,
@@ -1951,7 +1951,7 @@ Souffrez que je me jette encore à vos genoux.
 -*who_elizabet
 Helas ! si vous sçaviez.... Le voicy, laissez-nous.
 
-**** *book_ *id_body-704 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-704 *act_ *date_1678 *creator_boyer 
 
 -*who_elizabet
 Approche, et ne crains pas que je t'offre ma grace :
@@ -1979,7 +1979,7 @@ Ce reproche sanglant, cruel, peus-tu l'entendre ?
 Et puis-je t'expliquer ton crime et mon malheur,
 Sans expirer tous deux de honte et de douleur ?
 
--*who_comte_essex
+-*who_comte_essex 
 Ce reproche sanglant et qui semble plausible,
 S'il estoit bien fondé me seroit trop sensible.
 Mais pourquoy vous oster si proche du trépas
@@ -2131,7 +2131,7 @@ Et cependant la mort luy semble un sort bien doux,
 Lors qu'il n'espere plus pouvoir vivre pour vous.
 Mais n'importe, il vivra je ne puis m'en dedire.
 
-**** *book_ *id_body-707 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-707 *act_ *date_1678 *creator_boyer 
 
 -*who_coban
 Je viens vous rendre grace au nom de tout l'Empire.
@@ -2152,7 +2152,7 @@ Vous, portez luy sa grace, et sans perdre un moment.
 -*who_coban
 O Ciel !
 
-**** *book_ *id_body-708 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-708 *act_ *date_1678 *creator_boyer 
 
 -*who_elizabet
       Que vostre amour me rend un bon office !
@@ -2178,7 +2178,7 @@ Que j'aille...
 Et montré tant d'ardeur en courant au trépas,
 Qu'un seul moment perdu peut trahir nostre envie.
 
-**** *book_ *id_body-709 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-709 *act_ *date_1678 *creator_boyer 
 
 -*who_valden
 Le Comte est mort.
@@ -2211,7 +2211,7 @@ L'immole à ma justice, à ma flame, à ma haine.
 On va vous l'emmener, sa fuite seroit vaine.
 On le poursuit, bien-tost sa mort ou sa prison...
 
--*who_clarence
+-*who_clarence 
 Son sang ne sçauroit seul laver sa trahison.
 Prenez le mien, ma flame injuste et temeraire,
 A contre un malheureux armé vostre colere.
@@ -2230,7 +2230,7 @@ Ah Coban, dont le crime est horrible, execrable !
 Ah trop juste vangeance ! ah trop juste douleur !
 A qui de vous faut il abandonner mon cœur ?
 
-**** *book_ *id_body-711 *act_ *date_1678 *creator_boyer
+**** *book_ *id_body-711 *act_ *date_1678 *creator_boyer 
 
 -*who_elizabet
 Venez, Comte, venez.

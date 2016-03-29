@@ -506,7 +506,7 @@ Nous avons conservé la graphie et la ponctuation de l'édition originale. Nous 
  * – suppression de la ligature &.
 
 
-# ARMETZAR, ou LES AMIS ENNEMIS. TRAGI-COMÉDIE
+# ARMETZAR, ou LES AMIS ENNEMIS. TRAGI-COMÉDIE 
 
 
 ## A MONSIEUR SNOECKAERT de SCHAUNBURGH [61], etc.
@@ -519,14 +519,14 @@ MONSIEUR,
 
 Votre tres-humble et tres-obeïssant serviteur
 
-CHAPPUZEAU.
+CHAPPUZEAU. 
 
 
 ## ARGUMENT
 
 *Armetzar* Prince des Tartares, et *Vanlie* Prince des Chinois, épris d'amour pour la sœur l'un de l'autre, les armées de *Tamerlan* et de *Zinton* prêtes à combattre, plûtost que de s'armer contre leurs maîtresses, aiment mieux se tourner contre leurs peres et contre eux mémes, et passent en effet, *Armetzar* dans le camp Chinoy, et *Vanlie* dans le camp Tartare, chacun soûs un faux nom et une qualité empruntée. Cependant *Armetzar* rend des services⁎ tres signalez à *Zinton, Tamerlan* reçoit de méme des assistances tres considerables de *Vanlie*, sans que leurs Illustres actions puissent toucher leurs Maîtresses, dont la noble ambition méprise quiconque n'a pas le titre de Roy. *Ladice* portée par *Zinton* son pere, à recevoir *Phocate* pour époux (c'est le nom que prend *Armetzar* chez les Chinois, de méme que *Vanlie* chez les Tartares) et croyant que ce soit à sa sollicitation, l'aborde en colere, et luy defend pour jamais sa vûe. *Armetzar* obeït, et conçoit dans son desespoir une haute entreprise qui lui réüssit, et qui engage encore plus puissamment *Zinton* à l'aimer. *Artaban* poussé par *Zarimene* sa mere, seconde femme de *Zinton*, qui tâche de faire entrer son fils dans la famille Royale, devient rival d'*Armetzar* : mais *Ladice* ayant découvert la naissance de celuy-cy, bien loin d'en tirer de nouveaux motifs de haine pour le fils de l'ennemy des Chinois, elle en conçoit une plus haute estime et beaucoup d'amour, que malgré la defense tacite de son pere elle se sent obligé de luy témoigner, après le severe commandement qu'elle luy avoit fait de se bannir de sa vue. Mais s'il la recouvre, il n'en jouït pas long-temps, et les armées étant sur le point de s'approcher, il la quitte pour aller joindre *Zinton*, qui apres un combat opiniâtre se treuve enveloppé d'un gros⁎ de Tartares, et emmené prisonnier. *Armetzar* voyant tout desesperé quitte le desordre pour venir au secours de *Ladice*, et tacher de se sauver avec elle : mais il s'en treuve tres mal receu sur un faux rapport qu'on luy a fait (et avec beaucoup d'apparence) qu'*Armetzar* avoit repris le party de *Tamerlan*. Tandis qu'il fait ses efforts pour la tirer d'erreur, et qu'il en essuye quelques reproches, le *Grand* *Cham⁎* arrive, accompagné de *Vanlie* et de tous ses Généraux ; ce qui les oblige tous deux à prendre la fuite. Mais ayant été bien-tost saisis par quelques soldats, *Armetzar* est enfin mené captif avec *Zinton* devant *Tamerlan*. L'etonnement⁎ des deux peres fut étrange⁎ ; de *Tamerlan* voyant son fils parmy les Chinois, et de *Zinton* voyant le sien parmy les Tartares, lequel avoit usé de tous artifices envers le Vainqueur pour eviter cet abord, et cet evenement engendre des transports merveilleux de part et d'autre. Mais enfin la surprise et la colere cedant à l'amour et à la raison, *Artaban* tué au combat, et *Zarimene* morte en suitte de douleur, *Armetzar* et Vanlie obtiennent de leurs peres ce qu'ils souhaitent, et *Tamerlan* remet le Roy de la Chine dans ses Etats.
 
-Si j'ay tiré le sujet de cette piece, d'un Roman qui court depuis quelques années soûs le nom de *Ladice*, ou des *Victoires du Grand Tamerlan* ; soit qu'il t'ayt plû, ou qu'il t'ayt mal diverti, Je veux bien que tu sçaches que je ne puis apprehender de poursuitte pour ce larcin, si je ne me rens partie contre moy méme.
+Si j'ay tiré le sujet de cette piece, d'un Roman qui court depuis quelques années soûs le nom de *Ladice*, ou des *Victoires du Grand Tamerlan* ; soit qu'il t'ayt plû, ou qu'il t'ayt mal diverti, Je veux bien que tu sçaches que je ne puis apprehender de poursuitte pour ce larcin, si je ne me rens partie contre moy méme. 
 
 
 ## PERSONNAGES
@@ -545,7 +545,7 @@ Si j'ay tiré le sujet de cette piece, d'un Roman qui court depuis quelques ann�
  – ULANIE,Suivante de Zarimene.
  – GARDES de Tamerlan et de Zinton.
 La Scene est au camp de Zinton, devant la Ville de Quinsay [64], Ville maritime de la Chine.
-
+ 
 
 
 ## ACTE PREMIER.
@@ -787,7 +787,7 @@ Et la peur fait souvent tout voir, et tout entendre.
 Quoy qu'il en soit, Organte, espere en mon destin.  
 
     ORGANTE.
-Seigneur, le Roy qui vient vous en rendra certain.  
+Seigneur, le Roy qui vient vous en rendra certain.   
 
 
 ### SCENE II.
@@ -922,8 +922,8 @@ Il s'est jetté pour moy dans des perils extremes ;
 Enfin, tu dois, mon fils, le cherir si tu m'aimes.  
 
     VANLIE. *Vanlie entend cecy des complices de   
-Sanga, et Armetzar le prenant pour soy, entre dans un grand trouble.* 
-            
+Sanga, et Armetzar le prenant pour soy, entre dans un grand trouble.*
+             
 Estant aimé de vous, Sire, je l'aime aussi :  
 Mais j'entre en méme temps dans un juste soucy⁎.  
 Sanga par tous moyens tasche de vous détruire,  
@@ -981,7 +981,7 @@ Vous, Prince, suivez moy.
 Et de tes faux soupçons condamne la rigueur.  
 
 
-### SCENE V.
+### SCENE V. 
 VANLIE, ARMETZAR, MENNON, ORGANTE. Apres s'étre tenus un peu de temps embrassez : les deux confidens en faisant de méme de leur côté.
 
 
@@ -1133,7 +1133,7 @@ Allons de la prudence, appeler le secours.
 Peres, que vôtre haine à vos enfants cruelle  
 Va produire en ce jour une étrange⁎ querelle,  
 Et que l'ambition commune à vôtre rang  
-Nous va faire verser et de pleurs et de sang !  
+Nous va faire verser et de pleurs et de sang !   
 
 
 ## ACTE SECOND.
@@ -1378,7 +1378,7 @@ Qui doit borner sa gloire⁎ à nous être soûmis.
 C'est par trop endurer d'un insolent caprice,  
 Le Roy vient à propos pour m'en faire justice :  
 Mais il faut à present luy cacher mon depit,  
-Et pour mieux me vanger, feindre qu'il s'assoupit.  
+Et pour mieux me vanger, feindre qu'il s'assoupit.   
 
 
 ### SCENE III.
@@ -1516,7 +1516,7 @@ Entretenir la Reine et loin de ta presence :
 Artaban, comme luy retirez vous d'icy ;  
 Vous, mon fils, demeurez ; et vous, ma fille, aussy.  
 Les Gardes se retirent avec Artaban et Armetzar.
-
+ 
 
 
 ### SCENE IV.
@@ -1807,7 +1807,7 @@ Perdez le criminel, et sauvez l'innocent ;
 Dans l'amour d'Armetzar cherchez vôtre vengeance,  
 Ouy, mon cœur, flattons nous d'un reste d'esperance,  
 Et pour nous rendre encor dignes de son regard,  
-Cessons d'être Phocate, et montrons Armetzar.  
+Cessons d'être Phocate, et montrons Armetzar.   
 
 
 ## ACTE TROISIEME.
@@ -2074,7 +2074,7 @@ Suy, si tu veux, Organte.
 
     ORGANTE.
         Ouy, faisons diligence ;  
-Allons, Seigneur, allons, je vous suis en tous lieux.  
+Allons, Seigneur, allons, je vous suis en tous lieux.   
 
 
 ### SCENE V.
@@ -2221,7 +2221,7 @@ Et ton bon-heur depend de l'hymen glorieux⁎
 Où nous devons porter ce cœur⁎ ambitieux.  
 Que t'a donc reparti cette fiere⁎ Princesse ?  
 
-    ARTABAN.
+    ARTABAN. 
 Qu'elle ne m'aime point, Madame, et je confesse  
 Que si j'en suis haï, je l'aime aussy fort peu,  
 Et que ses longs dedains ont amorti mon feu⁎.  
@@ -2290,7 +2290,7 @@ Et vous ôtez au Roy l'appuy de sa couronne.
 Je crains que son couroux, s'il en est eclaircy…  
 
     ZARIMENE.
-Tay toy, fille ignorante, et crain le mien aussy.  
+Tay toy, fille ignorante, et crain le mien aussy.   
 
 
 ## ACTE QUATRIEME.
@@ -2326,7 +2326,7 @@ Mais le Prince en ce cas ne peut l'avoir suivi,
 Et quelque autre malheur, Sire, vous l'a ravi.  
 Voilà ce que je puis juger de leur absence.  
 
-    ZINTON.
+    ZINTON. 
 A ses gardes.
 
 Qu'on les cherche par tout, qu'on aille en diligence⁎.  
@@ -2356,7 +2356,7 @@ Qu'enfantoit leur audace et leur espoir trop vain.
 Vôtre envie a paru, cet exploit la châtie,  
 Et Phocate sans doute étoit de la partie.  
 Mais déjà mon transport⁎ me les fait decouvrir ;  
-O mon fils ! ô Phocate ! auquel dois-je courir !  
+O mon fils ! ô Phocate ! auquel dois-je courir !   
 
 
 ### SCENE III.
@@ -2491,7 +2491,7 @@ Sur celle de demain au combat destinée,
 Un combat où se va decider en ces lieux  
 Le fameux different de deux peuples fameux.  
 Assisté de ton bras le Cham⁎ ne peut m'abattre,  
-Mon fils, vien prendre haleine afin de mieux combattre.  
+Mon fils, vien prendre haleine afin de mieux combattre.   
 
 
 ### SCENE IV.
@@ -2590,7 +2590,7 @@ Et se peut-il qu'amour tous deux les favorise !
 Non, non, il les abuse, et fût toûjours trompeur.  
 
     ILIANE.
-Mais, Madame, Armetzar vient chasser vôtre peur.  
+Mais, Madame, Armetzar vient chasser vôtre peur.   
 
 
 ### SCENE VI.
@@ -2709,7 +2709,7 @@ Allez, et que le Ciel daigne y donner la main.
 Cependant qu'à nos maux on cherche du remede,  
 Et que de tous nos chefs la prudence intercede ;  
 Allons, chere Iliane, allons passer la nuit,  
-A toucher par nos pleurs le destin qui nous suit [101].  
+A toucher par nos pleurs le destin qui nous suit [101].   
 
 
 ## ACTE CINQUIEME.
@@ -2824,7 +2824,7 @@ Les Dieux sont irritez, cedons à leur colere.
     ULANIE. *La Reîne s'evanouit, et on l'emporte.*
 Madame…  
 
-    ZARIMENE.
+    ZARIMENE. 
         C'en est fait, qu'on m'emporte d'icy,  
 Puisque mon fils est mort, il faut mourir aussy.  
 
@@ -2854,7 +2854,7 @@ Mais le voicy, Madame ; ô ciel tout est perdu,
 Et déja le Tartare en ces lieux s'est rendu !  
 
     LADICE.
-Fuyons, chere Iliane.  
+Fuyons, chere Iliane.   
 
 
 ### SCENE IV.
@@ -2912,7 +2912,7 @@ S'il est ainsi, cher Prince, evitez sa colere.
 Sauvez moy, sauvez vous.  
 
     ARMETZAR.
-        Dieux ! appaisez mon pere…  
+        Dieux ! appaisez mon pere…   
 
 
 ### SCENE V.
@@ -3041,7 +3041,7 @@ De quel œil le verray-je ? ha Dieux !
     TAMERLAN.
         Que dis Phocate ?  
 
-    VANLIE.
+    VANLIE. 
 Qu'il sied bien aux Vainqueurs que leur clemence eclate,  
 Et que vous pourriez bien par un trait⁎ genereux⁎  
 Epargner cette honte à ce Roy malheureux.  
@@ -3081,7 +3081,7 @@ Qu'on le face venir avecques tous les siens.
 Seigneur, on vous l'ameine.  
 
     VANLIE. *Bas.*
-
+ 
         O mandement severe !  
 Pourray-je supporter la presence d'un pere !  
 
@@ -3240,7 +3240,7 @@ Sans cette lasche main tu n'aurois plus vécu.
     ZINTON.
 Ce perfide⁎ tout seul a causé ma defaitte  
 
-    TAMERLAN.
+    TAMERLAN. 
 Ce perfide⁎ tout seul rend ma gloire⁎ imparfaitte.  
 
     ZINTON.
@@ -3431,7 +3431,7 @@ C'est assez qu'un moment Zinton me fut soûmis,
 Et je veux aujourd'huy pour comble de ma gloire⁎,  
 Que ma clemence eclate autant que ma victoire.  
 
-    ZINTON.
+    ZINTON. 
 En pouvant me donner ces genereuses⁎ loix [116],  
 Tamerlan, c'est me vaincre une seconde fois.  
 
@@ -3463,7 +3463,7 @@ Et je te donne ensemble et ma fille et la paix.
 De vos rares bontez c'est une illustre marque ;  
 Que ne vous dois-je point, invincible Monarque !  
 
-    TAMERLAN.
+    TAMERLAN. 
 Ouy, par de tels bienfaits je veux vous enchaîner,  
 Et Tamerlan enfin sçait vaincre et pardonner.  
 

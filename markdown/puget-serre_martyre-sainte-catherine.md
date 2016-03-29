@@ -794,7 +794,7 @@ Que les bornes de cét Empire sont aujourd'huy de longue étenduë, puis qu'une 
     LEONOR
 Quel demon jaloux de vostre repos, Madame, vous oste le sentiment [26] de ses delices : Tout rit à vos desirs ; le Soleil vous peut faire voir sur la terre autant d'esclaves qu'elle porte de mortels. Et comme si vous estiez insensible à toutes ces faveurs, vous en mesprisez la jouïssance, apres avoir fait mille vœux pour les acquerir. Les Chrestiens doivent estre immolez à la juste cholere de l'Empereur, pour porter la peine de leur des-obeïssance. Nos Autels attendent aujourd'huy ces victimes, ou leurs offrandes.
 
-    ROSILEE
+    ROSILEE 
 La Religion ne s'introduit pas dans nos ames, ma soeur, ny par le fer, ny par le feu, il faut que la Nature nous en donne les premiers sentimens, & que les Dieux achevent le reste. Car comme ils ne sont que lumiere, c'est à eux d'esclairer nos esprits pour les eslever jusques à leur connoissance, selon la portée⁎ de nostre condition. Les Chrestiens sont plus malheureux que coupables. Que si les Loix de l'Etat, plustost que celle de la Raison, demandent ou leur vie, ou leur obeïssance, dans la necessité⁎ où ils se treuvent reduits, je souffre avec eux une partie de sa violence.
 
     L'IMPERATRICE
@@ -816,7 +816,7 @@ Il faut bien que sa Majesté se serve de la force des tourmens⁎ pour se faire 
 La Clemence assujetit plus de coeurs, que la Cruauté n'en sçauroit immoler.
 
     L'IMPERATRICE
-En effet, si les Roys ne tiennent leurs sujets enchaisnez par l'amour, aussi bien que par la crainte, ils ne songent jamais qu'à recouvrer leur liberté, ne pouvant supporter le joug de leur servitude.
+En effet, si les Roys ne tiennent leurs sujets enchaisnez par l'amour, aussi bien que par la crainte, ils ne songent jamais qu'à recouvrer leur liberté, ne pouvant supporter le joug de leur servitude. 
 
 
 ### SCENE II
@@ -840,11 +840,11 @@ Il est juste de rendre aux Dieux les hommages de reconnoisance que nous devons �
     L'EMPEREUR
 Porphire, renouvelle mes plaisirs dans le nouveau⁎ recit des merveilles que Silanus & Thesiphonte [34] ont faites à l'extremité de la terre pour m'en rendre l'unique conquerant. Tu ne sçaurois charmer mes oreilles d'une plus douce harmonie.
 
-    PORPHIRE [ ]
+    PORPHIRE 
 Leur valeur incomparable et leur courage invincible, me fournissant d'abord trop de matiere, je me trouve muet dans [35] un si beau sujet de parler [36]. Toutesfois comme leurs actions sont également admirables, l'éclat des unes representera à vostre Majesté la beauté des autres. Ces deux Heros de nostre Siecle n'eurent pas plustost fait prendre terre à leur armée au premier port de la Scithie [37], apres avoir forcé la resistance qui s'opposa à leur dessein, que se rendans maistres de la campagne, le bruit [38] de vostre renommée depeupla tout à coup [39] les villes, & enrichit [40] les deserts de leurs depoüilles pour en oster l'esperance à ces conquerans. Mais comme les obstacles qu'ils rencontroient dans le chemin de leurs victoires en augmentoient les coronnes [41], ils porterent leurs armes aussi loin que la crainte avoit porté leurs ennemis; & jusques dans ces mesmes deserts pour en accroistre l'horreur en le peuplant de morts, dont on ne peut jamais sçavoir le nombre; & moins encore le prix des tresors qui enrichirent nos soldats. Les nouvelles de cette grande defaite donnant l'allarme à tous les peuples voisins, les Sarmates [42], les Caspiens, & les Basternes, composerent un nouveau corps d'armée, du debris  / / de celle des Scithes, & y joignirent leur force pour la rendre invincible. Douze Roys se firent voir dans un champ de bataille à la teste de cent mille combatans, pour deffendre leur liberté aussi bien que leur vie; Et ce fut en ce dernier combat, où Silanus et Thesiphonte, animez également du seul Genie de vostre Majesté en firent admirer⁎ la Fortune, par la grandeur de leur courage, puis qu'avec une armée moins forte en nombre, que celle des ennemis, ils en punirent l'audace, immolant les uns à leur juste fureur⁎, & réservant les autres à une juste servitude. La premiere attaque parut d'abord funeste de tous costez. Les Scithes qui portoient encore gravées sur le front les marques de leur defaite, hasardoient⁎ leur vie pour en effacer la honte, & comme en cela ils partageoient le peril qu'ils couroient [43], on les voyoit aussi-tost vaincus que vainqueurs, recevant & donnant tout à la fois mille playes mortelles. Les Sarmates, & les Basternes animez de ce bel exemple, aussi bien que de leur propre valeur, méprisoient tellement la mort, qu'ils ne reculoient jamais d'un pas à sa rencontre, & dans le desespoir de se sauver, ils en ostoient souvent l'esperance à leurs vainqueurs, mourant tous ensemble pour emporter une mesme gloire [44]. Mais enfin tous les efforts de ce grand nombre d'ennemis / / n'en purent retarder la defaite que d'un moment. Les uns se voüerent à la fuite comme à leur Deesse tutelaire, & les autres encoururent le sort de la servitude, en se treuvant forcez de vivre dans les fers qui leur avoient esté destinez. Une journée entiere fut employée au gain de cette bataille. Et il est croyable que les Dieux protecteurs de cét Empire, alantissoient⁎ la courbe du Soleil pour avancer la defaite de vos ennemis, puis que la nuict ne s'approchoit qu'à la mesure de nos desirs, comme si nous eussions esté Maistres également & de nostre fortune & de celle des vaincus. Dix Roys furent contez au nombre des morts, & les deux autres courant la mesme disgrace que leurs sujets, en partagerent les chaisnes, & se treuvent esclaves dans une mesme prison. Le seul bruit d'un Triomphe si glorieux s'estant épandu dans l'Orient, servit d'une nouvelle armee pour forcer tous les autres peuples barbares qui l'habitent, à se rendre, & dans les dix jours nous vismes à nos pieds leurs Ambassadeurs, chargez des presens, ou plustost des tributs, qu'eux-mesmes s'estoient imposez pour prevenir nos demandes. De sorte que vostre Majesté peut disposer / / aujourd'huy d'autant de Coronnes qu'il y a de peuples sur la terre, puis que tout le monde ensemble vous recognoist pour Souverain.
 
     L'EMPEREUR
-Ces felicitez sont des presens des Dieux, plustost que de la Fortune, & les bruits de mon nom ny la force de mes armes ne me rendroient point aujourd'huy Maistre de toute la terre, si le Ciel n'eût donné un nouveau⁎ courage à mes Soldats pour emporter le prix⁎ d'une telle conqueste; je veux que Silanus et Thésiphonte ayent contraint les plus incredules d'adjoûter foy aux miracles de leur valeur; si faut-il confesser que les Dieux en soustenant mes interests ont gaigné la victoire. Ce qui m'oblige en recognoissance de tant de faveurs, de faire un Sacrifice aussi pompeux⁎ que mon Triomphe, & pour le rendre plus celebre⁎, il faut que les Chrestiens en soient, ou les admirateurs, ou les victimes, ne pouvant [45] souffrir dans mon Empire des Sujets qui refusent de l'encens aux Divinitez que j'adore.
+Ces felicitez sont des presens des Dieux, plustost que de la Fortune, & les bruits de mon nom ny la force de mes armes ne me rendroient point aujourd'huy Maistre de toute la terre, si le Ciel n'eût donné un nouveau⁎ courage à mes Soldats pour emporter le prix⁎ d'une telle conqueste; je veux que Silanus et Thésiphonte ayent contraint les plus incredules d'adjoûter foy aux miracles de leur valeur; si faut-il confesser que les Dieux en soustenant mes interests ont gaigné la victoire. Ce qui m'oblige en recognoissance de tant de faveurs, de faire un Sacrifice aussi pompeux⁎ que mon Triomphe, & pour le rendre plus celebre⁎, il faut que les Chrestiens en soient, ou les admirateurs, ou les victimes, ne pouvant [45] souffrir dans mon Empire des Sujets qui refusent de l'encens aux Divinitez que j'adore. 
 
 
 ### SCENE IV
@@ -855,7 +855,7 @@ Lepide et les autres
 Le Grand Prestre attend vos Majestez dans le Temple où tout le peuple est assemblé, pour commencer le Sacrifice.
 
     L'EMPEREUR
-Allons Madame, allons celebrer la feste des Dieux durant ce beau jour de Triomphe; il leur en [46] faut offrir les coronnes pour en meriter la gloire; Que si les Chrestiens au mespris de mon Edit ne suivent mon exemple, je jure par ma vie, que la leur sera l'objet [47] de mon juste Courroux.< Fin du Premier Acte >
+Allons Madame, allons celebrer la feste des Dieux durant ce beau jour de Triomphe; il leur en [46] faut offrir les coronnes pour en meriter la gloire; Que si les Chrestiens au mespris de mon Edit ne suivent mon exemple, je jure par ma vie, que la leur sera l'objet [47] de mon juste Courroux.< Fin du Premier Acte > 
 
 
 ## ACTE II
@@ -877,14 +877,14 @@ Le Dieu que j'adore ne veut pas estre servi en secret. Il se dit la parole de so
     EMILIE
 Vous devez menager egalement en cette rencontre⁎, & vostre vie & vostre credit [51]; croyez vous faire changer en faveur des Chrestiens la resolution qu'on a prise de les perdre. Il faut de nécessité qu'ils soient ou victimes, ou idolatres: les Edits & [52] l'Empereur sont des loix qu'on ne peut violer.
 
-    STE CATHERINE
+    STE CATHERINE 
 Quand le dessein que j'ay de les proteger ne reüssiroit pas, je me satisferay toujours la premiere [53], en courant un mesme sort; ma vie & mon credit sont au rang des choses périssables, je ne veux faire fortune que dans le Ciel.
 
     EMILIE
 Si faut-il [54] que la prudence modere l'excez⁎ de vostre zele. Quel profit peuvent tirer les Chrestiens de vostre dommage⁎: Vous avez donné des larmes à leur malheur, vous soûpirez⁎ encore de leurs miseres; vous joignez vos soins⁎ à leurs voeux pour leur faire recouvrer la liberté, que sçauroient-ils pretendre⁎ davantage.
 
     STE CATHERINE
-Je méprise les conseils de la prudence humaine, où il y va de l'interest⁎ de mon salut. Ma mort sera plus utile aux Chrestiens que ma vie, puis que l'exemple de mon Martyre doit donner du courage aux plus timides pour franchir la carriere⁎ des tourmens⁎ où ils sont destinez. Voicy Corvin qui m'en porte sans doute les premieres nouvelles.
+Je méprise les conseils de la prudence humaine, où il y va de l'interest⁎ de mon salut. Ma mort sera plus utile aux Chrestiens que ma vie, puis que l'exemple de mon Martyre doit donner du courage aux plus timides pour franchir la carriere⁎ des tourmens⁎ où ils sont destinez. Voicy Corvin qui m'en porte sans doute les premieres nouvelles. 
 
 
 ### SCENE II
@@ -924,7 +924,7 @@ Un esprit resolu comme le mien
     EMILIE
 La tyrannie de l'Empereur est à craindre
 
-    STE CATHERINE
+    STE CATHERINE 
 Et la gloire du Martyre à desirer
 
     EMILIE
@@ -942,7 +942,7 @@ Parce qu'il y a plus d'honneur à l'encourir, que de contentement à l'évitter.
     CORVIN
 De quel charme⁎ trompeur avez vous les sens offusquez⁎, faisant si peu de cas des conseils que mon affection⁎ vous donne.
 
-    STE CATHERINE
+    STE CATHERINE 
 Et de quel funeste sommeil avez vous l'esprit assoupi meprisant les raisons que Dieu seul me suggere
 
     CORVIN
@@ -977,7 +977,7 @@ Les cris & les plaintes de ces malheureux seront des objets de compassion qui mo
 Les plaintes des criminels sont autant de Cantiques [64] de gloire pour les Dieux, puisqu'elles publient hautement leur Justice; que si nos sens sont effrayez des tourmens⁎ qu'ils endurent, la force de la raison doit prevaloir sur cette foiblesse de la nature, pour rejouïr nos esprits de l'avantage qui nous en revient.
 
 
-### SCENE IV
+### SCENE IV 
 LEPIDE, L'EMPEREUR
 
 
@@ -995,7 +995,7 @@ SAINTE CATHERINE, L'EMPEREUR
     L'EMPEREUR, *parle le premier*
 Que desirez-vous de moi, ma Princesse.
 
-    STE CATHERINE
+    STE CATHERINE 
 Un moment d'audience⁎
 
     L'EMPEREUR
@@ -1010,7 +1010,7 @@ Qui vous rend si hardie de plaider la cause des Criminels d'Estat en ma presence
     STE CATHERINE
 Mon devoir
 
-    L'EMPEREUR
+    L'EMPEREUR 
 Mais vous ne considerez pas qu'en demandant leur grace, vous vous rendez coupable.
 
     STE CATHERINE
@@ -1025,7 +1025,7 @@ En quelque lieu où je me treuve ma bouche ne dement⁎ jamais mon coeur. Si je 
     L'EMPEREUR
 Ne songez qu'à vostre salut, puis que vous respirez [67] à la veille de vos funerailles.
 
-    STE CATHERINE
+    STE CATHERINE 
 J'y songe aussi [68] continuellement par le mespris que je fay de vos nouvelles loix.
 
     L'EMPEREUR
@@ -1040,7 +1040,7 @@ Ne savez vous pas que mes volontez sont reverées par toute la terre, & que mon 
     STE CATHERINE
 A quoy vous servent toutes ces marques de souveraineté, si vostre raison est au nombre de vos esclaves. Vostre Sceptre est de mesme matiere que la main qui le porte [70]: son authorité absoluë ne fait peur qu'aux meschans [71], les ames innocentes en méprisent la tyrannie, ayant assez de constance⁎ pour la souffrir, quand le pouvoir leur manque de l'éviter.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 Je sçay l'art de me faire craindre.
 
     STE CATHERINE
@@ -1055,7 +1055,7 @@ Croyez vous que la force des tourmens⁎ estonne⁎ le courage des Martyrs: Ils 
     L'EMPEREUR
 Mes passions⁎ ne s'interessent point dans ma Justice, & si [73] je l'exerce aujourd'huy avec severité, mon devoir m'y contraint, & avec violence.
 
-    STE CATHERINE
+    STE CATHERINE 
 Les Chrestiens ont toujours eu du respect & de la sousmission⁎ pour vos commandemens, que s'ils preferent maintenant la mort à l'obéïssance [74] de vostre nouvel Edict; j'envie la gloire d'un si beau trespas à ceux qui m'ont déja devancée! On doit subir les decrets du Ciel, plutost que les ordonnances des hommes.
 
     L'EMPEREUR
@@ -1107,7 +1107,7 @@ Vous avez beau courre [80] à vostre ruine⁎, ma pitié s'interesse pour vostre
 Dites plutost pour pleurer de la vostre.
 
     L'EMPEREUR
-Je veux depeupler la terre, & remplir les enfers de cette race de Demons, dont eux-mesme excitent la malice⁎, pour semer toujours la division parmy mes sujets, en leur persuadant la revolte. Je veux disje faire creuser un tombeau si profond pour les y ensevelir dedans tous ensemble, qu'on perde peu à peu jusques à la memoire de leur nom. Il faut regner absolument si l'on veut porter la qualité de Souverain, les Sceptres & les coronnes ne relevent que d'eux-mesmes [82]. Mais que dis-je ? cette inhumaine se rit de mes desseins, sçachant que le pouvoir de ses charmes⁎ s'estend beaucoup plus loin que / / celuy de mon authorité. Cette belle idolatre me persuade de le devenir [83]; Car à mesure que le feu de la cholere embrase mon coeur, je sens que celuy de l'amour s'allume dans mon ame. Quel party doisje prendre [84]? Fuiray je les sentimens de la Justice ou ceux de l'amour. Les Dieux veulent estre vangez, mais si je leur obéïs je me punis moy-mesme. En cette extremité mon esprit irresolu me suggere tout à la fois mille differentes pensées sans se pouvoir determiner au choix de l'une, ou de l'autre. Mais c'est trop long temps s'arrester dans un chemin où la raison & mon devoir me veulent servir de guide, courons à la vengeance, au mespris de l'amour, & s'il faut mourir de la blessure dont je suis atteint, sauvons l'honneur en perdant la vie, ce me sera toujours quelque sorte de consolation.< Fin du Second Acte >
+Je veux depeupler la terre, & remplir les enfers de cette race de Demons, dont eux-mesme excitent la malice⁎, pour semer toujours la division parmy mes sujets, en leur persuadant la revolte. Je veux disje faire creuser un tombeau si profond pour les y ensevelir dedans tous ensemble, qu'on perde peu à peu jusques à la memoire de leur nom. Il faut regner absolument si l'on veut porter la qualité de Souverain, les Sceptres & les coronnes ne relevent que d'eux-mesmes [82]. Mais que dis-je ? cette inhumaine se rit de mes desseins, sçachant que le pouvoir de ses charmes⁎ s'estend beaucoup plus loin que / / celuy de mon authorité. Cette belle idolatre me persuade de le devenir [83]; Car à mesure que le feu de la cholere embrase mon coeur, je sens que celuy de l'amour s'allume dans mon ame. Quel party doisje prendre [84]? Fuiray je les sentimens de la Justice ou ceux de l'amour. Les Dieux veulent estre vangez, mais si je leur obéïs je me punis moy-mesme. En cette extremité mon esprit irresolu me suggere tout à la fois mille differentes pensées sans se pouvoir determiner au choix de l'une, ou de l'autre. Mais c'est trop long temps s'arrester dans un chemin où la raison & mon devoir me veulent servir de guide, courons à la vengeance, au mespris de l'amour, & s'il faut mourir de la blessure dont je suis atteint, sauvons l'honneur en perdant la vie, ce me sera toujours quelque sorte de consolation.< Fin du Second Acte > 
 
 
 ## ACTE III [85]
@@ -1120,7 +1120,7 @@ L'EMPEREUR, PORPHIRE
     L'EMPEREUR
 Ha Porphire, que mon sort est deplorable! J'ay fait prisonniere dans mon Palais celle-là mesme qui me tient esclave sous son Empire; ma tyrannie a commandé qu'on la mist aux fers, & sa beauté plus cruelle encore me donne à tous momens la gesne⁎. Je veux vanger les Dieux de son impieté, & elle me punit déja de la pensée que j'en ai euë; quel party dois-je prendre en l'estat où tu me vois reduit.
 
-    PORPHIRE
+    PORPHIRE 
 Quoy, la Princesse Catherine seroit si heureuse dans son malheur d'enchesner son geolier, d'imposer des loix à son Souverain, & de se faire dresser des Autels par celuy-là mesme qui l'avoit desja destinée⁎ pour victime: ce discours me surprend.
 
     L'EMPEREUR
@@ -1129,7 +1129,7 @@ Pourquoy t'estonnes-tu de ces merveilles, puis que l'Amour en est l'ouvrier⁎: 
     PORPHIRE
 C'est toujours servir les Dieux d'obeir à celuy qui s'en dit le maistre [86]; vostre Majesté se doit faire justice la premiere [87], la colere & la vengeance ne sont plus de saison contre un ennemy qui se fait redouter dans sa foiblesse, & qui mene en triomphe son vainqueur.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 J'approuve ce conseil: Mais j'ay besoin de ton secours; Il faut que tu la persuades de changer de Religion, & d'agreer l'amour que j'ay pour elle. Que si la vertu prenant ses interests luy fait mépriser les miens; represente⁎ luy pour la satisfaire⁎, que la justice autorise ma passion⁎ dans le dessein que j'ay de partager mon autorité avec elle en qualité d'espouse.
 
     PORPHIRE
@@ -1138,14 +1138,14 @@ Les honneurs dont vostre Majesté la veut combler aujourd'huy, me semblent si co
     L'EMPEREUR
 Offre luy hardiment & mon sceptre & ma couronne, puis que le coeur qui anime la teste et la main qui les portent, ne connoist plus que ses loix.
 
-    PORPHIRE
+    PORPHIRE 
 Si le succez des desseins de vostre Majesté ne depend que de mes services, elle sera bien tost satisfaite.
 
     L'EMPEREUR
 Va donc promptement consulter l'Oracle de ma bonne fortune⁎, j'ay déjà de l'impatience pour ton retour. Mais considere toujours la fin de ton message, je la veux posseder à quelque prix que ce soit. Si elle se met en colere, adoucis la par tes sousmissions⁎. Si elle mesprise tes offres, represente⁎ luy sans t'émouvoir le tort qu'elle se fait. Enfin ménage discretement⁎ le temps & l'occasion de l'entretenir, & ne hazarde⁎ rien sur tout en cette affaire, puis qu'il y va de mon repos.
 
     PORPHIRE
-J'executeray fidelement les commandemens de vostre Majesté.
+J'executeray fidelement les commandemens de vostre Majesté. 
 
 
 ### SCENE II
@@ -1165,7 +1165,7 @@ Il faut que j'apprenne de sa bouche les sentimens de son coeur, pour sçavoir au
 Ce n'est pas le moyen de moderer sa vanité, que de luy rendre visite jusques dans sa prison; vos sousmissions⁎ esleveront si haut son arrogance, qu'elle portera sans doute ses desseins aussi loin que ses pensées.
 
     L'IMPERATRICE
-Je veux bien me satisfaire⁎ dans l'inquietude où je me treuve, son entretien [92] éclaircira⁎ mon esprit de ses doutes; Suivez moy, ne vous opposez plus à mon contentement.
+Je veux bien me satisfaire⁎ dans l'inquietude où je me treuve, son entretien [92] éclaircira⁎ mon esprit de ses doutes; Suivez moy, ne vous opposez plus à mon contentement. 
 
 
 ### SCENE III
@@ -1187,7 +1187,7 @@ Monsieur, les chesnes de ma servitude me sont plus agreables, que les nouvelles 
     PORPHIRE
 Ne vous est-ce pas un grand honneur de voir assujetty sous vos loix par la seule force de vos appas le seul Monarque de la terre.
 
-    STE CATHERINE
+    STE CATHERINE 
 La gloire est bien plus grande de se vaincre soy-mesme par le mespris de toutes ces vanitez.
 
     PORPHIRE
@@ -1223,7 +1223,7 @@ Elle vieillit à toute heure.
     PORPHIRE
 Songez aux grandeurs qui vous accompagnent [97].
 
-    STE CATHERINE
+    STE CATHERINE 
 Elles ne me suivront que jusques au tombeau.
 
     PORPHIRE
@@ -1241,7 +1241,7 @@ Les contentemens du monde sont des jeux d'enfant, puis que leur usage nous oste 
     PORPHIRE
 Ne changerez-vous jamais d'humeur, vostre merite attire à vos pieds & les Sceptres & les Coronnes, pourquoy en méprisez-vous le present,
 
-    STE CATHERINE
+    STE CATHERINE 
 Parce que je n'en sçaurois que faire.
 
     PORPHIRE
@@ -1268,7 +1268,7 @@ Que dites-vous, Madame, de preferer aux caresses⁎, & aux respects d'un grand M
     STE CATHERINE
 Ouy, Porphire: Car ses respects & ses caresses ruineront ma reputation en retardant ma perte, & ses mespris & ses vengeances me combleront de joye en avançant ma mort.
 
-    PORPHIRE
+    PORPHIRE 
 Pensez à ce que vous dites, Madame.
 
     STE CATHERINE
@@ -1286,7 +1286,7 @@ Et j'espere que la Bonté de Dieu fera bien-tost coronner [99] la vostre.
 Fuyons promptement, je sens ma foiblesse comme si mon coeur tenoit déja son party [100]. Madame, je m'en vay rendre compte à l'Empereur de mon message.
 
     STE CATHERINE
-Allez hardiment, le Ciel prépare vostre recompense. Mais voicy l'Imperatrice; Je sçay le dessein qui l'ameine, le succez⁎ luy en sera favorable.
+Allez hardiment, le Ciel prépare vostre recompense. Mais voicy l'Imperatrice; Je sçay le dessein qui l'ameine, le succez⁎ luy en sera favorable. 
 
 
 ### SCENE V
@@ -1299,7 +1299,7 @@ CHere Princesse, je suis fort ayse⁎ que vostre vertu & vostre beauté obligent
     STE CATHERINE
 Madame, vostre Majesté remplit⁎ si dignement la place qu'elle occupe, que je n'ay pas sujet⁎ d'y pretendre: Et quelque éclat qu'ayt ma naissance, & quelque loüange que la flaterie me donne, mon devoir me tiendra toujours rabaissée aux pieds de vostre Majesté, pour luy rendre les respects & les deferances d'une sujete.
 
-    L'IMPERATRICE
+    L'IMPERATRICE 
 Pourquoy me celez-vous le secret de vostre ambition; vostre naissance, vostre esprit, vostre beauté, & mille autres qualitez aymables qui vous rendent aujourd'huy si admirable aux yeux de toute la Cour, trahissent vos desseins, & me font voir jusques dans vostre coeur la verité que vos discours me cachent.
 
     STE CATHERINE
@@ -1336,7 +1336,7 @@ Mais si vous avez l'honneur de me devancer, faites que la / / voix de vostre san
 Il faut que vostre esperance surmonte vostre crainte, le Ciel n'abandonne jamais ceux qui combatent pour sa gloire: Je ne vous dy point adieu, Madame, nos ames se verront bien tost dans le Ciel.
 
     L'IMPERATRICE
-Cette esperance me console de nostre separation.< Fin du Troisiesme Acte >
+Cette esperance me console de nostre separation.< Fin du Troisiesme Acte > 
 
 
 ## ACTE IV
@@ -1352,7 +1352,7 @@ J'ay de la peine à croire ce que tu dis ? Quoy, elle méprise le present de mo
     PORPHIRE
 Je ne sçaurois flatter⁎ vostre Majesté en une action si importante à son repos, elle a paru insensible à toutes les offres des grandeurs & des richesses, de mesmes qu'aux menasses des suplices, & de la mort.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 En quel état me voy-je reduit, à quoy me sert cette puissance absoluë que le destin, la fortune, & mes armes victorieuses m'ont fait acquerir sur toute la terre, si une fille aujourd'huy borne mon autorité de ses desirs, assujetit mon Sceptre sous ses loix, & porte sur ses levres, l'Empire de ma Couronne [111]? Où sont ces flatteurs [112] maintenant qui disent que les Roys sont Tous-puissans icy bas, afin que ma foiblesse leur reproche cette imposture ? Fut-il jamais sujet⁎ si miserable que moy ? je regne par tout fors que⁎ dans le coeur de celle qui possede le mien; tout le monde me craint, & celle que j'ayme uniquement, méprise mon amour, & se rit de mes peines ? Ha Porphire ! puisque mon mal est sans remede, donne moy au moins quelque soulagement.
 
     PORPHIRE
@@ -1372,7 +1372,7 @@ Belle Princesse, l'Amour a beau me solliciter⁎ de luy accorder la grace de vos
     STE CATHERINE
 L'innocence ne se repent jamais.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 Vous voyez le respect que j'ay pour vostre condition, que n'avez vous de la defference pour mes Edits.
 
     STE CATHERINE
@@ -1387,7 +1387,7 @@ Et n'est-ce pas estre jalouse⁎ de vostre gloire de vous representer⁎ les mal
     L'EMPEREUR
 Quel Demon vous anime⁎ avec tant d'opiniatreté à creuser le tombeau où vous devez estre ensevelie.
 
-    STE CATHERINE
+    STE CATHERINE 
 Et quelle fureur⁎ vous transporte avec tant d'aveuglement de chercher vos plaisirs dans les miseres d'autrui
 
     L'EMPEREUR
@@ -1405,7 +1405,7 @@ Donnez quelque intervalle [114] à cette passion⁎ de vengence qui vous fait pa
     L'EMPEREUR
 Est-ce tyrannie de rompre vos fers, ou d'en partager la servitude [115].
 
-    STE CATHERINE
+    STE CATHERINE 
 Est-ce bonté de combatre des ennemis, apres que vostre puissance les a desarmez.
 
     L'EMPEREUR
@@ -1417,7 +1417,7 @@ Il est vray que nous sommes aveugles tous deux, vous à la lumiere de la Verité
     L'EMPEREUR
 Le Philosophe que j'ay envoyé querir vous instruira en ma presence, pour vous faire connoistre⁎ vostre erreur.
 
-    STE CATHERINE
+    STE CATHERINE 
 J'espere que luy-mesme confessera bien tost la sienne à vostre confusion & à son avantage, puis que les larmes de son repentir, & le sang de son martyre en éteignant les foudres du Ciel, luy en feront acquerir la gloire.
 
     L'EMPEREUR
@@ -1429,7 +1429,7 @@ Quelle apparence⁎, qu'un disciple instruise son maistre: deffendez-vous seulem
     CORVIN
 Le Philosophe Lucius choisi & deputé de tous ses compagnons⁎, est à la porte de la chambre; il demande à vostre Majesté la liberté d'entrer.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 Faites le venir, j'attends desja avec impatience le succez de son entreprise.
 
 
@@ -1476,7 +1476,7 @@ Quelle impieté, quelle imposture ? Il se cognoist bien que nos Dieux sont veri
     STE CATHERINE
 Le nombre [124] des Dieux ne differe point de l'Atheisme, comme nous asseure la Sibile Persane, puis qu'en effet les Dieux ne sont que creatures, ou vanitez [125]. Et quand tous les mortels adoreroient vos Dieux, cette idolatrie n'en preuveroit pas la verité. Les Romains dans leurs conquestes nous ont laissé beaucoup plus de marques de leur folle ambition, que de temoins⁎ de la puissance de leurs Dieux.
 
-    LUCIUS
+    LUCIUS 
 Quelle comparaison peut-on faire des Dieux des Gentils [126], avec le Dieu des Chrestiens; Si ceux-là regnent glorieusement dans le Ciel, & si celuy-cy est mort honteusement sur la terre.
 
     STE CATHERINE
@@ -1488,7 +1488,7 @@ Mais si vostre Dieu est Tout-puissant, donnez moy des preuves de sa puissance so
     STE CATHERINE
 En sçauriez vous souhaiter de plus grandes que de voir cette fille dont vous preschiez⁎ si haut & l'ignorance & le begayement, vous rendre muet et confus [128] avec toute vostre sagesse.
 
-    LUCIUS
+    LUCIUS 
 Ce sont des merveilles [129], je suis curieux de voir ses miracles.
 
     STE CATHERINE
@@ -1497,7 +1497,7 @@ Tu ressentiras bien-tost la Vertu du premier [130] qu'il a fait, Lucius, puis qu
     LUCIUS
 Ha Seigneur, le jour [131] de ta grace commence à luire dans mon ame ! Sa lumiere perce le bandeau de mon aveuglement: Je ressens ta Bonté, je recognois ta Puissance, je confesse ton Nom; J'adore le Dieu des Chrestiens. Sire, vostre Majesté peut voir son erreur dans la confession publique que je fais mienne, mon esprit humilié, & ma raison sousmise sous le doux joug de la Foy, me font cognoistre⁎ mon ignorance. Le Dieu seul des Chrestiens doit estre adoré.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 L'Empereur se leve de sa chaise avec colere.
 
 Quel subit changement ? Quoy Lucius ? une fille nouvellement instruite dans sa Religion vous imposera silence au mépris des Dieux & de mon autorité, c'est ce que je ne puis concevoir. Recommencez la dispute.
@@ -1511,7 +1511,7 @@ Quelle manie⁎ le transporte. Si vous ne changez de discours, je vous immoleray
     LUCIUS
 O agreable Sacrifice ! que n'ay-je mille vies à vous offrir pour acquerir mille couronnes en souffrant autant de morts. Je ne cognois d'autre Dieu que celuy des Chrestiens.
 
-    L'IMPERATRICE
+    L'IMPERATRICE 
 Je luy ay dressé un autel dans mon ame, où elle-mesme luy a présenté tous ses voeux; & afin qu'on n'en puisse plus douter, je confesse hautement que je suis Chrestienne.
 
     L'EMPEREUR
@@ -1526,14 +1526,14 @@ Changez de creance, Madame, ou vous ressentirez bien-tost les effets⁎ de mon c
     L'IMPERATRICE
 Je cherche la mort, pour treuver la vie. Alons, allons au martyre, où sont les bourreaux, il ne faut point de témoins pour me convaincre⁎, ny de Juge pour me condemner, j'adore le Dieu des Chrestiens.
 
-    PORPHIRE
+    PORPHIRE 
 Je veux mourir pour sa gloire en confessant son Nom.
 
     L'EMPEREUR
 Quel changement effroyable? ô Dieux! prestez-moy vos foudres pour un moment, afin je vous venge, & que je me satisface. Que Lucius soit brulé tout vif, & Porphire devoré des Lyons: Qu'on trenche la teste à l'Impératrice, & qu'on mette en pieces cette enchanteresse⁎, dans les supplices des roües; mais tout maintenant [132], de peur que ma justice trop tardive⁎ ne me rende complice de leur impieté.
 
     STE CATHERINE *seule*
-O adorable Redempteur! dont la parole toute-puissante s'est servie de ma bouche pour annoncer vos loüanges & soûtenir la verité, Je vous rends graces d'avoir exaucé mes voeux en illuminant ces aveugles, pour leur apprendre le chemin du Calvaire, où vostre misericorde infinie [133] leur a preparé tout à la fois, & des autels & des couronnes. Agreez seulement le zele de toutes ces victimes; Et puis que vostre Bonté m'a mise du nombre, je vous offre par avance le coeur de ce corps qui vous doit étre immolé, pour achever le sacrifice à vôtre gloire.< Fin du Quatriesme Acte >
+O adorable Redempteur! dont la parole toute-puissante s'est servie de ma bouche pour annoncer vos loüanges & soûtenir la verité, Je vous rends graces d'avoir exaucé mes voeux en illuminant ces aveugles, pour leur apprendre le chemin du Calvaire, où vostre misericorde infinie [133] leur a preparé tout à la fois, & des autels & des couronnes. Agreez seulement le zele de toutes ces victimes; Et puis que vostre Bonté m'a mise du nombre, je vous offre par avance le coeur de ce corps qui vous doit étre immolé, pour achever le sacrifice à vôtre gloire.< Fin du Quatriesme Acte > 
 
 
 ## ACTE V
@@ -1584,7 +1584,7 @@ Refuserez-vous la couronne de l'Univers.
     STE CATHERINE
 Toutes les couronnes du monde ne meritent pas seulement d'estre souhaitees, puisqu'à peine a t'on le loisir de les essayer en passant. Je ne voy rien icy bas digne de mon envie.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 Mais pourquoy voulez-vous mourir à la veille de posseder toutes les grandeurs de mon Empire.
 
     STE CATHERINE
@@ -1605,7 +1605,7 @@ Ne resistez plus à celles de mon zele.
     L'EMPEREUR
 Considerez les richesses que vous mesprisez.
 
-    STE CATHERINE
+    STE CATHERINE 
 Pensez aux tresors que vous pouvez acquerir.
 
     L'EMPEREUR
@@ -1662,7 +1662,7 @@ Parle hardiment, il n'est plus temps de feindre, le desespoir commence d'amortir
     LEPIDE
 Ses veines n'on versé que du laict. Et à ce miracle visible qui a frappé d'estonnement⁎ tous les spectateurs, la Musique des Anges qui ont enlevé son corps a charmé si doucement mes oreilles, que mon esprit en est encore tout ravy.
 
-    L'EMPEREUR
+    L'EMPEREUR 
 Puis-je adjoûter foy à tes paroles. Mais qu'est-ce que j'entends ?
 
     LEPIDE

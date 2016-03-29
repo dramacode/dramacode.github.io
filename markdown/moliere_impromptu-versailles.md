@@ -1,7 +1,7 @@
 ---
 identifier: moliere_impromptu-versailles  
 creator: Molière  
-date: 1668  
+date: 1663  
 title: L’Impromptu de Versailles  
 ---
 

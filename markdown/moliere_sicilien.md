@@ -1,7 +1,7 @@
 ---
 identifier: moliere_sicilien  
 creator: Molière  
-date: 1668  
+date: 1667  
 title: Le Sicilien. ou l'Amour peintre  
 ---
 

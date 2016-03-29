@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I01 *act_I *date_1660 *creator_moliere
 
 Cette première Scène, où Gorgibus entre avec sa Fille, fait voir à l'Auditeur que l'avarice est la passion la plus ordinaire aux Vieillards, de même que l'amour est celle qui règne le plus souvent dans un jeune cœur, et principalement dans celui d'une fille ; car l'on y voit Gorgibus, malgré le choix qu'il avait fait de Lélie pour son Gendre, presser sa Fille d'agréer un autre Époux nommé Valère, incomparablement plus mal fait que Lélie, sans donner d'autre raison de changement, sinon que le dernier est plus riche.
 L'on voit d'un autre côté que l'amour ne sort pas facilement du cœur d'une fille, quand une fois il en a su prendre : c'est ce qui fait un agréable combat dans cette Scène entre le père et la fille, le père lui voulant persuader qu'il faut être obéissante, et lui proposant pour la devenir, au lieu de la lecture de Clélie, celle de quelques vieux Livres qui marquent l'antiquité du bonhomme, et qui n'ont rien qui ne parût barbare, si l'on en comparaît le style à celui des ouvrages de l'Illustre Sapho.
@@ -82,7 +82,7 @@ Manquez un peu, manquez, à le bien recevoir,
 Si je ne vous lui vois faire fort bon visage
 Je vous… je ne veux pas en dire davantage.
 
-**** *book_ *id_I02 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I02 *act_I *date_1660 *creator_moliere
 
 Qui comparera cette seconde Scène à la première, confessera d'abord que l'Auteur de cette Pièce a un génie tout particulier pour les Ouvrages de Théâtre, et qu'il est du tout impossible que ses pièces ne réussissent pas, tant il sait bien de quelle manière il faut attacher l'esprit de l'Auditeur.
 En effet, nous voyons qu'après avoir fait voir dans la Scène précédente, un père pédagogue, qui tâche de persuader à sa fille que la richesse est préférable à l'amour, il fait parler dans celle-ci (afin de divertir l'Auditeur par la variété de la matière) une veuve suivante de Célie, et confidente toute ensemble, qui s'étonne de quoi sa Maîtresse répond par des larmes à des offres d'hymen, et après avoir dit qu'elle ne ferait pas de même si l'on la voulait marier, elle trouve moyen de décrire toutes les douceurs du mariage ; ce qu'elle exécute si bien, qu'elle en fait naître l'envie à celles qui n'en ont pas tâté.
@@ -152,7 +152,7 @@ Madame,
 D'où vous pourrait venir… ah ! bons Dieux elle pâme.
 Hé ! vite, holà, quelqu'un.
 
-**** *book_ *id_I03 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I03 *act_I *date_1660 *creator_moliere
 
 Cette Scène est fort courte, et Sganarelle, comme un des plus proches voisins de Célie, accourt aux cris de cette Suivante qui lui donne sa Maîtresse à soutenir ; cependant qu'elle va chercher encore du secours d'un autre côté, comme vous pouvez voir par ce qui suit.
 
@@ -172,7 +172,7 @@ Hays, elle ne dit mot.
 Je vais faire venir
 Quelqu'un pour l'emporter, veuillez la soutenir.
 
-**** *book_ *id_I04 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I04 *act_I *date_1660 *creator_moliere
 
 Cette Scène n'est pas plus longue que la précédente, et la femme de Sganarelle, regardant par la fenêtre, prend de la jalousie de son mari, à qui elle voit tenir une femme entre ses bras et descend pour le surprendre, cependant qu'il aide à remporter Célie chez elle.
 Ce que vous pourrez voir en lisant ces vers.
@@ -194,7 +194,7 @@ Certes elle aurait tort de se laisser mourir,
 Aller en l'autre monde est très grande sottise
 Tant que dans celui-ci l'on peut -être de mise.
 
-**** *book_ *id_I05 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I05 *act_I *date_1660 *creator_moliere
 
 L'Auteur, qui comme nous avons dit ci-dessus, sait tout à fait bien ménager l'esprit de son Auditeur, après l'avoir diverti dans les deux précédentes Scènes, dont la beauté consiste presque toute dans l'action, l'attache dans celle-ci par un raisonnement si juste, que l'on ne pourra qu'à peine se l'imaginer, si l'on en considère la matière ; mais il n'appartient qu'à des plumes, comme la sienne, à faire beaucoup de peu, et voici pour satisfaire votre curiosité le sujet de cette Scène.
 La femme de Sganarelle étant descendue, et n'ayant point trouvé son mari, fait éclater sa jalousie, mais d'une manière si surprenante et si extraordinaire, que quoique cette matière ait été fort souvent rebattue, jamais personne ne l'a traitée avec tant de succès, d'une manière si contraire à celle de toutes les autres femmes, qui n'ont recours qu'aux emportements en de semblables rencontres, et comme il m'a été presque impossible de vous l'exprimer aussi bien que lui ; Ces vers vous en feront connaître la beauté.
@@ -222,7 +222,7 @@ Mais quel est ce bijou que le sort me présente ?
 L'émail en est fort beau, la gravure charmante,
 Ouvrons.
 
-**** *book_ *id_I06 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I06 *act_I *date_1660 *creator_moliere
 
 Quelques beautés que l'auteur ait fait voir dans la Scène précédente, ne croyez pas qu'il soit de ceux qui souvent après un beau début donnent (pour parler vulgairement) du nez en terre puisque plus vous avancerez dans la lecture de cette Pièce, plus vous y découvrirez de beautés, et pour en être persuadé, il ne faut que jeter les yeux sur cette Scène, qui en fait le fondement.
 Célie en s'évanouissant, ayant laissé tomber le portrait de son Amant, la femme de Sganarelle le ramasse, et comme elle le considère attentivement, son mari ayant aidé à reporter Célie chez elle, rentre sur la Scène et regarde par dessus l'épaule de sa femme, ce qu'elle considère : et voyant ce portrait, commence d'entrer en quelque sorte de jalousie, lorsque sa femme s'avise de le sentir, ce qui confirme ces soupçons, dans la pensée qu'il a qu'elle le baise ; mais il ne doute bientôt plus qu'il est de la grande Confrérie, quand il entend dire à sa femme, qu'elle souhaiterait d'avoir un Époux d'une aussi bonne mine : c'est alors qu'en la surprenant, il lui arrache ce portrait.
@@ -360,7 +360,7 @@ Mais rends-moi mon portrait, sans te jouer de moi.
 -*who_sganarelle
 Oui, tu crois m'échapper, je l'aurai malgré toi.
 
-**** *book_ *id_I07 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I07 *act_I *date_1660 *creator_moliere
 
 Lélie avait déjà trop causé de trouble dans l'esprit de tous nos Acteurs, pour ne pas venir faire paraître les siens sur la Scène : En effet, il n'y arrive pas plus tôt, que l'on voit la tristesse peinte sur son visage.
 Il fait voir que de la campagne où il était, il s'est rendu au plutôt à Paris, sur le bruit de l'hymen de Célie.
@@ -433,7 +433,7 @@ Et sans m'importuner, va manger si tu veux.
 -*who_grosrene
 Je ne réplique point à ce qu'un Maître ordonne.
 
-**** *book_ *id_I08 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I08 *act_I *date_1660 *creator_moliere
 
 Je ne vous dirai rien de cette scène, puisqu'elle ne contient que ces trois vers.
 
@@ -442,7 +442,7 @@ Non non, à trop de peur mon âme s'abandonne,
 Le père m'a promis et la fille a fait voir
 Des preuves d'un amour qui soutient mon espoir.
 
-**** *book_ *id_I09 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I09 *act_I *date_1660 *creator_moliere
 
 C'est ici que l'Auteur fait voir qu'il ne sait pas moins bien représenter une Pièce, qu'il la sait composer ; puisque l'on ne vit jamais rien de si bien joué que cette Scène.
 Sganarelle ayant arraché à sa femme le portrait qu'elle lui venait de reprendre, vient pour le considérer à loisir, lorsque Lélie, voyant que cette boîte ressemblait fort à celle où était le portrait qu'il avait donné à sa Maîtresse, s'approche de lui pour le regarder par-dessus son épaule ; tellement que Sganarelle voyant qu'il n'a pas le loisir de considérer ce portrait comme il le voudrait bien, et que de quelque côté qu'il se puisse tourner, il est obsédé par Lélie : Et Lélie enfin de son côté ne doutant plus que ce ne soit son portrait, et impatient de savoir de qui Sganarelle peut l'avoir eu, s'enquiert de lui comment il est tombé entre ses mains.
@@ -544,7 +544,7 @@ Oui, son mari, vous dis-je, et mari très marri,
 Vous en savez la cause et je m'en vais l'apprendre
 Sur l'heure à ses parents.
 
-**** *book_ *id_I10 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I10 *act_I *date_1660 *creator_moliere
 
 Lélie se plaint dans cette Scène de l'infidélité de sa Maîtresse, et l'outrage qu'elle lui fait, ne l'abattant pas moins que les longs travaux de son voyage, le fait tomber en faiblesse.
 Plusieurs ont assez ridiculement repris cette Scène, sans avoir pour justifier leur impertinence, autre chose à dire sinon que l'infidélité d'une Maîtresse n'était pas capable de faire évanouir un homme.
@@ -567,7 +567,7 @@ Se mêlant aux travaux d'un assez long voyage,
 Me donne tout à coup un choc si violent,
 Que mon cœur devient faible, et mon corps chancelant.
 
-**** *book_ *id_I11 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I11 *act_I *date_1660 *creator_moliere
 
 Voyons si quelqu'un n'aura point de pitié de ce pauvre Amant qui tombe en faiblesse.
 La Femme de Sganarelle, en colère contre son mari, de ce qu'il lui avait emporté ce bijou qu'elle avait trouvé, sort de chez elle, et voyant Lélie qui commençait à s'évanouir, le fait entrer dans sa salle, en attendant que son mal se passe.
@@ -588,7 +588,7 @@ Entrez dans cette salle en attendant qu'il passe.
 -*who_lelie
 Pour un moment ou deux, j'accepte cette grâce.
 
-**** *book_ *id_I12 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I12 *act_I *date_1660 *creator_moliere
 
 Il faudrait avoir le pinceau de Poussin, Le Brun, et Mignard, pour vous représenter avec quelle posture Sganarelle se fait admirer dans cette Scène, où il paraît avec un parent de sa femme.
 L'on n'a jamais vu tenir de discours si naïfs, ni paraître avec un visage si niais, et l'on ne doit pas moins admirer l'Auteur pour avoir fait cette Pièce, que pour la manière dont il la représente.
@@ -615,7 +615,7 @@ Et si l'homme après tout lui peut être connu.
 Informez-vous-en donc, et si c'est ce qu'on pense,
 Nous serons les premiers à punir son offense.
 
-**** *book_ *id_I13 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I13 *act_I *date_1660 *creator_moliere
 
 Sganarelle, pour ne point démentir son caractère, qui fait voir un homme facile à prendre toutes sortes d'impressions, croit facilement ce que le bonhomme lui dit, et commence à se persuader qu'il s'est trop tôt mis dans la tête des visions cornues, lorsque Lélie sortant de chez lui avec sa Femme qui le conduit, le fait de nouveau rentrer en jalousie.
 Les vers qu'il dit dans cette Scène vous feront mieux voir son caractère que je ne vous l'ai dépeint.
@@ -629,7 +629,7 @@ Par ce portrait enfin dont je suis alarmé,
 Mon déshonneur n'est pas tout à fait confirmé,
 Tâchons donc par nos soins…
 
-**** *book_ *id_I14 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I14 *act_I *date_1660 *creator_moliere
 
 Je ne vous dis rien de cette Scène, et je vous laisse juger par ces vers de la surprise de Sganarelle.
 
@@ -649,7 +649,7 @@ De l'obligeant secours que vous m'avez prêté.
 -*who_sganarelle
 La masque encore après lui fait civilité.
 
-**** *book_ *id_I15 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I15 *act_I *date_1660 *creator_moliere
 
 Lélie donne sans y penser le change à Sganarelle dans cette Scène, et ne le surprend pas moins que l'autre a tantôt fait, en lui disant qu'il tenait son portrait des mains de sa femme.
 Pour mieux juger de la surprise de Sganarelle, vous pouvez lire ces Vers, dont le dernier est placé si à propos, que jamais Pièce entière n'a fait tant d'éclat que ce vers seul.
@@ -664,7 +664,7 @@ Et n'imputer mes maux qu'aux rigueurs de mon sort.
 Envions seulement le bonheur de sa flamme.
 Oh ! trop heureux d'avoir une si belle femme.
 
-**** *book_ *id_I16 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I16 *act_I *date_1660 *creator_moliere
 
 L'on peut dire que cette Scène en contient deux, puisque Sganarelle fait une espèce de Monologue, pendant que Célie, qui avait vu sortir son Amant d'avec lui, le conduit des yeux, jusqu'à ce qu'elle l'ait perdu de vue, pour voir si elle ne s'est point trompée.
 Sganarelle, de son côté, regarde aussi en aller Lélie, et fait voir le dépit qu'il a de ne lui avoir pas fait insulte, après l'assurance qu'il croit avoir d'être Cocu de lui.
@@ -800,7 +800,7 @@ Qu'à des plaintes sans fruit j'en veuille demeurer,
 Mon cœur pour se venger sait ce qu'il te faut faire,
 Et j'y cours de ce pas, rien ne m'en peut distraire.
 
-**** *book_ *id_I17 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I17 *act_I *date_1660 *creator_moliere
 
 Si j'avais tantôt besoin de ces excellents Peintres que je vous ai nommés, pour vous dépeindre le visage de Sganarelle ; j'aurais maintenant besoin et de leur pinceau et de la plume des plus excellents Orateurs pour vous décrire cette Scène.
 Jamais il ne se vit rien de plus beau, jamais rien de mieux joué, et jamais Vers ne furent si généralement estimés.
@@ -879,7 +879,7 @@ Je vais dire partout qu'il couche avec ma femme.
 
 Avouez-moi maintenant la vérité, est-il pas vrai, Monsieur, que vous avez trouvé ces Vers tout à fait beaux, que vous ne vous êtes pu vous empêcher de les relire encore une fois, et que vous demeurez d'accord que Paris a eu raison de nommer cette scène, la belle Scène ?
 
-**** *book_ *id_I18 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I18 *act_I *date_1660 *creator_moliere
 
 Célie n'ayant point trouvé de moyen plus propre pour punir son amant que d'épouser Valère, dit à son père qu'elle est prête de suivre en tout ses volontés, de quoi le bon vieillard témoigne être beaucoup satisfait, comme vous pouvez voir par ces Vers.
 
@@ -903,7 +903,7 @@ Sans que l'on ait sujet de s'en scandaliser.
 Va, le contentement de te voir si bien née
 Me fera rajeunir de dix fois une année.
 
-**** *book_ *id_I19 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I19 *act_I *date_1660 *creator_moliere
 
 Vous pourrez dans les cinq Vers qui suivent, apprendre tout le sujet de cette Scène.
 
@@ -925,7 +925,7 @@ Qu'il était en ces lieux sans…
 -*who_suivante
 Mais il vient à nous.
 
-**** *book_ *id_I20 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I20 *act_I *date_1660 *creator_moliere
 
 Dans cette Scène, Lélie qui avait fait dessein de s'en retourner, vient trouver Célie, pour lui dire un éternel adieu, et se plaindre de son infidélité, dans la pensée qu'il a, qu'elle est mariée à Sganarelle ; lorsque Célie, qui croit avoir plus de lieu de se plaindre que lui, lui reproche de son côté sa perfidie, ce qui ne donne pas un médiocre contentement à l'auditeur, qui connaît l'innocence de l'un et de l'autre, et comme vous la connaissez aussi, je crois que ces vers vous pourront divertir.
 
@@ -952,7 +952,7 @@ Qui rend donc contre moi ce courroux légitime ?
 -*who_celie
 Quoi tu fais le surpris, et demandes ton crime ?
 
-**** *book_ *id_I21 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I21 *act_I *date_1660 *creator_moliere
 
 Sganarelle, qui comme vous avez vu dans la fin de la belle Scène (puisqu'elle n'a point à présent d'autre nom dans Paris) a pris résolution de se venger de Lélie, vient pour cet effet dans cette Scène, armé de toutes pièces ; et comme il ne se l'aperçoit pas d'abord, il ne lui promet pas moins que la mort dès qu'il le rencontrera.
 Mais comme il est de ceux qui n'exterminent leurs ennemis que quand ils sont absents, aussitôt qu'il aperçoit Lélie, bien loin de lui passer l'épée au travers du corps, il ne lui fait que des révérences, et puis se retirant à quartier, il s'excite à faire quelque effort généreux et à le tuer par-derrière : et se mettant après en colère contre lui-même de ce que sa poltronnerie ne lui permet pas seulement de le regarder entre deux yeux, il se punit lui-même de sa lâcheté, par les coups et les soufflets qu'il se donne, et l'on peut dire, que quoique bien souvent l'on ait vu des Scènes semblables, Sganarelle sait si bien animer cette action, qu'elle paraît nouvelle au Théâtre.
@@ -1076,7 +1076,7 @@ Parle, parle à lui-même, il pourra t'éclaircir.
 Vous me défendez mieux que je ne saurais faire,
 Et du biais qu'il faut vous prenez cette affaire.
 
-**** *book_ *id_I22 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I22 *act_I *date_1660 *creator_moliere
 
 Dans la quatrième Scène de cette Pièce, la femme de Sganarelle, qui avait pris de la jalousie en voyant Célie entre les bras de son mari, vient pour lui faire des reproches (ce qui fait voir la merveilleuse conduite de cet ouvrage).
 Jugez de la beauté qu'un agréable malentendu produit dans cette Scène.
@@ -1209,7 +1209,7 @@ Mais je le vois venir.
 -*who_lelie
 Il me tiendra parole.
 
-**** *book_ *id_I23 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I23 *act_I *date_1660 *creator_moliere
 
 Lélie, dans cette Scène, demande l'effet de sa parole à Gorgibus.
 Gorgibus lui refuse sa fille, et Célie ne se résout qu'à peine d'obéir à son père, comme vous pouvez voir en lisant.
@@ -1244,7 +1244,7 @@ Tu te démens bien tôt de tes bons sentiments,
 Pour Valère tantôt… mais j'aperçois son père,
 Il vient assurément pour conclure l'affaire.
 
-**** *book_ *id_I24 *act_I *date_1662 *creator_moliere
+**** *book_ *id_I24 *act_I *date_1660 *creator_moliere
 
 La joie que Célie avait eue en apprenant que son amant ne lui était pas infidèle, eût été de courte durée, si le père de Valère ne fut pas venu à temps pour les retirer tous deux de peine.
 Vous pourrez voir dans le reste des vers de cette Pièce, que voici le sujet qui le fait venir.

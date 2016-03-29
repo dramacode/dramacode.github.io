@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1669
+**** *book_ *id_I01 *act_I *date_1668
 
 -*who_george_dandin
 Ah ! qu'une femme Demoiselle est une étrange affaire, et que mon mariage est une leçon bien parlante à tous les Paysans qui veulent s'élever au-dessus de leur condition, et s'allier comme j'ai fait à la maison d'un Gentilhomme.
@@ -11,7 +11,7 @@ C'est notre bien seul qu'ils épousent, et j'aurais bien mieux fait, tout riche 
 George Dandin, George Dandin, vous avez fait une sottise la plus grande du monde.
 Ma maison m'est effroyable maintenant, et je n'y rentre point sans y trouver quelque chagrin.
 
-**** *book_ *id_I02 *act_I *date_1669
+**** *book_ *id_I02 *act_I *date_1668
 
 -*who_george_dandin
 Que diantre ce drôle-là vient-il faire chez moi ?
@@ -185,7 +185,7 @@ Oui, oui.
 -*who_lubin
 Pour moi je vais faire semblant de rien, je suis un fin matois, et l'on ne dirait pas que j'y touche.
 
-**** *book_ *id_I03 *act_I *date_1669
+**** *book_ *id_I03 *act_I *date_1668
 
 -*who_george_dandin
 Hé bien, George Dandin, vous voyez de quel air votre femme vous traite.
@@ -198,7 +198,7 @@ Morbleu je ne veux point laisser passer une occasion de la sorte.
 Il me faut de ce pas aller faire mes plaintes au père et à la mère, et les rendre témoins à telle fin que de raison, des sujets de chagrin et de ressentiment que leur fille me donne.
 Mais les voici l'un et l'autre fort à propos.
 
-**** *book_ *id_I04 *act_I *date_1669
+**** *book_ *id_I04 *act_I *date_1668
 
 -*who_monsieur_de_sotenville
 Qu'est-ce, mon gendre ? vous me paraissez tout troublé.
@@ -354,7 +354,7 @@ Suivez-moi, mon gendre, et ne vous mettez pas en peine, vous verrez de quel bois
 -*who_george_dandin
 Le voici qui vient vers nous.
 
-**** *book_ *id_I05 *act_I *date_1669
+**** *book_ *id_I05 *act_I *date_1668
 
 -*who_monsieur_de_sotenville
 Monsieur, suis-je connu de vous ?
@@ -441,7 +441,7 @@ Oui, c'est lui-même qui s'en est plaint à moi.
 -*who_clitandre
 Certes, il peut remercier l'avantage qu'il a de vous appartenir, et sans cela je lui apprendrais bien à tenir de pareils discours d'une personne comme moi.
 
-**** *book_ *id_I06 *act_I *date_1669
+**** *book_ *id_I06 *act_I *date_1668
 
 -*who_madame_de_sotenville
 Pour ce qui est de cela, la jalousie est une étrange chose !J'amène ici ma fille pour éclaircir l'affaire en présence de tout le monde.
@@ -669,14 +669,14 @@ Voilà, mon gendre, comme il faut pousser les choses.
 Adieu.
 Sachez que vous êtes entré dans une famille qui vous donnera de l'appui, et ne souffrira point que l'on vous fasse aucun affront.
 
-**** *book_ *id_I07 *act_I *date_1669
+**** *book_ *id_I07 *act_I *date_1668
 
 -*who_george_dandin
 Ah que je...
 Vous l'avez voulu, vous l'avez voulu, George Dandin, vous l'avez voulu, cela vous sied fort bien, et vous voilà ajusté comme il faut,vous avez justement ce que vous méritez.
 Allons il s'agit seulement de désabuser le père et la mère et je pourrai trouver peut-être quelque moyen d y réussir.
 
-**** *book_ *id_II01 *act_II *date_1669
+**** *book_ *id_II01 *act_II *date_1668
 
 -*who_claudine
 Oui, j'ai bien deviné qu'il fallait que cela vînt de toi, et que tu l'eusses dit à quelqu'un qui l'ait rapporté à notre Maître.
@@ -844,7 +844,7 @@ Adieu rocher, caillou, pierre de taille, et tout ce qu'il y a de plus dur au mon
 Je vais remettre aux mains de ma Maîtresse...
 Mais la voici avec son Mari, éloignons-nous, et attendons qu'elle soit seule.
 
-**** *book_ *id_II02 *act_II *date_1669
+**** *book_ *id_II02 *act_II *date_1668
 
 -*who_george_dandin
 Non non, on ne m'abuse pas avec tant de facilité, et je ne suis que trop certain que le rapport que l'on m'a fait est véritable.
@@ -945,7 +945,7 @@ Moi je suis votre femme, et je vous dis que je l'entends.
 Il me prend des tentations d'accommoder tout son visage à la compote, et le mettre en état de ne plaire de sa vie aux diseurs de fleurettes.
 Ah ! allons, George Dandin, je ne pourrais me retenir, et il vaut mieux quitter la place.
 
-**** *book_ *id_II03 *act_II *date_1669
+**** *book_ *id_II03 *act_II *date_1668
 
 -*who_claudine
 J'avais, Madame, impatience qu'il s'en allât pour vous rendre ce mot de la part que vous savez.
@@ -969,7 +969,7 @@ Demeure ici, je m'en vais faire la réponse.
 Je n'ai pas besoin, que je pense, de lui recommander de la faire agréable.
 Mais voici...
 
-**** *book_ *id_II04 *act_II *date_1669
+**** *book_ *id_II04 *act_II *date_1668
 
 -*who_claudine
 Vraiment, Monsieur, vous avez pris là un habile messager.
@@ -1009,7 +1009,7 @@ Mais le trouvera-t-elle bon, et n'y a-t-il rien à risquer ?
 -*who_lubin
 Testiguenne que j'aurai là une habile femme, elle a de l'esprit comme quatre.
 
-**** *book_ *id_II05 *act_II *date_1669
+**** *book_ *id_II05 *act_II *date_1668
 
 -*who_george_dandin
 Voici mon homme de tantôt.
@@ -1081,7 +1081,7 @@ Je te donnerai...
 -*who_lubin
 Tarare !
 
-**** *book_ *id_II06 *act_II *date_1669
+**** *book_ *id_II06 *act_II *date_1668
 
 -*who_george_dandin
 Je n'ai pu me servir avec cet innocent de la pensée que j'avais.
@@ -1093,7 +1093,7 @@ Pourrais-je point m'éclaircir doucement s'il y est encore ?
 Ah Ciel ! il n'en faut plus douter et je viens de l'apercevoir par le trou de la porte.
 Le sort me donne ici de quoi confondre ma partie, et pour achever l'aventure il fait venir à point nommé les juges dont j'avais besoin.
 
-**** *book_ *id_II07 *act_II *date_1669
+**** *book_ *id_II07 *act_II *date_1668
 
 -*who_george_dandin
 Enfin vous ne m'avez pas voulu croire tantôt, et votre fille l'a emporté sur moi.
@@ -1187,7 +1187,7 @@ Mon Dieu, vous allez voir.
 Tenez.
 Ai-je menti ?
 
-**** *book_ *id_II08 *act_II *date_1669
+**** *book_ *id_II08 *act_II *date_1668
 
 -*who_angelique
 Adieu.
@@ -1277,7 +1277,7 @@ Oui, j'admire mon malheur, et la subtile adresse de ma carogne de femme pour se 
 Est-il possible que toujours j'aurai du dessous avec elle ; que les apparences toujours tourneront contre moi, et que je ne parviendrai point à convaincre mon effrontée ?
 Ô Ciel ! seconde mes desseins, et m'accorde la grâce de faire voir aux gens que l'on me déshonore.
 
-**** *book_ *id_III01 *act_III *date_1669
+**** *book_ *id_III01 *act_III *date_1668
 
 -*who_clitandre
 La nuit est avancée, et j'ai peur qu'il ne soit trop tard.
@@ -1345,7 +1345,7 @@ Monsieur, je vous suis…
 Chut.
 J'entends quelque bruit.
 
-**** *book_ *id_III02 *act_III *date_1669
+**** *book_ *id_III02 *act_III *date_1668
 
 -*who_angelique
 Claudine.
@@ -1433,7 +1433,7 @@ C'est fort bien avisé.
 -*who_lubin
 Claudine, où est-ce que tu es ?
 
-**** *book_ *id_III03 *act_III *date_1669
+**** *book_ *id_III03 *act_III *date_1668
 
 -*who_george_dandin
 entendu descendre ma femme, et je me suis vite habillé pour descendre après elle.
@@ -1465,7 +1465,7 @@ Il fuit, et me laisse informé de la nouvelle perfidie de ma coquine.
 Allons, il faut que sans tarder, j'envoie appeler son père et sa mère, et que cette aventure me serve à me faire séparer d'elle.
 Holà, Colin, Colin.
 
-**** *book_ *id_III04 *act_III *date_1669
+**** *book_ *id_III04 *act_III *date_1668
 
 -*who_colin
 Monsieur.
@@ -1558,7 +1558,7 @@ Et moi je vais rentrer dans ma maison, attendant que. … Mais j'entends quelqu'
 Ne serait-ce point ma femme ?
 Il faut que j'écoute, et me serve de l'obscurité qu'il fait.
 
-**** *book_ *id_III05 *act_III *date_1669
+**** *book_ *id_III05 *act_III *date_1668
 
 -*who_angelique
 Adieu.
@@ -1634,7 +1634,7 @@ Où es-tu, Claudine que je te donne le bonsoir.
 -*who_claudine
 Va, va, je le reçois de loin, et je t'en renvoie autant.
 
-**** *book_ *id_III06 *act_III *date_1669
+**** *book_ *id_III06 *act_III *date_1668
 
 -*who_angelique
 Rentrons sans faire de bruit.
@@ -1848,7 +1848,7 @@ Va, va, traître, je suis lasse de tes déportements, et je m'en veux plaindre s
 -*who_george_dandin
 Quoi c'est ainsi que vous osez...
 
-**** *book_ *id_III07 *act_III *date_1669
+**** *book_ *id_III07 *act_III *date_1668
 
 -*who_angelique
 Approchez de grâce, et venez me faire raison de l'insolence la plus grande du monde, d'un mari à qui le vin et la jalousie ont troublé de telle sorte la cervelle, qu'il ne sait plus ni ce qu'il dit, ni ce qu'il fait, et vous a lui-même envoyé querir pour vous faire témoins de l'extravagance la plus étrange dont on ait jamais ouï parler.
@@ -2049,7 +2049,7 @@ Adieu.
 Rentrez chez vous, et songez bien à être sage.
 Et nous, mamour, allons nous mettre au lit.
 
-**** *book_ *id_III08 *act_III *date_1669
+**** *book_ *id_III08 *act_III *date_1668
 
 -*who_george_dandin
 Ah ! je le quitte maintenant, et je n'y vois plus de remède, lorsqu'on a comme moi épousé une méchante femme, le meilleur parti qu'on puisse prendre, c'est de s'aller jeter dans l'eau la tête la première.
