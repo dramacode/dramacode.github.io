@@ -29,7 +29,16 @@ class Dramacode
       "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
     ),
     "tc" => array(
-      "glob" => '../theatre-classique/RACINE*.xml ../theatre-classique/CORNEILLEP_*.xml ../theatre-classique/BOISROBERT_*.xml ../theatre-classique/CYRANO_*.xml ../theatre-classique/ROTROU_*.xml',
+      "glob" => '
+        ../theatre-classique/BOISROBERT_*.xml
+        ../theatre-classique/CORNEILLEP_*.xml
+        ../theatre-classique/CYRANO_*.xml
+        ../theatre-classique/GILLET_*.xml
+        ../theatre-classique/RACINE*.xml
+        ../theatre-classique/ROTROU_*.xml
+        ../theatre-classique/SCARRON_*.xml
+        ../theatre-classique/VILLIERS_*.xml
+      ',
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
       "source" => "http://dramacode.github.io/theatre-classique/%s.xml",
@@ -93,7 +102,7 @@ CREATE TABLE play (
   source     TEXT,    -- XML TEI refercenced URI
   author     TEXT,    -- auteur
   title      TEXT,    -- titre
-  year       INTEGER, -- année, généralement la publication papier est la seule date sûre
+  date       INTEGER, -- année, généralement la publication papier est la seule date sûre
   acts       INTEGER, -- nombre d’actes, essentiellement 5, 3, 1 ; ajuster pour les prologues
   verse      BOOLEAN, -- uniquement si majoritairement en vers, ne pas cocher si chanson mêlée à de la prose
   genrecode  TEXT,    -- comedy|tragedy
@@ -101,8 +110,8 @@ CREATE TABLE play (
   PRIMARY KEY(id ASC)
 );
 CREATE UNIQUE INDEX play_code ON play(code);
-CREATE INDEX play_author_year ON play(author, year, title);
-CREATE INDEX play_year_author ON play(year, author, title);
+CREATE INDEX play_author_date ON play(author, date, title);
+CREATE INDEX play_date_author ON play(date, author, title);
 CREATE INDEX play_setcode ON play(setcode);
 
   ";
@@ -230,7 +239,7 @@ CREATE INDEX play_setcode ON play(setcode);
       sprintf (self::$sets[$setcode]['source'], $teinte->filename),
       $meta['author'],
       $meta['title'],
-      $meta['year'],
+      $meta['date'],
       $meta['acts'],
       $meta['verse'],
       $genrecode,
@@ -245,7 +254,7 @@ CREATE INDEX play_setcode ON play(setcode);
       $playcode = $this->pdo->quote($playcode);
       $play = $this->pdo->query("SELECT * FROM play WHERE code = $playcode")->fetch();
     }
-    $bibl = $play['author'].', '.$play['title'].' ('.$play['year'];
+    $bibl = $play['author'].', '.$play['title'].' ('.$play['date'];
     if ($play['genre'] == 'tragedy') $bibl .= ', tragédie';
     else if ($play['genre'] == 'comedy') $bibl .= ', comédie';
     $bibl .= ', '.$play['acts'].(($play['acts']>2)?" actes":" acte");
@@ -273,14 +282,14 @@ CREATE INDEX play_setcode ON play(setcode);
   </thead>
     ';
     $i = 1;
-    foreach ($this->pdo->query("SELECT * FROM play ORDER BY author, year") as $play) {
+    foreach ($this->pdo->query("SELECT * FROM play ORDER BY author, date") as $play) {
       $set = self::$sets[$play['setcode']];
       echo "\n    <tr>\n";
       echo "      <td>$i</td>\n";
       if ($play['identifier']) echo '      <td><a href="'.$play['identifier'].'">'.$play['publisher']."</a></td>\n";
       else echo '      <td>'.$play['publisher']."</td>\n";
       echo '      <td>'.$play['author']."</td>\n";
-      echo '      <td>'.$play['year']."</td>\n";
+      echo '      <td>'.$play['date']."</td>\n";
       if ($play['identifier']) echo '      <td><a href="'.$play['identifier'].'">'.$play['title']."</a></td>\n";
       else echo '      <td>'.$play['title']."</td>\n";
       echo '      <td>';
@@ -330,7 +339,7 @@ CREATE INDEX play_setcode ON play(setcode);
     // table temporaire en mémoire
     $this->pdo->exec("PRAGMA temp_store = 2;");
     $this->_insert = $this->pdo->prepare("
-    INSERT INTO play (setcode, code, filemtime, publisher, identifier, source, author, title, year, acts, verse, genrecode, genre)
+    INSERT INTO play (setcode, code, filemtime, publisher, identifier, source, author, title, date, acts, verse, genrecode, genre)
               VALUES (?,       ?,    ?,         ?,         ?,          ?,      ?,      ?,     ?,    ?,    ?,     ?,         ?);
     ");
     $this->_sqlmtime = $this->pdo->prepare("SELECT filemtime FROM play WHERE code = ?");
@@ -400,7 +409,7 @@ CREATE INDEX play_setcode ON play(setcode);
     if (!count($_SERVER['argv'])) {
       $base = new Dramacode($sqlite, STDERR);
       foreach(self::$sets as $setcode=>$setrow) {
-        foreach(split(' ', $setrow['glob']) as $glob) {
+        foreach(preg_split('@\s+@', $setrow['glob']) as $glob) {
           foreach(glob($glob) as $file) {
             $base->add($file, $setcode);
           }
