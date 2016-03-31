@@ -13,8 +13,7 @@ Tragédie
 REPRESENTÉE Par l'Academie Royale de Musique
 
 On la vend A PARIS, A l'Entrée de la Porte de l'Académie Royale de Musique, au Palais Royal ruë Saint Honoré. Imprimé aux despens de ladite Academie. Par RENÉ BAUDRY Imprimeur ordinaire Du Roy, & ladite Academie. M. DC. LXXVIII. Par Privilege du Roy.
-Édition critique établie par Luke Arnason dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (2005)
+Édition critique établie par Luke Arnason dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2005)
 
 
 # Introduction
@@ -832,7 +831,7 @@ Psyché vient. A la voir je tremble.
         Quel supplice !  
 Le moyen de luy dire adieu ?  
 
-    PSYCHE’  *à ses sœurs.*
+    PSYCHE’ *à ses sœurs.*
 Ainsi pour vous rendre en ce lieu  
 Vous avez prévenu⁎ l'heure du Sacrifice ?  
 
@@ -2129,7 +2128,7 @@ C'est dans le Vin qu'on trouve les bons mots.
 Voulez-vous des douceurs parfaites ?  
 Ne les cherchez qu'au fonds des Pots.  
 Une Troupe de Polichinelles⁎ & de Matassins⁎ vient joindre leurs plaisanteries & leurs badinages aux Divertissements de cette grande Feste [136]. Mome qui les conduit chante au milieu d'eux une Chanson enjoüée sur le sujet des avantages & des plaisirs de la Raillerie.
-
+ 
 
     *CHANSON DE* MOME.
 
@@ -2185,7 +2184,7 @@ LOUIS par la grace de Dieu Roy de France & de Navarre : A nos amez & féaux Con
 
 (B) : *Dictionnaire de la Musique en France au XVII*e* et XVIII*e* siècles* de Marcelle Benoit
 
-(F) : *Dictionnaire* de FuretièreAdorerSe dit « par exageration, pour dire, Aimer avec une passion excessive, » mais au sens propre, il veut dire « rendre culte à un Estre que l'on reconnoist pour Dieu » (A).V. 320, 389d'Ailleurs.« Sert quelquefois de conjonction ou de transition, quand on veut alleguer une nouvelle raison » (F). Par ailleurs.DédicaceBoëte.Une boite. Malgré le tréma, il n'y a pas de diphtongue, et donc le mot se prononce en un syllabe au v. 618 (grâce à la liaison avec « où » ) et en deux syllabes au v. 741.V. 618, 741Chaconne.« Danse de théâtre à trois temps, au tempo modéré et soutenu. Le thême musical est développé dans un enchaînement de variations qui offrent au danseur un large éventail d'interprétation à l'intérieur de la danse » (B). Ajoutons que cet enchaînement de variations s'élabore sur une basse obstinée, c'est à dire sur quatre mesures qui se répètent.Note didascalie v. 342Complaisance.« Deference aux sentimens, & aux volontez d'autrui. La complaisance est d'ordinaire accompagnée de flatterie » (F).V. 486Concupiscence.Ce mot ne s'employe ordinairement que dans des matieres de pieté. Il signifie l'appetit dereglé qui est demeuré dans l'homme depuis & par le peché : convoitise, passion dereglée de posseder quelque chose » (F). Découvrir.Furetière donne de nombreux sens au mot découvrir. Au sens propre, il veut dire « Oter le couvercle, la couverture, le rideau ou autre chose qui empêchoit de voir quelque chose » (F), mais signifie aussi « Montrer une chose qu'on doit cacher » et « Trouver quelque chose de nouveau, de secret qui nous étoit auparavant inconnu ». Venus joue avec le double sens entre une conception figurée du premier sens du mot (i.e. exposer sa désobéissance à l'Amour) et le troisième sens (i.e. découvrir sa vraie identité). V. 541, didascalie v. 551Disgrâce.Au sens propre, ce mot veut dire une « diminution, perte de faveur » (F). Mais il peut signifier tout simplement un malheur ou un accident. V. 114, didascalie v. 147Ennui.Chagrin.V. 145, 739, 780, 789Etonner.« Surprendre, épouvanter ; causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte » (F)V. 844Garantir.« Exemter, deffendre, preserver de quelque mal, ou accident. ...  Il n'y a point de remede qui puisse *garentir* de la mort » (F). V. 719Gloire.« On appelle en termes des Peinture, & d'opera *gloire*, un ciel ouvert & lumineux, ou une representation imparfaite de la *gloire* celeste » (F). Didascalie v. 797, didascalie v. 819Incontinent.« s ur l'heure, dans un moment. ...  J'irai là *incontinent* après dîné » (F). Didascalie v. 662Inquiétude.« Chagrin, souci, ennui, trouble, affliction d'esprit. Rien ne peut calmer mon inquietude. Il est dans des inquietudes mortelles sur ce qu'on lui a dit du danger où est son frere. Tirez moi de la sombre inquietude où je suis » (F).V. 583Intéresser pour (s').« Entrer dans les interêts de quelcun. ... De bon coeur je m'intéresse dans tous vos maux et tous vos biens » (F). Prendre un intérêt pour quelqu'un.V. 276, 287Matassins.Les Matassins sont ceux qui dansent une danse du même nom et que Furetière décrit comme une « e spece de danse folâtre. »Didascalie v. 819, didascalie v. 918Menuet.« Danse de cour et de théâtre à 3 temps, vive et légère. ... La danse est composée de figures obligées : la principale est le S. ... Le menuet doit ... être exécuté dans un style net et précis, qui en fait l'archétype de la Belle Danse i. e. de cour . A la scène, les chorégraphies sont plus savantes, les pas de danse théâtrale venant s'ajouter aux pas de menuet » (B). Moitié.« Se dit figurément de gens mariez, & sur tout de la femme. Il a perdu sa chere *moitié* » (F). V. 268Objet.« Se dit poëtiquement des belles personnes qui donnent de l'amour. C'est un bel *objet*, un *objet* charmant » (F). V. 17Partage.« Une possession ou portion, qui nous vient par droit hereditaire. Cette Seigneurie est mon *partage* » (F).V. 60Polichinel.« Sorte de Boufon qui jouë les rôles Comiques dans les farces Italiennes » (F). En écrivant « polichinelles » au lieu de « polichinels », peut-on supposer que Quinault les désigne comme femmes ?  La danse de l'époque nécessite qu'un homme et une femme dansent ensemble. On voit, par conséquent, des troupes d'hommes et troupes de femmes apparaître ensemble sur scène ; les nymphes et sylvains du prologue, les Ménades (femmes) et Aegipans (hommes) de Bacchus, etc. On peut supposer, donc, que les Polichinelles et Matassins forment une de ses paires.Didascalie v. 819, didascalie v. 918Pompeux.« Qui se fait avec pompe & avec magnificence ; qui est magnifique, splendide, fastueux. Cette entrée, ce carrousel, étoient fort *pompeux*. La Cour de France est toûjours *pompeuse*, & fort leste » (F). Ce mot n'a aucune des connotations négatives d'aujourd'hui.V. 244Prévenir.Ce mot signifie normalement être le premier à faire quelque chose. Il peut également signifier empêcher, mais dans le contexte du v. 185, il veut dire devancer. Au passif il signifie, comme aujourd'hui, être averti de quelque chose, comme au v. 82.V. 185Réduire.Terme chimique, mais qui a plusieurs sens figurés, dont, « Dompter, vaincre, subjuguer. Le Roi a reduit sous son obeïssance plusieurs places fortes & des Provinces entieres, » et « Obliger, forcer, contraindre, pousser. Ne me reduisez point à cela, je vous prie » (F).V. 310Soin.Souci.V. 461, 695Travail.« Application à quelque exercice pénible » (F).V. 461
+(F) : *Dictionnaire* de FuretièreAdorerSe dit « par exageration, pour dire, Aimer avec une passion excessive, » mais au sens propre, il veut dire « rendre culte à un Estre que l'on reconnoist pour Dieu » (A).V. 320, 389d'Ailleurs.« Sert quelquefois de conjonction ou de transition, quand on veut alleguer une nouvelle raison » (F). Par ailleurs.DédicaceBoëte.Une boite. Malgré le tréma, il n'y a pas de diphtongue, et donc le mot se prononce en un syllabe au v. 618 (grâce à la liaison avec « où » ) et en deux syllabes au v. 741.V. 618, 741Chaconne.« Danse de théâtre à trois temps, au tempo modéré et soutenu. Le thême musical est développé dans un enchaînement de variations qui offrent au danseur un large éventail d'interprétation à l'intérieur de la danse » (B). Ajoutons que cet enchaînement de variations s'élabore sur une basse obstinée, c'est à dire sur quatre mesures qui se répètent.Note didascalie v. 342Complaisance.« Deference aux sentimens, & aux volontez d'autrui. La complaisance est d'ordinaire accompagnée de flatterie » (F).V. 486Concupiscence.Ce mot ne s'employe ordinairement que dans des matieres de pieté. Il signifie l'appetit dereglé qui est demeuré dans l'homme depuis & par le peché : convoitise, passion dereglée de posseder quelque chose » (F). Découvrir.Furetière donne de nombreux sens au mot découvrir. Au sens propre, il veut dire « Oter le couvercle, la couverture, le rideau ou autre chose qui empêchoit de voir quelque chose » (F), mais signifie aussi « Montrer une chose qu'on doit cacher » et « Trouver quelque chose de nouveau, de secret qui nous étoit auparavant inconnu ». Venus joue avec le double sens entre une conception figurée du premier sens du mot (i.e. exposer sa désobéissance à l'Amour) et le troisième sens (i.e. découvrir sa vraie identité). V. 541, didascalie v. 551Disgrâce.Au sens propre, ce mot veut dire une « diminution, perte de faveur » (F). Mais il peut signifier tout simplement un malheur ou un accident. V. 114, didascalie v. 147Ennui.Chagrin.V. 145, 739, 780, 789Etonner.« Surprendre, épouvanter ; causer à l'ame de l'émotion, soit par surprise, soit par admiration, soit par crainte » (F)V. 844Garantir.« Exemter, deffendre, preserver de quelque mal, ou accident. ... Il n'y a point de remede qui puisse *garentir* de la mort » (F). V. 719Gloire.« On appelle en termes des Peinture, & d'opera *gloire*, un ciel ouvert & lumineux, ou une representation imparfaite de la *gloire* celeste » (F). Didascalie v. 797, didascalie v. 819Incontinent.« s ur l'heure, dans un moment. ... J'irai là *incontinent* après dîné » (F). Didascalie v. 662Inquiétude.« Chagrin, souci, ennui, trouble, affliction d'esprit. Rien ne peut calmer mon inquietude. Il est dans des inquietudes mortelles sur ce qu'on lui a dit du danger où est son frere. Tirez moi de la sombre inquietude où je suis » (F).V. 583Intéresser pour (s').« Entrer dans les interêts de quelcun. ... De bon coeur je m'intéresse dans tous vos maux et tous vos biens » (F). Prendre un intérêt pour quelqu'un.V. 276, 287Matassins.Les Matassins sont ceux qui dansent une danse du même nom et que Furetière décrit comme une « e spece de danse folâtre. »Didascalie v. 819, didascalie v. 918Menuet.« Danse de cour et de théâtre à 3 temps, vive et légère. ... La danse est composée de figures obligées : la principale est le S. ... Le menuet doit ... être exécuté dans un style net et précis, qui en fait l'archétype de la Belle Danse i. e. de cour . A la scène, les chorégraphies sont plus savantes, les pas de danse théâtrale venant s'ajouter aux pas de menuet » (B). Moitié.« Se dit figurément de gens mariez, & sur tout de la femme. Il a perdu sa chere *moitié* » (F). V. 268Objet.« Se dit poëtiquement des belles personnes qui donnent de l'amour. C'est un bel *objet*, un *objet* charmant » (F). V. 17Partage.« Une possession ou portion, qui nous vient par droit hereditaire. Cette Seigneurie est mon *partage* » (F).V. 60Polichinel.« Sorte de Boufon qui jouë les rôles Comiques dans les farces Italiennes » (F). En écrivant « polichinelles » au lieu de « polichinels », peut-on supposer que Quinault les désigne comme femmes ? La danse de l'époque nécessite qu'un homme et une femme dansent ensemble. On voit, par conséquent, des troupes d'hommes et troupes de femmes apparaître ensemble sur scène ; les nymphes et sylvains du prologue, les Ménades (femmes) et Aegipans (hommes) de Bacchus, etc. On peut supposer, donc, que les Polichinelles et Matassins forment une de ses paires.Didascalie v. 819, didascalie v. 918Pompeux.« Qui se fait avec pompe & avec magnificence ; qui est magnifique, splendide, fastueux. Cette entrée, ce carrousel, étoient fort *pompeux*. La Cour de France est toûjours *pompeuse*, & fort leste » (F). Ce mot n'a aucune des connotations négatives d'aujourd'hui.V. 244Prévenir.Ce mot signifie normalement être le premier à faire quelque chose. Il peut également signifier empêcher, mais dans le contexte du v. 185, il veut dire devancer. Au passif il signifie, comme aujourd'hui, être averti de quelque chose, comme au v. 82.V. 185Réduire.Terme chimique, mais qui a plusieurs sens figurés, dont, « Dompter, vaincre, subjuguer. Le Roi a reduit sous son obeïssance plusieurs places fortes & des Provinces entieres, » et « Obliger, forcer, contraindre, pousser. Ne me reduisez point à cela, je vous prie » (F).V. 310Soin.Souci.V. 461, 695Travail.« Application à quelque exercice pénible » (F).V. 461
 
 
 # Lexique mythologique
@@ -2535,13 +2534,13 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [5]  Sylvie Spycket, « Thomas Corneille et la musique », *XVII*e* siècle*, 1954, p. 447.
 
-[6]  Cet aperçu biographique n'est aucune exception.  La plupart des informations ci-dessous sont tirés de Gustave Reynier, *Thomas Corneille, Sa Vie et son théâtre*, Paris 1892, réimpr. 1970, Genève, Slatkine Reprints.
+[6]  Cet aperçu biographique n'est aucune exception. La plupart des informations ci-dessous sont tirés de Gustave Reynier, *Thomas Corneille, Sa Vie et son théâtre*, Paris 1892, réimpr. 1970, Genève, Slatkine Reprints.
 
 [7]  Antoine Adam, *Histoire de la littérature française au XVII*e* siècle*, Paris, Albin Michel, t. 2, p. 346-347.
 
-[8]  Parmi les privilèges accordés à Lully en tant que directeur de l'Académie Royale de Musique était le droit de défendre à toute autre troupe d'engager plus de 6 violons, de chanteurs étrangers à la troupe ou de danseurs professionnels, sous peine de clôture du spectacle et d'une amende considérable.  *Circé* était en violation de ces règles, la troupe ayant employé 12 violons, un clavecin et plusieurs chanteurs et danseurs.  *L'Inconnu* était en violation de ses règles aussi, mais de manière moins flagrante, et la troupe avait sans doute fait un accord avec Lully avant la création de la pièce, car le compositeur ne réclama pas ses droits.
+[8]  Parmi les privilèges accordés à Lully en tant que directeur de l'Académie Royale de Musique était le droit de défendre à toute autre troupe d'engager plus de 6 violons, de chanteurs étrangers à la troupe ou de danseurs professionnels, sous peine de clôture du spectacle et d'une amende considérable. *Circé* était en violation de ces règles, la troupe ayant employé 12 violons, un clavecin et plusieurs chanteurs et danseurs. *L'Inconnu* était en violation de ses règles aussi, mais de manière moins flagrante, et la troupe avait sans doute fait un accord avec Lully avant la création de la pièce, car le compositeur ne réclama pas ses droits.
 
-[9]  Jules Carlez, « Pierre et Thomas Corneille librettistes », Caen, *Bulletin de la Société des Beaux-Arts*, p. 163. La raison précise ne peut être que spéculation, mais deux autres hypothèses circulent parmi les critiques.  La plus courante est que Boileau et Racine, en hâte de remplacer Quinault après sa disgrâce dans l'affaire d'*Isis*, conseillèrent le roi de charger Thomas Corneille de la composition.  Ils ne pouvaient s'en charger eux-mêmes grâce à l'antipathie qui s'était déjà développé entre eux et Lully.  Corneille représentait, donc, le tiers le plus acceptable.  L'autre hypothèse, avancée par Marie-Claude Canova Green, est que Corneille était choisi grâce au succès du *Festin de Pierre* de 1677 qui était, comme *Psyché*, une adaptation d'une pièce de Molière (de *Dom Juan*).  Voir « *Psyché* : from Tragédie-Ballet to Opera (1671-1678) », *Nottingham French Studies*, vol 33, nº 1, 1994, p. 28-36.
+[9]  Jules Carlez, « Pierre et Thomas Corneille librettistes », Caen, *Bulletin de la Société des Beaux-Arts*, p. 163. La raison précise ne peut être que spéculation, mais deux autres hypothèses circulent parmi les critiques. La plus courante est que Boileau et Racine, en hâte de remplacer Quinault après sa disgrâce dans l'affaire d'*Isis*, conseillèrent le roi de charger Thomas Corneille de la composition. Ils ne pouvaient s'en charger eux-mêmes grâce à l'antipathie qui s'était déjà développé entre eux et Lully. Corneille représentait, donc, le tiers le plus acceptable. L'autre hypothèse, avancée par Marie-Claude Canova Green, est que Corneille était choisi grâce au succès du *Festin de Pierre* de 1677 qui était, comme *Psyché*, une adaptation d'une pièce de Molière (de *Dom Juan*). Voir « *Psyché* : from Tragédie-Ballet to Opera (1671-1678) », *Nottingham French Studies*, vol 33, nº 1, 1994, p. 28-36.
 
 [10]  Claude Parfaict, *Histoire de l'académie royale de musique depuis ses origines...*, s.l. s.d., p. 106.
 
@@ -2569,11 +2568,11 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [22]  Claude Parfaict, *L'Histoire de l'académie royale de musique*..., p. 106.
 
-[23]  Cependant, Buford Norman explique dans l'introduction à son édition des *Livrets d'opéra* de Quinault qu'un opéra était souvent représenté trois fois par semaine pendant le plupart de l'année, de sorte qu'il pouvait connaître jusqu'à 150 représentations entre sa création et la création du prochain opéra, l'année suivante.  Il y avait relâche pendant certaines parties de l'année (pendant trois semaines à Pâques par exemple), et l'opéra était beaucoup moins populaire pendant l'été quand les théâtres étaient excessivement chauds (voir de la Gorce, *L'opéra à Paris*).  Mais on représentait néanmoins des opéras plusieurs fois par semaine pendant 49 semaines de l'année. Norman nous explique également qu'« à titre de comparaison, les tragédies de Racine n'avait pas plus de 40 représentations au moment de leur création ».  Voir surtout p. xii et xv.
+[23]  Cependant, Buford Norman explique dans l'introduction à son édition des *Livrets d'opéra* de Quinault qu'un opéra était souvent représenté trois fois par semaine pendant le plupart de l'année, de sorte qu'il pouvait connaître jusqu'à 150 représentations entre sa création et la création du prochain opéra, l'année suivante. Il y avait relâche pendant certaines parties de l'année (pendant trois semaines à Pâques par exemple), et l'opéra était beaucoup moins populaire pendant l'été quand les théâtres étaient excessivement chauds (voir de la Gorce, *L'opéra à Paris*). Mais on représentait néanmoins des opéras plusieurs fois par semaine pendant 49 semaines de l'année. Norman nous explique également qu'« à titre de comparaison, les tragédies de Racine n'avait pas plus de 40 représentations au moment de leur création ». Voir surtout p. xii et xv.
 
 [24]  Apulée, *L'Ane d'or*, trans. Pierre Grimal, Paris, Folio, p. 113.
 
-[25]  Molière, *Psyché*, dans Pierre Corneille, *Oeuvres Complètes*, t. 3, éd. G. Couton, Paris, Gallimard « bibliothèque de la pléiade », I, 1, v. 199.  (p. 1087)
+[25]  Molière, *Psyché*, dans Pierre Corneille, *Oeuvres Complètes*, t. 3, éd. G. Couton, Paris, Gallimard « bibliothèque de la pléiade », I, 1, v. 199. (p. 1087)
 
 [26]  Thomas Corneille, *Psyché*, II, 5, v. 347-8
 
@@ -2597,7 +2596,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [36] *Ibid*.
 
-[37]  III, 2, v. 544-547.  Nous soulignons.
+[37]  III, 2, v. 544-547. Nous soulignons.
 
 [38] *Les Amours de Psyché et de Cupidon*, in *Oeuvres complètes*, éd. Pierre Clarac, Paris, Gallimard, « Bibliothèque de la Pléiade », 1958 (1669), p. 257.
 
@@ -2623,7 +2622,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [49] V, dernière, v. 871-875.
 
-[50]  Il y a d'autres problèmes avec cette conception du temps.  En tant qu'adaptation d'un conte où l'action se passe au cours de près d'un an, *Psyché* a tendance à balancer entre le temps du théâtre et le temps du conte.  Quand Psyché voit Vénus dans l'acte III, elle est surprise comme si elle avait passé plusieurs mois sans voir ses serviteurs.  Or elle n'y a passé qu'un après-midi.  Plus remarquable est le début de l'acte V où elle craint que ses attraits aient diminué à cause de ses malheurs.  Cette possibilité semble moins probable après la demi-heure aux enfers de l'opéra que dans la version d'Apulée où elle subit plusieurs punitions et travaux aux mains de Vénus pendant plus d'un mois.
+[50]  Il y a d'autres problèmes avec cette conception du temps. En tant qu'adaptation d'un conte où l'action se passe au cours de près d'un an, *Psyché* a tendance à balancer entre le temps du théâtre et le temps du conte. Quand Psyché voit Vénus dans l'acte III, elle est surprise comme si elle avait passé plusieurs mois sans voir ses serviteurs. Or elle n'y a passé qu'un après-midi. Plus remarquable est le début de l'acte V où elle craint que ses attraits aient diminué à cause de ses malheurs. Cette possibilité semble moins probable après la demi-heure aux enfers de l'opéra que dans la version d'Apulée où elle subit plusieurs punitions et travaux aux mains de Vénus pendant plus d'un mois.
 
 [51] *Atys*, III, 4, in Philippe Quinault, *Livrets d'Opéra*, éd. Buford Norman, éd. cit., p. 199.
 
@@ -2653,9 +2652,9 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [64]  Mably, *Lettres à Madame la Marquise*..., p. 119-120, cité dans Laura Naudeix, *op. cit*., p. 379.
 
-[65]  Nous rappelons que la poésie de ces intermèdes est de Quinault, à l'exception de la Plainte Italienne qui est de Lully.  Nous le signalons maintenant et, afin de ne pas encombrer notre texte, nous ne ferons pas d'autre mention de ce fait.
+[65]  Nous rappelons que la poésie de ces intermèdes est de Quinault, à l'exception de la Plainte Italienne qui est de Lully. Nous le signalons maintenant et, afin de ne pas encombrer notre texte, nous ne ferons pas d'autre mention de ce fait.
 
-[66]  Le livret de la création de la *Psyché* de Molière aux Tuileries en 1671 montre que dans les deux cas, ces parties auraient été chantées par des garçons.  Il y a des garçons dans les rôles des Zéphyrs et Amours, mais ce sont également les garçons qui jouent les nymphes et Naïades.  Ce changement dramatique ne nécessite aucun changement musical.
+[66]  Le livret de la création de la *Psyché* de Molière aux Tuileries en 1671 montre que dans les deux cas, ces parties auraient été chantées par des garçons. Il y a des garçons dans les rôles des Zéphyrs et Amours, mais ce sont également les garçons qui jouent les nymphes et Naïades. Ce changement dramatique ne nécessite aucun changement musical.
 
 [67]  Jean-Baptiste Lully, *Persée*, dédicace au roi dans la partition générale de Christophe Ballard, Paris, 1682.
 
@@ -2665,23 +2664,23 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [70]  La création de *Psyché* eut lieu au lendemain de la fin de la guerre de Hollande qui s'était conclue après la prise de Gand et d'Ypres respectivement le 12 et le 25 mars 1678. 
 
-[71]  Les ennemis principaux de Louis XIV pendant cette guerre, Jean de Witt et Guillaume d'Orange, ne sont pas de Gand.  Au lieu de faire allusion à un personnage en particulier, donc, Corneille fait probablement allusion au fait que Gand était le centre de l'opposition hollandaise et espagnole contre la France.
+[71]  Les ennemis principaux de Louis XIV pendant cette guerre, Jean de Witt et Guillaume d'Orange, ne sont pas de Gand. Au lieu de faire allusion à un personnage en particulier, donc, Corneille fait probablement allusion au fait que Gand était le centre de l'opposition hollandaise et espagnole contre la France.
 
-[72]  En effet, avant de prendre Gand, Louis XIV avançait vers l'Alsace et l'Allemagne.  L'Espagne fut jeté dans une telle confusion qu'elle ne sut quelle ville défendre, et donc éparpilla ses armées partout et laissa Gand exposé.  Voir Bluche, *Louis XIV*, Paris, Fayard, 1989, p. 378-382. 
+[72]  En effet, avant de prendre Gand, Louis XIV avançait vers l'Alsace et l'Allemagne. L'Espagne fut jeté dans une telle confusion qu'elle ne sut quelle ville défendre, et donc éparpilla ses armées partout et laissa Gand exposé. Voir Bluche, *Louis XIV*, Paris, Fayard, 1989, p. 378-382. 
 
 [73] Voir « FLORA » dans le lexique mythologique.
 
-[74]  Pour une explication des Nymphes, Dryades et Naïades, voir « NYMPHE » dans le lexique mythologique. Quoique P. Grimal consacre de longs articles aux Naïades et Hamadryades dans son dictionnaire, ces divinités servent ici à une fin plus pratique (en tant que danseuses et choristes) que symbolique.  Par conséquent, la définition de Furetière, d'une simple « Nymphe des bois », semble suffisante.
+[74]  Pour une explication des Nymphes, Dryades et Naïades, voir « NYMPHE » dans le lexique mythologique. Quoique P. Grimal consacre de longs articles aux Naïades et Hamadryades dans son dictionnaire, ces divinités servent ici à une fin plus pratique (en tant que danseuses et choristes) que symbolique. Par conséquent, la définition de Furetière, d'une simple « Nymphe des bois », semble suffisante.
 
 [75] Voir « VERTUMNE » dans le lexique mythologique.
 
 [76] Voir « PALAEMON » dans le lexique mythologique.
 
-[77]  Voir « SILVAIN » dans le lexique mythologique.  La confusion dont parle Grimal est manifeste ici, car il ne devrait pas y avoir plusieurs sylvains.  On doit probablement comprendre « silvain » comme synonyme de satire, ou bien, selon l'indication de la liste des acteurs, tout simplement une « divinité de la terre. »
+[77]  Voir « SILVAIN » dans le lexique mythologique. La confusion dont parle Grimal est manifeste ici, car il ne devrait pas y avoir plusieurs sylvains. On doit probablement comprendre « silvain » comme synonyme de satire, ou bien, selon l'indication de la liste des acteurs, tout simplement une « divinité de la terre. »
 
 [78] Cette danse se fait pendant « l'air pour les driades, les silvains, les dieux des fleuves, et des nayades » dans Ballard.
 
-[79]  Ici termine le premier couplet du dialogue.  Les violons reprennent la mélodie avant de chanter le deuxième couplet.
+[79]  Ici termine le premier couplet du dialogue. Les violons reprennent la mélodie avant de chanter le deuxième couplet.
 
 [80] Ce menuet⁎ est joué par les violons avant l'air de Flore. Il est repris entre les deux couplets dans Vignol, et après le deuxième couplet dans Ballard.
 
@@ -2691,31 +2690,31 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [83] Selon la convention, l'ouverture est repris à la fin du prologue, comme l'indique bien Ballard, p. 28.
 
-[84]  L'Amour est chanté en voix d'haute-contre seulement dans la scène II, 6.  Dans les autres scènes, le rôle était sans doute chanté par un garçon puisqu'un livret de la *Psyché* de 1671 nous apprend que les nymphes, amours, zéphyrs et nayades étaient chantés par des garçons (voir l'introduction, p. 38). La scène II, 6 est la scène d'amour entre ce dieu et Psyché, et la seule où il se présente en forme humaine.  La voix de garçon, donc, représente la « vraie » voix de ce dieu, et la voix d'haute-contre représente sa voix déguisée.  Elle représente surtout sa voix d'amant afin de respecter la convention que les couples amoureux sont chantés par un dessus et un haute-contre. Il faut également songer à l'effet de confusion que ce jeu de tessiture peut créer dans la scène II, 5.  Psyché entend les voix des nymphes et de l'Amour sans rien voir.  Mais puisque les rôles des nymphes et de l'Amour sont tous chantés par des garçons, Psyché n'a aucune manière de distinguer le dieu des nymphes.  Le spectateur lui-même est capable de distinguer entre le dieu et les nymphes grâce à son livret seulement.
+[84]  L'Amour est chanté en voix d'haute-contre seulement dans la scène II, 6. Dans les autres scènes, le rôle était sans doute chanté par un garçon puisqu'un livret de la *Psyché* de 1671 nous apprend que les nymphes, amours, zéphyrs et nayades étaient chantés par des garçons (voir l'introduction, p. 38). La scène II, 6 est la scène d'amour entre ce dieu et Psyché, et la seule où il se présente en forme humaine. La voix de garçon, donc, représente la « vraie » voix de ce dieu, et la voix d'haute-contre représente sa voix déguisée. Elle représente surtout sa voix d'amant afin de respecter la convention que les couples amoureux sont chantés par un dessus et un haute-contre. Il faut également songer à l'effet de confusion que ce jeu de tessiture peut créer dans la scène II, 5. Psyché entend les voix des nymphes et de l'Amour sans rien voir. Mais puisque les rôles des nymphes et de l'Amour sont tous chantés par des garçons, Psyché n'a aucune manière de distinguer le dieu des nymphes. Le spectateur lui-même est capable de distinguer entre le dieu et les nymphes grâce à son livret seulement.
 
 [85] Apollon et les acteurs ci-dessous ne paraissent pas dans la liste des acteurs, mais nous ajoutons ces divinités du divertissement final afin d'indiquer leur tessiture.
 
-[86]  Le rôle de Bacchus est écrit en tessiture de dessus dans Ballard et dans Vignol. Le livret de 1671, par contre, indique que ce rôle était chanté par M. Gaye, qui chantait le rôle de Palemon, un rôle de taille.  Les airs de Bacchus pourraient être facilement chantés en voix de dessus ou une octave plus bas que notés, par une taille.  Cependant, la voix de dessus renforce la complicité entre Bacchus et Silène.  Ce dernier est très certainement un rôle de dessus.
+[86]  Le rôle de Bacchus est écrit en tessiture de dessus dans Ballard et dans Vignol. Le livret de 1671, par contre, indique que ce rôle était chanté par M. Gaye, qui chantait le rôle de Palemon, un rôle de taille. Les airs de Bacchus pourraient être facilement chantés en voix de dessus ou une octave plus bas que notés, par une taille. Cependant, la voix de dessus renforce la complicité entre Bacchus et Silène. Ce dernier est très certainement un rôle de dessus.
 
 [87] Cette scène commence avec une ritournelle très gaie et dansante en sol majeur. 
 
-[88]  À partir de cette page, l'inscription « PSYCHE', TRAGEDIE. » apparaît en tête de chaque page, dont « Psyché » à la page gauche (paire) et « Tragédie » à la page droite (impaire).  Nous signalons, mais ne reproduisons pas.
+[88]  À partir de cette page, l'inscription « PSYCHE', TRAGEDIE. » apparaît en tête de chaque page, dont « Psyché » à la page gauche (paire) et « Tragédie » à la page droite (impaire). Nous signalons, mais ne reproduisons pas.
 
-[89]  Pour une traduction de ce divertissement, voir la « Traduction de la Plainte Italienne », dans les annexes.  Cette plainte commence avec un long prélude en tonalité mineure qui se joue sur les flûtes et sur les violons.
+[89]  Pour une traduction de ce divertissement, voir la « Traduction de la Plainte Italienne », dans les annexes. Cette plainte commence avec un long prélude en tonalité mineure qui se joue sur les flûtes et sur les violons.
 
-[90]  Dans l'édition originale, la plainte en italien et les didascalies sont imprimées à la page gauche (paire) et une traduction française, sans didascalie, mais dont chaque vers est aligné avec le vers italien correspondant, est imprimée à la page droite (impaire).  Nous avons seulement imprimé la version italienne ici, car c'est cette version qui fut mise en musique et qui contient les didascalies (qui sont en français).  
+[90]  Dans l'édition originale, la plainte en italien et les didascalies sont imprimées à la page gauche (paire) et une traduction française, sans didascalie, mais dont chaque vers est aligné avec le vers italien correspondant, est imprimée à la page droite (impaire). Nous avons seulement imprimé la version italienne ici, car c'est cette version qui fut mise en musique et qui contient les didascalies (qui sont en français). 
 
-[91]  La femme affligée et la femme désolée sont la même personne.  Même si le recueil général de Ballard ne corrige pas cette faute, dans sa partition ce personnage est toujours appelé la « femme affligée » et le livret de 1671 montre que la plainte est pour trois chanteurs seulement.
+[91]  La femme affligée et la femme désolée sont la même personne. Même si le recueil général de Ballard ne corrige pas cette faute, dans sa partition ce personnage est toujours appelé la « femme affligée » et le livret de 1671 montre que la plainte est pour trois chanteurs seulement.
 
 [92] Cette entrée, jouée par les violons, a une qualité plus animée que la dernière, avec des rythmes très inégaux et des mélismes en demi croches.
 
-[93]  Dans l'édition originale, la plainte se termine ici, portant le vers « Ahi dolore &c. come sopra ».  Nous avons inclus le reste.  Voir la note sur l'édition.
+[93]  Dans l'édition originale, la plainte se termine ici, portant le vers « Ahi dolore &c. come sopra ». Nous avons inclus le reste. Voir la note sur l'édition.
 
 [94] Voir « PSYCHÉ » dans le lexique mythologique.
 
-[95]  Selon Ballard, on reprend comme entr'acte l'« air pour les driades, les silvains, les dieux des fleuves, et des nayades » qui précède le duo de Palemon et Vertumne dans le prologue, v. 13 à 30.  Il est à noter que cet air, dans le majeur tonique du récitatif qui clôt l'acte I, marque un retour au caractère paisible et heureux du prologue.  Dans ce sens il est en opposition avec l'atmosphère de l'acte.
+[95]  Selon Ballard, on reprend comme entr'acte l'« air pour les driades, les silvains, les dieux des fleuves, et des nayades » qui précède le duo de Palemon et Vertumne dans le prologue, v. 13 à 30. Il est à noter que cet air, dans le majeur tonique du récitatif qui clôt l'acte I, marque un retour au caractère paisible et heureux du prologue. Dans ce sens il est en opposition avec l'atmosphère de l'acte.
 
-[96]  Dans sa *Dramaturgie de la tragédie en musique*, Laura Naudeix rappelle que le rideau ne tombe pas entre les actes d'opéras jusqu'en 1828.  Elle cite Sonrel, qui explique que « Ce procédé qui passait pour manquer d'élégance, de courtoisie vis-à-vis du public, semblait destiné à cacher la maladresse des machinistes. »  C'est pourquoi la scène change souvent en début d'acte.  Voir Laura Naudeix, *op. cit*., p. 160.
+[96]  Dans sa *Dramaturgie de la tragédie en musique*, Laura Naudeix rappelle que le rideau ne tombe pas entre les actes d'opéras jusqu'en 1828. Elle cite Sonrel, qui explique que « Ce procédé qui passait pour manquer d'élégance, de courtoisie vis-à-vis du public, semblait destiné à cacher la maladresse des machinistes. » C'est pourquoi la scène change souvent en début d'acte. Voir Laura Naudeix, *op. cit*., p. 160.
 
 [97] Cette scène commence avec une ritournelle vivace en trois temps.
 
@@ -2725,7 +2724,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [100] On reprend ici la symphonie dont on parle dans la didascalie après le v. 245.
 
-[101]  À chaque reprise de ce refrain, l'orchestre imite le son des cyclopes qui battent sur leurs enclumes.  Voir aussi v. 291 à 295.
+[101]  À chaque reprise de ce refrain, l'orchestre imite le son des cyclopes qui battent sur leurs enclumes. Voir aussi v. 291 à 295.
 
 [102] On joue ici une ritournelle pour la descente de Venus.
 
@@ -2733,13 +2732,13 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [104] Elles disparaissent pendant le prélude pour la scène 4. 
 
-[105]  Cette symphonie, toujours en ré mineur, rappelle la chaconne⁎ mais est plus élaborée.  Dans Vignol, il y a un dialogue entre les flûtes et les violons.  
+[105]  Cette symphonie, toujours en ré mineur, rappelle la chaconne⁎ mais est plus élaborée. Dans Vignol, il y a un dialogue entre les flûtes et les violons. 
 
 [106] Voir « AMOUR » dans le lexique mythologique.
 
 [107] Cette scène commence avec une très courte ritournelle.
 
-[108]  Dans ce récitatif, la basse monte en séquence chromatique du début du vers 378 jusqu'à la fin du vers 380 (six mesures).  Cette séquence est tout à fait remarquable dans la musique et surtout dans les récitatifs de Lully, et l'effet de crescendo qu'elle crée évoque le surgissement d'émotion de Psyché dans cette scène d'amour.  Il est également intéressant de noter que Lully divise ce récit en trois mouvements, de v. 374-377, v. 378-380, et v. 381-384.
+[108]  Dans ce récitatif, la basse monte en séquence chromatique du début du vers 378 jusqu'à la fin du vers 380 (six mesures). Cette séquence est tout à fait remarquable dans la musique et surtout dans les récitatifs de Lully, et l'effet de crescendo qu'elle crée évoque le surgissement d'émotion de Psyché dans cette scène d'amour. Il est également intéressant de noter que Lully divise ce récit en trois mouvements, de v. 374-377, v. 378-380, et v. 381-384.
 
 [109] Ici se joue une courte ritournelle.
 
@@ -2749,7 +2748,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [112] La scène commence avec une ritournelle longue et grave en tonalité mineure, semblable au premier mouvement d'une ouverture à la française.
 
-[113]  Psyché bouleverse ici le récitatif de Venus avec une ritournelle et ariette très dansantes en ton majeur.  Si les paroles sont languissantes, Lully nous ferait croire que Psyché s'amuse à languir.
+[113]  Psyché bouleverse ici le récitatif de Venus avec une ritournelle et ariette très dansantes en ton majeur. Si les paroles sont languissantes, Lully nous ferait croire que Psyché s'amuse à languir.
 
 [114] « qu'il ne soit seur Aussi tôt d'etre aimé » dans Vignol.
 
@@ -2767,7 +2766,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [121] Effectivement, l'entrée des démons est une ouverture un peu furieuse en sol mineur. Le prélude des Nymphes interrompt l'entrée des démons avec une nouvelle tonalité (sol majeur), et impose une qualité bien plus restreinte.
 
-[122]  Dans ce vers, comme au v. 370, « Et » signifie « hé ».  Dans la partition, ce mot est écrit « Hé » et suivi d'un demi-soupir.  Nous conservons la virgule pour maintenir sa qualité d'interjection.
+[122]  Dans ce vers, comme au v. 370, « Et » signifie « hé ». Dans la partition, ce mot est écrit « Hé » et suivi d'un demi-soupir. Nous conservons la virgule pour maintenir sa qualité d'interjection.
 
 [123] On reprend pour entr'acte l'« air des démons » de la fin de IV, 2.
 
@@ -2787,13 +2786,13 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [131] Ce chœur est, naturellement, accompagné de trompettes et tambours.
 
-[132]  Le changement abrupt de chœur éclatant en entrée pastorale est accompagné d'un changement aussi abrupt de tonalité, du ré majeur brillant, en un ré mineur plus subtil.  Cette tonalité est maintenue jusqu'à la fin des airs pour les muses, après quoi Bacchus restaure une tonalité majeure.
+[132]  Le changement abrupt de chœur éclatant en entrée pastorale est accompagné d'un changement aussi abrupt de tonalité, du ré majeur brillant, en un ré mineur plus subtil. Cette tonalité est maintenue jusqu'à la fin des airs pour les muses, après quoi Bacchus restaure une tonalité majeure.
 
 [133] Avant l'air de Silène, on joue un « deuxiéme air pour les Menades et les Satires ».
 
-[134]  Toutes les éditions des livrets citées dans notre Note sur l'édition donnent « Bacchus veut que l'on boive à longs traits ».  Cependant, cette versification crée un vers de 9 syllabes, tandis que le premier vers du deuxième couplet est un octosyllabe.  La musique exige un octosyllabe comme l'indiquent Ballard et Vignol.  Par conséquent, nous avons remplacé ce faux vers par le texte de la partition.
+[134]  Toutes les éditions des livrets citées dans notre Note sur l'édition donnent « Bacchus veut que l'on boive à longs traits ». Cependant, cette versification crée un vers de 9 syllabes, tandis que le premier vers du deuxième couplet est un octosyllabe. La musique exige un octosyllabe comme l'indiquent Ballard et Vignol. Par conséquent, nous avons remplacé ce faux vers par le texte de la partition.
 
-[135]  La première didascalie de ce divertissement ne mentionne pas de satyres.  Se confonderaient-ils avec les Aegipans ?
+[135]  La première didascalie de ce divertissement ne mentionne pas de satyres. Se confonderaient-ils avec les Aegipans ?
 
 [136] Les matassins et polichinelles ont un très long air sur les violons qui restaure la tonalité mineure pour la « Chanson de Mome ».
 
@@ -2801,7 +2800,7 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [149] Nous rappelons que la Volupté est, selon Apulée, la fille de Psyché et de l'Amour.
 
-[150]  Une adaptation anglaise de *Psyché* par Thomas Shadwell montre à quel point les poètes de l'époque étaient contents de confondre les trois types de cyclopes.  Dans la version de Shadwell, il y a trois cyclopes solistes (avec un choeur) qui portent les noms des fils d'Ouranos.  Cependant, ils participent au drame dans la qualité d'ouvrier qu'on voit dans notre opéra et dans la poésie alexandrine.  Mais ils ont les manières basses des cyclopes siciliens et font allusion à Ulysse.
+[150]  Une adaptation anglaise de *Psyché* par Thomas Shadwell montre à quel point les poètes de l'époque étaient contents de confondre les trois types de cyclopes. Dans la version de Shadwell, il y a trois cyclopes solistes (avec un choeur) qui portent les noms des fils d'Ouranos. Cependant, ils participent au drame dans la qualité d'ouvrier qu'on voit dans notre opéra et dans la poésie alexandrine. Mais ils ont les manières basses des cyclopes siciliens et font allusion à Ulysse.
 
 [151]  « qui signifie *réprimande, moquerie* » dans l'édition de 1759.
 
@@ -2809,17 +2808,17 @@ Il existe également une adaptation en anglais de *Psyché* (de Molière) de Tho
 
 [153] L'article sur Vénus étant absent de l'édition de 1681, nous citons d'après l'édition de 1759.
 
-[154]  Grimal nous informe, par contre, que la notion de deux Vénus – Uranie déesse de l'amour pur et une déesse populaire, déesse de l'amour vulgaire – fut introduite par Platon, bien plus tard que l'époque dont parle Moreri.  Voir l'article de Grimal sur Aphrodite.
+[154]  Grimal nous informe, par contre, que la notion de deux Vénus – Uranie déesse de l'amour pur et une déesse populaire, déesse de l'amour vulgaire – fut introduite par Platon, bien plus tard que l'époque dont parle Moreri. Voir l'article de Grimal sur Aphrodite.
 
-[138]  La longueur de l'acte I est déjà disproportionnée par rapport aux autres actes de l'opéra, surtout l'acte IV.  Lully et Corneille voulurent sans doute raccourcir la plainte afin de rendre l'irrégularité des actes moins flagrante.  Cette plainte fut également remaniée pour les représentations en ville de *Psyché* (la création était au palais des Tuileries), et pour le *Ballet des Ballets*.  Il serait inutile de tracer les nombreuses vicissitudes de la structure de cette plainte.  Nous renvoyons le lecteur à l'édition de *Psyché* (1671) de G. Couton dans les *Oeuvres complètes* de Molière ou de Pierre Corneille, pour la version « originale ».
+[138]  La longueur de l'acte I est déjà disproportionnée par rapport aux autres actes de l'opéra, surtout l'acte IV. Lully et Corneille voulurent sans doute raccourcir la plainte afin de rendre l'irrégularité des actes moins flagrante. Cette plainte fut également remaniée pour les représentations en ville de *Psyché* (la création était au palais des Tuileries), et pour le *Ballet des Ballets*. Il serait inutile de tracer les nombreuses vicissitudes de la structure de cette plainte. Nous renvoyons le lecteur à l'édition de *Psyché* (1671) de G. Couton dans les *Oeuvres complètes* de Molière ou de Pierre Corneille, pour la version « originale ».
 
-[139]  Le Cerf de la Viéville raconte plusieurs anecdotes à propos de la collaboration entre Lully et ses librettistes (voir sa *Comparaison de la musique italienne et la musique française*, Geneve, Minkoff reprint, 1972).  Il nous apprend surtout que Lully composait d'abord la musique pour ses divertissements et permettait ensuite la composition des paroles, demandant souvent des changements pour rendre les paroles « plus lyriques ».  Vu son exigence, il est peu probable qu'il ait décerné la tâche de la traduction de la Plainte à un autre individu que Quinault ou lui-même.
+[139]  Le Cerf de la Viéville raconte plusieurs anecdotes à propos de la collaboration entre Lully et ses librettistes (voir sa *Comparaison de la musique italienne et la musique française*, Geneve, Minkoff reprint, 1972). Il nous apprend surtout que Lully composait d'abord la musique pour ses divertissements et permettait ensuite la composition des paroles, demandant souvent des changements pour rendre les paroles « plus lyriques ». Vu son exigence, il est peu probable qu'il ait décerné la tâche de la traduction de la Plainte à un autre individu que Quinault ou lui-même.
 
-[140]  Nous rappelons que l'entrée des porteurs de flambeaux précède ce récit.  Cette entrée est indiquée par une didascalie en Français dans la version italienne, « Ces plaintes sont entrecoupées... ».  Puisque les deux textes sont en face dans le livret original, il n'est pas nécessaire de répéter la didascalie, et c'est pourquoi elle est absente dans cette traduction.  
+[140]  Nous rappelons que l'entrée des porteurs de flambeaux précède ce récit. Cette entrée est indiquée par une didascalie en Français dans la version italienne, « Ces plaintes sont entrecoupées... ». Puisque les deux textes sont en face dans le livret original, il n'est pas nécessaire de répéter la didascalie, et c'est pourquoi elle est absente dans cette traduction. 
 
 [141]  Robert Fajon, *L'Opéra à Paris du Roi Soleil à Louis le Bien-Aimé*, Slatkine, 1984, p. 35.
 
-[142]  Ballard divise ce divertissement en quatre airs.  Cependant, le divertissement est effectivement un long dialogue avec des sections en solo et en duo en deux couplets.  Une telle division du divertissement est très incommode, vu surtout la répétition constante de « Chacun est obligé d'aimer à son tour ».  C'est pourquoi nous avons mis dans la colonne pour « Aimable jeunesse » les vers du début du divertissement jusqu'à la fin de l'acte.  Nous avons mis une ⁎ dans la colonne des trois autres entrées associées à ce divertissement.  Ballard a également oublié de préciser que « Chacun est obligé d'aimer à son tour » et « S'il faut des soins et des travaux » sont en duo, ce que nous avons ajouté en parenthèses.
+[142]  Ballard divise ce divertissement en quatre airs. Cependant, le divertissement est effectivement un long dialogue avec des sections en solo et en duo en deux couplets. Une telle division du divertissement est très incommode, vu surtout la répétition constante de « Chacun est obligé d'aimer à son tour ». C'est pourquoi nous avons mis dans la colonne pour « Aimable jeunesse » les vers du début du divertissement jusqu'à la fin de l'acte. Nous avons mis une ⁎ dans la colonne des trois autres entrées associées à ce divertissement. Ballard a également oublié de préciser que « Chacun est obligé d'aimer à son tour » et « S'il faut des soins et des travaux » sont en duo, ce que nous avons ajouté en parenthèses.
 
 [143] Cet air est le deuxième couplet de « Bacchus veut qu'on boive à long-traits ».
 

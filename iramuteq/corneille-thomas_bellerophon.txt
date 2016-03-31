@@ -1,8 +1,8 @@
 
 
-**** *book_ *id_argument *date_1679 *creator_corneille
+**** *book_ *id_argument *date_1679 *creator_corneille 
 
-Argument 
+Argument
 
 Le Roy ayant donné la Paix à l'Europe, l'Académie Royale de Musique a creu devoir marquer la part qu'elle prend à la joye publique par un Spectacle, où elle pust faire entrer les témoignages de son zele pour la gloire de cet Auguste Monarque.
 Elle s'y est creuë d'autant plus obligée que la protection qu'il donne aux beaux Arts les a toûjours fait joüir, pendant le cours méme de la Guerre, de l'heureuse tranquillité qui leur est si nécessaire.
@@ -16,7 +16,7 @@ On ne sçait pas trop bien qui estoit le Pere de Bellerophon.
 Les uns tiennent que c'estoit Glaucus, les autres le font Fils de Neptune ; & c'est sur cette diversité d'opinions qu'on a formé l'intrigue de cette Piece, & l'Oracle qui en fut le nœud.
 Amisodar est un Personnage Episodique, fondé sur ce que quelques Mythologistes raportent sur cette Fable, qu'il y a eu une Femme nommée Chimere⁎, qui épousa un Roy de Lycie⁎, appellé Amisodar.
 
-**** *book_ *id_prologue *date_1679 *creator_corneille
+**** *book_ *id_A *date_1679 *creator_corneille 
 
 Prologue
 
@@ -1166,7 +1166,7 @@ Le Monstre redouble sa rage.
 
 -*who_voix_derriere_theatre
 Un Heros⁎ s'expose pour nous,
-Dieux, soûtenez son bras, et conduisez ses coups.
+Dieux, soûtenez son bras, et conduisez ses coups. 
 
 -*who_voix_derriere_theatre
 Le Monstre est défait. Quelle gloire⁎ !

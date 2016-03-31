@@ -13,8 +13,7 @@ TRAGI-COMÉDIE
 
 
 A PARIS, Chez AUGUSTIN COURBE' Imprimeur & Libraire ordinaire de Monseigneur Frere unique de sa Majesté, en la petite Salle du Palais, à la Palme. M. DC. XLI. *AVEC LE PRIVILEGE DU ROY*
-Édition critique établie par Claire Chaineaux dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (1997)
+Édition critique établie par Claire Chaineaux dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (1997)
 
 
 # Belisaire de Desfontaines
@@ -410,7 +409,7 @@ JUSTINIAN, THEODORE, SOPHIE, AMALAZONTHE, BELISAIRE, NARSE'S, VITIGE'S, DIOPHANT
 Levez-vous.  
 
     AMALAZONTHE
-                Ah ! Seigneur vous estes trop Auguste⁎,  
+        Ah ! Seigneur vous estes trop Auguste⁎,  
 Devant mon Empereur ce respect est bien juste,  
 J'ay perdu mes Estats, mon rang l'est avec eux,  
 Et cét abaissement sied bien aux malheureux.  
@@ -420,7 +419,7 @@ Non, je n'écoute rien en l'estat où vous estes,
 Levez-vous.  
 
     AMALAZONTHE
-                J'obeïs aux loix que vous me faites,  
+        J'obeïs aux loix que vous me faites,  
 Et le commandement de vostre Majesté  
 Sert de juste pretexte à ma temerité.  
 Seigneur, quoy que le sort, nos malheurs & Bellonne [16],  
@@ -533,13 +532,13 @@ Seigneur.
     Amalazonthe.  
 
     THEODORE
-                    Amour incomparable.  
+        Amour incomparable.  
 
     SOPHIE
 Amant infortuné⁎.  
 
     NARSES
-                    Mais amant adorable,  
+        Mais amant adorable,  
 Car c'est heureusement [26] perdre sa liberté,  
 Que d'estre compagnon de ta captivité,  
 
@@ -565,7 +564,7 @@ Qu'il est advantageux d'estre sous mon pouvoir.
 Qu'on détache ses fers.  
 
     VITIGES
-                    Ah ! Seigneur mon offence  
+        Ah ! Seigneur mon offence  
 Les a trop meritez ; mais par cette clemence,  
 Vous voulez témoigner que vostre Majesté  
 Sçait comme par le fer vaincre par sa bonté,  
@@ -653,10 +652,10 @@ Je luy fasse un ecueil pour le precipiter
 Qu'il meure [37].  
 
     SOPHIE
-            Justes Dieux  
+    Justes Dieux  
 
     THEODORE
-                        Narsés veux-tu me plaire ?  
+        Narsés veux-tu me plaire ?  
 Depeche de ce pas, va tuer Belissaire,  
 A ce coeur⁎ insolent que ton bras soit fatal,  
 M'ostant un ennemy, deffaits-toy d'un rival,  
@@ -669,10 +668,10 @@ Je sçauray bien sauver ton honneur, & ta vie :
 Va,  
 
     NARSES
-        Madame,  
+    Madame,  
 
-    THEODORE
-                    Va, dis-je, & sans plus discourir,  
+    THEODORE 
+        Va, dis-je, & sans plus discourir,  
 Ou si tu ne le fais resous-toy de mourir.  
 Non, arreste, ma hayne a trop de violence  
 Pour ce coup important, il faut plus de prudence,  
@@ -789,7 +788,7 @@ Elle sort.
 
 
     NARSE’S
-                    Reposez-vous sur moy.  
+        Reposez-vous sur moy.  
 
 
 ### SCENE III
@@ -1004,7 +1003,7 @@ BELISAIRE, ISKIRION, NARSES, Et trois assassins [62]
 
 
     ISKIRION
-                    Vous voulez mon trépas,  
+        Vous voulez mon trépas,  
 Bien, mais auparavant vous connoistrez mon bras,  
 Et cet illustre sang que vous voulez répendre,  
 Coulera lasches coeurs, mais je le sçauray vendre,  
@@ -1012,8 +1011,8 @@ Coulera lasches coeurs, mais je le sçauray vendre,
     NARSE’S
 Il n'importe.  
 
-    BELISAIRE
-                Donnons, à moy traistres, à moy,  
+    BELISAIRE 
+        Donnons, à moy traistres, à moy,  
 Ici vostre fureur trouvera de l'employ,  
 Tournez contre mon sein vos armes criminelles,  
 Quoy déja la terreur vous a donné des aisles ?  
@@ -1094,7 +1093,7 @@ Et je meurs de regret de le voir imparfait [71].
 Il a perdu le sens.  
 
     BELISAIRE
-                Narsés, quelle manie⁎  
+        Narsés, quelle manie⁎  
 D'un esprit si solide a la raison bannie ?  
 D'où te vient cette erreur ? Et pourquoy penses-tu  
 Qu'un lasche assassinat soit un trait de vertu ?  
@@ -1107,7 +1106,7 @@ La raison, la pitié, mon amour, & vous mesme.
 Moy, Narsés ? que dis-tu ?  
 
     NARSE’S
-                    Je dis ce que je dois [72].  
+        Je dis ce que je dois [72].  
 
     BELISAIRE 
 Ah ! sans doute ton coeur dement icy ta voix,  
@@ -1224,7 +1223,7 @@ Si vous faites en Cour tant soit peu de demeure.
 C'est où je vous attens.  
 
     BELISAIRE
-                    J'y seray dans une heure,  
+        J'y seray dans une heure,  
 Cependant trouvez bon qu'un reste d'amitié  
 Exerce envers ce corps encor quelque pitié,  
 Et puisque son trépas a vangé son injure,  
@@ -1289,29 +1288,29 @@ BELISAIRE, DIOPHANTE
 Dieux, qu'est-ce que je vois ? ah, Seigneur !  
 
     BELISAIRE
-                            Diophante  
+        Diophante  
 Que fais-tu ? Laisse moy, souffre⁎ que je contente  
 Par un coup genereux⁎ la rigueur de mon sort,  
 Voy cét object sanglant, c'est Narsés.  
 
     DIOPHANTE
-                        Il est mort.  
+        Il est mort.  
 
     BELISAIRE
 Ouy, Diophante, il l'est.  
 
     DIOPHANTE
-                    Dieux ! le malheur extreme,  
+        Dieux ! le malheur extreme,  
 Qui l'a tué ?  
 
-    BELISAIRE
-            Moy.  
+    BELISAIRE 
+    Moy.  
 
     DIOPHANTE
-                Vous  
+    Vous  
 
     BELISAIRE
-                        Moy, mais plustost luy-mesme.  
+        Moy, mais plustost luy-mesme.  
 Car lors que j'ai commis cét innocent peché,  
 Un tapabort⁎ tenoit son visage caché.  
 
@@ -1319,7 +1318,7 @@ Un tapabort⁎ tenoit son visage caché.
 A quelle occasion ?  
 
     BELISAIRE
-                Espargne ta memoire,  
+        Espargne ta memoire,  
 Tu ne sçauras que trop cette tragique histoire [92] ;  
 Et mesme si tu veux appaiser mes transports⁎,  
 Oste à mes tristes yeux ce deplorable corps.  
@@ -1581,7 +1580,7 @@ Une juste action pour une lâcheté [115].
 Qu'est-ce donc ? arrestez.  
 
     ISKIRION
-                    Ah : souffrez⁎ que mon crime  
+        Ah : souffrez⁎ que mon crime  
 Reçoive un châtiment & juste & legitime,  
 J'ay cherché vostre sang, j'ay voulu vostre mort,  
 Ce desir criminel demande un mesme sort,  
@@ -1590,7 +1589,7 @@ Mon sang à cet effect⁎ doit payer pour le vostre,
 Permettez moy Seigneur.  
 
     BELISAIRE
-                    Non quittez ce dessein,  
+        Non quittez ce dessein,  
 Ce fer est seulement destiné pour mon sein,  
 Et si vostre bon-heur dépend de mon naufrage,  
 Ce poignard peut encor achever mon ouvrage,  
@@ -1686,19 +1685,19 @@ Sa vengeance a des traits qui ne le seront pas,
 Evitez ce malheur.  
 
     SOPHIE
-                    Je crains peu cét orage.  
+        Je crains peu cét orage.  
 
     THEODORE
 Ma niepce il a du coeur.  
 
     SOPHIE
-                    Et j'en ay d'avantage.  
+        Et j'en ay d'avantage.  
 
     THEODORE
 J'en doute.  
 
     SOPHIE
-                Je me ris de son ressentiment.  
+        Je me ris de son ressentiment.  
 
     THEODORE 
 Il est pourtant à craindre en l'esprit d'un amant,  
@@ -1785,10 +1784,10 @@ Quel est cét ennemy qui veut m'oster le jour ?
 Vous le voyez, Seigneur.  
 
     VITIGEZ
-                Qui, bons Dieux ?  
+    Qui, bons Dieux ?  
 
     AMALAZONTHE
-                            Mon Amour.  
+        Mon Amour.  
 
     VITIGEZ 
 Madame, c'est assés, je voy mon infortune,  
@@ -1821,7 +1820,7 @@ J'appreuve vos devoirs, vostre grace me charme,
 Et je crains, mais pour vous.  
 
     VITIGEZ
-                    Qui vous met en allarme ?  
+        Qui vous met en allarme ?  
 Doutez vous de ma foy ? doutez vous de mon coeur ?  
 
     AMALAZONTHE
@@ -1831,7 +1830,7 @@ Non.
     Que craignez-vous donc ?  
 
     AMALAZONTHE
-                        Un insolent vainqueur,  
+        Un insolent vainqueur,  
 Belisair' [131].  
 
     VITIGEZ
@@ -1980,10 +1979,10 @@ Apres ce qu'il a fait l'excusez vous encore ?
 Il vous aime.  
 
     SOPHIE
-            L'innocent.  
+    L'innocent.  
 
     BELISAIRE
-                        De plus il vous adore,  
+        De plus il vous adore,  
 Et je croirois avoir trop de temerité,  
 De pretendre un honneur qu'il a mieux mérité,  
 Puis que je ne sçaurois sans paroistre volage,  
@@ -1995,7 +1994,7 @@ Il luy refuse un bien, vostre amour me le donne,
 Moy, je n'en puis jouïr [143].  
 
     SOPHIE
-                    Et luy l'espere en vain,  
+        Et luy l'espere en vain,  
 Helas de qui vous tuë adorez-vous la main ?  
 
     BELISAIRE
@@ -2029,21 +2028,21 @@ Ingrat.
     Escoutez moy.  
 
     SOPHIE
-                    Les attentes sont vaines,  
+        Les attentes sont vaines,  
 Un perfide jamais.  
 
     BELISAIRE
-                    ne fut pareil à moy,  
+        ne fut pareil à moy,  
 Madame.  
 
     SOPHIE
     adieu.  
 
     BELISAIRE
-            cruelle.  
+    cruelle.  
 
     SOPHIE
-                    Importun laisse moy.  
+        Importun laisse moy.  
 
     BELISAIRE 
 Un mot, & puis mon coeur s'offre à vous satisfaire.  
@@ -2091,10 +2090,10 @@ THEODORE, ISKIRION, DORISTEL
 Hé bien, perfide, ingrat,  
 
     ISKIRION
-                Ah ! Madame.  
+    Ah ! Madame.  
 
     THEODORE
-                            Hé bien, traistre,  
+        Hé bien, traistre,  
 Apres m'avoir trahie oses-tu bien paraistre ?  
 Belisaire est vivant, il rit de mes fureurs,  
 Malgré tous ses desseins il triomphe & je meurs ;  
@@ -2135,7 +2134,7 @@ Mais vous serez punis, & je seray vangée,
 Allez, retirez-vous [148].  
 
     ISKIRION
-                Je beniray mon sort,  
+        Je beniray mon sort,  
 Si mon affection se preuve par ma mort.  
 
 
@@ -2310,13 +2309,13 @@ Ne differes donc point d'obeïr à mes voeux.
 Quel office d'amour ? [158]  
 
     BELISAIRE
-                    C'est le seul que je veux.  
+        C'est le seul que je veux.  
 
     DIOPHANTE
 Et bien, j'obeïray.  
 
     BELISAIRE
-                    Va. Belle Amalazonthe,  
+        Va. Belle Amalazonthe,  
 Dont la haute vertu me captive & me dompte,  
 Apprens par tous ces maux que je souffres pour toy,  
 Ton pouvoir, mon amour, ta rigueur, & ma foy,  
@@ -2390,8 +2389,8 @@ Puis que sans s'arrester à son extravagance,
 Elles peuvent souffrir⁎ ce traict⁎ qui les offense,  
 Allez, retirez-vous.  
 
-    DIOPHANTE
-                Ah, Madame, en ce poinct.  
+    DIOPHANTE 
+        Ah, Madame, en ce poinct.  
 
     THEODORE
 Fay ce que je commande, & ne replique point.  
@@ -2411,7 +2410,7 @@ Voila, voila le fruict & le prix de vos voeux,
 O le parfaict amant !  
 
     SOPHIE
-                    Mais qu'il est malheureux !  
+        Mais qu'il est malheureux !  
 O Dieux, que dois-je faire apres ce coup de foudre ?  
 
     THEODORE 
@@ -2421,7 +2420,7 @@ Le quitter.
     O Destins !  
 
     THEODORE
-                    Il vous y faut resoudre,  
+        Il vous y faut resoudre,  
 Et pour y mieux songer retirez-vous d'icy.  
 
     SOPHIE
@@ -2473,7 +2472,7 @@ Helas !
     Quoy donc, Seigneur ?  
 
     JUSTINIAN
-                        Belisaire nous quitte,  
+        Belisaire nous quitte,  
 Et toute la grandeur dont j'éclate aujourd'huy,  
 Par ce triste accident⁎ me quitte avecque luy.  
 
@@ -2486,8 +2485,8 @@ Et vous ne tenez point vostre éclat d'un sujet.
     JUSTINIAN
 Non, mais en le perdant...  
 
-    THEODORE
-                    Vous perdez peu de chose,  
+    THEODORE 
+        Vous perdez peu de chose,  
 Et l'effect vous plaira quand vous sçaurez la cause,  
 Sçavez vous le sujet qui l'a fait retirer ? [164]  
 
@@ -2508,10 +2507,10 @@ Qu'il vous faut détromper, & vous faire connoistre,
 Que Belisaire,  
 
     JUSTINIAN
-            O Dieux !  
+    O Dieux !  
 
     THEODORE
-                    Ouy, Seigneur, vous est traistre,  
+        Ouy, Seigneur, vous est traistre,  
 Et c'est pour ce sujet qu'il veut quitter la Cour,  
 Tenez, voyez son crime en voyant son amour.  
 
@@ -2628,7 +2627,7 @@ Entrons
     Arrestez-la, que voulez-vous ?  
 
     SOPHIE
-                            Pirandre,  
+        Pirandre,  
 Est-ce là le respect que vous me devez rendre ?  
 Ne vous informez point, je sçay vostre devoir,  
 Et vous ne devez pas ignorer mon pouvoir.  
@@ -2719,7 +2718,7 @@ Pour moy soubs un habit au vostre tout pareil
 Je veux rester icy.  
 
     BELISAIRE
-                C'est donc là le conseil,  
+        C'est donc là le conseil,  
 Qui me doit aujourd'huy retirer du naufrage,  
 Ah, laissez Belisaire il a trop de courage,  
 Pour vouloir mandier par une lâcheté,  
@@ -2744,17 +2743,17 @@ THEODORE, SOPHIE, ISKIRION, BELISAIRE
 
 
     THEODORE [178]
-                    Quelle est cette entreprise ?  
+        Quelle est cette entreprise ?  
 Que faites-vous, Sophie ?  
 
     ISKIRION
-                    O fatale surprise !  
+        O fatale surprise !  
 
     SOPHIE
 Malheureuse.  
 
     THEODORE
-                Je sçay ce qui vous mene icy,  
+        Je sçay ce qui vous mene icy,  
 Tirez-vous à l'écart je prendray ce soucy.  
 Pour vous demeurez-là vous m'estes necessaire,  
 A Iskirion [179]
@@ -2766,7 +2765,7 @@ Orgueilleux, voy ton sort, regarde cette lame [180],
 Et par ce coup apprens.  
 
     ISKIRION *luy retenant le bras*
-                    Que faites-vous, Madame ?  
+        Que faites-vous, Madame ?  
 
     THEODORE
 Insolent, oses-tu traverser mon dessein [181] ?  
@@ -2784,14 +2783,14 @@ Il doit à mon courroux immoler l'un & l'autre.
 Helas !  
 
     BELISAIRE
-            Prenez mon sang & épargnez le sien.  
+        Prenez mon sang & épargnez le sien.  
 
     ISKIRION 
 Il est malaisé qu'il coule sans le mien,  
 Tenez, frappez, Madame.  
 
     SOPHIE
-                    Honnorable dispute.  
+        Honnorable dispute.  
 
     BELISAIRE
 Laisse agir sa fureur, c'est pour moy qu'elle bute,  
@@ -2858,10 +2857,10 @@ M'oste le fer des mains & la haine du coeur.
 Ostons luy les liens.  
 
     SOPHIE
-                Ah ! mon Prince.  
+    Ah ! mon Prince.  
 
     BELISAIRE
-                            Ah ! Madame [185],  
+        Ah ! Madame [185],  
 En delivrant mon corps, vous captivez⁎ mon ame,  
 Et la méme pitié [186] dont je voy les effects,  
 S'offense des liens que vous avez défaicts,  
@@ -2882,10 +2881,10 @@ Je demande sa grace & l'attens à genoux.
 Quelle grace ?  
 
     BELISAIRE
-            L'Amour  
+    L'Amour  
 
     SOPHIE
-                    A ce mot je soupire,  
+        A ce mot je soupire,  
 Ses voeux sont mes souhaits ; on me porte où j'aspire :  
 Mon Prince, levez vous parmy tant d'actions,  
 N'adjoutez pas ma honte à vos perfections,  
@@ -2925,7 +2924,7 @@ La prison & ses fers l'auront humilié,
 Pardonnez luy, Seigneur.  
 
     JUSTINIAN
-                    Ah ! l'ingrat, ah ! le traistre,  
+        Ah ! l'ingrat, ah ! le traistre,  
 Oser insolemment se joüer à son maistre ?  
 Ah ! je ne puis souffrir⁎ cette temerité.  
 
@@ -2934,7 +2933,7 @@ Hé, Seigneur, consultez un peu vostre bonté,
 Elle parle pour luy.  
 
     JUSTINIAN
-                    Je ne m'y puis resoudre.  
+        Je ne m'y puis resoudre.  
 
     VITIGEZ
 Que vostre Majesté retienne un peu le foudre,  
@@ -2986,7 +2985,7 @@ Et que les qualitez d'un si brave courage,
 Meritoient [192]...  
 
     JUSTINIAN
-                C'est assez, n'en dy pas d'avantage,  
+        C'est assez, n'en dy pas d'avantage,  
 La vertu que je vois sur ce front genereux⁎,  
 Monstre son innocence en l'objet de ses voeux,  
 Et mon coeur est ravi qu'une si belle flame  
@@ -2999,17 +2998,17 @@ Et qui m'a témoigné que pour le meriter
 Il donneroit son sang.  
 
     ISKIRION
-                    Il n'en faut pas douter,  
+        Il n'en faut pas douter,  
 Ouy, Seigneur, je l'attens, & je vous la demande,  
 
     JUSTINIAN 
 Vous l'aurez.  
 
     THEODORE
-            Que dit-il ?  
+    Que dit-il ?  
 
     SOPHIE
-                        O Dieux que j'apprehende !  
+        O Dieux que j'apprehende !  
 
     ISKIRION
 Grand Prince souffrez donc que cet object charmant,  
@@ -3019,7 +3018,7 @@ Reçoive devant vous le coeur de son amant.
 J'y consens.  
 
     ISKIRION
-                Ma Princesse en ce bon-heur extreme,  
+        Ma Princesse en ce bon-heur extreme,  
 Vous donnant ce Guerrier je me donne moy-méme [194],  
 Il possede mon coeur, ce qui luy plaist m'est doux,  
 Donnez-vous toute à luy je serais toute à vous,  
@@ -3033,7 +3032,7 @@ Consentez, grand Monarque, à cette illustre envie.
 S'il vous plaist, je le veux.  
 
     SOPHIE
-                    Cet espoir est ma vie.  
+        Cet espoir est ma vie.  
 
     ISKIRION *à Belisaire*
 Et vous ?  
@@ -3123,7 +3122,7 @@ FIN.
 
 # LexiqueDictionnaire universel
 Dictionnaire de la langue française
-AccidentHasard, coup du sort (bon ou mauvais)V. 1435AccorderOutre les sens courants de consentir et consilier, il signifie ici avouerAccorteCelui qui est courtois, complaisantV. 933AdorableQui mérite le plus profond respectV. 69AdventureUne chose qui est arrivée ou qui va arriverV. 309, 1310AdveuPermission, consentement donnéV. 691, 1596, 1744AdvisDélibérationV. 395AimableDigne d'être aimé(e)V. 1079AppasSe dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque choseV. 31, 155, 275, 940, 1330AugusteMajestueux, vénérableV. 1, 145, 191Besoin (au)Dans le besoin (dans une situation dangereuse)V. 236CaptiverRetenir prisonnier et donc soumettreV. 1672CharmerExercer une action magique par le moyen du charmeV. 492ChoirTomberV. 420CœurSens particulier du XVIIième siècle de courage, force, vigueur outre le sens courantV. 166, 195ConfondreSe remplir de confusion, s'affoler ; prendre sur le faitV. 376ConfusionHonte ; embrouillementV. 490ConsiderableQui doit être estimé(e), remarqué(e)V. 26, 257ContentQui n'est point chagrin, qui ne désire plus rienDouaïreBiens que le mari assigne à sa femme en se mariant pour en jouïr par usufruit pendant sa viduitéEffetMise en pratique, exécution, réalisationV. 167, 398, 550, 730, 867, 1198, 1395, 1732, 1781EsprouverFaire l'expérience de quelque choseV. 1107EstonnerÉmouvoir, surprendre, inquiéter, causer de la crainte, effrayerV. 412, 908FacilitéIndulgence, complaisanceV. 119GénéreuxQui a l'âme grande et noble et qui préfère l'honneur à tout intérêt ; brave, vaillantV. 81, 115, 346, 349, 563, 669, 860, 929, 949, 1748, 1786HymenMariageV. 246HeurBonheurIndiscretQui agit par passion, sans considération de ce qu'il dit ou faitV. 301, 854InfortunéMalheureuxV. 106, 659, 738, 807, 1328Libéral(e)Qui donne avec raison et jugementV. 17ManiePassion excessive qu'on a pour quelqu'unV. 533MinistreQui sert Dieu, le public, les particuliersV.MouvementSe dit figurément en choses spirituelles et morales ; "toutes les passions excitent des mouvements en notre âme"V. 300, 357, 800, 1336ObligerOutre le sens actuel, il signifie faire quelque faveur, civilité, courtoisie pour faire plaisirV. 477OccurrenceÉvénement qui se présente fortuitementV. 719OfficeSecours réciproque de la vie civile ; se dit aussi figurément pour désigner la fonction, la faculté d'agir tant en choses morales que naturellesV. 361, 477, 1127PompeDésigne ici magnifiscence, faste, appareil solennelV. 18ProtesterPromettreV. 617Quant et quantEn même tempsV. 959, 971RésoudreSens particulier ici de conclure après avoir délibéréV. 369SalaireRécompenseV. 158, 341, 680ServageAncien terme pour désigner l'esclavageV. 1797SuccederRéussirV. 22SuperbeVain, orgueilleux, qui a une trop bonne opinion de lui-même ; se dit également de ce qui marque la  magnifiscence, la somptuositéV. 15, 339, 416, 912, 1323, 1412SouffrirSignifie ici consentir tacitement, tolérer, permettreV. 83, 100, 166, 367, 389, 401, 419, 432, 454, 570, 668, 745, 862, 901, 914, 919, 955, 1366, 1401, 1703, 1709, 1805TapabortBonnet à l'anglaise qui sert le jour et la nuit et dont on rabat les bords pour se garantir du vent et du hâleV. 485, 674TraitFlèche qui se tire avec un arc ordinaire ; peut désigner plus spécifiquement les regards et blessures qu'ils font dans le coeur quand ils inspirent de l'amour (traits de Cupidon)V. 162, 383, 569, 809, 1077, 1401TransportSe dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passionsV. 537, 677, 1064VertuForceV. 144
+AccidentHasard, coup du sort (bon ou mauvais)V. 1435AccorderOutre les sens courants de consentir et consilier, il signifie ici avouerAccorteCelui qui est courtois, complaisantV. 933AdorableQui mérite le plus profond respectV. 69AdventureUne chose qui est arrivée ou qui va arriverV. 309, 1310AdveuPermission, consentement donnéV. 691, 1596, 1744AdvisDélibérationV. 395AimableDigne d'être aimé(e)V. 1079AppasSe dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque choseV. 31, 155, 275, 940, 1330AugusteMajestueux, vénérableV. 1, 145, 191Besoin (au)Dans le besoin (dans une situation dangereuse)V. 236CaptiverRetenir prisonnier et donc soumettreV. 1672CharmerExercer une action magique par le moyen du charmeV. 492ChoirTomberV. 420CœurSens particulier du XVIIième siècle de courage, force, vigueur outre le sens courantV. 166, 195ConfondreSe remplir de confusion, s'affoler ; prendre sur le faitV. 376ConfusionHonte ; embrouillementV. 490ConsiderableQui doit être estimé(e), remarqué(e)V. 26, 257ContentQui n'est point chagrin, qui ne désire plus rienDouaïreBiens que le mari assigne à sa femme en se mariant pour en jouïr par usufruit pendant sa viduitéEffetMise en pratique, exécution, réalisationV. 167, 398, 550, 730, 867, 1198, 1395, 1732, 1781EsprouverFaire l'expérience de quelque choseV. 1107EstonnerÉmouvoir, surprendre, inquiéter, causer de la crainte, effrayerV. 412, 908FacilitéIndulgence, complaisanceV. 119GénéreuxQui a l'âme grande et noble et qui préfère l'honneur à tout intérêt ; brave, vaillantV. 81, 115, 346, 349, 563, 669, 860, 929, 949, 1748, 1786HymenMariageV. 246HeurBonheurIndiscretQui agit par passion, sans considération de ce qu'il dit ou faitV. 301, 854InfortunéMalheureuxV. 106, 659, 738, 807, 1328Libéral(e)Qui donne avec raison et jugementV. 17ManiePassion excessive qu'on a pour quelqu'unV. 533MinistreQui sert Dieu, le public, les particuliersV.MouvementSe dit figurément en choses spirituelles et morales ; "toutes les passions excitent des mouvements en notre âme"V. 300, 357, 800, 1336ObligerOutre le sens actuel, il signifie faire quelque faveur, civilité, courtoisie pour faire plaisirV. 477OccurrenceÉvénement qui se présente fortuitementV. 719OfficeSecours réciproque de la vie civile ; se dit aussi figurément pour désigner la fonction, la faculté d'agir tant en choses morales que naturellesV. 361, 477, 1127PompeDésigne ici magnifiscence, faste, appareil solennelV. 18ProtesterPromettreV. 617Quant et quantEn même tempsV. 959, 971RésoudreSens particulier ici de conclure après avoir délibéréV. 369SalaireRécompenseV. 158, 341, 680ServageAncien terme pour désigner l'esclavageV. 1797SuccederRéussirV. 22SuperbeVain, orgueilleux, qui a une trop bonne opinion de lui-même ; se dit également de ce qui marque la magnifiscence, la somptuositéV. 15, 339, 416, 912, 1323, 1412SouffrirSignifie ici consentir tacitement, tolérer, permettreV. 83, 100, 166, 367, 389, 401, 419, 432, 454, 570, 668, 745, 862, 901, 914, 919, 955, 1366, 1401, 1703, 1709, 1805TapabortBonnet à l'anglaise qui sert le jour et la nuit et dont on rabat les bords pour se garantir du vent et du hâleV. 485, 674TraitFlèche qui se tire avec un arc ordinaire ; peut désigner plus spécifiquement les regards et blessures qu'ils font dans le coeur quand ils inspirent de l'amour (traits de Cupidon)V. 162, 383, 569, 809, 1077, 1401TransportSe dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passionsV. 537, 677, 1064VertuForceV. 144
 
 
 # Tableau 1 : tableau synoptique
@@ -3260,7 +3259,7 @@ Comédie et société sous Louis XIII, Corneille, Rotrou et les autres
 ### SourcesEl ejemplo mayor de la desdicha in Teatro de Mira de Mescua
 Bélisaire
 L'innocent malheureux ou la mort de Crispe
-La mort du Chrispe in Recueil des meilleures pièces de théâtre des  anciens auteurs
+La mort du Chrispe in Recueil des meilleures pièces de théâtre des anciens auteurs
 Hippolyte
 HippolyteLes tragédies de Garnier
 Hippolyte ou le garçon insensible
@@ -3309,7 +3308,7 @@ Histoire secrète de Justinien traduit de Procope
 
 [16] Bellone (ou Bellonne) : déesse italique de la Guerre
 
-[17]  Déjà dans ces trois vers, se met en place la dualité fondamentale entre l'amour et le devoir (et sous-entendu l'honneur) qui ici tient en ces termes : la fidélité de Vitiges à son  roi est incompatible avec son amour pour Amalazonthe, reine ennemie. D'autre part, ils font référence à un pacte militaire entre Justinien et Vitigés contre la reine Amalazonthe que Vitigés aurait rompu par amour pour elle ; il est donc coupable de trahison.
+[17]  Déjà dans ces trois vers, se met en place la dualité fondamentale entre l'amour et le devoir (et sous-entendu l'honneur) qui ici tient en ces termes : la fidélité de Vitiges à son roi est incompatible avec son amour pour Amalazonthe, reine ennemie. D'autre part, ils font référence à un pacte militaire entre Justinien et Vitigés contre la reine Amalazonthe que Vitigés aurait rompu par amour pour elle ; il est donc coupable de trahison.
 
 [18] Le verbe "refuser" peut, au XVIIeme siècle, être employé avec une construction absolue et signifie alors "ne pas consentir à ce qui est demandé".
 
@@ -3355,7 +3354,7 @@ Histoire secrète de Justinien traduit de Procope
 
 [39] C'est Iskirion qui aura la main de Sophie et Narsés obtiendra le soutien de Théodore pour son ascension aux côtés de Justinian.
 
-[40]  Desfontaines crée un lien de parenté entre Sophie et Théodore (nièce par alliance) alors que, chez Mira de Mescua, Antonia est l'une des confidentes de l'impératrice.  Cet ajout permet à l'auteur dramatique de renforcer la relation  entre les deux femmes et de donner à l'impératrice un droit du sang supplémentaire sur Sophie.
+[40]  Desfontaines crée un lien de parenté entre Sophie et Théodore (nièce par alliance) alors que, chez Mira de Mescua, Antonia est l'une des confidentes de l'impératrice. Cet ajout permet à l'auteur dramatique de renforcer la relation entre les deux femmes et de donner à l'impératrice un droit du sang supplémentaire sur Sophie.
 
 [41] Le pronom indéfini "on" désigne directement Bélisaire contrairement à celui du vers suivant qui semble représenter la cour en général. Théodore tente de rallier Sophie à sa cause en lui évoquant la menace que représente Bélisaire pour sa succession au trône. 
 
@@ -3442,7 +3441,7 @@ Histoire secrète de Justinien traduit de Procope
 
 [82] Infortuné sous-entendu en amour.
 
-[83]  Cet échange d'une marque d'amitié est emprunté à la pièce espagnole où l'on trouve les vers : « FILIPO  Sea esta sortija , pues, / prenda de mi amor    *Dale una sortija* » Ce diamant a une fonction dramatique importante : c'est un signe de reconnaissance entre les deux hommes qui ne se sont même pas présentés l'un à l'autre, signe qui sauvera Bélisaire. 
+[83]  Cet échange d'une marque d'amitié est emprunté à la pièce espagnole où l'on trouve les vers : « FILIPO Sea esta sortija , pues, / prenda de mi amor    *Dale una sortija* » Ce diamant a une fonction dramatique importante : c'est un signe de reconnaissance entre les deux hommes qui ne se sont même pas présentés l'un à l'autre, signe qui sauvera Bélisaire. 
 
 [84]  Vers que l'on retrouve dans la source : « BELISARIO         El bien obrar / por si mismo se ha de amar / y no porque lo agradezcan. »
 
@@ -3564,11 +3563,11 @@ Histoire secrète de Justinien traduit de Procope
 
 [143] Bélisaire dessine le schéma triangulaire amoureux : Narsés, Sophie et Bélisaire. Notons qu'il utilise le verbe pouvoir qui fait référence encore une fois au code et à sa position de sujet de Justinian ; il ne fait cependant aucune allusion au fait qu'il "aime ailleurs".
 
-[144]  Le passage des vers 1176-1185 évoque la rencontre de Rodrigue et Chimène dans le *Cid*  (scène 4 de l'acte III) qui se trouve condensée ici. Rodrigue vient demander la mort de la main de Chimène qui refuse par amour pour lui. Rodrigue alors attend son châtiment de la main d'un autre.
+[144]  Le passage des vers 1176-1185 évoque la rencontre de Rodrigue et Chimène dans le *Cid* (scène 4 de l'acte III) qui se trouve condensée ici. Rodrigue vient demander la mort de la main de Chimène qui refuse par amour pour lui. Rodrigue alors attend son châtiment de la main d'un autre.
 
 [145] Cet usage de la troisième personne et du prénom pour parler de soi est le reflet d'une prise de distance vis-à-vis de sa fonction politique et militaire : il sépare sa vie de galant et celle de chef d'armée.
 
-[146]  Desfontaines ajoute : "luy reproche  de laisser vivre Belisaire".
+[146]  Desfontaines ajoute : "luy reproche de laisser vivre Belisaire".
 
 [147] En venant faire face à Théodore, Iskirion fait preuve de bravoure et de générosité : il ne craint pas la colère de l'impératrice mais en plus vient s'offrir en sacrifice pour l'apaiser et ainsi sauver Bélisaire.
 

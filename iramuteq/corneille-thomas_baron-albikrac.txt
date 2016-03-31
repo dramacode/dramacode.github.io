@@ -55,7 +55,7 @@ Et tres-obligé serviteur,
 
 T. CORNEILLE.
 
-**** *book_ *id_body-301 *act_ *date_1667 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1667 *creator_corneille
 
 -*who_angelique
 Si j'en croy ce billet, Oronte est fort sincere,
@@ -110,7 +110,7 @@ Ce n'est que sçavoir lire.
 -*who_philipin
 Un peut-estre n'est point ce que cherche mon Maistre.
 
-**** *book_ *id_body-302 *act_ *date_1667 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1667 *creator_corneille
 
 -*who_lysette
 Et vite.
@@ -144,7 +144,7 @@ Qu'elle déclare…
 -*who_angelique
       Adieu.
 
-**** *book_ *id_body-303 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_I03 *act_I *date_1667 *creator_corneille 
 
 -*who_philipin
       C'est bien dit. Ah, les sots
@@ -332,7 +332,7 @@ Plus effronté qu'un Page en vain on le retient.
 -*who_lysette
 Tay-toy, ne vois-tu pas que nostre Tante vient ?
 
-**** *book_ *id_body-304 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_I04 *act_I *date_1667 *creator_corneille 
 
 -*who_tante
 Que te dit Philipin ?
@@ -354,7 +354,7 @@ Leandre est avec luy.
 -*who_tante
       Qu'ils viennent l'un et l'autre.
 
-**** *book_ *id_body-305 *act_ *date_1667 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1667 *creator_corneille
 
 -*who_lysette
 Madame, vous voyez quel pouvoir est le vostre,
@@ -561,7 +561,7 @@ Que ma Niepce…
 -*who_lysette
       N'ayez pour elle aucun soucy.
 
-**** *book_ *id_body-306 *act_ *date_1667 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1667 *creator_corneille
 
 -*who_angelique
 Vous plaist-il que quelqu'un aille pour ces Tabletes⁎,
@@ -617,7 +617,7 @@ Que de raisonnements ! approchez.
 Voila proprement l'air d'une fille modeste,
 Mais Leandre…
 
-**** *book_ *id_body-307 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_I07 *act_I *date_1667 *creator_corneille 
 
 -*who_leandre
       Voyez si l'on se plaist chez vous,
@@ -843,7 +843,7 @@ Vous le connoissez bien.
 -*who_tante
       Vous mesme.
 
-**** *book_ *id_body-308 *act_ *date_1667 *creator_corneille
+**** *book_ *id_I08 *act_I *date_1667 *creator_corneille
 
 -*who_cascaret
 Madame.
@@ -911,7 +911,7 @@ Et nous n'eussions point veu la fin de la visite.
 Adieu, pour un moment souffrez que je vous quitte,
 Je sçauray m'en défaire, et perdray peu de temps.
 
-**** *book_ *id_body-309 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_I09 *act_I *date_1667 *creator_corneille 
 
 -*who_leandre
 Faites icy le sot, pour moy si je l'attens…
@@ -1005,7 +1005,7 @@ On ne le connoit point.
 Que trop ; quoy qu'il boufonne, il sçait bien ce qu'il dit,
 Le voicy qu'à propos Philipin nous amene.
 
-**** *book_ *id_body-310 *act_ *date_1667 *creator_corneille
+**** *book_ *id_I10 *act_I *date_1667 *creator_corneille
 
 -*who_leandre
 As-tu veu le Marquis ?
@@ -1090,7 +1090,7 @@ Tu gemis ?
 -*who_philipin
       Que je crains la Montagne Baron.
 
-**** *book_ *id_body-401 *act_ *date_1667 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1667 *creator_corneille
 
 -*who_lysette
 Philipin m'attendoit par l'ordre de son Maistre,
@@ -1216,7 +1216,7 @@ Que luy pourray-je dire, et…
       S'il faut ne rien taire,
 Vous faites l'innocente, et vous ne l'estes guere.
 
-**** *book_ *id_body-402 *act_ *date_1667 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1667 *creator_corneille
 
 -*who_oronte
 Madame.
@@ -1306,7 +1306,7 @@ Que depuis si long-temps que vous le contraignez
 L'amour est tel en vous que vous me le peignez,
 Je ne me defens plus.
 
-**** *book_ *id_body-403 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_II03 *act_II *date_1667 *creator_corneille 
 
 -*who_tante
       La peinture est jolie,
@@ -1453,7 +1453,7 @@ Qu'il m'en peignoit le feu si plein d'ardeur…
 -*who_tante
       Rentrez.
 
-**** *book_ *id_body-404 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_II04 *act_II *date_1667 *creator_corneille 
 
 -*who_oronte
 Ma presence vous choque, et je vay…
@@ -1527,7 +1527,7 @@ Sur moy-mesme à mon tour prendre assez de pouvoir…
 Je ne dis pas cela pour me faire valoir,
 Au contraire, je veux…
 
-**** *book_ *id_body-405 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_II05 *act_II *date_1667 *creator_corneille 
 
 -*who_angelique
       Voicy, qu'on vous apporte
@@ -1567,7 +1567,7 @@ Si…
 -*who_oronte 
       Le friand⁎ragoust⁎ qu'une vieille amoureuse !
 
-**** *book_ *id_body-406 *act_ *date_1667 *creator_corneille
+**** *book_ *id_II06 *act_II *date_1667 *creator_corneille
 
 -*who_tante
 Sans trop de vanité je pourrois me flater
@@ -1597,7 +1597,7 @@ Aprés, ne craignez rien, nous vivrons bons amis.
 -*who_oronte
 Vous priver de sa veuë, et que rien m'autorise…
 
-**** *book_ *id_body-407 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_II07 *act_II *date_1667 *creator_corneille 
 
 -*who_angelique
 Ah, ma Tante, voicy ce beau point de Venise.
@@ -1638,7 +1638,7 @@ L'ouvrage saute aux yeux, il est égal par tout.
 -*who_tante
 Ne finirez-vous point ? que veut encor Lysette ?
 
-**** *book_ *id_body-408 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_II08 *act_II *date_1667 *creator_corneille 
 
 -*who_lysette
 Le Baron d'Albikrac…
@@ -1680,7 +1680,7 @@ Que vous n'aurez jamais ce chagrin.
       Pour vous plaire
 Je l'essuyeray sans peine, et consens que par là…
 
-**** *book_ *id_body-409 *act_ *date_1667 *creator_corneille
+**** *book_ *id_II09 *act_II *date_1667 *creator_corneille
 
 -*who_la_montagne
 Qui des deux est la Tante ? à l'âge, la voila.
@@ -1916,7 +1916,7 @@ Suivez-nous.
 -*who_lysette
 Profitez du moment, on vous donne beau jeu.
 
-**** *book_ *id_body-501 *act_ *date_1667 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1667 *creator_corneille
 
 -*who_leandre
 Nos Amants à leurs feux vont trouver peu d'obstacles,
@@ -1993,7 +1993,7 @@ Il faut avoir du moins assassiné son Pere.
 Si la Tante avec moy s'expliquoit sur ce ton,
 Je la divertirois de la bonne façon.
 
-**** *book_ *id_body-502 *act_ *date_1667 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1667 *creator_corneille
 
 -*who_leandre
 Vous vous estes enfin échapez ?
@@ -2124,7 +2124,7 @@ Pensez-vous qu'au Couvent cette ligne réponde ?
 -*who_oronte
 Celle-cy qui s'étend le dénote encor mieux.
 
-**** *book_ *id_body-503 *act_ *date_1667 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1667 *creator_corneille
 
 -*who_tante
 Que luy prédisiez-vous icy de curieux ?
@@ -2229,7 +2229,7 @@ Vous estes scrupuleuse.
 -*who_oronte 
       Ah detestable Tante !
 
-**** *book_ *id_body-504 *act_ *date_1667 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1667 *creator_corneille
 
 -*who_tante
 Je croy que vous devez avoir l'ame contente,
@@ -2387,7 +2387,7 @@ A l'hymen du Baron, mais le voicy.
       J'en tiens
 Si Leandre…
 
-**** *book_ *id_body-505 *act_ *date_1667 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1667 *creator_corneille
 
 -*who_la_montagne
       Suffit, je vay rompre les chiens.
@@ -2518,7 +2518,7 @@ Mais ils sortent ma foy, je veux suivre leurs pas.
 -*who_tante
 Allez avec ma Niepce, et ne la quitez pas.
 
-**** *book_ *id_body-506 *act_ *date_1667 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1667 *creator_corneille
 
 -*who_tante
 Leandre me laisser pour une promenade ?
@@ -2726,7 +2726,7 @@ Allons les retrouver, mais si vous m'aimiez ?
       Non,
 Madame, vous sçavez que j'agis sans façon.
 
-**** *book_ *id_body-601 *act_ *date_1667 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1667 *creator_corneille
 
 -*who_oronte
 Puisqu'il faut essuyer encor cette corvée,
@@ -2780,7 +2780,7 @@ Et qu'ainsi je serois et sans cœur et sans foy⁎
 Si je faisois pour luy moins qu'il ne fait pour moy ;
 Mais la voicy.
 
-**** *book_ *id_body-602 *act_ *date_1667 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1667 *creator_corneille
 
 -*who_tante
       Jugez si ma joye est la vostre
@@ -2892,7 +2892,7 @@ Mais comme jusqu'à vous il ne faut pas qu'il passe,
 Devant aimer son Fils, venez que je l'embrasse,
 La tendresse du sang eut toûjours droit d'agir.
 
-**** *book_ *id_body-603 *act_ *date_1667 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1667 *creator_corneille
 
 -*who_angelique
 Quoy, ma Tante, embrasser un homme sans rougir,
@@ -2956,7 +2956,7 @@ Le Cousinage n'est…
 -*who_angelique
       Leandre m'a tout dit.
 
-**** *book_ *id_body-604 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_IV04 *act_IV *date_1667 *creator_corneille 
 
 -*who_tante
 Sans mentir, vous joüez à luy gaster l'esprit,
@@ -3078,7 +3078,7 @@ Mais…
 -*who_oronte
       Contre un temeraire armez vostre couroux.
 
-**** *book_ *id_body-605 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_IV05 *act_IV *date_1667 *creator_corneille 
 
 -*who_philipin
 Monsieur, vostre Advocat vient d'envoyer chez vous,
@@ -3194,7 +3194,7 @@ J'en chercheray la voye, et sorts pour y resver⁎.
 -*who_philipin
 La fourbe est commencée, il la faut achever.
 
-**** *book_ *id_body-606 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_IV06 *act_IV *date_1667 *creator_corneille 
 
 -*who_tante
 A-t'on rien veu d'égal au procédé d'Oronte ?
@@ -3339,7 +3339,7 @@ Va, n'apprehende point que je luy puisse nuire.
 -*who_philipin
 Il s'en va tout gaster, comment l'oser instruire ?
 
-**** *book_ *id_body-607 *act_ *date_1667 *creator_corneille
+**** *book_ *id_IV07 *act_IV *date_1667 *creator_corneille
 
 -*who_tante
 Qu'est devenu Leandre ? il n'est point avec vous.
@@ -3658,7 +3658,7 @@ L'affront pour un Baron est un outrage indeu,
 Mais la Rapiere aussi, net, il sera pendu.
 Adieu, Tante.
 
-**** *book_ *id_body-608 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_IV08 *act_IV *date_1667 *creator_corneille 
 
 -*who_lysette
       Il s'en va bien outré.
@@ -3683,7 +3683,7 @@ Il va gagner païs.
       Pour fuir ce dur ennuy⁎,
 Lysette, allons de tout conferer avec luy.
 
-**** *book_ *id_body-701 *act_ *date_1667 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1667 *creator_corneille
 
 -*who_angelique
 Quoy ? par un faux Baron avoir dupé ma Tante ?
@@ -3770,7 +3770,7 @@ De trouver quelque voye à m'acquiter vers luy.
 Par son grand bien la Tante est pour luy des plus belles,
 Et sur ce qu'il m'écrit…
 
-**** *book_ *id_body-702 *act_ *date_1667 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1667 *creator_corneille
 
 -*who_lysette
       Voicy bien des nouvelles
@@ -3824,7 +3824,7 @@ Combien de fois déja…
 -*who_angelique 
 Adieu, j'en dirois trop si j'osois écouter.
 
-**** *book_ *id_body-703 *act_ *date_1667 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1667 *creator_corneille
 
 -*who_lysette
 Et bien ?
@@ -3879,7 +3879,7 @@ Autrement…
       Faites bien le plaintif, le piteux,
 La Tante vient.
 
-**** *book_ *id_body-704 *act_ *date_1667 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1667 *creator_corneille
 
 -*who_oronte
       La perdre ! Ah douleur qui me tuë !
@@ -4024,7 +4024,7 @@ J'y vay prendre party.
 Il a la rage au cœur de vous avoir perduë,
 Madame, ayez pitié du maistre et du valet.
 
-**** *book_ *id_body-705 *act_ *date_1667 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1667 *creator_corneille
 
 -*who_la_montagne
 Nous nous sommes lassez de garder le mulet.
@@ -4180,7 +4180,7 @@ Sans rancune et sans fiel, volontiers, va, Mignonne,
 Je seray ton Magot, tu seras ma Guenonne,
 Nous choisirons ainsi cent jolis petits noms.
 
-**** *book_ *id_body-706 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_V06 *act_V *date_1667 *creator_corneille 
 
 -*who_la_montagne
 La Belle, il faut vouloir ce que nous ordonnons,
@@ -4341,7 +4341,7 @@ Pour nous voir marier quinze ou trente Barons.
 Si la Noblesse a droit de chatoüiller vostre ame,
 Je vous en garantis satisfaite.
 
-**** *book_ *id_body-707 *act_ *date_1667 *creator_corneille 
+**** *book_ *id_V07 *act_V *date_1667 *creator_corneille 
 
 -*who_cascaret
       Madame,

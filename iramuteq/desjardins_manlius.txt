@@ -6,7 +6,7 @@ A MADEMOISELLE
 
 MADEMOISELLE,
 
-Les hommages que vostre ALTESSE ROYALE reçoit tous les jours, me deffendent presque d'esperer, que mes respects ne puissent trouver place parmy la foule des Illustres⁎ adorateurs de vostre Vertu : Je crains avec raison, ce me semble, d'estre étouffée dans cette glorieuse⁎ presse⁎.
+Les hommages que vostre ALTESSE ROYALE reçoit tous les jours, me deffendent presque d'esperer, que mes respects ne puissent trouver place parmy la foule des Illustres⁎ adorateurs de vostre Vertu : Je crains avec raison, ce me semble, d'estre étouffée dans cette glorieuse⁎presse⁎.
 Mais il faut oser quelque chose pour s'acquitter de son devoir, et toutes les Augustes qualitez de vostre Personne Royale, ont fait une si douce violence à nostre jeune Manlius, que, sans considerer ses deffauts, il vient audacieusement se jeter aux pieds de la plus merveilleuse Princesse qui soit aujourd'huy dans le monde.
 En vain je luy ay representé qu'en ces rencontres, il faut pour le moins estre conduit par ces grands Auteurs que leur merite a rendus les Roys du Théatre; Que dans une si haute entreprise les applaudissements vulgaires sont un foible appuy, & que les lumieres de vôtre ALTESSE ROYALE ne trouvent rien qu'elles ne penetrent.
 Il dit que par tout l'Univers,
@@ -34,7 +34,7 @@ La tres-humble, tres-obeïssante,
 
 DES JARDINS.
 
-**** *book_ *id_body-301 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_I01 *act_I *date_1662 *creator_villedieu
 
 -*who_camille
 Puis-je croire, Pison, cette estrange nouvelle ?
@@ -62,7 +62,7 @@ Je sçauray reconnoistre une ardeur⁎ si fidelle⁎,
 Repose⁎-t'en sur moy, va, j'en prends le soucy⁎
 Mais je voy Torquatus, laisse-nous seuls icy.
 
-**** *book_ *id_body-302 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_I02 *act_I *date_1662 *creator_villedieu
 
 -*who_torquatus
 Quoy, si matin, Madame, estre hors de la Tente ?
@@ -183,7 +183,7 @@ Elle devoit me suivre icy dans un moment :
 Tâchez de penetrer un peu son sentiment.
 La voicy : je vous quitte.
 
-**** *book_ *id_body-303 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_I03 *act_I *date_1662 *creator_villedieu
 
 -*who_torquatus
                   He bien, belle inhumaine⁎,
@@ -291,7 +291,7 @@ Que si je vous retrouve encore inexorable,
 A la face du Ciel avant la fin du jour,
 Torquatus vengera sa gloire & son amour.
 
-**** *book_ *id_body-304 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_I04 *act_I *date_1662 *creator_villedieu 
 
 -*who_omphale
 Voila pour me charmer un aymable langage,
@@ -344,7 +344,7 @@ Le voicy qui s'avance.
 -*who_omphale
                   En croiray-je mes yeux ?
 
-**** *book_ *id_body-305 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_I05 *act_I *date_1662 *creator_villedieu 
 
 -*who_manlius
 Croyez-en vostre cœur, s'il vous en parle mieux,
@@ -446,7 +446,7 @@ Il attend ce devoir avec impatience,
 Sans craindre aucun peril, je cours m'en acquiter,
 Un Amant⁎ fortuné⁎ n'a rien à redouter.
 
-**** *book_ *id_body-306 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_I06 *act_I *date_1662 *creator_villedieu 
 
 -*who_omphale
 Ha ! que tu connois mal le destin qui t'accable,
@@ -473,7 +473,7 @@ Allons donc dans ce Temple offrir un sacrifice,
 Pour nous rendre le Ciel, s'il se peut plus propice.
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_II01 *act_II *date_1662 *creator_villedieu
 
 -*who_torquatus
 Vertu, Romains, Senat, Loix, devoir trop severe⁎,
@@ -516,7 +516,7 @@ Ne me resistez plus importune tendresse,
 Vous avez contre vous & Rome & la Princesse,
 Cedez à mon amour, cedez à mon devoir.
 
-**** *book_ *id_body-402 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_II02 *act_II *date_1662 *creator_villedieu
 
 -*who_junius
 Seigneur, c'est Manlius qui demande à vous voir :
@@ -524,7 +524,7 @@ Seigneur, c'est Manlius qui demande à vous voir :
 -*who_torquatus
 Qu'il approche, ô mon cœur⁎ garde-toy de t'abattre.
 
-**** *book_ *id_body-403 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_II03 *act_II *date_1662 *creator_villedieu
 
 -*who_torquatus
 Venez-vous demander un ordre pour combattre⁎,
@@ -584,7 +584,7 @@ Mais je crains tout de moy s'il vient des ennemis,
 -*who_torquatus
 Ne me repliquez plus : sortez.
 
-**** *book_ *id_body-404 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_II04 *act_II *date_1662 *creator_villedieu
 
 -*who_torquatus
                   Quelle arrogance !
@@ -711,7 +711,7 @@ C'est mal prendre mon temps pour un tel entretien :
 Voyez si dans ce camp, il ne se passe rien :
 Je vous suy.
 
-**** *book_ *id_body-405 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_II05 *act_II *date_1662 *creator_villedieu 
 
 -*who_torquatus
 Quel sujet dans ce lieu vous ameine ?
@@ -774,7 +774,7 @@ Tout mon Rival qu'il est, sa mort dépend de vous
 Je vous laisse y penser. Camille vient à nous,
 Un pareil entretien doit finir aupres d'elle.
 
-**** *book_ *id_body-406 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_II06 *act_II *date_1662 *creator_villedieu
 
 -*who_camille
 Je vous cherchois, Omphale :
@@ -880,7 +880,7 @@ J'y consens avec joye, allons, cét entretien
 Me rend vostre interest⁎ aussi cher que le mien.
 Fin du Second Acte.
 
-**** *book_ *id_body-501 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_III01 *act_III *date_1662 *creator_villedieu
 
 -*who_camille
 Qu'ay-je entendu ? Grands Dieux ! & que me dit Omphale ?
@@ -934,7 +934,7 @@ Pour un jeune vainqueur la vie a des appas⁎,
 Offrons luy du secours embrassons sa deffence
 Tâchons de l'irriter : Le voicy qui s'avance.
 
-**** *book_ *id_body-502 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_III02 *act_III *date_1662 *creator_villedieu 
 
 -*who_camille
 J'ay sçeu jeune Heros qu'un outrageant mépris,
@@ -1092,7 +1092,7 @@ Sous le tranchant mortel du couteau qui s'apreste,
 Vostre seule injustice a merité la mort,
 Et je vous abandonne aux cruautez⁎ du sort.
 
-**** *book_ *id_body-503 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_III03 *act_III *date_1662 *creator_villedieu 
 
 -*who_manlius
 O Sort vrayement cruel ! ô funeste⁎ avanture !
@@ -1135,7 +1135,7 @@ Mais les Dieux attendris du tourment qui te presse⁎
 Font exprés dans ce lieu rencontrer ta Princesse ;
 R'anime en la voyant ton espoir abbatu.
 
-**** *book_ *id_body-504 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_III04 *act_III *date_1662 *creator_villedieu 
 
 -*who_manlius
 Ah, Madame, venez soûtenir ma Vertu
@@ -1285,7 +1285,7 @@ Crois⁎ mon cœur, Manlius, si tu ne croy⁎ ma bouche,
 S'il pouvoit sans témoins s'exprimer dans ce lieu,
 Que ne diroit-il point ? aime, & te sauve. Adieu.
 
-**** *book_ *id_body-505 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_III05 *act_III *date_1662 *creator_villedieu 
 
 -*who_manlius
 Aime & te sauve, helas ! dans un sort si contraire,
@@ -1298,7 +1298,7 @@ Il faut y succomber, c'en est fait & mon cœur
 Ne consultera plus que sa propre fureur.
 Fin du troisiéme Acte.
 
-**** *book_ *id_body-601 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_IV01 *act_IV *date_1662 *creator_villedieu
 
 -*who_torquatus
 Tu mourras, tu mourras, ô fils trop temeraire⁎
@@ -1353,7 +1353,7 @@ Executons du sort l'arrest irrevocable :
 C'est mon Rival, on l'aime, il est assez coupable.
 Ho là, quelqu'un.
 
-**** *book_ *id_body-602 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_IV02 *act_IV *date_1662 *creator_villedieu
 
 -*who_camille
               Seigneur.
@@ -1458,7 +1458,7 @@ Et Decius merite un plus grand successeur.
 Cesse donc de penser, qu'aux biens que tu hazardes⁎
 Je prenne d'interest⁎…
 
-**** *book_ *id_body-603 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_IV03 *act_IV *date_1662 *creator_villedieu 
 
 -*who_junius
                   Manlius a des gardes ;
@@ -1492,7 +1492,7 @@ Dans ton camp tu peux tout, ose tout entreprendre ;
 Mais crains que quelque jour on ne puisse t'apprendre,
 Ce que c'est que Camille : Adieu, penses y bien.
 
-**** *book_ *id_body-604 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_IV04 *act_IV *date_1662 *creator_villedieu
 
 -*who_torquatus
 Dieux ! l'horrible tourment qu'un pareil entretien !
@@ -1643,7 +1643,7 @@ Est un puissant remede à nostre inquietude :
 Mais songez bien sur tout, que le repos du cœur
 Est ce qu'on peut nommer le supréme bon-heur.
 
-**** *book_ *id_body-605 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_IV05 *act_IV *date_1662 *creator_villedieu
 
 -*who_torquatus
 Helas ! que je suis loing de ce bon-heur supréme !
@@ -1656,7 +1656,7 @@ Ne balançons⁎ donc point, & courons de ce pas
 Avancer mon bon-heur, en pressant ce trépas.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_V01 *act_V *date_1662 *creator_villedieu
 
 -*who_omphale
 Quoy⁎ donc, Seigneur vostre ame est elle inexorable ?
@@ -1730,7 +1730,7 @@ Je sens que je commence à rentrer en moy-mesme,
 C'en est fait, je me rends à cette loy supréme.
 Hola, Gardes.
 
-**** *book_ *id_body-702 *act_ *date_1662 *creator_villedieu
+**** *book_ *id_V02 *act_V *date_1662 *creator_villedieu
 
 -*who_pison
               Seigneur.
@@ -1827,7 +1827,7 @@ Gardes, retirez-vous.
 -*who_torquatus
 Tâchons sans estre veu, d'écouter leurs discours.
 
-**** *book_ *id_body-703 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_V03 *act_V *date_1662 *creator_villedieu 
 
 -*who_omphale
 Que de trouble je sens ! ah ! Seigneur.
@@ -1982,7 +1982,7 @@ Vont meriter, cruel, toute cette vengeance.
 -*who_torquatus
 Quand un peu de raison viendra vous secourir…
 
-**** *book_ *id_body-704 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_V04 *act_V *date_1662 *creator_villedieu 
 
 -*who_camille
 Ha, Consul ! ah, Cruel ! ton fils va donc perir !
@@ -1992,7 +1992,7 @@ Apres avoir commis un si grand attentat⁎,
 Tu ne crains ny remors, ny honte, ny Senat :
 Ton ame apres ce coup n'est donc point alarmée⁎ ?
 
-**** *book_ *id_body-705 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_V05 *act_V *date_1662 *creator_villedieu 
 
 -*who_junius
 Seigneur, il seroit bon de veiller sur l'armée ;
@@ -2002,7 +2002,7 @@ Contre vostre rigueur tout le monde déteste :
 Je crains de cét Arrest une suitte funeste⁎ ;
 Il s'éleve par tout un murmure⁎ confus.
 
-**** *book_ *id_body-706 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_V06 *act_V *date_1662 *creator_villedieu 
 
 -*who_torquatus
 Voicy Pison. Mon fils ?
@@ -2067,7 +2067,7 @@ Que la punition de leur temerité,
 Servira d'un exemple à la posterité.
 Qu'on me suive.
 
-**** *book_ *id_body-707 *act_ *date_1662 *creator_villedieu 
+**** *book_ *id_V07 *act_V *date_1662 *creator_villedieu 
 
 -*who_manlius
               Seigneur…..

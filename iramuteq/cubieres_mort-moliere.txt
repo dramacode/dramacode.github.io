@@ -143,7 +143,7 @@ Pouvais-je mieux leur témoigner ma reconnaissance.
 
 Ayant sçu d'ailleurs que quelques Littérateurs estimables devaient traiter le même sujet que moi, et ne pouvant avoir sur eux que le mérite de l'antériorité, j'ai fait imprimer mon Ouvrage pour prendre date, et pour m'assurer les seuls droits qu'on ne saurait me disputer.
 
-**** *book_ *id_body-301 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I01 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 JE ne sais que penser de mon ami Chapelle.
@@ -166,7 +166,7 @@ Chapelle cependant n'arrive point, j'enrage.
 Si du moins il m'avait renvoyé mon Ouvrage !
 J'en ai besoin. Holà !... Je suis d'une fureur !
 
-**** *book_ *id_body-302 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I02 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 CHAPELLE n'a-t-il rien envoyé ?
@@ -177,7 +177,7 @@ CHAPELLE n'a-t-il rien envoyé ?
 -*who_moliere
 Qu'on me laisse !
 
-**** *book_ *id_body-303 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I03 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
       IL me faut, en attendant qu'il vienne
@@ -211,7 +211,7 @@ Grands Auteurs dont on sait le malheureux destin.
 Mais achevons... Je crois qu'en chantant il s'annonce.
 Oh ! qu'il mériteroit une vive semonce !
 
-**** *book_ *id_body-304 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I04 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 EH bien ! m'apportez-vous mon manuscrit enfin ?
@@ -332,7 +332,7 @@ Me plaît infiniment, et je n'ai plus d'excuse.
 -*who_moliere
 Laforêt ! Laforêt !
 
-**** *book_ *id_body-305 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I05 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_laforet
       QU'EST-CE ?
@@ -457,7 +457,7 @@ Quand vous avez dormi, j'allais dormir moi-même.
 Le sommeil reviendrait : allez vous reposer,
 Seul avec mon ami je veux ici causer.
 
-**** *book_ *id_body-306 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I06 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 EH bien, vous l'avez vu. C'est la simple nature
@@ -518,7 +518,7 @@ Et, tous les cinquante ans expirent et renaissent,
 Pareils à ces essaims d'insectes qu'au printemps
 La chaleur renaissante éveille dans les champs ?
 
-**** *book_ *id_body-307 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I07 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_un_garcon_de_theatre
 POUR répéter, Monsieur, votre nouvelle pièce,
@@ -537,7 +537,7 @@ Le voilà ; je vous suis.
 Si vous ne m'eussiez point rapporté mon ouvrage,
 Vous le voyez ; parbleu⁎ j'étais joli garçon.
 
-**** *book_ *id_body-308 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I08 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle
 IL vient de me donner une sage leçon,
@@ -546,7 +546,7 @@ Et je condamne au feu ma Comédie entière,
 Quel pénible métier que celui d'écrivain !
 Il vaut mieux ne rien faire et sabler du bon vin.
 
-**** *book_ *id_body-309 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I09 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere
 DU bon vin ! du bon vin ! voilà comme vous êtes !
@@ -621,7 +621,7 @@ Et je sors pour calmer votre juste colère.
 Je vais à votre époux offrir tous mes secours :
 Pour prolonger les siens, je donnerais mes jours.
 
-**** *book_ *id_body-310 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I10 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere
 CHAPELLE a t-il raison ? Je veux être maîtresse,
@@ -631,7 +631,7 @@ Et me faire, dit-il, rentrer dans mon devoir ?
 Qu'il cède quelquefois, je céderai. Qu'entends-je ?
 C'est ma fille.
 
-**** *book_ *id_body-311 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_I11 *act_I *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere
       D'où vient cette pâleur étrange
@@ -758,7 +758,7 @@ Eh bien ! Il faut aller le trouver de ce pas.
 Suivez-moi ; je prétends que vous m'aidiez vous-même
 A lui faire agréer Milflore qui vous aime.
 
-**** *book_ *id_body-401 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II01 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 NON, ma femme, jamais je n'y consentirai
@@ -939,7 +939,7 @@ Non, non ; un Médecin... mais qu'est-ce que je voi ?
 Baron ! je ne saurais supporter sa présence.
 Sortons ; chez le Docteur allons en diligence.
 
-**** *book_ *id_body-402 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II02 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 QU'EST-CE, mon cher Baron ? vous paraissez rêveur.
@@ -1057,7 +1057,7 @@ A notre pauvre ami, que c'est moi qui l'ordonne.
 -*who_baron
 Ah ! que je suis charmé de la commission !
 
-**** *book_ *id_body-403 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II03 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 QUE de délicatesse et de discrétion
@@ -1092,7 +1092,7 @@ Le rang ou le crédit qu'on loue avec bassesse,
 Et l'on me blâmerait de peindre ces travers ?
 Vous n'êtes pas au bout. Tremblez, hommes pervers !
 
-**** *book_ *id_body-404 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II04 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_un_semainier
 ON m'envoie en ces lieux pour savoir si Moliere
@@ -1103,7 +1103,7 @@ Dans sa pièce jouera.
 Sans doute⁎ ; qu'on allume et qu'on se tienne prêt.
 Je vous suis à l'instant.
 
-**** *book_ *id_body-405 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II05 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_isabelle
       QUOI ! mon père, en effet
@@ -1221,7 +1221,7 @@ Voilà, dans ce moment, quel est mon vrai devoir.
 -*who_isabelle
 Ainsi mes pleurs sur vous n'auront aucun pouvoir.
 
-**** *book_ *id_body-406 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II06 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_lesbin
 DE Mignard à l'instant on m'apporte une lettre
@@ -1248,7 +1248,7 @@ J'y resterais ! non, non ; ce serait faire injure
 A ma fille, à ma femme, et je connais leurs droits :
 Ainsi que l'amitié la nature a ses loix.
 
-**** *book_ *id_body-407 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II07 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron
 JE quitte Laforêt, et ma surprise est telle,
@@ -1296,7 +1296,7 @@ Quand je feins d'être mort, en regrets vertueux
 S'exhale la douleur et touchante et sincère :
 Il faut la bien savoir ; rien n'est plus nécessaire.
 
-**** *book_ *id_body-408 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II08 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_isabelle
 « O Ciel ! quelle infortune ! quelle atteinte cruelle ! hélas ! faut-il que je perde mon père, la seule chose qui me restait au monde, et qu'encore, pour un surcroît de désespoir, je le perde dans un moment où il était irrité contre moi !
@@ -1350,7 +1350,7 @@ Il faudrait l'empêcher de jouer aujourd'hui.
 Et peut-on sur ce point rien obtenir de lui ?
 Il vient de rejetter mes vœux et ma prière.
 
-**** *book_ *id_body-409 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II09 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_le_docteur
 JE suis, vous le savez, un ami de Moliere,
@@ -1389,7 +1389,7 @@ J'ai lu dans Galien et la moderne école
 De Salerne... Qu'entends-je ? Il arrive en toussant.
 Donnez-lui cet avis ; il est intéressant.
 
-**** *book_ *id_body-410 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II10 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 MONDORGE part content, et je le suis moi-même.
@@ -1437,7 +1437,7 @@ Devoir à la vertu toute ma renommée.     
 D'ailleurs, mes chers enfants, ensemble nous jouerons !
 Vous serez près de moi : qu'ai-je à craindre ? Partons.
 
-**** *book_ *id_body-411 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II11 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle
 NON, non ; vous resterez.
@@ -1478,19 +1478,19 @@ Et s'il meurt aujourd'hui, Moliere vous pardonne ;
 Mais je ne mourrai point. Dissipez votre effroi :
 Le Ciel n'est point injuste ; il veillera sur moi.
 
-**** *book_ *id_body-412 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_II12 *act_II *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle
 IL compte vainement se soustraire à mon zèle⁎.
 Suivons ses pas, volons où l'amitié m'appelle.
 
-**** *book_ *id_body-501 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III01 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle
 LAFORET ! Laforêt ! où donc est cette fille ?
 Quel désespoir pour elle et toute la famille !
 
-**** *book_ *id_body-502 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III02 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_laforet
 VOUS avez appellé, je crois.
@@ -1537,7 +1537,7 @@ Un crachement de sang finit par l'épuiser ;
 Mais j'entends quelque bruit... En ces lieux on l'amène.
 Un fauteuil ? des coussins ?... comme il marche avec peine !
 
-**** *book_ *id_body-503 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III03 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere
 O combien de vos soins je suis reconnaissant !
@@ -1573,7 +1573,7 @@ Laisserez-vous entrer le Docteur Mauvilain ?
 -*who_moliere
 Qu'il entre comme ami, non comme Médecin.
 
-**** *book_ *id_body-504 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III04 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_le_docteur
 MA visite n'a pas le bonheur de vous plaire ;
@@ -1699,7 +1699,7 @@ Pour nous, suivons ses pas, et, quoiqu'il puisse dire,
 Allons lui prodiguer nos utiles secours
 Et tâchons, malgré lui, de prolonger ses jours.
 
-**** *book_ *id_body-505 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III05 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron
 MOLIERE jusqu'au bout garde son caractère.
@@ -1708,7 +1708,7 @@ Pourrait de ses douleurs alléger le fardeau,
 Il les plaisante même aux portes du tombeau.
 Il voit sans s'émouvoir la fin de sa carrière.
 
-**** *book_ *id_body-506 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III06 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_domestique
 MONSIEUR de Montausier, inquiet sur Moliere,
@@ -1720,7 +1720,7 @@ Qu'il sera doux pour moi de le remercier.
 Il est si vertueux ! Montausier est un homme
 Tel qu'on en vit jadis aux beaux siècles de Rome.
 
-**** *book_ *id_body-507 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III07 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_montausier
 DE Moliere toujours j'estimai les talents,
@@ -1763,7 +1763,7 @@ A quel point votre cœur partage nos alarmes !
 -*who_montausier
 Qui plus que le génie aurait droit à mes larmes ?
 
-**** *book_ *id_body-508 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III08 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_pirlon
 COMMENT se porte-t-il ?
@@ -1939,7 +1939,7 @@ Que l'on soit indulgent, et que l'aménité
 Est le premier lien de la société⁎ ?
 Mais j'entends quelque bruit : sans doute⁎ on va m'apprendre...
 
-**** *book_ *id_body-509 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III09 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron
 CIEL ! Isabelle en pleurs ! à quoi dois-je m'attendre !
@@ -1967,7 +1967,7 @@ Et souffrez que nos soins...
 Si mon père, en ce jour, doit subir le trépas,
 Et terminez aussi ma trop longue carrière !
 
-**** *book_ *id_body-510 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III10 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_lesbin
 MIGNARD envoie ici le portrait de Moliere.
@@ -1989,7 +1989,7 @@ Seule avec ce portrait.
 Sortons ; ne troublons pas sa douleur davantage.
 L'infortune est sacrée.
 
-**** *book_ *id_body-511 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III11 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_isabelle
       O respectable image !
@@ -2008,7 +2008,7 @@ En proie à tous les maux, n'ayant plus d'espérance
 Sans doute⁎ à ma tendresse un miracle était dû.
 Tel qu'il est dans mon cœur le pinceau l'a rendu.
 
-**** *book_ *id_body-512 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III12 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere
 PLEURE, pleure, ma fille, à ta douleur sincère
@@ -2017,7 +2017,7 @@ Je viens mêler la mienne. Il est trop vrai ; ton père…
 -*who_isabelle
 Ah ! ce mot a suffi pour me donner la mort.
 
-**** *book_ *id_body-513 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III13 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle
 QUE vois-je ?... ô triste effet de la rigueur du sort !
@@ -2025,7 +2025,7 @@ La mère est dans les pleurs : la fille évanouie...
 Madame, hâtez-vous de la rendre à la vie.
 Et vous conduisez-les dans leur appartement.
 
-**** *book_ *id_body-514 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_III14 *act_III *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle
 VOUS, amis de Moliere, et dont, en ce moment,
@@ -2324,7 +2324,7 @@ HUGELET.
 
 LA MORT DE MOLIÈRE. 1802
 
-**** *book_ *id_body-1101 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV01 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 JE ne sais que penser de mon ami Chapelle ;
@@ -2347,7 +2347,7 @@ Chapelle, cependant, n'arrive point, j'enrage.
 Si du moins il m'avait renvoyé mon ouvrage !
 J'en ai besoin. Holà !... Je suis d'une fureur…
 
-**** *book_ *id_body-1102 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV02 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 Chapelle n'a-t-il rien envoyé ?
@@ -2358,7 +2358,7 @@ Chapelle n'a-t-il rien envoyé ?
 -*who_moliere_1802
 Qu'on me laisse !
 
-**** *book_ *id_body-1103 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV03 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
       Il me faut, en attendant qu'il vienne
@@ -2392,7 +2392,7 @@ Grands auteurs dont on sait le malheureux destin…
 Mais, achevons... Je crois qu'en chantant il s'annonce.
 Oh ! qu'il mériterait une vive semonce !
 
-**** *book_ *id_body-1104 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV04 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 Eh bien ! m'apportez-vous mon manuscrit, enfin ?
@@ -2513,7 +2513,7 @@ Me plaît infiniment, et je n'ai plus d'excuse.
 -*who_moliere_1802
 Laforêt ! Laforêt !
 
-**** *book_ *id_body-1105 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV05 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_laforet_1802
       Qu'est-ce ?
@@ -2653,7 +2653,7 @@ Oui, je rime si bien que Laforêt sommeille.
 Vous dormiriez encore, allez vous reposer,
 Seul avec mon ami je veux ici causer.
 
-**** *book_ *id_body-1106 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV06 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 Eh bien, vous l'avez vu. C'est la simple nature
@@ -2714,7 +2714,7 @@ Et tous les cinquante ans expirent et renaissent,
 Pareils à ces essaims d'insectes qu'au printemps
 La chaleur renaissante éveille dans les champs ?
 
-**** *book_ *id_body-1107 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV07 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_un_garcon_de_theatre_1802
 Pour répéter, Monsieur, votre nouvelle pièce,
@@ -2733,7 +2733,7 @@ Le voilà, je vous suis.
 Si vous ne m'eussiez point rapporté mon ouvrage,
 Vous le voyez, parbleu⁎ j'étais joli garçon.
 
-**** *book_ *id_body-1108 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV08 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_1802
 Il vient de me donner une sage leçon,
@@ -2742,7 +2742,7 @@ Et je condamne au feu ma comédie entière,
 Quel pénible métier, que celui d'écrivain !
 Il vaut mieux ne rien faire et sabler du bon vin.
 
-**** *book_ *id_body-1109 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV09 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere_1802
 Du bon vin ! du bon vin ! voilà comme vous êtes !
@@ -2817,7 +2817,7 @@ Et je sors pour calmer votre juste colère :
 Je vais à votre époux offrir tous mes secours :
 Pour prolonger les siens, je donnerais mes jours.
 
-**** *book_ *id_body-1110 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV10 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere_1802
 Chapelle a t-il raison ? je veux être maîtresse,
@@ -2827,7 +2827,7 @@ Et me faire, dit-il, rentrer dans mon devoir ?
 Qu'il cède, quelquefois, je cèderai. Qu'entends-je ?
 C'est ma fille.
 
-**** *book_ *id_body-1111 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_IV11 *act_IV *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere_1802
       D'où vient cette pâleur étrange
@@ -2955,7 +2955,7 @@ Suivez-moi ; je prétends que vous m'aidiez vous-même
 A lui faire agréer Milflore, qui vous aime.
 FIN DU PREMIER ACTE.
 
-**** *book_ *id_body-1201 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V01 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 NON, ma femme, jamais je n'y consentirai :
@@ -3145,7 +3145,7 @@ Non, non ; un médecin... mais qu'est-ce que je voi ?
 Baron ! je ne saurais supporter sa présence :
 Sortons ; chez le docteur allons en diligence.
 
-**** *book_ *id_body-1202 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V02 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 Qu'est-ce, mon cher Baron ? vous paraissez rêveur.
@@ -3263,7 +3263,7 @@ A notre pauvre ami, que c'est moi qui l'ordonne.
 -*who_baron_1802
 Ah ! que je suis charmé de la commission !
 
-**** *book_ *id_body-1203 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V03 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 Que de délicatesse et de discrétion
@@ -3298,7 +3298,7 @@ Le rang ou le crédit, qu'on loue avec bassesse,
 Et l'on me blâmerait de peindre ces travers ?
 Vous n'êtes pas au bout : tremblez, hommes pervers !
 
-**** *book_ *id_body-1204 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V04 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_un_semainier_1802
 On m'envoie en ces lieux pour savoir si Molière
@@ -3309,7 +3309,7 @@ Dans sa pièce jouera ?
 Allez ; point de relâche et qu'on se tienne prêt.
 Je vous suis à l'instant.
 
-**** *book_ *id_body-1205 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V05 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_isabelle_1802
       Quoi ! mon père, en effet
@@ -3385,7 +3385,7 @@ Ainsi mes pleurs sur vous n'auront aucun pouvoir ?
 Je vous dois mon bonheur, et c'est le compromettre
 Que d'aller…
 
-**** *book_ *id_body-1206 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V06 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_lesbin_1802
       De Mignard, à l'instant on m'apporte une lettre
@@ -3410,7 +3410,7 @@ Je resterais ? non, non ; ce serait faire injure
 A ma fille, à ma femme, et je connais leurs droits ;
 Ainsi que l'amitié, la nature a ses loix.
 
-**** *book_ *id_body-1207 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V07 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron_1802
 Je quitte Laforêt ; elle se plaint sans cesse,
@@ -3465,7 +3465,7 @@ Quelle cruelle toux ! Je vous quitte un moment
 Pour aller embrasser mon ami, qui voyage ;
 Continuez tous deux d'embellir mon ouvrage.
 
-**** *book_ *id_body-1208 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V08 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron_1802
 Au désordre qui règne en vos sens éperdus,
@@ -3486,7 +3486,7 @@ Il faudrait l'empêcher de jouer aujourd'hui.
 Eh peut-on sur ce point rien obtenir de lui ?
 Il vient de rejetter mes vœux et mes prières.
 
-**** *book_ *id_body-1209 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V09 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_le_docteur_1802
 Je suis, vous le savez, un ami de Molière,
@@ -3525,7 +3525,7 @@ J'ai lu dans Galien et la moderne école     
 De Salerne... Qu'entends-je ? Il arrive en toussant.
 Donnez-lui cet avis, il est intéressant.
 
-**** *book_ *id_body-1210 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V10 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 Mondorge part content, et je le suis moi-même.
@@ -3573,7 +3573,7 @@ Devoir à la vertu toute ma renommée.
 D'ailleurs, mes chers enfans, ensemble nous jouerons !
 Vous serez près de moi ; qu'ai-je à craindre ? partons.
 
-**** *book_ *id_body-1211 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V11 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_1802
 Non, non, vous resterez.
@@ -3618,7 +3618,7 @@ Loin de vouloir l'éteindre, enflamez mon courage ;
 Je dois, par mes travaux⁎, soutenir mes acteurs,
 Faire trembler le vice et réformer les mœurs.
 
-**** *book_ *id_body-1212 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_V12 *act_V *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_1802
 Quelle verve ! quel feu presqu'au bord de la tombe…
@@ -3627,13 +3627,13 @@ Je veux, pour son salut, ne rien faire à demi ;
 Le plus fameux docteur en sait moins qu'un ami.
 FIN DE L'ACTE II.
 
-**** *book_ *id_body-1301 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI01 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_1802
 LAFORET ! Laforêt ! où donc est cette fille ?
 Quel désespoir pour elle et toute la famille !
 
-**** *book_ *id_body-1302 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI02 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_laforet_1802
 Vous avez appellé, je crois.
@@ -3680,7 +3680,7 @@ Un crachement de sang finit par l'épuiser.
 Mais, j'entends quelque bruit... en ces lieux on l'amène.
 Un fauteuil ! des coussins. Comme il marche avec peine !
 
-**** *book_ *id_body-1303 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI03 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_moliere_1802
 O combien de vos soins je suis reconnaissant !
@@ -3716,7 +3716,7 @@ Laisserez vous entrer le Docteur Mauvilain ?
 -*who_moliere_1802
 Qu'il entre comme ami, non comme médecin.
 
-**** *book_ *id_body-1304 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI04 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_le_docteur_1802
 Ma visite n'a pas le bonheur de vous plaire ;
@@ -3845,7 +3845,7 @@ Pour nous, suivons ses pas, et, quoiqu'il puisse dire,
 Allons lui prodiguer nos utiles secours
 Et tâchons, malgré lui, de prolonger ses jours.
 
-**** *book_ *id_body-1305 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI05 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron_1802
 Molière, jusqu'au bout, garde son caractère :
@@ -3854,7 +3854,7 @@ Pourrait de ses douleurs alléger le fardeau,
 Il les plaisante, même aux portes du tombeau.
 Il voit sans s'émouvoir la fin de sa carrière.
 
-**** *book_ *id_body-1306 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI06 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_domestique
 Monsieur de Montausier, inquiet sur Molière,
@@ -3870,7 +3870,7 @@ A la cour du monarque il dit la vérité.
 Ami de tous les arts, au goût toujours fidèle,
 De talens, de vertus c'est un vivant modèle.
 
-**** *book_ *id_body-1307 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI07 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_montausier_1802
 De Molière, toujours, j'estimai les talens,
@@ -3913,7 +3913,7 @@ A quel point votre cœur partage nos alarmes !
 -*who_montausier_1802
 Qui, plus que le génie, aurait droit à mes larmes ?
 
-**** *book_ *id_body-1308 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI08 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_pirlon_1802
 Comment se porte-t-il ?
@@ -4089,7 +4089,7 @@ Que l'on soit indulgent, et que l'aménité
 Est le premier lien de la société⁎ ?
 Mais j'entends quelque bruit : sans doute⁎ on va m'apprendre...
 
-**** *book_ *id_body-1309 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI09 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_baron_1802
 Ciel ! Isabelle en pleurs ! à quoi dois-je m'attendre ?
@@ -4117,7 +4117,7 @@ Et souffrez que nos soins...
 Si mon père, en ce jour, doit subir le trépas,
 Et terminez aussi ma trop longue carrière !
 
-**** *book_ *id_body-1310 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI10 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_lesbin_1802
 Mignard envoie ici le portrait de Molière.
@@ -4139,7 +4139,7 @@ Seule avec ce portrait.
 Sortons ; ne troublons pas sa douleur davantage.
 L'infortune est sacrée.
 
-**** *book_ *id_body-1311 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI11 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_isabelle_1802
       O respectable image !
@@ -4158,7 +4158,7 @@ En proie à tous les maux, n'ayant plus d'espérance,
 Sans doute⁎ à ma tendresse un miracle était dû.
 Tel qu'il est dans mon cœur, le pinceau l'a rendu.
 
-**** *book_ *id_body-1312 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI12 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_la_moliere_1802
 Pleure, pleure, ma fille, à ta douleur sincère
@@ -4167,7 +4167,7 @@ Je viens mêler la mienne. Il est trop vrai, ton père…
 -*who_isabelle_1802
 Ah ! !! ce mot a suffi pour me donner la mort.
 
-**** *book_ *id_body-1313 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI13 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_1802
 Que vois-je ? ô triste effet de la rigueur du sort !
@@ -4175,7 +4175,7 @@ La mère est dans les pleurs : la fille évanouie...
 Madame, hâtez-vous de la rendre à la vie.
 Et vous, conduisez-les dans leur appartement.
 
-**** *book_ *id_body-1314 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VI14 *act_VI *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_1802
 Vous, amis de Molière, et dont en ce moment
@@ -4189,7 +4189,7 @@ Et qu'une Apothéose y consacre à jamais
 Ses vertus, son génie et sur-tout nos regrets.
 Fin de l'Acte III et de la Mort de Molière.
 
-**** *book_ *id_body-1402 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VII02 *act_VII *date_1788 *creator_cubieres_palmezeaux
 
 -*who_chapelle_apotheose
 OUI, notre ami n'est plus, une crise funeste
@@ -4269,7 +4269,7 @@ De votre destinée il m'a rendu l'arbitre :
 Mais à son amitié Mignard eut plus d'un titre,
 Je le vois qui s'avance et qui vient avec nous…
 
-**** *book_ *id_body-1403 *act_ *date_1788 *creator_cubieres_palmezeaux
+**** *book_ *id_VII03 *act_VII *date_1788 *creator_cubieres_palmezeaux
 
 -*who_mignard
 Moi, je viens, mes amis, le pleurer avec vous.

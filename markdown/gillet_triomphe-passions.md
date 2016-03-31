@@ -1059,7 +1059,7 @@ victorieux, et qu'il eust delivré la ville dont il l'avoit laissé Gouverneur d
 
 rend à la vertu Romaine ce que ceux qui ne se vouloient immortaliser luy devoient, et fait vanité de tesmoigner au peuple que pour acquerir de l'honneur il periroit luy-mesme et se priveroit de vie. Puis lors que l'on luy vient dire l'effect⁎ de la sentence qu'il a donnee, c'est à dire la mort de son fils, la sinderese⁎ du vice le prenant tout à coup, il en conçoit un si grand déplaisir qu'il reste sans mouvement, et nous apprend par ce remord le
 
-repentir que traine apres soy [144] ce trop grand desir de vaine gloire, et ce faux poinct d'honneur qui tourmentoit son ame sans cesse, et ne luy donnoit point de repos.
+repentir que traine apres soy [144] ce trop grand desir de vaine gloire, et ce faux poinct d'honneur qui tourmentoit son ame sans cesse, et ne luy donnoit point de repos. 
 
 
 ## LE TRIOMPHE DES CINQ PASSIONS. ACTE I.
@@ -1146,7 +1146,7 @@ Vois, escoute, et te tais [147],
     j'obeïray,  
 
     L’ENCHANTEUR.
-        suy moy.  
+        suy moy.   
 
 
 ### SCENE II.
@@ -1222,7 +1222,7 @@ Parloit de sa prudence en paroles moquantes,
 Et luy disoit apres tant d'injures piquantes  
 Et le defioit tant pour le faire sortir,  
 Qu'en cette occasion son sang [152] n'a peu mentir,  
-Il voulait tesmoigner qu'il estoit né d'un pere :  
+Il voulait tesmoigner qu'il estoit né d'un pere :   
 
     MANLIE.
 Va, ne le flatte point, il eust tort de le faire,  
@@ -1245,7 +1245,7 @@ Mais il l'a bien servy,
     MANLIE.
         n'importe, il a failly,  
 Mais Dieux, de quel combat mon cœur est assailly,  
-Je le voy qui s'approche avec toute sa suite.  
+Je le voy qui s'approche avec toute sa suite.   
 
 
 ### SCENE III
@@ -1488,7 +1488,7 @@ Et qui m'as fait conduire un enfant au cercueil,
 Pour observer tes loix et paroistre equitable,  
 Tu m'as faict perdre un bien qui n'a point de semblable,  
 Mais tenant⁎ desormais tous espoirs superflus [177],  
-A Dieu! Maudit honneur je ne te cognois plus.  
+A Dieu! Maudit honneur je ne te cognois plus.   
 
 
 ### SCENE V.
@@ -1614,7 +1614,7 @@ Desgagez⁎ vostre fils des prisons de la mort,
 Envoyez promptement,  
 
     MANLIE.
-        je le veux, que l'on aille.  
+        je le veux, que l'on aille.   
 
 
 ### SCENE VI.
@@ -1649,7 +1649,7 @@ O malheur sans pareil!
         ô spectacle nouveau,  
 
     HARMENIE.
-Porte moy sur mon lit, et du lit au tombeau.  < Fin du premier Acte. >
+Porte moy sur mon lit, et du lit au tombeau.  < Fin du premier Acte. > 
 
 
 ## ARGUMENT DU SECOND ACTE.
@@ -1660,7 +1660,7 @@ pour quelles raisons il assiegeoit son frere Mithridate Roy d'Harmenie, et decla
 
 Lors le Fils entre avec le Gouverneur de la ville où estoit Mithridate, qui promet de la livrer: et le pere s'y voulant opposer, le fils transporté d'ambition luy parle mal à propos, et l'oblige de l'abandonner : lors le fils donne ordre qu'entrant dans la ville avec le Gouverneur on passa tout par le fil de l'espée, et quelque temps apres luy venant dire que les gens sont entrez dans la ville, mais que Mithridate s'est sauvé dans un Chasteau qui
 
-peut tenir cinq ou six jours, il envoye leur dire qu'il se rende, et qu'il le garentiroit⁎ de fer et de poison, et le tenant en sa puissance, il le fait estouffer; mais aussi tost la justice Divine agissant, une rage s'empare de son ame et le jettant dans un horrible desespoir, il se frappe de son espée, et monstre que cette ambition estant pernicieuse traine apres soy ces malheureux effets qui ne peuvent jamais dementir leurs causes.
+peut tenir cinq ou six jours, il envoye leur dire qu'il se rende, et qu'il le garentiroit⁎ de fer et de poison, et le tenant en sa puissance, il le fait estouffer; mais aussi tost la justice Divine agissant, une rage s'empare de son ame et le jettant dans un horrible desespoir, il se frappe de son espée, et monstre que cette ambition estant pernicieuse traine apres soy ces malheureux effets qui ne peuvent jamais dementir leurs causes. 
 
 
 ## ACTE II.
@@ -1725,7 +1725,7 @@ Le nepveu perdre l'oncle, et le frere son frere,
 Et comme cette lasche et folle ambition,  
 Rompt une naturelle et saincte affection :  
 Allons, c'est trop parler, l'heure presse et s'advance,  
-Entrons dedans ce Temple, et garde le silence.  
+Entrons dedans ce Temple, et garde le silence.   
 
 
 ### SCENE II.
@@ -1852,7 +1852,7 @@ Et vous serez encor plus de trois ans devant,
 Car ces murs sont trop bons pour en voir les ruines,  
 Et deux cens magazins de bleds et de machisnes,  
 Et des amas d'argent et des cœurs preparez  
-Vous cousteront du sang [198] plus que vous n'esperez.  
+Vous cousteront du sang [198] plus que vous n'esperez.   
 
     PARTHENIE.
 Ha ! Seigneur, terminez cette fatalle guerre :  
@@ -1875,7 +1875,7 @@ Vostre rare vertu vous a faict adorable,
 Vostre insigne⁎ valleur vous rend incomparable,  
 Et cent perfections pressent vostre bonté  
 De ne vous pas frustrer de l'immortalité,  
-Donc par [199] ce mesme sang dont vous voulez la perte,  
+Donc par [199] ce mesme sang dont vous voulez la perte,   
 
     MITRIDATE.
 Par ces beaux yeux moüillez par leur peine soufferte,  
@@ -1953,7 +1953,7 @@ Sire, le Prince attend,
 
     PHARASMANE.
 Qu'il entre et plaise aux Dieux que l'ingrat me contente :  
-Oüy, prions pour mon frere, ô procedé⁎ nouveau !  
+Oüy, prions pour mon frere, ô procedé⁎ nouveau !   
 
 
 ### SCENE IV.
@@ -2065,7 +2065,7 @@ Que tu n'es que mon fils et que je suis ton Roy :
 Oüy, je me souviendray que vous estes mon pere,  
 Mais quand j'auray demain le Sceptre que j'espere  
 Je ne connoistray plus de souverain que moy  
-Et vous vous souviendrez de n'estre plus mon Roy,  
+Et vous vous souviendrez de n'estre plus mon Roy,   
 
     PHARASMANE, *bas en se promenant.*
 Je voulois le prier pour le repos d'un frere,  
@@ -2226,7 +2226,7 @@ De te donner la mort au poinct de ta naissance,
 Puis qu'aujourd'huy tes feux⁎ se sont rendus si grands  
 Qu'ils m'ostent le courage et font que je me rends,  
 Et qu'ils charment mes sens par de telles amorces  
-Que je me treuve foible au milieu de mes forces.  
+Que je me treuve foible au milieu de mes forces.   
 
 
 ### SCENE VIII.
@@ -2288,7 +2288,7 @@ Deschire les Lauriers qui couronnent ta teste,
 Et monstre en te perçant de mille coups mortels,  
 Que le Ciel tost ou tard frappe les criminels,  
 Et que tousjours son bras armé pour la justice  
-Couronne la vertu comme il punit le vice.  < Fin du second Acte. >
+Couronne la vertu comme il punit le vice.  < Fin du second Acte. > 
 
 
 ## ARGUMENT DU TROISIESME ACTE.
@@ -2301,7 +2301,7 @@ chez nous ce tyran lors que nous avons permis qu'il s'en [216] rendit [217] le m
 
 Medecin l'estant venu trouver luy confirme encor l'opinion qu'il avoit qu'elle l'avoit dit à son pere, ce qui l'oblige à le chasser severement, et se voyant seul se met en estat de mourir, car rompant l'appareil⁎ qu'il portoit sur une blessure qu'il avoit au bras il tombe en une foiblesse, et monstre à quelle extremité⁎ l'amour des-honneste nous reduit lors que nous n'avons pas la force de nous deffendre de ses coups, et que nous abandonnons nostre
 
-ame, à ce monstre qui se sert de l'image de la beauté, pour nous seduire et pour nous perdre.
+ame, à ce monstre qui se sert de l'image de la beauté, pour nous seduire et pour nous perdre. 
 
 
 ## ACTE III.
@@ -2907,7 +2907,7 @@ Et te ferois oster du nombre de nos Dieux.
 Mais le sang que je pers m'approche au dernier terme,  
 Mon œil s'appesantit, ma paupière se ferme,  
 Je succombe, et perdant la lumière du jour,  
-Je meurs du seul regret d'avoir eu de l'amour.  < Fin du troisiesme Acte. >
+Je meurs du seul regret d'avoir eu de l'amour.  < Fin du troisiesme Acte. > 
 
 
 ## ARGUMENT DU QUATRIESME ACTE.
@@ -2916,7 +2916,7 @@ Arthemidore ayant veu les mal-heureux effects que l'amour avoit causez en la per
 
 passa de l'excés de l'amour à celuy de la jalousie : Ce qui faisoit qu'il ne pouvoit s'éloigner d'elle, qu [244]'elle ne crût que s'estoit à dessein de la tromper : tellement qu'un jour comme il sortoit de grand matin pout aller à la chasse, elle le suivit, et le voulans observer se cacha dans un bocage⁎ : mais son mary voyant remuer des feuilles, et pensant que ce fut quelque proye tirant dessus la blessa dans le bras, ce qu [245]'ayant
 
-recogneu il se desespere et détrompe le mieux qu'il pût, cette femme que les Dieux avoient punie par la main, et cause de cét exercice jalousie qui l'aveugloit sans cesse, et l'empeschoit de leur rendre les devoirs que leurs puissances souveraines exigent de tous les mortels.
+recogneu il se desespere et détrompe le mieux qu'il pût, cette femme que les Dieux avoient punie par la main, et cause de cét exercice jalousie qui l'aveugloit sans cesse, et l'empeschoit de leur rendre les devoirs que leurs puissances souveraines exigent de tous les mortels. 
 
 
 ## ACTE IV.
@@ -3098,7 +3098,7 @@ Tirez,
 Et je la tiens à moy, pourveu que je la voye,  
 Je ne sçaurois encor discerner ce que c'est,  
 Je vay tirer pourtant puis que mon arc est prest,  
-C'est un trait de perdu, n'importe,  
+C'est un trait de perdu, n'importe,   
 
 
 ### SCENE IV.
@@ -3323,7 +3323,7 @@ Il fit en s'outrageant ce que vous auriez fait :
 Dans les bras de l'amour et de la joüissance,  
 Il fit naistre un boureau dedans sa conscience,  
 Il logea dedans luy ses plus grands ennemis,  
-Et se perdit enfin quand vous l'eustes permis.  
+Et se perdit enfin quand vous l'eustes permis.   
 
     EMILIE.
 Ah ! justes Dieux, faut-il que vous l'ayez punie  
@@ -3378,7 +3378,7 @@ Vivez,
 Monsieur, vostre brancart est à trois pas d'icy,  
 
     EMILIE.
-Allons, si tu peris je veux perir aussi.  < Fin du quatriesme Acte. >
+Allons, si tu peris je veux perir aussi.  < Fin du quatriesme Acte. > 
 
 
 ## ARGUMENT DU V*e* ACTE.
@@ -3391,7 +3391,7 @@ de seureté pour luy : mais lors qu'elle fut advertie de son départ, la colere
 
 temps apres reçoit une lettre de luy, par laquelle il l'asseuroit en mourant de sa fidelité; ce qui la jette tout à coup dans un profond desespoir, et la fait se resoudre à la mort, pour monstrer le regret qu'elle avoit de n'avoir pas resisté puissamment à ces premiers mouvemens de colere et de hayne, qui l'avoient transportée jusqu'au poinct de ne luy vouloir pas permettre de se justifier; Enfin l'Enchanteur ayant fait voir cette cinquiesme
 
-Histoire, prie Arthemidore de se retirer, de faire son profit de ce qu'il avoit veu, ce qu'il fait aussi-tost, le remerciant des bons offices qu'il avoit receus de luy, et le priant de luy faire voir les cinq autres Histoires qui luy promettoit au plustost, s'en va comblé d'allegresse et de joye, et guery de ces passions qui l'avoient si cruellement tourmenté.
+Histoire, prie Arthemidore de se retirer, de faire son profit de ce qu'il avoit veu, ce qu'il fait aussi-tost, le remerciant des bons offices qu'il avoit receus de luy, et le priant de luy faire voir les cinq autres Histoires qui luy promettoit au plustost, s'en va comblé d'allegresse et de joye, et guery de ces passions qui l'avoient si cruellement tourmenté. 
 
 
 ## ACTE V.
@@ -4247,7 +4247,7 @@ Linguistics in the Morning Calm
 
 [28] Cicéron, *Les Tusculanes. Livre III*, in *Les Stoïciens*, éd. citée, p. 297.
 
-[29] Julien Eymard d'Angers, *op. cit.*, chap. I. *Le Renouveau du stoïcisme au XVI*e* et au  XVII*e* siècle, III. À travers le XVII*e* siècle. Le stoïcisme chrétien : attitudes diverses.*
+[29] Julien Eymard d'Angers, *op. cit.*, chap. I. *Le Renouveau du stoïcisme au XVI*e* et au XVII*e* siècle, III. À travers le XVII*e* siècle. Le stoïcisme chrétien : attitudes diverses.*
 
 [30] Guillaume du Vair, *De la Sainte Philosophie. Philosophie morale des stoïques* , Paris, J. Vrin, 1945, p. 69. 
 
@@ -4385,7 +4385,7 @@ Linguistics in the Morning Calm
 
 [97] Jean Rousset, *La Littérature de l'âge baroque en France. Circé et le Paon*, Paris, José Corti, 1954, p. 70.
 
-[98] Cf. Marian Hobson, « Du Theatrum Mundi au Theatrum Mentis », *Revue des Sciences Humaines*, n° 167, 1977, p.  379-394.
+[98] Cf. Marian Hobson, « Du Theatrum Mundi au Theatrum Mentis », *Revue des Sciences Humaines*, n° 167, 1977, p. 379-394.
 
 [99] Jean Rousset, *La Littérature de l'âge baroque en France. Circé et le Paon*, Paris, José Corti, 1953, p. 70.
 
@@ -4401,7 +4401,7 @@ Linguistics in the Morning Calm
 
 [105] Gérard Genette, *Fiction et diction*, Paris, Seuil, 1991, p. 42.
 
-[106] Anne Ubersfeld, *Lire le théâtre I*, Paris, Belin, 1996, p. 39.  
+[106] Anne Ubersfeld, *Lire le théâtre I*, Paris, Belin, 1996, p. 39. 
 
 [107] Voir Georges Forestier, *op. cit.*, p. 78-79.
 
@@ -4409,7 +4409,7 @@ Linguistics in the Morning Calm
 
 [109] Robert J. Nelson, *Play within a Play. The Dramatist's Conception of His Art : Shakespeare to Anouilh*, New Haven, Yale University Press, 1958, p.10. 
 
-[110] Marc Fumaroli, « Microcosme comique et macrocosme solaire : Molière, Louis IV et L'Impromptu de  Versailles », *Revue des Sciences Humaines*, t. XXXVII, n° 145, janv.-mars 1972, p. 99.
+[110] Marc Fumaroli, « Microcosme comique et macrocosme solaire : Molière, Louis IV et L'Impromptu de Versailles », *Revue des Sciences Humaines*, t. XXXVII, n° 145, janv.-mars 1972, p. 99.
 
 [111] Marc Fumaroli, art. cit., p. 101.
 
@@ -4427,7 +4427,7 @@ Linguistics in the Morning Calm
 
 [118] Voir Antoine Adam, *op. cit.*, p. 549–554, et Roger Guichemerre, *op. cit.*, Chapitre II.
 
-[119] Cf. Hélène Baby-Litot, *L'Esthétique de la tragi-comédie en France de 1628 à 1643*, vol I, Thèse, Université de la Sorbonne Nouvelle, Paris III, 1993, Livre Premier, Chapitre II.  
+[119] Cf. Hélène Baby-Litot, *L'Esthétique de la tragi-comédie en France de 1628 à 1643*, vol I, Thèse, Université de la Sorbonne Nouvelle, Paris III, 1993, Livre Premier, Chapitre II. 
 
 [120] Gillet de la Tessonerie, *La Quixaire*, Paris, Toussainct Quinet, 1640, *Acte I*er*, Scène I*, p. 5.
 
@@ -4665,7 +4665,7 @@ Linguistics in the Morning Calm
 
 [237] L'emploi du subjonctif n'est pas justifié par la syntaxe de la phrase.
 
-[238] On y remarque une rupture dans la phrase, car, après l'interrogation, il suit un aparté.  
+[238] On y remarque une rupture dans la phrase, car, après l'interrogation, il suit un aparté. 
 
 [239] Le conditionnel passé y est employé pour sa valeur d'hypothèse : le pouls d'Antioque devient plus précipité lorsqu'il entend le nom de Stratonice, comme s'il l'avait vraiment vue. 
 
@@ -4673,7 +4673,7 @@ Linguistics in the Morning Calm
 
 [241] Allusion aux saignées, pratique fréquente au XVII*e* siècle pour traiter diverses maladies. 
 
-[242] En français classique l'article pouvait être omis après le pronom  *tout*, particulièrement quand il était construit avec un substantif au pluriel. (cf. Haase, § 28. C).
+[242] En français classique l'article pouvait être omis après le pronom *tout*, particulièrement quand il était construit avec un substantif au pluriel. (cf. Haase, § 28. C).
 
 [243] Le pronom *lequel* est dans ce contexte équivalent à *qui*.
 

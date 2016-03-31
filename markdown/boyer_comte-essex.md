@@ -559,7 +559,7 @@ Il n'existe qu'une seule édition du *Comte d'Essex*, exécutée en 1678 par Cha
 
 4ff. non chiffrés I. I bl-6 - 74 p. ; in-12.
 
-: *le comte /* ***d'essex***. */ tragédie. /* *Par Monsieur *boyer* , de l'Aca*- / *demie Françoise.* / (vignette) / *a paris, /* Chez Charles Osmont, dans / la grande Salle du Palais, du costé de la / Cour des aydes, à l'Ecu de France. / *m. dc. lxxviii. /* *Avec Privilege du Roy.*
+: *le comte /****d'essex***. */ tragédie. /**Par Monsieur *boyer* , de l'Aca*- / *demie Françoise.* / (vignette) / *a paris, /* Chez Charles Osmont, dans / la grande Salle du Palais, du costé de la / Cour des aydes, à l'Ecu de France. / *m. dc. lxxviii. /**Avec Privilege du Roy.*
 
 : verso blanc.
 

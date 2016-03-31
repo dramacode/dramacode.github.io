@@ -3485,7 +3485,7 @@ Littératures classiques
 
 [21] . F. HINARD, Sylla, Paris, Fayard, 1985, p. 223-226.
 
-[22] . N. MACHIAVEL, *Le Prince*, Paris, Livre de poche, 1962, ch. 8, « Ceux qui sont parvenus par des crimes à la  monarchie » , p. 63.
+[22] . N. MACHIAVEL, *Le Prince*, Paris, Livre de poche, 1962, ch. 8, « Ceux qui sont parvenus par des crimes à la monarchie » , p. 63.
 
 [23] . COLBERT (Jean-Baptiste) 1619-1683 Il fut ministre de Louis XIV dès 1661 aux Finances, à l'économie nationale, aux bâtiments royaux, aux travaux publics. Il fut contrôleur général des Finances en 1665 puis secrétaire d'État à la Marine et à la Maison du Roi (deux des quatre secrétariats d'État existants) en 1669. Il conserva ces fonctions jusqu'à sa mort.
 
@@ -3600,7 +3600,7 @@ Littératures classiques
 
 [77] . Au XVI*e* et XVII*e* siècle, dans l'interrogation, la suppression du signe de la négation est possible. Voir aussi vers 521 ou 1439.
 
-[78] . Historiquement, Pompée, pendant que Sylla enfermait Marius dans Préneste, vainquit Marcius Censorinus à Séna (actuel Senigallia) en mai 82, Carbon près de Carrinas en juin 82, puis de nouveau Marcius (Appien, ch. 10 §. 88 et  §. 90) . Pompée bloqua ensuite Télésinus par derrière dans sa marche vers Préneste (Plutarque, *Vie de Sylla*, LXI) . Sylla quant à lui est devant Rome (voir la fin de la note 22) . Bref, Pompée n'est ni à Rome, d'ailleurs tenue par les marianistes, ni son « seul défenseur » , ni à Préneste où il ne vint pas. Et pour l'intrigue, absent de Préneste, il est dégagé de toute responsabilité et libre d'agir selon son cœur. Boyer enfin lui ménage une entrée en scène facile : c'est en défenseur et libérateur de Rome qu'il intervient à l'acte III.
+[78] . Historiquement, Pompée, pendant que Sylla enfermait Marius dans Préneste, vainquit Marcius Censorinus à Séna (actuel Senigallia) en mai 82, Carbon près de Carrinas en juin 82, puis de nouveau Marcius (Appien, ch. 10 §. 88 et §. 90) . Pompée bloqua ensuite Télésinus par derrière dans sa marche vers Préneste (Plutarque, *Vie de Sylla*, LXI) . Sylla quant à lui est devant Rome (voir la fin de la note 22) . Bref, Pompée n'est ni à Rome, d'ailleurs tenue par les marianistes, ni son « seul défenseur » , ni à Préneste où il ne vint pas. Et pour l'intrigue, absent de Préneste, il est dégagé de toute responsabilité et libre d'agir selon son cœur. Boyer enfin lui ménage une entrée en scène facile : c'est en défenseur et libérateur de Rome qu'il intervient à l'acte III.
 
 [79] . Il est important pour la suite que le combat n'ait ni vainqueur ni vaincu.
 
@@ -3630,13 +3630,13 @@ Littératures classiques
 
 [92] . Retournement décisif de l'intrigue. Quant à la vérité historique, voir notes 22 et 56.
 
-[93] . Un rappel de la carrière politique de Sylla : quoique né dans une famille de patriciens, son père lui laissa peu de biens (vers 899) . Pauvre en ses débuts, mais ambitieux et opportuniste, il commença sa carrière comme questeur sous le consulat de Marius, sa réputation grandit sur les champs de bataille de Numidie où Jugurtha lui fut livré par Bacchus même, roi des Numides. Il s'éleva peu à peu selon les étapes de la carrière politique. Élu prêteur « moyennant ce qu'il gagna partie du peuple par caresses et partie par argent » , il est élu consul à cinquante ans  (Plutarque, *Vie de Sylla*, VI) .
+[93] . Un rappel de la carrière politique de Sylla : quoique né dans une famille de patriciens, son père lui laissa peu de biens (vers 899) . Pauvre en ses débuts, mais ambitieux et opportuniste, il commença sa carrière comme questeur sous le consulat de Marius, sa réputation grandit sur les champs de bataille de Numidie où Jugurtha lui fut livré par Bacchus même, roi des Numides. Il s'éleva peu à peu selon les étapes de la carrière politique. Élu prêteur « moyennant ce qu'il gagna partie du peuple par caresses et partie par argent » , il est élu consul à cinquante ans (Plutarque, *Vie de Sylla*, VI) .
 
 [94] . Jupiter, équivalent latin de Zeus, est le souverain suprême des dieux, possesseur de la foudre et du tonnerre. C'est un dieu à faces multiples : du ciel, de la lumière, de la pluie, du monde souterrain, protecteur des mœurs, de la famille, de la cité, conducteur des destinées et gardien des serments. Il refuse le parjure et sanctionne ceux qui bafouent les serments.
 
 [95] . Né en 106 avant J.-C., il a 24 ans en 82.
 
-[96] . Magistrature exceptionnelle en temps de République : délégation de pleins pouvoirs pour six mois à un homme choisi par le Sénat pour suppléer à la vacance du pouvoir consulaire à des fonctions politiques et religieuses en cas de situation dangereuse pour l'État. Magistrature inutilisée depuis cent ans, elle a parfois donné lieu à des exactions. En 82, le pouvoir étant vacant, (les deux consuls, Carbon et Marius sont morts) Sylla écrit au Sénat pour suggérer l'instauration d'une dictature exceptionnelle créée par le peuple. Le Sénat soumet au peuple une loi pour la nomination d'un dictateur à pouvoirs constituants puis désigne Sylla à ce poste (voir Hinard, *Sylla*, p. 223-226) . Velleius Paterculus souligne : cette magistrature « jadis utilisée pour garder la République des périls extrèmes, il s'en servit pour donner libre cours à une cruauté effrénée » (Livre II, ch. 28-29) . Voir aussi au vers 1008, où Boyer laisse entendre que Sylla se proclamme dictateur sans passer par le Sénat, suivant en cela Plutarque :  « Il se déclara lui-même dictateur » (*Vie de Sylla*, LXVIII) .
+[96] . Magistrature exceptionnelle en temps de République : délégation de pleins pouvoirs pour six mois à un homme choisi par le Sénat pour suppléer à la vacance du pouvoir consulaire à des fonctions politiques et religieuses en cas de situation dangereuse pour l'État. Magistrature inutilisée depuis cent ans, elle a parfois donné lieu à des exactions. En 82, le pouvoir étant vacant, (les deux consuls, Carbon et Marius sont morts) Sylla écrit au Sénat pour suggérer l'instauration d'une dictature exceptionnelle créée par le peuple. Le Sénat soumet au peuple une loi pour la nomination d'un dictateur à pouvoirs constituants puis désigne Sylla à ce poste (voir Hinard, *Sylla*, p. 223-226) . Velleius Paterculus souligne : cette magistrature « jadis utilisée pour garder la République des périls extrèmes, il s'en servit pour donner libre cours à une cruauté effrénée » (Livre II, ch. 28-29) . Voir aussi au vers 1008, où Boyer laisse entendre que Sylla se proclamme dictateur sans passer par le Sénat, suivant en cela Plutarque : « Il se déclara lui-même dictateur » (*Vie de Sylla*, LXVIII) .
 
 [97] . Magistrature suprême permanente, deux consuls désignés par les comices pour un an, dirigent les affaires publiques et commandent les armées.
 
@@ -3670,7 +3670,7 @@ Littératures classiques
 
 [112] . L'innocence du fils en comparaison du père est justifiée par sa conduite en héros dans la tragédie. Mais cette innocence semble contredite par l'Histoire : « fit de cruautés et d'inhumanités depuis la mort de son père, faisant mourir tous les plus apparents et plus notables personnages de la ville » (Plutarque, *Vie de Marius*, LXXXIX) . Voir note 43.
 
-[113] . Ce débordement de colère en annonce un autre (scène 6 de l'acte V) .  Voir aussi vers 1560, 1576, 1676. 
+[113] . Ce débordement de colère en annonce un autre (scène 6 de l'acte V) . Voir aussi vers 1560, 1576, 1676. 
 
 [114] . Cette situation rappelle celle d'*Alcionée* de Du Ryer. Le roi y accepte que sa fille choisisse, puis trahit sa promesse envers le héros à propos de l'hymen avec Lydie. Le choix de sa fille étant contraire à ses souhaits, il refuse ce choix et lui ordonne d'obéir, c'est-à-dire de refuser Alcionée.
 

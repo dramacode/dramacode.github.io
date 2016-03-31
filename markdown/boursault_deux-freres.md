@@ -13,8 +13,7 @@ COMÉDIE
 Edme Boursault
 
 A PARIS, Chez THOMAS JOLLY, au Palais, dans la petite Salle des Merciers, à la Palme & aux Armes d'Hollande. M. DC. LXV. AVEC PRIVILEGE DU ROY.
-Édition critique établie par Vanessa Viola sous la direction de Georges
-          Forestier (2003-2004)
+Édition critique établie par Vanessa Viola sous la direction de Georges Forestier (2003-2004)
 
 
 # Introduction
@@ -1268,8 +1267,7 @@ Pensez-y bien.
 Le second NICANDRE, JACINTE, ROBIN.
 
 
-    LE SECOND NICANDRE *arreste Jacinte, & luy
-                dit.*
+    LE SECOND NICANDRE *arreste Jacinte, & luy dit.*
         De grace, ayés plus de tendresse,  
 Dites-moy qui des deux est Suivante ou Maistresse ;  
 Je vous trouve bien faite, est-ce vous qu'elle sert ?  
@@ -2818,8 +2816,7 @@ Une fille abusée…
     EUTROPE.
     Ah !  
 
-    ISIDORE.
-               
+    ISIDORE.  
     Ah !  
 
     EUTROPE.
@@ -3368,14 +3365,12 @@ Et si tu sens de l'estre une demangeaison…
 Le second NICANDRE, JACINTE, ROBIN.
 
 
-    LE SECOND NICANDRE *sortant de la maison d'Isidore.*
-              
+    LE SECOND NICANDRE *sortant de la maison d'Isidore.* 
 A la fin je te quitte, ô propice maison.  
 Eutrope en me voyant m'auroit fait de la peine,  
 Mais enfin…  
 
-    JACINTE* appercevant tout à coup Nicandre.*
-              
+    JACINTE* appercevant tout à coup Nicandre.* 
         Je vous cherche, ô l'esclave d'Ismene.  
 
     LE SECOND NICANDRE.
@@ -3396,8 +3391,7 @@ Vous luy feriez tort.
     LE SECOND NICANDRE.
         Traistre… Enfin dites-moy donc…  
 
-    JACINTE *arrestant Nicandre par le bras.*
-              
+    JACINTE *arrestant Nicandre par le bras.* 
 Vous me paîrez ma peine, & paîrez tout du long ;  
 Celle qui vous aymoit est si fort en colere  
 Que de vous faire prendre elle a prié son pere.  
@@ -3413,8 +3407,7 @@ Et si tantost son pere avoit eu la puissance…
 J'ay pris soin, il est vray, d'éviter sa presence ;  
 Mais il n'estoit pas seul, & je n'ay pas osé…  
 
-    ROBIN *à Nicandre.*
-              
+    ROBIN *à Nicandre.* 
 La Maitresse est contente, & le pere appaisé.  
 Ah ! Le menteur.  
 
@@ -3530,13 +3523,11 @@ Mais…
 N'attendez plus pourtant de si libres propos,  
 J'ay trop…  
 
-    ROBIN *à Nicandre.*
-              
+    ROBIN *à Nicandre.* 
         Concevez-vous ce que disent ces mots :  
 Pauvre fille !  
 
-    JACINTE *à Hipolite.*
-              
+    JACINTE *à Hipolite.* 
         Expliquez aussi vostre pensée.  
 
     ROBIN.
@@ -3554,8 +3545,7 @@ Car il ne tient qu'à vous de comprendre.
     LE SECOND NICANDRE.
         Elle veut…  
 
-    ROBIN *à Hipolite.*
-              
+    ROBIN *à Hipolite.* 
 Madame, comprenons, si comprendre se peut…  
 
     LE SECOND NICANDRE. 
@@ -3592,8 +3582,7 @@ Une cour derobée où j'estois retiré…
     HIPOLITE.
 L'imposteur !  
 
-    ROBIN *à Nicandre.*
-              
+    ROBIN *à Nicandre.* 
         *Cum licence* [187], ostez-moy d'une peine  
 Monsieur, en quelle ruë est le Cours de la Reyne ?  
 
@@ -3668,9 +3657,7 @@ Mais que vois-je ?
 ISMENE, HIPOLITE.
 
 
-    ISMENE *revenant du Cours, où elle a fait saisir le premier
-                  Nicandre.*
-              
+    ISMENE *revenant du Cours, où elle a fait saisir le premier Nicandre.* 
         A vos vœux tout semble estre propice,  
 Il vous aime Nicandre, & me fait un affront  
 L'ingrat.  
@@ -3727,12 +3714,10 @@ Mais tremblez de frayeur.
 ISMENE, HIPOLITE, RAGOTIN, JACINTE.
 
 
-    ISMENE *avec beaucoup de fierté.*
-              
+    ISMENE *avec beaucoup de fierté.* 
 Hé bien cher Ragotin ?  
 
-    HIPOLITE *avec beaucoup de fierté.*
-              
+    HIPOLITE *avec beaucoup de fierté.* 
         Hé bien chere Jacinte ?  
 
     RAGOTIN *à Ismene parlant du premier Nicandre.*
@@ -4913,59 +4898,7 @@ Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour. Signé E.
 *Les Exemplaires ont esté fournis.*
 
 
-# LexiqueAppas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les
-              inviter à faire quelque chose. » (F)V. 43, 68, 203, 335, 573, 931, 1169, 1174, 1176, 1339, 1472.Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de
-              précaution. » (F)V. 199, 1173 et 1363.Aspre« Se dit figurément de certaines choses, pour en marquer la violence, la force, la
-              rudesse. » (A)V. 39, 86 et 775.Bailler« Dire à quelqu'un des mensonges pour des vérités. » (A) « *En bailler
-                d'une à quelqu'un.* Lui jouer un tour, le tromper. » (H).Aux vers 537 et 1034, le verbe est synonyme de gifler et est donc employé au sens
-              figuré.Balotter« Agiter en gros une question, discuter une affaire, avant que d'opiner
-              définitivement, ou de la juger. » (F)V. 182.Baragouiner« Parler une langue étrangère et inconnue, ou parler si mal, qu'on ne peut se faire
-              entendre à ceux d'un pays. » (F)V. 838.Belistre« Gros gueux qui mendie par fainéantise, et qui pourrait bien gagner sa vie. Il se
-              dit quelques fois par extension, des coquins qui n'ont ni bien ni honneur. » (F)Il est employé au sens large aux vers 414, 559.Biaiser« Se dit figurément de ceux qui cherchent des biais, des détours, de mauvaises
-              finesses, des échappatoires pour sortir d'une méchante affaire ou pour surprendre
-              quelqu'un. » (F)V. 109.Bigot« Hypocrite. » (F)V. 181, 188.Besoin (au)« Dans une circonstance critique, une situation difficile, une occasion grave ;
-              dans le péril. » (C)V. 519.Botte (allonger une)« En terme d'escrime, (…) coup qu'on porte avec un fleuret. » (F)Didascalie III, 4.Bricoler« On dit (…) au figuré de ceux qui ne vont point droit dans les affaires, qu'ils ne
-              font que fuir et *bricoler*, c'est-à-dire, amuser et tromper. » Le
-              substantif signifie « une tromperie qu'on fait à quelqu'un. » (F)V. 109 et 677.Cartel« Ecrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour
-              des tournois, soit pour un duel formé. » (F)V. 640, 675, 681, 690, 695.Céans« Ici, dedans, où je suis (…) il est assez fréquent au XVII*e*
-              siècle. » A. Haase, *Syntaxe française*, p. 234.V. 1009, 1263.Celer« Tenir quelque chose cachée, secrète ; dissimuler. » (F)V. 1299.Chartre« En termes du Palais, est un vieux mot qui signifiait autrefois une prison. »
-              (F)V. 854.Colet« Haut d'un pourpoint qui entoure le cou (…) se prend quelques fois improprement
-              pour le cou même. » (F)V. 312.« On dit proverbialement *prendre, saisir quelqu'un au collet*,
-              pour dire, l'arrêter et le faire prisonnier. » (A)V. 416 et 1184.Colloquer« Placer. » (F)V. 820.Concert (de)« Signifie figurément, l'accord de plusieurs personnes en l'exécution de quelque
-              dessein. Agir *de concert*. »V. 220, 999.Creste« Mot burlesque pour dire tête. » (R)V. 537.Degré« Escalier, montée d'un bâtiment (…) marche. » (A)V. 316, 643.Diablezot« On dit … ironiquement à des hâbleurs, pour montrer qu'on ne croit rien de ce
-              qu'ils disent, Au *Diable* zot. Il y a apparence que cela vient d'une
-              imprécation tronquée, et qu'on a voulu dire, Allez au *Diable*, au *Diable*, on a retranché le dernier et le premier mot, et on a mis un z
-              pour éviter la cacophonie, car le mot de *zot* n'est point de la
-              langue, de sorte qu'il faut que ce soit une orthographe corrompue. » (F)V. 27.Donzelle« Terme burlesque qui se dit pour *Demoiselle*, mais il est odieux,
-              et se prend ordinairement en mauvaise part. » (F)V. 261.Driller« Courir vite. C'est un terme bas et populaire, qui se dit des laquais, des
-              soldats, des gueux qui s'enfuient, ou qu'on fait courir. » (F)V. 971.Emballeur« Se dit figurément des hâbleurs, qui disent plusieurs choses contre la vérité, qui
-              inventent plusieurs histoires à plaisir, et qu'ils débitent aux crédules. » (F)V. 739.Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou
-              trop long. » (F)V. 7, 291, 688.Fat« Sot, sans esprit, qui ne dit que des fadaises. » (F)V. 711.FilouC'était le nom d'un jeu auquel il était facile de gagner. « Se dit par extension de
-              tous ceux qui se servent de mauvaises voies pour s'emparer du bien d'autrui : comme de
-              ceux qui sous prétexte de belles espérances trompent les gens imprudents et de bonne
-              foi, en les engageant dans des affaires dont ils tirent tout le profit par devers
-              eux. » (F)V. 757, 1263.Gageure« L'argent ou les gages qu'on a parié sur quelque contestation » (F)V. 497, 498.Gaillarde« Gai, joyeux. (…) Il se prend quelques fois en mauvaise part pour dire, un peu
-              fou. » (A)V. 221.Gambade« Il signifie au figuré moquerie, raillerie. » (A)V. 292.Garçonnisé« Participe présent du verbe garçonniser, forgé à partir de *garçon*. » BaalbakiV. 1246, 1247.Gauberger« Se moquer de. » (H)V. 554.Gausseur« Moqueur, rieur. » (R)V. 423.Gémeaux« Qui est né avec un autre d'une même ventrée. On prononce maintenant *Jumeau*. » (F)Liste des personnages.Geole« Prison. » (F)V. 1445.Gibet« Lieu destiné pour exécuter les criminels. » (F)V. 244.Grison« Celui dont les cheveux commencent à blanchir. » (F) Il désigne Eutrope ou
-              Isidore.V. 988 et 993.Guoguenarder« Qui est plaisant, qui a coutume de dire des mots pour rire. » (F)V. 301, 302.Heur« Chance, hasard favorable. » (D)V. 846.Sur l'Heure, toute à l'Heure« Tout de suite, dès à présent. » (R)V. 2, 421, 481.Holocauste« Sacrifice où on consomme entièrement l'hostie par le feu. (…) Se dit figurément
-              pour victime. » (F)V. 856.Hymen« Mariage. » (F)V. 96.Impudent« Qui est insolent, effronté et sans honte. » (F)V. 451, 556 et 1210.Interdit, ite« Ceux qui se troublent, qui s'étonnent et qui ne sauraient parler
-              raisonnablement. » (F)V. 41, 64, 339, 1484.Ladre« Signifie figurément en morale, avare, vilain et malpropre. » (F)V. 1201.Licou« Une têtière montée d'une longe de cuir pour attacher les chevaux, mulets, ou
-              autres bêtes de râtelier, quand on les a débridées. » (F)V. 579.Lorgner« Regarder quelqu'un de travers et du coin de l'œil ; ce qui se fait quelques fois
-              par mépris, par haine, par orgueil. » (F)V. 973.Maculé« *Terme d'imprimeur* (…) il signifie être trop noir.
-              Barbouiller ». (R)Isidore l'emploi au v. 1226 au sens figuré.Malencontre« Ce qui arrive fortuitement, soit en bien, soit en mal. Un cas avantageux
-              s'appelle bonne *encontre* ; un désavantageux *malencontre*. » (F)V. 593.Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur,
-              qui sont capables de faire toutes sortes de lâchetés. » (F)V. 294, 447, 981, 1139.Marouffle« Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. »
-              (F)V. 703.Matois« Rusé, difficile à être trompé, adroit à tromper les autres. » (F)V. 113.Niaiser« Faire l'innocent. » (F)V. 59.Nenny« Adverbe négatif (…) il est bas. » (F)V. 293, 985, 1272, 1529.Noise« Querelle qui s'émeut entre gens du peuple, ou dans les familles. » (F)V. 793.Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)V. 7 ; sens moderne : v. 303.Pay« Silence. » (F)V. 150, 431, 1402.Peautre« On dit proverbialement à des importuns qu'on veut chasser loin de soi. Aller au
-                *peautre*. » (F)V. 734.Pecore« Bête, stupide qui a du mal à concevoir quelque chose. » (F)V. 861.Penaud« Qui est confus, honteux, étonné pour quelque accident qui lui est arrivé, qui lui
-              porte du désavantage. » (F)V. 1478.Picquer« Choses (…) qui nous choquent » (F)V. 379, 380, 489.Produire« Exposer à la vue, à la connaissance, à l'examen. » (A)V. 664.Poussecus« Terme odieux dont on qualifie les Records⁎ des Sergents, et autres qui servent à
-              mettre et à pousser les gens en prison. » (F)V. 235 et 996.Railler« Faire des reproches plaisants et agréables à quelqu'un sans avoir dessein de
-              l'offenser. » (F)V. 107, 302, 822, 1045, 1435, didascalie I, 7.Recepte« Action par laquelle on reçoit ce qui est dû (…) charge du Receveur⁎. » (F)V. 491, 1300.Receveur« Qui reçoit pour autrui. » (F)V. 1299.Record« Aide de Sergent, celui qui l'assiste, lorsqu'il va faire quelque exploit, ou
-              exécution, qui lui sert de témoin, et qui lui prête main forte. » (F)V. 413.Réminiscence« Ressouvenir⁎. Renouvellement d'une idée presque effacée. » (A)V. 821.RenégatCelui « qui a renoncé à la foi de JESUS-CHRIST pour embrasser une autre Religion »
-              (F), un traître.V. 1364.Ressouvenir« Ce qui demeure en la mémoire. » (F)V. 534 et 947.Saison (de)« Temps convenable pour faire quelque chose. » (F)V. 603 et 872.Selon« Quand on est questionné sur l'avenir, il faut répondre, C'est *selon*, pour dire, *selon* qu'il plaira à Dieu. » (F)Jacinte utilise cette expression pour éviter de donner une réponse claire à Ismène,
-              la rivale de sa maîtresse aux vers 123-124 et Ismène l'emploie au vers 677. La
-              préposition est employée au sens moderne au vers 647.Sépulcre« Tombeau, monument, lieu destiné à enterrer les corps des défunts. » (F)V. 1533.Sevrer« Priver, frustrer quelqu'un de quelque chose » (A)V. 1456.Soucy« Chagrin, inquiétude d'esprit. » (F)V. 167, 1147.Suborner« Corrompre, porter quelqu'un au mal. » (F)V. 740, 943, 985.Succez« Réussite, issue d'une affaire. Il se dit en bonne et mauvaise part. » (F)V. 940.Superficie« Ce qui se présente à nos yeux » (F), l'apparence.V. 130.Surprendre« Attraper (…) obtenir frauduleusement par artifice⁎. » (A)V. 37, 112, 1476 ; il est utilisé au sens moderne aux vers 161, 231, 425, 1025,
-              1158, 1205, 1379.Tendron« Mot burlesque pour dire *une jeune fille*. Fille jeune et
-              jolie. » (R)V. 1401.Zeste« On dit populairement, quand on veut rejeter ce qu'un homme dit, qu'on s'en veut
-              moquer *Zest*. » (A)V. 698, 702.
+# LexiqueAppas« Se dit figurément en choses morales de ce qui sert à attraper les hommes, à les inviter à faire quelque chose. » (F)V. 43, 68, 203, 335, 573, 931, 1169, 1174, 1176, 1339, 1472.Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution. » (F)V. 199, 1173 et 1363.Aspre« Se dit figurément de certaines choses, pour en marquer la violence, la force, la rudesse. » (A)V. 39, 86 et 775.Bailler« Dire à quelqu'un des mensonges pour des vérités. » (A) « *En bailler d'une à quelqu'un.* Lui jouer un tour, le tromper. » (H).Aux vers 537 et 1034, le verbe est synonyme de gifler et est donc employé au sens figuré.Balotter« Agiter en gros une question, discuter une affaire, avant que d'opiner définitivement, ou de la juger. » (F)V. 182.Baragouiner« Parler une langue étrangère et inconnue, ou parler si mal, qu'on ne peut se faire entendre à ceux d'un pays. » (F)V. 838.Belistre« Gros gueux qui mendie par fainéantise, et qui pourrait bien gagner sa vie. Il se dit quelques fois par extension, des coquins qui n'ont ni bien ni honneur. » (F)Il est employé au sens large aux vers 414, 559.Biaiser« Se dit figurément de ceux qui cherchent des biais, des détours, de mauvaises finesses, des échappatoires pour sortir d'une méchante affaire ou pour surprendre quelqu'un. » (F)V. 109.Bigot« Hypocrite. » (F)V. 181, 188.Besoin (au)« Dans une circonstance critique, une situation difficile, une occasion grave ; dans le péril. » (C)V. 519.Botte (allonger une)« En terme d'escrime, (…) coup qu'on porte avec un fleuret. » (F)Didascalie III, 4.Bricoler« On dit (…) au figuré de ceux qui ne vont point droit dans les affaires, qu'ils ne font que fuir et *bricoler*, c'est-à-dire, amuser et tromper. » Le substantif signifie « une tromperie qu'on fait à quelqu'un. » (F)V. 109 et 677.Cartel« Ecrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé. » (F)V. 640, 675, 681, 690, 695.Céans« Ici, dedans, où je suis (…) il est assez fréquent au XVII*e* siècle. » A. Haase, *Syntaxe française*, p. 234.V. 1009, 1263.Celer« Tenir quelque chose cachée, secrète ; dissimuler. » (F)V. 1299.Chartre« En termes du Palais, est un vieux mot qui signifiait autrefois une prison. » (F)V. 854.Colet« Haut d'un pourpoint qui entoure le cou (…) se prend quelques fois improprement pour le cou même. » (F)V. 312.« On dit proverbialement *prendre, saisir quelqu'un au collet*, pour dire, l'arrêter et le faire prisonnier. » (A)V. 416 et 1184.Colloquer« Placer. » (F)V. 820.Concert (de)« Signifie figurément, l'accord de plusieurs personnes en l'exécution de quelque dessein. Agir *de concert*. »V. 220, 999.Creste« Mot burlesque pour dire tête. » (R)V. 537.Degré« Escalier, montée d'un bâtiment (…) marche. » (A)V. 316, 643.Diablezot« On dit … ironiquement à des hâbleurs, pour montrer qu'on ne croit rien de ce qu'ils disent, Au *Diable* zot. Il y a apparence que cela vient d'une imprécation tronquée, et qu'on a voulu dire, Allez au *Diable*, au *Diable*, on a retranché le dernier et le premier mot, et on a mis un z pour éviter la cacophonie, car le mot de *zot* n'est point de la langue, de sorte qu'il faut que ce soit une orthographe corrompue. » (F)V. 27.Donzelle« Terme burlesque qui se dit pour *Demoiselle*, mais il est odieux, et se prend ordinairement en mauvaise part. » (F)V. 261.Driller« Courir vite. C'est un terme bas et populaire, qui se dit des laquais, des soldats, des gueux qui s'enfuient, ou qu'on fait courir. » (F)V. 971.Emballeur« Se dit figurément des hâbleurs, qui disent plusieurs choses contre la vérité, qui inventent plusieurs histoires à plaisir, et qu'ils débitent aux crédules. » (F)V. 739.Ennuy« Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long. » (F)V. 7, 291, 688.Fat« Sot, sans esprit, qui ne dit que des fadaises. » (F)V. 711.FilouC'était le nom d'un jeu auquel il était facile de gagner. « Se dit par extension de tous ceux qui se servent de mauvaises voies pour s'emparer du bien d'autrui : comme de ceux qui sous prétexte de belles espérances trompent les gens imprudents et de bonne foi, en les engageant dans des affaires dont ils tirent tout le profit par devers eux. » (F)V. 757, 1263.Gageure« L'argent ou les gages qu'on a parié sur quelque contestation » (F)V. 497, 498.Gaillarde« Gai, joyeux. (…) Il se prend quelques fois en mauvaise part pour dire, un peu fou. » (A)V. 221.Gambade« Il signifie au figuré moquerie, raillerie. » (A)V. 292.Garçonnisé« Participe présent du verbe garçonniser, forgé à partir de *garçon*. » BaalbakiV. 1246, 1247.Gauberger« Se moquer de. » (H)V. 554.Gausseur« Moqueur, rieur. » (R)V. 423.Gémeaux« Qui est né avec un autre d'une même ventrée. On prononce maintenant *Jumeau*. » (F)Liste des personnages.Geole« Prison. » (F)V. 1445.Gibet« Lieu destiné pour exécuter les criminels. » (F)V. 244.Grison« Celui dont les cheveux commencent à blanchir. » (F) Il désigne Eutrope ou Isidore.V. 988 et 993.Guoguenarder« Qui est plaisant, qui a coutume de dire des mots pour rire. » (F)V. 301, 302.Heur« Chance, hasard favorable. » (D)V. 846.Sur l'Heure, toute à l'Heure« Tout de suite, dès à présent. » (R)V. 2, 421, 481.Holocauste« Sacrifice où on consomme entièrement l'hostie par le feu. (…) Se dit figurément pour victime. » (F)V. 856.Hymen« Mariage. » (F)V. 96.Impudent« Qui est insolent, effronté et sans honte. » (F)V. 451, 556 et 1210.Interdit, ite« Ceux qui se troublent, qui s'étonnent et qui ne sauraient parler raisonnablement. » (F)V. 41, 64, 339, 1484.Ladre« Signifie figurément en morale, avare, vilain et malpropre. » (F)V. 1201.Licou« Une têtière montée d'une longe de cuir pour attacher les chevaux, mulets, ou autres bêtes de râtelier, quand on les a débridées. » (F)V. 579.Lorgner« Regarder quelqu'un de travers et du coin de l'œil ; ce qui se fait quelques fois par mépris, par haine, par orgueil. » (F)V. 973.Maculé« *Terme d'imprimeur* (…) il signifie être trop noir. Barbouiller ». (R)Isidore l'emploi au v. 1226 au sens figuré.Malencontre« Ce qui arrive fortuitement, soit en bien, soit en mal. Un cas avantageux s'appelle bonne *encontre* ; un désavantageux *malencontre*. » (F)V. 593.Maraut« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. » (F)V. 294, 447, 981, 1139.Marouffle« Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. » (F)V. 703.Matois« Rusé, difficile à être trompé, adroit à tromper les autres. » (F)V. 113.Niaiser« Faire l'innocent. » (F)V. 59.Nenny« Adverbe négatif (…) il est bas. » (F)V. 293, 985, 1272, 1529.Noise« Querelle qui s'émeut entre gens du peuple, ou dans les familles. » (F)V. 793.Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)V. 7 ; sens moderne : v. 303.Pay« Silence. » (F)V. 150, 431, 1402.Peautre« On dit proverbialement à des importuns qu'on veut chasser loin de soi. Aller au *peautre*. » (F)V. 734.Pecore« Bête, stupide qui a du mal à concevoir quelque chose. » (F)V. 861.Penaud« Qui est confus, honteux, étonné pour quelque accident qui lui est arrivé, qui lui porte du désavantage. » (F)V. 1478.Picquer« Choses (…) qui nous choquent » (F)V. 379, 380, 489.Produire« Exposer à la vue, à la connaissance, à l'examen. » (A)V. 664.Poussecus« Terme odieux dont on qualifie les Records⁎ des Sergents, et autres qui servent à mettre et à pousser les gens en prison. » (F)V. 235 et 996.Railler« Faire des reproches plaisants et agréables à quelqu'un sans avoir dessein de l'offenser. » (F)V. 107, 302, 822, 1045, 1435, didascalie I, 7.Recepte« Action par laquelle on reçoit ce qui est dû (…) charge du Receveur⁎. » (F)V. 491, 1300.Receveur« Qui reçoit pour autrui. » (F)V. 1299.Record« Aide de Sergent, celui qui l'assiste, lorsqu'il va faire quelque exploit, ou exécution, qui lui sert de témoin, et qui lui prête main forte. » (F)V. 413.Réminiscence« Ressouvenir⁎. Renouvellement d'une idée presque effacée. » (A)V. 821.RenégatCelui « qui a renoncé à la foi de JESUS-CHRIST pour embrasser une autre Religion » (F), un traître.V. 1364.Ressouvenir« Ce qui demeure en la mémoire. » (F)V. 534 et 947.Saison (de)« Temps convenable pour faire quelque chose. » (F)V. 603 et 872.Selon« Quand on est questionné sur l'avenir, il faut répondre, C'est *selon*, pour dire, *selon* qu'il plaira à Dieu. » (F)Jacinte utilise cette expression pour éviter de donner une réponse claire à Ismène, la rivale de sa maîtresse aux vers 123-124 et Ismène l'emploie au vers 677. La préposition est employée au sens moderne au vers 647.Sépulcre« Tombeau, monument, lieu destiné à enterrer les corps des défunts. » (F)V. 1533.Sevrer« Priver, frustrer quelqu'un de quelque chose » (A)V. 1456.Soucy« Chagrin, inquiétude d'esprit. » (F)V. 167, 1147.Suborner« Corrompre, porter quelqu'un au mal. » (F)V. 740, 943, 985.Succez« Réussite, issue d'une affaire. Il se dit en bonne et mauvaise part. » (F)V. 940.Superficie« Ce qui se présente à nos yeux » (F), l'apparence.V. 130.Surprendre« Attraper (…) obtenir frauduleusement par artifice⁎. » (A)V. 37, 112, 1476 ; il est utilisé au sens moderne aux vers 161, 231, 425, 1025, 1158, 1205, 1379.Tendron« Mot burlesque pour dire *une jeune fille*. Fille jeune et jolie. » (R)V. 1401.Zeste« On dit populairement, quand on veut rejeter ce qu'un homme dit, qu'on s'en veut moquer *Zest*. » (A)V. 698, 702.
 
 
 # Bibliographie
@@ -4989,8 +4922,7 @@ Biblioteque des theatres
 Comédies, Les Ménechmes
 Les Ménechmes ou les jumeaux
 Les Ménechmes
-Œuvres complètes, Les Farces, La Comédie des
-                  erreurs
+Œuvres complètes, Les Farces, La Comédie des erreurs
 
 
 
@@ -5001,87 +4933,61 @@ Les Ménechmes
 
 
 #### DictionnairesDictionnaire
-Le Français classique, Lexique de la langue du
-                    dix-septième siècle
+Le Français classique, Lexique de la langue du dix-septième siècle
 Dictionnaire encyclopédique du théâtre
-Dictionnaire du français
-                    classique, Le XVII*e* siècle
-Dictionnaire universel contenant généralement tous
-                    les mots françois tant vieux que modernes et les termes de toutes les sciences
-                    et les arts
+Dictionnaire du français classique, Le XVII*e* siècle
+Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
 Dictionnaire latin-français
 Dictionnaire historique des rues de Paris
 Dictionnaire de la langue française du XVI*e* siècle
-Dictionnaire comique, satyrique, critique,
-                    burlesque, libre et proverbial
+Dictionnaire comique, satyrique, critique, burlesque, libre et proverbial
 Dictionnaire de la langue française
-Les Comédiens français du XVII*e*
-                    siècle, Dictionnaire biographique
-Le Grand dictionnaire historique, ou le mélange curieux
-                    de l'histoire sacrée et profane qui contient la vie et les actions remarquables
-                    (…)
+Les Comédiens français du XVII*e* siècle, Dictionnaire biographique
+Le Grand dictionnaire historique, ou le mélange curieux de l'histoire sacrée et profane qui contient la vie et les actions remarquables (…)
 Curiositez françoises
-Histoire du théâtre françois depuis son origine jusqu'à
-                    présent, avec la vie des plus célèbres Poëtes Dramatiques, un Catalogue exact de
-                    leurs Pièces, & des Notes Historiques & critiques
-Dictionnaire françois contenant les mots et les choses
-                    plusieurs nouvelles remarques sur la langue françoise (…) avec les termes les
-                    plus connus des arts et des sciences
+Histoire du théâtre françois depuis son origine jusqu'à présent, avec la vie des plus célèbres Poëtes Dramatiques, un Catalogue exact de leurs Pièces, & des Notes Historiques & critiques
+Dictionnaire françois contenant les mots et les choses plusieurs nouvelles remarques sur la langue françoise (…) avec les termes les plus connus des arts et des sciences
 
 
 
-#### GrammairesHistoire de la langue française des origines à nos
-                    joursLa langue classique 1660-1715
+#### GrammairesHistoire de la langue française des origines à nos joursLa langue classique 1660-1715
 Grammaire du français classique
 Syntaxe française du XVII*e* siècle
-L'Art de bien prononcer et de bien parler la langue
-                    françoise (1687
+L'Art de bien prononcer et de bien parler la langue françoise (1687
 Introduction à la langue française du XVII*e* siècle
 Grammaire de la langue française du XVII*e* siècle
 Remarque sur la langue française (1647)
 
 
 
-#### BibliographiesBibliographie de la littérature française du
-                    dix-septième siècle
-Bibliographie d'histoire littéraire
-                    française
+#### BibliographiesBibliographie de la littérature française du dix-septième siècle
+Bibliographie d'histoire littéraire française
 
 
 
 ### Études
 
 
-#### Histoire littéraireHistoire de la littérature au XVII*e*
-                    siècle
-Le Genre burlesque en France au XVII*e*
-                    siècle
+#### Histoire littéraireHistoire de la littérature au XVII*e* siècle
+Le Genre burlesque en France au XVII*e* siècle
 Esthétique théâtrale
 Le Théâtre françois
 Le Théâtre français sous Louis XIV
-Visages du double, un thème
-                    littéraire
-Histoire de la France depuis les origines jusqu'à la
-                    révolution
+Visages du double, un thème littéraire
+Histoire de la France depuis les origines jusqu'à la révolution
 Mythe et littérature sous le signe des jumeaux
-La Vie quotidienne des parisiens au temps du
-                    Roi-Soleil 1660-1715
+La Vie quotidienne des parisiens au temps du Roi-Soleil 1660-1715
 
 
 
 #### À propos de la comédieLa Comédie de l'âge classique (1630-1710)
 Lire la comédie
-L'Histoire de la mise en scène dans
-                    le théâtre français à Paris de 1600 à 1673
-Le Théâtre de l'Hôtel de Bourgogne
-                    1548-1680
-Les Valets et les servantes dans le théâtre comique en
-                    France de 1610 à 1700
+L'Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673
+Le Théâtre de l'Hôtel de Bourgogne 1548-1680
+Les Valets et les servantes dans le théâtre comique en France de 1610 à 1700
 Cahiers de littérature du XVII*e* siècle
-L'Esthétique de l'identité dans le théâtre français
-                    (1550-1680), Le déguisement et ses avatars
-Introduction à l'analyse des textes
-                    classiques
+L'Esthétique de l'identité dans le théâtre français (1550-1680), Le déguisement et ses avatars
+Introduction à l'analyse des textes classiques
 Littérature classique
 *e*Dix-septième siècle
 Le Théâtre professionnel à Paris
@@ -5089,12 +4995,8 @@ Bibliothèque dramatique de monsieur de Soleinne
 Registre de La Grange
 Anecdotes Dramatiques
 Le Langage dramatique
-Le Mémoire de Mahelot et d'autres décorateurs de
-                    l'Hotel de Bourgogne et de la comédie française du XVII*e*
-                    siècle
-Répertoire analytique des documents contemporains
-                    d'information et de critique concernant le théâtre à Paris sous Louis XIV,
-                    1659-1715
+Le Mémoire de Mahelot et d'autres décorateurs de l'Hotel de Bourgogne et de la comédie française du XVII*e* siècle
+Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV, 1659-1715
 La Dramaturgie classique en France
 Lire le théâtre I
 Lire le théâtre II, L'Ecole du spectateur
@@ -5103,415 +5005,236 @@ Lire le théâtre II, L'Ecole du spectateur
 
 #### À propos de l'auteurRecherches sur le lexique d'Edme Boursault
 La Dramaturgie d'Edme Boursault
-Un journaliste, Edme Boursault, dans Autour du
-                    dix-septième siècle
+Un journaliste, Edme Boursault, dans Autour du dix-septième siècle
 Théâtre choisi
 Humanités
 Étude sur Boursault
-Mémoires pour servir à l'histoire des hommes
-                    illustres de la république des lettres, Edme Boursault
-Un poète comique du temps de Molière,
-                    Boursault, sa vie et ses œuvres
+Mémoires pour servir à l'histoire des hommes illustres de la république des lettres, Edme Boursault
+Un poète comique du temps de Molière, Boursault, sa vie et ses œuvres
 
 
 -------
 
 
-[1] Certains biographes ont remis en cause cette information car aucun
-                document ne l'atteste.
+[1] Certains biographes ont remis en cause cette information car aucun document ne l'atteste.
 
-[2] Avertissement de l'édition
-                  de 1735 établie par son fils aîné, p. 9 ; les biographes doutent sur
-                  l'authenticité du témoignage de son fils qui lui prête un talent trop
-                  précoce.
+[2] Avertissement de l'édition de 1735 établie par son fils aîné, p. 9 ; les biographes doutent sur l'authenticité du témoignage de son fils qui lui prête un talent trop précoce.
 
-[3] Jean Pierre Niceron, Mémoires pour servir à
-                l'histoire des hommes illustres de la république des lettres, Edme Boursault, t. 14,
-                Paris, 1731, p. 369.
+[3] Jean Pierre Niceron, Mémoires pour servir à l'histoire des hommes illustres de la république des lettres, Edme Boursault, t. 14, Paris, 1731, p. 369.
 
-[4]  Ludovic Jully, *Étude sur
-                    Boursault*, Troyes, 1865, p. 3-4.
+[4]  Ludovic Jully, *Étude sur Boursault*, Troyes, 1865, p. 3-4.
 
-[5] Cet emploi correspond à être « l'officier qui
-                expédie par le commandement de son maître des lettres, des provisions, des brevets »
-                (F), il équivaut à la fonction de scribe.
+[5] Cet emploi correspond à être « l'officier qui expédie par le commandement de son maître des lettres, des provisions, des brevets » (F), il équivaut à la fonction de scribe.
 
-[6] Boileau, *Œuvres
-                  complètes, Satires*, Bibliothèque de La Pléiade, Paris, 1966, VII*e* satire, p. 39.
+[6] Boileau, *Œuvres complètes, Satires*, Bibliothèque de La Pléiade, Paris, 1966, VII*e* satire, p. 39.
 
-[7] Boileau, *Œuvres complètes,
-                  Lettres à Brossette*, Bibliothèque de La Pléiade, Paris, 1966, lettre VIII, p.
-                642.
+[7] Boileau, *Œuvres complètes, Lettres à Brossette*, Bibliothèque de La Pléiade, Paris, 1966, lettre VIII, p. 642.
 
-[8] La taille correspondait à nos contributions foncières, personnelles,
-                et mobilières (…) calculées sur toutes les facultés du contribuable, elle donnait
-                lieu à des injustices dans les appréciations. » Ernest Lavisse, *Histoire de France depuis les origines jusqu'à la révolution*, t. 7, Livre
-                III, Paris, 1906, p. 188.
+[8] La taille correspondait à nos contributions foncières, personnelles, et mobilières (…) calculées sur toutes les facultés du contribuable, elle donnait lieu à des injustices dans les appréciations. » Ernest Lavisse, *Histoire de France depuis les origines jusqu'à la révolution*, t. 7, Livre III, Paris, 1906, p. 188.
 
-[9] Ludovic Jully, *Étude sur
-                    Boursault*, Troyes, 1865, p. 4-5.
+[9] Ludovic Jully, *Étude sur Boursault*, Troyes, 1865, p. 4-5.
 
-[10] Saint-René Taillandier, *Un poète comique du
-                    temps de Molière, Boursault, sa vie et ses œuvres*, Paris, 1881, p.
-                  32.
+[10] Saint-René Taillandier, *Un poète comique du temps de Molière, Boursault, sa vie et ses œuvres*, Paris, 1881, p. 32.
 
-[11] François
-                    Caffaro, *Lettre d'un théologien illustre par sa qualité & par
-                      son mérite, consulté par l'auteur pour sçavoir si la comédie peut être
-                      permise, ou doit être deffendue, précédant Les Pièces de théâtre de M.
-                      Boursault*, Paris, 1694, p. 57.
+[11] François Caffaro, *Lettre d'un théologien illustre par sa qualité & par son mérite, consulté par l'auteur pour sçavoir si la comédie peut être permise, ou doit être deffendue, précédant Les Pièces de théâtre de M. Boursault*, Paris, 1694, p. 57.
 
-[12] Fernand, le père de Lucrèce, acte I,
-                scène 15.
+[12] Fernand, le père de Lucrèce, acte I, scène 15.
 
 [13] Acte I, scène 6.
 
-[14] *Le Théâtre de l'Hôtel
-                    de Bourgogne 1548-1680*, Paris, 1968-1970, p. 110.
+[14] *Le Théâtre de l'Hôtel de Bourgogne 1548-1680*, Paris, 1968-1970, p. 110.
 
-[15] *Biblioteque des theatres*,
-                Paris, 1733, p. 338.
+[15] *Biblioteque des theatres*, Paris, 1733, p. 338.
 
-[16] *Répertoire analytique des
-                  documents contemporains d'information et de critique concernant le théâtre à Paris
-                  sous Louis XIV*, Paris, 1934, p. 125.
+[16] *Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV*, Paris, 1934, p. 125.
 
-[17] *Le Mémoire de Mahelot et d'autres décorateurs de l'Hôtel de
-                    Bourgogne et de la comédie française du XVII*e* siècle*,
-                  Paris, 1920, note p. 139.
+[17] *Le Mémoire de Mahelot et d'autres décorateurs de l'Hôtel de Bourgogne et de la comédie française du XVII*e* siècle*, Paris, 1920, note p. 139.
 
 [18] P. 693.
 
-[19] Notice du *Théâtre choisi, E. Boursault*, Paris, 1883, p.
-                  xvii.
+[19] Notice du *Théâtre choisi, E. Boursault*, Paris, 1883, p. xvii.
 
-[20] *La Dramaturgie classique en
-                  France*, Paris, 1950, p. 103.
+[20] *La Dramaturgie classique en France*, Paris, 1950, p. 103.
 
-[21] *Le Mémoire de Mahelot et d'autres décorateurs de l'Hôtel de
-                  Bourgogne*, Paris, 1920, p. 139.
+[21] *Le Mémoire de Mahelot et d'autres décorateurs de l'Hôtel de Bourgogne*, Paris, 1920, p. 139.
 
-[22] Lettre XII des *Lettres à Babet*, Paris, p.
-                  176.
+[22] Lettre XII des *Lettres à Babet*, Paris, p. 176.
 
-[23] Acte II,
-                  scène 9.
+[23] Acte II, scène 9.
 
-[24] Eutrope,
-                  acte III, scène 10.
+[24] Eutrope, acte III, scène 10.
 
-[25] Pierre Larthomas, *Le Langage dramatique*, Paris,
-                1972, p. 409.
+[25] Pierre Larthomas, *Le Langage dramatique*, Paris, 1972, p. 409.
 
-[26] Acte
-                    I, scène 3.
+[26] Acte I, scène 3.
 
-[27] *La Dramaturgie classique en France*,
-                    Paris, 1950, p. 396. En effet, Hipolite se confie d'abord à Jacinte, elle avoue
-                    ensuite son amour à Nicandre puis progressivement aux autres personnages de la
-                    pièce.
+[27] *La Dramaturgie classique en France*, Paris, 1950, p. 396. En effet, Hipolite se confie d'abord à Jacinte, elle avoue ensuite son amour à Nicandre puis progressivement aux autres personnages de la pièce.
 
-[28] Acte I,
-                    scène 3.
+[28] Acte I, scène 3.
 
 [29] Vers 67.
 
-[30] Georges
-                  Forestier, *L'Esthétique de l'identité dans le théâtre français,
-                    (1550-1680) Le Déguisement et ses avatars*, Genève, 1988, p. 278.
+[30] Georges Forestier, *L'Esthétique de l'identité dans le théâtre français, (1550-1680) Le Déguisement et ses avatars*, Genève, 1988, p. 278.
 
-[31] Le premier
-                    Nicandre, acte II, scène 1.
+[31] Le premier Nicandre, acte II, scène 1.
 
 [32] Acte I, scène 3.
 
 [33] Acte I, scène 8.
 
-[34] Acte IV,
-                    scène 6.
+[34] Acte IV, scène 6.
 
 [35] Acte I, scène 11.
 
-[36] Acte III,
-                    scène 1.
+[36] Acte III, scène 1.
 
-[37] Acte I,
-                    scène 5.
+[37] Acte I, scène 5.
 
-[38] Acte
-                I, scène 3.
+[38] Acte I, scène 3.
 
-[39] Acte
-                  IV, scène 9.
+[39] Acte IV, scène 9.
 
-[40] *Recherches sur le lexique d'Edme
-                    Boursault*, Paris, 1978, p. 123.
+[40] *Recherches sur le lexique d'Edme Boursault*, Paris, 1978, p. 123.
 
-[41] Acte
-                  V, scène 7.
+[41] Acte V, scène 7.
 
-[42] Acte III, scène 9, Isidore a « les muscles
-                froissés et le corps mutilé » (v. 807).
+[42] Acte III, scène 9, Isidore a « les muscles froissés et le corps mutilé » (v. 807).
 
-[43] Acte
-                II, scènes 6 et 9.
+[43] Acte II, scènes 6 et 9.
 
 [44] Acte V, scène 3, v. 1310-1328.
 
 [45] Acte III, scènes 11 et 12.
 
-[46] *Avertissement de la Nouvelle
-                  édition revue, corrigée et augmentée de plusieurs pièces, qui n'ont point paru
-                  dans les précédentes du théâtre d'Edme Boursault par son fils aîné*, Genève,
-                1970, p. 9.
+[46] *Avertissement de la Nouvelle édition revue, corrigée et augmentée de plusieurs pièces, qui n'ont point paru dans les précédentes du théâtre d'Edme Boursault par son fils aîné*, Genève, 1970, p. 9.
 
-[47] Acte II,
-                  scène 5.
+[47] Acte II, scène 5.
 
-[48] Vers 570
-                et suivants.
+[48] Vers 570 et suivants.
 
 [49] Acte I, scène 6.
 
 [50] Acte III, scène 3.
 
-[51] Il y a ici une incohérence car les
-                quatre premiers actes se déroulent au carrefour de plusieurs rues parisiennes,
-                devant la maison d'Hipolite.
+[51] Il y a ici une incohérence car les quatre premiers actes se déroulent au carrefour de plusieurs rues parisiennes, devant la maison d'Hipolite.
 
-[52] « On dit (…) qu'une femme fait la *sucrée*,
-                  lorsqu'elle est dissimulée, qu'elle fait la prude, qu'elle affecte des manières
-                  douces et honnêtes pour couvrir ses coquetteries secrètes. » (F)
+[52] « On dit (…) qu'une femme fait la *sucrée*, lorsqu'elle est dissimulée, qu'elle fait la prude, qu'elle affecte des manières douces et honnêtes pour couvrir ses coquetteries secrètes. » (F)
 
 [53] Variante poétique de la forme habituelle « encore » qui présente l'avantage de compter pour deux syllabes (voir également au vers 1550).
 
-[54] « Se dit (…) de
-                  ceux qui dans les affaires cachent leurs sentiments, et avec qui il est difficile
-                  de traiter.» (F)
+[54] « Se dit (…) de ceux qui dans les affaires cachent leurs sentiments, et avec qui il est difficile de traiter.» (F)
 
-[55] Cette construction est très courante au XVII*e* siècle, lorsque
-                  deux impératifs sont coordonnés par *et*, le pronom précède le
-                  second impératif. » A. Haase, *Syntaxe française du XVII*e* siècle*, Paris, 1935, § 154.
+[55] Cette construction est très courante au XVII*e* siècle, lorsque deux impératifs sont coordonnés par *et*, le pronom précède le second impératif. » A. Haase, *Syntaxe française du XVII*e* siècle*, Paris, 1935, § 154.
 
-[56] « Se
-                  méprendre, prendre l'un pour l'autre » (F). « Faire une confusion, (…) se
-                  tromper. » (H) Boursault annonce implicitement la suite des évènements avec
-                  l'emploi des verbes déguiser, niaiser⁎ et confondre.
+[56] « Se méprendre, prendre l'un pour l'autre » (F). « Faire une confusion, (…) se tromper. » (H) Boursault annonce implicitement la suite des évènements avec l'emploi des verbes déguiser, niaiser⁎ et confondre.
 
-[57] Usage archaïque
-                  de l'adverbe : « Ceux qui entendaient la pureté du langage, condamnaient cette
-                  façon de parler, comme vicieuse et barbare, ne permettant pas seulement aux Poètes
-                  d'en user comme d'une licence poétique, pour s'accommoder d'une syllabe, dont ils
-                  ont souvent besoin. Mais que nonobstant cela on n'a pas laissé depuis cinquante
-                  ans de continuer toujours la même faute, quoi que l'on ait aussi continué de la
-                  reprendre, jusqu'à ce qu'encore aujourd'hui une infinité de gens disent et
-                  écrivent, *du depuis*, contre le sentiment de tous ceux qui savent
-                  parler et écrire. » Vaugelas, *Remarques sur la langue française*
-                  p. 173, voir aussi au vers 146.
+[57] Usage archaïque de l'adverbe : « Ceux qui entendaient la pureté du langage, condamnaient cette façon de parler, comme vicieuse et barbare, ne permettant pas seulement aux Poètes d'en user comme d'une licence poétique, pour s'accommoder d'une syllabe, dont ils ont souvent besoin. Mais que nonobstant cela on n'a pas laissé depuis cinquante ans de continuer toujours la même faute, quoi que l'on ait aussi continué de la reprendre, jusqu'à ce qu'encore aujourd'hui une infinité de gens disent et écrivent, *du depuis*, contre le sentiment de tous ceux qui savent parler et écrire. » Vaugelas, *Remarques sur la langue française* p. 173, voir aussi au vers 146.
 
-[58] « Conserver toujours l'avantage de la possession de quelque
-                  chose. » (F)
+[58] « Conserver toujours l'avantage de la possession de quelque chose. » (F)
 
-[59] « Se dit (…) figurément
-                  en morale, en parlant de la conduite qu'on observe pour faire réussir quelque
-                  affaire ou entreprise, et il ne se dit guère qu'en mauvaise part. »
-                (F)
+[59] « Se dit (…) figurément en morale, en parlant de la conduite qu'on observe pour faire réussir quelque affaire ou entreprise, et il ne se dit guère qu'en mauvaise part. » (F)
 
-[60] « Interjection qui marquait le dépit, l'agacement, la répulsion. » (D) Jacinte ne
-                  croit pas Nicandre et tourne en dérision ce qu'il dit.
+[60] « Interjection qui marquait le dépit, l'agacement, la répulsion. » (D) Jacinte ne croit pas Nicandre et tourne en dérision ce qu'il dit.
 
-[61] « La non-répétition du sujet clitique (…) a pour
-                  effet de coordonner les prédicats et de créer un lien sémantique étroit entre eux.
-                  (…) Derrière *et*, (…) il est fréquent de ne pas répéter le sujet
-                  clitique. » Nathalie Fournier, *Grammaire du français classique*,
-                  Paris, 2002, p. 22. 
+[61] « La non-répétition du sujet clitique (…) a pour effet de coordonner les prédicats et de créer un lien sémantique étroit entre eux. (…) Derrière *et*, (…) il est fréquent de ne pas répéter le sujet clitique. » Nathalie Fournier, *Grammaire du français classique*, Paris, 2002, p. 22. 
 
-[62] Subjonctif imparfait du verbe voir, le –d final est issu de
-                  l'étymologie latine *uidere*. Nous ne pouvons pas considérer cette
-                  forme comme un écart car, à la rime, les consonnes finales –t et –d sont
-                  prononcées de la même façon au XVII*e* siècle. (Voir aussi au v.
-                  408.)
+[62] Subjonctif imparfait du verbe voir, le –d final est issu de l'étymologie latine *uidere*. Nous ne pouvons pas considérer cette forme comme un écart car, à la rime, les consonnes finales –t et –d sont prononcées de la même façon au XVII*e* siècle. (Voir aussi au v. 408.)
 
-[63] « Mot burlesque qui marque quand
-                  on s'en sert qu'on se moque de ce qu'on dit ou qu'on n'y ajoute point de foi. »
-                  (R) Scarron reproduit le son de la trompette de cette façon : « il prit une
-                  trompette et sonna, / Tara, tara, tara, tantare. » On peut imaginer que Jacinte
-                  fait de même pour se moquer des promesses factices de Nicandre.
+[63] « Mot burlesque qui marque quand on s'en sert qu'on se moque de ce qu'on dit ou qu'on n'y ajoute point de foi. » (R) Scarron reproduit le son de la trompette de cette façon : « il prit une trompette et sonna, / Tara, tara, tara, tantare. » On peut imaginer que Jacinte fait de même pour se moquer des promesses factices de Nicandre.
 
-[64] « Signifie parmi le peuple, une bourde, une menterie. Ce laquais
-                  lui a fiché la *colle*, pour dire, lui a dit une défaite, une
-                  chose fausse. »
+[64] « Signifie parmi le peuple, une bourde, une menterie. Ce laquais lui a fiché la *colle*, pour dire, lui a dit une défaite, une chose fausse. »
 
-[65] « On dit proverbialement, donner des *canards* à
-                  quelqu'un, pour dire, lui en faire accroire, ne lui pas tenir ce qu'on lui avait
-                  promis, tromper son attente. » (F)
+[65] « On dit proverbialement, donner des *canards* à quelqu'un, pour dire, lui en faire accroire, ne lui pas tenir ce qu'on lui avait promis, tromper son attente. » (F)
 
 [66] C'est un garçon seulement en apparence.
 
-[67] Cette forme équivaut au
-                  passé simple du verbe *donner* : je donnai, la diphtongue *ai* se prononce e fermé (é) en français classique. Habituellement
-                    « *ai, ay, ei* se prononcent comme l'e du mot net (…) exceptés
-                  les premières personnes des temps des verbes terminés en *ay*, ou
-                    *rai* ». Jean Hindret, *L'art de bien prononcer et
-                    de bien parler la langue françoise*, Genève, 1973, p. 47. Boursault choisi
-                  ici de rester proche de la prononciation habituelle de la diphtongue.
+[67] Cette forme équivaut au passé simple du verbe *donner* : je donnai, la diphtongue *ai* se prononce e fermé (é) en français classique. Habituellement « *ai, ay, ei* se prononcent comme l'e du mot net (…) exceptés les premières personnes des temps des verbes terminés en *ay*, ou *rai* ». Jean Hindret, *L'art de bien prononcer et de bien parler la langue françoise*, Genève, 1973, p. 47. Boursault choisi ici de rester proche de la prononciation habituelle de la diphtongue.
 
-[68] Voir la note
-                  au vers 84.
+[68] Voir la note au vers 84.
 
-[69] Doublet poétique de la
-                  préposition « avec » qui présente l'avantage de compter pour deux syllabes.
+[69] Doublet poétique de la préposition « avec » qui présente l'avantage de compter pour deux syllabes.
 
-[70] « On dit, qu'un homme a fait un pas de *Clerc*,
-                  pour dire, qu'il a fait une faute par ignorance. » (F)
+[70] « On dit, qu'un homme a fait un pas de *Clerc*, pour dire, qu'il a fait une faute par ignorance. » (F)
 
-[71] « Innocent » étant le nom d'un Pape, « faire l'innocent quatrième signifierait :
-                  faire semblant d'être saint comme le Pape », Hana Baalbaki, *Recherches sur le lexique d'Edme Boursault*, Paris, 1978, p.
-                70.
+[71] « Innocent » étant le nom d'un Pape, « faire l'innocent quatrième signifierait : faire semblant d'être saint comme le Pape », Hana Baalbaki, *Recherches sur le lexique d'Edme Boursault*, Paris, 1978, p. 70.
 
-[72] « On
-                  dit (…) d'un hypocrite malicieux qui fait le niais, qu'il ne semble pas qu'il y
-                    *touche*. » (F)
+[72] « On dit (…) d'un hypocrite malicieux qui fait le niais, qu'il ne semble pas qu'il y *touche*. » (F)
 
-[73] « Epithète qu'on donne à celui qu'on veut taxer de bêtise. »
-                  (F)
+[73] « Epithète qu'on donne à celui qu'on veut taxer de bêtise. » (F)
 
-[74] « Homme de néant qui n'a ni feu ni lieu. On ne s'en sert qu'en
-                  termes de mépris, et pour faire injure. » (F)
+[74] « Homme de néant qui n'a ni feu ni lieu. On ne s'en sert qu'en termes de mépris, et pour faire injure. » (F)
 
-[75] « Se dit (…) figurément, en parlant de ceux qui s'embarrassent dans
-                  de méchantes affaires. » (F)
+[75] « Se dit (…) figurément, en parlant de ceux qui s'embarrassent dans de méchantes affaires. » (F)
 
-[76] « Voyager, se dit de certaine sorte d'artisans qui vont d'ordinaire
-                  par le pays. Cette phrase est basse. » (A)
+[76] « Voyager, se dit de certaine sorte d'artisans qui vont d'ordinaire par le pays. Cette phrase est basse. » (A)
 
 [77] Employé métaphoriquement pour soufflet.
 
-[78] « Espèce
-                  d'interjection pour avertir que l'on se mette à l'écart, pour laisser passer, ou
-                  pour éviter quelque danger. » (A)
+[78] « Espèce d'interjection pour avertir que l'on se mette à l'écart, pour laisser passer, ou pour éviter quelque danger. » (A)
 
-[79] Hypocoristique, « Terme populaire dont les pères et les maris se servent pour
-                  caresser leurs femmes et leurs enfants. » (F)
+[79] Hypocoristique, « Terme populaire dont les pères et les maris se servent pour caresser leurs femmes et leurs enfants. » (F)
 
-[80] « *Faire la sentinelle* signifie monter la garde,
-                  faire le guet. » (H)
+[80] « *Faire la sentinelle* signifie monter la garde, faire le guet. » (H)
 
-[81] « On dit
-                  figurément (…) *faire pièce à quelqu'un* pour dire, lui faire
-                  affront, lui causer quelque dommage. » (A)
+[81] « On dit figurément (…) *faire pièce à quelqu'un* pour dire, lui faire affront, lui causer quelque dommage. » (A)
 
-[82] En
-                  connaissance de cause.
+[82] En connaissance de cause.
 
-[83] « Chiquenaude que l'on donne sur le bout du nez ».
-                  (F)
+[83] « Chiquenaude que l'on donne sur le bout du nez ». (F)
 
-[84] « On dit proverbialement, voilà pour l'achever de peindre, pour
-                  dire, achever de le ruiner, quand il vient un nouveau malheur à quelqu'un qui
-                  l'accable. » (F) Le verbe « ruiner » a un sens plus large au XVII*e* siècle, il englobe le sens d'honneur dans sa définition. Dans ce
-                  passage, Ragotin est désespéré et voit s'accumuler les malheurs autour de
-                  lui.
+[84] « On dit proverbialement, voilà pour l'achever de peindre, pour dire, achever de le ruiner, quand il vient un nouveau malheur à quelqu'un qui l'accable. » (F) Le verbe « ruiner » a un sens plus large au XVII*e* siècle, il englobe le sens d'honneur dans sa définition. Dans ce passage, Ragotin est désespéré et voit s'accumuler les malheurs autour de lui.
 
-[85] « On dit
-                  en débauche, *Branler* le menton, la mâchoire, pour, s'exciter à
-                  boire et à manger. » (F)
+[85] « On dit en débauche, *Branler* le menton, la mâchoire, pour, s'exciter à boire et à manger. » (F)
 
-[86] Ragotin va chercher un autre maître sur la place du Palais de
-                  Justice, lieu où l'on pouvait louer les services de domestiques au XVII*e* siècle. (Voir aussi au vers 643.)
+[86] Ragotin va chercher un autre maître sur la place du Palais de Justice, lieu où l'on pouvait louer les services de domestiques au XVII*e* siècle. (Voir aussi au vers 643.)
 
-[87] « Se dit figurément des yeux de l'esprit, et signifie
-                  détromper (…) reconnaître la vérité. » (F)
+[87] « Se dit figurément des yeux de l'esprit, et signifie détromper (…) reconnaître la vérité. » (F)
 
-[88] Verbe formé
-                  à l'aide du préfixe dé- qui désigne l'action d'ôter, de se défaire.
+[88] Verbe formé à l'aide du préfixe dé- qui désigne l'action d'ôter, de se défaire.
 
-[89] Jacinte a cru que Nicandre se moquait d'elle (I, 6) et elle
-                  lui rappelle les mots que son frère a prononcé, lui prouvant ainsi sa rancune.
-                  Mais Nicandre ne comprend pas son attitude puisque c'était son frère qui parlait
-                  avec Jacinte.
+[89] Jacinte a cru que Nicandre se moquait d'elle (I, 6) et elle lui rappelle les mots que son frère a prononcé, lui prouvant ainsi sa rancune. Mais Nicandre ne comprend pas son attitude puisque c'était son frère qui parlait avec Jacinte.
 
-[90] « Faux soldats
-                  et non enrollés, qu'un Capitaine fait passer aux revue pour montrer que sa
-                  Compagnie est complète, ou pour en tirer la paie à son profit ». (F) Hana Baabalki
-                  nous explique que « le premier Nicandre (…), confondu avec son frère jumeau le
-                  second Nicandre, paraît passer d'une amante à une autre, donnant ainsi une
-                  mauvaise impression à sa maîtresse Hipolite et à sa servante Jacinte », *Recherches sur le lexique d'Edme Boursault*, Paris, 1978, p.
-                  439.
+[90] « Faux soldats et non enrollés, qu'un Capitaine fait passer aux revue pour montrer que sa Compagnie est complète, ou pour en tirer la paie à son profit ». (F) Hana Baabalki nous explique que « le premier Nicandre (…), confondu avec son frère jumeau le second Nicandre, paraît passer d'une amante à une autre, donnant ainsi une mauvaise impression à sa maîtresse Hipolite et à sa servante Jacinte », *Recherches sur le lexique d'Edme Boursault*, Paris, 1978, p. 439.
 
-[91] « On dit, qu'un homme est fort *en gueule*, pour dire, qu'il crie
-                  fort haut, qu'il est impudent et avantageux en paroles. » (F)
+[91] « On dit, qu'un homme est fort *en gueule*, pour dire, qu'il crie fort haut, qu'il est impudent et avantageux en paroles. » (F)
 
-[92] Subjonctif présent
-                  du verbe garder, Boursault emploie la forme authentique de l'ancienne langue. Mais
-                  cette forme n'est pas un écart car, à la rime, les consonnes dentales se
-                  prononcent de la même façon dans la langue classique. (Voir la note du v.
-                  104.)
+[92] Subjonctif présent du verbe garder, Boursault emploie la forme authentique de l'ancienne langue. Mais cette forme n'est pas un écart car, à la rime, les consonnes dentales se prononcent de la même façon dans la langue classique. (Voir la note du v. 104.)
 
-[93] Robin parle de son cou, pour sous-entendre qu'il a été
-                  discret.
+[93] Robin parle de son cou, pour sous-entendre qu'il a été discret.
 
 [94] Elle prépare le repas.
 
-[95] « C'est un mot espagnol qui est connu depuis quelque temps en
-                  France pour signifier un Sergent ou un Exempt. » (F)
+[95] « C'est un mot espagnol qui est connu depuis quelque temps en France pour signifier un Sergent ou un Exempt. » (F)
 
-[96] « Compagnon. (…) Les
-                  personnes de quelque condition appellent ainsi ceux qui leur sont inférieurs. »
-                  (A)
+[96] « Compagnon. (…) Les personnes de quelque condition appellent ainsi ceux qui leur sont inférieurs. » (A)
 
-[97] Adjectif
-                  construit par adjonction du suffixe péjoratif -ard sur la forme verbale
-                  « frapper », il désigne celui qui frappe et est donc employé au sens
-                  propre.
+[97] Adjectif construit par adjonction du suffixe péjoratif -ard sur la forme verbale « frapper », il désigne celui qui frappe et est donc employé au sens propre.
 
-[98] « Faire
-                  paraître une chose plus belle qu'elle n'est, faire avaler quelque amertume,
-                  quelque chose de fâcheux, en l'adoucissant de belles paroles. » (F)
+[98] « Faire paraître une chose plus belle qu'elle n'est, faire avaler quelque amertume, quelque chose de fâcheux, en l'adoucissant de belles paroles. » (F)
 
-[99] Formé à partir du
-                  verbe *démantibuler* qui signifiait « autrefois au propre, rompre
-                  la mâchoire, qu'on appelait autrefois *mantibule* : mais
-                  maintenant il ne se dit qu'au figuré et au participe par le peuple en parlant
-                  d'une chose rompue, gâtée ou désassemblée. »(F) Robin
-                  l'utilise justement ici au sens propre.
+[99] Formé à partir du verbe *démantibuler* qui signifiait « autrefois au propre, rompre la mâchoire, qu'on appelait autrefois *mantibule* : mais maintenant il ne se dit qu'au figuré et au participe par le peuple en parlant d'une chose rompue, gâtée ou désassemblée. »(F) Robin l'utilise justement ici au sens propre.
 
 [100] Recevoir une gifle en pleine figure.
 
-[101] Le verbe désigne l'action de « porter un coup justement où
-                  on a dessein de frapper ». (F)
+[101] Le verbe désigne l'action de « porter un coup justement où on a dessein de frapper ». (F)
 
 [102] « Découvrir, faire connaître une chose cachée. » (A) 
 
-[103]  Robin, furieux
-                  d'avoir été giflé à la scène 6, montre sa joue qui porte les *erres* c'est-à-dire les traces du soufflet.
+[103]  Robin, furieux d'avoir été giflé à la scène 6, montre sa joue qui porte les *erres* c'est-à-dire les traces du soufflet.
 
-[104]  Adverbe
-                  qui signifie « en ce temps-là. » (A)
+[104]  Adverbe qui signifie « en ce temps-là. » (A)
 
-[105]  Il s'agit d'un proverbe déjà connu au XVI*e*
-                  siècle qui signifie que « chacun pense toujours à ses affaires, à ce qui le
-                  concerne. » (H) Ainsi dans ce passage, Robin montre sa joue à Nicandre et lui
-                  rappelle qu'il n'a pas oublié le soufflet qu'il a reçu précédemment (II,
-                  6).
+[105]  Il s'agit d'un proverbe déjà connu au XVI*e* siècle qui signifie que « chacun pense toujours à ses affaires, à ce qui le concerne. » (H) Ainsi dans ce passage, Robin montre sa joue à Nicandre et lui rappelle qu'il n'a pas oublié le soufflet qu'il a reçu précédemment (II, 6).
 
-[106] « Pour soufflet, coup de poing, ou coup appliqué sur le visage du
-                  plat de la main. » (L)
+[106] « Pour soufflet, coup de poing, ou coup appliqué sur le visage du plat de la main. » (L)
 
-[107] 
-                  « Terme populaire. Bastonner rudement quelqu'un, le traiter en *rosse* ; et se dit par extension de toutes sortes de mauvais traitements. »
-                  (F)
+[107]  « Terme populaire. Bastonner rudement quelqu'un, le traiter en *rosse* ; et se dit par extension de toutes sortes de mauvais traitements. » (F)
 
-[108]  Ce verbe est « bas et
-                  du petit peuple de Paris. Il veut dire *souffleter*. » (R)
+[108]  Ce verbe est « bas et du petit peuple de Paris. Il veut dire *souffleter*. » (R)
 
-[109]  Emploi absolu, il
-                  désigne les femmes en général et son utilisation est fréquente au XVII*e* siècle.
+[109]  Emploi absolu, il désigne les femmes en général et son utilisation est fréquente au XVII*e* siècle.
 
-[110]  La *roupie* est une « goutte de pituite qui
-                  dégoutte du cerveau par le nez, lors qu'il fait froid ou qu'on est enrhumé » (F)
-                  et les yeux *cire* désigne « la chassie qui vient aux yeux des
-                  vieilles gens. » (A)
+[110]  La *roupie* est une « goutte de pituite qui dégoutte du cerveau par le nez, lors qu'il fait froid ou qu'on est enrhumé » (F) et les yeux *cire* désigne « la chassie qui vient aux yeux des vieilles gens. » (A)
 
 [111] Il apparaît.
 
@@ -5519,299 +5242,161 @@ Un poète comique du temps de Molière,
 
 [113] « Sommer quelqu'un de quelque chose à quoi son devoir l'oblige. » (A)
 
-[114] « Ne pas
-                  suivre la vertu et les bons exemples de ses Ancêtres, de ceux dont on est issu,
-                  faire quelque chose indigne de leur race. » (F)
+[114] « Ne pas suivre la vertu et les bons exemples de ses Ancêtres, de ceux dont on est issu, faire quelque chose indigne de leur race. » (F)
 
-[115] « Se dit de la justice qu'on fait, ou qu'on demande à quelqu'un, de
-                  l'éclaircissement de quelque doute, de la réparation de quelque injure reçue. »
-                  (F)
+[115] « Se dit de la justice qu'on fait, ou qu'on demande à quelqu'un, de l'éclaircissement de quelque doute, de la réparation de quelque injure reçue. » (F)
 
-[116]  « Ceux
-                  qui disposaient d'équipages se rendaient au Cours la Reine, planté de quatre
-                  rangées d'ormes et bordé, le long de la Seine, d'un quai de pierres de taille. (…)
-                  Dans l'allée centrale, six carrosses pouvaient rouler de front. Ils s'y
-                  succédaient en longues files, après dîner, et l'on y voyait aussi des calèches
-                  découvertes. (…) La promenade était longue de quinze cents mètres. » Jacques
-                  Wilhelm, *La Vie quotidienne des parisiens au temps du
-                  Roi-Soleil*, Paris, 1977, p. 176. Cette promenade s'étendait le long des
-                  Tuileries jusqu'à l'actuel Pont de l'Alma (voir plus loin aux v. 632, 648, 717,
-                  966, 1021, 1056, 1138, didascalie IV, 8 ; 1562 des *Deux frères*
-                  et aux v. 285, 291, 307, 372,386, 541 et 660 des *Nicandres*).
+[116]  « Ceux qui disposaient d'équipages se rendaient au Cours la Reine, planté de quatre rangées d'ormes et bordé, le long de la Seine, d'un quai de pierres de taille. (…) Dans l'allée centrale, six carrosses pouvaient rouler de front. Ils s'y succédaient en longues files, après dîner, et l'on y voyait aussi des calèches découvertes. (…) La promenade était longue de quinze cents mètres. » Jacques Wilhelm, *La Vie quotidienne des parisiens au temps du Roi-Soleil*, Paris, 1977, p. 176. Cette promenade s'étendait le long des Tuileries jusqu'à l'actuel Pont de l'Alma (voir plus loin aux v. 632, 648, 717, 966, 1021, 1056, 1138, didascalie IV, 8 ; 1562 des *Deux frères* et aux v. 285, 291, 307, 372,386, 541 et 660 des *Nicandres*).
 
-[117]  Boursault ne
-                  différencie pas les deux graphies *conte* et *compte* l'une de l'autre, on peut penser que c'était courant à l'époque
-                  car, en 1680, Pierre Richelet fait de même dans son dictionnaire. Ici, il s'agit
-                  du sens de compter. (voir aussi au v. 1166)
+[117]  Boursault ne différencie pas les deux graphies *conte* et *compte* l'une de l'autre, on peut penser que c'était courant à l'époque car, en 1680, Pierre Richelet fait de même dans son dictionnaire. Ici, il s'agit du sens de compter. (voir aussi au v. 1166)
 
-[118] « En termes de
-                  guerre, signifie, intrépide, qui affronte les périls (…), se prend aussi en
-                  mauvaise part, et se dit d'un assassin, d'un homme qu'on emploie à toutes sortes
-                  de méchantes actions. » (F)
+[118] « En termes de guerre, signifie, intrépide, qui affronte les périls (…), se prend aussi en mauvaise part, et se dit d'un assassin, d'un homme qu'on emploie à toutes sortes de méchantes actions. » (F)
 
-[119]  Néologisme, nom commun formé à partir du mot maître auquel on a
-                  ajouté le suffixe latin –cide qui est la forme en composition de la racine de *caedere* qui signifie tuer. Il désigne l'action de tuer son
-                  maître.
+[119]  Néologisme, nom commun formé à partir du mot maître auquel on a ajouté le suffixe latin –cide qui est la forme en composition de la racine de *caedere* qui signifie tuer. Il désigne l'action de tuer son maître.
 
-[120]  « On dit absolument, *s'enrôler*, pour dire, se
-                  faire soldat. » (F) Ici, Ragotin demande à Ismène s'il est à son service pour un
-                  temps ou bien s'il s'engage durablement auprès d'elle.
+[120]  « On dit absolument, *s'enrôler*, pour dire, se faire soldat. » (F) Ici, Ragotin demande à Ismène s'il est à son service pour un temps ou bien s'il s'engage durablement auprès d'elle.
 
-[121] « Fin, adroit, qui trompe facilement, et qui ne se laisse point
-                  tromper. » (F)
+[121] « Fin, adroit, qui trompe facilement, et qui ne se laisse point tromper. » (F)
 
-[122] Participe passé formé à partir du nom propre Nicandre qui est
-                  synonyme de tromperie et de mensonge pour Ragotin qui désire se
-                venger.
+[122] Participe passé formé à partir du nom propre Nicandre qui est synonyme de tromperie et de mensonge pour Ragotin qui désire se venger.
 
-[123] L'emploi du pronom est plus fréquent dans la langue classique, il
-                  se rapporte à une phrase entière (je déteste qu'il m'ait tant retenu) et marque un
-                  rapport de cause.
+[123] L'emploi du pronom est plus fréquent dans la langue classique, il se rapporte à une phrase entière (je déteste qu'il m'ait tant retenu) et marque un rapport de cause.
 
-[124] Mourir sans faire de
-                testament.
+[124] Mourir sans faire de testament.
 
 [125] Cette description est encore trop loin de la réalité.
 
-[126] Construit sur la base
-                  du verbe promettre, il signifie le contraire.
+[126] Construit sur la base du verbe promettre, il signifie le contraire.
 
-[127] Il s'agit d'un jeu de scène, Nicandre essaie de retenir
-                  Jacinte par les mains pour lui parler (voir au v. 736), mais elle refuse
-                  d'entendre ses explications. Elle utilise ses mains pour le repousser.
+[127] Il s'agit d'un jeu de scène, Nicandre essaie de retenir Jacinte par les mains pour lui parler (voir au v. 736), mais elle refuse d'entendre ses explications. Elle utilise ses mains pour le repousser.
 
-[128] « Qui est
-                  élevé au dessus des autres choses. » (F)
+[128] « Qui est élevé au dessus des autres choses. » (F)
 
-[129] « Préparer, mettre
-                  en état. » (A)
+[129] « Préparer, mettre en état. » (A)
 
 [130] Le vers est faux, un monosyllabe a dû être omis.
 
-[131] *Los* est un « vieux mot qui signifie, louange, et
-                  qui n'est plus en usage que dans le burlesque » (A). *Jupin*
-                  équivaut à la « forme du nom Jupiter dans l'ancien français » d'après Emile
-                  Littré, et *sus* est une « sorte d'*interjection*
-                  qui sert à exhorter ». (R) Isidore remercie le ciel qu'on ait retrouvé Nicandre,
-                  il pourra ainsi sauvé l'honneur de sa fille.
+[131] *Los* est un « vieux mot qui signifie, louange, et qui n'est plus en usage que dans le burlesque » (A). *Jupin* équivaut à la « forme du nom Jupiter dans l'ancien français » d'après Emile Littré, et *sus* est une « sorte d'*interjection* qui sert à exhorter ». (R) Isidore remercie le ciel qu'on ait retrouvé Nicandre, il pourra ainsi sauvé l'honneur de sa fille.
 
-[132] Forme latine de
-                  Térée qui, dans la mythologie, viola sa belle-sœur Philomèle.
+[132] Forme latine de Térée qui, dans la mythologie, viola sa belle-sœur Philomèle.
 
-[133] « Fille de
-                  Pandion, Roy d'Athènes. Térée (…) la viola ; et ensuite lui coupa la langue et la
-                  mit en prison. Mais Philomèle en avertit sa sœur, qui la délivra durant la fête de
-                  Bacchus, et elle fut changée en rossignol. » (M)
+[133] « Fille de Pandion, Roy d'Athènes. Térée (…) la viola ; et ensuite lui coupa la langue et la mit en prison. Mais Philomèle en avertit sa sœur, qui la délivra durant la fête de Bacchus, et elle fut changée en rossignol. » (M)
 
-[134] « Mettre dans
-                  la Matricule qui est le registre (…) dans lequel on écrit les noms des personnes
-                  qui entrent dans quelque Compagnie. » (A)
+[134] « Mettre dans la Matricule qui est le registre (…) dans lequel on écrit les noms des personnes qui entrent dans quelque Compagnie. » (A)
 
-[135] Image
-                  métaphorique de la pendaison, le saut relate le court moment pendant lequel un
-                  coupable se retrouve subitement suspendu au bout d'une corde. Isidore demande que
-                  Nicandre soit pendu.
+[135] Image métaphorique de la pendaison, le saut relate le court moment pendant lequel un coupable se retrouve subitement suspendu au bout d'une corde. Isidore demande que Nicandre soit pendu.
 
-[136] Se dit « en parlant
-                  de géographie et de l'une des zones qui est entre les Tropiques. » (R) Isidore ne
-                  l'utilise pas dans son sens habituel.
+[136] Se dit « en parlant de géographie et de l'une des zones qui est entre les Tropiques. » (R) Isidore ne l'utilise pas dans son sens habituel.
 
-[137] Former par suffixation à partir du verbe coffrer : « Mettre
-                  quelqu'un en prison. » (F) Cette nominalisation désigne l'agent du
-                procès.
+[137] Former par suffixation à partir du verbe coffrer : « Mettre quelqu'un en prison. » (F) Cette nominalisation désigne l'agent du procès.
 
-[138] C'est
-                  moi-même.
+[138] C'est moi-même.
 
-[139] Au sens de
-                  « déflorée ».
+[139] Au sens de « déflorée ».
 
-[140] « Vieux
-                  mot. Reproche, blâme qu'on fait à une personne, ou à une famille. »
-                (F)
+[140] « Vieux mot. Reproche, blâme qu'on fait à une personne, ou à une famille. » (F)
 
-[141] « Vieux mot
-                  qui signifiait autrefois une chose excellente et hors de comparaison. » (F)
+[141] « Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison. » (F)
 
-[142]  Construit à partir de
-                  l'adjectif « cher » auquel on ajoute le suffixe d'intensité –issime introduit au
-                    XVI*e* suivant les modèles latins et italiens.
+[142]  Construit à partir de l'adjectif « cher » auquel on ajoute le suffixe d'intensité –issime introduit au XVI*e* suivant les modèles latins et italiens.
 
-[143] Substantif formé à partir du verbe qui « signifie figurément tuer, assommer dans
-                  une mêlée, dans un combat, dans une déroute. » (A)
+[143] Substantif formé à partir du verbe qui « signifie figurément tuer, assommer dans une mêlée, dans un combat, dans une déroute. » (A)
 
-[144] « Qui est stupide et
-                  grossier. » (F)
+[144] « Qui est stupide et grossier. » (F)
 
-[145] 
-                  « Nom propre d'homme qui est venu en usage dans cette phrase proverbiale. Faire
-                    *gilles*, pour dire, s'enfuir. » (F)
+[145]  « Nom propre d'homme qui est venu en usage dans cette phrase proverbiale. Faire *gilles*, pour dire, s'enfuir. » (F)
 
-[146] « Qu'on fait fille du Ciel
-                  et de la Terre, est considérée comme la déesse de la Justice. » (M)
+[146] « Qu'on fait fille du Ciel et de la Terre, est considérée comme la déesse de la Justice. » (M)
 
-[147]  « Vieux mot qui signifiait autrefois *ôter, enlever de force*. Il est tout à fait hors d'usage. »
-                  (F)
+[147]  « Vieux mot qui signifiait autrefois *ôter, enlever de force*. Il est tout à fait hors d'usage. » (F)
 
-[148] « Raisonner. Il n'a
-                  d'usage que dans la dogmatique. » (A)
+[148] « Raisonner. Il n'a d'usage que dans la dogmatique. » (A)
 
-[149]  « On appelle aussi figurément, *Membres*,
-                  les parties d'un Corps politique, comme d'un Etat, d'une Compagnie de
-                  Magistrats. » (A) Le Sergent, fier de représenter la loi, se présente en
-                  accentuant son appartenance à la Justice mais Robin interrompt son discours et le
-                  tourne en dérision. Dans la suite du texte, le valet joue sur les différents sens
-                  de ce mot, rendant ainsi la situation comique. (Voir la note du v.
-                878.)
+[149]  « On appelle aussi figurément, *Membres*, les parties d'un Corps politique, comme d'un Etat, d'une Compagnie de Magistrats. » (A) Le Sergent, fier de représenter la loi, se présente en accentuant son appartenance à la Justice mais Robin interrompt son discours et le tourne en dérision. Dans la suite du texte, le valet joue sur les différents sens de ce mot, rendant ainsi la situation comique. (Voir la note du v. 878.)
 
-[150] « Caution judiciaire, qui s'oblige devant un Juge de représenter quelqu'un, ou de
-                  payer ce qui sera jugé contre lui. » (F)
+[150] « Caution judiciaire, qui s'oblige devant un Juge de représenter quelqu'un, ou de payer ce qui sera jugé contre lui. » (F)
 
 [151] « Corrompu, gâté. » (F)
 
-[152] Substantif formé à partir du
-                  verbe pendre, il désigne celui « qui a commis des actions qui méritent la corde,
-                  la potence. » (F)
+[152] Substantif formé à partir du verbe pendre, il désigne celui « qui a commis des actions qui méritent la corde, la potence. » (F)
 
-[153]  « Mot dérivé du latin
-                    *accipio* (…) pour prendre. » (L)
+[153]  « Mot dérivé du latin *accipio* (…) pour prendre. » (L)
 
 [154] « Signifie figurément une mauvaise engeance. » (F)
 
-[155]  Robin
-                  ironise le discours du Sergent dès le début de la scène en l'interrompant à
-                  plusieurs reprises (voir aux v. 846-848). Le jeu de mot sur le substantif
-                  « membre » se prolonge jusqu'à la fin de l'acte (voir la note v. 911). Dans ce
-                  passage, Robin se moque du Sergent qui est fier de l'avoir arrêter et n'hésite pas
-                  à s'adresser aux Archers sur le même ton, les appelant « membrillons » et
-                  dédramatisant ainsi la scène.
+[155]  Robin ironise le discours du Sergent dès le début de la scène en l'interrompant à plusieurs reprises (voir aux v. 846-848). Le jeu de mot sur le substantif « membre » se prolonge jusqu'à la fin de l'acte (voir la note v. 911). Dans ce passage, Robin se moque du Sergent qui est fier de l'avoir arrêter et n'hésite pas à s'adresser aux Archers sur le même ton, les appelant « membrillons » et dédramatisant ainsi la scène.
 
-[156]  Il n'est rien de si sûr. À l'époque classique, l'article partitif
-                  est souvent omis « devant un *adjectif neutre* après *rien* », A. Haase, *Syntaxe du français du XVII*e* siècle*, p. 299.
+[156]  Il n'est rien de si sûr. À l'époque classique, l'article partitif est souvent omis « devant un *adjectif neutre* après *rien* », A. Haase, *Syntaxe du français du XVII*e* siècle*, p. 299.
 
 [157] Qu'on me mette en prison.
 
 [158] Dans vos mains.
 
-[159] Cela
-                  suffit.
+[159] Cela suffit.
 
 [160] Maître.
 
-[161]  Verbe formé à partir de l'adjectif *profond*, il
-                  signifie mettre au fond.
+[161]  Verbe formé à partir de l'adjectif *profond*, il signifie mettre au fond.
 
-[162]  « Vieux mot qui signifie *cacher*. »
-                (F)
+[162]  « Vieux mot qui signifie *cacher*. » (F)
 
 [163] Dans la maison.
 
 [164] « Faire tort, injustice à quelqu'un. » (F)
 
-[165] Comique de
-                  mot, Robin emploie le substantif « gigot » qui prolonge ainsi le jeu de mot sur
-                  « membre » des vers 846-848, 879 et suivants (voir la note).
+[165] Comique de mot, Robin emploie le substantif « gigot » qui prolonge ainsi le jeu de mot sur « membre » des vers 846-848, 879 et suivants (voir la note).
 
-[166] « On appelle Maison du Roi, non pas seulement son Palais, mais tous
-                  ses Officiers qui servent à sa Cour, et qui sont couchés sur l'Etat. »
-                (F)
+[166] « On appelle Maison du Roi, non pas seulement son Palais, mais tous ses Officiers qui servent à sa Cour, et qui sont couchés sur l'Etat. » (F)
 
-[167] 
-                  Substantif formé par suffixation à partir du verbe *houspiller*
-                  qui signifie « se prendre et se battre en se jetant et se renversant l'un sur
-                  l'autre ». (R) Cette nominalisation désigne donc l'agent du procès.
+[167]  Substantif formé par suffixation à partir du verbe *houspiller* qui signifie « se prendre et se battre en se jetant et se renversant l'un sur l'autre ». (R) Cette nominalisation désigne donc l'agent du procès.
 
-[168] « Parler sans cesse, et ne dire que des choses de peu de
-                  considération. » (F)
+[168] « Parler sans cesse, et ne dire que des choses de peu de considération. » (F)
 
-[169]  Il s'agit d'une
-                  locution conjonctive très fréquente en ancien français qui a un sens consécutif,
-                  mais Vaugelas et Malherbe la rejettent et trouvent qu'elle est archaïque, « *Que si* est un latinisme, transcription de *quod
-                    si*. » Gabriel Spillebout, *Grammaire de la langue française du
-                      XVII*e* siècle*, Paris, 1985, p. 334.
+[169]  Il s'agit d'une locution conjonctive très fréquente en ancien français qui a un sens consécutif, mais Vaugelas et Malherbe la rejettent et trouvent qu'elle est archaïque, « *Que si* est un latinisme, transcription de *quod si*. » Gabriel Spillebout, *Grammaire de la langue française du XVII*e* siècle*, Paris, 1985, p. 334.
 
-[170]  Formule elliptique qui marque
-                  l'affirmation. « Dès le premier quart du siècle, l'absence du clitique sujet est
-                  extrêmement rare et se maintient essentiellement en figement locutionnel : *si ferait*. » Nathalie Fournier, *Grammaire du français
-                    classique*, Paris, 2002, p. 21.
+[170]  Formule elliptique qui marque l'affirmation. « Dès le premier quart du siècle, l'absence du clitique sujet est extrêmement rare et se maintient essentiellement en figement locutionnel : *si ferait*. » Nathalie Fournier, *Grammaire du français classique*, Paris, 2002, p. 21.
 
-[171] « Mettre dans une chasse » qui désigne le « lieu où est le
-                  gibier » (F) et donc métaphoriquement la prison.
+[171] « Mettre dans une chasse » qui désigne le « lieu où est le gibier » (F) et donc métaphoriquement la prison.
 
-[172]  « Qui abat, qui fait choir. Cet homme est un grand *abateur* de bois, de quilles : ce qui se dit proverbialement au figuré de
-                  celui qui se vante de faire beaucoup de choses au dessus de ses forces. » (F) Hana
-                  Baalbaki dans ses *Recheches sur le lexique d'Edme Boursault*
-                  traduit cette expression par « avoir beaucoup de succès en amour » et il traduit
-                  l'alexandrin ainsi : « Et je suis en amour grand conquérant », p. 40.
+[172]  « Qui abat, qui fait choir. Cet homme est un grand *abateur* de bois, de quilles : ce qui se dit proverbialement au figuré de celui qui se vante de faire beaucoup de choses au dessus de ses forces. » (F) Hana Baalbaki dans ses *Recheches sur le lexique d'Edme Boursault* traduit cette expression par « avoir beaucoup de succès en amour » et il traduit l'alexandrin ainsi : « Et je suis en amour grand conquérant », p. 40.
 
-[173]  « On appelle maigre *échine*, un homme
-                  menu, et qui manque de graisse. » (F)
+[173]  « On appelle maigre *échine*, un homme menu, et qui manque de graisse. » (F)
 
-[174]  Interjection courante au XVII*e* siècle, « Jurement, qui marque l'étonnement (…) ou la
-                  surprise. » (L)
+[174]  Interjection courante au XVII*e* siècle, « Jurement, qui marque l'étonnement (…) ou la surprise. » (L)
 
-[175] « Prendre avec rapacité comme avec une griffe ou une main
-                  crochue. » (F)
+[175] « Prendre avec rapacité comme avec une griffe ou une main crochue. » (F)
 
-[176] « En termes de chasse, signifie, poursuivre le cerf, le lièvre, le
-                  chevreuil. » (F) Boursault l'emploi au sens figuré.
+[176] « En termes de chasse, signifie, poursuivre le cerf, le lièvre, le chevreuil. » (F) Boursault l'emploi au sens figuré.
 
-[177]  Cabarets célèbres du XVII*e* siècle, lieux dans lesquels il était possible de consommer du vin et de
-                  la nourriture sur place, par opposition aux tavernes. 
+[177]  Cabarets célèbres du XVII*e* siècle, lieux dans lesquels il était possible de consommer du vin et de la nourriture sur place, par opposition aux tavernes. 
 
 [178]  « Terme populaire qui se dit en cette phrase, *enfiler la venelle*, pour dire, s'enfuir. » (F)
 
-[179] Quelque fou le
-                  ferait mais pas moi.
+[179] Quelque fou le ferait mais pas moi.
 
-[180] « Dangereux, sujet à
-                  surprendre par quelque finesse ou mauvais artifice⁎. » (F)
+[180] « Dangereux, sujet à surprendre par quelque finesse ou mauvais artifice⁎. » (F)
 
-[181]  Forme
-                  normanno-picarde de charogne : « On dit d'une chose bien infecte, qu'elle est
-                  puante comme une *charogne*. » (F) « Il se dit aussi du corps
-                humain comme sujet à la corruption. » (A)
+[181]  Forme normanno-picarde de charogne : « On dit d'une chose bien infecte, qu'elle est puante comme une *charogne*. » (F) « Il se dit aussi du corps humain comme sujet à la corruption. » (A)
 
-[182] Vient du verbe baster qui
-                  signifie « Suffire ». (A)
+[182] Vient du verbe baster qui signifie « Suffire ». (A)
 
-[183]  Construit à partir du verbe *gripper* qui
-                  signifie « prendre avec rapacité » (F) auquel on a ajouté le préfixe re- qui a un
-                  sens répétitif.
+[183]  Construit à partir du verbe *gripper* qui signifie « prendre avec rapacité » (F) auquel on a ajouté le préfixe re- qui a un sens répétitif.
 
-[184]  Le
-                  pronom précède l'infinitif prépositionnel comme en ancien français, « à partir du
-                    XVI*e* siècle l'ordre des mots actuel entre en usage, et
-                  l'ancien ordre, sauf quelques rares exceptions, ne survit au XVII*e* siècle qu'avec *venir de*, très usité à cette époque. »
-                  A. Haase, *Syntaxe française du XVII*e* siècle*,
-                  p. 419.(voir aussi au v. 16 des *Nicandres*).
+[184]  Le pronom précède l'infinitif prépositionnel comme en ancien français, « à partir du XVI*e* siècle l'ordre des mots actuel entre en usage, et l'ancien ordre, sauf quelques rares exceptions, ne survit au XVII*e* siècle qu'avec *venir de*, très usité à cette époque. » A. Haase, *Syntaxe française du XVII*e* siècle*, p. 419.(voir aussi au v. 16 des *Nicandres*).
 
-[185]  « Terme de jeu de paume, est un coup que l'on donne gagné au
-                  joueur qui est plus faible, pour égaler la partie par cet avantage. » (F) Selon
-                  Baalbaki, ce mot « garde le sens d'*avantage* dans la bouche du
-                  valet (…). Sur un ton plaisant, mais non sans rancune, il promet de ne pas oublier
-                  la "bisque" qui lui est due (allusion au jeu de paume), une fois marié, et de
-                  rendre à sa future femme soufflet pour soufflet, ou, plus exactement, soufflet
-                  pour trois », p. 173.
+[185]  « Terme de jeu de paume, est un coup que l'on donne gagné au joueur qui est plus faible, pour égaler la partie par cet avantage. » (F) Selon Baalbaki, ce mot « garde le sens d'*avantage* dans la bouche du valet (…). Sur un ton plaisant, mais non sans rancune, il promet de ne pas oublier la "bisque" qui lui est due (allusion au jeu de paume), une fois marié, et de rendre à sa future femme soufflet pour soufflet, ou, plus exactement, soufflet pour trois », p. 173.
 
-[186]  Insulte, « on appelle un homme *Normand*, quand il
-                  ne veut pas tenir un marché qu'il fait. » (F)
+[186]  Insulte, « on appelle un homme *Normand*, quand il ne veut pas tenir un marché qu'il fait. » (F)
 
-[187]  Avec votre
-                  permission, car *licence* signifie « en général *permission*, mais en ce sens il est vieux. » (R)
+[187]  Avec votre permission, car *licence* signifie « en général *permission*, mais en ce sens il est vieux. » (R)
 
 [188] On n'a, ma foi, plus vite fait de ne dire qu'Adieu.
 
 [189] Sur cette orthographe, voir la note du vers 661.
 
-[190] « Le
-                  second guichet où l'on tient quelque temps ceux qui entrent en prison. »
-                  (F)
+[190] « Le second guichet où l'on tient quelque temps ceux qui entrent en prison. » (F)
 
-[191]  « Aiguillon se dit
-                  figurément de tout ce qui incite à quelque chose. » (A) Il est associé à *vipère* qui qualifie péjorativement Jacinte. Dans ce passage les
-                  deux domestiques sont mis en concurrence et se disputent comme leurs maîtresses,
-                  Ragotin reproche à Jacinte son attitude médisante.
+[191]  « Aiguillon se dit figurément de tout ce qui incite à quelque chose. » (A) Il est associé à *vipère* qui qualifie péjorativement Jacinte. Dans ce passage les deux domestiques sont mis en concurrence et se disputent comme leurs maîtresses, Ragotin reproche à Jacinte son attitude médisante.
 
 [192] « Il n'appartient qu'à moi. » (D)
 
@@ -5821,112 +5406,66 @@ Un poète comique du temps de Molière,
 
 [195]  « Préposition hors d'usage ; en sa place on dit *contre*. » (R)
 
-[196] 
-                  « Latinisme par plaisanterie, vient du verbe *valere* qui signifie
-                  pouvoir. » (H)
+[196]  « Latinisme par plaisanterie, vient du verbe *valere* qui signifie pouvoir. » (H)
 
-[197] La bave symbolise la saleté des vieux murs de la
-                prison.
+[197] La bave symbolise la saleté des vieux murs de la prison.
 
-[198]  Substantif composé de *piquer* et du
-                  suffixe péjoratif –ard, il ne peut signifier que "voleur". »
+[198]  Substantif composé de *piquer* et du suffixe péjoratif –ard, il ne peut signifier que "voleur". »
 
-[199]  Formé à
-                  partir du verbe *filouter* : « Voler et tromper quelqu'un par de
-                  mauvaises voies et artifices⁎ ». (F)
+[199]  Formé à partir du verbe *filouter* : « Voler et tromper quelqu'un par de mauvaises voies et artifices⁎ ». (F)
 
-[200] « Goinfre, goulu. » (A) Il appartient au vocabulaire
-                bas.
+[200] « Goinfre, goulu. » (A) Il appartient au vocabulaire bas.
 
-[201] « Acheter une chose pour quelqu'un, et la lui compter plus cher
-                  qu'elle n'a coûté. » (A)
+[201] « Acheter une chose pour quelqu'un, et la lui compter plus cher qu'elle n'a coûté. » (A)
 
 [202] Emploi imagé pour « attraper un rhume ».
 
-[203]  Cette forme équivaut au conditionnel passé *aurais-je
-                    dû vous aimer*, conformément à l'usage latin. Le tour est très courant tout
-                  au long du XVII*e* siècle.
+[203]  Cette forme équivaut au conditionnel passé *aurais-je dû vous aimer*, conformément à l'usage latin. Le tour est très courant tout au long du XVII*e* siècle.
 
-[204]  Ce verbe est utilisé uniquement « à l'infinitif, et se met
-                  toujours avec le verbe *faire*. Il signifie, faire croire ce qui
-                  n'est pas. » (A)
+[204]  Ce verbe est utilisé uniquement « à l'infinitif, et se met toujours avec le verbe *faire*. Il signifie, faire croire ce qui n'est pas. » (A)
 
 [205] Un mauvais ménage.
 
-[206]  Verbe qui
-                  signifie « *couper la tête*, mais il n'est pas bien usité, et même
-                  il est fort bas. » (R) Cette construction est incorrecte de nos jours mais le
-                  français classique permettait l'emploi du subjonctif sans la béquille *que* quand un désir ou un souhait était exprimé. A. Haase, *Syntaxe française du XVII*e* siècle*, p. 172.
+[206]  Verbe qui signifie « *couper la tête*, mais il n'est pas bien usité, et même il est fort bas. » (R) Cette construction est incorrecte de nos jours mais le français classique permettait l'emploi du subjonctif sans la béquille *que* quand un désir ou un souhait était exprimé. A. Haase, *Syntaxe française du XVII*e* siècle*, p. 172.
 
 [207] Et cependant il brûle de chaud.
 
-[208] « Dame. » (H) Robin parle
-                  d'Ismène.
+[208] « Dame. » (H) Robin parle d'Ismène.
 
-[209]  « Figurément on
-                  dit qu'un homme a eu du *dessous*, pour dire, qu'il a mal réussi
-                  en quelque affaire, qu'on l'a supplanté. » (F)
+[209]  « Figurément on dit qu'un homme a eu du *dessous*, pour dire, qu'il a mal réussi en quelque affaire, qu'on l'a supplanté. » (F)
 
 [210] Le mot compte ici pour deux syllabes.
 
-[211] « Retrouver ce qu'on n'a perdu, être rétabli en son premier état. »
-                  (F) Ismène veut que son honneur lui soit rendu en épousant Nicandre.
+[211] « Retrouver ce qu'on n'a perdu, être rétabli en son premier état. » (F) Ismène veut que son honneur lui soit rendu en épousant Nicandre.
 
-[212]  « On
-                  dit proverbialement et figurément *changer de note* (…) pour dire,
-                  changer de façon, ou de faire, ou de parler. » (A)
+[212]  « On dit proverbialement et figurément *changer de note* (…) pour dire, changer de façon, ou de faire, ou de parler. » (A)
 
-[213] 
-                  « On dit proverbialement d'un homme étonné de quelque chose de fâcheux qui lui
-                  arrive contre son attente qu'il est *étonné comme un fondeur de
-                    cloches*. » (A)
+[213]  « On dit proverbialement d'un homme étonné de quelque chose de fâcheux qui lui arrive contre son attente qu'il est *étonné comme un fondeur de cloches*. » (A)
 
-[214] « Méchant soldat. Il ne se dit que par mépris et par raillerie. »
-                  (F) Robin veut dire que Nicandre n'est pas une personne fiable.
+[214] « Méchant soldat. Il ne se dit que par mépris et par raillerie. » (F) Robin veut dire que Nicandre n'est pas une personne fiable.
 
-[215]  L'infinitif objet est introduit par la préposition *à*, la langue moderne a supprimé cet emploi mais en français classique
-                  certains verbes (…) admettaient cette construction même si elle n'était pas
-                  courante. (Gabriel Spillebout, *Grammaire de la langue française du
-                      XVII*e* siècle*, Paris, 1985, p. 259-260).
+[215]  L'infinitif objet est introduit par la préposition *à*, la langue moderne a supprimé cet emploi mais en français classique certains verbes (…) admettaient cette construction même si elle n'était pas courante. (Gabriel Spillebout, *Grammaire de la langue française du XVII*e* siècle*, Paris, 1985, p. 259-260).
 
-[216]  Formé à partir du substantif
-                    *forfait* qui signifie : « Crime. » (R)
+[216]  Formé à partir du substantif *forfait* qui signifie : « Crime. » (R)
 
-[217]  « On dit proverbialement
-                  d'un homme fin et matois⁎, *c'est un fin merle*. » (A)
+[217]  « On dit proverbialement d'un homme fin et matois⁎, *c'est un fin merle*. » (A)
 
-[218] Gendre en
-                  latin.
+[218] Gendre en latin.
 
-[219] On peut penser qu'il s'agit du
-                  masculin de la forme « immonde » qui signifie « impur, qui a contracté quelque
-                  saleté, quelque impureté. » (F)
+[219] On peut penser qu'il s'agit du masculin de la forme « immonde » qui signifie « impur, qui a contracté quelque saleté, quelque impureté. » (F)
 
-[220]  Adjectif formé à partir du latin *pulcher,
-                    chra, chrum* qui signifie beau, belle.
+[220]  Adjectif formé à partir du latin *pulcher, chra, chrum* qui signifie beau, belle.
 
-[221] 
-                  « Ici, par abréviation (…) la locution *qu'est-ce ci* ? signifie :
-                    *Qu'y a-t-il ici* ? » (C)
+[221]  « Ici, par abréviation (…) la locution *qu'est-ce ci* ? signifie : *Qu'y a-t-il ici* ? » (C)
 
-[222] « Qui est flegmatique, sujet aux fluxions et aux caterres », la
-                  caterre étant une « distillation d'humeurs sur le visage, sur la gorge, ou sur
-                  autre partie du corps. » (F)
+[222] « Qui est flegmatique, sujet aux fluxions et aux caterres », la caterre étant une « distillation d'humeurs sur le visage, sur la gorge, ou sur autre partie du corps. » (F)
 
 [223] Voir la note du vers 39.
 
-[224]  Vient
-                  sûrement du latin *spondeo* qui signifie épouser.
+[224]  Vient sûrement du latin *spondeo* qui signifie épouser.
 
-[225] « Terme de poésie. C'est le changement et la révolution qui se fait
-                  dans un Poème dramatique, et qui le termine ordinairement. » (F) A l'origine, il
-                  s'agit de tout dénouement, heureux ou malheureux.
+[225] « Terme de poésie. C'est le changement et la révolution qui se fait dans un Poème dramatique, et qui le termine ordinairement. » (F) A l'origine, il s'agit de tout dénouement, heureux ou malheureux.
 
-[226] Sa bouche parle conformément à la générosité de son
-                  cœur.
+[226] Sa bouche parle conformément à la générosité de son cœur.
 
-[227]  « Vieux mot qui
-                  signifie *heurter*, et qui ne se dit plus que dans les Provinces,
-                  si ce n'est en ce proverbe, qui *toque* l'un, *toque* l'autre ; et chez les buveurs, qui disent *toquer*
-                  un verre, pour dire toucher un verre contre un autre. » (F) Il appartient au
-                  vocabulaire bas.
+[227]  « Vieux mot qui signifie *heurter*, et qui ne se dit plus que dans les Provinces, si ce n'est en ce proverbe, qui *toque* l'un, *toque* l'autre ; et chez les buveurs, qui disent *toquer* un verre, pour dire toucher un verre contre un autre. » (F) Il appartient au vocabulaire bas.

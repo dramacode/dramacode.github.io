@@ -19,7 +19,7 @@ Iour de Mars 1666.
 
 A Rouen, par L. MAURRI.
 
-**** *book_ *id_body-301 *act_ *date_1666 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1666 *creator_corneille
 
 -*who_antiochus
 En vain à cét appas⁎ vous voulez que je cede,
@@ -174,7 +174,7 @@ Mes vœux les plus ardents n'aspirent qu'à vous plaire ,
 Et vostre seul desir servant de regle au mien,
 Je parleray, Seigneur, mais je n'obtiendray rien.
 
-**** *book_ *id_body-302 *act_ *date_1666 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1666 *creator_corneille
 
 -*who_antiochus
 Suy le juste projet où l'honneur te convie,
@@ -229,7 +229,7 @@ Dans quel trouble me jette une si chere veuë !
 Ma raison se confond, mon ame en est émeuë,
 Fuyons, ce seul moyen m'épargne le soucy …
 
-**** *book_ *id_body-303 *act_ *date_1666 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1666 *creator_corneille
 
 -*who_stratonice
 Quoy, Prince, c'est donc moy qui vous chasse d'ici ?
@@ -332,7 +332,7 @@ Ah, si vous connoissiez tout ce qu'il en faut croire…
 Adieu, Madame, adieu, dans le trouble où je suis,
 Penser, fuir, et me taire, est tout ce que je puis.
 
-**** *book_ *id_body-304 *act_ *date_1666 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1666 *creator_corneille
 
 -*who_phenice
 Ou j'ay peu de lumiere, ou le Prince, Madame,
@@ -443,7 +443,7 @@ A ses confus soûpirs abandonnast sa plainte,
 Et l'étoufast d'un air, qui dans ces durs combats
 Me laissast deviner ce qu'il ne diroit pas.
 
-**** *book_ *id_body-305 *act_ *date_1666 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1666 *creator_corneille
 
 -*who_seleucus
 Madame, tout est prest, et la Syrie en peine
@@ -516,7 +516,7 @@ J'iray presser le Ciel de nous estre propice,
 Et par des vœux soûmis desarmant son couroux,
 Luy demander pour luy ce que j'attens de vous.
 
-**** *book_ *id_body-401 *act_ *date_1666 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1666 *creator_corneille
 
 -*who_barsine
 Quoy, lors que sa langueur va jusques à l'extréme,
@@ -633,7 +633,7 @@ Du moins je joüiray de son inquietude,
 Il parlera par elle, et quand …Mais je le voy,
 Pour le contraindre moins, Barsine, éloigne-toy.
 
-**** *book_ *id_body-402 *act_ *date_1666 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1666 *creator_corneille
 
 -*who_arsinoe
 Seigneur, est-il possible, et pourra-t'on le croire,
@@ -721,7 +721,7 @@ J'oublierois malgré moy…
 Quoy que sur ce travail j'aye à vous consulter,
 La Reyne qui paroist m'oblige à vous quitter.
 
-**** *book_ *id_body-403 *act_ *date_1666 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1666 *creator_corneille
 
 -*who_antiochus
 Et bien, Madame, enfin le Roy me fait-il grace ?
@@ -968,7 +968,7 @@ Je vous l'offre, et mon mal deviendra plus leger…
 Tigrane qui paroist sçaura le soulager,
 Comme il peut tout pour vous, vous luy pouvez tout dire.
 
-**** *book_ *id_body-404 *act_ *date_1666 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1666 *creator_corneille
 
 -*who_tigrane
 Pour adoucir les maux dont vostre cœur soupire,
@@ -998,7 +998,7 @@ Et qu'à me l'expliquer vous faisant quelque effort …
 -*who_antiochus
 Voyons le Roy, Tigrane, et laissons faire au Sort.
 
-**** *book_ *id_body-501 *act_ *date_1666 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1666 *creator_corneille
 
 -*who_seleucus
 Prince, n'esperez point que jamais je consente
@@ -1020,7 +1020,7 @@ Et pour vous épargner la gesne⁎ où vous expose…
 -*who_seleucus
 Vous me l'épargneriez à m'en dire la cause.
 
-**** *book_ *id_body-502 *act_ *date_1666 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1666 *creator_corneille
 
 -*who_seleucus
 Qu'avez-vous fait pour moy ? Vous avez veu mon Fils,
@@ -1150,7 +1150,7 @@ Tigrane…
 -*who_seleucus
       Le voicy, laisse parler ton Roy.
 
-**** *book_ *id_body-503 *act_ *date_1666 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1666 *creator_corneille
 
 -*who_seleucus
 Pour arracher ton Prince au tourment qui l'accable,
@@ -1215,7 +1215,7 @@ Vos vœux pour la Princesse auront assez de charmes,
 Et si pour la toucher quelque soin m'est permis,
 Je vous y serviray comme je l'ay promis.
 
-**** *book_ *id_body-504 *act_ *date_1666 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1666 *creator_corneille
 
 -*who_tigrane
 Je ne demande plus d'où partoit le silence
@@ -1337,7 +1337,7 @@ En est-ce assez, Seigneur, et vivrez-vous content ?
 -*who_antiochus
 Pour l'esperer jamais ma disgrace est trop forte.
 
-**** *book_ *id_body-505 *act_ *date_1666 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1666 *creator_corneille
 
 -*who_antiochus
 Madame, retenez un Amant qui s'emporte,
@@ -1420,7 +1420,7 @@ Quand je veux m'expliquer me condamne à me taire !
 Je ne vous dis plus rien, mais pour m'en consoler
 Les effets parleront si je n'ose parler.
 
-**** *book_ *id_body-506 *act_ *date_1666 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1666 *creator_corneille
 
 -*who_tigrane
 Madame, c'est donc là…
@@ -1483,7 +1483,7 @@ Ne vois-je pas…
       Adieu, gardez toûjours ma foy,
 Je vous en diray plus quand j'auray veu le Roi .
 
-**** *book_ *id_body-601 *act_ *date_1666 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1666 *creator_corneille
 
 -*who_stratonice
 Flateuse illusion que j'ay trop osé croire,
@@ -1533,7 +1533,7 @@ T'advertit que demain tu dois ton cœur au Pere,
 Peux-tu ne point songer au Fils ?
 Dures extrémitez où l'ame partagée…
 
-**** *book_ *id_body-602 *act_ *date_1666 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1666 *creator_corneille
 
 -*who_phenice
 Madame, sçavez-vous que vous estes vangée ?
@@ -1635,7 +1635,7 @@ Tigrane que je voy vient m'adresser sa plainte,
 Tandis que sa douleur se soulage avec moy,
 Va sçavoir, s'il se peut, les sentimens du Roy.
 
-**** *book_ *id_body-603 *act_ *date_1666 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1666 *creator_corneille
 
 -*who_stratonice
 Un revers trop cruel traverse vostre flame
@@ -1716,7 +1716,7 @@ Et puisque mon malheur par sa vertu redouble ;
 Je vous laisse empescher qu'une vaine pitié
 N'immole dans son cœur l'amour à l'amitié.
 
-**** *book_ *id_body-604 *act_ *date_1666 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1666 *creator_corneille
 
 -*who_stratonice
 Prince, enfin il est temps que ce chagrin s'efface,
@@ -1927,7 +1927,7 @@ Ah, si c'est pour jamais que le Ciel nous separe,
 Madame, soustenez ma raison qui s'égare,
 Et qu'un moment encor…elle fuit, et je voy…
 
-**** *book_ *id_body-605 *act_ *date_1666 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1666 *creator_corneille
 
 -*who_arsinoe
 Seigneur, le Roy me mande, et vous sçavez pourquoy.
@@ -2016,7 +2016,7 @@ Tandis je vay sçavoir quel conseil je dois prendre,
 Voir à quoi l'on aspire, et sur l'ordre du Roy
 Regler et ma réponse, et ce que je vous doy.
 
-**** *book_ *id_body-701 *act_ *date_1666 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1666 *creator_corneille
 
 -*who_seleucus
 Princesse, enfin c'est trop vous en vouloir defendre,
@@ -2183,7 +2183,7 @@ Qu'à cét effort pour vous mon devoir me condamne ;
 Mais si l'offre en déplaist à son esprit confus,
 Gardez-vous de douter d'où partent ses refus.
 
-**** *book_ *id_body-702 *act_ *date_1666 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1666 *creator_corneille
 
 -*who_seleucus
 Ah, pour ne point douter de son indigne flame
@@ -2243,7 +2243,7 @@ Il faut … mais le voicy que son chagrin amene .
 Dieux, qui voyez le trouble où je suis abysmé,
 Ne se pourroit-il point qu'il n'eust jamais aimé ?
 
-**** *book_ *id_body-703 *act_ *date_1666 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1666 *creator_corneille
 
 -*who_seleucus
 Prince, ostez-moy d'un doute, il ne faut plus rien taire,
@@ -2407,7 +2407,7 @@ Mais, ô Dieux !
 Parlons-luy, cette épreuve est encor necessaire,
 Vous sçavez mieux apres ce que vous pourrez faire.
 
-**** *book_ *id_body-704 *act_ *date_1666 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1666 *creator_corneille
 
 -*who_stratonice
 Seigneur, Tigrane a crû devoir encor par moy
@@ -2481,7 +2481,7 @@ Vostre ame…
       Accepte donc la main de la Princesse,
 Je la laisse à ton choix.
 
-**** *book_ *id_body-705 *act_ *date_1666 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1666 *creator_corneille
 
 -*who_arsinoe
       Elle est à luy, Seigneur,

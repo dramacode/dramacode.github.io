@@ -6,7 +6,7 @@ PERSONNAGES. ACTEURS.
 
 Les CC. Et Cnes.
 
-**** *book_ *id_body-201 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I01 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_laforest
 ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n'ai pas plus de tems qu'il ne m'en faut...
@@ -98,7 +98,7 @@ Voici M. Mignard et M. Lulli ; je m'en rapporte à eux.
 -*who_antoine
 Soit, je le veux bien.
 
-**** *book_ *id_body-202 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I02 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_mignard
 ALLONS, mon ami, mettons-nous à l'ouvrage...
@@ -136,7 +136,7 @@ Eh bien ! nous voilà d'accord.
 Je vais voir Madelon, et nous reviendrons ensemble remercier votre maître...
 Sans adieu.
 
-**** *book_ *id_body-203 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I03 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_lulli
 TE troublerai-je en faisant de la musique ?
@@ -288,7 +288,7 @@ Ne vois-je point les deux futurs ?
 -*who_laforest
 Justement.
 
-**** *book_ *id_body-204 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I04 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_mignard
 GENTILLE Madelon, recevez mon compliment.
@@ -447,7 +447,7 @@ Ornons son image chérie :
 Puisse le sort, par ses faveurs,
 En répandre ainsi sur sa vie.
 
-**** *book_ *id_body-205 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I05 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 MES amis ! mes enfans ! votre attachement vous égare.
@@ -531,7 +531,7 @@ Demain la noce se fera ici ; mais ce soir venez me retrouver avec le tabellion�
 Adieu, mes enfans...
 A ce soir.
 
-**** *book_ *id_body-206 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I06 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 MES bons amis, vous n'êtes guères curieux ; vous savez que je reçois du monde ce soir, et vous ne me demandez pas les noms des convives !...
@@ -600,7 +600,7 @@ Je le pense avec mes amis.
 -*who_lulli
 Lafontaine viendra sans doute par le bois de Boulogne ; je vais au devant de lui.
 
-**** *book_ *id_body-207 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I07 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 COMBIEN j'ai de choses en arrière ! ...
@@ -664,7 +664,7 @@ Ne laissons pas voir un ouvrage qui n'est pas terminé.
 C'est lui, vraiment.
 Vîte, vîte, mettons mon plan à l'ombre ; ce n'est qu'une esquisse.
 
-**** *book_ *id_body-208 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I08 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_moliere
 TU viens de bonne heure, et c'est me faire plaisir : on m'avait fait craindre de ne pas te voir ce soir.
@@ -802,7 +802,7 @@ Il ne nous voit pas, j'en suis sûr.
 -*who_moliere
 Taisons-nous.
 
-**** *book_ *id_body-209 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I09 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_la_fontaine
 CELA n'est point malheureux, j'arrive au moment où je trouve mes deux derniers vers...
@@ -869,7 +869,7 @@ Le bonhomme n'a ni la rusticité d'Esope, ni la recherche de Phèdre ; mais il 
 -*who_moliere
 Messieurs ! messieurs ! le bonhomme ira plus loin que nous.
 
-**** *book_ *id_body-210 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I10 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_lulli
 OUF ! je crois, mes amis, qu'il ne faut pas compter sur Lafontaine : il ne... (appercevant Lafontaine.) Par où diable est-il arrivé !
@@ -912,7 +912,7 @@ Tout cela est fort bien ; mais, pour me dédommager de ma course, il nous réci
 -*who_moliere
 Il te récitera la fable qu'il vient de faire... elle vaut bien un conte.
 
-**** *book_ *id_body-211 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I11 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_laforest
 PEUT-on vous servir ?
@@ -1266,7 +1266,7 @@ Enfin les voilà tous endormis...
 Au réveil.
 On vient : ce sont nos jeunes gens.
 
-**** *book_ *id_body-212 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I12 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_antoine
 TOUT est prêt, nous n'attendons que notre bienfaiteur.
@@ -1278,7 +1278,7 @@ Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n'
 Pourquoi donc ?
 Approchez, approchez : oh ne craignez pas de les réveiller ; ils dorment bien.
 
-**** *book_ *id_body-213 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I13 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_mathurin
 VOILA le contrat de nos enfans ; nous venons vous prier d'y bailler un mot de vot' signature.
@@ -1440,7 +1440,7 @@ Ah ! je tremble.
 -*who_mignard
 Je ne sais où j'en suis.
 
-**** *book_ *id_body-214 *act_ *date_1795 *creator_cadet_de_gassicourt
+**** *book_ *id_I14 *act_I *date_1795 *creator_cadet_de_gassicourt
 
 -*who_villageois
 AIR : Habitans de ce village.

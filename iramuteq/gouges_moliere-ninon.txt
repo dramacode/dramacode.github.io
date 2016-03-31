@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_preface *date_1788 *creator_gouges
+**** *book_ *id_preface *date_1788 *creator_gouges 
 
 PREFACE DE MOLIERE CHEZ NINON.
 
@@ -89,9 +89,9 @@ Elle est donc décidée à un Mercredi.
 Lecteur, ne me perdez pas de vue actuellement ; si j'ai été verbeuse jusqu'à présent, je vais au fait sans réflexions ; vous en ferez sans doute pour moi.
 Le Lundi, comme on sait bien, est l'Assemblée générale : je lui écrivis une lettre la plus simple, la plus honnête et la plus courte : la voici.
 
-**** *book_ *id_lettre2 *date_1788 *creator_gouges
+**** *book_ *id_lettre2 *date_1788 *creator_gouges 
 
-LETTRE Ecrite à M.FLORENCE, Semainier perpétuel de la Comédie Françoise.
+LETTREEcrite à M.FLORENCE, Semainier perpétuel de la Comédie Françoise.
 
 « Je vous prie, Monsieur, de prévenir vos Camarades, que Mercredi on lit ma Pièce.
 J'espère qu'au nom de Molière, toute la Comédie voudra bien s'y trouver, que cet Ouvrage mérite la présence de tous les Comédiens ; que si elle n'est pas reçue, je veux la voir refuser avec les honneurs de la guerre, pour me bien persuader que mes Juges sont impartiaux.
@@ -122,9 +122,9 @@ J'espère que Dimanche vous me prouverez tout le contraire, et que je serai conv
 A l'égard de M. Fleuri, je me suis étendue un peu plus loin ; j'étois à même de faire dans cet instant la différence d'un homme bien né d'avec un homme mal élevé.
 J'avois trouvé dans un grand Prince tant de simplicité, tant d'honnêteté à m'accorder la grace⁎ que je lui demandois, qu'en vérité les mauvaise façons des Comédiens envers une femme me parurent insupportables, et mes réflexions s'étendirent dans ma lettre jusqu'à M. Fleuri.
 
-**** *book_ *id_lettre-fleuri *date_1788 *creator_gouges
+**** *book_ *id_lettre-fleuri *date_1788 *creator_gouges 
 
-LETTRE A M. FLEURI.
+LETTREA M. FLEURI.
 
 J'ai tort de me plaindre, Monsieur.
 En effet, la Comédie, en général, a les meilleures façons pour moi ; vous m'aviez paru vouloir vous distinguer de l'honnêteté ordinaire, dont elle avoit usé à mon égard.
@@ -149,7 +149,7 @@ La conspiration fut donc parfaite, et mon ouvrage proscrit avant la lecture : a
 Mais actuellement que l'indignité est à son comble, je renonce entièrement à la Comédie, et lui fais le traitement qu'elle mérite, en reprenant ma place.
 Que mon Lecteur lise mon aimable Ninon, et prononce sur son sort, pour trouver les Bulletins de la Comédie plus ridicules que sages ; et après cela, je demanderai s'il n'y a rien de pire au monde que des Comédiens assemblés, sans délicatesse, sans bienséance, et sans la plus petite ombre d'équité : c'est à la fin de cette Pièce qu'on trouvera la sentence qui la condamne à l'estime publique.
 
-**** *book_ *id_body-701 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I01 *act_I *date_1788 *creator_gouges
 
 -*who_francisque
 Je suis tout moulu.
@@ -160,7 +160,7 @@ Cependant, mon sort est moins à plaindre que celui de ceux de mon état.
 Etre au service de l'aimable et de la sensible Ninon, n'est-ce pas servir toutes les Divinités ensemble ?
 Il n'est pas tard, tout le monde repose encore : allons, essayons de refaire un petit somme.
 
-**** *book_ *id_body-702 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I02 *act_I *date_1788 *creator_gouges
 
 -*who_francisque
 Comment c'est vous, Mademoiselle le Roi ?
@@ -174,7 +174,7 @@ Que voulez-vous que je vous dise, Mademoiselle ?
 Je n'ai pas la force de me coucher quand les autres se lèvent.
 
 -*who_mlle_le_roi
-Mademoiselle de l'Enclos ne prétend pas que ses gens veillent aussi tard qu'elle ; nous avons ordre de nous coucher à minuit, pourquoi ne vous y conformez-vous pas ?
+Mademoiselle de l'Enclos ne prétend pas que ses gens veillent aussi tard qu'elle ; nous avons ordre de nous coucher à minuit, pourquoi ne vous y conformez-vous pas ? 
 
 -*who_francisque
 Est-il possible qu'un brave serviteur abuse des bontés de la Maîtresse !
@@ -200,7 +200,7 @@ Oh ! je vous en réponds !
 -*who_francisque
 Aussi le célèbre Molière disoit-il à Monsieur de Saint-Evremont et à Monsieur de la Rochefoucault ;
     « Ninon est un brave homme sous les traits d'une femme », et les plus grands de la Cour pensent de même sur son compte.
-A propos, nous n'avons pas encore vu, depuis son retour de l'armée, Monsieur le Prince de Condé.
+A propos, nous n'avons pas encore vu, depuis son retour de l'armée, Monsieur le Prince de Condé. 
 
 -*who_mlle_le_roi
 Oh !
@@ -222,7 +222,7 @@ Je crois avoir entrevu qu'il en est encore amoureux, et qu'il craint que la pass
 D'ailleurs, il n'ignore pas que Monsieur de Villarceaux l'a remplacé ; mais il n'est pas instruit, à ce qu'il paroît, que Monsieur de la Châtre a succédé à celui-là.
 
 -*who_mlle_le_roi
-Son règne ne sera pas long, puisqu'il part ce matin pour l'armée.
+Son règne ne sera pas long, puisqu'il part ce matin pour l'armée. 
 
 -*who_francisque
 Que me dites-vous là ?
@@ -245,10 +245,10 @@ Car elle ne possède pas la vertu⁎ de s'ennuyer patiemment.
 -*who_francisque
 Moi, je me sauve.
 
-**** *book_ *id_body-703 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I03 *act_I *date_1788 *creator_gouges
 
 -*who_grand_prieur
-Ecoute, mon ami, j'ai à te parler pour tes intérêts et les miens.
+Ecoute, mon ami, j'ai à te parler pour tes intérêts et les miens. 
 
 -*who_francisque
 Monsieur, mon devoir m'appelle ailleurs.
@@ -261,13 +261,13 @@ Tu n'ignores pas que j'adore Ninon, et pour te prouver toute ma reconnoissance, 
 Fi donc, Monsieur ; je ne reconnais pas dans ce procédé le Grand-Prieur de Malthe ; si vous vous oubliez à ce point, pouvez-vous oublier quels sont les principes d'honneur et de probité de Mademoiselle de l'Enclos.
 On paye les Valets d'une fille d'Opéra ; mais nous, on ne nous interroge même pas.
 
-**** *book_ *id_body-704 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I04 *act_I *date_1788 *creator_gouges
 
 -*who_grand_prieur
 Ce drôle joue le sentiment⁎ ! voyons si je réussirai mieux auprès de la suivante.
 
 -*who_mlle_le_roi
-C'est à mon tour maintenant ; mais vous allez voir si je suis plus traitable que mon camarade.
+C'est à mon tour maintenant ; mais vous allez voir si je suis plus traitable que mon camarade. 
 
 -*who_grand_prieur
 Bon jour, Mademoiselle le Roi, comment se porte l'incomparable Ninon ?
@@ -300,7 +300,7 @@ Il faut rendre justice à la confidente de Ninon et convenir que personne n'est 
 -*who_mlle_le_roi
 Tout ce que je puis faire, Monsieur, pour votre générosité et votre discrétion, c'est de vous annoncer à ma maitresse et j'y cours.
 
-**** *book_ *id_body-705 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I05 *act_I *date_1788 *creator_gouges
 
 -*who_grand_prieur
 Je commence à m'appercevoir que le mépris que ces gens-là font de mes dons est plutôt l'effet du dédain que leur maitresse a pour mes sentimens, que celui de leur désintéressement.
@@ -310,7 +310,7 @@ Tenons-la toute prête : voilà justement tout ce qu'il faut pour écrire…
 J'y suis : elle est sanglante…
 Plions ceci pour en faire usage quand il sera tems.
 
-**** *book_ *id_body-706 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I06 *act_I *date_1788 *creator_gouges 
 
 -*who_ninon
 Quel homme insupportable ! il faut donc, une bonne fois, m'expliquer avec lui.
@@ -332,7 +332,7 @@ L'amitié que je vous propose est plus sûre et plus durable.
 L'acceptez-vous ?
 
 -*who_grand_prieur
-Sans doute, elle feroit mon bonheur, si j'avois commencé, comme vos amis, par obtenir un titre plus doux.
+Sans doute, elle feroit mon bonheur, si j'avois commencé, comme vos amis, par obtenir un titre plus doux. 
 
 -*who_ninon
 Y pensez-vous, Monsieur ?
@@ -353,7 +353,7 @@ Je saurai me passer de l'une et de l'autre.
 Je vous vois actuellement telle que vous êtes ; vous ne serez plus importunée de mes assiduités.
 Bien/ /tôt vous saurez à quoi vous en tenir sur mon compte.
 
-**** *book_ *id_body-707 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I07 *act_I *date_1788 *creator_gouges
 
 -*who_ninon
 Il croit m'offenser et humilier mon amour-propre, il m'inspire au contraire la plus grande pitié ; je suis assez bonne pour lui faire grace⁎, et même pour le plaindre.
@@ -367,13 +367,13 @@ Le style sera aigre.
 Je ne me suis pas trompée : l'épigramme est méchante, mais elle ne me pique⁎ pas.
 Voyons comment je vais y répondre.
 
-**** *book_ *id_body-708 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I08 *act_I *date_1788 *creator_gouges
 
 -*who_moliere
 Chapelle, l'interrompons-nous ?
 
 -*who_chapelle
-Oui, si c'est à un amant qu'elle écrit.
+Oui, si c'est à un amant qu'elle écrit. 
 
 -*who_moliere
 Mais, si c'est à un ami, nous commettons une imprudence.
@@ -403,7 +403,7 @@ Est-ce l'humanité souffrante ?
 Oui, si l'amour méprisé fait souffrir et rend l'homme injuste.
 
 -*who_moliere
-Je gagerois que c'est notre Grand-Prieur amoureux.
+Je gagerois que c'est notre Grand-Prieur amoureux. 
 
 -*who_ninon
 Tout juste.
@@ -438,7 +438,7 @@ Ecoute, Chapelle, la sotte épigramme et la jolie réponse :
 « Indigne de mes feux, indigne de mes larmes,
 Je renonce sans peine à tes foibles appas :
 Mon amour te prêtoit des charmes,
-Ingrate, que tu n'avois pas ».
+Ingrate, que tu n'avois pas ». 
 
 -*who_chapelle
 On voit du Grand-Prieur tout pur.
@@ -468,7 +468,7 @@ Il n'en est pas digne : ainsi n'en parlons plus.
 Il faut envoyer les Vers à leur auteur.
 
 -*who_ninon
-Cela n'est pas nécessaire : épargnons-lui le ridicule d'ajouter à ma réponse, que le dépit me l'a dictée.
+Cela n'est pas nécessaire : épargnons-lui le ridicule d'ajouter à ma réponse, que le dépit me l'a dictée. 
 
 -*who_moliere
 Moi, je me charge de la répandre : vous ne craignez pas la publicité de son épigramme.
@@ -497,7 +497,7 @@ Elle tient un peu à son ignorance et à la petitesse de son esprit.
 Elle ignore sans doute que son mari la venge secrettement, avec Madame Scaron, du larcin que je lui avois fait de son cœur.
 L'amour et l'amitié me trahissent à la fois, mais je leur pardonne.
 La Châtre d'ailleurs règne seul dans mon ame depuis quelque tems.
-Il part ce matin, et voilà mon plus grand malheur.
+Il part ce matin, et voilà mon plus grand malheur. 
 
 -*who_chapelle
 C'est lui qui est le plus à plaindre.
@@ -518,7 +518,7 @@ Cela va me faire une scène délicieuse.
 Il me semble voir les uns se cachant pour rire, les autres pour l'appaiser, l'enfant déconcerté, et le Précepteur la bouche béante : il y a de quoi faire une situation théâtrale.
 
 -*who_ninon
-Comme il saisit avec facilité toutes les nuances !
+Comme il saisit avec facilité toutes les nuances ! 
 
 -*who_chapelle
 En vous parlant, je gagerois qu'il compose déjà sa Pièce.
@@ -550,7 +550,7 @@ C'est l'opposé.
 Le Misantrope ?
 
 -*who_moliere
-Personne ne m'a deviné que vous.
+Personne ne m'a deviné que vous. 
 
 -*who_ninon
 Je m'en applaudirai toujours.
@@ -574,7 +574,7 @@ O ma divinité ! mon Apollon, adorable Ninon ! je vous dois de nouvelles lumi�
 En vérité, il est fou.
 
 -*who_moliere
-Si j'étois bien sage, est-ce que je ferois des Pièces de Théâtre, en connoissant tous les inconvéniens.
+Si j'étois bien sage, est-ce que je ferois des Pièces de Théâtre, en connoissant tous les inconvéniens. 
 
 -*who_chapelle
 Son génie l'emporte sur sa raison.
@@ -629,7 +629,7 @@ Vous l'admirez comme elle le ferait, si elle avait le bonheur de vous connaître
 Aurais-je jamais eu le courage d'abandonner la Couronne à vingt-sept ans ?
 Ornement si flatteur pour une jeune souveraine.
 
-**** *book_ *id_body-709 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I09 *act_I *date_1788 *creator_gouges 
 
 -*who_ninon
 Qu'est-ce ?
@@ -645,7 +645,7 @@ Vous voulez bien me permettre de vous la présenter.
 -*who_ninon
 Mademoiselle, allez la chercher et la conduisez ici.
 
-**** *book_ *id_body-710 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I10 *act_I *date_1788 *creator_gouges 
 
 -*who_ninon
 Quelle est son aventure ?
@@ -660,7 +660,7 @@ La nécessité me force aujourd'hui de prendre ce parti.
 Je n'ai que seize ans ; on veut m'unir à un homme de soixante.
 J'aime, je suis aimée d'un jeune homme bien né à qui mes parens me refusent cruellement ; j'ai réfléchi sur le pas que j'allais faire ; j'ai vu que le préjugé avait plus de part à la tâche de Comédien qu'à l'état même ; qu'un engagement dans votre troupe ne pouvait déroger ni à mon nom, ni à mes sentimens.
 J'irai me présenter demain chez-vous.
-Je sais par cœur tout votre Théâtre ; vous examinerez à quel emploi je puis-être propre. »
+Je sais par cœur tout votre Théâtre ; vous examinerez à quel emploi je puis-être propre. » 
 
 -*who_chapelle
 Au rôle d'amoureuse, à coup sûr : cela va te faire un sujet bien intéressant.
@@ -671,12 +671,12 @@ Croyez-vous que je sois Comédien dans toutes les époques de ma vie ?
 La probité fait trêve à ma frénésie ; mais la voici.
 Quel dommage !
 
-**** *book_ *id_body-711 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I11 *act_I *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Mademoiselle, voilà Monsieur Molière.
 
-**** *book_ *id_body-712 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I12 *act_I *date_1788 *creator_gouges
 
 -*who_ninon
 Qu'elle est belle !...
@@ -707,7 +707,7 @@ Je n'en ai pas mieux fait, et si j'étois à recommencer, je ne sais pas si je l
 
 -*who_chapelle
 Voilà l'homme ! il ne sera jamais content.
-Celui ci est couvert de gloire, et il se plaint encore.
+Celui ci est couvert de gloire, et il se plaint encore. 
 
 -*who_ninon
 En effet, je ne vous conçois pas, Molière ; quand tout le monde fait votre éloge.
@@ -735,7 +735,7 @@ Tarare⁎.
 Voilà son proverbe familier.
 
 -*who_chapelle
-C'est qu'il est juste et bien appliqué.
+C'est qu'il est juste et bien appliqué. 
 
 -*who_olympe
 Mais puis-je, Monsieur Molière, vous faire une question ?
@@ -761,7 +761,7 @@ Et Mademoiselle ne prend le parti violent de la Comédie, qu'après avoir consul
 
 -*who_olympe
 Il est vrai, Mademoiselle, et je suis d'autant plus affligée, que mon Amant est sans parents, et n'a d'autre protecteur, d'autre appui que mon père ; il a tout perdu, en perdant son amitié ; et il ne lui reste d'autre ressource que la Comédie.
-Ressource, qui doit nous unir un jour l'un à l'autre ; et résolus de prendre ce parti, nous nous sommes jurés une foi éternelle.
+Ressource, qui doit nous unir un jour l'un à l'autre ; et résolus de prendre ce parti, nous nous sommes jurés une foi éternelle. 
 
 -*who_ninon
 Ah !
@@ -808,7 +808,7 @@ Tout est fait : elle peut entrer actuellement à la Comédie.
 
 -*who_moliere
 Expliquez-vous, Mademoiselle.
-J'ai bien peur…
+J'ai bien peur… 
 
 -*who_chapelle
 Oh ! tu peux l'engager.
@@ -835,7 +835,7 @@ Non, Monsieur ; je ne lui ai même jamais parlé chez mon père qu'en présence
 Mais cette Bonne me parait bien traitable.
 
 -*who_olympe
-J'en conviens ; mais je n'ai jamais mis à l'épreuve une facilité qui m'aurait perdue.
+J'en conviens ; mais je n'ai jamais mis à l'épreuve une facilité qui m'aurait perdue. 
 
 -*who_ninon
 Que vous êtes heureuse⁎ de prévoir de si loin et d'être aussi forte.
@@ -888,7 +888,7 @@ Cela se demande-t-il ? n'ai-je pas deux motifs actuellement ?
 -*who_ninon
 C'est pour cette raison que je crains que vous n'y manquiez.
 
-**** *book_ *id_body-713 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I13 *act_I *date_1788 *creator_gouges 
 
 -*who_moliere
 Elle a raison.
@@ -905,7 +905,7 @@ Si tu ne trouves pas Saint-Evremont, j'irai moi-même trouver Monsieur de Chatea
 Nous nous verrons ce soir.
 (il sort.)
 
-**** *book_ *id_body-714 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I14 *act_I *date_1788 *creator_gouges 
 
 -*who_ninon
 Je vous avoue, mon cher Moliere, que cette jeune personne m'intéresse infiniment.
@@ -928,7 +928,7 @@ Vous verrez Monsieur de Chateauroux, vous lui peindrez les dangers que court sa 
 -*who_ninon
 J'y consens, d'après la bonne idée que vous avez de mes moyens.
 
-**** *book_ *id_body-715 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I15 *act_I *date_1788 *creator_gouges 
 
 -*who_francisque
 Mademoiselle, voici Monsieur de Gourville.
@@ -948,7 +948,7 @@ Voyons si je trouverai dans cette femme étonnante⁎ plus de probité que dans 
 
 -*who_ninon
 Approchez, Gourville, nous sommes confus tous les deux, et nous craignons de nous expliquer.
-Dans votre absence, il m'est arrivé un grand malheur, que je vous prie de me pardonner.
+Dans votre absence, il m'est arrivé un grand malheur, que je vous prie de me pardonner. 
 
 -*who_gourville
 Je m'y attendais ; ceci ne me surprend pas ; à ce début, ma cassette va se trouver volée.
@@ -972,7 +972,7 @@ Mais je ne vois rien là de méritoire ; y a-t-il rien de plus juste que de res
 
 -*who_moliere
 Vous avez raison ; un bien qu'on nous a confié est un dépôt sacré.
-Et cependant votre conduite l'étonne, tant l'abus de confiance est commun parmi les hommes ; mais moi je n'en suis pas surpris de votre part.
+Et cependant votre conduite l'étonne, tant l'abus de confiance est commun parmi les hommes ; mais moi je n'en suis pas surpris de votre part. 
 
 -*who_gourville
 Je tombe à vos genoux ; non, ce n'est qu'à vos pieds que je dois expier l'injure cruelle que j'ai pu vous faire.
@@ -983,7 +983,7 @@ Y pensez-vous, Gourville : levez-vous donc.
 -*who_gourville
 Non, et c'est en présence du grand Moliere que je veux faire cet aveu.
 
-**** *book_ *id_body-716 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I16 *act_I *date_1788 *creator_gouges
 
 -*who_la_chatre
 L'ingrate ! la voilà ; ai-je pu compter un instant sur sa constance ?
@@ -1057,7 +1057,7 @@ Les beaux jours sont à Paris actuellement.
 Les fureurs⁎ des guerres civiles sont éteintes, la Cour est brillante, la maison de Ninon est le séjour des plaisirs et de la bonne société ; et moi, je pars pour aller prodiguer ma vie, en combattant l'ennemi ; mais je suis François, et l'amour ne l'emportera pas sur la gloire.
 
 -*who_moliere
-Les moments leur sont chers, Monsieur Gourville : croyez-moi, imitez-moi : Ninon, j'ai affaire et je vous laisse.
+Les moments leur sont chers, Monsieur Gourville : croyez-moi, imitez-moi : Ninon, j'ai affaire et je vous laisse. 
 
 -*who_gourville
 Je sors avec vous, Monsieur Molière.
@@ -1080,10 +1080,10 @@ La voilà !
 Amie pour la vie ?
 Amante pour l'instant.
 
-**** *book_ *id_body-717 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I17 *act_I *date_1788 *creator_gouges
 
 -*who_francisque
-Mademoiselle, Madame la Marquise de la Sablière vous fait savoir, que Monsieur Desyvetaux est retrouvé, qu'il est dans sa maison de campagne du Fauxbourg Saint Germain, qu'il se cache, et que ses gens sont habillés en paysans.
+Mademoiselle, Madame la Marquise de la Sablière vous fait savoir, que Monsieur Desyvetaux est retrouvé, qu'il est dans sa maison de campagne du Fauxbourg Saint Germain, qu'il se cache, et que ses gens sont habillés en paysans. 
 
 -*who_ninon
 Je vais sur le champ faire mettre mes chevaux ; Molière, vous m'accompagnerez.
@@ -1098,12 +1098,12 @@ Il faut convenir que vous le traitez avec un peu trop de rigueur.
 Nous allons vous laisser : donnez-lui au moins la satisfaction de vous baiser la main sans témoins.
 Vous nous trouverez sur votre passage.
 
-**** *book_ *id_body-718 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I18 *act_I *date_1788 *creator_gouges
 
 -*who_ninon
 Francisque, prenez cette cassette et suivez Monsieur.
 
-**** *book_ *id_body-719 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I19 *act_I *date_1788 *creator_gouges 
 
 -*who_la_chatre
 Enfin, je respire.
@@ -1140,7 +1140,7 @@ Ninon, qu'il est heureux⁎ de vous plaire, mais qu'il est cruel de perdre votre
 
 -*who_ninon
 La Châtre, que ne puis-je vous suivre.
-Je ne sais si je fais une folie en écrivant ce billet, mais je soulage mon cœur en faisant ce que vous désirez.
+Je ne sais si je fais une folie en écrivant ce billet, mais je soulage mon cœur en faisant ce que vous désirez. 
 
 -*who_la_chatre
 Oui, je promets par l'honneur, par la probité…
@@ -1175,10 +1175,10 @@ Adieu, mon adorable Ninon : il faut nous séparer.
 -*who_ninon
 Quoi ? si-tôt !
 
-**** *book_ *id_body-720 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I20 *act_I *date_1788 *creator_gouges
 
 -*who_francisque
-Monsieur le Comte de Fiesque fait demander, Mademoiselle, si vous êtes visible.
+Monsieur le Comte de Fiesque fait demander, Mademoiselle, si vous êtes visible. 
 
 -*who_la_chatre
 O ma chère Ninon, évitez sa présence : vous m'avez avoué que s'il n'était pas parti pour son voyage de Rome, vous l'auriez aimé.
@@ -1188,7 +1188,7 @@ Il est jeune, aimable, instruit ; que de qualités pour vous faire oublier vos 
 Je veux bien vous en faire le sacrifice, plus pour vous obliger que par crainte pour moi-même.
 Dites à Monsieur le Comte de Fiesque que je suis bien fâchée⁎ de ne pouvoir le recevoir.
 
-**** *book_ *id_body-721 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I21 *act_I *date_1788 *creator_gouges
 
 -*who_la_chatre
 Peut être, dites-vous vrai ?
@@ -1196,7 +1196,7 @@ Peut être, dites-vous vrai ?
 -*who_ninon
 Pourquoi interpréter mal ma manière de m'exprimer ?
 
-**** *book_ *id_body-722 *act_ *date_1788 *creator_gouges
+**** *book_ *id_I22 *act_I *date_1788 *creator_gouges
 
 -*who_la_chatre
 Venez, Madame Scaron, je vous recommande ma chère Ninon, que votre amitié ne l'abandonne pas.
@@ -1224,7 +1224,7 @@ J'en suis bien sûre.
 Ne perdons pas de tems, j'ai un bout de toilette à faire ; mais elle ne sera pas longue.
 Fin du premier Acte.
 
-**** *book_ *id_body-801 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II01 *act_II *date_1788 *creator_gouges
 
 -*who_lucas
 Eh bien, la Fleur, les extravagances de notre Maître ne font que croître et embellir tous les jours.
@@ -1232,7 +1232,7 @@ Eh bien, la Fleur, les extravagances de notre Maître ne font que croître et em
 -*who_blaise
 Défais-toi donc du nom de la Fleur, puisqu'il a pris fantaisie à mon maître de me débaptiser pour me donner le nom de Blaise et à toi celui de Lucas.
 Il ne nous pardonnerait pas la plus petite distraction à ce sujet, et sur le champ notre compte serait au bout.
-J'aime autant garder des moutons que de valeter du matin au soir dans Paris.
+J'aime autant garder des moutons que de valeter du matin au soir dans Paris. 
 
 -*who_lucas
 Cette vie paisible m'a plû les premiers jours ; mais je t'avoue qu'actuellement elle m'ennuye beaucoup.
@@ -1257,7 +1257,7 @@ Tu crois cela ; et bien, moi, je pense au contraire qu'elle en riroit beaucoup.
 -*who_lucas
 C'est bien, à-peu-prés, la même chose.
 
-**** *book_ *id_body-802 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II02 *act_II *date_1788 *creator_gouges 
 
 -*who_mathurin
 Tatiguenne⁎ ! que ça me paroît drôle de faire comme si j'avions bien des bestiaux à garder, j'avons beau répéter tous les jours la même manigance, ça nous paroît toujours comme un songe.
@@ -1273,7 +1273,7 @@ Elle est encore, ma foi, ben plus rusée ; comme elle fait l'innocente ; comme
 On diroit que c'est une simple bergère qui n'a jamais soupiré que pour le berger Coridon.
 
 -*who_lucas
-Ce sont de ces bergères qui ont abandonné leurs troupeaux, et qui viennent s'égarer dans la Capitale.
+Ce sont de ces bergères qui ont abandonné leurs troupeaux, et qui viennent s'égarer dans la Capitale. 
 
 -*who_mathurin
 Jarnigoi⁎ ! que vous êtes cocasse !
@@ -1301,7 +1301,7 @@ Mais tu as peut-être entendu parler, dans ton village, du grand Condé.
 
 -*who_mathurin
 Mille escadrons, si j'en avons entendu parler.
-J'avons un cousin qui a servi avec lui.
+J'avons un cousin qui a servi avec lui. 
 
 -*who_lucas
 Dis donc, imbécille, qu'il a servi soldat dans l'armée qu'il commandoit.
@@ -1380,7 +1380,7 @@ Dégoisez⁎-nous donc le reste.
 Ce jeune berger que tu vois promener son troupeau, et soupirant aux pieds de sa bergère, n'a que quatre-vingt-dix ans.
 
 -*who_mathurin
-Pas plus que ça : je ne sommes plus étonnés s'il n'a plus son bon esprit ; et sa bergère est-elle aussi jeune que lui ?
+Pas plus que ça : je ne sommes plus étonnés s'il n'a plus son bon esprit ; et sa bergère est-elle aussi jeune que lui ? 
 
 -*who_lucas
 Que tu es borné ! mon pauvre Mathurin : elle n'en a que soixante-dix de moins.
@@ -1404,7 +1404,7 @@ Mais, pourquoi veut-il que je soyons le père de cette dévergondée qui couroit
 
 -*who_blaise
 Pour donner plus de vraisemblance à sa folie, et comme il entend l'épouser, il ne veut l'obtenir que du consentement de son père.
-Le berger Coridon est chaste dans ses vieilles amours.
+Le berger Coridon est chaste dans ses vieilles amours. 
 
 -*who_mathurin
 Oh, oh, oh ! ah ! que tout ce que vous me contez est donc drôle ; mais le voici avec ses moutons et sa bergère ; j'allons rire de plus belle.
@@ -1412,7 +1412,7 @@ Oh, oh, oh ! ah ! que tout ce que vous me contez est donc drôle ; mais le vo
 -*who_blaise
 Garde-toi bien de faire paroître ce que tu sais, et mêle-toi seulement de faire sonner ta cloche.
 
-**** *book_ *id_body-803 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II03 *act_II *date_1788 *creator_gouges
 
 -*who_desyveteaux
 « De mes Moutons le nombre augmente,
@@ -1468,7 +1468,7 @@ Ecoutons la chanson, car c'est ce qui nous divartissons le plus de toutes les ex
 J'attends, charmante Bergère, et je soupire.
 
 -*who_mathurin
-Il a beau attendre et soupirer, il n'en fera que ça… Vouloir faire l'amour quand on est si vieux, ah ! quelle extravagance !
+Il a beau attendre et soupirer, il n'en fera que ça… Vouloir faire l'amour quand on est si vieux, ah ! quelle extravagance ! 
 
 -*who_la_dupuis
 
@@ -1526,13 +1526,13 @@ Mon père !...
 
 -*who_mathurin
 Eh bien, mon père ? comme ça a le ton mielleux.
-Va, va, je te connoissons, fine mouche ; va-t'en toujours autour du troupeau qui parait s'écarter de ce côté-là.
+Va, va, je te connoissons, fine mouche ; va-t'en toujours autour du troupeau qui parait s'écarter de ce côté-là. 
 
 -*who_la_dupuis
 J'y cours, mon père.
 Il joue fort bien son rôle.
 
-**** *book_ *id_body-804 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II04 *act_II *date_1788 *creator_gouges
 
 -*who_desyveteaux
 Elle s'éloigne de moi, un cruel devoir me prive de sa présence.
@@ -1553,7 +1553,7 @@ Allons, levez-vous, mon biau fils, et reprenez courrage⁎ ; car vous en avez g
 En vérité, j'avons la conscience qui nous répugne, et je voulons sarvir sa folie, Tatiguenne⁎ ! il nous amuse tant par ses contes et ses chansons que je serions ben fâché⁎ qu'il devint à présent plus raisonnable ; qu'est ce que c'est que notre esprit ?
 Il n'est pas plus solide que le tems.
 
-**** *book_ *id_body-805 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II05 *act_II *date_1788 *creator_gouges
 
 -*who_desyveteaux
 OPERE fortuné de la Bergère la plus respectable !
@@ -1562,7 +1562,7 @@ Eh !
 Ninon, qui peut mieux que vous me justifier ? si vous pouviez concevoir mon bonheur ! l'amour cependant ne m'a point rendu ingrat.
 Votre ruban chéri, gage de votre amitié, fait la parure de mon chapeau, et me sera toujours précieux.
 
-**** *book_ *id_body-806 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II06 *act_II *date_1788 *creator_gouges
 
 -*who_la_dupuis
 O CHER Coridon, quel bonheur ! mon père permet que je vous parle.
@@ -1580,7 +1580,7 @@ Nous allons boire ensemble, dans la même tasse, de cette eau argentine, plus ag
 -*who_la_dupuis
 A moi ! vîte, au secours, le berger Coridon se noye, si vous n'arrivez promptement.
 
-**** *book_ *id_body-807 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II07 *act_II *date_1788 *creator_gouges 
 
 -*who_mathurin
 Eh bien ! qu'est-ce qu'il y a ?
@@ -1603,7 +1603,7 @@ Allons, chantez-lui une brave chanson pour lui ravigoter le cœur : il en est t
 
 -*who_blaise
 Etes-vous blessé, beau berger ?
-En vérité, cependant, cela me fend le cœur.
+En vérité, cependant, cela me fend le cœur. 
 
 -*who_desyveteaux
 Rassurez-vous, Blaise ; et vous aussi, Mathurin.
@@ -1636,7 +1636,7 @@ Monsieur, si vous saviez dans quel état il est !
 
 -*who_ninon
 Tu augmentes davantage mon inquiétude et mon impatience.
-Je ne t'écoute plus.
+Je ne t'écoute plus. 
 
 -*who_desyveteaux
 Ah ! je reconnois cette voix enchanteresse : c'est celle de mon aimable Ninon.
@@ -1651,7 +1651,7 @@ Le berger Coridon vous sera toujours fidèle, et le même tombeau renfermera nos
 -*who_mathurin
 Oh ! la bergère calcule bien différemment ; et ce n'est pas là son compte.
 
-**** *book_ *id_body-808 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II08 *act_II *date_1788 *creator_gouges
 
 -*who_ninon
 Mes amis, est-ce bien lui ?
@@ -1662,7 +1662,7 @@ Quelle métamorphose !
 Je reste anéanti.
 Est-ce un rêve ?
 Est-ce une folie ?
-Chapelle avoit raison.
+Chapelle avoit raison. 
 
 -*who_ninon
 Desyveteaux, mon ami, ne me reconnoissez-vous pas, et n'êtes-vous plus le même ?
@@ -1716,7 +1716,7 @@ Comment donc, ma tendre amie, vous voilà toute émue.
 
 -*who_ninon
 Je ne m'en défends pas ; sa situation et sa constance me touchent jusqu'aux larmes.
-Qui que vous soyez, Mademoiselle, vous ne serez pas assez inhumaine pour nous priver du plaisir de le voir.
+Qui que vous soyez, Mademoiselle, vous ne serez pas assez inhumaine pour nous priver du plaisir de le voir. 
 
 -*who_la_dupuis
 Vous pouvez en être assurée, Mademoiselle ; je mettrai mon bonheur désormais à l'entretenir dans l'amitié qu'il vous a vouée pour la vie.
@@ -1745,7 +1745,7 @@ Allons, Mademoiselle de l'Enclos, profitez de l'ascendant⁎ que vous avez sur l
 
 -*who_moliere
 Monsieur de Gourville, n'employons point de remèdes violens, il faut au contraire que l'amitié se prête à la situation de son état.
-Si on pouvoit le ramener dans la société avec sa bergère ; peut être le guéririons-nous par ce moyen.
+Si on pouvoit le ramener dans la société avec sa bergère ; peut être le guéririons-nous par ce moyen. 
 
 -*who_mad_scaron
 Pour moi je n'en crois rien, et je suis de l'avis de Monsieur de Gourville.
@@ -1774,7 +1774,7 @@ Vous avouerez, ma bonne amie, que c'est trop complaisant pour pouvoir s'empêche
 -*who_ninon
 J'en conviens.
 Quel est celui-ci qui nous regarde avec tant d'attention.
-Je n'ai point vu cet homme chez Desyveteaux.
+Je n'ai point vu cet homme chez Desyveteaux. 
 
 -*who_mathurin
 Tatiguenne⁎ ?
@@ -1799,7 +1799,7 @@ Qu'est-ce que cela veut dire ?
 -*who_moliere
 Cela n'est pas bien difficile à deviner ; et ne voyez-vous pas que tout est factice ici, et que ce paysan n'est pas aussi au fait que les autres.
 
-**** *book_ *id_body-809 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II09 *act_II *date_1788 *creator_gouges 
 
 -*who_ninon
 Que veux-tu ?
@@ -1820,7 +1820,7 @@ Monsieur le Comte de Fiesque l'accompagne avec plusieurs autres Seigneurs.
 Je ne suis point surprise de sa démarche : il joint au grand art de la guerre, les qualités d'un bon citoyen, d'un bon ami.
 Mais je dois auparavant demander à Desyveteaux la permission de lui présenter le Prince.
 Berger Coridon, les Héros, ainsi que les Dieux, veulent honorer votre retraite.
-Le Grand-Condé demande à vous voir.
+Le Grand-Condé demande à vous voir. 
 
 -*who_desyveteaux
 Si la Bergère y consent, je suis prêt à le recevoir.
@@ -1833,7 +1833,7 @@ Ce moment est trop glorieux pour moi pour le laisser échapper.
 Dites au Prince qu'il peut entrer avec sa suite.
 Quelle surprise pour lui !
 
-**** *book_ *id_body-810 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II10 *act_II *date_1788 *creator_gouges
 
 -*who_moliere
 Francisque ne sait où il en est : c'est une énigme pour lui.
@@ -1841,7 +1841,7 @@ Francisque ne sait où il en est : c'est une énigme pour lui.
 -*who_desyveteaux
 Allons, Bergère ; allons au-devant du plus grand des Mortels, de notre Seigneur, de notre Maître.
 
-**** *book_ *id_body-811 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II11 *act_II *date_1788 *creator_gouges 
 
 -*who_mathurin
 Gare ! gare !
@@ -1857,7 +1857,7 @@ On vous reconnoît toujours par votre aimable galanterie.
 Je vois avec plaisir qu'on s'est trompé sur votre compte, et que vous êtes au contraire très-heureux.
 
 -*who_ninon
-Mon Prince, n'appercevez-vous pas ?
+Mon Prince, n'appercevez-vous pas ? 
 
 -*who_le_grand_conde
 Enfin, Mademoiselle l'Enclos, je vous vois : que j'ai souffert d'avoir tardé si long-tems, mais j'y étois forcé.
@@ -1880,7 +1880,7 @@ Ce goût pastoral est aujourd'hui, Monseigneur, bien naturel chez lui ; et comm
 Ce n'est plus cet homme du monde : c'est le Berger Coridon, soupirant pour la vie aux pieds de la Bergère.
 
 -*who_le_grand_conde
-Ce que vous me dites, est-il vrai, là, en bonne conscience, et ne vous amusez-vous pas ?
+Ce que vous me dites, est-il vrai, là, en bonne conscience, et ne vous amusez-vous pas ? 
 
 -*who_ninon
 Je n'en impose⁎ jamais, et ce ne seroit pas par vous, mon Prince, que je voudrois commencer.
@@ -1930,7 +1930,7 @@ Que le son des Musettes se mêle aux cris d'allégresse, qu'un peuple assemblé 
 -*who_moliere
 Ah ! que n'ai-je un Ballet et un Chœur tout prêt, dans le fond du jardin.
 
-**** *book_ *id_body-812 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II12 *act_II *date_1788 *creator_gouges 
 
 -*who_le_grand_conde
 Sommes-nous transportés dans un lieu de féérie ?
@@ -1957,7 +1957,7 @@ Je vous assure que tout ceci m'a amusé, quand je croyois que c'étoit préparé
 -*who_moliere
 Comment diable ! du caractère dans la danse !
 
-**** *book_ *id_body-813 *act_ *date_1788 *creator_gouges
+**** *book_ *id_II13 *act_II *date_1788 *creator_gouges
 
 -*who_le_grand_conde
 Je veux vous donner la main, Mademoiselle de l'Enclos ; car je ne vous tiens pas quitte de ma visite.
@@ -1986,7 +1986,7 @@ Peut-être ce moyen…
 -*who_le_grand_conde
 Il me paroît bien douteux, mais n'importe, pour vous plaire, je m'en vais le tenter.
 Seigneur Desyveteaux, voulez-vous me suivre à l'armée ?
-Je vous promets un service honorable et distingué.
+Je vous promets un service honorable et distingué. 
 
 -*who_desyveteaux
 Ah !
@@ -2017,7 +2017,7 @@ Mademoiselle, j'en suis persuadée.
 Adieu, mon vieil ami ; que le Ciel vous tienne dans cette heureuse⁎ rêverie.
 Fin du second Acte.
 
-**** *book_ *id_body-901 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III01 *act_III *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Comme la maison est déserte quand Mlle n'y est pas !
@@ -2028,7 +2028,7 @@ Arrangeons vîte sa place.
 Comme il souffre, le cher homme, et comme il est gai.
 Il va me dire, suivant sa coutume, quelque chose de drôle.
 
-**** *book_ *id_body-902 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III02 *act_III *date_1788 *creator_gouges 
 
 -*who_scaron
 Je ne suis bien qu'ici.
@@ -2049,7 +2049,7 @@ C'est bien fait, Monsieur Scaron ; car hier ces marauts étoient sous comme des
 -*who_porteur2
 Tiens, prenons notre parti, il n'y a rien à faire pour aujourd'hui.
 
-**** *book_ *id_body-903 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III03 *act_III *date_1788 *creator_gouges 
 
 -*who_scaron
 Comment te portes-tu, ma poule ? et mon ange Ninon, la colombe est déjà dénichée, et les oiseaux des tournelles sont aux champs.
@@ -2099,7 +2099,7 @@ Quelle heureuse⁎ philosophie !
 C'est, en vérité, grand dommage, quand des hommes de cet esprit et de cette gaité sont exposés aux souffrances et à perdre la vie.
 Voici, fort à propos, Monsieur le Maréchal d'Estrées, avec le Président Deffiat, pour lui tenir compagnie.
 
-**** *book_ *id_body-904 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III04 *act_III *date_1788 *creator_gouges
 
 -*who_president_effiat
 Non, Monsieur le Maréchal, je ne puis vous céder mes droits sur ce point ; ce sont ceux de la nature, et je les réclame.
@@ -2115,7 +2115,7 @@ L'ami Scaron va nous juger, et nous tirer de peine.
 Vous en rapporterez-vous à sa décision ?
 
 -*who_president_effiat
-Oui, mais il ne faut pas nommer la personne.
+Oui, mais il ne faut pas nommer la personne. 
 
 -*who_marechal_estrees
 Croyez-vous qu'il ne la devinera pas.
@@ -2140,7 +2140,7 @@ C'est le secret des femmes que vous voulez calculer.
 Le premier Mathématicien du monde y perdrait son algèbre ; mais ce qui me surpasse davantage, c'est de voir votre petit rabat prêter le collet à un Maréchal de France.
 
 -*who_marechal_estrees
-Il n'y a point de rang ni d'état qui empêche un père de réclamer son enfant, et c'est en quoi je loue Monsieur le Président.
+Il n'y a point de rang ni d'état qui empêche un père de réclamer son enfant, et c'est en quoi je loue Monsieur le Président. 
 
 -*who_scaron
 Eh bien, je m'en vais prononcer comme le Roi Salomon, non que j'ordonne de partager le Poupon, mais vous allez le tirer aux dez.
@@ -2170,7 +2170,7 @@ Comment diable ! un Robin⁎ tient tête à un Maréchal de France : allons, M
 -*who_marechal_estrees
 Bon ! il n'a amené que neuf ; à mon tour, pour la dernière fois.
 Douze.
-Bon ! j'ai gagné.
+Bon ! j'ai gagné. 
 
 -*who_scaron
 J'en suis bien aise, je suis flatté que le sort ait tourné en faveur du Maréchal, et que cet enfant lui appartienne, il en fera un brave Soldat, plus utile à la patrie qu'un être oisif.
@@ -2185,7 +2185,7 @@ Messieurs, j'entends des voitures, je crois que voilà Mademoiselle.
 -*who_scaron
 Cette dispute est favorable à mes vers ; je vais à son arrivée lui en faire l'hommage.
 
-**** *book_ *id_body-905 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III05 *act_III *date_1788 *creator_gouges
 
 -*who_francisque
 Eh vîte, vîte, Mademoiselle, préparez des fauteuils, notre maîtresse arrive avec le grand Condé.
@@ -2210,11 +2210,11 @@ Aussi l'aimable Ninon lui consacre tous ses momens.
 Et quelquefois, les meilleurs.
 On peut dire que c'est un grand homme sous des cotillons⁎.
 
-**** *book_ *id_body-906 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III06 *act_III *date_1788 *creator_gouges
 
 -*who_ninon
 Oh ! mon cher ami, vous étiez chez moi, et j'étois absente.
-Ne vous êtes-vous pas ennuyé, mon ami ?
+Ne vous êtes-vous pas ennuyé, mon ami ? 
 
 -*who_scaron
 Ce mal me gagne dès que je ne vous vois pas, et c'est le plus insupportable de mes maux ; mais n'êtes-vous pas toujours présente à mon imagination.
@@ -2264,7 +2264,7 @@ Quelquefois je l'ai cru ; mais je crains mon sexe ; et en avançant en âge, i
 Ce n'est point mon aimable Ninon qui doit appréhender les atteintes de ce sexe trop foible et trop présomptueux.
 
 -*who_le_grand_conde
-Allons, Molière, lisez-nous cette jolie production.
+Allons, Molière, lisez-nous cette jolie production. 
 
 -*who_moliere
 Quelle facilité ! quelle heureuse⁎ gaité !
@@ -2292,7 +2292,7 @@ Molière, vous oubliez que vous avez des Vers à nous lire.
 Ah ! mon Prince, je vous demande un million de pardons.
 
 -*who_ninon
-La distraction est excusable.
+La distraction est excusable. 
 
 -*who_moliere
 Adieux aux Marais, par le plus fidèle oiseau des Tournelles.
@@ -2319,7 +2319,7 @@ De faire un peu moins de malades.
 Ainsi, faites trève à vos charmes, ou donnez-nous la force d'y résister.
 
 -*who_scaron
-Il faudroit être, comme moi, pauvre estropié, pour avoir la force de les braver⁎.
+Il faudroit être, comme moi, pauvre estropié, pour avoir la force de les braver⁎. 
 
 -*who_ninon
 Vous allez donc nous quitter ; et vous croyez que je ne vous suivrai pas.
@@ -2347,7 +2347,7 @@ Heureux⁎ qui pourra l'attaquer avec succès !
 Il paroît que vous avez échoué, Comte de Fiesque ?
 
 -*who_le_comte_de_fiesque
-Oui, mon Prince ; mais je ne perds pas pour cela courage.
+Oui, mon Prince ; mais je ne perds pas pour cela courage. 
 
 -*who_ninon
 J'aime à voir qu'on ne se rebute point ; mais, Messieurs, ne finirez-vous point sur mon compte, et n'avons-nous pas à nous occuper de ce malheureux Desyveteaux ; quoiqu'heureux dans son asyle ?
@@ -2392,7 +2392,7 @@ Mais, mon Prince, malgré le bonheur qu'on éprouve en vous possédant, nous pr�
 Vous le savez, Monseigneur, j'ai des ennemis à la Cour.
 
 -*who_marechal_estrees
-Pas en hommes ; toujours.
+Pas en hommes ; toujours. 
 
 -*who_le_comte_de_fiesque
 Je le crois.
@@ -2419,7 +2419,7 @@ C'est le seul talent que la Nature vous ait refusé.
 -*who_ninon
 Mais n'ai-je pas été aussi un peu trop l'opposé de ce caractère.
 
-**** *book_ *id_body-907 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III07 *act_III *date_1788 *creator_gouges 
 
 -*who_exempt
 Je viens, Mademoiselle, la larme à l'œil, vous signifier des ordres désagréables et cruels à remplir pour un galant⁎ homme, mais que le devoir impose.
@@ -2440,7 +2440,7 @@ Comment, Monsieur, ces ordres ne regardent que moi ; ah ! vous me rassurez, je
 Qu'est-ce que cela veut dire ?
 
 -*who_moliere
-Je suis anéanti.
+Je suis anéanti. 
 
 -*who_le_grand_conde
 Expliquez-vous de grace, Monsieur de Saint-Faur ; je connois votre honnêteté, et vous ne voudriez pas nous laisser dans l'erreur sur les griefs qu'on impute à Ninon.
@@ -2463,7 +2463,7 @@ Pourquoi ne suis-je qu'un simple particulier ?
 J'ai quelqu'ascendant⁎ sur l'esprit de la Reine, je vais…
 
 -*who_le_comte_de_fiesque
-Moi, je défendrai Mademoiselle de l'Enclos jusqu'à la dernière goutte de mon sang.
+Moi, je défendrai Mademoiselle de l'Enclos jusqu'à la dernière goutte de mon sang. 
 
 -*who_exempt
 Monsieur le Comte, cet acte de violence est déplacé, il ne m'arrêteroit pas si je voulois employer la force ; mais soyez persuadé que je suis aussi éloigné que vous, de remplir les ordres dont on m'a chargé.
@@ -2482,7 +2482,7 @@ On m'enfermera avec elle, car je ne la quitte pas.
 Que pourroit-on craindre d'un homme qui n'a plus que la tête ?
 
 -*who_ninon
-Expliquez-vous enfin, Monsieur de Saint-Faur ; où veut-on que je me retire ?
+Expliquez-vous enfin, Monsieur de Saint-Faur ; où veut-on que je me retire ? 
 
 -*who_exempt
 Mademoiselle, je suis honteux de vous le dire ; c'est aux Filles Repenties.⁎)
@@ -2507,7 +2507,7 @@ Ah ! si on laisse le choix à ma disposition, je pourrois encore exciter de nou
 
 -*who_scaron
 A coup sûr, ce n'est pas un Couvent de femmes qu'elle choisirait.
-Son esprit est trop grand, trop sublime pour descendre jusqu'aux minuties des cloîtres féminins.
+Son esprit est trop grand, trop sublime pour descendre jusqu'aux minuties des cloîtres féminins. 
 
 -*who_le_grand_conde
 Monsieur de Saint-Faur, voulez-vous retourner avec moi sur le champ auprès de la Reine.
@@ -2531,7 +2531,7 @@ Vous serez du nombre, Molière.
 Mon Prince, mon état…
 
 -*who_le_grand_conde
-Est ce votre état que l'on regarde ? c'est l'homme qu'on considère.
+Est ce votre état que l'on regarde ? c'est l'homme qu'on considère. 
 
 -*who_scaron
 Allons, qu'on appelle des gens pour me mettre dans une chaise à porteurs.
@@ -2560,7 +2560,7 @@ Comment, vous m'allez laisser toute seule : en vérité, je préférerois six m
 -*who_le_comte_de_fiesque
 Je ne vous quitte pas, et jusqu'à ce que cette affaire ne soit éclaircie, je réponds de vous et des suites.
 
-**** *book_ *id_body-908 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III08 *act_III *date_1788 *creator_gouges 
 
 -*who_ninon
 Je ne reste point avec vous, vous êtes trop dangereux.
@@ -2581,7 +2581,7 @@ Quoi ! vous y songez encore ?
 Plus que jamais.
 
 -*who_ninon
-Et votre voyage en Italie n'a donc pas pu vous distraire ? j'avoue que vous êtes malheureux⁎, car c'est toujours quand j'ai le cœur pris que vous me parlez d'amour.
+Et votre voyage en Italie n'a donc pas pu vous distraire ? j'avoue que vous êtes malheureux⁎, car c'est toujours quand j'ai le cœur pris que vous me parlez d'amour. 
 
 -*who_le_comte_de_fiesque
 Mais, si je suis bien informé, vous êtes près d'être libre.
@@ -2606,7 +2606,7 @@ Qu'il est expressif ! en vérité, on n'est pas plus aimable.
 -*who_le_comte_de_fiesque
 Songez, adorable Ninon, que vous faites mon tourment depuis un an, que j'ai cru pouvoir vous oublier dans mon voyage ; que j'arrive, que je vous revois, et que je reprends ma chaine.
 Je n'employerai point, comme tous les Amans, les menaces, les larmes ; je ne vous dirai point non plus, que j'aurais pu me distraire avec quelqu'autre objet, je n'en ai pas cherché l'occasion.
-Vous êtes libre, je me présente, je vous aime ; m'acceptez-vous ?
+Vous êtes libre, je me présente, je vous aime ; m'acceptez-vous ? 
 
 -*who_ninon
 Vous êtes libre, je me présente, je vous aime, m'acceptez-vous ? ce ton leste déconcerteroit une begueule⁎
@@ -2630,7 +2630,7 @@ Je ne sais plus ce que je fais, ni ce que je dis.
 O la plus belle, et la plus aimable des femmes, achevez et prononcez mon bonheur ; songez que vous voyez à vos pieds l'Amant le plus tendre.
 
 -*who_ninon
-Courage ! il ne manquait plus que de se mettre à mes genoux : ma foi, je n'y tiens plus.
+Courage ! il ne manquait plus que de se mettre à mes genoux : ma foi, je n'y tiens plus. 
 Il a quelques traits de la Châtre, et le même son de voix, mais c'est à s'y méprendre.
 
 -*who_le_comte_de_fiesque
@@ -2655,7 +2655,7 @@ Vous êtes, en vérité, un terrible homme, mais que voulez-vous de moi dans la 
 
 -*who_le_comte_de_fiesque
 Ce que je veux ? ah !
-Ninon, pouvez-vous le demander ? ce cœur que je brûle d'obtenir.
+Ninon, pouvez-vous le demander ? ce cœur que je brûle d'obtenir. 
 
 -*who_ninon
 Eh ! vous l'avez déjà.
@@ -2684,7 +2684,7 @@ A propos j'oublie l'intéressante Olimpe.
 Allons la rassurer, elle doit être bien agitée, mais elle ne l'est pas plus que moi.
 Je vous laisse pour un instant, une circonstance de bienséance m'appelle ailleurs.
 
-**** *book_ *id_body-909 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III09 *act_III *date_1788 *creator_gouges 
 
 -*who_le_comte_de_fiesque
 Ninon se repent de s'être tant avancée avec moi, et je la loue ; car plus je l'aime, et plus je la crains.
@@ -2694,7 +2694,7 @@ Ninon, en faisant mon bonheur, vous allez me rendre l'homme le plus malheureux.
 Aurai-je la force de résister au sort qui m'attend ? non, je n'ai que ce qu'il en faut pour éviter le danger pour jamais.
 Fuyons Ninon, et son aimable société.
 
-**** *book_ *id_body-910 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III10 *act_III *date_1788 *creator_gouges
 
 -*who_ninon
 Il sort… Mais je crois, ma foi, qu'il s'en va tout de bon.
@@ -2705,7 +2705,7 @@ Mais je n'étois pas tout-à-fait séduite… Ah !
 Monsieur le Comte, Mon/ /sieur le Comte, vous me bravez⁎.
 Oh ! je vous ferai voir que je ne suis pas de ces femmes que l'on subjugue par de semblables moyens.
 
-**** *book_ *id_body-911 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III11 *act_III *date_1788 *creator_gouges
 
 -*who_le_grand_conde
 Je viens, Mademoiselle de l'Enclos, m'acquitter des ordres de la Reine, et vous assurer de sa part qu'elle est fâchée⁎ qu'on lui ait fait de faux rapports sur votre compte ; qu'elle en punira les délateurs, et que sa faveur ne s'étendra jamais sur les femmes perfides qui ont ôsé vous calomnier auprès d'Elle.
@@ -2714,7 +2714,7 @@ Je viens, Mademoiselle de l'Enclos, m'acquitter des ordres de la Reine, et vous 
 Je n'en attendois pas moins de la justice et des bontés de Sa Majesté ; mais, mon Prince, je vous les dois, et sans votre assistance, je serois, peut-être, encore aux yeux de cette grande Reine une femme livrée aux plus grands excès.
 
 -*who_le_grand_conde
-Non, le Maréchal d'Estrées avoit déjà plaidé votre cause en présence de la Reine de Suède, l'illustre Christine, qui brûle de vous voir, et qui a demandé au Maréchal la grace⁎ de vous la presenter.
+Non, le Maréchal d'Estrées avoit déjà plaidé votre cause en présence de la Reine de Suède, l'illustre Christine, qui brûle de vous voir, et qui a demandé au Maréchal la grace⁎ de vous la presenter. 
 
 -*who_ninon
 Quoi ! mon Prince, y pensez-vous ? moi, Ninon, simple particulière, puis-je être en état de recevoir cette grande Reine ? non, cet honneur n'est pas fait pour moi.
@@ -2747,7 +2747,7 @@ Le voici avec Chapelle, et Saint-Evremont.
 -*who_le_grand_conde
 Il arrive fort à propos.
 
-**** *book_ *id_body-912 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III12 *act_III *date_1788 *creator_gouges 
 
 -*who_le_grand_conde
 Je vous salue, Messieurs ; (à Molière.) arrivez donc, Monsieur Molière : nous vous attendons, mon ami, avec la dernière impatience.
@@ -2767,7 +2767,7 @@ La remarque est juste.
 Heureux⁎, mon Prince, ceux qui ont servi sous vos drapeaux.
 
 -*who_ninon
-Le nom de Condé sera toujours cher à la postérité.
+Le nom de Condé sera toujours cher à la postérité. 
 
 -*who_le_grand_conde
 Je suis sensible aux choses obligeantes que vous me dites ; mais, Messieurs, et vous aussi, Ninon, il ne s'agit ni de ma gloire ni de ma valeur.
@@ -2806,25 +2806,25 @@ Oui, mon Prince ; et de plus de la visite que la Reine Christine veut lui rendr
 
 -*who_ninon
 Mais comment la recevoir ?
-Il faut, Molière, que vous veniez à mon aide, et qu'un agréable impromptu de votre façon lui donne une bonne idée de ma société.
+Il faut, Molière, que vous veniez à mon aide, et qu'un agréable impromptu de votre façon lui donne une bonne idée de ma société. 
 
 -*who_moliere
 Je vais me mettre en quatre.
 Mon Prince, permettez que je prenne congé de Votre Altesse, et que j'aille mettre la main à l'œuvre.
 Saint-Evremont et Chapelle vont vous rendre compte de leur mission : tout s'arrangera, si vous le voulez bien.
 
-**** *book_ *id_body-913 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III13 *act_III *date_1788 *creator_gouges
 
 -*who_le_grand_conde
 Je vais aussi me retirer, et vous laisser, Ninon, le tems de vous préparer… Ninon, restez de grace.
 
-**** *book_ *id_body-914 *act_ *date_1788 *creator_gouges
+**** *book_ *id_III14 *act_III *date_1788 *creator_gouges
 
 -*who_ninon
 Quel bonheur pour moi d'avoir règné dans le cœur de ce grand Prince !
 
 -*who_chapelle
-Je crois, Ninon, que la gloire vous enflamme.
+Je crois, Ninon, que la gloire vous enflamme. 
 
 -*who_ninon
 Que voulez-vous ? on perdrait la tête à moins.
@@ -2848,7 +2848,7 @@ Ah ! que me dites-vous là ?
 Il n'y a que vous qui puissiez en venir à bout.
 
 -*who_ninon
-Et que faut-il que je fasse ?
+Et que faut-il que je fasse ? 
 
 -*who_chapelle
 Le voir.
@@ -2879,7 +2879,7 @@ Vous voulez des complimens, et je ne sais que dire des vérités à mes amis.
 Nous en ferons tous ; et les plus mauvais, seront les plus sincères : c'est le cœur qui les dictera, et non pas le génie.
 Fin du troisième Acte.
 
-**** *book_ *id_body-1001 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV01 *act_IV *date_1788 *creator_gouges
 
 -*who_ninon
 Oui, Mademoiselle ; demain je verrai Monsieur votre père, et soyez persuadée qu'il ne dépendra pas de moi, si vous n'obtenez point l'époux que votre cœur a choisi.
@@ -2899,13 +2899,13 @@ Je vais me retirer.
 -*who_ninon
 Permettez-moi de vous faire reconduire : mes chevaux sont à ma voiture… Mademoiselle le Roi !
 
-**** *book_ *id_body-1002 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV02 *act_IV *date_1788 *creator_gouges
 
 -*who_ninon
 Conduisez Mademoiselle jusqu'à ma voiture.
 Adieu Mademoiselle.
 
-**** *book_ *id_body-1003 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV03 *act_IV *date_1788 *creator_gouges
 
 -*who_ninon
 Que cette enfant m'intéresse !
@@ -2915,7 +2915,7 @@ Mais ce Comte de Fiesque, c'est un homme insupportable.
 Eh bien ! cet homme m'occupe malgré moi : que je suis foible ! et je veux avoir du courage.
 Mon sexe l'emporte, et je suis toujours femme.
 
-**** *book_ *id_body-1004 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV04 *act_IV *date_1788 *creator_gouges
 
 -*who_moliere
 Je viens vous communiquer le plan de votre fête, mais je ne vous réponds pas qu'il soit de votre goût.
@@ -2937,7 +2937,7 @@ Oh ! je vous en réponds : un autre a déjà pris sa place.
 Déjà.
 
 -*who_ninon
-Cela vous étonne ?
+Cela vous étonne ? 
 
 -*who_moliere
 Point du tout : mais c'est l'air avec lequel vous me l'annoncez.
@@ -2966,7 +2966,7 @@ Il est aimable, en un mot, il est fait pour être votre Amant.
 Mais il me brave⁎, et semble même me dédaigner.
 
 -*who_moliere
-Cela n'est pas possible… Au surplus, peut-être vous craint-il, et la fuite, en pareil cas, est bien pardonnable.
+Cela n'est pas possible… Au surplus, peut-être vous craint-il, et la fuite, en pareil cas, est bien pardonnable. 
 
 -*who_ninon
 Eh bien, prenons mon parti : je veux désormais ne m'occuper que de mes amis ; aussi bien, je pourrois finir plus désagréablement que ce misérable Desyveteaux.
@@ -3012,12 +3012,12 @@ Je l'ai renvoyée, mon ami.
 Il n'étoit pas prudent que je la retinsse davantage, dans un moment où ma maison va se trouver ouverte à toutes mes connoissances ; mais demain matin elle se trouvera ici avant l'arrivée de son père : vous ne manquerez pas de vous y rendre, et nous travaillerons, je l'espere, avec succès, au bonheur de cette aimable personne.
 
 -*who_moliere
-Vous vous en mêlez, il n'y a pas de doute.
+Vous vous en mêlez, il n'y a pas de doute. 
 
 -*who_ninon
 Il est vrai que je serai bien forte quand je vous aurai pour appui.
 
-**** *book_ *id_body-1005 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV05 *act_IV *date_1788 *creator_gouges
 
 -*who_francisque
 Madame la Marquise de la Sablière et Monsieur Mignard font demander, Mademoiselle, si vous êtes visible.
@@ -3025,7 +3025,7 @@ Madame la Marquise de la Sablière et Monsieur Mignard font demander, Mademoisel
 -*who_ninon
 Faites-entrer.
 
-**** *book_ *id_body-1006 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV06 *act_IV *date_1788 *creator_gouges
 
 -*who_ninon
 Enfin, je vous suis redevable, Madame la Marquise, d'avoir retrouvé ce pauvre Desyveteaux.
@@ -3060,7 +3060,7 @@ Elle n'a pas de mémoire ! ah !
 Monsieur Mignard, que vous êtes heureux⁎ ! elle ne citera pas.
 
 -*who_moliere
-Votre antipathie pour les citations vous ferait même préférer la plus profonde ignorance.
+Votre antipathie pour les citations vous ferait même préférer la plus profonde ignorance. 
 
 -*who_ninon
 Je l'avoue, et j'aime mieux un esprit médiocre que les gens savans qui trouvent l'occasion de citer à tout propos.
@@ -3100,7 +3100,7 @@ Pour moi, je m'applaudis d'être d'un avis différent sur votre compte, de celui
 -*who_ninon
 Mon Dieu, j'ambitionne plus votre estime, que je ne redoute leurs atteintes ; mais la médisance et la calomnie peuvent être si nuisibles à de jeunes Demoiselles qui fixent déjà l'attention des Maisons les plus illustres, qu'il faut ôter aux méchans, le malin plaisir de répandre leur venin.
 
-**** *book_ *id_body-1007 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV07 *act_IV *date_1788 *creator_gouges 
 
 -*who_francisque
 Mesdemoiselles de la Sablière.
@@ -3108,7 +3108,7 @@ Mesdemoiselles de la Sablière.
 -*who_ninon
 Permettez-moi, Madame, d'aller les recevoir à la porte, et de les embrasser.
 
-**** *book_ *id_body-1008 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV08 *act_IV *date_1788 *creator_gouges
 
 -*who_moliere
 Quelle grandeur d'ame !
@@ -3120,7 +3120,7 @@ Ses foiblesses, ses erreurs, font ressortir davantage ses grandes et sublimes qu
 Se seroit-on jamais douté, dans sa modeste conversation, qu'elle attend ce soir chez elle la Reine de Suède ?
 Après cet hommage, elle pouvoit recevoir, ce me semble, deux Demoiselles de qualité, sans craindre de porter la moindre atteinte à leur réputation.
 
-**** *book_ *id_body-1009 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV09 *act_IV *date_1788 *creator_gouges 
 
 -*who_moliere
 Ah ! vous voilà, Monsieur le Comte.
@@ -3153,7 +3153,7 @@ J'aime mieux la fuir toujours, que de faire mon malheur de ce jour que vous trou
 -*who_moliere
 Tant mieux pour vous, si vous pouvez l'éviter.
 
-**** *book_ *id_body-1010 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV10 *act_IV *date_1788 *creator_gouges
 
 -*who_ninon
 Moliere, on vous attend…
@@ -3169,7 +3169,7 @@ Ai, ai, ai, tout est perdu, puisqu'elle me raille.
 Dépêchez-vous donc, votre phlegme m'impatiente.
 
 -*who_moliere
-Un Amant calme n'est pas ce qui lui convient.
+Un Amant calme n'est pas ce qui lui convient. 
 
 -*who_le_comte_de_fiesque
 Ninon, qu'il est heureux⁎ de vous aimer, mais qu'il est cruel de vous plaire.
@@ -3191,12 +3191,12 @@ Ce ne sera que par la fuite que je reclamerai l'amitié, si j'ai la force de vou
 -*who_moliere
 Ah ! voilà le courage qui lui manque ; je le vois à ses genoux.
 
-**** *book_ *id_body-1011 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV11 *act_IV *date_1788 *creator_gouges 
 
 -*who_mlle_le_roi
 Monsieur et Madame Scaron viennent d'arriver, et je viens d'entendre plusieurs voitures entrer dans la cour.
 
-**** *book_ *id_body-1012 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV12 *act_IV *date_1788 *creator_gouges
 
 -*who_francisque
 Le Sallon commence à se remplir, Mademoiselle ; Monsieur Scaron a pris déjà sa place, et vous demande à grands cris, ainsi que Monsieur Molière.
@@ -3206,12 +3206,12 @@ Pour moi, j'y cours d'autant plus, que j'ai à finir ma besogne, dans laquelle S
 (Il sort.)
 
 -*who_ninon
-Vous m'avertirez dès que vous verrez arriver la Reine.
+Vous m'avertirez dès que vous verrez arriver la Reine. 
 
 -*who_francisque
 Je n'y manquerai pas, Mademoiselle.
 
-**** *book_ *id_body-1013 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV13 *act_IV *date_1788 *creator_gouges
 
 -*who_ninon
 Qu'on est bête quand on est amoureux.
@@ -3245,13 +3245,13 @@ Eh bien, n'en faisons plus ni l'un ni l'autre, et laissez-moi me flatter de croi
 -*who_ninon
 Ah ! je l'espère.
 
-**** *book_ *id_body-1014 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV14 *act_IV *date_1788 *creator_gouges
 
 -*who_francisque
 Mademoiselle, j'ai été surpris ; je n'ai point entendu de voiture.
 
 -*who_ninon
-Ciel ! je suis toute déconcertée.
+Ciel ! je suis toute déconcertée. 
 
 -*who_le_comte_de_fiesque
 Quelle imprudence j'ai fait commettre à Ninon !
@@ -3285,7 +3285,7 @@ Et vous Comte de Fiesque, vous n'êtes pas non plus nécessaire ici.
 -*who_le_comte_de_fiesque
 Mon Prince, j'allois me retirer.
 
-**** *book_ *id_body-1015 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV15 *act_IV *date_1788 *creator_gouges
 
 -*who_reine_christine
 Asseyons-nous maintenant.
@@ -3387,7 +3387,7 @@ Vos raisons sont sans réplique ; ainsi, Madame, disposez de ma personne ; je 
 -*who_reine_christine
 Non, ma chère Ninon, vous ne serez pas seule généreuse : vous ne consultiez que ma gloire dans votre refus ; et moi, je ne voyois que ma satisfaction, en vous arrachant d'une société à laquelle vous devez être tendrement attachée.
 Vous en êtes adorée, faites-en l'ornement et l'honneur.
-Restez dans des lieux où l'on chérit votre présence, je me bornerai à vous écrire, je veux entretenir notre connoissance dans une aimable correspondance.
+Restez dans des lieux où l'on chérit votre présence, je me bornerai à vous écrire, je veux entretenir notre connoissance dans une aimable correspondance. 
 
 -*who_ninon
 C'est de cet instant que date mon vrai bonheur ; ce n'est donc qu'avec Christine de Suède que j'ai pu trouver de l'analogie avec ma façon de penser ; mais pour être digne d'elle, il m'auroit fallu quelques-unes de ses vertus⁎.
@@ -3405,7 +3405,7 @@ Je serois bien curieuse de voir votre société, vos amis, entre autres le cél�
 Il faut le voir, Madame, pour en être persuadé.
 Ils sont tous les deux chez moi avec l'aimable Madame Scaron ; ainsi que la plupart de mes amis, qui tous n'aspirent qu'au bonheur de jouir de votre auguste présence.
 
-**** *book_ *id_body-1016 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV16 *act_IV *date_1788 *creator_gouges 
 
 -*who_le_grand_conde
 Je suis peut-être arrivé trop tôt, Madame, et je crains d'avoir commis une indiscrétion.
@@ -3418,7 +3418,7 @@ Il faut la voir pour savoir l'apprécier, et c'est avec la plus grande reconnois
 -*who_ninon
 Que ne dois-je pas à Monsieur le Maréchal qui m'a si fort élevée dans votre esprit, puisqu'il m'a procuré l'avantage inappréciable de me voir estimée et aimée de la femme la plus sublime de l'Univers… Voici, Madame, un homme qui n'est pas moins digne de votre estime.
 
-**** *book_ *id_body-1017 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV17 *act_IV *date_1788 *creator_gouges 
 
 -*who_reine_christine
 Approchez, homme célèbre, je suis enchantée de voir l'ami de Mademoiselle de l'Enclos.
@@ -3454,7 +3454,7 @@ Que l'amitié par-tout lui offre un Trône, et qu'elle règne sur tous les cœur
 
 -*who_reine_christine
 Où suis je ?
-Je n'ai jamais rien vu de plus galant⁎ !
+Je n'ai jamais rien vu de plus galant⁎ ! 
 
 -*who_le_grand_conde
 Reine, permettez qu'un brave Soldat vous place sur un Trône que l'amitié vous offre.
@@ -3485,10 +3485,10 @@ Sa gloire ne vieillira jamais.
 Ses Fables seront du goût de tous les tems.
 
 -*who_reine_christine
-Toujours le vrai mérite rend justice aux talens.
+Toujours le vrai mérite rend justice aux talens. 
 
 -*who_mad_scaron
-Grande Reine, acceptez cette couronne d'olivier que le respect et l'amitié vous offrent.
+Grande Reine, acceptez cette couronne d'olivier que le respect et l'amitié vous offrent. 
 
 -*who_moliere
 D'où part le son de ce chalumeau ?
@@ -3496,7 +3496,7 @@ D'où part le son de ce chalumeau ?
 -*who_ninon
 Vous me le demandez, je l'ignore plus que vous.
 
-**** *book_ *id_body-1018 *act_ *date_1788 *creator_gouges
+**** *book_ *id_IV18 *act_IV *date_1788 *creator_gouges
 
 -*who_mathurin
 Gare, gare, place au Berger Coridon et à la Bergère Colinette !...
@@ -3515,7 +3515,7 @@ C'est une fille d'honneur.
 Je n'en reviens pas.
 Pauvre cher homme !
 Comme le voilà défiguré.
-On ne le reconnoîtroit jamais.
+On ne le reconnoîtroit jamais. 
 
 -*who_desyveteaux
 Déesse, que je ne connois point, et qui me paroissez étrangère en cette Cour, sans doute, vous êtes Bellone, à côté du Dieu Mars.
@@ -3564,7 +3564,7 @@ On a beau changer de folie ; le caractère de l'homme perce toujours.
 Ah ! je vous en réponds… Mais dites, Monsieur, vous qui nous avez l'air bien expérimenté, quelle est cette grande Dame aux côtés de ce biau Prince, qui ly parlions tout bas.
 
 -*who_moliere
-Mon ami, c'est cette grande Reine du Nord, cette fameuse Christine de Suede.
+Mon ami, c'est cette grande Reine du Nord, cette fameuse Christine de Suede. 
 
 -*who_mathurin
 Tatidienne⁎ ! m'est avis qu'oui.
@@ -3585,7 +3585,7 @@ Voyez comme ce grand homme sait se mettre à la portée de tout le monde, de tou
 
 -*who_le_comte_de_fiesque
 Oui, Madame, j'en conviens ; mais je n'ai pas le talent comme vous d'admirer, ou pour mieux dire, nos prétentions sont différentes.
-Je ne loue jamais les hommes.
+Je ne loue jamais les hommes. 
 
 -*who_ninon
 Tant pis pour vous.
@@ -3643,7 +3643,7 @@ J'y compte.
 Vous serez toujours présente à leur mémoire.
 Fin du quatrième Acte.
 
-**** *book_ *id_body-1101 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V01 *act_V *date_1788 *creator_gouges
 
 -*who_francisque
 Quel évènement subit !
@@ -3675,7 +3675,7 @@ La solitude n'est pas son élément, la vie du Couvent est si ennuyeuse !
 Elle n'y sera pas quatre jours qu'elle y périra d'ennui ; et le caractère des Béguines est-il fait pour s'accorder avec le sien ?
 Acariâtres, minutieuses, médisantes et fausses comme des femmes qui sont privées de la société des hommes, et qui détestent celles qui ont vécu dans le grand monde.
 
-**** *book_ *id_body-1102 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V02 *act_V *date_1788 *creator_gouges 
 
 -*who_ninon
 Prenez ma voiture, Francisque, et allez chercher Mademoiselle de Châteauroux.
@@ -3687,7 +3687,7 @@ J'y cours ; mais, Mademoiselle, n'aurait-elle pas à m'envoyer quelque part aup
 Non, je n'ai point d'autre commission.
 Allez vîte.
 
-**** *book_ *id_body-1103 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V03 *act_V *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Allez-vous, Mademoiselle, vous mettre à votre toilette ?
@@ -3698,7 +3698,7 @@ Ma toilette, Mademoiselle, sera bientôt faite… Un grand bonnêt.
 -*who_mlle_le_roi
 Haye ! haye ! haye ! ceci sent bien le Couvent.
 
-**** *book_ *id_body-1104 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V04 *act_V *date_1788 *creator_gouges 
 
 -*who_ninon
 Me suis-je bien consultée ?
@@ -3713,7 +3713,7 @@ Eh ! bientôt il agiroit comme Monsieur de Coligny, qui m'a caché, tant qu'il 
 Hélas ! peut-être, je m'allarme envain sur son sort ; et qui sait si la mort même ne me l'a point enlevé ?
 Ce doute me désespère… On ne me présente point de jeune homme en qui je ne croye retrouver un fils.
 
-**** *book_ *id_body-1105 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V05 *act_V *date_1788 *creator_gouges 
 
 -*who_mlle_le_roi
 Mademoiselle ne se fait donc pas coëffer aujourd'hui ?
@@ -3726,7 +3726,7 @@ L'avez-vous apporté ?
 -*who_mlle_le_roi
 En voilà plusieurs, vous choisirez celui que vous voudrez.
 
-**** *book_ *id_body-1106 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V06 *act_V *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Voici quelqu'un.
@@ -3735,7 +3735,7 @@ Voici quelqu'un.
 Qui est-ce ?
 
 -*who_le_valet_de_chambre
-C'est de la part de Monsieur le Comte de Fiesque.
+C'est de la part de Monsieur le Comte de Fiesque. 
 
 -*who_ninon
 Donnez :
@@ -3752,7 +3752,7 @@ Je crois que, sans vous offenser, on court ce risque avec vous.
 Je vais donc être Philosophe, et commencer par où vous finissez.
 Si jamais je suis assez calme pour vous revoir, j'espère que vous ne me refuserez pas le titre d'ami ; et comme on est sans allarmes avec ce titre, avec vous, je m'en vais travailler à l'obtenir le plutôt qu'il me sera possible ».
 Voilà l'homme qu'il me falloit trouver pour reconnoître tous mes torts, et malheureusement j'aime cet homme.
-Je m'en punirai.
+Je m'en punirai. 
 
 -*who_mlle_le_roi
 Ciel ! quelle fureur⁎ ! quel désespoir !
@@ -3760,7 +3760,7 @@ Ciel ! quelle fureur⁎ ! quel désespoir !
 -*who_ninon
 Tenez, Monsieur, prenez ces cheveux, portez-les à votre maître, et dites-lui que c'est là ma réponse.
 
-**** *book_ *id_body-1107 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V07 *act_V *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Mademoiselle, permettez-moi de vous représenter⁎…
@@ -3793,12 +3793,12 @@ Il est neuf heures, et Mademoiselle de Chateauroux n'est pas encore arrivée !
 Qui peut la retenir ?
 Allez voir, Mademoiselle, qui peut frapper chez moi.
 
-**** *book_ *id_body-1108 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V08 *act_V *date_1788 *creator_gouges
 
 -*who_ninon
 Ce ne peut être que Mademoiselle de Chateauroux.
 
-**** *book_ *id_body-1109 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V09 *act_V *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Mademoiselle, c'est un jeune homme fort bien mis, et d'une figure charmante, qui me paroît Etranger, et qui dit n'être pas connu de vous, mais qui vient vous parler de Monsieur Molière.
@@ -3806,17 +3806,17 @@ Mademoiselle, c'est un jeune homme fort bien mis, et d'une figure charmante, qui
 -*who_ninon
 Faites entrer.
 
-**** *book_ *id_body-1110 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V10 *act_V *date_1788 *creator_gouges
 
 -*who_ninon
 C'est sans doute le jeune Belfort.
 
-**** *book_ *id_body-1111 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V11 *act_V *date_1788 *creator_gouges
 
 -*who_mlle_le_roi
 Monsieur, voilà Mademoiselle.
 
-**** *book_ *id_body-1112 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V12 *act_V *date_1788 *creator_gouges 
 
 -*who_ninon
 Ah ! la jolie tournure ; que sa figure est intéressante !
@@ -3929,7 +3929,7 @@ Je verrai dans sa conversation si la seule répugnance est d'unir sa fille avec 
 Ah ! que je m'applaudis d'être le vôtre !
 Je ne pourrois jamais trouver sur la terre une mère plus respectable, et plus intéressante à-la-fois.
 
-**** *book_ *id_body-1113 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V13 *act_V *date_1788 *creator_gouges
 
 -*who_ninon
 Ah ! mon ami, mon cher Molière, vous douteriez-vous jamais à qui appartient le Chevalier de Belfort ?
@@ -3964,7 +3964,7 @@ La Nature a fait sur mon cœur un effet si prompt, que Mademoiselle de Châteaur
 Qu'il est intéressant !
 Ah ! mon cœur a bien changé aussi : je ne vois plus que mon fils, que son bonheur.
 
-**** *book_ *id_body-1114 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V14 *act_V *date_1788 *creator_gouges 
 
 -*who_francisque
 Mademoiselle de Châteauroux.
@@ -3994,7 +3994,7 @@ Mais rentrons.
 Holà, Francisque !
 Vous m'avertirez quand Monsieur de Saint-Evremont viendra accompagné d'une autre personne.
 
-**** *book_ *id_body-1115 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V15 *act_V *date_1788 *creator_gouges
 
 -*who_francisque
 Ma foi, je n'aurai plus le courage de servir personne, si j'ai le malheur de perdre Mademoiselle de l'Enclos.
@@ -4003,7 +4003,7 @@ Je n'en trouverai jamais de semblable.
 Mais, qui nous arrive ?...
 C'est ce Monsieur le Comte de Fiesque : le diable puisse-t-il lui avoir cassé le col quand il mit les pieds ici !
 
-**** *book_ *id_body-1116 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V16 *act_V *date_1788 *creator_gouges 
 
 -*who_le_comte_de_fiesque
 Puis-je parler à Mademoiselle de l'Enclos ?
@@ -4027,14 +4027,14 @@ Courez donc vîte, et soyez persuadé que je la détournerai de ce cruel projet.
 -*who_francisque
 A la bonne heure, et je cours vous annoncer.
 
-**** *book_ *id_body-1117 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V17 *act_V *date_1788 *creator_gouges 
 
 -*who_le_comte_de_fiesque
 C'est moi qui en suis la cause ; malheureux⁎ que je suis ! j'étois aimé, et j'ai pu affliger le cœur le plus sensible !...
 M'envoyer ses cheveux pour réponse ; que d'esprit ! que de délicatesse ! que de passion ! dut-elle m'abandonner dans huit jours, je ne la quitte plus : quel homme plus fortuné que moi d'avoir fixé Mademoiselle de l'Enclos, de régner dans son cœur, d'en être adoré ; et je pourrais être insensible à tant d'amour !
 La voici… quelle est belle dans ce simple négligé !
 
-**** *book_ *id_body-1118 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V18 *act_V *date_1788 *creator_gouges
 
 -*who_le_comte_de_fiesque
 O femme trop adorable, je viens abjurer à vos pieds mes torts, mon erreur, et vous jurer un amour éternel ; moi, vous eviter ! moi, vous oublier ! cet effort n'est pas en ma puissance… Je jure…
@@ -4057,7 +4057,7 @@ J'en sens l'injustice, et ne puis la soutenir.
 Je vois qu'on nous a chargées de ce qu'il y a de plus frivole, et que les hommes se sont réservé le droit aux qualités essentielles.
 De ce moment, je me fais homme.
 Je ne rougirai donc plus de l'usage que j'ai fait des dons précieux que j'avois reçus de la nature.
-Si l'on pouvoit rajeunir et si je revenois à l'âge de quinze ans, je ne changerais en rien le plan de vie que j'ai suivi ; mais j'approche de ma cinquantaine… cela vous etonne, et sur tout que j'aye la force de l'avouer ».
+Si l'on pouvoit rajeunir et si je revenois à l'âge de quinze ans, je ne changerais en rien le plan de vie que j'ai suivi ; mais j'approche de ma cinquantaine… cela vous etonne, et sur tout que j'aye la force de l'avouer ». 
 
 -*who_le_comte_de_fiesque
 Mais où rend ce discours, Ninon, qui me glace d'effroi ? et qu'a de rapport, je vous prie, votre âge avec ma passion ? n'avez-vous pas la beauté, les graces⁎ de la plus riante jeunesse ?
@@ -4078,7 +4078,7 @@ Oui, je vous connais, mon sort est résolu, femme inconcevable, et que cependant
 Eh bien, j'accepte l'offre que vous me faites, mais apprenez qu'en l'acceptant, il m'en coûte le repos de mon cœur pour la mériter.
 Si pour renoncer au droit que vous avez de plaire, et de faire le bonheur d'un Amant, vous allez incessamment vivre dans la solitude, moi, je quitte dès aujourd'hui Paris, et je n'y reviendrai que quand j'apprendrai que Mademoiselle de l'Enclos en fait les délices.
 
-**** *book_ *id_body-1119 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V19 *act_V *date_1788 *creator_gouges
 
 -*who_francisque
 Monsieur de Saint-Evremont, Monsieur de Chateauroux.
@@ -4093,7 +4093,7 @@ Avec plaisir j'en accepte la proposition.
 -*who_le_comte_de_fiesque
 Adieu, Ninon.
 
-**** *book_ *id_body-1120 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V20 *act_V *date_1788 *creator_gouges 
 
 -*who_saint_evremont
 J'ai l'honneur de vous présenter, Mademoiselle, un brave Officier, un bon ami du Comte de Coligny et qui a été témoin de sa cruelle fin.
@@ -4109,7 +4109,7 @@ Je crains d'être indiscret, en vous faisant part de mes ennuis dans une premiè
 
 -*who_ninon
 Vous me faites tort, Monsieur, en prenant cette opinion de moi.
-J'espère que dans la suite vous me rendrez plus de justice, et que vous serez persuadé qu'on ne peut me rendre un plus grand service que d'avoir recours à moi.
+J'espère que dans la suite vous me rendrez plus de justice, et que vous serez persuadé qu'on ne peut me rendre un plus grand service que d'avoir recours à moi. 
 
 -*who_saint_evremont
 Allons, mon ami, ouvrez votre cœur à Mademoiselle de l'Enclos, et croyez que vous trouverez dans le sien la consolation que vous pouvez desirer.
@@ -4127,10 +4127,10 @@ Permettez que je vous laisse causer ensemble.
 -*who_ninon
 Molière est chez moi, dites-lui qu'il n'entre que quand il en sera tems.
 
-**** *book_ *id_body-1121 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V21 *act_V *date_1788 *creator_gouges
 
 -*who_ninon
-Vous étiez l'ami d'un homme, Monsieur, qui portoit un nom bien cher à la France, et qui ne le fut pas moins lui-même, Monsieur le Comte de Coligny.
+Vous étiez l'ami d'un homme, Monsieur, qui portoit un nom bien cher à la France, et qui ne le fut pas moins lui-même, Monsieur le Comte de Coligny. 
 
 -*who_chateauroux
 Cette amitié m'est bien funeste aujourd'hui, Mademoiselle, je voudrois ne l'avoir jamais connu.
@@ -4156,7 +4156,7 @@ Elle s'est dérobée à mon pouvoir, pour suivre un jeune homme sans nom et sans
 
 -*who_ninon
 Et quel est ce jeune homme qui s'est rendu si peu digne de vos soins ?
-Il est donc né ingrat, et d'un sang vil ?
+Il est donc né ingrat, et d'un sang vil ? 
 
 -*who_chateauroux
 Je n'aurois point désiré d'autre fils, je lui croyois toutes les vertus⁎ ; mais il a séduit ma fille, il l'a dérobée à mon pouvoir, rien ne peut le justifier, ni le mettre à l'abri de mes poursuites.
@@ -4190,7 +4190,7 @@ La fureur⁎ qu'elle avoit pour la Comédie, lui aura peut-être suggéré le mo
 Voici Molière.
 Il va lui-même vous instruire, Monsieur, du parti violent auquel vous avez exposé votre fille.
 
-**** *book_ *id_body-1122 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V22 *act_V *date_1788 *creator_gouges
 
 -*who_ninon
 Moliere, voilà Monsieur de Chateauroux, dont la fille est venue hier vous trouver chez moi, à qui vous avez parlé en ma présence, comme un père, comme un ami ; il ne nous reste plus qu'à désarmer le père le plus tendre.
@@ -4248,7 +4248,7 @@ Ah ! il n'y en a pas de plus forts que ceux de la nature.
 Que son état m'afflige !
 D'autant plus qu'elle est forte, elle en doit souffrir davantage.
 
-**** *book_ *id_body-1123 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V23 *act_V *date_1788 *creator_gouges 
 
 -*who_chateauroux
 Monsieur Molière, quel mal subit a pu prendre à Mademoiselle de l'Enclos ?
@@ -4283,7 +4283,7 @@ Je m'en rapporte à votre génie et vos sentimens⁎.
 -*who_moliere
 Je suis de votre avis, Monsieur : mais si cette mère infortunée étoit aussi intéressante que Mademoiselle de l'Enclos, aussi estimable par ses rares qualités, que feriez-vous, Monsieur ?
 
-**** *book_ *id_body-1124 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V24 *act_V *date_1788 *creator_gouges 
 
 -*who_ninon
 Je frémis…
@@ -4302,7 +4302,7 @@ Que faites-vous, Mademoiselle de l'Enclos ?
 Expliquez-vous, de grace.
 
 -*who_ninon
-Monsieur, voilà votre fille, et voilà mon fils ; en prononçant leur bonheur, vous ferez le mien.
+Monsieur, voilà votre fille, et voilà mon fils ; en prononçant leur bonheur, vous ferez le mien. 
 
 -*who_chateauroux
 Quoi ! vous étiez sa mère, et vous me l'avez laissé ignorer !
@@ -4349,7 +4349,7 @@ Accordez-moi cette grace⁎, et croyez qu'elle ne tend qu'à leur bonheur et à 
 Rapportez-vous-en, Monsieur, à sa pénétration⁎.
 
 -*who_chateauroux
-Eh bien, soit, il faut faire ce que vous voulez, adorable Ninon.
+Eh bien, soit, il faut faire ce que vous voulez, adorable Ninon. 
 
 -*who_ninon
 Vous ne serez pas non plus étonné que j'aille me retirer dans un Couvent.
@@ -4373,10 +4373,10 @@ Je me le dois, je le dois à mon fils.
 -*who_moliere
 Je tremble ; elle est si forte dans ses résolutions.
 
-**** *book_ *id_body-1125 *act_ *date_1788 *creator_gouges
+**** *book_ *id_V25 *act_V *date_1788 *creator_gouges
 
 -*who_chapelle
-Puis-je croire ce qui vient de se répandre dans tout Paris ? on dit que vous allez nous quitter, Ninon ?
+Puis-je croire ce qui vient de se répandre dans tout Paris ? on dit que vous allez nous quitter, Ninon ? 
 
 -*who_moliere
 Oui, mes amis ; joignez-vous à mes instances, et détournons-la de ce fatal projet.
@@ -4395,7 +4395,7 @@ Elle vient de faire le bonheur de ses enfans ; mais vous qui l'avez étudiée d
 Son esprit nous l'enlève, mais son cœur nous la rendra.
 Fin de la Pièce.
 
-**** *book_ *id_postface *date_1788 *creator_gouges
+**** *book_ *id_postface *date_1788 *creator_gouges 
 
 POSTFACE.
 
@@ -4437,24 +4437,24 @@ Fatigué de voir qu'on s'amusoit à ses dépends, et impatient de m'en faire ess
 
 Et vous, Postulans en Littérature, tant en femme qu'en homme, apprenez à connoître les Comédiens François, avant de leur confier les fruits de vos plus chères occupations.
 
--*who_premier_bulletin
 Cet Ouvrage est charmant ; il fait honneur au cœur, à l'ame et à l'esprit de l'Auteur.
 Je le reçois.
+
 Heureux⁎ début.
 
--*who_second_bulletin
 Cet Ouvrage est rempli de mérite ; mais il y a des longueurs à retrancher.
 Je reçois à correction.
-Il n'y a pas encore à se désespérer.
 
--*who_troisieme_bulletin
+Il n'y a pas encore à se désespérer. 
+
 Il y a infiniment de talent dans cet Ouvrage.
 Je reçois à correction.
+
 J'espère encore.
 
--*who_quatrieme_bulletin
 J'aime les jolies femmes ; je les aime encore plus quand elles sont galantes⁎ ; mais je n'aime à les voir que chez elles, et non pas sur le Théâtre.
 Je refuse cette Pièce.
+
 Haie !... haie !...
 Ceci sent bien le Dugason.
 Mais tout doux, mon très-aimable ; apprenez à connoître le but du Théâtre.
@@ -4463,11 +4463,11 @@ Et ma Ninon n'est-elle pas aussi décente que cette dernière ?
 Elle ne fait pas au moins des aveux de la première, et ses foiblesses sont éloignées de la Scène ; je l'ai prise dans une bonne circonstance pour le Théâtre.
 Tant pis pour votre discernement, si vous ne savez point l'apprécier.
 
--*who_cinquieme_bulletin
 Cette Pièce n'est remplie que d'Episodes mal faites ; il n'y a pas un seul caractère dans cet Ouvrage.
 Le second Acte est entièrement du mauvais goût, et la folie de Dégypto n'est pas supportable.
 Elle n'est ni dans les règles théâtrales, ni dans la décence.
 Pour le bien de l'Auteur, je refuse cet Ouvrage.
+
 Ah !
 Berger Coridon ! on vous reconnoît comme vous avez reconnu l'intention de l'Auteur, en accordant l'élégance de votre taille avec le plaisant de ce caractère.
 Vous avez eu raison de refuser.
@@ -4477,9 +4477,10 @@ Qu'on me dise si l'on peut voir rien de plus comique sous ce costume ; et vous 
 Cependant, il y a long-tems que le Public desire du vrai comique et du dramatique dans les Pièces de Théatre, et vous n'en voulez pas !
 Tant pis pour vous.
 
--*who_sixieme_bulletin
 O Lecteur ! ô Lecteur ! je vous demande de la patience pour entendre ceci de sang-froid.
+
 Cette Pièce est sans goût, sans talent ; je suis indigné de voir que l'Auteur ait pu s'oublier jusqu'à faire du grand Molière le Confident des amours de Ninon ; et si j'ai quelque conseil à lui donner, c'est de renoncer à cette Pièce, et de ne la montrer à personne ; car je la refuse.
+
 Pour celui-ci je ne pus pas connoître l'Auteur, à moins que tout le Comité ne l'ait fabriqué ensemble.
 Combien Molière se trouveroit choqué et humilié, s'il pouvoit revenir parmi nous, de voir à quel point on fait tort à son esprit et à sa mémoire ! lui qui fut le confident et l'ami de Ninon, ainsi que tous les grands-hommes du Royaume, sans excepter les femmes les plus vertueuses⁎.
 Quelles sont les personnes qui n'ont pas cru se couvrir de gloire, quand elles avoient le bonheur d'être admises dans la société de Ninon de l'Enclos ?
@@ -4487,56 +4488,67 @@ Mais les Comédiens ont craint de la voir parmi eux ………………………�
 Mais le Public l'auroit accueillie comme elle le mérite, et cette femme, présentée dans son vrai caractère, n'auroit pu que rendre les femmes plus équitables, même à travers leurs foiblesses ; mais un beau caractère leur est étranger : je puis croire cependant que si Mademoiselle Contat s'étoit trouvée à cette lecture, son discernement auroit prévalu.
 J'avois bien M. Molé, et je crois l'avoir reconnu dans le premier Bulletin : je distingue trois Comédiens honnêtes que je nommerai à la fin.
 
--*who_septieme_bulletin
 J'ai de la peine à soutenir les réflexions que cette Pièce me fait faire.
 Je n'y trouve pas de fond, pas d'intrigue, tous les personnages parlent de même, et l'Auteur a mis vingt-neuf Acteurs, tandis qu'il n'y en a que vingt-trois à la Comédie ; ainsi, je ne puis recevoir cette Pièce.
+
 D'un coup de plume j'ai égorgé sept personnages ; en doublant certains rôles, on verra que l'on peut jouer cette Pièce avec quinze ou seize.
 Les habits de paysan, ou le changement de costume peut produire cette métamorphose.
 La Châtre peut jouer, par exemple, le Comte de Fiesque, en faveur de la ressemblance ; Blaise, le Maréchal d'Estrées ; Lucas, le Président de… Mathurin, M. Mignard ; et Scaron, Saint-Evremont ; Chapelle, l'Exempt ; M. de Gourville, le père de Mademoiselle de Châteauroux ; et jusqu'au fils de Ninon, on peut le travestir ; c'est ce qu'on fera sans doute dans les petites Troupes, et c'est pour elles que je l'indique.
 
--*who_huitieme_bulletin
 Je considère l'Auteur, et je l'aime trop pour l'exposer à une chûte, je refuse.
+
 Celui-là est joli, et ne peut m'indisposer.
 
--*who_neuvieme_bulletin
 Rien ne m'intéresse dans cette Pièce que le cinquième Acte ; la reconnoissance de Ninon avec son fils est tout-à-fait touchante, et prête au but moral : la société de Ninon, et quelque faits, par-ci par-là, ne peuvent pas fournir une Comédie en cinq Actes ; si l'Auteur vouloit me croire, il la réduiroit en un, mais comme je prévois qu'il n'en voudra rien faire ; je la refuse.
+
 Bonnes conclusions.
 
--*who_dixieme_bulletin
 Les Valets de Ninon jouent la délicatesse et l'esprit, et sont insoutenables dans cette Pièce : je la refuse.
 
--*who_onzieme_bulletin
 C'est avec plaisir qu'on se rappelle le Règne de Louis XIV ; mais dans cette Pièce il est insoutenable : et je crois rendre service à l'Auteur en le refusant.
+
 Patience, Lecteur, ceci tire à sa fin.
 
--*who_douzieme_bulletin
 Il n'y a dans cette Pièce que des éloges à toutes les scènes, qui deviennent assommantes pour les Spectateurs ; il est impossible d'imaginer que l'Auteur ait eu l'intention de faire une Pièce de Théâtre, dans le sujet de Molière chez Ninon, et ce grand homme est déplacé à chaque instant ; je crois sincèrement obliger l'Auteur, en l'engageant de ne montrer jamais sa Pièce.
+
 C'est ici où je m'arrête.
+
 Je ne fus pas curieuse d'avoir le demi-quarteron de voix, et je priai M. de la Porte de me dispenser de lire le treizième.
+
 Pendant la lecture de ces fameux Bulletins, j'examinois toutes les figures, mais toutes cherchoient à éviter mes regards ; celle de des Essarts étoit la seule qui ne changeât pas d'attitude ; sa tête étoit à peindre, sa joue appuyée sur sa canne, et la bouche béante, avec une langue qui sortoit à moitié, qui exprimoit la joie qu'il ressentoit à chaque lecture de Bulletin, et au redoublement de ma confusion.
+
 Si le celèbre Greuze étoit curieux de faire un tableau de Comité, je lui fournirois un sujet propre à varier son genre, et qu'il ne rendroit pas moins sublime.
+
 Ils s'attendoient tous que j'allois me porter à quelque excès qui m'auroit fait plus de tort à moi-même, qu'au Chevalier de Saint-Louis, qui leur avoit voulu ……………………… ………………………………………………………………………………………………………………………….
 Et moi j'aurois bien voulu l'imiter.
 Mais je me levai, et je leur dis, avec un ton modeste :
+
 Mesdames, et Messieurs, je suis fâchée que vous n'ayez pas reçu ma Pièce, et cela ne doit pas vous étonner.
 Je vois que je me suis trompée, mais ce qui me console, c'est de voir que MM. Palissot, Mercier, Lemiere, et vingt-quatre autres personnes recommandables se soient trompées comme moi, et qu'ils ayent encore plus de tort de m'avoir exposée à vous présenter une aussi mauvaise production.
+
 « J'ai l'honneur de vous saluer ».
+
 Tous baissèrent la tête ; il n'y eut que Mademoiselle Joli qui fit une grimace …… …………………………………………………………………………………………………...
+
 Je puis avoir changé quelques mots, mais non pas le sens ; et comme j'ai une mémoire très-sûre, on peut s'en rapporter à ce que je dis, et sur-tout à ma probité, quand j'ai tant fait d'avancer que je n'en impose⁎ pas.
 Il y a des circonstances où l'être le plus sincère n'est pas toujours forcé à découvrir la vérité ; c'est ce que j'ai fait dans la Préface du Philosophe corrigé, en faveur de la Comédie Françoise, en cachant sa lettre, et en mettant à la place son prétendu bienfait, que je croyois alors sincère.
+
 Mais qu'on me dise actuellement si j'ai tort de m'en plaindre, et de l'avoir en horreur.
 Ah, elle a produit un effet qui convaincra le Public à quel point une femme peut être indignée, quand elle peut se refroidir sur sa frénésie, sur sa passion, sur tout ce qui pouvoit faire les délices de sa vie : enfin jusqu'à renoncer, pour toujours, à faire une scène de Comédie ; et si je pouvois jamais changer de résolution, ce seroit pour la société, pour mes amis seulement.
+
 Dès-que la Comédie reçoit une Pièce, elle accorde la faveur de donner les entrées à l'Auteur : cette faveur n'est plus digne de moi, et les bienfaits de ceux que l'on peut estimer deviennent à charge, et indignes de notre reconnoissance.
 Ces entrées m'étoient chères à plus d'un titre ; j'aime le spectacle, et je ne suis pas assez riche pour y aller tous les jours.
 Je les avois obtenues par le mérite, et elles ne pouvoient que me flatter ; j'allois à la Comédie sans répugnance, et je doute même qu'à présent une nouveauté puisse m'y entraîner ; et si j'y allois jamais, ce seroit en payant.
 Je leur rends donc mes entrées publiquement, je ne les reprendrai que lorsqu'on jouera mon Drame, et s'il réussit, je jouirai de mon bien sans rougir ; voilà mon vrai salaire.
 Qu'il sera glorieux pour moi d'en jouir !
 Mais actuellement il m'aviliroit, et lorsqu'on se plaint des Comédiens, comme je le fais, on ne doit pas profiter de leurs dons.
+
 Pour prouver au Public que je suis femme à tenir ce que j'avance, j'offre, aux Auteurs qui ne dédaigneront pas d'étendre leurs connoissances sur mes plans, de leur en donner qui ne seront pas indignes de leurs lumières.
 Ceux qui ne possèdent pas l'art d'écrire, ont quelquefois en récompense l'art de savoir faire un plan.
 J'ai trente sujets qui ont besoin d'être touchés, même dialogués, en partie ; je l'ai déjà dit, je ne ferai plus de Comédie, ne n'en corrigerai point.
 Il m'en reste deux que j'ai soignées, qui ne valent pas, à beaucoup près, celle que je propose.
 Mais je les ai achevées, et je n'ai plus rien à y faire.
+
 Ainsi elles se trouveront dans mon quatrième Volume avec le commencement d'un nouveau plan de littérature, que je me propose de suivre à l'avenir.
 Ceux qui ont lu ma Ninon m'ont sollicitée de la lire à la Comédie Italienne.
 Deux motifs m'en empêchent.
@@ -4547,6 +4559,7 @@ Mais une femme sensible et délicate ne peut supporter tant d'indignités, et de
 On pourra ôter deux Scènes Episodiques ; celle de Mignard, et du Maréchal d'Estrées, et l'on sera en état de jouer la Pièce avec douze Acteurs.
 Mais comme ce sont des faits intéressans dans l'Histoire, j'ai dû les faire imprimer, et dans une grande Troupe on fera bien de les laisser exister.
 On doit observer l'ancien costume dans toute sa rigueur ; on doit aussi faire attention qu'une femme de vingt-ans, comme une de quarante, peut jouer le rôle de Ninon, quand elle a des grâces⁎ et de la fraîcheur ; que le fils de Ninon peut être remplacé par une femme travestie ; que la Pièce tient tout le Spectacle, comme Figaro, et les Amours de Bayard ; et que, sans être trop prévenue⁎ en faveur de mon ouvrage, le spectateur peut rentrer content chez soi, après la Représentation de cette Pièce.
+
 Quel est le véritable François qui ne reverra pas cette aimable Société avec enthousiasme, sur-tout les Gens de Lettres, ce parfait unisson des Arts et des talens, des Princes et des Grands, qui formoit l'incomparable Société de Mademoiselle de Lenclos ! et qu'il seroit à souhaiter dans ce siècle de posséder une femme d'un aussi grand mérite !
 Quand je l'examine telle qu'elle est, et que je considère son esprit, sa grandeur d'ame, je ne vois plus ses erreurs ni ses foiblesses.
 Plus d'une femme voudroit lui ressembler secrétement, si elle n'a pas la vertu⁎ d'en convenir tout haut.
@@ -4559,6 +4572,7 @@ Ah ! s'il ne tenoit qu'à moi, ils le perdroient bien-tôt ; mais ce qui me co
 En attendant, je la recommande au Public François ; il se rappellera avec plaisir des Personnages que je lui présente, sur-tout le Grand Condé, ce Prince dont le nom sera toujours cher à la Patrie, m'obtiendra sans doute quelque suffrage et augmentera l'indignation du Public contre la Comédie Françoise, à qui ce grand homme n'a pu même en imposer⁎, lui dont le seul nom faisoit trembler les Peuples les plus éloignés.
 Je l'ai mis simple particulier chez Ninon, tel qu'il vouloit l'être, et ami de Molière ; mais je me serai bien gardée de le traiter dans toute sa splendeur.
 Il faudroit un autre art, une autre capacité que la mienne, une plume de feu et le crayon de Corneille.
+
 C'est donc sans prétention que je l'ai confondu parmi les femmes et les hommes qui étoient dignes de l'approcher.
 Si j'ai eu le bonheur d'ébaucher ses plus simples conversations, je me trouverai heureuse.
 C'est au Public à juger si la Comédie Françoise a bien fait de refuser cette Pièce, et si je suis dans mon tort de m'en formaliser.
@@ -4567,6 +4581,7 @@ Quant aux trois Comédiens que je dois nommer, c'est MM. Mollé, d'Azincourt et 
 Je ne connois cet Acteur que par son talent, talent qui ne sera peut-être pas facile à remplacer, tant ce Comédien est vrai et naturel dans son jeu, il joint à cela la réputation d'honnête homme, et je le crois, puisqu'il ne s'est pas trouvé à la conspiration de la Comédie contre mon Ouvrage.
 On assure qu'il n'a jamais voulu tremper dans les complots ni dans les cabales de ses camarades, et qu'il ne s'en fait pas moins estimer quoiqu'il n'ait jamais voulu les imiter ; quant à M. d'Azincourt on sçait qu'il n'étoit pas né pour être Comédien, ses bons principes ne font donc que le rendre plus estimable et le mettre au-dessus de son état.
 Pour M. Mollé, il a trop d'esprit et trop d'honnêteté pour manquer à qui que ce soit ; ainsi l'on peut voir qu'en me plaignant des Comédiens, comme j'y suis forcée, je sçais rendre justice à ceux qui le méritent.
+
 Il est possible que le changement de Scène dans mon second Acte, chez Dégypto excite la critique : du moins d'après l'opinion de M. Piegres, je dois faire quelque réflexion au Lecteur à ce sujet.
 Ce méritant Auteur, cet homme estimable m'a assuré que ma Pièce en quatre Actes auroit beaucoup de succès, et que l'Acte de Dégypto pouvoit être ôté sans déranger la Pièce, je m'en rapporte à ses sages conseils, il a ajouté que certainement on pourroit en faire un petit Ouvrage détaché, je le croirois aussi, et je ne doute pas qu'il y ait plusieurs personnes de son avis ; mais c'est le dernier que j'ai reçu même après que ma Pièce a été imprimée : car sans la fatalité qui poursuit ma Préface depuis six semaines, mon dernier Volume seroit déjà publié.
 La grace⁎ spéciale que j'ai à demander aux Journalistes, c'est de s'expliquer sur ma Ninon, d'après leur opinion et leurs connoissances, je ne crains pas que la prévention⁎ et l'injustice des Comédiens corrompent leur goût et leur jugement.
@@ -4578,6 +4593,7 @@ Trois mêmes avis suffisent pour me convaincre ; et si la Comédie m'avoit obje
 Le tems et la première lettre de la Comédie avoient effacé de mon cœur cet injuste propos ; mais le tems m'a appris encore que la Comédie n'oublioit jamais ses conspirations contre un Auteur proscrit, et qu'elle ne perdoit point de vue ses noirs complots ; mais cet Auteur étoit une femme ; et je vous demande, Lecteur, si j'ai mérité cet odieux traitement.
 Si on n'a point ménagé ma sensibilité, du moins on devoit des égards à mon sexe ; mais cette foiblesse leur a donné, au contraire, des forces et du courage⁎, pour me faire essuyer impunément toutes leurs vexations et toutes leurs injustices.
 Ils auroient sans doute ménagé un peu plus un homme, dont ils auroient craint les justes poursuites ; mais je n'en ai pas moins la tête et le courage, quand une fois mon parti est pris.
+
 La délicatesse de ma façon de penser me donne des forces et de l'énergie.
 La gloire m'a enthousiasmée comme tant d'autres Auteurs ; j'étois humble et soumise devant cette vaine idole ; mais la raison me parle, et je retrouve la noblesse de mes sentimens⁎.
 Je n'ai qu'un reproche à faire au sort : C'est de m'avoir rendu mère d'enfans plus touchans que ceux en Littérature ; on peut faire un incendie de ces pauvres infortunés ; mais ceux qui ont le droit de la Nature, font parler le cœur plus que l'esprit.
@@ -4593,6 +4609,8 @@ Je ne sçais si c'est de ma faute ou celle d'autrui, mais qui plus que moi a suj
 Ah ! si jamais je puis exposer à mon gré la vérité, tremblez, ames viles et rampantes ; le tort que vous m'avez fait a affecté ma sensibilité, je ne le cèle pas ; mais le tems, ce terrible maître à qui tout méchant n'échappe jamais, me vengera, sans que je le desire, de vos trames odieuses.
 J'oublie que ce n'étoit que des tracasseries de Comédiens dont je faisois mention, et que mes réflexions me portent plus loin.
 C'est une énigme que j'expliquerai un jour, mais je finis en recommandant mon cher Zamor et Mirza à toutes les ames sensibles, sur-tout aux pères, aux mères et aux enfans qui ne méconnoissent pas la Nature.
+
 Quant au Siècle des Grands-Hommes, tous les Gens de Lettres, ainsi que les personnes de la plus haute considération, prendront son parti, et s'intéresseront vivement à mon aimable Ninon, dont je m'applaudis d'être la mère.
 Les femmes d'esprit, les femmes du bon ton et même les femmes vertueuses⁎ me sçauront bon gré de l'avoir conçue ; les Prudes et les Comédiennes m'en blâmeront certainement, mais je ris d'avance de leur dépit et de leurs sottises.
+
 FIN

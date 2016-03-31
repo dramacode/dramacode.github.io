@@ -18,7 +18,7 @@ Vostre très-humble serviteur,
 
 T. CORNEILLE
 
-**** *book_ *id_body-301 *act_ *date_1658 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1658 *creator_corneille
 
 -*who_laure
 Quoy , lors que dans ces lieux tout le monde s'appreste
@@ -231,7 +231,7 @@ Où je hazarde⁎ trop, mon ambition cesse.
 -*who_laure
 Et que hazardez⁎-vous à souffrir⁎ son amour ?
 
-**** *book_ *id_body-302 *act_ *date_1658 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1658 *creator_corneille
 
 -*who_federic
 Il faut vous retirer⁎, le Duc est de retour,
@@ -272,7 +272,7 @@ Perdre quelques soûpirs sans qu'il les puisse entendre,
 Et de ce faux appas⁎ soulager mon ennuy⁎
 Qu'il souffrira pour moi si je souffre pour luy.
 
-**** *book_ *id_body-303 *act_ *date_1658 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1658 *creator_corneille
 
 -*who_le_duc
 Si tu peux à mon mal trouver quelque remede⁎…
@@ -321,7 +321,7 @@ Ce n'est qu'en luy cedant qu'on en peut triompher.
 Puisqu'aujourd'huy sur vous la vostre a tant d'empire,
 De peur de l'irriter⁎, Seigneur, je me retire.
 
-**** *book_ *id_body-304 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_I04 *act_I *date_1658 *creator_corneille 
 
 -*who_le_duc
 Enfin il est party, Fabrice, c'est à toy
@@ -457,7 +457,7 @@ A Parme dés demain renvoyer la Duchesse.
 Dûst se perdre Milan, on verra mon amour…
 Mais que vois-je ? Carlos est desja de retour.
 
-**** *book_ *id_body-305 *act_ *date_1658 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1658 *creator_corneille
 
 -*who_carlos
 Seigneur, vous me verrez sans doute avecque joye,
@@ -484,7 +484,7 @@ Souffrant un doux mélange a paru…
 -*who_le_duc
       C'est assez.
 
-**** *book_ *id_body-306 *act_ *date_1658 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1658 *creator_corneille
 
 -*who_camille
 La réponce est bien courte.
@@ -506,7 +506,7 @@ J'ay parlé de ses yeux, de son teint…
 -*who_fabrice
       C'est assez.
 
-**** *book_ *id_body-307 *act_ *date_1658 *creator_corneille
+**** *book_ *id_I07 *act_I *date_1658 *creator_corneille
 
 -*who_camille
 Entendez-vous l'Echo ?
@@ -573,7 +573,7 @@ Je pers temps en effet d'écouter tes sottises,
 Allons trouver mon Pere, et tâchons de sçavoir
 Si j'ay plus de sujet de crainte que d'espoir.
 
-**** *book_ *id_body-401 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1658 *creator_corneille
 
 -*who_fabrice
 C'est n'avoir pas peu fait avec mon badinage
@@ -690,7 +690,7 @@ Je crains…
       Quoy ? les regards qu'elle va vous lancer ?
 Pour les tendres de cœur la blessure est mal saine.
 
-**** *book_ *id_body-402 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1658 *creator_corneille
 
 -*who_fenise
 As-tu remis ce Lut ?
@@ -999,7 +999,7 @@ Vostre fait est trouvé, je suis tousjours vacant.
 -*who_laure
 Maraut, si de railler tu prens jamais l'audace…
 
-**** *book_ *id_body-403 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1658 *creator_corneille
 
 -*who_fenise 
 Soufrons, je n'ay que trop merité ma disgrace⁎.
@@ -1032,7 +1032,7 @@ Pour arrester le sien, doit esblouyr ses yeux,
 Et sans un fort amour, ce n'est qu'une faiblesse
 De croire qu'il rompra l'hymen de la Duchesse.
 
-**** *book_ *id_body-404 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1658 *creator_corneille
 
 -*who_camille
 Adieu, Laure.
@@ -1082,7 +1082,7 @@ Il va pour vous fléchir employer vostre frere,
 C'est par là que Carlos sans contrainte obeït.
 Mais il entre.
 
-**** *book_ *id_body-405 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1658 *creator_corneille
 
 -*who_carlos
       Ma sœur, la fortune nous rit,
@@ -1233,7 +1233,7 @@ Celuy d'estre Duchesse en auroit plus pour moy.
 -*who_carlos
 Certes, je suis confus de voir qu'à tant de zele…
 
-**** *book_ *id_body-406 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II06 *act_II *date_1658 *creator_corneille
 
 -*who_federic 
 Je viens vous apporter une estrange⁎ nouvelle.
@@ -1262,7 +1262,7 @@ Je sçay ce que je dois.
 -*who_federic
       Allez, je vous rejoins.
 
-**** *book_ *id_body-407 *act_ *date_1658 *creator_corneille
+**** *book_ *id_II07 *act_II *date_1658 *creator_corneille
 
 -*who_federic 
 Carlos, sans penetrer son dessein⁎ davantage,
@@ -1298,7 +1298,7 @@ En quelle qualité ?
 Comme à l'entretenir le devoir nous appelle,
 Allons sans differer en resoudre avec elle.
 
-**** *book_ *id_body-501 *act_ *date_1658 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Celles qui comme nous naissent dans ce haut rang
@@ -1477,7 +1477,7 @@ Ce jeu de vostre esprit ne se peut trop priser.
 -*who_fenise
 Servez-vous de ce Lut pour le mieux abuser⁎.
 
-**** *book_ *id_body-502 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_III02 *act_III *date_1658 *creator_corneille 
 
 -*who_le_duc
 Voyons sans estre veus.
@@ -1731,7 +1731,7 @@ Adieu.
 -*who_la_duchesse
 Allons, il faut donner mes ordres à Carlos.
 
-**** *book_ *id_body-503 *act_ *date_1658 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1658 *creator_corneille
 
 -*who_le_duc
 Et de grace, un moment ; arrestez-là, Celie.
@@ -1834,7 +1834,7 @@ Elle eut l'ame toûjours aussi fiere que belle,
 Et qu'il peut arriver, quand le Duc l'aimera,
 Qu'elle verra sa peine, et la méprisera.
 
-**** *book_ *id_body-504 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_III04 *act_III *date_1658 *creator_corneille 
 
 -*who_le_duc
 Fabrice, qu'en dis-tu ?
@@ -1868,7 +1868,7 @@ Il ne faut qu'une toux, un rheume, adieu la voix,
 C'est-à-dire, à l'amour adieu pour quelques mois.
 Mais voicy Federic.
 
-**** *book_ *id_body-505 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_III05 *act_III *date_1658 *creator_corneille 
 
 -*who_federic
       Seigneur, quelle surprise !
@@ -1984,7 +1984,7 @@ Je ne puis toutefois m'empescher de vous dire,
 Que peut-estre pour voir vos desseins⁎ traversez,
 La Duchesse n'est pas si loin que vous pensez.
 
-**** *book_ *id_body-506 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_III06 *act_III *date_1658 *creator_corneille 
 
 -*who_le_duc
 Quelle est cette menace ?
@@ -2007,7 +2007,7 @@ Helas ! fut-il jamais amant⁎ plus interdit⁎ ?
 Je me fie à Carlos, et l'ingrat me trahit.
 Mais ne le vois-je pas ? ah, Dieu, quelle est ma peine ?
 
-**** *book_ *id_body-507 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_III07 *act_III *date_1658 *creator_corneille 
 
 -*who_le_duc
 Quoy, de retour encor, Carlos ? qui vous ramene ?
@@ -2078,7 +2078,7 @@ De…
 -*who_le_duc
       Suivez-moy, vous dis-je, et ne repliquez point.
 
-**** *book_ *id_body-601 *act_ *date_1658 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1658 *creator_corneille
 
 -*who_federic
 Je vous blâmois à tort, si par cette surprise
@@ -2160,7 +2160,7 @@ Je sçay de son erreur quel conte je luy doy.
 Tâchez à la nourrir⁎, tandis qu'avec adresse
 Je sçauray mesnager l'esprit de la Duchesse.
 
-**** *book_ *id_body-602 *act_ *date_1658 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1658 *creator_corneille
 
 -*who_fenise
 Un père eut-il jamais de pareils sentiments ?
@@ -2235,7 +2235,7 @@ Il vient.
 Dans son extravagance⁎ il sçait bien ce qu'il dit ,
 Comme le duc l'écoute, il en sçait des nouvelles.
 
-**** *book_ *id_body-603 *act_ *date_1658 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1658 *creator_corneille
 
 -*who_laure
 Ne vois-je pas Fabrice ?
@@ -2342,7 +2342,7 @@ Dont chacune à son tour promene ses pensées,
 Il trouve dans ses yeux, dans sa taille, en son port
 Tous les charmes…Bon soir.
 
-**** *book_ *id_body-604 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_IV04 *act_IV *date_1658 *creator_corneille 
 
 -*who_fabrice
       D'où vient donc qu'elle sort ?
@@ -2453,7 +2453,7 @@ N'est-ce plus pour sa voix…
 Mais les voici tous deux qui s'en viennent à nous,
 Dispose ta Maistresse à mieux traiter sa flame.
 
-**** *book_ *id_body-605 *act_ *date_1658 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Quoy, Seigneur, jusqu'icy ?
@@ -2503,7 +2503,7 @@ M'oblige à partager l'outrage qu'on luy fait.
 Madame, c'est assez que sa prison vous gêne⁎,
 Je n'examine rien, Fabrice, qu'on l'amene.
 
-**** *book_ *id_body-606 *act_ *date_1658 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1658 *creator_corneille
 
 -*who_le_duc
 A quoy qu'ait pû son crime aujourd'huy me forcer,
@@ -2562,7 +2562,7 @@ Doutez-vous qu'à sa foy⁎ vostre ordre confié…
 N'en parlons plus, Madame, il est justifié ;
 Le voicy qui paroist.
 
-**** *book_ *id_body-607 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_IV07 *act_IV *date_1658 *creator_corneille 
 
 -*who_carlos
       Que voy-je ? la Duchesse ?
@@ -2670,7 +2670,7 @@ Que tout ce que de grand mon esprit se figure,
 N'a point d'appas⁎ pour moy ny si fort, ny si doux,
 Qui ne cede à l'espoir de me voir son espoux.
 
-**** *book_ *id_body-608 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_IV08 *act_IV *date_1658 *creator_corneille 
 
 -*who_carlos
 Ah, Dieux !
@@ -2786,7 +2786,7 @@ Et que pour égaler le supplice à l'offence
 Le Ciel sur tout Milan estendra ma vangeance,
 Je vais y donner ordre, adieu.
 
-**** *book_ *id_body-609 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_IV09 *act_IV *date_1658 *creator_corneille 
 
 -*who_camille
       Nous voilà bien.
@@ -2840,7 +2840,7 @@ Revoyez-la.
 Dans le pressant malheur où me plonge le sort,
 Si quelque espoir me reste il n'est plus qu'en la mort.
 
-**** *book_ *id_body-701 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1658 *creator_corneille
 
 -*who_la_duchesse
 Quoy que vous me disiez de l'ennuy⁎ qui l'accable,
@@ -2948,7 +2948,7 @@ Ah, Laure.
 Quand vous n'en pourrez plus vous n'aurez qu'à chanter.
 Forcez vous un moment à garder le silence.
 
-**** *book_ *id_body-702 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1658 *creator_corneille
 
 -*who_le_duc
 Madame, le succez passe mon esperance,
@@ -3058,7 +3058,7 @@ Ne soüillera jamais la gloire de mes feux.
 Je n'en puis plus souffrir⁎, le dépit⁎ me surmonte,
 Tu vas voir ma vangeance, ou ma dernière honte.
 
-**** *book_ *id_body-703 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_V03 *act_V *date_1658 *creator_corneille 
 
 -*who_la_duchesse
 Ce fort attachement, quoy que peu merité,
@@ -3189,7 +3189,7 @@ Que vous n'en meritiez l'effet, ny l'apparence,
 C'est ainsi qu'il se rit d'un feu capricieux,
 Adieu, vous répondrez quand vous m'entendrez⁎ mieux.
 
-**** *book_ *id_body-704 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1658 *creator_corneille
 
 -*who_fabrice
 Vous voilà bien payé.
@@ -3221,7 +3221,7 @@ Si ce que je me dois tyrannise mon ame,
 Et si par ce qu'elle est tout mon esprit détruit
 Ne découvre…
 
-**** *book_ *id_body-705 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1658 *creator_corneille
 
 -*who_le_duc
       Ah, Celie, où m'avez-vous réduit ?
@@ -3298,7 +3298,7 @@ Celle que de vos feux vous fiste confidente,
 Quand vous la méprisiez, se vantoit qu'à son tour
 Peut-estre elle auroit lieu de braver vostre amour.
 
-**** *book_ *id_body-706 *act_ *date_1658 *creator_corneille 
+**** *book_ *id_V06 *act_V *date_1658 *creator_corneille 
 
 -*who_fabrice
 Elle a l'esprit perdu !
@@ -3321,7 +3321,7 @@ Mais enfin que resoudre en cette extremité ?
 De n'aimer que vous seul, et narguer les cruelles,
 Aussi bien…
 
-**** *book_ *id_body-707 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V07 *act_V *date_1658 *creator_corneille
 
 -*who_camille
       Ah, Seigneur, voicy bien des nouvelles.
@@ -3370,7 +3370,7 @@ Voicy l'une desja que Carlos vous amene.
 -*who_le_duc
 Si c'est pour l'excuser, leur esperance est vaine.
 
-**** *book_ *id_body-708 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V08 *act_V *date_1658 *creator_corneille
 
 -*who_le_duc
 Madame, enfin cessez de craindre desormais
@@ -3407,7 +3407,7 @@ Je l'empescheray bien, ce temeraire amour.
 Faites-vous promptement chanter un air de Cour,
 Contre tous accidents c'est un puissant remede⁎.
 
-**** *book_ *id_body-709 *act_ *date_1658 *creator_corneille
+**** *book_ *id_V09 *act_V *date_1658 *creator_corneille
 
 -*who_federic
 Quel chagrin importun de nouveau vous possede⁎ ?

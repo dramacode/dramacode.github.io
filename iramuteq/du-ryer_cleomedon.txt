@@ -34,7 +34,7 @@ Par le Roy en son Conseil,
 Achevé d'imprimer le 21.
 Fevrier, 1636.
 
-**** *book_ *id_body-401 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_I01 *act_I *date_1636 *creator_du_ryer
 
 -*who_argire
 Va d'un pas genereux⁎ pour suivre la victoire ;
@@ -424,7 +424,7 @@ Descouvrir⁎ ce secret est un mal necessaire,
 Et le dire à propos vaut mieux que de le taire.
 ACTE I
 
-**** *book_ *id_body-402 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_I02 *act_I *date_1636 *creator_du_ryer
 
 -*who_policandre
 Mes filles, mon soucy⁎, seules pour qui je crains,
@@ -484,7 +484,7 @@ Par la bonté des miens je me trouve gesné⁎,
 Mais quelqu'un vient icy.
 ACTE I
 
-**** *book_ *id_body-403 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_I03 *act_I *date_1636 *creator_du_ryer
 
 -*who_policandre
       Quelle triste⁎ nouvelle
@@ -570,7 +570,7 @@ Que si je perds l'espoir, je garde le courage⁎.
 Mourons avec honneur si nous devons perir,
 On m'a veu vivre en Roy, l'on m'y verra mourir.
 
-**** *book_ *id_body-501 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_II01 *act_II *date_1636 *creator_du_ryer
 
 -*who_celanire
 Enfin de nos malheurs la course est arrestee⁎,
@@ -684,7 +684,7 @@ Mais voicy ce guerrier avec autant de grace⁎,
 Qu'il fait voir aux combats de courage⁎ et d'audace.
 ACTE II
 
-**** *book_ *id_body-502 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_II02 *act_II *date_1636 *creator_du_ryer
 
 -*who_celanire
 Desja je vous pensois esloigné de ces lieux.
@@ -799,7 +799,7 @@ Que doy -je à ces faveurs dont l'excez me transporte,
 Et que ne dompterois-je animé⁎ de la sorte ?
 ACTE II
 
-**** *book_ *id_body-503 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_II03 *act_II *date_1636 *creator_du_ryer
 
 -*who_oronte
 Puisque par les Destins il estoit arresté⁎,
@@ -1028,7 +1028,7 @@ Laissez-moy travailler à cette heureuse Paix :
 Et l'Honneur, et l'Amour en seront satisfaits.
 ACTE II
 
-**** *book_ *id_body-504 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_II04 *act_II *date_1636 *creator_du_ryer
 
 -*who_policandre
 Devant que ton courage⁎ acheve une victoire,
@@ -1116,7 +1116,7 @@ Est le plus grand des maux dont l'on sente les coups⁎.
 Entretenons plustost des guerres eternelles.
 ACTE II
 
-**** *book_ *id_body-505 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_II05 *act_II *date_1636 *creator_du_ryer
 
 -*who_timante
 Mais Oronte s'avance : hé bien ! quelles nouvelles ?
@@ -1242,7 +1242,7 @@ Si vous estes pour luy, je veux tout esperer.
 -*who_timante
 De ce que nous pouvons, vous pouvez l'asseurer.
 
-**** *book_ *id_body-601 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_III01 *act_III *date_1636 *creator_du_ryer
 
 -*who_belise
 Que m'aydera la paix qu'espere cette terre,
@@ -1281,7 +1281,7 @@ Ainsi d'un trait⁎ mortel, mon ame est traversee ;
 Mais quelqu'un interromp cette triste⁎ pensee.
 ACTE III
 
-**** *book_ *id_body-602 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_III02 *act_III *date_1636 *creator_du_ryer
 
 -*who_belise
 Ha ! Ma sœur qu'avez–vous ? Cette pasle couleur
@@ -1464,7 +1464,7 @@ Que pourroit esperer ce coeur⁎ infortuné,
 S'il court apres un bien qu'on a des-jà donné ?
 ACTE III.
 
-**** *book_ *id_body-603 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_III03 *act_III *date_1636 *creator_du_ryer
 
 -*who_cleomedon
 Par quel injuste effet de fureur⁎ ou d'envie,
@@ -1587,7 +1587,7 @@ Hà ! ma douleur se rend si vive et si certaine,
 Que s'il est un Enfer on y souffre ma peine.
 ACTE III
 
-**** *book_ *id_body-604 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_III04 *act_III *date_1636 *creator_du_ryer
 
 -*who_policandre
 A la fin vos conseils l'emportent de dessus moy,
@@ -1615,7 +1615,7 @@ Sire, ne croyez pas qu'il veüille davantage⁎.
 Mais le voicy qui vient.
 ACTE III
 
-**** *book_ *id_body-605 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_III05 *act_III *date_1636 *creator_du_ryer
 
 -*who_policandre
       Il est temps desormais
@@ -1833,7 +1833,7 @@ Te laisser impuni c'est une recompence :
 Et pour vaincre l'orgueil, où je te voy monté,
 Esclave, souviens-toi que je t'ay rachepté.
 
-**** *book_ *id_body-701 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_IV01 *act_IV *date_1636 *creator_du_ryer
 
 -*who_celiante
 Quand je le voy reduict à ce point de disgrace,
@@ -2139,7 +2139,7 @@ Ou je sçauray mourir sy je ne say l'aymer.
 Mais quelqu'un vient icy.
 ACTE IV
 
-**** *book_ *id_body-702 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_IV02 *act_IV *date_1636 *creator_du_ryer
 
 -*who_celanire
       Que me voulez-vous dire ?
@@ -2186,7 +2186,7 @@ Elle vous diront tout : elle vous viennnent voir.
 En autre lieu qu'icy je les veux recevoir.
 ACTE IV
 
-**** *book_ *id_body-703 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_IV03 *act_IV *date_1636 *creator_du_ryer
 
 -*who_birene
 Tenez-vous au repos qui vous est necessaire,
@@ -2336,7 +2336,7 @@ Ha ! pour moy seulement les Dieux sont redoutables.
 Mais le somme ou la Mort appesantit mon œil,
 Porte-moy dans le Ciel, ou bien dans le cercueil.
 
-**** *book_ *id_body-801 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V01 *act_V *date_1636 *creator_du_ryer
 
 -*who_birene
 Oronte, à mon advis ce funeste naufrage⁎
@@ -2371,7 +2371,7 @@ Mais quel est celui-cy qui vient si vistement ?
 Vous le pouvez juger par son habillement.
 ACTE V
 
-**** *book_ *id_body-802 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V02 *act_V *date_1636 *creator_du_ryer
 
 -*who_clorimante
 Ne puis-je voir le Roy ?
@@ -2421,7 +2421,7 @@ Quelquefois le dedans vaut mieux que le dehors,
 Et soubs une ruine on trouve des thresors.
 ACTE V
 
-**** *book_ *id_body-803 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V03 *act_V *date_1636 *creator_du_ryer
 
 -*who_oronte
 Mais desjà le Roy sort⁎.
@@ -2493,7 +2493,7 @@ Que ne peut la faveur ! Quand nous la possedons,
 Nous avons plus d'amis que nous n'en demandons.
 ACTE V
 
-**** *book_ *id_body-804 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V04 *act_V *date_1636 *creator_du_ryer
 
 -*who_celanire
 Malheureuse Princesse aux peines asservie,
@@ -2522,7 +2522,7 @@ Mais l'on dira par tout sans me rien reprocher
 Que j'ay sçeu me punir devant que de pecher.
 ACTE V
 
-**** *book_ *id_body-805 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V05 *act_V *date_1636 *creator_du_ryer
 
 -*who_birene
 Monsieur, que faites-vous ?
@@ -2683,7 +2683,7 @@ Que l'amour qui s'y trouve est sujet⁎ à manquer,
 Quand ses deux ennemis le viennent attaquer !
 ACTE V
 
-**** *book_ *id_body-806 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V06 *act_V *date_1636 *creator_du_ryer
 
 -*who_policandre
 Celiante, mon fils ! ha, permettez, Madame,
@@ -2857,7 +2857,7 @@ Dois-je esperer ce bien ?
       Madame le voicy.
 ACTE V
 
-**** *book_ *id_body-807 *act_ *date_1636 *creator_du_ryer
+**** *book_ *id_V07 *act_V *date_1636 *creator_du_ryer
 
 -*who_policandre
 Venez, Cleomedon, approchez-vous d'icy,

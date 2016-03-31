@@ -31,6 +31,7 @@ class Dramacode
     "tc" => array(
       "glob" => '
         ../theatre-classique/BOISROBERT_*.xml
+        ../theatre-classique/BOURSAULT_*.xml
         ../theatre-classique/CORNEILLEP_*.xml
         ../theatre-classique/CYRANO_*.xml
         ../theatre-classique/GILLET_*.xml
@@ -38,6 +39,7 @@ class Dramacode
         ../theatre-classique/ROTROU_*.xml
         ../theatre-classique/SCARRON_*.xml
         ../theatre-classique/VILLIERS_*.xml
+        ../theatre-classique/DONNEAUDEVISE_*.xml
       ',
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
@@ -186,7 +188,7 @@ CREATE INDEX play_setcode ON play(setcode);
       else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'epub') {
-        $livre = new Livrable_Tei2epub($teinte->dom, self::$_logger);
+        $livre = new Livrable_Tei2epub($teinte->dom(), self::$_logger);
         $livre->epub($destfile);
         // transformation auto en mobi, toujours après epub
         $mobifile = dirname(__FILE__).'/'.$set['predir'].'kindle/'.$srcname.".mobi";
@@ -204,22 +206,23 @@ CREATE INDEX play_setcode ON play(setcode);
    */
   private function insert($teinte, $setcode) {
     // supprimer la pièce, des triggers doivent normalement supprimer la cascade.
-    $this->pdo->exec("DELETE FROM play WHERE code = ".$this->pdo->quote($teinte->filename));
+    $this->pdo->exec("DELETE FROM play WHERE code = ".$this->pdo->quote($teinte->filename()));
     // globa TEI meta
     $meta = $teinte->meta();
     // acts
-    $meta['acts'] = $teinte->xpath->evaluate("count(/*/tei:text/tei:body//tei:*[@type='act'])");
-    if (!$meta['acts']) $meta['acts'] = $teinte->xpath->evaluate("count(/*/tei:text/tei:body/*[tei:div|tei:div2])");
+    $xpath = $teinte->xpath();
+    $meta['acts'] = $xpath->evaluate("count(/*/tei:text/tei:body//tei:*[@type='act'])");
+    if (!$meta['acts']) $meta['acts'] = $xpath->evaluate("count(/*/tei:text/tei:body/*[tei:div|tei:div2])");
     if (!$meta['acts']) $meta['acts'] = 1;
     // verse
-    $l = $teinte->xpath->evaluate("count(//tei:sp/tei:l)");
-    $p = $teinte->xpath->evaluate("count(//tei:sp/tei:p)");
+    $l = $xpath->evaluate("count(//tei:sp/tei:l)");
+    $p = $xpath->evaluate("count(//tei:sp/tei:p)");
     if ($l > 2*$p) $meta['verse'] = true;
     else if ($p > 2*$l) $meta['verse'] = false;
     else $meta['verse'] = null;
     // genre
     $genre = $genrecode = null;
-    $nl = $teinte->xpath->evaluate("/*/tei:teiHeader//tei:term[@type='genre']");
+    $nl = $xpath->evaluate("/*/tei:teiHeader//tei:term[@type='genre']");
     if ($nl->length) {
       $n = $nl->item(0);
       $genrecode = $n->getAttribute ('subtype');
@@ -227,16 +230,17 @@ CREATE INDEX play_setcode ON play(setcode);
     }
 
 
-    if (isset(self::$sets[$setcode]['identifier'])) $identifier = sprintf (self::$sets[$setcode]['identifier'], $teinte->filename);
+    if (isset(self::$sets[$setcode]['identifier']))
+      $identifier = sprintf ( self::$sets[$setcode]['identifier'], $teinte->filename() );
     else $identifier = null;
 
     $this->_insert->execute(array(
       $setcode,
-      $teinte->filename,
-      $teinte->filemtime,
+      $teinte->filename(),
+      $teinte->filemtime(),
       self::$sets[$setcode]['publisher'],
       $identifier,
-      sprintf (self::$sets[$setcode]['source'], $teinte->filename),
+      sprintf ( self::$sets[$setcode]['source'], $teinte->filename() ),
       $meta['author'],
       $meta['title'],
       $meta['date'],

@@ -69,7 +69,7 @@ Errata
 
 Page 13, vers 4 lisez baise pour baiser p. 40. v.7. 1. sans vous veoir p.49.v.13. l. d'Orphee. p.53 v.18 & 19 l. affection au premier, & affliction au second. p.57.v.8. l. qu'un pour qu'en. p.58.v.10. l. faicts pour faictes. p.63.v.9. l. me parleront. p.101.v.15 l. seile pour sicle. p.107.v.10. l. qu'un pour qu'en.
 
-**** *book_ *id_body-701 *act_ *date_1638 *creator_discret
+**** *book_ *id_I01 *act_I *date_1638 *creator_discret
 
 -*who_pancrace
 En fin le juste Ciel par un sainct Hymenee,
@@ -153,7 +153,7 @@ Afin que par la main je la mene à la dance,
 Je viens de donner ordre au souper preparer
 Pendant que ces amans pensent à leur parer.
 
-**** *book_ *id_body-702 *act_ *date_1638 *creator_discret
+**** *book_ *id_I02 *act_I *date_1638 *creator_discret
 
 -*who_floridon
 RAvy dans un bon-heur qui me suit à la piste,
@@ -193,7 +193,7 @@ Mais le voicy qui vient, & moy je me retire,
 Aussi bien l'on m'attend, sans moy l'on ne peut rien,
 Amour guide mes pas vers l'objet de mon bien.
 
-**** *book_ *id_body-703 *act_ *date_1638 *creator_discret
+**** *book_ *id_I03 *act_I *date_1638 *creator_discret
 
 -*who_polydas
 BErger Infortuné Polydas miserable,
@@ -229,7 +229,7 @@ Et que de nostre faict quelque chose on soubçonne,
 Le son de ces haut bois dit qu'ils viennent icy
 Pour ne les rencontrer je prens ce chemin-cy.
 
-**** *book_ *id_body-704 *act_ *date_1638 *creator_discret
+**** *book_ *id_I04 *act_I *date_1638 *creator_discret
 
 -*who_pancrace
 OR sus⁎ mes bons amis que chacun prenne place,
@@ -370,7 +370,7 @@ Ma mere je vous suis,
 -*who_polydas
                   Dieux que j'ay de mal'heur.
 
-**** *book_ *id_body-705 *act_ *date_1638 *creator_discret
+**** *book_ *id_I05 *act_I *date_1638 *creator_discret
 
 -*who_amarille
 DE la confusion maintenant delaissee,
@@ -544,7 +544,7 @@ Amour fais la moy veoir avant que je sommeille :
 Favorise l'effet de mon contentement,
 Et je te feray veoir que je suis vray amant.
 
-**** *book_ *id_body-801 *act_ *date_1638 *creator_discret
+**** *book_ *id_II01 *act_II *date_1638 *creator_discret
 
 -*who_lidiane
 QUe celuy est heureux qui lors de sa naissance,
@@ -724,7 +724,7 @@ Pysandre ne sçauroit faire longue demeure.
 Ny Cleanide aussi car ses agneaux aux champs
 Vous la verrez icy venir passer le temps.
 
-**** *book_ *id_body-802 *act_ *date_1638 *creator_discret
+**** *book_ *id_II02 *act_II *date_1638 *creator_discret
 
 -*who_pysandre
 ALlez petit trouppeau savourer les herbettes,
@@ -1170,7 +1170,7 @@ Pour en estre esclaircy je veux parler à elle.
 Ha que je suis fasché d'avoir tant arresté⁎
 Ils riront maintenant de ma simplicité⁎.
 
-**** *book_ *id_body-803 *act_ *date_1638 *creator_discret 
+**** *book_ *id_II03 *act_II *date_1638 *creator_discret 
 
 -*who_pancrace
 UN parfaict amoureux jamais ne se repose
@@ -1243,7 +1243,7 @@ Croyez que Luciane est vostre humble servante.
 Bonsoir ma Royne adieu ô celeste faveur,
 Allons plus à loisir admirer ta valleur.
 
-**** *book_ *id_body-901 *act_ *date_1638 *creator_discret
+**** *book_ *id_III01 *act_III *date_1638 *creator_discret
 
 -*who_polydas
 L'Inimitié d'un Roy, d'un Prince, d'un monarque,
@@ -1397,7 +1397,7 @@ Rendez vous en ce temps aupres du carrefour.
 L'amour pour y aller me donnera des aisles,
 Amy fais qu'aujourd'huy j'en sache des nouvelles.
 
-**** *book_ *id_body-902 *act_ *date_1638 *creator_discret 
+**** *book_ *id_III02 *act_III *date_1638 *creator_discret 
 
 -*who_amarille
 L'Esprit inquieté de milles pensemens⁎,
@@ -1637,7 +1637,7 @@ D'avoir dessus mon chef tant de tourmens versez :
 Celuy qui patient souffre de l'injustice,
 Force son ennemy à luy estre propice.
 
-**** *book_ *id_body-903 *act_ *date_1638 *creator_discret
+**** *book_ *id_III03 *act_III *date_1638 *creator_discret
 
 -*who_luciane
 QUe l'indiscretion fait naistre de tourment,
@@ -1792,7 +1792,7 @@ Je reçois trop d'honneur,
 -*who_pancrace
                   Il n'en faut point parler
 
-**** *book_ *id_body-904 *act_ *date_1638 *creator_discret 
+**** *book_ *id_III04 *act_III *date_1638 *creator_discret 
 
 -*who_pysandre
 L'Amitié d'un amy oblige à l'impossible,
@@ -1875,7 +1875,7 @@ Il me semble desja que mon mal diminuë :
 Puisque mon cher amant me doit tirer d'icy,
 Je m'en vais m'aprester, & mon bagage aussy.
 
-**** *book_ *id_body-905 *act_ *date_1638 *creator_discret
+**** *book_ *id_III05 *act_III *date_1638 *creator_discret
 
 -*who_luciane
 PAncrace en verité vous estes un prodigue
@@ -2083,7 +2083,7 @@ Nous nous verrons demain dedans ce mesme lieu
 -*who_pysandre
 Je n'y failliray pas, & cependant adieu,
 
-**** *book_ *id_body-906 *act_ *date_1638 *creator_discret
+**** *book_ *id_III06 *act_III *date_1638 *creator_discret
 
 -*who_pancrace
 QUe sont-ils devenus ? certes ils n'avoient garde,
@@ -2103,7 +2103,7 @@ Promener chez Pluton comme une race infame.
 Or sus⁎ le jour s'en va, moy je m'en vais aussi,
 Jupin⁎, l'Amour, & Pan, prennent de moy soucy.
 
-**** *book_ *id_body-1001 *act_ *date_1638 *creator_discret
+**** *book_ *id_IV01 *act_IV *date_1638 *creator_discret
 
 -*who_polydas
 DEesse de la nuict aux amans favorable
@@ -2147,7 +2147,7 @@ Chacun courir à l'eau pour sauver le village,
 Prenant l'occasion ferme au poil inconstant,
 J'iray ma Lidiane enlever à l'instant.
 
-**** *book_ *id_body-1002 *act_ *date_1638 *creator_discret 
+**** *book_ *id_IV02 *act_IV *date_1638 *creator_discret 
 
 -*who_luciane
 VIste viste debout, une espaisse fumee
@@ -2180,7 +2180,7 @@ Ne vous tourmentez point le feu n'est respandu
 Encore tout par-tout, bon voicy l'eau venuë,
 Sus enfans suivez moy, que chacun s'esvertue.
 
-**** *book_ *id_body-1003 *act_ *date_1638 *creator_discret
+**** *book_ *id_IV03 *act_IV *date_1638 *creator_discret
 
 -*who_polydas
 EN fin graces aux Dieux ma juste intention,
@@ -2289,7 +2289,7 @@ Pesez mon innocence & ma fidelité.
 Sur tout permettez moy qu'en la plaine Elizee    
 Je voye la beauté qui m'a la mort causee.
 
-**** *book_ *id_body-1004 *act_ *date_1638 *creator_discret 
+**** *book_ *id_IV04 *act_IV *date_1638 *creator_discret 
 
 -*who_luciane
 ACcablee d'ennuys⁎, de maux, d'afflictions,
@@ -2341,7 +2341,7 @@ Plustot qu'en souhaiter j'eslirois le tombeau
 Je m'en vais envoyer ma servante Pernelle,
 Pour veoir si quelque part elle en aura novelle.
 
-**** *book_ *id_body-1005 *act_ *date_1638 *creator_discret
+**** *book_ *id_IV05 *act_IV *date_1638 *creator_discret
 
 -*who_amarille
 PLeure Amarille helas ton malheur sans pareil,
@@ -2417,7 +2417,7 @@ Prenez l'ame & le corps de la pauvre Amarille :
 Et si vous la voulez doublement obliger⁎,
 Faites tant qu'elle soit aupres de son Berger.
 
-**** *book_ *id_body-1006 *act_ *date_1638 *creator_discret 
+**** *book_ *id_IV06 *act_IV *date_1638 *creator_discret 
 
 -*who_pysandre
 EN verité mon cœur il faut que je confesse
@@ -2529,7 +2529,7 @@ Berger je le diray sans mentir à ma mere.
 Tu n'as garde à ce coup, adieu mon beau soleil,
 Unique parmy nous comme au Ciel sans pareil.
 
-**** *book_ *id_body-1007 *act_ *date_1638 *creator_discret
+**** *book_ *id_IV07 *act_IV *date_1638 *creator_discret
 
 -*who_floridon
 MIserable berger qui vois ton esperance    
@@ -2691,7 +2691,7 @@ Sont cause de tourmens pour estre trop fragiles.
 Que ne leur a-t-on fait un esprit moins malin,
 Puisque c'est le secours du sexe masculin ?
 
-**** *book_ *id_body-1101 *act_ *date_1638 *creator_discret
+**** *book_ *id_V01 *act_V *date_1638 *creator_discret
 
 -*who_lidiane
 AMis de qui je tiens le repos & la vie,
@@ -2813,7 +2813,7 @@ Que jamais Polydas ne fut d'un crime autheur.
 Vous estes trop rusee & pleine de malice,
 Sus, allons la livrer és mains de la Justice.
 
-**** *book_ *id_body-1102 *act_ *date_1638 *creator_discret 
+**** *book_ *id_V02 *act_V *date_1638 *creator_discret 
 
 -*who_le_juge
 NOus qui tenons des Dieux la balance à la main,
@@ -3084,7 +3084,7 @@ Emmenez la bergers,
 -*who_le_procureur
                   Gardez qu'elle s'absente.
 
-**** *book_ *id_body-1103 *act_ *date_1638 *creator_discret
+**** *book_ *id_V03 *act_V *date_1638 *creator_discret
 
 -*who_pysandre
 Bons Dieux qu'il court icy un effroyable bruit,
@@ -3157,7 +3157,7 @@ Prestez moy vostre main pour marcher fermement,
 -*who_cleanide
 Pan face reussir le tout heureusement.
 
-**** *book_ *id_body-1104 *act_ *date_1638 *creator_discret 
+**** *book_ *id_V04 *act_V *date_1638 *creator_discret 
 
 -*who_le_juge
 VOicy le lieu Bergere où il faut que ta vie,

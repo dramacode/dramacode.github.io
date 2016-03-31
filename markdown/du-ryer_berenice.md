@@ -766,9 +766,9 @@ Dans ces deux exemples, on remarque que la répétition participe au caractère 
 Le rythme est avant tout caractérisé par l'utilisation abondante de répétitions. Selon Jacques Scherer, les dramaturges de l'époque « cultivent » cette figure « avec passion [171] ». Très souvent utilisée au théâtre, elle permet une déclamation particulièrement expressive ce qui explique sans doute pourquoi Du Ryer en a fait la figure reine dans une pièce en prose. En effet, les vers, notamment les alexandrins, du fait de leur structure métrique créent inévitablement un rythme ce qui n'est pas le cas de la prose. Ainsi, en ayant recours aux parallélismes et à la répétition, il semble que Du Ryer ait voulu recréer l'effet de balancement apporté par la répétition. On relève dans *Bérénice* deux types majeurs de répétitions. En ce qui concerne le premier, il s'agit de l'anaphore, figure souvent utilisée en poésie. Le personnage peut répéter lui-même plusieurs fois les mêmes mots ou un autre personnage peut décider de répéter ce que son interlocuteur a dit sans modifier un seul mot, comme c'est le cas dans ce dialogue entre Bérénice et Tarsis :
 
 
-Bérénice : *On veut* recommencer mes maux, *on veut* *m'**enlever* de ce pays.
+Bérénice : *On veut* recommencer mes maux, *on veut**m'**enlever* de ce pays.
 
-Tarsis : *On veut* *vous* *enlever*, Madame ! …
+Tarsis : *On veut**vous**enlever*, Madame ! …
 
 Bérénice : Hélas ! *c'est un homme qu**i m'enleve* ; et *c'est un homme qu**e* mon devoir m'oblige de suivre. (I, 7) [172]
 
@@ -781,7 +781,7 @@ Criton : *Je dis* qu'il est necessaire, et pour vostre bien et pour mon repos *
 
 Bérénice : **Que nous sortions de ce Pays* * ! (I, 5)
 
-Tarsis : Sire, je venois vous faire sçavoir qu'il se dispose *à* *vous* *quitter*.
+Tarsis : Sire, je venois vous faire sçavoir qu'il se dispose *à**vous**quitter*.
 
 Le Roi : *A**nous**quitter*.
 
@@ -790,18 +790,18 @@ Tirinte : *Aquitter**le Roy*. (II, 2)
 Dans la deuxième série d'exemples, on remarque plusieurs modifications. Tout d'abord, c'est le pronom personnel qui change de personne, puis c'est la place du complément et sa nature (article + nom). Les personnages rebondissent sur chaque mot pour exprimer leur émotion, l'étonnement.
 
 
-Tarsis : *De quel* *nom* *vous* *appelleray*-*je* ?
+Tarsis : *De quel**nom**vous**appelleray*-*je* ?
 
-Bérénice : Mais *de quel**œil* *vous**regarderay*-*je* ?
+Bérénice : Mais *de quel**œil**vous**regarderay*-*je* ?
 
-Tarsis : *Il m'est encore impossible de vous* *appeller ma sœur*.
+Tarsis : *Il m'est encore impossible de vous**appeller ma sœur*.
 
 Bérénice : *Il m'est encore impossible de vous* r*egarder en frere*. (V, 2)
 
 Dans cet exemple, la répétition des mêmes groupes de phrase intensifie la tension dramatique et le pathétique de la situation. Les paroles des amants se répercutent en échos comme pour mimer leur désarroi. La variation peut aussi être l'expression d'une réappropriation des mots dans une visée argumentative.
 
 
-Criton : Ainsi, *vous avez* *failly toutes deux* ; elle d'aimer, et vous d'avoir enduré qu'elle aimast.
+Criton : Ainsi, *vous avez**failly toutes deux* ; elle d'aimer, et vous d'avoir enduré qu'elle aimast.
 
 Bérénice : Si *nous avons**failly toutes deux*, j'ay crû que *toutes deux* nous en avions quelque **raison**.
 
@@ -809,7 +809,7 @@ Criton : On n'a jamais **raison* de faillir*. (III, 3)
 
 Bérénice : S'il ne tient pas sa parole, comme *amant*, il la tiendra *comme genereux, et comme Prince*.
 
-Criton : *Comme genereux et comme Prince* !** Quand **il se souviendra** *qu'il est* **Prince*, *il ne se souviendra plus** *qu'il est* **amant**. (III, 3)
+Criton : *Comme genereux et comme Prince* !** Quand **il se souviendra***qu'il est***Prince*, *il ne se souviendra plus***qu'il est***amant**. (III, 3)
 
 Dans le premier exemple, Criton reprend le nom abstrait raison dans un autre sens. L'antanaclase assure la domination du père dans l'entretien. Il en est de même dans le second exemple car Criton reprend ironiquement les mots de Bérénice.
 
@@ -1071,7 +1071,7 @@ J'ay fait bien plus que je ne pensois, puisque j'ay fait en Prose une piece de T
  – LE ROY.
  – LEONIDE.
 La scene est en Crete.
-
+ 
 
 
 ## ACTE I.
@@ -1085,7 +1085,7 @@ BERENICE, AMASIE.
 Estes-vous contente, ma sœur, et puis-je mieux vous monstrer mon amitié, qu'en vous descouvrant mon amour ?
 
     AMASIE.
-Vous ne m'avez pas encore tout dit, puisque vous ne m'avez pas dit vostre amant [181].
+Vous ne m'avez pas encore tout dit, puisque vous ne m'avez pas dit vostre amant [181]. 
 
     BERENICE.
 Contentez-vous de sçavoir que j'aime ; et puisque c'est principalement par l'objet⁎, que l'amour merite du blasme, ou qu'il est digne de loüange, je ne sçaurois [182] parler davantage, sans me mettre enfin au hazard⁎ de me faire moquer de moy.
@@ -1159,7 +1159,7 @@ J'ay sans doute interrompu vostre entretien, mais j'ay pour mon excuse le comman
 Le Roy le demande-il ? [195]
 
     TIRINTE.
-Au moins je luy [196] viens parler de sa part.
+Au moins je luy [196] viens parler de sa part. 
 
     AMASIE.
 Pourquoy Tirinte ?
@@ -1205,7 +1205,7 @@ A vostre compte, Berenice, la grandeur seroit la gloire d'un homme : Et la fort
 
     BERENICE.
 Il ne faut point ici s'abuser, si la grandeur ne fait [201] la gloire, au moins elle y contribuë : Mais
-si la vertu de Tarsis a fait naistre mon amour vous ne devez pas le [202] condamner, [203]
+si la vertu de Tarsis a fait naistre mon amour vous ne devez pas le [202] condamner, [203] 
 
     AMASIE.
 C'est assez de respecter la vertu⁎ en ceux qui sont plus grands que nous.
@@ -1226,7 +1226,7 @@ Vous faites par cette raison une injure à vostre amant ; il est Roy, il vous a
 Oüy, ma sœur, cette amour seroit une bassesse que je detesterois moy-mesme, si les Roys n'estoient differens des autres hommes. Mais il n'appartient qu'aux Dieux et aux Roys de s'abaisser en leurs amours, car comme tout est bas, à l'esgard des Dieux et des Roys, ils n'aymeroient jamais personne, s'ils ne devoient jamais aymer que des objets⁎ proportionnez à leur grandeur. Enfin, ma sœur, si l'on commet une faute en aymant un moindre que soy, il vaut mieux qu'un autre la commette à nostre avantage que si nous la commettions en faveur d'un autre. Vous appellerez vostre amour generosité⁎ et d'autres l'appelleront bassesse.
 
     AMASIE.
-Vous appellerez vostre amour grandeur de courage⁎, et d'autres l'appelleront temerité.
+Vous appellerez vostre amour grandeur de courage⁎, et d'autres l'appelleront temerité. 
 
     BERENICE.
 Il vaut mieux faire des temerites que des bassesses.
@@ -1250,7 +1250,7 @@ Mais si ayant les mesmes perfections, il estoit d'une moindre condition que vous
 J'aymerois tousjours ses perfections, mais si mon amour vouloit passer jusqu'à sa personne, je lui couperois les ayles⁎, et je sçaurois bien l'empescher de ne croistre que pour ma honte.
 
     AMASIE.
-Vous l'aymeriez asseurement, car il ne s'en faut guere qu'une fille n'ayme un homme quand elle est amoureuse de sa vertu⁎.
+Vous l'aymeriez asseurement, car il ne s'en faut guere qu'une fille n'ayme un homme quand elle est amoureuse de sa vertu⁎. 
 
     BERENICE.
 Je resisterois mieux que vous. Mais voicy mon Pere qui reconduit Tirinte.
@@ -1270,7 +1270,7 @@ Vous m'en avez assez dit, pour lui monstrer vostre sentiment. Mais…
 Ne me demandez point d'autres raisons.
 
     TIRINTE.
-Je vay donc retrouver le Roy.
+Je vay donc retrouver le Roy. 
 
 
 ### SCENE CINQUIESME.
@@ -1319,7 +1319,7 @@ BERENICE, AMASIE.
 Il se retire, ma sœur, resolu de nous en emmener. Helas ! si nous aymons veritablement, que de maux nous sont preparez. Mais taschez de trouver Tirinte, faite en sorte de sçavoir ce qu'il a dit à mon Pere, s'il vous ayme comme vous dites, il ne refusera pas de vous communiquer un secret.
 
     AMASIE.
-Je ne doute point qu'il ne me l'apprenne, je vay tascher de le rencontrer. Aussi bien voicy vostre amant.
+Je ne doute point qu'il ne me l'apprenne, je vay tascher de le rencontrer. Aussi bien voicy vostre amant. 
 
 
 ### SCENE SEPTIESME.
@@ -1339,10 +1339,9 @@ Que j'en sçache au moins le sujet.
 On veut recommencer mes maux, on veut m'enlever de ce pays.
 
     TARSIS.
-On veut vous enlever [214], Madame ! Quel est le temeraire qui se peut vanter de cette entreprise ? Ha ! Berenice, avez-vous tant de defiance de mon pouvoir et de mon amour, que ce dessein temeraire vous doive donner de la tristesse ? Si c'est un homme il s'en repentira bien-tost, et si c'est un Dieu, je luy sçauray disputer une si glorieuse proye.
+On veut vous enlever [214], Madame ! Quel est le temeraire qui se peut vanter de cette entreprise ? Ha ! Berenice, avez-vous tant de defiance de mon pouvoir et de mon amour, que ce dessein temeraire vous doive donner de la tristesse ? Si c'est un homme il s'en repentira bien-tost, et si c'est un Dieu, je luy sçauray disputer une si glorieuse proye. 
 
     BERENICE. 
-            
 Helas ! c'est un homme qui m'enleve ; et c'est un homme que mon devoir m'oblige de suivre. Enfin pour vous dire tout, c'est mon Pere.
 
     TARSIS.
@@ -1355,7 +1354,7 @@ Je ne sçaurois vous en rien dire, mais enfin il a resolu de s'en aller.
 Il a donc resolu de me rendre malheureux, il a donc aussi resolu de me priver de la vie. Helas ! Berenice, mais il me seroit honteux de faire des plaintes, si auparavant je n'avois fait tous mes efforts pour m'opposer à mon malheur. Réservons donc nos soupirs pour les donner au desespoir [215], si je suis assez malheureux pour ne pouvoir vous conserver. Ha ! Madame, donnez moy la permission de m'opposer à vostre Pere, mais c'est vous mettre encore en peine que de vous faire cette demande ; non, non, ne me respondez point, la permission que je veux avoir, mon amour me la donne, et j'ay des-ja trop differé de m'en servir. Je vay trouver le Roy, Madame, et si mon entreprise ne me succede⁎ je vous suivray malgré vous mesme, et je tesmoigneray par tout en quelle estime on doit vous avoir, puisque des fils de Roys sont vos esclaves. Comme je serois capable d'acquerir des Empires, si c'estoit par des Empires que l'on vous pouvoit meriter, je serois capable aussi de les abandonner pour vous, si je ne vous pouvois posseder qu'en abandonnant la Couronne.
 
     BERENICE.
-Seigneur, Tirinte vous dira [216], mais il ne m'entend pas, et sa passion l'emporte [217] ; attendons le succez⁎ de son dessein, et de peur de nous donner un nouveau sujet de plainte, n'esperons rien à nostre avantage.
+Seigneur, Tirinte vous dira [216], mais il ne m'entend pas, et sa passion l'emporte [217] ; attendons le succez⁎ de son dessein, et de peur de nous donner un nouveau sujet de plainte, n'esperons rien à nostre avantage. 
 
 
 ## ACTE II.
@@ -1422,7 +1421,7 @@ Mais de qui la tenez vous.
 Je la tiens d'une personne qui ne m'a pû dire ses raisons, mais qui sçait fort bien son dessein.
 
     LE ROY.
-Il faut tascher de s'y opposer.
+Il faut tascher de s'y opposer. 
 
     TARSIS.
 Je croy cela necessaire.
@@ -1431,7 +1430,7 @@ Je croy cela necessaire.
 Il faut tascher de le retenir, et de l'attacher pres de nous par des liens [221] si fermes et si agreables [222], qu'il craigne plutost qu'ils ne se rompent qu'il n'ayt envie de les rompre.
 
     TARSIS.
-Toutes sortes de considerations vous y doivent obliger [223]. C'est vous conserver des forces que de le conserver pres de vous, et c'est vous mettre en estat d'adjouter de nouveaux triomphes à vos anciennes victoires. Il est aymé dans vostre Empire, il est en veneration parmy les estrangers, vos ennemis le redoutent, et la perte que nous en ferions les consoleroit facilement de la perte de douze batailles. D'ailleurs, comme il n'y a point de vertu⁎ constante et si bien approuvée, dont un Roy qui sçait regner ne doive entrer en defiance, lui pourroit-on raisonnablement permettre de sortir de ce païs, apres luy avoir permis d'entrer dans la connoissance de nos secrets. Ce n'est pas que je soupçonne sa vertu⁎, mais je suis de ce sentiment qu'il ne faut pas se mettre au hazard⁎ d'avoir lieu de le soupçonner. Il faut comme vostre Majesté vient de dire, le retenir en ce Pays par des chaines [224] si agreables qu'elles fassent tout ensemble sa gloire et sa felicité : Et pour moy je jugerois qu'il faudroit le retenir par quelque aliance avantageuse.
+Toutes sortes de considerations vous y doivent obliger [223]. C'est vous conserver des forces que de le conserver pres de vous, et c'est vous mettre en estat d'adjouter de nouveaux triomphes à vos anciennes victoires. Il est aymé dans vostre Empire, il est en veneration parmy les estrangers, vos ennemis le redoutent, et la perte que nous en ferions les consoleroit facilement de la perte de douze batailles. D'ailleurs, comme il n'y a point de vertu⁎ constante et si bien approuvée, dont un Roy qui sçait regner ne doive entrer en defiance, lui pourroit-on raisonnablement permettre de sortir de ce païs, apres luy avoir permis d'entrer dans la connoissance de nos secrets. Ce n'est pas que je soupçonne sa vertu⁎, mais je suis de ce sentiment qu'il ne faut pas se mettre au hazard⁎ d'avoir lieu de le soupçonner. Il faut comme vostre Majesté vient de dire, le retenir en ce Pays par des chaines [224] si agreables qu'elles fassent tout ensemble sa gloire et sa felicité : Et pour moy je jugerois qu'il faudroit le retenir par quelque aliance avantageuse. 
 
     LE ROY.
 C'est la mon sentiment, Tarsis ; et c'est à quoy je travaille.
@@ -1464,7 +1463,7 @@ Oüy, mon fils, je puis l'arrester par ce bien, et mon repos en depend.
 Ainsi vostre repos ne depend que de vostre volonté.
 
     LE ROY.
-Je serois mon ennemy, si je ne voulois y consentir.
+Je serois mon ennemy, si je ne voulois y consentir. 
 
     TARSIS.
 Ha ! Sire ce consentement est ce grand bien que j'ay attendu ; et que j'ay tousjours estimé plus considerable⁎ que la Couronne.
@@ -1473,7 +1472,7 @@ Ha ! Sire ce consentement est ce grand bien que j'ay attendu ; et que j'ay tou
 Mais bien que Berenice soit d'une naissance illustre, et que ses beautez soient merveilleuses, elle n'est ny Reine ny Princesse, et en [229] l'Estat où vous estes vous ne devez penser qu'à l'alliance des autres Rois. Vous devez alier le throsne au throsne, et si l'amour vous enflamme pour une autre que pour une Reyne, vous le devez croire vostre ennemy. La bonne grace et la beauté sont sans doute de puissans moyens pour attirer de jeunes cœurs, mais ce ne sont pas là les charmes qui doivent captiver les Rois, et c'est principalement en leur faisant resistance qu'un Roy peut faire connoistre qu'il est au dessus des autres hommes.
 
     TARSIS.
-Il est vray que Berenice n'est pas Reyne, mais il ne s'en faut [230] que vostre consentement. Et peut-estre que le Ciel qui veut la felicité de cet Estat ne la fit venir en cette Cour, que pour estre le lien qui vous arrestera son pere. Si vous croyez que mon amour soit trop basse, il ne tiendra qu'à vous que je n'ayme une Reyne, puisqu'il ne tiendra qu'à vous que Berenice ne la devienne.
+Il est vray que Berenice n'est pas Reyne, mais il ne s'en faut [230] que vostre consentement. Et peut-estre que le Ciel qui veut la felicité de cet Estat ne la fit venir en cette Cour, que pour estre le lien qui vous arrestera son pere. Si vous croyez que mon amour soit trop basse, il ne tiendra qu'à vous que je n'ayme une Reyne, puisqu'il ne tiendra qu'à vous que Berenice ne la devienne. 
 
     LE ROY.
 Il ne tiendra jamais à moy ; mais comme cette affaire est grande, elle merite bien d'estre consultée, et qu'on y pense avec attention.
@@ -1502,7 +1501,7 @@ Voudriez-vous user de force ?
 Je mettray tout en usage.
 
     TIRINTE.
-Ha ! Sire, on ne gagne pas les cœurs comme les Empires, et l'amour est un enfant de la volonté et non pas de la violence.
+Ha ! Sire, on ne gagne pas les cœurs comme les Empires, et l'amour est un enfant de la volonté et non pas de la violence. 
 
     LE ROY.
 Hé bien, Tirinte, voy Berenice, et descouvre luy mon amour. Peut-estre que comme elle est digne de regner elle en aura l'ambition.
@@ -1520,7 +1519,7 @@ Sa sœur ! Amasie !
 Oüy, Tirinte, je donneray à mon fils la sœur de Berenice, je lui donneray Amasie, qu'en dites-vous ?
 
     TIRINTE.
-Que ce remede de vostre mal est digne veritablement de l'esprit qui l'a inventé, et que Criton manqueroit de sagesse s'il ne vouloit pas escouter des conditions si favorables. Mais, Sire, si le Prince vostre fils a de l'amour pour Berenice, pensez-vous qu'il puisse aimer Amasie.
+Que ce remede de vostre mal est digne veritablement de l'esprit qui l'a inventé, et que Criton manqueroit de sagesse s'il ne vouloit pas escouter des conditions si favorables. Mais, Sire, si le Prince vostre fils a de l'amour pour Berenice, pensez-vous qu'il puisse aimer Amasie. 
 
     LE ROY.
 Il s'y resoudra bïen-tost, quand il sçaura ma volonté.
@@ -1535,7 +1534,7 @@ Ne me fais point de questions, contente toy de m'obeïr, la sœur de Berenice es
 Oüy, Sire, et je serois le plus aveugle de tous les hommes si je ne connaissois la force, et la puissance de sa beauté [234]. Mais vous ne pouvez ignorer que quand l'amour est dans nostre ame il ne permet pas à nos yeux de trouver rien de beau que l'objet⁎ [235] qu'il nous fait aymer. Peut-estre que le Prince ne sera pas exempt de cette loy, et comme il n'y a rien, qui nous empesche tant d'aymer que les commandemens qu'on nous en fait, il aura, peut-estre, de la peine à vous obeïr quand vous luy commanderez d'aymer Amasie.
 
     LE ROY.
-Il se soumettra, Tirinte.
+Il se soumettra, Tirinte. 
 
     TIRINTE.
 Je ne voudrois pas mettre au hazard⁎ de vous faire voir le contraire.
@@ -1559,7 +1558,7 @@ Mais il faudra que tu l'accompagnes par tout, et que durant son esloignement tu 
 C'est tousjours en revenir au mesme poinct. Pour moy je crains avec raison de ne pouvoir vous satisfaire, et que mon travail ne responde pas à ma volonté.
 
     LE ROY.
-Considere qui t'a obligé, et par la grandeur du service que tu me rendras, juge de la grandeur de la recompense. Mais enfin va dire à Criton que je veux parler à luy [236].
+Considere qui t'a obligé, et par la grandeur du service que tu me rendras, juge de la grandeur de la recompense. Mais enfin va dire à Criton que je veux parler à luy [236]. 
 
 
 ### SCENE QUATRE.
@@ -1579,7 +1578,7 @@ Tirinte, ne blasmez point ma curiosité. Dites moy je vous supplie, pourquoy le 
 Helas, Madame, c'est un dessein qui ne peut reussir qu'à ma ruine ; mais la consolation que j'y trouve, c'est qu'il ne peut reussir que pour vostre gloire.
 
     AMASIE.
-Comment, Tirinte ?
+Comment, Tirinte ? 
 
     TIRINTE.
 Vous le sçaurez assez tost.
@@ -1603,7 +1602,7 @@ Moy, Tirinte !
 Vous, Madame, à quoy vous estiez vous resoluë ?
 
     AMASIE.
-Je vous le demande, Tirinte ; ne devez-vous pas sçavoir ma resolution, puisque vous ne pouvez ignorer que je ne manque pas de generosité⁎ ?
+Je vous le demande, Tirinte ; ne devez-vous pas sçavoir ma resolution, puisque vous ne pouvez ignorer que je ne manque pas de generosité⁎ ? 
 
     TIRINTE.
 Quoy, Madame, espererois-je en ma faveur, que l'amour, dont vous m'honorez, priveroit vostre vertu⁎ de la Couronne qu'on luy presente, et qu'elle merite si justement ?
@@ -1621,7 +1620,7 @@ Celle qui me sera la plus honorable.
 C'est-à-dire, Madame, que vous estes resoluë de me perdre.
 
     AMASIE.
-C'est à dire, Tirinte, mais voicy Leonide.
+C'est à dire, Tirinte, mais voicy Leonide. 
 
 
 ### SCENE SIXIESME.
@@ -1641,7 +1640,7 @@ Que sans aller plus avant [239] vous le vinssiez trouver de ce pas⁎.
 Allez, Tirinte, allez le trouver !
 
     TIRINTE.
-Je vous obeïs, Madame, comme pour vous tesmoigner que vous estes desja ma Reine, et que je suis vostre sujet. [240]
+Je vous obeïs, Madame, comme pour vous tesmoigner que vous estes desja ma Reine, et que je suis vostre sujet. [240] 
 
 
 ## ACTE III.
@@ -1691,7 +1690,7 @@ Quoy, si Tirinte m'ayme, il ne considerera point la gloire que je trouve en l'ab
 Vous estes donc resoluë de le perdre.
 
     AMASIE.
-On se console bien-tost de la perte d'un amant par l'acquisition d'une Couronne.
+On se console bien-tost de la perte d'un amant par l'acquisition d'une Couronne. 
 
     BERENICE.
 Que vostre amour est parfaite.
@@ -1721,7 +1720,7 @@ J'ayme autant la Couronne dessus ma teste, que sur la teste d'une autre.
 Veritablement cette ambition est fort belle, et digne d'un cœur genereux [243].
 
     AMASIE.
-Elle n'est pas plus criminelle en moy, qu'elle l'estoit tantost en vous [244] ; et apres tout, ce ne seroit pas estre raisonnable, que de vouloir prendre la fuite quand on est appellé dans le throsne.
+Elle n'est pas plus criminelle en moy, qu'elle l'estoit tantost en vous [244] ; et apres tout, ce ne seroit pas estre raisonnable, que de vouloir prendre la fuite quand on est appellé dans le throsne. 
 
     BERENICE.
 Vous avez raison, Amasie, et pour moy je vous conseille d'y courir tout de ce pas⁎.
@@ -1745,7 +1744,7 @@ Cela est vray, Berenice, mais quoy que l'on puisse faire, je n'obeïray jamais �
 Mais quel est le dessein du Roy, qui veut vous donner à Tarsis. Est-ce là le sujet qui chasse mon pere de ce païs ?
 
     AMASIE.
-C'est ce que je n'ay pû encore sçavoir.
+C'est ce que je n'ay pû encore sçavoir. 
 
     BERENICE.
 C'est ce qui m'estonne, et ce qui me tuë. Je viens de recevoir cette lettre de Tarsis, par laquelle il me mande⁎ que le Roy le veut envoyer en Chypre [247], qu'il doit partir dés demain ; et qu'il semble qu'on luy envie le contentement [248] de me voir. Que dois-je juger de cette lettre ; regardez-la, ma sœur, et taschez si pouvez de trouver des consolations aux maux que je me figure. Toutes mes esperances se sont converties en craintes, et toutes choses m'affligent où toutes choses me consoloient.
@@ -1762,7 +1761,7 @@ CRITON, AMASIE, BERENICE.
 Quelle lettre lisent-elles ? Amasie, que lisez-vous ?
 
     AMASIE.
-Rien, Monsieur.
+Rien, Monsieur. 
 
     BERENICE, *à part.*
 Quelle surprise ?
@@ -1810,7 +1809,7 @@ Vous pouviez bien vous empescher de recevoir de ses lettres.
 J'ay respecté la condition. [251]
 
     CRITON.
-Il falloit respecter vostre honneur.
+Il falloit respecter vostre honneur. 
 
     AMASIE.
 C'est la premiere fois que j'ay receu de ses lettres, et l'on m'a donné celle-cy sans me dire ce que c'estoit.
@@ -1833,7 +1832,7 @@ CRITON, BERENICE.
 
 
     CRITON.
-Mais vous, Berenice, avez-vous dû souffrir⁎ cette amour  [253] ? Et ne dois-je pas vous accuser de l'aveuglement de vostre sœur, si en ayant eu connoisance, vous n'avez pas fait vos efforts pour luy apporter sa guerison ? Comme elle a manqué de bon sens, avez-vous manqué de sagesse ? Et n'avez-vous pas reconnu qu'elle couroit à un precipice, d'où il est bien difficile que l'honneur se puisse sauver.
+Mais vous, Berenice, avez-vous dû souffrir⁎ cette amour  [253] ? Et ne dois-je pas vous accuser de l'aveuglement de vostre sœur, si en ayant eu connoisance, vous n'avez pas fait vos efforts pour luy apporter sa guerison ? Comme elle a manqué de bon sens, avez-vous manqué de sagesse ? Et n'avez-vous pas reconnu qu'elle couroit à un precipice, d'où il est bien difficile que l'honneur se puisse sauver. 
 
     BERENICE.
 J'ay fait, Monsieur, tout ce que vous dites, j'ay resisté de toutes mes forces à la naissance de cette amour. [254]
@@ -1854,7 +1853,7 @@ Je ne vous en ay point parlé, parce que je sçay avec asseurance, que l'amour e
 Berenice, l'amour est un traistre qui sçait feindre adroitement d'estre d'accord avec l'honneur, quand il medite sa ruine, et qu'il veut s'en faire un trophée.
 
     BERENICE.
-Je pourrois bien vous asseurer que dans le cœur d'Amasie l'amour est un noble esclave, de qui l'honneur est tousjours le maistre.
+Je pourrois bien vous asseurer que dans le cœur d'Amasie l'amour est un noble esclave, de qui l'honneur est tousjours le maistre. 
 
     CRITON.
 Ha, que vous connoissez mal les artifices de l'amour ! Mais voulez-vous me faire croire que vous estes d'intelligence⁎ avec vostre sœur ?
@@ -1887,7 +1886,7 @@ Je ne doute point qu'il ne luy en ayt fait des promesses ; mais que ne promet p
 S'il ne tient pas sa parole, comme amant, il la tiendra comme genereux, et comme Prince.
 
     CRITON.
-Comme genereux et comme Prince ! Quand il se souviendra qu'il est Prince, il ne se souviendra plus qu'il est amant.
+Comme genereux et comme Prince ! Quand il se souviendra qu'il est Prince, il ne se souviendra plus qu'il est amant. 
 
     BERENICE.
 Vous avez mauvaise opinion de Tarsis, si vous le croyez capable de violer ses sermens, et de faire des tromperies [262].
@@ -1908,7 +1907,7 @@ Mais nous sommes d'une naissance… [265]
 Ne me contestez point davantage, le Prince doit venir icy, il le mande⁎ par cette lettre ; je veux que vous l'attendiez.
 
     BERENICE.
-Moy.
+Moy. 
 
     CRITON.
 Oüy, je veux que vous l'attendiez, et que vous repariez vos fautes en vous opposant à son amour.
@@ -1970,7 +1969,7 @@ Je vous conjure maintenant de me priver de vostre amour, et de me donner vostre 
 Qu'il m'accuse de toutes choses, pourveu que je ne puisse vous accuser d'avoir oublié que je vous aime. Qu'il me ravisse l'Empire, et qu'il m'arrache la Couronne, il ne m'aura rien osté, pourveu qu'il ne m'oste pas vostre amour. Vostre cœur est mon empire, vostre cœur est ma couronne, et si je suis tousjours aimé, je seray tousjours heureux.
 
     BERENICE.
-Vous serez donc tousjours heureux, puisque vous serez tousjours aimé ; mais voulez-vous que l'on publie⁎ que la miserable⁎ Berenice arma le fils contre le pere, et qu'elle mit dans la nature une si horrible confusion ? Faites dessus vous un effort pour me délivrer de ce reproche.
+Vous serez donc tousjours heureux, puisque vous serez tousjours aimé ; mais voulez-vous que l'on publie⁎ que la miserable⁎ Berenice arma le fils contre le pere, et qu'elle mit dans la nature une si horrible confusion ? Faites dessus vous un effort pour me délivrer de ce reproche. 
 
     TARSIS.
 Si ce malheur arrivoit, on le reprocheroit au Roy qui ne sçait pas se reconnoistre en l'âge où nous le voyons.
@@ -2000,10 +1999,10 @@ Vostre départ est donc resolu.
 Ouy, ma mort est resoluë ; et vous pouvez vous imaginer la violence qui se fait dans un corps, quand il est prest de rendre l'ame, vous sçaurez ce que je souffre aujourd'huy que l'on m'oblige à me separer de vous. Mais pour me donner la force de vous faire mes adieux, et de commencer nostre absence [272], permettez moy d'esperer que cette puissance souveraine [273] qui m'esloigne de vos yeux, ne m'esloigne pas de vostre cœur [274].
 
     BERENICE.
-Je vous le promets, Seigneur, et je me retire ; aussi bien aprés cette parole ne pouvant plus vous rien dire, et ne pouvant vous dire adieu, je ne vous puis donner que des larmes.
+Je vous le promets, Seigneur, et je me retire ; aussi bien aprés cette parole ne pouvant plus vous rien dire, et ne pouvant vous dire adieu, je ne vous puis donner que des larmes. 
 
     TARSIS.
-Commence à souffrir, malheureux, puis que tu cesses de la voir. Helas ! cette absence ne vient que de commencer, et si je la considere par mes maux, elle a duré des siècles.
+Commence à souffrir, malheureux, puis que tu cesses de la voir. Helas ! cette absence ne vient que de commencer, et si je la considere par mes maux, elle a duré des siècles. 
 
 
 ## ACTE IV.
@@ -2026,7 +2025,7 @@ Parlez plus clairement, Tirinte.
 Il m'avoit commandé de voir Berenice, pour luy parler de son amour, et il me renvoyoit querir pour me commander de voir vostre pere, afin de luy faire sçavoir que comme il est resolu d'espouser Berenice, il vouloit que le Prince espousast Amasie. Voila son commandement, voila ma peine. Je viens apprendre de vous ce que vous voulez que je fasse, et si vostre commandement autorisera celuy de Roy. Ne faites point de difficulté de me dire vos volontez [275]; je ne suis pas de ces lâches de qui [276] l'interest est le maistre, si vous voulez une couronne, je m'efforceray de vous l'acquerir au despens de mes esperances et de ma felicité. Parlez-moy donc librement, je suis prest à travailler contre moy s'il faut travailler pour vostre gloire. Je puis enfin me resoudre à vous perdre, et à me priver de vous mesme, si je ne puis autrement vous tesmoigner mon amour, et pour en donner des marques et plus nouvelles et plus estranges ; je puis vous conseiller de m'estre infidelle, si l'infidelité vous profite, et qu'elle vous fasse un chemin à l'empire que vous meritez. Certes, je ne feray pas toutes ces choses, sans faire dessus mon esprit une extréme violence, mais lors que vostre perte m'aura rendu malheureux, vostre felicité me consolera ? aussi je ne puis vivre aprés avoir perdu l'esperance, je sortiray content de la vie, si je vous laisse dans un throsne.
 
     AMASIE.
-Il me semble, Tirinte, que je ne vous ay point donné sujet de me tenir ce discours ; je vous ay tousjours monstré plus d'amour que d'ambition, et puisque j'ay eu la hardiesse de vous dire que je vous ayme [277], vous devez en estre persuadé.
+Il me semble, Tirinte, que je ne vous ay point donné sujet de me tenir ce discours ; je vous ay tousjours monstré plus d'amour que d'ambition, et puisque j'ay eu la hardiesse de vous dire que je vous ayme [277], vous devez en estre persuadé. 
 
     TIRINTE.
 Aussi ne viens-je pas vous demander de nouvelles marques de vostre amour, mais je viens vous en donner de la mienne. Je viens enfin vous demander, comment vous voulez que j'agisse dans l'extremité qui me menace, et de vous perdre et de mourir [278]. Le Roy m'a commandé d'aller dire à vostre pere qu'il vous destine à son fils, que voulez-vous que je fasse.
@@ -2056,13 +2055,13 @@ Si vous desobeïssez au Roy, vostre disgrace est asseurée.
 Enfin que voulez-vous que je fasse ?
 
     AMASIE.
-Je n'en sçay rien, Tirinte, resolvez [279], je vous laisse faire.
+Je n'en sçay rien, Tirinte, resolvez [279], je vous laisse faire. 
 
 
 ### SCENE DEUXIESME.
 
     TIRINTE, *seul*.
-Dans quelle inquietude me laissez vous, Amasie ? Et quelle main favorable me retirera de ce dedale, où vous m'engagez vous mesme ? Venez, venez m'asseurer que vous voulez bien me perdre, ou que vous voulez me conserver, et je sçauray ce qu'il faudra que je resolve. N'avez-vous osé me dire que l'ambition a triomphé de vostre amour ? Que je resolve, dites vous ; hé bien, il faut vous contenter : Hé bien, il faut obeïr au Roy, et vous donner sujet de dire pour excuser vostre inconstance, que je suis cause de mon malheur. Si vous voulez une couronne, et si je vous ayme parfaitement, je ne dois point consulter⁎ entre vostre gloire et mon repos.
+Dans quelle inquietude me laissez vous, Amasie ? Et quelle main favorable me retirera de ce dedale, où vous m'engagez vous mesme ? Venez, venez m'asseurer que vous voulez bien me perdre, ou que vous voulez me conserver, et je sçauray ce qu'il faudra que je resolve. N'avez-vous osé me dire que l'ambition a triomphé de vostre amour ? Que je resolve, dites vous ; hé bien, il faut vous contenter : Hé bien, il faut obeïr au Roy, et vous donner sujet de dire pour excuser vostre inconstance, que je suis cause de mon malheur. Si vous voulez une couronne, et si je vous ayme parfaitement, je ne dois point consulter⁎ entre vostre gloire et mon repos. 
 
 
 ### SCENE TROISIESME.
@@ -2097,7 +2096,7 @@ Quoy, Seigneur, vous estes vous resolu de luy ceder Berenice, et d'aymer enfin A
 Au moins j'ay feint de m'y resoudre, et j'ay gaigné par cette feinte le retardement de mon voyage. [283]
 
     TIRINTE.
-Je ne sçay si cette feinte ne vous trompera point vous mesme, et j'ay sujet d'apprehender qu'elle ne vous devienne funeste.
+Je ne sçay si cette feinte ne vous trompera point vous mesme, et j'ay sujet d'apprehender qu'elle ne vous devienne funeste. 
 
     TARSIS.
 En quoy funeste ?
@@ -2124,7 +2123,7 @@ Pourquoy Tirinte ?
 Parce que j'allois faire une chose qui vous eust esté desagreable, et qui m'eust acquis vostre disgrace, puis qu'elle eust offensé vostre amour. Mais enfin à quoy vous servira cette feinte ?
 
     TARSIS.
-Durant le temps que je feindray, Berenice lassera le Roy à force de luy resister.
+Durant le temps que je feindray, Berenice lassera le Roy à force de luy resister. 
 
     TIRINTE.
 Peut-estre qu'à force d'endurer⁎ le Roy gaignera Berenice.
@@ -2166,7 +2165,7 @@ Je viens de voir Berenice, qui luy en parle peut-estre à l'heure que [285] nous
 Mais que diray-je au Roy, qui m'envoyoit parler à Criton.
 
     TARSIS.
-Invente ce que tu voudras, mais enfin retire toy.
+Invente ce que tu voudras, mais enfin retire toy. 
 
 
 ### SCENE QUATRE*ME.*
@@ -2192,7 +2191,7 @@ Que me venez-vous apprendre.
 Il n'y a plus rien qui puisse empescher mon pere de retourner en Sicile.
 
     TARSIS.
-Le Roy consent-il à son retour ?
+Le Roy consent-il à son retour ? 
 
     BERENICE.
 Le tyran de la Sicile est mort.
@@ -2210,7 +2209,7 @@ Non, non, Berenice, je ne vous verray point reduite à cette fascheuse extremit�
 Il a des pretentions dans la Sicile, qui l'empescheront d'escouter vostre amour, et qui l'obligeront sans doute à refuser tous les honneurs que vous pourriez luy presenter.
 
     TARSIS.
-Que pretend il dans la Sicile de plus avantageux, qu'en ce païs.
+Que pretend il dans la Sicile de plus avantageux, qu'en ce païs. 
 
     BERENICE.
 Au moins il y sera dans sa Patrie [288].
@@ -2225,7 +2224,7 @@ Mais on croid qu'ils sont plus doux quand on les gouste parmy les siens, et que 
 Mais comment me croyez vous foible contre tous ces ennemis, si vous croyez que je vous aime [289] ? L'amour manque-il de forces, quand il peut estre soustenu par la puissance d'un Monarque ? J'ay fait la guerre pour conserver la couronne, je sçauray bien l'entreprendre pour me conserver Berenice.
 
     BERENICE.
-Que plûtost le Ciel me perde pour vous oster le sujet d'une entreprise si criminelle. Mais voicy mon pere.
+Que plûtost le Ciel me perde pour vous oster le sujet d'une entreprise si criminelle. Mais voicy mon pere. 
 
 
 ### SCENE CINQUIESME.
@@ -2245,7 +2244,7 @@ Si vous le sçavez, vous devez donc cesser d'aimer.
 Certes, Criton, je ne comprens pas pourquoy vous ne pouvez souffrir⁎ mon amour ; est-ce que vous ignorez qui je suis ?
 
     CRITON.
-C'est par ce que vous ignorez qui vous estes.
+C'est par ce que vous ignorez qui vous estes. 
 
     TARSIS.
 Pensez-vous que l'amour m'aveugle, et qu'il m'oste la connoissance de ce que je suis.
@@ -2289,7 +2288,7 @@ LEONIDE, CRITON.
 
 
     LEONIDE.
-Criton, le Roy vous attend il y a long-temps, et m'a commandé de vous amener.
+Criton, le Roy vous attend il y a long-temps, et m'a commandé de vous amener. 
 
     CRITON.
 Que feray-je ! Allons Leonide.
@@ -2298,7 +2297,7 @@ Que feray-je ! Allons Leonide.
 ### SCENE SEPTIESME.
 
     TARSIS, *seul.*
-Quelle nouvelle, chere Berenice ! et quel plus grand estonnement a jamais surpris un esprit. Ha ! Berenice ; si Amasie est vostre sœur, et que je sois frere d'Amasie, de quel œil vous regarderay-je ? Puis-je sans crime et sans horreur vous regarder avec amour [295] ? Vous, ma sœur, moy vostre frere, et en mesme temps vostre amant ? Hé ! quoy, Berenice, cette amour incomparable, dont je brusle aujourd'huy pour vous, n'est-elle pas un effet⁎ de vostre beauté, est-ce seulement un effet du sang [296] ? Non, non, il est impossible que le sang puisse allumer de si grands feux ; j'aime, j'aime Berenice d'une passion trop violente, et il n'appartient qu'à la beauté de faire naistre dans les ames de si estranges⁎ embrasements. O Berenice ! n'aurois-je donc que de l'amitié, quand je pense avoir de l'amour ? Et lors que par tant de peines, je tâchois de faire aimer le miserable⁎ Tarsis, ne travaillois-je seulement qu'à vous faire aymer vostre frere ? Mais doy-je croire cette avanture⁎, helas ! je voudrois en estre instruit, et je crains pourtant de m'en instruire. Que de peines ! que de maux ! que de supplices ! et que l'on endure⁎ de tourmens, quand il faut qu'une amour extréme se convertisse en amitié [297].
+Quelle nouvelle, chere Berenice ! et quel plus grand estonnement a jamais surpris un esprit. Ha ! Berenice ; si Amasie est vostre sœur, et que je sois frere d'Amasie, de quel œil vous regarderay-je ? Puis-je sans crime et sans horreur vous regarder avec amour [295] ? Vous, ma sœur, moy vostre frere, et en mesme temps vostre amant ? Hé ! quoy, Berenice, cette amour incomparable, dont je brusle aujourd'huy pour vous, n'est-elle pas un effet⁎ de vostre beauté, est-ce seulement un effet du sang [296] ? Non, non, il est impossible que le sang puisse allumer de si grands feux ; j'aime, j'aime Berenice d'une passion trop violente, et il n'appartient qu'à la beauté de faire naistre dans les ames de si estranges⁎ embrasements. O Berenice ! n'aurois-je donc que de l'amitié, quand je pense avoir de l'amour ? Et lors que par tant de peines, je tâchois de faire aimer le miserable⁎ Tarsis, ne travaillois-je seulement qu'à vous faire aymer vostre frere ? Mais doy-je croire cette avanture⁎, helas ! je voudrois en estre instruit, et je crains pourtant de m'en instruire. Que de peines ! que de maux ! que de supplices ! et que l'on endure⁎ de tourmens, quand il faut qu'une amour extréme se convertisse en amitié [297]. 
 
 
 ## ACTE V.
@@ -2312,7 +2311,7 @@ AMASIE, BERENICE.
 Cette avanture⁎ vous met en desordre, et je voy bien que vous avez peine à devenir sœur de Tarsis.
 
     BERENICE.
-Helas ! j'ay honte de l'avoir aimé, puis que c'est mon frere que j'ay aimé comme mon amant. Je pense m'estre renduë criminelle autant de fois que je l'ay regardé, et je ne me tiens pas innocente d'avoir eu si long-temps de l'amour, lors que je devois avoir seulement de l'amitié.
+Helas ! j'ay honte de l'avoir aimé, puis que c'est mon frere que j'ay aimé comme mon amant. Je pense m'estre renduë criminelle autant de fois que je l'ay regardé, et je ne me tiens pas innocente d'avoir eu si long-temps de l'amour, lors que je devois avoir seulement de l'amitié. 
 
     AMASIE.
 C'est une faute de la fortune⁎, qui ne tache point l'innocence.
@@ -2327,7 +2326,7 @@ Si cét amour est une faute, la nature s'en est servie, afin de vous descouvrir 
 Helas ! que cét avantage que vous trouvez d'estre sortie d'un mesme sang, va luy causer de déplaisirs, et peut-estre d'infortunes. Ce nous est [299] sans doute une grande gloire d'avoir un frere si illustre, mais s'il ne peut estre nostre frere, qu'il [300] ne perde la couronne qui brille dé-jà sur sa teste, je vous le confesse, Amasie, il me fasche⁎ qu'il soit mon frere, et je souhaiterois [301] plûtost d'estre sa sujete que sa sœur.
 
     AMASIE.
-Mais, le voicy.
+Mais, le voicy. 
 
     BERENICE.
 Helas ! j'ay honte de le voir.
@@ -2371,7 +2370,7 @@ Ha ! Berenice, qui me serez tousjours chere, ou comme sœur ou comme amante ; 
 Ne consultez⁎ pas d'avantage, vous ne pouvez plus demeurer amant sans commencer d'estre criminel ; et si vous conservez vostre amour, vous ne meriterez d'estre aimé, ny comme amant ny comme frere.
 
     TARSIS.
-Donnez, donnez à mon amour pour le moins le temps d'expirer.
+Donnez, donnez à mon amour pour le moins le temps d'expirer. 
 
     BERENICE.
 Il ne luy faut pas plus de temps qu'il en faut pour prononcer le nom de sœur et de frere.
@@ -2407,7 +2406,7 @@ Ce nom de frere me confond⁎, m'en souvenir est mon supplice, et mal gré mesme
 Cessez de m'offenser par cette parole d'amour, qui n'a plus rien dans vostre bouche que d'horrible et d'effroyable.
 
     TARSIS.
-Non, non, Berenice, je ne vous offenceray plus. Enfin, ma sœur, puis qu'il faut prononcer cette parole, aymez un Roy qui vous aime ; la premiere marque que je vous puis donner de mon amitié, c'est de vous conseiller d'aimer un Roy qui vous appelle maintenant au partage de ses grandeurs. Je vous verray passer en ses mains sans douleur, et sans jalousie ; et s'il faut perdre l'esperance de me voir un jour dans le throsne, au moins j'en seray consolé lors qu'une autre que Berenice ne possedera pas un si grand bien, et que je ne perdray ma splendeur que pour en voir ma sœur esclairée.
+Non, non, Berenice, je ne vous offenceray plus. Enfin, ma sœur, puis qu'il faut prononcer cette parole, aymez un Roy qui vous aime ; la premiere marque que je vous puis donner de mon amitié, c'est de vous conseiller d'aimer un Roy qui vous appelle maintenant au partage de ses grandeurs. Je vous verray passer en ses mains sans douleur, et sans jalousie ; et s'il faut perdre l'esperance de me voir un jour dans le throsne, au moins j'en seray consolé lors qu'une autre que Berenice ne possedera pas un si grand bien, et que je ne perdray ma splendeur que pour en voir ma sœur esclairée. 
 
     BERENICE.
 Faut-il que la rencontre d'une sœur vous mette au hazard⁎ de perdre des prosperitez si glorieuses ? Faut-il que je sois funeste à mon frere à l'instant mesme que je le trouve ?
@@ -2425,7 +2424,7 @@ Ils ont crû faire cét honneur au sang de leur Prince.
 Puisque c'est vostre courage qui les a tirez d'oppression, ils ont crû faire cét honneur à la vertu⁎.
 
     TARSIS.
-Quoy qu'il en soit, Berenice, je n'ay plus rien à perdre, puis que je viens de vous perdre ; car enfin, ma fureur se renouvelle, je ne puis vous voir sans amour, et vous n'aurez point d'amans dont vostre frere ne soit jaloux. [306]
+Quoy qu'il en soit, Berenice, je n'ay plus rien à perdre, puis que je viens de vous perdre ; car enfin, ma fureur se renouvelle, je ne puis vous voir sans amour, et vous n'aurez point d'amans dont vostre frere ne soit jaloux. [306] 
 
     BERENICE.
 Ha ! Tarsis, vostre discours m'espouvante, il faut enfin que je me retire, aussi-bien ma triste presence ne pourroit desormais servir qu'à faire croistre vostre crime, puis que vostre amour est un crime.
@@ -2445,7 +2444,7 @@ TIRINTE, TARSIS.
 He bien, Tirinte, Criton a-il veu le Roy.
 
     TIRINTE.
-Non pas encore, et j'allois au devant de⁎ luy pour le presser de venir. Je n'ay jamais veu le Roy dans une si grande impatience. Il s'imagine que vous retenez Criton, et que vous l'instruisez de ce qu'il doit faire.
+Non pas encore, et j'allois au devant de⁎ luy pour le presser de venir. Je n'ay jamais veu le Roy dans une si grande impatience. Il s'imagine que vous retenez Criton, et que vous l'instruisez de ce qu'il doit faire. 
 
     TARSIS.
 Helas, Tirinte, je n'ay plus rien à faire, et je n'ay plus rien à dire : Toutes mes esperances sont ruinées.
@@ -2471,7 +2470,7 @@ Il me semble que mes volontez vous devroient estre plus cheres, et que quand je 
 Moy, Sire.
 
     LE ROY.
-Oüy, vous, et je ne veux point douter que l'amour de Berenice ne vous mette bien tost en estat de me déplaire.
+Oüy, vous, et je ne veux point douter que l'amour de Berenice ne vous mette bien tost en estat de me déplaire. 
 
     TARSIS.
 Je ne vous déplairay jamais par l'amour de Berenice, je sçay le respect que je vous dois, et je sçauray suivre la loy que m'impose ma naissance [308].
@@ -2512,7 +2511,7 @@ Puis que je vous le presente, vous devez vous en croire digne.
 Ha ! Sire, mettez en oubly vostre amour, et permettez que nostre depart soit le remede de vostre passion, quand vous ne verrez plus Berenice, vous cesserez bien-tost de l'aymer. On nous attend en Sicile, le Tyran est mort, nostre pays nous appelle, et je ne puis disposer, ny de moy ny de mes enfans, puis que nous appartenons à nostre patrie, qui nous demande et qui nous appelle.
 
     LE ROY.
-Je voy bien ce que c'est, Criton, vous voulez que j'use de mon pouvoir, et que je ravisse le bien que vous me devriez accorder [310]. Hé bien ! il faut vous monstrer que je suis Roy.
+Je voy bien ce que c'est, Criton, vous voulez que j'use de mon pouvoir, et que je ravisse le bien que vous me devriez accorder [310]. Hé bien ! il faut vous monstrer que je suis Roy. 
 
     CRITON.
 Sire ce n'est pas par violence que vous pouvez le témoigner.
@@ -2533,7 +2532,7 @@ Mais c'est une chose impossible, et la nature en est l'obstacle, helas !
 Parlez Criton, qu'avez vous enfin à me dire ?
 
     CRITON.
-Ha ! Sire, il faut que je parle, et que je descouvre mon crime plûtost que d'en souffrir⁎ de plus grands. Pardonnez à ce miserable⁎ ce que vous en allez entendre. Vous voulez espouser Berenice, et Berenice est vostre fille.
+Ha ! Sire, il faut que je parle, et que je descouvre mon crime plûtost que d'en souffrir⁎ de plus grands. Pardonnez à ce miserable⁎ ce que vous en allez entendre. Vous voulez espouser Berenice, et Berenice est vostre fille. 
 
     LE ROY.
 Berenice ma fille !
@@ -2554,7 +2553,7 @@ Enfin, j'amene icy Berenice, afin de vous rendre vostre sang, en vous rendant vo
 Que mon estonnement⁎ est extresme⁎ ! Dites-nous donc cette avanture⁎.
 
     CRITON.
-Je ne pense pas que vous ayez perdu la mémoire des guerres qui desolérent cét Estat. Il vous souvient [311] de cette cruelle extremité où les Princes de ce Royaume vous reduisirent par une revolte espouvantable. En ce temps là, Sire, vous envoyastes en Sicile la Reine vostre femme, par ce qu'elle n'estoit pas en seureté dans vos Estats, et qu'il estoit à craindre qu'elle receut quelque outrage de ces Princes vos ennemis, qui pretendoient à la Couronne, et qui n'y pou-/ /voient arriver que par vostre mort, et par l'aneantissemens de vostre race. La Reine vint donc en Sicile, où elle fut receuë selon sa condition ; et me fit l'honneur, par ce que vous le desiriez ainsi, de m'appeller aupres d'elle, et mesme de prendre ma maison⁎, pour y demeurer aussi long-temps que dureroient vos malheurs. Elle estoit grosse⁎, comme vous sçavez, et ma femme l'estoit aussi. Jusques là je suis innocent, mais voicy le commencement de mon crime. La Reine qui sçavoit fort bien que tous vos ennemis n'estoient pas en vostre Royaume, ne se confioit qu'à ma femme, et son accouchement fut si secret, que personne n'en eust conoissance que ma femme, deux de mes sœurs et moy. Aussi-tost qu'elle eust apris qu'elle avoit mis au monde une fille (c'est Berenice, que je vous rends) elle me dit les larmes aux yeux que vos affaires estoient ruinées, et que les peuples qui favorisoient dé-ja les rebelles vouloient un Prince et non pas une Princesse. Alors elle se resolut de vous escrire, comme si veritablement elle eust accouché d'un fils ; et me commanda de vous aporter sa lettre et de vous proposer son intention, afin que si vous l'approuviez sa lettre fist conaistre aux peuples que vous aviez un successeur. Comme [312] j'estois prest de partir elle mourut quatre jours apres son accouchement ; mais aussi-tost qu'elle fut morte je fis un dessein si estrange que je m'estonne de son succez. Je m'imaginay que si ma femme accouchoit d'un fils, je pourrois le supposer⁎ en la place de Berenice, et me servir de la lettre de la Reine pour vous faire croire qu'elle vous avoit laissé un successeur. Ainsi je fis en sorte que l'accouchement de ma femme fut secret ; et comme si le Ciel et la nature eussent voulu contribuer à mon dessein, ma femme accoucha d'un fils le lendemain que la Reine mourut. Je supposay⁎ cét enfant en la place de Berenice, et pour vous faire croire qu'il estoit né de la Reine je me servis de sa lettre que je vous apportay avec luy. Vous receustes donc Tarsis pour vostre fils, et je garday Berenice comme si elle eust esté ma fille. Voila, Sire, Voila le crime d'un pere qui se resolut de perdre son fils pour avoir un jour le plaisir de le voir assis sur un throsne, et qui toutesfois dans son crime s'imagina vous rendre service. En effet, Sire, l'arrivée et la presence de Tarsis rendit le respect à vos peuples, estonna⁎ les seditieux, et les fit taire en ce temps là. Ainsi l'on peut dire que Tarsis estant encore en un âge où l'on peut monstrer que des foiblesses, commença à vous servir, et à vous rendre tesmoignage qu'il estoit né seulement pour vous. Mais il semble que je veuille excuser ma faute ; non, non, Sire, punissez mon ambition : et vous Berenice, sollicitez mon chastiment pour vous vanger d'un miserable⁎, qui vous déroba si long-temps les honneurs qui vous estoient deubs, et où vostre naissance vous appelloit.
+Je ne pense pas que vous ayez perdu la mémoire des guerres qui desolérent cét Estat. Il vous souvient [311] de cette cruelle extremité où les Princes de ce Royaume vous reduisirent par une revolte espouvantable. En ce temps là, Sire, vous envoyastes en Sicile la Reine vostre femme, par ce qu'elle n'estoit pas en seureté dans vos Estats, et qu'il estoit à craindre qu'elle receut quelque outrage de ces Princes vos ennemis, qui pretendoient à la Couronne, et qui n'y pou-/ /voient arriver que par vostre mort, et par l'aneantissemens de vostre race. La Reine vint donc en Sicile, où elle fut receuë selon sa condition ; et me fit l'honneur, par ce que vous le desiriez ainsi, de m'appeller aupres d'elle, et mesme de prendre ma maison⁎, pour y demeurer aussi long-temps que dureroient vos malheurs. Elle estoit grosse⁎, comme vous sçavez, et ma femme l'estoit aussi. Jusques là je suis innocent, mais voicy le commencement de mon crime. La Reine qui sçavoit fort bien que tous vos ennemis n'estoient pas en vostre Royaume, ne se confioit qu'à ma femme, et son accouchement fut si secret, que personne n'en eust conoissance que ma femme, deux de mes sœurs et moy. Aussi-tost qu'elle eust apris qu'elle avoit mis au monde une fille (c'est Berenice, que je vous rends) elle me dit les larmes aux yeux que vos affaires estoient ruinées, et que les peuples qui favorisoient dé-ja les rebelles vouloient un Prince et non pas une Princesse. Alors elle se resolut de vous escrire, comme si veritablement elle eust accouché d'un fils ; et me commanda de vous aporter sa lettre et de vous proposer son intention, afin que si vous l'approuviez sa lettre fist conaistre aux peuples que vous aviez un successeur. Comme [312] j'estois prest de partir elle mourut quatre jours apres son accouchement ; mais aussi-tost qu'elle fut morte je fis un dessein si estrange que je m'estonne de son succez. Je m'imaginay que si ma femme accouchoit d'un fils, je pourrois le supposer⁎ en la place de Berenice, et me servir de la lettre de la Reine pour vous faire croire qu'elle vous avoit laissé un successeur. Ainsi je fis en sorte que l'accouchement de ma femme fut secret ; et comme si le Ciel et la nature eussent voulu contribuer à mon dessein, ma femme accoucha d'un fils le lendemain que la Reine mourut. Je supposay⁎ cét enfant en la place de Berenice, et pour vous faire croire qu'il estoit né de la Reine je me servis de sa lettre que je vous apportay avec luy. Vous receustes donc Tarsis pour vostre fils, et je garday Berenice comme si elle eust esté ma fille. Voila, Sire, Voila le crime d'un pere qui se resolut de perdre son fils pour avoir un jour le plaisir de le voir assis sur un throsne, et qui toutesfois dans son crime s'imagina vous rendre service. En effet, Sire, l'arrivée et la presence de Tarsis rendit le respect à vos peuples, estonna⁎ les seditieux, et les fit taire en ce temps là. Ainsi l'on peut dire que Tarsis estant encore en un âge où l'on peut monstrer que des foiblesses, commença à vous servir, et à vous rendre tesmoignage qu'il estoit né seulement pour vous. Mais il semble que je veuille excuser ma faute ; non, non, Sire, punissez mon ambition : et vous Berenice, sollicitez mon chastiment pour vous vanger d'un miserable⁎, qui vous déroba si long-temps les honneurs qui vous estoient deubs, et où vostre naissance vous appelloit. 
 
     AMASIE.
 O Dieux ! quelle avanture⁎ !
@@ -2575,7 +2574,7 @@ Sire, voila cette fille que je vous rends.
 Helas ! cette lettre a renouvellé dans mon ame toutes les douleurs de sa mort. Berenice ma fille.
 
     TARSIS.
-Quel changement, Madame !
+Quel changement, Madame ! 
 
     LE ROY.
 O Dieux ! je n'en sçaurois plus douter, plus je la regarde et plus je remarque en elle les traits⁎, et l'image de sa mere. Ha, Berenice ! il faut enfin que l'amour fasse place à l'amitié ; je cesse de vous aimer, afin de commencer à vous aimer. O fille en qui je revois une mere que j'aimois uniquement, qu'il m'est icy difficile de ne pas mesler des larmes aux embrassemens que je te donne. Ha, Criton ! Ne doi-je pas vous accuser !
@@ -2634,7 +2633,7 @@ FIN.
 
 Dictionnaires cités :*Furetière*Dictionnaire universel
 *Richelet*Dictionnaire français, contenant les mots et les choses, plusieurs nouvelles remarques sur la langue française
-Ayle« Ce mot se dit des vents, de l'amour, de l'esprit, du temps, etc. Mais en ces sens il est un peu poétique » (Rich.)P. 12Allarme« Crainte, trouble » (Rich.)P. 42Apprehension« Crainte, peur violente » (F)P. 46, 52Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution … signifie aussi, Fraude, déguisement, mauvaise finesse » (F)P. 52, 74Aller au devant de quelqu'un« Aller sur le chemin attendre qu'il arrive pour lui faire honneur, ou pour quelque autre cause ; et figurément pour dire, le prévenir » (F)P. 85Avanture« Événement. Chose arrivée à une personne » (Rich.)  P. 52, 68, 76, 77, 79, 82, 93Caracteres« Lettre dont on se sert pour imprimer … Écriture de quelque personne particulière » (Rich.)P. 93Carriere« Se dit figurément en choses spirituelles, et premièrement d'un beau sujet, d'une belle matière où on peut s'exercer à écrire, à discourir » (F)Avis au lecteurCependantPendant ce temps.P. 29, 48, 53Comedie« Pièce de théâtre composée avec art, en prose ou en vers, pour représenter quelque action humaine ; et se dit en ce sens des pièces sérieuses ou burlesques » (F)Avis au lecteurConfondre« Mêler ensemble, brouiller de telle sorte qu'on ne connaisse plus … Troubler, étonner, surprendre tout à fait, jeter dans le trouble » (Rich.)P. 66, 81Congé« Licence, permission que donne un Supérieur à un inférieur, qui le dispense d'un devoir  à quoi il était obligé envers lui » (F)P. 22Conseil« Signifie quelquefois, résolution » (F)P. 67Considerable« Qui doit être estimé, remarqué pour son prix, pour sa qualité, pour son mérite, qui se fait distinguer des autres » (F)P. 28CourageCœur.P. 11, 40Consulter« Etre irrésolu, incertain quel parti on doit choisir » (F) : hésiter.P. 62, 80Dedaigner« On l'emploie avec la négative pour dire, daigner » (F)P. 96Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute. Ainsi Corneille a dit d'Auguste dans *Cinna* : Que de ses propres mains mon pere massacré, / Du trône où je le voy fait le premier *degré*. » (F) *Cinna* ayant été représentée pour la première fois en 1639, il s'agit peut-être ici d'une réminiscence car du Ryer associe lui aussi le trône et le degré.P. 74Devant que« Conjonction, signifie auparavant ». (F)P. 13Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein, son entreprise, son travail ». (F)P. 13Effet« Ce qui est produit » (F)Avis au lecteur, p. 23, 50, 68, 75Endurer« Souffrir avec patience … Signifie aussi permettre, souffrir qu'on fasse ». (F)P. 22, 49, 66, 76Esprouver« Expérimenter, essayer la bonté d'une chose … Signifie aussi reconnaître » (F)P. 41EstrangeSens fort « Ce qui est surprenant, rare, extraordinaire » (F)P. 63, 75, 80Extresme« Grand, pénible, sensible ». (Rich.)P. 90Evenement« Issue, succès bon ou mauvais de quelque chose » (F)Avis au lecteur, p. 51Faillir« Pécher, manquer à son devoir » (F)P. 49, 55Fascher« Choquer, offenser, quelqu'un, lui donner une sujet de chagrin, de colère » (F)P. 78Formidable« Qui fait peur, qui est à redouter » (F)P. 46Fortune« C'était autrefois une Divinité Païenne qu'on croyait être la cause de tous les événements extraordinaires. Maintenant, on appelle *Fortune*, ce qui arrive par hasard, qui est fortuit et imprévu ». (F) P. 4, 5, 6, 8, 9, 14, 20, 35, 53, 54, 70, 74, 78, 84Gesnes« Se dit aussi de toute peine ou affliction de corps ou d'esprit. … Un amant pour exprimer sa passion, dit aussi que l'amour luy fait souffrir les plus cruelles *gesnes*, pour dire, des tourments. » (F)P. 41Gesner« Tourmenter le corps ou l'esprit » (F)P. 36, 41, 46, 53, 70Generosité« Grandeur d'âme » (Rich.)P. 10, 11, 36, 40Gouster« Approuver, agréer » (Rich.)P. 22GrosseEnceinte. P. 91Hasard, hazard« Péril, danger » (F). Dans l'avis au lecteur, la première occurrence de *hasard* signifie « cas fortuit » (F), tandis que la seconde évoque un risque.Avis au lecteur, p. 2, 25, 33, 52, 54, 66, 74, 83Intelligence« Amitié, union, paix, liaison, concorde » (Rich.)P. 49Jetter« Pousser quelque chose hors de soi … la tristesse fait *jetter* des larmes » (F)P. 46Maison« Signifie aussi le ménage, les personnes qui composent une famille » (F)P. 7, 20, 30, 91, 95Magnificence« Vertu qui aime l'éclat et à faire de grandes dépenses » (Rich.)Avis au lecteurMander« Écrire à quelqu'un, ou lui envoyer un message pour lui faire savoir quelque chose, pour le prier, le charger, de faire quelque affaire » (F)P. 43, 46, 51Manquer« Faire quelque faute » (F)P. 3Merveille« Chose rare, extraordinaire, surprenante, qu'on ne peut guère voir ni comprendre … On dit aussi qu'un homme fait des merveilles lorsqu'il fait ou qu'il sait des choses extraordinaires au delà de ses semblables » (F)P. 3, 49Miserable« Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. Signifie aussi méchant » (F)P. 4, 15, 46, 47, 55, 75, 84, 89, 92Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)P. 2, 5, 8, 9, 11, 32, 54Obliger« Faire quelque faveur, civilité, courtoisie » (F)P. 27, 89De ce pas« Tout à l'heure, tout de suite » (F)P. 38, 42(Se) Passionner« Agir avec emportement » (F)P. 44Peine« Soin, inquiétude d'esprit, tant pour la personne que pour ses biens » (F)P. 87Publier « Rendre une chose publique » (F)P. 55Signaler« Rendre une chose remarquable et célèbre » (F)P. 8Soing, soins« Diligence qu'on apporte à faire réussi une chose, à la garder et à la conserver, à la perfectionner … Se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (F)P. 36, 74Souffrir« Se dit en un sens moins étendu, en parlant de ce qui déplait, de ce qui fait quelque peine aux sens, ou à l'esprit » (F)P. 47, 57, 72, 83, 89Succeder« Réussir » (Rich.)P. 18Supposer« Mettre une chose à la place d'une autre par fraude et tromperie » (F)P. 92Supposition« Se dit aussi de l'action par laquelle on met une chose en la place d'une autre » (F)P. 94Traits« Se dit  particulièrement de la flèche qui se tire avec l'arc ordinaire. … se dit figurément et poétiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour » (F)P. 4, 94Tempestes« Se dit figurément en choses morales, des persécutions qui se font ou contre le général, ou contre le particulier » (F)P. 46Vertu« Force, vigueur, tant du corps que de l'âme » (F). L'occurrence du cahier 10 n'a pas le même sens : « Ce mot entre dans des matières de Physique, et veut dire pouvoir, force, faculté d'un sujet qui marque indéterminément le pouvoir qu'a un être de produire quelque effet dans quelque autre sujet » (Rich.)P. 4, 8, 9, 10, 12, 20, 25, 37, 50, 74, 78, 83, 96
+Ayle« Ce mot se dit des vents, de l'amour, de l'esprit, du temps, etc. Mais en ces sens il est un peu poétique » (Rich.)P. 12Allarme« Crainte, trouble » (Rich.)P. 42Apprehension« Crainte, peur violente » (F)P. 46, 52Artifice« Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution … signifie aussi, Fraude, déguisement, mauvaise finesse » (F)P. 52, 74Aller au devant de quelqu'un« Aller sur le chemin attendre qu'il arrive pour lui faire honneur, ou pour quelque autre cause ; et figurément pour dire, le prévenir » (F)P. 85Avanture« Événement. Chose arrivée à une personne » (Rich.)  P. 52, 68, 76, 77, 79, 82, 93Caracteres« Lettre dont on se sert pour imprimer … Écriture de quelque personne particulière » (Rich.)P. 93Carriere« Se dit figurément en choses spirituelles, et premièrement d'un beau sujet, d'une belle matière où on peut s'exercer à écrire, à discourir » (F)Avis au lecteurCependantPendant ce temps.P. 29, 48, 53Comedie« Pièce de théâtre composée avec art, en prose ou en vers, pour représenter quelque action humaine ; et se dit en ce sens des pièces sérieuses ou burlesques » (F)Avis au lecteurConfondre« Mêler ensemble, brouiller de telle sorte qu'on ne connaisse plus … Troubler, étonner, surprendre tout à fait, jeter dans le trouble » (Rich.)P. 66, 81Congé« Licence, permission que donne un Supérieur à un inférieur, qui le dispense d'un devoir à quoi il était obligé envers lui » (F)P. 22Conseil« Signifie quelquefois, résolution » (F)P. 67Considerable« Qui doit être estimé, remarqué pour son prix, pour sa qualité, pour son mérite, qui se fait distinguer des autres » (F)P. 28CourageCœur.P. 11, 40Consulter« Etre irrésolu, incertain quel parti on doit choisir » (F) : hésiter.P. 62, 80Dedaigner« On l'emploie avec la négative pour dire, daigner » (F)P. 96Degré« Se dit figurément des choses qui servent de moyens pour parvenir à une plus haute. Ainsi Corneille a dit d'Auguste dans *Cinna* : Que de ses propres mains mon pere massacré, / Du trône où je le voy fait le premier *degré*. » (F) *Cinna* ayant été représentée pour la première fois en 1639, il s'agit peut-être ici d'une réminiscence car du Ryer associe lui aussi le trône et le degré.P. 74Devant que« Conjonction, signifie auparavant ». (F)P. 13Divertir« Détourner quelqu'un, l'empêcher de continuer son dessein, son entreprise, son travail ». (F)P. 13Effet« Ce qui est produit » (F)Avis au lecteur, p. 23, 50, 68, 75Endurer« Souffrir avec patience … Signifie aussi permettre, souffrir qu'on fasse ». (F)P. 22, 49, 66, 76Esprouver« Expérimenter, essayer la bonté d'une chose … Signifie aussi reconnaître » (F)P. 41EstrangeSens fort « Ce qui est surprenant, rare, extraordinaire » (F)P. 63, 75, 80Extresme« Grand, pénible, sensible ». (Rich.)P. 90Evenement« Issue, succès bon ou mauvais de quelque chose » (F)Avis au lecteur, p. 51Faillir« Pécher, manquer à son devoir » (F)P. 49, 55Fascher« Choquer, offenser, quelqu'un, lui donner une sujet de chagrin, de colère » (F)P. 78Formidable« Qui fait peur, qui est à redouter » (F)P. 46Fortune« C'était autrefois une Divinité Païenne qu'on croyait être la cause de tous les événements extraordinaires. Maintenant, on appelle *Fortune*, ce qui arrive par hasard, qui est fortuit et imprévu ». (F) P. 4, 5, 6, 8, 9, 14, 20, 35, 53, 54, 70, 74, 78, 84Gesnes« Se dit aussi de toute peine ou affliction de corps ou d'esprit. … Un amant pour exprimer sa passion, dit aussi que l'amour luy fait souffrir les plus cruelles *gesnes*, pour dire, des tourments. » (F)P. 41Gesner« Tourmenter le corps ou l'esprit » (F)P. 36, 41, 46, 53, 70Generosité« Grandeur d'âme » (Rich.)P. 10, 11, 36, 40Gouster« Approuver, agréer » (Rich.)P. 22GrosseEnceinte. P. 91Hasard, hazard« Péril, danger » (F). Dans l'avis au lecteur, la première occurrence de *hasard* signifie « cas fortuit » (F), tandis que la seconde évoque un risque.Avis au lecteur, p. 2, 25, 33, 52, 54, 66, 74, 83Intelligence« Amitié, union, paix, liaison, concorde » (Rich.)P. 49Jetter« Pousser quelque chose hors de soi … la tristesse fait *jetter* des larmes » (F)P. 46Maison« Signifie aussi le ménage, les personnes qui composent une famille » (F)P. 7, 20, 30, 91, 95Magnificence« Vertu qui aime l'éclat et à faire de grandes dépenses » (Rich.)Avis au lecteurMander« Écrire à quelqu'un, ou lui envoyer un message pour lui faire savoir quelque chose, pour le prier, le charger, de faire quelque affaire » (F)P. 43, 46, 51Manquer« Faire quelque faute » (F)P. 3Merveille« Chose rare, extraordinaire, surprenante, qu'on ne peut guère voir ni comprendre … On dit aussi qu'un homme fait des merveilles lorsqu'il fait ou qu'il sait des choses extraordinaires au delà de ses semblables » (F)P. 3, 49Miserable« Qui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. Signifie aussi méchant » (F)P. 4, 15, 46, 47, 55, 75, 84, 89, 92Objet« Se dit aussi poétiquement des belles personnes qui donnent de l'amour » (F)P. 2, 5, 8, 9, 11, 32, 54Obliger« Faire quelque faveur, civilité, courtoisie » (F)P. 27, 89De ce pas« Tout à l'heure, tout de suite » (F)P. 38, 42(Se) Passionner« Agir avec emportement » (F)P. 44Peine« Soin, inquiétude d'esprit, tant pour la personne que pour ses biens » (F)P. 87Publier « Rendre une chose publique » (F)P. 55Signaler« Rendre une chose remarquable et célèbre » (F)P. 8Soing, soins« Diligence qu'on apporte à faire réussi une chose, à la garder et à la conserver, à la perfectionner … Se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme » (F)P. 36, 74Souffrir« Se dit en un sens moins étendu, en parlant de ce qui déplait, de ce qui fait quelque peine aux sens, ou à l'esprit » (F)P. 47, 57, 72, 83, 89Succeder« Réussir » (Rich.)P. 18Supposer« Mettre une chose à la place d'une autre par fraude et tromperie » (F)P. 92Supposition« Se dit aussi de l'action par laquelle on met une chose en la place d'une autre » (F)P. 94Traits« Se dit particulièrement de la flèche qui se tire avec l'arc ordinaire. … se dit figurément et poétiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour » (F)P. 4, 94Tempestes« Se dit figurément en choses morales, des persécutions qui se font ou contre le général, ou contre le particulier » (F)P. 46Vertu« Force, vigueur, tant du corps que de l'âme » (F). L'occurrence du cahier 10 n'a pas le même sens : « Ce mot entre dans des matières de Physique, et veut dire pouvoir, force, faculté d'un sujet qui marque indéterminément le pouvoir qu'a un être de produire quelque effet dans quelque autre sujet » (Rich.)P. 4, 8, 9, 10, 12, 20, 25, 37, 50, 74, 78, 83, 96
 
 
 # Annexe 1 : Hardy « Au lecteur »
@@ -3059,7 +3058,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [19]  Antoine Adam parle même de « chef d'école ». *Histoire de la littérature française au XVII*e* siècle*, Paris, Albin Michel, 1997 (édition au format de poche), tome I, p. 429.
 
-[20]  « Du Ryer publie en 1630 Argénis et Poliarque avec des pièces liminaires de Pichou et d'Auvray, en 1631 Argénis avec des pièces d'Auvray et de Rayssiguier. En 1630, la Généreuse Allemande d'André Mareschal paraît avec des vers de Du Ryer, et l'Astrée et Céladon  de Rayssiguier avec des vers du même Du Ryer. A prendre les choses à la rigueur, on pourrait penser que dès 1632, l'équipe s'est dispersée, car le Lisandre et Caliste de Du Ryer paraît cette année sans pièces liminaires de Rayssiguier ni d'Auvray. Les amis de Du Ryer sont alors Colletet, J.-C. de Villeneuve, Simon Basin, et un certain J.-D. Mais on aurait tort de tirer de ces faits des conclusions trop catégoriques. C'est ainsi qu'en 1634, le nom de Du Ryer reparaît, en tête de la Sœur Valeureuse de Mareschal ». (Ibid. p. 431).
+[20]  « Du Ryer publie en 1630 Argénis et Poliarque avec des pièces liminaires de Pichou et d'Auvray, en 1631 Argénis avec des pièces d'Auvray et de Rayssiguier. En 1630, la Généreuse Allemande d'André Mareschal paraît avec des vers de Du Ryer, et l'Astrée et Céladon de Rayssiguier avec des vers du même Du Ryer. A prendre les choses à la rigueur, on pourrait penser que dès 1632, l'équipe s'est dispersée, car le Lisandre et Caliste de Du Ryer paraît cette année sans pièces liminaires de Rayssiguier ni d'Auvray. Les amis de Du Ryer sont alors Colletet, J.-C. de Villeneuve, Simon Basin, et un certain J.-D. Mais on aurait tort de tirer de ces faits des conclusions trop catégoriques. C'est ainsi qu'en 1634, le nom de Du Ryer reparaît, en tête de la Sœur Valeureuse de Mareschal ». (Ibid. p. 431).
 
 [21]  Oneil J. Richard : « Hardy, Auvray, DR and the querelle des Anciens et des Modernes », *The French Review*, vol. 33, n° 2, 1959, p. 117.
 
@@ -3121,7 +3120,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [50]  Cité par Pellisson Paul et Olivet Charles-Louis d', *Histoire de l'Académie française*, Paris, Didier et C*ie*, 1858, p. 299.
 
-[51]  Voici ce qu'en pensent les frères Parfaict :  « Les dernieres Pièces de M. du Ryer sont vuides d'actions, il a cru y suppléer par les pensées, & les sentimens. On peut assurer que celle-ci est plus foible que la Tragédie de Nitocris …. Sujette aux mêmes défauts, elle lui est inférieure par la versification, le plan & les caractéres, qui sont ici absolument faux, & imaginaires ». *Op. cit.*, Tome VIII, p. 114.
+[51]  Voici ce qu'en pensent les frères Parfaict : « Les dernieres Pièces de M. du Ryer sont vuides d'actions, il a cru y suppléer par les pensées, & les sentimens. On peut assurer que celle-ci est plus foible que la Tragédie de Nitocris …. Sujette aux mêmes défauts, elle lui est inférieure par la versification, le plan & les caractéres, qui sont ici absolument faux, & imaginaires ». *Op. cit.*, Tome VIII, p. 114.
 
 [52]  Les rumeurs sur la pauvreté de Du Ryer sont telles que certains commentateurs ont avancé la date de son emménagement à Picpus. Voir Documents du minutier central des notaires, *Écrivains de théâtre 1600-1649*, Paris, centre historique des Archives nationales, 2005, p. 73 : « Le contrat de vente du 3 avril 1648 nous confie l'adresse de DR à cette date : rue des Tournelles, paroisse Saint-Paul. Il oblige donc à reculer les dates – de 1643 ou 1646, vers l'époque de son élection à l'Académie Française – généralement admises par ses biographes pour le déménagement de l'auteur au village de Picpus, où il habitera à coup sûr en 1650-1652 ».
 
@@ -3131,7 +3130,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [55] *Cf.* annexes.
 
-[56] Aubignac, François Hédelin abbé d', *La Pratique du Théâtre*, 1657 ;  Hélène Baby, Paris, Champion, p. 140.
+[56] Aubignac, François Hédelin abbé d', *La Pratique du Théâtre*, 1657 ; Hélène Baby, Paris, Champion, p. 140.
 
 [57]  Cité par Bousquet Philippe, *art. cit.*, p. 49.
 
@@ -3201,7 +3200,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [90]  Voir Lancaster, *op. cit.*, p. 524, note 14.
 
-[91]  Acte I : scène 1 à 2, 3 à 4, 6 à 7. Acte II : scène 1 à 2, 5 à 6. Acte III : scène 4 à 5. Acte IV : scène 4 à 5, 5 à 6. Acte V : 1 à 2,  3 à 4.
+[91]  Acte I : scène 1 à 2, 3 à 4, 6 à 7. Acte II : scène 1 à 2, 5 à 6. Acte III : scène 4 à 5. Acte IV : scène 4 à 5, 5 à 6. Acte V : 1 à 2, 3 à 4.
 
 [92] Acte II : scène 4 à 5. Acte III : scène 1 à 2. Acte IV : scène 2 à 3.
 
@@ -3279,7 +3278,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [129] *Ibid.*, p. 43-49. Nous traduisons : « In Du Ryer's dramatic universe, force emanates from merit, but merit is contingent on wisdom, recognition, and love, despite Alcionée's statements to the contrary. … Merit must be exploited to be appreciated, otherwise it lies fallow, for as La Rochefoucauld says, « La nature fait le mérite, et la fortune le met en œuvre » (*Maximes*, n.153). As the century wears on, this divorce between merit-disposition and merit-action becomes more and more pronounced. »
 
-[130]  Richelet Pierre, *Dictionnaire français, contenant les mots et les choses, plusieurs remarques sur la langue française*, Genève, Jean Herman Widerhold, 1680.  
+[130]  Richelet Pierre, *Dictionnaire français, contenant les mots et les choses, plusieurs remarques sur la langue française*, Genève, Jean Herman Widerhold, 1680. 
 
 [131]  Pelous Jean-Michel, *op. cit.*, p. 115.
 
@@ -3381,7 +3380,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [180]  Louis Moréri nous dit que Tarsis est le nom de la ville – probablement située dans les « Indes orientales » – où Salomon envoyait ses navires pour en rapporter de l'or et du bois précieux. Il semblerait que cette ville ait été nommée ainsi en référence au fils de Javan. En général, ce nom est donné à tous les lieux qui sont au-delà de la mer. (*Le Grand dictionnaire historique*, Amsterdam, P. Brunel, 1759, tome X, p. 43). C'est aussi le nom d'un berger que l'on rencontre dans le roman pastoral de Roland le Vayer de Boutigny, *Tarsis et Zelie* (1665).
 
-[181]  Comprendre : Vous ne m'avez pas donné le nom de votre  amant.
+[181]  Comprendre : Vous ne m'avez pas donné le nom de votre amant.
 
 [182]  « Le sens de *savoir*, au mode conditionnel, se rapproche de celui de *pouvoir* (possibilité) ; « saurais » n'a plus que la signification propre du conditionnel (non réalité : possibilité) » (Brunot, *Histoire de la langue française des origines à nos jours*, Paris, A. Colin, 1966, tome III : *La formation de la langue classique. 1600-1660*, p. 366). Remarque tirée de l'éd. de Luigia Zilli des *Vendanges de Suresnes* à propos du v. 384.
 
@@ -3399,7 +3398,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [189] Comprendre : du temps où.
 
-[190] Le déterminant possessif  *mon* est étonnant car, étant avec sa sœur,  Bérénice devrait dire *notre* père. S'agit-il d'un choix purement phonique de l'auteur ? Serait-ce l'indice de l'illusion de Bérénice qui croit qu'elle est la fille de Criton ? Ou bien s'agit-il d'une forme d'ironie dramatique : l'auteur, en utilisant le possessif donnerait des indices à son spectateur sur le dénouement. À cet égard, il est significatif de noter que, dans la liste des acteurs, Criton est seulement désigné comme le père d'Amasie. De plus, Amasie, à la différence de Bérénice, n'appelle jamais Criton « mon pere », mais « Monsieur ».
+[190] Le déterminant possessif *mon* est étonnant car, étant avec sa sœur, Bérénice devrait dire *notre* père. S'agit-il d'un choix purement phonique de l'auteur ? Serait-ce l'indice de l'illusion de Bérénice qui croit qu'elle est la fille de Criton ? Ou bien s'agit-il d'une forme d'ironie dramatique : l'auteur, en utilisant le possessif donnerait des indices à son spectateur sur le dénouement. À cet égard, il est significatif de noter que, dans la liste des acteurs, Criton est seulement désigné comme le père d'Amasie. De plus, Amasie, à la différence de Bérénice, n'appelle jamais Criton « mon pere », mais « Monsieur ».
 
 [191]  Voir note sur la construction du verbe *se souvenir*.
 
@@ -3407,7 +3406,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [193]  Sur le genre du nom abstrait *amour* : « Il est masculin et féminin, mais non pas tousjours indifferemment ; Car quand il signifie Cupidon, il ne peut estre que masculin, et quand on parle de l'Amour de Dieu, il est tousjours masculin …. Hors ces deux exceptions, il est indifferent de le faire masculin, ou feminin …. Il est vray pourtant qu'ayant le choix libre, j'userois plutost du feminin que du masculin, selon l'inclination de nostre langue, qui se porte d'ordinaire au feminin plutost qu'à l'autre genre ». (VAUGELAS, *op. cit.*, p. 389-390). Gaines ajoute dans son éd. à Lucrèce que Du Ryer « s'en sert assez souvent au féminin pour des commodités métriques » (éd. James F. Gaines et Perry Gethner, Genève, Droz, 1994, note 25, p. 25). Toutes les occurrences du mot sont au féminin sauf celle de la p. 28. Du Ryer est donc du même avis que Vaugelas.
 
-[194]  Métaphore : « Les amoureux disent qu'ils sont en *prison*, que leur cœur est en *prison*, dans la captivité ; qu'ils aiment leur *prison* » (Furetière).  
+[194]  Métaphore : « Les amoureux disent qu'ils sont en *prison*, que leur cœur est en *prison*, dans la captivité ; qu'ils aiment leur *prison* » (Furetière). 
 
 [195]  Vaugelas signale que, si on n'écrit pas le *t* analogique, en revanche, il faut toujours le prononcer : « Si le verbe finit par une voyelle devant *on*, … il faut prononcer et écrire un *t* entre deux … pour ôter la cacophonie, et quand il ne serait pas marqué, il ne faut pas laisser de prononcer ni lire, comme lisent une infinité de gens, *alla-on, alla il*, pour *alla-t-on, alla-t-il*. » (Voir note 1 p. 7 de l'*éd. cit. Vendanges de Suresnes* de Jacques Scherer).
 
@@ -3469,7 +3468,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [224]  Il est significatif de noter que Tarsis ne reprend pas telle quelle la proposition du Roi : alors que ce dernier parlait de « liens », Tarsis parle de « chaines ». Même si les deux mots appartiennent au vocabulaire amoureux, *chaine* insiste davantage sur l'idée de servilité.
 
-[225]  « *Que* uniceptif  (glosable par *sinon*) opère dans une atmosphère forclusive » (Fournier, *op. cit.*, p. 40.)
+[225]  « *Que* uniceptif (glosable par *sinon*) opère dans une atmosphère forclusive » (Fournier, *op. cit.*, p. 40.)
 
 [226] S'agit-il d'une indication scénique qui indiquerait à l'acteur qu'il doit insister sur ce verbe ? Ou bien d'une erreur d'imprimerie ? Dans le doute, nous avons conservé les occurrences. 
 
@@ -3539,11 +3538,11 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [259]  Le discours de Bérénice peut avoir une portée générale (Tarsis aime sa famille) mais surtout une portée personnelle car elle semble s'inclure dans le *nous* alors même que son père ne sait pas qu'elle est aimée et qu'elle aime. Bérénice pourrait aussi dire *nous* car la situation que déplore son père est la sienne : celle d'Amasie et de Bérénice ne font qu'un puisqu'Amasie a laissé son père l'accuser.
 
-[260]  L'anaphore par les relatifs (parfois dit « relatif  de liaison ») est un phénomène assez fréquent en français classique. 
+[260]  L'anaphore par les relatifs (parfois dit « relatif de liaison ») est un phénomène assez fréquent en français classique. 
 
 [261] Bérénice feint de faire le plaidoyer de sa sœur alors que c'est elle qu'elle défend.
 
-[262] *Tromper* et *tromperie* ont  d'abord au XVII*e* siècle le trait sémantique de la fourbe, de la ruse et non celui de l'infidélité amoureuse.
+[262] *Tromper* et *tromperie* ont d'abord au XVII*e* siècle le trait sémantique de la fourbe, de la ruse et non celui de l'infidélité amoureuse.
 
 [263]  « On dit, qu'un homme fait gloire d'une chose, lorsqu'il s'en vante, qu'il s'en fait honneur » (Furetière). Comprendre : on se vante de tromper les filles. Il s'agit ici du lieu commun de l'homme volage en amour que l'on rencontre dans plusieurs dialogues du XVI*e* siècle et plus tard dans l'*Astrée* d'Honoré d'Urfé.
 
@@ -3595,7 +3594,7 @@ La berne des deux rimeurs de l'hostel de BourgogneRevue d'Histoire littéraire d
 
 [287] Voir p. 25.
 
-[288] *Cf.* le v. 517 de *Saül*  où Michol dit : « L'amour de son pays est le feu qui l'allume ».
+[288] *Cf.* le v. 517 de *Saül* où Michol dit : « L'amour de son pays est le feu qui l'allume ».
 
 [289] Comprendre : si vous pensez que je vous aime, comment pouvez-vous croire que je suis faible contre tous ces ennemis ? En d'autres termes, l'amour que lui porte Tarsis est le garant de sa bravoure.
 

@@ -93,7 +93,7 @@ Signé par le Roy en son Conseil LE BRUN : il est permis à ANTHOINE DE SOMMAVI
 
 Achevé d'Imprimer le 24, Avril 1648
 
-**** *book_ *id_body-701 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_I01 *act_I *date_1648 *creator_lestoile
 
 -*who_beronte
 Bon-courage, mes pieds, courons viste, volons,
@@ -160,7 +160,7 @@ Mais ils s'en sont allez ces Cruels sans mercy⁎,
 Ma frayeur est passée, ils sont bien loing d'icy :
 Retirons-nous pourtant où Ragonde demeure.
 
-**** *book_ *id_body-702 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_I02 *act_I *date_1648 *creator_lestoile
 
 -*who_ragonde
 Qui-va-là ?
@@ -305,7 +305,7 @@ Aussi bien quelqu'un sort, & je crains non sans cause,
 Qu'on ne vienne m'oster une si belle chose :
 Fuyons à tout hazard.
 
-**** *book_ *id_body-703 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_I03 *act_I *date_1648 *creator_lestoile
 
 -*who_lucidor
       O Comble de mal-heurs !
@@ -414,7 +414,7 @@ Mais adieu, je t'amuse⁎.
       O quels transports⁎ d'Amour !
 Mais Florinde parest.
 
-**** *book_ *id_body-704 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_I04 *act_I *date_1648 *creator_lestoile
 
 -*who_florinde
       J'attens vostre retour ;
@@ -467,7 +467,7 @@ Mais à vous convertir perdray-je mon latin ?
 -*who_florinde
 Taisons-nous, la voicy.
 
-**** *book_ *id_body-705 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_I05 *act_I *date_1648 *creator_lestoile
 
 -*who_olympe
       Vous sortez bien matin,
@@ -606,7 +606,7 @@ Rentrons.
       Dieu ! que feray-je en cette extremité ?
 Fin du premier Acte.
 
-**** *book_ *id_body-801 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II01 *act_II *date_1648 *creator_lestoile
 
 -*who_beronte
 Ha ! je m'en doutois bien que je serois Prophete ;
@@ -634,7 +634,7 @@ D'une telle peinture allons luy faire monstre.
 Je pourrois bien sans elle, apres cet accident,
 Comme les Espagnols, disner d'un Cure-dent.
 
-**** *book_ *id_body-802 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II02 *act_II *date_1648 *creator_lestoile
 
 -*who_beronte
 Mais qui voy-je parestre ? Amour me favorise,
@@ -717,7 +717,7 @@ Heurte, redouble encore. Ha ! je meurs de regret.
 -*who_beronte
 Dans tous les lieux d'honneur il faut estre discret.
 
-**** *book_ *id_body-803 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II03 *act_II *date_1648 *creator_lestoile
 
 -*who_ragonde
 Que vous plaist-il Monsieur ? voulez-vous dans ma chambre
@@ -804,7 +804,7 @@ Qu'avecque sa Maistresse, elle passe son temps,
 Et peut-estre la vend à beaux deniers contans.
 La voicy l'Effrontée⁎; où s'en va donc Clorise ?
 
-**** *book_ *id_body-804 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II04 *act_II *date_1648 *creator_lestoile
 
 -*who_clorise
 Icy prés.
@@ -888,7 +888,7 @@ Prier sainct Mathurin à vostre intention.
 Et moy j'iray prier, descouvrant qui vous estes,
 Qu'on vous donne logis dans les Magdelonnettes;
 
-**** *book_ *id_body-805 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II05 *act_II *date_1648 *creator_lestoile
 
 -*who_tersandre
 Voyez quelle response, & de quelle fierté,
@@ -928,7 +928,7 @@ D'un doute qui vrayment me trouble au dernier point ;
 On tente tous moyens pour se tirer de peine,
 Mais je pense le voir, mon bon-heur me l'ameine.
 
-**** *book_ *id_body-806 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II06 *act_II *date_1648 *creator_lestoile
 
 -*who_tersandre
 Où donc, triste & resveur allez-vous seul ainsi ?
@@ -1076,7 +1076,7 @@ Dans une heure au plus tard je seray seul icy.
 -*who_tersandre
 Et pour vostre mal-heur j'y seray seul aussi.
 
-**** *book_ *id_body-807 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_II07 *act_II *date_1648 *creator_lestoile
 
 -*who_tersandre
 Adorable beauté, pour moy seul inhumaine,
@@ -1163,7 +1163,7 @@ Aucun ne l'aura donc, que devant cette espée
 Ne se voye en son sang jusqu'aux gardes trempée.
 Fin du second Acte.
 
-**** *book_ *id_body-901 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III01 *act_III *date_1648 *creator_lestoile
 
 -*who_florinde
 Doncques de mes faveurs⁎ l'Insolent s'est vanté !
@@ -1186,7 +1186,7 @@ J'ay recouvré la veuë, & changé tout soudain,
 Une si grande estime en un plus grand dedain,
 Mais Ragonde en ces lieux arrive en diligence⁎.
 
-**** *book_ *id_body-902 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III02 *act_III *date_1648 *creator_lestoile
 
 -*who_ragonde
 Un Malade d'Amour sans espoir d'allegeance,
@@ -1281,7 +1281,7 @@ Reserrez cette lettre, évitez sa colere.
 Je sçauray dans le nid remettre ce poulet⁎ ;
 Et craignant son courroux filer doux comme laict.
 
-**** *book_ *id_body-903 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III03 *act_III *date_1648 *creator_lestoile
 
 -*who_olympe
 Ainsi donc à toute heure il faut que je descende,
@@ -1393,7 +1393,7 @@ D'une telle frayeur taschons à nous remettre,
 Courons chez Lucidor, redonnons-luy sa lettre.
 Mais, qui vois-je arriver ?
 
-**** *book_ *id_body-904 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III04 *act_III *date_1648 *creator_lestoile
 
 -*who_beronte
       Je suis un vray longis⁎,
@@ -1440,7 +1440,7 @@ Fuyons, mais je ne puis faire un pas maintenant,
 Ce vin n'est gueres fort, il n'est pas soustenant
 Je tombe, je suis pris.
 
-**** *book_ *id_body-905 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III05 *act_III *date_1648 *creator_lestoile
 
 -*who_tersandre
       Enfin je te retreuve
@@ -1719,7 +1719,7 @@ Si je sçay dégaisner & joüer des cousteaux,
 Le voicy, cache toy, mais retien ta colere,
 Et ne te monstre point, qu'il ne soit necessaire.
 
-**** *book_ *id_body-906 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III06 *act_III *date_1648 *creator_lestoile
 
 -*who_tersandre
 Enfin vous le voulez, le sort en est jetté ;
@@ -1800,7 +1800,7 @@ Suy-moy, traistre, suy-moy.
 -*who_tersandre
 Mille coups de baston puniront ton offense.
 
-**** *book_ *id_body-907 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_III07 *act_III *date_1648 *creator_lestoile
 
 -*who_le_balafre
 Courons apres ces Gens, il est nuict, autant vaut.
@@ -1831,7 +1831,7 @@ Cachons-nous donc tous trois, & s'il sort sans escorte,
 Battons-le jusqu'à tant que le Diable l'emporte.
 Fin du troisiesme Acte.
 
-**** *book_ *id_body-1001 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_IV01 *act_IV *date_1648 *creator_lestoile
 
 -*who_ragonde
 Dieu, qu'est-ce que je voy ? n'allons pas plus avant,
@@ -1842,7 +1842,7 @@ Où fuiray-je ? le cœur me bat comme un claquet⁎,
 Et s'ils m'appercevoient, je serois bien du guet.
 Heurtons viste, r'entrons.
 
-**** *book_ *id_body-1002 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_IV02 *act_IV *date_1648 *creator_lestoile
 
 -*who_lucidor
       Qu'est-ce qui te r'amene ?
@@ -1940,7 +1940,7 @@ Il faut nouveaux conseils à nouvelles affaires,
 Je ne devinois pas ce qui vient d'arriver,
 Mais Florinde parest, allons tost la treuver.
 
-**** *book_ *id_body-1003 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_IV03 *act_IV *date_1648 *creator_lestoile
 
 -*who_lucidor
 Puis-je bien me resoudre à cette perfidie ?
@@ -2176,7 +2176,7 @@ Ne crains rien.
 -*who_ragonde
       Hé ! tout beau, rengainez, sauvons-nous.
 
-**** *book_ *id_body-1004 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_IV04 *act_IV *date_1648 *creator_lestoile
 
 -*who_le_balafre
 Quel bruit chers compagnons a frappé nos oreilles ?
@@ -2213,7 +2213,7 @@ Prend les petits voleurs, & laisse aller les grands,
 Mais quand il me prendroit ? si ma faute est punie,
 Je mourray pour le moins en bonne compagnie.
 
-**** *book_ *id_body-1005 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_IV05 *act_IV *date_1648 *creator_lestoile
 
 -*who_le_borgne
 Silence, Compagnons, quelqu'un marche là bas.
@@ -2361,7 +2361,7 @@ Et puis à pas de Loup nous reviendrons daguet,
 Pour voir qui va qui vient tous deux faire le guet.
 Fin du quatriesme Acte.
 
-**** *book_ *id_body-1101 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V01 *act_V *date_1648 *creator_lestoile
 
 -*who_le_bras_de_fer
 Viennent-ils ?
@@ -2453,7 +2453,7 @@ Et mort on est pas mieux dans l'or que dans la bouë ;
 -*who_le_borgne
 On siffle, les voicy ;
 
-**** *book_ *id_body-1102 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V02 *act_V *date_1648 *creator_lestoile
 
 -*who_le_bras_de_fer
       Doublez doublez le pas,
@@ -2624,7 +2624,7 @@ Et j'en tiens pour long-temps, s'il m'advient de parestre :
 Laissons-les donc r'entrer, avant que de partir,
 Cependant cachons-nous, j'entens quelqu'un sortir,
 
-**** *book_ *id_body-1103 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V03 *act_V *date_1648 *creator_lestoile
 
 -*who_olympe
 Au Voleur, au Voleur, accourez à mon ayde,
@@ -2644,7 +2644,7 @@ Ma maison est perduë.
 Et seul à ces Coquins fera gaigner le haut,
 Mais le voicy.
 
-**** *book_ *id_body-1104 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V04 *act_V *date_1648 *creator_lestoile
 
 -*who_lucidor
       Madame, ils ont tous fait retraitte,
@@ -2791,7 +2791,7 @@ Mais voicy ce Mangeur de charette ferrée,
 Qui m'est venu tantost⁎ faire une eschauffourrée⁎,
 Les rayons de la Lune à mes yeux le font voir.
 
-**** *book_ *id_body-1105 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V05 *act_V *date_1648 *creator_lestoile
 
 -*who_tersandre
 Quels cris ay-je entendus ? ne le puis-je sçavoir ?
@@ -2874,7 +2874,7 @@ Moy ?
 -*who_ragonde
 Celuy mesme qui vient.
 
-**** *book_ *id_body-1106 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V06 *act_V *date_1648 *creator_lestoile
 
 -*who_tersandre
       Qu'as-tu dis Miserable ?
@@ -2941,7 +2941,7 @@ Au voleur.
 -*who_beronte
       Il a des aisles.
 
-**** *book_ *id_body-1107 *act_ *date_1648 *creator_lestoile
+**** *book_ *id_V07 *act_V *date_1648 *creator_lestoile
 
 -*who_lucidor
 Qui donc crie au voleur ? D'où provient ce grand bruit ?

@@ -14,7 +14,7 @@ LE BRUN.
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-301 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_I01 *act_I *date_1642 *creator_gilbert
 
 -*who_merope
 Divin flambeau⁎ du Ciel dont la course diverse
@@ -172,7 +172,7 @@ Et peindre sur mon front l'excez de mes douleurs ;
 La raison ne peut rien sur cet esprit farouche,
 Mais avec la pitié faisons qu'elle le touche.
 
-**** *book_ *id_body-302 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_I02 *act_I *date_1642 *creator_gilbert
 
 -*who_le_tyran
 Race du grand Archas, et de ces premiers Roys,
@@ -290,7 +290,7 @@ Je quitteray ce corps pour le suivre là bas.
 S'il descend chez les morts, il faudra que je meure,
 Et son dernier moment sera ma derniere heure.
 
-**** *book_ *id_body-303 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_I03 *act_I *date_1642 *creator_gilbert
 
 -*who_le_tyran
 Madame. Elle s'en va pleine de desespoir,
@@ -470,7 +470,7 @@ Que cet Edit sanglant n'ait produit son effet.
 Esperez seulement, la mort de Telephonte
 Dissipera bien-tost l'ennuy⁎ qui vous surmonte.
 
-**** *book_ *id_body-401 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_II01 *act_II *date_1642 *creator_gilbert
 
 -*who_merope
 Je n'ay rien obtenu ny pour vous ny pour moy,
@@ -648,7 +648,7 @@ Sans qu'une prompte mort l'ait mis au monument⁎.
 Plustost pour vous ravoir il arme en Etolie,
 Il sçait que vous vivez ; Mais que veut Cephalie ?
 
-**** *book_ *id_body-402 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_II02 *act_II *date_1642 *creator_gilbert
 
 -*who_cephalie
 C'est Tyrene, Madame, est dedans ce Palais.
@@ -671,7 +671,7 @@ Et devant son amour cachez bien votre haine.
 Je sçay ce que je suis, comme je doy parler,
 Un magnanime cœur ne peut dissimuler.
 
-**** *book_ *id_body-403 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_II03 *act_II *date_1642 *creator_gilbert
 
 -*who_demochare
 D'où naist cette douleur ? Pourquoi, belle Princesse,
@@ -862,7 +862,7 @@ Un injuste⁎ pouvoir sur moy n'obtiendra rien.
 Je feray sans respect, sans crainte de personne,
 Tout ce que veut l'honneur, et que le Ciel ordonne.
 
-**** *book_ *id_body-404 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_II04 *act_II *date_1642 *creator_gilbert
 
 -*who_demochare
 L'Inhumaine⁎ s'enfuit le cœur plein de fierté,
@@ -882,7 +882,7 @@ Ma fureur passera jusqu'à l'extremité.
 Je feray sans respect, sans crainte de personne,
 Ce qu'Hermocrate veut et que le Ciel ordonne.
 
-**** *book_ *id_body-501 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_III01 *act_III *date_1642 *creator_gilbert
 
 -*who_philoclee
 Tyrene pourroit seul me tirer de soucy⁎ :
@@ -952,7 +952,7 @@ Je ne sçaurois souffrir⁎ ces insolens propos,
 Un genereux⁎ mespris est icy necessaire,
 C'est l'unique moyen qui m'en pourra deffaire.
 
-**** *book_ *id_body-502 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_III02 *act_III *date_1642 *creator_gilbert
 
 -*who_demochare
 Un chagrin eternel accompagne vos jours.
@@ -1214,7 +1214,7 @@ Mais quand elle est presente, elle est espouventable.
 Demain vous quitterez ce mespris, cet orgueil,
 Et le thrône Royal est plus doux qu'un cercueil.
 
-**** *book_ *id_body-503 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_III03 *act_III *date_1642 *creator_gilbert
 
 -*who_philoclee
 Tyran tu crois en vain accomplir ton envie⁎,
@@ -1230,7 +1230,7 @@ Et Tyrene a grand tort de tarder si long-temps,
 Il a beaucoup de zele⁎ et vous d'impatience,
 Mais ne l'accusez plus, je le voy qui s'avance.
 
-**** *book_ *id_body-504 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_III04 *act_III *date_1642 *creator_gilbert
 
 -*who_philoclee
 Ah Tyrene ! en deux mots dy moy quel est mon sort⁎,
@@ -1393,7 +1393,7 @@ Ne craignez rien pour moy je m'en vay l'aborder.
 -*who_philoclee
 À ton zele⁎ pieux en fin il faut ceder.
 
-**** *book_ *id_body-601 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_IV01 *act_IV *date_1642 *creator_gilbert
 
 -*who_cephalie
 Tout est perdu Madame.
@@ -1451,7 +1451,7 @@ En fin j'ay tout perdu, puis que mon fils est mort.
 Mais je voy ce Tyran dont la rage inhumaine⁎
 A causé tous mes maux.
 
-**** *book_ *id_body-602 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_IV02 *act_IV *date_1642 *creator_gilbert
 
 -*who_le_tyran
       Dieux ! j'appercoy la Reyne,
@@ -1575,7 +1575,7 @@ Au lieu de l'appaiser ma presence l'irrite,
 Le temps pourra calmer ses esprits furieux,
 Tandis, allons au Temple, et rendons grace aux Dieux.
 
-**** *book_ *id_body-603 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_IV03 *act_IV *date_1642 *creator_gilbert
 
 -*who_merope
 Va superbe⁎ Tyran leur offrir des victimes,
@@ -1623,7 +1623,7 @@ Arrestez, arrestez, et que pensez-vous faire ?
 -*who_merope
 Quoy veux-tu m'empescher de finir ma misere ?
 
-**** *book_ *id_body-604 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_IV04 *act_IV *date_1642 *creator_gilbert
 
 -*who_orphise
 Dieux ! qu'est-ce que je voy ?
@@ -1675,7 +1675,7 @@ Il n'est pas loin d'icy, n'en soyez point en peine.
 Allons donc luy donner le prix justement deu,
 Allons verser son sang pour mon sang respandu.
 
-**** *book_ *id_body-605 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_IV05 *act_IV *date_1642 *creator_gilbert
 
 -*who_telephonte
 J'ay quitté l'Etolie et je suis à Missene,
@@ -1757,7 +1757,7 @@ Ma fureur dans mon sein sommeille quelque temps ;
 Je l'apperçoy qui vient, dissimulons mon ame,
 Oublions un instant et l'amour et ma femme.
 
-**** *book_ *id_body-606 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_IV06 *act_IV *date_1642 *creator_gilbert
 
 -*who_demochare
 Je te viens recevoir en l'absence du Roy,
@@ -1996,7 +1996,7 @@ Ouy, ouy, je te suivray jusques dedans le Temple,
 Pour t'y sacrifier et ton Pere avec toi,
 Ah belle occasion ! ô Ciel seconde moy.
 
-**** *book_ *id_body-701 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_V01 *act_V *date_1642 *creator_gilbert
 
 -*who_tydee
 Tyrene, est-il possible, as-tu veu Telephonte ?
@@ -2054,7 +2054,7 @@ Mais quelqu'un vient icy.
 -*who_tyrene
       Sortons donc promptement.
 
-**** *book_ *id_body-702 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_V02 *act_V *date_1642 *creator_gilbert
 
 -*who_philoclee
 Il ne faut plus chercher cet assassin, cet traitre,
@@ -2165,7 +2165,7 @@ Mais quelqu'un vient icy.
 -*who_philoclee
       C'est Céphalie.
 
-**** *book_ *id_body-703 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_V03 *act_V *date_1642 *creator_gilbert
 
 -*who_merope
 Approche, approche, et voy mes desseins imparfaits,
@@ -2200,7 +2200,7 @@ Mais j'entends quelque bruit.
 -*who_cephalie
 Je croy l'apercevoir, ouy, c'est luy, c'est luy-mesme.
 
-**** *book_ *id_body-704 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_V04 *act_V *date_1642 *creator_gilbert
 
 -*who_telephonte
 Qu'on ne me suive pas.
@@ -2424,7 +2424,7 @@ Nous ne jouissons plus d'un bon-heur decevant.
 Qu'est devenu Tyrene ? est-il encor vivant
 Ou mort dans le combat ?
 
-**** *book_ *id_body-705 *act_ *date_1642 *creator_gilbert
+**** *book_ *id_V05 *act_V *date_1642 *creator_gilbert
 
 -*who_telephonte
       N'ensoyez plus en peine,

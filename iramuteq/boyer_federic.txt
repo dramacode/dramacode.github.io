@@ -21,7 +21,7 @@ Le très-humble, et très obeissant
 
 Serviteur, BOYER.
 
-**** *book_ *id_body-301 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_I01 *act_I *date_1660 *creator_boyer 
 
 -*who_marcellin
 Si pres de cet Hymen qui vous donnant Camille,
@@ -171,7 +171,7 @@ Et laisse à l'Admiral le soin⁎ de ma grandeur ;
 C'est luy qui doit bien-tost mettre fin à ma peine.
 Mais Camille paroist.
 
-**** *book_ *id_body-302 *act_ *date_1660 *creator_boyer
+**** *book_ *id_I02 *act_I *date_1660 *creator_boyer
 
 -*who_yoland
       Pardonnez, grande Reyne,
@@ -276,7 +276,7 @@ Acquitez vous au moins des soins⁎de ma vengeance ;
 Federic vient, adieu ; sçachez, Seigneur, de luy
 Ce que me doit un Roy qui se fait mon appuy.
 
-**** *book_ *id_body-303 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_I03 *act_I *date_1660 *creator_boyer 
 
 -*who_yoland
 Hé bien, cher Federic, qu'avez-vous à me dire ?
@@ -391,7 +391,7 @@ Quel trouble …
 Ah!Valere.Adieu ; mais souviens-toy,
 Si je regne en ces lieux, que je me dois un Roy.
 
-**** *book_ *id_body-304 *act_ *date_1660 *creator_boyer
+**** *book_ *id_I04 *act_I *date_1660 *creator_boyer
 
 -*who_federic
 Tu t'émeus à ces mots, ardeur ambitieuse,
@@ -419,7 +419,7 @@ Et je veux couronner le Sexe qu'on dédaigne.
 Mais puis que sur le Trône elle se doit un Roy,
 Souffre un choix de sa part qui s'explique pour moy.
 
-**** *book_ *id_body-305 *act_ *date_1660 *creator_boyer
+**** *book_ *id_I05 *act_I *date_1660 *creator_boyer
 
 -*who_federic
 Approchez, mes enfans.
@@ -524,7 +524,7 @@ Je vay vous preparer cette grande victoire.
 Toy va-t'en à Camille annoncer cette gloire,
 Et luy faire avoüer l'audace de ton feu.
 
-**** *book_ *id_body-306 *act_ *date_1660 *creator_boyer
+**** *book_ *id_I06 *act_I *date_1660 *creator_boyer
 
 -*who_valere
 Allons le prévenir⁎ pour cet illustre aveu⁎.
@@ -533,7 +533,7 @@ La faveur d'un grand Roy, les tendresses d'un Pere,
 Ne sont rien où je vois un Empire à gagner ;
 Et je préfere à tout le hazard⁎ de regner.
 
-**** *book_ *id_body-401 *act_ *date_1660 *creator_boyer
+**** *book_ *id_II01 *act_II *date_1660 *creator_boyer
 
 -*who_federic
 Que je ressens de joye, Octave, à ton retour!
@@ -638,7 +638,7 @@ Et qu'il peut dans ce rang attendre une Couronne ;
 Qu'il luy sera plus doux de regner apres moy …
 Mais Camille paroist.
 
-**** *book_ *id_body-402 *act_ *date_1660 *creator_boyer
+**** *book_ *id_II02 *act_II *date_1660 *creator_boyer
 
 -*who_camille
       Hé bien, enfin le Roy
@@ -669,7 +669,7 @@ Le Roy neglige trop l'interest d'une Reyne ;
 Et vous sçaurez bien-tost, vous reposant sur moy,
 Que ma parole icy vaut bien celle d'un Roy.
 
-**** *book_ *id_body-403 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_II03 *act_II *date_1660 *creator_boyer 
 
 -*who_camille
 Tu vois qu'à mon party, dans un sort si contraire,
@@ -771,7 +771,7 @@ A conceu tant d'espoir … Mais j'apperçoy son Frere ;
 Tu vas voir si je sçay d'un air assez adroit
 Faire parler un cœur, quand il aime en secret.
 
-**** *book_ *id_body-404 *act_ *date_1660 *creator_boyer
+**** *book_ *id_II04 *act_II *date_1660 *creator_boyer
 
 -*who_fabrice
 Le temps vient, grande Reyne, où le Ciel plus propice
@@ -849,14 +849,14 @@ Et songez, pour en prendre un peu plus de courage,
 Que l'amour de Fabrice est heureux en ce poinct,
 Qu'une Reyne le sçait, et n'en murmure point.
 
-**** *book_ *id_body-405 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_II05 *act_II *date_1660 *creator_boyer 
 
 -*who_fabrice
 O Miracle d'amour, que l'Amour n'ose croire!
 Belle temerité, qu'a suivy tant de gloire!
 Mais mon Frere paroist.
 
-**** *book_ *id_body-406 *act_ *date_1660 *creator_boyer
+**** *book_ *id_II06 *act_II *date_1660 *creator_boyer
 
 -*who_valere
       A ce beau mouvement
@@ -978,7 +978,7 @@ Son aveu⁎ me suffit pour n'avoir rien à craindre.
 Nous verrons qui de nous aura lieu de se plaindre.
 Il vient.
 
-**** *book_ *id_body-407 *act_ *date_1660 *creator_boyer
+**** *book_ *id_II07 *act_II *date_1660 *creator_boyer
 
 -*who_yoland
       Quels differens s'agitent entre vous ?
@@ -1087,7 +1087,7 @@ Ah! Seigneur.
       C'est assez. Vous cessez de me voir,
 Je ne veux plus rougir de vostre ingratitude.
 
-**** *book_ *id_body-408 *act_ *date_1660 *creator_boyer
+**** *book_ *id_II08 *act_II *date_1660 *creator_boyer
 
 -*who_yoland
 Il fuit, et m'abandonne à mon inquietude.
@@ -1151,7 +1151,7 @@ Craignez le contretemps d'une ardeur trop pressante.
 Pour les périls du rang cesse de m'alarmer⁎;
 S'il est doux de regner, il est plus doux d'aimer.
 
-**** *book_ *id_body-501 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III01 *act_III *date_1660 *creator_boyer
 
 -*who_federic
 Que me dis-tu ?
@@ -1203,7 +1203,7 @@ Bien-tost aux yeux de tous pourra paroistre au jour ;
 Et qu'elle oppose enfin à tant d'impatience
 Le péril où sa flame expose sa puissance.
 
-**** *book_ *id_body-502 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III02 *act_III *date_1660 *creator_boyer
 
 -*who_federic
 Qu'est-ce cy, Federic ? ce n'est donc pas pour toy,
@@ -1231,7 +1231,7 @@ Soûpire, et pour mon Fils soûpire avec ardeur.
 Tu sçais, sans y penser, trop aimable Valere,
 Te bien venger du choix que j'ay fait pour ton Frere.
 
-**** *book_ *id_body-503 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III03 *act_III *date_1660 *creator_boyer
 
 -*who_federic
 Octave, sçais tu bien …
@@ -1322,7 +1322,7 @@ Pour l'interest d'un choix aussi beau que le mien.
 Voicy Valere : ô Ciel! que sa joye est extréme!
 Ah! je voy bien qu'il sçait que la Princesse l'aime.
 
-**** *book_ *id_body-504 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III04 *act_III *date_1660 *creator_boyer
 
 -*who_federic
 Hé bien, mon Fils, le Ciel a changé vostre sort.
@@ -1382,7 +1382,7 @@ Par de nobles motifs embrasse sa querelle ;
 Aime, adore une Reyne ; et contre son malheur,
 Par les soins⁎ de l'Amour, excite ta valeur.
 
-**** *book_ *id_body-505 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III05 *act_III *date_1660 *creator_boyer
 
 -*who_valere
 Que j'adore une Reyne! à ce seul mot mon ame
@@ -1398,7 +1398,7 @@ Plus je sens le péril d'un espoir temeraire.
 Mais le Roy vient. Allons embrasser ses genoux,
 Et réverer la main qui m'offre un bien si doux.
 
-**** *book_ *id_body-506 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_III06 *act_III *date_1660 *creator_boyer 
 
 -*who_marcellin
 Federic m'a promis d'en éclaircir Valere.
@@ -1547,7 +1547,7 @@ Laissez-moy.
 -*who_valere
       Ciel! quel sort est comparable au mien ?
 
-**** *book_ *id_body-507 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III07 *act_III *date_1660 *creator_boyer
 
 -*who_yoland
 Voy quel est de mon sort l'injurieux caprice ;
@@ -1577,7 +1577,7 @@ L'Amour mesme s'oppose à ses propres desirs.
 Esclave d'une gloire à mon amour fatale …
 Ne voy-je pas passer ma superbe⁎ Rivale ?
 
-**** *book_ *id_body-508 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III08 *act_III *date_1660 *creator_boyer
 
 -*who_yoland
 Venez, venez vanter le pouvoir de vos yeux,
@@ -1693,7 +1693,7 @@ De vostre cher Valere enlevant la franchise⁎,
 Vous menacent au moins, tandis qu'on me retient,
 D'oster à vostre Trône un bras qui le soustient.
 
-**** *book_ *id_body-509 *act_ *date_1660 *creator_boyer
+**** *book_ *id_III09 *act_III *date_1660 *creator_boyer
 
 -*who_marcellin
 Vous voyez qu'elle agit en Amante⁎ en colere :
@@ -1713,7 +1713,7 @@ Amour, fais reüssir ce bizarre secours ;
 Si ma feinte à Valere oste une grande Reyne,
 Ne punis pas au moins ma flame de sa haine.
 
-**** *book_ *id_body-601 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV01 *act_IV *date_1660 *creator_boyer
 
 -*who_federic
 La Princesse s'obstine à conserver un choix
@@ -1762,7 +1762,7 @@ Je suis las de la pompe, et fatigué d'honneurs ;
 Ces titres éclatans n'ont rien qui m'ébloüisse⁎.
 Apprens que Federic … Mais que me veut Fabrice ?
 
-**** *book_ *id_body-602 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV02 *act_IV *date_1660 *creator_boyer
 
 -*who_fabrice
 Ah! Seigneur, est-ce ainsi qu'on traitte mon amour ?
@@ -1782,7 +1782,7 @@ Suspens tous les soucis d'une amour allarmée⁎;
 Avant la fin du jour tu pourras tout sçavoir :
 Le temps me presse, adieu ; Va, songe à ton devoir.
 
-**** *book_ *id_body-603 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV03 *act_IV *date_1660 *creator_boyer
 
 -*who_fabrice
 Va, songe à ton devoir. Helas! ay-je dans l'ame
@@ -1800,7 +1800,7 @@ Pensez-vous qu'il le soit aussi de me l'oster ?
 Et vous, dont la bonté trop sensible à ma peine …
 Mais je la voy venir.
 
-**** *book_ *id_body-604 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_IV04 *act_IV *date_1660 *creator_boyer 
 
 -*who_fabrice
       Vous voyez, grande Reyne,
@@ -1880,7 +1880,7 @@ Adieu, Madame.
       Adieu. Si le Ciel, cher Fabrice,
 Exauce tous mes vœux, il vous fera justice.
 
-**** *book_ *id_body-605 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV05 *act_IV *date_1660 *creator_boyer
 
 -*who_florise
 Quoy, ce cœur qui tantost sembloit si genereux,
@@ -1916,7 +1916,7 @@ S'éveiller, s'empresser dans ce fatal moment,
 Et voulant s'épargner le déplaisir⁎ extréme …
 Mais le voicy qui vient vous l'expliquer luy-méme.
 
-**** *book_ *id_body-606 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV06 *act_IV *date_1660 *creator_boyer
 
 -*who_yoland
 Madame, je reviens ou toucher vostre cœur,
@@ -1977,7 +1977,7 @@ Qu'il pourra vous venger de tous vos déplaisirs⁎.
 Allez, Madame, allez ; et moy plein d'esperance,
 Je vay d'un prompt effort haster vostre vengeance.
 
-**** *book_ *id_body-607 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV07 *act_IV *date_1660 *creator_boyer
 
 -*who_yoland
 Pardonne, cher Valere, à ce déguisement ;
@@ -1989,7 +1989,7 @@ Elle aime son vengeur, et je n'aime que toy ;
 Elle songe à regner, et je songe à te plaire ;
 Elle aime ton pouvoir, je n'aime que Valere.
 
-**** *book_ *id_body-608 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV08 *act_IV *date_1660 *creator_boyer
 
 -*who_yoland
 Marcellin, c'en est fait ; et Camille est pour moy ;
@@ -2072,7 +2072,7 @@ Quand il peut s'épargner la honte de le dire ;
 Et qu'enfin ton aveu⁎ soulage ma pudeur
 De l'indigne soucy d'expliquer mon ardeur.
 
-**** *book_ *id_body-609 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_IV09 *act_IV *date_1660 *creator_boyer 
 
 -*who_valere
 Madame, triomphez sur l'espoir qui vous flate⁎;
@@ -2149,7 +2149,7 @@ Qu'il m'a fait perdre ailleurs de soins⁎, et de soûpirs,
 Et qu'une telle erreur m'a volé de plaisirs!
 Ah! si depuis le temps que vous n'osez paroistre …
 
-**** *book_ *id_body-610 *act_ *date_1660 *creator_boyer
+**** *book_ *id_IV10 *act_IV *date_1660 *creator_boyer
 
 -*who_yoland
 Quel est ce trouble, Octave ?
@@ -2257,7 +2257,7 @@ De vos seuls interests tout mon cœur est jaloux.
 -*who_valere
 Je ne veux vivre, vaincre, et mourir que pour vous.
 
-**** *book_ *id_body-701 *act_ *date_1660 *creator_boyer
+**** *book_ *id_V01 *act_V *date_1660 *creator_boyer
 
 -*who_marcellin
 C'est à quoy l'obligeoit la Puissance supréme ;
@@ -2278,7 +2278,7 @@ Si pres d'un grand combat ayant besoin d'un Maistre …
 Il en usera bien, estant digne de l'estre.
 Va, dis luy de ma part que je plains son malheur.
 
-**** *book_ *id_body-702 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_V02 *act_V *date_1660 *creator_boyer 
 
 -*who_camille
 Helas! je sens le mien avec plus de douleur.
@@ -2315,7 +2315,7 @@ A l'apparent éclat d'une si belle flame :
 Déja ce grand amour est si fort sur mon cœur,
 Que je crains … mais il vient, et peut-estre en vainqueur.
 
-**** *book_ *id_body-703 *act_ *date_1660 *creator_boyer
+**** *book_ *id_V03 *act_V *date_1660 *creator_boyer
 
 -*who_fabrice
 Madame, c'en est fait, vous avez la victoire ;
@@ -2371,7 +2371,7 @@ Que vous faut-il encor apres cette asseurance ?
 Mais il paroist, Madame, et vous allez sçavoir
 Tout ce qu'ont fait pour vous son zele et son devoir.
 
-**** *book_ *id_body-704 *act_ *date_1660 *creator_boyer 
+**** *book_ *id_V04 *act_V *date_1660 *creator_boyer 
 
 -*who_camille
 Par quels remercimens faut-il que je m'acquitte ?
@@ -2454,7 +2454,7 @@ Et c'est dans vostre sang qu'il faut choisir des Rois.
 -*who_federic
 Ah! qu'un si digne aveu⁎… Mais j'aperçoy Valere.
 
-**** *book_ *id_body-705 *act_ *date_1660 *creator_boyer
+**** *book_ *id_V05 *act_V *date_1660 *creator_boyer
 
 -*who_federic
 Viens, approche mon Fils, et d'une main si chere
@@ -2511,7 +2511,7 @@ Je luy doy tout, mon Fils, bas et c'est là ton malheur :
 Mais il est temps enfin de le tirer d'erreur.
 Mon Fils … Mais j'aperçoy le sujet de ma flame.
 
-**** *book_ *id_body-706 *act_ *date_1660 *creator_boyer
+**** *book_ *id_V06 *act_V *date_1660 *creator_boyer
 
 -*who_yoland
 Me pardonnerez-vous …

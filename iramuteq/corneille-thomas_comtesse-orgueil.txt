@@ -69,7 +69,7 @@ Registré sur le Livre de la Communauté des Imprimeurs et Marchands Libraires d
 
 Signé LOUIS SEVESTRE, Syndic.
 
-**** *book_ *id_body-401 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1671 *creator_corneille
 
 -*who_carlin
 Quoy ? te trouver encor & seule & sans maîtresse⁎ ?
@@ -231,7 +231,7 @@ Et bien ? Fait-il la mode ?
       Il comble ma mesure⁎,
 Quel attirail de points, de rubans, d'affiquets !
 
-**** *book_ *id_body-402 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1671 *creator_corneille
 
 -*who_marquis
 C'est de moy qu'on te parle ?
@@ -353,7 +353,7 @@ C'est là le Chevalier ?
 -*who_lyse
 Est-il original⁎ qui vaille ton marquis ?
 
-**** *book_ *id_body-403 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1671 *creator_corneille
 
 -*who_chevalier
 Peut-estre que je viens mal à propos ?
@@ -567,7 +567,7 @@ Carlin.
       Va, cours, le temps m'est cher.
 Si la Marquise vient, qu'on me fasse chercher.
 
-**** *book_ *id_body-404 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1671 *creator_corneille
 
 -*who_chevalier
 C'est encor un message à faire à quelque belle ?
@@ -615,7 +615,7 @@ Et le Vieillard…
 -*who_chevalier
       Tay-toy, je voy venir Oronte.
 
-**** *book_ *id_body-405 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1671 *creator_corneille
 
 -*who_chevalier
 Enfin donc il n'est rien que l'amour ne surmonte,
@@ -670,7 +670,7 @@ Olympe est avec elle.
 Je ne luy veux parler qu'après que j'auray sceu
 Quel accueil du Vieillard ma flame⁎ aura receu.
 
-**** *book_ *id_body-406 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1671 *creator_corneille
 
 -*who_oronte
 Quoy, sortir sans m'attendre ? Ah, j'ay lieu de m'en plaindre.
@@ -712,7 +712,7 @@ La douceur s'étend loin.
 -*who_lucrece
       Vous l'avez mandiée⁎.
 
-**** *book_ *id_body-407 *act_ *date_1671 *creator_corneille
+**** *book_ *id_I07 *act_I *date_1671 *creator_corneille
 
 -*who_virgine
 Enfin c'est tout de bon vous estes mariée.
@@ -889,7 +889,7 @@ Informez-vous par tout en quelle estime il est.
 -*who_oronte
 Il suffit, vous sçavez si j'y prens interest.
 
-**** *book_ *id_body-501 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1671 *creator_corneille
 
 -*who_marquis
 N'allez-pas plus avant, Beau-père, il fait trop sombre,
@@ -1106,7 +1106,7 @@ Le temps…
 -*who_marquis
       Eh, je sçay trop où luy tient l'encloueure.
 
-**** *book_ *id_body-502 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1671 *creator_corneille
 
 -*who_carlin
 Quatre mots à quartier, Monsieur.
@@ -1122,7 +1122,7 @@ Si je nuis…
       Preste ; icy vous gagneriez la toux,
 Bon soir.
 
-**** *book_ *id_body-503 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1671 *creator_corneille
 
 -*who_marquis
       Combien as-tu de poulets à me rendre ?
@@ -1259,7 +1259,7 @@ C'est quelque Belle encor.
 -*who_carlin
       Je vay la reconnoistre.
 
-**** *book_ *id_body-504 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1671 *creator_corneille
 
 -*who_virgine
 Carlin.
@@ -1311,7 +1311,7 @@ Qui me sert quand de nuit le cas veut qu'on chamaille.
 Que sçait-on quelquefois ce qui peut arriver ?
 Va viste.
 
-**** *book_ *id_body-505 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1671 *creator_corneille
 
 -*who_marquis
       Au rendez-vous je sçauray me trouver.
@@ -1361,7 +1361,7 @@ Si je te connoissois digne de raisonner…
 -*who_virgine
 J'entens marcher, adieu.
 
-**** *book_ *id_body-506 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II06 *act_II *date_1671 *creator_corneille
 
 -*who_marquis
       Qui vient m'importuner ?
@@ -1432,7 +1432,7 @@ Si c'est Olympe ?
 -*who_marquis
       Enfin me suivez-vous, ou non ?
 
-**** *book_ *id_body-507 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II07 *act_II *date_1671 *creator_corneille
 
 -*who_lucrece
 Je n'entens plus personne.
@@ -1453,7 +1453,7 @@ Tel qu'il puisse estre, au moins j'en attens le portrait.
 -*who_olympe
 Repose-t'en sur moy, tu l'auras trait pour trait.
 
-**** *book_ *id_body-508 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II08 *act_II *date_1671 *creator_corneille
 
 -*who_virgine
 N'en déplaise à quiconque a fait la médisance,
@@ -1479,7 +1479,7 @@ C'est qu'il enrageroit si vous estiez Marquise,
 Et qu'il ne sçauroit voir sans en estre jaloux,
 Qu'en l'épousant, Lucrece ait moins de rang que vous.
 
-**** *book_ *id_body-509 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II09 *act_II *date_1671 *creator_corneille
 
 -*who_chevalier
 J'ay quitté mon Brutal pour chercher ce que j'aime.
@@ -1692,7 +1692,7 @@ Vous ne me dites rien ?
 -*who_virgine
 C'est qu'on fait quelque bruit, et qu'il écoute.
 
-**** *book_ *id_body-510 *act_ *date_1671 *creator_corneille
+**** *book_ *id_II10 *act_II *date_1671 *creator_corneille
 
 -*who_marquis
       Allons ?
@@ -1809,7 +1809,7 @@ Je crains toûjours pour luy.
       Helas !
 Je ne craindrois pas tant si je ne l'aimois pas
 
-**** *book_ *id_body-601 *act_ *date_1671 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1671 *creator_corneille
 
 -*who_lucrece
 Vous vous éloignez donc ?
@@ -1867,7 +1867,7 @@ A cela prest encor a-t'il l'esprit aisé ?
 -*who_oronte
 Rien moins, et l'on croiroit qu'il cherche à faire rire.
 
-**** *book_ *id_body-602 *act_ *date_1671 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1671 *creator_corneille
 
 -*who_olympe
 Est-ce une verité que l'on vient de me dire ?
@@ -1887,7 +1887,7 @@ Tous les moments qu'icy je donne à mon amour
 Ne font que differer d'autant plus mon retour,
 Ainsi puis qu'il le faut je m'arrache à moy-mesme.
 
-**** *book_ *id_body-603 *act_ *date_1671 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1671 *creator_corneille
 
 -*who_olympe
 Le chagrin de l'absence est cruel quand on aime,
@@ -1969,7 +1969,7 @@ Son courage l'égale, et l'on n'en peut trop dire.
 Si je te pouvois bien dépeindre de quel air
 Il repoussa son Frere, et le fit reculer…
 
-**** *book_ *id_body-604 *act_ *date_1671 *creator_corneille 
+**** *book_ *id_III04 *act_III *date_1671 *creator_corneille 
 
 -*who_virgine
 Madame, une visite où vous ne songiez guere.
@@ -2001,7 +2001,7 @@ Prenez l'occasion de faire enfin ma paix.
 -*who_olympe
 J'employeray le Marquis, va, je te le promets.
 
-**** *book_ *id_body-605 *act_ *date_1671 *creator_corneille 
+**** *book_ *id_III05 *act_III *date_1671 *creator_corneille 
 
 -*who_chevalier
 Madame, j'ay douté si ce seroit vous plaire
@@ -2111,7 +2111,7 @@ A trop d'emportement⁎ j'abandonne ma flame⁎,
 Et sans doute j'ay tort de mesler mes chagrins
 Aux sensibles douceurs de vos heureux destins.
 
-**** *book_ *id_body-606 *act_ *date_1671 *creator_corneille 
+**** *book_ *id_III06 *act_III *date_1671 *creator_corneille 
 
 -*who_lucrece
 Dy tant que tu voudras que ton Marquis l'efface,
@@ -2152,7 +2152,7 @@ Qu'importe quel Objet sa passion ait eu ?
 -*who_olympe 
 Voicy quelque message.
 
-**** *book_ *id_body-607 *act_ *date_1671 *creator_corneille
+**** *book_ *id_III07 *act_III *date_1671 *creator_corneille
 
 -*who_lucrece
       Approche.
@@ -2194,7 +2194,7 @@ Il est tout englouty dedans sa chevelure.
 -*who_olympe
 Que dis-tu de son air ? L'a-t'il galant⁎ et doux ?
 
-**** *book_ *id_body-608 *act_ *date_1671 *creator_corneille 
+**** *book_ *id_III08 *act_III *date_1671 *creator_corneille 
 
 -*who_marquis
 C'est celle-cy ?
@@ -2506,7 +2506,7 @@ Je vous épouserois toutes deux.
 Oh, oh, ma Reine, donc vous en voulez par là.
 J'en vay danser de joye.
 
-**** *book_ *id_body-609 *act_ *date_1671 *creator_corneille
+**** *book_ *id_III09 *act_III *date_1671 *creator_corneille
 
 -*who_marquis
       Ah, vous voila, Beaupere.
@@ -2699,7 +2699,7 @@ Sortiray-je avant vous ?
       Ouy : le maudit Vieillard !
 Qu'il aime à contester ! Les Belles, Dieu vous gard.
 
-**** *book_ *id_body-610 *act_ *date_1671 *creator_corneille
+**** *book_ *id_III10 *act_III *date_1671 *creator_corneille
 
 -*who_olympe
 A-t'on jamais parlé de pareille folie ?
@@ -2788,7 +2788,7 @@ Elle gasteroit tout.
 -*who_virgine
 Allons, vous le sçaurez quand il en sera temps.
 
-**** *book_ *id_body-701 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1671 *creator_corneille
 
 -*who_lucrece
 Estes-vous satisfait ?
@@ -2877,7 +2877,7 @@ Mais pour joüer ce rôle…
 Virgine a de l'esprit, croyez-moy. Que fait-elle ?
 Virgine.
 
-**** *book_ *id_body-702 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1671 *creator_corneille
 
 -*who_virgine
       L'on y va. Voyez si je suis belle.
@@ -2933,7 +2933,7 @@ Quoy qu'elle ait l'air galant⁎, tu l'as plus dégagé.
 C'est à quoy je répons qu'il n'aura pas songé.
 Voicy Carlin.
 
-**** *book_ *id_body-703 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1671 *creator_corneille
 
 -*who_chevalier
       Et bien ?
@@ -2968,7 +2968,7 @@ Pour le voir, il croira, si tu veux, qu'à grand frais
 La Reine de Congo vient icy tout exprés.
 Voy dans ces nœuds toufus quel amas de merite.
 
-**** *book_ *id_body-704 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1671 *creator_corneille
 
 -*who_marquis
 Qu'en dis-tu ? Suis-je exact ? J'ay promis, je m'acquite.
@@ -2992,7 +2992,7 @@ Vous en serez payé largement.
 -*who_marquis
       Je le pense.
 
-**** *book_ *id_body-705 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1671 *creator_corneille
 
 -*who_marquis
 Cette maison est belle.
@@ -3037,7 +3037,7 @@ Je vay haut quand je veux.
 -*who_marquis
       L'air m'en plaist.
 
-**** *book_ *id_body-706 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1671 *creator_corneille
 
 -*who_virgine
 Rentrez page.
@@ -3406,7 +3406,7 @@ Entrez.
 -*who_marquis
       Il n'est plus temps, il m'a vû, le voicy.
 
-**** *book_ *id_body-707 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV07 *act_IV *date_1671 *creator_corneille
 
 -*who_oronte
 Ah, Monsieur le Marquis, que faites vous icy ?
@@ -3521,7 +3521,7 @@ J'admire…
 -*who_marquis
       Admirez donc, vous en verrez bien d'autres.
 
-**** *book_ *id_body-708 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV08 *act_IV *date_1671 *creator_corneille
 
 -*who_anselme
 La compagnie est belle.
@@ -3572,7 +3572,7 @@ Monsieur, défaites-nous du Vieillard.
       Tout à l'heure.
 Carlin, s'il va parler ?
 
-**** *book_ *id_body-709 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV09 *act_IV *date_1671 *creator_corneille
 
 -*who_anselme
       Comme on ne peut trop tost
@@ -3663,7 +3663,7 @@ J'enrage.
 -*who_carlin
       La voicy qui sort toute éplorée.
 
-**** *book_ *id_body-710 *act_ *date_1671 *creator_corneille
+**** *book_ *id_IV10 *act_IV *date_1671 *creator_corneille
 
 -*who_virgine
 Ah, Monsieur le Marquis, je suis desesperée.
@@ -3789,7 +3789,7 @@ Les vœux du Chevalier pourront avoir effet.
 -*who_virgine
 Viens sçavoir avec moy ce qu'Olympe aura fait.
 
-**** *book_ *id_body-801 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1671 *creator_corneille
 
 -*who_virgine
 Demeurez-en d'accord, Madame, quand on aime
@@ -3847,7 +3847,7 @@ Peut-on pas contenter les gens⁎ sans dire mot ?
 -*who_olympe
 Tu seras toûjours folle.
 
-**** *book_ *id_body-802 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1671 *creator_corneille
 
 -*who_virgine
       Et bien, quelle nouvelle,
@@ -3910,7 +3910,7 @@ Jamais en me servant on ne perd avec moy.
 -*who_carlin
 Ah, ma chere Comtesse.
 
-**** *book_ *id_body-803 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1671 *creator_corneille
 
 -*who_lucrece
       Enfin, réjoüis-toy,                1560
@@ -3941,7 +3941,7 @@ Tu ne changeras point.
       Je vous attens icy,
 Allez, sur le grand ouy faites bien la grimace⁎.
 
-**** *book_ *id_body-804 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1671 *creator_corneille
 
 -*who_carlin
 Tu n'oses donc encor…
@@ -3991,7 +3991,7 @@ Il fait bon…
 Et lors que tu verras le Marquis arriver…
 Mais…
 
-**** *book_ *id_body-805 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1671 *creator_corneille
 
 -*who_marquis
       Cours dire au vieillard qu'il me vienne trouver,
@@ -4089,7 +4089,7 @@ Ma Comtesse.
       Un baiser seulement,
 Je vous en tiendray compte, et…
 
-**** *book_ *id_body-806 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V06 *act_V *date_1671 *creator_corneille
 
 -*who_anselme
       La piece est galante⁎,
@@ -4204,7 +4204,7 @@ Pour duper le barbon il faut vous tutoyer.
 -*who_virgine
 Vous attendrez fort peu, je vay vous l'envoyer.
 
-**** *book_ *id_body-807 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V07 *act_V *date_1671 *creator_corneille
 
 -*who_marquis
 Ce coup inopiné vous rabatra la hupe.
@@ -4247,7 +4247,7 @@ Ne voulant point entendre, il ne répondra pas.
 -*who_marquis
 Voicy sa Geniture.
 
-**** *book_ *id_body-808 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V08 *act_V *date_1671 *creator_corneille
 
 -*who_marquis
       Approchez, nostre Prude⁎.
@@ -4379,7 +4379,7 @@ Laissez faire à l'Orgueil, il vous promet miracle.
 -*who_anselme
 Monsieur le Chevalier n'y mettra pas d'obstacle.
 
-**** *book_ *id_body-809 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V09 *act_V *date_1671 *creator_corneille
 
 -*who_anselme
 Venez, on vous attend pour un ordre assez doux,
@@ -4486,7 +4486,7 @@ Mon bel Ange, parlez, que faut-il que j'en croye ?
 -*who_virgine
 Jugez-en.
 
-**** *book_ *id_body-810 *act_ *date_1671 *creator_corneille
+**** *book_ *id_V10 *act_V *date_1671 *creator_corneille
 
 -*who_oronte
       Je vous viens faire part de ma joye,

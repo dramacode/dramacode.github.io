@@ -2312,8 +2312,7 @@ Je l'essuyeray sans peine, et consens que par là…
 LA TANTE, ANGELIQUE, ORONTE, LA MONTAGNE, LYSETTE.
 
 
-    LA MONTAGNE *s'adressant à Angelique, 
-  
+    LA MONTAGNE *s'adressant à Angelique,    
 et feignant de la prendre pour la Tante.*
 Qui des deux est la Tante ? à l'âge, la voila. [88]  
 Pardonnez, je sçay bien que ce vilain mot d'âge  
@@ -5577,7 +5576,7 @@ Le Baron de la CrasseL'Après-soupé des auberges
 
 [103] 1692 : peut.
 
-[104]  Comprendre : comportez vous en ami, prenez sa place. « Tour, se dit généralement, Du  procédé, de la maniere d'agir à l'égard de quelqu'un. Tour d'honneste homme, tour d'amy, tour de fripon. » (Fur.)
+[104]  Comprendre : comportez vous en ami, prenez sa place. « Tour, se dit généralement, Du procédé, de la maniere d'agir à l'égard de quelqu'un. Tour d'honneste homme, tour d'amy, tour de fripon. » (Fur.)
 
 [105] Le *bonheur* d'échapper pour un moment à la Tante.
 
@@ -5585,7 +5584,7 @@ Le Baron de la CrasseL'Après-soupé des auberges
 
 [107] Mesme : de toute manière.
 
-[108]  « Prendre de la peine inutilement pour une chose qui ne le mérite pas. » (Ac.) Dans le contexte, Lysette veut dire que si Léandre se faisait de nouveau galant avec la Tante, Oronte  n'aurait pas besoin de dépenser son énergie à repousser ses avances.
+[108]  « Prendre de la peine inutilement pour une chose qui ne le mérite pas. » (Ac.) Dans le contexte, Lysette veut dire que si Léandre se faisait de nouveau galant avec la Tante, Oronte n'aurait pas besoin de dépenser son énergie à repousser ses avances.
 
 [109] « Estoile, se dit aussi en parlant des influences celestes. Cet homme a fait une grande fortune, il est né sous une heureuse *estoile*. Il est d'une complexion amoureuse, il ne sçauroit se deffendre d'aimer, c'est son *estoile*. » (Fur.) 
 

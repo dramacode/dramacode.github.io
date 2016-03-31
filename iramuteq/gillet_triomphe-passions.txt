@@ -105,7 +105,7 @@ Puis lors que l'on luy vient dire l'effect⁎ de la sentence qu'il a donnee, c'e
 
 repentir que traine apres soy ce trop grand desir de vaine gloire, et ce faux poinct d'honneur qui tourmentoit son ame sans cesse, et ne luy donnoit point de repos.
 
-**** *book_ *id_body-601 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I01 *act_I *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_l_enchanteur
 Toy qu'un sage dessein amene dans ces lieux,
@@ -186,7 +186,7 @@ Vois, escoute, et te tais,
 -*who_l_enchanteur
       suy moy.
 
-**** *book_ *id_body-602 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I02 *act_I *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_manlie
 Quoy ? donc il est certain ; ah funeste nouvelle !
@@ -255,7 +255,7 @@ Parloit de sa prudence en paroles moquantes,
 Et luy disoit apres tant d'injures piquantes
 Et le defioit tant pour le faire sortir,
 Qu'en cette occasion son sang n'a peu mentir,
-Il voulait tesmoigner qu'il estoit né d'un pere :
+Il voulait tesmoigner qu'il estoit né d'un pere : 
 
 -*who_manlie
 Va, ne le flatte point, il eust tort de le faire,
@@ -280,7 +280,7 @@ Mais il l'a bien servy,
 Mais Dieux, de quel combat mon cœur est assailly,
 Je le voy qui s'approche avec toute sa suite.
 
-**** *book_ *id_body-603 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I03 *act_I *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_manlie
 Ah! Nature,
@@ -460,7 +460,7 @@ Donne ta teste
 -*who_le_fils
       à Dieu,
 
-**** *book_ *id_body-604 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I04 *act_I *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_manlie
       Monstre toy mon courage,
@@ -519,7 +519,7 @@ Tu m'as faict perdre un bien qui n'a point de semblable,
 Mais tenant⁎ desormais tous espoirs superflus,
 A Dieu! Maudit honneur je ne te cognois plus.
 
-**** *book_ *id_body-605 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I05 *act_I *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_harmenie
 Seigneur,
@@ -642,7 +642,7 @@ Envoyez promptement,
 -*who_manlie
       je le veux, que l'on aille.
 
-**** *book_ *id_body-606 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I06 *act_I *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_arphace
 Ah! Sire, c'est en vain qu'un remord vous travaille,
@@ -674,7 +674,7 @@ O malheur sans pareil!
 -*who_harmenie
 Porte moy sur mon lit, et du lit au tombeau.
 
-**** *book_ *id_argument-second-acte *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_argument-second-acte *date_1642 *creator_gillet_de_la_tessonerie 
 
 ARGUMENT DU SECOND ACTE.
 
@@ -687,7 +687,7 @@ Lors le Fils entre avec le Gouverneur de la ville où estoit Mithridate, qui pro
 
 peut tenir cinq ou six jours, il envoye leur dire qu'il se rende, et qu'il le garentiroit⁎ de fer et de poison, et le tenant en sa puissance, il le fait estouffer; mais aussi tost la justice Divine agissant, une rage s'empare de son ame et le jettant dans un horrible desespoir, il se frappe de son espée, et monstre que cette ambition estant pernicieuse traine apres soy ces malheureux effets qui ne peuvent jamais dementir leurs causes.
 
-**** *book_ *id_body-801 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II01 *act_II *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_l_enchanteur
 Rappelle ton esprit, tes yeux et tes oreilles;
@@ -746,7 +746,7 @@ Rompt une naturelle et saincte affection :
 Allons, c'est trop parler, l'heure presse et s'advance,
 Entrons dedans ce Temple, et garde le silence.
 
-**** *book_ *id_body-802 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II02 *act_II *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_pharasmane
 Puisque tu veux sçavoir d'où provient ma tristesse,
@@ -835,7 +835,7 @@ Mais j'apperçois quelqu'un, approchons de la place;
 Je crois que c'est mon frere, et je dois aujourd'huy
 Le veoir et luy parler, et approchons c'est luy.
 
-**** *book_ *id_body-803 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II03 *act_II *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_mitridate
 Pharasmane, advancez, non pas comme adversaire,
@@ -865,7 +865,7 @@ Et vous serez encor plus de trois ans devant,
 Car ces murs sont trop bons pour en voir les ruines,
 Et deux cens magazins de bleds et de machisnes,
 Et des amas d'argent et des cœurs preparez
-Vous cousteront du sang plus que vous n'esperez.
+Vous cousteront du sang plus que vous n'esperez. 
 
 -*who_parthenie
 Ha ! Seigneur, terminez cette fatalle guerre :
@@ -888,7 +888,7 @@ Vostre rare vertu vous a faict adorable,
 Vostre insigne⁎ valleur vous rend incomparable,
 Et cent perfections pressent vostre bonté
 De ne vous pas frustrer de l'immortalité,
-Donc par ce mesme sang dont vous voulez la perte,
+Donc par ce mesme sang dont vous voulez la perte, 
 
 -*who_mitridate
 Par ces beaux yeux moüillez par leur peine soufferte,
@@ -968,7 +968,7 @@ Sire, le Prince attend,
 Qu'il entre et plaise aux Dieux que l'ingrat me contente :
 Oüy, prions pour mon frere, ô procedé⁎ nouveau !
 
-**** *book_ *id_body-804 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II04 *act_II *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_radamiste
 Enfin nous le tiendrons ce superbe⁎ chasteau
@@ -1075,7 +1075,7 @@ Que tu n'es que mon fils et que je suis ton Roy :
 Oüy, je me souviendray que vous estes mon pere,
 Mais quand j'auray demain le Sceptre que j'espere
 Je ne connoistray plus de souverain que moy
-Et vous vous souviendrez de n'estre plus mon Roy,
+Et vous vous souviendrez de n'estre plus mon Roy, 
 
 -*who_pharasmane
 Je voulois le prier pour le repos d'un frere,
@@ -1135,7 +1135,7 @@ Adieu dans peu le ciel armera sa tempeste
 Pour secher les Lauriers qui vont cindre ta teste,
 Et t'envoyer les maux que tu nous fais souffrir.
 
-**** *book_ *id_body-805 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II05 *act_II *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_radamiste
 He bien ! nous perirons quand il faudra perir,
@@ -1156,7 +1156,7 @@ D'achepter mon repos par du sang et des larmes,
 Et monstrer en rengeant un peuple soubs ma loy,
 Que je donne la crainte et n'en ay point pour moy.
 
-**** *book_ *id_body-806 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II06 *act_II *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_radamiste
 He bien !
@@ -1200,7 +1200,7 @@ Cruel commandement, Sire,
 -*who_radamiste
       point de replique.
 
-**** *book_ *id_body-807 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II07 *act_II *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_radamiste
 Va viste, c'est ainsi qu'un conquerant s'explique,
@@ -1233,7 +1233,7 @@ Qu'ils m'ostent le courage et font que je me rends,
 Et qu'ils charment mes sens par de telles amorces
 Que je me treuve foible au milieu de mes forces.
 
-**** *book_ *id_body-808 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II08 *act_II *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_le_page
 Sire, je venois dire à vostre Majesté,
@@ -1292,7 +1292,7 @@ Que le Ciel tost ou tard frappe les criminels,
 Et que tousjours son bras armé pour la justice
 Couronne la vertu comme il punit le vice.
 
-**** *book_ *id_argument-troisieme-acte *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_argument-troisieme-acte *date_1642 *creator_gillet_de_la_tessonerie 
 
 ARGUMENT DU TROISIESME ACTE.
 
@@ -1307,7 +1307,7 @@ Medecin l'estant venu trouver luy confirme encor l'opinion qu'il avoit qu'elle l
 
 ame, à ce monstre qui se sert de l'image de la beauté, pour nous seduire et pour nous perdre.
 
-**** *book_ *id_body-1001 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III01 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_arthemidore
 Ouy, je reconnois bien que cette ambition
@@ -1349,7 +1349,7 @@ Qui languit et qui meurt, mais entrons il est temps.
 -*who_arthemidore
 Je veux ce qui vous plaist, et mes vœux sont contens.
 
-**** *book_ *id_body-1002 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III02 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_antioque
 Enfin je me voy seul et las⁎ de me contraindre,
@@ -1426,7 +1426,7 @@ Mettons nous sur ce lict, et plaise aux justes Dieux
 Que l'amour ou la mort ferment bien-tost mes yeux;
 Mais qui vient m'interrompre ? ha ! rigoureux supplice.
 
-**** *book_ *id_body-1003 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III03 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_antioque
 He bien ! que me veux-tu,
@@ -1471,7 +1471,7 @@ Et qu'un si beau trespas⁎ soulage mon martyre⁎,
 Et leur fasse sçavoir ce que je n'ose dire,
 Mais ô Dieux ! je les voy, que dois-je faire amour ?
 
-**** *book_ *id_body-1004 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III04 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_stratonice
 Monsieur, je ne sçaurois laisser passer un jour
@@ -1720,7 +1720,7 @@ Que l'ame a des appas⁎ plus beaux que le visage,
 Que l'honneur est l'object qui nous doit enflâmer,
 Et que sans luy jamais nous ne devons aimer.
 
-**** *book_ *id_body-1005 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III05 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_antioque
 Ah Dieux ! elle s'en va, mal-heureux Antioque :
@@ -1744,7 +1744,7 @@ J'invoque pour guerir le tyran qui me blesse,
 Et voulant une main pour briser mes liens,
 J'appelle à mon secours celle dont je les tiens.
 
-**** *book_ *id_body-1006 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III06 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_pericles
 Monsieur, je crois qu'il dort,
@@ -1849,7 +1849,7 @@ Sans cela tu verrois jusqu'où va ma collere,
 A Dieu je te pardonne à cause de mon pere,
 Ne te monstre jamais,
 
-**** *book_ *id_body-1007 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III07 *act_III *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_antioque
       Il voulait feindre en vain,
@@ -1895,7 +1895,7 @@ Mon œil s'appesantit, ma paupière se ferme,
 Je succombe, et perdant la lumière du jour,
 Je meurs du seul regret d'avoir eu de l'amour.
 
-**** *book_ *id_argument-quatrieme-acte *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_argument-quatrieme-acte *date_1642 *creator_gillet_de_la_tessonerie 
 
 ARGUMENT DU QUATRIESME ACTE.
 
@@ -1906,7 +1906,7 @@ passa de l'excés de l'amour à celuy de la jalousie : Ce qui faisoit qu'il ne 
 
 recogneu il se desespere et détrompe le mieux qu'il pût, cette femme que les Dieux avoient punie par la main, et cause de cét exercice jalousie qui l'aveugloit sans cesse, et l'empeschoit de leur rendre les devoirs que leurs puissances souveraines exigent de tous les mortels.
 
-**** *book_ *id_body-1201 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV01 *act_IV *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_arthemidore
 Je connois maintenant la force de ces flâmes⁎,
@@ -1943,7 +1943,7 @@ Entrons,
 -*who_arthemidore
       que de profit et de contentement⁎.
 
-**** *book_ *id_body-1202 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV02 *act_IV *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_alphee
 Madame, triomphez de cette jalousie,
@@ -2039,7 +2039,7 @@ Je pleure seulement un bien qui m'appartient :
 Je pleure mon espoux, mais je le voy paroistre,
 Fuyons,
 
-**** *book_ *id_body-1203 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV03 *act_IV *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_megiste
       c'est ce qu'enfin j'en ai pû reconnoistre,
@@ -2076,7 +2076,7 @@ Je ne sçaurois encor discerner ce que c'est,
 Je vay tirer pourtant puis que mon arc est prest,
 C'est un trait de perdu, n'importe,
 
-**** *book_ *id_body-1204 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV04 *act_IV *date_1642 *creator_gillet_de_la_tessonerie 
 
 -*who_martiane
       ah ! miserable,
@@ -2296,7 +2296,7 @@ Il fit en s'outrageant ce que vous auriez fait :
 Dans les bras de l'amour et de la joüissance,
 Il fit naistre un boureau dedans sa conscience,
 Il logea dedans luy ses plus grands ennemis,
-Et se perdit enfin quand vous l'eustes permis.
+Et se perdit enfin quand vous l'eustes permis. 
 
 -*who_emilie
 Ah ! justes Dieux, faut-il que vous l'ayez punie
@@ -2353,7 +2353,7 @@ Monsieur, vostre brancart est à trois pas d'icy,
 -*who_emilie
 Allons, si tu peris je veux perir aussi.
 
-**** *book_ *id_argument-cinquieme-acte *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_argument-cinquieme-acte *date_1642 *creator_gillet_de_la_tessonerie 
 
 ARGUMENT DU Ve ACTE.
 
@@ -2367,7 +2367,7 @@ temps apres reçoit une lettre de luy, par laquelle il l'asseuroit en mourant de
 
 Histoire, prie Arthemidore de se retirer, de faire son profit de ce qu'il avoit veu, ce qu'il fait aussi-tost, le remerciant des bons offices qu'il avoit receus de luy, et le priant de luy faire voir les cinq autres Histoires qui luy promettoit au plustost, s'en va comblé d'allegresse et de joye, et guery de ces passions qui l'avoient si cruellement tourmenté.
 
-**** *book_ *id_body-1401 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V01 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_arthemidore
 Ouy, tirant du profit de ces enchantemens
@@ -2407,7 +2407,7 @@ Afin que le portrait s'en grave en ta memoire
 Lors que j'auray mis fin à cest enchantement,
 Viens aussi le conclure avec ton sentiment,
 
-**** *book_ *id_body-1402 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V02 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_bisathie
 Ouy, j'aimay ce perfide, et dans ma flâme⁎ extréme,
@@ -2438,7 +2438,7 @@ Mais si le juste Ciel seconde mon envie,
 Ma haine desloyal te coustera la vie;
 Mais je voy Felismene,
 
-**** *book_ *id_body-1403 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V03 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_bisathie
       Hé bien le verrons-nous,
@@ -2488,7 +2488,7 @@ Ou tu n'oses me plaire, ou tu ne le peux pas,
 La crainte que j'en ay me donne le trépas⁎;
 Haste-toy de venir si tu veux que je vive.
 
-**** *book_ *id_body-1404 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V04 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_le_page
 Madame, on dit là bas que Philidan arrive,
@@ -2511,7 +2511,7 @@ Respirons un moment devant que de le veoir,
 Mais Dieux ! je doute encor s'il est en mon pouvoir,
 Sçache-le, Felismene, et m'en viens rendre compte.
 
-**** *book_ *id_body-1405 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V05 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_bisathie
 O Dieux, pourré-je veoir cet objet de ma honte
@@ -2566,7 +2566,7 @@ Qui méprise l'amour doit acquerir la haine,
 Le traistre par sa fuite attira dessus soy
 Le coup inesperé qu'il recevra de toy.
 
-**** *book_ *id_body-1406 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V06 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_bisathie
 Mais, ô Dieux, le voicy qu'on l'oste, qu'on l'entraisne,
@@ -2708,7 +2708,7 @@ Mais, Madame,
       perfide, oste-toy de mes yeux,
 Ton crime est detesté des hommes et des Dieux.
 
-**** *book_ *id_body-1407 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V07 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_felismene
 Voicy le Roy, Madame,
@@ -2751,7 +2751,7 @@ Il n'est point de besoin de le mettre en prison;
 -*who_bisathie
 Helas, que ce rencontre⁎ esbranle ma raison.
 
-**** *book_ *id_body-1408 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V08 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_le_roy
 Pour toy dont l'imprudence est digne d'un suplice,
@@ -2770,7 +2770,7 @@ Mais tu ne me respons qu'en baissant le visage :
 A Dieu, je ne sçaurois te parler davantage,
 Profite de ta faute et de tant de bonté.
 
-**** *book_ *id_body-1409 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V09 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_philidan
 Vostre cœur a le bien qu'il avoit souhaitté,
@@ -2802,7 +2802,7 @@ Tout,
 -*who_philidan
 J'obeis,
 
-**** *book_ *id_body-1410 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V10 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_bisathie
       Il s'en va ce miserable amant⁎
@@ -2828,7 +2828,7 @@ Qui te vouloit priver, et d'honneur, et de vie :
 Quoy le voudrois-tu suivre, il ne t'a pas suivie :
 Songe que par sa fuite il s'est mocqué de toy.
 
-**** *book_ *id_body-1411 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V11 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_le_page
 Madame, le rebelle,
@@ -2902,7 +2902,7 @@ Que j'ay passé trop tost de l'amour à la haine;
 O mort, viens me punir, et monstrer en ce jour
 Que l'on peut repasser de la haine à l'amour.
 
-**** *book_ *id_body-1412 *act_ *date_1642 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V12 *act_V *date_1642 *creator_gillet_de_la_tessonerie
 
 -*who_l_enchanteur
 Tu me presses en vain d'en monstrer davantage,

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_dedicace *date_1663 *creator_gilbert
+**** *book_ *id_dedicace *date_1663 *creator_gilbert 
 
 A MONSEIGNEUR COLBERT CONSEILLER DU ROY En tous ses Conseils, & Intendant De ses Finances.
 
@@ -29,7 +29,9 @@ Et ledit Barbin a fait part de son Privilege à Guillaume de Luyne, & Estienne L
 
 Achevé d'imprimé pour la premiere fois le 20 Aoust 1663.
 
-**** *book_ *id_body-3 *date_1663 *creator_gilbert
+**** *book_ *id_A *date_1663 *creator_gilbert
+
+PROLOGUE DES GRACES.
 
 -*who_talie
 Nous sommes de Venus les compagnes fidelles,
@@ -73,7 +75,9 @@ Pour combler les Amans d'une gloire⁎ infinie,
 De l'élite⁎ des fleurs qui naissent dans ces lieux,
 Allons pour couronner leurs fronts victorieux.
 
-**** *book_ *id_body-5 *date_1663 *creator_gilbert
+**** *book_ *id_B *date_1663 *creator_gilbert
+
+RECIT.
 Venez, Amans, dans ces beaux lieux,
 Où par l'ordre de Citherée
 Les Graces descendent des Cieux,
@@ -81,7 +85,7 @@ Pour venir presider à la Feste sacrée ;
 Venez voir Triompher sur les flots applanis
 Venus & les Amours en faveur d'Adonis.
 
-**** *book_ *id_body-601 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_III01 *act_I *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Et bien, que dites-vous de cette Isle sacrée,
@@ -93,7 +97,7 @@ Où ce Dieu recompense une flame⁎ discrette ;
 Où celle qu'on couronne icy publiquement,
 Elle mesme est le prix du plus parfait amant⁎ ?
 La ville des Cesars est-elle plus galante⁎  ?
-Qu'en croit Ovide enfin ?
+Qu'en croit Ovide enfin ? 
 
 -*who_ovide
       Cette Isle est plus charmante⁎ ;
@@ -143,7 +147,7 @@ Quelque Nymphe en ces lieux vous a-t-elle charmé⁎ ?
 La plus belle, Hiacinthe a ravy ma franchise⁎.
 
 -*who_hyacinthe
-Mais quelle est-elle enfin ?
+Mais quelle est-elle enfin ? 
 
 -*who_ovide
       C'est l'aymable⁎ Cephise.
@@ -166,7 +170,7 @@ Mon plus parfait amy seroit-il mon Rival ?
 -*who_ovide
 L'Amour & l'amitié ne s'accordent⁎ pas mal ;
 Car comme l'amitié naist de la ressemblance,
-Celle à qui vous pensez, est celle à qui je pense.
+Celle à qui vous pensez, est celle à qui je pense. 
 
 -*who_hyacinthe
 Afin de destourner ce fatal⁎ accident⁎,
@@ -189,7 +193,7 @@ Je n'ayme que Cephise, & je luy suis fidelle ;
 Mais mon Amour est grand, il est né dés longtemps.
 
 -*who_ovide
-J'ayme autant en un jour, qu'un autre ayme en dix ans.
+J'ayme autant en un jour, qu'un autre ayme en dix ans. 
 
 -*who_hyacinthe
 Pour demeurer amis que devons-nous donc faire ?
@@ -245,7 +249,7 @@ Il faut dissimuler nostre illustre⁎ querelle⁎ ;
 Vous ayant en amy descouvert mon secret,
 Vous sçaurez en user⁎ en confident⁎ discret.
 
-**** *book_ *id_body-602 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_III02 *act_I *date_1663 *creator_gilbert
 
 -*who_ovide
 Nous venons admirer vostre rare merite⁎,
@@ -389,7 +393,7 @@ Ne dissimulez plus, l'une & l'autre aymez nous.
 Il y faudra penser.
 
 -*who_ovide
-      Et vous belle Corinne
+      Et vous belle Corinne 
 
 -*who_corinne
 J'y veux penser aussi.
@@ -410,7 +414,7 @@ Où voulez-vous aller ?
 -*who_ovide
 Je vais vous y conduire, agreable inhumaine.
 
-**** *book_ *id_body-603 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_III03 *act_I *date_1663 *creator_gilbert 
 
 -*who_cephise
 Ovide ne sçauroit la quitter un moment,
@@ -429,7 +433,7 @@ Qui peuvent l'arrester.
 
 -*who_cephise
 Pour elle il a laissé la Princesse Julie,
-Et pour la suivre en Cypre il quitte l'Italie.
+Et pour la suivre en Cypre il quitte l'Italie. 
 
 -*who_hyacinthe
 Il ne vient en ces lieux que pour voir les beautez,
@@ -476,7 +480,7 @@ Et sans son ordre expres⁎ je l'aurois refusé,
 Il eut peû s'offenser, & je n'ay pas osé.
 
 -*who_hyacinthe
-Dieux, qu'est-ce que je voy ! ma surprise est extréme !
+Dieux, qu'est-ce que je voy ! ma surprise est extréme ! 
 
 -*who_cephise
 Que regardez-vous tant ?
@@ -513,7 +517,7 @@ Nous paraistrons tous deux au Tribunal des Graces ;
 Et si leur juste Arrest ne me vient secourir,
 J'auray du cœur assez pour vaincre, ou pour mourir.
 
-**** *book_ *id_body-604 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_III04 *act_I *date_1663 *creator_gilbert
 
 -*who_cephise
 Il s'en va sans m'oüir, & me laisse confuse⁎,
@@ -526,7 +530,7 @@ Vas t'en plutost chercher Ovide promptement,
 Qu'il me vienne trouver sans tarder un moment
 Il se promene au parc ; vas, cours en diligence⁎.
 
-**** *book_ *id_body-605 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_III05 *act_I *date_1663 *creator_gilbert
 
 -*who_cephise
 De ce perfide Amant⁎ je veux prendre vengeance,
@@ -553,7 +557,7 @@ A qui m'oste un Amant⁎, oster une Maistresse⁎.
 Mais je le voy paroistre, il faut l'entretenir⁎,
 Et cacher le dessein que j'ay de le punir.
 
-**** *book_ *id_body-606 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_III06 *act_I *date_1663 *creator_gilbert
 
 -*who_cephise
 De vostre procedé je suis fort en colere.
@@ -568,7 +572,7 @@ Ce pourtrait-là vient-il du Preteur, ou de vous ?
 -*who_ovide
 Ce pourtrait vient de moy, n'en soyez pas surprise ;
 M'estant donné moy-mesme à la belle Cephise,
-Je pouvois bien encor luy donner mon pourtrait.
+Je pouvois bien encor luy donner mon pourtrait. 
 
 -*who_cephise
 Pouviez-vous m'offenser par un plus lasche trait ?
@@ -690,7 +694,7 @@ Vous seule l'emportez sur toutes mes Maistresses⁎
 Et mon esprit touché d'un charme si puissant.
 Si c'estoit trop peu d'une en immoleroit cent.
 
-**** *book_ *id_body-701 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_IV01 *act_II *date_1663 *creator_gilbert
 
 -*who_cephise
 Tu dis qu'on a rendu le billet à Corinne,
@@ -749,7 +753,7 @@ Finissons ce discours, car Corinne paraist,
 Et vient confidemment me dire une nouvelle,
 Dont je suis l'origine, & que je sçais mieux qu'elle.
 
-**** *book_ *id_body-702 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_IV02 *act_II *date_1663 *creator_gilbert 
 
 -*who_cephise
 Qu'avez-vous fait d'Ovide ? où l'avez-vous laissé ?
@@ -766,7 +770,7 @@ Quand il ne vous suit pas, c'est un fort grand hazard⁎.
 Je viens de recevoir un billet de sa part.
 
 -*who_cephise
-Où sans doute⁎ il vous peint son ardeur amoureuse.
+Où sans doute⁎ il vous peint son ardeur amoureuse. 
 
 -*who_corinne
 Je veux vous le montrer.
@@ -868,7 +872,7 @@ De peur qu'il n'imagine une ruse nouvelle,
 Ne perdons point de temps, & le poussons à bout⁎,
 Raillons cet inconstant qui se raille de tout.
 
-**** *book_ *id_body-703 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_IV03 *act_II *date_1663 *creator_gilbert
 
 -*who_ovide
 Il n'est pas à propos que je les voye ensemble,
@@ -1091,7 +1095,7 @@ Il sort adroitement d'un amoureux dédalle.
 Nous sçaurons malgré luy, lors qu'⁎'il fera le choix,
 De laquelle des deux il veut prendre des loix.
 
-**** *book_ *id_body-704 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_IV04 *act_II *date_1663 *creator_gilbert
 
 -*who_corinne
 Ovide ayme Cephise, & l'ingrat la respecte.
@@ -1101,7 +1105,7 @@ Des raisons⁎ l'obligeoient à prendre mon party⁎.
 Un serment mutuel l'un à l'autre nous lie,
 Nous avons fait des loix en partant d'Italie,
 Sur les sacrés Autels en presence des Dieux,
-Qu'il devoit observer jusques dedans ces lieux.
+Qu'il devoit observer jusques dedans ces lieux. 
 
 -*who_celie
 Plus de ces belles lois vous faites un mystere,
@@ -1176,7 +1180,7 @@ Je ne luy tens des retz que pour reprendre Ovide,
 Et ne hazarde⁎ rien. Mais il vient à propos ;
 Voy si j'entens bien l'art d'enchaisner le Heros.
 
-**** *book_ *id_body-705 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_IV05 *act_II *date_1663 *creator_gilbert 
 
 -*who_corinne
 Je viens vous annoncer une heureuse nouvelle.
@@ -1234,7 +1238,7 @@ Ah ! de grace⁎ achevez, pour finir mon martire.
 -*who_corinne
 A Dieu, je me raillois, & n'ay rien à vous dire.
 
-**** *book_ *id_body-706 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_IV06 *act_II *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Je ne puis rien connaistre à cet obscur discours,
@@ -1264,7 +1268,7 @@ Malgré l'orgueil du Tybre & la grandeur Romaine,
 Je luy feray santir dans mon ressentiment,
 Que rien n'est à couvert des fureurs d'un Amant⁎.
 
-**** *book_ *id_body-801 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_V01 *act_III *date_1663 *creator_gilbert
 
 -*who_ovide
 Dieux, j'aperçois Corinne ! esvitons sa presence ;
@@ -1417,7 +1421,7 @@ Un Dieu sçaura pour moy flechir vostre rigueur,
 Vous allez remporter & la pomme & mon cœur,
 Avec juste raison⁎ vous y pouvez pretendre⁎.
 
-**** *book_ *id_body-802 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_V02 *act_III *date_1663 *creator_gilbert
 
 -*who_celie
 Dans la place des jeux les Graces se vont rendre,
@@ -1431,7 +1435,7 @@ Je fais des vœux pour vous, l'Amour m'en est tesmoin.
 Je vais voir quel succez aura mon entreprise⁎ ;
 Adieu, fidel Amant⁎ de la belle Cephise.
 
-**** *book_ *id_body-803 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_V03 *act_III *date_1663 *creator_gilbert
 
 -*who_ovide
 Je fais des vœux pour elle, afin qu'elle ait le prix,
@@ -1457,7 +1461,7 @@ De celle qu'aujourd'huy vont couronner les Graces.
 Mais mon Rival paroist, escoutons ce jaloux,
 Sans avoir contre luy ny haine, ny courroux.
 
-**** *book_ *id_body-804 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_V04 *act_III *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Je vous rends l'amitié que vous m'aviez jurée.
@@ -1611,7 +1615,7 @@ Et l'on n'eust pas donné le prix en mon absence.
 Moy j'estois fort tanté, malgré cette defence,
 D'aller ouïr l'Arrest qu'on devoit prononcer.
 
-**** *book_ *id_body-805 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_V05 *act_III *date_1663 *creator_gilbert 
 
 -*who_ovide
 Mais Maxime paroist, qui vient nous l'annoncer ;
@@ -1750,11 +1754,11 @@ Et ne s'accordât⁎ pas avec leur jugement.
 Les Intendants des jeus agissent prudemment.
 Mais Daphnis vient icy, qui paroist hors d'haleine.
 
-**** *book_ *id_body-806 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_V06 *act_III *date_1663 *creator_gilbert
 
 -*who_daphnis
 Hyacinthe, je viens pour vous tirer de peine,
-La divine Cephise a remporté le prix.
+La divine Cephise a remporté le prix. 
 
 -*who_hyacinthe
 Ah ! que j'en ay de joye !
@@ -1806,7 +1810,7 @@ D'aymer la plus parfaite & la plus glorieuse :
 Et tout homme galand malgré vos feux constans,
 Veut ce que veut l'amour & s'accomode au temps.
 
-**** *book_ *id_body-901 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VI01 *act_IV *date_1663 *creator_gilbert
 
 -*who_corinne
 Je ne viens pas vous voir ainsi qu'une Rivale,
@@ -1894,7 +1898,7 @@ Qui perdent devant moy la qualité de belles,
 Pour venger mon injure⁎, & braver leur pouvoir,
 Corinne seulement n'a qu'à se faire voir.
 
-**** *book_ *id_body-902 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VI02 *act_IV *date_1663 *creator_gilbert
 
 -*who_cephise
 Quelle presomption ! qu'elle a l'humeur⁎ hautaine⁎ !
@@ -1908,7 +1912,7 @@ J'aperçois un Romain qui vient encor icy.
 -*who_aminte
 Il a l'esprit plus doux, & n'agit pas ainsi.
 
-**** *book_ *id_body-903 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VI03 *act_IV *date_1663 *creator_gilbert 
 
 -*who_ovide
 Je viens vous temoigner que j'aime vostre gloire⁎,
@@ -1998,7 +2002,7 @@ Hyacinthe paraist, ce Rival haissable
 M'oste l'occasion qui m'estoit favorable ;
 N'en témoignons pourtant ny chagrin⁎ ny soucy⁎.
 
-**** *book_ *id_body-904 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VI04 *act_IV *date_1663 *creator_gilbert 
 
 -*who_ovide
 Hyacinthe, à propos vous arrivez icy,
@@ -2064,7 +2068,7 @@ Corinne aussi les suit, & vous la pouvez voir.
 -*who_ovide
 Vostre exemple aujourd'huy m'enseigne mon devoir.
 
-**** *book_ *id_body-905 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VI05 *act_IV *date_1663 *creator_gilbert
 
 -*who_talie
 De tant d'Amans divers dont cette Isle est remplie,
@@ -2074,7 +2078,7 @@ Afin de disputer⁎ les Couronnes d'Amour,
 Tous à ces deux Rivaux ont cedé cette gloire⁎ ;    
 Et puis que l'un & l'autre aspire à la victoire,    
 Apprenons de quels traits leurs deux cœurs sont blessez.
-Pour faire honneur à Rome, Ovide, commencez.
+Pour faire honneur à Rome, Ovide, commencez. 
 
 -*who_ovide
 Pour d'un Myrrhe amoureux voir couronner ma teste,
@@ -2194,7 +2198,7 @@ Car la moindre beauté croit meriter un cœur.
 Il n'est rien de mieux dit.
 
 -*who_corinne
-      La responce est jolie
+      La responce est jolie 
 
 -*who_hyacinthe
 Je passe à ces raisons⁎, belle & sage Thalie.
@@ -2328,7 +2332,7 @@ Qui doivent mettre fin à toutes nos tristesses.
 J'attendray leur retour sans craindre & soupirer ;
 Quand on aime par tout, on doit tout esperer.
 
-**** *book_ *id_body-1001 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VII01 *act_V *date_1663 *creator_gilbert
 
 -*who_cephise
 STANCES.
@@ -2390,7 +2394,7 @@ Et les plaisirs avec la gloire⁎.
 Mais Aminte paraist, pour finir mes tourmens⁎,
 Elle vient m'annoncer le sort de deux Amans.
 
-**** *book_ *id_body-1002 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VII02 *act_V *date_1663 *creator_gilbert
 
 -*who_cephise
 Dy les Graces du Ciel sont-elles revenuës ?
@@ -2422,7 +2426,7 @@ Ovide seroit-il cét Amant⁎ fortuné⁎ ?
 -*who_aminte
 Non, vous voyez celuy que l'on a couronné.
 
-**** *book_ *id_body-1003 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VII03 *act_V *date_1663 *creator_gilbert
 
 -*who_hyacinthe
 Je viens pour vous offrir cette Illustre⁎ couronne,
@@ -2493,7 +2497,7 @@ Mais Daphnis vient icy troubler nostre alaigresse,
 Il fait voir sur son front une sombre tristesse,
 Et l'on voit dans ses yeux éclater la douleur.
 
-**** *book_ *id_body-1004 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VII04 *act_V *date_1663 *creator_gilbert 
 
 -*who_daphnis
 Je viens vous annoncer un sensible⁎ malheur,
@@ -2612,7 +2616,7 @@ Mais il le faut dompter, encor qu'il soit extréme,
 Et qui veut vaincre autruy, se doit vaincre soy mesme,
 Je m'en vais luy parler.
 
-**** *book_ *id_body-1005 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VII05 *act_V *date_1663 *creator_gilbert 
 
 -*who_cephise
       Venez-vous dans ces lieux,
@@ -2672,7 +2676,7 @@ Moy j'y fais consister le bonheur de ma vie.
 -*who_ovide
 Je verray ce bonheur sans vous porter envie.
 Et pour n'estre jamais ny facheux⁎ ny jaloux,
-Chagrin⁎, ny pire encor, je fuis le nom d'espoux.
+Chagrin⁎, ny pire encor, je fuis le nom d'espoux. 
 
 -*who_hyacinthe
 Mais l'Hymen des Amans assure⁎ la conqueste.
@@ -2751,7 +2755,7 @@ Que son visage est beau !
 -*who_corinne
       Qu'il a d'attraits pour plaire !
 
-**** *book_ *id_body-1006 *act_ *date_1663 *creator_gilbert
+**** *book_ *id_VII06 *act_V *date_1663 *creator_gilbert
 
 -*who_l_amour
 Je viens mettre la paix dans cet heureux sejour⁎,

@@ -38,7 +38,7 @@ AV LECTEVR.
 Ie m'aſſeure, LECTEVR, que cette Trage-Comedie, que toute la Cour & toute la Ville ont trouuée ſi belle ſur le Theatre, ne te paroiſtra guere moins agreable ſur le papier, & que tu la trouueras auſſi bien ſouſtenuë par la delicateſſe & par la majeſté de ſes vers, que par la dignité de ſon sujet.
 Si Villegas Eſpagnol aſſez obſcur, qui a eſte aſſez heureux pour trouuer vn ſi beau nœud, euſt eu la meſme fortune⁎ dans le deſnouëment, cette ſeule production l'auroit ſans doute eſgalé aux plus fameux Inuenteurs de ſa nation, & de ſon siecle : Si comme cette piece eſt aſſez rare, il arriue par hazard qu'elle vienne à tomber entre tes mains ; j'ay la vanité d'eſperer que tu priſeras peut-eſtre moins les richeſſes & les profuſions de l'Autheur, que ma petite Œconomie⁎.
 
-**** *book_ *id_body-201 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_I01 *act_I *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Enfin voicy le jour tant de fois souhaitté,
@@ -111,7 +111,7 @@ Oüy, Seigneur, sur ce point vous serez obey,
 N'y respons, pas mon cœur, ma bouche t'a trahy ;
 Mais voicy la Princesse à qui ie ne puis taire.
 
-**** *book_ *id_body-202 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_I02 *act_I *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Qv'on ne m'en parle plus à moins que me desplaire :
@@ -143,7 +143,7 @@ Obeïssez, vous dis-je, & ne repliquez pas.
 -*who_astolfe
 Quel accueil, justes Dieux, quelle atteinte à mon ame.
 
-**** *book_ *id_body-203 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_I03 *act_I *date_1654 *creator_boisrobert 
 
 -*who_don_lope
 Don Remon de Moncade & Don Pedre, Madame,
@@ -237,7 +237,7 @@ Entre nous arresté, qui regle nostre sort.
 Ie le veux, aprenons sur son rapport fidelle
 Qui de vous ou de moy plaist aux yeux d'Isabelle,
 
-**** *book_ *id_body-204 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_I04 *act_I *date_1654 *creator_boisrobert 
 
 -*who_don_pedre
 Beralde se souuient de ce qu'il m'a promis.
@@ -337,7 +337,7 @@ Allons vers la Princesse.
       Allons, & descouurons,
 S'il est possible enfin, quel Maistre nous aurons.
 
-**** *book_ *id_body-205 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_I05 *act_I *date_1654 *creator_boisrobert
 I'ay ce me semble esté bien leger à promettre,
 De rendre à leur Maistresse & l'vne & l'autre lettre,
 Qui prend, s'engage enfin, que sert de contester,
@@ -359,7 +359,7 @@ Ils sont égaux de taille, & different en soye,
 Que veut dire D. Pedre auec son bleu mourant ?
 Le vert de l'autre marque vn espoir apparent.
 
-**** *book_ *id_body-206 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_I06 *act_I *date_1654 *creator_boisrobert
 
 -*who_astolfe
 De qui sont ces Poulets⁎ sont-ils d'vne Maistresse.
@@ -399,7 +399,7 @@ Quoy Moncade, d'escrire a pris la liberté !
 Quoy, i'aurois vn riual, plus chery, mieux traitté ?
 Relisons ce billet, taschons d'y mieux connoistre.
 
-**** *book_ *id_body-207 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_I07 *act_I *date_1654 *creator_boisrobert 
 
 -*who_cassandre
 Ovy, je feray mon chois, ouy, vous aurez un Maistre.
@@ -489,7 +489,7 @@ Suiuons-la pour luy dire enfin tout mon tourment⁎ :
 Car je n'attens plus rien de cét iniuste frere.
 Elle emporte ma lettre.
 
-**** *book_ *id_body-208 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_I08 *act_I *date_1654 *creator_boisrobert 
 
 -*who_astolfe
       Et je pourray m'en taire ?
@@ -540,7 +540,7 @@ D'où luy vient ce mespris, d'où luy naist ce caprice ?
 Si i'apprens qu'Isabelle ait vn mespris pareil,
 Enfin de la raison nous suiurons le conseil.
 
-**** *book_ *id_body-301 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_II01 *act_II *date_1654 *creator_boisrobert
 
 -*who_isabelle
 D'où vous naist ce chagrin, mon frere qu'auez vous ?
@@ -574,7 +574,7 @@ On auoit cette lettre encor à luy donner,
 Vous verrez ce que c'est, ma sœur, je vous la laisse.
 Adieu, vos propres yeux y verront sa foiblesse⁎.
 
-**** *book_ *id_body-302 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_II02 *act_II *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Av moment qu'il me void il s'enfuit brusquement
@@ -705,7 +705,7 @@ Elle n'est pas plus juste, & ce vain amoureux
 N'en doit jamais attendre ce succez⁎ plus heureux,
 Astolfe vient à nous.
 
-**** *book_ *id_body-303 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_II03 *act_II *date_1654 *creator_boisrobert
 
 -*who_astolfe
       Qve voulez vous Madame
@@ -860,7 +860,7 @@ Voicy le Duc mon Pere, il faut luy faire entendre,
 Les effets d'vn amour & si noble & si tendre,
 Il est dénaturé⁎ s'il n'en est satisfait.
 
-**** *book_ *id_body-304 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_II04 *act_II *date_1654 *creator_boisrobert 
 
 -*who_le_dvc
 Qv'auez-vous auancé, mon fils, qu'auez-vous fait ?
@@ -1044,7 +1044,7 @@ A ce charme⁎ diuin mon ame est trop sensible,
 L'esloignement tout seul ne me peut secourir,
 Ie ne voy que la mort qui me puisse guerir.
 
-**** *book_ *id_body-401 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III01 *act_III *date_1654 *creator_boisrobert
 
 -*who_moncade
 Ie vous dy verité, Dom Pedre, il est certain,
@@ -1064,7 +1064,7 @@ Si je souffre l'affront tenez moy pour vn lasche.
 Il faut sçauoir l'histoire auant que l'on se fasche,
 Peut-estre a-t'il raison.
 
-**** *book_ *id_body-402 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III02 *act_III *date_1654 *creator_boisrobert
 
 -*who_beralde
       Que leur diray-je, ô Dieux.
@@ -1132,7 +1132,7 @@ C'est vn esprit fougueux, traittons-le doucement ;
 Puis qu'il faut feindre encor, feignons obligemment.
 Il vient.
 
-**** *book_ *id_body-403 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III03 *act_III *date_1654 *creator_boisrobert
 
 -*who_don_pedre
       He, bien Beralde a-t'il donné ma lettre,
@@ -1196,7 +1196,7 @@ Pour vous rendre content.
 Ie me suis bien tiré d'vn pas fort dangereux,
 Mais on ne peut long-temps fourber deux amoureux.
 
-**** *book_ *id_body-404 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III04 *act_III *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 He bien qui de nous deux, Moncade, a l'auantage ?
@@ -1251,7 +1251,7 @@ Que je crains ses mespris.
 -*who_moncade
 Ouy, quoy qu'à son amour je n'ose rien pretendre.
 
-**** *book_ *id_body-405 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III05 *act_III *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 Souffrez qu'auec respect je vous donne la main,
@@ -1371,7 +1371,7 @@ D'accabler de mespris vn Amant si fidelle ?
 Sans vouloir esbranler encor sa fermeté,
 Luy proposant le change & l'infidelité.
 
-**** *book_ *id_body-406 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III06 *act_III *date_1654 *creator_boisrobert
 
 -*who_don_pedre
 Enfin vous auez sceu qui de nous deux la touche,
@@ -1406,7 +1406,7 @@ Ie voy de ma fortune vn asseuré⁎ presage ;
 Ma rencontre a causé ce transport amoureux,
 Si j'en sçay bien vser suis-je pas trop heureux ?
 
-**** *book_ *id_body-407 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_III07 *act_III *date_1654 *creator_boisrobert 
 
 -*who_cassandre
 Astolfe tarde bien, sa longueur importune,
@@ -1481,7 +1481,7 @@ I'aurois l'esprit bien foible, & l'ame bien grossiere ;
 Voila pourquoy sans doute on n'a peu l'obliger,
 De s'arrester au choix d'aucun Prince estranger.
 
-**** *book_ *id_body-408 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_III08 *act_III *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Astolfe enfin parest, quel chagrin l'accompagne,
@@ -1544,7 +1544,7 @@ Me separant de vous je m'arrache à moy mesme,
 Il faut de vos beaux yeux me priuer desormais,
 Princesse, il faut vous dire vn adieu pour jamais.
 
-**** *book_ *id_body-409 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_III09 *act_III *date_1654 *creator_boisrobert 
 
 -*who_cassandre
 Est-ce Astolfe ? est-ce luy que j'ay veu disparestre,
@@ -1608,7 +1608,7 @@ Son esprit agité souffre vne estrange⁎ peine.
 -*who_cassandre
 Qu'on me cherche le Duc viste, & qu'on me l'ameine.
 
-**** *book_ *id_body-501 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_IV01 *act_IV *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Ie souffre⁎ autant que vous dans cét éloignement,
@@ -1621,7 +1621,7 @@ Ie m'en vay le signer.
 -*who_astolfe
       Ah c'est signer ma mort.
 
-**** *book_ *id_body-502 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_IV02 *act_IV *date_1654 *creator_boisrobert 
 
 -*who_don_lope
 La Princesse, Seigneur, auec impatience,
@@ -1643,7 +1643,7 @@ Seigneur, l'ordre est pressant, donc sans plus de demeure⁎.
 -*who_le_dvc
 Allons, tenez vous prest, je reuiens dans vne heure.
 
-**** *book_ *id_body-503 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_IV03 *act_IV *date_1654 *creator_boisrobert 
 
 -*who_moncade
 Ovy, ouy, brize tes fers⁎, esclaue malheureux,
@@ -1660,7 +1660,7 @@ Ie pleins cette pudeur que j'ay trop reconnuë
 Qui la gesne⁎, & l'engage à tant de retenuë,
 La voicy.
 
-**** *book_ *id_body-504 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_IV04 *act_IV *date_1654 *creator_boisrobert
 
 -*who_cassandre
       Malheureuse ! he n'as tu pas compris,
@@ -1729,7 +1729,7 @@ Auec tant de ferueur se declarast pour elle,
 Ie luy deuois marquer vn oubly d'Isabelle 
 I'ay connu sa prudence, & je voy mon erreur.
 
-**** *book_ *id_body-505 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_IV05 *act_IV *date_1654 *creator_boisrobert 
 
 -*who_don_lope
 Voicy le Duc, Madame.
@@ -1937,7 +1937,7 @@ Que celuy que j'auois jusqu'au trosne éleué.
 -*who_le_dvc
 Ah l'ingrat⁎, le perfide⁎.
 
-**** *book_ *id_body-506 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_IV06 *act_IV *date_1654 *creator_boisrobert
 
 -*who_don_lope
       Astolfe s'est treuué,
@@ -2197,7 +2197,7 @@ Duc, vous nous respondrez de cét esprit⁎ volage :
 Il a voulu la mort, mais j'en auray le choix ;
 I'entens qu'il soit jugé dans la rigueur des loix⁎.
 
-**** *book_ *id_body-601 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_V01 *act_V *date_1654 *creator_boisrobert
 
 -*who_cassandre
 Vous m'estonnez, Beralde, Astolfe ose m'escrire ?
@@ -2278,7 +2278,7 @@ Qui m'a volé le cœur de cét Amant infame.
 Auez vous bien le front⁎ de parestre en ces lieux,
 Ostez vous, miserable⁎, ostez vous de mes yeux.
 
-**** *book_ *id_body-602 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_V02 *act_V *date_1654 *creator_boisrobert
 
 -*who_isabelle
 Ie ne puis sans pleurer la voir ainsi troublée⁎,
@@ -2329,7 +2329,7 @@ Quoy qu'il ne soit sceu que de moy,
 Plus je ly cette lettre, & moins je sçay comprendre,
 Quel est ce sens caché que vous croyez entendre.
 
-**** *book_ *id_body-603 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_V03 *act_V *date_1654 *creator_boisrobert
 
 -*who_cassandre
 De ce grand coup de foudre⁎ elle a l'esprit⁎ frappé.
@@ -2484,7 +2484,7 @@ Que trop injustement nous auons occuppé.
 -*who_le_dvc
 Ie vay vous obeïr.
 
-**** *book_ *id_body-604 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_V04 *act_V *date_1654 *creator_boisrobert 
 
 -*who_cassandre
       Dans cette obeïssance,
@@ -2542,7 +2542,7 @@ Ie seray la premiere à flechir les genoux,
 On fait dans le Palais assembler la Noblesse ;
 Rentrons, non non, passez vous estes ma Princesse.
 
-**** *book_ *id_body-605 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_V05 *act_V *date_1654 *creator_boisrobert
 
 -*who_beralde
 Ie viens vous aduertir qu'Astolfe est de retour,
@@ -2575,7 +2575,7 @@ Et suis vers vostre Altesse accouru promptement.
 He bien, nous les verrons auecque la Noblesse,
 Pourray-ie bien le voir sans monstrer ma foiblesse⁎ ?
 
-**** *book_ *id_body-606 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_V06 *act_V *date_1654 *creator_boisrobert 
 
 -*who_astolfe
 Pourquoy me ramener malgré moy dans ces lieux ?
@@ -2587,7 +2587,7 @@ Mais ie le dis encor, si le Duc & Cassandre
 Ne prennent comme vous part à cét entretien,
 Vous me pressez en vain, je ne vous diray rien.
 
-**** *book_ *id_body-607 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_V07 *act_V *date_1654 *creator_boisrobert
 
 -*who_le_dvc
 Qvoy mon fils de retour.
@@ -2621,7 +2621,7 @@ Pourquoy nous assemblons icy tous les Estats.
 Astolfe en reuenant m'en a dit quelque chose,
 Et je sçay son chagrin dont il m'a dit la cause.
 
-**** *book_ *id_body-608 *act_ *date_1654 *creator_boisrobert
+**** *book_ *id_V08 *act_V *date_1654 *creator_boisrobert
 
 -*who_astolfe
 Voici Cassandre, ô Dieux ! le puis-je encore reuoir,
@@ -2784,7 +2784,7 @@ Et luy donne Moncade.
 -*who_astolfe
 O bonté sans exemple.
 
-**** *book_ *id_body-609 *act_ *date_1654 *creator_boisrobert 
+**** *book_ *id_V09 *act_V *date_1654 *creator_boisrobert 
 
 -*who_moncade
       On n'attend plus que vous,

@@ -51,7 +51,7 @@ J'avouë que les sujets les plus extraordinaires peuvent instruire et divertir q
 Nous avons un illustre exemple dans Polieucte, et puisque Judith dont l'Histoire est si delicate et si difficile à traiter, n'a pas dépleu dans la forme que je luy ay donnée, que ne peut-on pas attendre de ceux qui avec une Muse plus forte que la mienne, voudront entreprendre de semblables ouvrages, et leur donner tous les ornemens de la Scene.
 Puissent-ils confondre l'envie, ou plûtôt s'attirer cette critique qui s'est déchaînée sur ce qui fait tant d'honneur à Judith.
 
-**** *book_ *id_body-301 *act_ *date_1695 *creator_boyer
+**** *book_ *id_I01 *act_I *date_1695 *creator_boyer
 
 -*who_ozias
 Peuples impatients⁎ étouffez ce murmure :
@@ -115,7 +115,7 @@ Cet ordre me surprend, et c'est vous faire injure.
 Je me plains encor plus du Peuple qui murmure,
 Faites ce que j'ai dit.
 
-**** *book_ *id_body-302 *act_ *date_1695 *creator_boyer
+**** *book_ *id_I02 *act_I *date_1695 *creator_boyer
 
 -*who_ozias
       Je brûle de sçavoir
@@ -123,7 +123,7 @@ Par quel motif Judith usurpe mon pouvoir ;
 Et ne pouvant douter de sa sagesse extréme,
 Je ne puis retrouver Judith en elle-même.
 
-**** *book_ *id_body-303 *act_ *date_1695 *creator_boyer
+**** *book_ *id_I03 *act_I *date_1695 *creator_boyer
 
 -*who_ozias
 Pourquoy ce prompt retour ?
@@ -143,7 +143,7 @@ A la garde du camp s'est-il laissé surprendre ?
 -*who_betulien
 Le voicy.
 
-**** *book_ *id_body-304 *act_ *date_1695 *creator_boyer
+**** *book_ *id_I04 *act_I *date_1695 *creator_boyer
 
 -*who_ozias
       Quel malheur que je ne puis comprendre,
@@ -310,7 +310,7 @@ Quand elle prend sur nous un souverain pouvoir,
 C'est un ordre du Ciel, Judith sçait son devoir.
 Elle vient.
 
-**** *book_ *id_body-305 *act_ *date_1695 *creator_boyer
+**** *book_ *id_I05 *act_I *date_1695 *creator_boyer
 
 -*who_ozias
       Voyez-la sans art⁎ et sans parure,
@@ -430,7 +430,7 @@ Achior, je ne puis en dire davantage ;
 Vous, allez rasseurer un Peuple plein d'effroy ;
 Et du reste, Ozias, reposez-vous sur moi.
 
-**** *book_ *id_body-306 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_I06 *act_I *date_1695 *creator_boyer 
 
 -*who_achior
 Quel langage, Ozias ! Il s'agit de la gloire⁎,
@@ -468,7 +468,7 @@ Ne prenant pas sur elle un espoir bien tranquile :
 Je vais par vôtre exemple et par vôtre valeur
 Appaiser son murmure, et calmer sa frayeur.
 
-**** *book_ *id_body-401 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II01 *act_II *date_1695 *creator_boyer
 
 -*who_achior
 Quoy vous me prevenez ! ma tendre inquietude⁎
@@ -578,7 +578,7 @@ Se refuse au secours qu'on doit à Betulie.
 Dans l'état où je suis, Achior, je me voy
 Si plein de ma douleur, si peu maître de moy...
 
-**** *book_ *id_body-402 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II02 *act_II *date_1695 *creator_boyer
 
 -*who_abra
 Ah Misael !
@@ -595,7 +595,7 @@ Pour parler sans témoins, faites...
 -*who_misael
 Ne vous éloignez pas.
 
-**** *book_ *id_body-403 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II03 *act_II *date_1695 *creator_boyer
 
 -*who_misael
       Quel est ce desespoir ?
@@ -705,7 +705,7 @@ Et loin de m'ébloüir par cette vaine pompe,
 Par ce brillant dehors qui vous charme et vous trompe,
 De mon juste dépit tout mon cœur occupé...
 
-**** *book_ *id_body-404 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II04 *act_II *date_1695 *creator_boyer
 
 -*who_misael
 Je la voy. De quel trait son abord m'a frapé !
@@ -835,7 +835,7 @@ J'y seray devant vous pour sauver votre gloire⁎ ;
 Et pour vous épargner un triomphe odieux
 Mon bras va prevenir le crime de vos yeux.
 
-**** *book_ *id_body-405 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II05 *act_II *date_1695 *creator_boyer
 
 -*who_judith
 Quand pour aller au Camp l'ordre du Ciel me presse,
@@ -859,7 +859,7 @@ Cet ami genereux⁎...
       Achior n'est pas loin,
 Je vais vous l'amener.
 
-**** *book_ *id_body-406 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II06 *act_II *date_1695 *creator_boyer
 
 -*who_judith
       A quoi suis-je forcée,
@@ -883,7 +883,7 @@ Qu'une femme elle seule a sauvé Betulie,
 Et qu'un peu de beauté fut le fatal écueil
 Où le Tyran a vû briser tout son orgueil.
 
-**** *book_ *id_body-407 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II07 *act_II *date_1695 *creator_boyer
 
 -*who_misael
 Achior m'a parlé, qu'en pouvez-vous attendre ?
@@ -926,7 +926,7 @@ Détourner tous les maux qu'il fait tomber sur nous.
 Si ma menace est foible, et n'a rien qui vous touche,
 Craignez le Dieu vivant qui parle par ma bouche.
 
-**** *book_ *id_body-408 *act_ *date_1695 *creator_boyer
+**** *book_ *id_II08 *act_II *date_1695 *creator_boyer
 
 -*who_achior
 Juste Ciel quels discours terribles, menaçans !
@@ -969,7 +969,7 @@ Dés que j'aurai reçû les ordres d'Ozias
 Je me livre aux transports⁎ dont mon ame est saisie,
 Soit amour ou fureur⁎, soit zele⁎ ou jalousie.
 
-**** *book_ *id_body-501 *act_ *date_1695 *creator_boyer
+**** *book_ *id_III01 *act_III *date_1695 *creator_boyer
 
 -*who_holoferne
 Que le Camp en murmure, il faut qu'on obeïsse,
@@ -1048,7 +1048,7 @@ Penetrons ces rochers, rien n'est inaccessible
 Aux vifs et prompts efforts d'une armée invincible.
 Mais quels cris m'ont frapé ?
 
-**** *book_ *id_body-502 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_III02 *act_III *date_1695 *creator_boyer 
 
 -*who_assyrien
       Nos ennemis, Seigneur,
@@ -1077,7 +1077,7 @@ On poursuit...
       Ton recit fait perdre trop de temps ;
 Allons, allons hâter le succés que j'attens.
 
-**** *book_ *id_body-503 *act_ *date_1695 *creator_boyer
+**** *book_ *id_III03 *act_III *date_1695 *creator_boyer
 
 -*who_assyrien
 Achior est défait, et sa troupe affoiblie
@@ -1094,7 +1094,7 @@ Font voir qu'un grand projet...
 -*who_holoferne
       Commandez qu'on l'amene.
 
-**** *book_ *id_body-504 *act_ *date_1695 *creator_boyer
+**** *book_ *id_III04 *act_III *date_1695 *creator_boyer
 
 -*who_holoferne
 Quel étrange dessein te conduit en ces lieux !
@@ -1185,7 +1185,7 @@ Et combien ta menace est inutile et vaine,
 Quand tu crois que ton Dieu peut armer contre moy
 Quelque Hebreu plus à craindre et plus heureux que toy.
 
-**** *book_ *id_body-505 *act_ *date_1695 *creator_boyer
+**** *book_ *id_III05 *act_III *date_1695 *creator_boyer
 
 -*who_assyrien
 Un prodige étonnant⁎ vient de frapper ma veuë.
@@ -1219,7 +1219,7 @@ Je brûle de la voir.
 -*who_misael
       Que je crains sa presence !
 
-**** *book_ *id_body-506 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_III06 *act_III *date_1695 *creator_boyer 
 
 -*who_holoferne
 Quel surprenant éclat vient de fraper mes yeux,
@@ -1349,7 +1349,7 @@ Il en meure cent fois de rage et de douleur.
 -*who_holoferne
 Hé bien, que la prison commence son supplice.
 
-**** *book_ *id_body-507 *act_ *date_1695 *creator_boyer
+**** *book_ *id_III07 *act_III *date_1695 *creator_boyer
 
 -*who_judith
 Dés que l'ordre du Ciel pour te faire justice
@@ -1391,7 +1391,7 @@ Et j'avouëray tout haut, pour payer tant de gloire⁎,
 Que vainqueur tant de fois, un nom si grand, si doux,
 Me fera plus d'honneur si je le tiens de vous.
 
-**** *book_ *id_body-508 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_III08 *act_III *date_1695 *creator_boyer 
 
 -*who_abra
 Holoferne déjà se dispose à se rendre ;
@@ -1436,7 +1436,7 @@ Où tout est corrompu par son impieté,
 Allons prier le Ciel que sans blesser sa gloire⁎
 Il me fasse achever cette affreuse⁎ victoire.
 
-**** *book_ *id_body-601 *act_ *date_1695 *creator_boyer
+**** *book_ *id_IV01 *act_IV *date_1695 *creator_boyer
 
 -*who_holoferne
 Que nul n'entre en ces lieux. Toy ; demeure avec moy.
@@ -1520,7 +1520,7 @@ Qui luy promet pour vous... La voici qui s'avance.
 -*who_holoferne
 A peine mes regards soutiennent sa presence.
 
-**** *book_ *id_body-602 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_IV02 *act_IV *date_1695 *creator_boyer 
 
 -*who_holoferne
 En sortant de prier le Dieu que vous servez,
@@ -1659,7 +1659,7 @@ Mais s'il faut vous quitter, ma juste impatience
 Me rendra promptement cet entretien si doux
 Que mon devoir m'arrache en m'éloignant de vous.
 
-**** *book_ *id_body-603 *act_ *date_1695 *creator_boyer
+**** *book_ *id_IV03 *act_IV *date_1695 *creator_boyer
 
 -*who_abra
 Que de biens apparens flatent⁎ vostre esperance !
@@ -1733,7 +1733,7 @@ Il paroist.
 -*who_judith
       Ah ! quel est le trouble où je le voy !
 
-**** *book_ *id_body-604 *act_ *date_1695 *creator_boyer
+**** *book_ *id_IV04 *act_IV *date_1695 *creator_boyer
 
 -*who_misael
 Je vis et je respire encore malgré moy.
@@ -1802,7 +1802,7 @@ Avec un peu de temps vous en jugerez mieux.
 -*who_misael
 Faudra-t-il démentir ma raison et mes yeux ?
 
-**** *book_ *id_body-605 *act_ *date_1695 *creator_boyer
+**** *book_ *id_IV05 *act_IV *date_1695 *creator_boyer
 
 -*who_vagao
 Madame, on vous attend, tout est prest, tout vous presse,
@@ -1814,7 +1814,7 @@ Holoferne sur tout impatient⁎ d'attendre...
 -*who_judith
 Je vous suis.
 
-**** *book_ *id_body-606 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_IV06 *act_IV *date_1695 *creator_boyer 
 
 -*who_misael
       A cét ordre il est temps de se rendre,
@@ -1855,7 +1855,7 @@ Voyez tout. Loin de craindre icy votre presence,
 J'aime à vous voir toûjours curieux et jaloux ;
 Ma gloire⁎ avoit besoin d'un témoin comme vous.
 
-**** *book_ *id_body-607 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_IV07 *act_IV *date_1695 *creator_boyer 
 
 -*who_misael
 Me trompay-je ? Judith seroit-elle innocente ?
@@ -1863,7 +1863,7 @@ Je commence à douter, sa fierté⁎ m'épouvante.
 Allons nous éclaircir. Puisse le Dieu vengeur
 Confondre mes soupçons, et punir mon erreur.
 
-**** *book_ *id_body-701 *act_ *date_1695 *creator_boyer
+**** *book_ *id_V01 *act_V *date_1695 *creator_boyer
 
 -*who_betulien
 A peine on voit briller la lumiere naissante,
@@ -1884,7 +1884,7 @@ Entendray-je gemir et murmurer toujours ?
 Quand on croit de nos maux la mesure comblée ;
 Esperons...
 
-**** *book_ *id_body-702 *act_ *date_1695 *creator_boyer
+**** *book_ *id_V02 *act_V *date_1695 *creator_boyer
 
 -*who_ozias
       Achior l'ame toute troublée...
@@ -1925,7 +1925,7 @@ Qui pourroit vous comprendre, ô Sagesse éternelle ?
 J'ay douté comme vous, mais je voy Misael :
 Son desordre...
 
-**** *book_ *id_body-703 *act_ *date_1695 *creator_boyer 
+**** *book_ *id_V03 *act_V *date_1695 *creator_boyer 
 
 -*who_misael
       Frappé d'un desespoir mortel,
@@ -2010,7 +2010,7 @@ Et verser tout mon sang pour laver cette injure.
 Que ne puis-je douter de tout ce que j'ay dit !
 Mais j'apperçois Abra.
 
-**** *book_ *id_body-704 *act_ *date_1695 *creator_boyer
+**** *book_ *id_V04 *act_V *date_1695 *creator_boyer
 
 -*who_misael
       Quoy seule, et sans Judith ?
@@ -2091,7 +2091,7 @@ Le frappe, et de son corps la teste est separée.
 Quoy, vous doutez encor de cette verité !
 Que je confonde enfin votre incredulité.
 
-**** *book_ *id_body-705 *act_ *date_1695 *creator_boyer
+**** *book_ *id_V05 *act_V *date_1695 *creator_boyer
 
 -*who_betulien
 Un succés glorieux⁎ a rempli notre attente.
@@ -2121,7 +2121,7 @@ Allons chercher Judith, la voicy qui s'avance.
 -*who_misael
 Pourras-tu Misael soutenir sa presence ?
 
-**** *book_ *id_body-706 *act_ *date_1695 *creator_boyer
+**** *book_ *id_V06 *act_V *date_1695 *creator_boyer
 
 -*who_judith
 Ozias, c'en est fait, Israel est vainqueur.
@@ -2142,7 +2142,7 @@ Vous, suivez Ozias.
       J'y cours avec ardeur.
 Allons par mille morts expier notre- erreur.
 
-**** *book_ *id_body-707 *act_ *date_1695 *creator_boyer
+**** *book_ *id_V07 *act_V *date_1695 *creator_boyer
 
 -*who_misael
 Qu'ordonnez-vous de moy dont la jalouse rage

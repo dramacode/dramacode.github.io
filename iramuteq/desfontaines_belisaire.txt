@@ -52,13 +52,13 @@ DONNE' à Paris, le vingtiesme jour de Juin mil six cens quarante-un.
 
 Signé LEMOINE.
 
-**** *book_ *id_body-501 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_I01 *act_I *date_1641 *creator_desfontaines
 
 -*who_justinian
 Levez-vous.
 
 -*who_amalazonthe
-              Ah ! Seigneur vous estes trop Auguste⁎,
+      Ah ! Seigneur vous estes trop Auguste⁎,
 Devant mon Empereur ce respect est bien juste,
 J'ay perdu mes Estats, mon rang l'est avec eux,
 Et cét abaissement sied bien aux malheureux.
@@ -68,7 +68,7 @@ Non, je n'écoute rien en l'estat où vous estes,
 Levez-vous.
 
 -*who_amalazonthe
-              J'obeïs aux loix que vous me faites,
+      J'obeïs aux loix que vous me faites,
 Et le commandement de vostre Majesté
 Sert de juste pretexte à ma temerité.
 Seigneur, quoy que le sort, nos malheurs & Bellonne,
@@ -181,13 +181,13 @@ Seigneur.
       Amalazonthe.
 
 -*who_theodore
-                  Amour incomparable.
+      Amour incomparable.
 
 -*who_sophie
 Amant infortuné⁎.
 
 -*who_narses
-                  Mais amant adorable,
+      Mais amant adorable,
 Car c'est heureusement perdre sa liberté,
 Que d'estre compagnon de ta captivité,
 
@@ -213,7 +213,7 @@ Qu'il est advantageux d'estre sous mon pouvoir.
 Qu'on détache ses fers.
 
 -*who_vitigez
-                  Ah ! Seigneur mon offence
+      Ah ! Seigneur mon offence
 Les a trop meritez ; mais par cette clemence,
 Vous voulez témoigner que vostre Majesté
 Sçait comme par le fer vaincre par sa bonté,
@@ -276,7 +276,7 @@ Acheve, ayde à l'amour, & seconde ses charmes,
 Conserve Belissaire au point où je le voy,
 Et fay que quelque jour il soit digne de moy.
 
-**** *book_ *id_body-502 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_I02 *act_I *date_1641 *creator_desfontaines
 
 -*who_theodore
 Hé bien chers confidens des secrets de mon ame,
@@ -298,10 +298,10 @@ Je luy fasse un ecueil pour le precipiter
 Qu'il meure.
 
 -*who_sophie
-              Justes Dieux
+      Justes Dieux
 
 -*who_theodore
-                      Narsés veux-tu me plaire ?
+      Narsés veux-tu me plaire ?
 Depeche de ce pas, va tuer Belissaire,
 A ce coeur⁎ insolent que ton bras soit fatal,
 M'ostant un ennemy, deffaits-toy d'un rival,
@@ -314,10 +314,10 @@ Je sçauray bien sauver ton honneur, & ta vie :
 Va,
 
 -*who_narses
-          Madame,
+      Madame,
 
--*who_theodore
-                  Va, dis-je, & sans plus discourir,
+-*who_theodore 
+      Va, dis-je, & sans plus discourir,
 Ou si tu ne le fais resous-toy de mourir.
 Non, arreste, ma hayne a trop de violence
 Pour ce coup important, il faut plus de prudence,
@@ -432,9 +432,9 @@ Ne luy fasse éventer le complot que je trame,
 Je t'en laisse le soing.
 
 -*who_narses
-                  Reposez-vous sur moy.
+      Reposez-vous sur moy.
 
-**** *book_ *id_body-503 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_I03 *act_I *date_1641 *creator_desfontaines
 
 -*who_sophie
 Hé bien, Narsés, enfin puis-je m'ouvrir à toy ?
@@ -515,7 +515,7 @@ Que ta discretion assiste ton courage,
 Et souffre⁎ si tu veux m'obliger tout à fait,
 Que mesme Belisaire ignore ce bien fait.
 
-**** *book_ *id_body-504 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_I04 *act_I *date_1641 *creator_desfontaines 
 
 -*who_narses
 Confus, triste, pensif, je ne sçay que resoudre⁎
@@ -551,7 +551,7 @@ Empescher les effets⁎ d'un visible naufrage,
 Et sauver s'il se peut, mais genereusement,
 En Amy Belisaire, & Sophie en Amant.
 
-**** *book_ *id_body-601 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_II01 *act_II *date_1641 *creator_desfontaines
 
 -*who_belisaire
 Je ne sçaurois souffrir⁎ plus long-temps son absence,
@@ -563,7 +563,7 @@ Visite tout le bois, tandis qu'en cette place
 Ces beaux arbres feront malgré l'astre du jour
 Que plus commodément j'attendray ton retour,
 
-**** *book_ *id_body-602 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_II02 *act_II *date_1641 *creator_desfontaines 
 
 -*who_belisaire
 
@@ -628,10 +628,10 @@ La valeur d'un guerrier par le nombre opprimée,
 Cede aux coups d'une bande à sa perte animée,
 Il le faut secourir.
 
-**** *book_ *id_body-603 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_II03 *act_II *date_1641 *creator_desfontaines
 
 -*who_iskirion
-                  Vous voulez mon trépas,
+      Vous voulez mon trépas,
 Bien, mais auparavant vous connoistrez mon bras,
 Et cet illustre sang que vous voulez répendre,
 Coulera lasches coeurs, mais je le sçauray vendre,
@@ -639,8 +639,8 @@ Coulera lasches coeurs, mais je le sçauray vendre,
 -*who_narses
 Il n'importe.
 
--*who_belisaire
-              Donnons, à moy traistres, à moy,
+-*who_belisaire 
+      Donnons, à moy traistres, à moy,
 Ici vostre fureur trouvera de l'employ,
 Tournez contre mon sein vos armes criminelles,
 Quoy déja la terreur vous a donné des aisles ?
@@ -721,7 +721,7 @@ Et je meurs de regret de le voir imparfait.
 Il a perdu le sens.
 
 -*who_belisaire
-              Narsés, quelle manie⁎
+      Narsés, quelle manie⁎
 D'un esprit si solide a la raison bannie ?
 D'où te vient cette erreur ? Et pourquoy penses-tu
 Qu'un lasche assassinat soit un trait de vertu ?
@@ -734,7 +734,7 @@ La raison, la pitié, mon amour, & vous mesme.
 Moy, Narsés ? que dis-tu ?
 
 -*who_narses
-                  Je dis ce que je dois.
+      Je dis ce que je dois.
 
 -*who_belisaire 
 Ah ! sans doute ton coeur dement icy ta voix,
@@ -759,7 +759,7 @@ Que me privant du jour je ne le verray point.
 Adieu, cruel amy, le Ciel te soit prospere,
 Et rende ton destin plus doux que je n'espere.
 
-**** *book_ *id_body-604 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_II04 *act_II *date_1641 *creator_desfontaines 
 
 -*who_belisaire
 Il expire, Narsés, helas ! il ne vit plus,
@@ -846,13 +846,13 @@ Si vous faites en Cour tant soit peu de demeure.
 C'est où je vous attens.
 
 -*who_belisaire
-                  J'y seray dans une heure,
+      J'y seray dans une heure,
 Cependant trouvez bon qu'un reste d'amitié
 Exerce envers ce corps encor quelque pitié,
 Et puisque son trépas a vangé son injure,
 Que mon dernier present soit une sepulture.
 
-**** *book_ *id_body-605 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_II05 *act_II *date_1641 *creator_desfontaines 
 
 -*who_belisaire
 
@@ -901,35 +901,35 @@ Et que cette fatale espée,
 Contre toy-mesme icy par toy-mesme occupée,
 Soit ton juste supplice, & ta main ton bourreau.
 
-**** *book_ *id_body-606 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_II06 *act_II *date_1641 *creator_desfontaines 
 
 -*who_diophante
 Dieux, qu'est-ce que je vois ? ah, Seigneur !
 
 -*who_belisaire
-                          Diophante
+      Diophante
 Que fais-tu ? Laisse moy, souffre⁎ que je contente
 Par un coup genereux⁎ la rigueur de mon sort,
 Voy cét object sanglant, c'est Narsés.
 
 -*who_diophante
-                      Il est mort.
+      Il est mort.
 
 -*who_belisaire
 Ouy, Diophante, il l'est.
 
 -*who_diophante
-                  Dieux ! le malheur extreme,
+      Dieux ! le malheur extreme,
 Qui l'a tué ?
 
--*who_belisaire
-              Moy.
+-*who_belisaire 
+      Moy.
 
 -*who_diophante
-                  Vous
+      Vous
 
 -*who_belisaire
-                      Moy, mais plustost luy-mesme.
+      Moy, mais plustost luy-mesme.
 Car lors que j'ai commis cét innocent peché,
 Un tapabort⁎ tenoit son visage caché.
 
@@ -937,13 +937,13 @@ Un tapabort⁎ tenoit son visage caché.
 A quelle occasion ?
 
 -*who_belisaire
-              Espargne ta memoire,
+      Espargne ta memoire,
 Tu ne sçauras que trop cette tragique histoire ;
 Et mesme si tu veux appaiser mes transports⁎,
 Oste à mes tristes yeux ce deplorable corps.
 Fin du secon Acte
 
-**** *book_ *id_body-701 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_III01 *act_III *date_1641 *creator_desfontaines
 
 -*who_theodore
 Allez ne craignez rien, achevez cette affaire,
@@ -1013,7 +1013,7 @@ Commencez seulement, & je feray le reste.
 Madame s'en est fait, il va perdre le jour,
 Victime infortunée⁎ ! & de haine & d'amour.
 
-**** *book_ *id_body-702 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_III02 *act_III *date_1641 *creator_desfontaines
 
 -*who_iskirion
 Importune raison, hé bien que dois-je faire ?
@@ -1043,7 +1043,7 @@ Le traict desja lancé ne se peut r'appeller,
 Il faut, il faut franchir constamment la carriere,
 Et m'acquerir Sophie ou perdre la lumiere.
 
-**** *book_ *id_body-703 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_III03 *act_III *date_1641 *creator_desfontaines
 
 -*who_belisaire
 Quoy donc, Amalazonthe, apres un traittement,
@@ -1146,7 +1146,7 @@ Ma premiere victoire est de vous acquerir.
 -*who_amalazonthe
 Perdant tout, il me reste une belle à mourir.
 
-**** *book_ *id_body-704 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_III04 *act_III *date_1641 *creator_desfontaines
 
 -*who_belisaire
 Ah, mourir ! ah plustost si mon feu vous offense,
@@ -1159,7 +1159,7 @@ Et traitte mon amour avec tant de mépris,
 Que je treuve un supplice où j'esperois un prix.
 Mais allons recevoir ce guerrier qui s'advance.
 
-**** *book_ *id_body-705 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_III05 *act_III *date_1641 *creator_desfontaines
 
 -*who_doristel
 Le voila.
@@ -1181,7 +1181,7 @@ Une juste action pour une lâcheté.
 Qu'est-ce donc ? arrestez.
 
 -*who_iskirion
-                  Ah : souffrez⁎ que mon crime
+      Ah : souffrez⁎ que mon crime
 Reçoive un châtiment & juste & legitime,
 J'ay cherché vostre sang, j'ay voulu vostre mort,
 Ce desir criminel demande un mesme sort,
@@ -1190,7 +1190,7 @@ Mon sang à cet effect⁎ doit payer pour le vostre,
 Permettez moy Seigneur.
 
 -*who_belisaire
-                  Non quittez ce dessein,
+      Non quittez ce dessein,
 Ce fer est seulement destiné pour mon sein,
 Et si vostre bon-heur dépend de mon naufrage,
 Ce poignard peut encor achever mon ouvrage,
@@ -1257,7 +1257,7 @@ Ouy, mon Prince, vivez avec cette asseurance,
 Et si cette amitié que je vous jure icy
 Perit, faites grands Dieux que je perisse aussy.
 
-**** *book_ *id_body-706 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_III06 *act_III *date_1641 *creator_desfontaines
 
 -*who_theodore
 Songez y bien, Sophie, Iskirion est Prince,
@@ -1283,19 +1283,19 @@ Sa vengeance a des traits qui ne le seront pas,
 Evitez ce malheur.
 
 -*who_sophie
-                  Je crains peu cét orage.
+      Je crains peu cét orage.
 
 -*who_theodore
 Ma niepce il a du coeur.
 
 -*who_sophie
-                  Et j'en ay d'avantage.
+      Et j'en ay d'avantage.
 
 -*who_theodore
 J'en doute.
 
 -*who_sophie
-              Je me ris de son ressentiment.
+      Je me ris de son ressentiment.
 
 -*who_theodore 
 Il est pourtant à craindre en l'esprit d'un amant,
@@ -1335,7 +1335,7 @@ Et je vous feray voir, quoy qu'il faille endurer,
 Que ce qu'Amour a fait ne se peut separer.
 Fin du troisième Acte
 
-**** *book_ *id_body-801 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_IV01 *act_IV *date_1641 *creator_desfontaines
 
 -*who_vitigez
 Ma Princesse, d'où vient cette melancolie
@@ -1374,10 +1374,10 @@ Quel est cét ennemy qui veut m'oster le jour ?
 Vous le voyez, Seigneur.
 
 -*who_vitigez
-                  Qui, bons Dieux ?
+      Qui, bons Dieux ?
 
 -*who_amalazonthe
-                          Mon Amour.
+      Mon Amour.
 
 -*who_vitigez 
 Madame, c'est assés, je voy mon infortune,
@@ -1410,7 +1410,7 @@ J'appreuve vos devoirs, vostre grace me charme,
 Et je crains, mais pour vous.
 
 -*who_vitigez
-                  Qui vous met en allarme ?
+      Qui vous met en allarme ?
 Doutez vous de ma foy ? doutez vous de mon coeur ?
 
 -*who_amalazonthe
@@ -1420,7 +1420,7 @@ Non.
       Que craignez-vous donc ?
 
 -*who_amalazonthe
-                      Un insolent vainqueur,
+      Un insolent vainqueur,
 Belisair'.
 
 -*who_vitigez
@@ -1481,7 +1481,7 @@ Il est avec Sophie. Amour si ta puissance
 A gravé dans son coeur ma Reyne & ses attraits,
 Permets que cét object en efface les traits⁎.
 
-**** *book_ *id_body-802 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_IV02 *act_IV *date_1641 *creator_desfontaines 
 
 -*who_sophie
 Voila ce que vous couste une amitié fidele,
@@ -1566,10 +1566,10 @@ Apres ce qu'il a fait l'excusez vous encore ?
 Il vous aime.
 
 -*who_sophie
-              L'innocent.
+      L'innocent.
 
 -*who_belisaire
-                      De plus il vous adore,
+      De plus il vous adore,
 Et je croirois avoir trop de temerité,
 De pretendre un honneur qu'il a mieux mérité,
 Puis que je ne sçaurois sans paroistre volage,
@@ -1581,7 +1581,7 @@ Il luy refuse un bien, vostre amour me le donne,
 Moy, je n'en puis jouïr.
 
 -*who_sophie
-                  Et luy l'espere en vain,
+      Et luy l'espere en vain,
 Helas de qui vous tuë adorez-vous la main ?
 
 -*who_belisaire
@@ -1615,21 +1615,21 @@ Ingrat.
       Escoutez moy.
 
 -*who_sophie
-                  Les attentes sont vaines,
+      Les attentes sont vaines,
 Un perfide jamais.
 
 -*who_belisaire
-                  ne fut pareil à moy,
+      ne fut pareil à moy,
 Madame.
 
 -*who_sophie
       adieu.
 
 -*who_belisaire
-              cruelle.
+      cruelle.
 
 -*who_sophie
-                  Importun laisse moy.
+      Importun laisse moy.
 
 -*who_belisaire 
 Un mot, & puis mon coeur s'offre à vous satisfaire.
@@ -1666,16 +1666,16 @@ Mettre dans les emplois les plus braves gens d'armes,
 Et monstrer que mon coeur aime mieux en ce jour
 Perir des traits de Mars que de ceux de l'Amour.
 
-**** *book_ *id_body-803 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_IV03 *act_IV *date_1641 *creator_desfontaines
 
 -*who_theodore
 Hé bien, perfide, ingrat,
 
 -*who_iskirion
-                  Ah ! Madame.
+      Ah ! Madame.
 
 -*who_theodore
-                          Hé bien, traistre,
+      Hé bien, traistre,
 Apres m'avoir trahie oses-tu bien paraistre ?
 Belisaire est vivant, il rit de mes fureurs,
 Malgré tous ses desseins il triomphe & je meurs ;
@@ -1716,10 +1716,10 @@ Mais vous serez punis, & je seray vangée,
 Allez, retirez-vous.
 
 -*who_iskirion
-              Je beniray mon sort,
+      Je beniray mon sort,
 Si mon affection se preuve par ma mort.
 
-**** *book_ *id_body-804 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_IV04 *act_IV *date_1641 *creator_desfontaines
 
 -*who_theodore
 Enfin de quel moyen faut-il que je me serve ?
@@ -1761,7 +1761,7 @@ Va ne perds point de temps en discours superflus.
 -*who_doristel
 Croyez dés à present que l'ingrat ne vit plus.
 
-**** *book_ *id_body-805 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_IV05 *act_IV *date_1641 *creator_desfontaines
 
 -*who_belisaire
 Pour vaincre les Persans & dompter leur audace,
@@ -1781,7 +1781,7 @@ Pour attirer à nous leurs premieres cohortes.
 Mais insensiblement mon oeil trompe ma main,
 Et je cede au sommeil, je luy resiste en vain.
 
-**** *book_ *id_body-806 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_IV06 *act_IV *date_1641 *creator_desfontaines
 
 -*who_doristel
 Dieux ! quel bonheur jamais fut au mien comparable,
@@ -1813,7 +1813,7 @@ Ne recognoissons pas des bien-faicts par un crime,
 Et de la mesme main qui desseignoit sa mort,
 Redonnons luy le jour & mesme quand il dort.
 
-**** *book_ *id_body-807 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_IV07 *act_IV *date_1641 *creator_desfontaines
 
 -*who_belisaire
 Ennemis de nos soins, amoureux du silence,
@@ -1838,7 +1838,7 @@ Il te plaist, je le veux, allons par cét effort
 Eviter mille morts par une seule mort.
 Fin du quatriéme Acte
 
-**** *book_ *id_body-901 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V01 *act_V *date_1641 *creator_desfontaines
 
 -*who_belisaire
 Va, que differes-tu ? va mon cher Diophante,
@@ -1877,20 +1877,20 @@ Ne differes donc point d'obeïr à mes voeux.
 Quel office d'amour ?
 
 -*who_belisaire
-                  C'est le seul que je veux.
+      C'est le seul que je veux.
 
 -*who_diophante
 Et bien, j'obeïray.
 
 -*who_belisaire
-                  Va. Belle Amalazonthe,
+      Va. Belle Amalazonthe,
 Dont la haute vertu me captive & me dompte,
 Apprens par tous ces maux que je souffres pour toy,
 Ton pouvoir, mon amour, ta rigueur, & ma foy,
 Puis que ny les tourments, ny le fer, ny la flame
 Ne sçauroient arracher ton portraict de mon ame.
 
-**** *book_ *id_body-902 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V02 *act_V *date_1641 *creator_desfontaines
 
 -*who_theodore
 Il vit, tout le malheur est tombé dessus nous,
@@ -1913,7 +1913,7 @@ Et qu'il apprenne enfin par un dernier effort,
 Que ma haine ici bas est autant que la mort.
 Mais que veut Diophante, & que tient là Sophie ?
 
-**** *book_ *id_body-903 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V03 *act_V *date_1641 *creator_desfontaines
 
 -*who_sophie
 Ah, quelle ingratitude & quelle perfidie !
@@ -1953,8 +1953,8 @@ Puis que sans s'arrester à son extravagance,
 Elles peuvent souffrir⁎ ce traict⁎ qui les offense,
 Allez, retirez-vous.
 
--*who_diophante
-              Ah, Madame, en ce poinct.
+-*who_diophante 
+      Ah, Madame, en ce poinct.
 
 -*who_theodore
 Fay ce que je commande, & ne replique point.
@@ -1962,7 +1962,7 @@ Fay ce que je commande, & ne replique point.
 -*who_diophante
 J'obeis.
 
-**** *book_ *id_body-904 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V04 *act_V *date_1641 *creator_desfontaines
 
 -*who_theodore
       Vous, Sophie, apres un tel outrage,
@@ -1971,7 +1971,7 @@ Voila, voila le fruict & le prix de vos voeux,
 O le parfaict amant !
 
 -*who_sophie
-                  Mais qu'il est malheureux !
+      Mais qu'il est malheureux !
 O Dieux, que dois-je faire apres ce coup de foudre ?
 
 -*who_theodore 
@@ -1981,13 +1981,13 @@ Le quitter.
       O Destins !
 
 -*who_theodore
-                  Il vous y faut resoudre,
+      Il vous y faut resoudre,
 Et pour y mieux songer retirez-vous d'icy.
 
 -*who_sophie
 Finissez, Dieux cruels, ma vie & mon soucy.
 
-**** *book_ *id_body-905 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V05 *act_V *date_1641 *creator_desfontaines
 
 -*who_theodore
 Enfin c'est maintenant, superbe⁎ Belisaire,
@@ -2004,7 +2004,7 @@ Et son mépris me porte à cette passion :
 Mais que veut l'Empeureur, & quelle occasion
 Le fait venir icy, confus, triste, & sans suitte ?
 
-**** *book_ *id_body-906 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V06 *act_V *date_1641 *creator_desfontaines
 
 -*who_justinian
 Qu'autre personne ici ne nous soit introduite.
@@ -2029,7 +2029,7 @@ Helas !
       Quoy donc, Seigneur ?
 
 -*who_justinian
-                      Belisaire nous quitte,
+      Belisaire nous quitte,
 Et toute la grandeur dont j'éclate aujourd'huy,
 Par ce triste accident⁎ me quitte avecque luy.
 
@@ -2042,8 +2042,8 @@ Et vous ne tenez point vostre éclat d'un sujet.
 -*who_justinian
 Non, mais en le perdant...
 
--*who_theodore
-                  Vous perdez peu de chose,
+-*who_theodore 
+      Vous perdez peu de chose,
 Et l'effect vous plaira quand vous sçaurez la cause,
 Sçavez vous le sujet qui l'a fait retirer ?
 
@@ -2064,10 +2064,10 @@ Qu'il vous faut détromper, & vous faire connoistre,
 Que Belisaire,
 
 -*who_justinian
-              O Dieux !
+      O Dieux !
 
 -*who_theodore
-                  Ouy, Seigneur, vous est traistre,
+      Ouy, Seigneur, vous est traistre,
 Et c'est pour ce sujet qu'il veut quitter la Cour,
 Tenez, voyez son crime en voyant son amour.
 
@@ -2095,7 +2095,7 @@ Vous verrez ma justice & mes ressentimens,
 Mais avant que la foudre éclate sur sa teste,
 Il faut premierement que Pyrandre l'arreste.
 
-**** *book_ *id_body-907 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_V07 *act_V *date_1641 *creator_desfontaines 
 
 -*who_theodore
 Courage, tout va bien, il n'en peut échaper,
@@ -2138,7 +2138,7 @@ Faisons voir à tous deux que je me sçais vanger,
 Et que me negliger ou que me contredire,
 Est pis que de choquer ny l'Estat ny l'Empire.
 
-**** *book_ *id_body-908 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_V08 *act_V *date_1641 *creator_desfontaines 
 
 -*who_iskirion
 Ouy, Madame, il importe au bien de vos amours,
@@ -2166,7 +2166,7 @@ En cette occasion je me vaincray moy-méme,
 Je suivray vos conseils, & par cette action,
 J'exciteray l'amour, ou la compassion.
 
-**** *book_ *id_body-909 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V09 *act_V *date_1641 *creator_desfontaines
 
 -*who_sophie
 Entrons
@@ -2175,7 +2175,7 @@ Entrons
       Arrestez-la, que voulez-vous ?
 
 -*who_sophie
-                          Pirandre,
+      Pirandre,
 Est-ce là le respect que vous me devez rendre ?
 Ne vous informez point, je sçay vostre devoir,
 Et vous ne devez pas ignorer mon pouvoir.
@@ -2194,7 +2194,7 @@ Et ma foy t'en promet d'agreables effects.
 -*who_pyrandre
 Ah, Madame, en ce cas j'obeis & me tais.
 
-**** *book_ *id_body-910 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_V10 *act_V *date_1641 *creator_desfontaines 
 
 -*who_iskirion
 Amy, leve les yeux, contemple ce visage,
@@ -2263,7 +2263,7 @@ Pour moy soubs un habit au vostre tout pareil
 Je veux rester icy.
 
 -*who_belisaire
-              C'est donc là le conseil,
+      C'est donc là le conseil,
 Qui me doit aujourd'huy retirer du naufrage,
 Ah, laissez Belisaire il a trop de courage,
 Pour vouloir mandier par une lâcheté,
@@ -2280,20 +2280,20 @@ Pour eviter l'affront d'un trépas rigoureux,
 Il sied bien quelquesfois d'estre moins genereux.
 Cessez donc. Justes Dieux !
 
-**** *book_ *id_body-911 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_V11 *act_V *date_1641 *creator_desfontaines 
 
 -*who_theodore
-                  Quelle est cette entreprise ?
+      Quelle est cette entreprise ?
 Que faites-vous, Sophie ?
 
 -*who_iskirion
-                  O fatale surprise !
+      O fatale surprise !
 
 -*who_sophie
 Malheureuse.
 
 -*who_theodore
-              Je sçay ce qui vous mene icy,
+      Je sçay ce qui vous mene icy,
 Tirez-vous à l'écart je prendray ce soucy.
 Pour vous demeurez-là vous m'estes necessaire,
 Je vous veux enseigner ce que vous devez faire,
@@ -2303,7 +2303,7 @@ Orgueilleux, voy ton sort, regarde cette lame,
 Et par ce coup apprens.
 
 -*who_iskirion
-                  Que faites-vous, Madame ?
+      Que faites-vous, Madame ?
 
 -*who_theodore
 Insolent, oses-tu traverser mon dessein ?
@@ -2321,14 +2321,14 @@ Il doit à mon courroux immoler l'un & l'autre.
 Helas !
 
 -*who_belisaire
-          Prenez mon sang & épargnez le sien.
+      Prenez mon sang & épargnez le sien.
 
 -*who_iskirion 
 Il est malaisé qu'il coule sans le mien,
 Tenez, frappez, Madame.
 
 -*who_sophie
-                  Honnorable dispute.
+      Honnorable dispute.
 
 -*who_belisaire
 Laisse agir sa fureur, c'est pour moy qu'elle bute,
@@ -2395,10 +2395,10 @@ M'oste le fer des mains & la haine du coeur.
 Ostons luy les liens.
 
 -*who_sophie
-                  Ah ! mon Prince.
+      Ah ! mon Prince.
 
 -*who_belisaire
-                          Ah ! Madame,
+      Ah ! Madame,
 En delivrant mon corps, vous captivez⁎ mon ame,
 Et la méme pitié dont je voy les effects,
 S'offense des liens que vous avez défaicts,
@@ -2419,10 +2419,10 @@ Je demande sa grace & l'attens à genoux.
 Quelle grace ?
 
 -*who_belisaire
-              L'Amour
+      L'Amour
 
 -*who_sophie
-                  A ce mot je soupire,
+      A ce mot je soupire,
 Ses voeux sont mes souhaits ; on me porte où j'aspire :
 Mon Prince, levez vous parmy tant d'actions,
 N'adjoutez pas ma honte à vos perfections,
@@ -2443,7 +2443,7 @@ Appaiser son courroux & le tirer d'erreur,
 J'ay souslevé les flots, calmons en la tempeste,
 Suivez moy seulement, & je feray le reste.
 
-**** *book_ *id_body-912 *act_ *date_1641 *creator_desfontaines 
+**** *book_ *id_V12 *act_V *date_1641 *creator_desfontaines 
 
 -*who_vitigez
 Avant que d'en venir à l'extreme rigueur,
@@ -2459,7 +2459,7 @@ La prison & ses fers l'auront humilié,
 Pardonnez luy, Seigneur.
 
 -*who_justinian
-                  Ah ! l'ingrat, ah ! le traistre,
+      Ah ! l'ingrat, ah ! le traistre,
 Oser insolemment se joüer à son maistre ?
 Ah ! je ne puis souffrir⁎ cette temerité.
 
@@ -2468,7 +2468,7 @@ Hé, Seigneur, consultez un peu vostre bonté,
 Elle parle pour luy.
 
 -*who_justinian
-                  Je ne m'y puis resoudre.
+      Je ne m'y puis resoudre.
 
 -*who_vitigez
 Que vostre Majesté retienne un peu le foudre,
@@ -2493,7 +2493,7 @@ Que resoudray-je donc ? mais qu'est-ce que je voy ?
 Theodore, bons Dieux ! l'ameine devant moy.
 Ce procedé nouveau rend mon ame confuse.
 
-**** *book_ *id_body-913 *act_ *date_1641 *creator_desfontaines
+**** *book_ *id_V13 *act_V *date_1641 *creator_desfontaines
 
 -*who_theodore
 Il est temps de quitter l'erreur qui vous abuse,
@@ -2515,7 +2515,7 @@ Et que les qualitez d'un si brave courage,
 Meritoient...
 
 -*who_justinian
-              C'est assez, n'en dy pas d'avantage,
+      C'est assez, n'en dy pas d'avantage,
 La vertu que je vois sur ce front genereux⁎,
 Monstre son innocence en l'objet de ses voeux,
 Et mon coeur est ravi qu'une si belle flame
@@ -2528,17 +2528,17 @@ Et qui m'a témoigné que pour le meriter
 Il donneroit son sang.
 
 -*who_iskirion
-                  Il n'en faut pas douter,
+      Il n'en faut pas douter,
 Ouy, Seigneur, je l'attens, & je vous la demande,
 
 -*who_justinian 
 Vous l'aurez.
 
 -*who_theodore
-              Que dit-il ?
+      Que dit-il ?
 
 -*who_sophie
-                      O Dieux que j'apprehende !
+      O Dieux que j'apprehende !
 
 -*who_iskirion
 Grand Prince souffrez donc que cet object charmant,
@@ -2548,7 +2548,7 @@ Reçoive devant vous le coeur de son amant.
 J'y consens.
 
 -*who_iskirion
-              Ma Princesse en ce bon-heur extreme,
+      Ma Princesse en ce bon-heur extreme,
 Vous donnant ce Guerrier je me donne moy-méme,
 Il possede mon coeur, ce qui luy plaist m'est doux,
 Donnez-vous toute à luy je serais toute à vous,
@@ -2562,7 +2562,7 @@ Consentez, grand Monarque, à cette illustre envie.
 S'il vous plaist, je le veux.
 
 -*who_sophie
-                  Cet espoir est ma vie.
+      Cet espoir est ma vie.
 
 -*who_iskirion
 Et vous ?

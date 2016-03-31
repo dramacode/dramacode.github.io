@@ -21,7 +21,9 @@ Novembre 1675 ; Signé, Par le Roy en son Conseil, DESVIEUX : Il est permis au
 
 Registré sur le Livre de la Communauté des Imprimeurs & Libraires, Signé THIERRY, Syndic.
 
-**** *book_ *id_body-7 *date_1675 *creator_corneille
+**** *book_ *id_A *date_1675 *creator_corneille
+
+PROLOGUE.
 
 -*who_thalie
 Genie incomparable, Esprit à qui la France                
@@ -175,7 +177,7 @@ Je le croy, ce n'est pas d'aujourd'huy qu'on publie
 Que les François ont un Génie
 Qui les rend capables de tout.                
 
-**** *book_ *id_acte-101 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1675 *creator_corneille
 
 -*who_le_marquis
 Entrer dans ce Chasteau !
@@ -331,7 +333,7 @@ Bon, c'est Virgine, elle est de nostre intelligence.
 Laisse-moy luy parler, & songe qu'il est temps        
 Qu'à faire ce qu'il faut tu prépares tes Gens.                
 
-**** *book_ *id_acte-102 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1675 *creator_corneille
 
 -*who_le_marquis
 He bien, comment la nuit s'est-elle icy passée ?
@@ -453,7 +455,7 @@ Songez à vous, elle a grand dessein⁎ de vous plaire.
 Souviens-toy seulement de ce que tu dois faire,        
 Je m'en tireray bien.
 
-**** *book_ *id_acte-103 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1675 *creator_corneille
 
 -*who_olimpe
       Vous a-t-on fait sçavoir             
@@ -516,7 +518,7 @@ Que j'auray veu remplir mes souhaits les plus doux,
 Si la Comtesse prend l'Inconnu pour Epous.        
 Adieu, Madame.
 
-**** *book_ *id_acte-104 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1675 *creator_corneille
 
 -*who_olimpe
       Il sort, & veut bien que je croye         
@@ -533,7 +535,7 @@ Quoy, vous le soufririez⁎ ?
 -*who_melisse
 Oüy, mais au Chevalier il faut rendre justice.            
 
-**** *book_ *id_acte-105 *act_acte-1 *date_1675 *creator_corneille 
+**** *book_ *id_I05 *act_I *date_1675 *creator_corneille 
 
 -*who_la_comtesse
 Scavez-vous que Dorante arrive icy ce soir ?
@@ -704,7 +706,7 @@ Et ne pouvez-vous pas en rire comme moy ?
 Non, ces sortes d'Amans⁎…Mais qu'est-ce que je voy,
 Madame…                            
 
-**** *book_ *id_acte-106 *act_acte-1 *date_1675 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1675 *creator_corneille
 
 -*who_l_amour
       Vous voyez l'Amour & la Jeunesse,    
@@ -962,7 +964,7 @@ Et de nostre Inconnu par eux…        
       Laissez-moy faire,
 En badinant⁎ je les feray jaser.                
 
-**** *book_ *id_acte-201 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1675 *creator_corneille
 
 -*who_melisse
 Ainsi par une veuë au Chevalier fatale,        
@@ -1024,7 +1026,7 @@ Ainsi le Chevalier n'a plus rien à prétendre ?    
 Le voicy ; je ne puis refuser de l'entendre ;    
 Mais son amour du mien s'est un peu trop promis.    
 
-**** *book_ *id_acte-202 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1675 *creator_corneille
 
 -*who_le_chevalier
 Madame, apprenez-moy quel espoir m'est permis.            
@@ -1123,7 +1125,7 @@ Mais si du Marquis…        
 Je veux bien qu'il l'emporte, & vous laisse avec luy.
 Adieu.
 
-**** *book_ *id_acte-203 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1675 *creator_corneille
 
 -*who_le_marquis
       De quel chagrin⁎ vous vois-je atteint ? Il semble
@@ -1194,7 +1196,7 @@ J'auray tant de reserve en voyant la Comtesse,            
 Que ce qu'à l'Inconnu je presteray d'appuy,
 Faisant peu contre vous, ne fera rien pour luy.
 
-**** *book_ *id_acte-204 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1675 *creator_corneille
 
 -*who_le_marquis
 Virgine ?            
@@ -1255,7 +1257,7 @@ Elle paroist ; je vay pousser le stratagème,        
 Et faire quelque temps le jaloux de moy-mesme ;    
 C'est le plus seûr moyen d'affermir mon bonheur.
 
-**** *book_ *id_acte-205 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1675 *creator_corneille
 
 -*who_le_marquis
 Madame, je vous trouve un air sombre, resveur,                
@@ -1349,7 +1351,7 @@ Ce ne sera jamais que trop tost, & peut-estre…    
 Suffit ; j'aime à sçavoir, Marquis, ce que je sçais ;            
 Vous m'osez refuser, & je m'en souviendray.
 
-**** *book_ *id_acte-206 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II06 *act_II *date_1675 *creator_corneille
 
 -*who_le_chevalier
 Quoy que j'ignore encor quel spéctacle on appreste,
@@ -1371,7 +1373,7 @@ Du moins j'ay tout sujet d'en estre satisfaite.                
 -*who_le_marquis
 Vous pouvez l'écouter, voicy son Interprete.
 
-**** *book_ *id_acte-207 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II07 *act_II *date_1675 *creator_corneille
 
 -*who_comus
 Madame, par hazard⁎, si Comus est un Dieu        
@@ -1462,7 +1464,7 @@ Et c'est si rarement que le trouble⁎ y peut naistre…
 Oüy, Madame, j'ay tort de paroistre jaloux,
 Car je n'ay pas sujet de l'estre.    
 
-**** *book_ *id_acte-208 *act_acte-2 *date_1675 *creator_corneille
+**** *book_ *id_II08 *act_II *date_1675 *creator_corneille
 
 -*who_olimpe
 On diroit qu'il sort en couroux⁎.
@@ -1628,7 +1630,7 @@ Un peu de patience.
       Il faut tâcher d'en rire,    
 En attendant que ce temps soit venu.
 
-**** *book_ *id_acte-301 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Nommez ce sentiment fierté⁎, chagrin⁎, caprice⁎,    
@@ -1772,7 +1774,7 @@ Et quand le Chevalier…
 Je quitte, & me sentant trop foible contre vous,
 Je vay chercher ailleurs des Ennemis plus doux.
 
-**** *book_ *id_acte-302 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Elle a beau déguiser, je l'ay trop sçeu connoistre,    
@@ -1836,7 +1838,7 @@ Les avertira-t-on ?
 -*who_virgine
 Vous en rirez.
 
-**** *book_ *id_acte-303 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1675 *creator_corneille
 
 -*who_la_comtesse
       He quoy, toûjours chagrin⁎ ?
@@ -1903,7 +1905,7 @@ Ses chagrins⁎ passeront.
 Souffrez⁎, lors qu'à l'espoir cette ofre me convie,        
 Que j'en marque ma joye, &…
 
-**** *book_ *id_acte-304 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1675 *creator_corneille
 
 -*who_le_marquis
       Le transport⁎ est doux.
@@ -2001,7 +2003,7 @@ Vous quittez l'Inconnu, vous me quittez moi-mesme ;    
 Et ce qui me confond, le Chevalier vous aime,
 Luy qui tantost chagrin⁎, & d'Olimpe jaloux…                
 
-**** *book_ *id_acte-305 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1675 *creator_corneille
 
 -*who_olimpe
 Quoy donc, le Chevalier a de l'amour pour vous,        
@@ -2057,7 +2059,7 @@ Fait lire dans ses yeux l'ennuy qu'elle en ressent.
 Je n'ay point à répondre à qui se plaint sans' cesse :            
 Mais voyez ce qu'icy le hazard⁎ nous adresse.
 
-**** *book_ *id_acte-306 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Pour des Bohémiens, cet équipage est beau.
@@ -2254,7 +2256,7 @@ Ils sortent.    
       Suivez-les, Virgine, & que l'on fasse    
 Tout ce qui se pourra pour les bien régaler.
 
-**** *book_ *id_acte-307 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III07 *act_III *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Pour des Gens de leur sorte, il n'est pas ordinaire        
@@ -2303,7 +2305,7 @@ Se servir pour cela des Gens
 Qui mettent à voler toute leur industrie !
 Rappellez-les, allez.
 
-**** *book_ *id_acte-308 *act_acte-3 *date_1675 *creator_corneille
+**** *book_ *id_III08 *act_III *date_1675 *creator_corneille
 
 -*who_virgine
       Madame, il n'est plus temps,    
@@ -2340,7 +2342,7 @@ Et comme l'Inconnu cache trop son destin,
 Cherchons à le forcer de se faire connoistre ;
 L'Avanture embarasse, & j'en veux voir la fin.                
 
-**** *book_ *id_acte-401 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1675 *creator_corneille
 
 -*who_le_marquis
 Ne me le cachez point, vous voila resoluë,
@@ -2417,7 +2419,7 @@ Ainfi donc le voyant, d'abord vous l'aimerez ?
 -*who_la_comtesse
 Si je ne l'aime pas, vous m'en accuserez.                
 
-**** *book_ *id_acte-402 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1675 *creator_corneille
 
 -*who_la_comtesse
 Hé bien ? Olimpe ?
@@ -2495,7 +2497,7 @@ Mais en vain vostre exemple à souffrir⁎ me convie,
 Avant qu'il m'oste Olimpe il m'ostera la vie ;
 C'est à luy d'y penser.
 
-**** *book_ *id_acte-403 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1675 *creator_corneille
 
 -*who_la_comtesse
       Allez, ne craignez rien,
@@ -2531,7 +2533,7 @@ C'est à quoy vous seriez peut-estre un peu moins promte,
 Si vous preniez l'avis de Monsieur le Vicomte.
 Le voicy qui paroist.
 
-**** *book_ *id_acte-404 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1675 *creator_corneille
 
 -*who_la_comtesse
       Hé' bien, mon Raporteur ?
@@ -2730,7 +2732,7 @@ C'est pousser la bravoure aussi loin…
       Sur mon ame,
 Tout y va, quand il faut dégainer.
 
-**** *book_ *id_acte-405 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1675 *creator_corneille
 
 -*who_olimpe
       Ah, Madame,
@@ -2849,7 +2851,7 @@ Le tres-vilain Monsieur…    
 Soit qu'on s'attache au Corps, soit qu'on cherche l'Esprit,        
 L'Inconnu passe tout ce qu'il faut qu'on attende…
 
-**** *book_ *id_acte-406 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1675 *creator_corneille
 
 -*who_cascaret
 Madame.
@@ -3053,7 +3055,7 @@ J'en auray soin.
       Allons-y faire travailler,
 Et leur choisir un lieu commode à s'habiller.
 
-**** *book_ *id_acte-407 *act_acte-4 *date_1675 *creator_corneille
+**** *book_ *id_IV07 *act_IV *date_1675 *creator_corneille
 
 -*who_olimpe
 Si j'ay de l'Inconnu vanté l'amour extréme,
@@ -3138,7 +3140,7 @@ Quittons-nous un moment.
 -*who_le_marquis
       Je veux ce qui vous plaist.
 
-**** *book_ *id_acte-501 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1675 *creator_corneille
 
 -*who_virgine
 Olimpe s'abusant⁎, vous en estes coupable.    
@@ -3193,7 +3195,7 @@ Il a pû voir pourtant qu'Olimpe…
       La voicy.            
 Laisse-nous un moment.    
 
-**** *book_ *id_acte-502 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1675 *creator_corneille
 
 -*who_olimpe
       Ma joye est sans seconde,
@@ -3245,7 +3247,7 @@ Et qu'apres son hymen⁎ vous n'accusiez ma foy⁎…
 Répondez-moy de vous, je vous répons de moy,
 Mais la Comtesse vient.
 
-**** *book_ *id_acte-503 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1675 *creator_corneille
 
 -*who_le_vicomte
       Si mon cœur…
@@ -3276,7 +3278,7 @@ Je donneray le ton.
 -*who_la_comtesse
       Quelle cervelle !
 
-**** *book_ *id_acte-504 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1675 *creator_corneille
 
 -*who_la_comtesse
       He' bien,            
@@ -3434,7 +3436,7 @@ Il faut les écouter.
       Soyons donc écoutans ;                
 Mais j'en tiens, s'il les faut écouter bien longtemps.
 
-**** *book_ *id_acte-505 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1675 *creator_corneille
 
 -*who_zephire
 Quoy, tout-de-bon, vous estes en colere
@@ -3500,7 +3502,7 @@ Adieu, je vay soufler si froidement pour vous,
 Que vous aurez sujet d'en croire le couroux⁎
 Qui contre moy vous tient si déclarée.                    
 
-**** *book_ *id_acte-506 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V06 *act_V *date_1675 *creator_corneille
 
 -*who_cephise
 D'où vient, quand on me voit, que l'on vous quite ainsy ?
@@ -3590,7 +3592,7 @@ Ce sera pour Psyché, s'il s'explique avec vous,
 De l'inquiétude épargnée.
 J'en attens le succés, adieu.
 
-**** *book_ *id_acte-507 *act_acte-5 *date_1675 *creator_corneille
+**** *book_ *id_V07 *act_V *date_1675 *creator_corneille
 
 -*who_zephire
 A la fin, ta Compagne a quité la partie.            

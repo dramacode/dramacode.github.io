@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-201 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I01 *act_I *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
 Souvenir importun qui trouble mes plaisirs,
@@ -58,7 +58,7 @@ Je n'ose consentir aux desseins⁎ que j'approuve,
 Contre mes propres vœux, mes vœux sont revoltez,
 Et je ne resous rien dans ces perplexitez.
 
-**** *book_ *id_body-202 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I02 *act_I *date_1641 *creator_guerin_de_bouscal
 
 -*who_livie
 Madame, le Roy vient par la porte prochaine,
@@ -71,7 +71,7 @@ Allons voir.
 -*who_livie
       Il est pres, j'entens desja du bruict.
 
-**** *book_ *id_body-203 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I03 *act_I *date_1641 *creator_guerin_de_bouscal
 
 -*who_theodoric
 Enfin la tyrannie a perdu son azile,
@@ -87,7 +87,7 @@ Quand ils ne sont produicts que pour l'amour d'eux mesmes !
 Qu'il est beau de regner lors qu'on a combatu !
 Et qu'un throsne a d'appas⁎ que donne la vertu⁎ !
 
-**** *book_ *id_body-204 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I04 *act_I *date_1641 *creator_guerin_de_bouscal
 
 -*who_emile
 Voicy Boece,
@@ -233,7 +233,7 @@ D'un ouvrage en qui l'art estonnoit⁎ la nature !
 Rome que je te plains ! et que j'auray d'honneur
 Si je puis quelque jour restablir ton bon-heur !
 
-**** *book_ *id_body-205 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I05 *act_I *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Je sçay que tous les jours ce Prince magnanime,
@@ -349,7 +349,7 @@ Et luy faire sçavoir que l'esclat de ma race,
 Ne dément point le rang où m'esleve sa grace.
 Fin du premier Acte.
 
-**** *book_ *id_body-301 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II01 *act_II *date_1641 *creator_guerin_de_bouscal
 
 -*who_theodoric
 Quoy ! Vous estes Romain et du sang des Monarques ?
@@ -411,7 +411,7 @@ Vous devez ce respect à qui vous a fait naistre,
 Quelque rang qu'aujourd'huy vous teniez dans l'estat :
 J'en sçauray le succez⁎ au sortir du Senat.
 
-**** *book_ *id_body-302 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II02 *act_II *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Mais, Emile, est-il vray qu'on croit dans l'Italie,
@@ -443,7 +443,7 @@ Mais pour n'attirer pas, et ma honte, et sa hayne,
 Quand je l'entretiendray de mes adversitez,
 Ce sera seulement soubs des noms empruntez.
 
-**** *book_ *id_body-303 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II03 *act_II *date_1641 *creator_guerin_de_bouscal
 
 -*who_maxime
 Madame, est-il donc vray que le destin m'envoye,
@@ -488,7 +488,7 @@ Avec ces quatre mots, Maxime je vous ayme.
 -*who_julie
 Quelqu'un entre !
 
-**** *book_ *id_body-304 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II04 *act_II *date_1641 *creator_guerin_de_bouscal
 
 -*who_horace
       Le Roy desire de vous voir.
@@ -596,7 +596,7 @@ Juge si je doy craindre un second Hymenée,
 Et si je puis jamais attendre que du mal,
 Si je reprens un joug qui me fut si fatal⁎.
 
-**** *book_ *id_body-305 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II05 *act_II *date_1641 *creator_guerin_de_bouscal
 
 -*who_cornelie
 Madame, Sinderic est là bas à la porte,
@@ -610,7 +610,7 @@ Je doy bien cét honneur au favory⁎ du Roy.
 Que je plains son mal-heur ! dieux à ce que je voy,
 Ce n'est pas sans raison qu'elle craint sa fortune⁎ !
 
-**** *book_ *id_body-306 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II06 *act_II *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Madame chassez-moy si je vous importune,
@@ -849,7 +849,7 @@ Nature taisez-vous, le conseil en est pris,
 Je veux resolument desadvoüer⁎ mon fils.
 Fin du deuxième Acte.
 
-**** *book_ *id_body-401 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III01 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_maxime
 Ah dieux je suis trahy ! quoy volage Julie,
@@ -916,7 +916,7 @@ Mais Dieux, que ma fortune⁎ est une estrange⁎ chose !
 Que difficillement je puis me contenter !
 Je tache à m'esclaircir lors que je veux doubter !
 
-**** *book_ *id_body-402 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III02 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
 Maxime nous a veus, que dittes vous Livie ?
@@ -963,7 +963,7 @@ Helas que doy-je dire ? helas que doy-je taire ?
 -*who_livie
 Cachez vostre douleur, laissez le reste au sort.
 
-**** *book_ *id_body-403 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III03 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_maxime
 Madame sauvez moy.
@@ -1139,7 +1139,7 @@ Et je parts trop contant quand je puis l'esperer,
 Helas : je m'en dedis, mon esperance est morte
 Et je cours mal-heureux où la fureur⁎ m'emporte.
 
-**** *book_ *id_body-404 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III04 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
 Et bien, chere Livie, en ce facheux combat,
@@ -1164,7 +1164,7 @@ C'est ce que je ne puis, et c'est ce que je dois !
 -*who_livie
 Mais le voicy, Madame.
 
-**** *book_ *id_body-405 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III05 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
       Ah dieux que doy-je faire ?
@@ -1177,7 +1177,7 @@ Esvitons sa rencontre.
 Je ne veux point ce nom, et je ne l'eus jamais,
 Honorez en quelqu'autre, et me laissez en paix.
 
-**** *book_ *id_body-406 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III06 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Dieu que vien-je de voir ! Dieu que vien-je d'apprendre !
@@ -1225,7 +1225,7 @@ Pour acquerir ce bien dispensons nos richesses,
 J'auray tousjours assez quand j'auray du bon-heur,
 Et l'on ne peut jamais trop acheter l'honneur.
 
-**** *book_ *id_body-407 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III07 *act_III *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Mais que cherche Maxime au logis de Julie ?
@@ -1370,7 +1370,7 @@ Je vous satisferay, n'en soyez point en peine,
 Il ne faut que passer dans la place prochaine.
 Fin du troisième Acte.
 
-**** *book_ *id_body-501 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV01 *act_IV *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
 Que dites vous, Livie ?
@@ -1498,7 +1498,7 @@ Si je suis reservée à ce sort rigoureux,
 Le salut de mon fils est tout ce que je veux.
 Apres il faut mourir.
 
-**** *book_ *id_body-502 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV02 *act_IV *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
       Mais que nous veut Horace ?
@@ -1575,7 +1575,7 @@ Indigne de l'ardeur⁎ que Maxime a pour toy,
 Non, non, je ne sçaurois dissimuler ton crime⁎,
 Je m'en vay de ce pas en advertir Maxime.
 
-**** *book_ *id_body-503 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV03 *act_IV *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Julie ayme Maxime! helas que dites vous?
@@ -1647,7 +1647,7 @@ Nature, assistez moy dedans ceste entreprise⁎,
 Et ne souffrez⁎ jamais qu'au mespris de vos loix
 L'amour ou l'interest⁎ l'emportent sur mes droits.
 
-**** *book_ *id_body-504 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV04 *act_IV *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
 Que j'ay peu de repos dedans ma solitude,
@@ -1698,7 +1698,7 @@ Pour en sçavoir l'estat, j'ay faict aller chez luy
 Un des miens que j'attens avec beaucoup d'ennuy⁎,
 Cependant mon esprit ne s'ose rien promettre.
 
-**** *book_ *id_body-505 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV05 *act_IV *date_1641 *creator_guerin_de_bouscal
 
 -*who_cornelie
 Horace en repassant m'a donné ceste lettre.
@@ -1807,7 +1807,7 @@ Et quand on emploiroit et le fer et la flamme⁎,
 Pour flechir mon courage⁎, et changer mon dessein⁎,
 J'atteste tous les dieux que ce seroit en vain.
 
-**** *book_ *id_body-506 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV06 *act_IV *date_1641 *creator_guerin_de_bouscal
 
 -*who_julie
 Mais le voicy venir, dieux quelle est son audace !
@@ -2045,7 +2045,7 @@ Et que tous vos efforts⁎ seront vains contre moy,
 Puisque j'ay pour appuy la nature, et le Roy.
 Fin du quatrième Acte.
 
-**** *book_ *id_body-601 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V01 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_maxime
 Quoy cette ingratte⁎ change, et ne veut pas souffrir⁎ 
@@ -2089,7 +2089,7 @@ Je ne conteste plus, il faut que je la voye.
 Prenons l'occasion que le ciel nous envoye.
 On ouvre, et quelqu'un sort.
 
-**** *book_ *id_body-602 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V02 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_maxime
       Ah ! Livie est-ce toy ?
@@ -2162,7 +2162,7 @@ Où vas-tu ?
 -*who_livie
       Laissez-moy.
 
-**** *book_ *id_body-603 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V03 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_maxime
       Sortez donc de mon cœur⁎,
@@ -2232,7 +2232,7 @@ Allons voir chez le Roy, Sinderic et Julie,
 Sçachons leurs differens, et voyons en ce jour
 Combattre la nature, et triompher l'amour.
 
-**** *book_ *id_body-604 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V04 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Grand Monarque, escoutez la voix de la nature.
@@ -2413,7 +2413,7 @@ Pardonne à Sinderic.
 -*who_theodoric
 Passez dedans la sale, et laissez nous icy.
 
-**** *book_ *id_body-605 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V05 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_theodoric
 Boece, leurs discours ne m'ont point esclaircy,
@@ -2447,7 +2447,7 @@ Et je sçay le moyen de convaincre Julie.
 Qu'on la fasse venir, vous verrez en ce point,
 Que les Rois sont des dieux que l'on n'abuse point.
 
-**** *book_ *id_body-606 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V06 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_theodoric
 Julie, il est certain qu'en cette procedure
@@ -2624,7 +2624,7 @@ Efforts⁎ de la nature, enfin je vous revere !
 O sang ! que tes liens doivent estre puissans,
 Puis que mal-gré nos vœux tu captives nos sens !
 
-**** *book_ *id_body-607 *act_ *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V07 *act_V *date_1641 *creator_guerin_de_bouscal
 
 -*who_sinderic
 Maxime, c'est assez, n'en parlons plus de grace,

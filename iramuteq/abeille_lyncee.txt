@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-201 *act_ *date_1681 *creator_abeille
+**** *book_ *id_I01 *act_I *date_1681 *creator_abeille
 
 -*who_iphis
 Non, Madame, ma mort ou celle de Lyncée,
@@ -176,7 +176,7 @@ Je n'examine point quels en sont les misteres ;
 Mais souffrez que demain si je n'en voy l'effet,
 Je me fasse raison du tort qu'on m'aura fait.
 
-**** *book_ *id_body-202 *act_ *date_1681 *creator_abeille
+**** *book_ *id_I02 *act_I *date_1681 *creator_abeille
 
 -*who_erigone
 Venez Dircé.
@@ -286,7 +286,7 @@ Il est triste, ses yeux accablez⁎ de langueur...
 Laisse moy penetrer le trouble de son coeur,
 Dircé retire toy.
 
-**** *book_ *id_body-203 *act_ *date_1681 *creator_abeille 
+**** *book_ *id_I03 *act_I *date_1681 *creator_abeille 
 
 -*who_erigone
       Quel funeste nuage,
@@ -398,7 +398,7 @@ Tristes parens prenez ces victimes sanglantes,
 Mais si l'amour encore est connu parmy vous,
 Souffrez qu'il en derobe une seule à mes coups.
 
-**** *book_ *id_body-301 *act_ *date_1681 *creator_abeille
+**** *book_ *id_II01 *act_II *date_1681 *creator_abeille
 
 -*who_lyncee
 Madame est il donc vray qu'apres tant de miseres,
@@ -513,7 +513,7 @@ Nos plaisirs eternels ainsy que nostre amour.
 -*who_hipermestre
 Prince voicy le Roy.
 
-**** *book_ *id_body-302 *act_ *date_1681 *creator_abeille 
+**** *book_ *id_II02 *act_II *date_1681 *creator_abeille 
 
 -*who_danaus
       Je trouble vostre Joye,
@@ -542,7 +542,7 @@ Souffrez pour un moment qu'un Rival nous separe .
 Allez Prince, l'amour ne sera point jaloux,
 Des droits que l'amitié peut exiger de vous.
 
-**** *book_ *id_body-303 *act_ *date_1681 *creator_abeille
+**** *book_ *id_II03 *act_II *date_1681 *creator_abeille
 
 -*who_danaus
 Ma fille je connois l'ardeur de vostre flâme,
@@ -773,7 +773,7 @@ Non je n'ay plus de main pour attaquer sa vie.
 Eh bien vostre pitié n'ose me secourir,
 Cruelle , poursuivez, et me laissez mourir.
 
-**** *book_ *id_body-304 *act_ *date_1681 *creator_abeille
+**** *book_ *id_II04 *act_II *date_1681 *creator_abeille
 
 -*who_hipermestre
 Mourir , dit il , et moy denaturée , Impie,
@@ -797,7 +797,7 @@ Du Pere pour l'époux , de l'époux pour le Pere ?
 Juste Ciel qui semblez encourager mes voeux,
 Montrez moy les moyens de les sauver tous deux.
 
-**** *book_ *id_body-401 *act_ *date_1681 *creator_abeille
+**** *book_ *id_III01 *act_III *date_1681 *creator_abeille
 
 -*who_erigone
 Dircé , que Danaus me fait souffrir de peine !
@@ -831,7 +831,7 @@ Pour peindre des amans les douloureux combats,
 Il faut un coeur bien tendre et le tien ne l'est pas .
 Eh quoy ! toûjours Iphis !
 
-**** *book_ *id_body-402 *act_ *date_1681 *creator_abeille 
+**** *book_ *id_III02 *act_III *date_1681 *creator_abeille 
 
 -*who_iphis
       Mon coeur s'ouvre à la joye,
@@ -868,7 +868,7 @@ Mais que vostre recit m'epargne de soucis ;
 Vous estes trop heureux c'est assez vous en dire,
 Et jusques à demain ce mot vous doit suffire.
 
-**** *book_ *id_body-403 *act_ *date_1681 *creator_abeille 
+**** *book_ *id_III03 *act_III *date_1681 *creator_abeille 
 
 -*who_danaus
 Qu'on nous laisse. Madame admirez mon bonheur,
@@ -916,7 +916,7 @@ Et sans vous mes perils m'epouvanteroient moins .
 Adieu ; je vay donner le peu de temps qui reste,
 Aux derniers apareils⁎ de cet hymen funeste.
 
-**** *book_ *id_body-404 *act_ *date_1681 *creator_abeille
+**** *book_ *id_III04 *act_III *date_1681 *creator_abeille
 
 -*who_erigone
 Trop cruelle Hipermestre à quoy te resous tu ?
@@ -937,7 +937,7 @@ Que Danaus objet d'une commune hayne,
 Nous verra…Vien Dircé vien me tirer de ma peine,
 Qu'a t'il dit ?
 
-**** *book_ *id_body-405 *act_ *date_1681 *creator_abeille 
+**** *book_ *id_III05 *act_III *date_1681 *creator_abeille 
 
 -*who_dirce
       Ah Madame il marche sur mes pas,
@@ -964,7 +964,7 @@ Je te l'avois bien dit. L'espoir que je concois,
 Eut donné plus de grace et de force à ma voix .
 Le voicy.
 
-**** *book_ *id_body-406 *act_ *date_1681 *creator_abeille
+**** *book_ *id_III06 *act_III *date_1681 *creator_abeille
 
 -*who_lyncee
       C'est donc vous à qui le Ciel m'adresse,
@@ -1114,7 +1114,7 @@ Tu mourras , c'est ainsy , Barbare⁎, que je t'ayme .
 Mais de quelque fureur que mon coeur soit armé,
 Il n'a tenu qu'à toy d'estre autrement aymé.
 
-**** *book_ *id_body-407 *act_ *date_1681 *creator_abeille
+**** *book_ *id_III07 *act_III *date_1681 *creator_abeille
 
 -*who_hipermestre
 Eh quoy vous me fuyez Lyncée ?
@@ -1275,7 +1275,7 @@ De peu de jours au Roy vous manquez de parole,
 Vous promettiez ma mort à ses soupçons jaloux .
 Adieu. Bientost le bruit en viendra jusqu'à vous.
 
-**** *book_ *id_body-501 *act_ *date_1681 *creator_abeille
+**** *book_ *id_IV01 *act_IV *date_1681 *creator_abeille
 
 -*who_danaus
 Faites venir ma fille ; entrons: c'est trop attendre .
@@ -1314,7 +1314,7 @@ Attandez tout Seigneur de ma recognoissance.
 Voyons ma fille et loin d'un objet plein d'effroy,
 Detournons ses regards... Mais elle vient à moy .
 
-**** *book_ *id_body-502 *act_ *date_1681 *creator_abeille
+**** *book_ *id_IV02 *act_IV *date_1681 *creator_abeille
 
 -*who_danaus
 Ma fille c'en est fait je voy sur ton visage,
@@ -1446,7 +1446,7 @@ Venir sur mon tombeau couronner ton amant !
 Mais je sçauray briser vos noeuds illegitimes,
 Tu m'as trahy, c'est là le dernier de tes crimes.
 
-**** *book_ *id_body-503 *act_ *date_1681 *creator_abeille
+**** *book_ *id_IV03 *act_IV *date_1681 *creator_abeille
 
 -*who_iphis
 Tout est calme Seigneur, les chefs sont arrestez
@@ -1544,7 +1544,7 @@ Iphis laissez moy seul... Je veux voir Erigone :
 Vous sçavez , si mon coeur vous fut jamais connu,
 Qu'il n'est en sa faveur que trop bien prevenu⁎.
 
-**** *book_ *id_body-504 *act_ *date_1681 *creator_abeille
+**** *book_ *id_IV04 *act_IV *date_1681 *creator_abeille
 
 -*who_danaus
 O vous , par mes hauts faits si long temps soutenuës,
@@ -1588,7 +1588,7 @@ Etouffons pour jamais leur insolent murmure,
 Je ne veux plus chez moy de Tyrans absolus,
 J'etois amant et Pere et je ne le suis plus.    
 
-**** *book_ *id_body-505 *act_ *date_1681 *creator_abeille
+**** *book_ *id_IV05 *act_IV *date_1681 *creator_abeille
 
 -*who_danaus
 Venez, venez pleurer nos communes disgraces,
@@ -1673,7 +1673,7 @@ Ay je si fierement attaqué sa confiance,
 Mes soupçons estoient ils assez bien asseurez ?
 Suivons ses pas, allons…
 
-**** *book_ *id_body-506 *act_ *date_1681 *creator_abeille
+**** *book_ *id_IV06 *act_IV *date_1681 *creator_abeille
 
 -*who_lycaste
       Ah Seigneur accourez,
@@ -1697,7 +1697,7 @@ Ils ont cedé. Destins , achevez vos ouvrages,
 Et puisque vainement je m'oppose à vos coups,
 Frapez de tous costez je m'abandonne à vous.
 
-**** *book_ *id_body-601 *act_ *date_1681 *creator_abeille
+**** *book_ *id_V01 *act_V *date_1681 *creator_abeille
 
 -*who_erigone
 Non , si de mon tyran la teste est menacée,
@@ -1802,7 +1802,7 @@ Pour vanger mes parens, pour sauver une mere,
 Infortuné vangeur, amant desesperé,
 Triste vertu c'est vous que je sacrifieray.
 
-**** *book_ *id_body-602 *act_ *date_1681 *creator_abeille 
+**** *book_ *id_V02 *act_V *date_1681 *creator_abeille 
 
 -*who_erigone
 Il menace je croy. N'importe, qu'il acheve,
@@ -1815,7 +1815,7 @@ Aux yeux de ses amans la trainer dans Argos,
 Et là par ses perils asseurer mon repos .
 Helas !Il n'est plus temps.
 
-**** *book_ *id_body-603 *act_ *date_1681 *creator_abeille
+**** *book_ *id_V03 *act_V *date_1681 *creator_abeille
 
 -*who_erigone
       Quoy la ville est en flame,
@@ -1865,7 +1865,7 @@ Seigneur , que je vous suive et que je vous deffende.    
 -*who_danaus
 Demeurez.
 
-**** *book_ *id_body-604 *act_ *date_1681 *creator_abeille
+**** *book_ *id_V04 *act_V *date_1681 *creator_abeille
 
 -*who_hipermestre
       Et c'est moy que l'assassin demande,
@@ -1929,7 +1929,7 @@ Apres luy , vous et moy ne pensons plus à vivre,
 Ajoustons cet exemple à l'horreur de ce jour,
 Moy de mon repentir et vous de vostre amour.
 
-**** *book_ *id_body-605 *act_ *date_1681 *creator_abeille
+**** *book_ *id_V05 *act_V *date_1681 *creator_abeille
 
 -*who_lycaste
 Ah Princesses fuyez ! il n'est plus d'esperance,
@@ -2014,7 +2014,7 @@ Dircé , je voy Lyncée , ostons nous de sa veue .
 -*who_hipermestre
 Suivez ses pas Lycaste
 
-**** *book_ *id_body-606 *act_ *date_1681 *creator_abeille
+**** *book_ *id_V06 *act_V *date_1681 *creator_abeille
 
 -*who_hipermestre
       O Lumiere impreveuë,

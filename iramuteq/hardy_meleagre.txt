@@ -11,7 +11,7 @@ La chasse faite, le pris de vaillance⁎ d'une commune voix s'adjuge, & se porte
 La Vierge en fait sa plainte au Roy, qui sur le refus d'une promte restitution tüe ses oncles, épousant Atalante.
 Ce meurtre offense tellement Altée mere du Roy, qu'elle conspire la mort de son fils, & par le moyen du tison fatal, auquel estoit attaché le destin de la vie de Meleagre, effectuë sa mauvaise volonté, ce qui finit la Tragedie.
 
-**** *book_ *id_body-3 *date_1624 *creator_hardy
+**** *book_ *id_I *date_1624 *creator_hardy
 
 -*who_meleagre
 Fille de Jupiter, Déesse trois fois grande,
@@ -265,7 +265,7 @@ Ne faudrez de donner l'adresse souhaitée,
 Quiconque plus expert fera mieux son devoir,
 Un salaire Royal certain de recevoir.
 
-**** *book_ *id_body-401 *act_ *date_1624 *creator_hardy
+**** *book_ *id_II01 *act_II *date_1624 *creator_hardy
 
 -*who_atalante
 Compagnes, n'estimez qu'où la gloire convie,
@@ -379,7 +379,7 @@ Qu'ores⁎ de⁎ son salut quelque soucy te tienne,
 Conserve-là, Déesse, & franche⁎ de méchef⁎,
 Nos saints vœux exaucez luy couronne le chef⁎.
 
-**** *book_ *id_body-402 *act_ *date_1624 *creator_hardy
+**** *book_ *id_II02 *act_II *date_1624 *creator_hardy
 
 -*who_thesee
 Venus à ton secours, juge si telle bande,
@@ -421,7 +421,7 @@ Qu'un brutal adversaire en trahison te nuit ;
 Or⁎ me feray-je fort sa retraite conneuë,
 De luy clôre les yeux d'une éternelle nuë,
 Ton labeur épargné brave Cecropien,
-Le chef d'œuvre second du pere olimpien,
+Le chef d'œuvre second du pere olimpien, 
 
 -*who_lyncee
 Pourveu que seurement conduit dessur⁎ ses erres⁎,
@@ -585,7 +585,7 @@ Une sainte justice à cela vous convie :
 Or⁎ allons sur les lieux du combat disposer,
 Et nos hommes selon l'occurrence poser.
 
-**** *book_ *id_body-501 *act_ *date_1624 *creator_hardy
+**** *book_ *id_III01 *act_III *date_1624 *creator_hardy
 
 -*who_chŒur_de_peuple
 ESPANCHONS⁎ à ce coup, le sein moüillé de larmes,
@@ -615,7 +615,7 @@ Une premiere gloire entre les immortels.
 De riches jeux de prix, celebrez chaque année,
 Jusqu'à la fin du monde honorent ce bien-fait,
 Mais quelqu'un survenu sçait notre destinée,
-Bonne ou mauvaise, ainsy que la chasse aura fait.
+Bonne ou mauvaise, ainsy que la chasse aura fait. 
 
 -*who_messager
 Citoyens, qu'on éleve un long io⁎ de joye,
@@ -721,7 +721,7 @@ Perpetuast chez nous une suite germée
 De Princes valeureux, qui de leurs devanciers,
 Fussent au sçeptre autant qu'en vertus heritiers.
 
-**** *book_ *id_body-502 *act_ *date_1624 *creator_hardy
+**** *book_ *id_III02 *act_III *date_1624 *creator_hardy
 
 -*who_meleagre
 Apres ce haut exploit, Martiale assemblée,
@@ -885,7 +885,7 @@ Mercure député de si bonnes nouvelles.
 Nous, l'hommage rendu que desirent les Cieux,
 Du festin, passerons au repos gracieux.
 
-**** *book_ *id_body-601 *act_ *date_1624 *creator_hardy
+**** *book_ *id_IV01 *act_IV *date_1624 *creator_hardy
 
 -*who_plexippe
 Tel affront enduré mon frere, nous ne sommes,
@@ -1002,7 +1002,7 @@ Possible⁎ à la raison docile d'elle même,
 Qu'outre l'espoir conçeu la chose reüssit,
 Chemin qui moins fâcheux nos rigueurs acourcit.
 
-**** *book_ *id_body-602 *act_ *date_1624 *creator_hardy
+**** *book_ *id_IV02 *act_IV *date_1624 *creator_hardy 
 
 -*who_chŒur_de_filles
 Vous semez les œillets, l'amarante, & les roses,
@@ -1154,7 +1154,7 @@ Que de sçavoir méler les prieres aux larmes.
 Cela sufit, alons comme pleine d'effroy,
 De ce pas, nous jeter ensemble aux piez du Roy.
 
-**** *book_ *id_body-603 *act_ *date_1624 *creator_hardy
+**** *book_ *id_IV03 *act_IV *date_1624 *creator_hardy 
 
 -*who_meleagre
 Beau pourtrait, imprimé dans mon cœur, qui respire,
@@ -1360,7 +1360,7 @@ Tu ne voudrois meurtrir un Roy qui te reclame.
 Jaçoit que tel honeur passe ma qualité⁎,
 Son refus sentiroit une brutalité,
 Trop heureuse, le Ciel du tout⁎, en tout propice⁎,
-Si notre chaste hymen eut pris meilleur auspice.
+Si notre chaste hymen eut pris meilleur auspice. 
 
 -*who_meleagre
 Un acte de justice à ce commencement,
@@ -1370,7 +1370,7 @@ N'aura que du cercüeil sa liesse⁎ bornée,
 Alons, ma Reyne, alons, hâter ce doux effet,
 Qui la sainte union de nos moitiez parfait⁎.
 
-**** *book_ *id_body-701 *act_ *date_1624 *creator_hardy
+**** *book_ *id_V01 *act_V *date_1624 *creator_hardy
 
 -*who_altee
 Implacables fureurs, que redoute l'Averne,
@@ -1410,7 +1410,7 @@ Ma vindicte⁎, à l'effet du dessein qu'elle pense.
 
 -*who_nourice
 Enfant, & Roy, bons Dieux ! perdez le souvenir,
-De ce qui ne peut plus aussy bien n'avenir⁎.
+De ce qui ne peut plus aussy bien n'avenir⁎. 
 
 -*who_altee
 N'exiger du forfait un suplice capable,
@@ -1446,7 +1446,7 @@ Un beau pair n'acoupla qui fut plus vertueux.
 
 -*who_altee
 Tu leur seras en fin partisane commune,
-Et fautrice du coup qui cause ma rancune.
+Et fautrice du coup qui cause ma rancune. 
 
 -*who_nourice
 Vos germains⁎ agresseurs précipitent leur mort,
@@ -1502,7 +1502,7 @@ Ainsy puisse perir, que le feu te devore,
 L'homicide⁎ inhumain, l'abominable chef,
 Qui par sa cruauté s'attire ce méchef⁎.
 
-**** *book_ *id_body-702 *act_ *date_1624 *creator_hardy
+**** *book_ *id_V02 *act_V *date_1624 *creator_hardy
 
 -*who_meleagre
 T'amuses-tu ma vie à ruminer craintive,
@@ -1572,7 +1572,7 @@ Que ton ire⁎ sur moy victime se transporte,
 Que mon époux sauvé, tu ne m'épargnes pas,
 A l'effroyable horreur du plus cruel trépas.
 
-**** *book_ *id_body-703 *act_ *date_1624 *creator_hardy
+**** *book_ *id_V03 *act_V *date_1624 *creator_hardy 
 
 -*who_altee
 Le marchand qui malgré les orages, arrive,

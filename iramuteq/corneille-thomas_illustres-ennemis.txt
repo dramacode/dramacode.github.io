@@ -48,7 +48,7 @@ Registré sur le Livre de la Communauté le 15 Avril 1656,
 
 Suivant l'Arrest du Parlement du 9 Avril 1653.
 
-**** *book_ *id_body-401 *act_ *date_1657 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1657 *creator_corneille
 
 -*who_alonse
 Quoy, sans aucun respect, pour un leger outrage
@@ -188,7 +188,7 @@ Sur tes propres conseils j'appuyeray son amour.
 Feignant de t'applaudir, j'empescheray peut-estre...
 Mais je voy Blanche.
 
-**** *book_ *id_body-402 *act_ *date_1657 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1657 *creator_corneille
 
 -*who_alonse
       Et bien, Blanche, que fait ton maistre ?
@@ -200,7 +200,7 @@ Tout à l'heure...
 -*who_alonse
       Il suffit, je le verray tantost.
 
-**** *book_ *id_body-403 *act_ *date_1657 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1657 *creator_corneille
 
 -*who_jacinte
 Qui parloit avec vous, Blanche ?
@@ -288,7 +288,7 @@ Mon coeur, ce triste coeur n'est plus digne de luy,
 Pour m'aimer dans la honte il aime trop la gloire⁎,
 Et l'affront...mais que vois-je ! ô Dieux ! le puis-je croire ?
 
-**** *book_ *id_body-404 *act_ *date_1657 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1657 *creator_corneille
 
 -*who_jacinte
 Quoy D. Lope, est-ce vous dont l'abord indiscret,
@@ -430,7 +430,7 @@ Alonse et vostre pere...
 Entrons icy de grace⁎, et sur tout gardez bien
 Que de cette entreveuë on ne soupçonne rien.
 
-**** *book_ *id_body-405 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_I05 *act_I *date_1657 *creator_corneille 
 
 -*who_dsanche
 Quel funeste conseil vous voulez que j'embrasse⁎ !
@@ -522,7 +522,7 @@ Je veux ⁎que leur adveu⁎ réponde à vostre attente ;
 Mais qui m'asseurera que ma fille y consente,
 Que son esprit soûmis cede sans resister ?
 
-**** *book_ *id_body-406 *act_ *date_1657 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1657 *creator_corneille
 
 -*who_jacinte
 Moy-mesme, puisqu'enfin vous en pouvez douter.
@@ -578,7 +578,7 @@ Ne perdez point de temps.
       Allons voir nos amis,
 Et sçachons quel accord me peut estre permis.
 
-**** *book_ *id_body-407 *act_ *date_1657 *creator_corneille
+**** *book_ *id_I07 *act_I *date_1657 *creator_corneille
 
 -*who_jacinte
 Prenez ce temps, D. Lope, et de peur qu'on me blâme,
@@ -689,7 +689,7 @@ Que mon Rival...
 Rigoureuse vertu que l'on doit admirer !
 Helas ! à quels tourmens me viens-tu preparer !
 
-**** *book_ *id_body-501 *act_ *date_1657 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1657 *creator_corneille
 
 -*who_dlope
 C'estoit peu que toûjours son devoir trop fidelle
@@ -809,7 +809,7 @@ Mais Dieux, vois-je Jacinte, ou si⁎ mon oeil s'abuse ?
 -*who_cassandre
 Les differens sont doux qui font naistre une excuse.
 
-**** *book_ *id_body-502 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_II02 *act_II *date_1657 *creator_corneille 
 
 -*who_dlope
 Madame, quel dessein⁎ en ce lieu vous conduit ?
@@ -979,7 +979,7 @@ Et qu'à quoy que pour vous le respect me convie,
 Son bonheur est mal seur s'il me laisse la vie.
 Adieu.
 
-**** *book_ *id_body-503 *act_ *date_1657 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1657 *creator_corneille
 
 -*who_cassandre
       C'est vous servir avec trop de rigueur
@@ -1112,7 +1112,7 @@ Ma flame...
       La douleur luy suffoque la voix,
 Flore vient de sortir, quel conseil⁎ dois-je prendre ?
 
-**** *book_ *id_body-504 *act_ *date_1657 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1657 *creator_corneille
 
 -*who_jacinte
 Flore, et viste.
@@ -1156,7 +1156,7 @@ Mais le voicy luy-mesme, il entre.
       Ah, justes Dieux !
 C'est mon frere.
 
-**** *book_ *id_body-505 *act_ *date_1657 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1657 *creator_corneille
 
 -*who_dalvar
       Ah, ma soeur, qui vous met en ces lieux ?
@@ -1314,7 +1314,7 @@ Mon espoir estant mort je ne veux point revivre.
 Adieu, vous seule icy me pouvez secourir,
 Touchez pour moy Cassandre, ou me laissez mourir.
 
-**** *book_ *id_body-601 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1657 *creator_corneille
 
 -*who_d._ramire
 Enfin instruit d'un nom que vous brûliez d'apprendre,
@@ -1417,7 +1417,7 @@ Sur un affront receu, pressez-le de venir.
 Et bien, sans perdre temps, allons chez moy l'écrire,
 Ce billet...
 
-**** *book_ *id_body-602 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_III02 *act_III *date_1657 *creator_corneille 
 
 -*who_dsanche
       Ah ! ma fille, à la fin je respire,
@@ -1434,7 +1434,7 @@ Le Ciel m'offre un moyen d'asseurer mon honneur,
 Il m'est plus glorieux, et pour toy moins funeste,
 Adieu, le temps sçaura te découvrir le reste.
 
-**** *book_ *id_body-603 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1657 *creator_corneille
 
 -*who_jacinte
 Que veut-il dire, Blanche, et que m'imaginer
@@ -1471,7 +1471,7 @@ Par ce qu'il vous a dit, il vous l'a fait cognoistre⁎.
 Que n'est-ce un faux soupçon que l'amour fasse naistre ?
 Mais Cassandre paroit, et s'advance vers nous.
 
-**** *book_ *id_body-604 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_III04 *act_III *date_1657 *creator_corneille 
 
 -*who_jacinte
 Et bien, qu'a sçeu D. Lope, et que m'apprendrez-vous ?
@@ -1514,7 +1514,7 @@ Je n'auray pas de peine à faire qu'il s'explique.
 Allez donc, les effets nous ont souvent fait voir
 Qu'un secret sçeu trop tard ruïne un bel espoir.
 
-**** *book_ *id_body-605 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1657 *creator_corneille
 
 -*who_cassandre
 Ainsi tout se prepare au bonheur de mon frere.
@@ -1548,7 +1548,7 @@ Que je romps...
 -*who_cassandre
 Non, Flore, éloignons-nous, je ne veux point le voir.
 
-**** *book_ *id_body-606 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1657 *creator_corneille
 
 -*who_dalvar
 Me fuyez-vous, Madame, et portez-vous envie
@@ -1757,7 +1757,7 @@ Et plustost que...
       O disgrace impréveuë !
 Empeschez qu'on me suive, ou bien je suis perduë.
 
-**** *book_ *id_body-607 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_III07 *act_III *date_1657 *creator_corneille 
 
 -*who_enrique
 Ne vois-je pas ma soeur ? elle me fuit en vain
@@ -1803,7 +1803,7 @@ Encor si nous pouvions trouver quelque secours⁎.
 Nous ne les voyons plus, ils s'éloignent toûjours,
 Mais D. Lope…
 
-**** *book_ *id_body-608 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III08 *act_III *date_1657 *creator_corneille
 
 -*who_dlope
       Ah, ma soeur, la funeste nouvelle !
@@ -1829,7 +1829,7 @@ D'un effroy si subit vient de saisir mon coeur...
 Je l'entens⁎ en effet, éloignez-vous, ma soeur.
 Je verray ce que c'est.
 
-**** *book_ *id_body-609 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_III09 *act_III *date_1657 *creator_corneille 
 
 -*who_braves
       Ta mort suivra la sienne.
@@ -1894,7 +1894,7 @@ Mais sans doute on vous cherche.
 -*who_dalvar
       O malheur redoutable !
 
-**** *book_ *id_body-610 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III10 *act_III *date_1657 *creator_corneille
 
 -*who_d._louis
 Voyez nos soins⁎, D. Lope, à trouver un coupable,
@@ -1919,7 +1919,7 @@ On l'a veu reculer les armes à la main.
 Par vostre diligence empeschez son dessein⁎,
 Je vay pourvoir au reste.
 
-**** *book_ *id_body-611 *act_ *date_1657 *creator_corneille
+**** *book_ *id_III11 *act_III *date_1657 *creator_corneille
 
 -*who_dalvar
       Et vous devant la vie,
@@ -2092,7 +2092,7 @@ Il faudra lors combattre.
 -*who_dalvar
       Et bien nous combattrons.
 
-**** *book_ *id_body-701 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1657 *creator_corneille
 
 -*who_alonse
 Je l'avois bien préveu, que tant de violence
@@ -2225,7 +2225,7 @@ Mais si dans sa clarté la Lune m'est fidelle,
 Je voy cet incognû contre qui j'ay querelle,
 C'est luy-mesme, parlons, puisqu'il s'ose approcher.
 
-**** *book_ *id_body-702 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_IV02 *act_IV *date_1657 *creator_corneille 
 
 -*who_dlope
 Me recognoissez-vous ?
@@ -2337,7 +2337,7 @@ D'un amy si parfait j'embrasse⁎ les genoux.
 Rendrois-je un moindre hommage à qui je dois la vie ?
       Mais on veut vous parler, ou bien l'on nous épie.
 
-**** *book_ *id_body-703 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1657 *creator_corneille
 
 -*who_dlope
 Ah ! Blanche.
@@ -2375,7 +2375,7 @@ C'est ce qu'on veut m'apprendre ?
 -*who_dlope
 C'est assez, je te suy, va m'attendre à la porte.
 
-**** *book_ *id_body-704 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1657 *creator_corneille
 
 -*who_dlope
 Voyez que l'amitié se croit beaucoup permis.
@@ -2473,7 +2473,7 @@ Ne songeons maintenant qu'à ce qui vous importe.
 Nous n'irons pas bien loin, voyez d'icy la porte,
 J'y dois estre attendu.
 
-**** *book_ *id_body-705 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1657 *creator_corneille
 
 -*who_dlope
       Blanche.
@@ -2524,7 +2524,7 @@ Mais Dieux ! n'entens⁎-je pas une porte qui s'ouvre ?
 La lumiere paroist, enfin tout est perdu,
 Que feray-je ?
 
-**** *book_ *id_body-706 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1657 *creator_corneille
 
 -*who_dsanche
       Un bruit⁎ sourd vers la porte entendu⁎,
@@ -2623,7 +2623,7 @@ Si j'ay bien entendu⁎ d'un et d'autre costé
 Une porte au besoin⁎ le met en seureté.
 Puisqu'il peut s'échapper, quel obstacle l'arreste ?
 
-**** *book_ *id_body-707 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV07 *act_IV *date_1657 *creator_corneille
 
 -*who_dlope
 Amy, nostre vieillard m'oblige⁎ à la retraite,
@@ -2652,7 +2652,7 @@ Sortez viste.
 -*who_dalvar
       Demain je vous diray le reste.
 
-**** *book_ *id_body-708 *act_ *date_1657 *creator_corneille
+**** *book_ *id_IV08 *act_IV *date_1657 *creator_corneille
 
 -*who_jacinte
 Quoy, sans sçavoir pourquoy je dois tant me haster ?
@@ -2841,7 +2841,7 @@ Que peut-estre déjà l'on a vangé ton pere.
 Vien, suy-moy, quelques maux que je puisse prévoir,
 Mon plus grand déplaisir⁎ se console à te voir.
 
-**** *book_ *id_body-801 *act_ *date_1657 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1657 *creator_corneille
 
 -*who_dlope
 C'estoit pour m'en donner la funeste nouvelle
@@ -2935,7 +2935,7 @@ Que...
 -*who_cassandre
       Vous ne voyez pas Jacinte qui s'approche.
 
-**** *book_ *id_body-802 *act_ *date_1657 *creator_corneille 
+**** *book_ *id_V02 *act_V *date_1657 *creator_corneille 
 
 -*who_dlope
 Apres le dur revers qui détruit mon espoir,
@@ -3032,7 +3032,7 @@ Doutez-vous de mon coeur ?
 Et quoy qu'icy pour nous tout soit à redouter,
 Sçachons leurs sentimens avant que d'éclatter.
 
-**** *book_ *id_body-803 *act_ *date_1657 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1657 *creator_corneille
 
 -*who_dalvar
 Je me rendray suspect sans doute de foiblesse
@@ -3223,7 +3223,7 @@ Avec mesme secret brûlent des mesmes flames.
 Mesme objet asservit et l'un et l'autre coeur,
 Si vous aimez ma soeur, j'adore vostre soeur...
 
-**** *book_ *id_body-804 *act_ *date_1657 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1657 *creator_corneille
 
 -*who_cassandre
 Et bien, cruel amant, decouvre mes foiblesses,
@@ -3302,7 +3302,7 @@ Que je le sçache ou non, je cognoy mon devoir,
 Et si par moy quelqu'un avoit dû le sçavoir...
 Mais, ô Dieu, c'est icy que l'espoir et la crainte...
 
-**** *book_ *id_body-805 *act_ *date_1657 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1657 *creator_corneille
 
 -*who_dsanche
 Ah ! mon fils.
@@ -3412,7 +3412,7 @@ Je sçay ce qu'elle a fait contre D. Lope mesme,
 Et pour ce grand effort le moins que je luy dois,
 C'est d'oublier sa faute et d'approuver son choix.
 
-**** *book_ *id_body-806 *act_ *date_1657 *creator_corneille
+**** *book_ *id_V06 *act_V *date_1657 *creator_corneille
 
 -*who_jacinte
 Puisque par le succez cette faute s'efface,

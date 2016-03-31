@@ -23,7 +23,7 @@ Le tres humble, tres obeissant & tres-
 
 passionné serviteur, BOYER.
 
-**** *book_ *id_body-301 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I01 *act_I *date_1650 *creator_boyer
 
 -*who_eole
 Enfans tumultueux des vapeurs de la terre,
@@ -50,7 +50,7 @@ Toy qu'un coup de tempeste a poussé dans cette isle
 Et qui dans ce rocher cherches en vain azile,
 Sors, Perimede, sors.
 
-**** *book_ *id_body-302 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_I02 *act_I *date_1650 *creator_boyer 
 
 -*who_perimede
       Que voulez-vous grand Roy ?
@@ -87,7 +87,7 @@ Aeole doit ces soins⁎ à la gloire d'Ulisse ;
 A Penelope… il vient. Acheve ton employ.
 Zephir demeure icy. Vous autres suivez moy.
 
-**** *book_ *id_body-303 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I03 *act_I *date_1650 *creator_boyer
 
 -*who_ulisse
 Vostre Reyne aujourd'huy se fait beaucoup attendre ;
@@ -101,7 +101,7 @@ Qu'on ne voit plus troubler l'égalité de l'eau,
 Que par quelques Zephirs, dont les foibles haleines
 Prestent un air tranquille au doux chant des Syrenes.
 
-**** *book_ *id_body-304 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I04 *act_I *date_1650 *creator_boyer
 
 -*who_ulisse
 Hé bien, cher compagnon de tant de maux⁎ soufferts
@@ -273,7 +273,7 @@ Desordre⁎, desespoirs, invincibles allarmes,
 Ramassez dans mon sein toute vostre rigueur,
 Et cachez à ses yeux le tourment de mon cœur.
 
-**** *book_ *id_body-305 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I05 *act_I *date_1650 *creator_boyer
 
 -*who_circe
 Je l'advouë aujourd'huy, vous m'avez attenduë,
@@ -306,7 +306,7 @@ Mon oreille aura moins de plaisir que mes yeux.
 -*who_circe
 Allons.
 
-**** *book_ *id_body-306 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I06 *act_I *date_1650 *creator_boyer
 
 -*who_euriloche
       Ils sont partis ; approche Perimede.
@@ -392,7 +392,7 @@ Circé prendra le soin de retenir Ulisse :
 Et si contre sa force il ose resister,
 Je sçay par quels liens je doy vous arrester.
 
-**** *book_ *id_body-307 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_I07 *act_I *date_1650 *creator_boyer 
 
 -*who_euriloche
 Cognoy mieux, Euriloche, et quitte la pensee
@@ -526,7 +526,7 @@ Que je puisse jouyr d'un si rare plaisir.
 -*who_euriloche
 Approchons, je veux bien contenter ton desir.
 
-**** *book_ *id_body-308 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I08 *act_I *date_1650 *creator_boyer
 
 Chanson.
 Amour qui ne te plais qu'à nous faire la guerre,
@@ -542,7 +542,7 @@ Et punis leur orgueil de nous avoir charmees⁎
 Du mal que nous souffrons d'aimer,
 Et de n'estre jamais aymees.
 
-**** *book_ *id_body-309 *act_ *date_1650 *creator_boyer
+**** *book_ *id_I09 *act_I *date_1650 *creator_boyer
 
 -*who_perimede
 Que mes sens sont ravis, Seigneur, que de merveilles !
@@ -580,7 +580,7 @@ Que si cet attentat peut offenser ma gloire,
 Attentif à la voix d'un si superbe⁎ espoir,
 Je rejette, et je fuis celle de mon devoir.
 
-**** *book_ *id_body-401 *act_ *date_1650 *creator_boyer
+**** *book_ *id_II01 *act_II *date_1650 *creator_boyer
 
 -*who_elpenor
 Quand flatté⁎ d'un bonheur qui passe⁎ mon attente,
@@ -750,7 +750,7 @@ Donne au peu que je vaux toute sa dignité,
 Et jette sur mes jours tant de gloire et d'estime
 Que l'orgueil que j'en prends devient trop legitime.
 
-**** *book_ *id_body-402 *act_ *date_1650 *creator_boyer
+**** *book_ *id_II02 *act_II *date_1650 *creator_boyer
 
 -*who_euriloche
 Pardonnez si je romps un entretien si doux,
@@ -877,7 +877,7 @@ Souffrez⁎…
 -*who_elpenor
       Dieux ! quelle violence ?
 
-**** *book_ *id_body-403 *act_ *date_1650 *creator_boyer
+**** *book_ *id_II03 *act_II *date_1650 *creator_boyer
 
 -*who_euriloche
 J'ose vous assurer de son obeissance.
@@ -892,7 +892,7 @@ Tu verras, insolent, dans ta punition
 Que la plus temeraire et la plus fiere audace
 Doit trembler au courroux de celles de ma race.
 
-**** *book_ *id_body-404 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_II04 *act_II *date_1650 *creator_boyer 
 
 -*who_euriloche
 Qu'ay-je fait imprudent ! où me suis-je emporté ?
@@ -922,7 +922,7 @@ Vous ne serez qu'à moy maistresse⁎, diadème ;
 Mais je voy Leucosie, il la faut aborder,
 Son amour abusée⁎ pourra me seconder.
 
-**** *book_ *id_body-405 *act_ *date_1650 *creator_boyer
+**** *book_ *id_II05 *act_II *date_1650 *creator_boyer
 
 -*who_leucosie
 Prince par cet abord par ce front plein de joye
@@ -1130,7 +1130,7 @@ Je suis preste pour vous…
       Princesse c'est assez,
 Et vous faites pour moy plus que vous ne pensez.
 
-**** *book_ *id_body-406 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_II06 *act_II *date_1650 *creator_boyer 
 
 -*who_circe
 Foible et dernier secours, que mon amour lassée⁎
@@ -1186,7 +1186,7 @@ Dans l'esprit des mortels jettez mille mensonges.
 Je le vois, approchons. A quoy me reduis-tu
 Amour qui vas trahir ma gloire et ma vertu⁎ ?
 
-**** *book_ *id_body-407 *act_ *date_1650 *creator_boyer
+**** *book_ *id_II07 *act_II *date_1650 *creator_boyer
 
 -*who_circe
 Arbitre du repos, Dieu maistre du silence,
@@ -1228,7 +1228,7 @@ Puissent tous les mortels joüir de tes douceurs.
 Qu'aucun bruit ne te trouble, et qu'à jamais mon pere
 De ton antre sacré recule sa lumiere.
 
-**** *book_ *id_body-501 *act_ *date_1650 *creator_boyer
+**** *book_ *id_III01 *act_III *date_1650 *creator_boyer
 
 -*who_circe
 Que faites-vous, Ulisse ?
@@ -1375,7 +1375,7 @@ Terminer vostre absence et voir vostre retour.
 Apres ces grands efforts⁎ d'amour et de puissance
 Osez tout esperer de ma recognoissance.
 
-**** *book_ *id_body-502 *act_ *date_1650 *creator_boyer
+**** *book_ *id_III02 *act_III *date_1650 *creator_boyer
 
 -*who_euriloche
 Quelle bizare humeur vous possede aujourd'huy ?
@@ -1524,7 +1524,7 @@ Cependant⁎ pour tascher d'appaiser la Princesse
 Embrassez⁎ Elpenor, Circé fera la paix.
 Adieu.
 
-**** *book_ *id_body-503 *act_ *date_1650 *creator_boyer
+**** *book_ *id_III03 *act_III *date_1650 *creator_boyer
 
 -*who_euriloche
       Va, si le Ciel respond à mes souhaits
@@ -1537,7 +1537,7 @@ Je dois prez d'Elpenor passer pour Phaëtuse ;
 Mais ce coup estonnant⁎ est hors de son pouvoir ;
 Il vient, le dois-je attendre ? esvitons de le voir.
 
-**** *book_ *id_body-504 *act_ *date_1650 *creator_boyer
+**** *book_ *id_III04 *act_III *date_1650 *creator_boyer
 
 -*who_elpenor
 Phaëtuse, est-ce vous ? arrestez ma Princesse.
@@ -1592,7 +1592,7 @@ Mais… vertu⁎ ridicule ! ah ! suivons ma fureur⁎.
 Jamais l'occasion ne s'offrira si belle.
 Dieux Phaëtuse vient et sa sœur avec elle.
 
-**** *book_ *id_body-505 *act_ *date_1650 *creator_boyer
+**** *book_ *id_III05 *act_III *date_1650 *creator_boyer
 
 -*who_leucosie
 Vostre Conseil ma sœur m'oblige infiniment.
@@ -1604,7 +1604,7 @@ Je suis mon desespoir, sans que vostre menace
 Empesche cet amant⁎ jaloux et furieux⁎
 D'immoler son rival⁎ Euriloche, à vos yeux.
 
-**** *book_ *id_body-506 *act_ *date_1650 *creator_boyer
+**** *book_ *id_III06 *act_III *date_1650 *creator_boyer
 
 -*who_leucosie
 Son rival⁎ ? Euriloche !
@@ -1719,7 +1719,7 @@ Il faut qu'il quitte l'isle ou bien qu'il y perisse.
 Pour faire reussir ce que j'ay projetté,
 Je consens d'en venir à toute extrémité.
 
-**** *book_ *id_body-601 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV01 *act_IV *date_1650 *creator_boyer
 
 -*who_suite_ulysse
 Des plus profonds cachots du centre de la terre
@@ -1752,7 +1752,7 @@ Enfin je touche au terme, et je puis aujourd'huy…
 Mais helas ! il retombe, et je tombe avec luy.
 Triomphe Jupiter, triomphe de ma peine⁎.
 
-**** *book_ *id_body-602 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_IV02 *act_IV *date_1650 *creator_boyer 
 
 -*who_ulisse
 Dans quel gouffre d'horreur ta puissance m'entraine ?
@@ -1765,7 +1765,7 @@ Malgré ta trahison ton sort me fait pitié.
 Et si prez de Pluton ma priere n'est vaine,
 Bien loin de l'agrandir j'amoindriray ta peine⁎.
 
-**** *book_ *id_body-603 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_IV03 *act_IV *date_1650 *creator_boyer 
 
 -*who_suite_ulysse
 Rocher qu'en vain tousjours je tasche à remonter.
@@ -1871,7 +1871,7 @@ Puisse-tu de ses maux⁎ ressentir la moitié,
 Et tomber à ses pieds d'horreur ou de pitié.
 Va sors de ma presence, et cours apres ta femme.
 
-**** *book_ *id_body-604 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV04 *act_IV *date_1650 *creator_boyer
 
 -*who_suite_ulysse
 Cher Ulisse, arrestez, que vous dit cet infame ?
@@ -1885,7 +1885,7 @@ Qu'il me laisse en repos.
       Cache-toy miserable⁎,
 Et delivre nos yeux d'un objet effroyable⁎.
 
-**** *book_ *id_body-605 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV05 *act_IV *date_1650 *creator_boyer
 
 -*who_ulisse
 Tyresie est-ce vous ? venez-vous secourir,
@@ -1986,7 +1986,7 @@ Fait sans cesse et par tout de si puissans efforts⁎
 Et pour d'injustes vœux rompt de si grands obstacles,
 Pour des vœux innocens faits de pareils miracles.
 
-**** *book_ *id_body-606 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV06 *act_IV *date_1650 *creator_boyer
 
 -*who_circe
 Rare presant des Cieux merveilleuse puissance
@@ -2049,7 +2049,7 @@ Faut-il parmy les soins⁎ où mon amour m'engage
 Qu'à de nouveaux soucis⁎ encore je me partage ?
 Que cherchez-vous ma sœur ?
 
-**** *book_ *id_body-607 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV07 *act_IV *date_1650 *creator_boyer
 
 -*who_phaetuse
       Vous, de qui je me plains,
@@ -2083,7 +2083,7 @@ Doit obtenir de vous la fin de vostre haine.
 Euriloche paroist, retirons-nous ma sœur,
 Ce que vous allez voir changera vostre cœur.
 
-**** *book_ *id_body-608 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_IV08 *act_IV *date_1650 *creator_boyer 
 
 -*who_euriloche
 Je me pers, Perimede, ah ! non c'est trop d'audace.
@@ -2105,7 +2105,7 @@ Commandez, je m'appreste à tout executer.
 Il faut… Elpenor vient. Circé finis sa peine⁎.
 Si tu ne peux souffrir⁎ qu'elle serve à ma haine.
 
-**** *book_ *id_body-609 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV09 *act_IV *date_1650 *creator_boyer
 
 -*who_elpenor
 En vain sur mon rival⁎ je cherche à me vanger
@@ -2280,7 +2280,7 @@ Si la Reyne sur nous reposant la couronne,
 Changeoit un seul moment la forme de l'estat.
 Phaëtuse est trop juste, et luy n'est pas ingrat⁎.
 
-**** *book_ *id_body-610 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV10 *act_IV *date_1650 *creator_boyer
 
 -*who_leucosie
 Madame, Ulisse vient.
@@ -2303,7 +2303,7 @@ Comment ?
 -*who_circe
       Vous l'apprendrez du Prince qui vous ayme.
 
-**** *book_ *id_body-611 *act_ *date_1650 *creator_boyer
+**** *book_ *id_IV11 *act_IV *date_1650 *creator_boyer
 
 -*who_euriloche
 Tout me perd, et je suis pour comble de douleur
@@ -2352,7 +2352,7 @@ Malgré luy compagnon de la fuite d'Ulisse.
 Ainsi vostre secours favorable⁎ en ce jour
 Va faire triompher ma gloire et mon amour.
 
-**** *book_ *id_body-701 *act_ *date_1650 *creator_boyer
+**** *book_ *id_V01 *act_V *date_1650 *creator_boyer
 
 -*who_circe
 Que fait mon fugitif ?
@@ -2388,7 +2388,7 @@ Fais le venir.
 -*who_melante
       Ulisse, où sera ton espoir ?
 
-**** *book_ *id_body-702 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_V02 *act_V *date_1650 *creator_boyer 
 
 -*who_circe
 Mes charmes⁎ auroient pû faire perir Ulisse ;
@@ -2425,7 +2425,7 @@ Il sçaura qu'un amour qu'on ose dedaigner,
 Sçait arracher des cœurs s'il ne peut les gagner.
 Il faut mourir.
 
-**** *book_ *id_body-703 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_V03 *act_V *date_1650 *creator_boyer 
 
 -*who_ulisse
       Frapez, vous voyez la victime ;
@@ -2537,7 +2537,7 @@ Je ne m'estonne plus si vous l'ayant apris,
 Avant sortir du port mon vaisseau fut surpris.
 Retournez sur leur pas Euriloche et ce traitre…..
 
-**** *book_ *id_body-704 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_V04 *act_V *date_1650 *creator_boyer 
 
 -*who_leucosie
 Ah ! ma sœur, Dieux, comment oseray-je paroistre ?
@@ -2593,7 +2593,7 @@ Pour luy porter par tout un asseuré trespas.
 J'ay les bras assez longs, ma sœur, à la vengeance ;
 Je te suis, tu vas voir un trait⁎ de ma puissance.
 
-**** *book_ *id_body-705 *act_ *date_1650 *creator_boyer
+**** *book_ *id_V05 *act_V *date_1650 *creator_boyer
 
 -*who_ulisse
 Que ne puis-je esperer en ce fatal⁎ moment                
@@ -2626,7 +2626,7 @@ Aussi purs et brillans que ceux de vostre pere.
 Pars Ulisse, et m'espargne, abandonnant ce lieu,    
 Ce que souffre mon cœur en te disant adieu.
 
-**** *book_ *id_body-706 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_V06 *act_V *date_1650 *creator_boyer 
 
 -*who_euriloche
 Ouy, le voile est levé, Princesse, je vous ayme ;
@@ -2751,7 +2751,7 @@ Que vous taschés de rendre un subjet de ma hayne,
 Le seront de ma joye, et non pas de ma peine
 Dans la possession de ma divinité…
 
-**** *book_ *id_body-707 *act_ *date_1650 *creator_boyer
+**** *book_ *id_V07 *act_V *date_1650 *creator_boyer
 
 -*who_perimede
 Seigneur, le Ciel se trouble, et son obscurité
@@ -2771,7 +2771,7 @@ O ! Dieux.
 Amys qu'on se dispose au combat qui s'apreste
 Contre nos ennemis et contre la tempeste.
 
-**** *book_ *id_body-708 *act_ *date_1650 *creator_boyer
+**** *book_ *id_V08 *act_V *date_1650 *creator_boyer
 
 -*who_jupiter
 Du trosne où je m'assois dans le plus haut des Cieux,
@@ -2841,7 +2841,7 @@ Ma justice y consent. Toy sans plus t'arrester
 Du tribut eternel de ta clarté feconde
 Va, mon fils, enrichir l'autre moitié du monde.
 
-**** *book_ *id_body-709 *act_ *date_1650 *creator_boyer
+**** *book_ *id_V09 *act_V *date_1650 *creator_boyer
 
 -*who_circe
 Ces orages soudains et ces bruits estonnants
@@ -2877,13 +2877,13 @@ La terre preste au Ciel de quoy punir la terre.
 Vous seule... Mais quels feux s'allument dans la nuit ?
 Quel trouble ! quel esclat ! quel desordre ! quel bruit !
 
-**** *book_ *id_body-710 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_V10 *act_V *date_1650 *creator_boyer 
 
 -*who_jupiter
 Nimphes voicy le coup qui vous fera justice
 Vous pouvez maintenant jouyr de son suplice.
 
-**** *book_ *id_body-711 *act_ *date_1650 *creator_boyer
+**** *book_ *id_V11 *act_V *date_1650 *creator_boyer
 
 -*who_leucosie
 Quels feux ! quels feux de joye en cet embrasement ?
@@ -2908,7 +2908,7 @@ Ouy, ouy, c'est elle mesme, allons la recevoir.
 -*who_circe
 Phaëtuse, est-ce vous ?
 
-**** *book_ *id_body-712 *act_ *date_1650 *creator_boyer 
+**** *book_ *id_V12 *act_V *date_1650 *creator_boyer 
 
 -*who_phaetuse
       Vous puis-je encor revoir ?

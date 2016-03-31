@@ -1067,8 +1067,7 @@ Le vert de l'autre marque vn espoir apparent.
 
 ## SCENE VI.
 
-    ASTOLFE, *Surprenant Beralde luy arrache ces deux
-                lettres.*
+    ASTOLFE, *Surprenant Beralde luy arrache ces deux lettres.*
 De qui sont ces Poulets⁎ sont-ils d'vne Maistresse.  
 
     BERALDE *surpris*.
@@ -1117,8 +1116,7 @@ ASTOLFE, *lit tousiours, & ne void point la Princesse.*
 Ovy, je feray mon chois, ouy, vous aurez un Maistre.  
 Qu'on ne m'en parle plus.  
 
-    ASTOLFE *lit tout haut.*
-              
+    ASTOLFE *lit tout haut.* 
         *Puis que vous connoissez le sang.*  
 De Moncade Madame.  
 Puis que vous connoissez son rang.  
@@ -1353,8 +1351,7 @@ Ne me l'ont peu permettre.
         Enfin examinons  
 Si c'est auec raison que nous le condamnons.  
 
-    CASSANDRE *lit la lettre de Moncade.*
-              
+    CASSANDRE *lit la lettre de Moncade.* 
 Auant que de faire éclatter,  
 La Passion⁎ incomparable,  
 Par qui je me laisse flatter,  
@@ -2334,8 +2331,7 @@ Princesse, il faut vous dire vn adieu pour jamais [86].
 
 ## SCENE IX.
 
-    CASSANDRE *seule, comme si elle reuenoit d'vne letargie.*
-              
+    CASSANDRE *seule, comme si elle reuenoit d'vne letargie.* 
 Est-ce Astolfe ? est-ce luy que j'ay veu disparestre [87],  
 Quoy l'ingrat m'abandonne ? Ah cela ne peut estre,  
 Quoy, c'est sa propre voix qui d'vn ton de mespris,  
@@ -2349,8 +2345,7 @@ Qu'on aille aprés ce traistre, & qu'on me le rameine,
 Il ne peut s'échapper [88] à mon juste courroux ;  
 Hola.  
 
-    DON LOPE *vient au bruit.*
-              
+    DON LOPE *vient au bruit.* 
         Que vous plaist-il, Madame, & qu'auez-vous ?  
 
     CASSANDRE.
@@ -2465,9 +2460,7 @@ La voicy.
 CASSANDRE, MONCADE.
 
 
-    CASSANDRE *à vn bout de la chambre qui ne void point
-                  Moncade.*
-              
+    CASSANDRE *à vn bout de la chambre qui ne void point Moncade.* 
         Malheureuse ! he n'as tu pas compris,  
 Que ton humeur facile attira ces mépris,  
 Pour m'estre à cœur ouuert librement declarée,  
@@ -2526,8 +2519,7 @@ Et n'est-il pas de vous ! relisez-le.
     MONCADE.
         Ouy, Madame,  
 
-    CASSANDRE *aprés auoir rompu la lettre, qu'elle luy jette.*
-              
+    CASSANDRE *aprés auoir rompu la lettre, qu'elle luy jette.* 
 Adieu taschez d'en faire autant de vostre flame.  
 
     MONCADE *à part*.
@@ -2550,8 +2542,7 @@ Voicy le Duc, Madame.
 L'amour dessus [91] mon ame auoit trop pris d'Empire⁎,  
 Adieu sortez, Messieurs, que chacun se retire,  
 
-    MONCADE *en faisant vne profonde reuerence.*
-              
+    MONCADE *en faisant vne profonde reuerence.* 
 à part
 
 Ie ne pers pas l'espoir de l'heur⁎ où [92] je pretens :  
@@ -2784,8 +2775,7 @@ L'ingrat,
     CASSANDRE.
 Sa presence a d'abord⁎ dissipé mon courroux.  
 
-    LE DVC *bas à Astolfe.*
-              
+    LE DVC *bas à Astolfe.* 
 Dissimulez, mon fils, ou vous nous perdez tous.  
 
     CASSANDRE.
@@ -2876,8 +2866,7 @@ Prenez la.
 Cette rigueur, mon Pere, offence la nature⁎,  
 Si je n'ay point failly, Dieux par quelle raison,  
 
-    LE DVC *bas à Astolfe.*
-              
+    LE DVC *bas à Astolfe.* 
 Marche, ton seul salut consiste en ta prison.  
 
     ASTOLFE.
@@ -2989,8 +2978,7 @@ Mais elle est vostre sœur, la voudriez vous pour femme ?
 Ouy, puis que de ce mal je ne sçaurois guerir :  
 Ie voudrois l'espouser, & puis apres mourir.  
 
-    LE DVC *bas à Astolfe.*
-              
+    LE DVC *bas à Astolfe.* 
 N'attens que la moitié d'vn souhait si funeste⁎,  
 Demon incestueux, n'espere pas le reste,  
 A la Princesse
@@ -3719,41 +3707,8 @@ Le français classique, lexique de la langue du XVII*e* siècle*e*(C)
 Dictionnaire du français du XVII*e* siècleD
 Dictionnaire universelF
 Dictionnaire françaisR
-Introduction à la langue du XVII*e*
-              siècle. I. Vocabulaire(S.)
-Abord (d')Dès l'abord, tout de suite. (*D*.)V. 1190AdresseMoyen ingénieux. (*D*.)V. 92AirExpression du visage. Manière d'agir, comportement. (*D*.)V. 700, 730AppasAttraits physiques. (*S*.)V. 146, 995, 1014ArdeurVif empressement, amour. (*D*.)Épître, v. 98, 412, 454, 1085, 1103, 1112, 1116ArrêtéNettement déterminé. (*D*.)V. 81AssuréCertain, incontestable. (*D*.)V. 821Assurer(s')Arrêter, faire prisonnier, s'emparer de quelqu'un. (*D*.)V. 1222AutelSens figuré s'étant employé dans le contexte du mariage. (*DHLF*)V. 951AventureDestin, sort, chance. (*D*.)V. 155, 665BizarreFantasque, extravagant, inconstant. (*D*.)V. 43, 1134, 1272BlesséeTroublée. (*D*.)V. 140BrigueParti, cabale. (*D*.)V. 37, 603Bruit*fig.* Querelle. (*D*.).V. 277Se dit figurément de la renommée, de la réputation. (*F*.)V. 732CapriceActe insensé. (*D*.)V. 160, 366, 1128, 1512CharmeSortilège, puissance magique. (*D*.)V. 639CharmerSoumettre à sa volonté, maîtriser en jetant un sort. (*D*.)V. 435, 1521, 1548Chaud*fig*. Ardant, emporté. Délicat, qu'on ne peut toucher. (*D*.)V. 213ChimèreIdée extravagante. (*D*.)V. 839, 1602ConcerAction de se concerter, accord préalable. (*D*.)V. 1271ConférenceEntretien, conversation privée. (*D*.)V. 519CongéPermission. (*D*.)V. 32, 728ConnaîtreReconnaître. (*D*.)V. 1063, 1541CrimeTâche, faute grave. (*D*.)V. 817, 1163, 1315, 1348, 1358, 1371, 1403, 1418, 1637CuisantOn le dit des choses qui causent de la douleur douloureux. (*F*.)V. 377DécevoirTromper, induire en erreur. (*D*.)V. 687, 1577DécouvrirFaire connaître ce qui était caché. (*Ac. 94*)V. 419, 569DégagerRendre libre. Retirer une chose qu'on avait mise en gage. (*C*.) V. 814, 861DéguiserCacher. (*C*.)V. 1283, 1420, 1429DélicatsD'une sensibilité excessive en matière de goût et de plaisir. (*D*.)ÉpîtreDemeureRetard, délai. (*D*.)V. 976DemeurerSubsister, rester ferme. (*D*.)V. 78, 595DénaturéParticipe passé substantivé avec le sens de « dépouillé de sentiments naturels ».
-              Le sens normatif et moral de « gâter les sentiments naturels de qqn » est enregistré
-              en 1611. (*DHLF*).V. 512DéplaisirÉvoque les souffrances les plus profondes, qui génèrent le désespoir. (*S*.)V. 294Dérober(-s)S'évader, s'échapper. (*D*.) V. 1344DestinProjet. (*D*.) V. 126Devant*adv.* Avant, auparavant ; (1328) : *loc. conj*.
-              Avant que. V. 32Diligence (en)Avec rapidité. (*D*.)V. 973, 1040, 1562, 1563DiscoursSe prend pour ce que l'on récite. Entretien. (*S*.)V. 63DisgrâceMalheur, infortune. (*D*.)V. 675, 1581Dispenser (se)Se permettre de, s'autoriser. (*D*.)V. 230ÉclatGloire, situation brillante. (*D*.)V. 1167, 1517, 1614, 1666Action de divulguer ; scandale. (*D*.)V. 1459ÉclaterSe manifester, apparaître ouvertement. Déclarer clairement et publiquement ses
-              sentiments. (*D*.)V. 269, 414, 1035, 1492ÉconomieRépartition de la matière dans les diverses parties du plan d'une œuvre littéraire.
-                (*D*.)AvertissementEffetActe, réalisation. (*D*.)V. 711EmpireÉtat, royaume. (*D*.)V. 440, 1036EmportementsArdeur, mouvement de l'âme causé par une passion. (*D*.)V. 411, 1386EmporterEffacer, faire oublierV. 432Causer de la colère.V. 1451S'emporterSe laisser aller par une passion, (amour, désespoir, auj. seulement colère), passer
-              les bornes de la bienséance, la justice. (*D*.)V. 1425Ennui(-s)Chagrins, déplaisirs, soucis. (*Ac. 94*).V. 1051, 1077, 1223, 1581EntérinerTerme de Palais. Donner sentence ou arrêt sur une requête. Ce mot s'est dit
-              apparemment d'abord des lettres de restitution en entier ; et depuis s'est étendu à
-              toutes sortes de requêtes. (*F*.)V. 1181ÉquipageCostume, façon de se vêtir. (v. 970) : Ensemble des êtres et des objets nécessaires
-              à un voyage. (*D*.)V. 874EspritSouffle, âme, au sens matériel. Intelligence, inspiration, talent, au sens moral.
-              Cœur sentiment.V. 5, 1082, 1274, 1309,1347, 1364, 1402, 1407*Au pl*. Vie, énergie morale et intellectuel. (*C*.)V. 1250ÉtonnerFrapper d'une émotion violente. (*D*.)V. 257, 1477ÉtrangeExtraordinaire, anormal, scandaleux. (*D*.)V. 761, 964, 1649ÉtudeSoin particulier apporté à quelque chose. (*D*.)V. 1108FaiblesseInconstance, imbécilité, facilité de se laisser aller.V. 322, 856On le dit encore quand une femme a succombé à la passion qu'elle a pour un homme.
-                (*F*.)V. 1566Principal défaut, point faible. (*D*.)V. 1603FaixPoids. (*C*.)V. 1605FantaisieImagination, esprit. (*D*.)V. 1285FatalQui apporte la douleur. (*D*.)V. 1124, 1468FavoriserAccorder sa préférenceV. 187Accorder son appui, avantager. (*D*.)V. 1707FaveurDésigne les marques de prédilection à l'être dont on a reconnu le service. (*S*.)V. 509FersParticulièrement, état de l'amoureux soumis à sa maîtresse. (*D*.)V. 791, 978, 1524FeuPassion, amour. (*D*.)V. 400, 667, 1114FierFarouche, sauvage, cruel. (*D*.)V. 19FlammeAmour. (*D*.)V. 96, 127, 187, 1005, 1116, 1288, 1546FoiFidélité à un engagement, loyauté. Amour fidèle. Sincérité, confiance. (*D*.)V. 559, 597, 1214, 1346, 1363, 1544, 1655, 1700FortuneChance.Avertissement, 502, 825, 982, 1081, 1519Situation sociale.V. 204Destinée, sort. (*D*.)V. 1129Foudre (coup de)Événement subit et désastreux. (*D*.)V. 1407FourbeCaractère ou action d'un fourbe ; malhonnêteté. (*D*.)V. 646, 1442, 1448FourberTromper par ruse, faire des dupes. (*D*.)V. 210, 651FranchiseParticulièrement, en poésie, état de celui qui n'est pas asservi par l'amour. (*D*.)V. 123, 857FrénésieFolie furieuse. (*D*.)V. 1284FrontImprudence, effronterie. (*D*.)V. 878, 1375FunesteTragique, violent, en parlant de la mort. (*D*.)V. 623, 1292Qui cause la mort ou qui en menace, sinistre, fatal. (*C*.)V. 1400FureurSe dit des violents mouvements de l'âme. (*F*.)V. 1035, 1247GalammentAvec goût, élégance, habilité. (*D*.)V. 210GarantirPréserver de quelque mal ou accident. (*Garentir* chez *F*.)V. 1627GênerTorturer, soumettre à une contrainte pénible. Causer une souffrance morale. (*D*.)V. 777, 989, 1347, 1364, 1402, 1545Généreux(-euse)De race noble, brave. Magnanime, sans mesquinerie. (*D*.)V. 93, 810, 1070, 1139, 1529GloireHonneur, considération, qualité flatteuse. Réputation intacte aux yeux d'autrui et
-              aux yeux de soi-même.Épître, v. 14, 430, 567, 713, 1006, 1499, 1514, 1520, 1530, 1694Orgueil, vanité. (*D*.)V. 147, 1263GrâceFaveur. Attrait. (*D*.)Épître, v. 1181HeurBonne fortune. (*Ac. 94*)V. 430, 1038HumeurCaractère, tempérament, disposition habituelle d'esprit. (*D*.). Se
-              dit aussi d'une disposition accidentelle, d'un état d'âme passager. Disposition, au
-              point de vue intellectuel. (*C*.)V. 48, 76, 297, 501, 1128, 1272IdéeImage, dessin, peinture. (*D*.)V. 1089IndiscretQui manque de discernement, de jugement. (*D*.)V. 53IndustrieActivité ingénieuse, démarche adroite, habileté. (*D*.)V. 716IngénumentFranchement, loyalement. (*D*.)ÉpîtreIngratC'est celui qui ne sait pas reconnaître ce qu'on fait pour lui, dans l'ordre
-              politique, social ou sentimental. (*S*.)V. 312, 762, 993, 1137, 1187, 1242, 1294IngratitudeS'inscrit dans le même champ notionnel que la trahison, mais le dépasse. (*S*.)V. 1179, 1303InjureDommage, tort causé.V. 645, 1369Injustice. (*D*.)V. 1173InjusteInjustifié (*D*.)V. 1147, 1235, 1245, 1476InsigneRemarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en
-              bonne qu'en mauvaise part., par exemple : ce Procureur a la réputation d'un insigne
-              chicaneur. (*F*.)V. 664InterditTroublé, décontenancé. (*D*.)V. 221, 1162Intéresser(s')Prendre parti, se passionner pour ou contre. (*D*.) V. 191IntérêtCe qui touche à une personne par la part qu'elle y prend. Affaire, question, souci
-              qui la regarde. (*C*.). Parti, cause, défense. (*D*.)V. 79, 225, 1642, 1684Jaloux(-se)Attaché à, désireux de. (*D*.)V. 137, 225, 1272JouerSe moquer de quelqu'un ou de quelque chose. (*D*.)V. 1271JusticeÉquité (*D*.)V. 159, 1139, 1148, 1217, 1488, 1502, 1697LâcheMou, sans force. (*D*.)V. 1073, 1448LangageDiscours, paroles. (*D*.)V. 99LicenceLiberté. (*D*.)V. 1320LieuMotif légitime. (*D*.)V. 225LibrementVolontiers (*D*.)V. 230LoisOrdres.V. 1195, 1260, 1311, 1487, 1522Dans le langage de la galanterie, lois de l'amour, asservissement à la personne
-              aimée. (*D*.)V. 1071, 1269ManderDésigne le fait de communiquer une nouvelle ou un avis, par lettre ou par messager.
-                (*S*.)V. 236MéchantCondamnable. (*D*.)V. 1274MéconnaissantIngrat. (*C*.)V. 1166MériteHabileté, talent. Importance d'une chose. (*D*.)V. 431, 1022, 1101, 1120MisérableMalheureux, digne de pitié. (*D*.).V. 565, 1144, 1316Se prend aussi au sens défavorable pour exagérer un mépris. (*C*.)V. 1376MurmureRéprobation.V. 55MurmurerGronder, faire du bruit. S'entretenir mystérieusement de. (*D*.)V. 90NatureSe dit de l'action de la Providence qui agit en tous les corps. Se dit aussi en
-              parlant de ce qui est ordinaire, qui arrive toujours. Se dit aussi d'une connaissance
-              qui est née avec nous de ce qui est bon, ou mauvais, de ce qui nous sert, ou qui nous
-              nuit. (*F*.)V. 1149, 1195, 1225, 1370, 1450, 1454, 1494, 1498, 1618ObjetChose où l'on arrête sa pensée, son cœur, son but, ou son dessin. (*R*.) Se dit aussi poétiquement des personnes qui donnent de l'amour. (*F*.)V. 146, 187, 363, 549, 622, 1285, 1298, 1300, 1588OutrageInjustice, excès de violence.V. 1231Offense, atteinte à l'honneur. (*D*.)V. 1281PartiSe dit proprement du « traité ». Il y a au fond une idée de partage et « parti »
-              n'est que le participe passé, employé comme nom, du vieux verbe « partir ». (*C*.)V. 91PassionSentiment. (*D*.)V. 350, 549PerfideLe fait de trahir la foi dans parole donnée, dans l'ordre chevaleresque comme dans
-              l'ordre amoureux. (*S*.)V. 1134, 1150, 1187PouletSignifie aussi un petit billet amoureux qu'on envoie aux Dames galantes, ainsi
-              nommé, parce qu'en le pliant on faisait deux pointes qui représentaient les ailes d'un
-              poulet. On les appelle à présent 1690 *billets galants, billets
-                doux*. (F.)V. 178, 219PresserSerrer de près.V. 936, 1104, 1110Pressions physiques, psychologiques ou morales sur quelqu'un pour arriver à ses
-              fins. (*S*.)V. 1124, 1294PrévaloirL'emporter sur, avoir l'avantage sur. (*D*.)V. 89PriserEstimer, évaluer, peser. (*D*.)V. 161, 793PrixRécompense.V. 379Valeur, mérite. (*D*.)V. 464QuerelleSe dit de l'intérêt d'autrui quand on en prend la défense. (*F*.)V. 876Rassis*fig*. Calme, mûri par la réflexion. (*D*.)V. 1357, 1452RassurerRendre plus sûr, sans danger (avec un nom de chose). (*D*.)V. 8, 1714RaviPorté à un état de bonheur extrême V. 159Enlever par force. (*S*.)V. 1613RebuterRepousser quelqu'un avec dureté. (*D*.)V. 527RegardsEgards. (*C*.)V. 1110Respect(-s)Égards, considérations. (*D*.)Épître, v. 244, 979, 1059, 1106, 1199, 1209, 1228, 1255, 1267RetirerDégager une chose d'un lieu où elle était engagée. (*F*.)V. 254RetraiteAsile, refuge. Vie retirée. (*D*.)V. 1345, 1501, 1513RiséeMoquerie.V. 1021SensJugement. (*D*.)V. 1162, 1357, 1482SensibleQui frappe les sens. (*C*.)V. 1348, 1403SentimentsOpinion, avis.V. 1088Dispositions. (*D*.)V. 1529SoinIntérêt porté à quelque chose.V. 1171*Au pl*. Assiduités, marques de dévouement à la personne aimée.
-                (*D*.)V. 679, 979, 1055, 1109SouffrirEndurer, supporter, tolérer. Aussi, le sens actuel d'éprouver une douleur physique
-              ou morale. (*D*.) V. 13, 966, 975, 1230SuccèsIssue d'une affaire. Se dit en bonne et en mauvaise part. (*F*.)V. 397SupposerSubstituer, mettre à la place (en général frauduleusement). (*D*.)V. 602, 611, 1624SurprendrePrendre à l'improviste. (*C*.)V. 1477TendresseDélicatesse. (*D*.)V. 333, 554, 1061, 1256TenirRetenir. (*D*.)V. 346TourRuse. (*D*.)V. 646Tourment*fig*. Souffrance morale. (*D*.)V. 274, 861TransportManifestation d'une passion, en particulier de l'amour. (*D*.)V. 759TransporterEmouvoir fortement, rendre fou. (*D*.)V. 248, 557, 1493TremperS'entend au sens moral. Tremper dans un crime, dans une conspiration, c'est en être
-              complice, en avoir connaissance sans l'avoir révélée. (*F*.)V. 1417Troublé(-e), troublerFou, devenir fou. (*D*.)V. 394, 524, 1285, 1377, 1421, 1712VertuPuissance.ÉpîtreQualités, avantages. (*D*.)V. 1518VœuDésir tendu vers un objet. (*S*.)V. 289, 1703ZèleDévouement. (*D*.)ÉpîtreZéléÉpris de, passionné pour. (*D*.)V. 1103
+Introduction à la langue du XVII*e* siècle. I. Vocabulaire(S.)
+Abord (d')Dès l'abord, tout de suite. (*D*.)V. 1190AdresseMoyen ingénieux. (*D*.)V. 92AirExpression du visage. Manière d'agir, comportement. (*D*.)V. 700, 730AppasAttraits physiques. (*S*.)V. 146, 995, 1014ArdeurVif empressement, amour. (*D*.)Épître, v. 98, 412, 454, 1085, 1103, 1112, 1116ArrêtéNettement déterminé. (*D*.)V. 81AssuréCertain, incontestable. (*D*.)V. 821Assurer(s')Arrêter, faire prisonnier, s'emparer de quelqu'un. (*D*.)V. 1222AutelSens figuré s'étant employé dans le contexte du mariage. (*DHLF*)V. 951AventureDestin, sort, chance. (*D*.)V. 155, 665BizarreFantasque, extravagant, inconstant. (*D*.)V. 43, 1134, 1272BlesséeTroublée. (*D*.)V. 140BrigueParti, cabale. (*D*.)V. 37, 603Bruit*fig.* Querelle. (*D*.).V. 277Se dit figurément de la renommée, de la réputation. (*F*.)V. 732CapriceActe insensé. (*D*.)V. 160, 366, 1128, 1512CharmeSortilège, puissance magique. (*D*.)V. 639CharmerSoumettre à sa volonté, maîtriser en jetant un sort. (*D*.)V. 435, 1521, 1548Chaud*fig*. Ardant, emporté. Délicat, qu'on ne peut toucher. (*D*.)V. 213ChimèreIdée extravagante. (*D*.)V. 839, 1602ConcerAction de se concerter, accord préalable. (*D*.)V. 1271ConférenceEntretien, conversation privée. (*D*.)V. 519CongéPermission. (*D*.)V. 32, 728ConnaîtreReconnaître. (*D*.)V. 1063, 1541CrimeTâche, faute grave. (*D*.)V. 817, 1163, 1315, 1348, 1358, 1371, 1403, 1418, 1637CuisantOn le dit des choses qui causent de la douleur douloureux. (*F*.)V. 377DécevoirTromper, induire en erreur. (*D*.)V. 687, 1577DécouvrirFaire connaître ce qui était caché. (*Ac. 94*)V. 419, 569DégagerRendre libre. Retirer une chose qu'on avait mise en gage. (*C*.) V. 814, 861DéguiserCacher. (*C*.)V. 1283, 1420, 1429DélicatsD'une sensibilité excessive en matière de goût et de plaisir. (*D*.)ÉpîtreDemeureRetard, délai. (*D*.)V. 976DemeurerSubsister, rester ferme. (*D*.)V. 78, 595DénaturéParticipe passé substantivé avec le sens de « dépouillé de sentiments naturels ». Le sens normatif et moral de « gâter les sentiments naturels de qqn » est enregistré en 1611. (*DHLF*).V. 512DéplaisirÉvoque les souffrances les plus profondes, qui génèrent le désespoir. (*S*.)V. 294Dérober(-s)S'évader, s'échapper. (*D*.) V. 1344DestinProjet. (*D*.) V. 126Devant*adv.* Avant, auparavant ; (1328) : *loc. conj*. Avant que. V. 32Diligence (en)Avec rapidité. (*D*.)V. 973, 1040, 1562, 1563DiscoursSe prend pour ce que l'on récite. Entretien. (*S*.)V. 63DisgrâceMalheur, infortune. (*D*.)V. 675, 1581Dispenser (se)Se permettre de, s'autoriser. (*D*.)V. 230ÉclatGloire, situation brillante. (*D*.)V. 1167, 1517, 1614, 1666Action de divulguer ; scandale. (*D*.)V. 1459ÉclaterSe manifester, apparaître ouvertement. Déclarer clairement et publiquement ses sentiments. (*D*.)V. 269, 414, 1035, 1492ÉconomieRépartition de la matière dans les diverses parties du plan d'une œuvre littéraire. (*D*.)AvertissementEffetActe, réalisation. (*D*.)V. 711EmpireÉtat, royaume. (*D*.)V. 440, 1036EmportementsArdeur, mouvement de l'âme causé par une passion. (*D*.)V. 411, 1386EmporterEffacer, faire oublierV. 432Causer de la colère.V. 1451S'emporterSe laisser aller par une passion, (amour, désespoir, auj. seulement colère), passer les bornes de la bienséance, la justice. (*D*.)V. 1425Ennui(-s)Chagrins, déplaisirs, soucis. (*Ac. 94*).V. 1051, 1077, 1223, 1581EntérinerTerme de Palais. Donner sentence ou arrêt sur une requête. Ce mot s'est dit apparemment d'abord des lettres de restitution en entier ; et depuis s'est étendu à toutes sortes de requêtes. (*F*.)V. 1181ÉquipageCostume, façon de se vêtir. (v. 970) : Ensemble des êtres et des objets nécessaires à un voyage. (*D*.)V. 874EspritSouffle, âme, au sens matériel. Intelligence, inspiration, talent, au sens moral. Cœur sentiment.V. 5, 1082, 1274, 1309,1347, 1364, 1402, 1407*Au pl*. Vie, énergie morale et intellectuel. (*C*.)V. 1250ÉtonnerFrapper d'une émotion violente. (*D*.)V. 257, 1477ÉtrangeExtraordinaire, anormal, scandaleux. (*D*.)V. 761, 964, 1649ÉtudeSoin particulier apporté à quelque chose. (*D*.)V. 1108FaiblesseInconstance, imbécilité, facilité de se laisser aller.V. 322, 856On le dit encore quand une femme a succombé à la passion qu'elle a pour un homme. (*F*.)V. 1566Principal défaut, point faible. (*D*.)V. 1603FaixPoids. (*C*.)V. 1605FantaisieImagination, esprit. (*D*.)V. 1285FatalQui apporte la douleur. (*D*.)V. 1124, 1468FavoriserAccorder sa préférenceV. 187Accorder son appui, avantager. (*D*.)V. 1707FaveurDésigne les marques de prédilection à l'être dont on a reconnu le service. (*S*.)V. 509FersParticulièrement, état de l'amoureux soumis à sa maîtresse. (*D*.)V. 791, 978, 1524FeuPassion, amour. (*D*.)V. 400, 667, 1114FierFarouche, sauvage, cruel. (*D*.)V. 19FlammeAmour. (*D*.)V. 96, 127, 187, 1005, 1116, 1288, 1546FoiFidélité à un engagement, loyauté. Amour fidèle. Sincérité, confiance. (*D*.)V. 559, 597, 1214, 1346, 1363, 1544, 1655, 1700FortuneChance.Avertissement, 502, 825, 982, 1081, 1519Situation sociale.V. 204Destinée, sort. (*D*.)V. 1129Foudre (coup de)Événement subit et désastreux. (*D*.)V. 1407FourbeCaractère ou action d'un fourbe ; malhonnêteté. (*D*.)V. 646, 1442, 1448FourberTromper par ruse, faire des dupes. (*D*.)V. 210, 651FranchiseParticulièrement, en poésie, état de celui qui n'est pas asservi par l'amour. (*D*.)V. 123, 857FrénésieFolie furieuse. (*D*.)V. 1284FrontImprudence, effronterie. (*D*.)V. 878, 1375FunesteTragique, violent, en parlant de la mort. (*D*.)V. 623, 1292Qui cause la mort ou qui en menace, sinistre, fatal. (*C*.)V. 1400FureurSe dit des violents mouvements de l'âme. (*F*.)V. 1035, 1247GalammentAvec goût, élégance, habilité. (*D*.)V. 210GarantirPréserver de quelque mal ou accident. (*Garentir* chez *F*.)V. 1627GênerTorturer, soumettre à une contrainte pénible. Causer une souffrance morale. (*D*.)V. 777, 989, 1347, 1364, 1402, 1545Généreux(-euse)De race noble, brave. Magnanime, sans mesquinerie. (*D*.)V. 93, 810, 1070, 1139, 1529GloireHonneur, considération, qualité flatteuse. Réputation intacte aux yeux d'autrui et aux yeux de soi-même.Épître, v. 14, 430, 567, 713, 1006, 1499, 1514, 1520, 1530, 1694Orgueil, vanité. (*D*.)V. 147, 1263GrâceFaveur. Attrait. (*D*.)Épître, v. 1181HeurBonne fortune. (*Ac. 94*)V. 430, 1038HumeurCaractère, tempérament, disposition habituelle d'esprit. (*D*.). Se dit aussi d'une disposition accidentelle, d'un état d'âme passager. Disposition, au point de vue intellectuel. (*C*.)V. 48, 76, 297, 501, 1128, 1272IdéeImage, dessin, peinture. (*D*.)V. 1089IndiscretQui manque de discernement, de jugement. (*D*.)V. 53IndustrieActivité ingénieuse, démarche adroite, habileté. (*D*.)V. 716IngénumentFranchement, loyalement. (*D*.)ÉpîtreIngratC'est celui qui ne sait pas reconnaître ce qu'on fait pour lui, dans l'ordre politique, social ou sentimental. (*S*.)V. 312, 762, 993, 1137, 1187, 1242, 1294IngratitudeS'inscrit dans le même champ notionnel que la trahison, mais le dépasse. (*S*.)V. 1179, 1303InjureDommage, tort causé.V. 645, 1369Injustice. (*D*.)V. 1173InjusteInjustifié (*D*.)V. 1147, 1235, 1245, 1476InsigneRemarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part., par exemple : ce Procureur a la réputation d'un insigne chicaneur. (*F*.)V. 664InterditTroublé, décontenancé. (*D*.)V. 221, 1162Intéresser(s')Prendre parti, se passionner pour ou contre. (*D*.) V. 191IntérêtCe qui touche à une personne par la part qu'elle y prend. Affaire, question, souci qui la regarde. (*C*.). Parti, cause, défense. (*D*.)V. 79, 225, 1642, 1684Jaloux(-se)Attaché à, désireux de. (*D*.)V. 137, 225, 1272JouerSe moquer de quelqu'un ou de quelque chose. (*D*.)V. 1271JusticeÉquité (*D*.)V. 159, 1139, 1148, 1217, 1488, 1502, 1697LâcheMou, sans force. (*D*.)V. 1073, 1448LangageDiscours, paroles. (*D*.)V. 99LicenceLiberté. (*D*.)V. 1320LieuMotif légitime. (*D*.)V. 225LibrementVolontiers (*D*.)V. 230LoisOrdres.V. 1195, 1260, 1311, 1487, 1522Dans le langage de la galanterie, lois de l'amour, asservissement à la personne aimée. (*D*.)V. 1071, 1269ManderDésigne le fait de communiquer une nouvelle ou un avis, par lettre ou par messager. (*S*.)V. 236MéchantCondamnable. (*D*.)V. 1274MéconnaissantIngrat. (*C*.)V. 1166MériteHabileté, talent. Importance d'une chose. (*D*.)V. 431, 1022, 1101, 1120MisérableMalheureux, digne de pitié. (*D*.).V. 565, 1144, 1316Se prend aussi au sens défavorable pour exagérer un mépris. (*C*.)V. 1376MurmureRéprobation.V. 55MurmurerGronder, faire du bruit. S'entretenir mystérieusement de. (*D*.)V. 90NatureSe dit de l'action de la Providence qui agit en tous les corps. Se dit aussi en parlant de ce qui est ordinaire, qui arrive toujours. Se dit aussi d'une connaissance qui est née avec nous de ce qui est bon, ou mauvais, de ce qui nous sert, ou qui nous nuit. (*F*.)V. 1149, 1195, 1225, 1370, 1450, 1454, 1494, 1498, 1618ObjetChose où l'on arrête sa pensée, son cœur, son but, ou son dessin. (*R*.) Se dit aussi poétiquement des personnes qui donnent de l'amour. (*F*.)V. 146, 187, 363, 549, 622, 1285, 1298, 1300, 1588OutrageInjustice, excès de violence.V. 1231Offense, atteinte à l'honneur. (*D*.)V. 1281PartiSe dit proprement du « traité ». Il y a au fond une idée de partage et « parti » n'est que le participe passé, employé comme nom, du vieux verbe « partir ». (*C*.)V. 91PassionSentiment. (*D*.)V. 350, 549PerfideLe fait de trahir la foi dans parole donnée, dans l'ordre chevaleresque comme dans l'ordre amoureux. (*S*.)V. 1134, 1150, 1187PouletSignifie aussi un petit billet amoureux qu'on envoie aux Dames galantes, ainsi nommé, parce qu'en le pliant on faisait deux pointes qui représentaient les ailes d'un poulet. On les appelle à présent 1690 *billets galants, billets doux*. (F.)V. 178, 219PresserSerrer de près.V. 936, 1104, 1110Pressions physiques, psychologiques ou morales sur quelqu'un pour arriver à ses fins. (*S*.)V. 1124, 1294PrévaloirL'emporter sur, avoir l'avantage sur. (*D*.)V. 89PriserEstimer, évaluer, peser. (*D*.)V. 161, 793PrixRécompense.V. 379Valeur, mérite. (*D*.)V. 464QuerelleSe dit de l'intérêt d'autrui quand on en prend la défense. (*F*.)V. 876Rassis*fig*. Calme, mûri par la réflexion. (*D*.)V. 1357, 1452RassurerRendre plus sûr, sans danger (avec un nom de chose). (*D*.)V. 8, 1714RaviPorté à un état de bonheur extrême V. 159Enlever par force. (*S*.)V. 1613RebuterRepousser quelqu'un avec dureté. (*D*.)V. 527RegardsEgards. (*C*.)V. 1110Respect(-s)Égards, considérations. (*D*.)Épître, v. 244, 979, 1059, 1106, 1199, 1209, 1228, 1255, 1267RetirerDégager une chose d'un lieu où elle était engagée. (*F*.)V. 254RetraiteAsile, refuge. Vie retirée. (*D*.)V. 1345, 1501, 1513RiséeMoquerie.V. 1021SensJugement. (*D*.)V. 1162, 1357, 1482SensibleQui frappe les sens. (*C*.)V. 1348, 1403SentimentsOpinion, avis.V. 1088Dispositions. (*D*.)V. 1529SoinIntérêt porté à quelque chose.V. 1171*Au pl*. Assiduités, marques de dévouement à la personne aimée. (*D*.)V. 679, 979, 1055, 1109SouffrirEndurer, supporter, tolérer. Aussi, le sens actuel d'éprouver une douleur physique ou morale. (*D*.) V. 13, 966, 975, 1230SuccèsIssue d'une affaire. Se dit en bonne et en mauvaise part. (*F*.)V. 397SupposerSubstituer, mettre à la place (en général frauduleusement). (*D*.)V. 602, 611, 1624SurprendrePrendre à l'improviste. (*C*.)V. 1477TendresseDélicatesse. (*D*.)V. 333, 554, 1061, 1256TenirRetenir. (*D*.)V. 346TourRuse. (*D*.)V. 646Tourment*fig*. Souffrance morale. (*D*.)V. 274, 861TransportManifestation d'une passion, en particulier de l'amour. (*D*.)V. 759TransporterEmouvoir fortement, rendre fou. (*D*.)V. 248, 557, 1493TremperS'entend au sens moral. Tremper dans un crime, dans une conspiration, c'est en être complice, en avoir connaissance sans l'avoir révélée. (*F*.)V. 1417Troublé(-e), troublerFou, devenir fou. (*D*.)V. 394, 524, 1285, 1377, 1421, 1712VertuPuissance.ÉpîtreQualités, avantages. (*D*.)V. 1518VœuDésir tendu vers un objet. (*S*.)V. 289, 1703ZèleDévouement. (*D*.)ÉpîtreZéléÉpris de, passionné pour. (*D*.)V. 1103
 
 
 # Tableau comparatif
@@ -5935,35 +5890,25 @@ FIN
 ## Éditions
 
 
-### Textes des XVII*e* et XVIII*e* siècles. ***Cassandre, comtesse de Barcelone****Boirobert**Cassandre, Comtesse
-                  de Barcelone**in*
+### Textes des XVII*e* et XVIII*e* siècles. ***Cassandre, comtesse de Barcelone****Boirobert**Cassandre, Comtesse de Barcelone**in*
 
 
-BnF: 4-YF-156 (4).*Boirobert**Cassandre, Comtesse
-                  de Barcelone**in*
+BnF: 4-YF-156 (4).*Boirobert**Cassandre, Comtesse de Barcelone**in*
 
 
-Ars. Rf. 5.539.*Boirobert**Cassandre, Comtesse
-                  de Barcelone**in*
+Ars. Rf. 5.539.*Boirobert**Cassandre, Comtesse de Barcelone**in*
 
 
-BnF: RES-YF-3724.*Boirobert**Cassandre, Comtesse
-                  de Barcelone**Théâtre François ou Recueil des meilleures
-                  pièces de Théâtre**in*
+BnF: RES-YF-3724.*Boirobert**Cassandre, Comtesse de Barcelone**Théâtre François ou Recueil des meilleures pièces de Théâtre**in*
 
 
-BnF : YF-5194*Boirobert**Cassandre, Comtesse
-                  de Barcelone**Recueil des meilleures pièces dramatiques
-                  faites en France depuis Rotrou jusqu'à nos jours au théâtre français ou Théatre
-                  François. Tragédies.*
+BnF : YF-5194*Boirobert**Cassandre, Comtesse de Barcelone**Recueil des meilleures pièces dramatiques faites en France depuis Rotrou jusqu'à nos jours au théâtre français ou Théatre François. Tragédies.*
 
 
-BnF: YF-5194.*Boisrobert**La folle Gageure
-                  ou les Divertissements de la Comtesse de Prembroc, comédie*
+BnF: YF-5194.*Boisrobert**La folle Gageure ou les Divertissements de la Comtesse de Prembroc, comédie*
 
 
-BnF : 4-YF-156 (5)*Boisrobert**Pyrandre et
-                  Lysimène ou l'Heureuse tromperie*
+BnF : 4-YF-156 (5)*Boisrobert**Pyrandre et Lysimène ou l'Heureuse tromperie*
 
 
 Bibliothèque de la Sorbonne : R.ra. 409
@@ -5978,228 +5923,107 @@ Bibliothèque Nationale de Madrid : T-i / 30 (v. 30)*in*
 BnF : YG-311 (6)
 
 
-## Ouvrages généraux*Antoine**Histoire de la Littérature française au
-                  XVII*e* siècle. L'époque de Pascal*
-*Aquien**La versification appliquée aux
-              textes*
+## Ouvrages généraux*Antoine**Histoire de la Littérature française au XVII*e* siècle. L'époque de Pascal*
+*Aquien**La versification appliquée aux textes*
 *Diccionario de la Academia española*
 *Dictionnaire de l'Académie française*
 *Dictionnaire historique de la langue française*
-*Cayrou**Le français classique, lexique de la
-                langue du XVII*e* siècle**e*
-*Cuenin**Mémoires de Marie d'Orléans duchesse de
-                Nemours*
+*Cayrou**Le français classique, lexique de la langue du XVII*e* siècle**e*
+*Cuenin**Mémoires de Marie d'Orléans duchesse de Nemours*
 *Dubois**Lagane**Lerond**Dictionnaire du français du XVII*e* siècle*
-*Duchêne**Les Précieuses ou comment l'esprit vint
-                aux femmes*
+*Duchêne**Les Précieuses ou comment l'esprit vint aux femmes*
 *Fournier**Grammaire du français classique*
-*Féroud**Dictionnaire critique de la langue
-                française (1787)*
+*Féroud**Dictionnaire critique de la langue française (1787)*
 *Fromilhague**Les figures de style*
 *Furetière**Dictionnaire universel*
-*Imbs**Trésors de la langue française. Dictionnaire
-                de la langue du XIX*e* et du XX*e* siècles
-                (1789-1960)*
-*Moreri**Le grand Dictionnaire historique ou le
-                mêlange curieux de l'histoire sacrée et profane*
+*Imbs**Trésors de la langue française. Dictionnaire de la langue du XIX*e* et du XX*e* siècles (1789-1960)*
+*Moreri**Le grand Dictionnaire historique ou le mêlange curieux de l'histoire sacrée et profane*
 *Moulinié**Dictionnaire de rhétorique*
-*Pellisson-Fontanier, P.**Relation contenant
-                l'Histoire de l'Académie françoise*
+*Pellisson-Fontanier, P.**Relation contenant l'Histoire de l'Académie françoise*
 *Petitot**Collection de Mémoires relatifs à l'histoire de France*
-*Richelet**Dictionnaire de la langue
-              française*
-*Sancier-Château**Introduction à la langue de
-                  XVII*e* siècle*
-*Sancier-Château**Introduction à la langue de
-                  XVII*e* siècle*
+*Richelet**Dictionnaire de la langue française*
+*Sancier-Château**Introduction à la langue de XVII*e* siècle*
+*Sancier-Château**Introduction à la langue de XVII*e* siècle*
 
 
 
-## Ouvrages sur le théâtre*Baby**La tragi-comédie de Corneille à
-                Quinault*
-*Baillet**Jugemens des Savans sur les principaux
-                ouvrages des auteurs. Revûs, corrigés, & augmentés par M. de la Monnoye de
-                l'Académie Françoise*
-*Barrera y Leirado**Catálogo
-                bibliográfico y biográco del Teatro antiguo español, desde sus orígenes hasta
-                mediados del siglo XVIII*
-*Chappuzéau**Le theatre françois divisé en trois
-                livres*
-*Cioranescu**Bibliographie de la Littérature du
-                  XVII*e* siècle*
-*Couderc**Fondo y forma del
-                Teatro del siglo de oro*
-*De Beauchamp**Recherche sur les Théatres de France,
-                depuis l'année onze cens soixante & un, jusqu'à présent*
-*Deierkauf-Holsboer**Histoire de la mise en scène
-                dans le théâtre français à Paris de 1600 à 1673*
-*Demont P.**Lebeau A.**Les
-                Tragiques Grecs. Eschyle, Sophocle, Euripide. Théâtre complet*
-*Forestier**Esthétique de l'identité dans le
-                Théâtre français (1550-1680). Le déguisement et ses avatars*
-*Forestier**Introduction à l'analyse des textes
-                classiques. Eléments de rhétorique et de poétique du XVII*e*
-                siècle*
+## Ouvrages sur le théâtre*Baby**La tragi-comédie de Corneille à Quinault*
+*Baillet**Jugemens des Savans sur les principaux ouvrages des auteurs. Revûs, corrigés, & augmentés par M. de la Monnoye de l'Académie Françoise*
+*Barrera y Leirado**Catálogo bibliográfico y biográco del Teatro antiguo español, desde sus orígenes hasta mediados del siglo XVIII*
+*Chappuzéau**Le theatre françois divisé en trois livres*
+*Cioranescu**Bibliographie de la Littérature du XVII*e* siècle*
+*Couderc**Fondo y forma del Teatro del siglo de oro*
+*De Beauchamp**Recherche sur les Théatres de France, depuis l'année onze cens soixante & un, jusqu'à présent*
+*Deierkauf-Holsboer**Histoire de la mise en scène dans le théâtre français à Paris de 1600 à 1673*
+*Demont P.**Lebeau A.**Les Tragiques Grecs. Eschyle, Sophocle, Euripide. Théâtre complet*
+*Forestier**Esthétique de l'identité dans le Théâtre français (1550-1680). Le déguisement et ses avatars*
+*Forestier**Introduction à l'analyse des textes classiques. Eléments de rhétorique et de poétique du XVII*e* siècle*
 *Forestier**Racine. Théâtre - Poésie*
-*Goujet**Bibliothèque Françoise ou
-                Histoire de la Littérature Françoise*
+*Goujet**Bibliothèque Françoise ou Histoire de la Littérature Françoise*
 *Guichemerre**La tragi-comédie*
-*Lancaster**A History of French dramatic
-                Literature in the Seventeenth Century*
-*Lancaster**Le mémoire de Mahelot, Laurent et
-                d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie Française au XVII*e* siècle*
+*Lancaster**A History of French dramatic Literature in the Seventeenth Century*
+*Lancaster**Le mémoire de Mahelot, Laurent et d'autres décorateurs de l'Hôtel de Bourgogne et de la Comédie Française au XVII*e* siècle*
 *La Vallière, de la Baume le Blanc (**Bibliothèque du Théâtre François*
-*Le Fort de la Morinière**Bibliothèque
-                Poëtique, ou Nouveau choix des plus belles Pieces de Vers en tout genre, depuis
-                Marot jusqu'aux Poëtes de nos jours, avec leurs vies et des Remarques sur leurs
-                Ouvrages*
-*Losada Goya**Bibliographie critique de la
-                Littérature Espagnole en France au XVII*e* siècle. Présence et
-                influence*
+*Le Fort de la Morinière**Bibliothèque Poëtique, ou Nouveau choix des plus belles Pieces de Vers en tout genre, depuis Marot jusqu'aux Poëtes de nos jours, avec leurs vies et des Remarques sur leurs Ouvrages*
+*Losada Goya**Bibliographie critique de la Littérature Espagnole en France au XVII*e* siècle. Présence et influence*
 *Martinenche**La**espagnole en France de Hardy à Racine*
-*De Mouhy**Abrégé de l'histoire du Théatre François,
-                depuis son origine jusqu'au premier Juin de l'année 1780 ; précédé de toutes les
-                Pièces de Théatre jouées & imprimées ; du Dictionnaire des Auteurs Dramatiques,
-                & du Dictionnaire des Acteurs & Actrices ; dédié au Roi*
-*De Mouhy**Tablettes dramatiques, contenant l'Abrégé
-                de l'Histoire du Théâtre François*
-*Nicéron**Mémoires pour servir à
-                l'histoire des hommes illustres dans la République des Lettres*
-*Parfaict**Dictionnaire des
-                théâtres de Paris*
-*Parfaict**Histoire du Theatre
-                François, depuis son origine jusqu'à présent, avec la vie des plus celebres Poëtes
-                Dramatiques, un Catalogue exact de leurs Pièces, & des Notes Historiques &
-                Critiques*
+*De Mouhy**Abrégé de l'histoire du Théatre François, depuis son origine jusqu'au premier Juin de l'année 1780 ; précédé de toutes les Pièces de Théatre jouées & imprimées ; du Dictionnaire des Auteurs Dramatiques, & du Dictionnaire des Acteurs & Actrices ; dédié au Roi*
+*De Mouhy**Tablettes dramatiques, contenant l'Abrégé de l'Histoire du Théâtre François*
+*Nicéron**Mémoires pour servir à l'histoire des hommes illustres dans la République des Lettres*
+*Parfaict**Dictionnaire des théâtres de Paris*
+*Parfaict**Histoire du Theatre François, depuis son origine jusqu'à présent, avec la vie des plus celebres Poëtes Dramatiques, un Catalogue exact de leurs Pièces, & des Notes Historiques & Critiques*
 *Scherer**La Dramaturgie classique en France*
 
 
 
-## Ouvrages sur Boisrobert*Cauchie**Epîtres en vers de Bois-Robert. Edition
-                critique avec un commentaire tiré de documents pour la plupart inédits*
+## Ouvrages sur Boisrobert*Cauchie**Epîtres en vers de Bois-Robert. Edition critique avec un commentaire tiré de documents pour la plupart inédits*
 *Crépet**Les poètes français*
-*Fournel**Les contemporains de Molière. Recueil de
-                comédies rares ou peu connues jouées de 1650 à 1680. Avec l'histoire de chaque
-                théâtre, des notes et notices biographiques et bibliographiques*
+*Fournel**Les contemporains de Molière. Recueil de comédies rares ou peu connues jouées de 1650 à 1680. Avec l'histoire de chaque théâtre, des notes et notices biographiques et bibliographiques*
 *Hippeau**Les écrivains normands au XVII*e* siècle*
-*Labitte**Etudes littéraires, avec une notice de M.
-                de Saint-Beuve*
-*Lebreton**Biographie normande. Recueil
-                de notices biographiques et bibliographiques sur les personnages célèbres nés en
-                Normandie et sur ceux qui se sont seulement distingués par leurs actions ou par
-                leurs écrits*
-*Livet**Etudes sur la Littérature
-                Française à l'époque de Richelieu et de Mazarin. I. Bois-Robert*
-*Magne**Le plaisant abbé de Boisrobert, fondateur
-                de l'Académie française (1592-1662), Documents inédits*
-*Magne**Tallemant des Réaux. Le cardinal de
-                Richelieu, sa famille, son favori Bois-Robert*
-*Tenner**François Le Métel de Boisrobert, Als
-                Dramaticher und Nachhmer des Spanichen Dramas. I. Die Tragikomödien.
-                Inaugural-Dissentation*
+*Labitte**Etudes littéraires, avec une notice de M. de Saint-Beuve*
+*Lebreton**Biographie normande. Recueil de notices biographiques et bibliographiques sur les personnages célèbres nés en Normandie et sur ceux qui se sont seulement distingués par leurs actions ou par leurs écrits*
+*Livet**Etudes sur la Littérature Française à l'époque de Richelieu et de Mazarin. I. Bois-Robert*
+*Magne**Le plaisant abbé de Boisrobert, fondateur de l'Académie française (1592-1662), Documents inédits*
+*Magne**Tallemant des Réaux. Le cardinal de Richelieu, sa famille, son favori Bois-Robert*
+*Tenner**François Le Métel de Boisrobert, Als Dramaticher und Nachhmer des Spanichen Dramas. I. Die Tragikomödien. Inaugural-Dissentation*
 
 
 -------
 
 
-[1] C'est
-                la date traditionnellement adoptée en raison d'une lettre de Guy Patin du 8 juin
-                1655 où il est dit que Boisrobert avait alors 63 ans, lorsque commence sa seconde
-                disgrâce. Cependant Maurice Cauchie propose qu'il est né entre le 1*er* juillet et le 31 décembre 1589. « A sa mort, il avait donc au moins 72
-                ans et trois mois et au plus 72 ans et neuf mois. » *Cf.* la notice
-                de Maurice Cauchie dans son édition critique des *Epîtres en vers de
-                  Boisrobert*, Paris, Hachette, 1927, t. II, p. 301.
+[1] C'est la date traditionnellement adoptée en raison d'une lettre de Guy Patin du 8 juin 1655 où il est dit que Boisrobert avait alors 63 ans, lorsque commence sa seconde disgrâce. Cependant Maurice Cauchie propose qu'il est né entre le 1*er* juillet et le 31 décembre 1589. « A sa mort, il avait donc au moins 72 ans et trois mois et au plus 72 ans et neuf mois. » *Cf.* la notice de Maurice Cauchie dans son édition critique des *Epîtres en vers de Boisrobert*, Paris, Hachette, 1927, t. II, p. 301.
 
-[2] Cauchie soutient également que la date de décès de Boisrobert serait le 5 avril
-                1662 et non pas le 30 mars, suite à un examen de la gazette de Loret concernant la
-                mort de Boisrobert. Ce qui est sûr c'est que son enterrement eut lieu le 11 du même
-                mois. *Idem*, p. 302.
+[2] Cauchie soutient également que la date de décès de Boisrobert serait le 5 avril 1662 et non pas le 30 mars, suite à un examen de la gazette de Loret concernant la mort de Boisrobert. Ce qui est sûr c'est que son enterrement eut lieu le 11 du même mois. *Idem*, p. 302.
 
-[3] Emile Magne, *Tallemant des Réaux. Le cardinal de Richelieu, sa famille, son favori
-                  Bois-Robert*, Paris, Complexe, 1990, p. 179.
+[3] Emile Magne, *Tallemant des Réaux. Le cardinal de Richelieu, sa famille, son favori Bois-Robert*, Paris, Complexe, 1990, p. 179.
 
-[4] Emile Magne, *Le plaisant abbé de Boisrobert, fondateur
-                  de l'Académie française*, Paris, Mercure de France, 1909, p. 448.
+[4] Emile Magne, *Le plaisant abbé de Boisrobert, fondateur de l'Académie française*, Paris, Mercure de France, 1909, p. 448.
 
 [5] Emile Magne, *Idem*, p. 160-165.
 
-[6] Jean-Pierre Nicéron,
-                  *Mémoires pour servir à l'histoire des hommes illustres de le
-                  République des Lettres*, Paris, Briasson, 1736, vol. 35, p. 53-67.
-              
+[6] Jean-Pierre Nicéron, *Mémoires pour servir à l'histoire des hommes illustres de le République des Lettres*, Paris, Briasson, 1736, vol. 35, p. 53-67. 
 
-[7] Célestin Hippeau, *Les
-                  écrivains normands du XVII*e* siècle*, Caen, Buhour, 1858,
-                p. 97.
+[7] Célestin Hippeau, *Les écrivains normands du XVII*e* siècle*, Caen, Buhour, 1858, p. 97.
 
-[8] Le prieuré de
-                Saint-Saturnin de Nozay, au diocèse de Nantes, près de Chateaubriand, qu'il retint
-                pour peu de temps au dire de C. Hippeau, *Idem*, p. 100.
+[8] Le prieuré de Saint-Saturnin de Nozay, au diocèse de Nantes, près de Chateaubriand, qu'il retint pour peu de temps au dire de C. Hippeau, *Idem*, p. 100.
 
-[9] Ch. L.
-                Livet, *Etudes sur la littérature française à l'époque de Richelieu et
-                  de Mazarin. I. Bois-Robert*, Paris, Techener, 1852, p. 13.
+[9] Ch. L. Livet, *Etudes sur la littérature française à l'époque de Richelieu et de Mazarin. I. Bois-Robert*, Paris, Techener, 1852, p. 13.
 
-[10] Paul Pellisson, *Relation contenant l'Histoire de l'Académie françoise*, Paris, Joly,
-                1672, p. 8-11.
+[10] Paul Pellisson, *Relation contenant l'Histoire de l'Académie françoise*, Paris, Joly, 1672, p. 8-11.
 
-[11] Emile Magne, *Le plaisant…, Op.
-                  cit*., p. 447.
+[11] Emile Magne, *Le plaisant…, Op. cit*., p. 447.
 
-[12] D'après les frères Parfaict, qui
-                puisent dans les *Historiettes* de Tallemant, il y aurait deux
-                causes plausibles. La première aurait eu lieu à l'occasion de la représentation de
-                la tragédie *Mirame* que Richelieu voulut faire représenter devant
-                le roi et quelques courtisans de son gré. Il avait ordonné de n'y laisser rentrer
-                personne qu'il n'aurait pas choisi. Il semble pourtant que Boisrobert ait contrevenu
-                à cet ordre et ait permis l'entrée de « deux femmes de réputation équivoque ». Le
-                roi et Gaston d'Orléans son frère s'en aperçurent et le firent savoir au Cardinal.
-                Celui-ci, poussé par les propos malveillants de sa nièce, la duchesse d'Aiguillon,
-                qui n'aimait pas le favori, décréta l'expulsion de Boisrobert de Paris pour se
-                retirer dans son abbaye bourguignonne ou dans son canonicat normand. La seconde
-                cause, qui n'est pas moins infondée que la première, aurait pour origine les
-                inclinations de Boisrobert pour le sexe masculin. Le roi aurait dit à Richelieu que
-                son protégé « déshonorait sa maison » : il aurait reçu des échos de quelques
-                intrigants qui voulaient le perdre et selon lesquels notre abbé se serait adonné à
-                des pratiques déréglées avec des pages de la cour…*Cf*. Claude et
-                François Parfaict, *Histoire du Theatre François, depuis son orgine
-                  jusqu'à présent, avec la vie des plus celebres Poëtes Dramatiques, un Catalogue
-                  exact de leurs Pièces, & des Notes Historiques & Critiques*, Paris,
-                P.G. Le Mercier, Imprimeur-Libraire, 1745, vol. 5, p. 8-12. 
+[12] D'après les frères Parfaict, qui puisent dans les *Historiettes* de Tallemant, il y aurait deux causes plausibles. La première aurait eu lieu à l'occasion de la représentation de la tragédie *Mirame* que Richelieu voulut faire représenter devant le roi et quelques courtisans de son gré. Il avait ordonné de n'y laisser rentrer personne qu'il n'aurait pas choisi. Il semble pourtant que Boisrobert ait contrevenu à cet ordre et ait permis l'entrée de « deux femmes de réputation équivoque ». Le roi et Gaston d'Orléans son frère s'en aperçurent et le firent savoir au Cardinal. Celui-ci, poussé par les propos malveillants de sa nièce, la duchesse d'Aiguillon, qui n'aimait pas le favori, décréta l'expulsion de Boisrobert de Paris pour se retirer dans son abbaye bourguignonne ou dans son canonicat normand. La seconde cause, qui n'est pas moins infondée que la première, aurait pour origine les inclinations de Boisrobert pour le sexe masculin. Le roi aurait dit à Richelieu que son protégé « déshonorait sa maison » : il aurait reçu des échos de quelques intrigants qui voulaient le perdre et selon lesquels notre abbé se serait adonné à des pratiques déréglées avec des pages de la cour…*Cf*. Claude et François Parfaict, *Histoire du Theatre François, depuis son orgine jusqu'à présent, avec la vie des plus celebres Poëtes Dramatiques, un Catalogue exact de leurs Pièces, & des Notes Historiques & Critiques*, Paris, P.G. Le Mercier, Imprimeur-Libraire, 1745, vol. 5, p. 8-12. 
 
-[13] Emile Magne, *Ibid*., p. 339.
-              
+[13] Emile Magne, *Ibid*., p. 339. 
 
-[14] En effet,
-                l'existence du théâtre n'avait fait qu'augmenter les scandales sur la vie de
-                Boisrobert, et ce qu'on avait volontiers toléré au favori de Richelieu déplut dans
-                le prêtre, dont les vers contre les frondeurs n'avaient pas réussi à le faire aimer
-                du nouveau ministre. Boisrobert ne disait pas souvent la messe, appelait Ninon « sa
-                divine », faisait parfois l'esprit fort et la spirituelle Mme Cornuel (qui dit une
-                fois, en voyant notre abbé célébrer la messe : « Voilà ma foy toute esvanouie »)
-                trouvait que sa chasuble était faite d'une robe de Ninon. *Cf*.
-                Labitte, *Etudes littéraires, avec une notice de M. de
-                Sainte-Beuve*, Paris, Joubert, t. I, p. 413.
+[14] En effet, l'existence du théâtre n'avait fait qu'augmenter les scandales sur la vie de Boisrobert, et ce qu'on avait volontiers toléré au favori de Richelieu déplut dans le prêtre, dont les vers contre les frondeurs n'avaient pas réussi à le faire aimer du nouveau ministre. Boisrobert ne disait pas souvent la messe, appelait Ninon « sa divine », faisait parfois l'esprit fort et la spirituelle Mme Cornuel (qui dit une fois, en voyant notre abbé célébrer la messe : « Voilà ma foy toute esvanouie ») trouvait que sa chasuble était faite d'une robe de Ninon. *Cf*. Labitte, *Etudes littéraires, avec une notice de M. de Sainte-Beuve*, Paris, Joubert, t. I, p. 413.
 
-[15] Ce fut l'abbé de la
-                Victoire qui lui attribua ce surnom lorsque Boisrobert écoutait la messe aux Minimes
-                de la Place Royale. Quand on lui demanda qui était notre abbé, il répondit : « c'est
-                l'abbé Mondory, qui va tantôt prêcher au Petit-Bourbon. » Boisrobert était aussi
-                connu sous les surnoms d' « Abbé comique » et de « Trivelin de robe longue. » A son
-                retour en grâce en 1658, il était connu dans les cercles précieux comme le « grand
-                preste des ruelles » et « le directeur du royaume de coquetterie » car il s'érigeait
-                en philosophe et en éducateur galant. *Cf*. Emile Magne, *Ibid*., p. 367.
+[15] Ce fut l'abbé de la Victoire qui lui attribua ce surnom lorsque Boisrobert écoutait la messe aux Minimes de la Place Royale. Quand on lui demanda qui était notre abbé, il répondit : « c'est l'abbé Mondory, qui va tantôt prêcher au Petit-Bourbon. » Boisrobert était aussi connu sous les surnoms d' « Abbé comique » et de « Trivelin de robe longue. » A son retour en grâce en 1658, il était connu dans les cercles précieux comme le « grand preste des ruelles » et « le directeur du royaume de coquetterie » car il s'érigeait en philosophe et en éducateur galant. *Cf*. Emile Magne, *Ibid*., p. 367.
 
-[16] Goujet, *Histoire de la Littérature Françoise*, Paris, Guérin et al., 1756, t.
-                17, p. 94.
+[16] Goujet, *Histoire de la Littérature Françoise*, Paris, Guérin et al., 1756, t. 17, p. 94.
 
-[17] Comme il avait la passion du jeu
-                et que le plus souvent il perdait beaucoup d'argent, Boisrobert n'a jamais pu
-                s'empêcher de lâcher des jurons au nom de Dieu. Cette fois-là, il blasphéma en
-                présence des nièces de Mazarin et le parti dévot, protégé par la Régente, profita de
-                l'occasion pour le perdre. Plus probable encore : le père Annat, jésuite et
-                confesseur du roi, voulut se venger sachant que Boisrobert s'était moqué de lui en
-                le contrefaisant publiquement. 
+[17] Comme il avait la passion du jeu et que le plus souvent il perdait beaucoup d'argent, Boisrobert n'a jamais pu s'empêcher de lâcher des jurons au nom de Dieu. Cette fois-là, il blasphéma en présence des nièces de Mazarin et le parti dévot, protégé par la Régente, profita de l'occasion pour le perdre. Plus probable encore : le père Annat, jésuite et confesseur du roi, voulut se venger sachant que Boisrobert s'était moqué de lui en le contrefaisant publiquement. 
 
 [18] Monsieur l'Abbé de Boisrobert,
     Auteur bien parlant, & disert,
@@ -6218,450 +6042,166 @@ BnF : YG-311 (6)
 
 [19] Emile Magne, *Ibid*., p. 385.
 
-[20] *Pyrandre et Lisimene, ou l'Heureure tromperie, tragi-comédie*,
-                1633 ; *Les Rivaux amis, tragi-comédie*, 1638 ; *Les
-                  deux Alcandres, tragi-comédie*, 1640 ; *Palène,
-                tragi-comédie*, 1640 ; *Le Couronnement de Darie,
-                tragi-comé*die, 1641 ; *La vraie Didon, ou la Didon chaste,
-                  tragédie*, 1642 ; *La Jalouse d'elle-même, comédie*, 1649 ;
-                  *La folle Gageure, ou les Divertissements de la comtesse de Prembroc,
-                  comédie*, 1653 ; *Les trois Orontes, ou les trois Semblables,
-                  comédie*, 1653 ; *Cassandre, comtesse de Barcelone,
-                  tragi-comédie*, 1654 ; *La belle Plaideuse, comédie*, 1654 ;
-                  *Les généreux Ennemis, comédie*, 1654 ; *L'Inconnu,
-                  comédie*, 1655 ; *L'Amant ridicule, comédie en vers et en un
-                  Acte*, 1655 ; *Les coups d'Amour et de Fortune, ou l'Heureuse
-                  Infortuné, tragi-comédie*, 1656 ; *Les Apparences trompeuses,
-                  comédie*, 1656 ; *La Belle invisible, ou la Constances éprouvée,
-                  tragi-comédie*, 1656 ; *Théodore, Reine de Hongrie,
-                  tragi-comédie*, 1657.
+[20] *Pyrandre et Lisimene, ou l'Heureure tromperie, tragi-comédie*, 1633 ; *Les Rivaux amis, tragi-comédie*, 1638 ; *Les deux Alcandres, tragi-comédie*, 1640 ; *Palène, tragi-comédie*, 1640 ; *Le Couronnement de Darie, tragi-comé*die, 1641 ; *La vraie Didon, ou la Didon chaste, tragédie*, 1642 ; *La Jalouse d'elle-même, comédie*, 1649 ; *La folle Gageure, ou les Divertissements de la comtesse de Prembroc, comédie*, 1653 ; *Les trois Orontes, ou les trois Semblables, comédie*, 1653 ; *Cassandre, comtesse de Barcelone, tragi-comédie*, 1654 ; *La belle Plaideuse, comédie*, 1654 ; *Les généreux Ennemis, comédie*, 1654 ; *L'Inconnu, comédie*, 1655 ; *L'Amant ridicule, comédie en vers et en un Acte*, 1655 ; *Les coups d'Amour et de Fortune, ou l'Heureuse Infortuné, tragi-comédie*, 1656 ; *Les Apparences trompeuses, comédie*, 1656 ; *La Belle invisible, ou la Constances éprouvée, tragi-comédie*, 1656 ; *Théodore, Reine de Hongrie, tragi-comédie*, 1657.
 
-[21] *Histoire indienne d'Anaxandre et d'Orazie, où sont entremeslées les avantures
-                  d'Alcidaris, de Cambaye et les amours de Pyroxène, par le sieur de
-                Boisrobert*, Paris, Sommaville, 1629, in-8°, XXX-760 p. 
+[21] *Histoire indienne d'Anaxandre et d'Orazie, où sont entremeslées les avantures d'Alcidaris, de Cambaye et les amours de Pyroxène, par le sieur de Boisrobert*, Paris, Sommaville, 1629, in-8°, XXX-760 p. 
 
 [22] Cioranescu, *Bibliographie de la littérature du XVII*e* siècle*, Paris, Éditions du CNRS, t. I, p. 358 *et sq.*
 
-[23] Juan
-                Bautista de Villegas est en effet contemporain de Lope de Vega, mais sans doute
-                beaucoup plus jeune que lui puisqu'il n'est pas cité par Navarro dans son *Discours* A*pologétique de la Comedia*. Connu sous
-                plusieurs dénominations (notamment Bautista et Juan de Villegas), son nom rappelle
-                celui d'autres auteurs dramatiques et même de quelques comédiens avec lesquels on a
-                tendance à le confondre, dont la carrière s'est déroulée à peu près dans le même
-                temps. Il écrivait déjà des pièces de théâtre en 1621, mais Barrera y Leirado
-                affirme qu'il existe beaucoup d'obscurité en ce qui concerne les circonstances de sa
-                vie et de la production de son œuvre. Il est très probable qu'il n'ait pas résidé
-                habituellement à Madrid, ni qu'il ait eu beaucoup de contact avec les dramaturges de
-                son époque, ce qui expliquerait ce manque d'information. Il figure pourtant dans le
-                  *Catálogo de Autoridades de la Lengua* publié par l'Académie
-                Espagnole. Sa pièce de théâtre la plus célèbre est sans conteste *La
-                  despreciada querida*, qui fut longtemps attribuée par erreur à Lope de Vega et
-                publiée dans plusieurs recueils de cet auteur. Comme celle-ci, le reste de son œuvre
-                parut entre 1630 et 1640, dont *La mentirosa verdad* dans le recueil
-                  *Parte treynta de comedias famosas de varios autores* (Zaragoza,
-                1636), et *El marido de su hermana* dans *Parte quinta
-                  de comedias escogidas de los mejores ingenios de España* (Madrid, 1653), qui
-                tout en s'agissant strictement de la même pièce de théâtre, avec des intitulés
-                différents, constituent la source unique de la *Cassandre* de
-                Boisrobert. *Cf*. Cayetano Alberto de la Barrera y Leirado, *Catálogo bibliográfico y biográfico del Teatro antiguo español, desde sus
-                  orígenes hasta mediados del siglo XVIII*, Madrid, Edición facsímil de la
-                Editorial Gredo, 1969, p. 494.
+[23] Juan Bautista de Villegas est en effet contemporain de Lope de Vega, mais sans doute beaucoup plus jeune que lui puisqu'il n'est pas cité par Navarro dans son *Discours* A*pologétique de la Comedia*. Connu sous plusieurs dénominations (notamment Bautista et Juan de Villegas), son nom rappelle celui d'autres auteurs dramatiques et même de quelques comédiens avec lesquels on a tendance à le confondre, dont la carrière s'est déroulée à peu près dans le même temps. Il écrivait déjà des pièces de théâtre en 1621, mais Barrera y Leirado affirme qu'il existe beaucoup d'obscurité en ce qui concerne les circonstances de sa vie et de la production de son œuvre. Il est très probable qu'il n'ait pas résidé habituellement à Madrid, ni qu'il ait eu beaucoup de contact avec les dramaturges de son époque, ce qui expliquerait ce manque d'information. Il figure pourtant dans le *Catálogo de Autoridades de la Lengua* publié par l'Académie Espagnole. Sa pièce de théâtre la plus célèbre est sans conteste *La despreciada querida*, qui fut longtemps attribuée par erreur à Lope de Vega et publiée dans plusieurs recueils de cet auteur. Comme celle-ci, le reste de son œuvre parut entre 1630 et 1640, dont *La mentirosa verdad* dans le recueil *Parte treynta de comedias famosas de varios autores* (Zaragoza, 1636), et *El marido de su hermana* dans *Parte quinta de comedias escogidas de los mejores ingenios de España* (Madrid, 1653), qui tout en s'agissant strictement de la même pièce de théâtre, avec des intitulés différents, constituent la source unique de la *Cassandre* de Boisrobert. *Cf*. Cayetano Alberto de la Barrera y Leirado, *Catálogo bibliográfico y biográfico del Teatro antiguo español, desde sus orígenes hasta mediados del siglo XVIII*, Madrid, Edición facsímil de la Editorial Gredo, 1969, p. 494.
 
-[24] Ernest Martinenche, *La*
-                Comedia *espagnole en France de Hardy à Racine*, Paris, Hachette,
-                1900, p. 403.
+[24] Ernest Martinenche, *La* Comedia *espagnole en France de Hardy à Racine*, Paris, Hachette, 1900, p. 403.
 
-[25] Fritz Tenner, *François Le Métel de Boisrobert, Als Dramaticher und Nachhmer des Spanischen
-                  Dramas. I.Die Tragikomödien. Inaugural-Dissertation*, Leipzig, Buchdruckerei
-                M. Wachsmuth, 1907, p. 110.
+[25] Fritz Tenner, *François Le Métel de Boisrobert, Als Dramaticher und Nachhmer des Spanischen Dramas. I.Die Tragikomödien. Inaugural-Dissertation*, Leipzig, Buchdruckerei M. Wachsmuth, 1907, p. 110.
 
-[26] Elle est la sixième des douze *comedias* contenues dans le recueil *Parte treynta de comedias
-                  famosas de varios autores* qui se trouve dans la Bibliothèque Nationale de
-                Madrid sous la cote < T-i / 30 (v. 30) >. Il semble que ce recueil eut
-                beaucoup de succès, vu le nombre d'imprimés qui parurent successivement au XVII*e* siècle en Espagne. En 1638 et 1639 furent tirés d'autres
-                ouvrages avec le même titre dont curieusement il ne reste pas d'exemplaires à Madrid
-                et qu'on trouve en revanche à la Bibliothèque Mazarine (ils proviennent
-                respectivement des congrégations des Oratoriens et des Augustiniens de Paris),
-                classés sous les cotes < 11069 H > et < 11069 Q >. Encore faut-il dire
-                que ces deux exemplaires reproduisent exactement le texte de base. Ce n'est pas le
-                cas de la pièce publiée en 1653, toujours dans un recueil collectif mais sous
-                l'intitulé de *Parte quinta de comedias escogidas de los mejores
-                  ingenios de España*, où l'œuvre en question a souffert une mutilation de
-                certains passages d'intérêt, notamment quelques tirades galantes et affectées de
-                Carlos ainsi que des paroles cocasses et bouffonnes de Beltrán. Des exemplaires de
-                cette édition sont conservés dans les Bibliothèques Nationales de France et de
-                Madrid sous les cotes < YG-311 (6) > pour la première, et < T-i / 16 (v.V.)
-                > pour la seconde. 
+[26] Elle est la sixième des douze *comedias* contenues dans le recueil *Parte treynta de comedias famosas de varios autores* qui se trouve dans la Bibliothèque Nationale de Madrid sous la cote < T-i / 30 (v. 30) >. Il semble que ce recueil eut beaucoup de succès, vu le nombre d'imprimés qui parurent successivement au XVII*e* siècle en Espagne. En 1638 et 1639 furent tirés d'autres ouvrages avec le même titre dont curieusement il ne reste pas d'exemplaires à Madrid et qu'on trouve en revanche à la Bibliothèque Mazarine (ils proviennent respectivement des congrégations des Oratoriens et des Augustiniens de Paris), classés sous les cotes < 11069 H > et < 11069 Q >. Encore faut-il dire que ces deux exemplaires reproduisent exactement le texte de base. Ce n'est pas le cas de la pièce publiée en 1653, toujours dans un recueil collectif mais sous l'intitulé de *Parte quinta de comedias escogidas de los mejores ingenios de España*, où l'œuvre en question a souffert une mutilation de certains passages d'intérêt, notamment quelques tirades galantes et affectées de Carlos ainsi que des paroles cocasses et bouffonnes de Beltrán. Des exemplaires de cette édition sont conservés dans les Bibliothèques Nationales de France et de Madrid sous les cotes < YG-311 (6) > pour la première, et < T-i / 16 (v.V.) > pour la seconde. 
 
-[27] Lancaster, *A history of French Dramatic Literature in the Seventeenth century. The
-                  period of Molière, 1652-1672*, Maryland, The John Hopkins Press, 1936, part
-                III, vol. I, p. 138-140.
+[27] Lancaster, *A history of French Dramatic Literature in the Seventeenth century. The period of Molière, 1652-1672*, Maryland, The John Hopkins Press, 1936, part III, vol. I, p. 138-140.
 
-[28] Roger Guichemerre, *La Tragi-comédie*, Paris, PUF, 1981, p.
-                8.
+[28] Roger Guichemerre, *La Tragi-comédie*, Paris, PUF, 1981, p. 8.
 
-[29] Guichemerre, *Op. cit*., p. 54. Ce critique distingue trois types de tragi-comédies :
-                d'aventure, des amours contrariées et de palais.
+[29] Guichemerre, *Op. cit*., p. 54. Ce critique distingue trois types de tragi-comédies : d'aventure, des amours contrariées et de palais.
 
-[30] *Pyrandre et Lisimène ou la
-                  Belle Lisimène ou l'Heureuse Tromperie*, tragi-comédie représentée vers
-                1630-1631 et publiée en 1633. *Cf*. H. C. Lancaster, *Le
-                  Mémoire de Mahelot, Laurent et autres Décorateurs de l'Hôtel de Bourgogne et de la
-                  Comédie Française au XVII*e* siècle*, Paris, Librairie
-                ancienne Honoré Champion, 1920, p. 88-89.
+[30] *Pyrandre et Lisimène ou la Belle Lisimène ou l'Heureuse Tromperie*, tragi-comédie représentée vers 1630-1631 et publiée en 1633. *Cf*. H. C. Lancaster, *Le Mémoire de Mahelot, Laurent et autres Décorateurs de l'Hôtel de Bourgogne et de la Comédie Française au XVII*e* siècle*, Paris, Librairie ancienne Honoré Champion, 1920, p. 88-89.
 
-[31] Magne, *Ibid.*, p.
-                171.
+[31] Magne, *Ibid.*, p. 171.
 
-[32] Lancaster, *Ibid*, p. 79. Ce critique nous dit que
-                « X ajoute en marge ‘1643' et ‘*les Trois Orontes*, de Boisrobert',
-                mais Tenner a montré qu'il n'en est rien…La pièce est la pastorale perdu d'un auteur
-                inconnu. »
+[32] Lancaster, *Ibid*, p. 79. Ce critique nous dit que « X ajoute en marge ‘1643' et ‘*les Trois Orontes*, de Boisrobert', mais Tenner a montré qu'il n'en est rien…La pièce est la pastorale perdu d'un auteur inconnu. »
 
-[33] « Aujourd'hui à l'aube ». En espagnol
-                moderne la graphie est différente : « Hoy a las risas del alba ».
+[33] « Aujourd'hui à l'aube ». En espagnol moderne la graphie est différente : « Hoy a las risas del alba ».
 
 [34] Guichemerre, *Op. cit*., p. 146-148.
 
-[35] Georges Forestier, *Esthétique de l'identité
-                      dans le Théâtre français (1550-1680). Le déguisement et ses avatars*,
-                    Genève, Droz, 1988, p. 507.
+[35] Georges Forestier, *Esthétique de l'identité dans le Théâtre français (1550-1680). Le déguisement et ses avatars*, Genève, Droz, 1988, p. 507.
 
 [36] *Ibid.*, p. 517.
 
-[37] Scherer, *La Dramaturgie classique en
-                  France*, Nouvelle édition revue et mise à jour par Colette Scherer, Paris,
-                Nizet, 2001, p. 360.
+[37] Scherer, *La Dramaturgie classique en France*, Nouvelle édition revue et mise à jour par Colette Scherer, Paris, Nizet, 2001, p. 360.
 
-[38] Georges Forestier, *Introduction à l'analyse des textes classiques. Éléments de rhétorique et de
-                  poétique du XVII*e* siècle*, Paris, Nathan, 1993, p.
-                76.
+[38] Georges Forestier, *Introduction à l'analyse des textes classiques. Éléments de rhétorique et de poétique du XVII*e* siècle*, Paris, Nathan, 1993, p. 76.
 
-[39] *Ibid.*, p.
-                  76.
+[39] *Ibid.*, p. 76.
 
-[40] Aquien, *La versification appliquée aux textes*, Paris, Nathan, 1993, p. 71 et
-                99.
+[40] Aquien, *La versification appliquée aux textes*, Paris, Nathan, 1993, p. 71 et 99.
 
-[41] Losada
-              Goya, *Bibliographie critique de la Littérature Espagnole en France au
-                  17*e* siècle. Présence et influence*, Genève, Droz, 1999, p.
-              90.
+[41] Losada Goya, *Bibliographie critique de la Littérature Espagnole en France au 17*e* siècle. Présence et influence*, Genève, Droz, 1999, p. 90.
 
-[42] Les deux se trouvent à la Bibliothèque
-              Nationale sous les cotes : < YF-5156 > la première et  < YF-5194 > la
-              seconde.
+[42] Les deux se trouvent à la Bibliothèque Nationale sous les cotes : < YF-5156 > la première et  < YF-5194 > la seconde.
 
-[43] Parfaict, *Op.
-                cit.*, T. VII, p. 411. La date est confirmée par Lancaster , *A
-                History*…*Op. cit*., part III, vol. I, p. 138.
+[43] Parfaict, *Op. cit.*, T. VII, p. 411. La date est confirmée par Lancaster , *A History*…*Op. cit*., part III, vol. I, p. 138.
 
-[44] Chappuzeau, *Le Théatre françois divisé en trois livres*, Lyon, René Guinard,
-                1674, p. 70.
+[44] Chappuzeau, *Le Théatre françois divisé en trois livres*, Lyon, René Guinard, 1674, p. 70.
 
 [45] Cité par Parfaict, *Op.cit*., T. VII, p. 411.
 
-[46] De
-              Mouhy, *Abrégé de l'Histoire du Théatre François, depuis son origine
-                jusqu'au premier Juin de l'année 1780 ; précédé de toutes les Pièces de Théatre
-                jouées & imprimées ; du Dictionnaraire des Auteurs Dramatiques, & du
-                Dictionnaire des Acteurs & Actrices ; dédié au Roi*, Paris, chez l'Auteur,
-              1780, T. I, p. 81. 
+[46] De Mouhy, *Abrégé de l'Histoire du Théatre François, depuis son origine jusqu'au premier Juin de l'année 1780 ; précédé de toutes les Pièces de Théatre jouées & imprimées ; du Dictionnaraire des Auteurs Dramatiques, & du Dictionnaire des Acteurs & Actrices ; dédié au Roi*, Paris, chez l'Auteur, 1780, T. I, p. 81. 
 
-[47] Magne, *Tallemant des Réaux…, Op. cit*., p.
-            35.
+[47] Magne, *Tallemant des Réaux…, Op. cit*., p. 35.
 
-[48] Parfaict, *Op. cit*., p.
-              411.
+[48] Parfaict, *Op. cit*., p. 411.
 
-[49] *Recueil des meilleures pieces faites en France depuis Rotrou jusqu'à nos
-                  jours, ou Théatre François*, 1781, T. VII, p. 183 *et
-                sq.*
+[49] *Recueil des meilleures pieces faites en France depuis Rotrou jusqu'à nos jours, ou Théatre François*, 1781, T. VII, p. 183 *et sq.*
 
 [50] Labitte, *Op. cit.*, p. 409.
 
-[51] Antoine Adam, *Histoire de
-                  la Littérature française du XVII*e* siècle*, Paris, Albin
-                Michel, t. II, p. 324.
+[51] Antoine Adam, *Histoire de la Littérature française du XVII*e* siècle*, Paris, Albin Michel, t. II, p. 324.
 
-[52] Couderc, « *La comedia de enredo y su adaptación en Francia en el siglo XVII : transformación
-                de un género*. », in *Fondo y forma del Teatro del siglo de
-                oro*, Madrid, La avispa, 1998, p. 271. *Cf* aussi Martinenche,
-                *Op. cit*., p. 402.
+[52] Couderc, « *La comedia de enredo y su adaptación en Francia en el siglo XVII : transformación de un género*. », in *Fondo y forma del Teatro del siglo de oro*, Madrid, La avispa, 1998, p. 271. *Cf* aussi Martinenche, *Op. cit*., p. 402.
 
-[53] Labitte, *Op. Cit*., p.
-                411.
+[53] Labitte, *Op. Cit*., p. 411.
 
 [54] Martinenche, *Op. cit.*, p. 402.
 
-[55] Lancaster, *Ibid*, Part III, vol.
-                I, p. 139.
+[55] Lancaster, *Ibid*, Part III, vol. I, p. 139.
 
-[56] Henri de Savoie, II*e* du nom,
-              dernier duc de Nemours, de Genevois et d'Aumale, né en 1625, fils de Henri de Savoie,
-                I*er* du nom (1572-1632) et d'Anne de Lorraine (1595 ?-1638). Il
-              fut d'abord destiné à l'état ecclésiastique et fut nommé archevêque de Reims. Il
-              présida à l'assemblée du clergé en 1651. Mais son frère étant mort et lui-même promu
-              au rang de duc de Nemours pour continuer le lignage, il quitta l'Eglise et épousa le
-              22 mai 1657 Marie d'Orléans. Il mourut sans postérité le 14 janvier
-            1659.
+[56] Henri de Savoie, II*e* du nom, dernier duc de Nemours, de Genevois et d'Aumale, né en 1625, fils de Henri de Savoie, I*er* du nom (1572-1632) et d'Anne de Lorraine (1595 ?-1638). Il fut d'abord destiné à l'état ecclésiastique et fut nommé archevêque de Reims. Il présida à l'assemblée du clergé en 1651. Mais son frère étant mort et lui-même promu au rang de duc de Nemours pour continuer le lignage, il quitta l'Eglise et épousa le 22 mai 1657 Marie d'Orléans. Il mourut sans postérité le 14 janvier 1659.
 
-[57] Marie d'Orléans-Longueville, duchesse de
-              Nemours, dite Mlle de Longueville (*alias* Nitocris selon le *Grand Dictionnaire des Précieuses* du Sieur de Somaize). Fille de Henri
-              d'Orléans, II*e* du nom, duc de Longueville, d'Estouteville et
-              prince de Neufchâtel (1595-1663) et de sa première femme Louise de Bourbon-Soissons
-              (1603-1637), la duchesse de Nemours naquit le 22 mai 1625 et mourut le 15 juin 1707.
-              Enormément riche, elle hérita à dix-sept ans de tous les biens de sa maison après la
-              mort de ses frères et instaura chez elle des habitudes de mécénat. Jouissant de son
-              indépendance, elle recevait à l'Hôtel de Longueville et de Soissons tous les
-              académiciens de la première cuvée, Boisrobert compris. Car, selon Micheline Cuénin,
-              Mlle de Longueville « fut sans aucun doute possible la femme la plus instruite de
-              France. » M. Petitot, dans sa *Collection de Mémoires* (t. 34, pp.
-              379-380), nous raconte qu'un duel fameux, qui eut lieu le 30 juillet 1652 influa
-              beaucoup sur la destinée de la princesse : Charles-Amédée de Savoie, duc de Nemours,
-              eut une dispute avec son beau-frère François de Bourbon-Vendôme, duc de Beaufort ; ils
-              se battirent et le premier fut tué. Henri de Savoie, son frère cadet, avait embrassé
-              l'état ecclésiastique pour lequel on lui croyait de la vocation. Il est nommé à
-              l'archevêché de Reims, mais on ne le lui avait pas encore conféré les ordres sacrés.
-              Ce jeune prince avait reçu une éducation variée mais sa santé était fragile et sa
-              fortune ne semblait pas très grande : il ne lui restait que son apanage de Savoie.
-              Mlle de Longueville, notre duchesse, qui depuis la fin de la Fronde menait une vie
-              retirée, paraissait décidée à ne pas se marier. « Mais ayant fait connaissance du
-              nouveau duc de Nemours, Henri de Savoie, la conformité de leurs goûts les rapprocha
-              bientôt. » Dès lors, il semble que tous les jours le duc soupait chez elle et qu'ils
-              s'entretenaient de littérature au milieu d'une société choisie ; et « après quelques
-              mois d'un commerce où l'esprit seul paraissait avoir part », ils prirent la résolution
-              de se marier. Comme ils étaient parents, une dispense du Pape fut nécessaire, et elle
-              arriva le printemps de 1657. Le mariage eut lieu le 22 mai. Cependant, Mme Cuénin
-              soutient qu'il fut plutôt imposé par la volonté de Mazarin pour éviter que la
-              princesse épouse le duc d'York, futur Jacques II d'Angleterre. C'est certainement au
-              cours de l'année 1653, dans le cadre des réunions mondaines et littéraires qu'elle
-              organise en son hôtel, que l'assiduité de Boisrobert (Barsamon, en langage de ruelles)
-              et la lecture de notre *Cassandre* ont donné lieu aux « avis
-              obligeants » dont il est question dans son épîtreSomaize nous dit que Marie d'Orléans
-              est une précieuse qui « ne voit pas seulement ceux qui composent des vers et de la
-              prose, mais même elle sert de sujet et d'idée à ceux et celles qui nous tracent des
-              héroïnes…L'illustre Nitocris ne voit presque point d'égale ni pour la naissance, ni
-              pour les clartés et les lumières de son esprit.» Habitant alternativement la capitale
-              et ses terres à la fin de sa vie, elle partagea ses loisirs entre la culture des
-              lettres et l'administration de ses biens. 
+[57] Marie d'Orléans-Longueville, duchesse de Nemours, dite Mlle de Longueville (*alias* Nitocris selon le *Grand Dictionnaire des Précieuses* du Sieur de Somaize). Fille de Henri d'Orléans, II*e* du nom, duc de Longueville, d'Estouteville et prince de Neufchâtel (1595-1663) et de sa première femme Louise de Bourbon-Soissons (1603-1637), la duchesse de Nemours naquit le 22 mai 1625 et mourut le 15 juin 1707. Enormément riche, elle hérita à dix-sept ans de tous les biens de sa maison après la mort de ses frères et instaura chez elle des habitudes de mécénat. Jouissant de son indépendance, elle recevait à l'Hôtel de Longueville et de Soissons tous les académiciens de la première cuvée, Boisrobert compris. Car, selon Micheline Cuénin, Mlle de Longueville « fut sans aucun doute possible la femme la plus instruite de France. » M. Petitot, dans sa *Collection de Mémoires* (t. 34, pp. 379-380), nous raconte qu'un duel fameux, qui eut lieu le 30 juillet 1652 influa beaucoup sur la destinée de la princesse : Charles-Amédée de Savoie, duc de Nemours, eut une dispute avec son beau-frère François de Bourbon-Vendôme, duc de Beaufort ; ils se battirent et le premier fut tué. Henri de Savoie, son frère cadet, avait embrassé l'état ecclésiastique pour lequel on lui croyait de la vocation. Il est nommé à l'archevêché de Reims, mais on ne le lui avait pas encore conféré les ordres sacrés. Ce jeune prince avait reçu une éducation variée mais sa santé était fragile et sa fortune ne semblait pas très grande : il ne lui restait que son apanage de Savoie. Mlle de Longueville, notre duchesse, qui depuis la fin de la Fronde menait une vie retirée, paraissait décidée à ne pas se marier. « Mais ayant fait connaissance du nouveau duc de Nemours, Henri de Savoie, la conformité de leurs goûts les rapprocha bientôt. » Dès lors, il semble que tous les jours le duc soupait chez elle et qu'ils s'entretenaient de littérature au milieu d'une société choisie ; et « après quelques mois d'un commerce où l'esprit seul paraissait avoir part », ils prirent la résolution de se marier. Comme ils étaient parents, une dispense du Pape fut nécessaire, et elle arriva le printemps de 1657. Le mariage eut lieu le 22 mai. Cependant, Mme Cuénin soutient qu'il fut plutôt imposé par la volonté de Mazarin pour éviter que la princesse épouse le duc d'York, futur Jacques II d'Angleterre. C'est certainement au cours de l'année 1653, dans le cadre des réunions mondaines et littéraires qu'elle organise en son hôtel, que l'assiduité de Boisrobert (Barsamon, en langage de ruelles) et la lecture de notre *Cassandre* ont donné lieu aux « avis obligeants » dont il est question dans son épîtreSomaize nous dit que Marie d'Orléans est une précieuse qui « ne voit pas seulement ceux qui composent des vers et de la prose, mais même elle sert de sujet et d'idée à ceux et celles qui nous tracent des héroïnes…L'illustre Nitocris ne voit presque point d'égale ni pour la naissance, ni pour les clartés et les lumières de son esprit.» Habitant alternativement la capitale et ses terres à la fin de sa vie, elle partagea ses loisirs entre la culture des lettres et l'administration de ses biens. 
 
-[58] *Cf*. plus haut la notice biographique, dans les « Sources » de la
-              pièce.
+[58] *Cf*. plus haut la notice biographique, dans les « Sources » de la pièce.
 
-[59] Cette
-                  graphie, interdite en prose par Vaugelas (1647), n'est utilisé qu'en poésie, pour
-                  des raisons métriques : « encore » devant une consonne compte en effet pour trois
-                  syllabes.
+[59] Cette graphie, interdite en prose par Vaugelas (1647), n'est utilisé qu'en poésie, pour des raisons métriques : « encore » devant une consonne compte en effet pour trois syllabes.
 
-[60] C'est à dire :
-                  « de manière absolue », comme on parle de « monarchie absolue », avec pleine
-                  autorité.
+[60] C'est à dire : « de manière absolue », comme on parle de « monarchie absolue », avec pleine autorité.
 
-[61] Emploi absolu du verbe « prétendre », au sens de « prétendre à la
-                  main de la princesse ». C'est une construction intransitive à complément
-                  indirecte, du genre *V à N*. On peut trouver aussi une
-                  construction transitive à complément directe du verbe au v. 83, avec l'emploi du
-                  pronom « la ». *Cf*. Founier, *Grammaire du français
-                    classique*, Paris, Belin-Sup Lettres, 1998, p. 58.
+[61] Emploi absolu du verbe « prétendre », au sens de « prétendre à la main de la princesse ». C'est une construction intransitive à complément indirecte, du genre *V à N*. On peut trouver aussi une construction transitive à complément directe du verbe au v. 83, avec l'emploi du pronom « la ». *Cf*. Founier, *Grammaire du français classique*, Paris, Belin-Sup Lettres, 1998, p. 58.
 
-[62] Selon
-                  Ménage, « donc » et « doncque » sont également usités. « Doncques » n'est plus en
-                  usage. Cette conjonction est usuelle surtout en poésie car elles comptent pour
-                  deux syllabes. Dubois, *Dictionnaire du français
-                    classique*.
+[62] Selon Ménage, « donc » et « doncque » sont également usités. « Doncques » n'est plus en usage. Cette conjonction est usuelle surtout en poésie car elles comptent pour deux syllabes. Dubois, *Dictionnaire du français classique*.
 
-[63] Vaugelas
-                  condamnait « avecques », mais admettait « avecque ». Ces deux variantes de la
-                  préposition « avec » sont surtout employées en poésie car elle compte pour deux
-                  syllabes. Voir v. 433, 1197, 1199, 1595. *Cf. Idem*.
+[63] Vaugelas condamnait « avecques », mais admettait « avecque ». Ces deux variantes de la préposition « avec » sont surtout employées en poésie car elle compte pour deux syllabes. Voir v. 433, 1197, 1199, 1595. *Cf. Idem*.
 
-[64] Cet accord établi entre Moncade et D.Pedre rappelle la même
-                  convention qui fut à l'origine de la guerre de Troie. Par sa beauté, Hélène attira
-                  une foule de prétendants de haut rang. Tyndare, son père, prit la précaution de
-                  leur faire jurer à tous qu'ils accepteraient le choix d'Hélène et feraient la
-                  guerre à qui voudrait la ravir à son mari. Elle opta pour Ménélas, mais survint à
-                  Sparte le beau Pâris. Pendant l'absence de Ménélas, il enleva Hélène et l'emmena
-                  chez lui. Ce fut la cause de la guerre de Troie. *Cf*. Paul Demont
-                  et Anne Lebeau, *Les Tragiques Grecs, Eschyle, Sophocle, Euripides,
-                    Théâtre complet*, traduction de Victor-Henri Debidour, Paris, Livre de
-                  Poche, 1998.
+[64] Cet accord établi entre Moncade et D.Pedre rappelle la même convention qui fut à l'origine de la guerre de Troie. Par sa beauté, Hélène attira une foule de prétendants de haut rang. Tyndare, son père, prit la précaution de leur faire jurer à tous qu'ils accepteraient le choix d'Hélène et feraient la guerre à qui voudrait la ravir à son mari. Elle opta pour Ménélas, mais survint à Sparte le beau Pâris. Pendant l'absence de Ménélas, il enleva Hélène et l'emmena chez lui. Ce fut la cause de la guerre de Troie. *Cf*. Paul Demont et Anne Lebeau, *Les Tragiques Grecs, Eschyle, Sophocle, Euripides, Théâtre complet*, traduction de Victor-Henri Debidour, Paris, Livre de Poche, 1998.
 
-[65] « Pari » dans
-                  l'édition de 1737.
+[65] « Pari » dans l'édition de 1737.
 
-[66] La conjonction *puisque* est la forme tardivement soudée (1636) de l'ancienne
-                  locution *post que, puis que*. Elle perd sa valeur temporelle pour
-                  introduire la cause qui explique, non le fait annoncé dans la principale, mais son
-                  énonciation, l'acte intellectuelle de constatation, jugement, affirmation posant
-                  le fait. *Cf*. v. 180, 1062, 1195, 1418, 1419, 1711. *DHLF*.
+[66] La conjonction *puisque* est la forme tardivement soudée (1636) de l'ancienne locution *post que, puis que*. Elle perd sa valeur temporelle pour introduire la cause qui explique, non le fait annoncé dans la principale, mais son énonciation, l'acte intellectuelle de constatation, jugement, affirmation posant le fait. *Cf*. v. 180, 1062, 1195, 1418, 1419, 1711. *DHLF*.
 
-[67] Cette
-                  relation d'amitié et de rivalité entre Moncade et D. Pèdre rappelle une autre
-                  pièce de théâtre de Boisrobert : *Les Rivaux Amis, tragi-comédie*,
-                  Paris, A. Courbé, 1639, in-4°, VIII-125 p.
+[67] Cette relation d'amitié et de rivalité entre Moncade et D. Pèdre rappelle une autre pièce de théâtre de Boisrobert : *Les Rivaux Amis, tragi-comédie*, Paris, A. Courbé, 1639, in-4°, VIII-125 p.
 
-[68] Les variations
-                  en genre et en nombre (masculin pluriel dans cette occurrence) sont courantes tout
-                  au long du XVII*e* siècle, quel que soit le type de verbe,
-                  transitif ou intransitif. Voir aussi v. 654. *Cf*. Fournier, *Op. cit*., p. 302.
+[68] Les variations en genre et en nombre (masculin pluriel dans cette occurrence) sont courantes tout au long du XVII*e* siècle, quel que soit le type de verbe, transitif ou intransitif. Voir aussi v. 654. *Cf*. Fournier, *Op. cit*., p. 302.
 
-[69] « Il peut estre enfin que », c'est-à-dire, « il se peut
-                  que ».
+[69] « Il peut estre enfin que », c'est-à-dire, « il se peut que ».
 
-[70] Nous avons
-                  corrigé en introduisant l'apostrophe qui donne le vrai sens de savoir à qui des
-                  deux Isabelle privilégie.
+[70] Nous avons corrigé en introduisant l'apostrophe qui donne le vrai sens de savoir à qui des deux Isabelle privilégie.
 
-[71] Nous avons introduit les points de suspension car la phrase
-                  est ici suspendue. L'usage de ce signe de ponctuation n'est pas encore
-                  systématique au XVII*e* siècle.
+[71] Nous avons introduit les points de suspension car la phrase est ici suspendue. L'usage de ce signe de ponctuation n'est pas encore systématique au XVII*e* siècle.
 
-[72] « Adroitement ». Cette orthographe se trouve aussi au v. 299 (« Que
-                votre esprit est rare et sait adrettement / faire une raillerie avec un
-                compliment ! », III, 6) de la *Comédie des Tuileries* et c'est P.
-                Corneille qui l'aurait introduite, vu son rôle dans la création de cette pièce. Le
-                  *TLF* dit que la forme -dret-/ -drette- dRε, fém. -εt
-                correspond au doublet en ε de la diphtongue oi, wε, wa qui se rencontre à
-                partir du XIV*e* siècle surtout après *consonne +
-                  r*. Féroud, dans son *Dictionnaire critique* (1787) rappelle
-                que Vaugelas défendait la prononciation -dRε-. Il ajoute que : « Quelques Poëtes
-                ont fait rimer *adroit, adroite*, avec des mots terminés en -*et*, -*ète*. –Corneille dans *Agésilas* : ‘Ma sœur, vous êtes plus adroite, / Souffrez que je ménage un
-                moment de rettraite.' –Gresset dans le *Méchant* : ‘Et si l'on
-                montoit / Que vous le haïrez. Valere. On seroit bien adroit.' –Voltaire fait aussi
-                rimer *adroite* avec *grisette,
-              discrette*. »
+[72] « Adroitement ». Cette orthographe se trouve aussi au v. 299 (« Que votre esprit est rare et sait adrettement / faire une raillerie avec un compliment ! », III, 6) de la *Comédie des Tuileries* et c'est P. Corneille qui l'aurait introduite, vu son rôle dans la création de cette pièce. Le *TLF* dit que la forme -dret-/ -drette- dRε, fém. -εt correspond au doublet en ε de la diphtongue oi, wε, wa qui se rencontre à partir du XIV*e* siècle surtout après *consonne + r*. Féroud, dans son *Dictionnaire critique* (1787) rappelle que Vaugelas défendait la prononciation -dRε-. Il ajoute que : « Quelques Poëtes ont fait rimer *adroit, adroite*, avec des mots terminés en -*et*, -*ète*. –Corneille dans *Agésilas* : ‘Ma sœur, vous êtes plus adroite, / Souffrez que je ménage un moment de rettraite.' –Gresset dans le *Méchant* : ‘Et si l'on montoit / Que vous le haïrez. Valere. On seroit bien adroit.' –Voltaire fait aussi rimer *adroite* avec *grisette, discrette*. »
 
-[73] Si les
-                billets n'ont pas de « subscription » nous verrons pourquoi aux v. 227, 228. 
+[73] Si les billets n'ont pas de « subscription » nous verrons pourquoi aux v. 227, 228. 
 
-[74] Ce vers est mis entre parenthèse dans l'édition
-                hollandaise.
+[74] Ce vers est mis entre parenthèse dans l'édition hollandaise.
 
 [75] Il s'agit du verbe « fier » : confier.
 
-[76] Au XVII*e* siècle, on peut trouver fréquemment cette variante de la désinence
-                  verbale de la première personne du passé simple. *Cf* aussi les v.
-                  943, 1098 et 1118. Cependant, on trouve les deux graphies dans le récit de
-                  D.Bernard aux v. 1630, 1653, 1654, 1671. Boisrobert n'est pas le seule à
-                  l'employer. Voir à ce propos la note 1 sur le v. 320 dans *Andromaque* de Racine faite par G. Forestier dans son édition critique sur
-                  le théâtre et la poésie de ce dramaturge. Il y explique que cette orthographe se
-                  trouve dans toutes les éditions de la pièce. Forestier, *Racine.
-                    Théâtre et Poésie*, Paris, Gallimard, « Pléiade », 1999, p. 209 (texte) et
-                  1353 (notes).
+[76] Au XVII*e* siècle, on peut trouver fréquemment cette variante de la désinence verbale de la première personne du passé simple. *Cf* aussi les v. 943, 1098 et 1118. Cependant, on trouve les deux graphies dans le récit de D.Bernard aux v. 1630, 1653, 1654, 1671. Boisrobert n'est pas le seule à l'employer. Voir à ce propos la note 1 sur le v. 320 dans *Andromaque* de Racine faite par G. Forestier dans son édition critique sur le théâtre et la poésie de ce dramaturge. Il y explique que cette orthographe se trouve dans toutes les éditions de la pièce. Forestier, *Racine. Théâtre et Poésie*, Paris, Gallimard, « Pléiade », 1999, p. 209 (texte) et 1353 (notes).
 
-[77] « En raison du
-                  fait que ». Aujourd'hui en ce sens on dit « parce que », qui était déjà préféré
-                  par Vaugelas. Vieillie en 1647, cette locution est sortie d'usage à la fin du
-                    XVII*e*. Dubois, *Dict. du français
-                  classique*.
+[77] « En raison du fait que ». Aujourd'hui en ce sens on dit « parce que », qui était déjà préféré par Vaugelas. Vieillie en 1647, cette locution est sortie d'usage à la fin du XVII*e*. Dubois, *Dict. du français classique*.
 
-[78] *Sitôst* a signifié « aussi rapidement, au bout d'un temps si bref », emploi
-                  sorti d'usage. Apparue sous les formes disjointes *si tost que*,
-                  puis *si tôt que* (1636) →aussitôt, tôt est soudée en **sitôt que** (1647). *Sitôt que* « immédiatement
-                  après que » est suivi de l'indicatif. *Cf*. v. 1096. *DHLF*. 
+[78] *Sitôst* a signifié « aussi rapidement, au bout d'un temps si bref », emploi sorti d'usage. Apparue sous les formes disjointes *si tost que*, puis *si tôt que* (1636) →aussitôt, tôt est soudée en **sitôt que** (1647). *Sitôt que* « immédiatement après que » est suivi de l'indicatif. *Cf*. v. 1096. *DHLF*. 
 
-[79] Cette réplique d'Astolfe n'apparaît en
-                  aucune des éditions Courbé. Nous la tirons de l'édition hollandaise en raison de
-                  sa pertinence.
+[79] Cette réplique d'Astolfe n'apparaît en aucune des éditions Courbé. Nous la tirons de l'édition hollandaise en raison de sa pertinence.
 
-[80] Locution conjonctive
-                  longtemps écrite en deux mots encore au XVII*e* siècle. La
-                  conjonction de temps *lorsque* en est la soudure et la
-                  prononciation du -*s*- est tardive (1632).
+[80] Locution conjonctive longtemps écrite en deux mots encore au XVII*e* siècle. La conjonction de temps *lorsque* en est la soudure et la prononciation du -*s*- est tardive (1632).
 
-[81] Dans l'édition de 1737 : « Altesse ». Ce mot exliquerait mieux que le comte de
-                  Barcelone aimait aussi bien le duc de Cardone que D.Bernard de Rocas. Dans *La mentirosa verdad*, Villegas n'établit aucun lien entre le comte
-                  et don Bernardo, qui est seulement l'ami de don Enrique de Cardona.
+[81] Dans l'édition de 1737 : « Altesse ». Ce mot exliquerait mieux que le comte de Barcelone aimait aussi bien le duc de Cardone que D.Bernard de Rocas. Dans *La mentirosa verdad*, Villegas n'établit aucun lien entre le comte et don Bernardo, qui est seulement l'ami de don Enrique de Cardona.
 
-[82] On
-                  ne distinguait pas « conte » de « compte » au XVII*e* siècle.
-                  Ici : « se rendre compte ».
+[82] On ne distinguait pas « conte » de « compte » au XVII*e* siècle. Ici : « se rendre compte ».
 
-[83] « … je vous quitte la place, », c'est à dire, « … je
-                  vous laisse seul ».
+[83] « … je vous quitte la place, », c'est à dire, « … je vous laisse seul ».
 
-[84] Nous considérons que, pour la cohérence
-                  de l'unité de lieu, c'est Moncade qui devrait s'en aller et non pas la princesse,
-                  de manière à ce qu'elle puisse logiquement  s'écrier dans la scène suivante :
-                  « Astolfe enfin parest ».
+[84] Nous considérons que, pour la cohérence de l'unité de lieu, c'est Moncade qui devrait s'en aller et non pas la princesse, de manière à ce qu'elle puisse logiquement  s'écrier dans la scène suivante : « Astolfe enfin parest ».
 
-[85] C'est un adverbe
-                  employé comme préposition. Aujourd'hui on dit en ce sens « dans ». Vaugelas
-                  n'admet cet emploi en prose que lorsque *dedans* est précédé d'une
-                  autre préposition. Dubois, *Dictionnaire du français
-                  classique*.
+[85] C'est un adverbe employé comme préposition. Aujourd'hui on dit en ce sens « dans ». Vaugelas n'admet cet emploi en prose que lorsque *dedans* est précédé d'une autre préposition. Dubois, *Dictionnaire du français classique*.
 
-[86] Racine se souvenait-il de *Cassandre* lorsqu'il
-                  fait dire à Bérénice : « Je n'écoute plus rien, et pour jamais Adieu. » (v.
-                  1110) ? *Cf*. Forestier, *Racine*…, *op. cit*., p. 493.
+[86] Racine se souvenait-il de *Cassandre* lorsqu'il fait dire à Bérénice : « Je n'écoute plus rien, et pour jamais Adieu. » (v. 1110) ? *Cf*. Forestier, *Racine*…, *op. cit*., p. 493.
 
-[87] C'est la même réaction d'Oreste dans *Andromaque* de Racine, au v. 1609  (v. 1565 dans les autres éditions) :
-                  « Que vois-je ? Est-ce Hermione ? Et que viens-je d'entendre ? ». Voir *Idem*, p. 253. Il faut dire que Boisrobert suit exactement la
-                  source espagnole où les mêmes circonstances du départ de Carlos sont mises en
-                  scènes avec une intense charge pathétique : « **Carlos**. … y
-                  tengo que irme / sin que puedan detenerme / amor, ni industria, ni ardides. / Mira
-                  si es noble el caso, / y porque despacio lo mires, / *Adios ! hasta
-                    que mis penas hallen en la muerte fin*. » **Violante**,
-                  alarmée, répond : « Que es esto ? Volved ! /… Hombre, qué intentas ? Qué dices ?
-                  / Estas loco ? Estas en tí ? / … Carlos, Carlos, / mi bien, antes de partirte /
-                  vuelve en ti ; tras tantos años / que lealtad me prometiste, me dejas ? …
-                  Fuese ! suspiros, seguidle, / agravios, ofensas, celos, / el amor venganza pide,
-                  … ».
+[87] C'est la même réaction d'Oreste dans *Andromaque* de Racine, au v. 1609  (v. 1565 dans les autres éditions) : « Que vois-je ? Est-ce Hermione ? Et que viens-je d'entendre ? ». Voir *Idem*, p. 253. Il faut dire que Boisrobert suit exactement la source espagnole où les mêmes circonstances du départ de Carlos sont mises en scènes avec une intense charge pathétique : « **Carlos**. … y tengo que irme / sin que puedan detenerme / amor, ni industria, ni ardides. / Mira si es noble el caso, / y porque despacio lo mires, / *Adios ! hasta que mis penas hallen en la muerte fin*. » **Violante**, alarmée, répond : « Que es esto ? Volved ! /… Hombre, qué intentas ? Qué dices ? / Estas loco ? Estas en tí ? / … Carlos, Carlos, / mi bien, antes de partirte / vuelve en ti ; tras tantos años / que lealtad me prometiste, me dejas ? … Fuese ! suspiros, seguidle, / agravios, ofensas, celos, / el amor venganza pide, … ».
 
-[88] Au XVII*e* siècle ce verbe accepte la construction intransitive en *à : V à N*. En français moderne on dit : « s'échapper de » ou
-                  « échapper à ». *Cf*. Fournier, *op. cit*., p.
-                  62.
+[88] Au XVII*e* siècle ce verbe accepte la construction intransitive en *à : V à N*. En français moderne on dit : « s'échapper de » ou « échapper à ». *Cf*. Fournier, *op. cit*., p. 62.
 
-[89] Dans l'édition Courbé on lit
-                  ici « Cassandre ». Nous faisons la correction d'après la version hollandaise.
-                
+[89] Dans l'édition Courbé on lit ici « Cassandre ». Nous faisons la correction d'après la version hollandaise. 
 
-[90] Cette édition précise
-                  exceptionnellement « La Princesse Cassandre », peut-être du fait que la réplique
-                  précédente correspond au même personnage. Dans toutes les autres éditions, il est
-                  simplement dit « Cassandre ».
+[90] Cette édition précise exceptionnellement « La Princesse Cassandre », peut-être du fait que la réplique précédente correspond au même personnage. Dans toutes les autres éditions, il est simplement dit « Cassandre ».
 
-[91] Adverbe employé
-                  comme préposition. Aujourd'hui on dit en cet emploi « sur ». Dubois, *Dictionnaire du français classique.*
+[91] Adverbe employé comme préposition. Aujourd'hui on dit en cet emploi « sur ». Dubois, *Dictionnaire du français classique.*
 
-[92] Le pronom *où* a ici un emploi relatif qui
-                  l'emporte sur les formes composées « auquel », « lequel ». *Cf*.
-                  Fournier, *op. cit.*, p. 211.
+[92] Le pronom *où* a ici un emploi relatif qui l'emporte sur les formes composées « auquel », « lequel ». *Cf*. Fournier, *op. cit.*, p. 211.
 
-[93] Nous avons
-                  supprimé la négation dans la proposition « s'il n'est trouué » pour rendre le
-                  texte cohérent : le Duc doit plutôt souhaiter que son fils ne soit pas trouvé.
-                  Voir sa réaction aux v. 1188, 1189.
+[93] Nous avons supprimé la négation dans la proposition « s'il n'est trouué » pour rendre le texte cohérent : le Duc doit plutôt souhaiter que son fils ne soit pas trouvé. Voir sa réaction aux v. 1188, 1189.
 
-[94] *Dont* s'employait comme complément de manière, de moyen.
-                  Aujourd'hui on dit « avec laquelle ». Dubois, *Dict. du français
-                    classique*.
+[94] *Dont* s'employait comme complément de manière, de moyen. Aujourd'hui on dit « avec laquelle ». Dubois, *Dict. du français classique*.
 
-[95] « Tous mes sujets sont témoins que mon sort est doux grâce à
-                  vous ». 
+[95] « Tous mes sujets sont témoins que mon sort est doux grâce à vous ». 
 
-[96] L'adverbe *plus* introduit ici une proposition subordonnée implicite de temps :
-                « Quand davantage… ».
+[96] L'adverbe *plus* introduit ici une proposition subordonnée implicite de temps : « Quand davantage… ».
 
-[97] Deux vers ont été ici réunis en un
-                  seul, qui fait un vers de dix-sept syllabes. De plus « Oubliez » (v. 1351) a été
-                  transformé en « Esuitez ».
+[97] Deux vers ont été ici réunis en un seul, qui fait un vers de dix-sept syllabes. De plus « Oubliez » (v. 1351) a été transformé en « Esuitez ».
 
-[98] Aujourd'hui « naguère ». Contraction de *n'a
-                    guaire*, forme elle-même réduite de *il n'y a guères* : « il
-                  n'y a pas longtemps, récemment. » (→guère). *DHLF*.
+[98] Aujourd'hui « naguère ». Contraction de *n'a guaire*, forme elle-même réduite de *il n'y a guères* : « il n'y a pas longtemps, récemment. » (→guère). *DHLF*.
 
-[99] Cette conjonction contient
-                  l'idée de « même au cas où », « quand bien ». Dubois, *Dict. de
-                    français classique.*
+[99] Cette conjonction contient l'idée de « même au cas où », « quand bien ». Dubois, *Dict. de français classique.*
 
-[100] A partir d'ici la numérotation des scènes est
-                erronée. Nous corrigeons.
+[100] A partir d'ici la numérotation des scènes est erronée. Nous corrigeons.
 
-[101] Certaines
-                  prépositions ont des variantes morphologiques devant l'infinitif, liées notamment
-                  à la présence ou non du « de » indice d'infinitif. *Avant + inf*
-                  est condamné par Vaugelas et est en recul au XVII*e* siècle ;
-                  les formes usuelles sont *avant que + inf* et *avant
-                    que de + inf. Cf.* Fournier, *op. cit*., p. 283.
+[101] Certaines prépositions ont des variantes morphologiques devant l'infinitif, liées notamment à la présence ou non du « de » indice d'infinitif. *Avant + inf* est condamné par Vaugelas et est en recul au XVII*e* siècle ; les formes usuelles sont *avant que + inf* et *avant que de + inf. Cf.* Fournier, *op. cit*., p. 283.

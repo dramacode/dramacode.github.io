@@ -13,8 +13,7 @@ Tragédie
 En musique, Representée Par l'Academie Royale de musique.
 
 On la vend, A Paris, A l'Entrée de la Porte de l'Academie Royale de Musique Au Palais Royal, ruë Saint Honoré. Imprimée aux dépens de ladite Academie. *Par Christophe Ballard*, seul Imprimeur du Roy pour la Musique. m. dc. xciii. avec privilege du roy.
-Édition critique établie par Nathalie Tramieux dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (2004-2005)
+Édition critique établie par Nathalie Tramieux dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2004-2005)
 
 
 # Introduction
@@ -89,7 +88,7 @@ Né à Rouen le 20 août 1625, il était de dix-neuf ans le cadet de Pierre Corn
 
 Parallèlement à sa carrière de dramaturge, il codirigea le *Mercure Galant* avec Donneau de Visé à partir de 1681, et fut élu à l'unanimité à l'Académie française au siège de son frère, en janvier 1685. Il se retira aux Andelys à la fin de sa vie, et y mourut le 8 décembre 1709.
 
-S'il fut de son temps un auteur à la mode – sa tragédie *Timocrate* resta à l'affiche durant quatre-vingt représentations successives, devenant ainsi le plus grand succès théâtral du siècle –, Thomas Corneille tomba rapidement dans l'oubli au cours des siècles suivants, très brièvement mentionné dans les histoires de la littérature jusqu'au début du XX*e* siècle. La critique contemporaine commence à le réhabiliter [3], mais il est significatif de constater que la biographie de référence sur Thomas Corneille demeure celle de Gustave Reynier, qui date de la fin du XIX*e* siècle [4], et qu'Antoine Adam, dans son *Histoire de la Littérature Française du XVII**e* *siècle* [5], ainsi que Lancaster, dans son ouvrage, *A History of French Dramatic Literature in the seventeenth century* [6] ne consacrent que quelques lignes à notre auteur.
+S'il fut de son temps un auteur à la mode – sa tragédie *Timocrate* resta à l'affiche durant quatre-vingt représentations successives, devenant ainsi le plus grand succès théâtral du siècle –, Thomas Corneille tomba rapidement dans l'oubli au cours des siècles suivants, très brièvement mentionné dans les histoires de la littérature jusqu'au début du XX*e* siècle. La critique contemporaine commence à le réhabiliter [3], mais il est significatif de constater que la biographie de référence sur Thomas Corneille demeure celle de Gustave Reynier, qui date de la fin du XIX*e* siècle [4], et qu'Antoine Adam, dans son *Histoire de la Littérature Française du XVII**e**siècle* [5], ainsi que Lancaster, dans son ouvrage, *A History of French Dramatic Literature in the seventeenth century* [6] ne consacrent que quelques lignes à notre auteur.
 
 
 ## Création et réception de l'œuvre
@@ -772,10 +771,10 @@ Malgré tous leurs projets, seront enfin forcez
 De souffrir⁎ le repos⁎ qu'il veut donner au monde.  
 Aprés [85] le Chœur, le Palais s'en retourne d'où il est venu ; le tourbillon se renferme & remonte au Ciel.
 
-Fin du Prologue.
+Fin du Prologue. 
 
 
-## Acteurs de la tragédie.
+## Acteursde la tragédie.
  – CREON,Roy de Corinthe.
  – CREUSE,Fille de Creon.
  – MEDEE,Princesse de Colchos.
@@ -2613,7 +2612,7 @@ Les définitions sont tirées des dictionnaires suivants :
 
 *Dictionnaire de la mythologie grecque et romaine*, Paris, Seghers, 1962
 
-*Grimal* Pierre, *Dictionnaire de la mythologie grecque et romaine*, Paris, PUF, 2002AcasteFils de Pélias, roi de Thessalie.  V. 17AverneLac qui se trouve pour les Romains à l'entrée des Enfers (Commelin). V. 657BelloneDéesse romaine de la guerre, femme ou sœur de Mars selon les légendes. On la représente sur son char, sous des traits effrayants : elle tient à la main une torche, ou un glaive, ou une lance. Elle ressemble beaucoup à la représentation traditionnelle des Furies (Commelin et Grimal).CocyteL'un des fleuves principaux des Enfers avec l'Achéron, le Styx et le Phlégéthon (Commelin). V. 653ColchosCapitale de la Colchide. CupidonÉgalement appelé Eros ou Amour. Fils de Vénus et de Mars. Représenté sous la figure d'un enfant, armé d'un arc et d'un carquois rempli de flèches ardentes. EuménidesÉgalement appelées Furies ou Erinnyes. Le terme d'Euménides est employé par antiphrase, et signifie en grec les *Bienveillantes*. Divinités infernales chargées d'exécuter sur les coupables la sentence des juges. (Commelin). V. 870HécateDivinité présidant à la magie et aux enchantements. Apparentée à Médée et à Circé. Selon certaines légendes, Jason et Médée se sont échangés des serments devant le tempe d'Hécate, lors de l'expédition des Argonautes. V. 656IolchosCapitale de la Thessalie (Commelin). MédéeFille d'Aeétès, roi de Colchide, elle est, par conséquent, la petite fille du Soleil (Hélios) et la nièce de la magicienne Circé. On lui donne parfois comme mère la déesse Hécate, patronne de toutes les magiciennes. PelieC'est-à-dire Pélias. Devenu roi de Iolchos après avoir dépouillé son demi-frère, Aéson, du trône, il tente de se débarrasser de Jason, fils d'Aéson, en l'envoyant chercher la Toison d'Or en Colchide, et profite de son absence pour faire assassiner Aéson. Contre toute attente, Jason, victorieux, revient sain et sauf, et demande à Médée de venger son père. Cette dernière fait alors croire aux filles de Pélias qu'elle rendront la jeunesse à leur père en le mettant à bouillir dans un chaudron, et les conduit ainsi à tuer leur propre père. Après ce forfait, Jason et Médée sont contraints de s'exiler à Corinthe. V. 18Radamante : ou RhadamanteFils de Jupiter et d'Europe, frère de Minos. Juge des Enfers, réputé pour sa justice et sa sévérité (Commelin). V. 882StyxL'un des principaux fleuves des Enfers, avec l'Achéron, le Cocyte et le Phlégéthon (Commelin).V. 637, 880
+*Grimal* Pierre, *Dictionnaire de la mythologie grecque et romaine*, Paris, PUF, 2002AcasteFils de Pélias, roi de Thessalie. V. 17AverneLac qui se trouve pour les Romains à l'entrée des Enfers (Commelin). V. 657BelloneDéesse romaine de la guerre, femme ou sœur de Mars selon les légendes. On la représente sur son char, sous des traits effrayants : elle tient à la main une torche, ou un glaive, ou une lance. Elle ressemble beaucoup à la représentation traditionnelle des Furies (Commelin et Grimal).CocyteL'un des fleuves principaux des Enfers avec l'Achéron, le Styx et le Phlégéthon (Commelin). V. 653ColchosCapitale de la Colchide. CupidonÉgalement appelé Eros ou Amour. Fils de Vénus et de Mars. Représenté sous la figure d'un enfant, armé d'un arc et d'un carquois rempli de flèches ardentes. EuménidesÉgalement appelées Furies ou Erinnyes. Le terme d'Euménides est employé par antiphrase, et signifie en grec les *Bienveillantes*. Divinités infernales chargées d'exécuter sur les coupables la sentence des juges. (Commelin). V. 870HécateDivinité présidant à la magie et aux enchantements. Apparentée à Médée et à Circé. Selon certaines légendes, Jason et Médée se sont échangés des serments devant le tempe d'Hécate, lors de l'expédition des Argonautes. V. 656IolchosCapitale de la Thessalie (Commelin). MédéeFille d'Aeétès, roi de Colchide, elle est, par conséquent, la petite fille du Soleil (Hélios) et la nièce de la magicienne Circé. On lui donne parfois comme mère la déesse Hécate, patronne de toutes les magiciennes. PelieC'est-à-dire Pélias. Devenu roi de Iolchos après avoir dépouillé son demi-frère, Aéson, du trône, il tente de se débarrasser de Jason, fils d'Aéson, en l'envoyant chercher la Toison d'Or en Colchide, et profite de son absence pour faire assassiner Aéson. Contre toute attente, Jason, victorieux, revient sain et sauf, et demande à Médée de venger son père. Cette dernière fait alors croire aux filles de Pélias qu'elle rendront la jeunesse à leur père en le mettant à bouillir dans un chaudron, et les conduit ainsi à tuer leur propre père. Après ce forfait, Jason et Médée sont contraints de s'exiler à Corinthe. V. 18Radamante : ou RhadamanteFils de Jupiter et d'Europe, frère de Minos. Juge des Enfers, réputé pour sa justice et sa sévérité (Commelin). V. 882StyxL'un des principaux fleuves des Enfers, avec l'Achéron, le Cocyte et le Phlégéthon (Commelin).V. 637, 880
 
 
 # Annexe 1 : Liste des divergences entre le livret de Thomas Corneille (1693) et l'opéra (1694).
@@ -2794,7 +2793,7 @@ V, 6 | Jason, Créüse « Hélas ! prêts d'être unis par les plus douces c
 
 ### Ouvrages*Antony*La musique en France à l'époque baroque de Beaujoyeult à Rameau
 *Barthélémy*Métamorphoses de l'opéra français
-*Benoît*Dictionnaire de la  musique en France aux XVIIe et XVIIIe siècles
+*Benoît*Dictionnaire de la musique en France aux XVIIe et XVIIIe siècles
 *Brossard*Dictionnaire de musique
 *Cessac*Marc-Antoine Charpentier
 *Corneille**Donneau de Visé*Le Mercure Galant
@@ -2861,7 +2860,7 @@ The new Grove dictionary of music and musicians
 
 [8] Il s'agit du Duc d'Orléans, fils de Monsieur, le frère du roi, et futur régent. 
 
-[9]  Voir *Le Mercure Galant*, texte établi, présenté et annoté par Monique Vincent, Paris, Société des textes français modernes, 1996, p. 332.  
+[9]  Voir *Le Mercure Galant*, texte établi, présenté et annoté par Monique Vincent, Paris, Société des textes français modernes, 1996, p. 332. 
 
 [10]  E. Lemaître, *Médée, tragédie en musique*, Paris, Éditions du CNRS, 1987, p. 4. 
 
@@ -2881,7 +2880,7 @@ The new Grove dictionary of music and musicians
 
 [18] Francine était le directeur de l'Académie royale de Musique. 
 
-[19]  Voir le *Chansonnier Maurepas*, t. XXVII, p. 32, 1693, cité dans P. Mélèse, *op. cit.*, p. 266-267, et repris par C. Cessac, *op. cit.*, p. 283.  
+[19]  Voir le *Chansonnier Maurepas*, t. XXVII, p. 32, 1693, cité dans P. Mélèse, *op. cit.*, p. 266-267, et repris par C. Cessac, *op. cit.*, p. 283. 
 
 [20]  Voir le *Recueil de chansons anecdotes, satyriques et historiques*, t. V, p. 106, cité par E. Herz-Fischler, *op. cit.*, p. 11. 
 
@@ -2941,7 +2940,7 @@ The new Grove dictionary of music and musicians
 
 [48] Cet amour est mentionné dans le premier entretien des deux époux, à l'acte I, scène 2 : « Ignorez-vous d'un pere où va le tendre amour ? »
 
-[49]  Georges Couton, *ibid.*, indique en note, p. 1405 : « L'idée donnée un instant à Jason d'immoler ses propres enfants est de Corneille seul ; et cela marque bien comment il a voulu surenchérir d'horreur par rapport à Sénèque et Euripide. Il a pu prendre cette idée dans l'*Ino* d'Euripide, où l'on voit la mère faire périr l'un de ses enfants parce que le père avait tué l'autre. L'histoire d'Ino est évoquée dans la *Médée*  d'Euripide. Corneille devait donc la connaître. » 
+[49]  Georges Couton, *ibid.*, indique en note, p. 1405 : « L'idée donnée un instant à Jason d'immoler ses propres enfants est de Corneille seul ; et cela marque bien comment il a voulu surenchérir d'horreur par rapport à Sénèque et Euripide. Il a pu prendre cette idée dans l'*Ino* d'Euripide, où l'on voit la mère faire périr l'un de ses enfants parce que le père avait tué l'autre. L'histoire d'Ino est évoquée dans la *Médée* d'Euripide. Corneille devait donc la connaître. » 
 
 [50] Acte I, scène 3, v. 127.
 
@@ -2999,7 +2998,7 @@ The new Grove dictionary of music and musicians
 
 [77] *Medée, Cephale et Procris, Teagene et Cariclée, Les Amours de Momus, Balet des saisons, Ariane et Bachus, La naissance de Venus, Jason ou la Toison d'Or*, et *L'Europe galante*. 
 
-[78]  Notons à titre indicatif que la comparaison entre le texte de la tragédie en musique imprimée en 1693 et  celui de la partition éditée en 1694 révèle d'énormes différences, tant orthographiques que de ponctuation. 
+[78]  Notons à titre indicatif que la comparaison entre le texte de la tragédie en musique imprimée en 1693 et celui de la partition éditée en 1694 révèle d'énormes différences, tant orthographiques que de ponctuation. 
 
 [79]  G. Forestier consacre un chapitre, qu'il intitule « Lire Racine  » à cette question dans son édition des *Œuvres Complètes* de Racine, Paris, Gallimard, 1999. Il y rappelle que la ponctuation actuelle correspond à un type de lecture particulier, la lecture silencieuse, qui n'existait pas au XVII*e* siècle. A l'époque, « la ponctuation avait pour fonction de marquer les pauses dans le discours, en guidant la voix et le souffle : on ne se préoccupait du sens que lorsqu'il s'agissait du point – qui signale la fin d'une période considérée comme achevée –, du point d'interrogation et du point d'exclamation. » 
 
@@ -3021,11 +3020,11 @@ The new Grove dictionary of music and musicians
 
 [88] *Prest de* : sur le point de. 
 
-[89] *Contr'elle* : licence graphique, qui ne modifie en rien le compte des syllabes.  
+[89] *Contr'elle* : licence graphique, qui ne modifie en rien le compte des syllabes. 
 
 [90]  En proposition hypothétique, le *nisi* latin semble autoriser l'emploi du seul *ne.* (Sancier-Château, p. 97)
 
-[91]  Le pronom *il* se rapporte à Acaste.  
+[91]  Le pronom *il* se rapporte à Acaste. 
 
 [92]  La préposition *à* est mise ici à la place de *devant.* (Haase, p. 312)
 
@@ -3055,7 +3054,7 @@ The new Grove dictionary of music and musicians
 
 [105] Lorsqu'un verbe à un mode personnel en récède un autre à l'infinitif sans préposition, les deux verbes sont considérés comme une seule expression et on place le pronom devant le premier (Haase, p. 417). 
 
-[106] *Détours* signifie aussi au figuré : adresse, subtilité, pour éluder un péril, pour  venir à bout de ce qu'on veut faire. (Acad. Fr.)
+[106] *Détours* signifie aussi au figuré : adresse, subtilité, pour éluder un péril, pour venir à bout de ce qu'on veut faire. (Acad. Fr.)
 
 [107] Le futur est employé ici dans le sens d'oserai-je dire ? 
 
@@ -3095,7 +3094,7 @@ The new Grove dictionary of music and musicians
 
 [125] Tournure emphatique due à l'amplification des groupes de syllabes : 3, 3,6. 
 
-[126] *Que* sans antécédent se construit avec *de*  et un infinitif. (Haase, p. 382).
+[126] *Que* sans antécédent se construit avec *de* et un infinitif. (Haase, p. 382).
 
 [127] *Céder* : signifie aussi obeïr, deferer à quelque puissance superieure, relascher. *Il faut ceder au temps, à l'orage, et caler les voiles.* Furetière cite une deuxième fois l'expression *céder au temps* à l'entrée *Temps* : « En termes de Marine ont dit, Naviguer de grand temps, de gros temps, pour dire, durant la tempeste … Il faut ceder au temps, à l'orage. » 
 
@@ -3172,7 +3171,7 @@ The new Grove dictionary of music and musicians
 
 [161]  L'adverbe *quand* signifie ici encore que, quoi que, bien que. (Acad. Fr.)
 
-[162]  L'expression  *soutenir une guerre* est citée chez Richelet, sans définition. Elle signifie  vraisemblablement mener, participer à une guerre.
+[162]  L'expression *soutenir une guerre* est citée chez Richelet, sans définition. Elle signifie vraisemblablement mener, participer à une guerre.
 
 [163]  L'adjectif *sensible* se dit aussi dans les choses morales, *un plaisir très sensible, une joie sensible*, et signifie qui a du sentiment. (Acad. Fr.)
 

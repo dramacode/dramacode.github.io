@@ -10,13 +10,13 @@ Si j'ay tousjours estimé que c'est un jeu de hasard⁎ que de faire des Comedie
 Et certes nous en voyons peu qui en ayent fait deux avec le mesme succez, et à qui l'evenement⁎ de la seconde n'ait osté une partie de la reputation de la premiere.
 Quoy qu'il en soit, c'est une course que je ne voudrois pas deux fois entreprendre ; et j'ayme mieux me reposer au bout de la carriere⁎ avec un peu de gloire que de la recommencer avec hasard⁎.
 
-**** *book_ *id_body-301 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I01 *act_I *date_1645 *creator_du_ryer
 
 -*who_berenice
 Estes-vous contente, ma sœur, et puis-je mieux vous monstrer mon amitié, qu'en vous descouvrant mon amour ?
 
 -*who_amasie
-Vous ne m'avez pas encore tout dit, puisque vous ne m'avez pas dit vostre amant.
+Vous ne m'avez pas encore tout dit, puisque vous ne m'avez pas dit vostre amant. 
 
 -*who_berenice
 Contentez-vous de sçavoir que j'aime ; et puisque c'est principalement par l'objet⁎, que l'amour merite du blasme, ou qu'il est digne de loüange, je ne sçaurois parler davantage, sans me mettre enfin au hazard⁎ de me faire moquer de moy.
@@ -98,7 +98,7 @@ Tirinte.
 -*who_amasie
 Luy-mesme.
 
-**** *book_ *id_body-302 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I02 *act_I *date_1645 *creator_du_ryer
 
 -*who_tirinte
 J'ay sans doute interrompu vostre entretien, mais j'ay pour mon excuse le commandement du Roy qui me fait chercher vostre Pere.
@@ -107,7 +107,7 @@ J'ay sans doute interrompu vostre entretien, mais j'ay pour mon excuse le comman
 Le Roy le demande-il ?
 
 -*who_tirinte
-Au moins je luy viens parler de sa part.
+Au moins je luy viens parler de sa part. 
 
 -*who_amasie
 Pourquoy Tirinte ?
@@ -127,7 +127,7 @@ Vous ne pouvez empescher que nous ne rendions cet honneur aux ordres du Roy que 
 -*who_tirinte
 Le voicy, Madame, il semble qu'il vient au-devant⁎ de sa gloire, je vay le trouver.
 
-**** *book_ *id_body-303 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I03 *act_I *date_1645 *creator_du_ryer
 
 -*who_berenice
 Ils passent tous deux dans le jardin.
@@ -160,7 +160,7 @@ A vostre compte, Berenice, la grandeur seroit la gloire d'un homme : Et la fort
 
 -*who_berenice
 Il ne faut point ici s'abuser, si la grandeur ne fait la gloire, au moins elle y contribuë : Mais
-si la vertu de Tarsis a fait naistre mon amour vous ne devez pas le condamner,
+si la vertu de Tarsis a fait naistre mon amour vous ne devez pas le condamner, 
 
 -*who_amasie
 C'est assez de respecter la vertu⁎ en ceux qui sont plus grands que nous.
@@ -190,7 +190,7 @@ Enfin, ma sœur, si l'on commet une faute en aymant un moindre que soy, il vaut 
 Vous appellerez vostre amour generosité⁎ et d'autres l'appelleront bassesse.
 
 -*who_amasie
-Vous appellerez vostre amour grandeur de courage⁎, et d'autres l'appelleront temerité.
+Vous appellerez vostre amour grandeur de courage⁎, et d'autres l'appelleront temerité. 
 
 -*who_berenice
 Il vaut mieux faire des temerites que des bassesses.
@@ -215,13 +215,13 @@ Mais si ayant les mesmes perfections, il estoit d'une moindre condition que vous
 J'aymerois tousjours ses perfections, mais si mon amour vouloit passer jusqu'à sa personne, je lui couperois les ayles⁎, et je sçaurois bien l'empescher de ne croistre que pour ma honte.
 
 -*who_amasie
-Vous l'aymeriez asseurement, car il ne s'en faut guere qu'une fille n'ayme un homme quand elle est amoureuse de sa vertu⁎.
+Vous l'aymeriez asseurement, car il ne s'en faut guere qu'une fille n'ayme un homme quand elle est amoureuse de sa vertu⁎. 
 
 -*who_berenice
 Je resisterois mieux que vous.
 Mais voicy mon Pere qui reconduit Tirinte.
 
-**** *book_ *id_body-304 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I04 *act_I *date_1645 *creator_du_ryer
 
 -*who_criton
 Monsieur, le Roy me fait un honneur, que je ne sçaurois meriter, mais tachez de le divertir⁎ de ce dessein, et de le disposer à recevoir mes excuses, devant que⁎ je sois obligé de le voir.
@@ -236,7 +236,7 @@ Ne me demandez point d'autres raisons.
 -*who_tirinte
 Je vay donc retrouver le Roy.
 
-**** *book_ *id_body-305 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I05 *act_I *date_1645 *creator_du_ryer 
 
 -*who_criton
 Mes filles, la fortune⁎ ne change point pour nous de visage, elle nous est tousjours contraire, et m'ayant fait venir en ce Pays comme dans un asile inviolable, elle m'oblige d'en sortir comme d'un lieu funeste et dangereux.
@@ -283,7 +283,7 @@ Car enfin vous ne pouvez quitter la Crette, que pour retourner en Sicile, puis q
 -*who_criton
 C'est une chose resoluë.
 
-**** *book_ *id_body-306 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I06 *act_I *date_1645 *creator_du_ryer
 
 -*who_berenice
 Il se retire, ma sœur, resolu de nous en emmener.
@@ -294,7 +294,7 @@ Mais taschez de trouver Tirinte, faite en sorte de sçavoir ce qu'il a dit à mo
 Je ne doute point qu'il ne me l'apprenne, je vay tascher de le rencontrer.
 Aussi bien voicy vostre amant.
 
-**** *book_ *id_body-307 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_I07 *act_I *date_1645 *creator_du_ryer 
 
 -*who_tarsis
 Que je vous trouve triste, Madame ! d'où vient cette profonde tristesse ?
@@ -313,7 +313,7 @@ On veut vous enlever, Madame !
 Quel est le temeraire qui se peut vanter de cette entreprise ?
 Ha !
 Berenice, avez-vous tant de defiance de mon pouvoir et de mon amour, que ce dessein temeraire vous doive donner de la tristesse ?
-Si c'est un homme il s'en repentira bien-tost, et si c'est un Dieu, je luy sçauray disputer une si glorieuse proye.
+Si c'est un homme il s'en repentira bien-tost, et si c'est un Dieu, je luy sçauray disputer une si glorieuse proye. 
 
 -*who_berenice
 Helas ! c'est un homme qui m'enleve ; et c'est un homme que mon devoir m'oblige de suivre.
@@ -338,7 +338,7 @@ Comme je serois capable d'acquerir des Empires, si c'estoit par des Empires que 
 -*who_berenice
 Seigneur, Tirinte vous dira, mais il ne m'entend pas, et sa passion l'emporte ; attendons le succez⁎ de son dessein, et de peur de nous donner un nouveau sujet de plainte, n'esperons rien à nostre avantage.
 
-**** *book_ *id_body-401 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_II01 *act_II *date_1645 *creator_du_ryer
 
 -*who_le_roy
 Quoy, Tirinte, j'aymerois en vain Berenice !
@@ -380,7 +380,7 @@ Cette ambition est belle, et ne la nourrir pas dans son ame quand son Pays est m
 Il faut donc bien, Tirinte, que Criton ayt d'autres raisons de me refuser Berenice.
 Mais voicy mon fils.
 
-**** *book_ *id_body-402 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_II02 *act_II *date_1645 *creator_du_ryer
 
 -*who_tarsis
 Sire, comme je ne souhaite rien avec une passion plus violente, que vostre gloire, et la tranquillité de l'Estat, je suis obligé sans doute de vous descouvrir une chose qui importe à l'un et à l'autre.
@@ -416,7 +416,7 @@ Mais de qui la tenez vous.
 Je la tiens d'une personne qui ne m'a pû dire ses raisons, mais qui sçait fort bien son dessein.
 
 -*who_le_roy
-Il faut tascher de s'y opposer.
+Il faut tascher de s'y opposer. 
 
 -*who_tarsis
 Je croy cela necessaire.
@@ -430,7 +430,7 @@ C'est vous conserver des forces que de le conserver pres de vous, et c'est vous 
 Il est aymé dans vostre Empire, il est en veneration parmy les estrangers, vos ennemis le redoutent, et la perte que nous en ferions les consoleroit facilement de la perte de douze batailles.
 D'ailleurs, comme il n'y a point de vertu⁎ constante et si bien approuvée, dont un Roy qui sçait regner ne doive entrer en defiance, lui pourroit-on raisonnablement permettre de sortir de ce païs, apres luy avoir permis d'entrer dans la connoissance de nos secrets.
 Ce n'est pas que je soupçonne sa vertu⁎, mais je suis de ce sentiment qu'il ne faut pas se mettre au hazard⁎ d'avoir lieu de le soupçonner.
-Il faut comme vostre Majesté vient de dire, le retenir en ce Pays par des chaines si agreables qu'elles fassent tout ensemble sa gloire et sa felicité : Et pour moy je jugerois qu'il faudroit le retenir par quelque aliance avantageuse.
+Il faut comme vostre Majesté vient de dire, le retenir en ce Pays par des chaines si agreables qu'elles fassent tout ensemble sa gloire et sa felicité : Et pour moy je jugerois qu'il faudroit le retenir par quelque aliance avantageuse. 
 
 -*who_le_roy
 C'est la mon sentiment, Tarsis ; et c'est à quoy je travaille.
@@ -472,7 +472,7 @@ Oüy, mon fils, je puis l'arrester par ce bien, et mon repos en depend.
 Ainsi vostre repos ne depend que de vostre volonté.
 
 -*who_le_roy
-Je serois mon ennemy, si je ne voulois y consentir.
+Je serois mon ennemy, si je ne voulois y consentir. 
 
 -*who_tarsis
 Ha !
@@ -486,7 +486,7 @@ La bonne grace et la beauté sont sans doute de puissans moyens pour attirer de 
 -*who_tarsis
 Il est vray que Berenice n'est pas Reyne, mais il ne s'en faut que vostre consentement.
 Et peut-estre que le Ciel qui veut la felicité de cet Estat ne la fit venir en cette Cour, que pour estre le lien qui vous arrestera son pere.
-Si vous croyez que mon amour soit trop basse, il ne tiendra qu'à vous que je n'ayme une Reyne, puisqu'il ne tiendra qu'à vous que Berenice ne la devienne.
+Si vous croyez que mon amour soit trop basse, il ne tiendra qu'à vous que je n'ayme une Reyne, puisqu'il ne tiendra qu'à vous que Berenice ne la devienne. 
 
 -*who_le_roy
 Il ne tiendra jamais à moy ; mais comme cette affaire est grande, elle merite bien d'estre consultée, et qu'on y pense avec attention.
@@ -501,7 +501,7 @@ Voyez cependant⁎ Criton, et sans lui parler de ce dessein, faite en sorte de s
 -*who_tarsis
 Je vay obeïr à vostre Majesté.
 
-**** *book_ *id_body-403 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_II03 *act_II *date_1645 *creator_du_ryer
 
 -*who_le_roy
 Tirinte, il ne faut plus demander les raisons de la responce de Criton ; je les descouvre facilement dans la passion que mon fils a pour sa fille, il ne laisse pas de souhaiter mon aliance.
@@ -519,7 +519,7 @@ Je mettray tout en usage.
 
 -*who_tirinte
 Ha !
-Sire, on ne gagne pas les cœurs comme les Empires, et l'amour est un enfant de la volonté et non pas de la violence.
+Sire, on ne gagne pas les cœurs comme les Empires, et l'amour est un enfant de la volonté et non pas de la violence. 
 
 -*who_le_roy
 Hé bien, Tirinte, voy Berenice, et descouvre luy mon amour.
@@ -542,7 +542,7 @@ Oüy, Tirinte, je donneray à mon fils la sœur de Berenice, je lui donneray Ama
 
 -*who_tirinte
 Que ce remede de vostre mal est digne veritablement de l'esprit qui l'a inventé, et que Criton manqueroit de sagesse s'il ne vouloit pas escouter des conditions si favorables.
-Mais, Sire, si le Prince vostre fils a de l'amour pour Berenice, pensez-vous qu'il puisse aimer Amasie.
+Mais, Sire, si le Prince vostre fils a de l'amour pour Berenice, pensez-vous qu'il puisse aimer Amasie. 
 
 -*who_le_roy
 Il s'y resoudra bïen-tost, quand il sçaura ma volonté.
@@ -560,7 +560,7 @@ Mais vous ne pouvez ignorer que quand l'amour est dans nostre ame il ne permet p
 Peut-estre que le Prince ne sera pas exempt de cette loy, et comme il n'y a rien, qui nous empesche tant d'aymer que les commandemens qu'on nous en fait, il aura, peut-estre, de la peine à vous obeïr quand vous luy commanderez d'aymer Amasie.
 
 -*who_le_roy
-Il se soumettra, Tirinte.
+Il se soumettra, Tirinte. 
 
 -*who_tirinte
 Je ne voudrois pas mettre au hazard⁎ de vous faire voir le contraire.
@@ -588,7 +588,7 @@ Pour moy je crains avec raison de ne pouvoir vous satisfaire, et que mon travail
 Considere qui t'a obligé, et par la grandeur du service que tu me rendras, juge de la grandeur de la recompense.
 Mais enfin va dire à Criton que je veux parler à luy.
 
-**** *book_ *id_body-404 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_II04 *act_II *date_1645 *creator_du_ryer 
 
 -*who_tirinte
 Quel coup viens-je de recevoir !
@@ -604,7 +604,7 @@ Si je parle au Prince d'aymer Amasie, et que je reüssisse en ce dessein, ne me 
 Mais cette consideration peut-elle naistre dans un cœur, qui ayme veritablement : Non, non.
 Mais ;
 
-**** *book_ *id_body-405 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_II05 *act_II *date_1645 *creator_du_ryer
 
 -*who_amasie
 Tirinte, ne blasmez point ma curiosité.
@@ -614,7 +614,7 @@ Dites moy je vous supplie, pourquoy le Roy vous a fait parler à mon Père ?
 Helas, Madame, c'est un dessein qui ne peut reussir qu'à ma ruine ; mais la consolation que j'y trouve, c'est qu'il ne peut reussir que pour vostre gloire.
 
 -*who_amasie
-Comment, Tirinte ?
+Comment, Tirinte ? 
 
 -*who_tirinte
 Vous le sçaurez assez tost.
@@ -639,7 +639,7 @@ Moy, Tirinte !
 Vous, Madame, à quoy vous estiez vous resoluë ?
 
 -*who_amasie
-Je vous le demande, Tirinte ; ne devez-vous pas sçavoir ma resolution, puisque vous ne pouvez ignorer que je ne manque pas de generosité⁎ ?
+Je vous le demande, Tirinte ; ne devez-vous pas sçavoir ma resolution, puisque vous ne pouvez ignorer que je ne manque pas de generosité⁎ ? 
 
 -*who_tirinte
 Quoy, Madame, espererois-je en ma faveur, que l'amour, dont vous m'honorez, priveroit vostre vertu⁎ de la Couronne qu'on luy presente, et qu'elle merite si justement ?
@@ -661,7 +661,7 @@ C'est-à-dire, Madame, que vous estes resoluë de me perdre.
 -*who_amasie
 C'est à dire, Tirinte, mais voicy Leonide.
 
-**** *book_ *id_body-406 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_II06 *act_II *date_1645 *creator_du_ryer 
 
 -*who_leonide
 Tirinte, je vous cherche par le commandement du Roy, qui vous attend avec impatience, bien que vous veniez de le quitter.
@@ -678,7 +678,7 @@ Allez, Tirinte, allez le trouver !
 -*who_tirinte
 Je vous obeïs, Madame, comme pour vous tesmoigner que vous estes desja ma Reine, et que je suis vostre sujet.
 
-**** *book_ *id_body-501 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_III01 *act_III *date_1645 *creator_du_ryer
 
 -*who_berenice
 Quoy, ma sœur, on vous destine à Tarsis, et Tirinte vous l'a dit.
@@ -721,7 +721,7 @@ Quoy, si Tirinte m'ayme, il ne considerera point la gloire que je trouve en l'ab
 Vous estes donc resoluë de le perdre.
 
 -*who_amasie
-On se console bien-tost de la perte d'un amant par l'acquisition d'une Couronne.
+On se console bien-tost de la perte d'un amant par l'acquisition d'une Couronne. 
 
 -*who_berenice
 Que vostre amour est parfaite.
@@ -751,7 +751,7 @@ J'ayme autant la Couronne dessus ma teste, que sur la teste d'une autre.
 Veritablement cette ambition est fort belle, et digne d'un cœur genereux.
 
 -*who_amasie
-Elle n'est pas plus criminelle en moy, qu'elle l'estoit tantost en vous ; et apres tout, ce ne seroit pas estre raisonnable, que de vouloir prendre la fuite quand on est appellé dans le throsne.
+Elle n'est pas plus criminelle en moy, qu'elle l'estoit tantost en vous ; et apres tout, ce ne seroit pas estre raisonnable, que de vouloir prendre la fuite quand on est appellé dans le throsne. 
 
 -*who_berenice
 Vous avez raison, Amasie, et pour moy je vous conseille d'y courir tout de ce pas⁎.
@@ -777,7 +777,7 @@ Mais quel est le dessein du Roy, qui veut vous donner à Tarsis.
 Est-ce là le sujet qui chasse mon pere de ce païs ?
 
 -*who_amasie
-C'est ce que je n'ay pû encore sçavoir.
+C'est ce que je n'ay pû encore sçavoir. 
 
 -*who_berenice
 C'est ce qui m'estonne, et ce qui me tuë.
@@ -788,14 +788,14 @@ Toutes mes esperances se sont converties en craintes, et toutes choses m'afflige
 -*who_amasie
 Mais il vous oste toutes ces craintes par les promesses et par les protestations dont cette lettre est toute pleine.
 
-**** *book_ *id_body-502 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_III02 *act_III *date_1645 *creator_du_ryer
 
 -*who_criton
 Quelle lettre lisent-elles ?
 Amasie, que lisez-vous ?
 
 -*who_amasie
-Rien, Monsieur.
+Rien, Monsieur. 
 
 -*who_berenice
 Quelle surprise ?
@@ -850,7 +850,7 @@ Vous pouviez bien vous empescher de recevoir de ses lettres.
 J'ay respecté la condition.
 
 -*who_criton
-Il falloit respecter vostre honneur.
+Il falloit respecter vostre honneur. 
 
 -*who_amasie
 C'est la premiere fois que j'ay receu de ses lettres, et l'on m'a donné celle-cy sans me dire ce que c'estoit.
@@ -880,13 +880,13 @@ Retirez-vous encore une fois.
 -*who_amasie
 C'est pour vos espargner, que j'ay souffert tant d'injures.
 
-**** *book_ *id_body-503 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_III03 *act_III *date_1645 *creator_du_ryer
 
 -*who_criton
 Mais vous, Berenice, avez-vous dû souffrir⁎ cette amour  ?
 Et ne dois-je pas vous accuser de l'aveuglement de vostre sœur, si en ayant eu connoisance, vous n'avez pas fait vos efforts pour luy apporter sa guerison ?
 Comme elle a manqué de bon sens, avez-vous manqué de sagesse ?
-Et n'avez-vous pas reconnu qu'elle couroit à un precipice, d'où il est bien difficile que l'honneur se puisse sauver.
+Et n'avez-vous pas reconnu qu'elle couroit à un precipice, d'où il est bien difficile que l'honneur se puisse sauver. 
 
 -*who_berenice
 J'ay fait, Monsieur, tout ce que vous dites, j'ay resisté de toutes mes forces à la naissance de cette amour.
@@ -907,7 +907,7 @@ Je ne vous en ay point parlé, parce que je sçay avec asseurance, que l'amour e
 Berenice, l'amour est un traistre qui sçait feindre adroitement d'estre d'accord avec l'honneur, quand il medite sa ruine, et qu'il veut s'en faire un trophée.
 
 -*who_berenice
-Je pourrois bien vous asseurer que dans le cœur d'Amasie l'amour est un noble esclave, de qui l'honneur est tousjours le maistre.
+Je pourrois bien vous asseurer que dans le cœur d'Amasie l'amour est un noble esclave, de qui l'honneur est tousjours le maistre. 
 
 -*who_criton
 Ha, que vous connoissez mal les artifices de l'amour !
@@ -946,7 +946,7 @@ S'il ne tient pas sa parole, comme amant, il la tiendra comme genereux, et comme
 
 -*who_criton
 Comme genereux et comme Prince !
-Quand il se souviendra qu'il est Prince, il ne se souviendra plus qu'il est amant.
+Quand il se souviendra qu'il est Prince, il ne se souviendra plus qu'il est amant. 
 
 -*who_berenice
 Vous avez mauvaise opinion de Tarsis, si vous le croyez capable de violer ses sermens, et de faire des tromperies.
@@ -970,7 +970,7 @@ Mais nous sommes d'une naissance…
 Ne me contestez point davantage, le Prince doit venir icy, il le mande⁎ par cette lettre ; je veux que vous l'attendiez.
 
 -*who_berenice
-Moy.
+Moy. 
 
 -*who_criton
 Oüy, je veux que vous l'attendiez, et que vous repariez vos fautes en vous opposant à son amour.
@@ -989,7 +989,7 @@ Si vous m'ordonnez l'impossible, le moyen de vous obeïr ?
 -*who_criton
 Enfin je veux que vous luy parliez, et que vous fassiez en sorte de le destourner de cét amour, qui ne peut produire que des maux, et qui me comble desja de tristesses.
 
-**** *book_ *id_body-504 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_III04 *act_III *date_1645 *creator_du_ryer
 
 -*who_berenice
 Que mon avanture⁎ est estrange, et que mon apprehension⁎ est extréme.
@@ -999,7 +999,7 @@ Laissons aux Dieux la conduite de nostre fortune⁎, et recueillons cependant⁎
 Ce sera par ce moyen que je parleray à Tarsis sans soupçon et sans ombrage.
 Mais le voicy.
 
-SCENE CINQUIESME.
+**** *book_ *id_III05 *act_III *date_1645 *creator_du_ryer
 
 -*who_tarsis
 Je croy que vous avez receu ma lettre.
@@ -1048,7 +1048,7 @@ Vostre cœur est mon empire, vostre cœur est ma couronne, et si je suis tousjou
 
 -*who_berenice
 Vous serez donc tousjours heureux, puisque vous serez tousjours aimé ; mais voulez-vous que l'on publie⁎ que la miserable⁎ Berenice arma le fils contre le pere, et qu'elle mit dans la nature une si horrible confusion ?
-Faites dessus vous un effort pour me délivrer de ce reproche.
+Faites dessus vous un effort pour me délivrer de ce reproche. 
 
 -*who_tarsis
 Si ce malheur arrivoit, on le reprocheroit au Roy qui ne sçait pas se reconnoistre en l'âge où nous le voyons.
@@ -1082,13 +1082,13 @@ Ouy, ma mort est resoluë ; et vous pouvez vous imaginer la violence qui se fai
 Mais pour me donner la force de vous faire mes adieux, et de commencer nostre absence, permettez moy d'esperer que cette puissance souveraine qui m'esloigne de vos yeux, ne m'esloigne pas de vostre cœur.
 
 -*who_berenice
-Je vous le promets, Seigneur, et je me retire ; aussi bien aprés cette parole ne pouvant plus vous rien dire, et ne pouvant vous dire adieu, je ne vous puis donner que des larmes.
+Je vous le promets, Seigneur, et je me retire ; aussi bien aprés cette parole ne pouvant plus vous rien dire, et ne pouvant vous dire adieu, je ne vous puis donner que des larmes. 
 
 -*who_tarsis
 Commence à souffrir, malheureux, puis que tu cesses de la voir.
 Helas ! cette absence ne vient que de commencer, et si je la considere par mes maux, elle a duré des siècles.
 
-**** *book_ *id_body-601 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV01 *act_IV *date_1645 *creator_du_ryer
 
 -*who_amasie
 Que vouloit vous dire le Roy quand il vous a envoyé querir par Leonide ?
@@ -1109,7 +1109,7 @@ Je puis enfin me resoudre à vous perdre, et à me priver de vous mesme, si je n
 Certes, je ne feray pas toutes ces choses, sans faire dessus mon esprit une extréme violence, mais lors que vostre perte m'aura rendu malheureux, vostre felicité me consolera ? aussi je ne puis vivre aprés avoir perdu l'esperance, je sortiray content de la vie, si je vous laisse dans un throsne.
 
 -*who_amasie
-Il me semble, Tirinte, que je ne vous ay point donné sujet de me tenir ce discours ; je vous ay tousjours monstré plus d'amour que d'ambition, et puisque j'ay eu la hardiesse de vous dire que je vous ayme, vous devez en estre persuadé.
+Il me semble, Tirinte, que je ne vous ay point donné sujet de me tenir ce discours ; je vous ay tousjours monstré plus d'amour que d'ambition, et puisque j'ay eu la hardiesse de vous dire que je vous ayme, vous devez en estre persuadé. 
 
 -*who_tirinte
 Aussi ne viens-je pas vous demander de nouvelles marques de vostre amour, mais je viens vous en donner de la mienne.
@@ -1143,7 +1143,7 @@ Enfin que voulez-vous que je fasse ?
 -*who_amasie
 Je n'en sçay rien, Tirinte, resolvez, je vous laisse faire.
 
-**** *book_ *id_body-602 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV02 *act_IV *date_1645 *creator_du_ryer 
 
 -*who_tirinte
 Dans quelle inquietude me laissez vous, Amasie ?
@@ -1153,7 +1153,7 @@ N'avez-vous osé me dire que l'ambition a triomphé de vostre amour ?
 Que je resolve, dites vous ; hé bien, il faut vous contenter : Hé bien, il faut obeïr au Roy, et vous donner sujet de dire pour excuser vostre inconstance, que je suis cause de mon malheur.
 Si vous voulez une couronne, et si je vous ayme parfaitement, je ne dois point consulter⁎ entre vostre gloire et mon repos.
 
-**** *book_ *id_body-603 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV03 *act_IV *date_1645 *creator_du_ryer 
 
 -*who_tarsis
 Tirinte.
@@ -1188,7 +1188,7 @@ Quoy, Seigneur, vous estes vous resolu de luy ceder Berenice, et d'aymer enfin A
 Au moins j'ay feint de m'y resoudre, et j'ay gaigné par cette feinte le retardement de mon voyage.
 
 -*who_tirinte
-Je ne sçay si cette feinte ne vous trompera point vous mesme, et j'ay sujet d'apprehender qu'elle ne vous devienne funeste.
+Je ne sçay si cette feinte ne vous trompera point vous mesme, et j'ay sujet d'apprehender qu'elle ne vous devienne funeste. 
 
 -*who_tarsis
 En quoy funeste ?
@@ -1217,7 +1217,7 @@ Parce que j'allois faire une chose qui vous eust esté desagreable, et qui m'eus
 Mais enfin à quoy vous servira cette feinte ?
 
 -*who_tarsis
-Durant le temps que je feindray, Berenice lassera le Roy à force de luy resister.
+Durant le temps que je feindray, Berenice lassera le Roy à force de luy resister. 
 
 -*who_tirinte
 Peut-estre qu'à force d'endurer⁎ le Roy gaignera Berenice.
@@ -1277,7 +1277,7 @@ Mais que diray-je au Roy, qui m'envoyoit parler à Criton.
 -*who_tarsis
 Invente ce que tu voudras, mais enfin retire toy.
 
-**** *book_ *id_body-604 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV04 *act_IV *date_1645 *creator_du_ryer 
 
 -*who_tarsis
 Vous trouveray-je tousjours avec un visage triste, ne verray-je jamais en vous que des presages de miseres ?
@@ -1298,7 +1298,7 @@ Que me venez-vous apprendre.
 Il n'y a plus rien qui puisse empescher mon pere de retourner en Sicile.
 
 -*who_tarsis
-Le Roy consent-il à son retour ?
+Le Roy consent-il à son retour ? 
 
 -*who_berenice
 Le tyran de la Sicile est mort.
@@ -1320,7 +1320,7 @@ Si vostre pere aime les honneurs, on l'arrestera par ces liens de toutes les ame
 Il a des pretentions dans la Sicile, qui l'empescheront d'escouter vostre amour, et qui l'obligeront sans doute à refuser tous les honneurs que vous pourriez luy presenter.
 
 -*who_tarsis
-Que pretend il dans la Sicile de plus avantageux, qu'en ce païs.
+Que pretend il dans la Sicile de plus avantageux, qu'en ce païs. 
 
 -*who_berenice
 Au moins il y sera dans sa Patrie.
@@ -1341,7 +1341,7 @@ J'ay fait la guerre pour conserver la couronne, je sçauray bien l'entreprendre 
 Que plûtost le Ciel me perde pour vous oster le sujet d'une entreprise si criminelle.
 Mais voicy mon pere.
 
-**** *book_ *id_body-605 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV05 *act_IV *date_1645 *creator_du_ryer 
 
 -*who_criton
 Seigneur, je ne vous feray point icy de longs discours, bien que je vous deusse preparer à recevoir un coup, qui sans doute vous estonnera⁎.
@@ -1357,7 +1357,7 @@ Si vous le sçavez, vous devez donc cesser d'aimer.
 Certes, Criton, je ne comprens pas pourquoy vous ne pouvez souffrir⁎ mon amour ; est-ce que vous ignorez qui je suis ?
 
 -*who_criton
-C'est par ce que vous ignorez qui vous estes.
+C'est par ce que vous ignorez qui vous estes. 
 
 -*who_tarsis
 Pensez-vous que l'amour m'aveugle, et qu'il m'oste la connoissance de ce que je suis.
@@ -1402,16 +1402,16 @@ Non pas si j'ay raison de vous croire : Mais le moyen de donner quelque croyanc
 Sçachez pour vous le faire croire.
 Mais Leonide vient icy.
 
-**** *book_ *id_body-606 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV06 *act_IV *date_1645 *creator_du_ryer
 
 -*who_leonide
-Criton, le Roy vous attend il y a long-temps, et m'a commandé de vous amener.
+Criton, le Roy vous attend il y a long-temps, et m'a commandé de vous amener. 
 
 -*who_criton
 Que feray-je !
 Allons Leonide.
 
-**** *book_ *id_body-607 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_IV07 *act_IV *date_1645 *creator_du_ryer
 
 -*who_tarsis
 Quelle nouvelle, chere Berenice ! et quel plus grand estonnement a jamais surpris un esprit.
@@ -1426,14 +1426,14 @@ Et lors que par tant de peines, je tâchois de faire aimer le miserable⁎ Tarsi
 Mais doy-je croire cette avanture⁎, helas ! je voudrois en estre instruit, et je crains pourtant de m'en instruire.
 Que de peines ! que de maux ! que de supplices ! et que l'on endure⁎ de tourmens, quand il faut qu'une amour extréme se convertisse en amitié.
 
-**** *book_ *id_body-701 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_V01 *act_V *date_1645 *creator_du_ryer
 
 -*who_amasie
 Cette avanture⁎ vous met en desordre, et je voy bien que vous avez peine à devenir sœur de Tarsis.
 
 -*who_berenice
 Helas ! j'ay honte de l'avoir aimé, puis que c'est mon frere que j'ay aimé comme mon amant.
-Je pense m'estre renduë criminelle autant de fois que je l'ay regardé, et je ne me tiens pas innocente d'avoir eu si long-temps de l'amour, lors que je devois avoir seulement de l'amitié.
+Je pense m'estre renduë criminelle autant de fois que je l'ay regardé, et je ne me tiens pas innocente d'avoir eu si long-temps de l'amour, lors que je devois avoir seulement de l'amitié. 
 
 -*who_amasie
 C'est une faute de la fortune⁎, qui ne tache point l'innocence.
@@ -1451,7 +1451,7 @@ Helas ! que cét avantage que vous trouvez d'estre sortie d'un mesme sang, va l
 Ce nous est sans doute une grande gloire d'avoir un frere si illustre, mais s'il ne peut estre nostre frere, qu'il ne perde la couronne qui brille dé-jà sur sa teste, je vous le confesse, Amasie, il me fasche⁎ qu'il soit mon frere, et je souhaiterois plûtost d'estre sa sujete que sa sœur.
 
 -*who_amasie
-Mais, le voicy.
+Mais, le voicy. 
 
 -*who_berenice
 Helas ! j'ay honte de le voir.
@@ -1460,7 +1460,7 @@ Helas ! j'ay honte de le voir.
 Au moins sçachez de luy cette histoire, je vous laisse tous deux ensemble.
 Qu'ils sont confus de se revoir.
 
-**** *book_ *id_body-702 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_V02 *act_V *date_1645 *creator_du_ryer
 
 -*who_tarsis
 De quel nom vous appelleray-je ?
@@ -1495,7 +1495,7 @@ Berenice, qui me serez tousjours chere, ou comme sœur ou comme amante ; en vai
 Ne consultez⁎ pas d'avantage, vous ne pouvez plus demeurer amant sans commencer d'estre criminel ; et si vous conservez vostre amour, vous ne meriterez d'estre aimé, ny comme amant ny comme frere.
 
 -*who_tarsis
-Donnez, donnez à mon amour pour le moins le temps d'expirer.
+Donnez, donnez à mon amour pour le moins le temps d'expirer. 
 
 -*who_berenice
 Il ne luy faut pas plus de temps qu'il en faut pour prononcer le nom de sœur et de frere.
@@ -1538,7 +1538,7 @@ Cessez de m'offenser par cette parole d'amour, qui n'a plus rien dans vostre bou
 -*who_tarsis
 Non, non, Berenice, je ne vous offenceray plus.
 Enfin, ma sœur, puis qu'il faut prononcer cette parole, aymez un Roy qui vous aime ; la premiere marque que je vous puis donner de mon amitié, c'est de vous conseiller d'aimer un Roy qui vous appelle maintenant au partage de ses grandeurs.
-Je vous verray passer en ses mains sans douleur, et sans jalousie ; et s'il faut perdre l'esperance de me voir un jour dans le throsne, au moins j'en seray consolé lors qu'une autre que Berenice ne possedera pas un si grand bien, et que je ne perdray ma splendeur que pour en voir ma sœur esclairée.
+Je vous verray passer en ses mains sans douleur, et sans jalousie ; et s'il faut perdre l'esperance de me voir un jour dans le throsne, au moins j'en seray consolé lors qu'une autre que Berenice ne possedera pas un si grand bien, et que je ne perdray ma splendeur que pour en voir ma sœur esclairée. 
 
 -*who_berenice
 Faut-il que la rencontre d'une sœur vous mette au hazard⁎ de perdre des prosperitez si glorieuses ?
@@ -1558,13 +1558,13 @@ Ils ont crû faire cét honneur au sang de leur Prince.
 Puisque c'est vostre courage qui les a tirez d'oppression, ils ont crû faire cét honneur à la vertu⁎.
 
 -*who_tarsis
-Quoy qu'il en soit, Berenice, je n'ay plus rien à perdre, puis que je viens de vous perdre ; car enfin, ma fureur se renouvelle, je ne puis vous voir sans amour, et vous n'aurez point d'amans dont vostre frere ne soit jaloux.
+Quoy qu'il en soit, Berenice, je n'ay plus rien à perdre, puis que je viens de vous perdre ; car enfin, ma fureur se renouvelle, je ne puis vous voir sans amour, et vous n'aurez point d'amans dont vostre frere ne soit jaloux. 
 
 -*who_berenice
 Ha !
 Tarsis, vostre discours m'espouvante, il faut enfin que je me retire, aussi-bien ma triste presence ne pourroit desormais servir qu'à faire croistre vostre crime, puis que vostre amour est un crime.
 
-**** *book_ *id_body-703 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_V03 *act_V *date_1645 *creator_du_ryer
 
 -*who_tarsis
 C'est icy, malheureux Tarsis, que la honte et l'horreur t'accompagnent de tous costez.
@@ -1579,7 +1579,7 @@ Mais dois-je encore appeller amour cette effroyable passion ; non, non, c'est u
 Viens donc, viens donc à mon secours ; O nature outragée par cette furie, et si tu ne peux en triompher, excite en moy ce desordre qui me doit apporter la mort, afin d'estouffer cette furie sous les ruines d'un malheureux ; enfin, si je ne puis vaincre cette amour, que je meure pour estre puny.
 Mais que veut Tirinte.
 
-SCENE QUATRIEME.
+**** *book_ *id_V04 *act_V *date_1645 *creator_du_ryer
 
 -*who_tarsis
 He bien, Tirinte, Criton a-il veu le Roy.
@@ -1587,7 +1587,7 @@ He bien, Tirinte, Criton a-il veu le Roy.
 -*who_tirinte
 Non pas encore, et j'allois au devant de⁎ luy pour le presser de venir.
 Je n'ay jamais veu le Roy dans une si grande impatience.
-Il s'imagine que vous retenez Criton, et que vous l'instruisez de ce qu'il doit faire.
+Il s'imagine que vous retenez Criton, et que vous l'instruisez de ce qu'il doit faire. 
 
 -*who_tarsis
 Helas, Tirinte, je n'ay plus rien à faire, et je n'ay plus rien à dire : Toutes mes esperances sont ruinées.
@@ -1601,7 +1601,7 @@ Tu le sçauras assez-tost.
 -*who_tirinte
 Mais je voy le Roy qui rentre dans cette gallerie, il vous a apperceu, il vient à vous, et moy je vay querir Criton.
 
-**** *book_ *id_body-705 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_V05 *act_V *date_1645 *creator_du_ryer
 
 -*who_le_roy
 Il me semble que mes volontez vous devroient estre plus cheres, et que quand je mande Criton, vous ne devez pas le retenir.
@@ -1610,7 +1610,7 @@ Il me semble que mes volontez vous devroient estre plus cheres, et que quand je 
 Moy, Sire.
 
 -*who_le_roy
-Oüy, vous, et je ne veux point douter que l'amour de Berenice ne vous mette bien tost en estat de me déplaire.
+Oüy, vous, et je ne veux point douter que l'amour de Berenice ne vous mette bien tost en estat de me déplaire. 
 
 -*who_tarsis
 Je ne vous déplairay jamais par l'amour de Berenice, je sçay le respect que je vous dois, et je sçauray suivre la loy que m'impose ma naissance.
@@ -1627,7 +1627,7 @@ Je ne vous demande pas davantage.
 -*who_tarsis
 Mais enfin voicy Criton accompagné de ses filles.
 
-**** *book_ *id_body-706 *act_ *date_1645 *creator_du_ryer
+**** *book_ *id_V06 *act_V *date_1645 *creator_du_ryer
 
 -*who_le_roy
 Criton, vous avez sçeu mes intentions, et mes volontez, je suis maintenant en peine⁎ de vostre responce.
@@ -1651,7 +1651,7 @@ On nous attend en Sicile, le Tyran est mort, nostre pays nous appelle, et je ne 
 
 -*who_le_roy
 Je voy bien ce que c'est, Criton, vous voulez que j'use de mon pouvoir, et que je ravisse le bien que vous me devriez accorder.
-Hé bien ! il faut vous monstrer que je suis Roy.
+Hé bien ! il faut vous monstrer que je suis Roy. 
 
 -*who_criton
 Sire ce n'est pas par violence que vous pouvez le témoigner.
@@ -1679,7 +1679,7 @@ Parlez Criton, qu'avez vous enfin à me dire ?
 Ha !
 Sire, il faut que je parle, et que je descouvre mon crime plûtost que d'en souffrir⁎ de plus grands.
 Pardonnez à ce miserable⁎ ce que vous en allez entendre.
-Vous voulez espouser Berenice, et Berenice est vostre fille.
+Vous voulez espouser Berenice, et Berenice est vostre fille. 
 
 -*who_le_roy
 Berenice ma fille !
@@ -1719,7 +1719,7 @@ Vous receustes donc Tarsis pour vostre fils, et je garday Berenice comme si elle
 Voila, Sire, Voila le crime d'un pere qui se resolut de perdre son fils pour avoir un jour le plaisir de le voir assis sur un throsne, et qui toutesfois dans son crime s'imagina vous rendre service.
 En effet, Sire, l'arrivée et la presence de Tarsis rendit le respect à vos peuples, estonna⁎ les seditieux, et les fit taire en ce temps là.
 Ainsi l'on peut dire que Tarsis estant encore en un âge où l'on peut monstrer que des foiblesses, commença à vous servir, et à vous rendre tesmoignage qu'il estoit né seulement pour vous.
-Mais il semble que je veuille excuser ma faute ; non, non, Sire, punissez mon ambition : et vous Berenice, sollicitez mon chastiment pour vous vanger d'un miserable⁎, qui vous déroba si long-temps les honneurs qui vous estoient deubs, et où vostre naissance vous appelloit.
+Mais il semble que je veuille excuser ma faute ; non, non, Sire, punissez mon ambition : et vous Berenice, sollicitez mon chastiment pour vous vanger d'un miserable⁎, qui vous déroba si long-temps les honneurs qui vous estoient deubs, et où vostre naissance vous appelloit. 
 
 -*who_amasie
 O Dieux ! quelle avanture⁎ !
@@ -1744,7 +1744,7 @@ Helas ! cette lettre a renouvellé dans mon ame toutes les douleurs de sa mort.
 Berenice ma fille.
 
 -*who_tarsis
-Quel changement, Madame !
+Quel changement, Madame ! 
 
 -*who_le_roy
 O Dieux ! je n'en sçaurois plus douter, plus je la regarde et plus je remarque en elle les traits⁎, et l'image de sa mere.

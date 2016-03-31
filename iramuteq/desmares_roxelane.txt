@@ -36,7 +36,7 @@ Ledit Sommaville a associé audit Privilege Augustin Courbé, Marchand Libraire 
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-401 *act_ *date_1643 *creator_desmares
+**** *book_ *id_I01 *act_I *date_1643 *creator_desmares
 
 -*who_circasse
 Vous, de qui l'amitié⁎ ne suit point l'esperance,
@@ -235,7 +235,7 @@ Sur tout preparés-vous contre ses artifices.
 -*who_circasse
 Que je vous doy de biens pour tant de bons offices.
 
-**** *book_ *id_body-402 *act_ *date_1643 *creator_desmares 
+**** *book_ *id_I02 *act_I *date_1643 *creator_desmares 
 
 -*who_roxelane
 Non, non, ne pensés pas que la présomption
@@ -362,7 +362,7 @@ Vous ne jugerés pas mes desseins impossibles,
 Il est bien vray qu'il faut les vous communiquer,
 Et m'asseurez de vaincre avant que d'attaquer.
 
-**** *book_ *id_body-403 *act_ *date_1643 *creator_desmares
+**** *book_ *id_I03 *act_I *date_1643 *creator_desmares
 
 -*who_page
 La Sultane Circasse est ici prés, Madame,
@@ -524,7 +524,7 @@ Ma soeur jusqu'au revoir.
 De quelque faux appas⁎ que ton discours se farde
 Je suis bien resoluë à me donner de garde.
 
-**** *book_ *id_body-404 *act_ *date_1643 *creator_desmares 
+**** *book_ *id_I04 *act_I *date_1643 *creator_desmares 
 
 -*who_roxelane
 Je vous croiray, Circasse, et vous et vostre fils
@@ -574,7 +574,7 @@ S'il sort de son devoir nous le mettions en poudre,
 Faisons ce coup d'esprit qui nous mette en état
 De pouvoir éviter et faire un attentat.
 
-**** *book_ *id_body-501 *act_ *date_1643 *creator_desmares
+**** *book_ *id_II01 *act_II *date_1643 *creator_desmares
 
 -*who_soliman
 Non non, ceste grandeur dont l'éclat m'environne,
@@ -826,7 +826,7 @@ Seigneur je me soûmets, et mets les armes bas.
 -*who_soliman
 Qu'elle ne sache rien de ceste conference.
 
-**** *book_ *id_body-502 *act_ *date_1643 *creator_desmares
+**** *book_ *id_II02 *act_II *date_1643 *creator_desmares
 
 -*who_soliman
 Enfin vous me rendés ceste aymable presence.
@@ -1000,7 +1000,7 @@ Qui soit de ma grandeur la veritable image.
 Qu'elle choisisse un lieu, vous, Acmat, suivez moi,
 Un grand dessein que j'ay demande vostre employ.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_desmares 
+**** *book_ *id_II03 *act_II *date_1643 *creator_desmares 
 
 -*who_roxelane
 Jusqu'icy la fortune⁎ à nos vœux exorable
@@ -1050,7 +1050,7 @@ Mais mon cher confident ne m'abandonnés pas
 -*who_le_mufti
 Je ne vous quitte point mesme dans le trespas.
 
-**** *book_ *id_body-601 *act_ *date_1643 *creator_desmares
+**** *book_ *id_III01 *act_III *date_1643 *creator_desmares
 
 -*who_soliman
 Non je ne vous croy pas, Roxelane est trop sage
@@ -1142,7 +1142,7 @@ Pour recevoir la grace ou recevoir la peine.
 Allez, et qu'aussi-tost je vous revoye icy
 De sa rebellion je veux estre éclaircy.
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_desmares
+**** *book_ *id_III02 *act_III *date_1643 *creator_desmares
 
 -*who_acmat
 Je ne puis rien comprendre en ceste procedure ;
@@ -1190,7 +1190,7 @@ Bref nous devons tirer de ceste procedure,
 De quelque grand dessein, un infaillible augure,
 Mais nostre confident à grands pas vient à nous.
 
-**** *book_ *id_body-603 *act_ *date_1643 *creator_desmares
+**** *book_ *id_III03 *act_III *date_1643 *creator_desmares
 
 -*who_circasse
 He bien mon cher Osman, que nous apportés-vous ?
@@ -1248,7 +1248,7 @@ La ruine de l'une est le salut de l'autre.
 Allons mon cher Acmat, que ce bien-heureux jour,
 Me fasse posseder mon Prince et son amour.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_desmares 
+**** *book_ *id_III04 *act_III *date_1643 *creator_desmares 
 
 -*who_roxelane
 STANCES.
@@ -1298,7 +1298,7 @@ Quand il meurt genéreux vit eternellement.
 Mais l'alarme est au cap, Rustan est hors d'haleine
 Et ma fille est en pleurs.
 
-**** *book_ *id_body-605 *act_ *date_1643 *creator_desmares 
+**** *book_ *id_III05 *act_III *date_1643 *creator_desmares 
 
 -*who_roxelane
                   Rustan qui vous amene ?
@@ -1481,7 +1481,7 @@ Que pour executer les decrets de la rage.
 -*who_roxelane
 Consolez vous ce mal ne s'adresse qu'à moy.
 
-**** *book_ *id_body-606 *act_ *date_1643 *creator_desmares
+**** *book_ *id_III06 *act_III *date_1643 *creator_desmares
 
 -*who_roxelane
 He bien faut-il mourir ; que vous a dit le Roy ?
@@ -1527,7 +1527,7 @@ La colere du Roy me fait craindre pour vous.
 -*who_roxelane
 Il luy faut obeyr, mesme dans son courrous.
 
-**** *book_ *id_body-701 *act_ *date_1643 *creator_desmares
+**** *book_ *id_IV01 *act_IV *date_1643 *creator_desmares
 
 -*who_soliman
 STANCES.
@@ -1582,7 +1582,7 @@ Et la rigueur une vertu.
 Mais ne la jugeons pas sans ouyr sa deffence
 Ormin, Osman, quelqu'un à moy, que l'on s'avance.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_desmares
+**** *book_ *id_IV02 *act_IV *date_1643 *creator_desmares
 
 -*who_circasse
 Seigneur que vous plaist-il.
@@ -1637,7 +1637,7 @@ Et pour vous et pour moy jugez plus sainement,
 Vous me verrez son juge, et non pas son amant.
 Mais voicy nostre ingrate.
 
-**** *book_ *id_body-703 *act_ *date_1643 *creator_desmares
+**** *book_ *id_IV03 *act_IV *date_1643 *creator_desmares
 
 -*who_soliman
                   He bien belle Princesse !
@@ -1755,7 +1755,7 @@ Qu'à ces conditions j'embrasse vos genoux,
 -*who_soliman
 Adieu, Circasse, adieu, Soldats retirez-vous.
 
-**** *book_ *id_body-704 *act_ *date_1643 *creator_desmares
+**** *book_ *id_IV04 *act_IV *date_1643 *creator_desmares
 
 -*who_soliman
 Enfin je me voy libre et je puis sans contrainte
@@ -1897,7 +1897,7 @@ Je te rends miserable au point que la mort mesme
 Deniera son secours à ta misere extréme
 Quelqu'un à moy.
 
-**** *book_ *id_body-705 *act_ *date_1643 *creator_desmares
+**** *book_ *id_IV05 *act_IV *date_1643 *creator_desmares
 
 -*who_ormin
                   Seigneur.
@@ -1939,7 +1939,7 @@ Faut-il que cette affaire esbranle ma confiance,
 Possible elle a raison, j'en veux estre éclaircy,
 Assemblez le Conseil pour une heure d'icy.
 
-**** *book_ *id_body-801 *act_ *date_1643 *creator_desmares
+**** *book_ *id_V01 *act_V *date_1643 *creator_desmares
 
 -*who_circasse
 En ce jour où le Ciel doit monstrer à ma peine
@@ -2025,7 +2025,7 @@ Si l'on m'en fait sortir ce ne sera que morte.
 Ha Mustafa mon fils : mais voicy l'Empereur,
 Que cette fuite Acmat redouble ma terreur.
 
-**** *book_ *id_body-802 *act_ *date_1643 *creator_desmares
+**** *book_ *id_V02 *act_V *date_1643 *creator_desmares
 
 -*who_soliman
 Amis dont la valeur jointe à l'experience
@@ -2312,7 +2312,7 @@ Que peut un Empereur qui n'a plus de franchise.
 -*who_soliman
 Mais j'apperçois l'object de mes contentemens.
 
-**** *book_ *id_body-803 *act_ *date_1643 *creator_desmares
+**** *book_ *id_V03 *act_V *date_1643 *creator_desmares
 
 -*who_soliman
 Venez chaste beauté, reine des Musulmans⁎

@@ -733,7 +733,7 @@ I. D. [53]
 
 Par grace et Privilege du Roy, Il est permis à Pierre David marchand Libraire à Paris, d'imprimer ou faire imprimer un livre intitulé *Lisandre et Caliste Tragicomédie*, & ce pendant six ans à compter du jour que ledit livre sera achevé d'imprimer, & cependant deffences à tous Libraires, Imprimeurs tant de ce Royaume qu'autres estrangers, d'imprimer, vendre ny distribuer ledit livre ny partie d'iceluy, sinon de l'impression qu'auroit fait faire ledit David, ou autres ayans droit & authorité de luy, à peine de mil livres d'amande & de confiscation des exemplaires, & de tous despens, dommages & interests, comme plus à plain est porté dans ledit Privilege, à la charge que ledit exposant mettra deux exemplaires en nostre Bibliotheque. Donné à Paris le XX. jour de Juillet de l'an de grace mil six cens trente deux, et de nostre regne le vingt troisiesme. Par le Roy en son Conseil,
 
-OLIER.< Achevé d’imprimer le cinquiesme jour d’Aoust mil six cens trente deux. >
+OLIER.< Achevé d’imprimer le cinquiesme jour d’Aoust mil six cens trente deux. > 
 
 
 ## A SON AMY DU RYER SUR SON LIVRE.
@@ -868,7 +868,7 @@ D'avoir un cœur humain sans l'aymer autrement !
 Sa divine douceur veut que je persevere  
 Et sa pudicité ne veut pas que j'espere,  
 Sa beauté me contente et me rend malheureux ;  
-Mais quelqu'un interromp mes pensers amoureux.  
+Mais quelqu'un interromp mes pensers amoureux.   
 
     CRISANTE
 Cloridan outragé de la seule memoire,  
@@ -939,7 +939,7 @@ Je puis rendre bien tost nos deux ames contentes.
 
     LEON
 Que dis tu mon soucy, quand viendra ce moment  
-Que reserve l'amour à mon contentement ?  
+Que reserve l'amour à mon contentement ?   
 
     CLARINDE
 Caliste doibt passer la nuit avec Cleandre,  
@@ -996,7 +996,7 @@ Qui separe le bois d'avecques la campagne.
 
     LEON
 Allons donq sans remise⁎, en pareils mouvemens⁎  
-Un moment differé fait de grands changemens.  
+Un moment differé fait de grands changemens.   
 
 
 ### SCENE TROISIESME [77]
@@ -1043,7 +1043,7 @@ A prendre un bon conseil de Cleandre et Caliste. [82]
 Ce sang qui fait changer à l'herbe de couleur  
 Me fait apprehender quelque insigne⁎ malheur.  
 Cherchons de tous costez ne laissons point de place  
-Où nos pieds diligens n'impriment quelque trace.  
+Où nos pieds diligens n'impriment quelque trace.   
 
     LEON
 Mais n'entendez vous pas quelques tristes soupirs  
@@ -1069,7 +1069,7 @@ Vous laisse assez de force afin de nous parler.
 Le ciel juste ennemy des desseins de l'envie  
 N'a voulu prolonger les restes de ma vie,  
 Que pour vous asseurer par mon sang respandu  
-Que Lisandre attaqué s'est fort bien deffendu.  
+Que Lisandre attaqué s'est fort bien deffendu.   
 
     LEON
 L'attainte de ce coup ne peut estre mortelle,  
@@ -1094,7 +1094,7 @@ Quel chemin a-t-il pris ?
         Je ne vous le puis dire.  
 
     LEON
-Dites nous pour le moins où Cloridan expire.  
+Dites nous pour le moins où Cloridan expire.   
 
     CRISANTE
 Cloridan icy pres hors d'espoir de guerir  
@@ -1167,7 +1167,7 @@ Vous me rendrez ingrat en m'obligeant⁎ ainsi.
 Vous voulez de la sorte augmenter son soucy.  
 
     CLEANDRE
-Je reviendray bien tost.  
+Je reviendray bien tost.   
 
     LISANDRE
         Faut-il que je vous quitte ?  
@@ -1261,7 +1261,7 @@ Donne à vostre départ la faveur de son ombre.
 
     LISANDRE
 Helas ! si j'ay commis un crime en combattant,  
-J'en souffre dans l'esprit la peine en vous quittant. [91]  
+J'en souffre dans l'esprit la peine en vous quittant. [91]   
 
 
 ### SCENE CINQUIESME
@@ -1285,7 +1285,7 @@ Contre ses ennemis en estre le tesmoing :
 Tousjours le bruit commun est le fils du mensonge,  
 Et bien souvent il est moins croyable qu'un songe.  
 Mais allons chez Cleandre, et je vous feray voir  
-Ce que la verité fera par tout sçavoir.  
+Ce que la verité fera par tout sçavoir.   
 
 
 ### SCENE SIXIESME
@@ -1335,7 +1335,7 @@ Nous sçaurons le subjet qui t'ameine en ces lieux,
 Ou de ta propre espee : hà le traistre me tuë,  
 Et son mauvais dessein dessus moy s'effectue.  
 Il laisse son espee dans le corps de Cleandre
-
+ 
 
     CALISTE
 Arrestez ce cruel, helas ! je parle en vain,  
@@ -1425,7 +1425,7 @@ Vous gardera l'honneur que l'on veut vous oster.
 Destins qui disposez la malice des Astres  
 A verser dessus moy ce qu'ils ont de desastres,  
 Je tireray ce bien de mes maux apparans⁎  
-Que je ne sçaurois pas en craindre de plus grands. [101]  
+Que je ne sçaurois pas en craindre de plus grands. [101]   
 
 
 ## ACTE SECOND
@@ -1524,7 +1524,7 @@ Allons donq.
 
     LISANDRE
         En allant je vous feray sçavoir  
-La place destinee⁎ où je vous doy revoir.  
+La place destinee⁎ où je vous doy revoir.   
 
 
 ### SCENE DEUXIESME
@@ -1569,7 +1569,7 @@ Evitons les moyens de nous en repentir.
 
     LE BOUCHER
 Alison [114], il vaut mieux à ce point se reduire  
-Que de se conserver un amy qui peut nuire.  
+Que de se conserver un amy qui peut nuire.   
 
     LA BOUCHERE
 Qui peut nuire, coment ?  
@@ -1595,7 +1595,7 @@ Cognoissez⁎ vos amis.
 
     LA BOUCHERE
         Nous les cognoissons bien,  
-Retirez vous d'icy vous n'y gaignerez rien.  
+Retirez vous d'icy vous n'y gaignerez rien.   
 
     LISANDRE
 Cette chayne de prix.  
@@ -1646,7 +1646,7 @@ Caliste.
 
     LISANDRE
         Prest à vous faire entendre  
-Le dessein du bonheur⁎, que vous devez attendre.  
+Le dessein du bonheur⁎, que vous devez attendre.   
 
     CALISTE
 Le Geolier me l'a dit, mais helas ! son effet  
@@ -1673,7 +1673,7 @@ Si vous n'esperez rien de la rigueur d'un pere
 Vous pouvez esperer des douceurs d'une mere.  
 
     CALISTE
-Mais que deviendrez vous ?  
+Mais que deviendrez vous ?   
 
     LISANDRE
         J'iray chez mes parens  
@@ -1702,7 +1702,7 @@ Monsieur descendez donq, attendez à la porte
 Que j'ouvre le guichet, et que Madame sorte.  
 
     LISANDRE
-Que je suis glorieux⁎ de t'obeyr ainsy.  
+Que je suis glorieux⁎ de t'obeyr ainsy.   
 
     LE BOUCHER
 Le voicy qui descend, il faut l'attendre icy.  
@@ -1730,7 +1730,7 @@ Ha Madame !
     LE GEOLIER
         Monsieur faisons ce qu'il faut faire,  
 Cherchons la seureté qui nous est necessaire.  
-Nous sommes tous perdus si quelqu'un nous entend.  
+Nous sommes tous perdus si quelqu'un nous entend.   
 
     LISANDRE
 Allons donc, le carosse icy prés nous attend. [127]  
@@ -1789,7 +1789,7 @@ J'irois aveq son sang reparer cet outrage.
     ORANTE
 Vous changeriez bien tost d'humeur et de courage.  
 Au charme⁎ presenté de ses perfections⁎  
-Vôtre cœur s'ouvriroit à d'autres passions⁎.  
+Vôtre cœur s'ouvriroit à d'autres passions⁎.   
 
     PAGE
 Monsieur un messager qui semble estre assez triste  
@@ -1811,7 +1811,7 @@ Provoque la pitié d'un pere sans esgal
 Et vous aussi, Madame, à qui le nom de mere  
 Ne permet pas d'avoir des transports de colere,  
 Recevez cette lettre, et voyez si le Ciel  
-Peut traiter un esprit avecques plus de fiel.  
+Peut traiter un esprit avecques plus de fiel.   
 
     DORILAS
 Qu'elle n'espere rien de ma douceur extreme  
@@ -1862,7 +1862,7 @@ Dieux que l'instinct est fort en voulant que je pleure ! [130]
     ORANTE, *apres avoir leu la lettre.*
 Que cét evenement a troublé ma raison !  
 Quoy Lisandre a tiré Caliste de prison !  
-Elle est donq de ses pas la compagne fidelle ?  
+Elle est donq de ses pas la compagne fidelle ?   
 
     LISANDRE
 S'il n'est pas dans son cœur, il n'est plus avec elle.  
@@ -2009,7 +2009,7 @@ Si quelque médisant vous blasme et vous accuse.
 
     DORILAS
 Le devoir paternel, qui doibt suivre les loix,  
-Ne nous excuse pas du mespris de leurs droits.  
+Ne nous excuse pas du mespris de leurs droits.   
 
     LISANDRE
 Mais les plus saintes loix n'apprenent pas au monde  
@@ -2085,7 +2085,7 @@ Cette fuitte l'accuse et la rend criminelle. [145]
 Caliste entre.
 
 La voicy, suivez moy ; qu'elle vienne aveq vous,  
-Que l'amour des enfans a de pouvoir sur nous !  
+Que l'amour des enfans a de pouvoir sur nous !   
 
 
 ## ACTE TROIS
@@ -2171,7 +2171,7 @@ En peut produire encor les merveilleux effets⁎.
 
     LISANDRE
 Pour les revoir encor dans le siecle où nous sommes,  
-Il faudroit que son dos portast les mesmes hommes [151].  
+Il faudroit que son dos portast les mesmes hommes [151].   
 
     ADRASTE
 Ne me contestez plus, et suivez mes conseils  
@@ -2197,7 +2197,7 @@ Dont l'ardeur fera voir celle de mes Amours.
 
     ADRASTE
 Tenez vous donq ainsi dans le soing⁎ de me plaire,  
-Et mon affection en sera le salaire.  
+Et mon affection en sera le salaire.   
 
     LISANDRE, *seul* .
 O pere sans pitié [153], tu n'as jamais appris  
@@ -2296,7 +2296,7 @@ Il prend Hyppolite par la main.
     HYPPOLITE
 Que vous estes sçavant à cacher un dessein.  
 Vous me voulez montrer que si je me sçay plaindre  
-Vous sçavez en Amour encores mieux vous feindre.  
+Vous sçavez en Amour encores mieux vous feindre.   
 
     LISANDRE
 C'est assez que vos yeux me blessent tous les jours  
@@ -2344,7 +2344,7 @@ Et bien que mon Amour soit certain de vos feuz
 Vous pouvez en donner cette preuve à mes veuz.  
 
     HYPPOLITE
-Il n'est rien que pour vous je ne voulusse faire.  
+Il n'est rien que pour vous je ne voulusse faire.   
 
     LISANDRE
 Feignez donq d'avoir à la Cour quelque affaire,  
@@ -2383,7 +2383,7 @@ Adieu donq, cher objet de mes contentemens.
     LISANDRE
 Há que ce triste mot a pour moy de tourmens !  
 La crainte d'augmenter la douleur qui me touche  
-M'empesche de tirer un adieu de ma bouche. [166]  
+M'empesche de tirer un adieu de ma bouche. [166]   
 
 
 ### SCENE TROISIESME
@@ -2406,7 +2406,7 @@ Et que vostre discours fait naistre de plaisirs !
 
     LIDIAN
 A la charge pourtant qu'apres sa longue absence  
-Il viendra dans un mois prouver son innocence.  
+Il viendra dans un mois prouver son innocence.   
 
     ADRASTE
 Coment ?  
@@ -2432,7 +2432,7 @@ Ne le verray je point ?
         Il est chez Hyppolite,  
 
     LIDIAN
-Desja passionné d'avoir veu son merite.  
+Desja passionné d'avoir veu son merite.   
 
     ADRASTE
 Ce n'est pas tant l'amour, que la civilité,  
@@ -2461,7 +2461,7 @@ Pour aller ?
 Permettez moy de voir cet escrit seulement.  
 
     LIDIAN
-Lidian est à vous, usez en librement.  
+Lidian est à vous, usez en librement.   
 
     ADRASTE, *ayant leu la lettre*.
 Cette lettre m'apprend qu'une petite affaire  
@@ -2488,7 +2488,7 @@ Exercer à l'envy [168] sa force et son adresse.
     ADRASTE
 Si vous n'aviez pas pris ce genereux⁎ dessein  
 Moy mesme je voudrois le mettre en vostre sein,  
-Allez et que le ciel seconde vostre envie. [169]  
+Allez et que le ciel seconde vostre envie. [169]   
 
     LIDIAN
 Et qu'il prene tousjours le soing de vostre vie.  
@@ -2511,7 +2511,7 @@ J'iray voir à la cour ce que peuvent ses armes,
 Et si contre mes veuz, l'excez de son malheur  
 Retenoit autrepart sa guerriere valeur [171] ,  
 La mienne fera voir au combat qu'on propose  
-Que le Pere et le Fils sont une mesme chose.  
+Que le Pere et le Fils sont une mesme chose.   
 
 
 ### SCENE QUATRIESME
@@ -2599,7 +2599,7 @@ Et par ce mot d'escrit [177] le perfide m'invite
 D'assister à sa noce et de voir Hyppolite.  
 
     LE VALET, *à l'escart*.
-Que je lis de transports sur son front irrité !  
+Que je lis de transports sur son front irrité !   
 
     CALISTE, *en lisant la lettre.*
 Que tu desguises bien ton infidelité !  
@@ -2691,7 +2691,7 @@ Pour les faire servir aux fureurs de la guerre.
 
     CALISTE
 Approuve mon dessein, j'en viendray bien à bout,  
-Et sçache que l'amour nous rend propres à tout.  
+Et sçache que l'amour nous rend propres à tout.   
 
 
 ## ACTE QUATRE
@@ -2800,7 +2800,7 @@ Accorde le hazard avecque l'equité.
 
     LE ROY *parlant à Hyppolite.*
 Suivez donq le destin dont la force immortelle  
-Voulut que vostre bras finît cette querelle.  
+Voulut que vostre bras finît cette querelle.   
 
     LUCIDAN
 Cheres ombres jadis l'ornement des mortels  
@@ -2870,7 +2870,7 @@ Un si láche attentat⁎ envers vos deux amis ?
 
     LUCIDAN
 Quel ? je n'en sçache point [199], mais l'honneur me convie  
-De vanger mes amis, ou de perdre la vie.  
+De vanger mes amis, ou de perdre la vie.   
 
     LE JUGE *de camp*
 Ce discours nous fait voir l'injuste passion⁎  
@@ -2896,7 +2896,7 @@ Il me faut retirer.
 
     LE ROY
         Un tel evenement  
-Ne met en mon esprit que de l'estonnement⁎.  
+Ne met en mon esprit que de l'estonnement⁎.   
 
     LUCIDAN
 Est ce mars ou venus ? la force de ses armes  
@@ -3033,7 +3033,7 @@ Le bien ne me vient voir qu'avecque des espines ;
 Le retour de Caliste appaisa mes souspirs  
 Mais sa fuitte a produit de nouveaux desplaisirs ;  
 Au point qu'on veut l'ayder, helas ! elle se tuë.  
-Dieux que reservez vous à mon ame abatuë ?  
+Dieux que reservez vous à mon ame abatuë ?   
 
     LE VALET *de Lisandre.*
 Sa douleur me contraint de l'ayder au besoing.  
@@ -3062,7 +3062,7 @@ Luy fournit de⁎ retraite en son desguisement.
 
     DORILAS
 Mon fils sans differer cherchez cette insensée  
-Qu'un furieux⁎ amour a vivement blessée.  
+Qu'un furieux⁎ amour a vivement blessée.   
 
     LE VALET
 Pour moy sans retarder selon sa volonté  
@@ -3119,7 +3119,7 @@ Ne choisis point d'endroits, il est partout coupable.
 
     LIDIAN
 C'est sans doute en ce lieu, qu'elle vient se cacher,  
-Voyla le logement, où je la doy chercher.  
+Voyla le logement, où je la doy chercher.   
 
     CALISTE
 Qu'ay-je veu [214] ! c'est mon frere.  
@@ -3149,7 +3149,7 @@ Helas ! qu'avez vous dit ?
 
     LIDIAN
         Suivez moy seulement,  
-Et j'en diray bien plus pour vostre allegement.  
+Et j'en diray bien plus pour vostre allegement.   
 
     CALISTE
 Mais pourray-je paraistre, où la raison m'accuse ?  
@@ -3385,7 +3385,7 @@ J'irois où le soleil fait renaistre l'Aurore,
 J'irois ou la vigueur de ses quatre chevaux  
 Precipite le jour au bout de ses travaux⁎,  
 Et l'effet⁎ sans pareil d'une amour sans pareille  
-S'il ne l'emplit de feu, l'emplira de merveille⁎.  
+S'il ne l'emplit de feu, l'emplira de merveille⁎.   
 
 
 ## ACTE CINQ
@@ -3468,7 +3468,7 @@ Et ma voix aujourd'huy ne sçauroit pas nier
 D'avoir feint que mon cœur estoit son prisonnier.  
 
     HIPPOLITE
-Há traistre.  
+Há traistre.   
 
     LISANDRE
         Mais jugez pour ma flame eternelle  
@@ -3491,7 +3491,7 @@ Vous la devez trouver dans mes embrassemens [236].
     HYPPOLITE
 Que l'on croid aysément tout ce que l'on desire ! [237]  
 Cruel ne pense plus que Caliste respire,  
-Tu vois son homicide⁎.  
+Tu vois son homicide⁎.   
 
     LISANDRE
     Helas !  
@@ -3589,7 +3589,7 @@ Est un triste loyer de vostre inquietude,
 Mais lors que la raison vous forcera de voir  
 Que ceux qui sont liez ont bien peu de pouvoir,  
 Tous vos ressentimens excuseront mon crime,  
-Qu'une amour violente a rendu legitime. [241]  
+Qu'une amour violente a rendu legitime. [241]   
 
     HYPPOLITE
 J'accuseray tousjours vos discours criminels  
@@ -3655,7 +3655,7 @@ Et de vivre avec vous dedans mon souvenir,
 Et je promets en fin au secours de vostre ame  
 Tout autant d'amitié que vous avez de flame.  
 Mais un homme incognu s'avance devers nous,  
-Il s'en faut informer, Amy d'où venez vous ?  
+Il s'en faut informer, Amy d'où venez vous ?   
 
     LE COURRIER
 Je reviens de la Cour,  
@@ -3682,7 +3682,7 @@ En qualité d'amant !
 
     HYPPOLITE *à l'escart .*
         Puis au siecle où nous sommes  
-La verité se trouve aux paroles des hommes. [244]  
+La verité se trouve aux paroles des hommes. [244]   
 
     COURRIER
 Et je croy que l'Hymen uniroit leurs amours  
@@ -3734,7 +3734,7 @@ A surmonter ce Dieu qui fait nos passions⁎.
 Je tesmoigne combien mon ardeur est extreme,  
 Et qu'amour ne peut plus en produire de mesme.  
 Allons, Lisandre, allons, et souffrez⁎ de ce pas  
-Que ma voix vous deffende, aussi bien que mon bras. [247]  
+Que ma voix vous deffende, aussi bien que mon bras. [247]   
 
 
 ### SCENE DERNIERE
@@ -3773,7 +3773,7 @@ Que je sçay conserver ce que j'ay mis au jour.
 Et la justice mesme au combat occupée  
 Pour vanger l'innocent me preste son espée ;  
 Le tiltre d'innocent, non pas celuy de fils  
-M'oblige à soustenir tes orgueilleux deffis.  
+M'oblige à soustenir tes orgueilleux deffis.   
 
     HYPPOLITE *accompagnée de* LISANDRE *et de* LEON.
 Cessez de prodiguer vos jours et vos courages  
@@ -3797,7 +3797,7 @@ Caliste est innocente, et Lisandre innocent.
 Cette main criminelle au desceu de Lisandre  
 A rempli le tombeau des cendres de Cleandre,  
 Et si quelque coupable a le feu mérité  
-L'on doit ce chastiment à ma meschanceté.  
+L'on doit ce chastiment à ma meschanceté.   
 
     CALISTE
 Que cét evenement me trouble et me console !  
@@ -3847,7 +3847,7 @@ La reparation du crime que j'ay fait.
 Ne parlons plus de crime [258] où paroist l'innocence.  
 
     DORILAS
-Et qu'un parfait accord prenne icy sa naissance.  
+Et qu'un parfait accord prenne icy sa naissance.   
 
     ADRASTE
 Mon fils que je t'embrasse⁎ apres tant de soupirs  
@@ -3875,7 +3875,7 @@ Sans sçavoir endurer des flames et des fers. [261]
 
     CALISTE
 Lisandre assurez⁎ vous, qu'une jalouse flame  
-Laisse aujourd'huy l'amour paisible dans mon ame.  
+Laisse aujourd'huy l'amour paisible dans mon ame.   
 
     LE ROY
 Donq apres tant de maux Hymen doit à son tour  
@@ -3903,7 +3903,7 @@ Aspirent librement à de si doux liens.
 
     LUCIDAN
 Que ces liens plairont à mon ame asservie.  
-Si la belle Hyppolite y veut joindre sa vie.  
+Si la belle Hyppolite y veut joindre sa vie.   
 
     HYPPOLITE
 Le respect que je doibs à vostre Majesté  
@@ -3923,7 +3923,7 @@ L'innocence et l'amour triomphent des malheurs.
 FIN
 
 
-# LexiqueAccidentÉvénement, selon Furetière ce mot « signifie hasard, coup de fortune ».V. 1387Allégeance« Soulagement d'un mal » (Furetière).V. 70, 373, 1197Amitié« Affection qu'on a pour quelqu'un » (Furetière).V. 90, 583, 938, 1625, 1893Amant, amanteCelui qui aime d'une passion violente et amoureuse.V. 939, 1054, 1620, 1721, 1848Apparans« Ce qui est visible, certain, évident dont on ne peut douter » (Furetière).V. 387, 633AsseuranceConfiance en soi.V. 602, 634, 1345, 1417Asseurer« Rendre ferme, constant, hors de péril », ou encore « mettre en lieu de sûreté ».V. 210, 667, 763, 768, 887, 890, 958, 1037, 1132, 1720, 1960Certifier, annoncer.V. 1053, 1055Assurer (s')Se référer, s'en tenir à.V. 1037Attentat« Outrage ou violence qu'on tâche de faire à quelqu'un » (Furetière).V. 163, 1288Aymable« Qui a des qualités qui attirent l'amour ou l'amitié de quelqu'un » (Furetière).V. 50, 404, 585, 1765Bonheur« Se dit des rencontres, du hasard » (Furetière).V. 90, 502, 571, 747, 773, 1956Cartel« Écrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé » (Furetière).V. 67Certain« Constant, véritable… Se dit aussi pour fixé et précis » (Furetière).V. 765, 1222, 1880, 1905Chalan« Celui qui a coutume d'acheter à une boutique chez un même marchand » (Furetière).V. 463Chalandise« Concours de personne qui vont acheter dans une même boutique » (Furetière).V. 462Charme(s)Sens fort, « se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en l'âme » (Furetière).V. 575, 582, 893, 982, 1574CharmerExercer un charme.V. 1655Cognaistre Comprendre, découvrir, reconnaître.V. 321, 434, 483, 1043, 1163, 1208, 1609, 1682, 1741, 1812Coquille« Se dit figurément de toute sorte de marchandise dont on trafique » (Furetière).V. 487DesmontéeÉnervée, déchaînée.V. 137DespartirAttribuer.V. 1192DestinéeDésignée, fixée.V. 444Divertir« Réjouir. Il n'y a rien qui divertisse plus que la comédie » (Furetière).Épître,  418Effet« Signifie pratique, exécution » (Furetière). Ce mot désigne le passage à l'acte.V. 20, 72, 147, 728, 738, 832, 1139, 1237, 1325, 1409, 1571, 1641, 1653, 1671, 1740, 1985Ennui(s)Sens fort, peine très vive, souffrance.V. 47, 288, 544, 618, 1444, 1607, 1859, 1980Entendre« Signifie comprendre, pénétrer dans le sens de celui qui parle ou qui écrit » (Furetière).V. 431Entreprise« Résolution hardie de faire quelque chose ».Esmotion« Mouvement extraordinaire qui agite le corps et l'esprit et qui en trouble le tempérament » (Furetière).Esmouvoir« Esbranler. Se dit figurément des passions » (Furetière).EsquifEmbarcation légère.V. 1352, 1360, 551EstonnementSens fort, fait d'être frapper par le tonnerre sous l'effet de la surprise, de l'admiration ou autre…V. 355, 911, 1304EstonnerVoir ci-dessus.V. 605, 655, 1201, 1500, 1573, 1650, 1733Faillir« Pécher, manquer à son devoir » (Furetière).V. 275FatalÀ la fois imposé par le destin et funeste.V. 5, 295, 719Flater« Se dit communément en choses spirituelles. Flatter la douleur c'est à dire l'adoucir » (Furetière).V. 1057« Se repaître d'espérance » (Furetière).V. 105ForceneriesMot rare au XVII*e* siècle, il signifie « folie furieuse » (*Dictionnaire du français classique* de Dubois, Lagane et Lerond).V. 1113Foudre« Ce mot est l'un de ces substantifs que l'on fait masculin ou féminin comme on veut » (Vaugelas).V. 12, 269, 788, 1490Fournir dePermettre.V. 1412Franchise« Signifie chez les poètes et les amants, la liberté » (Furetière).V. 37, 806, 918, 1816FunesteQui apporte la mort.V. 3, 337, 1446, 1454, 1666Furie(s)« Passion violente de l'âme qui la transporte, qui outre sa colère » (Furetière). Au pluriel, ce terme désigne les divinités infernales, personnifications de la vengeance divine, qui entraient dans le corps des hommes pour les tourmenter.V. 354, 1114, 1406FurieuxPersonne emporté par de « violents mouvements d'âme, par des passions qui la font agir avec un grand emportement » (Furetière).V. 323, 376, 1414GardesRebords entre la lance et la poignée qui protègent la main.V. 194Généreux « Qui a l'âme grande et noble et qui préfère l'honneur à tout autre intérêt » (Furetière). Il a pour synonyme brave, vaillant, courageux.V. 146, 948, 1031, 1183, 1213, 1298, 1315, 1338, 1652Geyne« Se dit de toute peine ou affliction du corps ou de l'esprit » (Furetière). Pour un amant les gesnes sont les tourments qu'il endure à cause de son amour.V. 343, 561, 1948Gloire« Honneur, considération, qualité flatteuse » ou encore « réputation intacte aux yeux d'autrui et de soi-même, amour-propre » (*Dictionnaire du français classique*).V. 66, 73, 246, 296, 382, 742, 946, 1157, 1162, 1182, 1313, 1330, 1432, 1924GloireRenommée, « célébrité méritée par quelques actions éclatantes » (*Dictionnaire du français classique*).V. 1194Gloire (faire… de)« Se vanter de, se faire honneur de « (Furetière).V. 1445GlorieuxConnotation religieuse, se dit de quelqu'un « qui jouit de la béatitude éternelle » (Furetière).V. 127, 527, 644, 729, 988, 1228, 1315, 1323, 1572, 1603, 1883HomicideDésigne le meurtrier.V. 594, 1715, 1746InfameDéshonorant.V. 146, 1433InsigneÉclatant, remarquable.V. 156MarqueSigne fixé, déterminé ou encore empreinte servant à reconnaître, à distinguer une chose.V. 1222, 1225MartialQui manifeste du goût pour la lutte.V. 1217MerveilleAdmiration, surprise, étonnement.V. 653, 1325, 1393, 1642, 1653, 1772Mouvemens« Se dit des différentes impulsions, passions ou affections » (*Dictionnaire de l'Académie*).V. 1, 131, 584, 1052, 1270, 1726Monument« Signifie le tombeau dans le style soutenu et particulièrement en poësie » (Furetière).V. 144, 1199Obliger« Signifie faire quelque faveur, civilité, courtoisie » (Furetière).V. 227, 542, 1645Occasion« La cause, le sujet ». À mon occasion : « pour ma considération » (Furetière).V. 968Passion(s)« En Morale se dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens. Se dit par excellence de l'amour » (Furetière).V. 9, 569, 576, 734, 1220, 1269, 1291, 1867Perfections« Se dit au pluriel de l'assemblage de toutes sortes de bonnes qualités » (Furetière).V. 259, 575, 1866PlaceLieu du tournoi.V. 1262, 1281PrévenirDevancer.V. 1546Provinces« Les Provinces étaient originairement des Duchés, des Comtés, ou autres seigneuries considérables qui ont été réunies sous un même chef » (Furetière).V. 1873RavissementDésigne l'enlèvement par la force, le rapt. Dans l'univers amoureux, le nom marque précisément la dépossession de soi qu'éprouve l'être en proie à l'amour.V. 1683Remise (sans…)Sans retard.V. 131RetFilet. « Se dit en morale de certains engagements dont on a peine à se détacher » (Furetière).V. 914ResveriesDélires, folies, idées vaines et chimériques.V. 353Sein« Cœur » (Furetière).V. 735, 800, 931, 1488SoinsSoucis.V. 516, 653, 849, 1462Soigner à« Veiller à quelque chose, ne pas laisser ruiner quelque chose par sa négligence » (Furetière).V. 489SouffrirSupporter, permettre, tolérer.V. 446, 781, 819, 821, 969, 973, 1870, 1930SoulagerAider.V. 380Suborneur« Qui corrompt, qui débauche » (Furetière).V. 572Succez« Issue d'une affaire. Se dit en bonne et en mauvaise part » (Furetière).V. 1985Tire-laineVoleur, rôdeur de nuit.V. 481ToucherConcerner.V. 249TravailEffort, « se dit d'une douleur qu'on souffre » (Furetière).V. 806, 1144, 1258, 1479, 1640Travailler« Faire quelque chose qui donne de la peine, de l'occupation » (Furetière).V. 1529Traverses« Signifie obstacles à la réussite des affaires qu'on entreprend ou encore oppositions » (Furetière).Épître, v. 733Vertus« Forces, vigueur tant du corps que de l'âme » (Furetière). V. 646, 657, 691, 802, 1317, 1430, 1954, 1973, 1983
+# LexiqueAccidentÉvénement, selon Furetière ce mot « signifie hasard, coup de fortune ».V. 1387Allégeance« Soulagement d'un mal » (Furetière).V. 70, 373, 1197Amitié« Affection qu'on a pour quelqu'un » (Furetière).V. 90, 583, 938, 1625, 1893Amant, amanteCelui qui aime d'une passion violente et amoureuse.V. 939, 1054, 1620, 1721, 1848Apparans« Ce qui est visible, certain, évident dont on ne peut douter » (Furetière).V. 387, 633AsseuranceConfiance en soi.V. 602, 634, 1345, 1417Asseurer« Rendre ferme, constant, hors de péril », ou encore « mettre en lieu de sûreté ».V. 210, 667, 763, 768, 887, 890, 958, 1037, 1132, 1720, 1960Certifier, annoncer.V. 1053, 1055Assurer (s')Se référer, s'en tenir à.V. 1037Attentat« Outrage ou violence qu'on tâche de faire à quelqu'un » (Furetière).V. 163, 1288Aymable« Qui a des qualités qui attirent l'amour ou l'amitié de quelqu'un » (Furetière).V. 50, 404, 585, 1765Bonheur« Se dit des rencontres, du hasard » (Furetière).V. 90, 502, 571, 747, 773, 1956Cartel« Écrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé » (Furetière).V. 67Certain« Constant, véritable… Se dit aussi pour fixé et précis » (Furetière).V. 765, 1222, 1880, 1905Chalan« Celui qui a coutume d'acheter à une boutique chez un même marchand » (Furetière).V. 463Chalandise« Concours de personne qui vont acheter dans une même boutique » (Furetière).V. 462Charme(s)Sens fort, « se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en l'âme » (Furetière).V. 575, 582, 893, 982, 1574CharmerExercer un charme.V. 1655Cognaistre Comprendre, découvrir, reconnaître.V. 321, 434, 483, 1043, 1163, 1208, 1609, 1682, 1741, 1812Coquille« Se dit figurément de toute sorte de marchandise dont on trafique » (Furetière).V. 487DesmontéeÉnervée, déchaînée.V. 137DespartirAttribuer.V. 1192DestinéeDésignée, fixée.V. 444Divertir« Réjouir. Il n'y a rien qui divertisse plus que la comédie » (Furetière).Épître, 418Effet« Signifie pratique, exécution » (Furetière). Ce mot désigne le passage à l'acte.V. 20, 72, 147, 728, 738, 832, 1139, 1237, 1325, 1409, 1571, 1641, 1653, 1671, 1740, 1985Ennui(s)Sens fort, peine très vive, souffrance.V. 47, 288, 544, 618, 1444, 1607, 1859, 1980Entendre« Signifie comprendre, pénétrer dans le sens de celui qui parle ou qui écrit » (Furetière).V. 431Entreprise« Résolution hardie de faire quelque chose ».Esmotion« Mouvement extraordinaire qui agite le corps et l'esprit et qui en trouble le tempérament » (Furetière).Esmouvoir« Esbranler. Se dit figurément des passions » (Furetière).EsquifEmbarcation légère.V. 1352, 1360, 551EstonnementSens fort, fait d'être frapper par le tonnerre sous l'effet de la surprise, de l'admiration ou autre…V. 355, 911, 1304EstonnerVoir ci-dessus.V. 605, 655, 1201, 1500, 1573, 1650, 1733Faillir« Pécher, manquer à son devoir » (Furetière).V. 275FatalÀ la fois imposé par le destin et funeste.V. 5, 295, 719Flater« Se dit communément en choses spirituelles. Flatter la douleur c'est à dire l'adoucir » (Furetière).V. 1057« Se repaître d'espérance » (Furetière).V. 105ForceneriesMot rare au XVII*e* siècle, il signifie « folie furieuse » (*Dictionnaire du français classique* de Dubois, Lagane et Lerond).V. 1113Foudre« Ce mot est l'un de ces substantifs que l'on fait masculin ou féminin comme on veut » (Vaugelas).V. 12, 269, 788, 1490Fournir dePermettre.V. 1412Franchise« Signifie chez les poètes et les amants, la liberté » (Furetière).V. 37, 806, 918, 1816FunesteQui apporte la mort.V. 3, 337, 1446, 1454, 1666Furie(s)« Passion violente de l'âme qui la transporte, qui outre sa colère » (Furetière). Au pluriel, ce terme désigne les divinités infernales, personnifications de la vengeance divine, qui entraient dans le corps des hommes pour les tourmenter.V. 354, 1114, 1406FurieuxPersonne emporté par de « violents mouvements d'âme, par des passions qui la font agir avec un grand emportement » (Furetière).V. 323, 376, 1414GardesRebords entre la lance et la poignée qui protègent la main.V. 194Généreux « Qui a l'âme grande et noble et qui préfère l'honneur à tout autre intérêt » (Furetière). Il a pour synonyme brave, vaillant, courageux.V. 146, 948, 1031, 1183, 1213, 1298, 1315, 1338, 1652Geyne« Se dit de toute peine ou affliction du corps ou de l'esprit » (Furetière). Pour un amant les gesnes sont les tourments qu'il endure à cause de son amour.V. 343, 561, 1948Gloire« Honneur, considération, qualité flatteuse » ou encore « réputation intacte aux yeux d'autrui et de soi-même, amour-propre » (*Dictionnaire du français classique*).V. 66, 73, 246, 296, 382, 742, 946, 1157, 1162, 1182, 1313, 1330, 1432, 1924GloireRenommée, « célébrité méritée par quelques actions éclatantes » (*Dictionnaire du français classique*).V. 1194Gloire (faire… de)« Se vanter de, se faire honneur de « (Furetière).V. 1445GlorieuxConnotation religieuse, se dit de quelqu'un « qui jouit de la béatitude éternelle » (Furetière).V. 127, 527, 644, 729, 988, 1228, 1315, 1323, 1572, 1603, 1883HomicideDésigne le meurtrier.V. 594, 1715, 1746InfameDéshonorant.V. 146, 1433InsigneÉclatant, remarquable.V. 156MarqueSigne fixé, déterminé ou encore empreinte servant à reconnaître, à distinguer une chose.V. 1222, 1225MartialQui manifeste du goût pour la lutte.V. 1217MerveilleAdmiration, surprise, étonnement.V. 653, 1325, 1393, 1642, 1653, 1772Mouvemens« Se dit des différentes impulsions, passions ou affections » (*Dictionnaire de l'Académie*).V. 1, 131, 584, 1052, 1270, 1726Monument« Signifie le tombeau dans le style soutenu et particulièrement en poësie » (Furetière).V. 144, 1199Obliger« Signifie faire quelque faveur, civilité, courtoisie » (Furetière).V. 227, 542, 1645Occasion« La cause, le sujet ». À mon occasion : « pour ma considération » (Furetière).V. 968Passion(s)« En Morale se dit des différentes agitations de l'âme selon les divers objets qui se présentent à ses sens. Se dit par excellence de l'amour » (Furetière).V. 9, 569, 576, 734, 1220, 1269, 1291, 1867Perfections« Se dit au pluriel de l'assemblage de toutes sortes de bonnes qualités » (Furetière).V. 259, 575, 1866PlaceLieu du tournoi.V. 1262, 1281PrévenirDevancer.V. 1546Provinces« Les Provinces étaient originairement des Duchés, des Comtés, ou autres seigneuries considérables qui ont été réunies sous un même chef » (Furetière).V. 1873RavissementDésigne l'enlèvement par la force, le rapt. Dans l'univers amoureux, le nom marque précisément la dépossession de soi qu'éprouve l'être en proie à l'amour.V. 1683Remise (sans…)Sans retard.V. 131RetFilet. « Se dit en morale de certains engagements dont on a peine à se détacher » (Furetière).V. 914ResveriesDélires, folies, idées vaines et chimériques.V. 353Sein« Cœur » (Furetière).V. 735, 800, 931, 1488SoinsSoucis.V. 516, 653, 849, 1462Soigner à« Veiller à quelque chose, ne pas laisser ruiner quelque chose par sa négligence » (Furetière).V. 489SouffrirSupporter, permettre, tolérer.V. 446, 781, 819, 821, 969, 973, 1870, 1930SoulagerAider.V. 380Suborneur« Qui corrompt, qui débauche » (Furetière).V. 572Succez« Issue d'une affaire. Se dit en bonne et en mauvaise part » (Furetière).V. 1985Tire-laineVoleur, rôdeur de nuit.V. 481ToucherConcerner.V. 249TravailEffort, « se dit d'une douleur qu'on souffre » (Furetière).V. 806, 1144, 1258, 1479, 1640Travailler« Faire quelque chose qui donne de la peine, de l'occupation » (Furetière).V. 1529Traverses« Signifie obstacles à la réussite des affaires qu'on entreprend ou encore oppositions » (Furetière).Épître, v. 733Vertus« Forces, vigueur tant du corps que de l'âme » (Furetière). V. 646, 657, 691, 802, 1317, 1430, 1954, 1973, 1983
 
 
 # Bibliographie
@@ -4188,7 +4188,7 @@ Revue d'Histoire Littéraire de la France
 
 [53] I. D. : Initiales d'Isaac Du Ryer poète lyrique, père de Pierre Du Ryer.
 
-[54] Guillaume Colletet (1598-1659) :  grand ami de P. Du Ryer. Ce poète était un familier de nombreux cercles littéraires et fut lié d'amitié avec les poètes les plus divers. Un des poètes les plus actifs de la jeune génération, il fut l'animateur du cercle des Illustres bergers. Il recherche sa voie dans un modernisme modéré, ainsi il accepte la réforme malherbienne en ce qui concerne la prosodie et la langue mais reste un défenseur de la vigueur et de la verdeur de l'ancienne poésie. Il fut également un des fondateurs de l'Académie française et le premier historien de la littérature française.
+[54] Guillaume Colletet (1598-1659) : grand ami de P. Du Ryer. Ce poète était un familier de nombreux cercles littéraires et fut lié d'amitié avec les poètes les plus divers. Un des poètes les plus actifs de la jeune génération, il fut l'animateur du cercle des Illustres bergers. Il recherche sa voie dans un modernisme modéré, ainsi il accepte la réforme malherbienne en ce qui concerne la prosodie et la langue mais reste un défenseur de la vigueur et de la verdeur de l'ancienne poésie. Il fut également un des fondateurs de l'Académie française et le premier historien de la littérature française.
 
 [55] Il s'agit de J.C. de Villeneuve (d'après A. Adam, *Histoire de la littérature française au XVIIème siècle*, p. 428).
 
@@ -4218,13 +4218,13 @@ Revue d'Histoire Littéraire de la France
 
 [68] « Où » c'est à dire que.
 
-[69]  L'abbé d'Aubignac définit les sentences comme des « propositions générales qui renferment des vérités communes, et qui ne tiennent à l'action théâtrale que par application et conséquence » (*Pratique du théâtre*, livre IV, ch. V, p. 313). Le goût, qui reste vif jusque vers 1660,  des auteurs et des spectateurs pour ces formes d'écriture théâtrale est attesté par les théoriciens. Leur but était de plaire et de profiter aux spectateurs par leur valeur morale. Du Ryer en écrivit beaucoup dans lesquelles on retrouve les caractéristiques définies par Scherer (*La Dramaturgie classique*, p. 325-327) : l'« isolement dans la phrase, la généralité des noms, des pronoms et des temps ».
+[69]  L'abbé d'Aubignac définit les sentences comme des « propositions générales qui renferment des vérités communes, et qui ne tiennent à l'action théâtrale que par application et conséquence » (*Pratique du théâtre*, livre IV, ch. V, p. 313). Le goût, qui reste vif jusque vers 1660, des auteurs et des spectateurs pour ces formes d'écriture théâtrale est attesté par les théoriciens. Leur but était de plaire et de profiter aux spectateurs par leur valeur morale. Du Ryer en écrivit beaucoup dans lesquelles on retrouve les caractéristiques définies par Scherer (*La Dramaturgie classique*, p. 325-327) : l'« isolement dans la phrase, la généralité des noms, des pronoms et des temps ».
 
 [70]  V.79-80 : nous pourrions paraphraser par : « ce n'est pas parce que je suis avec vous que je ne suis qu'employé à juger de vos coups » sous-entendu : je peux participer et me battre contre vous. L'utilisation du subjonctif présent indique que le locuteur exclut cette idée de son univers de croyance. 
 
 [71] Cet épisode soulève un problème d'actualité, la frénésie des duels entre nobles détruisait des familles entières. Elle atteignit son paroxysme de 1614 à 1624 malgré quatres actes royaux qui interdisaient les duels. La noblesse s'obstine cependant à maintenir cette pratique et les duels ont lieu secrètement. Après le début du siècle, ils perdent leur caractère sauvage et féroce et ont plus de bravoure, de loyauté et d'élégance. 
 
-[72] « Demeurant » : au XVII*e* siècle, Vaugelas observe que « les gérondifs ont une marque qu'ils prennent devant eux quand ils veulent, qui est “ en ”… », « et que le plus souvent ils ne la prennent point ». Ce n'est qu'au XVIII*e* siècle que « en »  est devenu obligatoire comme marque du gérondif.
+[72] « Demeurant » : au XVII*e* siècle, Vaugelas observe que « les gérondifs ont une marque qu'ils prennent devant eux quand ils veulent, qui est “ en ”… », « et que le plus souvent ils ne la prennent point ». Ce n'est qu'au XVIII*e* siècle que « en » est devenu obligatoire comme marque du gérondif.
 
 [73] Var. « Où, mon cœur ? … ».
 
@@ -4244,7 +4244,7 @@ Revue d'Histoire Littéraire de la France
 
 [81] Var. « Lisandre, les discours sont des armes de femmes, … ».
 
-[82] Lisandre, ayant désobéi au roi, se retrouve dans une situation très délicate. D'Audiguier, dans la source, insiste davantage sur la situation de hors la loi de Lisandre en faisant de Cloridan et Crisante, deux favoris du Roi.  
+[82] Lisandre, ayant désobéi au roi, se retrouve dans une situation très délicate. D'Audiguier, dans la source, insiste davantage sur la situation de hors la loi de Lisandre en faisant de Cloridan et Crisante, deux favoris du Roi. 
 
 [83] « Rencontrer le laurier » : remporter la victoire.
 
@@ -4252,17 +4252,17 @@ Revue d'Histoire Littéraire de la France
 
 [85] « Sur qui » : *qui* reprend « le sang », or en français moderne, « qui » représente l'animé et « lequel » l'animé ou l'inanimé. Cette distinction ne s'impose cependant que lentement au XVII*e* siècle où « qui », dans cet emploi, renvoie couramment à un inanimé. 
 
-[86] Référence à la mythologie grecque. Chaque mort, après avoir été convenablement enterré, arrivait au bord du Styx que Charon était chargé de lui faire traverser.  
+[86] Référence à la mythologie grecque. Chaque mort, après avoir été convenablement enterré, arrivait au bord du Styx que Charon était chargé de lui faire traverser. 
 
 [87] Var. « Cleandre, si vos soings travaillent à mon ayde … ».
 
 [88] Caliste ne doit pas montrer une trop grande indifférence aux avances de Lisandre afin que l'amour, qu'elle lui portera juste après la mort de son mari, semble vraisemblable. 
 
-[89] Ce goût de l'honnêteté en amour se manifeste au théâtre comme dans le roman. M. Magendie dans *La politesse mondaine et les théories de l'honnêteté en France au XVIIème siècle* (chap. III) explique que les femmes ont  « au plus haut point le souci de leur honneur et qu'aucun mérite ne justifierait à leurs yeux un abandon au sens, une tache à leur gloire … elles ne connaissent dans ce domaine ni concession ni transaction » ; et l'homme, quant à lui, « ne prononcera aucune parole, n'accomplira aucun acte qui porte atteinte à l'honneur de  sa dame ».
+[89] Ce goût de l'honnêteté en amour se manifeste au théâtre comme dans le roman. M. Magendie dans *La politesse mondaine et les théories de l'honnêteté en France au XVIIème siècle* (chap. III) explique que les femmes ont « au plus haut point le souci de leur honneur et qu'aucun mérite ne justifierait à leurs yeux un abandon au sens, une tache à leur gloire … elles ne connaissent dans ce domaine ni concession ni transaction » ; et l'homme, quant à lui, « ne prononcera aucune parole, n'accomplira aucun acte qui porte atteinte à l'honneur de sa dame ».
 
 [90]  Var. « ce jourd'huy ».
 
-[91]  Dans notre source : *Histoire tragi-comique de notre temps sous les noms de Lisandre et Caliste*  (1615) d'Henri d'Audiguier, Lisandre tombe amoureux de Caliste avant que de connaître son mari et Cléandre donne sa bénédiction à Caliste pour aimer Lisandre (livre VI). Ainsi la situation de Lisandre n'entame en rien ses qualités d'honnête homme et l'amour des deux héros ne paraît ni illégitime ni déshonorant. Du Ryer n'est pas aussi soucieux d'excuser l'amour de Lisandre et Caliste, il ne pose le problème de la légitimité de cet amour que dans le monologue d'introduction (I, 1) et n'exploite plus cet aspect dans le reste de sa pièce. Cet obstacle d'ordre moral au bonheur des deux héros se révèlerait sans doute plus difficile à surmonter que tout autre. 
+[91]  Dans notre source : *Histoire tragi-comique de notre temps sous les noms de Lisandre et Caliste* (1615) d'Henri d'Audiguier, Lisandre tombe amoureux de Caliste avant que de connaître son mari et Cléandre donne sa bénédiction à Caliste pour aimer Lisandre (livre VI). Ainsi la situation de Lisandre n'entame en rien ses qualités d'honnête homme et l'amour des deux héros ne paraît ni illégitime ni déshonorant. Du Ryer n'est pas aussi soucieux d'excuser l'amour de Lisandre et Caliste, il ne pose le problème de la légitimité de cet amour que dans le monologue d'introduction (I, 1) et n'exploite plus cet aspect dans le reste de sa pièce. Cet obstacle d'ordre moral au bonheur des deux héros se révèlerait sans doute plus difficile à surmonter que tout autre. 
 
 [92] Du Ryer pose nettement la différence entre l'amour vulgaire (représenté par Léon et Clarinde) et l'amour idéal (de Lisandre et Caliste). En effet, la relation que Lisandre entretient avec Caliste est purement spirituelle, il n'est jamais question de contact physique contrairement à ce qui se déroule dans cette scène où Léon exprime clairement et plutôt violemment son désir. Magendie explique dans *La Politesse mondaine* … (chap. IX) que « Mme de Rambouillet essaya de purifier l'amour, de le dégager des jouissances matérielles, auxquelles était réduit le vulgaire, de donner au seigneurs, aux dames, aux écrivains qu'elle recevait … la conviction que homme et femme peuvent goûter ensemble des plaisirs plus élevés, plus durables que ceux du corps ». Du Ryer glorifie l'amour spirituel au détriment du charnel. L'emploi du tutoiement dans ce passage souligne la vulgarité de la conduite de Léon. 
 
@@ -4278,13 +4278,13 @@ Revue d'Histoire Littéraire de la France
 
 [98] Var. « Parlez, parlez Clarinde, et soulagez mon mal … ».
 
-[99] D'Audiguier développe beaucoup plus les motivations du personnage et définit plus précisément son caractère. Du Ryer impute au seul désir de sauver son amant les raisons d'un tel mensonge sans que le déroulement de l'intrigue en souffre.  
+[99] D'Audiguier développe beaucoup plus les motivations du personnage et définit plus précisément son caractère. Du Ryer impute au seul désir de sauver son amant les raisons d'un tel mensonge sans que le déroulement de l'intrigue en souffre. 
 
 [100] Les deux héros sont désormais liés : non seulement par leur amour mais aussi par un désir commun de prouver leur innocence. De l'honneur de l'un dépend maintenant celui de l'autre. 
 
 [101] Dans la source, Caliste s'exprime en ces termes : dans une lettre à sa mère (Livre VIII) : « Et que la fortune décoche tous les traits de sa colere sur moy, s'il luy en reste quelqu'un qu'elle ne m'aye point fait sentir ».
 
-[102]  Le principe selon lequel un acteur présent dans la dernière scène d'un acte ne peut l'être dans la première de l'acte suivant n'apparaît que vers le milieu du XVII*e* siècle. Le retour de ce personnage est justifié par le fait qu'il a assisté à l'arrestation de Caliste et qu'il est persuadé de son innocence. Aussi est-il le mieux placé pour recevoir les confidences de Lisandre.  
+[102]  Le principe selon lequel un acteur présent dans la dernière scène d'un acte ne peut l'être dans la première de l'acte suivant n'apparaît que vers le milieu du XVII*e* siècle. Le retour de ce personnage est justifié par le fait qu'il a assisté à l'arrestation de Caliste et qu'il est persuadé de son innocence. Aussi est-il le mieux placé pour recevoir les confidences de Lisandre. 
 
 [103] « Que » pour où. On apprend plus loin que ce « triste jour » remonte déjà à une semaine. 
 
@@ -4300,13 +4300,13 @@ Revue d'Histoire Littéraire de la France
 
 [109] C'est une question purement artificielle et destinée à justifier le déguisement de Lisandre aux yeux du spectateur car c'est sans doute la première question qu'Alcidon aurait posé à Lisandre s'il l'avait seulement reconnu. 
 
-[110] Malgré cette tentative de justification, l'effet de ce déguisement n'est pas déterminant pour la suite de l'action. Comme l'explique G. Forestier dans *L'esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars*, « ce déguisement est largement superfétatoire puisque le geolier est complice et s'enfuit avec les amants », tous les déguisements de *Lisandre et Caliste* « paraissent tirer leur nécessité de leur multiplication ».  
+[110] Malgré cette tentative de justification, l'effet de ce déguisement n'est pas déterminant pour la suite de l'action. Comme l'explique G. Forestier dans *L'esthétique de l'identité dans le théâtre français (1550-1680). Le déguisement et ses avatars*, « ce déguisement est largement superfétatoire puisque le geolier est complice et s'enfuit avec les amants », tous les déguisements de *Lisandre et Caliste* « paraissent tirer leur nécessité de leur multiplication ». 
 
 [111] « Muguet » : « galant, coquet qui fait l'amour aux Dames, qui est paré et bien mis pour leur plaire ».
 
 [112] « Alors que » : valeur temporelle, équivaut à pendant que.
 
-[113]  Emploi de l'adverbe de négation « ne » sans forclusif de négation. Cet usage était courant au XVII*e* siècle puisque l'adverbe « ne » suffisait à construire la tournure négative.  
+[113]  Emploi de l'adverbe de négation « ne » sans forclusif de négation. Cet usage était courant au XVII*e* siècle puisque l'adverbe « ne » suffisait à construire la tournure négative. 
 
 [114] Dans *Le Théâtre du Marais* (tome I), S. W. Deierkauf-Hobsbœr écrit qu'« un comédien portant le nom d'Alizon personnifiait la vieille galante. Troterel s'est servi de ce personnage dans *Lisandre et Caliste* jouée à l'hôtel de Bourgogne en 1630 : Alizon est la femme de Gros-Guillaume ».
 
@@ -4314,7 +4314,7 @@ Revue d'Histoire Littéraire de la France
 
 [116] « En l'air » : « se dit en morale des choses qui n'ont pas de vérité ou de fondement solide » (Furetière). Il s'agit donc de mourir pour rien, en vain.
 
-[117] Sorte de proverbe populaire qui marque l'appartenance du boucher à la populace et qui souligne la contradiction comique des actes et des dires de ce personnage.  
+[117] Sorte de proverbe populaire qui marque l'appartenance du boucher à la populace et qui souligne la contradiction comique des actes et des dires de ce personnage. 
 
 [118] Le déguisement de Lisandre aboutit à un quiproquo qui donne à la scène un ton de comédie. 
 
@@ -4336,7 +4336,7 @@ Revue d'Histoire Littéraire de la France
 
 [127] Dans la source, Lisandre, déguisé en mendiant, manque de se faire arrêter par la police et Caliste, qui se croyait perdue, s'évanouit de joie en voyant le geôlier venu la délivrer. De plus d'Audiguier nous apprend que le geôlier avait saoulé les gardiens afin de faciliter son évasion. Du Ryer ne retient aucun de ces épisodes pour sa pièce et condense ainsi considérablement l'action, au détriment, sans doute, d'une certaine vraisemblance puisqu'aucun obstacle ne vient perturber cette évasion.
 
-[128] Du Ryer prend soin de distinguer les deux affaires qui entachent la gloire de Lisandre,  si l'une est sur le point d'être réglée, il n'en va pas de même pour l'autre. La réhabilitation de Lisandre se poursuit étape par étape et l'intérêt du spectateur est constamment maintenu. 
+[128] Du Ryer prend soin de distinguer les deux affaires qui entachent la gloire de Lisandre, si l'une est sur le point d'être réglée, il n'en va pas de même pour l'autre. La réhabilitation de Lisandre se poursuit étape par étape et l'intérêt du spectateur est constamment maintenu. 
 
 [129] La présence de Lisandre en messager s'explique dans la source par le fait que les deux héros étaient seuls. Mais une telle scène de confrontation permet à Lisandre de montrer une nouvelle fois son dévouement et son amour extrêmes pour Caliste.
 
@@ -4398,11 +4398,11 @@ Revue d'Histoire Littéraire de la France
 
 [158] « Glorieux » : ce terme est proche ici du sens d'orgueilleux.
 
-[159] Nous assistons dans la source à la rencontre de Lisandre et Hyppolite. Du Ryer choisit de nous en informer sous la forme d'un récit  fait par Hyppolite. Il concentre ainsi son action et l'intrigue acquiert plus de rapidité. 
+[159] Nous assistons dans la source à la rencontre de Lisandre et Hyppolite. Du Ryer choisit de nous en informer sous la forme d'un récit fait par Hyppolite. Il concentre ainsi son action et l'intrigue acquiert plus de rapidité. 
 
 [160] « Du premier Hyppolite » : référence à la mythologie grecque et sans doute à la tragédie d'Euripide *Hyppolite* représentée en 429 av. J.-C. Pour avoir refusé de sacrifier au culte d'Aphrodite, Hyppolite fut poursuivi par la vengeance de la déesse. Jusqu'à présent notre héroïne a réussi à se préserver de l'amour mais, face à Lisandre, elle ne se sent pas assez forte pour lui résister contrairement au héros grec. 
 
-[161] Lisandre commence dès ce moment à jouer avec les mots et à feindre. Il se décrit en être possédé corps et âme par son amour et sait suffisamment manipuler le langage pour le dire avec subtilité. Hyppolite devient « le subjet » qu'il touche, au sens propre, et qui lui ravit le cœur.  
+[161] Lisandre commence dès ce moment à jouer avec les mots et à feindre. Il se décrit en être possédé corps et âme par son amour et sait suffisamment manipuler le langage pour le dire avec subtilité. Hyppolite devient « le subjet » qu'il touche, au sens propre, et qui lui ravit le cœur. 
 
 [162] Thème des yeux par lesquels, selon Pétrarque, la beauté de la femme aimée pénètre dans le cœur de l'amant pour le blesser d'une blessure inguérissable.
 
@@ -4412,7 +4412,7 @@ Revue d'Histoire Littéraire de la France
 
 [165]  « L'apparence, … richesse » : le mot « apparence se prend aussi pour vraisemblance, probabilité » note G. Cayrou dans *Le Français classique, lexique de la langue du XVIIème siècle*, « il s'emploie souvent de façon elliptique dans des tours interrogatifs où l'on se demande si une chose est vraisemblable, probable ». Aussi pourrait-on paraphraser la phrase par : Est-il possible qu'il supporte après tant de tristesse que… 
 
-[166] Pour J. Rousset (*La Littérature de l'âge baroque*, p. 222) « la dissimulation sera le vice de l'époque » et nous trouvons souvent dans les romans du XVII*e* siècle des bergers qui, pour détourner les soupçons, feignent d'aimer une autre bergère  que celle qu'ils aiment vraiment. Ils ne se demandent pas quelles seront les conséquences de ce mensonge pour la malheureuse qu'ils ont choisie. 
+[166] Pour J. Rousset (*La Littérature de l'âge baroque*, p. 222) « la dissimulation sera le vice de l'époque » et nous trouvons souvent dans les romans du XVII*e* siècle des bergers qui, pour détourner les soupçons, feignent d'aimer une autre bergère que celle qu'ils aiment vraiment. Ils ne se demandent pas quelles seront les conséquences de ce mensonge pour la malheureuse qu'ils ont choisie. 
 
 [167] « Tout à l'heure » : « tout à l'instant, sur l'heure, présentement » (Cayrou, *Le Français classique*).
 
@@ -4432,7 +4432,7 @@ Revue d'Histoire Littéraire de la France
 
 [175] « Mettre ver dans » : « on appelle figurément ver le remords de la conscience, parce-qu'il ressemble à un ver qui nous ronge le cœur incessamment » (Furetière). Ainsi Caliste aimerait que Lisandre soit rongé par le remords qu'elle fera tout pour lui inspirer. 
 
-[176] Caliste ne s'abandonne pas à une volonté supérieure, elle prend sa vie  et son destin en main. Avec Hyppolite, elle est le symbole de la responsabilité individuelle, de la volonté, de la conviction intérieure. C'est toutefois au risque de souiller davantage son honneur qu'elle se lance à la poursuite de Lisandre. Du Ryer ne respecte pas les bienséances qui imposent à une jeune fille un comportement moins fougueux. Son action est généreuse puisqu'elle intervient au profit d'un personnage auquel elle a le moins de raison de porter main-forte.  
+[176] Caliste ne s'abandonne pas à une volonté supérieure, elle prend sa vie et son destin en main. Avec Hyppolite, elle est le symbole de la responsabilité individuelle, de la volonté, de la conviction intérieure. C'est toutefois au risque de souiller davantage son honneur qu'elle se lance à la poursuite de Lisandre. Du Ryer ne respecte pas les bienséances qui imposent à une jeune fille un comportement moins fougueux. Son action est généreuse puisqu'elle intervient au profit d'un personnage auquel elle a le moins de raison de porter main-forte. 
 
 [177] « Mot d'escrit » : lettre très courte.
 
@@ -4442,7 +4442,7 @@ Revue d'Histoire Littéraire de la France
 
 [180] « Au point que » : au moment où.
 
-[181] Var. « Tes raisons paraistroient  plus fortes que ma flame, … ».
+[181] Var. « Tes raisons paraistroient plus fortes que ma flame, … ».
 
 [182] « Obtenir des cyprés » : c'est à dire mourir , le cyprés étant un arbre funéraire, symbole de deuil.
 
@@ -4468,7 +4468,7 @@ Revue d'Histoire Littéraire de la France
 
 [193] « Un trait d'ami » : un acte d'amitié.
 
-[194] La représentation du combat sur la scène, l'issue incertaine du duel, l'incognito qui entoure le champion de Lisandre assure le succès de ce genre de spectacle que l'on retrouve fréquemment dans les tragi-comédies des années 30. Les bienséances étaient sans doute suffisamment établies dans les milieux mondains pour pousser l'auteur à montrer un duel sur la scène  sans effusion de sang.
+[194] La représentation du combat sur la scène, l'issue incertaine du duel, l'incognito qui entoure le champion de Lisandre assure le succès de ce genre de spectacle que l'on retrouve fréquemment dans les tragi-comédies des années 30. Les bienséances étaient sans doute suffisamment établies dans les milieux mondains pour pousser l'auteur à montrer un duel sur la scène sans effusion de sang.
 
 [195] « Mesurer la place » : « on dit en terme de chasse, qu'… une bête mesure la forest, pour dire qu'il la traverse d'un bout à l'autre ». Le terme de « place » désigne le lieu du combat.
 
@@ -4486,9 +4486,9 @@ Revue d'Histoire Littéraire de la France
 
 [201] Var. « Apres avoir icy descouvert vos courages, Genereux cavaliers, descouvrez vos visages. »
 
-[202] C'est à dessein que Du Ryer fait participer Hyppolite plus que tout autre au combat et qu'il  nous a cachés l'intention qu'elle avait d'y participer. Le spectateur découvre ainsi en même temps que les personnages l'identité de ce valeureux chevalier et l'effet de surprise est une totale réussite.  
+[202] C'est à dessein que Du Ryer fait participer Hyppolite plus que tout autre au combat et qu'il nous a cachés l'intention qu'elle avait d'y participer. Le spectateur découvre ainsi en même temps que les personnages l'identité de ce valeureux chevalier et l'effet de surprise est une totale réussite. 
 
-[203] Au XVII*e* siècle se dessine un large mouvement de réévaluation de la femme et la vogue de la femme forte dure de 1610 à 1650. N. Heff écrit dans *XVIIème siècle* (p. 309 *et sq*.) : « On est alors devant un double paradoxe, la femme forte étant douée de toutes les caractéristiques opposées à celles que confère à l'être féminin la tradition des moralistes et déployant son héroïsme sans cesser d'apparaître et fragile et belle, ceci ayant pour effet de rehausser cela ». Cette idée est soulignée par les propos de Lucidan qui définit essentiellement Hyppolite par cette association de deux valeurs apparemment antithétiques : le courage et la beauté.  
+[203] Au XVII*e* siècle se dessine un large mouvement de réévaluation de la femme et la vogue de la femme forte dure de 1610 à 1650. N. Heff écrit dans *XVIIème siècle* (p. 309 *et sq*.) : « On est alors devant un double paradoxe, la femme forte étant douée de toutes les caractéristiques opposées à celles que confère à l'être féminin la tradition des moralistes et déployant son héroïsme sans cesser d'apparaître et fragile et belle, ceci ayant pour effet de rehausser cela ». Cette idée est soulignée par les propos de Lucidan qui définit essentiellement Hyppolite par cette association de deux valeurs apparemment antithétiques : le courage et la beauté. 
 
 [204] Var. « Jadis les cavaliers, prodïgues de leurs armes, … ».
 
@@ -4566,9 +4566,9 @@ Revue d'Histoire Littéraire de la France
 
 [241] Ce passage rappelle *La mort du Roi Arthur* : Lancelot, blessé lors d'un combat, se fait soigner par une jeune fille qui tombe amoureuse de lui. Le chevalier repousse ses avances et s'explique en ces termes : « je jure que si vous étiez femme à daigner m'honorer de votre amour et que … je puisse disposer de moi à ma guise, je m'estimerais personnellement comblé si vous consentiez à m'aimer ». La jeune fille s'étonne : « Comment, seigneur, …, votre cœur n'est-il pas assez totalement à vous pour que vous puissiez en disposer à votre volonté ? ». Et Lancelot répond : « J'en dispose tout à fait à ma volonté, demoiselle, car il est exactement là où j'ai envie qu'il soit et je ne voudrais aucun autre lieu pour lui … ».
 
-[242] Hyppolite  montre une nouvelle foi sa noblesse de caractère, sa maîtrise de soi et sa grande lucidité. L'amour ne l'aveugle qu'un temps, la raison reprend rapidement le dessus. 
+[242] Hyppolite montre une nouvelle foi sa noblesse de caractère, sa maîtrise de soi et sa grande lucidité. L'amour ne l'aveugle qu'un temps, la raison reprend rapidement le dessus. 
 
-[243] Ce rebondissement, bien que mal lié au reste de l'intrigue, maintient l'intérêt du spectateur. D'Audiguier faisait mention de l'amour de Lucidan pour Caliste et pour Hyppolite, il semble que  Du Ryer ait voulu garder cet élément qui permet à l'intrigue de rebondir à nouveau et de maintenir l'intérêt du spectateur.
+[243] Ce rebondissement, bien que mal lié au reste de l'intrigue, maintient l'intérêt du spectateur. D'Audiguier faisait mention de l'amour de Lucidan pour Caliste et pour Hyppolite, il semble que Du Ryer ait voulu garder cet élément qui permet à l'intrigue de rebondir à nouveau et de maintenir l'intérêt du spectateur.
 
 [244] Seuls les hommes sont accusés d'infidélité, les femmes, elles, sont constantes en leur amour. 
 
@@ -4578,7 +4578,7 @@ Revue d'Histoire Littéraire de la France
 
 [247]  Hyppolite achève par cette dernière action de nous montrer son courage et sa générosité exceptionnels.
 
-[248] Seules les lois peuvent fonder, entre le peuple et le roi, la justice et l'équité. On peut retrouver dans la figure de ce roi celle de Louis XIII que M. Magendie décrit dans*La Politesse mondaine* … (Chapitre II) : « il avait des qualités excellentes … : le courage, l'amour de la gloire, de l'État, …, le sentiment assez vif de la dignité royale ».  Ses goûts belliqueux étaient satisfaits par l'obligation qu'il avait de parcourir les provinces à la tête de ses armées.  
+[248] Seules les lois peuvent fonder, entre le peuple et le roi, la justice et l'équité. On peut retrouver dans la figure de ce roi celle de Louis XIII que M. Magendie décrit dans*La Politesse mondaine* … (Chapitre II) : « il avait des qualités excellentes … : le courage, l'amour de la gloire, de l'État, …, le sentiment assez vif de la dignité royale ». Ses goûts belliqueux étaient satisfaits par l'obligation qu'il avait de parcourir les provinces à la tête de ses armées. 
 
 [249] Du Ryer, comme de nombreux dramaturges de la première moitié du XVII*e* siècle, exalte sa foi en la grandeur de son roi et de son pays à travers de semblables discours. On trouve d'autres exemples de ces élans patriotiques dans *Argenis et Poliarque* (V, 2) : « La valeur se nourrit dans le sein de la France, / Elle a toujours faict voir que ses moindres guerriers / Arracheroient à Mars ses plus riches lauriers ».
     Après avoir connu une période de guerres civiles et de troubles, la France retrouve la paix et la règle. Henri IV et Richelieu, dont l'œuvre sera poursuivie par Mazarin, font d'une France couverte de gloire une puissance « prépondérante au dehors, tranquille et satisfaite au dedans » (Victor Cousin, *La Jeunesse de Mme de Longueville*, avant-propos, p. X) notamment grâce à sa force militaire. Des batailles victorieuses justifièrent les aspirations de Henri IV et de Richelieu et la France succéda à l'Espagne dans la suprématie morale et militaire du vieux continent.
@@ -4605,6 +4605,6 @@ Revue d'Histoire Littéraire de la France
 
 [260] « Que » : alors que (valeur de concession). 
 
-[261] Du Ryer accélère les événements, Lisandre semble oublier l'infidélité dont était accusée Caliste puisqu'il n'en fait pas mention.  
+[261] Du Ryer accélère les événements, Lisandre semble oublier l'infidélité dont était accusée Caliste puisqu'il n'en fait pas mention. 
 
 [262] Var. « De vostre volonté dépendent nos desirs. »

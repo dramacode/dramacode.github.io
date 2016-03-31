@@ -73,7 +73,7 @@ Alors ils quitteront leurs sentimens, pour prendre les miens, ou confesseront qu
 Les Chefs-d'œuvres ne se font pas facilement ; et je ne m'y connois point, ou jamais il n'en fut un plus achevé que celuy-cy.
 Mais employer des couleurs si sombres que les miennes à peindre en raccourcy dans une Lettre cette adorable Captive, c'est imiter les Astrologues, qui mesurent la Lune par l'ombre de la terre, et la terre par un poinct.
 
-**** *book_ *id_body-401 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_I01 *act_I *date_1643 *creator_lestoile
 
 -*who_alphonse
 Ha ! Laisse moy mourir.
@@ -229,7 +229,7 @@ Soubs le doux nom de Sœur cette belle Maistresse⁎ ;
 Autrement ce secret se descouvrant à tous,
 Le Roy… mais il arrive.
 
-**** *book_ *id_body-402 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_I02 *act_I *date_1643 *creator_lestoile
 
 -*who_le_roy
       Alphonse, approchez-vous,
@@ -258,7 +258,7 @@ De la terre et du Ciel⁎ font briller les richesses,
 Et des plus Affligez charmeroient le soucy⁎,
 Je ne veux reserver que celle que voicy.
 
-**** *book_ *id_body-403 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_I03 *act_I *date_1643 *creator_lestoile
 
 -*who_alphonse
 Hé ! celle que voicy c'est ma Sœur elle-mesme.
@@ -518,7 +518,7 @@ Mais l'estat où je suis à tout me fait resoudre ;
 Allons donc recevoir ce second coup de foudre.
 FIN DU PREMIER ACTE.
 
-**** *book_ *id_body-501 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_II01 *act_II *date_1643 *creator_lestoile
 
 -*who_haly
 Que faites-vous, Madame, helas ! à quel dessein⁎
@@ -566,7 +566,7 @@ Quand il auroit le monde, il n'auroit pas mon cœur.
 Ce discours monstre un cœur plus grand que son Empire ;
 Mais Alphonse parest.
 
-**** *book_ *id_body-502 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_II02 *act_II *date_1643 *creator_lestoile
 
 -*who_clarice
       Mais Alphonse souspire ;
@@ -629,7 +629,7 @@ La crainte des mortels, aussi bien que l'espoir ;
 Je l'apperçoy venir, et lis en son visage
 De quelque bon succez un asseuré presage.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_II03 *act_II *date_1643 *creator_lestoile
 
 -*who_alphonse
 Hé bien ! Madame, enfin faut-il vivre ou mourir ?
@@ -748,7 +748,7 @@ Nous vous en laisserons le funeste⁎ loisir,
 Et donnerons des pleurs à vostre déplaisir.
 Haly, retirez-vous, sans les perdre de veüe.
 
-**** *book_ *id_body-504 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_II04 *act_II *date_1643 *creator_lestoile
 
 -*who_alphonse
 Ha ! malheureux depart.
@@ -877,7 +877,7 @@ Ha ! je vous sauveray d'un si honteux naufrage.
 Hé comment ? sans la force à quoy sert le courage⁎ ?
 Mais Haly s'en revient.
 
-**** *book_ *id_body-505 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_II05 *act_II *date_1643 *creator_lestoile
 
 -*who_alphonse
       Quoy, déja nous quitter ?
@@ -920,7 +920,7 @@ Prodige d'amitié⁎, seul comparable à soy !
 Encore un coup adieu, je ne puis plus rien dire :
 Mais pourrois-je parler, à l'heure que j'expire ?
 
-**** *book_ *id_body-506 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_II06 *act_II *date_1643 *creator_lestoile
 
 -*who_alphonse
 Qu'un Barbare⁎, un Tyran tienne esclave un objet⁎
@@ -1027,7 +1027,7 @@ Il y faudra mourir.
       Hé bien, nous y mourrons.
 FIN DU SECOND ACTE.
 
-**** *book_ *id_body-601 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_III01 *act_III *date_1643 *creator_lestoile
 
 -*who_la_reyne
 Ouy, se disant adieu tous deux versoient des larmes,
@@ -1070,7 +1070,7 @@ De quoy luy pouvez-vous estre encore obligée ?
 Mais le voicy luy-mesme ; ô Dieu qu'il est changé !
 Se verra-t'il jamais esprit plus affligé ?
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_III02 *act_III *date_1643 *creator_lestoile
 
 -*who_alphonse
 Grand Roy, puisque mes vœux, mes soûpirs, et mes larmes
@@ -1327,7 +1327,7 @@ Qui fait trembler mon cœur, et paslir mon visage.
 Haly tout effrayé vers vous dresse ses pas,
 Qu'a-t'il fait de Clarice ? il ne l'ameine pas.
 
-**** *book_ *id_body-603 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_III03 *act_III *date_1643 *creator_lestoile
 
 -*who_haly
 Sire, je suis coupable, et j'apporte ma teste ;
@@ -1373,7 +1373,7 @@ Mais je crains que bien tost Alphonse ne la suive :
 Fernand prenez-en soin, il est au desepoir,
 Et dans ce triste estat je ne sçaurois le voir.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_III04 *act_III *date_1643 *creator_lestoile
 
 -*who_alphonse
 Elle a donc de ses jours terminé la carriere⁎,
@@ -1453,7 +1453,7 @@ Et fais par ton trespas ton amour éclater.
 Suivons-le promptement, il pourroit s'y jetter.
 FIN DU TROISIEME ACTE.
 
-**** *book_ *id_body-701 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_IV01 *act_IV *date_1643 *creator_lestoile
 
 -*who_fernand
 Où dois-je encore aller ? prenons un peu d'haleine,
@@ -1507,7 +1507,7 @@ Mais vois-je pas le Traistre ? il faut…
 Mesnagez prudemment un si rare bonheur :
 Suivez vostre dessein⁎.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_IV02 *act_IV *date_1643 *creator_lestoile
 
 -*who_haly
       D'où vient donc sa furie⁎ ?
@@ -1712,7 +1712,7 @@ Cher Selim…
       Taisons-nous, le Roy s'en vient icy,
 Je vous quitte.
 
-**** *book_ *id_body-703 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_IV03 *act_IV *date_1643 *creator_lestoile
 
 -*who_haly
       O malheur ! Alphonse arrive aussi,
@@ -1816,7 +1816,7 @@ Garde, suivez Alphonse, allez y de ma part,
 Et cherchez-y par tout, avant qu'il soit plus tard ;
 Vous, Haly, demeurez.
 
-**** *book_ *id_body-704 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_IV04 *act_IV *date_1643 *creator_lestoile
 
 -*who_haly
       Que cét affront me pique⁎ !
@@ -1903,7 +1903,7 @@ Vostre sort⁎ est douteux⁎, et bien tost son retour
 Vous doit rendre l'honneur⁎, ou vous oster le jour.
 FIN DU QUATRIEME ACTE.
 
-**** *book_ *id_body-801 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_V01 *act_V *date_1643 *creator_lestoile
 
 -*who_alphonse
 Ha ! je l'y cherche en vain, on l'en a retirée,
@@ -1979,7 +1979,7 @@ Le Roy s'en vient icy.
       Que luy pourray-je dire ?
 Je crains que devant luy de honte⁎ je n'expire.
 
-**** *book_ *id_body-802 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_V02 *act_V *date_1643 *creator_lestoile
 
 -*who_le_roy
 Qui de vous deux enfin treuveray-je Imposteur⁎ ?
@@ -2077,7 +2077,7 @@ Dieu devoit un miracle à vostre pieté.
 Et plus d'un coup de foudre à vostre tromperie⁎.
 Mais la Reyne s'avance.
 
-**** *book_ *id_body-803 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_V03 *act_V *date_1643 *creator_lestoile
 
 -*who_le_roy
       Estrange⁎réverie⁎ !
@@ -2320,7 +2320,7 @@ Pensez-vous que Haly la tienne veritable ?
 On ne luy peut sans crime aucun crime imposer.
 Mais paroissez, Clarice, et venez l'accuser.
 
-**** *book_ *id_body-804 *act_ *date_1643 *creator_lestoile
+**** *book_ *id_V04 *act_V *date_1643 *creator_lestoile
 
 -*who_alphonse
 O Ciel⁎ ! c'est elle-mesme.

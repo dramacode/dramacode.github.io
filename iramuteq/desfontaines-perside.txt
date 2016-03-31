@@ -21,7 +21,7 @@ De vostre Grandeur,
 
 Le tres humble tres obeïssant et tres affectionné serviteur,
 
-**** *book_ *id_body-301 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_I01 *act_I *date_1644 *creator_desfontaines
 
 -*who_eraste
 En quel estat, Seigneur, faut-il que je paroisse ?
@@ -279,7 +279,7 @@ J'en doute.
 Et puis viens temoigner que tu peux tour à tour
 Joindre aux Lauriers de Mars les myrthes de l'amour.
 
-**** *book_ *id_body-302 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_I02 *act_I *date_1644 *creator_desfontaines
 
 -*who_soliman
 Ne dissimulez plus belle et sage Herminie
@@ -346,7 +346,7 @@ Cet esclaircissement est de trop longue haleyne⁎
 -*who_soliman
 Bien doncques à tantost.
 
-**** *book_ *id_body-303 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_I03 *act_I *date_1644 *creator_desfontaines
 
 -*who_soliman
       Parlez, qui vous ameine ?
@@ -373,7 +373,7 @@ Vous le pouvez.
 -*who_herminie
       Adieu.
 
-**** *book_ *id_body-304 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_I04 *act_I *date_1644 *creator_desfontaines
 
 -*who_soliman
       Que voy-je justes Dieux ?
@@ -464,7 +464,7 @@ Prenez-en soin Achmat.
       Que mon sort seroit beau
 Si plutost qu'un palais il m'offroit un tombeau.
 
-**** *book_ *id_body-401 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_II01 *act_II *date_1644 *creator_desfontaines
 
 -*who_soliman
 Mais me dites-vous vray ? quoy, cette belle esclave
@@ -624,7 +624,7 @@ Et montre à l'Univers par ce dernier effort
 Que pour te resister il n'est rien d'assez fort.
 Qu'on les fasse venir.
 
-**** *book_ *id_body-402 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_II02 *act_II *date_1644 *creator_desfontaines
 
 -*who_soliman
       Vous verrez Herminie
@@ -652,7 +652,7 @@ Encore qu'il soit vray me paroit incroyable.
 Je vous le feray voir, n'en croyez que vos yeux,
 Mais Perside s'advance.
 
-**** *book_ *id_body-403 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_II03 *act_II *date_1644 *creator_desfontaines
 
 -*who_soliman
       Ah traits imperieux!
@@ -779,7 +779,7 @@ Ah ! qui craint le combat redoute sa deffaite.
 -*who_perside
 En semblables combats on vainc par la retraitte.
 
-**** *book_ *id_body-404 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_II04 *act_II *date_1644 *creator_desfontaines
 
 -*who_soliman
 Eraste
@@ -982,7 +982,7 @@ Puisse estre ta Hautesse en tous lieux adorée,
 Et porter ton renom et ta gloire si loin,
 Qu'elle en rende dans peu tout le monde tesmoing,
 
-**** *book_ *id_body-501 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_III01 *act_III *date_1644 *creator_desfontaines
 
 -*who_herminie
 Vous vous moquez de moy m'appellant inhumaine ?
@@ -1109,7 +1109,7 @@ Adieu belle Herminie,
 -*who_herminie
       Adieu chere Alcomire,
 
-**** *book_ *id_body-502 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_III02 *act_III *date_1644 *creator_desfontaines
 
 -*who_alcomire
 Qu'elle m'oste du cœur un estrange soucy⁎
@@ -1222,7 +1222,7 @@ Que vous pouvez choisir des liens bien plus doux.
 Ainsi le veut amour, et telle est ma fortune⁎
 Je cours apres mon mal, mais je vous importune.
 
-**** *book_ *id_body-503 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_III03 *act_III *date_1644 *creator_desfontaines 
 
 -*who_alcomire
 Il s'en va dans l'espoir d'estre bientost heureux
@@ -1240,7 +1240,7 @@ Pour vous avoir suivis je pert mon esperance,
 Mais voicy l'empereur. Amour esteins mes feux
 Ou fay qu'Achmat enfin les rende plus heureux.
 
-**** *book_ *id_body-504 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_III04 *act_III *date_1644 *creator_desfontaines 
 
 -*who_perside
 Je n'ay plus de regret Seigneur que ta Hautesse
@@ -1366,7 +1366,7 @@ Mourons, mourons plustost.
 Achmat allez la rendre à son appartement
 Et là vous acquitez des devoirs d'un Amant.
 
-**** *book_ *id_body-505 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_III05 *act_III *date_1644 *creator_desfontaines 
 
 -*who_soliman
 Enfin, belle Perside, il faut que je confesse
@@ -1445,7 +1445,7 @@ Sortons.
 -*who_soliman
       Adieu cruelle⁎.
 
-**** *book_ *id_body-506 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_III06 *act_III *date_1644 *creator_desfontaines 
 
 -*who_soliman
       O Desespoir ! o rage ?
@@ -1468,7 +1468,7 @@ Sois plus respectueux, ou sois plus temeraire⁎,
 Cesse enfin de languir, et par un prompt effort
 Choisis sans differer ou l'amour ou la mort.
 
-**** *book_ *id_body-601 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV01 *act_IV *date_1644 *creator_desfontaines
 
 -*who_achmat
 Non, non n'esperez pas me traittant de la sorte
@@ -1522,7 +1522,7 @@ Cet obstacle est puissant,
 Va, va mettre en effect tes projets inhumains,
 Moy je sçauray bientost me tirer de tes mains.
 
-**** *book_ *id_body-602 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV02 *act_IV *date_1644 *creator_desfontaines
 
 -*who_achmat
 Ouy, ouy malgré ce cœur si contraire à ma flame⁎
@@ -1558,7 +1558,7 @@ La foudre est toute preste et sa mort est concluë,
 Amour cruel auteur de ce hardy dessein
 Favorise un forfaict⁎ que tu m'as mis au sein⁎.
 
-**** *book_ *id_body-603 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_IV03 *act_IV *date_1644 *creator_desfontaines 
 
 -*who_perside
 
@@ -1614,7 +1614,7 @@ Témoigne à cet abord une douleur extreme.
 Il frémit, il paslit, et par ses changemens
 Montre qu'il sent au cœur d'estranges mouvemens⁎.
 
-**** *book_ *id_body-604 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV04 *act_IV *date_1644 *creator_desfontaines
 
 -*who_perside
 Qu'avez-vous Eraste ? et quel mauvais presage
@@ -1745,7 +1745,7 @@ Te reverray-je encor ?
       Non ne l'esperes pas ?
 Adieu.
 
-**** *book_ *id_body-605 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV05 *act_IV *date_1644 *creator_desfontaines
 
 -*who_perside
       Capricieuse et bizare fortune
@@ -1761,7 +1761,7 @@ Sois-moy plus favorable, ou soy-moy plus cruelle,
 Ne me faits plus languir, determine mon sort
 Et delibere enfin ou ma vie ou ma mort.
 
-**** *book_ *id_body-606 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV06 *act_IV *date_1644 *creator_desfontaines
 
 -*who_achmat
 Tu hazardes beaucoup Seigneur, et cette adresse
@@ -1804,7 +1804,7 @@ J'y vay,
 -*who_achmat
       Qu'il vienne tost, vole.
 
-**** *book_ *id_body-607 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV07 *act_IV *date_1644 *creator_desfontaines
 
 -*who_soliman
       Eraste, Perside,
@@ -1895,7 +1895,7 @@ Je l'empecheray bien, ah ! qu'il vient à propos,
 Je vay par un reproche et juste et legitime⁎
 Imprimer dans son cœur le remords de son crime,
 
-**** *book_ *id_body-608 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_IV08 *act_IV *date_1644 *creator_desfontaines 
 
 -*who_soliman
 Ton cœur est grand, Eraste, il le faut advoüer,
@@ -1984,7 +1984,7 @@ Emmenez-le Pyrrhus.
       Je n'y recule pas
 Et mesme si tu veux nous irons au trépas.
 
-**** *book_ *id_body-609 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_IV09 *act_IV *date_1644 *creator_desfontaines
 
 -*who_soliman
 Non je n'en doute plus il est, il est perfide⁎,
@@ -2033,7 +2033,7 @@ Non Haly, haste-toy rien ne le peut sauver.
 -*who_haly
 Suivez tout de ce pas je m'en vais le trouver,
 
-**** *book_ *id_body-701 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V01 *act_V *date_1644 *creator_desfontaines
 
 -*who_alcomire
 Pyrrhus, si vous voulez m'acquerir et me plaire
@@ -2079,7 +2079,7 @@ Va c'en est faict, adieu vange-moy promptement.
 -*who_pyrrhus
 En moy vous trouverez un plus fidele Amant.
 
-**** *book_ *id_body-702 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V02 *act_V *date_1644 *creator_desfontaines
 
 -*who_achmat
 Enfin le coup est faict et selon mon envie
@@ -2092,7 +2092,7 @@ Se voyant sans obstacle, ainsi que son rival,
 Rendra son heur⁎ parfaict, et le mien sans esgal.
 Mais je voids Herminie advançons.
 
-**** *book_ *id_body-703 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_V03 *act_V *date_1644 *creator_desfontaines 
 
 -*who_achmat
       Belle ingratte⁎
@@ -2116,7 +2116,7 @@ Ce sont la des faveurs dignes de ton amour.
 Pour les criminels, et les ames traitresses
 Je ne destine pas de plus douces caresses.
 
-**** *book_ *id_body-704 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V04 *act_V *date_1644 *creator_desfontaines
 
 -*who_pyrrhus
 Dieux qu'est-ce que je voids ?
@@ -2165,7 +2165,7 @@ Allez.
 Assez proche d'icy je le vais abismer,
 De peur que pour ce coup nous ne soyons en peine.
 
-**** *book_ *id_body-705 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_V05 *act_V *date_1644 *creator_desfontaines 
 
 -*who_herminie
 Depeschez donc Pyrrhus que quelqu'un ne survienne
@@ -2176,7 +2176,7 @@ Et contre Soliman armons sa resistance,
 Mais quel est ce guerrier? quel est ce jeune Mars,
 Qui lance dans ces lieux de si tristes regards.
 
-**** *book_ *id_body-706 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V06 *act_V *date_1644 *creator_desfontaines
 
 -*who_perside
 Cher Eraste !
@@ -2339,7 +2339,7 @@ Allons suivons ses pas et mourons avec elle,
 Aussy bien Soliman, et le coup que j'ay fait
 Semblent-ils m'ordonner ce legitime⁎ effect⁎.
 
-**** *book_ *id_body-707 *act_ *date_1644 *creator_desfontaines 
+**** *book_ *id_V07 *act_V *date_1644 *creator_desfontaines 
 
 -*who_soliman
 Devançay-moy Haly, voyez si la cruelle
@@ -2352,7 +2352,7 @@ Mais peut-estre qu'enfin ces fortes passions
 Se pouront adoucir par nos soumissions,
 Frapez.
 
-**** *book_ *id_body-708 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V08 *act_V *date_1644 *creator_desfontaines
 
 -*who_ormane
 Que voulez-vous ?
@@ -2430,7 +2430,7 @@ Mon cœur te va trouver, mon ame te va suivre,
 Et par une action digne de ta pitié
 Rejoindre sa plus chere et plus belle moitié.
 
-**** *book_ *id_body-709 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V09 *act_V *date_1644 *creator_desfontaines
 
 -*who_soliman
 Arrestez-vous Soldats Perside va paroistre
@@ -2465,7 +2465,7 @@ Et te rendre temoing d'un funeste⁎ spectacle,
 Ta fureur⁎ en est cause et tu peux en ce jour
 Voir les justes effects⁎ qu'a produit son amour.
 
-**** *book_ *id_body-710 *act_ *date_1644 *creator_desfontaines
+**** *book_ *id_V10 *act_V *date_1644 *creator_desfontaines
 
 -*who_perside
 Approche Soliman, vien cruel viens Perside

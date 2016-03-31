@@ -595,7 +595,7 @@ Selon C. J. Gossip [69], il n'en existe plus de copie, non plus que de celle de 
 
 Voici les éditions parues du vivant de Thomas Corneille auxquelles nous avons eu accès. Il s'agit soit d'éditions collectives du théâtre de Thomas Corneille, soit d'éditions comprises dans des recueils factices, et dont la diffusion séparée n'est pas avérée. Etendons-nous un instant sur celle qui nous a servi de référence.
 
-(1) — *« LA MORT / D'ACHILLE / TRAGEDIE, / Par T. CORNEILLE. / Vignette représentant un animal fouillant un nid d'insectes installé dans un arbre, avec la devise QVAERENDO / Suivant la Copie imprimée / A PARIS, / CI) I)* [71] *CLXXVI. »* (in-12°, 67 p.).
+(1) — *« LA MORT / D'ACHILLE / TRAGEDIE, / Par T. CORNEILLE. / Vignette représentant un animal fouillant un nid d'insectes installé dans un arbre, avec la devise QVAERENDO / Suivant la Copie imprimée / A PARIS, / CI) I)* [71]*CLXXVI. »* (in-12°, 67 p.).
 
 Il s'agit d'une édition pirate hollandaise, attribuée par Reynier au libraire A. Wolfgang [72]. Elle se caractérise par la présence d'un frontispice représentant le trépas d'Achille, bizarrement vêtu à l'orientale, sous le regard d'une statue de Vénus. Le frontispice est signé « HP adt Brugge jnv. c⁎ fec. » [73].
 

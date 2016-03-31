@@ -6,7 +6,7 @@ LES DEUX FRERES GEMEAUX, OU LES MENTEURS QUI NE MENTENT POINT.
 
 COMEDIE.
 
-**** *book_ *id_body-201 *act_ *date_1665 *creator_boursault
+**** *book_ *id_I01 *act_I *date_1665 *creator_boursault
 
 -*who_hipolite
 Me trompois-je, Jacinte, est-ce là sa demeure ?
@@ -61,7 +61,7 @@ Et de cette façon vous croyez faire entendre…
 Je vous le disois bien j'apperçois ce Nicandre,
 Il avance.
 
-**** *book_ *id_body-202 *act_ *date_1665 *creator_boursault
+**** *book_ *id_I02 *act_I *date_1665 *creator_boursault
 
 -*who_premier_nicandre
       Madame, il doit m'estre bien doux
@@ -129,7 +129,7 @@ Qu'il est aspre⁎ !
 -*who_ragotin
 Adieu l'honneur.
 
-**** *book_ *id_body-203 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I03 *act_I *date_1665 *creator_boursault 
 
 -*who_hipolite
       Nicandre, & mes yeux, & ma voix…
@@ -311,7 +311,7 @@ Qu'il faloit que mon cœur qu'Hipolite asservit
 Ou jamais ne jurât, ou jamais ne vous vid.
 Adieu Madame.
 
-**** *book_ *id_body-204 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I04 *act_I *date_1665 *creator_boursault 
 
 -*who_hipolite
       Hé bien, que dis-tu ?
@@ -347,7 +347,7 @@ Tu crois donc que quelqu'autre ait surpris⁎ ses regards ?
 -*who_jacinte
 Si je le crois ? Vrayment ; ce matois⁎, ce Nicandre…
 
-**** *book_ *id_body-205 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I05 *act_I *date_1665 *creator_boursault 
 
 -*who_ismene
 Nicandre ! Le seroit-ce ? Essayons de l'apprendre.
@@ -466,7 +466,7 @@ De Rivale à Rivale on ne s'accorde rien,
 Mais je puis le trouver par un autre moyen.
 Je vous laisse.
 
-**** *book_ *id_body-206 *act_ *date_1665 *creator_boursault
+**** *book_ *id_I06 *act_I *date_1665 *creator_boursault
 
 -*who_jacinte
       Il vous ayme ?
@@ -495,7 +495,7 @@ Et peut-estre…
 -*who_jacinte
       Madame, il revient dans ce lieu.
 
-**** *book_ *id_body-207 *act_ *date_1665 *creator_boursault
+**** *book_ *id_I07 *act_I *date_1665 *creator_boursault
 
 -*who_hipolite
 A la fin vostre frere est trouvé.
@@ -631,7 +631,7 @@ Et quoy que depuis peu vous soyez à Paris
 Ainsi que vostre nom je sçay vostre logis,
 Pensez-y bien.
 
-**** *book_ *id_body-208 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I08 *act_I *date_1665 *creator_boursault 
 
 -*who_second_nicandre
       De grace, ayés plus de tendresse,
@@ -661,7 +661,7 @@ Allez vous-en chercher vostre frere jumeau ;
 Ou dessus cette jouë un puissant cataplasme…
 Adieu.
 
-**** *book_ *id_body-209 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I09 *act_I *date_1665 *creator_boursault 
 
 -*who_robin
       Connoissez-vous cette bonne Madame ?
@@ -767,7 +767,7 @@ Attendant qu'il revienne allons voir Clidimace,
 Comme dans cette ville il a bien du credit
 Cét Amy…
 
-**** *book_ *id_body-210 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I10 *act_I *date_1665 *creator_boursault 
 
 -*who_ragotin
       Je reviens comme vous m'avez dit,
@@ -885,7 +885,7 @@ Je le pense, & repense.
 Que si tu l'entreprends je te casse les bras.
 Suy-moy donc si tu veux, viens, tu n'as rien à craindre.
 
-**** *book_ *id_body-211 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_I11 *act_I *date_1665 *creator_boursault 
 
 -*who_ragotin
 Il ne faut que cela pour m'achever de peindre.
@@ -896,14 +896,14 @@ Mais j'enrage de faim, à propos, quand j'y songe,
 Pour branler la machoire, & nous faire laquais
 Allons chercher fortune aux degrez⁎ du Palais.
 
-**** *book_ *id_body-301 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II01 *act_II *date_1665 *creator_boursault
 
 -*who_premier_nicandre
 La charmante Hipolite a pour moy de l'estime,
 Et je n'ose répondre au beau feu qui l'anime !
 A mon cruel serment tous mes sens occupez…
 
-**** *book_ *id_body-302 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II02 *act_II *date_1665 *creator_boursault
 
 -*who_ismene
 Ou je vois l'infidelle ou mes yeux sont trompez.
@@ -1023,7 +1023,7 @@ Et te faire toy mesme à toy mesme avoüer
 Que tu m'as oubliée, & n'ay pû t'oublier.
 Prens-y garde.
 
-**** *book_ *id_body-303 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II03 *act_II *date_1665 *creator_boursault
 
 -*who_premier_nicandre
       J'ignore à quoy tend sa querelle
@@ -1035,7 +1035,7 @@ Si j'ay quelques momens je les dois à ma flâme ;
 Hipolite… Jacinte en ce lieu se fait voir ;
 Jacinte…
 
-**** *book_ *id_body-304 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II04 *act_II *date_1665 *creator_boursault
 
 -*who_jacinte
       Il dit mon nom ! Qui vous l'a fait sçavoir ?
@@ -1173,14 +1173,14 @@ C'est assez, & de plus…
 -*who_jacinte
       Et de plus, Dieu vous gard.
 
-**** *book_ *id_body-305 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II05 *act_II *date_1665 *creator_boursault
 
 -*who_premier_nicandre
 Temeraire serment sors de cette memoire,
 Ne fais pas un obstacle à l'excés de ma gloire,
 Depuis plus de six ans je me suis deffendu…
 
-**** *book_ *id_body-306 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_II06 *act_II *date_1665 *creator_boursault 
 
 -*who_robin
 Monsieur, vous ne serez ny roüé, ny pendu,
@@ -1298,7 +1298,7 @@ Où vous mesme allez-vous ? J'accompagne mon Maistre.
 Je dois si je le suis te le faire paroistre
 Il t'en faut une preuve impudent⁎, la voila.
 
-**** *book_ *id_body-307 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II07 *act_II *date_1665 *creator_boursault
 
 -*who_robin
 Il a parbleu raison, il le prouve par là.
@@ -1317,7 +1317,7 @@ Où parmy ses habits sont aussi tous les miens
 En tout cas… Le voicy la gueule enfarinée
 Le bon traistre !
 
-**** *book_ *id_body-308 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_II08 *act_II *date_1665 *creator_boursault 
 
 -*who_second_nicandre
       Qu'heureuse est pour moy la journée !
@@ -1386,7 +1386,7 @@ C'est gageure⁎.
       On m'en donne des erres 
 Voyez-vous ? Mon cadet… Là, là, là, là, là, là.
 
-**** *book_ *id_body-309 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II09 *act_II *date_1665 *creator_boursault
 
 -*who_jacinte
 Il vous attend Madame, & c'est luy que voila,
@@ -1592,7 +1592,7 @@ On fasse des licous⁎ au Bourreau de Paris
 Pour pendre les lacquais qui sont au Paradis.
 Peste de Cagne⁎.
 
-**** *book_ *id_body-310 *act_ *date_1665 *creator_boursault
+**** *book_ *id_II10 *act_II *date_1665 *creator_boursault
 
 -*who_hipolite
       Hé bien ?
@@ -1604,7 +1604,7 @@ Au secours, à la force, embrassez l'interest…
 Tout va le mieux du monde, Isidore paraist,
 Isidore !
 
-**** *book_ *id_body-311 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_II11 *act_II *date_1665 *creator_boursault 
 
 -*who_isidore
       Il s'exhibe où le cry prend son estre
@@ -1655,7 +1655,7 @@ D'où dérive…
 Et puisqu'un prompt remede est icy de saison⁎
 Vous forcerez le traistre à m'en faire raison.
 
-**** *book_ *id_body-401 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III01 *act_III *date_1665 *creator_boursault
 
 -*who_ismene
 Enfin de mon mal-heur vous avez connoissance,
@@ -1719,7 +1719,7 @@ Et tandis qu'au Courrier mon valet va remettre…
 Il revient, il me cherche, allez tout dépescher,
 Adieu.
 
-**** *book_ *id_body-402 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III02 *act_III *date_1665 *creator_boursault
 
 -*who_ragotin
       N'est-ce pas vous que je viens rechercher
@@ -1827,7 +1827,7 @@ De ce jour ennuyeux⁎ attendre le declin,
 Cela fait dans ce lieu tu viendras me reprendre,
 Adieu.
 
-**** *book_ *id_body-403 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III03 *act_III *date_1665 *creator_boursault
 
 -*who_ragotin
       Je vais porter un Cartel⁎ à Nicandre !
@@ -1837,7 +1837,7 @@ Tu t'en vas étrenner mon épée. Il avance,
 Mais il ne songe pas à cecy que je pense ;
 Dieu sçait si le Cartel⁎ le va rendre esperdu !
 
-**** *book_ *id_body-404 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_III04 *act_III *date_1665 *creator_boursault 
 
 -*who_premier_nicandre
 Jacinte asseurément m'aura trop astendu ;
@@ -1923,7 +1923,7 @@ Je le veux…
       Mettez là vostre main. Sans Adieu,
 C'est assez, si j'y viens que le Diable m'emporte.
 
-**** *book_ *id_body-405 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III05 *act_III *date_1665 *creator_boursault
 
 -*who_premier_nicandre
 Ciel vous m'estes propice, & l'on ouvre la porte ;
@@ -1932,7 +1932,7 @@ Hipolite, Jacinte, ay-je point trop tardé ?
 Si vous pouviez sçavoir quel plaisir vous me faites,
 Je jure…
 
-**** *book_ *id_body-406 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_III06 *act_III *date_1665 *creator_boursault 
 
 -*who_jacinte
       Allez vous-en au peautre⁎, à qui vous estes.
@@ -1969,7 +1969,7 @@ Mais vous m'avez promis…
       Mais je vous dépromets.
 Et de plus laissez-moy, j'ay des mains, je devore.
 
-**** *book_ *id_body-407 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III07 *act_III *date_1665 *creator_boursault
 
 -*who_eutrope
 Est-ce pas prés d'icy que demeure Isidore ?
@@ -2007,7 +2007,7 @@ Ou du moins…
       Tenez ferme, & ne le laschez pas ;
 Son filou⁎ de cacquet m'a sceu rendre ébloüye.
 
-**** *book_ *id_body-408 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III08 *act_III *date_1665 *creator_boursault
 
 -*who_isidore
 Une voix transcendante a percé mon oüye.
@@ -2113,7 +2113,7 @@ Mais le foible mal-heur que celuy que j'évite
 Si le triste Nicandre est haï d'Hipolite ;
 Elle est seule chez elle, allons-y de ce pas.
 
-**** *book_ *id_body-409 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III09 *act_III *date_1665 *creator_boursault
 
 -*who_robin
 Ah ! Que démenager est un rude tracas !
@@ -2132,7 +2132,7 @@ Quoy le pere d'Ismene est dedans cette ville !
 A la premiere porte attrapons un azile,
 Fuyons.
 
-**** *book_ *id_body-410 *act_ *date_1665 *creator_boursault
+**** *book_ *id_III10 *act_III *date_1665 *creator_boursault
 
 -*who_eutrope
       Est-ce pour rire, ou du moins es-tu fou ?
@@ -2193,7 +2193,7 @@ Et qui tous acharnez sur un pauvre garçon…
 Mais que voicy des gens de méchante façon ;
 Ah ! Combien les Bourreaux ont de Valets de Chambre !
 
-**** *book_ *id_body-411 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_III11 *act_III *date_1665 *creator_boursault 
 
 -*who_sergent
 Messieurs, de la Justice ayant l'heur⁎ d'estre Membre…
@@ -2337,7 +2337,7 @@ Venez.
 Debonnaires Messieurs vous serez satisfaits ;
 Mais au traistre Robin daignez joindre Nicandre.
 
-**** *book_ *id_body-412 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_III12 *act_III *date_1665 *creator_boursault 
 
 -*who_robin
 Membre, nous sommes seuls, on ne peut nous entendre,
@@ -2358,7 +2358,7 @@ Menez donc à ma suite en prison la valise
 O Gigot de Justice, & traisnez avec moy
 Mon mal-heureux pacquet dans la Maison du Roy.
 
-**** *book_ *id_body-501 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV01 *act_IV *date_1665 *creator_boursault
 
 -*who_hipolite
 D'une indigne foiblesse à ma gloire mortelle
@@ -2441,7 +2441,7 @@ Je n'ay point de Second, mais du moins j'ay du cœur,
 Et de plus mon espée est de bonne longueur.
 Il est vray qu'assez foible est le bras qui seconde…
 
-**** *book_ *id_body-502 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_IV02 *act_IV *date_1665 *creator_boursault 
 
 -*who_robin
 Ah mon bon Dieu ! Pourtant je ne vois point de monde.
@@ -2548,7 +2548,7 @@ Mais tout est appaisé ?
       Je te le jure, Adieu,
 Desormais de Sergens ne crains nulle surprise.
 
-**** *book_ *id_body-503 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV03 *act_IV *date_1665 *creator_boursault
 
 -*who_robin
 Il n'a pas dit le mot concernant sa valise,
@@ -2556,7 +2556,7 @@ Elle est pourtant restée, & puissay-je mourir
 Si jamais j'ay dessein de l'aller requerir.
 Quelque fou.
 
-**** *book_ *id_body-504 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV04 *act_IV *date_1665 *creator_boursault
 
 -*who_robin
       Te voicy cauteleuse pucelle,
@@ -2603,7 +2603,7 @@ Si ce n'est que cela n'ayons point de querelle,
 Qui peut empuceler aisément dépucelle ;
 Et si tu sens de l'estre une demangeaison…
 
-**** *book_ *id_body-505 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_IV05 *act_IV *date_1665 *creator_boursault 
 
 -*who_second_nicandre
 A la fin je te quitte, ô propice maison.
@@ -2685,7 +2685,7 @@ Mais laissez moy, Jacinte, & daignez…
 Celle qui vous aymoit a le seul interest…
 Mais pour vostre mal-heur la voila qui parait.
 
-**** *book_ *id_body-506 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV06 *act_IV *date_1665 *creator_boursault
 
 -*who_jacinte
 Venez viste, Madame, autrement il m'échape,
@@ -2867,7 +2867,7 @@ Ce n'est pas sans regret que Robin t'abandonne ;
 Car quand dés ce matin je t'ay veuë en ce lieu…
 C'est ma foy plustost fait de ne dire qu'Adieu.
 
-**** *book_ *id_body-507 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV07 *act_IV *date_1665 *creator_boursault
 
 -*who_hipolite
 Si jamais tu m'aimas, cours apres ce Nicandre,
@@ -2882,7 +2882,7 @@ Mais Madame…
 Vole s'il est possible, & fay qu'on le saisisse.
 Mais que vois-je ?
 
-**** *book_ *id_body-508 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV08 *act_IV *date_1665 *creator_boursault
 
 -*who_ismene
       A vos vœux tout semble estre propice,
@@ -2934,7 +2934,7 @@ Mais tremblez de frayeur.
 -*who_hipolite
       Ayez-en l'ame atteinte.
 
-**** *book_ *id_body-509 *act_ *date_1665 *creator_boursault
+**** *book_ *id_IV09 *act_IV *date_1665 *creator_boursault
 
 -*who_ismene
 Hé bien cher Ragotin ?
@@ -3043,7 +3043,7 @@ Tu verras beau jeu.
 Croyez-m'en Hipolite, appellons vostre pere,
 Isidore !
 
-**** *book_ *id_body-510 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_IV10 *act_IV *date_1665 *creator_boursault 
 
 -*who_isidore
       Audio, cela veut dire l'oy,
@@ -3162,7 +3162,7 @@ Elle l'est par dehors.
 -*who_ragotin
       Et tu l'es par dedans.
 
-**** *book_ *id_body-601 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V01 *act_V *date_1665 *creator_boursault
 
 -*who_second_nicandre
 A voir de mon amour l'aventure bizarre,
@@ -3247,7 +3247,7 @@ Je vous en prie.
 Tu viendras me querir, & diras qu'on m'attende,
 Ou du moins si tu veux tu pourras m'appeller.
 
-**** *book_ *id_body-602 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V02 *act_V *date_1665 *creator_boursault
 
 -*who_robin
 Il a le Diable au corps de vouloir s'en aller.
@@ -3257,7 +3257,7 @@ Et de sortir d'icy le bourreau n'a dessein
 Qu'à cause qu'à present il me void dans le gain.
 Mais l'on ouvre ; l'on entre ; allons faire la queste.
 
-**** *book_ *id_body-603 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V03 *act_V *date_1665 *creator_boursault
 
 -*who_robin
 Mettez-viste, Monsieur, de l'argent dans la boëste.
@@ -3391,7 +3391,7 @@ Je descends.
       Que dis-tu, de la peine qu'il a ?
 N'as-tu pas apperceu… Mais l'ingrat le voila.
 
-**** *book_ *id_body-604 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_V04 *act_V *date_1665 *creator_boursault 
 
 -*who_ismene
 Hé bien, Nicandre ?
@@ -3503,7 +3503,7 @@ Tu ne m'écoutes pas, mais redoute mon pere,
 Adieu, je vais moy-mesme irriter sa colere,
 Dans assez peu de temps nous serons en ce lieu.
 
-**** *book_ *id_body-605 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V05 *act_V *date_1665 *creator_boursault
 
 -*who_robin
 Vous voila justement, comme il plaist au bon Dieu.
@@ -3531,7 +3531,7 @@ En approuvant ma hayne applaudy mon amour.
 Là-dessus, cher amy le Seigneur te console,
 Jusqu'au revoir.
 
-**** *book_ *id_body-606 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V06 *act_V *date_1665 *creator_boursault
 
 -*who_robin
       Et toy, le Bourreau te décole
@@ -3539,7 +3539,7 @@ Fou des plus achevez, dont les sens abestis
 Pensent… Mais des verroux j'entends le cliquetis,
 Quelqu'un entre.
 
-**** *book_ *id_body-607 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V07 *act_V *date_1665 *creator_boursault
 
 -*who_robin
       Bon jour.
@@ -3623,7 +3623,7 @@ Et puisqu'enfin Nicandre à l'aymer se resout
 Disons-luy qu'elle vienne, & l'informe de tout.
 Hipolite ! Hipolite !
 
-**** *book_ *id_body-608 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_V08 *act_V *date_1665 *creator_boursault 
 
 -*who_jacinte
       Allons-donc, paresseuse,
@@ -3654,7 +3654,7 @@ Je le sçay de science, & je t'en donne avis ;
 Jamais nul amoureux n'eut les sens si ravis ;
 Et tu vas voir.
 
-**** *book_ *id_body-609 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_V09 *act_V *date_1665 *creator_boursault 
 
 -*who_second_nicandre
       Ma lettre à la fin est escrite,
@@ -3794,7 +3794,7 @@ Ouy je le sçais Madame, & je vais à l'instant…
 Il previent mon voyage, & le voila qu'il entre.
 Voyez.
 
-**** *book_ *id_body-610 *act_ *date_1665 *creator_boursault 
+**** *book_ *id_V10 *act_V *date_1665 *creator_boursault 
 
 -*who_isidore
       Des forfaicteurs c'est donc icy le centre ?
@@ -3807,7 +3807,7 @@ De son perfide cœur la fierté me ravale,
 Et vous devez… Mais Dieux j'apperçois ma Rivale,
 Elle vient.
 
-**** *book_ *id_body-611 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V11 *act_V *date_1665 *creator_boursault
 
 -*who_ismene
       Infidelle, il est temps de parler.
@@ -3921,7 +3921,7 @@ Comme il répond. Nicandre ! Est-ce pas assez fort ?
 Ho Nicandre ! Écoutez caterreuse cervelle,
 J'ay tort.
 
-**** *book_ *id_body-612 *act_ *date_1665 *creator_boursault
+**** *book_ *id_V12 *act_V *date_1665 *creator_boursault
 
 -*who_premier_nicandre
       Qui donc encor est-ce là qui m'appelle ?

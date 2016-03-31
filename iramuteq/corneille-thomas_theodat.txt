@@ -30,7 +30,7 @@ Achevé d'imprimer pour la première fois,
 
 Le 23 Janvier 1673.
 
-**** *book_ *id_body-401 *act_ *date_1673 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1673 *creator_corneille
 
 -*who_euthar
 Du trouble⁎ où je vous voy, Seigneur, que puis-je croire ?
@@ -227,7 +227,7 @@ Et le temps qui peut tout…
 Quoy que peut-estre icy je fusse peu suspect,
 La Reyne qui paroist m'oblige à ce respect⁎.
 
-**** *book_ *id_body-402 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_I02 *act_I *date_1673 *creator_corneille 
 
 -*who_amalasonte
 Enfin Justinian n'a pû voir sans alarmes⁎
@@ -395,7 +395,7 @@ Et qu'il est dangereux, quand j'ay fait ce faux pas,
 D'embarrasser ma gloire⁎, & n'en profiter pas.
 Laissez-moy seule.
 
-**** *book_ *id_body-403 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_I03 *act_I *date_1673 *creator_corneille 
 
 -*who_gepilde
       Enfin vous le voyez, Madame ;
@@ -494,7 +494,7 @@ Ma raison qui s'alarme⁎ en demeure interdite⁎.
 Revoyons Theodat, & dés ce mesme jour
 Sçachons s'il faut éteindre, ou croire mon amour.
 
-**** *book_ *id_body-501 *act_ *date_1673 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1673 *creator_corneille
 
 -*who_valmire
 Ce pouvoir absolu que la Reyne luy donne,
@@ -710,7 +710,7 @@ Et d'un Amant fâcheux l'importun embarras…
 -*who_valmire
 Madame, je le voy, ne vous emportez pas.
 
-**** *book_ *id_body-502 *act_ *date_1673 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1673 *creator_corneille
 
 -*who_honoric
 Enfin de Theodat la gloire⁎ est assurée,
@@ -761,7 +761,7 @@ Prévenez⁎ Theodat, de peur qu'il vous prévienne⁎.
 Allez, si mon hymen est un bonheur si doux,
 Le temps doit estre cher à qui craint comme vous.
 
-**** *book_ *id_body-503 *act_ *date_1673 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1673 *creator_corneille
 
 -*who_valmire
 Qu'avez-vous dit, Madame, & par quelle injustice
@@ -798,7 +798,7 @@ Mais de ce que je voy que faut-il que je pense ?
 Est-ce pour me braver que Theodat s'avance ?
 Luy me chercher ! Valmire, éloignons-nous d'icy.
 
-**** *book_ *id_body-504 *act_ *date_1673 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1673 *creator_corneille
 
 -*who_theodat
 Quoy, Madame, il vous plaist de m'éviter ainsi ?
@@ -1071,7 +1071,7 @@ Et je vous haïrois, si lors que j'en soûpire⁎
 Vous m'aviez sçeu contraindre à force de douleurs
 A démentir l'orgueil qui cause mes malheurs.
 
-**** *book_ *id_body-505 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_II05 *act_II *date_1673 *creator_corneille 
 
 -*who_euthar
 Qu'oseray-je penser ? La Princesse vous quitte,
@@ -1109,7 +1109,7 @@ Quels périls…
 Mais, Euthar, quand on a le cœur bien enflamé,
 C'est mourir satisfait, que de mourir aimé.
 
-**** *book_ *id_body-601 *act_ *date_1673 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1673 *creator_corneille
 
 -*who_amalasonte
 Il vous estoit permis d'en croire cette estime,
@@ -1176,7 +1176,7 @@ Trouve en luy …
       Vous pouvez l'apprendre de luy-mesme,
 Le voicy.
 
-**** *book_ *id_body-602 *act_ *date_1673 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1673 *creator_corneille
 
 -*who_amalasonte
       J'assurois Honoric, que son feu
@@ -1250,7 +1250,7 @@ Que…
 -*who_amalasonte
       Je vois Ildegonde, il la faut écouter .
 
-**** *book_ *id_body-603 *act_ *date_1673 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1673 *creator_corneille
 
 -*who_amalasonte
 Approchez-vous, Princesse, & nous venez apprendre
@@ -1375,7 +1375,7 @@ A croire que mon cœur avec moy se déguise.
 S'il faut aller au Temple, allons-y de ce pas,
 J'en vais attendre l'ordre.
 
-**** *book_ *id_body-604 *act_ *date_1673 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1673 *creator_corneille
 
 -*who_theodat
       Ah, ne l'en croyez pas,
@@ -1408,7 +1408,7 @@ Qu'il demeure, autrement …
 Allez m'attendre au Temple, & sans plus différer,
 Pour ce mesme moment faites tout préparer.
 
-**** *book_ *id_body-605 *act_ *date_1673 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1673 *creator_corneille
 
 -*who_theodat
 Enfin, Madame, enfin, ma gloire⁎ vous offense,
@@ -1612,7 +1612,7 @@ Et s'il me desespere, en m'ostant ce que j'aime,
 Il doit craindre mon bras jusque sur l'Autel mesme.
 Qu'il y pense, Madame.
 
-**** *book_ *id_body-606 *act_ *date_1673 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1673 *creator_corneille
 
 -*who_amalasonte
       Il l'ose menacer !
@@ -1636,7 +1636,7 @@ Hola, Gardes, à moy .
       Allez, courez,
 Surprenez Theodat, & vous en assurez.
 
-**** *book_ *id_body-701 *act_ *date_1673 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1673 *creator_corneille
 
 -*who_gepilde
 Quoy que vous vous mettiez au dessus des alarmes⁎,
@@ -1690,7 +1690,7 @@ Et s'il luy falloit mesme un plus grand sacrifice,
 L'interest seul du Trône estant digne de moy,
 J'abandonnerois tout à ce que je lui doy.
 
-**** *book_ *id_body-702 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_IV02 *act_IV *date_1673 *creator_corneille 
 
 -*who_amalasonte
 He bien, des Factieux a-t-on calmé l'audace ?
@@ -1737,7 +1737,7 @@ Madame …
 -*who_amalasonte
       Allez, vous dis-je, & ne repliquez rien.
 
-**** *book_ *id_body-703 *act_ *date_1673 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1673 *creator_corneille
 
 -*who_amalasonte
 Par ce fatal amour dont je suis abusée,
@@ -1786,7 +1786,7 @@ Preste à sentir le coup qui devoit t'accabler,
 C'estoit lors que l'honneur t'obligeoit à trembler.
 Mais de ton cœur séduit⁎ les mouvemens rebelles …
 
-**** *book_ *id_body-704 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_IV04 *act_IV *date_1673 *creator_corneille 
 
 -*who_honoric
 Je viens vous apportez de fâcheuses nouvelles,
@@ -1848,7 +1848,7 @@ Fait ce qu'on auroit crû ne pouvoir sans miracles ;
 Du moins, forcés à voir mon Ennemy regner,
 Si j'obtiens quelque temps, je croiray tout gagner.
 
-**** *book_ *id_body-705 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_IV05 *act_IV *date_1673 *creator_corneille 
 
 -*who_amalasonte
 Est-il une infortune à ma disgrace égale,
@@ -1868,7 +1868,7 @@ Sans pitié de moy-mesme, & toute à ma vangeance…
 -*who_gepilde
 Cachez ce mouvement, le voicy qui s'avance.
 
-**** *book_ *id_body-706 *act_ *date_1673 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1673 *creator_corneille
 
 -*who_theodat
 Je ne viens point, Madame, en insolent vainqueur,
@@ -1927,7 +1927,7 @@ Contre vos interests marqué les injustices,
 Ignorez les assez, pour soufrir que ma foy⁎
 En repare l'injure & pour eux, & pour moy
 
-**** *book_ *id_body-707 *act_ *date_1673 *creator_corneille
+**** *book_ *id_IV07 *act_IV *date_1673 *creator_corneille
 
 -*who_amalasonte
 Theodat n'a jamais remporté tant de gloire⁎,
@@ -1975,7 +1975,7 @@ Montrez-luy les honneurs où vostre amour l'appelle,
 L'appas est sensible⁎, & qui sçait bien aimer,
 Avec un Sceptre en main, est en droit de charmer⁎.
 
-**** *book_ *id_body-708 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_IV08 *act_IV *date_1673 *creator_corneille 
 
 -*who_theodat
 Donc à me rendre heureux lors que tout se dispose,
@@ -2083,7 +2083,7 @@ Rien ne me peut manquer, si vous estes à moy.
 -*who_ildegonde
 Ne vous en croyez pas, vostre raison séduite⁎ …
 
-**** *book_ *id_body-709 *act_ *date_1673 *creator_corneille
+**** *book_ *id_IV09 *act_IV *date_1673 *creator_corneille
 
 -*who_euthar
 Seigneur, d'un nouveau trouble⁎ appréhendez la suite.
@@ -2116,7 +2116,7 @@ Dites que vous m'aimez, elle est en assurance.
 Vous avez là-dessus tout lieu d'estre content⁎ ;
 Si j'estois sans amour, je ne craindrois par tant.
 
-**** *book_ *id_body-801 *act_ *date_1673 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1673 *creator_corneille
 
 -*who_valmire
 L'amour, pour vostre cœur doit avoir bien des charmes⁎,
@@ -2164,7 +2164,7 @@ Soudain, quoy que Rival, il vole à son secours,
 L'arrache de ses mains, & prend soin de ses jours.
 Veux-tu que sans rien voir de tout…
 
-**** *book_ *id_body-802 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_V02 *act_V *date_1673 *creator_corneille 
 
 -*who_amalasonte
       Enfin, Princesse,
@@ -2335,7 +2335,7 @@ Ce Theodat…Mais, Dieux, faut-il que je m'en croye ?
 -*who_amalasonte
 On m'a trompée ! Ah Ciel !
 
-**** *book_ *id_body-803 *act_ *date_1673 *creator_corneille 
+**** *book_ *id_V03 *act_V *date_1673 *creator_corneille 
 
 -*who_ildegonde
       Vous vivez ? quelle joie !
@@ -2406,7 +2406,7 @@ Préviens-moy, si tu veux te sauver de ma rage ;
 Autrement, si la voye encor s'en peut trouver,
 J'ay commencé trop bien, pour ne pas achever.
 
-**** *book_ *id_body-804 *act_ *date_1673 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1673 *creator_corneille
 
 -*who_theodat
 Quelle fureur, Madame, & d'un projet semblable
@@ -2472,7 +2472,7 @@ De voir sacrifier tout ce qu'il trouve aimable ;
 Le seul pressentiment m'en fait pâlir d'effroy.
 Madame, s'il est vray…
 
-**** *book_ *id_body-805 *act_ *date_1673 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1673 *creator_corneille
 
 -*who_euthar
       Seigneur, vous estes Roy,

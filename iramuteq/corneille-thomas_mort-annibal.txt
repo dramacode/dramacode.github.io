@@ -25,7 +25,7 @@ Vostre tres-humble et tres-obeïssant serviteur,
 
 T. CORNEILLE
 
-**** *book_ *id_body-301 *act_ *date_1669 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1669 *creator_corneille
 
 -*who_attale
 Seigneur, ne croyez pas qu'un Trône m'éblouisse⁎
@@ -141,7 +141,7 @@ Mais laissez-moy me taire où vos feux parleront.
 -*who_attale
 Seigneur, vous apprendrez le succez qu'ils auront.
 
-**** *book_ *id_body-302 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_I02 *act_I *date_1669 *creator_corneille 
 
 -*who_araxe
 Me trompay-je, Seigneur, dans ce que je présume ?
@@ -239,7 +239,7 @@ A moins que de ce mal mon Fils soit le remede.
 Confident d'Annibal, s'il craint tout de ma foy⁎,
 Par de nouveaux serments il peut… mais je le voy.
 
-**** *book_ *id_body-303 *act_ *date_1669 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1669 *creator_corneille
 
 -*who_prusias
 Prince, Annibal sans doute aura quelques alarmes
@@ -403,7 +403,7 @@ Mais trouvez bon, Seigneur, que j'ose encor vous dire
 Que si pour plaire à Rome il faut trahir son rang
 Elle peut de bonne heure ordonner de mon sang.
 
-**** *book_ *id_body-304 *act_ *date_1669 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1669 *creator_corneille
 
 -*who_prusias
 Qui jamais en aimant plus que moy fut à plaindre ?
@@ -438,7 +438,7 @@ A détruire…
 -*who_araxe
       Seigneur, elle vient à propos.
 
-**** *book_ *id_body-305 *act_ *date_1669 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1669 *creator_corneille
 
 -*who_prusias
 Quoy, Madame, toûjours cet air melancolique⁎  ?
@@ -547,7 +547,7 @@ L'Univers affranchy de ses cruels Tyrans
 Est tout ce qui me flate, à ce prix je me rends.
 Adieu, Seigneur.
 
-**** *book_ *id_body-306 *act_ *date_1669 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1669 *creator_corneille
 
 -*who_prusias
       Et bien, quelle preuve plus claire
@@ -584,7 +584,7 @@ Et que…
       Lors qu'il s'agit de voir nos vœux⁎ contents,
 Promettons tout, Araxe, et laissons faire au temps.
 
-**** *book_ *id_body-401 *act_ *date_1669 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1669 *creator_corneille
 
 -*who_elise
 Le Prince doit partir ! ne t'es-tu point trompée ?
@@ -680,7 +680,7 @@ Je sents que tout à coup mon ame s'est émeuë⁎,
 Mais ce trouble, inconnu pour moy jusqu'à ce jour,
 Se donne à sa disgrace, et non pas à l'amour.
 
-**** *book_ *id_body-402 *act_ *date_1669 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1669 *creator_corneille
 
 -*who_elise
 Vous vous éloignez, Prince ?
@@ -828,7 +828,7 @@ Que du sang dont je sorts exige la fierté.
 Quelque maistre des Rois que le Senat se nomme…
 Mais Annibal…
 
-**** *book_ *id_body-403 *act_ *date_1669 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1669 *creator_corneille
 
 -*who_annibal
       J'apprens que vous allez à Rome,
@@ -850,7 +850,7 @@ Que si…
 -*who_annibal
       Laissez-nous seuls, et n'apprehendez rien.
 
-**** *book_ *id_body-404 *act_ *date_1669 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1669 *creator_corneille
 
 -*who_nicomede
 Seigneur, n'enviez point à ma reconnoissance
@@ -1035,7 +1035,7 @@ Par mes soins⁎, s'il se peut, vous épargner l'outrage,
 Je puis remettre Attale, et n'engager ma foy⁎
 Qu'aprés que Prusias… laissez-nous, je le voy.
 
-**** *book_ *id_body-405 *act_ *date_1669 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1669 *creator_corneille
 
 -*who_prusias
 Et bien, Seigneur, enfin me rendrez-vous justice ?
@@ -1182,7 +1182,7 @@ Faites les revoquer, ou sans vous en plus dire
 Chez Attale demain, Seigneur, je me retire,
 J'attens vostre réponse, et vous laisse y resver.
 
-**** *book_ *id_body-406 *act_ *date_1669 *creator_corneille
+**** *book_ *id_II06 *act_II *date_1669 *creator_corneille
 
 -*who_prusias
 A quoy le Ciel encor me veut-il reserver⁎ ?
@@ -1195,7 +1195,7 @@ J'ai parlé contre un Fils, parlons-lui contre Attale,
 Et ménageons si bien l'éclat de son couroux,
 Qu'Annibal soit reduit à n'esperer qu'en nous.
 
-**** *book_ *id_body-501 *act_ *date_1669 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1669 *creator_corneille
 
 -*who_attale
 Qu'obtiendra mon respect⁎ ? vous le voyez, Madame,
@@ -1276,7 +1276,7 @@ Ah, que plûtost sur moy le sort le plus funeste…
 -*who_elise
 J'aperçois Annibal, vous lui direz le reste.
 
-**** *book_ *id_body-502 *act_ *date_1669 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1669 *creator_corneille
 
 -*who_attale
 Seigneur, de quel espoir puis-je enfin me flater ?
@@ -1304,7 +1304,7 @@ Seigneur, j'en croy ma flame, et ne consulte plus.
 -*who_annibal
 Vous vous expliquerez⁎, voicy Flaminius.
 
-**** *book_ *id_body-503 *act_ *date_1669 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1669 *creator_corneille
 
 -*who_flaminius
 Seigneur, par le pouvoir qu'on m'a daigné commettre⁎
@@ -1405,7 +1405,7 @@ Rome attendra long-temps qu'il vous livre son Fils.
 Le voir trop s'abaisser sous vostre tyrannie
 Est tout ce qui me peut chasser de Bithynie.
 
-**** *book_ *id_body-504 *act_ *date_1669 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1669 *creator_corneille
 
 -*who_annibal
 Parlez, Seigneur, enfin qu'avez-vous resolu ?
@@ -1421,7 +1421,7 @@ Il me suffit ;
       Demain je parts avecque vous,
 Seigneur, deliberez, vous avez ma réponse.
 
-**** *book_ *id_body-505 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_III05 *act_III *date_1669 *creator_corneille 
 
 -*who_flaminius
 C'est donc ainsi qu'Attale à ses Amis renonce ?
@@ -1528,7 +1528,7 @@ Et s'il doit m'attirer les foudres du Senat
 Vous m'en donnez l'avis, j'en attendray l'éclat,
 Voyez bien seulement si j'en paroistray digne.
 
-**** *book_ *id_body-506 *act_ *date_1669 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1669 *creator_corneille
 
 -*who_prusias
 N'espargnez point mon zele en ce peril insigne,
@@ -1744,7 +1744,7 @@ Adieu, Seigneur, je voy Procule qui s'avance,
 Consultez avec luy si mon zele et ma foy⁎
 Ne peuvent meriter que l'on me traite en Roy.
 
-**** *book_ *id_body-507 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_III07 *act_III *date_1669 *creator_corneille 
 
 -*who_procule
 Seigneur, sur un secret d'une importance extréme
@@ -1755,7 +1755,7 @@ Il presse fort.
 -*who_flaminius
       Allons, il le faut écouter.
 
-**** *book_ *id_body-601 *act_ *date_1669 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1669 *creator_corneille
 
 -*who_procule
 Apres quelque chagrin que faut-il que je croye
@@ -1822,7 +1822,7 @@ Nous ostera…
 -*who_procule
       Voyez qu'il s'avance vers vous.
 
-**** *book_ *id_body-602 *act_ *date_1669 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1669 *creator_corneille
 
 -*who_flaminius
 Sans doute vous aurez d'une ame plus tranquille
@@ -1875,7 +1875,7 @@ Cependant⁎ Prusias vous montre assez de zele
 Pour meriter par vous d'en sçavoir la nouvelle,
 Vous pourrez avec luy, Seigneur, vous declarer.
 
-**** *book_ *id_body-603 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_IV03 *act_IV *date_1669 *creator_corneille 
 
 -*who_prusias
 Si mon abord vous nuit je vay me retirer,
@@ -1969,7 +1969,7 @@ Qu'y soupçonneroit-on qui pust répondre mal…
 -*who_attale
 Voyez l'Ambassadeur, j'entre chez Annibal.
 
-**** *book_ *id_body-604 *act_ *date_1669 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1669 *creator_corneille
 
 -*who_prusias
 Va, traistre, et puisqu'enfin le crime peut te plaire
@@ -2045,7 +2045,7 @@ Et comme à triompher voicy nostre grand jour,
 Perdons jusqu'à ce Fils s'il nuit à mon amour,
 Le voicy.
 
-**** *book_ *id_body-605 *act_ *date_1669 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1669 *creator_corneille
 
 -*who_prusias
       Viens sçavoir, et venger tout ensemble
@@ -2065,7 +2065,7 @@ Adieu, je vay luy faire un rempart de ma vie.
 Cependant⁎ cherche Attale, ose, il est important,
 Et si tu sçais aimer, voy le prix qui t'attend.
 
-**** *book_ *id_body-606 *act_ *date_1669 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1669 *creator_corneille
 
 -*who_elise
 Que vous disoit le Roy, Prince, et d'où naist ce trouble ?
@@ -2160,7 +2160,7 @@ Adieu, je vois Attale, il sort avec mon Pere,
 Evitez leur presence, et prenez garde à tout
 Tandis que j'apprendray ce qu'Annibal resout.
 
-**** *book_ *id_body-607 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_IV07 *act_IV *date_1669 *creator_corneille 
 
 -*who_annibal
 C'est trop voir le Destin confondre mon attente,
@@ -2285,7 +2285,7 @@ Son sang sera le sceau de la foy⁎ conjugale ;
 Mais que Flaminius, si j'accepte un Epoux,
 Se mesle insolemment de me donner à vous !
 
-**** *book_ *id_body-608 *act_ *date_1669 *creator_corneille
+**** *book_ *id_IV08 *act_IV *date_1669 *creator_corneille
 
 -*who_alcine
 Ah, Madame ! Ah, Seigneur, songez à vous défendre,
@@ -2336,7 +2336,7 @@ Vous aurez mon exemple, apprenez à le suivre.
 Pour vous quitter, Seigneur, je sçay trop mon devoir.
 L'exemple sera grand, je vay le recevoir.
 
-**** *book_ *id_body-701 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1669 *creator_corneille
 
 -*who_elise
 Quoy, je vous voy, Seigneur, et bien que l'insolence
@@ -2412,7 +2412,7 @@ Se donne pour exemple, et les enhardissant…
 -*who_prusias
 Voyez si c'est pour eux un exemple pressant.
 
-**** *book_ *id_body-702 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1669 *creator_corneille
 
 -*who_attale
 Madame, craignons tout, c'est peu qu'on vous trahisse,
@@ -2506,7 +2506,7 @@ Esclaves en effet soyez Rois en paroles,
 Envain du plein pouvoir vous deviendrez jaloux,
 S'il n'est plus d'Annibal, plus de Trônes pour vous.
 
-**** *book_ *id_body-703 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1669 *creator_corneille
 
 -*who_elise
 Et bien, Flaminius, ton Ambassade est faite ?
@@ -2599,7 +2599,7 @@ Que je sçay mieux punir que seconder un Traistre.
 Qu'on l'observe, et d'abord⁎, s'il ose rien tenter,
 Donnez ordre, Procule, à le faire arrester⁎.
 
-**** *book_ *id_body-704 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_V04 *act_V *date_1669 *creator_corneille 
 
 -*who_elise
 Seigneur, c'est donc à vous que de ce grand ouvrage
@@ -2643,7 +2643,7 @@ L'affront d'y succomber me fera moins d'injure
 Que si je partageois le Trône d'un Parjure.
 De son manque de foy⁎ quoy qu'il se soit promis…
 
-**** *book_ *id_body-705 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1669 *creator_corneille
 
 -*who_alcine
 Madame, esperez tout, les Dieux nous sont amis,
@@ -2682,7 +2682,7 @@ Sur luy, sur tous les Siens je vay faire main basse,
 Et ses jours immolez pourront vous faire voir
 S'il est dans ce qu'il ose armé de mon pouvoir.
 
-**** *book_ *id_body-706 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V06 *act_V *date_1669 *creator_corneille
 
 -*who_elise
 Poursuy, Flaminius, et pour te satisfaire
@@ -2705,7 +2705,7 @@ D'abandonner ta vie à mon ressentiment.
 -*who_flaminius
 Rome de ces mépris sçaura vous tenir compte.
 
-**** *book_ *id_body-707 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V07 *act_V *date_1669 *creator_corneille
 
 -*who_alcine
 Madame, à le braver n'estes-vous point trop prompte ?
@@ -2718,7 +2718,7 @@ Va, va, je sçay l'accueil que Rome nous prepare,
 Et consents qu'elle songe à se faire valoir
 Quand je seray d'humeur à l'aller recevoir.
 
-**** *book_ *id_body-708 *act_ *date_1669 *creator_corneille 
+**** *book_ *id_V08 *act_V *date_1669 *creator_corneille 
 
 -*who_elise
 Ah, Seigneur, c'est donc vous ?
@@ -2758,7 +2758,7 @@ Elle n'en voulut point triompher par surprise,
 Cependant⁎ aujourd'huy le crime est de ses droits,
 Et pour perdre Annibal, elle corrompt les Rois.
 
-**** *book_ *id_body-709 *act_ *date_1669 *creator_corneille
+**** *book_ *id_V09 *act_V *date_1669 *creator_corneille
 
 -*who_araxe
 Seigneur, de Prusias plaignez la destinée.

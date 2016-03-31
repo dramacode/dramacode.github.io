@@ -57,7 +57,7 @@ Février 1661, conformément à l'Arrest du Parlement du 9.
 Avril 1653.
 Signé, Josse, Syndic.
 
-**** *book_ *id_body-401 *act_ *date_1661 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1661 *creator_corneille
 
 -*who_sinorix
 Tu dis vray, cher Phaedime, on auroit peine à croire
@@ -185,7 +185,7 @@ Qu'esperant d'estre aimé si j'épouse la Reine,
 Avec tant de chaleur il luy peint mon tourment…
 Mais je la voy qui passe à son appartement.
 
-**** *book_ *id_body-402 *act_ *date_1661 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1661 *creator_corneille
 
 -*who_sinorix
 Vos yeux de vostre cœur marquant l'impatience,
@@ -334,7 +334,7 @@ Et luy devant l'éclat d'un trop juste couroux,
 Je puis estre Tyran pour d'autres que pour vous.
 Je vous laisse y penser, Madame.
 
-**** *book_ *id_body-403 *act_ *date_1661 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1661 *creator_corneille
 
 -*who_camma
       Ah, le perfide !
@@ -437,7 +437,7 @@ Un peril si pressant ne veut plus de remise,
 Il faut montrer ma haine, et que si jusqu'icy
 La Princesse abusée a creu… mais la voicy.
 
-**** *book_ *id_body-404 *act_ *date_1661 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1661 *creator_corneille
 
 -*who_hesione
 Madame, je ne sçay si dans ce qui se passe
@@ -529,7 +529,7 @@ Je la verray sans peine, et pour plus d'asseurance
 Je vous laisse Sostrate, avec qui consulter
 Des moyens les plus seurs de bien l'executer.
 
-**** *book_ *id_body-405 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_I05 *act_I *date_1661 *creator_corneille 
 
 -*who_hesione
 Viens, Sostrate, il est temps que je t'ouvre mon ame
@@ -610,7 +610,7 @@ N'est-ce tout le peril d'un ordre qui me tuë !
 Mais las ! forcé d'aimer, quels seront mes souhaits
 S'il faut trahir par tout, ou n'esperer jamais ?
 
-**** *book_ *id_body-501 *act_ *date_1661 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1661 *creator_corneille
 
 -*who_sinorix
 Je vous le dis encor, c'est à vous de resoudre.
@@ -733,7 +733,7 @@ Cessera dans ta mort de croire un parricide⁎.
 Redouble tes forfaits ; loin d'en rien⁎ redouter,
 Je vay faire des vœux afin de les haster.
 
-**** *book_ *id_body-502 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_II02 *act_II *date_1661 *creator_corneille 
 
 -*who_phaedime
 Je l'avois bien preveu, Seigneur, que la menace,
@@ -763,7 +763,7 @@ Mon cœur craint à ce prix le repos qu'il souhaite,
 Et qu'il n'est point de maux où je n'ose m'offrir
 S'il faut cesser d'aimer pour cesser de souffrir.
 
-**** *book_ *id_body-503 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_II03 *act_II *date_1661 *creator_corneille 
 
 -*who_sinorix
 Et bien ? as-tu, Sostrate, entretenu la Reine ?
@@ -809,7 +809,7 @@ Pressant…
 La Reine vient icy ! qu'en dois-je présumer ?
 Dieux, rendez-la flexible⁎, ou m'empeschez d'aimer.
 
-**** *book_ *id_body-504 *act_ *date_1661 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1661 *creator_corneille
 
 -*who_sinorix
 Madame, quel dessein en ce lieu vous amene ?
@@ -917,7 +917,7 @@ Vous, Sostrate, attendez les ordres de la Reine,
 Et songez à me faire un fidelle rapport
 Si tost que sa réponse aura reglé mon sort.
 
-**** *book_ *id_body-505 *act_ *date_1661 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1661 *creator_corneille
 
 -*who_camma
 Ton silence, Sostrate, a droit de me confondre⁎,
@@ -1096,7 +1096,7 @@ Porte luy ma réponce, et dy luy qu'il espere,
 Que mon cœur n'aime rien, et que dans peu sa foy⁎
 Peut selon ses souhaits attendre tout de moy.
 
-**** *book_ *id_body-601 *act_ *date_1661 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1661 *creator_corneille
 
 -*who_phaedime
 Ce changement, Seigneur, n'offre rien qui m'étonne⁎,
@@ -1192,7 +1192,7 @@ Fais agir ton adresse à lire dans le sien.
 -*who_phaedime
 Je connois mon devoir et n'épargneray rien.
 
-**** *book_ *id_body-602 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_III02 *act_III *date_1661 *creator_corneille 
 
 -*who_sinorix
 Dieux, dont les loix pour nous doivent estre adorables⁎,
@@ -1227,7 +1227,7 @@ Il est juste, et d'un Roy quand j'ay fait ma victime,
 S'il punit par le foudre⁎, il le doit à mon crime.
 Dieux, hâtez-en la peine, ou m'ostez ces soupçons.
 
-**** *book_ *id_body-603 *act_ *date_1661 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1661 *creator_corneille
 
 -*who_camma
 L'occasion est belle, il est seul, advançons.
@@ -1427,7 +1427,7 @@ Les sermens d'un perfide entraînent un parjure,
 En vain tu crois par là nous ébloüir⁎ les yeux,
 Qui peut perdre son Roy ne connoit point de Dieux.
 
-**** *book_ *id_body-604 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_III04 *act_III *date_1661 *creator_corneille 
 
 -*who_sinorix
 Phaedime, aurois-tu crû l'attentat⁎ d'un perfide ?
@@ -1505,7 +1505,7 @@ Je vous laisse calmer l'orage qu'il doit craindre,
 Et me remets au temps à voir qui de nous deux
 Avec plus de succez aura conduit ses vœux⁎.
 
-**** *book_ *id_body-605 *act_ *date_1661 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1661 *creator_corneille
 
 -*who_sinorix
 Princesse, tant d'orgueil lasse ma patience,
@@ -1644,7 +1644,7 @@ Songez-y.
       Tu pers temps ; puisque sa mort te plaist,
 Tonne contre tous deux, j'attendray ton arrest.
 
-**** *book_ *id_body-701 *act_ *date_1661 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1661 *creator_corneille
 
 -*who_camma
 L'Arrest en est donné ! que me dis-tu, Phenice ?
@@ -1722,7 +1722,7 @@ Songez à Sinatus, jettez l'œil sur Sostrate,
 Et craignez qu'à sa rage abandonnant vos jours,
 L'un ne soit sans vangeance, et l'autre sans secours.
 
-**** *book_ *id_body-702 *act_ *date_1661 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1661 *creator_corneille
 
 -*who_sinorix
 Madame, je sçay bien que vous devant la vie,
@@ -1835,7 +1835,7 @@ Que demain vostre hymen me vange et la punisse,
 Et que le vain effort⁎ d'un coup si malheureux
 Luy coûte la douleur de m'avoir fait heureux.
 
-**** *book_ *id_body-703 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_IV03 *act_IV *date_1661 *creator_corneille 
 
 -*who_sinorix
 Approche, et quoy qu'ait pû ta criminelle audace,
@@ -1894,7 +1894,7 @@ Qu'on se tienne éloigné par respect pour la Reine.
 Je le laisse avec vous afin que ses advis,
 S'ils flatent⁎ vos souhaits, puissent estre suivis.
 
-**** *book_ *id_body-704 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_IV04 *act_IV *date_1661 *creator_corneille 
 
 -*who_camma
 Sous quel voile trompeur le lâche se déguise !
@@ -2076,7 +2076,7 @@ Je me pers, je m'égare, et dans mon desespoir
 Je ne puis écouter ny raison, ny devoir,
 Mon amour s'abandonne au torrent qui l'entraîne.
 
-**** *book_ *id_body-705 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_IV05 *act_IV *date_1661 *creator_corneille 
 
 -*who_sostrate
 Ah, Madame, empeschez le dessein de la Reine,
@@ -2138,7 +2138,7 @@ Nommez-en les motifs injustice, bassesse,
 Pour moy qui fuis l'aigreur⁎ d'un plus long entretien,
 Je porte ma réponce, et n'écoute plus rien.
 
-**** *book_ *id_body-706 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_IV06 *act_IV *date_1661 *creator_corneille 
 
 -*who_sostrate
 Madame… elle nous quitte. O cœur impitoyable !
@@ -2183,7 +2183,7 @@ Seigneur, si la pitié que j'ay de vostre sort…
 -*who_sostrate
 Allons, et s'il se peut, qu'on me méne à la mort.
 
-**** *book_ *id_body-801 *act_ *date_1661 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1661 *creator_corneille
 
 -*who_sostrate
 Quoy, d'un si dur revers ma disgrace⁎ est suivie,
@@ -2280,7 +2280,7 @@ Ce qu'au Roy, ce qu'à tous il faut enfin apprendre,
 Dans les maux où le Ciel a voulu m'exposer,
 Qui n'espere plus rien n'a rien à déguiser.
 
-**** *book_ *id_body-802 *act_ *date_1661 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1661 *creator_corneille
 
 -*who_sinorix
 Tu parois encor, lâche, et quand ta perfidie
@@ -2356,7 +2356,7 @@ Tu trahissois ensemble et la Reine et ton Maistre,
 Puisque le coup fatal qu'elle a sçeu m'épargner,
 En me privant du jour, l'empeschoit de regner.
 
-**** *book_ *id_body-803 *act_ *date_1661 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1661 *creator_corneille
 
 -*who_sinorix
 Madame, sçavez-vous quelle esperance offerte
@@ -2520,7 +2520,7 @@ Quoy, ce parfait amour dont l'ardeur forte et tendre
 Contre la calomnie auroit dû me defendre,
 Cet hommage soûmis, ce respect dont jamais…
 
-**** *book_ *id_body-804 *act_ *date_1661 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1661 *creator_corneille
 
 -*who_phaedime
 Ah, Seigneur, les Mutins assiegent le Palais,
@@ -2554,7 +2554,7 @@ Si l'abus rend toûjours vostre haine inflexible,
 Ce cœur qui ne voit rien de si rude à souffrir⁎
 Ne prend plus que de moy les ordres de mourir.
 
-**** *book_ *id_body-805 *act_ *date_1661 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1661 *creator_corneille
 
 -*who_camma
 Quoy, le peuple peut-estre en veut à ma personne
@@ -2631,7 +2631,7 @@ Où je seray content ? Et le puis-je, Madame,
 Dans l'affreux desespoir où vous voyez ma flame⁎ ?
 Tout l'augmente, et je fais cent efforts⁎ superflus…
 
-**** *book_ *id_body-806 *act_ *date_1661 *creator_corneille 
+**** *book_ *id_V06 *act_V *date_1661 *creator_corneille 
 
 -*who_sosime
 Ah, Madame, le Roy…

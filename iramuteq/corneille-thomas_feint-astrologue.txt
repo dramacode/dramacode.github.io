@@ -17,7 +17,7 @@ Vostre tres-humble serviteur,
 
 T. CORNEILLE.
 
-**** *book_ *id_body-301 *act_ *date_1651 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1651 *creator_corneille
 
 -*who_d._fernand
 Que ce que tu me dis m'embarasse l'esprit !
@@ -151,7 +151,7 @@ J'attends à ce détour l'heure qui t'en separe.
 -*who_philipin
 Je sçay quel est mon roole, et je le joüeray bien.
 
-**** *book_ *id_body-302 *act_ *date_1651 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1651 *creator_corneille
 
 -*who_beatrix
 A quoy donc penses-tu ?
@@ -378,7 +378,7 @@ Philipin ?
 -*who_philipin
 Va, je te la promets quand nous serons en aage.
 
-**** *book_ *id_body-303 *act_ *date_1651 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1651 *creator_corneille
 
 -*who_philipin
 C'est donc là cet honneur⁎ qu'elle nous vantoit tant !
@@ -391,7 +391,7 @@ J'enrage⁎ pour le dire, et je me persuade,
 Pour peu que je l'ay teu, que j'en seray malade.
 Mais mon maistre revient, voicy ma guerison.
 
-**** *book_ *id_body-304 *act_ *date_1651 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1651 *creator_corneille
 
 -*who_d._fernand
 Et bien ? de ma disgrace⁎ as-tu sçeu la raison ?
@@ -476,7 +476,7 @@ C'est à dire…
 -*who_d._fernand
 Va donc.
 
-**** *book_ *id_body-305 *act_ *date_1651 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1651 *creator_corneille
 
 -*who_d._louis
       De vostre joye, amy, faites moy part.
@@ -568,7 +568,7 @@ Je vay sçavoir de luy ce qu'il faut que j'en croye,
 Il m'advoüera le tout si je ne suis deçeu⁎.
 Adieu, je vous diray ce que j'en auray sçeu.
 
-**** *book_ *id_body-306 *act_ *date_1651 *creator_corneille
+**** *book_ *id_I06 *act_I *date_1651 *creator_corneille
 
 -*who_d._louis
 Et quoy ? tousjours resveur⁎.
@@ -661,7 +661,7 @@ Que qui fut bon amy soit infidelle Amant.
 Je le souhaite ainsi, mais Adieu, je vous quitte,
 C'est trop vous empescher de luy rendre visite.
 
-**** *book_ *id_body-307 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_I07 *act_I *date_1651 *creator_corneille 
 
 -*who_d._lope
 En quel fascheux⁎ estat me trouvay-je reduit !
@@ -673,7 +673,7 @@ Parlant pour un amy, parlons un peu pour nous,
 Et s'il faut succomber sous le sort⁎ qui nous brave,
 Qu'elle apprenne du moins qu'elle a plus d'un esclave.
 
-**** *book_ *id_body-308 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_I08 *act_I *date_1651 *creator_corneille 
 
 -*who_leonor
 C'est un bonheur pour moy de vous avoir trouvé.
@@ -742,7 +742,7 @@ D. Lope, une autre fois soyez plus moderé.
 -*who_d._lope
 Suivons le triste Sort⁎ qui nous est preparé.
 
-**** *book_ *id_body-401 *act_ *date_1651 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1651 *creator_corneille
 
 -*who_beatrix
 Madame, de nouveau je jure de me taire,
@@ -810,7 +810,7 @@ Quitte ainsi pour un temps à se cacher de jour,
 Et sous quelque couleur⁎ feindre⁎ apres son retour.
 Mais voicy D. Fernand. O la veuë importune !
 
-**** *book_ *id_body-402 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_II02 *act_II *date_1651 *creator_corneille 
 
 -*who_d._fernand
 J'accuse avec raison ma mauvaise fortune.
@@ -1093,7 +1093,7 @@ Madame, brisez-là, j'apperçois vostre Pere.
 -*who_d._fernand
 Ah, que cette rencontre estoit peu necessaire !
 
-**** *book_ *id_body-403 *act_ *date_1651 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1651 *creator_corneille
 
 -*who_leonard
 Quelle affaire avez-vous avec ce Cavalier⁎ ?
@@ -1205,7 +1205,7 @@ Je dois suivre ses pas comme son escolier⁎.
 -*who_leonard
 Mais si vous vouliez estre un peu plus familier ?
 
-**** *book_ *id_body-404 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_II04 *act_II *date_1651 *creator_corneille 
 
 -*who_mendoce
 Monsieur.
@@ -1236,7 +1236,7 @@ Mais nous nous reverrons touchant cette science⁎,
 Et nous pourrons ensemble en faire experience.
 Adieu.
 
-**** *book_ *id_body-405 *act_ *date_1651 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1651 *creator_corneille
 
 -*who_d._fernand
       Sans ton secours le peril est passé.
@@ -1325,7 +1325,7 @@ Laissez moy, c'est par luy que je veux commencer.
 -*who_d._fernand
 Je m'abandonne à vous.
 
-**** *book_ *id_body-406 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_II06 *act_II *date_1651 *creator_corneille 
 
 -*who_d._louis
       Qui l'auroit pû penser ?
@@ -1439,7 +1439,7 @@ Adieu, mais prenez garde à ne parler de rien,
 On pourroit l'accuser d'estre Magicien⁎⁎.
 En voicy du moins⁎ un desja dedans le piege.
 
-**** *book_ *id_body-407 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_II07 *act_II *date_1651 *creator_corneille 
 
 -*who_d._lope
 En quel estonnement aujourd'huy me trouvay-je ?
@@ -1464,7 +1464,7 @@ De voir dans peu de jours tous mes desirs contents.
 Ne differons⁎ donc plus, et sans perdre courage⁎    
 Allons quoy qu'il en soit commencer cet ouvrage.
 
-**** *book_ *id_body-501 *act_ *date_1651 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1651 *creator_corneille
 
 -*who_d._louis
 Astrologue⁎⁎ excellent, miraculeux esprit,
@@ -1568,7 +1568,7 @@ En tromper deux ou trois pour vous mettre en credit.
 -*who_d._fernand
 Quoy que ce soit, d'icy vous le pourrez entendre.
 
-**** *book_ *id_body-502 *act_ *date_1651 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1651 *creator_corneille
 
 -*who_leonor
 Une telle visite a droit de vous surprendre.
@@ -1890,7 +1890,7 @@ Si vous sçavez, Monsieur, le secret où je pense,
 Que ma maistresse au moins⁎ n'en ait point cognoissance,
 Elle feroit chasser Fabrice asseurément.
 
-**** *book_ *id_body-503 *act_ *date_1651 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1651 *creator_corneille
 
 -*who_d._fernand
 Enfin m'en voilà quitte, et sans enchantement.
@@ -1986,7 +1986,7 @@ Va donc viste. Je meurs d'en sçavoir des nouvelles.
 Vous en sçaurez bien-tost, Monsieur, et des plus belles,
 La porte du jardin n'est pas bien loing d'icy.
 
-**** *book_ *id_body-504 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_III04 *act_III *date_1651 *creator_corneille 
 
 -*who_philipin
 Quel intrigue jamais a valu celuy-cy,
@@ -2003,7 +2003,7 @@ Il ne peut m'échapper soit qu'il entre ou qu'il sorte,
 N'en estant point cognu, je ne hazarde⁎ rien ;
 J'entens marcher quelqu'un, si c'est luy, tout va bien.
 
-**** *book_ *id_body-505 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_III05 *act_III *date_1651 *creator_corneille 
 
 -*who_d._juan
 Qui va là ?
@@ -2018,7 +2018,7 @@ Voylà quel est mon ordre.
       Où me vois-je reduit !
 Amy, de grace, écoute.
 
-**** *book_ *id_body-506 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_III06 *act_III *date_1651 *creator_corneille 
 
 -*who_d._juan
       Il fuit, il m'abandonne,
@@ -2039,7 +2039,7 @@ Et s'il est de sa main allons au rendez-vous,
 Et tâchons dés ce soir d'appaiser son couroux.
 Je vois de la lumiere, advançons, l'heure presse.
 
-**** *book_ *id_body-507 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_III07 *act_III *date_1651 *creator_corneille 
 
 -*who_jacinte
 Mais croyez-vous encor qu'il tienne sa promesse,
@@ -2081,7 +2081,7 @@ Mais va voir ce que c'est. D'où vient ce changement ?
 Quelle secrette horreur s'empare de mon ame ?
 Je tremble, qu'ay-je à craindre !
 
-**** *book_ *id_body-508 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_III08 *act_III *date_1651 *creator_corneille 
 
 -*who_jacinte
       Ah Madame, ah Madame,
@@ -2141,7 +2141,7 @@ N'importe, laissons-la joüyr de sa folie,
 Et cependant⁎ allons à l'autre rendez-vous
 Tâcher d'y recevoir un traitement plus doux.
 
-**** *book_ *id_body-601 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1651 *creator_corneille
 
 -*who_d._juan
 Un chagrin⁎ si profond me surprend et m'afflige,
@@ -2219,7 +2219,7 @@ Ne sçachant que vous dire, et ne pouvant me taire…
 -*who_lucrece
 Vous poursuyvrez tantost⁎, voicy venir mon Pere.
 
-**** *book_ *id_body-602 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1651 *creator_corneille
 
 -*who_leonard
 Ne voy-je pas D. Juan ? quoy, desja de retour ?
@@ -2264,7 +2264,7 @@ Pardonnez si j'en use avec tant de franchise⁎.
 -*who_leonard 
 Il n'en est point, D. Juan, qu'un procez n'authorise.
 
-**** *book_ *id_body-603 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1651 *creator_corneille
 
 -*who_leonard
 Quoy, contre ton humeur⁎ tu resveras⁎ tousjours ?
@@ -2349,7 +2349,7 @@ L'heure ?
 -*who_lucrece
       Entre neuf et dix.
 
-**** *book_ *id_body-604 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_IV04 *act_IV *date_1651 *creator_corneille 
 
 -*who_lucrece
       Quel conseil⁎ dois-je prendre ?
@@ -2373,7 +2373,7 @@ De peur que D. Fernand ne soit embarassé,
 Et que rompant commerce⁎ avec l'Astrologie⁎⁎
 Il n'apprenne au vieillard toute la tromperie.
 
-**** *book_ *id_body-605 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1651 *creator_corneille
 
 -*who_d._fernand
 En quelle extremité me vois-je icy reduit !
@@ -2430,7 +2430,7 @@ J'ay part à l'imposture, et je prens pour mon conte
 En l'osant divulguer la moitié de la honte.
 Mais y peut-on trouver rien indigne de nous ?
 
-**** *book_ *id_body-606 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1651 *creator_corneille
 
 -*who_leonor
 J'ay bien lieu, D. Fernand, de me plaindre de vous.
@@ -2493,7 +2493,7 @@ D. Juan, si sans raison j'ay douté de ta foy⁎.
 Le Ciel, ô D. Fernand, vous soit tousjours propice,
 Adieu.
 
-**** *book_ *id_body-607 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_IV07 *act_IV *date_1651 *creator_corneille 
 
 -*who_d._louis
       La pauvre Dame est toute sans malice⁎,
@@ -2512,7 +2512,7 @@ Et quelqu'un…
 -*who_d._fernand
       Ah, c'est là bien pis que Leonor.
 
-**** *book_ *id_body-608 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_IV08 *act_IV *date_1651 *creator_corneille 
 
 -*who_leonard
 D. Fernand.
@@ -2647,7 +2647,7 @@ Je l'avois fait graver. Et s'il est d'importance
 Que vous sçachiez encor cette autre circonstance,
 C'est entre neuf et dix qu'on croit l'avoir perdu.
 
-**** *book_ *id_body-609 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_IV09 *act_IV *date_1651 *creator_corneille 
 
 -*who_philipin
 Monsieur, l'autre ce soir vous doit estre rendu.
@@ -2717,7 +2717,7 @@ Quand je dis une fois, Cet homme a de l'esprit,
 C'est un sçavant du siecle, il l'est sans contredit,
 Adieu.
 
-**** *book_ *id_body-610 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_IV10 *act_IV *date_1651 *creator_corneille 
 
 -*who_d._louis
       Sans Philipin il vous la bailloit belle.
@@ -2748,7 +2748,7 @@ Mais quelqu'un entre encor.
 -*who_d._fernand
 Depuis plus de trente ans il sert⁎ chez Leonard.
 
-**** *book_ *id_body-611 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV11 *act_IV *date_1651 *creator_corneille
 
 -*who_d._fernand
 Ah, Mendoce.
@@ -2802,7 +2802,7 @@ N'en apprehende rien.
 Allons en rire un peu dedans mon cabinet ;
 Feins⁎ que je suis sorty si quelqu'un me demande.
 
-**** *book_ *id_body-612 *act_ *date_1651 *creator_corneille
+**** *book_ *id_IV12 *act_IV *date_1651 *creator_corneille
 
 -*who_mendoce
 Fay pour moy ce qu'il faut, ton maistre le commande,
@@ -2956,7 +2956,7 @@ Soit tout prest à partir.
 -*who_philipin
 Je m'y rendray, te dis-je. Ah, vieux loup, je te tiens.
 
-**** *book_ *id_body-701 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1651 *creator_corneille
 
 -*who_d._juan
 Enfin ma prison cesse, et par cette retraite⁎
@@ -2982,7 +2982,7 @@ Mes visites en vain ont flatté⁎ ton espoir,
 Pouvois-je moins te rendre, et par recognoissance
 Ne te devois-je pas un peu de complaisance ?
 
-**** *book_ *id_body-702 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1651 *creator_corneille
 
 -*who_leonard
 Je vous cherchois, D. Juan.
@@ -3123,7 +3123,7 @@ O trop bizarre effet de ma triste fortune !
 Mais que mal à propos je vois cette importune !
 Tâchons de l'éviter.
 
-**** *book_ *id_body-703 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1651 *creator_corneille
 
 -*who_leonor
       Arrestez un moment,
@@ -3159,7 +3159,7 @@ Apres ce traitement rien ne vous doit surprendre,
 Ne vous estonnez point de ce que je vous fuis,
 C'est vostre ordre, Madame, et je vous obeïs.
 
-**** *book_ *id_body-704 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1651 *creator_corneille
 
 -*who_jacinte
 Il meurt d'amour pour vous, vous le croyez encore  ? 
@@ -3194,7 +3194,7 @@ Le raport⁎ d'un Rival est rarement sincere,
 Et quoy que de D. Juan il puisse me conter,
 J'ay tousjours lieu de craindre et sujet de douter.
 
-**** *book_ *id_body-705 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V05 *act_V *date_1651 *creator_corneille
 
 -*who_d._lope
 Ne doutez plus, Madame, et croyez qu'au contraire
@@ -3264,7 +3264,7 @@ Que son bonheur détruit establisse le vostre,
 Et que perdant l'espoir dont il s'ose flatter⁎
 Il regrette ce cœur qu'il n'a sçeu meriter.
 
-**** *book_ *id_body-706 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V06 *act_V *date_1651 *creator_corneille
 
 -*who_mendoce
 Adieu, Madrid, Adieu, sans regret je te quitte,
@@ -3276,7 +3276,7 @@ A peine bien souvent y gagne-t'on le double.
 Quoy que j'aye tousjours servy par interest,
 Ma bourse est si legere…
 
-**** *book_ *id_body-707 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_V07 *act_V *date_1651 *creator_corneille 
 
 -*who_philipin
       Et bien, es-tu tout prest ?
@@ -3412,7 +3412,7 @@ J'en ay la barbe⁎ prise et le nez tout gelé.
 On vient dans le jardin, et quelqu'un a parlé.
 Medaille⁎ du vieux temps, on te la sauve belle.
 
-**** *book_ *id_body-708 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V08 *act_V *date_1651 *creator_corneille
 
 -*who_lucrece
 Quoy, si-tost découverts ! ô la triste nouvelle !
@@ -3469,7 +3469,7 @@ Ne puis-je m'échaper ?
 Cachez-vous promptement, et croyez qu'en tout cas,
 S'il faut parler pour vous, je ne me tairay pas.
 
-**** *book_ *id_body-709 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V09 *act_V *date_1651 *creator_corneille
 
 -*who_d._fernand
 Que ce jardin est beau !
@@ -3505,7 +3505,7 @@ Que nous veut cette Dame ?
 Je passe sur un lieu de l'autre differend,
 Et le bruit qu'on y fait est de beaucoup plus grand.
 
-**** *book_ *id_body-710 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_V10 *act_V *date_1651 *creator_corneille 
 
 -*who_leonor
 Ne vous estonnez point si j'ose icy paroistre,
@@ -3539,7 +3539,7 @@ Voyons tout le jardin.
 -*who_leonor
       Seroit-il point icy ?
 
-**** *book_ *id_body-711 *act_ *date_1651 *creator_corneille
+**** *book_ *id_V11 *act_V *date_1651 *creator_corneille
 
 -*who_d._juan
 Ne cherchez plus D. Juan, Madame, le voicy.
@@ -3628,7 +3628,7 @@ Va, traistre, rends hommage à l'infidelité,
 Le Ciel me vangera de ta desloyauté.
 Allons, D. Lope, allons, je vous tiendray parole.
 
-**** *book_ *id_body-712 *act_ *date_1651 *creator_corneille 
+**** *book_ *id_V12 *act_V *date_1651 *creator_corneille 
 
 -*who_d._juan
 D'une femme en couroux la menace est frivole.

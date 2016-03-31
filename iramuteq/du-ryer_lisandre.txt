@@ -58,7 +58,7 @@ Par le Roy en son Conseil,
 
 OLIER.
 
-**** *book_ *id_body-5 *date_1632 *creator_du_ryer
+**** *book_ *id_body-5 *date_1632 *creator_du_ryer 
 
 A SON AMY DU RYER SUR SON LIVRE.
 Que tu vas recueillir de gloire
@@ -107,7 +107,7 @@ Mais Hyppolite faschee de voir Caliste plus belle qu'elle, en devient jalouse, e
 Mais en fin il la recognoit, elle luy reproche son infidelité, Lisandre s'excuse si bien qu'elle en a pitié & luy promet de ne le point troubler en ses premieres amours, & qu'au contraire elle le servira ; Il passe en mesme temps un courrier de qui l'on apprend qu'un nommé Varasque doit vanger par un combat la mort de Cleandre dont on accuse Lisandre & Caliste.
 De sorte que cela oblige Lisandre & Hyppolite à se rendre promptement à la cour, ou par la deposition de celuy qui avoit tué Cleandre l'on est asseuré de l'innocence de Lisandre & Caliste, dont le Roy fait luy mesme le mariage, ainsi que celuy d'Hyppolite & de Lucidan.
 
-**** *book_ *id_body-901 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_I01 *act_I *date_1632 *creator_du_ryer
 
 -*who_lisandre
 Indiscrets mouvemens⁎ d'une Amour insensee
@@ -173,7 +173,7 @@ D'avoir un cœur humain sans l'aymer autrement !
 Sa divine douceur veut que je persevere
 Et sa pudicité ne veut pas que j'espere,
 Sa beauté me contente et me rend malheureux ;
-Mais quelqu'un interromp mes pensers amoureux.
+Mais quelqu'un interromp mes pensers amoureux. 
 
 -*who_crisante
 Cloridan outragé de la seule memoire,
@@ -215,7 +215,7 @@ Je suis donc en estat d'attendre bien long temps,
 -*who_lisandre
 Et vous et votre amy je vous rendray contens.
 
-**** *book_ *id_body-902 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_I02 *act_I *date_1632 *creator_du_ryer
 
 -*who_leon
 Clarinde je sçay bien que mon ame asservie
@@ -241,7 +241,7 @@ Je puis rendre bien tost nos deux ames contentes.
 
 -*who_leon
 Que dis tu mon soucy, quand viendra ce moment
-Que reserve l'amour à mon contentement ?
+Que reserve l'amour à mon contentement ? 
 
 -*who_clarinde
 Caliste doibt passer la nuit avec Cleandre,
@@ -300,7 +300,7 @@ Qui separe le bois d'avecques la campagne.
 Allons donq sans remise⁎, en pareils mouvemens⁎
 Un moment differé fait de grands changemens.
 
-**** *book_ *id_body-903 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_I03 *act_I *date_1632 *creator_du_ryer 
 
 -*who_crisante
 Ha Cloridan est mort ! Son corps qui se consomme
@@ -340,7 +340,7 @@ A prendre un bon conseil de Cleandre et Caliste.
 Ce sang qui fait changer à l'herbe de couleur
 Me fait apprehender quelque insigne⁎ malheur.
 Cherchons de tous costez ne laissons point de place
-Où nos pieds diligens n'impriment quelque trace.
+Où nos pieds diligens n'impriment quelque trace. 
 
 -*who_leon
 Mais n'entendez vous pas quelques tristes soupirs
@@ -366,7 +366,7 @@ Vous laisse assez de force afin de nous parler.
 Le ciel juste ennemy des desseins de l'envie
 N'a voulu prolonger les restes de ma vie,
 Que pour vous asseurer par mon sang respandu
-Que Lisandre attaqué s'est fort bien deffendu.
+Que Lisandre attaqué s'est fort bien deffendu. 
 
 -*who_leon
 L'attainte de ce coup ne peut estre mortelle,
@@ -391,7 +391,7 @@ Quel chemin a-t-il pris ?
       Je ne vous le puis dire.
 
 -*who_leon
-Dites nous pour le moins où Cloridan expire.
+Dites nous pour le moins où Cloridan expire. 
 
 -*who_crisante
 Cloridan icy pres hors d'espoir de guerir
@@ -426,7 +426,7 @@ Luy serve de ruisseau pour passer chez les morts.
 Mais leur corps nous demande apres cette advanture
 La derniere prison où nous met la nature.
 
-**** *book_ *id_body-904 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_I04 *act_I *date_1632 *creator_du_ryer
 
 -*who_cleandre
 Puis qu'il faut obéïr à la necessité
@@ -461,7 +461,7 @@ Vous me rendrez ingrat en m'obligeant⁎ ainsi.
 Vous voulez de la sorte augmenter son soucy.
 
 -*who_cleandre
-Je reviendray bien tost.
+Je reviendray bien tost. 
 
 -*who_lisandre
       Faut-il que je vous quitte ?
@@ -557,7 +557,7 @@ Donne à vostre départ la faveur de son ombre.
 Helas ! si j'ay commis un crime en combattant,
 J'en souffre dans l'esprit la peine en vous quittant.
 
-**** *book_ *id_body-905 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_I05 *act_I *date_1632 *creator_du_ryer 
 
 -*who_beronte
 Ou courrez vous si tard ?
@@ -578,7 +578,7 @@ Et bien souvent il est moins croyable qu'un songe.
 Mais allons chez Cleandre, et je vous feray voir
 Ce que la verité fera par tout sçavoir.
 
-**** *book_ *id_body-906 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_I06 *act_I *date_1632 *creator_du_ryer 
 
 -*who_leon
 En fin sans estre veu me voicy sur la place
@@ -621,7 +621,7 @@ Qui vous a fait entrer ? au secours.
       furieux⁎,
 Nous sçaurons le subjet qui t'ameine en ces lieux,
 Ou de ta propre espee : hà le traistre me tuë,
-Et son mauvais dessein dessus moy s'effectue.
+Et son mauvais dessein dessus moy s'effectue. 
 
 -*who_caliste
 Arrestez ce cruel, helas ! je parle en vain,
@@ -711,7 +711,7 @@ A verser dessus moy ce qu'ils ont de desastres,
 Je tireray ce bien de mes maux apparans⁎
 Que je ne sçaurois pas en craindre de plus grands.
 
-**** *book_ *id_body-1001 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_II01 *act_II *date_1632 *creator_du_ryer
 
 -*who_lisandre
 Depuis le triste jour que tu me vins apprendre
@@ -804,7 +804,7 @@ Allons donq.
       En allant je vous feray sçavoir
 La place destinee⁎ où je vous doy revoir.
 
-**** *book_ *id_body-1002 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_II02 *act_II *date_1632 *creator_du_ryer 
 
 -*who_le_boucher
 Dy ce que tu voudras, que ton esprit s'en pique,
@@ -844,7 +844,7 @@ Evitons les moyens de nous en repentir.
 
 -*who_le_boucher
 Alison, il vaut mieux à ce point se reduire
-Que de se conserver un amy qui peut nuire.
+Que de se conserver un amy qui peut nuire. 
 
 -*who_la_bouchere
 Qui peut nuire, coment ?
@@ -870,7 +870,7 @@ Cognoissez⁎ vos amis.
 
 -*who_la_bouchere
       Nous les cognoissons bien,
-Retirez vous d'icy vous n'y gaignerez rien.
+Retirez vous d'icy vous n'y gaignerez rien. 
 
 -*who_lisandre
 Cette chayne de prix.
@@ -908,7 +908,7 @@ Qui me charme l'esprit et me rend plus traitable.
 Mais dites qu'il avoit dans ses mains enfermé
 Plustost qu'en son humeur ce qui vous a charmé.
 
-**** *book_ *id_body-1003 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_II03 *act_II *date_1632 *creator_du_ryer
 
 -*who_lisandre
 Caliste.
@@ -918,7 +918,7 @@ Caliste.
 
 -*who_lisandre
       Prest à vous faire entendre
-Le dessein du bonheur⁎, que vous devez attendre.
+Le dessein du bonheur⁎, que vous devez attendre. 
 
 -*who_caliste
 Le Geolier me l'a dit, mais helas ! son effet
@@ -945,7 +945,7 @@ Si vous n'esperez rien de la rigueur d'un pere
 Vous pouvez esperer des douceurs d'une mere.
 
 -*who_caliste
-Mais que deviendrez vous ?
+Mais que deviendrez vous ? 
 
 -*who_lisandre
       J'iray chez mes parens
@@ -974,7 +974,7 @@ Monsieur descendez donq, attendez à la porte
 Que j'ouvre le guichet, et que Madame sorte.
 
 -*who_lisandre
-Que je suis glorieux⁎ de t'obeyr ainsy.
+Que je suis glorieux⁎ de t'obeyr ainsy. 
 
 -*who_le_boucher
 Le voicy qui descend, il faut l'attendre icy.
@@ -1002,12 +1002,12 @@ Ha Madame !
 -*who_le_geolier
       Monsieur faisons ce qu'il faut faire,
 Cherchons la seureté qui nous est necessaire.
-Nous sommes tous perdus si quelqu'un nous entend.
+Nous sommes tous perdus si quelqu'un nous entend. 
 
 -*who_lisandre
 Allons donc, le carosse icy prés nous attend.
 
-**** *book_ *id_body-1004 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_II04 *act_II *date_1632 *creator_du_ryer
 
 -*who_lidian
 Quelques difficultez, que tout le monde fasse
@@ -1027,7 +1027,7 @@ Je te dis mon dessein en toute confidence ;
 Mais afin d'en parler avec plus de loisir
 Allons chercher un lieu selon nostre desir.
 
-**** *book_ *id_body-1005 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_II05 *act_II *date_1632 *creator_du_ryer
 
 -*who_dorilas
 O Deplorable fille ! et moy plus deplorable
@@ -1055,7 +1055,7 @@ J'irois aveq son sang reparer cet outrage.
 -*who_orante
 Vous changeriez bien tost d'humeur et de courage.
 Au charme⁎ presenté de ses perfections⁎
-Vôtre cœur s'ouvriroit à d'autres passions⁎.
+Vôtre cœur s'ouvriroit à d'autres passions⁎. 
 
 -*who_page
 Monsieur un messager qui semble estre assez triste
@@ -1077,7 +1077,7 @@ Provoque la pitié d'un pere sans esgal
 Et vous aussi, Madame, à qui le nom de mere
 Ne permet pas d'avoir des transports de colere,
 Recevez cette lettre, et voyez si le Ciel
-Peut traiter un esprit avecques plus de fiel.
+Peut traiter un esprit avecques plus de fiel. 
 
 -*who_dorilas
 Qu'elle n'espere rien de ma douceur extreme
@@ -1128,7 +1128,7 @@ Dieux que l'instinct est fort en voulant que je pleure !
 -*who_orante
 Que cét evenement a troublé ma raison !
 Quoy Lisandre a tiré Caliste de prison !
-Elle est donq de ses pas la compagne fidelle ?
+Elle est donq de ses pas la compagne fidelle ? 
 
 -*who_lisandre
 S'il n'est pas dans son cœur, il n'est plus avec elle.
@@ -1275,7 +1275,7 @@ Si quelque médisant vous blasme et vous accuse.
 
 -*who_dorilas
 Le devoir paternel, qui doibt suivre les loix,
-Ne nous excuse pas du mespris de leurs droits.
+Ne nous excuse pas du mespris de leurs droits. 
 
 -*who_lisandre
 Mais les plus saintes loix n'apprenent pas au monde
@@ -1349,7 +1349,7 @@ Cette fuitte l'accuse et la rend criminelle.
 La voicy, suivez moy ; qu'elle vienne aveq vous,
 Que l'amour des enfans a de pouvoir sur nous !
 
-**** *book_ *id_body-1101 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_III01 *act_III *date_1632 *creator_du_ryer
 
 -*who_adraste
 Mon fils, unique appuy du bonheur⁎ de ma vie,
@@ -1427,7 +1427,7 @@ En peut produire encor les merveilleux effets⁎.
 
 -*who_lisandre
 Pour les revoir encor dans le siecle où nous sommes,
-Il faudroit que son dos portast les mesmes hommes.
+Il faudroit que son dos portast les mesmes hommes. 
 
 -*who_adraste
 Ne me contestez plus, et suivez mes conseils
@@ -1453,7 +1453,7 @@ Dont l'ardeur fera voir celle de mes Amours.
 
 -*who_adraste
 Tenez vous donq ainsi dans le soing⁎ de me plaire,
-Et mon affection en sera le salaire.
+Et mon affection en sera le salaire. 
 
 -*who_lisandre
 O pere sans pitié, tu n'as jamais appris
@@ -1499,7 +1499,7 @@ J'ayme mieux asseurer⁎ mes amours, que moy mesme.
 J'iray chez Hyppolite afin de tesmoigner
 Que je n'en approchay que pour m'en esloigner.
 
-**** *book_ *id_body-1102 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_III02 *act_III *date_1632 *creator_du_ryer
 
 -*who_hyppolite
 Ne dis plus que ton cœur a triomphé des charmes⁎
@@ -1547,7 +1547,7 @@ J'en touche le subjet, et je l'ay dans le sein⁎.
 -*who_hyppolite
 Que vous estes sçavant à cacher un dessein.
 Vous me voulez montrer que si je me sçay plaindre
-Vous sçavez en Amour encores mieux vous feindre.
+Vous sçavez en Amour encores mieux vous feindre. 
 
 -*who_lisandre
 C'est assez que vos yeux me blessent tous les jours
@@ -1595,7 +1595,7 @@ Et bien que mon Amour soit certain de vos feuz
 Vous pouvez en donner cette preuve à mes veuz.
 
 -*who_hyppolite
-Il n'est rien que pour vous je ne voulusse faire.
+Il n'est rien que pour vous je ne voulusse faire. 
 
 -*who_lisandre
 Feignez donq d'avoir à la Cour quelque affaire,
@@ -1636,7 +1636,7 @@ Há que ce triste mot a pour moy de tourmens !
 La crainte d'augmenter la douleur qui me touche
 M'empesche de tirer un adieu de ma bouche.
 
-**** *book_ *id_body-1103 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_III03 *act_III *date_1632 *creator_du_ryer 
 
 -*who_lidian
 En fin malgré les soings de tous les envieux
@@ -1654,7 +1654,7 @@ Et que vostre discours fait naistre de plaisirs !
 
 -*who_lidian
 A la charge pourtant qu'apres sa longue absence
-Il viendra dans un mois prouver son innocence.
+Il viendra dans un mois prouver son innocence. 
 
 -*who_adraste
 Coment ?
@@ -1680,7 +1680,7 @@ Ne le verray je point ?
       Il est chez Hyppolite,
 
 -*who_lidian
-Desja passionné d'avoir veu son merite.
+Desja passionné d'avoir veu son merite. 
 
 -*who_adraste
 Ce n'est pas tant l'amour, que la civilité,
@@ -1709,7 +1709,7 @@ Pour aller ?
 Permettez moy de voir cet escrit seulement.
 
 -*who_lidian
-Lidian est à vous, usez en librement.
+Lidian est à vous, usez en librement. 
 
 -*who_adraste
 Cette lettre m'apprend qu'une petite affaire
@@ -1736,7 +1736,7 @@ Exercer à l'envy sa force et son adresse.
 -*who_adraste
 Si vous n'aviez pas pris ce genereux⁎ dessein
 Moy mesme je voudrois le mettre en vostre sein,
-Allez et que le ciel seconde vostre envie.
+Allez et que le ciel seconde vostre envie. 
 
 -*who_lidian
 Et qu'il prene tousjours le soing de vostre vie.
@@ -1759,7 +1759,7 @@ Retenoit autrepart sa guerriere valeur ,
 La mienne fera voir au combat qu'on propose
 Que le Pere et le Fils sont une mesme chose.
 
-**** *book_ *id_body-1104 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_III04 *act_III *date_1632 *creator_du_ryer 
 
 -*who_caliste
 Helas ! qu'ay-je entendu qui porte dans mon sein
@@ -1842,7 +1842,7 @@ Et par ce mot d'escrit le perfide m'invite
 D'assister à sa noce et de voir Hyppolite.
 
 -*who_le_valet
-Que je lis de transports sur son front irrité !
+Que je lis de transports sur son front irrité ! 
 
 -*who_caliste
 Que tu desguises bien ton infidelité !
@@ -1936,7 +1936,7 @@ Pour les faire servir aux fureurs de la guerre.
 Approuve mon dessein, j'en viendray bien à bout,
 Et sçache que l'amour nous rend propres à tout.
 
-**** *book_ *id_body-1201 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_IV01 *act_IV *date_1632 *creator_du_ryer
 
 -*who_le_roi
 En fin voicy le jour où le Ciel equitable
@@ -2033,7 +2033,7 @@ Accorde le hazard avecque l'equité.
 
 -*who_le_roi
 Suivez donq le destin dont la force immortelle
-Voulut que vostre bras finît cette querelle.
+Voulut que vostre bras finît cette querelle. 
 
 -*who_lucidan
 Cheres ombres jadis l'ornement des mortels
@@ -2103,7 +2103,7 @@ Un si láche attentat⁎ envers vos deux amis ?
 
 -*who_lucidan
 Quel ? je n'en sçache point, mais l'honneur me convie
-De vanger mes amis, ou de perdre la vie.
+De vanger mes amis, ou de perdre la vie. 
 
 -*who_le_juge_de_camp
 Ce discours nous fait voir l'injuste passion⁎
@@ -2129,7 +2129,7 @@ Il me faut retirer.
 
 -*who_le_roi
       Un tel evenement
-Ne met en mon esprit que de l'estonnement⁎.
+Ne met en mon esprit que de l'estonnement⁎. 
 
 -*who_lucidan
 Est ce mars ou venus ? la force de ses armes
@@ -2264,7 +2264,7 @@ Le bien ne me vient voir qu'avecque des espines ;
 Le retour de Caliste appaisa mes souspirs
 Mais sa fuitte a produit de nouveaux desplaisirs ;
 Au point qu'on veut l'ayder, helas ! elle se tuë.
-Dieux que reservez vous à mon ame abatuë ?
+Dieux que reservez vous à mon ame abatuë ? 
 
 -*who_le_valet
 Sa douleur me contraint de l'ayder au besoing.
@@ -2293,13 +2293,13 @@ Luy fournit de⁎ retraite en son desguisement.
 
 -*who_dorilas
 Mon fils sans differer cherchez cette insensée
-Qu'un furieux⁎ amour a vivement blessée.
+Qu'un furieux⁎ amour a vivement blessée. 
 
 -*who_le_valet
 Pour moy sans retarder selon sa volonté
 Je chercheray Lisandre où les eaux l'ont jetté.
 
-**** *book_ *id_body-1202 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_IV02 *act_IV *date_1632 *creator_du_ryer
 
 -*who_caliste
 En fin tous mes soupçons changez en assurance⁎
@@ -2347,7 +2347,7 @@ Ne choisis point d'endroits, il est partout coupable.
 
 -*who_lidian
 C'est sans doute en ce lieu, qu'elle vient se cacher,
-Voyla le logement, où je la doy chercher.
+Voyla le logement, où je la doy chercher. 
 
 -*who_caliste
 Qu'ay-je veu ! c'est mon frere.
@@ -2377,7 +2377,7 @@ Helas ! qu'avez vous dit ?
 
 -*who_lidian
       Suivez moy seulement,
-Et j'en diray bien plus pour vostre allegement.
+Et j'en diray bien plus pour vostre allegement. 
 
 -*who_caliste
 Mais pourray-je paraistre, où la raison m'accuse ?
@@ -2391,7 +2391,7 @@ L'amour est le bourreau, qui me fera mourir.
 -*who_lidian
 Si vous avez du mal, laissez vous secourir.
 
-**** *book_ *id_body-1203 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_IV03 *act_IV *date_1632 *creator_du_ryer
 
 -*who_lisandre
 Helas ! au mesme instant qu'une belle esperance
@@ -2493,7 +2493,7 @@ Briseront tous les fers, qui chargent l'innocence.
 Rentrons dedans l'esquif⁎, les ondes et les Cieux
 N'ont plus qu'un front riant qui rasseure nos yeux.
 
-**** *book_ *id_body-1204 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_IV04 *act_IV *date_1632 *creator_du_ryer
 
 -*who_lucidan
 Jamais tant de beautez ne forcerent mon ame
@@ -2609,7 +2609,7 @@ Precipite le jour au bout de ses travaux⁎,
 Et l'effet⁎ sans pareil d'une amour sans pareille
 S'il ne l'emplit de feu, l'emplira de merveille⁎.
 
-**** *book_ *id_body-1301 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_V01 *act_V *date_1632 *creator_du_ryer
 
 -*who_lisandre
 Apres tant de soucis, et des maux si puissans
@@ -2680,7 +2680,7 @@ Et ma voix aujourd'huy ne sçauroit pas nier
 D'avoir feint que mon cœur estoit son prisonnier.
 
 -*who_hyppolite
-Há traistre.
+Há traistre. 
 
 -*who_lisandre
       Mais jugez pour ma flame eternelle
@@ -2703,7 +2703,7 @@ Vous la devez trouver dans mes embrassemens.
 -*who_hyppolite
 Que l'on croid aysément tout ce que l'on desire !
 Cruel ne pense plus que Caliste respire,
-Tu vois son homicide⁎.
+Tu vois son homicide⁎. 
 
 -*who_lisandre
       Helas !
@@ -2797,7 +2797,7 @@ Est un triste loyer de vostre inquietude,
 Mais lors que la raison vous forcera de voir
 Que ceux qui sont liez ont bien peu de pouvoir,
 Tous vos ressentimens excuseront mon crime,
-Qu'une amour violente a rendu legitime.
+Qu'une amour violente a rendu legitime. 
 
 -*who_hyppolite
 J'accuseray tousjours vos discours criminels
@@ -2863,7 +2863,7 @@ Et de vivre avec vous dedans mon souvenir,
 Et je promets en fin au secours de vostre ame
 Tout autant d'amitié que vous avez de flame.
 Mais un homme incognu s'avance devers nous,
-Il s'en faut informer, Amy d'où venez vous ?
+Il s'en faut informer, Amy d'où venez vous ? 
 
 -*who_courrier
 Je reviens de la Cour,
@@ -2890,7 +2890,7 @@ En qualité d'amant !
 
 -*who_hyppolite
       Puis au siecle où nous sommes
-La verité se trouve aux paroles des hommes.
+La verité se trouve aux paroles des hommes. 
 
 -*who_courrier
 Et je croy que l'Hymen uniroit leurs amours
@@ -2942,7 +2942,7 @@ Et qu'amour ne peut plus en produire de mesme.
 Allons, Lisandre, allons, et souffrez⁎ de ce pas
 Que ma voix vous deffende, aussi bien que mon bras.
 
-**** *book_ *id_body-1302 *act_ *date_1632 *creator_du_ryer
+**** *book_ *id_V02 *act_V *date_1632 *creator_du_ryer 
 
 -*who_le_roi
 Aussy tost que le Ciel eut fait naistre les princes
@@ -2976,7 +2976,7 @@ Que je sçay conserver ce que j'ay mis au jour.
 Et la justice mesme au combat occupée
 Pour vanger l'innocent me preste son espée ;
 Le tiltre d'innocent, non pas celuy de fils
-M'oblige à soustenir tes orgueilleux deffis.
+M'oblige à soustenir tes orgueilleux deffis. 
 
 -*who_hyppolite
 Cessez de prodiguer vos jours et vos courages
@@ -3000,7 +3000,7 @@ Caliste est innocente, et Lisandre innocent.
 Cette main criminelle au desceu de Lisandre
 A rempli le tombeau des cendres de Cleandre,
 Et si quelque coupable a le feu mérité
-L'on doit ce chastiment à ma meschanceté.
+L'on doit ce chastiment à ma meschanceté. 
 
 -*who_caliste
 Que cét evenement me trouble et me console !
@@ -3050,7 +3050,7 @@ La reparation du crime que j'ay fait.
 Ne parlons plus de crime où paroist l'innocence.
 
 -*who_dorilas
-Et qu'un parfait accord prenne icy sa naissance.
+Et qu'un parfait accord prenne icy sa naissance. 
 
 -*who_adraste
 Mon fils que je t'embrasse⁎ apres tant de soupirs
@@ -3076,7 +3076,7 @@ Sans sçavoir endurer des flames et des fers.
 
 -*who_caliste
 Lisandre assurez⁎ vous, qu'une jalouse flame
-Laisse aujourd'huy l'amour paisible dans mon ame.
+Laisse aujourd'huy l'amour paisible dans mon ame. 
 
 -*who_le_roi
 Donq apres tant de maux Hymen doit à son tour
@@ -3104,7 +3104,7 @@ Aspirent librement à de si doux liens.
 
 -*who_lucidan
 Que ces liens plairont à mon ame asservie.
-Si la belle Hyppolite y veut joindre sa vie.
+Si la belle Hyppolite y veut joindre sa vie. 
 
 -*who_hyppolite
 Le respect que je doibs à vostre Majesté

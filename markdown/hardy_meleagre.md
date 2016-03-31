@@ -13,8 +13,7 @@ Tragédie
 Alexandre Hardy
 
 A PARIS, chez JACQUES QUESNEL, ruë S. Jacques aux Colombes, pres S. benoist M. DC/. XXIIII. Avec Privilege du Roy.
-Édition critique établie par Boucebia Maghda dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (2000-2001).
+Édition critique établie par Boucebia Maghda dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000-2001).
 
 
 # Introduction générale
@@ -1456,11 +1455,11 @@ Ce foudre découvert, à ses pas violens,
 Toute difficulté, toute demeure ôtée,  
 Ne faudrez [122] de donner l'adresse souhaitée,  
 Quiconque plus expert fera mieux son devoir [123],  
-Un salaire Royal certain de recevoir.  
+Un salaire Royal certain de recevoir.   
 
 
 ## ACTE II.
-ATALANTE, CHŒUR DE FILLES, THESÉE,MELEA GRE, PIRITHOIS, LINCÉE, PLEXIPE, TOXÉE.
+ATALANTE, CHŒUR DE FILLES, THESÉE,MELEAGRE, PIRITHOIS, LINCÉE, PLEXIPE, TOXÉE.
 
 
 
@@ -1582,7 +1581,7 @@ Nos saints vœux exaucez luy couronne le chef⁎.
 
 
 ### SCENE II.
-THESÉE, MELEAGRE, PIRITHOIS, LINCÉE, PLE XIPE, TOXÉE, ATALANTE, VENEUR.
+THESÉE, MELEAGRE, PIRITHOIS, LINCÉE, PLEXIPE, TOXÉE, ATALANTE, VENEUR.
 
 
     THESÉE.
@@ -1625,7 +1624,7 @@ Qu'un brutal adversaire en trahison te nuit ;
 Or⁎ me feray-je fort sa retraite conneuë,  
 De luy clôre les yeux d'une éternelle nuë,  
 Ton labeur épargné brave Cecropien [154],  
-Le chef d'œuvre second du pere olimpien [155],  
+Le chef d'œuvre second du pere olimpien [155],   
 
     LINCÉE.
 Pourveu que seurement conduit dessur⁎ ses erres⁎,  
@@ -1827,7 +1826,7 @@ Une premiere gloire entre les immortels.
 De riches jeux de prix, celebrez chaque année,  
 Jusqu'à la fin du monde honorent ce bien-fait,  
 Mais quelqu'un survenu sçait notre destinée,  
-Bonne ou mauvaise, ainsy que la chasse aura fait.  
+Bonne ou mauvaise, ainsy que la chasse aura fait.   
 
     MESSAGER. [180]
 Citoyens, qu'on éleve un long io⁎ de joye,  
@@ -1935,7 +1934,7 @@ Fussent au sçeptre autant qu'en vertus heritiers.
 
 
 ### SCENE II.
-MELEAGRE, THESÉE, PIRITHOIS, LINCÉE, PLE XIPE, TOXÉE, IDMON.
+MELEAGRE, THESÉE, PIRITHOIS, LINCÉE, PLEXIPE, TOXÉE, IDMON.
 
 
     MELEAGRE.
@@ -2098,7 +2097,7 @@ Mercure député de si bonnes nouvelles [217].
 
     MELEAGRE.
 Nous, l'hommage rendu que desirent les Cieux,  
-Du festin, passerons au repos gracieux.  
+Du festin, passerons au repos gracieux.   
 
 
 ## ACTE IV.
@@ -2223,7 +2222,7 @@ Mais resoute [226], avisons de ne plus differer.
 Suy-moy ne dépliant [227] la force qu'à l'extrême,  
 Possible⁎ à la raison docile d'elle même,  
 Qu'outre l'espoir conçeu la chose reüssit,  
-Chemin qui moins fâcheux nos rigueurs acourcit.  
+Chemin qui moins fâcheux nos rigueurs acourcit.   
 
 
 ### SCENE II.
@@ -2378,7 +2377,7 @@ Que de sçavoir méler les prieres aux larmes.
 
     ATALANTE.
 Cela sufit, alons comme pleine d'effroy,  
-De ce pas, nous jeter ensemble aux piez du Roy.  
+De ce pas, nous jeter ensemble aux piez du Roy.   
 
 
 ### SCENE III.
@@ -2589,7 +2588,7 @@ Tu ne voudrois meurtrir un Roy qui te reclame.
 Jaçoit que tel honeur passe ma qualité⁎,  
 Son refus sentiroit une brutalité,  
 Trop heureuse, le Ciel du tout⁎, en tout propice⁎,  
-Si notre chaste hymen eut pris meilleur auspice.  
+Si notre chaste hymen eut pris meilleur auspice.   
 
     MELEAGRE.
 Un acte de justice à ce commencement,  
@@ -2647,7 +2646,7 @@ Ma vindicte⁎, à l'effet du dessein qu'elle pense.
 
     NOURICE.
 Enfant, & Roy, bons Dieux ! perdez le souvenir,  
-De ce qui ne peut plus aussy bien n'avenir⁎.  
+De ce qui ne peut plus aussy bien n'avenir⁎.   
 
     ALTÉE.
 N'exiger du forfait un suplice capable,  
@@ -2683,7 +2682,7 @@ Un beau pair n'acoupla qui fut plus vertueux.
 
     ALTÉE.
 Tu leur seras en fin partisane commune,  
-Et fautrice du coup qui cause ma rancune.  
+Et fautrice du coup qui cause ma rancune.   
 
     NOURICE.
 Vos germains⁎ agresseurs précipitent leur mort,  
@@ -2810,7 +2809,7 @@ Où la parque le va ravir tacitement⁎.
 Done je te suplie immortelle cohorte,  
 Que ton ire⁎ sur moy victime se transporte,  
 Que mon époux sauvé, tu ne m'épargnes pas,  
-A l'effroyable horreur du plus cruel trépas.  
+A l'effroyable horreur du plus cruel trépas.   
 
 
 ### SCENE DERNIERE.
@@ -3423,7 +3422,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [57] Aristote, *La Poétique, op. cit.*, 1453a.
 
-[58] Rigal affirme : « nous y trouvons quantités de mots de la vieille langue, qui durent produire l'effet de revenants ridicules aux yeux des lecteurs puristes en 1623. Mais tandis que les poètes de la Pléiade étaient au moins pour la plupart, de laborieux écrivains, limant et polissant leurs vers, soigneux de la langue aussi bien qu'épris d'harmonie, Hardy était un improvisateur besogneux qui ne pouvait laisser retarder sa production ni par les lois du vers ni par celle du langage, qui  se trouvait souvent plus simple de créer le mot ou la tournure dont il avait besoin que de les chercher. » Ainsi dans notre texte le féminin partisane était archaïque. De même, le verbe butiner qui est actif chez Hardy est également archaïque. *Op. cit.*, p. 562-62.
+[58] Rigal affirme : « nous y trouvons quantités de mots de la vieille langue, qui durent produire l'effet de revenants ridicules aux yeux des lecteurs puristes en 1623. Mais tandis que les poètes de la Pléiade étaient au moins pour la plupart, de laborieux écrivains, limant et polissant leurs vers, soigneux de la langue aussi bien qu'épris d'harmonie, Hardy était un improvisateur besogneux qui ne pouvait laisser retarder sa production ni par les lois du vers ni par celle du langage, qui se trouvait souvent plus simple de créer le mot ou la tournure dont il avait besoin que de les chercher. » Ainsi dans notre texte le féminin partisane était archaïque. De même, le verbe butiner qui est actif chez Hardy est également archaïque. *Op. cit.*, p. 562-62.
 
 [59] Ronsard, *op. cit.*, p. 61.
 
@@ -3485,7 +3484,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [88] La tournure plût à quelqu'un est souvent accompagnée d'un infinitif au XVII*e* siècle tandis que la langue moderne la construit de préférence avec une proposition amenée par que indiquant plus nettement le sujet du verbe
 
-[89] Les Lares sont les dieux du  foyer ; ils sont les protecteurs des villes et des peuples et protégeaient les enclos domestiques. L'accord du participe passé « violez » au vers 97 est correct.
+[89] Les Lares sont les dieux du foyer ; ils sont les protecteurs des villes et des peuples et protégeaient les enclos domestiques. L'accord du participe passé « violez » au vers 97 est correct.
 
 [90] La langue du XVII*e* siècle se servait régulièrement de la préposition de après un verbe passif pour désigner l'auteur d'une action. Il faut comprendre : par le monstre carnacier qui fait que chacun pleure. 
 
@@ -3513,7 +3512,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [102] Ellipse de la conjonction que.
 
-[103] Un sanglier quartanier est selon Huguet un sanglier de quatre ans alors qu'un sanglier miré est une bête ayant plus de sept ans. La structure du vers semble confirmer ce sens. Le double renchérissement figure l'augmentation. le veneur est incapable de donner une affirmation nette de l'âge du sanglier à tel point qu'il reste admiratif devant lui. D'autre part on peut également supposer que le sanglier a véritablement quatre ans, et que la nourriture excessive qu'il dévore l'a engrossi à tel point qu'il paraît désormais avoir sept ans.  
+[103] Un sanglier quartanier est selon Huguet un sanglier de quatre ans alors qu'un sanglier miré est une bête ayant plus de sept ans. La structure du vers semble confirmer ce sens. Le double renchérissement figure l'augmentation. le veneur est incapable de donner une affirmation nette de l'âge du sanglier à tel point qu'il reste admiratif devant lui. D'autre part on peut également supposer que le sanglier a véritablement quatre ans, et que la nourriture excessive qu'il dévore l'a engrossi à tel point qu'il paraît désormais avoir sept ans. 
 
 [104] Ressemble régit une construction transitive directe dans la langue du XVII*e* siècle. Il est devenu transitif direct en français moderne 
 
@@ -3617,11 +3616,11 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [154] Nous ne pouvons comprendre ces deux derniers vers qu'en estimant que Pirithois s'adresse à Thésée qualifié de descendant d'Athènes. Ce passage ne peut être attribué à Méléagre qui n'est pas un descendant des rois d'Athènes et qui vient d'être qualifié d'Aetolien. 
 
-[155] le terme « chef-d'oeuvre » semble être apposé à celui de Cécropien. Pirithois s'adresse donc à son ami Thésée. Le premier chef d'oeuvre est probablement Hercule, fils de Jupiter. Pirithois assimile donc Thésée, ce grand héros à un second chef d'oeuvre de Jupiter. L'expression « ton labeur épargné »,  a la valeur d'un ablatif absolu latin ; il faut comprendre : ta peine étant ainsi épargnée, répondant ainsi à la tirade de Thésée qui montrait que la chasse était un combat presque indigne de lui et qui renouvelait son envie de vaincre ou de périr. 
+[155] le terme « chef-d'oeuvre » semble être apposé à celui de Cécropien. Pirithois s'adresse donc à son ami Thésée. Le premier chef d'oeuvre est probablement Hercule, fils de Jupiter. Pirithois assimile donc Thésée, ce grand héros à un second chef d'oeuvre de Jupiter. L'expression « ton labeur épargné », a la valeur d'un ablatif absolu latin ; il faut comprendre : ta peine étant ainsi épargnée, répondant ainsi à la tirade de Thésée qui montrait que la chasse était un combat presque indigne de lui et qui renouvelait son envie de vaincre ou de périr. 
 
 [156] Dans la mythologie Lincée était doué d'une vue perçante qui lui permettait de voir à de très grandes distances et même à travers le sol. Il faut comprendre : dès qu'il sera découvert, Lincée tient sa conquête assurée, aussitôt qu'il sera repéré et pourchassé, Diane l'abandonnera à la mort. 
 
-[157] Alliance oxymorique.  Ce jeu de mot qui  repose sur les mêmes sonorités évoque l'idée qu'un grand événement fait de notre mort un symbole d'immortalité aux générations à venir. 
+[157] Alliance oxymorique. Ce jeu de mot qui repose sur les mêmes sonorités évoque l'idée qu'un grand événement fait de notre mort un symbole d'immortalité aux générations à venir. 
 
 [158] Toxée se sert de l'image du cheval qu'on éperonne inutilement alors qu'il galope déjà généreusement, pour expliquer sa présence à la chasse. Ses liens de parenté le dispensent de donner plus de raisons à sa présence.
 
@@ -3647,13 +3646,13 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [169] Emploi absolu du verbe désister. 
 
-[170] L'expression  « il n'y a que douter » signifie : il ne faut donc qu'espérer que cette dernière quête nous a fait découvrir  la cachette de la bête
+[170] L'expression  « il n'y a que douter » signifie : il ne faut donc qu'espérer que cette dernière quête nous a fait découvrir la cachette de la bête
 
 [171] De qui s'agit-il exactement Jusqu'ici les veneurs qui sont apparus sur scène portait un numéro. Il ne semble pas qu'il s'agisse d'un groupe de veneurs car le mot est au singulier dans le texte.
 
 [172] Où= que 
 
-[173] Vermeiller est un « terme de chasse qui se dit des sangliers qui cherchent les vers dans la terre, qu'ils remuent avec le grouin pour les trouver » Furetière. Pour cette  richesse du vocabulaire de la chasse voir notre introduction p. 57. 
+[173] Vermeiller est un « terme de chasse qui se dit des sangliers qui cherchent les vers dans la terre, qu'ils remuent avec le grouin pour les trouver » Furetière. Pour cette richesse du vocabulaire de la chasse voir notre introduction p. 57. 
 
 [174] L'adjectif grand est encore épicène au XVIIe siècle : il s'emploie donc souvent au féminin sans le « e » final. 
 
@@ -3667,7 +3666,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [179] Epithète de Diane qui est née et qui été élevée à Délos. 
 
-[180] La réplique est attribuée à MELEAGRE dans l'édition de 1626 :  il s'agit confusion entre Méléagre et le messager. Méléagre ne peut dire ces paroles parce qu'il n'est pas inscrit sur la liste des personnages et il ne parlerait pas de lui même en disant « notre roy ».
+[180] La réplique est attribuée à MELEAGRE dans l'édition de 1626 : il s'agit confusion entre Méléagre et le messager. Méléagre ne peut dire ces paroles parce qu'il n'est pas inscrit sur la liste des personnages et il ne parlerait pas de lui même en disant « notre roy ».
 
 [181] Il faut comprendre : il n'y aura et il n'y a jamais eu de chose plus assurée.
 
@@ -3683,7 +3682,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [187] Il s'agit de Thésée fils d'Aegée.
 
-[188] Le Limier est « un gros chien de chasse qui ne parle point, qui sert à quêter le cerf et autres grandes bêtes et à le lancer hors de son fort » Furetière. Sur la richesse du vocabulaire de la chasse voir notre introduction p. 57.  
+[188] Le Limier est « un gros chien de chasse qui ne parle point, qui sert à quêter le cerf et autres grandes bêtes et à le lancer hors de son fort » Furetière. Sur la richesse du vocabulaire de la chasse voir notre introduction p. 57. 
 
 [189] Omission de l'article défini devant un nom : les hommes, les chiens.
 
@@ -3713,7 +3712,7 @@ Form and Meaning : Aesthetic Coherence in the 17*th* Century French Drama
 
 [202] Il faut comprendre : un tel coup, s'il n'avait été vu (par moi) surmonterait ma croyance. 
 
-[203] Il faut comprendre : qui l'offencerait si l'on  faisait passer sa gloire après la mienne.  
+[203] Il faut comprendre : qui l'offencerait si l'on faisait passer sa gloire après la mienne. 
 
 [204] Méléagre dévalorise ici l'exploit.
 

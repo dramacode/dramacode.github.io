@@ -11,7 +11,7 @@ Et deffence sont faictes à tous autres de quelque qualité et condition qu'ils 
 Achevé d'imprimer le 12.
 Novembre, 1641.
 
-**** *book_ *id_body-301 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_I01 *act_I *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 Ces regards enflammés que lancent vos beaus yeus,
@@ -105,7 +105,7 @@ Et ne preferant point vostre repos au mien,
 Je me delivrerois d'un facheux entretien,
 Suffit que je vous soufre et que trop indulgente,
 
-**** *book_ *id_body-302 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_I02 *act_I *date_1642 *creator_la_calprenede
 
 -*who_cleone
 Madame, quelqu'un vient.
@@ -122,7 +122,7 @@ Ah ! l'ingrat, le voicy, cache un peu ta foiblesse.
 Qu'il arrive à propos, cher amy je vous laisse,
 Ma vie est en vos mains et j'attens tout de vous.
 
-**** *book_ *id_body-303 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_I03 *act_I *date_1642 *creator_la_calprenede 
 
 -*who_helene
 Depuis que vos malheurs sont des bon-heurs pour nous,
@@ -338,7 +338,7 @@ Qu'apres ce grand effort mon ame se remette :
 Elle est toute troublée⁎ en cette extremité,
 Adieu pardonnez-moy cette incivilité⁎.
 
-**** *book_ *id_body-304 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_I04 *act_I *date_1642 *creator_la_calprenede 
 
 -*who_helene
 Restes d'une pudeur laschement offensée,
@@ -411,7 +411,7 @@ Grands Dieux si dans⁎ ma peur je ne suis point deceuë⁎,
 Et si vous haïssez un feu⁎ qui me fait tort,
 Envoyez moy bien-tost le remede ou la mort.
 
-**** *book_ *id_body-401 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_II01 *act_II *date_1642 *creator_la_calprenede
 
 -*who_timandre
 Nous serions trop ingrats à tant de bons offices⁎,
@@ -567,7 +567,7 @@ D'avoir fait un amy,
 Adieu laissez moy seul y rever un moment,
 Vous trouverez la Reyne en son appartement.
 
-**** *book_ *id_body-402 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_II02 *act_II *date_1642 *creator_la_calprenede
 
 -*who_arbante
 Seigneur de quelque soing⁎ que vostre ame agitée,
@@ -585,7 +585,7 @@ Recompensez Seigneur, ces preuves de ma foy.
 -*who_phalante
 Je n'ay rien à te dire, Arbante laisse moy,
 
-**** *book_ *id_body-403 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_II03 *act_II *date_1642 *creator_la_calprenede 
 
 -*who_phalante
 Enfin je reste seul, et cette ingrate flame⁎,
@@ -692,7 +692,7 @@ Mais j'apperçois la Reyne, ô rencontre cruelle !
 Que dois-je devenir, dois-je m'esloigner d'elle ?
 Evite son abord, fuy miserable fuy.
 
-**** *book_ *id_body-404 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_II04 *act_II *date_1642 *creator_la_calprenede 
 
 -*who_helene
 Ne vois-je pas Phalante ?
@@ -781,7 +781,7 @@ Ces gardes ont failly, je l'avois deffendu.
 -*who_phalante
 Helas ! sans ce secours Phalante estoit perdu.
 
-**** *book_ *id_body-405 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_II05 *act_II *date_1642 *creator_la_calprenede
 
 -*who_helene
 Phalante une autre fois vous me direz le reste,
@@ -803,7 +803,7 @@ Vous me comblez d'honneur⁎.
       Venez donc avec nous.
 Je ne veux rien oüir ny resoudre sans vous.
 
-**** *book_ *id_body-501 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_III01 *act_III *date_1642 *creator_la_calprenede
 
 -*who_philoxene
 La Reyne ayme Phalante.
@@ -872,7 +872,7 @@ Vous me perdriez, Seigneur.
 Et previens⁎ cet esprit de tes bonnes leçons,
 Mais entrons, je veux mieux éclaircir mes soupçons.
 
-**** *book_ *id_body-502 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_III02 *act_III *date_1642 *creator_la_calprenede 
 
 -*who_phalante
 Les Dieux me sont tesmoins que mon ame troublée⁎,
@@ -1135,7 +1135,7 @@ Je prends congé, Madame, et m'esloigne d'icy,
 Pour regretter ailleurs ma mauvaise fortune⁎,
 Qui vous rend mon discours et ma veuë importune⁎.
 
-**** *book_ *id_body-503 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_III03 *act_III *date_1642 *creator_la_calprenede 
 
 -*who_helene
 Va cruël, va plus loin signaler ta rigueur,
@@ -1203,7 +1203,7 @@ Enfin c'est un buscher qui me doit consommer⁎ :
 C'est un feu⁎ qui me plaist, et je serois marrie
 Si du mal qu'il me fait mon ame estoit guerie.
 
-**** *book_ *id_body-504 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_III04 *act_III *date_1642 *creator_la_calprenede 
 
 -*who_philoxene
 Que fait la Reyne, Aminte ?
@@ -1315,7 +1315,7 @@ Et si vostre fureur vous porte à luy déplaire,
 Sçachez que je l'appuye, et que j'ay le pouvoir
 De punir un subjet qui sort de son devoir.
 
-**** *book_ *id_body-601 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_IV01 *act_IV *date_1642 *creator_la_calprenede
 
 -*who_cleomede
 Enfin ce sont les vœux de toute la province,
@@ -1380,7 +1380,7 @@ Adieu, dans peu de jours je vous rendray contens.
 -*who_timandre
 Dieux ! rendez son dessein tel que je le desire.
 
-**** *book_ *id_body-602 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_IV02 *act_IV *date_1642 *creator_la_calprenede 
 
 -*who_helene
 Timandre demeurez, j'ay deux mots à vous dire.
@@ -1445,7 +1445,7 @@ Vous sçavez son caprice et son humeur boüillante,
 Gardez qu'il ne s'attaque à ce Prince estranger
 Puis que je le protege, et le sçauray venger.
 
-**** *book_ *id_body-603 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_IV03 *act_IV *date_1642 *creator_la_calprenede 
 
 -*who_philoxene
 Reste d'une amitié⁎, que le traistre a blessee,
@@ -1487,7 +1487,7 @@ Reprocher en mourant ses infidelitez.
 Et laver dans ton sang la faute que j'ay faite,
 D'honorer⁎ un ingrat d'une amitié⁎ parfaite.
 
-**** *book_ *id_body-604 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_IV04 *act_IV *date_1642 *creator_la_calprenede 
 
 -*who_phalante
 Laissez-moy seul, Arbante !
@@ -1628,7 +1628,7 @@ Cherchons pour t'assouvir un lieu plus escarté,
 On nous peut descouvrir du quartier de la Reyne,
 Ce bois est plus commode, entrons-y Philoxene.
 
-**** *book_ *id_body-605 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_IV05 *act_IV *date_1642 *creator_la_calprenede
 
 -*who_timandre
 Dieux ! que mon fils est prompt, et que sa folle humeur
@@ -1666,7 +1666,7 @@ Grands Dieux ! guidez mes pas.
 -*who_cleomede
       Courez d'une autre part.
 
-**** *book_ *id_body-606 *act_ *date_1642 *creator_la_calprenede 
+**** *book_ *id_IV06 *act_IV *date_1642 *creator_la_calprenede 
 
 -*who_philoxene
 La justice des Dieux en ta faveur éclate,
@@ -1748,7 +1748,7 @@ Faites luy desormais un traitement plus doux,
 Vous estes digne d'elle, elle est digne de vous,
 Et j'estois criminel en mettant quelque obstacle.
 
-**** *book_ *id_body-607 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_IV07 *act_IV *date_1642 *creator_la_calprenede
 
 -*who_arbante
 Nous arrivons trop tard.
@@ -1835,7 +1835,7 @@ Helas avec quel cœur te rends-je ce service !
 Cher et noble fardeau d'un mal-heureux amy
 Dans⁎ ce reste d'espoir dois-je vivre à demy ?
 
-**** *book_ *id_body-701 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_V01 *act_V *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Esprit d'un cher amy que ma main meurtriere,
@@ -1932,7 +1932,7 @@ Il est comme un esclair dans mon ame passé
 Il se formoit à peine et tu l'as effacé,
 Mais je sçay qu'il t'offence et merite ta haine.
 
-**** *book_ *id_body-702 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_V02 *act_V *date_1642 *creator_la_calprenede
 
 -*who_arbante
 Aminte vous vient voir de la part de la Reyne.
@@ -1976,7 +1976,7 @@ C'est le plus doux arrest que j'en puis recevoir,
 Allons dire un adieu qui finit ma disgrace.
 Il est juste, il est temps que je te satisfasse.
 
-**** *book_ *id_body-703 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_V03 *act_V *date_1642 *creator_la_calprenede
 
 -*who_arate
 Ah ! Madame, voyez nos sensibles regrets,
@@ -2058,7 +2058,7 @@ Autant que mon malheur vous a peu satisfaits.
 -*who_arate
 Ah ! discours qui me blesse au plus vif de mon ame.
 
-**** *book_ *id_body-704 *act_ *date_1642 *creator_la_calprenede
+**** *book_ *id_V04 *act_V *date_1642 *creator_la_calprenede
 
 -*who_phalante
 Quel estrange⁎ spectacle ?

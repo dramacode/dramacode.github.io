@@ -43,7 +43,7 @@ Trouver Germanicus digne d'un aussi grand Nom que celuy de Mr.
 Racine, c'est en peu de mots en dire beaucoup de bien : Et que ce témoignage ait esté rendu par un Homme aussi fameux que Mr. de Corneille, c'est le plus grand honneur que je pûsse recevoir.
 Le Lecteur jugera, s'il luy plaist, qui des deux eut le plus de raison ; l'un de dire ce qu'il dit, ou l'autre de s'en offenser.
 
-**** *book_ *id_body-201 *act_ *date_1694 *creator_boursault
+**** *book_ *id_I01 *act_I *date_1694 *creator_boursault
 
 -*who_livie
 Ma soeur... Mais je m'oublie⁎, & je perds le respect⁎,
@@ -139,7 +139,7 @@ Ma haine est foible encor & mon coeur s'en deffie⁎ :
 Et je le veux, si je puis, le haïr assez bien
 Pour le voir, le braver, & n'en redouter rien.
 
-**** *book_ *id_body-202 *act_ *date_1694 *creator_boursault
+**** *book_ *id_I02 *act_I *date_1694 *creator_boursault
 
 -*who_flavie
 Le prince vient.
@@ -235,7 +235,7 @@ En pensant le haïr vous feriez le contraire.
 C'est moy qui vous en prie : & peut-estre entre nous,
 Devez-vous quelque chose à qui fait tout pour vous.
 
-**** *book_ *id_body-203 *act_ *date_1694 *creator_boursault
+**** *book_ *id_I03 *act_I *date_1694 *creator_boursault
 
 -*who_flavie
 A vos souhaits, Madame, il a daigné se rendre.
@@ -296,7 +296,7 @@ Un respect si profond...
 De peur de le contraindre éloigne toy d'icy.
 Quand je l'auray quitté je t'iray tout apprendre.
 
-**** *book_ *id_body-204 *act_ *date_1694 *creator_boursault 
+**** *book_ *id_I04 *act_I *date_1694 *creator_boursault 
 
 -*who_agripine
 Que venez-vous de me dire, & qu'ay-je lieu d'attendre ?
@@ -596,7 +596,7 @@ Je vous l'ordonne.
 -*who_agripine
       Adieu.
 
-**** *book_ *id_body-301 *act_ *date_1694 *creator_boursault
+**** *book_ *id_II01 *act_II *date_1694 *creator_boursault
 
 -*who_agripine
 Mon amour te retient, & mon devoir te chasse.
@@ -726,7 +726,7 @@ Prens la plus sombre route, & la plus seure voye.
 Un Guerrier si fameux, dans un lieu si suspect,
 Allarmeroit⁎ Tibere, à qui je dois respect.
 
-**** *book_ *id_body-302 *act_ *date_1694 *creator_boursault 
+**** *book_ *id_II02 *act_II *date_1694 *creator_boursault 
 
 -*who_agripine
 D'où me vient ce desordre, & pourquoy suis-je émeuë ?
@@ -740,7 +740,7 @@ La vertu la plus forte a de foibles momens.
 Je revoque⁎ mon ordre, & ne veux point qu'il vienne.
 Hola !
 
-**** *book_ *id_body-303 *act_ *date_1694 *creator_boursault
+**** *book_ *id_II03 *act_II *date_1694 *creator_boursault
 
 -*who_agripine
       Quelle surprise est égale à la mienne ?
@@ -887,7 +887,7 @@ De traiter son Amour comme j'ay fait le vostre :
 Et m'aimant, sans espoir, il vous doit estre doux
 Qu'un Heros, comme luy, soit traité comme vous.         610
 
-**** *book_ *id_body-304 *act_ *date_1694 *creator_boursault 
+**** *book_ *id_II04 *act_II *date_1694 *creator_boursault 
 
 -*who_agripine
 Enfin, Prince, vostre ame a lieu d'estre contente :
@@ -1103,7 +1103,7 @@ Pour mettre en seureté vos sublimes vertus,
 Desormais, par respect, je ne vous verray plus.
 Remenez-moy.
 
-**** *book_ *id_body-305 *act_ *date_1694 *creator_boursault 
+**** *book_ *id_II05 *act_II *date_1694 *creator_boursault 
 
 -*who_flavie
       Madame...
@@ -1139,7 +1139,7 @@ C'est mon honneur, Pison, qu'icy je vous confie :
 Et si j'ose avec vous m'expliquer à mon tour,
 Vous n'étes pas le seul que maltraite l'Amour.
 
-**** *book_ *id_body-401 *act_ *date_1694 *creator_boursault
+**** *book_ *id_III01 *act_III *date_1694 *creator_boursault
 
 -*who_flavie
 Dans vostre Appartement le Prince va se rendre ;
@@ -1171,7 +1171,7 @@ Le Prince qui paroît, fait que je me retire.
 Adieu. Souvenez-vous que l'on voit aujourd'huy
 Une fille d'Auguste implorer vostre appuy.
 
-**** *book_ *id_body-402 *act_ *date_1694 *creator_boursault
+**** *book_ *id_III02 *act_III *date_1694 *creator_boursault
 
 -*who_drusus
 Si j'en crois un grand bruit⁎ qui se vient de répandre,
@@ -1271,7 +1271,7 @@ Tout parle en sa faveur ; mais enfin...
 Elle vient ; vos conseils ne sont plus de saison.
 Laissez-nous seuls.
 
-**** *book_ *id_body-403 *act_ *date_1694 *creator_boursault
+**** *book_ *id_III03 *act_III *date_1694 *creator_boursault
 
 -*who_livie
       Seigneur, vous auriez quelque peine
@@ -1524,7 +1524,7 @@ Et s'il vous en faut un...
 La Princesse Agripine arrive dans ce lieu.
 Servez Germanicus, l'occasion est belle.
 
-**** *book_ *id_body-404 *act_ *date_1694 *creator_boursault
+**** *book_ *id_III04 *act_III *date_1694 *creator_boursault
 
 -*who_agripine
 Seigneur, je vous apporte une grande nouvelle.
@@ -1587,7 +1587,7 @@ Me surprend d'autant plus que je n'osois l'attendre.
 Vostre bonté m'accable, & je jure à vos yeux...
 Quand j'auray veu Cesar je m'expliqueray mieux.
 
-**** *book_ *id_body-405 *act_ *date_1694 *creator_boursault
+**** *book_ *id_III05 *act_III *date_1694 *creator_boursault
 
 -*who_agripine
 Hé bien, Flavie, hé bien, seras-tu satisfaite ?
@@ -1635,7 +1635,7 @@ Je fais ce que je puis, je m'immole⁎ moy-même :
 Je me perds. Mais, Flavie, un coeur comme le mien,
 Quand la gloire a parlé, ne consulte⁎ plus rien.
 
-**** *book_ *id_body-501 *act_ *date_1694 *creator_boursault
+**** *book_ *id_IV01 *act_IV *date_1694 *creator_boursault
 
 -*who_pison
 Madame, pardonnez à mon impatience ;
@@ -1774,7 +1774,7 @@ Et je sçay... Mais adieu, Germanicus s'avance :
 Parlez-luy, le temps presse ; & sans faire aucun bruit⁎,
 Empêchez que dans Rome il ne passe la nuit.
 
-**** *book_ *id_body-502 *act_ *date_1694 *creator_boursault
+**** *book_ *id_IV02 *act_IV *date_1694 *creator_boursault
 
 -*who_germanicus
 Je ne sçay de quel oeil vous verrez un coupable,
@@ -2051,7 +2051,7 @@ Venez, qu'en vous quittant, Prince, je vous embrasse ;
 Et que dans ce moment tous mes sens interdits⁎...
 Partez, je ne sçay plus, Seigneur, ce que je dis.
 
-**** *book_ *id_body-601 *act_ *date_1694 *creator_boursault
+**** *book_ *id_V01 *act_V *date_1694 *creator_boursault
 
 -*who_agripine
 Vient-elle ? l'as-tu vûë ? & puis-je me promettre
@@ -2086,7 +2086,7 @@ M'a-t-il dit ; j'en ay fait confiance à Flavie ;
 Et si Germanicus voyoit encor le jour,
 Elle seroit... Flavie est enfin de retour.
 
-**** *book_ *id_body-602 *act_ *date_1694 *creator_boursault
+**** *book_ *id_V02 *act_V *date_1694 *creator_boursault
 
 -*who_agripine
 Helas ! Flavie, helas ! que tu m'as mise en peine !
@@ -2249,7 +2249,7 @@ Flavie, as-tu compris la grandeur de ma peine ?
 Albin de vostre sort va vous rendre certaine,
 Il vient.
 
-**** *book_ *id_body-603 *act_ *date_1694 *creator_boursault 
+**** *book_ *id_V03 *act_V *date_1694 *creator_boursault 
 
 -*who_agripine
       Hé bien, Albin, ce que j'aimois est mort ?
@@ -2395,7 +2395,7 @@ Pardonne à mon orgueil ce qu'il t'a fait d'injure ;
 Et pour prix⁎ de tes soins⁎ dignes d'un autre sort
 Daigne accepter les pleurs que je donne à ta mort.
 
-**** *book_ *id_body-604 *act_ *date_1694 *creator_boursault
+**** *book_ *id_V04 *act_V *date_1694 *creator_boursault
 
 -*who_agripine
 Ou venez-vous, Seigneur, & quelle est vostre envie ?

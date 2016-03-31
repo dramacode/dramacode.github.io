@@ -32,7 +32,7 @@ OLIER.
 Achevé d'imprimé le 11.
 May 1647.
 
-**** *book_ *id_body-401 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_I01 *act_I *date_1647 *creator_desfontaines
 
 -*who_semiramis
 Melistrate amoureux ? ah! je ne le puis croire ;
@@ -302,7 +302,7 @@ Ses soûpirs, son espoir, ses voeus & ses desseins.
 -*who_semiramis
 C'est ce que je veux faire ; allez, qu'on se retire.
 
-**** *book_ *id_body-402 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_I02 *act_I *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Il suffit, je connais le charme qui l'attire ;
@@ -364,7 +364,7 @@ Tu ne sçaurois perir d'un coup plus favorable ;
 Mais n'apperçois-je pas ce Prince miserable ?
 Ah ! parlons, il est temps, & feignons⁎ toutesfois.
 
-**** *book_ *id_body-403 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_I03 *act_I *date_1647 *creator_desfontaines
 
 -*who_ninus
 Ne sçaurais-je jamais le trouble où je vous vois ?
@@ -510,7 +510,7 @@ Seule vous jouïrez du beau Titre de Reyne ;
 Et pour rendre plûtost vos desirs satisfaits,
 Je m'en vay de ce pas travailler aux effets.
 
-**** *book_ *id_body-404 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_I04 *act_I *date_1647 *creator_desfontaines
 
 -*who_semiramis
 Dy que par cette voye à ma faveur ouverte,
@@ -519,7 +519,7 @@ Et par l'effet d'un prodige⁎ nouveau,
 Me preparer un Trône, & t'ouvrir le tombeau.
 Fin du Premier Acte.
 
-**** *book_ *id_body-501 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_II01 *act_II *date_1647 *creator_desfontaines
 
 -*who_semiramis
 Pourquoy desadvoüer une chose certaine ?
@@ -690,7 +690,7 @@ Mais non, perdons plûtost l'esperance & la vie,
 Et faisons par un coup aussi juste que beau,
 Qu'où l'Amour eu son Trône, il treuve son tombeau.
 
-**** *book_ *id_body-502 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_II02 *act_II *date_1647 *creator_desfontaines
 
 -*who_semiramis
 Tout répond à mes vœux ; le dépit & la haine,
@@ -713,7 +713,7 @@ Qui puisse sans remords faire un illustre crime,
 Et sans étonnement⁎ immoler la victime.
 La voicy.
 
-**** *book_ *id_body-503 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_II03 *act_II *date_1647 *creator_desfontaines
 
 -*who_semiramis
       Merzabane, aujourd'huy je veux voir,
@@ -787,7 +787,7 @@ Il cessera bien-tost de regner & de vivre.
 Quelqu'un vient, suivez moy, je vous diray comment
 Vous pourrez obeïr à mon commandement.
 
-**** *book_ *id_body-504 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_II04 *act_II *date_1647 *creator_desfontaines
 
 -*who_prazimene
 
@@ -848,7 +848,7 @@ Ah ! c'est trop... Mais, ô Dieux ! ne vois-je point paraistre
 Le Confident adroit d'un si perfide Maistre ?
 Oüy, c'est luy ; que feray-je ?
 
-**** *book_ *id_body-505 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_II05 *act_II *date_1647 *creator_desfontaines
 
 -*who_prazimene
       Advancez, Palmedon ;
@@ -968,7 +968,7 @@ Je vous venois, Madame, annoncer son retour.
 Tu me rends, Palmedon, & la vie & l'amour.
 Fin du Second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_III01 *act_III *date_1647 *creator_desfontaines
 
 -*who_ninus
 Enfin voicy l'heureuse & celebre journée,
@@ -1147,7 +1147,7 @@ Il est de mon devoir d'obeïr, & me taire.
 -*who_semiramis
 Allez.
 
-**** *book_ *id_body-602 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_III02 *act_III *date_1647 *creator_desfontaines
 
 -*who_semiramis
       Dieux ! que feray-je ? & quel est mon dessein ?
@@ -1209,7 +1209,7 @@ Qu'il faut suivre mes Loix, ou redouter ma haine ;
 Et quiconque ozera me choquer⁎, ou m'aigrir,
 Qu'il doit, avec Ninus, se resoudre à perir.
 
-**** *book_ *id_body-603 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_III03 *act_III *date_1647 *creator_desfontaines 
 
 -*who_merzabane
 He bien, Seigneurs, enfin qu'elle est vostre pensée ?
@@ -1302,7 +1302,7 @@ Reposez-vous sur moy de ce coup d'importance ;
 Puis que vous consentez, il va perdre le jour,
 Victime infortunée, & d'Estat & d'Amour.
 
-**** *book_ *id_body-604 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_III04 *act_III *date_1647 *creator_desfontaines 
 
 -*who_merzabane
 De ce pas, Oronclide, allez treuver la Reyne,
@@ -1319,7 +1319,7 @@ Il revient, & tantost, comme je l'ay pû voir,
 On a fait choix de vous, pour l'aller recevoir.
 Fin du Troisième Acte
 
-**** *book_ *id_body-701 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_IV01 *act_IV *date_1647 *creator_desfontaines
 
 -*who_melistrate
 Grand Prince, l'ornement & l'honneur de l'Asie,
@@ -1567,7 +1567,7 @@ Arrestez, je le veux, & je vous le commande ;
 Je vay suivre Ninus; & c'est beaucoup pour moy,
 Qu'on répande mon sang, sur celuy de mon Roy.
 
-**** *book_ *id_body-702 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_IV02 *act_IV *date_1647 *creator_desfontaines 
 
 -*who_oronclide
 O Fureurs ! ô desirs ! ô pouvoir d'une Reyne !
@@ -1579,7 +1579,7 @@ Retire mon honneur des bords du precipice ;
 Et malgré ma foiblesse en un pas si glissant,
 Fay moy vivre equitable, ou, mourir innocent.
 
-**** *book_ *id_body-703 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_IV03 *act_IV *date_1647 *creator_desfontaines 
 
 -*who_melistrate
 Ah !
@@ -1735,7 +1735,7 @@ Il n'est pas temps encore de parestre à ses yeux ;
 Sortons ; & vous verrez par un trait⁎ sans exemple,
 D'un juste repentir, une preuve assez grande.
 
-**** *book_ *id_body-704 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_IV04 *act_IV *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Ouy, sans vous je n'avois l'Empire qu'à demy,
@@ -1776,7 +1776,7 @@ C'est assez, nous pourrons, ainsi que je l'espere,
 Recompenser au Fils, les services du Pere,
 Le voicy de retour.
 
-**** *book_ *id_body-705 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_IV05 *act_IV *date_1647 *creator_desfontaines 
 
 -*who_semiramis
       He bien, qu'avez-vous fait ?
@@ -1892,7 +1892,7 @@ Qu'il est audacieux ! Qu'on l'emmeine.
 -*who_merzabane
       Ah, je tremble !
 
-**** *book_ *id_body-706 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_IV06 *act_IV *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Il confond aujourd'huy nos interests ensemble ;
@@ -1908,7 +1908,7 @@ Attendant que le temps plus propice à nos vœux,
 Nous donne les moyens de les perdre tous deux.
 Fin du Quatriéme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_V01 *act_V *date_1647 *creator_desfontaines
 
 -*who_melistrate
 Palmedon...
@@ -2081,7 +2081,7 @@ Sans que hors de saison vostre abord le redouble.
 Hé bien, d'un peu de temps diferons⁎ cet effort ;
 Mais ce jour doit conclure ou ma vie ou ma mort.
 
-**** *book_ *id_body-802 *act_ *date_1647 *creator_desfontaines 
+**** *book_ *id_V02 *act_V *date_1647 *creator_desfontaines 
 
 -*who_semiramis
 Que demande un perfide, & qu'est-ce qu'il espere ?
@@ -2237,7 +2237,7 @@ Heureuse, si ce cœur pouvoit estre percé
 Par les mains de ce Fils, dont les yeux m'ont blessé.
 Ce sacrifice enfin...
 
-**** *book_ *id_body-803 *act_ *date_1647 *creator_desfontaines
+**** *book_ *id_V03 *act_V *date_1647 *creator_desfontaines
 
 -*who_melistrate
       Sera bien legitime ;

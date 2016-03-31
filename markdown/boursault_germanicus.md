@@ -13,8 +13,7 @@ TRAGÉDIE
 Edme Boursault
 
 **A PARIS**, Chez JEAN GUIGNARD, à l'entrée de la grand'Salle du Palais, à l'Image S.Jean. Representée par les Comediens du Roy. M. DC. LXXXXIV. AVEC PRIVILEGE DU ROY.
-Édition critique établie par Florence Maine sous la direction de Georges
-          Forestier (2001)
+Édition critique établie par Florence Maine sous la direction de Georges Forestier (2001)
 
 
 # Introduction
@@ -2968,83 +2967,14 @@ Et ledit sieur Boursault a cedé au sieur J.Guignard le droit qu'il a au present
 Achevé d'imprimer le 14 Novembre 1693.
 
 
-# LexiqueDictionnaire universel contenant généralement tous
-              les mots françois tant vieux que modernes et les termes de toutes les sciences et les
-              arts
-Dictionnaire françois contenant les mots et les
-              choses, plusieurs nouvelles remarques sur la langue françoise...
-Introduction à la langue française du XVIIème
-              siècle
-AbuserTromper, seduire (F).V. 258AcheterMarque les peines, les difficultez qui coutent à obtenir quelque chose (F).V. 897AchevéParfait, acompli (F).V. 46, 1450(s') AggrandirRendre plus grand en honneurs, en dignitez, en credit, en fortune ; élever dans le
-              monde à un état plus considérable (F).V. 1398AigreurAmertume, et déplaisir (R).V. 1305AigrirIrriter ; rendre chagrin, fâcheux ; augmenter (F).V. 125AlarmeToutes sortes de frayeur, ou d'apprehensions bien, ou mal fondées (F).V. 468, 560, 688, 1107, 1463, 1734AlarmerInquieter, effrayer (F).V. 89, 502, 705, 839, 840, 912, 1259AmortirAffoiblir ; rendre moins vif, et moins ardent (F).V. 715AnimerRendre plus vif, échaufer, donner de la force, du feu, de la vigueur/encourager
-              (R).V. 1095, 1747AppasSe dit particulièrement de la beauté, et des attraits des femmes (F).V. 77, 273, 301, 310, 331, 541, 747, 768, 857, 877, 952, 1005, 1205, 1522, 1623,
-              1728AppuyProtecteur, soutien, deffenseur (F).V. 70, 837, 1081, 1333, 1704ArdeurPassion (...) chaleur, emportement, fougue (...) attachement, passion amoureuse
-              (F).V. 39, 283, 329, 344, 850, 1095, 1112, 1202, 1207, 1674ArdentViolent, vif, passionné, vehement (F).V. 183, 1631(s') ArracherTirer avec violence ; faire sortir ; detacher de l'esprit ou du coeur ; deraciner ;
-              chasser (F).V. 658ArrestResolution, que nous avons prise touchant une chose (F).V. 733ArtMethode, regle,ou science de bien faire les choses (F).V. 918, 1275, 1438, 1587ArtificeFraude, deguisement, ruse, mauvaise finesse (F).V. 1421, 1472, 1746AspectVuë, presence, regard (F).V. 1744AstreSe dit figurément en Morale, d'une personne extraordinaire en merite, ou en beauté
-              (F).V. 330AttraitsSe dit poëtiquement de la beauté, des appas, et des charmes des femmes (F).V. 298, 749, 860, 961AudienceAttention qu'on prête à quelque discours (F).V. 1192AzileSe dit de tous les lieux de retraite, où l'on est en sûreté (F).V. 1459, 1472, 1695BannirChasser, éloigner ; se deffaire (F).V. 363, 366, 1617BienSignifie aussi, bonheur ; hazard (F).
+# LexiqueDictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise...
+Introduction à la langue française du XVIIème siècle
+AbuserTromper, seduire (F).V. 258AcheterMarque les peines, les difficultez qui coutent à obtenir quelque chose (F).V. 897AchevéParfait, acompli (F).V. 46, 1450(s') AggrandirRendre plus grand en honneurs, en dignitez, en credit, en fortune ; élever dans le monde à un état plus considérable (F).V. 1398AigreurAmertume, et déplaisir (R).V. 1305AigrirIrriter ; rendre chagrin, fâcheux ; augmenter (F).V. 125AlarmeToutes sortes de frayeur, ou d'apprehensions bien, ou mal fondées (F).V. 468, 560, 688, 1107, 1463, 1734AlarmerInquieter, effrayer (F).V. 89, 502, 705, 839, 840, 912, 1259AmortirAffoiblir ; rendre moins vif, et moins ardent (F).V. 715AnimerRendre plus vif, échaufer, donner de la force, du feu, de la vigueur/encourager (R).V. 1095, 1747AppasSe dit particulièrement de la beauté, et des attraits des femmes (F).V. 77, 273, 301, 310, 331, 541, 747, 768, 857, 877, 952, 1005, 1205, 1522, 1623, 1728AppuyProtecteur, soutien, deffenseur (F).V. 70, 837, 1081, 1333, 1704ArdeurPassion (...) chaleur, emportement, fougue (...) attachement, passion amoureuse (F).V. 39, 283, 329, 344, 850, 1095, 1112, 1202, 1207, 1674ArdentViolent, vif, passionné, vehement (F).V. 183, 1631(s') ArracherTirer avec violence ; faire sortir ; detacher de l'esprit ou du coeur ; deraciner ; chasser (F).V. 658ArrestResolution, que nous avons prise touchant une chose (F).V. 733ArtMethode, regle,ou science de bien faire les choses (F).V. 918, 1275, 1438, 1587ArtificeFraude, deguisement, ruse, mauvaise finesse (F).V. 1421, 1472, 1746AspectVuë, presence, regard (F).V. 1744AstreSe dit figurément en Morale, d'une personne extraordinaire en merite, ou en beauté (F).V. 330AttraitsSe dit poëtiquement de la beauté, des appas, et des charmes des femmes (F).V. 298, 749, 860, 961AudienceAttention qu'on prête à quelque discours (F).V. 1192AzileSe dit de tous les lieux de retraite, où l'on est en sûreté (F).V. 1459, 1472, 1695BannirChasser, éloigner ; se deffaire (F).V. 363, 366, 1617BienSignifie aussi, bonheur ; hazard (F).
 
-V. 487, 996, 1250BontésFaveurs (F).V. 197, 945, 958, 1052, 1227, 1276, 1362, 1402, 1461, 1470, 1842BornerFixer (...) ; limiter (F).V. 1028BriguerSe dit simplement des souhaits, ou des voyes legitiles à obtenir quelque chose
-              (F).V. 70BruitÉclat (R).V. 442, 1236, 1301, 1757Nouvelle (R).V. 815, 839, 840CaptiverAssujettir ; domter (F).V. 295, 467CharmesLa beauté, les appas, les agrémens des femmes (F).V. 211, 591, 867, 1080, 1527Enchantement ; sortilege (F).V. 1334ChoirTomber (F).V. 1442CommettreConfier quelque chose à la prudence, ou à la fidelité de quelcun (F).V. 222ConfondreTroubler, mettre en desordre (R).V. 343, 619ConnoistreApercevoir, voir, distinguer quelque chose par le moïen de la vüe (R).V. 1769Voir, juger, considerer, faire des reflexions sur soi ou sur quelque autre chose
-              (R).V. 261, 531Savoir vraiment qui on est, et qui sont les autres. Savoir le faible et le fort des
-              gens (R).V. 200, 1479ConseilSignifie quelquefois, resolution (F).V. 450ConspirerConcourir à un même but (F).V. 1862ConstantFerme ; inebranlable ; courageux ; intrepide/fidelle ; perseverant en amour
-              (F).V. 569ConsulterDeliberer avec soi-même, quand on est irresolu, incertain, quel parti on doit
-              choisir (F).V. 1190ContraireEnnemi ; opposé ; d'un autre parti (F).V. 7, 259, 535, 751, 1315, 1467, 1854CorrompreGâter, dépraver (R).V. 345, 747, 1014Seduire, suborner, gagner (F).
+V. 487, 996, 1250BontésFaveurs (F).V. 197, 945, 958, 1052, 1227, 1276, 1362, 1402, 1461, 1470, 1842BornerFixer (...) ; limiter (F).V. 1028BriguerSe dit simplement des souhaits, ou des voyes legitiles à obtenir quelque chose (F).V. 70BruitÉclat (R).V. 442, 1236, 1301, 1757Nouvelle (R).V. 815, 839, 840CaptiverAssujettir ; domter (F).V. 295, 467CharmesLa beauté, les appas, les agrémens des femmes (F).V. 211, 591, 867, 1080, 1527Enchantement ; sortilege (F).V. 1334ChoirTomber (F).V. 1442CommettreConfier quelque chose à la prudence, ou à la fidelité de quelcun (F).V. 222ConfondreTroubler, mettre en desordre (R).V. 343, 619ConnoistreApercevoir, voir, distinguer quelque chose par le moïen de la vüe (R).V. 1769Voir, juger, considerer, faire des reflexions sur soi ou sur quelque autre chose (R).V. 261, 531Savoir vraiment qui on est, et qui sont les autres. Savoir le faible et le fort des gens (R).V. 200, 1479ConseilSignifie quelquefois, resolution (F).V. 450ConspirerConcourir à un même but (F).V. 1862ConstantFerme ; inebranlable ; courageux ; intrepide/fidelle ; perseverant en amour (F).V. 569ConsulterDeliberer avec soi-même, quand on est irresolu, incertain, quel parti on doit choisir (F).V. 1190ContraireEnnemi ; opposé ; d'un autre parti (F).V. 7, 259, 535, 751, 1315, 1467, 1854CorrompreGâter, dépraver (R).V. 345, 747, 1014Seduire, suborner, gagner (F).
 
-V. 1488CourrouxMouvement impétueux de colère (F).V. 125, 304, 869, 925, 937, 1001, 1039, 1061, 1125, 1229, 1293, 1309, 1361CréanceConfiance (F).V. 1716CréditPuissance ; pouvoir ; creance (F).V. 113DébrisRestes ; ruines. Se dit figurément (F).V. 458(se) DécouvrirUn homme se découvre trop, lorsqu'il se declare trop ; qu'il ne cache pas assez ses
-              affaires, ses sentiments (F).V. 911(se) DédireRetracter sa parole et en manquer (F).V. 1835, 1863DéfaireMettre en deroute des gens de guerre ; les obliger à fuir ; les tailler en pieces
-              (F).V. 1374DéfianceMouvement de l'ame qui apprehende un mal ; soupçon ; crainte d'être trompé ; doute
-              de soi-même, ou des autres (F).V. 1548DéfiantCraintif ; soupçonneux ; qui n'ose se fier à la fidélité de personne (F).V. 649(se) DéfierN'être pas assuré (F).V. 80DégagerS'affranchir ; rompre les liens ; se remettre en liberté ; se deffaire d'une
-              passion (F).V. 545DegréTerme de genealogie, il se dit de la distance de la tige commune entre parens, pour
-              marquer la proximité, ou l'éloignement des parentez ou alliances (F).V. 14DépitFâcherie mêlée de colere ; chagrin ; deplaisir court, et passager (F).V. 685DépostCe qu'on a mis et confié entre les mains de quelcun/se dit figurément des pensées
-              et des secrets (F).V. 582DesseinResolution ; vüe ; projet ; entreprise ; intention (F).V. 206, 1733, 1741, 1820DétourAdresse ; subtilité ; pretexte ; finesse ; biais ; procedé peu sincere (F).V. 1588DifférentContraire en quelque point (F).V. 662DisgrâceMalheur ; accident ; revers ; infortune (F).V. 419Disputer àEntrer en concurrence pour emporter, ou conserver quelque chose (F).V. 218DescendreÊtre né, ou issu d'un père commun par une suite de generations, tirer son origine
-              (F).V. 60DouteuxIncertain, sur quoi on ne doit point s'assurer (R).V. 371, 1457EclaterFaire paroître avec du bruit et de l'éclat ; découvrir, apprendre, faire connoître
-              au public (F).V. 21, 557, 1371EclatPompe ; splendeur ; gloire ; lustre ; brillant (F).V. 756, 968, 1194, 1385EclairerInstruire, illuminer, rendre plus clairvoyant (F).V. 1748, 1759EclaircirDebrouiller ; rendre plus clair et plus intelligible ; s'instruire (F).V. 649, 793, 1577, 1820(s') EgarerDevenir un peu fou (R).V. 602EleverAggrandir ; mettre dans une place élevée ; accroître la fortune (F).V. 45EmbûcheEmbuscade ; entreprise secrette ; piege qu'on rend à quelqu'un ; conspiration qu'on
-              fait contre lui (F).V. 1416EmpireCommandement ; domination ; pouvoir qu'on a sur quelque chose ; l'autorité qu'on
-              exerce sur soi-même, ou sur les autres (F).V. 64, 533, 860, 1031, 1032, 1225EmployLe travail, l'occupation qu'on donne à quelqu'un, ou qu'on prend soi-même ;
-              commission ; charge ; dignité (F).V. 172, 1715EmployerS'occuper soi-même, ou occuper les autres (F).V. 203EmportementTransport ; fougue ; mouvement violent, déréglé de l'ame qui la fait sortir hors
-              des bornes de la raison. On se sert souvent de ce mot pour exprimer un amour aveugle
-              et outré... (F).V. 867EmpresséQui est ardent, remuant, actif, diligent (F).V. 725, 1112EnchaisnerCaptiver ; lier ; joindre ; attacher (F).V. 539(s') EngagerOn dit engager son coeur, pour, dire, donner son amour, aimer (F).V. 1621EnnuyChagrin, tristesse, souci, déplaisir. En amour ennuy signifie tendre (F).V. 589EnnuyerFatiguer l'esprit. Faire, ou souffrir quelque chose avec chagrin, ou déplaisir
-              (F).V. 146(s') EnquérirS'informer, demander une chose qu'on ne sçait pas, faire une recherche (F).V. 590(s') EntretenirFaire durer, faire continuer, faire subsister dans un certain état (F).V. 87, 1201EnvieDéplaisir qu'on a de voir ses égaux jouir de quelques avantages considérables
-              (R).V. 47, 883, 1428, 1754EvénementIssuë, succès bon ou mauvais de quelque chose (F).V. 1848ExciterInciter, allumer, encourager, animer (F).V. 1213ExhalerSoulager (F).V. 29ExilerBannir, envoyer en retraite (F).V. 476ExorableQui se laisse vaincre et persuader par les raisons, les prières, et de la
-              compassion (F).V. 761Exprès(adjectif) Précis, en termes si formels qu'il ne laisse aucun lieu de doute.V. 105(adverbe) Expressément ; à dessein (F).V. 194, 1749FeindreSe servir d'une fausse apparence, pour tromper, contrefaire, faire semblant,
-              dissimuler.V. 1389, 1437, 1654Imaginer, inventer des choses fausses, controuver (F).V. 1843FeintDeguisé, contrefait, apparent, dissimulé (F).V. 1737FersToute sorte d'esclavage, et se dit particulièrement en matière d'amour (F).V. 77, 447, 538, 763, 861, 898, 947, 955, 1098FeuxSe dit figurément de la vivacité de l'esprit, de l'ardeur des passions (F).V. 218, 255, 280, 506, 720, 988, 1086, 1471, 1457, 1801FlâmeOn dit figurément la flamme de l'amour (F).V. 139, 181, 271, 287, 331, 351, 325, 476, 519, 525, 544, 555, 596, 640, 715, 824,
-              847, 1069, 1256, 1359, 1448, 1495, 1638, 1804, 1810FlaterDeguiser une verité qui seroit desagréable (...). Flater sa douleur, c'est-à-dire
-              l'adoucir par quelques reflexions consolantes. Flater son amour, c'est-à-dire, se
-              repaître d'esperances (F).V. 144, 1279, 1372, 1491FlateurCelui, ou celle qui flate (...). Se dit des écrits, des compliments, des
-              manieres... (F).V. 87, 144FlétrirDeshonorer, diffamer (F).V. 1660FlottantIncertain, vacillant (F).V. 1865ForfaitSe dit des crimes en general (F).V. 942, 1252, 1260, 1660, 1685, 1748, 1832FortuneLe bonheur ou le malheur, ce qui arrive par hasard ; qui est fortuit et imprévu ;
-              qui n'a point de cause certaine et connue (F).V. 1351, 1451, 1862FoyFidélité, assurance, promesse, serment... (F).V. 208, 222, 281, 641, 745, 973, 1034, 1045, 1139, 1476, 1493, 1856Confiance.V. 1434GenereuxBrave, vaillant, courageux (F).V. 944, 1475GesnerTourmenter le corps ou l'esprit (F).V. 71, 1011, 1067, 1123GracePlaisir, faveur (R).V. 725HautementClairement, manifestement, autentiquement (F).V. 1696HeurBonheur ; bonne fortune ; rencontre avantageuse (F).V. 91, 151, 393, 721, 960HistoiresC'est une narration continuée de choses vraies, grandes et publiques (...) pour
-              l'instruction des particuliers et des Princes, pour le bien de la société civile
-              (R).V. 175HommageSoumission, respect, obeissance, civilitez (F).V. 372, 459, 1203, 1339Hymen, hymenéeSignifie poëtiquement le mariage (F).V. 3, 8, 9, 123, 140, 428, 456, 540, 679, 807, 1068, 1073, 1075, 1124, 1131, 1136,
-              1176, 1278, 1313, 1608ImmolerSacrifier, hazarder, livrer, abandonner, assouvir une passion (F).V. 238, 395, 459, 630, 736, 756, 824, 1139, 1188, 1258, 1677ImpostureCalomnie, tromperie, mensonge, hypocrisie (F).V. 1547ImprimerSe dit des sentiments, des images qui font impression dans l'esprit, dans le coeur,
-              dans la memoire (F).V. 971, 1745InconstanceLegereté, instabilité ; manque de fermeté, de durée, de resolution (F).V. 935InfortuneMalheur, desastre, perte causée par quelque accident fortuit ; disgrace, misere
-              (F).V. 423, 809InsigneSignalé, remarquable, qui se fait distinguer de ses semblables (F).V. 759InterdireTroubler, étonner, embarasser, deconcerter, en sorte qu'on ne sçache ce qu'on dit,
-              ni ce qu'on fait (F).V. 1154, 1308, 1541, 1644InterditTroublé, déconcerté, embarrassé (F).V. 491InterestCe qui concerne une personne.V. 1065JougSe dit figurément des choses qui assujettissent, qui contraignent ou qui imposent
-              une espèce de servitude (F).V. 1373JourSe dit figurément de la vie (F).V. 105, 129, 629, 809, 953, 1195, 1334, 1356, 1442, 1461, 1512, 1526, 1534,
-              1812LiensSe dit figurément des engagemens, des attachemens, des liaisons. Le lien conjugal,
-              c'est le mariage (F).V. 382, 482, 545, 1393LoisirUn certain espace de temps suffisant pour faire quelque chose (F).V. 135, 324LoisSe dit aussi en parlant des devoirs, des obligations, d'une soumission volontaire.
-              Un amant vit sous les lois de sa maîtresse (F).V. 73, 434, 493, 568, 885, 996, 1145, 1159LustreÉclat, brillant, splendeur, relief (F).V. 519ManderConvoquer, enjoindre de venir à soi (F).Mander quelqu'un, c'est lui donner avis ou ordre qu'il ait à venir, le charger de
-              faire quelque affaire (F).V. 78, 171, 1757MauxTroubles, agitations, que l'amour cause (F).V. 693, 726, 941, 1060, 1097, 1349, 1437, 1526, 1620MemoireSouvenir actuel (F).V. 735, 928MeriteAssemblage de plusieurs vertus ou bonnes qualitez en quelque personne (F).V. 21, 117, 323, 336, 560, 595, 1082, 1455, 1667MurmurerGronder, se plaindre (F).V. 733, 1207NaguèreIl y a peu, il n'y a pas long-temps, depuis peu (F).V. 1678ObscurQui n'est point connu ; qui n'a point d'éclat ; qui n'a point de reputation
-              (F).V. 895ObséderAssieger, importuner quelqu'un par son assiduité, ses demandes (F).V. 719OndeCe mot est plus de la poësie, que de la prose. Il signifie eau (R).V. 1376OpprobreHonte qui est attachée à une vilaine action ; injure ; affront ; ignominie
-              (F).V. 1706(s') OublierS'égarer, se laisser transporter (F).V. 1, 477, 1037, 1206 OutrageInjure atroce ; offense ; affront sensible et cruel (F).V. 320, 752, 757, 943, 1204, 1328OutragerOffenser cruellement, faire outrage (F).V. 320, 757PancherIncliner ; se porter (F).V. 453, 456PenteInclination (F).V. 127PompeSomptuosité ; appareil ; depense magnifique qu'on fait pour rendre quelque action
-              plus recommandable, plus solennelle, & plus éclatante (F).V. 3, 1744PrescrireOrdonner precisément à quelqu'un ce qu'il doit faire (F).V. 707, 1399PresserContraindre, obliger, solliciter, pousser, exciter avec chaleur (R).V. 507, 1035, 1159PrévaloirTirer avantage, se servir d'une chose à son avantage (R).V. 15PrévenuÊtre prévenu, c'est avoir de la prévention, ou de la préoccupation (R).V. 345, 1417PrixRecompense à disputer, & à juger à celui qui aura l'avantage à quelque
-              exercice, à quelque dispute (F).V. 856, 1143, 1401, 1816PromptPrêt à faire quelque chose sans tarder, qui l'execute sur le champ (F).V. 575(se) PromettreCroire, espérer (R).V. 220, 359, 564, 570(se) ProposerAvoir dessein, former le dessein de faire quelque chose (F).V. 159RaceLignée, lignage, extraction ; tous ceux qui viennent d'une même famille ;
-              generation continuée de pere en fils (...) Se dit aussi des anciennes familles
-              illustres (F).V. 1247RareSe dit de ce qui est précieux, et excellent ou des personnes extraordinaires en
-              sçavoir, en vertu, en merite (F).V. 197, 288, 595, 945, 1119RebutRebuffade, action de mépris, et de dédain (F).V. 740RendreCeder, acquiescer ; se livrer, se laisser vaincre (F).V. 1007RenommerNommer avec éloge, rendre celebre, mettre en reputation, bonne ou mauvaise
-              (F).V. 523ReposQuiétude et tranquilité d'esprit, état paisible ; sans trouble, sans crainte et
-              sans soin (F).V. 548, 804RésoudreFaire prendre résolution à quelqu'un (R).V. 1576, 1792RespectDeference, honneur, soumission ; consideration, égard (F).V. 1, 478, 518, 1829RevererHonorer ; respecter, venerer quelque personne ou quelque chose (F).V. 1235RévoquerSe dedire, changer de sentiment (F).V. 511RigueursOn dit les rigueurs d'une maîtresse ; pour dire, sa severité, sa vertu ; le refus
-              qu'elle fait de son coeur, de ses faveurs (F).V. 1226, 1360RuineMétaphoriquement, destruction de la faveur, de l'honneur, et de toute la personne
-              (S).V. 1794SangSe dit aussi de la parenté, de l'extraction ; de la race ; de la communion du sang
-              par la naissance (F).V. 33, 318, 445, 523, 660, 663, 969, 1204, 1454, 1791SçavantQui est bien instruit, bien informé de quelque chose, ou de quelque affaire
-              (F).V. 827SeconderAider, favoriser, servir quelqu'un dans un travail, dans une affaire (F).V. 1674SecoursAide, charité qu'on fait à quelqu'un ; protection, assistance qu'on lui donne dans
-              ses besoins (F).V. 220, 672, 697, 1090, 1525, 1598SeduireCorrompre ; abuser quelqu'un ; le tromper ; lui persuader de faire le mal, ou lui
-              mettre dans l'esprit quelque mauvaise doctrine (F).V. 315, 472, 1010SejourLieu considéré par rapport à l'habitation, à la demeure qu'on peut y faire
-              (F).V. 249, 425SoinsAttachement particulier qu'on a pour une maîtresse ; des services qu'on lui rend
-              pour lui plaire (F).V. 101, 321, 682, 684, 761, 796, 853, 997, 1053, 1141, 1261, 1325, 1481, 1554, 1565
-              1580, 1816SolliciterInciter, exciter, induire à faire quelque chose, travailler avec empressement à
-              faire reüssir une affaire ; demander avec instance (F).V. 1034SoutienAppui, defense, protection (F).V. 1672SouffrirNe se pas opposer à une chose, y consentir tacitement, la tolerer (F).V. 106, 202, 233, 493, 606, 683, 982, 1020, 1117, 1144, 1347, 1488, 1496, 1611,
-              1794, 1833SuiteGens qui accompagnent un Prince (R).V. 69SujetCause, occasion, matière, lieu ; raison, motif, fondement (F).V. 182, 548, 633, 892, 1390, 1763TantôtIl y a un instant (S).V. 515, 863, 1067, 1305, 1327TransportsSe dit figurément des passions pour en marquer l'excès, la violence, la vivacité
-              (F).V. 245, 265, 703, 1113, 1293TrépasMort ; passage d'une vie à l'autre (F).V. 933, 1001, 1457, 1671, 1708, 1803, 1823TriompherEntrer en triomphe solennellement, ou en vainqueur dans quelque ville (F).V. 167UserMettre à profit, menager, employer, se servir (F).V. 1058, 1440, 1841ValeurHardiesse ; bravoure ; courage ; ardeur belliqueuse ; qualité guerriere (F).V. 44, 441, 624, 1406VoeuxHommage, soins amoureux (F).V. 56, 171, 421, 564, 655, 725, 764, 1030, 1217, 1339, 1565, 1808VoyeMoyen, manière dont on se sert pour arriver à quelque fin.V. 584, 628
+V. 1488CourrouxMouvement impétueux de colère (F).V. 125, 304, 869, 925, 937, 1001, 1039, 1061, 1125, 1229, 1293, 1309, 1361CréanceConfiance (F).V. 1716CréditPuissance ; pouvoir ; creance (F).V. 113DébrisRestes ; ruines. Se dit figurément (F).V. 458(se) DécouvrirUn homme se découvre trop, lorsqu'il se declare trop ; qu'il ne cache pas assez ses affaires, ses sentiments (F).V. 911(se) DédireRetracter sa parole et en manquer (F).V. 1835, 1863DéfaireMettre en deroute des gens de guerre ; les obliger à fuir ; les tailler en pieces (F).V. 1374DéfianceMouvement de l'ame qui apprehende un mal ; soupçon ; crainte d'être trompé ; doute de soi-même, ou des autres (F).V. 1548DéfiantCraintif ; soupçonneux ; qui n'ose se fier à la fidélité de personne (F).V. 649(se) DéfierN'être pas assuré (F).V. 80DégagerS'affranchir ; rompre les liens ; se remettre en liberté ; se deffaire d'une passion (F).V. 545DegréTerme de genealogie, il se dit de la distance de la tige commune entre parens, pour marquer la proximité, ou l'éloignement des parentez ou alliances (F).V. 14DépitFâcherie mêlée de colere ; chagrin ; deplaisir court, et passager (F).V. 685DépostCe qu'on a mis et confié entre les mains de quelcun/se dit figurément des pensées et des secrets (F).V. 582DesseinResolution ; vüe ; projet ; entreprise ; intention (F).V. 206, 1733, 1741, 1820DétourAdresse ; subtilité ; pretexte ; finesse ; biais ; procedé peu sincere (F).V. 1588DifférentContraire en quelque point (F).V. 662DisgrâceMalheur ; accident ; revers ; infortune (F).V. 419Disputer àEntrer en concurrence pour emporter, ou conserver quelque chose (F).V. 218DescendreÊtre né, ou issu d'un père commun par une suite de generations, tirer son origine (F).V. 60DouteuxIncertain, sur quoi on ne doit point s'assurer (R).V. 371, 1457EclaterFaire paroître avec du bruit et de l'éclat ; découvrir, apprendre, faire connoître au public (F).V. 21, 557, 1371EclatPompe ; splendeur ; gloire ; lustre ; brillant (F).V. 756, 968, 1194, 1385EclairerInstruire, illuminer, rendre plus clairvoyant (F).V. 1748, 1759EclaircirDebrouiller ; rendre plus clair et plus intelligible ; s'instruire (F).V. 649, 793, 1577, 1820(s') EgarerDevenir un peu fou (R).V. 602EleverAggrandir ; mettre dans une place élevée ; accroître la fortune (F).V. 45EmbûcheEmbuscade ; entreprise secrette ; piege qu'on rend à quelqu'un ; conspiration qu'on fait contre lui (F).V. 1416EmpireCommandement ; domination ; pouvoir qu'on a sur quelque chose ; l'autorité qu'on exerce sur soi-même, ou sur les autres (F).V. 64, 533, 860, 1031, 1032, 1225EmployLe travail, l'occupation qu'on donne à quelqu'un, ou qu'on prend soi-même ; commission ; charge ; dignité (F).V. 172, 1715EmployerS'occuper soi-même, ou occuper les autres (F).V. 203EmportementTransport ; fougue ; mouvement violent, déréglé de l'ame qui la fait sortir hors des bornes de la raison. On se sert souvent de ce mot pour exprimer un amour aveugle et outré... (F).V. 867EmpresséQui est ardent, remuant, actif, diligent (F).V. 725, 1112EnchaisnerCaptiver ; lier ; joindre ; attacher (F).V. 539(s') EngagerOn dit engager son coeur, pour, dire, donner son amour, aimer (F).V. 1621EnnuyChagrin, tristesse, souci, déplaisir. En amour ennuy signifie tendre (F).V. 589EnnuyerFatiguer l'esprit. Faire, ou souffrir quelque chose avec chagrin, ou déplaisir (F).V. 146(s') EnquérirS'informer, demander une chose qu'on ne sçait pas, faire une recherche (F).V. 590(s') EntretenirFaire durer, faire continuer, faire subsister dans un certain état (F).V. 87, 1201EnvieDéplaisir qu'on a de voir ses égaux jouir de quelques avantages considérables (R).V. 47, 883, 1428, 1754EvénementIssuë, succès bon ou mauvais de quelque chose (F).V. 1848ExciterInciter, allumer, encourager, animer (F).V. 1213ExhalerSoulager (F).V. 29ExilerBannir, envoyer en retraite (F).V. 476ExorableQui se laisse vaincre et persuader par les raisons, les prières, et de la compassion (F).V. 761Exprès(adjectif) Précis, en termes si formels qu'il ne laisse aucun lieu de doute.V. 105(adverbe) Expressément ; à dessein (F).V. 194, 1749FeindreSe servir d'une fausse apparence, pour tromper, contrefaire, faire semblant, dissimuler.V. 1389, 1437, 1654Imaginer, inventer des choses fausses, controuver (F).V. 1843FeintDeguisé, contrefait, apparent, dissimulé (F).V. 1737FersToute sorte d'esclavage, et se dit particulièrement en matière d'amour (F).V. 77, 447, 538, 763, 861, 898, 947, 955, 1098FeuxSe dit figurément de la vivacité de l'esprit, de l'ardeur des passions (F).V. 218, 255, 280, 506, 720, 988, 1086, 1471, 1457, 1801FlâmeOn dit figurément la flamme de l'amour (F).V. 139, 181, 271, 287, 331, 351, 325, 476, 519, 525, 544, 555, 596, 640, 715, 824, 847, 1069, 1256, 1359, 1448, 1495, 1638, 1804, 1810FlaterDeguiser une verité qui seroit desagréable (...). Flater sa douleur, c'est-à-dire l'adoucir par quelques reflexions consolantes. Flater son amour, c'est-à-dire, se repaître d'esperances (F).V. 144, 1279, 1372, 1491FlateurCelui, ou celle qui flate (...). Se dit des écrits, des compliments, des manieres... (F).V. 87, 144FlétrirDeshonorer, diffamer (F).V. 1660FlottantIncertain, vacillant (F).V. 1865ForfaitSe dit des crimes en general (F).V. 942, 1252, 1260, 1660, 1685, 1748, 1832FortuneLe bonheur ou le malheur, ce qui arrive par hasard ; qui est fortuit et imprévu ; qui n'a point de cause certaine et connue (F).V. 1351, 1451, 1862FoyFidélité, assurance, promesse, serment... (F).V. 208, 222, 281, 641, 745, 973, 1034, 1045, 1139, 1476, 1493, 1856Confiance.V. 1434GenereuxBrave, vaillant, courageux (F).V. 944, 1475GesnerTourmenter le corps ou l'esprit (F).V. 71, 1011, 1067, 1123GracePlaisir, faveur (R).V. 725HautementClairement, manifestement, autentiquement (F).V. 1696HeurBonheur ; bonne fortune ; rencontre avantageuse (F).V. 91, 151, 393, 721, 960HistoiresC'est une narration continuée de choses vraies, grandes et publiques (...) pour l'instruction des particuliers et des Princes, pour le bien de la société civile (R).V. 175HommageSoumission, respect, obeissance, civilitez (F).V. 372, 459, 1203, 1339Hymen, hymenéeSignifie poëtiquement le mariage (F).V. 3, 8, 9, 123, 140, 428, 456, 540, 679, 807, 1068, 1073, 1075, 1124, 1131, 1136, 1176, 1278, 1313, 1608ImmolerSacrifier, hazarder, livrer, abandonner, assouvir une passion (F).V. 238, 395, 459, 630, 736, 756, 824, 1139, 1188, 1258, 1677ImpostureCalomnie, tromperie, mensonge, hypocrisie (F).V. 1547ImprimerSe dit des sentiments, des images qui font impression dans l'esprit, dans le coeur, dans la memoire (F).V. 971, 1745InconstanceLegereté, instabilité ; manque de fermeté, de durée, de resolution (F).V. 935InfortuneMalheur, desastre, perte causée par quelque accident fortuit ; disgrace, misere (F).V. 423, 809InsigneSignalé, remarquable, qui se fait distinguer de ses semblables (F).V. 759InterdireTroubler, étonner, embarasser, deconcerter, en sorte qu'on ne sçache ce qu'on dit, ni ce qu'on fait (F).V. 1154, 1308, 1541, 1644InterditTroublé, déconcerté, embarrassé (F).V. 491InterestCe qui concerne une personne.V. 1065JougSe dit figurément des choses qui assujettissent, qui contraignent ou qui imposent une espèce de servitude (F).V. 1373JourSe dit figurément de la vie (F).V. 105, 129, 629, 809, 953, 1195, 1334, 1356, 1442, 1461, 1512, 1526, 1534, 1812LiensSe dit figurément des engagemens, des attachemens, des liaisons. Le lien conjugal, c'est le mariage (F).V. 382, 482, 545, 1393LoisirUn certain espace de temps suffisant pour faire quelque chose (F).V. 135, 324LoisSe dit aussi en parlant des devoirs, des obligations, d'une soumission volontaire. Un amant vit sous les lois de sa maîtresse (F).V. 73, 434, 493, 568, 885, 996, 1145, 1159LustreÉclat, brillant, splendeur, relief (F).V. 519ManderConvoquer, enjoindre de venir à soi (F).Mander quelqu'un, c'est lui donner avis ou ordre qu'il ait à venir, le charger de faire quelque affaire (F).V. 78, 171, 1757MauxTroubles, agitations, que l'amour cause (F).V. 693, 726, 941, 1060, 1097, 1349, 1437, 1526, 1620MemoireSouvenir actuel (F).V. 735, 928MeriteAssemblage de plusieurs vertus ou bonnes qualitez en quelque personne (F).V. 21, 117, 323, 336, 560, 595, 1082, 1455, 1667MurmurerGronder, se plaindre (F).V. 733, 1207NaguèreIl y a peu, il n'y a pas long-temps, depuis peu (F).V. 1678ObscurQui n'est point connu ; qui n'a point d'éclat ; qui n'a point de reputation (F).V. 895ObséderAssieger, importuner quelqu'un par son assiduité, ses demandes (F).V. 719OndeCe mot est plus de la poësie, que de la prose. Il signifie eau (R).V. 1376OpprobreHonte qui est attachée à une vilaine action ; injure ; affront ; ignominie (F).V. 1706(s') OublierS'égarer, se laisser transporter (F).V. 1, 477, 1037, 1206 OutrageInjure atroce ; offense ; affront sensible et cruel (F).V. 320, 752, 757, 943, 1204, 1328OutragerOffenser cruellement, faire outrage (F).V. 320, 757PancherIncliner ; se porter (F).V. 453, 456PenteInclination (F).V. 127PompeSomptuosité ; appareil ; depense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solennelle, & plus éclatante (F).V. 3, 1744PrescrireOrdonner precisément à quelqu'un ce qu'il doit faire (F).V. 707, 1399PresserContraindre, obliger, solliciter, pousser, exciter avec chaleur (R).V. 507, 1035, 1159PrévaloirTirer avantage, se servir d'une chose à son avantage (R).V. 15PrévenuÊtre prévenu, c'est avoir de la prévention, ou de la préoccupation (R).V. 345, 1417PrixRecompense à disputer, & à juger à celui qui aura l'avantage à quelque exercice, à quelque dispute (F).V. 856, 1143, 1401, 1816PromptPrêt à faire quelque chose sans tarder, qui l'execute sur le champ (F).V. 575(se) PromettreCroire, espérer (R).V. 220, 359, 564, 570(se) ProposerAvoir dessein, former le dessein de faire quelque chose (F).V. 159RaceLignée, lignage, extraction ; tous ceux qui viennent d'une même famille ; generation continuée de pere en fils (...) Se dit aussi des anciennes familles illustres (F).V. 1247RareSe dit de ce qui est précieux, et excellent ou des personnes extraordinaires en sçavoir, en vertu, en merite (F).V. 197, 288, 595, 945, 1119RebutRebuffade, action de mépris, et de dédain (F).V. 740RendreCeder, acquiescer ; se livrer, se laisser vaincre (F).V. 1007RenommerNommer avec éloge, rendre celebre, mettre en reputation, bonne ou mauvaise (F).V. 523ReposQuiétude et tranquilité d'esprit, état paisible ; sans trouble, sans crainte et sans soin (F).V. 548, 804RésoudreFaire prendre résolution à quelqu'un (R).V. 1576, 1792RespectDeference, honneur, soumission ; consideration, égard (F).V. 1, 478, 518, 1829RevererHonorer ; respecter, venerer quelque personne ou quelque chose (F).V. 1235RévoquerSe dedire, changer de sentiment (F).V. 511RigueursOn dit les rigueurs d'une maîtresse ; pour dire, sa severité, sa vertu ; le refus qu'elle fait de son coeur, de ses faveurs (F).V. 1226, 1360RuineMétaphoriquement, destruction de la faveur, de l'honneur, et de toute la personne (S).V. 1794SangSe dit aussi de la parenté, de l'extraction ; de la race ; de la communion du sang par la naissance (F).V. 33, 318, 445, 523, 660, 663, 969, 1204, 1454, 1791SçavantQui est bien instruit, bien informé de quelque chose, ou de quelque affaire (F).V. 827SeconderAider, favoriser, servir quelqu'un dans un travail, dans une affaire (F).V. 1674SecoursAide, charité qu'on fait à quelqu'un ; protection, assistance qu'on lui donne dans ses besoins (F).V. 220, 672, 697, 1090, 1525, 1598SeduireCorrompre ; abuser quelqu'un ; le tromper ; lui persuader de faire le mal, ou lui mettre dans l'esprit quelque mauvaise doctrine (F).V. 315, 472, 1010SejourLieu considéré par rapport à l'habitation, à la demeure qu'on peut y faire (F).V. 249, 425SoinsAttachement particulier qu'on a pour une maîtresse ; des services qu'on lui rend pour lui plaire (F).V. 101, 321, 682, 684, 761, 796, 853, 997, 1053, 1141, 1261, 1325, 1481, 1554, 1565 1580, 1816SolliciterInciter, exciter, induire à faire quelque chose, travailler avec empressement à faire reüssir une affaire ; demander avec instance (F).V. 1034SoutienAppui, defense, protection (F).V. 1672SouffrirNe se pas opposer à une chose, y consentir tacitement, la tolerer (F).V. 106, 202, 233, 493, 606, 683, 982, 1020, 1117, 1144, 1347, 1488, 1496, 1611, 1794, 1833SuiteGens qui accompagnent un Prince (R).V. 69SujetCause, occasion, matière, lieu ; raison, motif, fondement (F).V. 182, 548, 633, 892, 1390, 1763TantôtIl y a un instant (S).V. 515, 863, 1067, 1305, 1327TransportsSe dit figurément des passions pour en marquer l'excès, la violence, la vivacité (F).V. 245, 265, 703, 1113, 1293TrépasMort ; passage d'une vie à l'autre (F).V. 933, 1001, 1457, 1671, 1708, 1803, 1823TriompherEntrer en triomphe solennellement, ou en vainqueur dans quelque ville (F).V. 167UserMettre à profit, menager, employer, se servir (F).V. 1058, 1440, 1841ValeurHardiesse ; bravoure ; courage ; ardeur belliqueuse ; qualité guerriere (F).V. 44, 441, 624, 1406VoeuxHommage, soins amoureux (F).V. 56, 171, 421, 564, 655, 725, 764, 1030, 1217, 1339, 1565, 1808VoyeMoyen, manière dont on se sert pour arriver à quelque fin.V. 584, 628
 
 
 # Bibliographie
@@ -3057,8 +2987,7 @@ V. 1488CourrouxMouvement impétueux de colère (F).V. 125, 304, 869, 925, 937, 1
 Pièces de théâtre de Monsieur Boursault
 Pièces de théâtre de Monsieur Boursault
 Germanicus
-Oeuvres de Monsieur Boursault contenant les pièces de
-                  théâtre
+Oeuvres de Monsieur Boursault contenant les pièces de théâtre
 Théâtre de feu Monsieur Boursault
 E. Boursault : Théâtre choisi
 
@@ -3068,8 +2997,7 @@ E. Boursault : Théâtre choisi
 Germanicus
 Satires et épîtres
 Maximes et réflexions sur la comédie
-Lettres nouvelles de Monsieur Boursault accompagnée de
-                  fables, contes, épigrammes...
+Lettres nouvelles de Monsieur Boursault accompagnée de fables, contes, épigrammes...
 Germanicus
 Germanicus
 Romans
@@ -3084,32 +3012,22 @@ La Germanie
 ## Ouvrages historiques et critiques
 
 
-### Instruments de travailDictionnaire universel contenant généralement tous
-                  les mots françois tant vieux que modernes et les termes de toutes les sciences et
-                  les artset al.
-Le Grand dictionnaire historique ou
-                  mythologique...
-Dictionnaire françois contenant les mots et les choses,
-                  plusieurs nouvelles remarques sur la langue françoise... avec les termes les plus
-                  connus des arts et des sciences
-Introduction à la langue française du XVIIème
-                  siècle
-Grammaire de la langue française du XVIIème
-                  siècle
-Bibliographie de la littérature française du
-                  XVIIème siècle
+### Instruments de travailDictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les artset al.
+Le Grand dictionnaire historique ou mythologique...
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise... avec les termes les plus connus des arts et des sciences
+Introduction à la langue française du XVIIème siècle
+Grammaire de la langue française du XVIIème siècle
+Bibliographie de la littérature française du XVIIème siècle
 Bibliographie d'histoire littéraire française
 Bibliographie
 
 
 
-### Approches générales du théâtre et de la littérature du XVII*e* siècleHistoire de la littérature française du XVIIème
-                  siècle
+### Approches générales du théâtre et de la littérature du XVII*e* siècleHistoire de la littérature française du XVIIème siècle
 La Poétique
 Morales du grand siècle
 La Tragédie de l'âge classique
-Introduction à l'analyse des textes
-                  classiques
+Introduction à l'analyse des textes classiques
 La Poétique
 La Dramaturgie classique en France
 La Tragédie classique
@@ -3120,412 +3038,266 @@ Lire le théâtre II
 
 ### Études sur Boursault, et sur GermanicusRecherches sur le lexique d'Edme Boursault
 Défense de la langue française
-Autour du XVIIème
-                  siècle : les libertins
-Recueil des publications de la
-                  société havraise
+Autour du XVIIème siècle : les libertins
+Recueil des publications de la société havraise
 Le Théâtre françois
 The Guénégaud Theatre in Paris : 1673-1680
 Prélude au siècle des lumières
 Le Théâtre du Marais
 Histoire générale illustrée du théâtre
-Les Contemporains de Molière : théâtre de l'hôtel de
-                  Bourgogne
+Les Contemporains de Molière : théâtre de l'hôtel de Bourgogne
 Le Théâtre au XVIIème siècle
 Edme Boursaults Leben und Werke
-Edme Boursault : nach seinem Leben und in seinen
-                  Werken
+Edme Boursault : nach seinem Leben und in seinen Werken
 Humanités
 Dictionnaire critique de biographie et d'histoire
 Etude sur Boursault
 Le Registre de La Grange
-Lycée ou cours de littérature ancienne et
-                  moderne
+Lycée ou cours de littérature ancienne et moderne
 Histoire de Mussy-L'Evêque
-History of french dramatic litterature in
-                  the seventeenth century
-L'Observateur
-                  littéraire
-Bibliothèque du théâtre
-                  françois
+History of french dramatic litterature in the seventeenth century
+L'Observateur littéraire
+Bibliothèque du théâtre françois
 Dictionnaire portatif des théâtres
 Histoire générale du théâtre en France
 Bibliothèque des théâtres
-Tablettes dramatiques contenant
-                  l'abrégé du théâtre françois
-Histoire du théâtre français des origines à nos
-                  jours
+Tablettes dramatiques contenant l'abrégé du théâtre françois
+Histoire du théâtre français des origines à nos jours
 Dictionnaire de biographie française
 
-Etudes
-                  littéraires et morales sur le XVIIème siècle
+Etudes littéraires et morales sur le XVIIème siècle
 Etudes littéraires
-Dictionnaire analytique des oeuvres théatrales
-                  françaises du XVIIème siècle
+Dictionnaire analytique des oeuvres théatrales françaises du XVIIème siècle
 
 
 -------
 
 
-[1] Voir St-R.
-                  Taillandier, « Un poète comique du temps de Molière », dans *Etudes
-                    littéraires*, Paris, p. 34.
+[1] Voir St-R. Taillandier, « Un poète comique du temps de Molière », dans *Etudes littéraires*, Paris, p. 34.
 
 [2] Louis, le grand ; Guillaume, le très grand.
 
-[3] Voir Hoffmann, *Edme Boursault : nach seinem
-                      Leben und in seinen Werken*, Metz, Lothringen Druckanstalt, 1902,
-                    p. 42.
+[3] Voir Hoffmann, *Edme Boursault : nach seinem Leben und in seinen Werken*, Metz, Lothringen Druckanstalt, 1902, p. 42.
 
-[4] Voir Ch.-A. Lambert, *Histoire de Mussy-l'Evêque*,
-                  Chaumont, Cavaniol, 1878, p. 434.
+[4] Voir Ch.-A. Lambert, *Histoire de Mussy-l'Evêque*, Chaumont, Cavaniol, 1878, p. 434.
 
-[5] Voir Molière, *L'Impromptu de Versailles*, sc. V, Paris, Gallimard, 1971,
-                p. 691
+[5] Voir Molière, *L'Impromptu de Versailles*, sc. V, Paris, Gallimard, 1971, p. 691
 
-[6] Voir Boileau, *Les Satires et épîtres*, Paris, Larousse, 1934, Satire
-                    IX, p. 50, v. 97-102.
+[6] Voir Boileau, *Les Satires et épîtres*, Paris, Larousse, 1934, Satire IX, p. 50, v. 97-102.
 
 [7] *Ibid.*, Satire IX, p. 56, v. 287-289.
 
 [8] Voir Boileau, *Lettres*, 1 avril 1700.
 
-[9] Voir *Théâtre de feu Monsieur Boursault*, éd. V.
-                    Fournel, 1725, p. 29 de l'Avertissement.
+[9] Voir *Théâtre de feu Monsieur Boursault*, éd. V. Fournel, 1725, p. 29 de l'Avertissement.
 
-[10] Voir
-                    Taillandier, art. cit., p. 103.
+[10] Voir Taillandier, art. cit., p. 103.
 
-[11] Voir P.Brun, « Un journaliste : Edme Boursault », dans
-                      *Autour du XVIIème siècle : les libertins*, Grenoble, H.
-                    Falque et F. Perrin, 1901, p. 165-166.
+[11] Voir P.Brun, « Un journaliste : Edme Boursault », dans *Autour du XVIIème siècle : les libertins*, Grenoble, H. Falque et F. Perrin, 1901, p. 165-166.
 
-[12]  Selon le registre de La Grange, *Germanicus* est
-                donnée au théâtre Guénégaud : le vendredi 13, le dimanche 15, le mardi 17, le
-                vendredi 20, le dimanche 22, le mardi 24, le vendredi 27 du mois d'octobre 1673 ; le
-                vendredi 23, le dimanche 25 en février 1674 ; le vendredi 26 , et le dimanche 28
-                juin 1676.
+[12]  Selon le registre de La Grange, *Germanicus* est donnée au théâtre Guénégaud : le vendredi 13, le dimanche 15, le mardi 17, le vendredi 20, le dimanche 22, le mardi 24, le vendredi 27 du mois d'octobre 1673 ; le vendredi 23, le dimanche 25 en février 1674 ; le vendredi 26 , et le dimanche 28 juin 1676.
 
-[13]  Signifie : de
-                l'écrit libre.
+[13]  Signifie : de l'écrit libre.
 
-[14] Voir F. Parfaict, *Histoire du théâtre français des
-                      origines à nos jours*, Paris, P. G. Lemercier et Saillant, 1747, t. 12,
-                    p. 148.
+[14] Voir F. Parfaict, *Histoire du théâtre français des origines à nos jours*, Paris, P. G. Lemercier et Saillant, 1747, t. 12, p. 148.
 
-[15] Voir Ch. Mouhy, *Tablettes
-                    dramatiques*, Paris, Jorry, 1752, p. 111.
+[15] Voir Ch. Mouhy, *Tablettes dramatiques*, Paris, Jorry, 1752, p. 111.
 
-[16] Voir Abbé de La Porte, « Théâtre de
-                  Boursault », dans *L'Observateur littéraire*, Vve Jouy, L.
-                  Bordelet, 1760, t. 2, p. 87.
+[16] Voir Abbé de La Porte, « Théâtre de Boursault », dans *L'Observateur littéraire*, Vve Jouy, L. Bordelet, 1760, t. 2, p. 87.
 
 [17] *Ibid.*, p. 81.
 
-[18] Voir J.-F. de Laharpe, *Lycée ou cours de littérature ancienne et
-                    moderne*, Paris, H. Agasse, 1803-1804, t. 1, p. 646.
+[18] Voir J.-F. de Laharpe, *Lycée ou cours de littérature ancienne et moderne*, Paris, H. Agasse, 1803-1804, t. 1, p. 646.
 
-[19] Voir *E.
-                      Boursault : Théâtre choisi, op. cit.*, éd. 1883, p.XXXV-VI.
+[19] Voir *E. Boursault : Théâtre choisi, op. cit.*, éd. 1883, p.XXXV-VI.
 
-[20] Voir L. Grawe, *Edme Boursaults Leben und Werke*,
-                    Lingen, Druck von J. L. V. Vel de Velmann, 1887, p.12 (citation traduite par
-                    l'établisseur du texte).
+[20] Voir L. Grawe, *Edme Boursaults Leben und Werke*, Lingen, Druck von J. L. V. Vel de Velmann, 1887, p.12 (citation traduite par l'établisseur du texte).
 
-[21] Voir H. C. Lancaster, *History of
-                      French Dramatic Litterature in the Seventeenth Century*, Baltimore, Johns
-                    Hopkins Press, 1929-1942, vol.V, p. 93 (citation traduite par l'établisseur du
-                    texte).
+[21] Voir H. C. Lancaster, *History of French Dramatic Litterature in the Seventeenth Century*, Baltimore, Johns Hopkins Press, 1929-1942, vol.V, p. 93 (citation traduite par l'établisseur du texte).
 
 [22] Voir P. Brun, art. cit., p. 144.
 
-[23] Voir Hoffmann, *op. cit.*, p. 82-83 (citation traduite par l'établisseur du
-                    texte).
+[23] Voir Hoffmann, *op. cit.*, p. 82-83 (citation traduite par l'établisseur du texte).
 
-[24] Voir V. Fournel, *Le Théâtre au XVIIème siècle*,
-                  Paris, Lecène, Oudin et Cie, 1892, p. 280.
+[24] Voir V. Fournel, *Le Théâtre au XVIIème siècle*, Paris, Lecène, Oudin et Cie, 1892, p. 280.
 
-[25] Voir *Lettres nouvelles de Monsieur
-                    Boursault*, Paris, veuve de T. Girard, 1697, p. 306.
+[25] Voir *Lettres nouvelles de Monsieur Boursault*, Paris, veuve de T. Girard, 1697, p. 306.
 
-[26] Les
-                  informations prises dans ce registre sont les plus plausibles. En effet, aucun
-                  historien ne s'entend en ce qui concerne la date de représentation de *Germanicus* : Mouhy propose 1670, Léris 1671, Maupoint 1673, Chrysostome
-                  Boursault 1672, les frères Parfaict 1679... Les solutions des contemporains de
-                  l'auteur sont certainement plus fiables.
+[26] Les informations prises dans ce registre sont les plus plausibles. En effet, aucun historien ne s'entend en ce qui concerne la date de représentation de *Germanicus* : Mouhy propose 1670, Léris 1671, Maupoint 1673, Chrysostome Boursault 1672, les frères Parfaict 1679... Les solutions des contemporains de l'auteur sont certainement plus fiables.
 
 [27] Melpomène est la muse de la tragédie.
 
 [28] Molière est mort le 17 février 1673.
 
-[29] Voir Hoffmann, *E. Boursault : nach
-                    seinem Leben und in seinen Werken*, Metz, Lothringen Druckanstalt, 1902,
-                  p. 87.
+[29] Voir Hoffmann, *E. Boursault : nach seinem Leben und in seinen Werken*, Metz, Lothringen Druckanstalt, 1902, p. 87.
 
-[30] Une fois le roman de Madame de La Fayette
-                  sorti et acclamé, *La Princesse de Clèves* est jouée à nouveau en
-                  1678, pour deux représentations (les 20 et 23 décembre), au théâtre Guénégaud,
-                  mais subit le même échec que la fois précédente. C'est ainsi qu'elle a été perdue
-                  et complètement oubliée. Seul un fragment du prologue a été conservé dans une des
-                  lettres de Boursault : le dialogue entre Melpomène et la Renommée.
+[30] Une fois le roman de Madame de La Fayette sorti et acclamé, *La Princesse de Clèves* est jouée à nouveau en 1678, pour deux représentations (les 20 et 23 décembre), au théâtre Guénégaud, mais subit le même échec que la fois précédente. C'est ainsi qu'elle a été perdue et complètement oubliée. Seul un fragment du prologue a été conservé dans une des lettres de Boursault : le dialogue entre Melpomène et la Renommée.
 
-[31] *Lettres nouvelles de Monsieur Boursault, op. cit.*,
-              p. 315.
+[31] *Lettres nouvelles de Monsieur Boursault, op. cit.*, p. 315.
 
-[32] Voir *E. Boursault : Théâtre choisi, op.
-                    cit.*, éd. 1883, dans les notes p. XXXVI.
+[32] Voir *E. Boursault : Théâtre choisi, op. cit.*, éd. 1883, dans les notes p. XXXVI.
 
-[33] Voir Parfaict,
-                      *op. cit.*, t. 13, p. 391.
+[33] Voir Parfaict, *op. cit.*, t. 13, p. 391.
 
-[34] Voir J. Truchet, *La Tragédie classique*, Paris,
-                  Armand Colin, 1964, p. 66.
+[34] Voir J. Truchet, *La Tragédie classique*, Paris, Armand Colin, 1964, p. 66.
 
-[35] Voir Hoffmann, *op.
-                    cit.*, p. 83 (citation traduite par l'établisseur du
-              texte).
+[35] Voir Hoffmann, *op. cit.*, p. 83 (citation traduite par l'établisseur du texte).
 
-[36] Voir La
-                  Mesnardière, *La Poétique*, Paris, A. de Sommaville, 1639,
-                  p. 36.
+[36] Voir La Mesnardière, *La Poétique*, Paris, A. de Sommaville, 1639, p. 36.
 
-[37] Ce sont des mots
-                  employés très régulièrement par Agripine.
+[37] Ce sont des mots employés très régulièrement par Agripine.
 
-[38] Voir Abbé La Porte, *op. cit.*,
-                  p. 80.
+[38] Voir Abbé La Porte, *op. cit.*, p. 80.
 
-[39] Lancaster ne s'accorde pas avec
-                  cette idée, et affirme que Pison est un des rôles masculins principaux, car le
-                  plus actif.
+[39] Lancaster ne s'accorde pas avec cette idée, et affirme que Pison est un des rôles masculins principaux, car le plus actif.
 
-[40] Voir
-                  Anne Ubersfeld, *Lire le théâtre*, Paris, Éditions Sociales, 1977,
-                  p. 63.
+[40] Voir Anne Ubersfeld, *Lire le théâtre*, Paris, Éditions Sociales, 1977, p. 63.
 
-[41] Voir La
-                  Mesnardière, *op. cit.*, p. 121.
+[41] Voir La Mesnardière, *op. cit.*, p. 121.
 
-[42] Voir J. Truchet citant Corneille, *op. cit.*,
-                    p. 75.
+[42] Voir J. Truchet citant Corneille, *op. cit.*, p. 75.
 
-[43] Voir J. Truchet, *op. cit.*,
-                    p. 79.
+[43] Voir J. Truchet, *op. cit.*, p. 79.
 
-[44] Voir *ibid.*,
-                    p. 79.
+[44] Voir *ibid.*, p. 79.
 
-[45] Voir Boursault, *Théâtre choisi*, Paris, Laplace,
-                    Sanchez et Cie, 1883, dans la notice biographique de Victor
-                  Fournel.
+[45] Voir Boursault, *Théâtre choisi*, Paris, Laplace, Sanchez et Cie, 1883, dans la notice biographique de Victor Fournel.
 
-[46] Pour toutes les définitions des figures de style (sauf
-                    la stychomythie), voir G. Forestier, *Introduction à l'analyse des
-                      textes classiques*, Paris, Nathan (coll. 128), 1993, p. 31 *et
-                      sq*.
+[46] Pour toutes les définitions des figures de style (sauf la stychomythie), voir G. Forestier, *Introduction à l'analyse des textes classiques*, Paris, Nathan (coll. 128), 1993, p. 31 *et sq*.
 
-[47] Il faut entendre « sœur par
-                alliance ».
+[47] Il faut entendre « sœur par alliance ».
 
-[48] Le père de
-                  Drusus, Tibère, est Empereur de Rome. Ce vaste Empire est alors le plus
-                  puissant.
+[48] Le père de Drusus, Tibère, est Empereur de Rome. Ce vaste Empire est alors le plus puissant.
 
-[49] Il s'agit d'un
-                  « abaissement » dans la hiérarchie : Drusus est le fils légitime de l'Empereur,
-                  alors que Germanicus n'est que son fils adoptif.
+[49] Il s'agit d'un « abaissement » dans la hiérarchie : Drusus est le fils légitime de l'Empereur, alors que Germanicus n'est que son fils adoptif.
 
-[50] Drusus, frère de Tibère, était le père de Livie et de
-                  Germanicus.
+[50] Drusus, frère de Tibère, était le père de Livie et de Germanicus.
 
-[51] Tibère, lui-même adopté par Auguste, a dû adopter son neveu
-                  Germanicus sur l'ordre d'Auguste. C'était la condition pour accéder au
-                  trône.
+[51] Tibère, lui-même adopté par Auguste, a dû adopter son neveu Germanicus sur l'ordre d'Auguste. C'était la condition pour accéder au trône.
 
-[52] Si
-                peu que.
+[52] Si peu que.
 
-[53] Il faut comprendre : le
-                  mariage avec lui. La « main » est utilisée tout au long du texte comme métaphore
-                  du mariage.
+[53] Il faut comprendre : le mariage avec lui. La « main » est utilisée tout au long du texte comme métaphore du mariage.
 
-[54] Et pour son premier coup, vaincre le Danube (la
-                Germanie).
+[54] Et pour son premier coup, vaincre le Danube (la Germanie).
 
-[55] Désigne
-                  Tibère. Cesar était à l'origine le surnom de la famille des Juliens, et deviendra
-                  un titre d'honneur revêtu par les Empereurs romains.
+[55] Désigne Tibère. Cesar était à l'origine le surnom de la famille des Juliens, et deviendra un titre d'honneur revêtu par les Empereurs romains.
 
-[56] Pour lui
-                  faire obtenir un engagement.
+[56] Pour lui faire obtenir un engagement.
 
 [57] J'aurais tort de m'en plaindre.
 
-[58] La virgule a
-                  été supprimée par l'établisseur du texte, afin d'éviter tout contresens.
+[58] La virgule a été supprimée par l'établisseur du texte, afin d'éviter tout contresens.
 
-[59] Il s'agit d'Antoine, qui devint
-                  l'instrument politique de Cléopâtre, la reine d'Egypte, dès qu'il l'eût
-                  épousé.
+[59] Il s'agit d'Antoine, qui devint l'instrument politique de Cléopâtre, la reine d'Egypte, dès qu'il l'eût épousé.
 
-[60] Il s'agit de son
-                  défunt mari Caïus, qui devait succéder à Auguste.
+[60] Il s'agit de son défunt mari Caïus, qui devait succéder à Auguste.
 
 [61] Depuis qu'il est Empereur.
 
-[62] Vous ne me
-                  cédez pas.
+[62] Vous ne me cédez pas.
 
-[63] Il faut
-                  comprendre « me prendre comme époux ».
+[63] Il faut comprendre « me prendre comme époux ».
 
 [64] Le peuple.
 
-[65] Auquel. (Au
-                    XVII*e* siècle, « où » est souvent employé à la place d'autres
-                  pronoms relatifs.)
+[65] Auquel. (Au XVII*e* siècle, « où » est souvent employé à la place d'autres pronoms relatifs.)
 
 [66] Se sacrifier.
 
-[67] Quelque vertu
-                  feinte, ou forcée.
+[67] Quelque vertu feinte, ou forcée.
 
 [68] Il s'est soumis à votre volonté.
 
-[69] Varus était
-                  un des chefs de l'armée romaine, envoyé par Tibère en Germanie. Il fut secouru par
-                  Germanicus quand la révolte commença.
+[69] Varus était un des chefs de l'armée romaine, envoyé par Tibère en Germanie. Il fut secouru par Germanicus quand la révolte commença.
 
-[70] Il s'agit de Germanicus
-                  qui envoie en secret des lettres d'amour à Agripine, par l'intermédiaire de
-                  Pison.
+[70] Il s'agit de Germanicus qui envoie en secret des lettres d'amour à Agripine, par l'intermédiaire de Pison.
 
 [71] Synérèse.
 
-[72] Se découvrir. (Au XVII*e* siècle, le pronom
-                  réfléchi est régulièrement omis, en particulier quand le verbe est régi par un
-                  autre).
+[72] Se découvrir. (Au XVII*e* siècle, le pronom réfléchi est régulièrement omis, en particulier quand le verbe est régi par un autre).
 
-[73] Auprès
-                  de.
+[73] Auprès de.
 
 [74] En même temps que.
 
-[75] Correspond au Général d'armée, titre de
-                Germanicus.
+[75] Correspond au Général d'armée, titre de Germanicus.
 
-[76] La signature de la
-                  lettre n'appartient pas au vers précédent, n'étant pas pris en compte dans le
-                  nombre des syllabes.
+[76] La signature de la lettre n'appartient pas au vers précédent, n'étant pas pris en compte dans le nombre des syllabes.
 
-[77] Imitation du *Bérénice* de Racine : voir v.
-                  173 et suivants (acte 1, scène 4).
+[77] Imitation du *Bérénice* de Racine : voir v. 173 et suivants (acte 1, scène 4).
 
 [78] Diérèse.
 
-[79] Aucune ponctuation ne figure sur l'édition originale. Nous
-                  corrigeons.
+[79] Aucune ponctuation ne figure sur l'édition originale. Nous corrigeons.
 
-[80] Doublet poétique de la préposition « avec », utilisée ici pour obtenir trois
-                  syllabes.
+[80] Doublet poétique de la préposition « avec », utilisée ici pour obtenir trois syllabes.
 
-[81] Utilisation du vocabulaire courtois. Ici, « coup » signifie
-                  « trait, ou flèche d'amour ».
+[81] Utilisation du vocabulaire courtois. Ici, « coup » signifie « trait, ou flèche d'amour ».
 
-[82] Ce retrait est
-                  significatif : il marque le début de la tirade, où se fait l'aveu
-                d'amour.
+[82] Ce retrait est significatif : il marque le début de la tirade, où se fait l'aveu d'amour.
 
-[83] Aurait
-                  dû. (Au XVII*e* siècle, on utilisait le passé composé pour dire
-                  le conditionnel des verbes modaux).
+[83] Aurait dû. (Au XVII*e* siècle, on utilisait le passé composé pour dire le conditionnel des verbes modaux).
 
-[84] Les aveux de Pison ressemble beaucoup à ceux d'Antiochus
-                  dans *Bérénice* : voir v. 185 et suivants (acte I, scène
-                  4).
+[84] Les aveux de Pison ressemble beaucoup à ceux d'Antiochus dans *Bérénice* : voir v. 185 et suivants (acte I, scène 4).
 
-[85] Il faut
-                  comprendre que ses yeux faisaient involontairement une action indigne d'elle,
-                  elle, la petite-fille d'Auguste.
+[85] Il faut comprendre que ses yeux faisaient involontairement une action indigne d'elle, elle, la petite-fille d'Auguste.
 
 [86] De s'arrester. 
 
 [87] Se séparer (au sens de diverger).
 
-[88] Ma
-                  destinée. (Pison a été entraîné à l'aimer sans le vouloir.)
+[88] Ma destinée. (Pison a été entraîné à l'aimer sans le vouloir.)
 
 [89] Une personne qu'on croit être un ami.
 
-[90] J'ai agi
-                  contre moi-même.
+[90] J'ai agi contre moi-même.
 
-[91] Si
-                  il était.
+[91] Si il était.
 
-[92] Par « desordre », il
-                  faut comprendre : désordre des sens, autrement dit trouble.
+[92] Par « desordre », il faut comprendre : désordre des sens, autrement dit trouble.
 
-[93] Autre
-                  lieu.
+[93] Autre lieu.
 
-[94] Une fois
-                    encore, ces adieux sont inspirés du *Bérénice* de Racine : voir
-                    v. 269 et suivants (acte I, scène 4).
+[94] Une fois encore, ces adieux sont inspirés du *Bérénice* de Racine : voir v. 269 et suivants (acte I, scène 4).
 
-[95] Je crains de le
-                  voir.
+[95] Je crains de le voir.
 
-[96] Consul,
-                  puis gouverneur en Afrique, et revenu en triomphe à Rome, Luculle vécut de manière
-                  fastueuse et se rendit célèbre par le luxe qui l'entourait.
+[96] Consul, puis gouverneur en Afrique, et revenu en triomphe à Rome, Luculle vécut de manière fastueuse et se rendit célèbre par le luxe qui l'entourait.
 
-[97] Germanicus a, en effet, connu de belles victoires sur les peuples
-                  de Germanie et de Pannonie.
+[97] Germanicus a, en effet, connu de belles victoires sur les peuples de Germanie et de Pannonie.
 
-[98] Malgré les indications données par le texte, il est impossible
-                  d'identifier précisément Emilie.
+[98] Malgré les indications données par le texte, il est impossible d'identifier précisément Emilie.
 
 [99] Diérèse.
 
-[100] 
-                  Paul-Emile et Pompée sont deux illustres personnages de l'histoire romaine. Le
-                  premier fut un général romain célèbre pour ses victoires en Macédoine. Le second,
-                  grand homme d'état, forma le premier *triumvirat* avec Cesar, et
-                  se fit proclamé consul unique par le Sénat.
+[100]  Paul-Emile et Pompée sont deux illustres personnages de l'histoire romaine. Le premier fut un général romain célèbre pour ses victoires en Macédoine. Le second, grand homme d'état, forma le premier *triumvirat* avec Cesar, et se fit proclamé consul unique par le Sénat.
 
-[101] Il
-                  s'agit de Drusus, qui est son rival pour l'amour d'Agripine.
+[101] Il s'agit de Drusus, qui est son rival pour l'amour d'Agripine.
 
 [102] Dont.
 
 [103] Unique.
 
-[104] Le texte original mettait ici un point, qui
-                  séparait la subordonnée de sa principale. Nous corrigeons.
+[104] Le texte original mettait ici un point, qui séparait la subordonnée de sa principale. Nous corrigeons.
 
-[105] Encore une
-                  fois.
+[105] Encore une fois.
 
 [106] A des moments de faiblesse.
 
-[107] On retrouve une fois de plus l'imprégnation de Racine :
-                  voir Bérénice au v. 850 et suivants (acte III, scène 3).
+[107] On retrouve une fois de plus l'imprégnation de Racine : voir Bérénice au v. 850 et suivants (acte III, scène 3).
 
 [108] Ressent.
 
-[109] Selon
-                  son propre désir.
+[109] Selon son propre désir.
 
-[110] Et quel que soit le motif pour lequel vous blâmez ma
-                  passion.
+[110] Et quel que soit le motif pour lequel vous blâmez ma passion.
 
 [111] Diérèse.
 
 [112] Diérèse.
 
-[113] L'Aventin est
-                  une des sept collines de Rome.
+[113] L'Aventin est une des sept collines de Rome.
 
 [114] Si.
 
@@ -3533,45 +3305,33 @@ Dictionnaire analytique des oeuvres théatrales
 
 [116] Prêt à.
 
-[117]  Ce vers fait penser à l'attitude de Pyrrhus dans *Andromaque* de Racine, qui lors d'un entretien avec Phoenix, ne cesse de
-                  parler d'Andromaque, alors qu'il a promis de l'oublier : voir acte II, scène
-                  V.
+[117]  Ce vers fait penser à l'attitude de Pyrrhus dans *Andromaque* de Racine, qui lors d'un entretien avec Phoenix, ne cesse de parler d'Andromaque, alors qu'il a promis de l'oublier : voir acte II, scène V.
 
-[118] Malgré la principale, il s'agit d'interrogations directes. On peut
-                  supposer que, comme la ponctuation l'indique, Pison attend une réponse à ses
-                  questions. Et puisque nous sommes au théâtre, ces points d'interrogation servent
-                  également d'indicateurs pour l'intonation des acteurs. 
+[118] Malgré la principale, il s'agit d'interrogations directes. On peut supposer que, comme la ponctuation l'indique, Pison attend une réponse à ses questions. Et puisque nous sommes au théâtre, ces points d'interrogation servent également d'indicateurs pour l'intonation des acteurs. 
 
 [119] Agir de manière indigne.
 
 [120]  Mes combats.
 
-[121]  Plus était grand le
-                  nombre de.
+[121]  Plus était grand le nombre de.
 
-[122] 
-                  N'est-elle.
+[122]  N'est-elle.
 
 [123]  Assurément.
 
-[124]  Autrement dit « votre coeur voulant compenser son
-                  dépit ».
+[124]  Autrement dit « votre coeur voulant compenser son dépit ».
 
-[125] 
-                Comme à celui qui.
+[125]  Comme à celui qui.
 
-[126]  Quoique vous ayez été aimé avec le consentement de mon
-                  père.
+[126]  Quoique vous ayez été aimé avec le consentement de mon père.
 
 [127]  Ramenez-moi.
 
-[128]  Ces injustes reproches rappellent ceux de Britannicus à Junie :
-                  voir v. 965 et suivants (acte III, scène 7).
+[128]  Ces injustes reproches rappellent ceux de Britannicus à Junie : voir v. 965 et suivants (acte III, scène 7).
 
 [129]  Légitime.
 
-[130] 
-                  Signifie : blâmer, ou désirer se venger.
+[130]  Signifie : blâmer, ou désirer se venger.
 
 [131]  Ne me faites pas perdre mon honneur.
 
@@ -3583,20 +3343,15 @@ Dictionnaire analytique des oeuvres théatrales
 
 [135]  Faire savoir.
 
-[136]  En réalité,
-                  Agripine est la petite-fille d'Auguste, son père étant Agrippa.
+[136]  En réalité, Agripine est la petite-fille d'Auguste, son père étant Agrippa.
 
-[137]  En réalité,
-                  Agripine est la petite-fille d'Auguste, son père étant Agrippa.
+[137]  En réalité, Agripine est la petite-fille d'Auguste, son père étant Agrippa.
 
-[138]  Il nous est impossible d'identifier ce personnage. Il
-                  existe beaucoup de Ruffus, mais tous sans lien avec celui-ci.
+[138]  Il nous est impossible d'identifier ce personnage. Il existe beaucoup de Ruffus, mais tous sans lien avec celui-ci.
 
 [139]  Par.
 
-[140]  Manlius fit couper la
-                  tête de son propre fils, parce que celui-ci, bien que victorieux, avait combattu
-                  malgré l'interdiction de son père dans la guerre contre les Latins.
+[140]  Manlius fit couper la tête de son propre fils, parce que celui-ci, bien que victorieux, avait combattu malgré l'interdiction de son père dans la guerre contre les Latins.
 
 [141]  Franchement.
 
@@ -3604,69 +3359,51 @@ Dictionnaire analytique des oeuvres théatrales
 
 [143]  Diérèse.
 
-[144] 
-                Être l'objet de.
+[144]  Être l'objet de.
 
-[145] 
-                  Sous-entendu « m'auraient arraché le jour » : m'auraient fait mourrir.
+[145]  Sous-entendu « m'auraient arraché le jour » : m'auraient fait mourrir.
 
-[146]  En
-                  témoignent la majesté suprême des Dieux.
+[146]  En témoignent la majesté suprême des Dieux.
 
 [147]  Dont je suis issue.
 
-[148] 
-                  Si.
+[148]  Si.
 
-[149]  Voir le *Bérénice* de Racine, où on lit :
-                  « Hé bien, vous le voulez, il faut vous satisfaire. » (v. 888, acte III, scène
-                  3).
+[149]  Voir le *Bérénice* de Racine, où on lit : « Hé bien, vous le voulez, il faut vous satisfaire. » (v. 888, acte III, scène 3).
 
-[150] Intervenir dans votre
-                querelle.
+[150] Intervenir dans votre querelle.
 
 [151]  Tant que.
 
 [152]  Epouser.
 
-[153]  Le Capitole, mont considérable de Rome, construit d'une forteresse
-                  et d'une soixantaine de temples, était le symbole de la puissance et de la
-                  religion romaine. On y portait en triomphe les grands vainqueurs.
+[153]  Le Capitole, mont considérable de Rome, construit d'une forteresse et d'une soixantaine de temples, était le symbole de la puissance et de la religion romaine. On y portait en triomphe les grands vainqueurs.
 
-[154] 
-                  Diérèse.
+[154]  Diérèse.
 
-[155] 
-                Contre laquelle.
+[155]  Contre laquelle.
 
-[156] 
-                  Faites une introspection.
+[156]  Faites une introspection.
 
 [157]  A vous haïr.
 
-[158]  Arminius est le chef d'un des peuples germains vaincus par
-                  Germanicus.
+[158]  Arminius est le chef d'un des peuples germains vaincus par Germanicus.
 
 [159]  Fille de L. Pison, Calpurnie épousa Jules Cesar.
 
 [160]  Qu'on vient de te promettre.
 
-[161] 
-                  Plancine est la femme de Pison, le frère du personnage du même nom, qui porte
-                  aussi ce surnom familial. Elle est également l'ennemie jurée d'Agripine.
+[161]  Plancine est la femme de Pison, le frère du personnage du même nom, qui porte aussi ce surnom familial. Elle est également l'ennemie jurée d'Agripine.
 
-[162]  Quel que soit
-                l'espoir.
+[162]  Quel que soit l'espoir.
 
 [163]  Finirait sa vie.
 
-[164]  Si j'ai
-                  d'autre ambition que.
+[164]  Si j'ai d'autre ambition que.
 
 [165]  Les Ubiens et les Bataves sont des peuples germains.
 
-[166]  Les
-                  lauriers symbolisent la victoire.
+[166]  Les lauriers symbolisent la victoire.
 
 [167]  Auguste a été divinisé après sa mort.
 
@@ -3674,26 +3411,19 @@ Dictionnaire analytique des oeuvres théatrales
 
 [169]  Diérèse.
 
-[170]  Tibère, après avoir adopté Germanicus, a été désigné successeur
-                  d'Auguste.
+[170]  Tibère, après avoir adopté Germanicus, a été désigné successeur d'Auguste.
 
 [171]  Agrippa était non seulement le gendre d'Auguste, mais aussi son favori.
 
-[172]  Ce vers était faux, car il ne comportait que onze syllabes. Nous
-                  nous sommes permis de corriger en nous aidant du contexte, et d'ajouter un
-                  adjectif possessif devant « père ».
+[172]  Ce vers était faux, car il ne comportait que onze syllabes. Nous nous sommes permis de corriger en nous aidant du contexte, et d'ajouter un adjectif possessif devant « père ».
 
-[173]  Loin
-                  d'agir en secret.
+[173]  Loin d'agir en secret.
 
-[174]  Il faut
-                  comprendre : un crime.
+[174]  Il faut comprendre : un crime.
 
-[175] 
-                  Il s'agit du cœur de Germanicus.
+[175]  Il s'agit du cœur de Germanicus.
 
-[176]  Frémissez
-                  de peur.
+[176]  Frémissez de peur.
 
 [177]  Ne se contrôlait pas.
 
@@ -3701,8 +3431,7 @@ Dictionnaire analytique des oeuvres théatrales
 
 [179]  Tout ce que j'aurais pû faire.
 
-[180]  Qui ont
-                  des faveurs auprès de protecteurs.
+[180]  Qui ont des faveurs auprès de protecteurs.
 
 [181]  Loin de se hasarder.
 
@@ -3712,46 +3441,31 @@ Dictionnaire analytique des oeuvres théatrales
 
 [184]  Par un.
 
-[185]  Il s'en est fallu de peu pour qu'il ne me reconnaisse
-                pas.
+[185]  Il s'en est fallu de peu pour qu'il ne me reconnaisse pas.
 
-[186]  Leur. (Au XVII*e* siècle, « ressembler » était
-                  un verbe transitif direct. Parfois, il se construisait également de manière
-                  absolue.)
+[186]  Leur. (Au XVII*e* siècle, « ressembler » était un verbe transitif direct. Parfois, il se construisait également de manière absolue.)
 
 [187]  Tombé sous l'empire du vice.
 
-[188]  Jamais la mort de héros tels que lui ne demeure
-                cachée.
+[188]  Jamais la mort de héros tels que lui ne demeure cachée.
 
-[189] 
-                  L'ambigüité de cette réponse crée un quiproquo temporaire. Là où Albin dit que
-                  Pison a terminé son propre sort (c'est-à-dire qu'il est mort), Agripine comprend
-                  qu'il a terminé celui de Germanicus (donc qu'il l'a tué).
+[189]  L'ambigüité de cette réponse crée un quiproquo temporaire. Là où Albin dit que Pison a terminé son propre sort (c'est-à-dire qu'il est mort), Agripine comprend qu'il a terminé celui de Germanicus (donc qu'il l'a tué).
 
 [190]  Est mort.
 
-[191]  Une fois encore, le
-                  retrait est chargé de sens : il marque le début du récit de la mort de
-                  Pison.
+[191]  Une fois encore, le retrait est chargé de sens : il marque le début du récit de la mort de Pison.
 
-[192] 
-                  Diérèse.
+[192]  Diérèse.
 
-[193] Dès
-                    qu'il.
+[193] Dès qu'il.
 
 [194]  Il faut comprendre : reconnu.
 
-[195]  Il s'agit
-                  du frère de la victime, qui porte le même surnom familial que lui. Celui-ci fut
-                  d'ailleurs accusé de l'empoisonnement de Germanicus, probablement dicté par
-                  Tibère.
+[195]  Il s'agit du frère de la victime, qui porte le même surnom familial que lui. Celui-ci fut d'ailleurs accusé de l'empoisonnement de Germanicus, probablement dicté par Tibère.
 
 [196]  Agripine est métaphoriquement dans le coeur de Pison.
 
-[197]  A
-                  tout moment.
+[197]  A tout moment.
 
 [198]  Diérèse.
 

@@ -13,8 +13,7 @@ Tragédie
 PAR Mr. ABBEILLE [44]
 
 A LA HAYE, Chez ADRIAN MOETJENS, Marchand Libraire prez de la Cour, à la Librairie [45] Françoise, 1681.
-Édition critique établie par Housna Badat dans le cadre d'un mémoire de master 1
-          sous la direction de Georges Forestier
+Édition critique établie par Housna Badat dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier
 2006-2007
 
 
@@ -804,8 +803,7 @@ Vous me dites encore que j'ayme, que j'espere .
 Ouy ; de Lyncée Iphis ne soyez point Jaloux,  
 D'Hypermestre Jamais il ne sera l'Epoux.  
 
-    IPHIS.
-             
+    IPHIS.  
 Dites , dites aussy , pour endormir ma hayne,  
 Qu' Hipermestre consent à soulager ma peine.  
 Que pour elle Lyncée est un objet d'horreur,  
@@ -2900,47 +2898,20 @@ Douter au moins s'ils sont de douleur ou d'amour.  < FIN >
 
 # Glossaire
 
-Les mots qui figurent dans ce glossaire sont ceux dont le sens actuel diffère de celui du XVII*e* siècle. En règle générale, pour les définitions, nous avons fait le choix de nous intéresser au *Dictionnaire universel* d'Antoine Furetière [113], excepté lorsqu'il nous semblait trop éloigné ou imprécis pour le mot de la pièce ; dans ce cas précis, la référence est indiquée après la définition.ACCABLER : v. act.Faire tomber une chose pesante sur une autre qui l'oblige à succomber sous un poids
-              excessif.
-    Il a été *accablé* sous la ruine de cette maison.Signifie aussi Périr de quelque façon que ce soit dans quelque renversement général
-              de l'Etat.Se dit figurément en Morale des gens trop chargés d'affaires, de debtes, d'impôts,
-              ou de malheurs.V. 198-207-442-776-781-939.
-    Il est accablé de chagrin, de gens qui l'importunent. *Accablé*
-              de vieillesse, *accablé* de sommeil.
-    On le dit même en bonne part : *Accabler* de presens, de
-              bienfaits, de complimens.APPAREIL : s.m.Ce qu'on prépare pour faire une chose plus ou moins solennelle. Dans notre pièce,
-              les appareils désignent spécifiquement les préparatifs des noces.
+Les mots qui figurent dans ce glossaire sont ceux dont le sens actuel diffère de celui du XVII*e* siècle. En règle générale, pour les définitions, nous avons fait le choix de nous intéresser au *Dictionnaire universel* d'Antoine Furetière [113], excepté lorsqu'il nous semblait trop éloigné ou imprécis pour le mot de la pièce ; dans ce cas précis, la référence est indiquée après la définition.ACCABLER : v. act.Faire tomber une chose pesante sur une autre qui l'oblige à succomber sous un poids excessif.
+    Il a été *accablé* sous la ruine de cette maison.Signifie aussi Périr de quelque façon que ce soit dans quelque renversement général de l'Etat.Se dit figurément en Morale des gens trop chargés d'affaires, de debtes, d'impôts, ou de malheurs.V. 198-207-442-776-781-939.
+    Il est accablé de chagrin, de gens qui l'importunent. *Accablé* de vieillesse, *accablé* de sommeil.
+    On le dit même en bonne part : *Accabler* de presens, de bienfaits, de complimens.APPAREIL : s.m.Ce qu'on prépare pour faire une chose plus ou moins solennelle. Dans notre pièce, les appareils désignent spécifiquement les préparatifs des noces.
     L'entrée du Roy après son mariage s'est faite avec beaucoup *d'appareils* et de magnificence.V. 28-690.APPREST : subst. Masc.Ce qu'on se prépare pour quelque cérémonie, réjouissance au festin.
     On fait de grands apprests et préparatifs pour l'entrée du Roy.APPRESTER : vb, act.Préparer les choses nécessaires pour ce qu'on a dessein de faire bientôt.
-    Cet homme *s'appreste* à partir.V. 29.ARTIFICE : s. m.Adresse, industrie de faire les choses avec beaucoup de subtilité, de
-              précaution.Signifie aussi Fraude, deguisement, mauvaise finesse.V. 462-759-772-1208.ASSOUPIR : vb. act.Endormir à demi, boucher les passages des esprits qui sont nécessaires pour
-              agir.V. 576.BARBARE : adj. et subst. masc.et fem.Étranger qui est d'un pays fort éloigné, sauvage, mal poli, cruel et qui a des
-              mœurs forts differentes des nostres.V. 55-155.Signifie aussi seulement, Cruel, impitoyable, qui n'écoute point la pitié, ni la
-              raison.V. 122-521-530-699-81-838-1143-1174-1304.BESOIN : subst. masc.Manque de quelque chose. Il faut avoir recours à Dieu dans tous ses besoins et
-              necessités.
-    Le ciel n'abandonne pas ses amis au *besoin*.V. 170.CHAGRIN : s. m. et adj.Inquietude, ennuy, melancolie. forme de torture morale intense.ENNUY : s. m.Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou
-              trop long.
-    Il se meurt *d'ennuy*.Lassitude, langueur, fatigue d'esprit, causée par une chose qui déplaît par
-              elle-même, ou par la durée, ou par la disposition dans laquelle on se trouve
-              (définition de l'*Académie Française* [114]).V. 43-225.ENNUYER : v. act. et n.Ouïr, ou faire, ou souffrir quelque chose avec chagrin, avec déplaisir, causer de
-              l'ennuy.ENTREPRISE : s. f.Résolution hardie de faire quelque chose.V. 273.Se dit aussi au Palais des attentats que font les juges sur la juridiction les uns
-              des autres et sur l'autorité de leurs charges terme de Police.En terme de guerre, se dit d'un dessein qu'on forme, du devoir où on se met de
-              surprendre, de conquérir une place.V. 226.Se dit aussi des desseins qu'on a sur la vie de quelqu'un.V. 226-454Chasse : attaque hardie.FIER : adj.Hautain, altier.Cruel, tyran (du latin *Ferox*).FIERTE : s. f.Orgueil, estime de soi.V. 1188-1282.GESNE : s. f.Question, torture ….Se dit aussi de toute peine ou affliction de corps ou d'esprit.V. 222.
-    Un amant, pour exprimer la passion, dit aussi que l'amour luy fait
-              souffrir
-    Les plus cruelles *gesnes*, pour dire, des tourments.Idée d'être contraint, incommodé.GLOIRE : subst. f.Majesté de Dieu, la veuë de sa puissance, de sa grandeur infinie. (On parle de
-              « louanges » par des particuliers mais de « gloire » par le général du monde).V. 313-570-1142-1155.L'honneur qu'on rend à Dieu des louanges qui lui sont doués.Se dit par emprunt et par participation de l'honneur mondain. Honneur, vertu.V. 900-1062-1473.Signifie quelquefois Orgueil, présomption, bonne opinion qu'on a de soy-même.V. 2-161-1393.HYMEN : subs. masc.Signifie poëtiquement, le mariage. Il est sous le joug de *l'hymen*. On dit encore en ce sens, hyménée.V. 30-445-513-518-611-615-626-661-1238.POMPE : subst. fem.Depense magnifique qu'on fait pour rendre quelque action plus recommandable, plus
-              solennelle, plus eclatante.V. 517-626-668.
+    Cet homme *s'appreste* à partir.V. 29.ARTIFICE : s. m.Adresse, industrie de faire les choses avec beaucoup de subtilité, de précaution.Signifie aussi Fraude, deguisement, mauvaise finesse.V. 462-759-772-1208.ASSOUPIR : vb. act.Endormir à demi, boucher les passages des esprits qui sont nécessaires pour agir.V. 576.BARBARE : adj. et subst. masc.et fem.Étranger qui est d'un pays fort éloigné, sauvage, mal poli, cruel et qui a des mœurs forts differentes des nostres.V. 55-155.Signifie aussi seulement, Cruel, impitoyable, qui n'écoute point la pitié, ni la raison.V. 122-521-530-699-81-838-1143-1174-1304.BESOIN : subst. masc.Manque de quelque chose. Il faut avoir recours à Dieu dans tous ses besoins et necessités.
+    Le ciel n'abandonne pas ses amis au *besoin*.V. 170.CHAGRIN : s. m. et adj.Inquietude, ennuy, melancolie. forme de torture morale intense.ENNUY : s. m.Chagrin, fâcherie que donne quelque discours, ou quelque accident déplaisant, ou trop long.
+    Il se meurt *d'ennuy*.Lassitude, langueur, fatigue d'esprit, causée par une chose qui déplaît par elle-même, ou par la durée, ou par la disposition dans laquelle on se trouve (définition de l'*Académie Française* [114]).V. 43-225.ENNUYER : v. act. et n.Ouïr, ou faire, ou souffrir quelque chose avec chagrin, avec déplaisir, causer de l'ennuy.ENTREPRISE : s. f.Résolution hardie de faire quelque chose.V. 273.Se dit aussi au Palais des attentats que font les juges sur la juridiction les uns des autres et sur l'autorité de leurs charges terme de Police.En terme de guerre, se dit d'un dessein qu'on forme, du devoir où on se met de surprendre, de conquérir une place.V. 226.Se dit aussi des desseins qu'on a sur la vie de quelqu'un.V. 226-454Chasse : attaque hardie.FIER : adj.Hautain, altier.Cruel, tyran (du latin *Ferox*).FIERTE : s. f.Orgueil, estime de soi.V. 1188-1282.GESNE : s. f.Question, torture ….Se dit aussi de toute peine ou affliction de corps ou d'esprit.V. 222.
+    Un amant, pour exprimer la passion, dit aussi que l'amour luy fait souffrir
+    Les plus cruelles *gesnes*, pour dire, des tourments.Idée d'être contraint, incommodé.GLOIRE : subst. f.Majesté de Dieu, la veuë de sa puissance, de sa grandeur infinie. (On parle de « louanges » par des particuliers mais de « gloire » par le général du monde).V. 313-570-1142-1155.L'honneur qu'on rend à Dieu des louanges qui lui sont doués.Se dit par emprunt et par participation de l'honneur mondain. Honneur, vertu.V. 900-1062-1473.Signifie quelquefois Orgueil, présomption, bonne opinion qu'on a de soy-même.V. 2-161-1393.HYMEN : subs. masc.Signifie poëtiquement, le mariage. Il est sous le joug de *l'hymen*. On dit encore en ce sens, hyménée.V. 30-445-513-518-611-615-626-661-1238.POMPE : subst. fem.Depense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solennelle, plus eclatante.V. 517-626-668.
 
-Dans notre pièce, ce terme est surtout utilisé pour désigner les noces en général.PREVENIR : v. act. et n.Estre le premier à faire la même chose, gagner les devants dans les jeux de
-              course.En termes de Pratique c'est se saisir le premier d'une affaire.Preoccuper l'esprit, lui donner les premieres impressions.Remedier aux maux qu'on a preveus, les empêcher, s'en garantir.V. 182-345-521-549-555-624-664-848-1140-1309.PRODIGUE : adj.Qui dispense son bien sans raison et sans connaissance.Celui qui donne abondement des choses qui coustent peu.V. 1101-1191-1391.SOIN : s. m.Diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à
-              la perfectionner.V. 19-44-307-534-558-624-681-687- 1053-1380.Soucis, inquiétudes (préoccupations) qui émeuvent, troublent l'âme.V. 989.Libéralité qu'on fait à quelqu'un pour le faire subsister.V. 138-139-608-612-754-848.Attache particulière qu'on a auprès d'un maistre, ou d'une maistresse, pour les
-              servir ou leur plaire.V. 433.SOUFFRIR : v. act.Sentir de la douleur, du mal, ou quelque incommodité considerable.Se dit aussi des choses qui peinent, qui fatiguent.V. 146.Se dit en un sens moins estendu, en parlant de ce qui desplaist, de ce qui fait
-              quelque peine aux sens, ou à l'esprit.
-    Je ne puis *souffrir* ce meschant Orateur.SUPPORTER : v. act.Soustenir, apporter un fardeau.Se dit figurément des choses morales, et signifie souffrir, endurerDonner appuy, secours, protection.V. 40-671.TIMIDITE/TIMIDE : susbt. fem./ adj.Faible, peureux, qui craint tout.Esprit timide : qui manque de hardiesse pour entreprendre quelque chose de grand,
-              pénible, ou de difficile.V. 340-580-657-905-938-1205-1454.TRAITTABLE : adj. m. et f.Qui a l'esprit doux et facile, qui entend volontiers raison, qui se porte de
-              l'accommodement.V. 137-571.TRAVERSER : v. act.Passer au milieu ou au-delà de quelque chose.Signifie aussi, Croiser, s'estendre en largeur sur une longueur.Signifie figurément en Morale, Faire obstacle, opposition, apporter de
-              l'empeschement.V. 145-1039.
+Dans notre pièce, ce terme est surtout utilisé pour désigner les noces en général.PREVENIR : v. act. et n.Estre le premier à faire la même chose, gagner les devants dans les jeux de course.En termes de Pratique c'est se saisir le premier d'une affaire.Preoccuper l'esprit, lui donner les premieres impressions.Remedier aux maux qu'on a preveus, les empêcher, s'en garantir.V. 182-345-521-549-555-624-664-848-1140-1309.PRODIGUE : adj.Qui dispense son bien sans raison et sans connaissance.Celui qui donne abondement des choses qui coustent peu.V. 1101-1191-1391.SOIN : s. m.Diligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, à la perfectionner.V. 19-44-307-534-558-624-681-687- 1053-1380.Soucis, inquiétudes (préoccupations) qui émeuvent, troublent l'âme.V. 989.Libéralité qu'on fait à quelqu'un pour le faire subsister.V. 138-139-608-612-754-848.Attache particulière qu'on a auprès d'un maistre, ou d'une maistresse, pour les servir ou leur plaire.V. 433.SOUFFRIR : v. act.Sentir de la douleur, du mal, ou quelque incommodité considerable.Se dit aussi des choses qui peinent, qui fatiguent.V. 146.Se dit en un sens moins estendu, en parlant de ce qui desplaist, de ce qui fait quelque peine aux sens, ou à l'esprit.
+    Je ne puis *souffrir* ce meschant Orateur.SUPPORTER : v. act.Soustenir, apporter un fardeau.Se dit figurément des choses morales, et signifie souffrir, endurerDonner appuy, secours, protection.V. 40-671.TIMIDITE/TIMIDE : susbt. fem./ adj.Faible, peureux, qui craint tout.Esprit timide : qui manque de hardiesse pour entreprendre quelque chose de grand, pénible, ou de difficile.V. 340-580-657-905-938-1205-1454.TRAITTABLE : adj. m. et f.Qui a l'esprit doux et facile, qui entend volontiers raison, qui se porte de l'accommodement.V. 137-571.TRAVERSER : v. act.Passer au milieu ou au-delà de quelque chose.Signifie aussi, Croiser, s'estendre en largeur sur une longueur.Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement.V. 145-1039.
 
 
 # Appendices
@@ -3075,24 +3046,12 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 # Bibliographie
 
 
-## Ouvrages de référence sur le théâtre du XVII*e* siècle*A History of French dramatic literature
-            in the Seventeenth Century*
-*Bibliothèque des théâtres, contenant le catalogue
-            alphabétique des pièces... avec des anecdotes sur la plûpart des pièces contenuës
-            dans ce recüeil, et sur la vie des auteurs, musiciens et acteurs*
-*Abrégé de l'histoire du théâtre françois,
-            depuis son origine jusqu'au premier juin de l'année 1780 ; précédé du Dictionnaire
-            de toutes les pièces de théâtre jouées & imprimées ; du Dictionnaire des auteurs
-            dramatiques*
-*Répertoire analytique des documents contemporains
-            d'information et de critique concernant le théâtre à Paris sous Louis XIV :
-            1659-1715*
-*théâtre et son public à Paris sous Louis XIV :
-            1659-1715*
-*Histoire du théâtre français depuis son
-            origine jusqu'à présent, avec la vie des plus célèbres poètes dramatiques, des
-            extraits exacts, et un catalogue raisonné de leurs pièces, accompagnés de notes
-            historiques et critiques...*
+## Ouvrages de référence sur le théâtre du XVII*e* siècle*A History of French dramatic literature in the Seventeenth Century*
+*Bibliothèque des théâtres, contenant le catalogue alphabétique des pièces... avec des anecdotes sur la plûpart des pièces contenuës dans ce recüeil, et sur la vie des auteurs, musiciens et acteurs*
+*Abrégé de l'histoire du théâtre françois, depuis son origine jusqu'au premier juin de l'année 1780 ; précédé du Dictionnaire de toutes les pièces de théâtre jouées & imprimées ; du Dictionnaire des auteurs dramatiques*
+*Répertoire analytique des documents contemporains d'information et de critique concernant le théâtre à Paris sous Louis XIV : 1659-1715*
+*théâtre et son public à Paris sous Louis XIV : 1659-1715*
+*Histoire du théâtre français depuis son origine jusqu'à présent, avec la vie des plus célèbres poètes dramatiques, des extraits exacts, et un catalogue raisonné de leurs pièces, accompagnés de notes historiques et critiques...*
 *Mémoire de Mahelot*
 *Bibliothèque dramatique de Monsieur de Soleinne*
 
@@ -3101,28 +3060,23 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 ## Ouvrages de poétique du XVII*e* siècle*La Poétique*
 *La Pratique du théâtre*
 *Discours sur le Poème Dramatique**Œuvres complètes*
-*De tragoediae Constitutione. La Constitution de la
-            tragédie, dite La Poétique d'Heinsius**re*
+*De tragoediae Constitutione. La Constitution de la tragédie, dite La Poétique d'Heinsius**re*
 
 
 
-## Pièces de théâtre du XVII*e* siècle*Les Danaïdes**Les
-            Noces Sanglantes, Hypermnestre, du Baroque*
+## Pièces de théâtre du XVII*e* siècle*Les Danaïdes**Les Noces Sanglantes, Hypermnestre, du Baroque*
 *Iphigénie**Oeuvres complètes**Iphigénie*
 *Phèdre**Oeuvres complètes*
 *Bérénice**Oeuvres complètes*
-*Les noces sanglantes, Hypermnestre, du Baroque aux
-            Lumières*
+*Les noces sanglantes, Hypermnestre, du Baroque aux Lumières*
 
 
 
 ## Ouvrages essentiels sur la tragédie du XVII*e* siècle*Morales du Grand Siècle*
 *Mythologie et mythe dans le théâtre français*
-*Passions tragiques et règles classiques. Essai sur
-            la tragédie française*
+*Passions tragiques et règles classiques. Essai sur la tragédie française*
 *Le Théâtre tragique**et al.*
-*Mythe et histoire dans le théâtre classique, Hommage à Christian
-            Delmas*
+*Mythe et histoire dans le théâtre classique, Hommage à Christian Delmas*
 *Histoire de la France littéraire**Classicismes : 17e-18e siècle**et al.*
 *La Dramaturgie classique en France*
 *Le Théâtre classique*
@@ -3142,60 +3096,36 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 
 ## Dictionnaires du XVII*e* siècle*Dictionnaire*
-*Dictionnaire universel contenant généralement tous
-            les mots françois tant vieux que modernes et les termes de toutes les sciences et
-            les arts*
-*Dictionnaire françois contenant les mots et les choses,
-            plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus
-            connus des arts et des sciences*
-*Le Grand Dictionnaire historique ou Le Curieux
-            Mélange de l'histoire sacrée et profane*
-*Bibliographie de la littérature française du
-            dix-septième siècle*
+*Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts*
+*Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*
+*Le Grand Dictionnaire historique ou Le Curieux Mélange de l'histoire sacrée et profane*
+*Bibliographie de la littérature française du dix-septième siècle*
 
 
 -------
 
 
-[44] On n'a pas trace de cette graphie de
-          son nom ; on peut donc penser, étant donné que cette édition est hollandaise et sans
-          marque de l'aval de l'auteur, que c'est une coquille et qu'il n'y a pas lieu de
-          l'orthographier de la sorte.
+[44] On n'a pas trace de cette graphie de son nom ; on peut donc penser, étant donné que cette édition est hollandaise et sans marque de l'aval de l'auteur, que c'est une coquille et qu'il n'y a pas lieu de l'orthographier de la sorte.
 
-[45] Coquille de l'exemplaire original : « Libraire »
-          
+[45] Coquille de l'exemplaire original : « Libraire » 
 
-[1]  SOLEINNE, *Bibliothèque
-                  dramatique de Monsieur de Soleinne*, cat. réd. par P. L. Jacob (Paul Lacroix),
-                New York : B. Franklin, 1965?.
+[1]  SOLEINNE, *Bibliothèque dramatique de Monsieur de Soleinne*, cat. réd. par P. L. Jacob (Paul Lacroix), New York : B. Franklin, 1965?.
 
-[2]  MOUHY, *Abrégé de
-                  l'Histoire du théâtre françois*, 1780, t. I, p. 284-285.
+[2]  MOUHY, *Abrégé de l'Histoire du théâtre françois*, 1780, t. I, p. 284-285.
 
-[3]  ARISTOTE,
-                    *La Poétique*, traduction de J. Hardy (1996), Coll. Tel
-                  Gallimard 272, p. 97.
+[3]  ARISTOTE, *La Poétique*, traduction de J. Hardy (1996), Coll. Tel Gallimard 272, p. 97.
 
-[4] *Op. cit*., p.
-                  112.
+[4] *Op. cit*., p. 112.
 
-[5] Tome I
-                    Book II, chap. III- The family of Inachus.
+[5] Tome I Book II, chap. III- The family of Inachus.
 
 [6] CLXVIII, CLXX.
 
-[7]  Hygin, *Fables*, chap.
-                    CCLXXIII, « Les premiers fondateurs des jeux jusqu'à Enée le
-                  quinzième ».
+[7]  Hygin, *Fables*, chap. CCLXXIII, « Les premiers fondateurs des jeux jusqu'à Enée le quinzième ».
 
-[8]  MORERI Louis, *Le Grand
-                    Dictionnaire historique ou Le curieux mélange de l'histoire sacrée et
-                    profane*, nouvelle édition de 1759, Genève : Slatkine, 1995.
+[8]  MORERI Louis, *Le Grand Dictionnaire historique ou Le curieux mélange de l'histoire sacrée et profane*, nouvelle édition de 1759, Genève : Slatkine, 1995.
 
-[9] 
-                    GOMBAULD Jean Ogier de, *Les Danaïdes*, dans *Les
-                      Noces Sanglantes, Hypermnestre, du Baroque*, Perpignan : Presses
-                    universitaires de Perpignan, 1999, p. 45.
+[9]  GOMBAULD Jean Ogier de, *Les Danaïdes*, dans *Les Noces Sanglantes, Hypermnestre, du Baroque*, Perpignan : Presses universitaires de Perpignan, 1999, p. 45.
 
 [10] *Op. cit*., p. 47.
 
@@ -3203,189 +3133,107 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 [12] *Op. cit*., p. 101.
 
-[13]  RACINE, *Iphigénie*, Préface de G. Forestier,
-                    ed. Gallimard, coll. Folio Théâtre, Paris, 1999, p. 9.
+[13]  RACINE, *Iphigénie*, Préface de G. Forestier, ed. Gallimard, coll. Folio Théâtre, Paris, 1999, p. 9.
 
-[14]  ARISTOTE, *La Poétique*, traduction de J.Hardy (1996), Coll. Tel Gallimard
-                    272, p. 97.
+[14]  ARISTOTE, *La Poétique*, traduction de J.Hardy (1996), Coll. Tel Gallimard 272, p. 97.
 
-[15]  RACINE,
-                      *Phèdre*, dans *Œuvres complètes*, éd.
-                    présentée, établie et annotée par Georges Forestier, Paris : Gallimard, 1999, p.
-                    844.
+[15]  RACINE, *Phèdre*, dans *Œuvres complètes*, éd. présentée, établie et annotée par Georges Forestier, Paris : Gallimard, 1999, p. 844.
 
 [16] *Op. cit*., pp. 844-845.
 
-[17]  PASCAL
-                Jean-Noël, *Les noces sanglantes, Hypermnestre, du Baroque aux
-                  Lumières*, Perpignan : Presses universitaires de Perpignan, 1999.
+[17]  PASCAL Jean-Noël, *Les noces sanglantes, Hypermnestre, du Baroque aux Lumières*, Perpignan : Presses universitaires de Perpignan, 1999.
 
-[18] 
-                RACINE, préface de *Bérénice*, dans *Œuvres
-                  complètes*, éd. présentée, établie et annotée par Georges Forestier, Paris,
-                Gallimard, 1999, p. 451.
+[18]  RACINE, préface de *Bérénice*, dans *Œuvres complètes*, éd. présentée, établie et annotée par Georges Forestier, Paris, Gallimard, 1999, p. 451.
 
-[19] V. 415, 475, 587,
-                1176, 1332.
+[19] V. 415, 475, 587, 1176, 1332.
 
-[20]  FORESTIER Georges, *Passions tragiques et règles
-                  classiques, Essai sur la tragédie française*, Paris, PUF, 2003, p.
-              240.
+[20]  FORESTIER Georges, *Passions tragiques et règles classiques, Essai sur la tragédie française*, Paris, PUF, 2003, p. 240.
 
-[21] *Op. cit*., p.
-                247.
+[21] *Op. cit*., p. 247.
 
-[22]  CORNEILLE Pierre, *Discours de l'utilité et des
-                    parties du poème dramatique*, 1660, dans *Œuvres complètes de
-                    Racine*, textes établis, présentés et annotés par Georges Couton, Paris,
-                  Gallimard (Pléiade), 1987, p. 124.
+[22]  CORNEILLE Pierre, *Discours de l'utilité et des parties du poème dramatique*, 1660, dans *Œuvres complètes de Racine*, textes établis, présentés et annotés par Georges Couton, Paris, Gallimard (Pléiade), 1987, p. 124.
 
-[23] *Id., Discours des trois unités*, 1660, dans *Œuvres complètes
-                    de Racine*, textes établis, présentés et annotés par Georges Couton, Paris,
-                  Gallimard (Pléiade), 1987, p. 174.
+[23] *Id., Discours des trois unités*, 1660, dans *Œuvres complètes de Racine*, textes établis, présentés et annotés par Georges Couton, Paris, Gallimard (Pléiade), 1987, p. 174.
 
-[24]  ARISTOTE, *La Poétique*,
-                traduction de J. Hardy (1996), Coll. Tel Gallimard 272, p. 91 §1450b.
+[24]  ARISTOTE, *La Poétique*, traduction de J. Hardy (1996), Coll. Tel Gallimard 272, p. 91 §1450b.
 
 [25] Acte V, scène 1, v. 1261-1268.
 
-[26]  DELMAS Christian, *Du
-                  mythe au XVII*e* siècle*, dans *Mythe et
-                  histoire dans le théâtre classique, Hommage à Christian Delmas*, 2002, p.
-                25.
+[26]  DELMAS Christian, *Du mythe au XVII*e* siècle*, dans *Mythe et histoire dans le théâtre classique, Hommage à Christian Delmas*, 2002, p. 25.
 
-[27]  SCHERER Jacques, *La Dramaturgie
-                    classique en France*, Nizet, s.d. 1950, p. 361.
+[27]  SCHERER Jacques, *La Dramaturgie classique en France*, Nizet, s.d. 1950, p. 361.
 
-[28]  LOUVAT-MOLOZAY B., *De l'oracle de tragédie comme
-                  procédé dramaturgique*, dans *Mythe et Histoire dans le théâtre
-                  classique, Hommage à Christian Delmas*, éd. par Fanny Nepote-Desmarres ; avec
-                la collab. de Jean-Philippe Grosperrin, 2002, p. 396.
+[28]  LOUVAT-MOLOZAY B., *De l'oracle de tragédie comme procédé dramaturgique*, dans *Mythe et Histoire dans le théâtre classique, Hommage à Christian Delmas*, éd. par Fanny Nepote-Desmarres ; avec la collab. de Jean-Philippe Grosperrin, 2002, p. 396.
 
-[29] Acte I,
-                  scène 3, v. 258-260.
+[29] Acte I, scène 3, v. 258-260.
 
-[30]  HEINSIUS Daniel, *De tragoediae Constitutione. La
-                  Constitution de la tragédie, dite La Poétique d'Heinsius* 1643 (1*re* éd., 1611), éd. et trad. Anne Duprat, Genève, Droz, 2001, p.
-                211 Chap. XI.
+[30]  HEINSIUS Daniel, *De tragoediae Constitutione. La Constitution de la tragédie, dite La Poétique d'Heinsius* 1643 (1*re* éd., 1611), éd. et trad. Anne Duprat, Genève, Droz, 2001, p. 211 Chap. XI.
 
-[31]  CORNEILLE Pierre, *Discours sur le Poème
-                    Dramatique*, 1660, dans *Œuvres complètes* de Corneille;
-                  textes établis, présentés et annotés par Georges Couton, Paris, Gallimard, 1987,
-                  p. 139.
+[31]  CORNEILLE Pierre, *Discours sur le Poème Dramatique*, 1660, dans *Œuvres complètes* de Corneille; textes établis, présentés et annotés par Georges Couton, Paris, Gallimard, 1987, p. 139.
 
-[32]  RACINE, Préface d'*Iphigénie*, dans *Œuvres complètes*, éd. présentée, établie et annotée par Georges Forestier,
-                  Paris, Gallimard, 1999, p. 698.
+[32]  RACINE, Préface d'*Iphigénie*, dans *Œuvres complètes*, éd. présentée, établie et annotée par Georges Forestier, Paris, Gallimard, 1999, p. 698.
 
-[33]  Scherer Jacques, *La Dramaturgie classique en
-                    France*, éd. Nizet, réimpr. 2001, p. 30-31.
+[33]  Scherer Jacques, *La Dramaturgie classique en France*, éd. Nizet, réimpr. 2001, p. 30-31.
 
-[34] Acte
-                  I, scène 3, v. 214.
+[34] Acte I, scène 3, v. 214.
 
-[35] Omission d'un vers entier dans l'édition
-                originale.
+[35] Omission d'un vers entier dans l'édition originale.
 
-[36]  RACINE, *Phèdre*, dans *Œuvres complètes*, éd. présentée, établie et annotée par Georges
-                Forestier, Paris, Gallimard, 1999, p. 817.
+[36]  RACINE, *Phèdre*, dans *Œuvres complètes*, éd. présentée, établie et annotée par Georges Forestier, Paris, Gallimard, 1999, p. 817.
 
-[37] Acte III,
-                  scène 7, vers 881-884.
+[37] Acte III, scène 7, vers 881-884.
 
-[38]  SCHERER Jacques, *La Dramaturgie classique en
-                    France*, Nizet, s.d. 1950, p. 24.
+[38]  SCHERER Jacques, *La Dramaturgie classique en France*, Nizet, s.d. 1950, p. 24.
 
-[39] Acte V,
-                  scène 1, v. 1312-1315.
+[39] Acte V, scène 1, v. 1312-1315.
 
-[40]  MOUHY Charles de Fieux, *Abrégé de l'histoire du théâtre
-                  françois, depuis son origine jusqu'au premier juin de l'année 1780 ; précédé du
-                  Dictionnaire de toutes les pièces de théâtre jouées & imprimées ; du
-                  Dictionnaire des auteurs dramatiques*, Paris, 1780 p. 284-285 du tome
-                I.
+[40]  MOUHY Charles de Fieux, *Abrégé de l'histoire du théâtre françois, depuis son origine jusqu'au premier juin de l'année 1780 ; précédé du Dictionnaire de toutes les pièces de théâtre jouées & imprimées ; du Dictionnaire des auteurs dramatiques*, Paris, 1780 p. 284-285 du tome I.
 
-[41] Sur les deux exemplaires disponibles à la BNF, il
-              semblerait qu'un accent aigu ait été rajouté à la main sur le premier « E » de
-              LYNCEE.
+[41] Sur les deux exemplaires disponibles à la BNF, il semblerait qu'un accent aigu ait été rajouté à la main sur le premier « E » de LYNCEE.
 
-[42] Coquille de l'exemplaire original :
-              « Libraire »
+[42] Coquille de l'exemplaire original : « Libraire »
 
-[43] Sur l'édition originale, un accent aigu semble avoir
-          été ajouté à la main sur le premier « E ».
+[43] Sur l'édition originale, un accent aigu semble avoir été ajouté à la main sur le premier « E ».
 
-[46]  Au XVII*e* siècle, le terme
-              d'ACTEURS désigne les personnages en réalité.
+[46]  Au XVII*e* siècle, le terme d'ACTEURS désigne les personnages en réalité.
 
-[47] Abeille utilise en fait ici le mythe
-                  d'Hypermnestre, fille de Danaüs. Cependant, il en simplifie la graphie pour des
-                  raisons évidentes de commodité de prononciation.
+[47] Abeille utilise en fait ici le mythe d'Hypermnestre, fille de Danaüs. Cependant, il en simplifie la graphie pour des raisons évidentes de commodité de prononciation.
 
-[48] On notera que c'est la seule occurrence de
-                  cette graphie ; dans le texte original, l'auteur écrit « Dircé ».
+[48] On notera que c'est la seule occurrence de cette graphie ; dans le texte original, l'auteur écrit « Dircé ».
 
-[49] L'auteur choisit de placer la scène
-                non pas à Argos comme on pourrait s'y attendre, mais à Nauplie, port peu éloigné
-                d'Argos, qu'il destine à Hipermestre.
+[49] L'auteur choisit de placer la scène non pas à Argos comme on pourrait s'y attendre, mais à Nauplie, port peu éloigné d'Argos, qu'il destine à Hipermestre.
 
-[50] Graphie concurrente que
-                  l'on retrouve uniquement en p. 3 de l'édition originale (cf. v. 20 et 24).
+[50] Graphie concurrente que l'on retrouve uniquement en p. 3 de l'édition originale (cf. v. 20 et 24).
 
-[51] On note une
-                  diérèse sur ce mot. La diérèse se retrouve également aux vers 12, 50, 60, 90, 125,
-                  183, 184, 218, 278, 420, 451, 554, 559, 604, 700, 726, 731, 772, 786, 797, 808,
-                  945, 1006, 1088, 1092, 1105, 1113, 1120, 1120, 1124, 1161, 1214, 1299, 1305, 1375,
-                  1408, 1446, 1486. 
+[51] On note une diérèse sur ce mot. La diérèse se retrouve également aux vers 12, 50, 60, 90, 125, 183, 184, 218, 278, 420, 451, 554, 559, 604, 700, 726, 731, 772, 786, 797, 808, 945, 1006, 1088, 1092, 1105, 1113, 1120, 1120, 1124, 1161, 1214, 1299, 1305, 1375, 1408, 1446, 1486. 
 
-[52] Nauplie, port grec du
-                  Péloponnèse, capitale de l'Argolide ; cette graphie, surprenante, est utilisée
-                  dans tout le texte original mais est en concurrence avec celle de la liste des
-                  Acteurs.
+[52] Nauplie, port grec du Péloponnèse, capitale de l'Argolide ; cette graphie, surprenante, est utilisée dans tout le texte original mais est en concurrence avec celle de la liste des Acteurs.
 
-[53] Ici, le terme « barbare » désigne à la
-                  fois l'étranger et la cruauté.
+[53] Ici, le terme « barbare » désigne à la fois l'étranger et la cruauté.
 
 [54] Comprendre : effroi, frayeur.
 
-[55] Ce vers souligne l'importance de ce qui se joue sur la scène et
-                  l'imminence du danger qui la vie de Danaus et le mariage d'Hipermestre et de
-                  Lyncée.
+[55] Ce vers souligne l'importance de ce qui se joue sur la scène et l'imminence du danger qui la vie de Danaus et le mariage d'Hipermestre et de Lyncée.
 
-[56] Erigone ne supporte pas l'idée que Lyncée devienne, par son mariage avec
-                  Hipermestre, le successeur sur le trône d'Argos dont les aïeux d'Erigone ont été
-                  les rois. Mais comme elle va l'avouer à Dircé, c'est surtout ce mariage avec
-                  Hipermestre qui l'insupporte.
+[56] Erigone ne supporte pas l'idée que Lyncée devienne, par son mariage avec Hipermestre, le successeur sur le trône d'Argos dont les aïeux d'Erigone ont été les rois. Mais comme elle va l'avouer à Dircé, c'est surtout ce mariage avec Hipermestre qui l'insupporte.
 
-[57]  Ici, ce
-                  terme, prononcé par Erigone, indique plus particulièrement l'estime qu'elle a
-                  d'elle-même, son honneur.
+[57]  Ici, ce terme, prononcé par Erigone, indique plus particulièrement l'estime qu'elle a d'elle-même, son honneur.
 
-[58] L'engagement qui lie
-                  Lyncée à Hipermestre est d'ordre amoureux, c'est-à-dire qu'ils se sont engagés à
-                  se marier.
+[58] L'engagement qui lie Lyncée à Hipermestre est d'ordre amoureux, c'est-à-dire qu'ils se sont engagés à se marier.
 
 [59] Effrayants.
 
-[60] Ici,
-                  Erigone joue sur l'ambiguité : adressé à Danaus, « entreprise » signifie attentat
-                  supposé de Lyncée sur sa vie mais aussi les desseins qu'elle a sur la vie de
-                  Danaus.
+[60] Ici, Erigone joue sur l'ambiguité : adressé à Danaus, « entreprise » signifie attentat supposé de Lyncée sur sa vie mais aussi les desseins qu'elle a sur la vie de Danaus.
 
 [61]  Comprendre : vous reste à *préparer.*
 
-[62] L'édition écrit : « contente » mais il est vraisemblable que
-                  ce soit une simple erreur de composition.
+[62] L'édition écrit : « contente » mais il est vraisemblable que ce soit une simple erreur de composition.
 
 [63] Qui n'a aucune valeur, qui ne mérite pas qu'on le considère.
 
-[64]  Licence poétique que prend Abeille pour maintenir la rime,
-                  d'autant qu'au XVII*e*, les consonnes finales se
-                  prononcent.
+[64]  Licence poétique que prend Abeille pour maintenir la rime, d'autant qu'au XVII*e*, les consonnes finales se prononcent.
 
-[65]  Il
-                  faut noter qu'au XVII*e* siècle, la parole oraculaire possède
-                  ses propres normes : elle n'a pas à se plier à l'alexandrin ni au système des
-                  rimes.
+[65]  Il faut noter qu'au XVII*e* siècle, la parole oraculaire possède ses propres normes : elle n'a pas à se plier à l'alexandrin ni au système des rimes.
 
 [66] Permettez.
 
@@ -3395,61 +3243,43 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 [69]  Comprendre : *depuis*.
 
-[70] On retrouve ici une graphie concurrente du mot « maistresse » qu'on
-                  pourrait attendre ici ; cependant, le dictionnaire de Furetière atteste des deux
-                  possibilités.
+[70] On retrouve ici une graphie concurrente du mot « maistresse » qu'on pourrait attendre ici ; cependant, le dictionnaire de Furetière atteste des deux possibilités.
 
-[71] Selon la légende, Belus, le père de Danaus et d'Egyptus, partagea
-                  son royaume entre ses deux fils en offrant au premier la Libye et au second,
-                  l'Egypte.
+[71] Selon la légende, Belus, le père de Danaus et d'Egyptus, partagea son royaume entre ses deux fils en offrant au premier la Libye et au second, l'Egypte.
 
-[72] On retrouve une autre graphie du mot au vers 583 :
-                  « abatu ».
+[72] On retrouve une autre graphie du mot au vers 583 : « abatu ».
 
 [73]  Comprendre : *Accomplissez l'oracle*.
 
-[74] Le raisonnement de Danaus repose sur le fait que l'oracle lui ayant
-                  prédit le danger, toutes les actions pour l'empêcher ne sont pas des crimes, les
-                  Dieux étant les garants de la justice de ces actions. Il ne peut donc être tenu
-                  pour responsable de crime.
+[74] Le raisonnement de Danaus repose sur le fait que l'oracle lui ayant prédit le danger, toutes les actions pour l'empêcher ne sont pas des crimes, les Dieux étant les garants de la justice de ces actions. Il ne peut donc être tenu pour responsable de crime.
 
-[75] Graphie concurrente cf. v.
-                  584 mais les deux restent possibles.
+[75] Graphie concurrente cf. v. 584 mais les deux restent possibles.
 
-[76] Le nom du personnage a été omis dans
-                  l'édition originale.
+[76] Le nom du personnage a été omis dans l'édition originale.
 
 [77] Comprendre : mon sort se montre, se révèle.
 
 [78] L'image que je m'en fais.
 
-[79] Ma
-                  destinée.
+[79] Ma destinée.
 
-[80] Dans ce vers, le rapprochement entre le présent et le futur
-                  est troublant mais répond ou bien à la projection que fait Danaus de son plan
-                  d'action, ou tout simplement à des contraintes de l'alexandrin.
+[80] Dans ce vers, le rapprochement entre le présent et le futur est troublant mais répond ou bien à la projection que fait Danaus de son plan d'action, ou tout simplement à des contraintes de l'alexandrin.
 
-[81]  « Signaux qu'on donne par des cris, ou des instruments de guerre,
-                  pour faire prendre les armes dans l'arrivée imprevuë d'un ennemy. » (*Furetière*).
+[81]  « Signaux qu'on donne par des cris, ou des instruments de guerre, pour faire prendre les armes dans l'arrivée imprevuë d'un ennemy. » (*Furetière*).
 
-[82] 
-                  Comprendre : *tuer à l'improviste.*
+[82]  Comprendre : *tuer à l'improviste.*
 
 [83] *Le bonheur auquel j'aspire*.
 
 [84] À partir de là, son discours se fait en aparté.
 
-[85] Erigone reprend ici son discours adressé à
-                  Lyncée.
+[85] Erigone reprend ici son discours adressé à Lyncée.
 
 [86] Fatal, mortel.
 
-[87] Graphie
-                  concurrente d'Aegyptus.
+[87] Graphie concurrente d'Aegyptus.
 
-[88] Correction : l'édition de 1680
-                  disait : « Il fais plus. »
+[88] Correction : l'édition de 1680 disait : « Il fais plus. »
 
 [89] Effrayée.
 
@@ -3457,76 +3287,50 @@ Bien qu'Abeille ait épargné aux spectateurs le spectacle de la nuit meurtrièr
 
 [91] Comprendre : mon châtiment, mon arrêt.
 
-[92] Comprendre : tant
-                  que.
+[92] Comprendre : tant que.
 
 [93] Inquiète.
 
-[94] Ici, après avoir donné l'ordre à un garde, c'est à
-                  Iphis qu'il s'adresse.
+[94] Ici, après avoir donné l'ordre à un garde, c'est à Iphis qu'il s'adresse.
 
 [95] Comprendre : près d'icy.
 
-[96] Comprendre :
-                  changement d'humeur, remords dans ce cas précis.
+[96] Comprendre : changement d'humeur, remords dans ce cas précis.
 
-[97] Danaus s'adresse à nouveau
-                  aux gardes dans ce vers.
+[97] Danaus s'adresse à nouveau aux gardes dans ce vers.
 
-[98] Hipermestre tente de dissimuler sa trahison en protestant que ce
-                  serait un nouveau crime d'exhiber la tête de Lyncée alors qu'il est déjà mort de
-                  sa main.
+[98] Hipermestre tente de dissimuler sa trahison en protestant que ce serait un nouveau crime d'exhiber la tête de Lyncée alors qu'il est déjà mort de sa main.
 
 [99] Comprendre : crimes.
 
-[100] Omission d'un vers entier dans l'édition
-                originale.
+[100] Omission d'un vers entier dans l'édition originale.
 
 [101] Ce dernier vers s'adresse à Hipermestre.
 
-[102]  Au XVII*e* siècle, on utilisait
-                  « conter » aussi bien pour l'activité de raconter que pour celle de « compter » ;
-                  ici, la graphie permet également une rime pour l'œil.
+[102]  Au XVII*e* siècle, on utilisait « conter » aussi bien pour l'activité de raconter que pour celle de « compter » ; ici, la graphie permet également une rime pour l'œil.
 
-[103] Graphie concurrente
-                  (cf. v. 11).
+[103] Graphie concurrente (cf. v. 11).
 
-[104]  Graphie courante de « noces » au XVII*e* siècle
-                  (du latin *Nuptia* ; voir le *Furetière*).
+[104]  Graphie courante de « noces » au XVII*e* siècle (du latin *Nuptia* ; voir le *Furetière*).
 
-[105] Hipermestre semble en savoir bien plus que ce que Lyncée lui a dit,
-                  d'autant que cette entrevue a été montrée sur scène au spectateur.
+[105] Hipermestre semble en savoir bien plus que ce que Lyncée lui a dit, d'autant que cette entrevue a été montrée sur scène au spectateur.
 
 [106] Craintes.
 
-[107]  Au XVII*e* siècle, « charme » a un sens
-                  de magique, merveilleux, de sortilège aussi.
+[107]  Au XVII*e* siècle, « charme » a un sens de magique, merveilleux, de sortilège aussi.
 
-[108] 
-                  Comprendre : *orgueilleusement*.
+[108]  Comprendre : *orgueilleusement*.
 
 [109] Distraire, détourner.
 
-[110] Erigone s'ingénie ici à provoquer son fils de manière très
-                  habile.
+[110] Erigone s'ingénie ici à provoquer son fils de manière très habile.
 
-[111] Cette remarque fait écho
-                  aux paroles ambivalentes d'Erigone au vers 1416 : cette « clarté que vous
-                  n'attendez pas ».
+[111] Cette remarque fait écho aux paroles ambivalentes d'Erigone au vers 1416 : cette « clarté que vous n'attendez pas ».
 
-[112]  Ces deux derniers vers sont une réminiscence des célèbres vers du
-                    *Cid* de Corneille : « Ton maheureux amant aura bien moins de
-                  peine/A mourir par ta main qu'à vivre avec ta haine » (v. 961-962, Acte III, scène
-                  4).
+[112]  Ces deux derniers vers sont une réminiscence des célèbres vers du *Cid* de Corneille : « Ton maheureux amant aura bien moins de peine/A mourir par ta main qu'à vivre avec ta haine » (v. 961-962, Acte III, scène 4).
 
-[113]  FURETIERE Antoine, *Dictionnaire
-                universel contenant généralement tous les mots françois tant vieux que modernes et
-                les termes de toutes les sciences et les arts*, La Haye et Rotterdam, Arnout et
-              Reinier Leers ; rééd. Paris, SNL-Le Robert, 1978 (3 vol.).
+[113]  FURETIERE Antoine, *Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et les arts*, La Haye et Rotterdam, Arnout et Reinier Leers ; rééd. Paris, SNL-Le Robert, 1978 (3 vol.).
 
-[114] 
-                ACADÉMIE FRANÇAISE, *Dictionnaire*, Paris, J.-B. Coignard,
-                1694.
+[114]  ACADÉMIE FRANÇAISE, *Dictionnaire*, Paris, J.-B. Coignard, 1694.
 
-[115]  OVIDE, *Les Épîtres héroïques*, traduites en vers
-                françois, par Mlle L'Héritier, Paris : Brunet fils, 1732.
+[115]  OVIDE, *Les Épîtres héroïques*, traduites en vers françois, par Mlle L'Héritier, Paris : Brunet fils, 1732.

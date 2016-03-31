@@ -544,7 +544,7 @@ Adelaïde s'informe du sujet de l'éloignement de Crispe, et maudit en suite son
 
 L'INNOCENT MALHEUREUX,
 
-OU LA MORT DE CRISPE.
+OU LA MORT DE CRISPE. 
 
 
 ## ACTE I
@@ -999,7 +999,7 @@ Qu'on tombe bien souvent pensant toucher le faiste⁎,
 Et qu'un grand calme attire une grande tempeste !  
 Allons le salüer pour mon dernier devoir,  
 Mes yeux voyez-le encor, ne le devant plus voir.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## Argument du second Acte
@@ -1042,7 +1042,7 @@ Adelaïde vient implorer le secours de Fauste pour gagner le cœur de Crispe, ne
 
 ### Scene VIII.
 
-Crispe avoüe en fin qu'il cede à l'amour ce qu'il avoit dissimulé, et que de Conquerant il devient serviteur d'une Princesse.
+Crispe avoüe en fin qu'il cede à l'amour ce qu'il avoit dissimulé, et que de Conquerant il devient serviteur d'une Princesse. 
 
 
 ## ACTE II
@@ -1247,7 +1247,7 @@ Que celle que j'obtiens au peril de ma teste.
 Adieu [219] Madame,  
 
     HELENE
-    Adieu.  
+    Adieu.   
 
 
 ### Scene IV
@@ -1332,7 +1332,7 @@ On nous éprouve [229] encor quand il est differé.
 Mon fils, tu dois priser⁎ l'amour d'une marastre⁎.  
 
     CRISPE
-Cet amour est trompeur puis qu'il est idolâtre [230].  
+Cet amour est trompeur puis qu'il est idolâtre [230].   
 
 
 ### Scene V
@@ -1386,7 +1386,7 @@ Et m'en fera cherir, puis qu'elle le tient cher.
 Qui pourroit-elle aider mieux que sa Confidente ?  
 En me desobligeant seroit-elle obligeante⁎ ?  
 J'estime que son cœur ne fait rien que pour moy,  
-Et qu'elle veut donner son beau Fils à ma Foy⁎.  
+Et qu'elle veut donner son beau Fils à ma Foy⁎.   
 
 
 ### Scene VI.
@@ -1441,7 +1441,7 @@ Madame, ayant receu cette faveur extreme.
 Je m'en vay publier⁎ l'effect d'une bonté  
 Qui n'a rien de pareil sinon vôtre beauté.  
 Procle se retire.
-
+ 
 
 
 ### Scene VII
@@ -1579,7 +1579,7 @@ Mais pour voir les effets de tant de beaux desirs,
 Et changer à la fin [257] tous nos feux⁎ en plaisirs ;  
 Va-t'en voir ma Princesse, et sans te mettre en peine [258],  
 Croy [259] que me la gagnant tu gagneras Helene.  
-Fin du second acte.
+Fin du second acte. 
 
 
 ## Argument du troisiesme Acte
@@ -1617,7 +1617,7 @@ Procle rendant raison de la retraite de Crispe, l'Empereur entre en soupçon qua
 
 ### Scene VII
 
-Fauste accuse en effet Crispe du crime qu'elle seule a voulu commettre, et fait semblant d'appaiser l'Empereur afin de l'aigrir davantage contre son fils.
+Fauste accuse en effet Crispe du crime qu'elle seule a voulu commettre, et fait semblant d'appaiser l'Empereur afin de l'aigrir davantage contre son fils. 
 
 
 ## ACTE III
@@ -1998,7 +1998,7 @@ Et tu le devois faire ;
 Et moy pour me vanger d'un si mortel affront [294],  
 Je pretends que celuy qui t'a donné la vie  
 Te l'oste par envie [295],  
-Et tout mon deshonneur s'en ira sur ton front.  
+Et tout mon deshonneur s'en ira sur ton front.   
 
 
 ### Scene IV
@@ -2164,7 +2164,7 @@ Je puis bien le punir et m'en prendre à sa teste ;
 Pour m'esclaircir du tout suis-le dés aujourd'huy,  
 Ne viens plus à la Cour où reviens avec luy.  
 Procle se retire.
-
+ 
 
     ARTABAN
 On ne sçauroit jamais avoir trop d'affeurance,  
@@ -2186,7 +2186,7 @@ C'est qu'aimant son époux elle aime son image ;
 Mais qu'ay-je à craindre enfin ? suis-je pas Empereur ?  
 Un fils me feroit-il redouter sa fureur ?  
 L'Imperatrice entre.
-
+ 
 
 
 ### Scene VII
@@ -2420,7 +2420,7 @@ Procle ayant veu mourir son amy, se resout de ne plus vivre, que pour en porter 
 
 ### Scene X.
 
-Il annonce cette funeste⁎ avanture [311] par un silence affecté.
+Il annonce cette funeste⁎ avanture [311] par un silence affecté. 
 
 
 ## ACTE IV.
@@ -2868,7 +2868,7 @@ Je sens que ton destin me doit estre fatal.
 Pour conserver pourtant les droits de la justice,  
 Il faut que tout perisse.  
 Fauste et Helene entrent.
-
+ 
 
 
 ### Scene VIII
@@ -2941,7 +2941,7 @@ Que de l'aller blesser⁎ [327] par un discours⁎ frivole ?
 Il faut dissimuler un si cruel⁎ trespas ;  
 Pour insensiblement le dire,  
 Et que Procle n'agissant pas,  
-Elle se cause son martyre.  
+Elle se cause son martyre.   
 
 
 ### Scene X
@@ -3158,7 +3158,7 @@ Procle cause presque trois morts differentes, en racontant la mort de Crispe aux
 
 ### Scene IX.
 
-Helene mere de l'Empereur, qui suivant la raison demandoit vengeance contre Fauste, suivant la pitié vient requerir sa grace. Mais on porte la nouvelle de la mort de cette Megere⁎, quand l'autre demandoit la vie pour elle.
+Helene mere de l'Empereur, qui suivant la raison demandoit vengeance contre Fauste, suivant la pitié vient requerir sa grace. Mais on porte la nouvelle de la mort de cette Megere⁎, quand l'autre demandoit la vie pour elle. 
 
 
 ## ACTE V
@@ -3235,7 +3235,7 @@ Ces yeux qui sans pleurer t'ont regardé perir !
 Mais son sang neantmoins vous fera voir, Madame,  
 Que du forfait⁎ qu'on dit, quelque autre en a le blâme.  
 Helene se retire.
-
+ 
 
 
 ### Scene II
@@ -3287,7 +3287,7 @@ Et par mesme moyen me rendre inexcusable !
 Mon époux, j'ay pû t'abuser,  
 Tu ne peux doncques pas m'estre qu'impitoyable ?  
 Adelaïde entre.
-
+ 
 
 
 ### Scene III
@@ -3457,7 +3457,7 @@ Et mesme criminel, Crispe me semble auguste ;
 Resistons neantmoins à ces lasches douleurs,  
 La justice est sans yeux, qu'elle soit donc sans pleurs.  
 Helene entre.
-
+ 
 
 
 ### Scene V
@@ -3862,7 +3862,7 @@ Et sans qu'il faut mourir nous vivrions doucement.
 
     ADELAÏDE
 Allons nous informer si Fauste est étouffée,  
-Mon amour de sa mort doit dresser son trophée.  
+Mon amour de sa mort doit dresser son trophée.   
 
 
 ### Scene IX, et derniere.

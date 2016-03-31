@@ -154,7 +154,7 @@ Au mesme temps Celidor & Corintie estans retournez en Cour en habits déguisez, 
 Une consideration m'empesche de nommer le Royaume & la Province où j'ay feint cette Histoire.
 Je diray seulement contre l'opinion de ceux qui veulent que la Scene soit en un seul lieu, qu'une partie des adventures de ce Poëme se passe aux champs, & l'autre à la ville, s'ils ne veulent prendre pour un seul lieu toute une contrée . / /
 
-**** *book_ *id_body-601 *act_ *date_1636 *creator_durval
+**** *book_ *id_I01 *act_I *date_1636 *creator_durval
 
 -*who_le_roy
 Que les Roys de mon aage ont de trouble en aymant !
@@ -182,20 +182,20 @@ Et pour se faire aymer ma belle a tant d'atraits,
 Que si je ne cedois à la force des armes,
 Elle me gaigneroit par l'effect⁎ de ses charmes⁎.
 Mais voicy de retour celuy qui tous les jours
-A l'honneur⁎ de la voir.
+A l'honneur⁎ de la voir. 
 
 -*who_celidor
-                  Sire point⁎ de discours⁎
+      Sire point⁎ de discours⁎
 On ne la peut gaigner par des belles parolles,
 Une chaine de prix et du poids des pistolles
 Pourroit à mon advis.
 
 -*who_le_roy
-                  Ha ! ce traffic aussi
+      Ha ! ce traffic aussi
 Me desplaist.
 
 -*who_celidor
-              Si fait on toutes choses ainsi.
+      Si fait on toutes choses ainsi.
 
 -*who_le_roy
 L'or ne peut enrichir que les Nymphes du Tage,
@@ -243,7 +243,7 @@ Charme⁎ autant ses beaux yeux que je fay ses oreilles,
 Tu luy parles d'amour.
 
 -*who_celidor
-                  Je vous laisse à penser.
+      Je vous laisse à penser.
 
 -*who_le_roy
 O service qu'un Roy ne peut recompenser !
@@ -251,7 +251,7 @@ Tu te peux asseurer que ta fortune⁎ est grande,
 Mais voy la plus souvent et fay qu'elle se rende.
 ACTE I.
 
-**** *book_ *id_body-602 *act_ *date_1636 *creator_durval
+**** *book_ *id_I02 *act_I *date_1636 *creator_durval
 
 -*who_agarite
 Si le mignon du Roy n'est point⁎ un suborneur⁎
@@ -430,17 +430,17 @@ Monsieur retirez-vous, hé Dieu ! j'entens⁎ parler
 Mon Pere à la fenestre.
 
 -*who_celidor
-                  Il faut donc s'en aller.
+      Il faut donc s'en aller. 
 
 -*who_medon
 Agarite ma fille.
 
 -*who_agarite
-              Escoutez il m'appelle !
+      Escoutez il m'appelle !
 Adieu c'est trop causer.
 
 -*who_celidor
-                  Adieu doncque cruelle⁎
+      Adieu doncque cruelle⁎
 Ha ! qu'il est mal aisé de la solliciter
 En passant par icy je ne puis m'arrester 
 Qu' aussitost d'elle et moy son pere ne soupçonne ;
@@ -453,7 +453,7 @@ Il faut payer les Grands d'esperance et de vent
 Car de mesme monnoye ils nous payent souvent.
 ACTE I.
 
-**** *book_ *id_body-603 *act_ *date_1636 *creator_durval
+**** *book_ *id_I03 *act_I *date_1636 *creator_durval 
 
 -*who_medon
 Agarite parfois pour estre trop civile
@@ -464,7 +464,7 @@ Que te monstroit là bas le favory⁎ du Roy ?
 Un tableau du Printemps.
 
 -*who_medon
-                  Ma fille je te croy.
+      Ma fille je te croy.
 Mais dans mon cabinet j'en ay bien un plus rare⁎,
 Celuy de qui je l'ay l'acheta d' un Barbare⁎.
 
@@ -529,7 +529,7 @@ On ne sçauroit trouver une fourbe meilleure.
 Non, mais il faut aussi l'accomplir de bonne heure.
 ACTE I.
 
-**** *book_ *id_body-604 *act_ *date_1636 *creator_durval
+**** *book_ *id_I04 *act_I *date_1636 *creator_durval
 
 -*who_phenice
 Quand je pense, Madame, au bon-heur qui vous fuit,
@@ -543,7 +543,7 @@ Tant de nobles partis vous regardent encore,
 Qu'il ne vous reste plus.
 
 -*who_amelise
-                      Phenice taisez vous,
+      Phenice taisez vous,
 Je sçay que vous allez me parler d'un espoux,
 Mais ne me flattés⁎ point⁎ d'une esperance vaine,
 Et ne me parlés plus de ce tiltre de Reine.
@@ -558,7 +558,7 @@ Tandis je me retire en mon apartement.
 Je reviendray bien tost.
 
 -*who_le_roy
-                  Les affaires civiles,
+      Les affaires civiles,
 Nous tiennent prisonniers dans les plus belles villes,
 Les Sceptres dont les Rois gouvernent les humains,
 Sont d'un Cedre pesant qui suë entre leurs mains,
@@ -617,7 +617,7 @@ D'avoir pitié de ceux que la Fortune⁎ afflige.
 C'est le Pere, escoutez à l'oreille.
 
 -*who_le_roy
-                      Tant mieux.
+      Tant mieux.
 
 -*who_medon
 Sire, si ce discours⁎ ne vous est ennuyeux,
@@ -638,7 +638,7 @@ Te chargeant tout exprés de ceste diligence.
 Quiconque soit l'Autheur de ceste lascheté
 Je respons de sa teste à vostre Majesté.
 
-**** *book_ *id_body-701 *act_ *date_1636 *creator_durval
+**** *book_ *id_II01 *act_II *date_1636 *creator_durval
 
 -*who_agarite
 Je pense qu'autrefois en ceste solitude,
@@ -665,10 +665,10 @@ J'ay choisi dans ces Vers une sorte de style,
 Où Lyzene verra sa recherche inutile :
 En un mesme fueillet j'ay trouvé ce qu'il est,
 Et combien en son lieu Policaste me plaist :
-Mais les voicy tous deux à propos.
+Mais les voicy tous deux à propos. 
 
 -*who_lizene
-                      C'est merveilles⁎
+      C'est merveilles⁎
 De voir une Beauté qui n'a point⁎ de pareille.
 
 -*who_agarite
@@ -751,7 +751,7 @@ Il nous peut escouter sur le sueil de la porte.
 Il est desja bien loing,
 
 -*who_agarite
-                  laisse le donc courir,
+      laisse le donc courir,
 Ce n'est pas avec luy que je veux discourir.
 
 -*who_policaste
@@ -759,7 +759,7 @@ Je crains que de colere il descouvre la vie
 Que nous faisons tous deux,
 
 -*who_agarite
-                      Il crevera d'envie
+      Il crevera d'envie
 Plustost que d'en parler : car un sot amoureux
 Espere tost ou tard de se voir bien heureux 
 Et ne s'offense point⁎ quelque mal qu'on luy fasse.
@@ -774,7 +774,7 @@ Je n'ay garde, mon cœur de te desobliger⁎,
 Ce seroit le moyen de me bien affliger.
 
 -*who_agarite
-Que jamais ce penser n'interrompe nostre aise,
+Que jamais ce penser n'interrompe nostre aise, 
 
 -*who_policaste
 Pour n'y penser jamais, permets que je te baise.
@@ -783,7 +783,7 @@ Pour n'y penser jamais, permets que je te baise.
 Pourveu qu'en tout honneur⁎.
 
 -*who_policaste
-                      Je ne demande rien.
+      Je ne demande rien.
 Autre chose, d'honneur⁎, je ne veux que le tien.
 
 -*who_agarite
@@ -804,7 +804,7 @@ Mignarde ne crains point⁎ qu'autre part je te touche.
 C'est trop recommencer : ha ! je me fascheray.
 
 -*who_policaste
-Je n'en veux plus qu'un autre, et puis je m'en iray.
+Je n'en veux plus qu'un autre, et puis je m'en iray. 
 
 -*who_agarite
 Despeschez-vous : je crains que Lyzene revienne.
@@ -825,7 +825,7 @@ Et certes desormais l'amour qu'il a pour moy
 Me fait hair la Cour autant que je l'aymoy.
 ACTE II.
 
-**** *book_ *id_body-702 *act_ *date_1636 *creator_durval
+**** *book_ *id_II02 *act_II *date_1636 *creator_durval 
 
 -*who_lizene
 Malgré ses cruautez je luy seray fidelle⁎,
@@ -833,7 +833,7 @@ Ma sœur ne parle point⁎ de son pere, ny d'elle,
 Peut-estre qu'à la fin.
 
 -*who_corintie
-                  Elle se resoudra
+      Elle se resoudra
 De prendre le party que son Pere voudra,
 Medon depuis long temps cognoist⁎ nostre famille.
 
@@ -882,7 +882,7 @@ Pourra rendre vostre ame et la mienne contente.
 Hé Dieu ! seroit-ce bien vostre Frere ?
 
 -*who_corintie
-                          C'est luy.
+      C'est luy. 
 
 -*who_celidor
 Mais quoy ! ne doit-il pas retourner d'aujourd'huy ?
@@ -891,7 +891,7 @@ Mais quoy ! ne doit-il pas retourner d'aujourd'huy ?
 Possible de huict jours.
 
 -*who_celidor
-                  O favorable absence !
+      O favorable absence !
 Donne nous desormais un peu plus de licence⁎.
 
 -*who_corintie
@@ -905,7 +905,7 @@ En ce parfait amour une difficulté
 M'empesche de gouster nostre felicité.
 
 -*who_celidor
-Quelle difficulté vous empesche de rire ?
+Quelle difficulté vous empesche de rire ? 
 
 -*who_corintie
 Je n'ose descouvrir ce que mon cœur desire.
@@ -940,7 +940,7 @@ Qu'ils soient de bleu celeste au visage d'un Ange.
 Que vous estes flatteur⁎ !
 
 -*who_celidor
-                  Voila trop m'offenser
+      Voila trop m'offenser
 
 -*who_corintie
 De parler autrement que vous n'osez penser.
@@ -949,13 +949,13 @@ De parler autrement que vous n'osez penser.
 Ha ! vous le payerez,
 
 -*who_corintie
-                  Tout beau je vous supplie.
+      Tout beau je vous supplie.
 
 -*who_celidor
 Il faut,
 
 -*who_corintie
-          Arrestez-vous : Hé Dieu ! quelle folie.
+      Arrestez-vous : Hé Dieu ! quelle folie. 
 
 -*who_celidor
 Quand l'ame par les yeux exprime ses desirs
@@ -965,21 +965,21 @@ Pourquoy priver le corps de ses menus plaisirs ?
 Ha ! que vous estes fin.
 
 -*who_celidor
-                  Quelle grande finesse
+      Quelle grande finesse
 Trouvez -vous en l'humeur⁎ d'une simple jeunesse ?
 
 -*who_corintie
 Vous taschez de venir,
 
 -*who_celidor
-                  Achevez sur un poinct⁎.
+      Achevez sur un poinct⁎.
 
 -*who_corintie
 Où sans doute (Beau-fils) vous n'arriverez point⁎.
 
 -*who_celidor
 Possible qu'au jardin dessous un beau fueillage,
-Vous laisserez la fleur de vostre Pucelage.
+Vous laisserez la fleur de vostre Pucelage. 
 
 -*who_corintie
 Ha ! vous ferez beaucoup d'obtenir un baiser.
@@ -988,7 +988,7 @@ Ha ! vous ferez beaucoup d'obtenir un baiser.
 Allons, je ne suis plus en humeur⁎ de causer.
 ACTE II.
 
-**** *book_ *id_body-703 *act_ *date_1636 *creator_durval
+**** *book_ *id_II03 *act_II *date_1636 *creator_durval 
 
 -*who_policaste
 Celuy qui n'ayme pas n'est pas digne de vivre,
@@ -998,7 +998,7 @@ J'ay marqué ce beau traict⁎ fueilletant vostre Livre.
 Où l'avez-vous laissé ?
 
 -*who_policaste
-                  Dedans mon Cabinet.
+      Dedans mon Cabinet.
 
 -*who_agarite
 Vous ne lirez donc point⁎ maintenant de Sonnet.
@@ -1021,14 +1021,14 @@ Qui censurent l'Amour, ou ne l'osent pas suivre ;
 Si je suis amoureux, ne vous en estonnez⁎,
 Ce n'est que pour aymer que nous sommes tous nez,
 Et je croy que les Dieux seroient ce que nous sommes,
-Si l'on aymoit au Ciel à la façon des hommes.
+Si l'on aymoit au Ciel à la façon des hommes. 
 
 -*who_agarite
 Vous voulez donc conclure, afin de me charmer⁎,
 Qu'il n'est point⁎ de plaisir
 
 -*who_policaste
-                      Plus grand que de s'aymer.
+      Plus grand que de s'aymer.
 C'est le souverain bien⁎ des personnes bien nées.
 
 -*who_agarite
@@ -1051,7 +1051,7 @@ Et depuis mes chevaux n'ont cessé de courir :
 Il vous escrit ce mot.
 
 -*who_agarite
-                  monstre que je le voye.
+      monstre que je le voye.
 O le mauvais conseil⁎ que mon Pere m'envoye !
 Cocher, fay tout le moins repaistre tes chevaux.
 Dieux, tousjours les Amans auront-ils des Rivaux ?
@@ -1060,7 +1060,7 @@ Dieux, tousjours les Amans auront-ils des Rivaux ?
 Entendez⁎-vous parler de Lyzene ?
 
 -*who_agarite
-                      mon Pere
+      mon Pere
 Me le fait espouser, cela me desespere.
 
 -*who_policaste
@@ -1112,7 +1112,7 @@ Mon cœur asseurez-vous que l'affaire est concluë,
 Adieu, c'est assez dit, m'y voilà resoluë.
 ACTE II.
 
-**** *book_ *id_body-704 *act_ *date_1636 *creator_durval
+**** *book_ *id_II04 *act_II *date_1636 *creator_durval 
 
 -*who_le_roy
 Je ne m'estonne⁎ pas si tes gens n'ont rien fait
@@ -1140,10 +1140,10 @@ Une heure auparavant qu'on s'en aille coucher,
 Il le faut.
 
 -*who_celidor
-              C'est tout dire.
+      C'est tout dire.
 
 -*who_le_roy
-                      Et ravir l'Espousée.
+      Et ravir l'Espousée.
 
 -*who_celidor
 Sire je voy desja l'affaire bien aisée.
@@ -1162,7 +1162,7 @@ Chacun la luy veut faire et se mettre en sa place,
 De sorte qu'à la Cour, dés la premiere fois,
 Il se faut bien servir de la bonté des Rois.
 
-**** *book_ *id_body-801 *act_ *date_1636 *creator_durval
+**** *book_ *id_III01 *act_III *date_1636 *creator_durval
 
 -*who_medon
 Le sacré mariage unit l'homme et la femme,
@@ -1188,7 +1188,7 @@ Prenez exemple à moy qui ne suis qu'un vieillard,
 De l'aise que j'en ay, j'ay quitté la callotte,
 Et bien-tost pour danser je vay prendre la botte,
 Afin de tesmoigner aux hommes de mon temps
-Que je retourne encore à l'aage de vingt ans.
+Que je retourne encore à l'aage de vingt ans. 
 
 -*who_lizene
 Est ce que vous craignez quelque trait⁎ de malice,
@@ -1203,7 +1203,7 @@ Excusez mon humeur⁎, je suis ainsi nourrie.
 Je vous adouciray.
 
 -*who_agarite
-              Laissez moy je vous prie.
+      Laissez moy je vous prie.
 
 -*who_medon
 Volontiers qu'elle songe aux prises qu'à ce soir
@@ -1216,7 +1216,7 @@ Est-il vray.
       Je ne sçay.
 
 -*who_medon
-                  Tu ne l'oses pas dire.
+      Tu ne l'oses pas dire. 
 
 -*who_lizene
 Elle a bien de la peine⁎ à s'empescher de rire.
@@ -1240,7 +1240,7 @@ Sus allons de bon cœur recevoir nos amis,
 Et leur donnons le bal que je leur ay promis.
 ACTE II.
 
-**** *book_ *id_body-802 *act_ *date_1636 *creator_durval
+**** *book_ *id_III02 *act_III *date_1636 *creator_durval 
 
 -*who_policaste
 Nymphes ne trouvés point⁎ ce changement estrange⁎,
@@ -1314,7 +1314,7 @@ Encore que desja tu me manques de foy⁎.
 Je voy que tes sermens se tournent en mensonge :
 Mais je m'efforceray de te baiser en songe.
 Et si de ce tombeau je ne me leve pas,
-Dy qu'au lieu du sommeil j'ay trouvé le trépas.
+Dy qu'au lieu du sommeil j'ay trouvé le trépas. 
 
 -*who_agarite
 On n'entend⁎ plus de bruit⁎ dans les places publiques,
@@ -1339,7 +1339,7 @@ Ces petits Feux⁎ Ardens qui font un peu de jour,
 Ne peuvent estre nez que du flambeau d'Amour :
 On dit que ces Feux⁎-là menent vers les Rivieres,
 Quand pour se faire suivre ils charment⁎ nos paupieres.
-Mais je le sçauray bien, je m'en vay l'esprouver⁎   
+Mais je le sçauray bien, je m'en vay l'esprouver⁎
 Sur la rive du Fleuve, où je dois arriver.
 Toutesfois en suivant ces bluettes⁎ errantes,
 Si je me laissois choir dans les ondes courantes,
@@ -1399,7 +1399,7 @@ Tu ne viens qu'en esprit⁎ et pour me faire peur.
 Je reduiray bien-tost cette crainte en vapeur.
 
 -*who_policaste
-Tu visites les morts pour en croistre le nombre.
+Tu visites les morts pour en croistre le nombre. 
 
 -*who_agarite
 Resveur, asseurément, tu me prens pour une Ombre :
@@ -1407,7 +1407,7 @@ Mais je vay te heurter au rencontre⁎ si fort,
 Que tu diras.
 
 -*who_policaste
-              Hé Dieu ! je croyois estre mort.
+      Hé Dieu ! je croyois estre mort.
 
 -*who_agarite
 Au moins jusques icy tu ne m'as pas cognuë⁎.
@@ -1443,26 +1443,26 @@ La main en ce devoir est si prés des tetons,
 Qu'on ne peut.
 
 -*who_agarite
-              Laisse moy.
+      Laisse moy.
 
 -*who_policaste
-                      Pourquoy te laisseray-je ?
+      Pourquoy te laisseray-je ?
 Miracle ! j'ay trouvé sur deux pommes de neige
 Deux petits glands de feu⁎.
 
 -*who_agarite
-                      Sois sage.
+      Sois sage.
 
 -*who_policaste
-                          En cet endroit.
-Comme peux-tu sentir plus de chaud que de froid ?
+      En cet endroit.
+Comme peux-tu sentir plus de chaud que de froid ? 
 
 -*who_agarite
 Mon Dieu ! que faisons nous si long temps sur la rive,
 J'apprehende le jour.
 
 -*who_policaste
-              Ne crain point⁎ qu'il arrive.
+      Ne crain point⁎ qu'il arrive.
 
 -*who_agarite
 Les eaux ne coulent pas si viste que le temps.
@@ -1474,17 +1474,17 @@ Tu verras à la fin que nous serons contens.
 Despeschons.
 
 -*who_policaste
-              As-tu fait.
+      As-tu fait.
 
 -*who_agarite
-                      Allons me voila preste.
+      Allons me voila preste.
 
 -*who_policaste
 Afin que le serein ne te nuise à la teste,
 Entre dans la cabane et laisse-moy ramer.
 
 -*who_agarite
-Au moins que ce basteau n'aille point⁎ dans la mer.
+Au moins que ce basteau n'aille point⁎ dans la mer. 
 
 -*who_policaste
 Peureuse nous n'irons que dans la place forte,
@@ -1494,7 +1494,7 @@ Où le vent est d'accord que ce fleuve nous porte.
 J'ay peur que cet accord ne tienne.
 
 -*who_policaste
-                      Pour le moins
+      Pour le moins
 En le voulant passer ils ont pris deux tesmoins.
 
 -*who_agarite
@@ -1504,30 +1504,30 @@ Je meure… la riviere est bonne larronnesse.
 Comment.
 
 -*who_agarite
-              Pour me ravir elle use de finesse,
+      Pour me ravir elle use de finesse,
 Je n'entends⁎ plus le bruit⁎ de son flus et reflus.
 
 -*who_policaste
 Ayant ce qu'elle veut elle n'en parle plus.
 ACTE II.
 
-**** *book_ *id_body-803 *act_ *date_1636 *creator_durval
+**** *book_ *id_III03 *act_III *date_1636 *creator_durval 
 
 -*who_medon
 Il faut voir ce Balet.
 
 -*who_lizene
-                  Je commence d'entendre⁎
+      Je commence d'entendre⁎
 Le son des instrumens.
 
 -*who_medon
-                  Prenons place mon Gendre.
+      Prenons place mon Gendre.
 
 -*who_corintie
 Les voicy j'entrevoy la clairté d'un flambeau.
 
 -*who_lizene
-Chacun dit que la Cour n'a rien veu de si beau.
+Chacun dit que la Cour n'a rien veu de si beau. 
 
 -*who_medon
 A propos il faudroit appeller l'espousée.
@@ -1548,20 +1548,20 @@ Prenez garde Monsieur ils sont tous à la porte.
 N'ont-ils point⁎ de cartel.
 
 -*who_lizene
-                      Le voicy qu'on l'apporte.
+      Le voicy qu'on l'apporte.
 
 -*who_corintie
 Mon frere je les voy.
 
 -*who_medon
-                  Lyzene je ne puis
+      Lyzene je ne puis
 En faire la lecture à la place où je suis.
 
 -*who_lizene
 Donnez-moy.
 
 -*who_medon
-              Quel plaisir en auroient les Poëtes
+      Quel plaisir en auroient les Poëtes
 Si pour lire des Vers je prenois mes lunettes.
 
 -*who_lizene
@@ -1599,7 +1599,7 @@ Dans leur sein amoureux des souspirs et des flames⁎.
 Ce sont les Quatre-vents que nous verrons danser,
 
 -*who_medon
-C'est assez taisons-nous, car ils vont commencer.
+C'est assez taisons-nous, car ils vont commencer. 
 
 -*who_celidor
 Amis le coup⁎ est fait, avant qu'il resuscite
@@ -1613,32 +1613,32 @@ Quelqu'un rallumez nous les chandelles esteintes,
 O Dieux ! ce n'est pas feinte⁎.
 
 -*who_corintie
-                      O Ciel ! tout est perdu,
+      O Ciel ! tout est perdu,
 Mon frere aupres de nous est tout roide estendu.
 
 -*who_medon
 O scandaleuse danse !
 
 -*who_corintie
-                  O nopce infortunée⁎ !
+      O nopce infortunée⁎ !
 
 -*who_medon
-O malheureuse nuict !
+O malheureuse nuict ! 
 
 -*who_corintie
-                  O funeste⁎ journée !
+      O funeste⁎ journée !
 
 -*who_medon
 Helas ! je vay sçavoir.
 
 -*who_corintie
-                  Ha ! je meurs de douleur.
+      Ha ! je meurs de douleur.
 
 -*who_medon
 Ce que l'on aura fait de ma fille.
 
 -*who_corintie
-                      O malheur !
+      O malheur !
 Ou plustost perfidie horrible à la memoire !
 Execrable homicide et dificile à croire,
 Mon frere ay-je perdu ce nom plein de douceur ?
@@ -1646,7 +1646,7 @@ Ne sçaurois-je pour tout m'appeller vostre sœur ?
 Mon frere encore un mot, un soupir, une œillade.
 Hé Dieu ! peut-on mourir que l'on ne soit malade,
 O Cieux ! l'horible coup⁎ ! c'en est fait il est mort,
-O coup⁎ de trahison ! que tu me fais de tort.
+O coup⁎ de trahison ! que tu me fais de tort. 
 
 -*who_medon
 Bons Dieux ! que ferons nous ma fille est enlevée,
@@ -1657,9 +1657,9 @@ Amis emportés nous dans un mesme cercueil,
 Venez m'ayder.
 
 -*who_medon
-              Allons nous revestir de dueil.
+      Allons nous revestir de dueil.
 
-**** *book_ *id_body-901 *act_ *date_1636 *creator_durval
+**** *book_ *id_IV01 *act_IV *date_1636 *creator_durval
 
 -*who_pecheur1
 Tant que dessus les eaux nous voyons la bonasse,
@@ -1681,7 +1681,7 @@ L'adresse fait autant que la force du corps.
 Sens-tu dans le profond nostre nasse ?
 
 -*who_pecheur2
-                          Courage⁎ !
+      Courage⁎ !
 Nous allons voir bien-tost des Anguilles en cage.
 O la belle ! Compere apprestez nostre seau.
 
@@ -1690,7 +1690,7 @@ Donne-moy ce poisson qui se bat hors de l'eau.
 Il est froid comme glace, et luisant comme verre.
 
 -*who_pecheur2
-Prenez garde, il eschappe à celuy qui le serre.
+Prenez garde, il eschappe à celuy qui le serre. 
 
 -*who_pecheur1
 Meschante, je m'en vay te percer le gosier
@@ -1712,14 +1712,14 @@ Je le veux, allons voir l'Hostesse du Village.
 Tu mangeras ta part de la pesche
 
 -*who_pecheur2
-                      Vrayment
+      Vrayment
 Je l'entens⁎ bien ainsi mon Parrain, autrement,
 
 -*who_pecheur1
 Garson, voicy de quoy s'estonner⁎
 
 -*who_pecheur2
-                      Au contraire
+      Au contraire
 Il se faut resjouyr d'une si bonne affaire.
 
 -*who_pecheur1
@@ -1734,13 +1734,13 @@ Ils nous vaudront l'argent de vingt paires de bœufs,
 Prenons les.
 
 -*who_pecheur1
-              Si tu veux que l'on te mene pendre.
+      Si tu veux que l'on te mene pendre.
 
 -*who_pecheur2
 Ho ! Ho ! que dites vous je ne veux pas les prendre.
 
 -*who_pecheur1
-Sçay-tu que nous ferons, retourne à la maison.
+Sçay-tu que nous ferons, retourne à la maison. 
 
 -*who_pecheur2
 Il vaut mieux s'y tenir que d'aller en prison.
@@ -1749,20 +1749,20 @@ Il vaut mieux s'y tenir que d'aller en prison.
 Cependant.
 
 -*who_pecheur2
-              N'ayez peur que l'on m'en divertisse.
+      N'ayez peur que l'on m'en divertisse.
 
 -*who_pecheur1
 Je m'en vay de ce cas advertir la justice.
 ACTE IIII.
 
-**** *book_ *id_body-902 *act_ *date_1636 *creator_durval
+**** *book_ *id_IV02 *act_IV *date_1636 *creator_durval 
 
 -*who_le_roy
 Un desir violent me presse de la voir,
 Où croy-tu qu'elle soit  ?
 
 -*who_celidor
-                  On ne le peut sçavoir.
+      On ne le peut sçavoir.
 
 -*who_le_roy
 Je l'auray morte ou vive, ou ma juste colere
@@ -1784,7 +1784,7 @@ Sur un autre plus grand je te veux escouter,
 Qu'as-tu fait de ta fille ?
 
 -*who_medon
-                  O noire calomnie !
+      O noire calomnie !
 
 -*who_le_roy
 On n'est pas deschargé des crimes que l'on nie :
@@ -1823,10 +1823,10 @@ Sire, que j'ay trouvé dessus le bord de l'eau
 Des vestemens.
 
 -*who_le_roy
-              Voicy de mauvaises nouvelles.
+      Voicy de mauvaises nouvelles.
 
 -*who_pecheur1
-Tels qu'on en voit porter aux jeunes Damoiselles.
+Tels qu'on en voit porter aux jeunes Damoiselles. 
 
 -*who_medon
 Las, peut-estre ma fille, haissant son espoux
@@ -1838,11 +1838,11 @@ Examine à son tour de plus prés cet indice,
 Pescheur viens nous mener au rivage.
 
 -*who_medon
-                          Les Cieux
+      Les Cieux
 N'influent dessus moy que la haine des Dieux.
 ACTE IIII.
 
-**** *book_ *id_body-903 *act_ *date_1636 *creator_durval
+**** *book_ *id_IV03 *act_IV *date_1636 *creator_durval 
 
 -*who_policaste
 Encore qu'en ce lieu tu sois en ma puissance,
@@ -1873,7 +1873,7 @@ Agarite, j'entens⁎ demeurer un quart d'heure
 Sur ceste belle gorge.
 
 -*who_agarite
-                  Ha ! tu veux que je meure,
+      Ha ! tu veux que je meure,
 C'est trop en voilà plus que je ne t'ay promis.
 
 -*who_policaste
@@ -1885,7 +1885,7 @@ Amour ne seroit plus à l'aage d'innocence.
 
 -*who_policaste
 Estant comme je suis à l'aage de raison,
-Il ne te pourroit faire aucune trahison.
+Il ne te pourroit faire aucune trahison. 
 
 -*who_agarite
 Les Amans font tousjours tant de belles promesses.
@@ -1907,7 +1907,7 @@ Et dy que pour une autre il t'a voulu changer.
 Lors qu'on demandera ceste Roche perduë,
 Comme si dans ce fleuve elle s'estoit fonduë,
 Appelle-moy volage, et sur le bord de l'eau
-Accuse d'inconstance un debile cerveau.
+Accuse d'inconstance un debile cerveau. 
 
 -*who_policaste
 Bien que nous ayons tous le cerveau fort humide,
@@ -1932,13 +1932,13 @@ Dans ce Parc où les Dains se promenent parfois
 Nous pouvons faire un tour à l'ombrage des bois.
 ACTE IIII.
 
-**** *book_ *id_body-904 *act_ *date_1636 *creator_durval
+**** *book_ *id_IV04 *act_IV *date_1636 *creator_durval 
 
 -*who_le_roy
 Nous voicy sur le lieu.
 
 -*who_medon
-                  Ha ! je cognoy⁎ ma perte.
+      Ha ! je cognoy⁎ ma perte.
 De ces mesmes habits ma fille estoit couverte :
 Amis soustenez-moy, je tombe en pasmoison.
 
@@ -1949,10 +1949,10 @@ Tes mains en un besoin te serviront d'Aiguiere.
 
 -*who_pecheur1
 Tenez voila de l'eau tant qu'il en peut tenir
-Dans le creux de ma main.
+Dans le creux de ma main. 
 
 -*who_phenice
-                      Faisons-le revenir.
+      Faisons-le revenir.
 
 -*who_le_roy
 Oyseaux qui vous cachez dans les vieilles masures,
@@ -2019,7 +2019,7 @@ Ha ! Sire, commandez s'il vous plaist qu'on m'emporte.
 Qu'on l'emmeine, pour moy la douleur me transporte.
 ACTE IIII.
 
-**** *book_ *id_body-905 *act_ *date_1636 *creator_durval
+**** *book_ *id_IV05 *act_IV *date_1636 *creator_durval 
 
 -*who_corintie
 Quel jour peut amener le Soleil qui nous luit
@@ -2070,7 +2070,7 @@ Qui par son amertume efface les pechez.
 Ha ! je vous retiendray.
 
 -*who_celidor
-                      Helas ! ne me touchez
+      Helas ! ne me touchez
 Que je ne sois purgé d'un meurtre detestable.
 
 -*who_corintie
@@ -2131,7 +2131,7 @@ Allons, je me resous de partir promptement,
 Et ne veux differer ce dessein⁎ d'un moment.
 ACTE IIII.
 
-**** *book_ *id_body-906 *act_ *date_1636 *creator_durval
+**** *book_ *id_IV06 *act_IV *date_1636 *creator_durval 
 
 -*who_le_roy
 Traistres sortez d'icy, mes fureurs⁎, et mes rages
@@ -2215,7 +2215,7 @@ Et le meilleur remede à ton ame blessée⁎,
 C'est de perdre le soin⁎ de venir tous les jours
 T'entretenir icy de tes folles amours.
 
-**** *book_ *id_body-1001 *act_ *date_1636 *creator_durval
+**** *book_ *id_V01 *act_V *date_1636 *creator_durval
 
 -*who_policaste
 Tant de braves Seigneurs que le Roy tient à gages,
@@ -2262,7 +2262,7 @@ La plus grande faveur⁎ que le Roy me peut faire,
 Dépend de t'espouser.
 
 -*who_agarite
-                  C'est le juste salaire
+      C'est le juste salaire
 Que j'attends d'un Seigneur de vostre qualité.
 
 -*who_policaste
@@ -2282,7 +2282,7 @@ Et l'on doit trouver bon qu'ainsi je te déguise.
 Mais direz-vous au Roy qui je suis ?
 
 -*who_policaste
-                      Je diray,
+      Je diray,
 Si je m'y voy contraint, ce que j'adviseray.
 Ce pendant je voudrois avoir trouvé Phenice,
 Je suis bien asseuré que sçachant l'artifice
@@ -2294,13 +2294,13 @@ Cet honneste Escuyer nous le pourra montrer.
 -*who_policaste
 Dieux ! faites réussir cette haute entreprise.
 C'est luy-mesme, il conduit la Princesse Amelise :
-Allons le salüer.
+Allons le salüer. 
 
 -*who_agarite
-              Je vous suis.
+      Je vous suis.
 
 -*who_policaste
-                      Monseigneur.
+      Monseigneur.
 J'interprete déja ce rencontre⁎ à bon-heur,
 En ce Palais Royal, le dessein⁎ qui m'ameine,
 Est de guerir le Roy, vous donnant une Reine
@@ -2349,11 +2349,11 @@ Selon qu'elle merite, à cause de la presse⁎.
 Entrons dans le Palais.
 
 -*who_amelise
-                  Venez m'entretenir,
+      Venez m'entretenir,
 Du loüable dessein⁎ qui vous a fait venir.
 ACTE V.
 
-**** *book_ *id_body-1002 *act_ *date_1636 *creator_durval
+**** *book_ *id_V02 *act_V *date_1636 *creator_durval
 
 -*who_corintie
 Mon Amant doit passer au coin de ce Boccage,
@@ -2385,11 +2385,11 @@ Ta flame⁎ dans cette eau ne s'est point⁎ amortie,
 Tu ne t'en peux dédire.
 
 -*who_celidor
-                  Il est vray, je l'ay dit
-A l'Echo.
+      Il est vray, je l'ay dit
+A l'Echo. 
 
 -*who_corintie
-          Tu voulois qu'elle te respondit,
+      Tu voulois qu'elle te respondit,
 Mais en cet entretien ma voix l'a prevenuë.
 
 -*who_celidor
@@ -2399,7 +2399,7 @@ Helas ! pourquoy dés lors ne vous ay-je cogneuë⁎ ?
 Pourveu que je t'emmeine, il n'importe.
 
 -*who_celidor
-                          Vrayment.
+      Vrayment.
 Je vous suivray par tout en qualité d'Amant,
 
 -*who_corintie
@@ -2439,10 +2439,10 @@ Ha ! que je sens de mal en cette solitude !
 Tout ce mal ne sera qu'un peu de lassitude,
 Vous avez beu trop chaut, vous avez trop marché,
 Mais vous ne serez pas demie heure couché,
-Que vous serez guery.
+Que vous serez guery. 
 
 -*who_celidor
-                  Soustenez-moy, je pasme.
+      Soustenez-moy, je pasme.
 
 -*who_corintie
 Hé, Dieux ! entre mes bras voulez-vous rendre l'ame.
@@ -2453,11 +2453,11 @@ Pourquoy, sans me tuer, vous laissez-vous mourir ?
 Ne vous effrayez point⁎.    
 
 -*who_corintie
-                  D'où vient cette foiblesse,
+      D'où vient cette foiblesse,
 Qui vous rend si defait ?
 
 -*who_celidor
-                  Peu de chose me blesse⁎,
+      Peu de chose me blesse⁎,
 Et toutefois mes sens me vont abandonner,
 Si je n'ay le plaisir de vous deboutonner.
 
@@ -2489,12 +2489,12 @@ Je t'abandonneray ce que j'ay de plus cher,
 Ce pendant aimons-nous.
 
 -*who_celidor
-                      Ha ! que ce temps me dure ?
+      Ha ! que ce temps me dure ?
 Et qu'il fait bon icy nous coucher sur la dure.
 
 -*who_corintie
 Nous n'avons point⁎ de droit⁎ sur les terres d'autruy.
-Debout, il nous faut rendre à la Cour aujourd'huy.
+Debout, il nous faut rendre à la Cour aujourd'huy. 
 
 -*who_celidor
 Las ! sans vous obeïr, le moyen que je vive ?
@@ -2505,7 +2505,7 @@ Sans toy, mon cher Amant, je pourrois m'égarer,
 Avec toy le chemin ne me sçauroit durer.
 ACTE V.
 
-**** *book_ *id_body-1003 *act_ *date_1636 *creator_durval
+**** *book_ *id_V03 *act_V *date_1636 *creator_durval 
 
 -*who_le_roy
 En fin cette Beauté, dont je suis idolatre,
@@ -2555,7 +2555,7 @@ Ta Majesté veut estre adorée en silence.
 Il est temps de parestre.
 
 -*who_phenice
-                  Allons l'entretenir.
+      Allons l'entretenir.
 
 -*who_le_roy
 O Dieux ! elle se leve , elle me veut punir,
@@ -2712,7 +2712,7 @@ Que pour donner des fleurs, et des fruicts tout ensemble.
 Ha ! Sire, montrez-moy ma fille.
 
 -*who_le_roy
-                      La voicy.
+      La voicy.
 
 -*who_agarite
 Hé ! mon Pere, prenez vostre fille à mercy.
@@ -2729,7 +2729,7 @@ Ce brave Gentil-homme est son fidel⁎ Amant.
 Les Dieux en soient loüez.
 
 -*who_policaste
-                      Je meurs d'impatience,
+      Je meurs d'impatience,
 De passer avec vous cette heureuse alliance.
 
 -*who_le_roy
@@ -2745,7 +2745,7 @@ Je pense que ces gens qui heurtent à la porte,
 Sont de ceux qui croyoient qu'Agarite fut morte.
 
 -*who_corintie
-Estrangers⁎, nous venons pour voir sa Majesté.
+Estrangers⁎, nous venons pour voir sa Majesté. 
 
 -*who_exempt
 Entrez, et vous tenez seulement à costé.

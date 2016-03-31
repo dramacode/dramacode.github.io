@@ -4108,7 +4108,7 @@ Introduction à la langue française du XVIIe siècle
 
 [4] . *Art Poétique*, chant IV, vers 33-34.
 
-[5] . Estienne Martin, seigneur de Pinchêne, était le neveu de Voiture et l'auteur de *Poésies héroïques* et de *Poésies Mêlées*. Selon le Catalogue manuscrit de la Bibliothèque impériale, « il s'imaginait avoir de  l'esprit, parce qu'il était neveu de Voiture » .
+[5] . Estienne Martin, seigneur de Pinchêne, était le neveu de Voiture et l'auteur de *Poésies héroïques* et de *Poésies Mêlées*. Selon le Catalogue manuscrit de la Bibliothèque impériale, « il s'imaginait avoir de l'esprit, parce qu'il était neveu de Voiture » .
 
 [6] . Ces deux passages sont extraits du *Recueil de factums* datant de 1696.
 
