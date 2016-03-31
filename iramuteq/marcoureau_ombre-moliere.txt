@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_dedicace *date_1674 *creator_brecourt
+**** *book_ *id_dedicace *date_1674 *creator_brecourt 
 
 À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D'ENGUIEN.
 
@@ -19,13 +19,15 @@ Le tres-humble et tres-obeïssant Serviteur,
 
 BRECOURT.
 
-**** *book_ *id_body-3 *date_1674 *creator_brecourt
+**** *book_ *id_A *date_1674 *creator_brecourt 
+
+PROLOGUE DE L'OMBRE DE MOLIERE
 
 -*who_oronte
 Point, vous dis-je ; C'est une raillerie qu'on vous a faite de moy.
 
 -*who_cleante
-Je vous dis que je suis seûr de la chose.
+Je vous dis que je suis seûr de la chose. 
 
 -*who_oronte
 C'est quelqu'un qui a voulu se divertir à mes dépens, vous dis-je.
@@ -59,7 +61,7 @@ Encore ?
 C'est une petite Pièce en Prose.
 
 -*who_oronte
-Bon.
+Bon. 
 
 -*who_cleante
 Et les Comédiens qui la représenteront, sont cachez là-haut dans vostre Chambre, pour la repéter aujourd'huy.
@@ -112,7 +114,7 @@ Allez, Oronte, quelque chose que ce soit, le seul sentiment qui vous l'a fait en
 Ne me faites pas rougir davantage, Cleante ; et venez seulement donner vostre avis sur nostre Repétition.
 Fin du prologue.
 
-**** *book_ *id_body-401 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I01 *act_I *date_1674 *creator_brecourt
 
 -*who_ombre
 Donne, donne-moy ce Balay.
@@ -142,7 +144,7 @@ N'ay-je pas fidellement servy tous les Maistres à qui j'ay esté ?
 
 -*who_ombre
 Ay-je manqué en rien, moy, à tout ce que les miens m'ont commandé ?
-Et quand je servois, par exemple, cet illustre et fameux Tailleur, m'a-t-on jamais veu luy friponner la moindre guenille des choses qu'il déroboit ?
+Et quand je servois, par exemple, cet illustre et fameux Tailleur, m'a-t-on jamais veu luy friponner la moindre guenille des choses qu'il déroboit ? 
 
 -*who_ombre
 Et quand je servois, moy, mon petit Grison de Procureur, m'a-t-on jamais veu abuser des secrets qu'il me confioit, ny revéler aucune des friponneries qu'il faisoit à ses Parties ?
@@ -180,7 +182,7 @@ A qui en a Caron aussy, de tourmenter incessamment ce pauvre Génie ?
 -*who_ombre
 Il faut bien qu'il luy ait fait quelque chose.
 
-**** *book_ *id_body-402 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I02 *act_I *date_1674 *creator_brecourt 
 
 -*who_caron
 Que font là ces Coquins ?
@@ -194,7 +196,7 @@ Quoy ! tu ne me laisseras pas en repos ?
 Veux-tu te retirer ?
 
 -*who_poete
-Helas, Caron ! helas !
+Helas, Caron ! helas ! 
 
 -*who_caron
 Helas, Caron ! helas !
@@ -220,7 +222,7 @@ Ma foy, tu en as fait de forts jolis Garçons ; et principalement les Héros Gr
 Tu les as si bien barboüillez, qu'ils n'ont plus besoin de masques de Carnaval pour se déguiser.
 
 -*who_poete
-Que tu fais le plaisant mal à propos !
+Que tu fais le plaisant mal à propos ! 
 
 -*who_caron
 Tu as raison, mais ce n'est que depuis que nous nous voyons.
@@ -260,7 +262,7 @@ Ah, le Bourreau !
 Tu ne sortiras pas ?
 Allons, Balayeurs, faites vostre charge ; Voicy Pluton ; et cet animal n'a que faire icy.
 
-**** *book_ *id_body-403 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I03 *act_I *date_1674 *creator_brecourt
 
 -*who_pluton
 Ça, il est donc question de rendre justice aujourd'huy.
@@ -315,7 +317,7 @@ Où sont les Complaignans ?
 -*who_minos
 L'Envie les doit conduire icy.
 
-**** *book_ *id_body-404 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I04 *act_I *date_1674 *creator_brecourt 
 
 -*who_caron
 Je n'y puis plus tenir ; Jamais il ne s'est veu tant d'Ombres en un jour ; et la Porte va rompre si vous n'y donnez ordre.
@@ -355,7 +357,7 @@ Fais-les entrer selon le rang qu'ils auront à la Porte.
 Radamante, prens le Rôle pour écrire le nom des Complaignans.
 Çà, qui est celle-cy ?
 
-**** *book_ *id_body-405 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I05 *act_I *date_1674 *creator_brecourt 
 
 -*who_caron
 Vous l'allez reconnoître à son langage.
@@ -388,7 +390,7 @@ Pardonnez, grand Monarque, si j'ose vous parler si vulgairement, et si toutes no
 
 -*who_pluton
 Hé, il n'y a point de mal à cela ; au contraire, on ne se pique pas icy de beau langage.
-Dites un peu naturellement vostre affaire, car foy de Dieu d'icy-bas je n'y ay rien compris encore.
+Dites un peu naturellement vostre affaire, car foy de Dieu d'icy-bas je n'y ay rien compris encore. 
 
 -*who_la_pretieuse
 Se peut-il faire que vostre noire Majesté ait la forme si enfoncée dans la matiere ?
@@ -401,7 +403,7 @@ Quoy ! la dureté de vostre Compréhension ne peut estre amolie par le concert 
 
 -*who_pluton
 Je ne sçay ce que c'est que tout cela, mais j'auray soin de vous rendre justice.
-Passez sur les aîles de mon Trône.
+Passez sur les aîles de mon Trône. 
 
 -*who_la_pretieuse
 Quoy, Monarque enfumé ! vous répandrez de vos propres bontez sur le gemissement de nos altercations ?
@@ -420,7 +422,7 @@ Hé bien, que quelqu'autre entre donc, on jugera tout ensemble.
 -*who_caron
 Allons, que le plus proche de la Porte vienne.
 
-**** *book_ *id_body-406 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I06 *act_I *date_1674 *creator_brecourt
 
 -*who_pluton
 Ça, qui est celuy-cy ?
@@ -483,7 +485,7 @@ L'Ombre d'un Cocu ?
 Il faut que ce soit un furieux Corps !
 Parle, que veux-tu ?
 
-**** *book_ *id_body-407 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I07 *act_I *date_1674 *creator_brecourt
 
 -*who_cocu
 Vous voyez en ma seule Ombre tout le Corps des Cocus ; Vous les voyez icy en moy, dis-je, affligez, outragez, et tout contrits des affronts publics que ce grand Corps a reçeus depuis que malicieusement cet Ennemy juré de nostre repos nous a rendus le joüet de tout le monde.
@@ -509,7 +511,7 @@ Allez, on va vous écrire.
 Qu'est-ce ?
 Qu'y a-t-il de nouveau ?
 
-**** *book_ *id_body-408 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I08 *act_I *date_1674 *creator_brecourt
 
 -*who_caron
 Je ne sçay d'où nous est venuë encore une plaisante espece d'Ombre : Mais je croy, si l'on pouvoit trépasser deux fois, qu'elle feroit mourir de rire tous les Morts d'icy-bas.
@@ -522,7 +524,7 @@ Elle rit de tout, et ne s'afflige de rien, pas mesme d'estre venuë icy à la fl
 
 -*who_pluton
 Cela est de bon sens ; y venir tost ou tard, c'est toûjours y venir ; et comme l'usage de la mort est un peu de durée, on fait bien de s'y accoûtumer de bonne heure.
-Mais qui est-elle, cette Ombre ?
+Mais qui est-elle, cette Ombre ? 
 
 -*who_caron
 Ce n'est qu'une Servante.
@@ -533,7 +535,7 @@ N'importe, fais-la entrer, il faut entendre tout le monde.
 -*who_caron
 Allons, la Rieuse, entrez.
 
-**** *book_ *id_body-409 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I09 *act_I *date_1674 *creator_brecourt
 
 -*who_moliere
 Ah ! c'est Nicole.
@@ -546,7 +548,7 @@ Quand j'ay appris que vous estiez icy, par ma figue, ay-je dit en moy-mesme, i
 Tu es donc bien-aise d'estre en celuy-cy, Nicole, puis que tu ris si fort ?
 
 -*who_nicole
-C'est que vous m'avez appris à me moquer de tout : Et puis franchement je ne suis pas trop fâchée d'estre icy, et je ne trouve pas que la Mort soit si dégoûtante que l'on se l'imagine.
+C'est que vous m'avez appris à me moquer de tout : Et puis franchement je ne suis pas trop fâchée d'estre icy, et je ne trouve pas que la Mort soit si dégoûtante que l'on se l'imagine. 
 
 -*who_pluton
 Et d'où vient que tu t'accommodes si aisément d'une chose que les Hommes trouvent si peu aimable ?
@@ -613,7 +615,7 @@ Hé bien, qu'il entre.
 Ah quelle peine !
 Ne sera-ce jamais fait ?
 
-**** *book_ *id_body-410 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I10 *act_I *date_1674 *creator_brecourt 
 
 -*who_pourceaugnac
 Grand Roy des Morts, vous me voyez icy, Député de la part de tous les Limousins trépassez, qui vous demandent qu'il leur soit permis ajourner cette Ombre, leur Partie, par-devant Vous, à trois jours, pour se voir condamner à reparation d'hon- neur envers les Pourceaugnacs passez, presens, et futurs, tant des affronts reçeus, que de ceux qu'ils recevront.
@@ -639,7 +641,7 @@ N'est-ce pas moy qui vous ay fait connoistre ?
 D'accord.
 
 -*who_moliere
-Ne vous a-t-on pas veu avec beaucoup de plaisir ?
+Ne vous a-t-on pas veu avec beaucoup de plaisir ? 
 
 -*who_pourceaugnac
 Cela est vray, car chacun rioit dés qu'on me voyoit.
@@ -681,7 +683,7 @@ Adieu, Monsieur de Pourceaugnac.
 -*who_pluton
 Messieurs, il est tard, et je vay lever le Siege.
 
-**** *book_ *id_body-411 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I11 *act_I *date_1674 *creator_brecourt
 
 -*who_mme_jourdain
 Justice, justice, justice, justice, justice.
@@ -689,7 +691,7 @@ Justice, justice, justice, justice, justice.
 -*who_pluton
 Qui est-ce encore icy ?
 Je ne veux plus entendre personne, et je suis las de tant d'impertinentes Plaintes.
-Pourquoy l'as-tu laissée entrer ?
+Pourquoy l'as-tu laissée entrer ? 
 
 -*who_caron
 Elle a forcé la Porte.
@@ -725,7 +727,7 @@ Sur mes pieds comme une Oye.
 Ah quelle Femme !
 
 -*who_moliere
-Vous venez vous plaindre de moy, n'est-ce pas, Madame Jourdain ?
+Vous venez vous plaindre de moy, n'est-ce pas, Madame Jourdain ? 
 
 -*who_mme_jourdain
 Ça non ; j'aurois beau me plaindre, beau me plaindre j'aurois.
@@ -756,7 +758,7 @@ Seray-je toûjours troublé, persecuté, accablé d'affaires ?
 Hé, quelle misere est-ce-cy ?
 A-t-on jamais veu un Dieu plus fatigué que moy ?
 
-**** *book_ *id_body-412 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I12 *act_I *date_1674 *creator_brecourt 
 
 -*who_caron
 Grand Roy…
@@ -771,7 +773,7 @@ Ce sont…
 Quoy, sans repos !
 
 -*who_caron
-Il y a…
+Il y a… 
 
 -*who_pluton
 Sans plaisir !
@@ -788,7 +790,7 @@ Que tout soit renversé, bouleversé, sans-dessus-dessous, je n'ecoute personne�
 Ce sont des Medecins qui viennent d'arriver, et qui voudroient vous demander un moment d'audiance.
 
 -*who_pluton
-Des ?
+Des ? 
 
 -*who_caron
 Des Medecins.
@@ -800,7 +802,7 @@ D'honnestes Gens, à qui je doy trop pour leur rien refuser.
 Ils ont augmenté le nombre de mes Sujets, et je leur en dois sans doute une ample reconnoissance.
 Mais les voicy.
 
-**** *book_ *id_body-413 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I13 *act_I *date_1674 *creator_brecourt 
 
 -*who_moliere
 Ha, voicy de mes Gens.
@@ -836,7 +838,7 @@ Ce n'est pas que vous ne m'eussiez esté encore un peu necessaires là-haut, et 
 Mais que souhaitez-vous de moy ?
 
 -*who_medecins
-Nous venons vous demander justice d'un Téméraire qui prétend traitter la Medecine d'imposture, et de Charlatanerie.
+Nous venons vous demander justice d'un Téméraire qui prétend traitter la Medecine d'imposture, et de Charlatanerie. 
 
 -*who_pluton
 C'est donc quelqu'un qui la connoît ?
@@ -884,7 +886,7 @@ Quant à leurs opinions, elles sont encore plus diférentes que leurs pratiques.
 Les uns disent que la Cause des maux est dans les humeurs ; Les autres dans le sang.
 Quelques-uns, par un pompeux galimathias, l'imputent aux atomes invisibles, qui entrent dans les pores.
 Celuy-cy soûtient, que les maladies viennent du defaut des forces corporelles : Celuy-là, qu'elles procedent de l'inégalité des élémens du Corps, et de la qualité de l'air que nous respirons, ou de l'abondance, crudité, et corruption de nos alimens.
-Ah que cette diversité d'opinions marque bien l'ignorance des Medecins ; mais encore plus la foiblesse ou la temérité des Malades qui s'abandonnent aux agitations de tant de vents contraires !
+Ah que cette diversité d'opinions marque bien l'ignorance des Medecins ; mais encore plus la foiblesse ou la temérité des Malades qui s'abandonnent aux agitations de tant de vents contraires ! 
 
 -*who_pluton
 Messieurs, hé ?
@@ -926,7 +928,7 @@ Messieurs ?
 -*who_moliere
 Qu'ils se plaignent maintenant de moy, et que ton équité, Grand Monarque, paroisse dans tes Jugemens.
 
-**** *book_ *id_body-414 *act_ *date_1674 *creator_brecourt
+**** *book_ *id_I14 *act_I *date_1674 *creator_brecourt
 
 -*who_caron
 Oh ! je n'y puis plus tenir.
@@ -934,7 +936,7 @@ Depuis que je conduits la Barque, je n'ay jamais tant veu de Morts pour un jour�
 
 -*who_pluton
 Comment ?
-Nous avons donc bien des Gens ?
+Nous avons donc bien des Gens ? 
 
 -*who_caron
 Tout créve à la Porte.
@@ -947,7 +949,7 @@ Minos, qu'en dis-tu ?
 
 -*who_minos
 Moy ?
-Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement avantageux.
+Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement avantageux. 
 
 -*who_radamante
 Il n'y a qu'honneur à juger en sa faveur.
@@ -957,7 +959,7 @@ J'en demeure d'accord ; mais aussi les obligations que nous avons à ces Messie
 Ne trouvez-vous point à propos de leur proposer un accommodement ?
 
 -*who_minos
-Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté.
+Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté. 
 
 -*who_radamante
 Je suis de cet avis.
@@ -981,7 +983,7 @@ J'y pers plus que vous, et si je ne me plains pas.
 Quoy, Pluton…
 
 -*who_pluton
-Quoy ! vos Ombres teméraires m'osent repliquer, moy, qui puis vous faire évanoüir d'un souffle seulement ?
+Quoy ! vos Ombres teméraires m'osent repliquer, moy, qui puis vous faire évanoüir d'un souffle seulement ? 
 
 -*who_medecins
 Nous demandons justice, justice.
@@ -994,14 +996,14 @@ Ton Ombre avecque ta Mémoire.
 Que la Postérité t'en choisisse le lieu ;
 Et tandis qu'elle ira travailler à ta Gloire,
 Entre Térence et Plaute occupe le milieu.
-Le carillon se fait.
+Le carillon se fait. 
 
 -*who_caron
 Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oüy la retraite.
 Bon-soir.
 FIN.
 
-**** *book_ *id_body-5 *date_1674 *creator_brecourt
+**** *book_ *id_body-5 *date_1674 *creator_brecourt 
 
 EXTRAIT DU PRIVILÈGE DU ROY
 

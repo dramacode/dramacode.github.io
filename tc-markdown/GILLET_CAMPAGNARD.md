@@ -1,6 +1,6 @@
 ---
 identifier: GILLET_CAMPAGNARD  
-creator: GILLET DE LA TESSONERIE  
+creator: Gillet de La Tessonerie  
 date: 1656  
 title: LE CAMPAGNARD, COMÉDIE EN CINQ ACTES  
 ---
@@ -54,8 +54,8 @@ Encor !
     JODELET.
     Point de quartier.  
 
-    LE CAMPAGNARD.
-        Maraud, si je t'attrape ! [1]  
+    LE CAMPAGNARD. [1]
+        Maraud, si je t'attrape !  
 
     JODELET.
 Ma foi, sa beauté n'a que l'épée et la cape.  
@@ -75,15 +75,15 @@ Vous vous en offensez ? Touchez là, je m'en moque.
 Quoi, Monsieur, avec moi faire du réservé !  
 Être libre au pays, et froid sur le pavé !  
 Est-ce de la façon que l'on doit vivre ensemble ?  
-Parlez quand vous plaît, et moi, quand bon me semble.  
-Ne me défendez point d'être de votre écot [2]  
+Parlez quand vous plaît, et moi, quand bon me semble.   [2]
+Ne me défendez point d'être de votre écot  
 Et ne me baillez point ici du quiproquo.  
 Si ma fidélité vous fait quelques outrages,  
 Séparons-nous tous deux, et payez-moi mes gages.  
-Avecque le secours de mon petit magot  
-Malgré vous dans Paris je puis vivre à gogo ; [3]  
-Et quand j'aurai besoin de maître ou de maîtresse  
-Je sais bien le Palais et le bureau d'adresse [4]  
+Avecque le secours de mon petit magot   [3]
+Malgré vous dans Paris je puis vivre à gogo ;  
+Et quand j'aurai besoin de maître ou de maîtresse   [4]
+Je sais bien le Palais et le bureau d'adresse  
 Je suis valet d'honneur et ne redoute rien  
 Si je parle un peu trop, je sers aussi fort bien.  
 Quand avec la parole on fait quelques offenses,  
@@ -101,12 +101,12 @@ Et maudit tout valet qui ne l'enverra paître.
 Jodelet !  
 
     JODELET.
-        Pour avoir des plumes au chapeau,  
-L'éguillette à la mode et le ruban nouveau, [5] [6]  
+        Pour avoir des plumes au chapeau,   [5] [6]
+L'éguillette à la mode et le ruban nouveau,  
 Pour être chaque jour brave comme au dimanche,  
-Et me faire crayer ici la botte blanche,  
-Faut-il trancher du Prince avec un vieil valet [7]  
-Qui vous a vu soudrille et petit argoulet, [8] [9]  
+Et me faire crayer ici la botte blanche,   [7]
+Faut-il trancher du Prince avec un vieil valet   [8] [9]
+Qui vous a vu soudrille et petit argoulet,  
 Qui mange avecque vous le lard à la campagne  
 Et qui, pour lard manger, y mange ce qu'il gagne ?  
 
@@ -134,18 +134,18 @@ On endure aisément de sa mauvaise humeur ;
 Aussi je te pardonne, et, pour ma récompense,  
 Dis-moi fidèlement tout ce que ton coeur pense :  
 Si tu crois que Phénice est pour moi toute en feu,  
-Ou si tu reconnais qu'elle n'en tient qu'un peu  
-Si son esprit te plaît, si tu la tiens adrette, [10]  
+Ou si tu reconnais qu'elle n'en tient qu'un peu   [10]
+Si son esprit te plaît, si tu la tiens adrette,  
 Si Cliton n'a dessein qu'à sa belle cadette,  
 Et si dans mes amours je procède fort mal.  
 
     JODELET.
-Ma foi, dans vos amours vous n'êtes qu'un cheval.  
-L'autre jour je le vis qui cajolait Phénice [11]  
+Ma foi, dans vos amours vous n'êtes qu'un cheval.   [11]
+L'autre jour je le vis qui cajolait Phénice  
 D'un air assez gaillard pour être sans malice,  
 Et qui lui conseillait qu'elle changeât de ton  
-Et puis en ajoutant deux fois "Qu'en dira-t-on" ?  
-Il lui dit qu'il fallait tâcher à vous surprendre. [12]  
+Et puis en ajoutant deux fois "Qu'en dira-t-on" ?   [12]
+Il lui dit qu'il fallait tâcher à vous surprendre.  
 
     LE CAMPAGNARD.
 Hé ! Pauvre sot, c'était pour me les faire entendre,  
@@ -213,8 +213,8 @@ C'est me donner mon reste.
     BAZILE.
         Avec assez d'adresse.  
 
-    LE CAMPAGNARD.
-Madame, je ne veux qu'amour et que simplesse ; [13]  
+    LE CAMPAGNARD. [13]
+Madame, je ne veux qu'amour et que simplesse ;  
 Jamais je n'eus dessein d'être controversant  
 Ni mon coeur de pousser un penser offensant  
 Cet amoureux captif, d'une ardeur singulière  
@@ -361,8 +361,8 @@ Et fait, le chapeau bas, mille galanteries
 J'ai dit des vérités, j'ai dit des menteries,  
 J'ai tranché du poupin contrefait le joli,  
 Passé pour esprit fort et pour esprit poli,  
-Sans que j'aie jamais débité de fadaise,  
-Ni que j'aie escroqué d'Escuteaux, ni Nervaise [14]  
+Sans que j'aie jamais débité de fadaise,   [14]
+Ni que j'aie escroqué d'Escuteaux, ni Nervaise  
 Enfin j'ai toujours eu l'esprit fort goguenard  
 Et, sans faire le vain, passé pour fin renard.  
 Mais aujourd'hui qu'il faut, près de ma sépulture,  
@@ -578,8 +578,8 @@ J'ai trouvé de l'argent, ménagé vos amours,
 Et, pour mieux concerter une sourde pratique,  
 Je vous ai fait passer pour un peintre authentique,  
 Et si bien réussi qu'en tout temps vous parlez  
-À la personne aimée autant que vous voulez.  
-Pour avoir empaumé l'oncle de bonne sorte, [15]  
+À la personne aimée autant que vous voulez.   [15]
+Pour avoir empaumé l'oncle de bonne sorte,  
 Vous voyez maintenant notre intrigue si forte  
 Que ce beau Campagnard n'a qu'à s'en retourner.  
 
@@ -853,8 +853,8 @@ Comme quoi ?
 Et de trouver un sot qui se donne la peine  
 D'aller faire pour vous bouclier de bedaine,  
 Et la faire cribler de maints coups dangereux  
-Quel plaisir peut-on prendre à perdre un malheureux  
-Qui n'a jamais lorgné le rustre qui l'empaume [16] [17]  
+Quel plaisir peut-on prendre à perdre un malheureux   [16] [17]
+Qui n'a jamais lorgné le rustre qui l'empaume  
 Et n'a désobligé ni Pierre, ni Guillaume ?...  
 En ce temps les seconds sont rares, sur ma foi.  
 
@@ -864,8 +864,8 @@ En tout cas je m'apprête à me servir de toi.
     JODELET.
 Ah ! Je me doutais bien de ce trait de chicane.  
 Mais dussé-je de vous avoir cent coups de canne,  
-Vous ne me verrez point aller dessus le pré  
-Pour y battre un second, ou pour être bourré. [18]  
+Vous ne me verrez point aller dessus le pré   [18]
+Pour y battre un second, ou pour être bourré.  
 Monsieur, en ma faveur, épargnez-vous un crime,  
 N'entrez point au combat, et souffrez que je prime ;  
 Pourvu que de second je n'aie pas le nom,  
@@ -938,8 +938,8 @@ Et depuis quelque temps l'ai fait mon écuyer.
     JODELET.
 Le mensonge est trop grand, je ne puis l'appuyer :  
 Monsieur, je ne vous sers que de valet de chambre.  
-Ah ! Je tremble en été comme au mois de décembre !  
-Au diable la querelle et tous les querelleux ! [19]  
+Ah ! Je tremble en été comme au mois de décembre !   [19]
+Au diable la querelle et tous les querelleux !  
 
     ALCIPE.
 Je crois que ce valet n'est pas fort généreux,  
@@ -1004,8 +1004,8 @@ Et le frère du mort ?
 À te dire le vrai, je crains la procédure,  
 Et me souviens toujours des édits rigoureux  
 Qui furent publiés en six cent trente et deux,  
-Trente-trois, trente-six, trente et neuf, et quarante ;  
-Le moindre peut m'ôter trois mille écus de rente. [20]  
+Trente-trois, trente-six, trente et neuf, et quarante ;   [20]
+Le moindre peut m'ôter trois mille écus de rente.  
 Outre cela, j'ai peur d'entrer dans les prisons.  
 
     JODELET.
@@ -1075,8 +1075,8 @@ Vénus n'est-elle pas compagne du dieu Mars ?
 Et Cupidon ayant et ses champs et ses armes,  
 Tout amant est soldat au plus fort des alarmes.  
 
-    BAZILE.
-Ce passage est d'Ovide, il m'en souvient fort bien. [21]  
+    BAZILE. [21]
+Ce passage est d'Ovide, il m'en souvient fort bien.  
 
     LE CAMPAGNARD.
 Si c'est son sentiment, il est aussi le mien ;  
@@ -1096,18 +1096,18 @@ Et suis prêt, celle-ci, d'aller en Allemagne.
 Vous n'y vîtes pourtant l'ennemi que de loin?  
 
     LE CAMPAGNARD.
-Celui qui vous le dit fut un mauvais témoin  
-Qu'à vos yeux je voudrais traiter de chiquenaudes ; [22]  
+Celui qui vous le dit fut un mauvais témoin   [22]
+Qu'à vos yeux je voudrais traiter de chiquenaudes ;  
 Jamais occasions ne se virent si chaudes,  
 Et jamais l'ennemi ne fit de tels efforts,  
 Après avoir jonché la campagne de morts.  
 Mais, s'il faut le prouver pour vous le faire croire,  
 Je veux bien au besoin rappeler ma mémoire,  
-Et prendre mon récit dès le premier de l'an.  
-Si tôt que l'on eut fait sonner l'arrière-ban, [23]  
+Et prendre mon récit dès le premier de l'an.   [23]
+Si tôt que l'on eut fait sonner l'arrière-ban,  
 Étant déjà pourvu d'armes et de bagage,  
-Je fais de trois mulets grossir mon équipage,  
-Tire de mon fermier quatre chevaux de bâts, [24]  
+Je fais de trois mulets grossir mon équipage,   [24]
+Tire de mon fermier quatre chevaux de bâts,  
 Habille six valets du haut jusques en bas,  
 Et vais, quoique d'amour j'eusse l'âme troublée,  
 Monté comme un Saint-George au lieu de l'assemblée.  
@@ -1128,8 +1128,8 @@ Le discours que je fis, ni tout ce que je dis.
 L'assiette de la place était fort favorable :  
 Elle était sur le haut d'un rocher imprenable,  
 Qui n'était d'aucun lieu ni vu, ni commandé.  
-De deux larges fossés son mur était bordé.  
-Quatre grands bastions, garnis de demi-lunes, [25]  
+De deux larges fossés son mur était bordé.   [25]
+Quatre grands bastions, garnis de demi-lunes,  
 Qui pouvaient effrayer des forces non communes,  
 Tous revêtus de pierre, et tous fort bien flanqués,  
 Nous ôtaient tout espoir d'avoir les attaqués.  
@@ -1154,8 +1154,8 @@ Oui, par ce seul récit déjà le coeur me saute.
 
     LE CAMPAGNARD.
 On ouvre la tranchée, où tous nos Maréchaux  
-Cette première nuit conduisaient nos travaux,  
-Et dedans chaque attaque avaient fait des redoutes, [26]  
+Cette première nuit conduisaient nos travaux,   [26]
+Et dedans chaque attaque avaient fait des redoutes,  
 Lorsque les ennemis, se tenant aux écoutes,  
 Dès la pointe du jour vinrent, bout-ci, bout-là,  
 Dessus nos travailleurs qu'ils massacrèrent là.  
@@ -1164,11 +1164,11 @@ Et qu'ils avaient affaire avec forte partie,
 D'abord un régiment s'en vint là, ta, ta, ta,  
 Si bien donner sur eux qu'il les épouvanta  
 Et les fit reculer ici vers la rivière.  
-Lors un autre aussitôt les surprend par derrière  
-Et s'en vint, boute, et haie, allons, vous en aurez, [27]  
+Lors un autre aussitôt les surprend par derrière   [27]
+Et s'en vint, boute, et haie, allons, vous en aurez,  
 Leur fermer le passage et les serrer de près.  
-Ah ! Que la mort alors ferma d'yeux et de bouches !  
-Que de grands horions ! [28]  
+Ah ! Que la mort alors ferma d'yeux et de bouches !   [28]
+Que de grands horions !  
 
     JODELET.
         Que d'abreuvoirs à mouches !  
@@ -1205,9 +1205,9 @@ Après, pendant un mois, on attaque, on menace,
 Et la mine étant prête à les faire voler,  
 Sans que le Gouverneur voulut capituler,  
 On résout un assaut, où j'acquis l'avantage  
-D'avoir eu le second témoigné mon courage :  
-D'abord que je montais, un coup de fauconneau, [29]  
-Raste, de son boulet, m'emporta mon chapeau [30]  
+D'avoir eu le second témoigné mon courage :   [29]
+D'abord que je montais, un coup de fauconneau,   [30]
+Raste, de son boulet, m'emporta mon chapeau  
 Car, pour dire le vrai, ce jour je fis la bête  
 Et ne voulus jamais mettre de pot en tête.  
 
@@ -1215,11 +1215,11 @@ Et ne voulus jamais mettre de pot en tête.
 C'est un trait de jeune homme, et c'est en user mal.  
 
     LE CAMPAGNARD.
-Ayant donc esquivé le pas le plus fatal,  
-J'étais, comme de vous, proche de la courtine, [31]  
-Lorsqu'un chef espagnol, d'un coup de javeline, [32]  
-Me jette cul sur tête aux pieds de ses remparts,  
-Où des grêles de plomb tombant de toutes parts, [33]  
+Ayant donc esquivé le pas le plus fatal,   [31]
+J'étais, comme de vous, proche de la courtine,   [32]
+Lorsqu'un chef espagnol, d'un coup de javeline,  
+Me jette cul sur tête aux pieds de ses remparts,   [33]
+Où des grêles de plomb tombant de toutes parts,  
 On me fit emporter pour mort et fort malade.  
 
     BAZILE.
@@ -1250,8 +1250,8 @@ Je suis ravi de voir un homme de promesse.
     LÉANDRE.
 De plus, j'ai fait la chose avecque tant d'adresse  
 Que vous même du prix vous serez étonné,  
-Puisqu'à dire le vrai, c'est un marché donné.  
-J'en ai d'André del Sarto, de Breughel, du Valèse, [34]  
+Puisqu'à dire le vrai, c'est un marché donné.   [34]
+J'en ai d'André del Sarto, de Breughel, du Valèse,  
 Du Giosepin, du Tite et de Paul Véronèse,  
 Du Titien, du Gobbo, et du vieil Tintoret,  
 Du Guide, de Lucas, de Rembrand, de Janet,  
@@ -1377,8 +1377,8 @@ J'en donnerais bien dix et ne les plaindrais point.
 Passons.  
 
     LÉANDRE.
-        Celui qui suit me plaît au dernier point  
-C'est du vaillant héros qui délivre Andromède. [35]  
+        Celui qui suit me plaît au dernier point   [35]
+C'est du vaillant héros qui délivre Andromède.  
 Regardez comme il vole en courant à son aide,  
 Et comme, en descendant avec dextérité,  
 Le monstre qui l'approche en est épouvanté.  
@@ -1396,12 +1396,12 @@ Le cheval est bien pris.
     BAZILE.
         Sa tête est des plus belles.  
 
-    LE CAMPAGNARD.
-C'est mon barbe tout fait, n'était qu'il a des ailes. [36]  
+    LE CAMPAGNARD. [36]
+C'est mon barbe tout fait, n'était qu'il a des ailes.  
 
     JODELET.
-Me dessiez-vous berner pour mon trop de caquet,  
-Je ne puis avouer que votre bourriquet [37]  
+Me dessiez-vous berner pour mon trop de caquet,   [37]
+Je ne puis avouer que votre bourriquet  
 Ressemble à ce cheval, et qu'il soit de sa taille.  
 
     LE CAMPAGNARD.
@@ -1448,8 +1448,8 @@ Mais achevons le reste.
 Monsieur, on dit partout que Cliton s'est battu,  
 Ou qu'il s'en va se battre, et que partie est faite.  
 
-    BAZILE.
-Vite, un cheval de main ! Qu'on m'apprête ma brette, [38]  
+    BAZILE. [38]
+Vite, un cheval de main ! Qu'on m'apprête ma brette,  
 Mes bottes de campagne et mes bons pistolets !  
 Viste, sellez, bridez ! Où sont tous mes valets ?  
 Ces marauds, on les voit quand on n'en a que faire.  
@@ -1475,8 +1475,8 @@ Que faisait en ce lieu le plus savant des hommes?
 
     ANSELME, D'UN TON GRAVE.
 Nous en sommes le moindre, en l'état où nous sommes,  
-Et verrions notre esprit tous les jours en défaut,  
-Sans les rayons infus qui nous viennent d'en haut. [39]  
+Et verrions notre esprit tous les jours en défaut,   [39]
+Sans les rayons infus qui nous viennent d'en haut.  
 
     LE CAMPAGNARD, À JODELET.
 Ô dieux ! Qu'il est savant !  
@@ -1503,8 +1503,8 @@ Pour extraire le sel essentiel des plantes,
 Pour faire promptement la sublimation,  
 Fixation d'esprit et fumigation.  
 Je songeais au pouvoir qu'a le divin Mercure  
-Sur le corps métallique en changeant sa nature,  
-Comme il se volatise et se peut congeler, [40]  
+Sur le corps métallique en changeant sa nature,   [40]
+Comme il se volatise et se peut congeler,  
 Corroder et dissoudre et se coaguler.  
 
     LE CAMPAGNARD.
@@ -1601,11 +1601,11 @@ Monsieur?
     ANSELME.
 Jodelet !  
 
-    JODELET.
-        Jean Petit fit l'amour à ma tante [41]  
+    JODELET. [41]
+        Jean Petit fit l'amour à ma tante  
 Pierre de Larivé nous doit cent sols de rente,  
-Maistre Eustache Noël a bu cent fois chez nous.  
-Et le jeune Troyen... [42]  
+Maistre Eustache Noël a bu cent fois chez nous.   [42]
+Et le jeune Troyen...  
 
     LE CAMPAGNARD.
         Maître sot, taisez-vous.  
@@ -1646,8 +1646,8 @@ Elles auront du bien et ne seront pas belles.
 Vénus en quantité vous promet des enfants  
 Jupiter les rendra joyeux et triomphants ;  
 Mais l'opposition de Mars et de la Lune  
-De quelques-uns par mort bornera la fortune...  
-Votre an climatérique est proche d'arriver. [43]  
+De quelques-uns par mort bornera la fortune...   [43]
+Votre an climatérique est proche d'arriver.  
 Mercure ayant reçu Mars qui le vient trouver,  
 Promet un grand désordre en votre mariage  
 Le quadrat de Vénus, encore davantage,  
@@ -1712,7 +1712,7 @@ Les dieux rendent parfois les astres sans effet.
 Ah ! Jodelet !  
 
     JODELET.
-        Monsieur, le diable est bien aux vaches.  
+        Monsieur, le diable est bien aux vaches.   [44]
 
     LE CAMPAGNARD.
 Injuste ciel, rends-moi le bien que tu m'arraches,  
@@ -1914,8 +1914,8 @@ Et vaincre en pratiquant cette ruse de guerre.
 Je l'ai connu d'abord.  
 
     LE CAMPAGNARD, À PHILIS.
-        Il est joli garçon.  
-Or çà, que dites-vous de cet estramaçon. [44]  
+        Il est joli garçon.   [45]
+Or çà, que dites-vous de cet estramaçon.  
 Que je vous ai porté ?  
 
     CLITON.
@@ -2004,8 +2004,8 @@ Monsieur ?
 Et pendant le dîner, de qui l'heure s'approche,  
 Vous saurez...  
 
-    JODELET.
-        Que l'amour a troublé sa caboche. [45]  
+    JODELET. [46]
+        Que l'amour a troublé sa caboche.  
 
     BAZILE.
 De grâce !...  
@@ -2013,8 +2013,8 @@ De grâce !...
     LE CAMPAGNARD.
         Dedans peu je dirai mes raisons.  
 
-    JODELET.
-J'en connais un plus sage aux Petites-Maisons. [46]  
+    JODELET. [47]
+J'en connais un plus sage aux Petites-Maisons.  
 
 
 # ACTE IV
@@ -2500,8 +2500,8 @@ Je lui montrerai bien qu'il prend mal ses mesures.
     BAZILE, À CLITON QUI VEUT PARLER ENCORE.
 Ah ! Cliton !  
 
-    JODELET.
-    Haut le bois ! [47]  
+    JODELET. [48]
+    Haut le bois !  
 
     BAZILE.
         Dieux quelles procédures !  
@@ -2576,8 +2576,8 @@ Ah ! Reproche sensible au sang des Jodelets !
 Pour te garder de rouille ô belle et claire lame,  
 Je te fais un fourreau de l'étui de mon âme.  
 Me tuer ! Ah ! Ah ! Ah ! Le sentiment falot  
-Que si je l'avais fait je serais un grand sot !  
-Rouille-toi tout ton saoul aussi bien, chère Olinde, [48]  
+Que si je l'avais fait je serais un grand sot !   [49]
+Rouille-toi tout ton saoul aussi bien, chère Olinde,  
 N'es-tu pas pour l'oison, la poule et le coq d'Inde ?  
 
 
@@ -2653,8 +2653,8 @@ L'âge vous a donné ce don par dessus moi.
     PHÉNICE.
 Vous n'aurez pas toujours un temps si favorable.  
 
-    PHILIS.
-Beaucoup voudraient bien courre une risque semblable. [49]  
+    PHILIS. [50]
+Beaucoup voudraient bien courre une risque semblable.  
 
     PHÉNICE.
 L'amour frappe demain ceux qu'il frappe aujourd'hui.  
@@ -2749,8 +2749,8 @@ Je...
 Nous lui dirons en vain jusqu'à la fin du jour ;  
 Commençons.  
 
-    JODELET, ALLANT QUÉRIR LE TUORBE.
-        Je vous vais chanter un air de cour. [50]  
+    JODELET, ALLANT QUÉRIR LE TUORBE. [51]
+        Je vous vais chanter un air de cour.  
 Voulez-vous Bénits soient les yeux bruns de Madame,  
 Ou bien : Quand pour Philis mon coeur tout plein de flamme ?  
 
@@ -2768,8 +2768,8 @@ Ne nous en chantez point qui soient si sérieux.
     JODELET, S'ESSAYANT À CHANTER.
 La, la, j'ai votre fait, mais il est un peu vieux.  
 Ah ! Que cet instrument a l'accord difficile !  
-Je n'en touchai jamais sans m'échauffer la bile.  
-Un peu cette cheville, encore celle-ci [51]  
+Je n'en touchai jamais sans m'échauffer la bile.   [52]
+Un peu cette cheville, encore celle-ci  
 Maudit soit le rouquin qui m'embarrasse ici  
 Il laisse tomber son épée.
 
@@ -2797,8 +2797,8 @@ Il faut partir ce soir et tromper leur attente.
     JODELET.
 Que diable dites-vous cependant que je chante ?  
 
-    LÉANDRE.
-J'apprenais à Madame un secret curieux, [52]  
+    LÉANDRE. [53]
+J'apprenais à Madame un secret curieux,  
 Pour me donner moyen de bien peindre ses yeux  
 Et lui faire un regard plus doux et plus modeste  
 Mais de grâce, achevez.  
@@ -2813,8 +2813,8 @@ Une corde se rompt.
 Je crois qu'un Topinambour  
 Sans amour,  
 S'il avait lorgné ta trogne  
-Comme moi par ton regard   [53]
-Serait ard [54]  
+Comme moi par ton regard   [54]
+Serait ard  
 Ô serait un vrai Jean Logne.  
 Il baille deux fois avant la fin du couplet.
 
@@ -2990,8 +2990,8 @@ Hé ! Monsieur.
     LE CAMPAGNARD.
         Ce coquin fait le méchant garçon.  
 
-    LÉANDRE.
-Je ne suis pas méchant, mais je suis fort brave homme, [55]  
+    LÉANDRE. [55]
+Je ne suis pas méchant, mais je suis fort brave homme,  
 Et peut-être tantôt...  
 
     LE CAMPAGNARD.
@@ -3050,12 +3050,12 @@ C'en est assez.
 ## SCÈNE V. Philis, Bazile, Jodelet, Léandre, Le Campagnard.
 
     BAZILE.
-Êtes-vous insensés ? Que faites-vous, Messieurs ?  
-Toujours flamberge au vent ! [56]  
+Êtes-vous insensés ? Que faites-vous, Messieurs ?   [56]
+Toujours flamberge au vent !  
 
     JODELET, FROTTANT SES YEUX.
-        Où sont-ils ? Aux voleurs,  
-Main-basse, tuons tout, à moi ma hallebarde ! [57]  
+        Où sont-ils ? Aux voleurs,   [57]
+Main-basse, tuons tout, à moi ma hallebarde !  
 Un bâton à deux bouts, des pistolets.  
 
     BAZILE, ÉTANT HEURTÉ DE JODELET.
@@ -3146,14 +3146,14 @@ Désormais tous ses jours seront de beaux matins.
 Mais de quelle maison est-il ?  
 
     ANSELME.
-        Du vrai Léandre,  
-Dans la maison duquel advint ce grand esclandre, [58]  
+        Du vrai Léandre,   [58]
+Dans la maison duquel advint ce grand esclandre,  
 Qui, voyant un des siens dans l'eau de l'Hellespont,  
 N'a que trop signalé la noblesse qu'ils ont...  
 Abyde est leur pays et leur natale terre,  
 D'où les Grecs les chassant à cause de la guerre,  
-Les forcèrent d'aller chez les premiers Gaulois  
-Et de prendre parti depuis chez nos François. [59]  
+Les forcèrent d'aller chez les premiers Gaulois   [59]
+Et de prendre parti depuis chez nos François.  
 
     LE CAMPAGNARD.
 Mais cela ne fait rien pour moi.  
@@ -3321,8 +3321,8 @@ Nous lui ferons passer quelque mauvaise nuit.
 Et moi qui te connais, quoique tu puisses faire,  
 Je te tiens un grand sot, et par devant notaire.  
 Et vous, beaux campagnards, accordés ou maris.  
-Gardez-vous d'amener vos femmes à Paris,  
-Pour y voir le Pont-Neuf et la Samaritaine : [60]  
+Gardez-vous d'amener vos femmes à Paris,   [60]
+Pour y voir le Pont-Neuf et la Samaritaine :  
 Plus de mille cocus s'y font chaque semaine,  
 Et les godelureaux y sont si fréquemment  
 Qu'une femme de bien s'y trouve rarement.  
@@ -3420,25 +3420,25 @@ Et demeurez toujours les rois de vos dindons.
 
 [43] L'an climatérique, au figuré, c'est l'époque de la décadence. Au propre, les années climatériques, regardées comme appartenant à une époque critique de la vie de l'homme, étaient, suivant les uns, toutes les années multiples du nombre sept; suivant les autres, celles qui résultaient de la multiplication de sept par un nombre impair. L'âge de soixante-trois ans, produit de sept multiplié par neuf, s'appelait la grande climatérique (V. le Dictionn. de Littré).
 
-[44] Estramaçon : Coup qu'on donne du tranchant d'une forte épée, d'un coutelas, d'un cimeterre. F
+[44] Le Diable est bien aux vaches : Les choses tournent mal, il y a du désordre et du grabuge (Leroux, Dict. Comique, Comédie des proverbes, III, sc. 5) Victor Fournel
 
-[45] Caboche : La tête de l'homme. Ce mot est vieux et populaire. XVIIème F
+[45] Estramaçon : Coup qu'on donne du tranchant d'une forte épée, d'un coutelas, d'un cimeterre. F
 
-[46] Petites-maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. F
+[46] Caboche : La tête de l'homme. Ce mot est vieux et populaire. XVIIème F
 
-[47] Haut le bois : Halte ! On dit, en termes de guerre, quand on fait faire halte à l'infanterie : Haut le bois ! À cause qu'on lève alors les piques. F
+[47] Petites-maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. F
 
-[48] Olinde : Nom de la ville du Brésil où l'on fabriquait des lames d'épée, qui prirent le nom de la ville.
+[48] Haut le bois : Halte ! On dit, en termes de guerre, quand on fait faire halte à l'infanterie : Haut le bois ! À cause qu'on lève alors les piques. F
 
-[49] Risque : est parfois au féminin au XVIIème.
+[49] Olinde : Nom de la ville du Brésil où l'on fabriquait des lames d'épée, qui prirent le nom de la ville.
 
-[50] Théorbe : Instrument dérive du luth, et qui n'était connu que depuis la fin du règne de Henri IV son nom et son orthographe restèrent longtemps incertains.
+[50] Risque : est parfois au féminin au XVIIème.
 
-[51] Cheville : On appelle cheville dans les instruments de Musique à cordes, certains petits morceaux de bois, ou de fer, fichés dans la table, ou dans le manche de l'instrument, qui servent à tendre, où à lâcher les cordes qui y sont attachées par l'un des bouts. F
+[51] Théorbe : Instrument dérive du luth, et qui n'était connu que depuis la fin du règne de Henri IV son nom et son orthographe restèrent longtemps incertains.
 
-[52] Le locuteur de cette réplique est noté LISANDRE dans l'édition de Victor Fournel, on suppose qu'il s'agit de LÉANDRE.
+[52] Cheville : On appelle cheville dans les instruments de Musique à cordes, certains petits morceaux de bois, ou de fer, fichés dans la table, ou dans le manche de l'instrument, qui servent à tendre, où à lâcher les cordes qui y sont attachées par l'un des bouts. F
 
-[53] Ard : Brulé du latin ardere, arsus. Victor Fournel
+[53] Le locuteur de cette réplique est noté LISANDRE dans l'édition de Victor Fournel, on suppose qu'il s'agit de LÉANDRE.
 
 [54] Ard : Brulé du latin ardere, arsus. Victor Fournel
 

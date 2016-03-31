@@ -15,8 +15,7 @@ TRAGI-COMEDIE DEDIEE A MONSEIGNEUR *le Duc de Vandosme.*
 *Par le Sr**Mareschal.*
 
 A PARIS, Chez Anthoine de Sommaville, dans la Galerie du Palais à l'Escu de France. M. DC. XXXIIII. Avec Privilege du Roy.
-Édition critique établie par Stéphanie Le Foll dans le cadre d'un mémoire de
-     maîtrise sous la direction de Georges Forestier
+Édition critique établie par Stéphanie Le Foll dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier
 
 
 # Introduction
@@ -353,7 +352,7 @@ La présente édition a été établie à partir de l'édition originale de 1634
 
 (II) Verso blanc
 
-(III) Page de titre : LA / SOEUR / VALEUREUSE / OU / L'AVEUGLE / AMANTE. / *TRAGI-COMEDIE* / DEDIE'E A MONSEIGNEUR / *le Duc de Vandosme. /* *par le Sr* *Mareschal*. / vignette / A PARIS, / Chez *Anthoine de Sommaville*, dans la / galerie du Palais à l'Escu de France. / M. DC. XXXIIII. / *AVEC PRIVILEGE DU ROY*.
+(III) Page de titre : LA / SOEUR / VALEUREUSE / OU / L'AVEUGLE / AMANTE. / *TRAGI-COMEDIE* / DEDIE'E A MONSEIGNEUR / *le Duc de Vandosme. /**par le Sr**Mareschal*. / vignette / A PARIS, / Chez *Anthoine de Sommaville*, dans la / galerie du Palais à l'Escu de France. / M. DC. XXXIIII. / *AVEC PRIVILEGE DU ROY*.
 
 (IV) Verso blanc
 
@@ -746,7 +745,7 @@ FIN.
  – LYCANTHE.Escuyer⁎ d'Olympe, confident de Dorame.
  – SOLDATS 3.Assassins, et complices de Lycanthe.
  – PAGE. D'Oronte.
- – AUTRE PAGE.
+ – AUTRE PAGE. 
 
 
 ## ACTE PREMIER.
@@ -823,7 +822,7 @@ Ils [66] s'en vont dans mon cœur pour le voir en dormant ;
 Si ce repos est loin des faveurs⁎ que j'espere,  
 Dieux, envoyez la Sœur en la place du Frere.  
 Oronte s'endort.
-
+ 
 
 
 ### SCENE II.
@@ -838,7 +837,7 @@ La crainte & le danger l'auront fait esquiver⁎ ?
 J'ai couru sur ses pas, j'ay sa piste suivie [67],  
 Visité tout le Camp, tout le Château d'Elvye [68] :  
 Mais ainsi qu'un fantôme, un spectre decevant⁎,  
-Cet Homme, aprés l'Appel⁎, s'est perdu dans le vent.  
+Cet Homme, aprés l'Appel⁎, s'est perdu dans le vent.   
 
     DORAME
 Qu'il échappe ; du moins ce Cartel⁎ me demeure,  
@@ -1145,7 +1144,7 @@ Toy dans son Cabinét, & moy dessus le pré.
 L'un m'est aussi honteux⁎ que l'autre est honorable⁎.  
 
     DORAME.
-Tout service est d'honneur⁎, qui nous est favorable [115].  
+Tout service est d'honneur⁎, qui nous est favorable [115].   
 
 
 ### SCENE III.
@@ -1259,7 +1258,7 @@ Mets au bras cét Ecu⁎, ce Casque sur tes yeux :
 Elle mét le casque & l'écu⁎ d'Oronte, qu'elle emporte, luy laissant son chapeau.
 
 Ou ces Armes en fin pouront forcer⁎ les Parques [127],  
-Ou je mourray contente avec ces cheres marques [128].  
+Ou je mourray contente avec ces cheres marques [128].   
 
 
 ### SCENE IV.
@@ -1315,7 +1314,7 @@ Et qu'un sort⁎ me rend mal ce qu'un autre me prend !
 Mais cherchons mon Portraict en ceste Forest sombre,  
 Consultons les Echos, ces cavernes, & l'ombre :  
 Je regle mes desirs, Dieux, moderez mes maux ;  
-Retenant mon vray bien⁎, au moins rendez le faux.  
+Retenant mon vray bien⁎, au moins rendez le faux.   
 
 
 ### SCENE IV.
@@ -1347,7 +1346,7 @@ Dorame…
 Dorame paroist.
 
         Ah ! le voicy ; mét la visiere en bas ;  
-Parle peu, rends plus grave & ton geste, & tes pas.  
+Parle peu, rends plus grave & ton geste, & tes pas.   
 
 
 ### SCENE VI.
@@ -1367,7 +1366,7 @@ Je demande du sang, & non pas des discours.
     OLYMPE.
 Moy, je veux en ta mort signaler mes amours.  
 Dorame & Olympe se battent, & sur ce temps Oronte arrive.
-
+ 
 
 
 ### SCENE VII.
@@ -1515,7 +1514,7 @@ Ce Tyran⁎ de mon ame.
 
     ORONTE. *Parlant bas.*
         Helas ! & de la mienne :  
-Elle augmente ma playe en confessant la sienne.  
+Elle augmente ma playe en confessant la sienne.   
 
 
 ## ACTE SECOND.
@@ -1568,7 +1567,7 @@ Et s'il faut que ce mot treuve un esprit⁎ farouche,
 Ma main pare l'affront dont rougiroit ma bouche ;  
 C'est d'elle que ma honte implore ce devoir ;  
 Ce que l'on n'ose dire, il le faut faire voir :  
-Helas……  
+Helas……   
 
 
 ### SCENE II.
@@ -1586,7 +1585,7 @@ Pour moy ? qu'entends-je ? Amour, croiray-je qu'elle m'ayme ?
 
     MELINDE.
 La longueur de ce siege, & vos travaux⁎ soufferts  
-Me font presques hayr Lucidor, & mes fers⁎.  
+Me font presques hayr Lucidor, & mes fers⁎.   
 
     GELANDRE.
 Hayssez seulement cette humeur inconnuë,  
@@ -1648,7 +1647,7 @@ Lucidor arrive.
 M'oblige⁎ à vous quitter.  
 
     MELINDE.
-        Et moy donc à l'attendre.  
+        Et moy donc à l'attendre.   
 
 
 ### SCENE III.
@@ -1663,7 +1662,7 @@ Vous accuse envers moy de trop de violence.
 
     MELINDE*. Parlant bas & s'encourageant.*
 Ah ! reviens lâche cœur, tu fuis quand tu le vois :  
-Tout me quitte ; je suis sans esprit⁎ & sans voix.  
+Tout me quitte ; je suis sans esprit⁎ & sans voix.   
 
     LUCIDOR.
 Dorame, ta promesse, à la fin m'abandonne  
@@ -1712,7 +1711,7 @@ Qui ne pouvant montrer de bouche [148] sa langueur
 A mis sur ce papier ce qu'elle a dans le cœur ?  
 
     LUCIDOR.
-Qu'Olympe icy m'écrive ? ah ! sans doute c'est elle.  
+Qu'Olympe icy m'écrive ? ah ! sans doute c'est elle.   
 
     MELINDE.
 Vous y verrez l'effect⁎ d'une attainte mortelle.  
@@ -1736,7 +1735,7 @@ Cartel⁎…..
     Ouy bien⁎ d'amour.  
 
     LUCIDOR.
-    De Dorame….  
+    De Dorame….   
 
     MELINDE.
         O malheur !  
@@ -1786,7 +1785,7 @@ Un sort⁎ malicieux à ma main l'a soustraite.
 Me trahir, & m'aymer ? est-ce ainsi qu'on me traitte :  
 En prenant la lettre.
 
-Quelqu'autre en ce billet m'offre un second duel ?  
+Quelqu'autre en ce billet m'offre un second duel ?   
 
     MELINDE.
 Ouy, mais qui vous oblige à m'estre moins cruel⁎ :  
@@ -1859,7 +1858,7 @@ Dans ce cœur, qui le garde avecque vostre Image⁎ ;
 A qui je rends depuis un veritable hommage.  
 
     LUCIDOR.
-C'est me flatter en songe, & me perdre en effect⁎.  
+C'est me flatter en songe, & me perdre en effect⁎.   
 
     MELINDE.
 Desirer vostre bien c'est le mal que j'ay fait.  
@@ -1879,7 +1878,7 @@ Qu'il tire⁎ de perils les deux objéts⁎ que j'ayme ;
 Ah ! je crains pour tous deux, mais bien⁎ plus pour vous mesme ;  
 Le Ciel m'obligeroit⁎ en ce double tourment⁎  
 De me ravir un Frere, & laisser un Amant :  
-Malheureuse, à quel poinct⁎ me treuvé-je reduitte ?  
+Malheureuse, à quel poinct⁎ me treuvé-je reduitte ?   
 
     LUCIDOR.
 De les perdre, & toy mesme en faire la poursuitte :  
@@ -1904,7 +1903,7 @@ Que je meure plustost pendante à vos genoux.
 Perfide, ce refus m'en donne plus d'envie.  
 
     MELINDE.
-N'exposez pas la vostre, & m'arrachez la vie.  
+N'exposez pas la vostre, & m'arrachez la vie.   
 
     LUCIDOR.
 Ce que feroit la haine, ayons le de l'amour [155].  
@@ -1931,7 +1930,7 @@ Amour veut une chose, & la deffend icy ;
 Que feray-je ?  
 
     LUCIDOR.
-        Un Appel⁎, qui nous tire⁎ de peine.  
+        Un Appel⁎, qui nous tire⁎ de peine.   
 
     MELINDE.
 Et quoy ? pour vous aymer, vous doy-je estre inhumaine ?  
@@ -1947,7 +1946,7 @@ Devoir injurieux, complaisance forcée⁎,
 Homicide⁎ respect, à quoy me portez-vous ?  
 Las ! je les feray battre, & j'en auray les coups⁎ :  
 Avant qu'un soit blessé, ma douleur⁎ est si vraye  
-Que j'en ressents le mal, & mourray de sa playe.  
+Que j'en ressents le mal, & mourray de sa playe.   
 
 
 ### SCENE IV.
@@ -1962,7 +1961,7 @@ De gagner pour Amy l'Ennemy de mon Frere ?
 Pouvez-vous me connoistre, & m'aymer aujourd'huy ?  
 
     DORAME.
-J'ayme en vous les vertus⁎ qu'on trouve à dire en luy.  
+J'ayme en vous les vertus⁎ qu'on trouve à dire en luy.   
 
     ORONTE.
 Est-ce le prix du sang qui sortit de vos veines ?  
@@ -1987,7 +1986,7 @@ Cét homicide⁎ bras…..
 
     DORAME.
         A qui je doy ma vie,  
-Qui d'un plus grand bon-heur jamais ne fut suivie.  
+Qui d'un plus grand bon-heur jamais ne fut suivie.   
 
     ORONTE.
 Ce bras est impuni, je n'ay de châstiment  
@@ -2030,7 +2029,7 @@ Aprés vostre service [162] est-il rien qui la touche ?
 Un mot en ma faveur⁎, tiré⁎ de vostre bouche.  
 
     ORONTE.
-En matiere d'amour le cœur parle bien⁎ mieux.  
+En matiere d'amour le cœur parle bien⁎ mieux.   
 
     DORAME.
 Un langage plus fort est remis dans vos yeux  
@@ -2057,7 +2056,7 @@ Toutefois mes efforts⁎…..
 Me font heureux Amant, & vous parfait Amy.  
 
     ORONTE.
-Et bien, puis qu'il le faut ; afin de vous complaire…  
+Et bien, puis qu'il le faut ; afin de vous complaire…   
 
     DORAME.
 Montrez-vous à mes vœux⁎ un Ange tutelaire [163].  
@@ -2078,10 +2077,10 @@ L'engage à ma deffense, & me tire⁎ de crainte,
 Et cette [164] occasion que j'ay prise aux cheveux [165]  
 Peut nuire à mon Rival & servir à mes vœux⁎ ;  
 J'oppose un Frere à l'autre au sort⁎ qui nous menace,  
-Et j'attends dans le port l'orage ou la bonace [166].  
+Et j'attends dans le port l'orage ou la bonace [166].   
 
 
-### SCENE V.**
+### SCENE V.
 
     OLYMPE.
 Que ton sort⁎ découvert rend mon esprit⁎ content !  
@@ -2127,7 +2126,7 @@ Oronte paroist.
 
         Ah ! ce nom l'amene sur la place :  
 Voy-je Oronte ? ou ce Dieu sous une mesme grâce⁎ ?  
-Que de feux⁎, que de trais⁎, que de charmes⁎ puissants !….  
+Que de feux⁎, que de trais⁎, que de charmes⁎ puissants !….   
 
 
 ### SCENE VI.
@@ -2143,7 +2142,7 @@ Vous montre un feu⁎ caché qu'elle n'ose nommer.
 
     OLYMPE. *Parlant bas.*
 Qu'il m'ayme ? & qu'il previenne un soin⁎ qui me devore ?  
-C'est prendre de l'encens du Dieu que l'on adore.  
+C'est prendre de l'encens du Dieu que l'on adore.   
 
     ORONTE.
 Consultez-vous déjà vostre severité  
@@ -2166,7 +2165,7 @@ Je vous doy rendre grâce⁎, & vous m'en demandez.
 Prest à vous adorer, si vous me l'accordez.  
 
     OLYMPE.
-Qu'elle grâce⁎ ?  
+Qu'elle grâce⁎ ?   
 
     ORONTE.
     L'amour.  
@@ -2190,7 +2189,7 @@ C'est donc à vos beaux yeux, qui possedent ce titre⁎.
 Un autre le pretend ; je n'en suis que l'arbitre.  
 
     OLYMPE.
-Vostre cœur ?  
+Vostre cœur ?   
 
     ORONTE.
         C'en est un, qui vaut mieux mille fois.  
@@ -2217,7 +2216,7 @@ Vostre froideur m'offence autant que son audace.
 Excusables pourtant.  
 
     OLYMPE.
-        Si vous les finissez.  
+        Si vous les finissez.   
 
     ORONTE.
 Je vous porte un present…..  
@@ -2245,7 +2244,7 @@ Faut-il que ce refus me reduise en furie [174] ?
 Et que le vostre y mette un pour qui je vous prie [175] ?  
 
     OLYMPE.
-Ne perdez pas pour vous ce qu'il n'aura jamais.  
+Ne perdez pas pour vous ce qu'il n'aura jamais.   
 
     ORONTE.
 Je perdray tout plustost que ce que je promets.  
@@ -2275,7 +2274,7 @@ Quel devoir vous oblige⁎ à tuer une Dame,
 Qui vous offre son cœur, qui vous offre son ame ?  
 
     ORONTE.
-Ma parole.  
+Ma parole.   
 
     OLYMPE.
         Et la mienne aura moins de pouvoir ?  
@@ -2311,7 +2310,7 @@ Que je demeure ici [176] seulement pour le voir :
 Le voir ? ô Dieux ! comment le pourois-je entreprendre ?  
 Mais quelqu'un de la Ville en ces lieux se vient rendre [177] ;  
 C'est un Heraut [178] sans doute aux signes que je voy :  
-La belle occasion ! il passe ; informe toy.  
+La belle occasion ! il passe ; informe toy.   
 
 
 ### SCENE VII.
@@ -2326,7 +2325,7 @@ Arrestez, Cavallier.
 Qui laisse à mes pareils l'accez dans les allarmes,  
 Vers vostre General Ambassadeur commis  
 Je marche de la part des Princes Ennemis :  
-De grâce⁎, marquez moy son quartier, & sa tente.  
+De grâce⁎, marquez moy son quartier, & sa tente.   
 
     ORONTE.
 Je vous contenteray, pourveu qu'on me contente ;  
@@ -2351,7 +2350,7 @@ Lucidor, qui m'envoye…
 Lucidor ? il t'envoye ? on m'en taist le sujét ?  
 Ouvre, découvre tout, sans peur, sans artifice⁎ ;  
 En Prince je demande, & payray cét office⁎ :  
-Tu sembles trop courtois pour me cacher ce poinct⁎.  
+Tu sembles trop courtois pour me cacher ce poinct⁎.   
 
     MELINDE.
 Et vous trop genereux, pour ne le sçavoir point :  
@@ -2409,15 +2408,13 @@ J'y mettray Lucidor, le dessein⁎ m'est ouvert⁎ ;
 Il l'attend sur le pré ; moy qui veux les surprendre,  
 Je retourne à la ville en avertir Gelandre.  
 
-    *Oronte
-        aprés que Melinde s'en est allée*,
-      
+    *Oronte aprés que Melinde s'en est allée*, 
 Fay prosperer, Amour, un dessein⁎ que j'ay pris,  
 Qui finit leur querelle & m'en donne le prix ;  
 Par cette invention, dont l'yssuë est chere,  
 J'empéche le combat, & je verray mon Frere :  
 Veritable Destins, j'adore vos secréts⁎ ;  
-Qu'un étrange⁎ accident termine mes regrets !  
+Qu'un étrange⁎ accident termine mes regrets !   
 
 
 ### SCENE VIII.
@@ -2444,7 +2441,7 @@ Et peut-estre il medite un trait⁎ qui l'en exemte ;
 Ses ruses m'ont fait voir, aprés un million [181],  
 Qu'il combat en renard, & non pas en lyon [182] :  
 Et j'attends du courage⁎ encore d'un perfide ?  
-Toutefois le voicy, qui cerche⁎ son Alcide [183].  
+Toutefois le voicy, qui cerche⁎ son Alcide [183].   
 
 
 ### SCENE IX.
@@ -2464,7 +2461,7 @@ Il se feint ; il neglige, ou recherche mes coups⁎.
 Pour ce que je les ayme, & qu'ils me semblent doux.  
 Puis courant pour embrasser Lucidor.
 
-Ah ! mon Frere.  
+Ah ! mon Frere.   
 
     LUCIDOR *reconnoissant sa Sœur*
     O prodige !  
@@ -2537,7 +2534,7 @@ Tygre [185], puis qu'à ce poinct⁎ ta fureur est montée,
 Je veux avoir ton cœur ou de force⁎, ou d'amour.  
 
     LUCIDOR.
-Et moy, finir ta honte & la mienne à ce jour.  
+Et moy, finir ta honte & la mienne à ce jour.   
 
 
 ### SCENE X.
@@ -2546,7 +2543,7 @@ MELINDE, GELANDRE, LUCIDOR,
 ORONTE.
 
 
-    MELINDE  *dessus les murailles avec Gelandre, tandis que Lucidor & Oronte se battent.*
+    MELINDE *dessus les murailles avec Gelandre, tandis que Lucidor & Oronte se battent.*
 Par là vous comprenez…..  
 
     GELANDRE.
@@ -2559,7 +2556,7 @@ Tirons⁎ en Lucidor sous quelque autre couleur.
 
     GELANDRE.
 Rien ne s'offre à present qu'une promte sortie,  
-Qui les mette en allarme, & rompe la partie.  
+Qui les mette en allarme, & rompe la partie.   
 
     MELINDE.
 Allons. Dieux ! je les voy qui sont venus aux coups⁎ [186].  
@@ -2587,14 +2584,14 @@ Tu peux encore….
 Ouy ; j'offre l'une & l'autre à ta haine assouvie.  
 
     LUCIDOR.
-Ce qu'on ne peut m'ôter ; on m'offence en l'offrant.  
+Ce qu'on ne peut m'ôter ; on m'offence en l'offrant.   
 
     ORONTE.
 Ton sang vient de la haine ; & l'amour te le rend.  
 Mais, quel bruit ?  
 
     LUCIDOR.
-        Dépéchons, avant qu'on nous separe.  
+        Dépéchons, avant qu'on nous separe.   
 
 
 ### SCENE XI.
@@ -2612,7 +2609,7 @@ Voicy d'autres lauriers, que ce jour vous prepare.
 Avanceons, Lucidor, & voyez l'Ennemy.  
 
     ORONTE. *Furieuse, & ne voulant point quitter son Frere.*
-Me faut-il emporter la victoire à demy ?  
+Me faut-il emporter la victoire à demy ?   
 
     DORAME *à ses Soldats.*
 Donnons, il en est temps ; & secourons Oronte.  
@@ -2636,7 +2633,7 @@ Mais l'oreille du Roy merite ce discours ;
 Allons le réjoüir d'une heureuse victoire.  
 
     ORONTE.
-Où le Vainqueur vous doit son salut & sa gloire⁎.  
+Où le Vainqueur vous doit son salut & sa gloire⁎.   
 
 
 ## ACTE TROISIEME.
@@ -2682,10 +2679,10 @@ Et pour en perdre un seul je me fay deux Rivaux,
 Simple [189] je chasse un Frere, & mets l'autre en sa place,  
 Et le mal-heur de l'un sert à l'autre de grâce⁎ ;  
 Enfin je suis par tout coupable, & malheureux.  
-Mais qu'ajoûte Lycanthe à mon sort⁎ rigoureux ?   
+Mais qu'ajoûte Lycanthe à mon sort⁎ rigoureux ?    
 
 
-### *SCENE II.*
+### SCENE II.
 DORAME, LYCANTHE.
 
 
@@ -2727,7 +2724,7 @@ Appaisez vos fureurs, & soyez [195] plus discrét
 Il ouvre la lettre et luy montre un cachét d'Olympe pour la refermer.
 
 Vos maux en cette lettre, & leur plaisir secrét⁎ ;  
-Ce cachét dérobé sans danger la referme.  
+Ce cachét dérobé sans danger la referme.   
 
     DORAME *prenant la lettre.*
 Ta foy⁎ ni mon mal-heur, Amy, n'ont point de terme ;  
@@ -2788,7 +2785,7 @@ Je me voy par un coup⁎ d'un Dedale sorti.
 J'acheteray toûjours vostre bien⁎ par ma perte.  
 
     DORAME.
-Viens sçavoir les moyens d'une vangeance offerte.  
+Viens sçavoir les moyens d'une vangeance offerte.   
 
 
 ### SCENE III.
@@ -2808,7 +2805,7 @@ Mépriser son amour ?
         Vous, mes sainctes ardeurs ?  
 
     ORONTE.
-Que la mort d'un Amy……  
+Que la mort d'un Amy……   
 
     OLYMPE.
         Mais la mienne vous touche,  
@@ -2839,7 +2836,7 @@ Qu'attendez-vous d'un cœur……
 
     ORONTE.
 Qui ne peut estre amant sans qu'il soit infidelle⁎ ?  
-J'ay promis à Dorame ; & vous perdez vos coups⁎.  
+J'ay promis à Dorame ; & vous perdez vos coups⁎.   
 
     OLYMPE.
 Moy de mesme, à vos yeux, de n'aymer rien que vous.  
@@ -2910,7 +2907,7 @@ A quoy se reduiront des mouvements si forts ?
     OLYMPE. *Parlant bas.*
 Il consulte au dedans, & soûpire au dehors ;  
 Courage⁎, espere, Olympe, & voy s'il est possible  
-D'allumer de la glace en un cœur insensible.  
+D'allumer de la glace en un cœur insensible.   
 
 
 ### SCENE IV.
@@ -2929,7 +2926,7 @@ Mais non, ne le fay pas, afin de faire mieux.
 Amour, en l'inspirant fay nous voir un miracle  
 Puis revenant à Oronte.
 
-Que me promét enfin votre fatal Oracle ?  
+Que me promét enfin votre fatal Oracle ?   
 
     ORONTE.
 Ma perte avant ma faute, & par un prompt trépas  
@@ -2996,7 +2993,7 @@ La pitié qu'il demande & qu'espere sa foy⁎,
 Vous me l'enseignerez l'exerceant [200] envers moy.  
 
     ORONTE.
-L'exerceant envers vous, pour luy quel avantage ?  
+L'exerceant envers vous, pour luy quel avantage ?   
 
     OLYMPE.
 D'estre avec vous aymé, par un juste partage.  
@@ -3043,7 +3040,7 @@ Et resoudre mes sens parmy la solitude ;
 La prochaine Forest offre une ombre à mes pas.  
 
     DORAME *voyant partir Oronte.*
-Courage ; c'est assez ; il n'en reviendra pas.  
+Courage ; c'est assez ; il n'en reviendra pas.   
 
 
 ### SCENE V.
@@ -3074,7 +3071,7 @@ Et j'adore un Soleil au milieu de l'orage.
 Lucidor vient avec Melinde toute en larmes, aprés luy avoir declaré toutes les trahisons de son Frere.
 
 La voicy, toute en pleurs : Nature, on te détruit,  
-Peut-on voir le Soleil dans l'onde avant la nuict ?  
+Peut-on voir le Soleil dans l'onde avant la nuict ?   
 
 
 ### SCENE VI.
@@ -3174,7 +3171,7 @@ Allons donc.
         En un lieu moins horrible que toy.  
 Puis parlant bas & s'addressant à soy-mesme en se frappant l'estomac.
 
-Que toy, dont la rigueur est un monstre à ta foy⁎.  
+Que toy, dont la rigueur est un monstre à ta foy⁎.   
 
 
 ### SCENE VII.
@@ -3212,7 +3209,7 @@ Laissez nous le peril, & joüyssez du fruict.
 Nous yrons……  
 
     LYCANTHE.
-        Je l'avise ; arrestez-vous sans bruict.  
+        Je l'avise ; arrestez-vous sans bruict.   
 
 
 ### SCENE VIII.
@@ -3250,7 +3247,7 @@ Pour le continuer, ce bras qui te poursuit
 Te va faire dormir en l'eternelle nuict.  
 
     ORONTE.
-Pour estre sans repos c'est là que je t'envoye.  
+Pour estre sans repos c'est là que je t'envoye.   
 
     LYCANTHE *en mourant.*
 Ah ! ma vie en mon sang…..  
@@ -3314,7 +3311,7 @@ Qui me suivit par tout pendant que je vivois [216] ?
 Ne pouvant te donner une autre sepulture,  
 Ce corps au moins du tien sera la couverture.  
 Oronte se laisse tomber sur le corps du Page⁎, tenant en main la lettre sanglante.
-
+ 
 
 
 ## ACTE QUATRIESME.
@@ -3352,7 +3349,7 @@ Que la Thrace dans peu par un effort⁎ extréme
 Sçache que je pery, perissant elle mesme ;  
 Comme elle fut l'objét⁎ de mon ambition…  
 Mais le Roy me surprend, à quelle intention ?  
-Seul, confus, interdit, il écarte sa suite.  
+Seul, confus, interdit, il écarte sa suite.   
 
 
 ### SCENE II.
@@ -3369,7 +3366,7 @@ Ma veuë est égarée, & ma voix est pesante ;
 Sous mille objéts⁎ d'horreur mon crime se presente :  
 Puis relevant la voix.
 
-Qu'on m'accorde plustost la grâce⁎ de mourir.  
+Qu'on m'accorde plustost la grâce⁎ de mourir.   
 
     LE ROY.
 Consolez-vous, Dorame, on le peut secourir ;  
@@ -3450,7 +3447,7 @@ Du Ciel & de vos soins⁎ faites que je l'obtienne ;
 Qu'on le tire⁎ du lict par un effort⁎ nouveau.  
 
     DORAME *parlant bas.*
-Ouy, je l'en tireray⁎, pour le mettre au tombeau.  
+Ouy, je l'en tireray⁎, pour le mettre au tombeau.   
 
 
 ### SCENE III.
@@ -3467,7 +3464,7 @@ Chere Olympe, épargnez sa candeur, & mes maux.
 
     OLYMPE.
 Jusques où l'amitié dans vostre ame s'imprime  
-Pour un Ingrat⁎, un traître, & l'auteur de ce crime ?  
+Pour un Ingrat⁎, un traître, & l'auteur de ce crime ?   
 
     ORONTE.
 Tous ces propos me sont plus mortels que mes coups⁎  
@@ -3535,7 +3532,7 @@ Outre qu'ayant sur moy toute chose permise,
 J'aymerois l'attentat quand il l'auroit commis,  
 Puis que ma mort seroit un don⁎ de mes Amis ;  
 J'adorerois le coup⁎, & la main qui me blesse,  
-Et si j'en soûpirois [230] j'aurois trop de foiblesse.  
+Et si j'en soûpirois [230] j'aurois trop de foiblesse.   
 
     OLYMPE.
 Aveugle affection ! ô l'innocente erreur !  
@@ -3543,7 +3540,7 @@ Dorame paroist.
 
 Mais ô Dieux ! cét objét⁎ me remplit de fureur :  
 Le Traître vient icy, comme un vainqueur superbe  
-Qui regarde étendu son Ennemy sur l'herbe.  
+Qui regarde étendu son Ennemy sur l'herbe.   
 
 
 ### SCENE IV.
@@ -3701,10 +3698,9 @@ Mais appelons ses gens sur un poinct⁎ si douteux [236].
 Accourez ; il se tuë ; empéchez sa furie ;  
 Voyez vostre mal-heur, & sa forcenerie [237] :  
 Mon épée en ses mains, si quelqu'un ne la prend,  
-Sa rage aprés ce coup⁎ en medite un plus grand.  
+Sa rage aprés ce coup⁎ en medite un plus grand.   
 
-    ORONTE *se levant à moitié sur son*
-* lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
+    ORONTE *se levant à moitié sur son lict, pour empécher ses gens, qui s'avancent pour luy oster l'épée.*
 Allez, retirez-vous ; ou vienne le plus traître ;  
 Ce bras luy montrera qu'il se prend à son Maître ;  
 Auriez-vous oublié ce qu'encore je puis ?  
@@ -3724,7 +3720,7 @@ Je vivray jusqu'alors,
     ORONTE.
         Il suffit :  
 Revenez, approchez, Troupe fidelle & chere ;  
-Voyez, fermez ma playe, elle n'est que legere.  
+Voyez, fermez ma playe, elle n'est que legere.   
 
 
 ### SCENE V.
@@ -3773,7 +3769,7 @@ Vous, relevez la vostre en mon amour offerte ;
 Ma premiere victoire est de vous acquerir.  
 
     MELINDE.
-Perdant tout, il m'en reste une belle [240] à mourir.  
+Perdant tout, il m'en reste une belle [240] à mourir.   
 
 
 ### SCENE VI.
@@ -3795,7 +3791,7 @@ Dorame paroist suivy d'Oronte pour se battre.
 Mais quel dessein⁎ l'amene à mes yeux aujourd'huy ?  
 Quoy ? nous suivroit-il point [241] ? Non, luy mesme s'arreste ;  
 Suivy d'un cavalier au combat il s'appreste :  
-Tirons⁎ nous à l'écart, Amis, voyons leur jeu.  
+Tirons⁎ nous à l'écart, Amis, voyons leur jeu.   
 
 
 ### SCENE VII.
@@ -3822,8 +3818,7 @@ Pour me plaire en effect⁎, venez, sans m'épargner.
 Dure loy⁎, qui m'oblige⁎ à perdre pour gagner !  
 Ma victoire consiste à me l'ôter moy-mesme.  
 
-    LUCIDOR [242]
-              *les voyant au combat.*
+    LUCIDOR [242] *les voyant au combat.*
 Ils combattent pour moy dans ce peril extréme ;  
 C'est ma Sœur, & Dorame ; ils me vangent sur eux,  
 Et ma haine s'acquiert ce qu'ils perdront tous les deux.  
@@ -3859,7 +3854,7 @@ Est-ce ainsi, furieux, qu'il faut qu'on vous contente ?
 Tu m'ôtes……  
 
     ORONTE.
-    Qu'ay-je fait ?  
+    Qu'ay-je fait ?   
 
     DORAME.
         O trop heureux vainqueur,  
@@ -3886,7 +3881,7 @@ Plus douce m'est ta main, plus rude je l'essaye.
 Permettez que mes pleurs arrousent vostre playe ;  
 La vertu⁎ les appreuve ; & c'est un sang pieux  
 Que l'amitié, du cœur distille par les yeux ;  
-Mon courage⁎ les tire⁎, & non pas ma foiblesse.  
+Mon courage⁎ les tire⁎, & non pas ma foiblesse.   
 
     DORAME.
 Helas ! cette eau m'enflame, & sa pitié me blesse.  
@@ -3895,8 +3890,7 @@ Qui malgré ma fureur luy sont obéissants ;
 J'ay pris un autre cœur, autres yeux, autre bouche [244] ;  
 Oronte, est-ce bien⁎ vous ?  
 
-    LUCIDOR [245]
-              *les surprenant.*
+    LUCIDOR [245] *les surprenant.*
         Mais, perfide, est-ce toy,  
 Que le Ciel a puni par un autre que moy ?  
 Depuis ta trahison tu trainois ton supplice ;  
@@ -3955,7 +3949,7 @@ Quoy ? ce Monstre opposé, comme une autre Meduse [247],
 Tient mon ame insensible.  
 
     ORONTE.
-        Et la mienne confuse.  
+        Et la mienne confuse.   
 
 
 ### SCENE VIII.
@@ -3971,7 +3965,7 @@ Mais quel bruit ? le voilà ; mon œil me le figure ;
 Est-ce luy-mesme ? ô Dieux ! rendez faux mon augure.  
 
     ORONTE *à Dorame.*
-Quoy ? je combats pour vous, et vous m'en empéchez ?  
+Quoy ? je combats pour vous, et vous m'en empéchez ?   
 
     DORAME.
 C'est le Ciel qui s'oppose, & nos destins cachez :  
@@ -4087,7 +4081,7 @@ Qui vous est de la paix un asseuré presage ;
 Il est de nos travaux⁎ & le prix, & la fin.  
 
     LUCIDOR.
-Qui me fait admirer la force⁎ du destin.  
+Qui me fait admirer la force⁎ du destin.   
 
 
 ## ACTE CINQUIESME.
@@ -4171,7 +4165,7 @@ Pour fruicts de vos vertus⁎, non pas de mes pechez⁎ ;
 Un legitime accord que nos Parents appreuvent  
 Nous promét en amour les graces⁎ qui s'y treuvent ;  
 Rien ne s'opposera pour lors à vos plaisirs :  
-Voicy ceux que le Ciel conjoint à nos desirs.  
+Voicy ceux que le Ciel conjoint à nos desirs.   
 
 
 ### SCENE II.
@@ -4211,7 +4205,7 @@ Nos esprits⁎ obligez⁎ par de si douse loix⁎
 Vous appellent nos Dieux, nos Peres, et nos Roys.  
 
     OLYMPE.
-Tenant d'eux mon Soleil…  
+Tenant d'eux mon Soleil…   
 
     LUCIDOR.
         Tenant d'eux mon Aurore.  
@@ -4249,7 +4243,7 @@ Allons rendre Gelandre étonné de vous voir ;
 A mon commandement ses portes sont ouvertes.  
 
     LE ROY DE THRACE.
-Cét accord entre nous relevera ses pertes.  
+Cét accord entre nous relevera ses pertes.   
 
 
 ### SCENE III.
@@ -4266,7 +4260,7 @@ Guery de vostre main je mouray par vos yeux.
 
     ORONTE.
 Ceux-cy ne donneront qu'une legere attainte ;  
-Mais vostre sang doit faire une plus juste plainte.  
+Mais vostre sang doit faire une plus juste plainte.   
 
     DORAME.
 Quel dangereux secours vostre pitié me rend,  
@@ -4339,7 +4333,7 @@ De ses feux⁎ offencez le fâcheux soûvenir.
 Il a pour ce regard l'ame trop genereuse :  
 Les Roys appreuveront nostre union heureuse ;  
 Et si j'ay vostre amour conforme à mes souhaits,  
-Le Ciel accomplira nos lyens qu'il a faits.  
+Le Ciel accomplira nos lyens qu'il a faits.   
 
 
 ### SCENE IV.
@@ -4377,7 +4371,7 @@ Rien n'a ta flame refroidie,
 Ta perte, mes desseins⁎, tes maux, ni ma rigueur,  
 Mon offence te plaist, & m'a livré ton cœur  
 Pour le prix de ma perfidie :  
-Pourrois-je estre insensible ?…..  
+Pourrois-je estre insensible ?…..   
 
 
 ### SCENE V.
@@ -4472,7 +4466,7 @@ Si par là vous croyez surmonter cét esclandre,
 Je ne resiste plus, je vous suivray, Gelandre ;  
 Pour asseurer les biens⁎ que vous ôte le sort⁎  
 Servez vous de ma vie, employez ma mort ;  
-Que la cause du mal apporte le remede.  
+Que la cause du mal apporte le remede.   
 
     GELANDRE.
 Quel bon-heur est si grand que ce plaisir n'excede ?  
@@ -4485,7 +4479,7 @@ M'offre d'un bon succez des presages certains ;
 Allons treuver les Roys, & bannissons la crainte.  
 
     MELINDE.
-Allons ; je suis à tout [260], sans peur & sans contrainte.  
+Allons ; je suis à tout [260], sans peur & sans contrainte.   
 
 
 ### SCENE VI.
@@ -4537,7 +4531,7 @@ En presence des Dieux, dont le respect m'engage,
 J'offre au Pere ma foy⁎, j'en donne au Fils le gage⁎.  
 
     ROY DE PERSE *luy presentant son fils.*
-Mon amitie vous rend par un don⁎ mutuel…  
+Mon amitie vous rend par un don⁎ mutuel…   
 
     LUCIDOR* luy faisant la reverence.*
 En mon obeissance un vœu⁎ perpetuel.  
@@ -4546,7 +4540,7 @@ En mon obeissance un vœu⁎ perpetuel.
 Et la mienne à tous deux également se vouë.  
 
     ROY DE THRACE.
-Que ta puissance, Amour, merite qu'on te louë.  
+Que ta puissance, Amour, merite qu'on te louë.   
 
 
 ### SCENE VII.
@@ -4566,7 +4560,7 @@ Gelandre & Melinde viennent.
 
 
     ORONTE* à genoux devant son Pere.*
-Mon erreur fit la sienne……  
+Mon erreur fit la sienne……   
 
     ROY DE PERSE.
         Et veut, comme je pense,  
@@ -4613,7 +4607,7 @@ Mais appreuve aujourd'huy son autre passion.
     DORAME.
 Pouvions-nous recourir à de plus doux refuges ?  
 Icy nos protecteurs sont ensembles nos Juges ;  
-Qu'esperons nous d'avoir [267] qu'un heureux traitement…  
+Qu'esperons nous d'avoir [267] qu'un heureux traitement…   
 
     LE ROY DE PERSE.
 De qui tient vos plaisirs pour son consentement.  
@@ -4628,7 +4622,7 @@ Rends luy graces⁎, Amour ; ou prestes moy ta voix.
 Ma Dame, en ce baiser…  
 
     ORONTE *le baisant.*
-        Nos ames sont unies.  
+        Nos ames sont unies.   
 
 
 ### SCENE VIII.
@@ -4703,7 +4697,7 @@ Je vous donne ma Sœur, elle la Bythinie.
 Moy ? le cœur à tous deux, dessous vos loix⁎ rangé.  
 
     OLYMPE.
-O Dieux ! en un moment comme tout est changé !  
+O Dieux ! en un moment comme tout est changé !   
 
     LUCIDOR.
 Nostre amour a causé leur peine & leur salaire ;  
@@ -4730,7 +4724,7 @@ F : A. Furetière, *Dictionnaire universel*, 1690.
 
 R : P. Richelet, *Dictionnaire François*, 1680.
 
-C : G. Cayrou,* Dictionnaire du français classique. « La langue du XVII*e* siècle »*, 2000.Avis : n.m.Réflexion, conseil.V. 287Nouvelles de ce qui se passe. FV. 1615Abord : n.m.Approche, arrivée. CV. 171, 1476Appas : n.m.Amorce, charme, ce qu'on emploie pour gagner ou pour attraper quelqu'un. C  V. 112, 328, 578, 1325Appel : n.m.Cri qui se fait en la montre ou reveuë des troupes, lors qu'on veut connoistre ceux qui sont presents, ou qu'il les faut payer.V. 68Deffi ou provocation qu'on fait à quelqu'un pour se battre en duel. FV. 762, 782, 1024Artifice : n.m.Ruse, déguisement, fraude. CV. 114, 1018, 1170Avanture : n.f.Accident, ce qui arrive inopinément en bien ou en mal.V. 5, 554, 726Hasard, il se dit en particulier d'une bonne chance, d'une heureuse rencontre. CV. 554, 1031Bien : n.m.Au singulier, se prend pour bonheur, état heureux, joie, impression douce et agréable ;V. 6, 38, 103, 180, 237, 1069, 1206, l. 38, 1262, 1297, 1304, 1363, 1386, 1494, 1662, 1711, 2013, 2123, 2146, 2220, 2288, 2350Honneur, avantage, chance ;V. 114, 193, 841, 1037, 1113, 1279, 1884Richesse, fortune.V. 83, 248, 452, 524, 675, 1181, 1288, 1601, 1690, 1756, 1969, 2070, 2179Au pluriel, bonnes actions, bons offices, bienfaits, services ;V. 155Mérites, qualités.V. 2240Adv. Beaucoup, parfaitement ;V. 104, 194, 245, 314, 337, 366, 368, 410, 503, 582, 608, 677, 755, 786, 827, 844, 851, 855, 858, 873, 1318, 1373, 1495, 1531, 1596, 1636, 1790, 1819, 1894, 2015, 2169Prochainement.V. 132, 1451, 1619Malgré.V. 322, 1286, 1855Sinon, alors. CV. 777, 1105, 1778, 1939Blesser : vb.Frapper, toucher profondément, en matière d'amour, il est du style poétique, il se dit d'ailleurs avec ce sens très fort de tous les sentiments vifs ou tristes dont un homme peut être atteint. CV. 368, 817Cartel : n.m.Petit contenant un défi pour se battre, le lieu, la manière, le sujet, le jour et l'heure du combat. RV. 69, 284, 287, 675, 693, cartel de Dorame à Lucidor, 732, réponse au cartel, didascalie p. 79Cercher : vb.Chercher.V. 51, 111, 135, 589, 608, 784, 1033, 1079, 1241, 1268, 1319, 1429, 1639, 1911, 2050Charmant : adj.Qui plaist extraordinairement, qui ravit en admiration. FV. 59, 2216Charme : n.m.Signifie figurément attrait, appât, qui plaît extrêmement, qui touche sensiblement. CV. 402, 714, 824, 912, 1419, 1980, 2172, 2322Conjurer : vb.Se lier par serment avec d'autres ; se liguer. CV. 87, 1942Coup : n.m.Heurt, atteinte violenteV. 187, 283, 336, 338, 366, 375, 546, 547, 551, 592, 789, 801, 814, 925, 1084, 1132, 1272, 1344, 1443, 1537, 1545, 1634, 1651, 1697, 1706, 1715, 1747, 1751, 1762, 1791, 1796, p. 155 didascalie, 1879, 1901, 1919, 1948, 1983, 1991Acte frappant, imprévu, se dit aussi des actions héroïques, hardies et extraordinaires, soit en bien, soit en mal.V. 749, 1027, 1070, 1238, 1261, 1619, 1735, 2185Cette fois, pour cette fois, fois. C V. 1443, 1475, p. 124 didascalie, 1587, 1966, 2204Courage : n.m.Cœur, comme siège du sentiment ; passion, mouvement.V. 330, lettre, 1243, 1400Cœur, comme siège de la volonté ; affection, ardeur, zèle, sans idée de fermeté à braver le péril, la souffrance. C V. 86, 118, 133, 302, 517, 651, 718, 766, 903, 1061, 1072, 1078, 1156, 1310, 1314, 1483, 1877, 1889, 2356Couvert : adj.Dissimulé, caché. CV. 73, 116, 269, p. 21 didascalieCruel : adj.Qui ne respond pas bien aux cageolleries qu'on luy fait. FV. 23, 529, 697, 983, 1204, 1276, 1814Decevoir : vb.Tromper, sans idée de douce illusion détruite. CV. 67, 443Dessein : n.m.Détermination, décision, entreprise, résolution, conception, plan. CV. 51, 207, 214, 220, 230, 237, 319, 403, 591, 607, 621, 680, 1009, p. 78 didascalie, 1049, 1052, 1202, 1320, 1404, 1462, 1561, 1575, 1709, 1739, 1842, 1848, 2086, 2189, 2261, 2272Domter : vb.Subjuguer, se rendre maistre.V. 1147, 2323Il se dit figurément en Morale de l'esprit, des passions. FV. 17Don : n.m.Present, gratification.V. 80, 1696, 1771, 1970, 2047, 2072Se dit figurément des choses spirituelles.V. 1771, 1970, 2047, 2072Don mutuel : en terme de palais, est un don autorisé par les coustumes, que se font les conjoints par mariage de l'usufruit de tous leurs biens reciproquement pour en jouïr par celuy qui survivra sa vie durant. FV. 2285Douleur : n.f.Sentiment triste et fascheux qui blesse quelque partie du corps, et est ennemi de la nature.V. 435, 1529, 1584, 1719Se dit aussi des passions de l'ame, affliction d'esprit. FV. 16, 370, 468, 509, 533, 676, 790, 1209, 1307, 1351, 1355, 1742, 1827, 2176Droict : adj. n.m.Titre qu'on a pour posseder quelque chose ou y pretendre.V. 146, 185A bon droit : adverbial, pour dire avec raison, avec juste cause.V. 950, 1152Ce qui est juste, raisonnable, qui est établi par les loix, qui rend à chacun ce qui luy appartient. FV. 1104Ecu : n.m.Bouclier long, ovale et fait de cuir ou d'acier, que les Chevaliers et les hommes d'armes portoient lors qu'il combatoient. R P. 1 didascalie, p. 4 didascalie, v. 380, 404, p. 26 didascalie, p. 27 didascalie, 419, p. 30 didascalie, p. 33 didascalie, v. 488, p. 84 didascalieEffect : n.m.Acte, réalisation, manifestation, exécution de quelque chose.V. 46, 223, 233, 569, 618, 666, 794, 1224, l. 24, 1283, 1381, 1441, 1446, 1502, 1736, 1922, 2085, 2098, 2118, 2289, 2352En effet : En réalité, réellement.V. 372, 585, 744, 901, 1200, 1736, 1859Avoir réel, valeurs effectives, effet, et plus ordinairement effets au pluriel, se dit des biens des personnes. CV. 6, 388Effort : n.m.Action énergique ; effet puissant, violent, tout ouvrage produit par une action où on s'est éfforcé de faire tout ce qu'on pouvait. CV. 145, 188, 211, 299, 583, 856, 1200, lettre, 1548, 1569, 1619, 1643, 1663, 1916, 2039Emouvoir : vb.Exciter en parlant de choses morales. Exciter quelque mouvement, quelque passion dans le cœur, faire naître la colère, la joie, la tristesse, l'inquiétude, etc., aussi bien que la frayeur ou la pitié. CV. 83, 913, 977Escuyer : n.m.Ceux qui ont le soin, le gouvernement des chevaux du Roi, d'un Prince, d'un grand seigneur. CActeurs, p. 6 liste des personnagesEsprit : n.m.Au singulier, soufle, âme, au sens matériel ; dernier soupir.V. 344, 640, 1538Principe de nos idée, intelligence, inspiration, talent. Ce sens est très général, et il n'indique spécialement ni la vivacité piquante de l'intelligence, ni l'enjouement facétieux.V. 188, 192, 273, 836, 1191, 1683Principe de nos sentiment, cœur, sentiment.V. 113, 205, 509, 597, 804, 872, 1284, 1377, 1584, 1587, p. 141 didascalie, 1808, 1855, 1998, 2149Désir, dessein, intention.V. 1244Vie, énergie intellectuelle, intelligence, esprit.V. 1172Vie, énergie morale, sentiment, cœur, âme.CV. 19, 2078, 2087, 2337Esquiver : vb.Se sauver avec legereté et promptitude. FV. 64, 1045Estat : n.m.Royaume, Provinces ou estenduë de pays qui sont sous une même domination.V. 147, 940, 1188, 1425, 1565Signifie aussi la qualité, la nature et la constitution presente de quelque chose. FV. 447, 1665, 1725, 1739, 1899Etrange : adj.Ce qui n'est pas domestique, connu, ou fort familier.V. 273Hors des conditions où l'on vit habituellement, extraordinaire. Il se dit en particulier des malheurs extraordinaires, terribles, épouvantables. CV. 29, 357, 1057, 1126, 2194Faveur : n.f.Grâce qu'on fait à quelqu'un, bon office qu'on luy rend.V. 61, 83, 433, 823, 843, 1331, 1602, 1984, 2274, 2288Bienveillance d'un puissant, d'un supérieur, le crédit qu'on a sur son esprit.V. 107, 160, 173, 286, 819, 1164, 1181, 1472Approbation, estime.Se dit ordinairement en amour de ce qu'un maistresse accorde à celuy qu'elle aime.V. 947, 1110, lettre, 1349, 1676, 1747, 2044, 2050, 2142Adverbial, en faveur : en considération, à l'advantage. F P. 195 didascalieFeinte/Fainte : n.f.Desguisement, apparence, dissimulation, coup destiner à tromper. FV. 112, 200, 227, 271, 585, 866, 1170, 1737Fer : n.m.Se dit absolument d'une espée, et des armes.V. 334, 1136, 1328, 1464, 1515, 1740, 1920On appelle aussi absolument fers, les chaisnes, carcans et menottes qui servent à retenir les prisonniers et les esclaves.V. 1192, 1464, 2168En ce sens, il signifie figurément, esclavage, et se dit particulièrement en matiere d'amour. FV. 604, 927, 1121, 2345Feu : n.m.Se dit figurément en choses spirituelles et morales de la vivacité de l'esprit, de l'ardeur des passions.V. 320, 401, 563, 594, 632, 715, 876, 877, 891, 912, 917, 1400, 1418, 1492, 1564, 1750, 1852, 2017, 2159, 2214, 2232, 2256, 2289, 2307Feux de joye : feux d'artifices. FV. 2275Fidélité : n.f.Entretien des serments qu'on a faits, des paroles qu'on a données. FV. 302, 1199Fidelle : adj.Véritable. FV. 297, 803, 1645Force : n.f.Vigueur, santé du corps qui luy donne les moyens de porter de grands fardeaux, ou d'abatre et de renverser ce qui luy resiste.V. 125, 130, 885, 1124, 1245, 1397, 1482Necessité, contrainte.V. 793, 865, 1022, 1891, 2152Vertu, faculté naturelle de faire quelque chose.V. 826, 1964, 1995, 2258Se dit en morale d'une des quatre vertus cardinales, qui consiste en une grandeur d'ame et de courage qui donne la constance pour supporter les afflictions, ou l'audace pour entreprendre de grandes choses. Les especes de force sont la magnanimité, la mansuetude, la clemence, et la patience.V. 703, 815, 894Force ou à force, adverbial : beaucoup, d'une maniere abondante.V. 878, 909A la force : à l'aide, au secours. FV. 261Forcer : vb.Faire force à quelque chose, vaincre, dompter un sentiment, triompher d'une résistance morale. Contraindre, violenter.V. 405, 585, 787, 883, 1466Il se dit aussi d'une personne dont on fait fléchir le courage, dont on vient à bout moralement. CV. 149Fortune : n.f.Cas fortuit, hasard.V. 2244, 2362Destinée, ensemble de tout ce qui peut arriver de bien ou de mal à un homme, ce à quoi il est voué par le sort.V. 161, 1447, 2219Situation, élevée ou non, où l'on se trouve placé, condition où l'on est, sort, lot, obtenu en partage.V. 177Elévation, se prend aussi pour l'avancement et l'établissement dans les biens, dans les charges, dans les honneurs.C V. 109, 1187, 1471Foy : n.f.Confiance que l'on accorde aux personnes et aux choses, signifie aussi créance.V. 821, 1713, 1769, 1776, 2006, 2018Ce qui, dans les personnes, inspire confiance, assurance donnée par une personne, engagement, parole qu'on donne d'accomplir une chose, promesse de faire et d'accomplir quelque chose.V. 2006Fidélité à un engagement donné, honneur, conscience, sincérité, loyauté d'une personne.V. 99, 311, 340, 890, 972, 977, 1002, 1061, 1219, lettre, 1339, 1364, 1409, 1469, 1595, 1783, 1845, 1976, 1979, 2012, 2283, 2347Ce qui, dans les choses, inspire confiance, témoignage constitué par une chose, preuve, garantie. CV. 693Franchise : n.f.Sincérité tant en ses paroles qu'en ses actions. FV. 77, 1693Gage : n.m.Se dit aussi des témoignages ou assurances d'amitié. FV. 1602, 1673, 1685, 1992, 2283Gloire : n.f.Considération, honneur… estime, réputation qui procède du mérite d'une personne, sans idée éclatante célébrité.V. 294, 346, 353, 522, 698, 734, 1067, 1159, lettre, 1353, 1757, 1898Il se prend aussi quelque fois, en un sens plus matériel, pour l'éclat, la splendeur que donnent la grandeur, la puissance, etc. CV. 316, 378, 1163, 1413, 2125, 2215Glorieux : adj.Celuy qui a acquis de la gloire par son merite, par son sçavoir, par sa vertu, ou de ce qui donne de la gloire. FV. 136, lettre, 1412, 1603, 2124, 2245Grace : n.f.Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée.V. 106, 153, 1195, 1579, 1970, 1976, 2272Se dit des faveurs des Princes.V. 504, 846, 934, lettre, 1768Signifie aussi remerciement, et se dit le plus souvent au pluriel.V. 206, 932, 2354Signifie aussi la bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller qui plaisent aux autres. Plaisirs.V. 190, 328, 575, 911, 2024, 2053, 2072De grâce, adverbial : par faveur, par pitié, par courtoisie. FV. 1006Hazard : n.m.Cas fortuit, ce qui arrive sans cause apparente ou necessaire.V. 216, 248, 471, 1037Signifie aussi, peril, danger. FV. 133, 323Hazarder : vb.Risquer, mettre au hasard.V. 286Mettre en péril. FV. 1927Homicide : n.m.Meurtrier.V. 978, 1203, 1710Se met parfois en poësie adjectivement et sert d'epithete. FV. 12, 788, 810Honneur : n.m.Tesmoignage d'estime ou de soûmission qu'on rend à quelqu'un par ses paroles ou ses actions.V. 75, 304, 310, 1063, 1161S'applique plus particulierement à deux fortes vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes.V. 292, 340, 351, 523, 741, 761, 1546, 1683, 1916Se dit aussi de la chose qui honore, qui donne de la gloire. FV. 1063, 1068, 1074, 1107, lettre, 2074, 2260Honorable : adj.Qui est digne qu'on luy fasse de l'honneur, qu'on le respecte, qu'on le louë. FV. 309, 1070Honteux : adj.Qui a de la honte.V. 329, 2021Se dit aussi de ce qui manque de hardiesse.V. 1156Infamant. FV. 294, 309, 1670, 1791, 1901Image : n.f.Représentations artificielles que font les hommes, soit en peinture, ou sculpture. FV. 2, 408, 425, 489, 742, 1782Infidele : adj. n.m ou f.Ce qui ne garde point la foy, qui n'execute point les choses qu'il a promises ou jurées. FV. 101, 317, 1270Ingrat : adj. n.m ou f.Celuy qui n'a point de reconnaissance des bienfaits qu'il a receus, des bons offices qu'on luy a rendus. Peu officieux, peu courtois. FV. 317, 355, 360, 527, 793, 957, 978, 1148, 1252, 1350, 1650, 1752, 1823, 2212Licence : n.f.Il se dit le plus souvent en mauvaise part d'une liberté trop grande, et signifie dans l'usage ordinaire du monde : déréglement dans les mœurs, dans les actions, dans les paroles et dans toute la conduite de la vie. CV. 266, 1451, 1681, 2021Loy : n.f.Commandement qui vient d'une authorité superieure, auquel un inferieur est contraint d'obeïr.V. 973, 2078, 2090, 2332, 2368Se dit aussi de la differente police des Etats et des peuples, des maximes dont ils sont convenus, ou qu'ils ont receuës de leurs Magistrats pour vivre en paix et en societé.V. 1607, 2332En pays Coustumier signifie la coustume locale, et les loix particulieres par lesquelles une ville est gouvernée.V. 1098Se dit aussi de certaines Regles et principes fondammentaux Escrits ou non Escrits pour le gouvernement de l'Estat.V. 183, 219, 2092Se dit aussi d'une obeïssance volontaire qui fait qu'on se soûmet aux volontez d'autrui. FV. 100, 176, 276, 529, 532, 692, 1022, 1679, 1860Merveille : n.f.Phénomène étrange, hors de l'ordre commun, chose rare, extraordinaire, surprenante, qu'on ne peut guères voir ni comprendre, digne d'étonnement plutôt que d'admiration.V. 357, 505Il se dit parfois au singulier, de l'étonnement même, de la surprise.V. 194, 1913, 2102Phénomène surnaturel, accompli par une divinité, miracle. CV. 2299Meurtrir : vb.Blesser, faire une contusion.V. 1274, 1627Object/Objét : n.m.Ce qui est opposé à notre vue, ou ce qui se représente à notre imagination, vue, spectacle, aspect.V. 4, 400, 1016, 1115, lettre, 1338, 1516, 1578, 1602, 1660, 1700, 2216, 2347Se dit aussi poétiquement des belles personnes qui donnent de l'amour. CV. 17, 36, 59, 361, 369, 580, 754, 900, 1455Obliger : vb.Lier, enchaîner par un serment, par un service, etc.V. 109, 152, 226, 539, 547, 792, 854, 1108, 1223, lettre, 1302, 1341, 1675, 1710, 2078, 2170, 2292Lier par un arrangement, engager, inviter, prier. Signifie aussi exciter, porter quelqu'un à faire quelque chose. Il indique une pression morale, mais exercée par persuasion, par promesse, aussi bien que par force ou menace.V. 40, 634, 717, 756, 863, 974, 1341, 1414, 1717, 1860, 2143Obliger…de : Faire le plaisir de, signifie plus généralement faire quelque faveur, civilité, courtoisie. CV. 56Office : n.m.Service qu'on fait, qu'on rend à quelqu'un.V. 113, 306, 785, 1019, 1346Devoir de la vie humaine, de la société civile, tâche, rôle, fonction, etc.  CV. 1529Ouvert : adj.Figurément, sincère, qui ne dissimule rien, vivacité, facilité à comprendre les choses, découvert. FV. 115, 125, 1049, 2354Page : n.m.Enfant d'honneur qu'on met auprès des Princes et des Grands Seigneurs pour les servir avec leurs livrées, et en mesme temps y avoir une honneste education, et y apprendre leurs exercices. F V. 1499, p. 124 didascalie, v. 1525, p. 125 didascalie, p. 126 didascalie, p. 180, p. 182 didascalie, p. 182, p. 183 didascaliesPaïs : n.m.On l'ecrit ordinairement Pays, plus pour l'ornement de l'écriture, que pour marquer qu'il est de deux syllabes ; et se dit des diverses regions, provinces et contrées de l'univers. FV. 31, 164, 183, 219, 1405Peché : n.m.Contravention aux commandements de Dieu. FV. 387, 392, 2051Pensée : n.f.Tout ce qui vient dans l'esprit, dans l'imagination, dans la mémoire, reflexion, délibération qu'on fait dans son esprit. FV. 121, 237, 273, 388, 613, 1091, 1162, lettre, 1467Penser : n.m.Pensée. FV. 19, 1381Poinct : n.m. Se prend aussi pour instant, moment, temps précis dans lequel on fait quelque chose.V. 139, p. 33 didascalie, 633, 1655, 2211Se dit aussi de l'état où sont la santé et les affaires d'un homme.V. 758, 1123Se dit aussi de ce qu'il y a de principal dans une affaire, dans une question, dans une difficulté. CV. 109, 189, 777, 904, 1020, 1292, 1792, 2340Poison : n.m.Ce qui a une si mauvaise qualité, qu'elle nuit au corps, ce qui le tuë.V. 120, 702, 1222, 1496, 1576Se dit figurément en choses spirituelles et morales. FV. 28, 702, 1222, 1496Raison : n.f.Explication d'un fait obscur, étonnant, etc. Se dit aussi de l'éclaircissement de quelque doute.V. 27, 746Choses raisonnable, convenable, suffisante, acceptable, se prend aussi pour tout ce qui est le devoir, de droit, d'équité, de justice. CV. 104, 119, 893, 1259, 1398, 1815, 1852, 1854, 1945Ressort : n.m.Moyen secret, sans nuance défavorable, ressource cachée, se dit encore des causes inconnues par lesquelles la nature agit.V. 107Moyen secret, avec nuance défavorable, machination, intrigue, se dit figurément en choses spirituelles te morales. CV. 864Secrét : n.m.Endroit secret, retiré, retraite, isolement, solitude.V. 195Partie secrète, fond, intimité.Choses secrètes, entretien particulier, tête-à-tête.V. 115, 137, 143, 234, 303, 864, 1012, 1056, 1217, 1591, 1657, 2213Qualité de l'homme secret, discrétion. CV. 805Secret : adj.Discret.V. 211, 916, 1495, 1891, 2152Se dit des personnes qui savent se taire et tenir une chose secrète. CSoin : n.m.Attention, application, attachement à une chose, sollicitude pour une personne, sans aucune idée d'effort et pénible ni d'inquiétude morale. Il se dit en ce sens au pluriel des attention, égards, marques d'attachement, etc., qu'on a pour une personne dans les relations d'intérêt ou d'amitié. Il se dit spécialement des assiduités, des hommages galants rendus à une personne que l'on aime.V. 89, 114, 523, 553, 1280, 1642, 2106, 2177Effort, peine, pour obtenir ou conserver une chose, tracas, charge, lourd devoir, précaution.V. 409, 2014Préoccupation, se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme. Il se dit spécialement dans le langage galant, des soucis d'amour, des inquiétudes de cœur. CV. 918Sort : n.m.Hasard, ce qui arrive fortuitement, par une cause inconnuë, et qui n'est pas reglée ni certaine.V. 55, 81, 399, 438, 448, 455, 463, 541, 560, 694, 870, 1036, 1148, 1197, 1220, 1688, 2240Se dit poëtiquement de la vie et de la fortune des hommes. FV. 47, 93, 172, 872, 1487, 1501, 1581, 1843Tirer : vb.Intransitif, Se tirer : se retirer, s'en aller, sortir, partir.V. 195, 240, 1122, 1548, 1851Se mettre en dehors, au-dessus, échapper.V. 1563Transitif, se diriger, tendre tout droit à, vers, etc., signifie aller, s'acheminer, et alors il est neutre, retirer, sortir. CV. 500, 542, 549, 754, p. 57 didascalie, 782, 843, 867, 1129, 1172, 1248, 1617, 1643, 1644, p. 144 didascalie, 1889, 2072, 2213Titre : n.m.Nom de dignité, ou de Seigneurie, qu'on donne aux personnes.V. 1066Se dit aussi du droit qu'on a de posseder quelque chose. FV. 146, 942Tourment : n.m.Se dit figurément en Morale, des peines et chagrins qu'on se donne soy-mesme, ou les uns aux autres. FV. 12, 667, 756, 813, 884, 994, 1100, 1354, 1708, 1812, 2123, 2208, 2372Trait : n.m.Se dit figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour.V. 94, 324, 367, 396, 567, 678, 912, 1075, 1097, 1204, 1225, 1329, 1881, 2103, 2124Se dit aussi des diverses parties et configurations du visage.V. 362Se dit aussi en quelques supplices, coups. FV. 438Trame : n.f.Se dit d'un complot secret, d'une trahison, d'une conjuration. FV. 202, 493, 1338, 1561Travail : n.m.Labeur, peine, fatigue du corps, danger, entreprise périlleuse.V. 1, 1471, 1994, 2366Il se dit au pluriel des actions, de la vie d'une personne, et particulièrement des gens héroïques.V. 409, 1647Peine de l'esprit : souffrance, épreuve, tourment.CV. 603, 989, 1192, 1245, 2344Traverse : n.f.Accident, contrariété, épreuve, affliction.V. 38A la traverse : se dit de ce qui survient inopinément, et en apportant quelque obstacle. CV. 165Tyran : n.m.Se dit aussi figurément en Morale, des désirs violents, du désordre de nos passions. FV. 131, 483, 557Vain : adj.Vide en parlant des choses. Il se dit surtout au figuré, de ce qui n'est qu'en apparence, qui trompe les yeux, n'a aucun fondement, ne repose sur rien. CV. 98, 268, 398, 425, 569, 651, 839, 855, 1072, 1154, 1189, 1206, 1207, 1284, 1418, 1464, 1553, 1685, 1691, 1776, 1831, 2115, 2248Valeur : n.f.Grandeur de courage, ardeur belliqueuse. FV. 111, 134, 299, 344, 1150, 1185, 1474, 1531, 1605, 2319Vertu : n.f.Energie, force, vigueur, tant du corps que de l'âme. Il se dit en particulier de l'énergie guerrière, du courage, de la vaillance.V. 74, 724, 1248, 1485, 1758, 1962, 2051Il se dit aussi de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite.V. 84, 894, 1094, 1116, lettre, 1887Il se dit au pluriel de toutes les qualités, entrant dans la composition de cette valeur morale, de ce mérite. CV. 797, 822, 1338, 1660, 1682, 2051Vœu : n.m.Promesse qu'on fait à Dieu, ou à quelque Saint ou Sainte de faire certaine chose.V. 2097, 2285Désir ardent, souhait.V. 136, 257, 281, 631, 859, 935, 1065, 1296, 1375, 1591, 1639, 1972, 2070, 2084, 2153, 2158, 2264, 2269Ce mot se dit en parlant d'amour, et signifie hommage. RV. 869, 979, 1728
+C : G. Cayrou,* Dictionnaire du français classique. « La langue du XVII*e* siècle »*, 2000.Avis : n.m.Réflexion, conseil.V. 287Nouvelles de ce qui se passe. FV. 1615Abord : n.m.Approche, arrivée. CV. 171, 1476Appas : n.m.Amorce, charme, ce qu'on emploie pour gagner ou pour attraper quelqu'un. C V. 112, 328, 578, 1325Appel : n.m.Cri qui se fait en la montre ou reveuë des troupes, lors qu'on veut connoistre ceux qui sont presents, ou qu'il les faut payer.V. 68Deffi ou provocation qu'on fait à quelqu'un pour se battre en duel. FV. 762, 782, 1024Artifice : n.m.Ruse, déguisement, fraude. CV. 114, 1018, 1170Avanture : n.f.Accident, ce qui arrive inopinément en bien ou en mal.V. 5, 554, 726Hasard, il se dit en particulier d'une bonne chance, d'une heureuse rencontre. CV. 554, 1031Bien : n.m.Au singulier, se prend pour bonheur, état heureux, joie, impression douce et agréable ;V. 6, 38, 103, 180, 237, 1069, 1206, l. 38, 1262, 1297, 1304, 1363, 1386, 1494, 1662, 1711, 2013, 2123, 2146, 2220, 2288, 2350Honneur, avantage, chance ;V. 114, 193, 841, 1037, 1113, 1279, 1884Richesse, fortune.V. 83, 248, 452, 524, 675, 1181, 1288, 1601, 1690, 1756, 1969, 2070, 2179Au pluriel, bonnes actions, bons offices, bienfaits, services ;V. 155Mérites, qualités.V. 2240Adv. Beaucoup, parfaitement ;V. 104, 194, 245, 314, 337, 366, 368, 410, 503, 582, 608, 677, 755, 786, 827, 844, 851, 855, 858, 873, 1318, 1373, 1495, 1531, 1596, 1636, 1790, 1819, 1894, 2015, 2169Prochainement.V. 132, 1451, 1619Malgré.V. 322, 1286, 1855Sinon, alors. CV. 777, 1105, 1778, 1939Blesser : vb.Frapper, toucher profondément, en matière d'amour, il est du style poétique, il se dit d'ailleurs avec ce sens très fort de tous les sentiments vifs ou tristes dont un homme peut être atteint. CV. 368, 817Cartel : n.m.Petit contenant un défi pour se battre, le lieu, la manière, le sujet, le jour et l'heure du combat. RV. 69, 284, 287, 675, 693, cartel de Dorame à Lucidor, 732, réponse au cartel, didascalie p. 79Cercher : vb.Chercher.V. 51, 111, 135, 589, 608, 784, 1033, 1079, 1241, 1268, 1319, 1429, 1639, 1911, 2050Charmant : adj.Qui plaist extraordinairement, qui ravit en admiration. FV. 59, 2216Charme : n.m.Signifie figurément attrait, appât, qui plaît extrêmement, qui touche sensiblement. CV. 402, 714, 824, 912, 1419, 1980, 2172, 2322Conjurer : vb.Se lier par serment avec d'autres ; se liguer. CV. 87, 1942Coup : n.m.Heurt, atteinte violenteV. 187, 283, 336, 338, 366, 375, 546, 547, 551, 592, 789, 801, 814, 925, 1084, 1132, 1272, 1344, 1443, 1537, 1545, 1634, 1651, 1697, 1706, 1715, 1747, 1751, 1762, 1791, 1796, p. 155 didascalie, 1879, 1901, 1919, 1948, 1983, 1991Acte frappant, imprévu, se dit aussi des actions héroïques, hardies et extraordinaires, soit en bien, soit en mal.V. 749, 1027, 1070, 1238, 1261, 1619, 1735, 2185Cette fois, pour cette fois, fois. C V. 1443, 1475, p. 124 didascalie, 1587, 1966, 2204Courage : n.m.Cœur, comme siège du sentiment ; passion, mouvement.V. 330, lettre, 1243, 1400Cœur, comme siège de la volonté ; affection, ardeur, zèle, sans idée de fermeté à braver le péril, la souffrance. C V. 86, 118, 133, 302, 517, 651, 718, 766, 903, 1061, 1072, 1078, 1156, 1310, 1314, 1483, 1877, 1889, 2356Couvert : adj.Dissimulé, caché. CV. 73, 116, 269, p. 21 didascalieCruel : adj.Qui ne respond pas bien aux cageolleries qu'on luy fait. FV. 23, 529, 697, 983, 1204, 1276, 1814Decevoir : vb.Tromper, sans idée de douce illusion détruite. CV. 67, 443Dessein : n.m.Détermination, décision, entreprise, résolution, conception, plan. CV. 51, 207, 214, 220, 230, 237, 319, 403, 591, 607, 621, 680, 1009, p. 78 didascalie, 1049, 1052, 1202, 1320, 1404, 1462, 1561, 1575, 1709, 1739, 1842, 1848, 2086, 2189, 2261, 2272Domter : vb.Subjuguer, se rendre maistre.V. 1147, 2323Il se dit figurément en Morale de l'esprit, des passions. FV. 17Don : n.m.Present, gratification.V. 80, 1696, 1771, 1970, 2047, 2072Se dit figurément des choses spirituelles.V. 1771, 1970, 2047, 2072Don mutuel : en terme de palais, est un don autorisé par les coustumes, que se font les conjoints par mariage de l'usufruit de tous leurs biens reciproquement pour en jouïr par celuy qui survivra sa vie durant. FV. 2285Douleur : n.f.Sentiment triste et fascheux qui blesse quelque partie du corps, et est ennemi de la nature.V. 435, 1529, 1584, 1719Se dit aussi des passions de l'ame, affliction d'esprit. FV. 16, 370, 468, 509, 533, 676, 790, 1209, 1307, 1351, 1355, 1742, 1827, 2176Droict : adj. n.m.Titre qu'on a pour posseder quelque chose ou y pretendre.V. 146, 185A bon droit : adverbial, pour dire avec raison, avec juste cause.V. 950, 1152Ce qui est juste, raisonnable, qui est établi par les loix, qui rend à chacun ce qui luy appartient. FV. 1104Ecu : n.m.Bouclier long, ovale et fait de cuir ou d'acier, que les Chevaliers et les hommes d'armes portoient lors qu'il combatoient. R P. 1 didascalie, p. 4 didascalie, v. 380, 404, p. 26 didascalie, p. 27 didascalie, 419, p. 30 didascalie, p. 33 didascalie, v. 488, p. 84 didascalieEffect : n.m.Acte, réalisation, manifestation, exécution de quelque chose.V. 46, 223, 233, 569, 618, 666, 794, 1224, l. 24, 1283, 1381, 1441, 1446, 1502, 1736, 1922, 2085, 2098, 2118, 2289, 2352En effet : En réalité, réellement.V. 372, 585, 744, 901, 1200, 1736, 1859Avoir réel, valeurs effectives, effet, et plus ordinairement effets au pluriel, se dit des biens des personnes. CV. 6, 388Effort : n.m.Action énergique ; effet puissant, violent, tout ouvrage produit par une action où on s'est éfforcé de faire tout ce qu'on pouvait. CV. 145, 188, 211, 299, 583, 856, 1200, lettre, 1548, 1569, 1619, 1643, 1663, 1916, 2039Emouvoir : vb.Exciter en parlant de choses morales. Exciter quelque mouvement, quelque passion dans le cœur, faire naître la colère, la joie, la tristesse, l'inquiétude, etc., aussi bien que la frayeur ou la pitié. CV. 83, 913, 977Escuyer : n.m.Ceux qui ont le soin, le gouvernement des chevaux du Roi, d'un Prince, d'un grand seigneur. CActeurs, p. 6 liste des personnagesEsprit : n.m.Au singulier, soufle, âme, au sens matériel ; dernier soupir.V. 344, 640, 1538Principe de nos idée, intelligence, inspiration, talent. Ce sens est très général, et il n'indique spécialement ni la vivacité piquante de l'intelligence, ni l'enjouement facétieux.V. 188, 192, 273, 836, 1191, 1683Principe de nos sentiment, cœur, sentiment.V. 113, 205, 509, 597, 804, 872, 1284, 1377, 1584, 1587, p. 141 didascalie, 1808, 1855, 1998, 2149Désir, dessein, intention.V. 1244Vie, énergie intellectuelle, intelligence, esprit.V. 1172Vie, énergie morale, sentiment, cœur, âme.CV. 19, 2078, 2087, 2337Esquiver : vb.Se sauver avec legereté et promptitude. FV. 64, 1045Estat : n.m.Royaume, Provinces ou estenduë de pays qui sont sous une même domination.V. 147, 940, 1188, 1425, 1565Signifie aussi la qualité, la nature et la constitution presente de quelque chose. FV. 447, 1665, 1725, 1739, 1899Etrange : adj.Ce qui n'est pas domestique, connu, ou fort familier.V. 273Hors des conditions où l'on vit habituellement, extraordinaire. Il se dit en particulier des malheurs extraordinaires, terribles, épouvantables. CV. 29, 357, 1057, 1126, 2194Faveur : n.f.Grâce qu'on fait à quelqu'un, bon office qu'on luy rend.V. 61, 83, 433, 823, 843, 1331, 1602, 1984, 2274, 2288Bienveillance d'un puissant, d'un supérieur, le crédit qu'on a sur son esprit.V. 107, 160, 173, 286, 819, 1164, 1181, 1472Approbation, estime.Se dit ordinairement en amour de ce qu'un maistresse accorde à celuy qu'elle aime.V. 947, 1110, lettre, 1349, 1676, 1747, 2044, 2050, 2142Adverbial, en faveur : en considération, à l'advantage. F P. 195 didascalieFeinte/Fainte : n.f.Desguisement, apparence, dissimulation, coup destiner à tromper. FV. 112, 200, 227, 271, 585, 866, 1170, 1737Fer : n.m.Se dit absolument d'une espée, et des armes.V. 334, 1136, 1328, 1464, 1515, 1740, 1920On appelle aussi absolument fers, les chaisnes, carcans et menottes qui servent à retenir les prisonniers et les esclaves.V. 1192, 1464, 2168En ce sens, il signifie figurément, esclavage, et se dit particulièrement en matiere d'amour. FV. 604, 927, 1121, 2345Feu : n.m.Se dit figurément en choses spirituelles et morales de la vivacité de l'esprit, de l'ardeur des passions.V. 320, 401, 563, 594, 632, 715, 876, 877, 891, 912, 917, 1400, 1418, 1492, 1564, 1750, 1852, 2017, 2159, 2214, 2232, 2256, 2289, 2307Feux de joye : feux d'artifices. FV. 2275Fidélité : n.f.Entretien des serments qu'on a faits, des paroles qu'on a données. FV. 302, 1199Fidelle : adj.Véritable. FV. 297, 803, 1645Force : n.f.Vigueur, santé du corps qui luy donne les moyens de porter de grands fardeaux, ou d'abatre et de renverser ce qui luy resiste.V. 125, 130, 885, 1124, 1245, 1397, 1482Necessité, contrainte.V. 793, 865, 1022, 1891, 2152Vertu, faculté naturelle de faire quelque chose.V. 826, 1964, 1995, 2258Se dit en morale d'une des quatre vertus cardinales, qui consiste en une grandeur d'ame et de courage qui donne la constance pour supporter les afflictions, ou l'audace pour entreprendre de grandes choses. Les especes de force sont la magnanimité, la mansuetude, la clemence, et la patience.V. 703, 815, 894Force ou à force, adverbial : beaucoup, d'une maniere abondante.V. 878, 909A la force : à l'aide, au secours. FV. 261Forcer : vb.Faire force à quelque chose, vaincre, dompter un sentiment, triompher d'une résistance morale. Contraindre, violenter.V. 405, 585, 787, 883, 1466Il se dit aussi d'une personne dont on fait fléchir le courage, dont on vient à bout moralement. CV. 149Fortune : n.f.Cas fortuit, hasard.V. 2244, 2362Destinée, ensemble de tout ce qui peut arriver de bien ou de mal à un homme, ce à quoi il est voué par le sort.V. 161, 1447, 2219Situation, élevée ou non, où l'on se trouve placé, condition où l'on est, sort, lot, obtenu en partage.V. 177Elévation, se prend aussi pour l'avancement et l'établissement dans les biens, dans les charges, dans les honneurs.C V. 109, 1187, 1471Foy : n.f.Confiance que l'on accorde aux personnes et aux choses, signifie aussi créance.V. 821, 1713, 1769, 1776, 2006, 2018Ce qui, dans les personnes, inspire confiance, assurance donnée par une personne, engagement, parole qu'on donne d'accomplir une chose, promesse de faire et d'accomplir quelque chose.V. 2006Fidélité à un engagement donné, honneur, conscience, sincérité, loyauté d'une personne.V. 99, 311, 340, 890, 972, 977, 1002, 1061, 1219, lettre, 1339, 1364, 1409, 1469, 1595, 1783, 1845, 1976, 1979, 2012, 2283, 2347Ce qui, dans les choses, inspire confiance, témoignage constitué par une chose, preuve, garantie. CV. 693Franchise : n.f.Sincérité tant en ses paroles qu'en ses actions. FV. 77, 1693Gage : n.m.Se dit aussi des témoignages ou assurances d'amitié. FV. 1602, 1673, 1685, 1992, 2283Gloire : n.f.Considération, honneur… estime, réputation qui procède du mérite d'une personne, sans idée éclatante célébrité.V. 294, 346, 353, 522, 698, 734, 1067, 1159, lettre, 1353, 1757, 1898Il se prend aussi quelque fois, en un sens plus matériel, pour l'éclat, la splendeur que donnent la grandeur, la puissance, etc. CV. 316, 378, 1163, 1413, 2125, 2215Glorieux : adj.Celuy qui a acquis de la gloire par son merite, par son sçavoir, par sa vertu, ou de ce qui donne de la gloire. FV. 136, lettre, 1412, 1603, 2124, 2245Grace : n.f.Faveur qu'un Superieur fait à un inferieur sans qu'il l'ait meritée.V. 106, 153, 1195, 1579, 1970, 1976, 2272Se dit des faveurs des Princes.V. 504, 846, 934, lettre, 1768Signifie aussi remerciement, et se dit le plus souvent au pluriel.V. 206, 932, 2354Signifie aussi la bonne mine d'une personne, ses manières d'agir, de parler, de s'habiller qui plaisent aux autres. Plaisirs.V. 190, 328, 575, 911, 2024, 2053, 2072De grâce, adverbial : par faveur, par pitié, par courtoisie. FV. 1006Hazard : n.m.Cas fortuit, ce qui arrive sans cause apparente ou necessaire.V. 216, 248, 471, 1037Signifie aussi, peril, danger. FV. 133, 323Hazarder : vb.Risquer, mettre au hasard.V. 286Mettre en péril. FV. 1927Homicide : n.m.Meurtrier.V. 978, 1203, 1710Se met parfois en poësie adjectivement et sert d'epithete. FV. 12, 788, 810Honneur : n.m.Tesmoignage d'estime ou de soûmission qu'on rend à quelqu'un par ses paroles ou ses actions.V. 75, 304, 310, 1063, 1161S'applique plus particulierement à deux fortes vertus, à la vaillance pour les hommes, et à la chasteté pour les femmes.V. 292, 340, 351, 523, 741, 761, 1546, 1683, 1916Se dit aussi de la chose qui honore, qui donne de la gloire. FV. 1063, 1068, 1074, 1107, lettre, 2074, 2260Honorable : adj.Qui est digne qu'on luy fasse de l'honneur, qu'on le respecte, qu'on le louë. FV. 309, 1070Honteux : adj.Qui a de la honte.V. 329, 2021Se dit aussi de ce qui manque de hardiesse.V. 1156Infamant. FV. 294, 309, 1670, 1791, 1901Image : n.f.Représentations artificielles que font les hommes, soit en peinture, ou sculpture. FV. 2, 408, 425, 489, 742, 1782Infidele : adj. n.m ou f.Ce qui ne garde point la foy, qui n'execute point les choses qu'il a promises ou jurées. FV. 101, 317, 1270Ingrat : adj. n.m ou f.Celuy qui n'a point de reconnaissance des bienfaits qu'il a receus, des bons offices qu'on luy a rendus. Peu officieux, peu courtois. FV. 317, 355, 360, 527, 793, 957, 978, 1148, 1252, 1350, 1650, 1752, 1823, 2212Licence : n.f.Il se dit le plus souvent en mauvaise part d'une liberté trop grande, et signifie dans l'usage ordinaire du monde : déréglement dans les mœurs, dans les actions, dans les paroles et dans toute la conduite de la vie. CV. 266, 1451, 1681, 2021Loy : n.f.Commandement qui vient d'une authorité superieure, auquel un inferieur est contraint d'obeïr.V. 973, 2078, 2090, 2332, 2368Se dit aussi de la differente police des Etats et des peuples, des maximes dont ils sont convenus, ou qu'ils ont receuës de leurs Magistrats pour vivre en paix et en societé.V. 1607, 2332En pays Coustumier signifie la coustume locale, et les loix particulieres par lesquelles une ville est gouvernée.V. 1098Se dit aussi de certaines Regles et principes fondammentaux Escrits ou non Escrits pour le gouvernement de l'Estat.V. 183, 219, 2092Se dit aussi d'une obeïssance volontaire qui fait qu'on se soûmet aux volontez d'autrui. FV. 100, 176, 276, 529, 532, 692, 1022, 1679, 1860Merveille : n.f.Phénomène étrange, hors de l'ordre commun, chose rare, extraordinaire, surprenante, qu'on ne peut guères voir ni comprendre, digne d'étonnement plutôt que d'admiration.V. 357, 505Il se dit parfois au singulier, de l'étonnement même, de la surprise.V. 194, 1913, 2102Phénomène surnaturel, accompli par une divinité, miracle. CV. 2299Meurtrir : vb.Blesser, faire une contusion.V. 1274, 1627Object/Objét : n.m.Ce qui est opposé à notre vue, ou ce qui se représente à notre imagination, vue, spectacle, aspect.V. 4, 400, 1016, 1115, lettre, 1338, 1516, 1578, 1602, 1660, 1700, 2216, 2347Se dit aussi poétiquement des belles personnes qui donnent de l'amour. CV. 17, 36, 59, 361, 369, 580, 754, 900, 1455Obliger : vb.Lier, enchaîner par un serment, par un service, etc.V. 109, 152, 226, 539, 547, 792, 854, 1108, 1223, lettre, 1302, 1341, 1675, 1710, 2078, 2170, 2292Lier par un arrangement, engager, inviter, prier. Signifie aussi exciter, porter quelqu'un à faire quelque chose. Il indique une pression morale, mais exercée par persuasion, par promesse, aussi bien que par force ou menace.V. 40, 634, 717, 756, 863, 974, 1341, 1414, 1717, 1860, 2143Obliger…de : Faire le plaisir de, signifie plus généralement faire quelque faveur, civilité, courtoisie. CV. 56Office : n.m.Service qu'on fait, qu'on rend à quelqu'un.V. 113, 306, 785, 1019, 1346Devoir de la vie humaine, de la société civile, tâche, rôle, fonction, etc. CV. 1529Ouvert : adj.Figurément, sincère, qui ne dissimule rien, vivacité, facilité à comprendre les choses, découvert. FV. 115, 125, 1049, 2354Page : n.m.Enfant d'honneur qu'on met auprès des Princes et des Grands Seigneurs pour les servir avec leurs livrées, et en mesme temps y avoir une honneste education, et y apprendre leurs exercices. F V. 1499, p. 124 didascalie, v. 1525, p. 125 didascalie, p. 126 didascalie, p. 180, p. 182 didascalie, p. 182, p. 183 didascaliesPaïs : n.m.On l'ecrit ordinairement Pays, plus pour l'ornement de l'écriture, que pour marquer qu'il est de deux syllabes ; et se dit des diverses regions, provinces et contrées de l'univers. FV. 31, 164, 183, 219, 1405Peché : n.m.Contravention aux commandements de Dieu. FV. 387, 392, 2051Pensée : n.f.Tout ce qui vient dans l'esprit, dans l'imagination, dans la mémoire, reflexion, délibération qu'on fait dans son esprit. FV. 121, 237, 273, 388, 613, 1091, 1162, lettre, 1467Penser : n.m.Pensée. FV. 19, 1381Poinct : n.m. Se prend aussi pour instant, moment, temps précis dans lequel on fait quelque chose.V. 139, p. 33 didascalie, 633, 1655, 2211Se dit aussi de l'état où sont la santé et les affaires d'un homme.V. 758, 1123Se dit aussi de ce qu'il y a de principal dans une affaire, dans une question, dans une difficulté. CV. 109, 189, 777, 904, 1020, 1292, 1792, 2340Poison : n.m.Ce qui a une si mauvaise qualité, qu'elle nuit au corps, ce qui le tuë.V. 120, 702, 1222, 1496, 1576Se dit figurément en choses spirituelles et morales. FV. 28, 702, 1222, 1496Raison : n.f.Explication d'un fait obscur, étonnant, etc. Se dit aussi de l'éclaircissement de quelque doute.V. 27, 746Choses raisonnable, convenable, suffisante, acceptable, se prend aussi pour tout ce qui est le devoir, de droit, d'équité, de justice. CV. 104, 119, 893, 1259, 1398, 1815, 1852, 1854, 1945Ressort : n.m.Moyen secret, sans nuance défavorable, ressource cachée, se dit encore des causes inconnues par lesquelles la nature agit.V. 107Moyen secret, avec nuance défavorable, machination, intrigue, se dit figurément en choses spirituelles te morales. CV. 864Secrét : n.m.Endroit secret, retiré, retraite, isolement, solitude.V. 195Partie secrète, fond, intimité.Choses secrètes, entretien particulier, tête-à-tête.V. 115, 137, 143, 234, 303, 864, 1012, 1056, 1217, 1591, 1657, 2213Qualité de l'homme secret, discrétion. CV. 805Secret : adj.Discret.V. 211, 916, 1495, 1891, 2152Se dit des personnes qui savent se taire et tenir une chose secrète. CSoin : n.m.Attention, application, attachement à une chose, sollicitude pour une personne, sans aucune idée d'effort et pénible ni d'inquiétude morale. Il se dit en ce sens au pluriel des attention, égards, marques d'attachement, etc., qu'on a pour une personne dans les relations d'intérêt ou d'amitié. Il se dit spécialement des assiduités, des hommages galants rendus à une personne que l'on aime.V. 89, 114, 523, 553, 1280, 1642, 2106, 2177Effort, peine, pour obtenir ou conserver une chose, tracas, charge, lourd devoir, précaution.V. 409, 2014Préoccupation, se dit aussi des soucis, des inquiétudes qui émeuvent, qui troublent l'âme. Il se dit spécialement dans le langage galant, des soucis d'amour, des inquiétudes de cœur. CV. 918Sort : n.m.Hasard, ce qui arrive fortuitement, par une cause inconnuë, et qui n'est pas reglée ni certaine.V. 55, 81, 399, 438, 448, 455, 463, 541, 560, 694, 870, 1036, 1148, 1197, 1220, 1688, 2240Se dit poëtiquement de la vie et de la fortune des hommes. FV. 47, 93, 172, 872, 1487, 1501, 1581, 1843Tirer : vb.Intransitif, Se tirer : se retirer, s'en aller, sortir, partir.V. 195, 240, 1122, 1548, 1851Se mettre en dehors, au-dessus, échapper.V. 1563Transitif, se diriger, tendre tout droit à, vers, etc., signifie aller, s'acheminer, et alors il est neutre, retirer, sortir. CV. 500, 542, 549, 754, p. 57 didascalie, 782, 843, 867, 1129, 1172, 1248, 1617, 1643, 1644, p. 144 didascalie, 1889, 2072, 2213Titre : n.m.Nom de dignité, ou de Seigneurie, qu'on donne aux personnes.V. 1066Se dit aussi du droit qu'on a de posseder quelque chose. FV. 146, 942Tourment : n.m.Se dit figurément en Morale, des peines et chagrins qu'on se donne soy-mesme, ou les uns aux autres. FV. 12, 667, 756, 813, 884, 994, 1100, 1354, 1708, 1812, 2123, 2208, 2372Trait : n.m.Se dit figurément et poëtiquement des regards, et des blessures qu'ils font dans les cœurs, quand ils y inspirent de l'amour.V. 94, 324, 367, 396, 567, 678, 912, 1075, 1097, 1204, 1225, 1329, 1881, 2103, 2124Se dit aussi des diverses parties et configurations du visage.V. 362Se dit aussi en quelques supplices, coups. FV. 438Trame : n.f.Se dit d'un complot secret, d'une trahison, d'une conjuration. FV. 202, 493, 1338, 1561Travail : n.m.Labeur, peine, fatigue du corps, danger, entreprise périlleuse.V. 1, 1471, 1994, 2366Il se dit au pluriel des actions, de la vie d'une personne, et particulièrement des gens héroïques.V. 409, 1647Peine de l'esprit : souffrance, épreuve, tourment.CV. 603, 989, 1192, 1245, 2344Traverse : n.f.Accident, contrariété, épreuve, affliction.V. 38A la traverse : se dit de ce qui survient inopinément, et en apportant quelque obstacle. CV. 165Tyran : n.m.Se dit aussi figurément en Morale, des désirs violents, du désordre de nos passions. FV. 131, 483, 557Vain : adj.Vide en parlant des choses. Il se dit surtout au figuré, de ce qui n'est qu'en apparence, qui trompe les yeux, n'a aucun fondement, ne repose sur rien. CV. 98, 268, 398, 425, 569, 651, 839, 855, 1072, 1154, 1189, 1206, 1207, 1284, 1418, 1464, 1553, 1685, 1691, 1776, 1831, 2115, 2248Valeur : n.f.Grandeur de courage, ardeur belliqueuse. FV. 111, 134, 299, 344, 1150, 1185, 1474, 1531, 1605, 2319Vertu : n.f.Energie, force, vigueur, tant du corps que de l'âme. Il se dit en particulier de l'énergie guerrière, du courage, de la vaillance.V. 74, 724, 1248, 1485, 1758, 1962, 2051Il se dit aussi de la valeur morale d'une personne, de sa grandeur d'âme, de son mérite.V. 84, 894, 1094, 1116, lettre, 1887Il se dit au pluriel de toutes les qualités, entrant dans la composition de cette valeur morale, de ce mérite. CV. 797, 822, 1338, 1660, 1682, 2051Vœu : n.m.Promesse qu'on fait à Dieu, ou à quelque Saint ou Sainte de faire certaine chose.V. 2097, 2285Désir ardent, souhait.V. 136, 257, 281, 631, 859, 935, 1065, 1296, 1375, 1591, 1639, 1972, 2070, 2084, 2153, 2158, 2264, 2269Ce mot se dit en parlant d'amour, et signifie hommage. RV. 869, 979, 1728
 
 
 # Annexe 1 : François Colletet (le fils), La Muse coquette (1659), « Poeme Coquet de la Bouteille. »
@@ -5333,7 +5327,7 @@ A History of French Dramatic Literature in the seventeenth Century
 
 [82] Découvert.
 
-[83] Adoucir un poison,  ici il faut comprendre : laisser Dorame dans ses illusions.
+[83] Adoucir un poison, ici il faut comprendre : laisser Dorame dans ses illusions.
 
 [84] Ancien nom de Brousse en Turquie, ville de Bithynie ancienne.
 
@@ -5359,7 +5353,7 @@ A History of French Dramatic Literature in the seventeenth Century
 
 [95] Rendait l'art, l'artifice inutile.
 
-[96] Qui paye tribut à un Prince estranger pour conserver la paix avec luy, ou pour avoir sa protection. Ici il faut comprendre que si Lucidor épouse Olympe, la Thrace, pays dont Olympe sera reine,  sera sous le contrôle de la Perse dont Lucidor est le futur roi.
+[96] Qui paye tribut à un Prince estranger pour conserver la paix avec luy, ou pour avoir sa protection. Ici il faut comprendre que si Lucidor épouse Olympe, la Thrace, pays dont Olympe sera reine, sera sous le contrôle de la Perse dont Lucidor est le futur roi.
 
 [97] Surprenant.
 
@@ -5403,7 +5397,7 @@ A History of French Dramatic Literature in the seventeenth Century
 
 [117] Le pronom personnel « elle » renvoie à « nostre amour » (v. 314).
 
-[118] Mars (Arès en grec), fils détesté de Junon (Héra) et Jupiter (Zeus), est le dieu  de la guerre.
+[118] Mars (Arès en grec), fils détesté de Junon (Héra) et Jupiter (Zeus), est le dieu de la guerre.
 
 [119] Renvoie à « ces cheveux ».
 
@@ -5517,7 +5511,7 @@ A History of French Dramatic Literature in the seventeenth Century
 
 [174] Les Furies sont les gardiennes de la vie humaine, on en citait trois : Tisiphone, Mégère et Alecto, leur mission était de pourchasser et punir les pécheurs et on les appelait « celles qui marchent dans l'ombre » ; leur aspect était affreux, leur chevelure était entortillée de vipères et leurs yeux pleuraient des larmes de sang. Tant que le péché demeurerait dans le monde elles ne pourraient en être bannies. Ici on prendra ce mot au sens figuré de fureur, violentes actions du dehors.
 
-[175] Comprendre : Et que votre refus (celui d'Olympe) mette Dorame, pour qui je vous prie,  en furie ?
+[175] Comprendre : Et que votre refus (celui d'Olympe) mette Dorame, pour qui je vous prie, en furie ?
 
 [176] Ce vers est faux dans l'édition originale « Que je demeure seulement pour le voir », il y a probablement eu l'omission de « ici ».
 

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-201 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I01 *act_I *date_1705 *creator_montfleury
 
 -*who_zaire
 Entrez, je vais sçavoir⁎, si Celime est visible,
@@ -8,7 +8,7 @@ Elle est depuis huit jours dans un chagrin⁎ horrible⁎,
 Pour la bien divertir⁎, & faire vôtre cour⁎,
 Préparez-vous, dans peu je seray de retour.
 
-**** *book_ *id_body-202 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I02 *act_I *date_1705 *creator_montfleury
 
 -*who_julie
 Ah Carlos !
@@ -206,7 +206,7 @@ Ah !
 -*who_tomire
       Zaïre paroît, cachez-luy vôtre peine.
 
-**** *book_ *id_body-203 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I03 *act_I *date_1705 *creator_montfleury
 
 -*who_zaire
 Celime va passer dans la chambre prochaine⁎,
@@ -247,7 +247,7 @@ Et qu'avec moy quelqu'un voulût se marier,
 Je me garderois⁎ bien de me faire prier.
 Mais à propos, entrez, elle pourroit attendre.
 
-**** *book_ *id_body-204 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I04 *act_I *date_1705 *creator_montfleury
 
 -*who_zaire
 Fasse le juste Ciel qu'elle se puisse rendre
@@ -257,7 +257,7 @@ Quand il donne parole, il la tient sans reserve.
 Qu'a-t'elle à differer⁎, il faut que je l'observe,
 Pour sçavoir⁎… Elle vient, son chagrin⁎ me fait peur.
 
-**** *book_ *id_body-205 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I05 *act_I *date_1705 *creator_montfleury
 
 -*who_celime
 Ah ! qu'un nouvel amour met de trouble⁎ en un cœur⁎,
@@ -316,7 +316,7 @@ Qu'une Femme jamais pût si long-temps se taire ;
 Il faut les avertir, je vais prendre ce soin⁎,
 Ils vous réjoüiront, vous en avez besoin.
 
-**** *book_ *id_body-206 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I06 *act_I *date_1705 *creator_montfleury
 
 -*who_celime
 N'étoit ce pas assez du destin⁎ qui me brave⁎,
@@ -473,7 +473,7 @@ Vous me rendrez tantôt réponce. Adieu, Carlos.
 Elle aime cet Esclave ! Ah ! quelle extravagance⁎ !
 Mais il faut la rejoindre, & garder le silence.
 
-**** *book_ *id_body-207 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I07 *act_I *date_1705 *creator_montfleury
 
 -*who_carlos
 L'ay-je bien entenduë, ou me suis-je abusé,
@@ -484,7 +484,7 @@ Helas ! mille dangers m'allarment tour à tour,
 Je crains également sa haine & son amour.
 Je me pers, & n'osant resister ny me rendre…
 
-**** *book_ *id_body-208 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_I08 *act_I *date_1705 *creator_montfleury
 
 -*who_tomire
 Monsieur aprés cecy vous n'avez qu'à vous pendre.
@@ -591,7 +591,7 @@ Autrement…
       Vien, suis moy, Tomire, & ne crains rien.
 Fin du premier Acte.
 
-**** *book_ *id_body-301 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II01 *act_II *date_1705 *creator_montfleury
 
 -*who_brusquin
 Si Julie encore vous est chere,
@@ -724,7 +724,7 @@ Marine avecque moy n'est pas Fille à se taire,
 En la flattant⁎ un peu je puis être éclaircy
 De tout ce que je crains d'apprendre ; La voicy.
 
-**** *book_ *id_body-302 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II02 *act_II *date_1705 *creator_montfleury
 
 -*who_tomire
 Prens bien garde…
@@ -741,7 +741,7 @@ Je vous suis obligé, Serviteur.
 -*who_tomire
       Je vous quitte.
 
-**** *book_ *id_body-303 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II03 *act_II *date_1705 *creator_montfleury
 
 -*who_marine
 C'est luy-même, & d'abord⁎ je l'ay bien reconnu.
@@ -984,7 +984,7 @@ Va, je n'en diray rien, cecy me peut suffire.
 -*who_marine
 Fatiman vient, je sors…
 
-**** *book_ *id_body-304 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II04 *act_II *date_1705 *creator_montfleury
 
 -*who_brusquin
       Peste⁎ ! quel égrillard⁎ !
@@ -1112,7 +1112,7 @@ Allons voir si Celime est enfin résoluë
 A terminer l'Hymen⁎ qui me doit rendre heureux.
 La voicy.
 
-**** *book_ *id_body-305 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II05 *act_II *date_1705 *creator_montfleury
 
 -*who_fatiman
       Quel bonheur vous présente à mes yeux ?
@@ -1194,7 +1194,7 @@ Je puis…
 Vous verrez des transports⁎ que vous n'attendez pas,
 Adieu.
 
-**** *book_ *id_body-306 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II06 *act_II *date_1705 *creator_montfleury
 
 -*who_fatiman
       De mon amour la confiance fidelle,
@@ -1262,7 +1262,7 @@ Sera par ce service encor plus assurée.
 -*who_zaire
 Pour redevenir libre, allons trouver Carlos.
 
-**** *book_ *id_body-307 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II07 *act_II *date_1705 *creator_montfleury
 
 -*who_julie
 Zaire ?… Elle me fuit, tout nuit à mon repos⁎,
@@ -1308,7 +1308,7 @@ L'aimez-vous ?
       Moy ! Madame, ah ! plûtôt que j'expire
 A vos genoux…
 
-**** *book_ *id_body-308 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II08 *act_II *date_1705 *creator_montfleury
 
 -*who_brusquin
       Allons pour consommer cela…
@@ -1324,7 +1324,7 @@ Parlez, travaillez-vous tous deux pour nôtre honte.
 -*who_carlos
 Je ne suis pas icy pour vous en rendre compte.
 
-**** *book_ *id_body-309 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II09 *act_II *date_1705 *creator_montfleury
 
 -*who_brusquin
 Me voilà, quel accüeil ! Quoy sans sçavoir nâger,
@@ -1336,7 +1336,7 @@ Que vous voyez en moy vôtre Liberateur.
 -*who_julie
 Je ne puis voir en vous, que mon Persecuteur.
 
-**** *book_ *id_body-310 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_II10 *act_II *date_1705 *creator_montfleury
 
 -*who_brusquin
 Suis-je pas un grand Sot d'aimer cette Traîtresse ?
@@ -1345,7 +1345,7 @@ Et que le Diable épargne enfin si peu de fronts⁎,
 Hazard à mon marché, concluons⁎ & partons.
 Fin du second Acte.
 
-**** *book_ *id_body-401 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III01 *act_III *date_1705 *creator_montfleury
 
 -*who_stamorat
 D'un air⁎ brusque, augmenté par sa mélancolie,
@@ -1376,7 +1376,7 @@ Insulter, irriter son ardeur⁎ criminelle ;
 Toy, comme je l'ay dit, agis de ton côté,
 Sûre que mes bienfaits suivront ta liberté.
 
-**** *book_ *id_body-402 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III02 *act_III *date_1705 *creator_montfleury
 
 -*who_zaire
 Pour me voir libre, allons trouver… Elle s'avance.
@@ -1457,7 +1457,7 @@ Que je veux luy parler, & qu'il vienne.
       Tomire
 Viens, on veut te parler.
 
-**** *book_ *id_body-403 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III03 *act_III *date_1705 *creator_montfleury
 
 -*who_tomire
       J'allois chez Fatiman,
@@ -1661,7 +1661,7 @@ Non, laisse-moy ce soin⁎, & ne dis rien, Tomire.
 -*who_tomire
 Je me tairay, Madame, & vous n'avez qu'à dire.
 
-**** *book_ *id_body-404 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III04 *act_III *date_1705 *creator_montfleury
 
 -*who_celime
 M'estes-vous infidelle, & me tromperiez-vous,
@@ -1682,7 +1682,7 @@ Je retourne de prés les examiner⁎ mieux.
 Non, je n'en veux plus rien sçavoir⁎ que par mes yeux.
 Demeurez ; Mais qui vient me chagriner.
 
-**** *book_ *id_body-405 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III05 *act_III *date_1705 *creator_montfleury
 
 -*who_stamorat
       Madame,
@@ -1705,7 +1705,7 @@ Mais il craint toutefois que ce chant vous ennuye⁎.
 Non, non, j'ay des raisons pour m'y bien divertir⁎
 Si-tôt qu'il sera prêt, qu'on me fasse avertir.
 
-**** *book_ *id_body-406 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III06 *act_III *date_1705 *creator_montfleury
 
 -*who_stamorat
 Elle n'est pas sensible⁎ à l'Amour legitime.
@@ -1733,7 +1733,7 @@ Fais venir Dom Brusquin, qu'il vienne à l'Audience.
 Je vais pour obliger Julie, & Dom Carlos,
 Contraindre ce Magot⁎ de signer leur repos⁎.
 
-**** *book_ *id_body-407 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III07 *act_III *date_1705 *creator_montfleury
 
 -*who_brusquin
 Ça⁎, Seigneur Fatiman, concluons⁎ je vous prie,
@@ -1914,7 +1914,7 @@ Donner cent fois le jour les Turcs à tous les Diables.
 Il a beau se hâter, il n'ira pas bien loin.
 Suivez-le, Stamorat ; Allez, prenez-en soin.
 
-**** *book_ *id_body-408 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III08 *act_III *date_1705 *creator_montfleury
 
 -*who_celime
 Je ne voy rien encor préparé pour la Fête,
@@ -1926,7 +1926,7 @@ Et je ne vois encor Personne.
       Les voicy,
 Madame.
 
-**** *book_ *id_body-409 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III09 *act_III *date_1705 *creator_montfleury
 
 -*who_fatiman
       Qu'allez-vous, Carlos, nous faire entendre ?
@@ -2004,7 +2004,7 @@ Madame…
       Obéïssez, remplissez mes souhaits
 Ou bien résolvez-vous à ne me voir jamais.
 
-**** *book_ *id_body-410 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_III10 *act_III *date_1705 *creator_montfleury
 
 -*who_julie
 Seigneur de ses fureurs⁎ sauvez nôtre innocence.
@@ -2017,7 +2017,7 @@ Et toy cours la trouver, Zaïre, va luy dire
 Que je vais accomplir tout ce qu'elle desire.
 Fin du troisiéme Acte.
 
-**** *book_ *id_body-501 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV01 *act_IV *date_1705 *creator_montfleury
 
 -*who_celime
 Zaïre, je vous ay confié mon secret,
@@ -2086,7 +2086,7 @@ Il m'aime, j'en feray ce que j'en voudray faire.
 -*who_zaire
 Il vient.
 
-**** *book_ *id_body-502 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV02 *act_IV *date_1705 *creator_montfleury
 
 -*who_fatiman
       He bien, Madame, est-ce aujourd'huy le jour
@@ -2236,7 +2236,7 @@ Que son cœur⁎ à mes feux⁎ ne devienne sensible⁎.
 -*who_zaire
 Le voilà.
 
-**** *book_ *id_body-503 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV03 *act_IV *date_1705 *creator_montfleury
 
 -*who_celime
       Je le plains des maux qu'il a soufferts,
@@ -2265,7 +2265,7 @@ Fais, voyant ce que peut mon courroux⁎ dangereux,
 Ce qu'elle te dira, si tu veux vivre heureux.
 Adieu.
 
-**** *book_ *id_body-504 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV04 *act_IV *date_1705 *creator_montfleury
 
 -*who_carlos
       Ciel ! Je… Mais vous à ce qu'elle souhaite,
@@ -2309,7 +2309,7 @@ Qu'à la suivre déja tu l'as vû balancer⁎,
 Le reste me regarde, & je vais y penser.
 Nous… Qu'est-ce ?
 
-**** *book_ *id_body-505 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV05 *act_IV *date_1705 *creator_montfleury
 
 -*who_tomire
       Je venois, Seigneur, l'ame contente
@@ -2372,7 +2372,7 @@ Laisse-moy.
 -*who_tomire
       Le voilà plaisamment consterné.
 
-**** *book_ *id_body-506 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV06 *act_IV *date_1705 *creator_montfleury
 
 -*who_brusquin
 Hé bien ! me trouvez-vous suffisamment berné ?
@@ -2512,7 +2512,7 @@ Qui des Côtes d'Alger partiront les premieres.
 -*who_fatiman
 Justement. J'en sçauray tantôt le résultat.
 
-**** *book_ *id_body-507 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_IV07 *act_IV *date_1705 *creator_montfleury
 
 -*who_brusquin
 Ah ! Canaille maudite ! ah Traître ! moy Forçat⁎ !
@@ -2532,7 +2532,7 @@ Croyez-vous que mon cœur⁎ sans douleur souffrira ?
 Va, songe à te résoudre, & l'on te répondra.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-601 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V01 *act_V *date_1705 *creator_montfleury
 
 -*who_tomire
 Il faut attendre icy Celime à son passage.
@@ -2650,7 +2650,7 @@ Chut, Celime paroît
       Elle parle à Zaïre.
 Ecoutons, & songeons à ce qu'il nous faut dire.
 
-**** *book_ *id_body-602 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V02 *act_V *date_1705 *creator_montfleury
 
 -*who_celime
 Pour le départ, Zaïre, hé bien tout est-il prêt ?
@@ -2775,7 +2775,7 @@ Zaïre, en ce moment que mon ame⁎ est ravie⁎ !
 -*who_zaire
 Tout va bien.
 
-**** *book_ *id_body-603 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V03 *act_V *date_1705 *creator_montfleury
 
 -*who_fatiman
       Le voilà, que l'on le mette aux Fers.
@@ -2786,7 +2786,7 @@ Dans mon Appartement ? devant moy ?
 -*who_zaire
       Quels revers ?
 
-**** *book_ *id_body-604 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V04 *act_V *date_1705 *creator_montfleury
 
 -*who_celime
 Helas !
@@ -2901,7 +2901,7 @@ Mais étant innocent ; courez, qu'on le délivre.
 Ayant presque causé, moy-même, son trépas,
 J'y veux moy-même aller, & reviens sur mes pas.
 
-**** *book_ *id_body-605 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V05 *act_V *date_1705 *creator_montfleury
 
 -*who_fatiman
 Plus loin & plus long-tems peut-on pousser l'audace !
@@ -2911,7 +2911,7 @@ Et d'avance déja j'en goûte la douceur.
 Dom Brusquin vient, ses cris le font assez connoître.
 Ecoutons ses discours⁎, avant que de paroître.
 
-**** *book_ *id_body-606 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V06 *act_V *date_1705 *creator_montfleury
 
 -*who_brusquin
 Messieurs, que faites-vous, je suis prêt à signer,
@@ -2963,7 +2963,7 @@ Tenez, prenez cecy, pour vous donner courage.
 -*who_stamorat
 Attendez, je vay voir ; mais s'il vient, soyez sage.
 
-**** *book_ *id_body-607 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V07 *act_V *date_1705 *creator_montfleury
 
 -*who_brusquin
 Helas ! à mes dépens je connois, mais trop tard,
@@ -2975,7 +2975,7 @@ Qui rendroient grace⁎ au Ciel d'en être ainsi défaits !
 Quelqu'un vient, je crains fort, & je ne m'en puis taire,
 Que mon retardement ne m'ait fait quelque affaire.
 
-**** *book_ *id_body-608 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V08 *act_V *date_1705 *creator_montfleury
 .......................................................................
 
 -*who_brusquin
@@ -3057,7 +3057,7 @@ Ce qu'on exigera de mon obéïssance.
 -*who_fatiman
 Qu'on luy fasse signer tout ce qu'il me promet.
 
-**** *book_ *id_body-609 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V09 *act_V *date_1705 *creator_montfleury
 
 -*who_fatiman
 Venez remercier D. Brusquin, s'il vous plaît,
@@ -3100,7 +3100,7 @@ J'entens bien ; & pour prix d'une telle faveur⁎,
 Vous ne vous réservez que le droit du Seigneur,
 Mon front⁎ est à l'enchere, & ma Femme au pillage.
 
-**** *book_ *id_body-610 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V10 *act_V *date_1705 *creator_montfleury
 
 -*who_celime
 Il est temps désormais d'achever vôtre Ouvrage.
@@ -3144,7 +3144,7 @@ Qu'on l'ôte de ces lieux, elle blesse ma vûë.
 -*who_celime
 Ils blessent tous la mienne, allons, sortons d'icy.
 
-**** *book_ *id_body-611 *act_ *date_1705 *creator_montfleury
+**** *book_ *id_V11 *act_V *date_1705 *creator_montfleury
 
 -*who_carlos
 Seigneur en faveur…

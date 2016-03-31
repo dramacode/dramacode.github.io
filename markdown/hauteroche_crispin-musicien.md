@@ -13,8 +13,7 @@ Comédie
 Par le Sieur de HAUTEROCHE, Comedien de la seule Troupe Royale.
 
 A PARIS, Chez PIERRE PROMÉ, sur le Quay Des Grands Augustins, à la Charité. M. DC. LXXIV. *AVEC PERMISSION*.
-Édition critique établie par Cécile Gervais dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (2005).
+Édition critique établie par Cécile Gervais dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2005).
 
 
 # Commentaire critique
@@ -686,7 +685,7 @@ Si l'on doit juger d'une Comedie par sa rêüssite, j'ay lieu de croire que cell
 La Scène est à Paris, dans la Maison de Phélonte, & dans celle de Dorame.
 
 Le Premier Acte se passe dans l'Antichambre de Phêlonte, où d'abord il doit y avoir un Clavessin sur le costê du devant du Theatre ; & dans le fonds, des Sieges aux deux costez : Sur les uns il faut y voir un gros Manteau de campagne ; sur les autres un Chapeau sans plumes, les plumes sur un Siege pres celuy du Chapeau [156].
-
+ 
 
 
 ## ACTE PREMIER.
@@ -702,7 +701,7 @@ De nostre peu de soin, Monsieur est en courroux :
 Nous avons, sans mentir, beaucoup de nonchalance⁎.  
 Ils joüent l'Ouverture, & après La Ronce dit le dernier Vers, & s'en vont.
 
-Allons. Cela va bien ; mais plus de negligence.  
+Allons. Cela va bien ; mais plus de negligence.   
 
 
 ### SCENE II
@@ -731,7 +730,7 @@ LA RONCE, avec les six autres Laquais, tenant chacun un Violon, CRISPIN.
         Est-il jour là-dedans ? [158]  
 
     CRISPIN *répondant chagrinement⁎.*
-Oüy.  
+Oüy.   
 
     LA RONCE
         Personne aujourd'huy ne mange-t-il ceans ?  
@@ -772,7 +771,7 @@ Joüez, ne joüez pas, tout cela ne m'importe.
 Mais tréve aux questions [159] : Si tu m'en fais jamais…  
 
     LA RONCE
-Hé bien ?  
+Hé bien ?   
 
 
 ### SCENE IV
@@ -802,7 +801,7 @@ Je…
 Que vous…  
 
     PHELONTE *rentrant.*
-        J'entens ; Allez, ce sera pour tantost⁎.  
+        J'entens ; Allez, ce sera pour tantost⁎.   
 
 
 ### SCENE V
@@ -846,7 +845,7 @@ Apres qu'ils sont sortis, il continuë.
 On est dans ce Logis accablé de Musique :  
 Je n'y puis en repos resver à mon amour ;  
 Je n'entens qu'*E mi la*, qu'*F ut fa*, tout la jour,  
-Que *B mol, fugue, tierce*… [161] Ah, voicy la Parleuse.  
+Que *B mol, fugue, tierce*… [161] Ah, voicy la Parleuse.   
 
 
 ### SCENE VI
@@ -882,7 +881,7 @@ Et ne le sers-tu pas, toy ?
 
     FANCHON
         C'est une autre affaire ;  
-Ce que je fais pour luy, c'est par affection [162].  
+Ce que je fais pour luy, c'est par affection [162].   
 
     CRISPIN
 Je ne m'oppose point à la distinction ;  
@@ -926,7 +925,7 @@ Ou bien voir si la Tante…
     FANCHON
         Hom… Ta mélancolie⁎  
 A des égaremens⁎ qui vont à la folie ;  
-Prens garde à toy, Crispin.  
+Prens garde à toy, Crispin.   
 
     CRISPIN
         Oh parle tout ton soû :  
@@ -965,7 +964,7 @@ Et me laisse en repos ; autrement…
 
     FANCHON
         Eh Monsieur,  
-Songez…  
+Songez…   
 
     PHELONTE
         C'est un Esprit qu'il est bon de réduire,  
@@ -1017,7 +1016,7 @@ FANCHON prélude, La, la, la, la, &c.
 
     PHELONTE
         Non :  
-Allons, chante.  
+Allons, chante.   
 
     FANCHON *chante.*
 On passe en douceur la vie,  
@@ -1055,7 +1054,7 @@ Qui demande Fanchon.
         Je n'ose t'arrester⁎.  
 
     FANCHON
-Estes-vous content ?  
+Estes-vous content ?   
 
     PHELONTE
     Fort.  
@@ -1099,7 +1098,7 @@ Ils joüent tous ensemble la Chaconne, & ensuite il dit.
 Ce Clavessin : sortez.  
 
     CRISPIN *à part resvant.*
-        Amour, quel sort étrange !  
+        Amour, quel sort étrange !   
 
 
 ### SCENE 10
@@ -1187,7 +1186,7 @@ Je veux, pour le punir, te frotter comme un Diable,
 A grands coups redoublez le chasser de chez toy.  
 
     CRISPIN
-Hé Monsieur, de ce mal faut-il se prendre à moy ?  
+Hé Monsieur, de ce mal faut-il se prendre à moy ?   
 
     PHELONTE
 A qui donc, traistre, à qui veux-tu que je m'en prenne,  
@@ -1229,7 +1228,7 @@ Où diable a-t-il donc pris tout ce langage-là ?
 Les Amans parlent-ils autrement que cela ?  
 
     PHELONTE
-Il a pris ces grands mots dans quelque Comédie [175].  
+Il a pris ces grands mots dans quelque Comédie [175].   
 
     CRISPIN
 Il est vray, j'en ay leu plus de cent en ma vie ;  
@@ -1273,7 +1272,7 @@ Peut enfin…
         De mon cœur je viens toûjours à bout.  
 
     CRISPIN
-Mais il ne faut qu'un jour, Monsieur, pour payer tout.  
+Mais il ne faut qu'un jour, Monsieur, pour payer tout.   
 
     PHELONTE
 Je crains peu…  
@@ -1317,7 +1316,7 @@ Mais pour moy je suis pris, je sens qu'Amour m'opresse.
 Est-ce que tu prétens extravaguer⁎ sans cesse ?  
 
     CRISPIN
-Monsieur, l'Amour peut-il…  
+Monsieur, l'Amour peut-il…   
 
     PHELONTE
         Ecoute, si jamais  
@@ -1400,7 +1399,7 @@ Moy, j'aime comme il faut.
     Quel amour !  
 
     PHELONTE
-        Tres-commode.  
+        Tres-commode.   
 
     MELANTE
 Aimer en mille endroits…  
@@ -1443,7 +1442,7 @@ Quelle est cette Beauté ?
         Tu ne la connois pas.  
 
     PHELONTE
-Pour toy, que puis-je donc ?  
+Pour toy, que puis-je donc ?   
 
     MELANTE
         Elle vient de m'ecrire,  
@@ -1480,7 +1479,7 @@ Si le mien peut jamais trouver lieu d'éclater…
 Je pense qu'avec moy tu veux complimenter⁎ ?  
 L'amitié le défend, & s'en fait un outrage.  
 Il sort.
-
+ 
 
 
 ### SCENE 12
@@ -1520,7 +1519,7 @@ Elle est aimable⁎.
         Oüy ; mais j'ay grand soin de mon front.  
 
     PHELONTE
-Du costé de Fanchon, ton front n'a rien à craindre.  
+Du costé de Fanchon, ton front n'a rien à craindre.   
 
     CRISPIN
 Vous sçavez bien que si, Monsieur, que sert de feindre ?  
@@ -1611,7 +1610,7 @@ PHELONTE, CRISPIN, TOINON.
 Qui t'améne ? & que veut ta charmante Maîtresse ?  
 
     TOINON *masquée* [186].
-Vous me reconnoissez !  
+Vous me reconnoissez !   
 
     PHELONTE
     Vrayment…  
@@ -1657,7 +1656,7 @@ Ne me refusez point.
 Je vous suis inconnuë.  
 
     PHELONTE *voulant oster son Masque.*
-    Il n'importe.  
+    Il n'importe.   
 
     TOINON
         Ah tout-doux,  
@@ -1733,7 +1732,7 @@ De grace, charge-toy d'un Billet de ma part ;
 Mon cœur, par ce Billet, s'expliquera sans fard⁎.  
 
     TOINON
-J'ay l'ordre du contraire, il faut que j'obeïsse.  
+J'ay l'ordre du contraire, il faut que j'obeïsse.   
 
     PHELONTE
 Cet obstiné refus est rempli d'injustice.  
@@ -1777,7 +1776,7 @@ Car il est de luy-mesme à tel point entesté…
 
     TOINON
 S'il sçavoit qu'entre nous le tout est concerté,  
-Que tu viens en secret parler à ma Maistresse…  
+Que tu viens en secret parler à ma Maistresse…   
 
     CRISPIN
 Par où le deviner ? Il faut qu'avec adresse  
@@ -1821,7 +1820,7 @@ L'Amour qui se délecte à grapiller souvent,
 Ne trouve point son compte à se nourrir de vent.  
 
     TOINON
-Ton amour est gourmand ?  
+Ton amour est gourmand ?   
 
     CRISPIN
         Si gourmand qu'il puisse estre,  
@@ -1897,7 +1896,7 @@ Pourquoy ?
 A quoy bon…  
 
     PHELONTE
-    Suy, te dis-je, ou…  
+    Suy, te dis-je, ou…   
 
     CRISPIN
         Les Amans⁎ sont fous ;  
@@ -1915,7 +1914,7 @@ Redouble en moy l'ardeur de voir & de connoistre.
 Ne nous rebutons point, & laissant au Destin  
 A régler l'avanture, attendons-en la fin.  < Fin du Premier Acte. >
 Phélonte se retirant, ses six Laquais entrent par les deux costez du fonds du Theatre, & s'y estant rangez de face sur une mesme ligne, joüent un air pour discerner⁎ l'Acte. En suite on pousse deux Chassis qui les couvrent [190] : Ces Chassis, qu'on nomme Ferme, doivent representer la Salle de Dorame, de mesme que le reste du Theatre, dans laquelle se passe tout le Second Acte. Il faut qu'à cette Ferme il y ait deux Portes qui marquent deux Cabinets [191].
-
+ 
 
 
 ## ACTE II
@@ -1947,7 +1946,7 @@ Lise, vostre Cousine, est un modele à suivre.
     LISE
 Il est vray ; mais il faut pour la Religion,  
 Ressentir dans le cœur de la vocation ;  
-Je n'en sens point encor.  
+Je n'en sens point encor.   
 
     DORAME
         Que le Ciel te l'envoye !  
@@ -2028,7 +2027,7 @@ Que l'ame, en ce Lieu saint, est bien moins traversée [193],
 Qu'elle n'est au milieu de cent mille embarras  
 Dont chacun dans le monde est suivy pas à pas.  
 Retenez ce discours, profitez en, ma Fille,  
-Allez.  
+Allez.   
 
 
 ### SCENE II
@@ -2069,7 +2068,7 @@ Il leur manque… Toinon, je sçay ce qu'il leur faut.
 Il leur faut un Epoux, c'est le plus nécessaire.  
 
     DORAME
-Il leur faut… Je le sçay ; Ce n'est pas ton affaire.  
+Il leur faut… Je le sçay ; Ce n'est pas ton affaire.   
 
     TOINON
 Non ; mais c'est un Epoux dont chacune a besoin ;  
@@ -2151,7 +2150,7 @@ Seule.
 
 A luy parler raison, il faut que je renonce ;  
 En vain vous luy parlez, sans parler de son Fils ;  
-Hors cela, nos conseils sont rarement suivis…  
+Hors cela, nos conseils sont rarement suivis…   
 
 
 ### SCENE III
@@ -2186,7 +2185,7 @@ Mais c'est de vostre esprit dont Phélonte fait cas.
 Je vous ay déja dit ce qu'il m'a fait paraistre,  
 Que Crispin me suivoit par l'ordre de son Maistre,  
 Et que craignant Dorame, il attend pres d'icy  
-Que j'aille l'avertir… Madame, le voicy.  
+Que j'aille l'avertir… Madame, le voicy.   
 
 
 ### SCENE IV
@@ -2270,7 +2269,7 @@ DORAME, CRISPIN.
 Un Homme en mon Logis ! Qui l'y peut attirer ?  
 
     CRISPIN
-Mais dois-je croire… Ah Ciel ! que faire ? c'est Dorame.  
+Mais dois-je croire… Ah Ciel ! que faire ? c'est Dorame.   
 
     DORAME *à part.*
 Ma présence luy cause un peu de trouble en l'ame.  
@@ -2319,7 +2318,7 @@ Monsieur… Monsieur.
     CRISPIN
 Enfin je suis… suffit.  
 Il veut s'en aller.
-
+ 
 
     DORAME *l'arrestant.*
         Ce n'est pas là répondre,  
@@ -2363,7 +2362,7 @@ Ah bon.
 La raison ?  
 
     TOINON
-    C'est…  
+    C'est…   
 
     DORAME
     Quoy, c'est ?  
@@ -2410,7 +2409,7 @@ Voleur !
 
 La plûpart de ces Gens sont remplis de caprice.  
 Estre un Musicien ! Qui diable l'auroit dit,  
-A voir cette figure, & mesme son habit ?  
+A voir cette figure, & mesme son habit ?   
 
     TOINON
 Il est vray.  
@@ -2458,7 +2457,7 @@ DORAME, UN MUSICIEN.
 Monsieur.  
 
     DORAME
-    Que vous plaist-il ?  
+    Que vous plaist-il ?   
 
     LE MUSICIEN
         De la part d'Angélique,  
@@ -2548,7 +2547,7 @@ Fort-bien.
         Je sçay qu'il est force Musiciens,  
 Qu'avec juste raison on estime des riens :  
 Mais si j'en estois crû, dans l'état où nous sommes,  
-Les bons, à leur mépris, seroient faits Gentilhommes.  
+Les bons, à leur mépris, seroient faits Gentilhommes.   
 
     DORAME
 Quel besoin pour chanter de cette qualité !  
@@ -2637,7 +2636,7 @@ Que peu de nos Sçavans possede comme moy.
 Là, voyez.  
 
     CRISPIN *bas.*
-    Je voudrois te voir au Diable.  
+    Je voudrois te voir au Diable.   
 
     LE MUSICIEN
         Quoy ?  
@@ -2681,7 +2680,7 @@ Ce discours n'est pour moy qu'un galimatias.
 Tant-pis.  
 
     LE MUSICIEN
-    D'où vient ?  
+    D'où vient ?   
 
     CRISPIN
         Il faut manquer de connoissance,  
@@ -2735,7 +2734,7 @@ Vous estes plaisant !
 
     DORAME *au Musicien.*
         C'est un Maistre de Musique,  
-Envoyé de la part de Madame Angélique.  
+Envoyé de la part de Madame Angélique.   
 
     LE MUSICIEN
 Luy Maistre de Musique ! Ah c'est un imposteur.  
@@ -2784,7 +2783,7 @@ Ah ç'en est trop souffrir.
         Le Drôle en veut par là.  
 
     DORAME *au Musicien.*
-Arrestez.  
+Arrestez.   
 
     LE MUSICIEN
     Laissez-nous…  
@@ -2798,7 +2797,7 @@ Faquin⁎ !
     CRISPIN *de mesme.*
     Maraut⁎ !  
 
-    DORAME *entre-deux, qui voit tantost un siege  prest à tomber sur luy, & tantost l'autre.*
+    DORAME *entre-deux, qui voit tantost un siege prest à tomber sur luy, & tantost l'autre.*
         Ah, ah, ah, Messieurs, prenez garde ;  
 Sinon…  
 
@@ -2816,7 +2815,7 @@ Qu'on arreste, ou bien…
     Hom…  
 
     LE MUSICIEN
-        Tu m'échapes en vain.  
+        Tu m'échapes en vain.   
 
 
 ### SCENE IX
@@ -2860,7 +2859,7 @@ Je t'attens.
 Et…  
 Il s'en va.
 
-    Serviteur.  
+    Serviteur.   
 
 
 ### SCENE X
@@ -2897,7 +2896,7 @@ Mais…
     CRISPIN *s'en allant.*
         Va, je m'en tireray bien.  < Fin du Second Acte. >
 On tire la Ferme, & l'on voit les six Laquais de Phélonte qui discernent⁎ l'Acte, & en suite ils se retirent par les ailes du fonds. Le troisiéme Acte se passe dans l'Antichambre de Phélonte, comme le premier.
-
+ 
 
 
 ## ACTE III
@@ -2986,7 +2985,7 @@ Tu me l'as peinte aimable⁎ autant qu'on le peut estre.
 
     CRISPIN
 Je n'en juge qu'autant que je puis m'y connestre ;  
-Mais elle me plaist fort.  
+Mais elle me plaist fort.   
 
     PHELONTE
         Je brûle de la voir,  
@@ -3074,7 +3073,7 @@ Vous retirer apres, & n'y retourner plus.
 Non, allons.  
 
     CRISPIN
-        Je ne sçay ce qu'il faut que j'en croye.  
+        Je ne sçay ce qu'il faut que j'en croye.   
 
     PHELONTE
 D'où vient ?  
@@ -3118,7 +3117,7 @@ Ne me découvrez pas.
         Je m'en garderay bien,  
 Ce seroit tout gaster.  
 Crispin se cache le plus qu'il peut.
-
+ 
 
 
 ### SCENE III
@@ -3150,7 +3149,7 @@ J'ay fait un Opera, Monsieur, qui doit surprendre⁎,
 Et je viens tout exprés vous prier de l'entendre.  
 
     PHELONTE
-Volontiers.  
+Volontiers.   
 
     LE MUSICIEN
         Je m'en tais ; mais sans faire le vain…  
@@ -3198,7 +3197,7 @@ Que Chantre du Pont-neuf [219].
     LE MUSICIEN
 Quoy ! pouvez-vous souffrir cet Ignorant chez vous ?  
 Je vay le décrier dans tous les Lieux du Monde ;  
-Et ne souffriray point…  
+Et ne souffriray point…   
 
     PHELONTE
         Permettez qu'il réponde :  
@@ -3245,7 +3244,7 @@ J'ay d'abord aisément jugé du Personnage :
 N'est-ce pas affronter [222] la Musique ? Il est fou.  
 
     CRISPIN
-Prenez-vous par le nez.  
+Prenez-vous par le nez.   
 
     PHELONTE
         Mais de grace, par où  
@@ -3380,7 +3379,7 @@ PHELONTE, CRISPIN.
         Ma Maistresse le pique⁎ [225].  
 
     PHELONTE *riant.*
-Je te vois Gradué, peu s'en faut, en Musique.  
+Je te vois Gradué, peu s'en faut, en Musique.   
 
     CRISPIN
 Oüy, mais cette Musique attirera sur moy  
@@ -3461,7 +3460,7 @@ Vous sçavez que Plutarque… [227] 
 Plutarque, en cet endroit, n'est pas fort en sa place.  
 
     FANCHON
-Qu'est-il besoin aussy de citer cet Autheur ?  
+Qu'est-il besoin aussy de citer cet Autheur ?   
 
     BONIFACE
 De Monsieur vostre Frere estant le Précepteur,  
@@ -3500,7 +3499,7 @@ BONIFACE, FANCHON.
 
     FANCHON
 Peut-estre, avec le temps, qu'on pourra l'adoucir.  
-Pour son Frere, entre nous, il faut mieux le conduire.  
+Pour son Frere, entre nous, il faut mieux le conduire.   
 
     BONIFACE
 C'est un jeune Eventé⁎, que j'ay peine à réduire.  
@@ -3543,7 +3542,7 @@ Qui travaille sans cesse à l'augmentation :
 Vous ne mourrez jamais, si l'on ne vous assomme ;  
 Gras, dodu, l'humeur gaye ; Ah quel embonpoint d'Homme !  
 Un Malade, à vous voir, pourroit estre guery :  
-Où prenez-vous le glan dont vous estes nourry ?  
+Où prenez-vous le glan dont vous estes nourry ?   
 
     BONIFACE
 Eh je le prens, Fanchon, où vous prenez le vostre,  
@@ -3584,7 +3583,7 @@ Non.
     Avez-vous tout dit ?  
 
     FANCHON
-        Nous n'avons rien à dire.  
+        Nous n'avons rien à dire.   
 
     LA RONCE
 Si je suis importun, parlez, je me retire.  
@@ -3625,7 +3624,7 @@ FANCHON, LA RONCE.
 Et qui ?  
 
     LA RONCE
-    C'est vostre Maistre à chanter.  
+    C'est vostre Maistre à chanter.   
 
     FANCHON
         Qu'il attende.  
@@ -3713,7 +3712,7 @@ Le Bréton !
 Il demande Monsieur pour affaire pressante.  
 
     FANCHON
-Je sçay bien ce que c'est ; Dy-luy qu'il vienne icy.  
+Je sçay bien ce que c'est ; Dy-luy qu'il vienne icy.   
 
     LA RONCE
 Il a beu plus d'un coup.  
@@ -3754,7 +3753,7 @@ Je ne sçay.
     Tu ne sçais ?  
 
     FANCHON
-    Non.  
+    Non.   
 
     LE BRETON
         Il faut le chercher,  
@@ -3802,7 +3801,7 @@ Il est à jeun, voyez.
 Courage.  
 
     LA RONCE
-        Il n'a pas beu, c'est d'amour qu'il soûpire.  
+        Il n'a pas beu, c'est d'amour qu'il soûpire.   
 
     FANCHON
 Mais ton Maistre, dy-moy…  
@@ -3851,7 +3850,7 @@ On ne peut mieux dancer.
 Point.  
 
     LE BRETON *prend La Ronce par la main, & chante & dance le Passe-Pié.*
-    Le pied m'a glissé ; mais…  
+    Le pied m'a glissé ; mais…   
 
 
 ### SCENE XII
@@ -3891,7 +3890,7 @@ Mais il est bon Valet.
         Il a l'humeur boufonne.  
 
     MELANTE
-Phélonte est-il icy ?  
+Phélonte est-il icy ?   
 
     FANCHON
     Non.  
@@ -3926,7 +3925,7 @@ C'est dequoy le Fripon ne s'inquiéte guere,
 Il se rit des chagrins⁎ de ces Amans jaloux,  
 Et met toute sa joye à tromper un Epoux ;  
 Nous trouvons tout possible alors qu'il nous enflâme.  
-J'entens parler quelqu'un ; C'est Mélante & sa Dame.  
+J'entens parler quelqu'un ; C'est Mélante & sa Dame.   
 
 
 ### SCENE XIII
@@ -3968,7 +3967,7 @@ De ces bons sentimens je vous suis obligée.
 Fanchon a l'humeur franche, & de l'esprit enfin.  
 
     FANCHON
-Oh point. Vous plairoit-il de descendre au Jardin ?  
+Oh point. Vous plairoit-il de descendre au Jardin ?   
 
     LISE
 Volontiers, allons.  
@@ -3986,7 +3985,7 @@ Passe.
     FANCHON
         Puis qu'il vous plaist, je vais ouvrir la Porte.  < Fin du Troisiéme Acte. >
 Les six Laquais sortent comme au premier Acte ; & ayant joüé un Air, on pousse la Ferme, qui les fait disparoistre. Le quatriéme Acte se passe dans la Salle de Dorame, de mesme que le second.
-
+ 
 
 
 ## ACTE IV
@@ -4047,7 +4046,7 @@ Mon Maistre, de vous voir, brûle d'impatience,
 Madame ; il attend l'ordre à quatre pas d'icy.  
 
     TOINON
-Cours le faire entrer.  
+Cours le faire entrer.   
 
     DAPHNIS
     Non.  
@@ -4090,7 +4089,7 @@ Devrois-tu pas déja l'avoir averty ? Cours,
 Sans plus jaser.  
 
     CRISPIN *s'en allant.*
-    J'ay tort.  
+    J'ay tort.   
 
 
 ### SCENE III
@@ -4114,7 +4113,7 @@ Et nous eussions cherché…
 
     TOINON
         Le plutost vaut le mieux.  
-Il vient, songez à vous.  
+Il vient, songez à vous.   
 
 
 ### SCENE IV
@@ -4187,7 +4186,7 @@ Ce n'est pas en amour un secours fort utile ;
 Les Amans, quels qu'ils soient, ont tous le mesme stile ;  
 Et si chaque serment leur tenoit lieu d'effets,  
 Le Fourbe gagneroit sa Cause à peu de frais ;  
-Ce sont toûjours beaux mots, mais non pas sans reserve.  
+Ce sont toûjours beaux mots, mais non pas sans reserve.   
 
     PHELONTE
 C'est à tort…  
@@ -4359,7 +4358,7 @@ Oüy ; mais sçachons vers nous quel sujet vous appelle.
 
     ANASTASE
 Je viens trouver Monsieur de la part de son Fils,  
-Luy rendre cette Lettre.  
+Luy rendre cette Lettre.   
 
     DAPHNIS
         Il n'est pas au Logis ;  
@@ -4406,7 +4405,7 @@ Ne moralisez point, & nous quittez la place.
 
     ANASTASE
 Vous avez droit d'agir impérativement,  
-Je sors, & suis fâché…  
+Je sors, & suis fâché…   
 
     TOINON
         Trévé de compliment⁎,  
@@ -4440,7 +4439,7 @@ Comment est-il ?
     Fort bien, Monsieur.  
 
     DAPHNIS [246]
-        Toinon, que faire ?  
+        Toinon, que faire ?   
 
     TOINON
 Ne rien dire, & laisser raisonner vostre Pere.  
@@ -4483,7 +4482,7 @@ Si l'embarras échoit, comme [247] on s'en tirera.
 Oüy, Monsieur Anastase, avec plaisir j'espere  
 Venir, sans trop de peine, à bout de cette affaire,  
 Assurez-en mon Fils ; J'aime à voir que son cœur,  
-A de semblables soins, se porte avec ardeur.  
+A de semblables soins, se porte avec ardeur.   
 
     ANASTASE
 Au bien *Pedetentim* [248] toûjours je l'achemine,  
@@ -4524,7 +4523,7 @@ TOINON, ANASTASE, DAPHNIS.
 Que m'ordonnerez-vous ?  
 
     TOINON
-        De décamper ; Bon-soir.  
+        De décamper ; Bon-soir.   
 
     DAPHNIS
 A mon Frere, qu'il est trop longtemps sans me voir.  
@@ -4614,7 +4613,7 @@ Oyez-la raisonner.
 
     ANASTASE
         Comme je suis tout vostre,  
-Demain, puis que la Clef…  
+Demain, puis que la Clef…   
 
     DORAME
         J'en ay là-haut une autre,  
@@ -4657,7 +4656,7 @@ Tout-à-l'heure [251]. Avez-vous entendu cette fois ?
 Rien moins.  
 
     TOINON
-        Il vous attend ; montez là-haut, vous dis-je.  
+        Il vous attend ; montez là-haut, vous dis-je.   
 
     ANASTASE
 O trop fier rejetton d'une sauvage tige [252] !  
@@ -4682,7 +4681,7 @@ Tout va se découvrir.
     DORAME *ouvrant la porte.*
         Si… Mais que vois-je là ?  
 Crispin au dedans chante, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa, bis. & ils sortent en continuant.
-
+ 
 
 
 ### SCENE XII
@@ -4719,10 +4718,9 @@ Ne sçachant…
         Excusez, si j'ose avec franchise⁎,  
 Prendre une liberté que Monsieur autorise :  
 Comme il a commencé, c'est à luy jusqu'au bout,  
-A vous…  
+A vous…   
 
-    CRISPIN [254]
-
+    CRISPIN [254] 
         Les Gens d'honneur sont bien venus par tout,  
 Et Monsieur, qui sçait vivre, est Homme raisonnable,  
 Il excuse aisément…  
@@ -4772,10 +4770,9 @@ A Dor.
         *Fa, mi*…  
 
     CRISPIN
-Hardiment ; A quoy bon entonner à demy ?  
+Hardiment ; A quoy bon entonner à demy ?   
 
-    PHELONTE* chante, & Crispin bat la mesure.*
-
+    PHELONTE* chante, & Crispin bat la mesure.* 
 L'Amour cause trop de peine,  
 Je ne veux plus m'engager ;  
 Un Amant souffre la gesne⁎,  
@@ -4783,8 +4780,7 @@ Quand l'Objet⁎ vient à changer.
 L'Amour cause trop de peine,  
 Je ne veux plus m'engager.  
 
-    CRISPIN, *apres que Phêlonte a chanté, se retourne*
-            
+    CRISPIN, *apres que Phêlonte a chanté, se retourne* 
 devers Dorame, battant la mesure.
 
 *Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.* bis.
@@ -4819,7 +4815,7 @@ bas à Phélonte.
 
     Sortons.  
 Phélonte sort allant apres eux.
-
+ 
 
     DORAME
     Mais…  
@@ -4864,7 +4860,7 @@ DORAME, ANASTASE, TOINON.
 Ces Messieurs enfermez, vous mettent en soucy.  
 
     DORAME
-A te voir, tout cela ne t'inquiéte guére.  
+A te voir, tout cela ne t'inquiéte guére.   
 
     TOINON
 Ma foy, non.  
@@ -4911,7 +4907,7 @@ De connoistre le vray.
         Vous plaist-il de vous taire ?  
 
     ANASTASE
-Oh volontiers. D'ailleurs ce n'est pas mon affaire.  
+Oh volontiers. D'ailleurs ce n'est pas mon affaire.   
 
     DORAME
 Quoy ?  
@@ -5004,7 +5000,7 @@ Ce n'est rien d'enfermer deux Hommes sans façon [258] ?
 Le grand crime que c'est, d'écrire une Chanson !  
 
     DORAME
-Pour écrire, on n'a point sur soy la Porte close.  
+Pour écrire, on n'a point sur soy la Porte close.   
 
     TOINON
 Vous mériteriez bien que ce fut [259] autre chose.  
@@ -5053,7 +5049,7 @@ Ecoutez ce qu'il dit, &…
         Voudrois-tu te taire ?  
 
     TOINON
-Oüy, Monsieur.  
+Oüy, Monsieur.   
 
     DORAME *à Anastase.*
     Vous…  
@@ -5104,7 +5100,7 @@ le poursuivant.
 Eh Monsieur…  
 
     TOINON *de mesme.*
-    Eh Monsieur…  
+    Eh Monsieur…   
 
     DORAME
     Coquine…  
@@ -5143,7 +5139,7 @@ Laisse-moy, sors.
     ANASTASE *s'en allant.*
         Craignez un transport⁎ au cerveau.  < Fin du Quatriéme Acte. >
 On retire la Ferme, & les six Laquais paroissent qui joüent comme aux autres Actes, & se retirent par les deux costez du fonds. Ce cinquiéme Acte se passe dans l'Antichambre de Phêlonte.
-
+ 
 
 
 ## ACTE V
@@ -5258,7 +5254,7 @@ Voyons à cela pres, qu'est-ce ? que faut-il faire ?
 
     PHELONTE
 Porter à ce que j'aime [265] un Billet de ma part,  
-Luy demander pour moy…  
+Luy demander pour moy…   
 
     CRISPIN
         C'est bien dit ; au hazard,  
@@ -5291,7 +5287,7 @@ J'embarasse Daphnis, je ruine [267] l'affaire.
 
     CRISPIN
 Ecrivez, je voy bien qu'au péril de mon dos  
-Il faut marcher.  
+Il faut marcher.   
 
 
 ### SCENE II
@@ -5332,7 +5328,7 @@ Que je suis rentré ?
     PHELONTE
         Qu'on les laisse, il suffit :  
 J'entre en mon Cabinet un moment pour écrire ;  
-J'iray les voir apres.  
+J'iray les voir apres.   
 
     FANCHON
         Il faut encor vous dire,  
@@ -5369,7 +5365,7 @@ Mon Confrere en amour.
 
     FANCHON
         Quoy, Phelonte soûpire,  
-Il seroit amoureux !  
+Il seroit amoureux !   
 
     CRISPIN
         Il en tient d'aujourd'huy.  
@@ -5417,7 +5413,7 @@ Je t'aprendrois…
 
     CRISPIN
         Va-t-en aupres de ta Malade,  
-Ta voix la peut guerir, elle a besoin d'aubade.  
+Ta voix la peut guerir, elle a besoin d'aubade.   
 
     FANCHON
 C'est à dire qu'il faut que ta folie ait cours,  
@@ -5430,8 +5426,7 @@ Ce n'est pas ton affaire, adieu.
         Tu te courouces,  
 Bon-soir.  
 
-    CRISPIN *seul apres avoir resvé.*
-            
+    CRISPIN *seul apres avoir resvé.* 
         Amour, amour, quelles rudes secousses !  
 Laisse quelque moment mon cœur en repos. Non,  
 Tu veux qu'il aille & vienne. Ah Toinon ! ah Toinon !  
@@ -5460,7 +5455,7 @@ Que fait ton Maistre ?
 Qui dans son Cabinet broüille fort sa cervelle.  
 
     DAPHNIS
-Est-il seul ?  
+Est-il seul ?   
 
     CRISPIN
         S'il est seul ? Non, avec une Belle.  
@@ -5670,7 +5665,7 @@ Toinon a le goust bon.
         Pas trop méchant⁎ : mais Dieux !  
 
     DAPHNIS
-C'est mon Pere !  
+C'est mon Pere !   
 
     CRISPIN *à Daphnis.*
         Vers luy ne tournez point les yeux.  
@@ -5710,7 +5705,7 @@ Monsieur, vous voir icy ! quel sujet vous amene ?
 C'est Phélonte : Est-ce vous ?  
 
     PHELONTE
-    Oüy.  
+    Oüy.   
 
     DORAME
         Je veux vous parler :  
@@ -5757,7 +5752,7 @@ Laissez vos petits Airs.
 Joly : Si vous voulez…  
 
     DORAME
-        Je n'ay rien à vouloir.  
+        Je n'ay rien à vouloir.   
 
     CRISPIN
 On court de toutes parts apres moy pour l'avoir.  
@@ -5805,7 +5800,7 @@ Oüy, si grand, que…
     CRISPIN
         Monsieur, c'est trop vous emporter ;  
 Nous sommes Gens publics [273], chez qui chacun, sans honte,  
-Vient comme bon luy semble.  
+Vient comme bon luy semble.   
 
     DORAME
         Et ce n'est pas mon compte ;  
@@ -5854,7 +5849,7 @@ Entendons ce Concert.
 Mes Chanteurs sont là-haut, qui repétent ensemble,  
 Je vay les amener.  
 Il va parler à l'oreille de Phélonte.
-
+ 
 
     DAPHNIS *à Toinon.*
         Se pourroit-il qu'il pût…  
@@ -5898,7 +5893,7 @@ A luy pardonner tout vous devez consentir ;
 C'est la grace, par moy, que mon Fils vous demande.  
 
     PHELONTE [278]
-La partie est trop forte, il faut que je me rende.  
+La partie est trop forte, il faut que je me rende.   
 
     DORAME
 Il est son Camarade, & ce qu'il m'en écrit…  
@@ -5974,7 +5969,7 @@ Avec les Violons il est incomparable.
 Volontiers.  
 
     TOINON *à Daphnis.*
-    Il prend goust…  
+    Il prend goust…   
 
     DAPHNIS
         Crispin est admirable.  
@@ -6012,7 +6007,7 @@ Messieurs, du mouvement marquons bien la cadance ;
 Allons, encore un coup ce Couplet de Bacchus,  
 Et que tous à la fois on fasse un grand *Chorus.*  
 Tous ensemble le dernier Couplet.
-
+ 
 
 
 ### SCENE DERNIERE
@@ -6051,7 +6046,7 @@ Le Concert est charmant, je l'avouë.
 Son Pere !  
 
     CRISPIN
-    C'est bien pis.  
+    C'est bien pis.   
 
     LISE
         J'ay failly ; mais j'espere…  
@@ -6101,7 +6096,7 @@ Eh Monsieur, par pitié…
 
     LISE *larmoyant.*
 Je sçay que j'ay failly, j'ay tort, je le confesse ;  
-Mais pardonnez…  
+Mais pardonnez…   
 
     DORAME
         Ses pleurs réveillent ma tendresse,  
@@ -6146,7 +6141,7 @@ Mais Toinon…
 
     CRISPIN
         Dans un mois, avec ma Tablature,  
-Elle pourra chanter, & battre la Mesure.  
+Elle pourra chanter, & battre la Mesure.   
 
     TOINON
 Et si par de faux tons tu me gastes la voix…  
@@ -6192,7 +6187,7 @@ Il a raison.
 Allons, Messieurs, allons, faites de vostre mieux.  
 
     FANCHON *à Phêlonte.*
-Quel Air chanterons-nous ?  
+Quel Air chanterons-nous ?   
 
     PHELONTE *touchant le Clavessin.*
 La, la, la.
@@ -6280,7 +6275,7 @@ fr. : *Dictionnaire* de l'Académie française, 1694.
 
 Fur. : *Dictionnaire universel* de Furetière.
 
-Rich. : *Dictionnaire françois* de Richelet.Aimable « Qui est digne d'estre aimé » (A. fr.)V. 270, 759, 966, 1118.Amant« Celuy, celle qui aime d'amour une personne d'un autre sexe » (A. fr.)V. 165, 225, 226, 231, 378, 382, 781, 801, 1468, 1513Amitié« Affection qu'on a pour quelqu'un »« On le dit encore en matière d'amour » (Fur.)V. 222.Apartement« Portion d'un grand logis où une personne loge ou peut loger separément d'avec une autre » (Fur.)V. 365, 1678.Appas« Se dit particulierement en Poësie, & signifie charmes, attraits, agrément, ce qui plaist. … Il se dit encore plus particulierement en parlant des attraits & de la beauté des femmes. » (Fur.)V. 618, 758, 1054, 1133.Arrester« Empêcher d'avancer, d'aller plus loin »« Retenir » (Rich.)V. 93.Art« La regle & la methode de bien faire un ouvrage » (A. fr.)Technique.Préface, v. 594, 632, 690, 713, 726, 731, 745, 813, 835, 861.Aveu« Reconnaissance verbale ou par écrit, d'avoir fait ou dit quelque chose. »« Il signifie aussi l'approbation, le consentement, l'agrément qu'une personne supérieure donne à ce qu'un inférieur a fait ou a dessein de faire. » (Ac. Fr.)V. 1182, 1815.Barguigner« Marchander sous à sou quelque chose »« Se dit figurément en choses spirituelles des irrésolutions d'esprit, quand un homme a du mal à se résoudre, à donner quelque parole, à conclure une affaire, à se défaire de quelque engagement » (Fur.)V. 1113.Beste« Animal irraisonnable »« Personne stupide, & qui n'a point d'esprit » (A. fr.)V. 1548.Boutade« Caprice, transport d'esprit qui se fait sans raison & avec impetuosité » (Fur.)V. 32.Brigue« Poursuite ardente qu'on fait par le moyen de plusieurs personnes qu'on engage dans ses interests »« Party, cabale » (A. fr.)PréfaceCacochime« Mal sain, de mauvaise complexion. Cela ne se dit proprement que des corps humains pleins de mauvaises humeurs & tousjours sujets à quelque maladie » (A. fr.)V. 1432.Caresse« Témoignage extérieur d'amitié, d'amour ou de bienveillance » (Rich.)Censurer« Critiquer, reprendre » (Fur.) V. 45.Chagrin« Inquiétude, ennuy, melancolie » *(Fur.)*V. 207, 945, 1029, 1043.Mauvaise humeur. (Se) ChagrinerAttrister, rendre chagrin » (Fur.)V. 220, 388, 1450.Chaise « Un petit carosse pour deux personnes. » (A. fr.)V. 1036.Charme « Puissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature »« Ce qui figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration » (Fur.)V. 321, 411, 1175, 1453, 1459, 1576.Charmer« Faire quelque effet merveilleux par la puissance des charmes ou du démon »« Dire ou faire quelque chose de merveilleux, de surprenant, plaire extraordinairement ». (Fur.). Richelet le donne comme synonyme de *ravir*.V. 1051, 1054, 1089, 1105, 1142, 1849.Closture« Obligation que les Religieuses ont de ne point sortir de leur Monastere » (A. fr.)V. 242.Compliment« Civilité, ou honnesteté qu'on fait à autruy, soit en paroles, soit en actions » (Fur.)V. 336, 1246, 1514.ComplimenterFaire des compliments.V. 262.Concerter« Estudier, & repeter ensemble une piece de Musique, pour la bien executer quand il en sera temps » (A. fr.)V. 1, 1697.Coquet, coquette« Qui fait le galant, qui affecte de donner de l'amour. » (A. Fr.)V. 193, 316, 1589.Coquin« Gueux, miserable sans cœur et sans honneur » (Rich.)V. 708.Courir« Hanter ; fréquenter en certains lieux, se plaire à y aller souvent » (Fur.). Cette définition s'applique également aux êtres humains (« On *court* un prédicateur. Cet homme est si agréable, que toutes les Dames le *courent*. » Fur.)V. 179.Décevoir« Séduire, tromper par quelque chose de spécieux & d'engageant » (A.Fr.)V. 940, 1040.Dégénérer« Ne valoir pas ce que valoient ceux de qui nous descendons » (Rich.)V. 617Desmenager« Il se dit figurément pour dire, Sortir d'un lieu, d'une place où l'on est, & cela ne se dit guere que lorsqu'on en fait sortir par force. *Allons, desmenagez tout à l'heure*. » (A. Fr.) V. 106.DéparlerCesser de parler. « Il ne se dit qu'avec la négative, & n'a guere d'usage qu'en ces phrases. *Il ne déparle point. il n'a point déparlé*. » (A. Fr.)V. 42.Discerner« Séparer, distinguer » (Fur.) ; « Distinguer une chose d'une autre, ou en juger par comparaison » (A.fr.). Ici le terme désigne le fait de marquer la séparation entre un acte et le suivant.Didascalies fin du premier acte et fin du second acte.Egaremens« Mauvaise conduite, procédé peu réglé » (Rich.)V. 72, 111, lettre.S'égarer« Devenir un peu fou. Etre dans l'erreur, errer » (Rich.)Ennuy« Lassitude d'esprit »« Fascherie, chagrin, deplaisir, souci » (A. fr.)V. 1190, 1309.Entendre« Comprendre, concevoir en son esprit, avoir l'intelligence de quelque chose » (A. fr.)V. 536, 673, 677, 862.Entester« Se dit figurément, & signifie, Infatuer, préoccuper, prevenir en faveur d'une personne » (Fur.)V. 991Envier« Porter envie »« Signifie aussi en plusieurs sortes de jeux, Faire des envis, encherir sur quelqu'un » (Fur.)V. 1325.Equipage« Tout le meuble d'un particulier, état, habit » (Rich.)« Se dit du train, de la suite, mulets, chevaux, valets, hardes &c. » (A. Fr.)V. 855.Estime« Le cas, l'estat qu'on fait d'une personne, ou de son merite, ou de sa vertu » (A. fr.)Lettre, v. 507.Estimer« Priser quelque chose, en determiner la valeur »« Faire cas » de quelqu'un ou de quelque chose. (A. fr.)V. 323, lettre.Estomach« Il se prend aussi, Pour la partie extérieure du corps qui respond à la poitrine et à l'estomac » (A. fr.)V. 1656.Eventé« Qui a la teste legere, qui est emporté, evaporé, imprudent » (Fur.)V. 938.Etonner« Epouvanter, surprendre d'une certaine maniere qui touche » (Rich.)V. 1168.Extravagance« Bizarrerie, folie » (A. Fr.)V. 139, 160, lettre.Extravaguer« Penser, & dire des choses où il n'y a ny raison ny sens » (A. fr.)V. 196.Facilité« Moyen & maniere facile de faire, de dire, *&c*. »« Indulgence excessive » (A. fr.)V. 80.Faquin« Crocheteur, homme de la lie du peuple, vil & meprisable. » (Fur.)V. 202, 707.Fard« Ce qu'on met sur le visage pour l'embellir »« Toute sorte d'artifice dont on se sert pour déguiser une chose, & la faire paroistre autre et plus belle qu'elle n'est en effet » (Fur.)V. 326.Farder« Employer de l'artifice pour faire paroistre une chose plus belle qu'elle n'est » (Fur.)V. 1867.Felon« Signifiait aussi autrefois, Cruel & inhumain » (Fur.)V. 1317.Fixer« Arrester, determiner …. On dit, *Fixer un esprit*, pour dire, faire qu'il ne vacille plus » (A. fr.)V. 1072.Fourbe« Trompeur avec adresse & dissimulation » (Fur.)V. 708, 717.Fourber« Tromper adroitement, finement » (Fur.)V. 421, 1820.Franchise« Sincerité tant en paroles qu'en actions »« Liberté » (Fur.)V. 1140, 1335.Galanteries« Les devoirs, les respects, les services que l'on rend aux Dames » « Commerce amoureux »« Choses qu'on fait pour les Dames, ou qu'on leur donne par galanterie » (A. fr.)V. 167.Gaupe« Femme mal-propre & sale » (Fur.)V. 44.(Se) Gendarmer« Se tourmenter, se donner de l'inquiétude pour empescher quelque chose, ou pour l'obtenir »« Se fascher contre quelqu'un, s'en prendre à quelqu'un » (A. fr.)V. 412.Gesne« Torture » (Fur.)V. 1353, 1765.« Fatigue, peine, travail » (Rich.)GloireHonneur. « Réputation qui procède du merite d'une personne, de l'excellence de ses actions ou de ses ouvrages. » (A. Fr.)Lettre, v. 1615.Goust« L'appétit, l'envie qu'on a de boire et de manger » (Fur.), et par extension ici,  l'appétit physique.V. 413GrimaceContorsion du visage« Feinte, hypocrisie. » (Fur.)V. 419.HontePeut être synonyme de pudeur. «  Passion qui excite du trouble dans l'ame par le danger de souffrir quelque confusion, quelque mépris des hommes …. La pudeur est une espèce de honte qui est loüable » (Fur.)V. 1797.Humeur« Substance fluide de quelque corps que ce soit … *Les quatre principales humeurs du corps sont* Le sang, la pituite, la bile, la mélancolie. » (A. fr.)V. 767, 1404, 1438.Hypocondre« La partie du ventre au dessous des costes, au costé droit ou au costé gauche » (A. fr.)V. 1439.Imposture« Tromperie, mensonge, calomnie » (Fur.) ;  « Hypocrisie, déguisement dans ses mœurs, dans sa conduite » (A. fr.)V. 104.Inclination« Disposition & pente naturelle à quelque chose »« Affection, Amour » (A. fr.)V. 490.Inquiétude« Trouble, agitation d'esprit, inconstance d'humeur, &c. impatience causée par quelque passion, par quelque indisposition. » (A. Fr.)V. 380.Intelligence« Faculté intellective, capacité d'entendre, de comprendre »V. 676.« Connoissance, comprehension »V. 656.« Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre » (A. fr.)V. 792.S'interesser pour« Entrer dans les interests de quelqu'un, en embrasser les interests » (A. fr.)V. 532.Jugement« Puissance de l'ame qui connoist, qui discerne le bon d'avec le mauvais, le vray d'avec le faux » (Fur.)V. 892, 989.Libertin« Qui ne veut pas s'assujettir aux loix, aux regles du bien vivre, à la discipline d'un Monastere. » (Fur.)V. 773, 1080.Maraud« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien, ni honneur, qui sont capables de faire toutes sortes de laschetez » (Fur.)V. 30, 137, 207, 707.Mélancolie« Espece de delire sans fiévre, accompagné de crainte & de chagrins sans raison aparente à cause que l'imagination & le jugement sont blessés par l'abondance d'une bile noire & brûlée » (Rich.)V. 71.Meschant, ante« Mauvais, qui est dépourveu de bonnes qualitez, qui ne mérite aucune estime » (Fur.)V. 848, 859, 1661. Mignon« Terme de flaterie dont on se sert en parlant à un enfant » (A.Fr.)V. 79.Mordicant, ante« Ce qui est acide & piquant » (Fur.)V. 1220.Mouchoir« On appelle, *Mouchoir de col*, le linge dont les femmes se couvrent le col & la gorge » (A. Fr.)V. 1238.Mutin« Opiniâtre, querelleux, obstiné, testu. » (A. fr.)V. 1503.Nonchalance« Negligence, peu d'application qu'on a à quelque chose. (Fur.)V. 3.Objet« La personne qu'on aime » (A. fr.)V. 137, 264, 779, 782, 1032, 1115, 1354, 1766, 1848.OpilerObstruer. (« terme de médecin » Rich.)V. 1438.Pécore« Beste, stupide qui a du mal à concevoir quelque chose » (Fur.)V. 1327.Peine« Châtiment »« Douleur, tourment »« Soin, inquiétude d'esprit » (Fur.)Pénétrer« Approfondir une affaire, une science, la connoistre parfaitement » (Fur.)V. 1377.Pied-plat« Terme de mespris qui se dit d'un paysan, d'un gros lourdaut, d'un campagnard grossier » (A. fr.)« On appelle pied plat, un rustre, un paysan qui a des souliers tout unis. » (Fur.)V. 1550.Piquer« Ce mot se dit quelquefois des choses belles & jolies & veut dire, agréer, enflammer »« Ofencer, irriter par quelque action, par quelques paroles » (Rich.)V. 905Se piquer« Se fâcher, se mettre en colére » « C'est faire profession d'exceller en une chose, de savoir une chose en galant homme » (Rich.)V. 636, 1688.Prévenir« Estre le premier à faire la même chose, gagner les devants »« Preoccuper l'esprit, luy donner les premieres impressions » (Fur.)V. 1078.Prévariquer« Trahir la cause, l'intérest des personnes qu'on est obligé de deffendre, agir contre le devoir de sa charge, contre l'obligation de son ministere » (A. fr.)V. 1274.Protester« Faire des protestations »« Promettre, assûrer fortement quelque chose » (Fur.)V. 1577.Raciociner« Terme de Logique. User de son raisonnement, de sa faculté de raisonner, faire des arguments, des jugemens. … Ce mot n'est en usage que dans le dogmatique. » (Fur.)V. 1254.Ragoust« Ce qui est fait pour donner de l'appetit à ceux qui l'ont perdu » (Fur.)V. 1544.Raisonner« Exercer son entendement, sa faculté raisonnable »V. 1564.« Examiner, discuter une affaire, une question »V. 726.« Faire des difficultez, des objections, des repliques pour se dispenser d'obeïr » (Fur.)V. 162.Ravir« Emporter quelque chose violemment. … Se dit aussi des passions violentes qui troublent agréablement l'esprit, & suspendent les fonctions des sens, particulièrement de la joye, de l'etonnement & de l'admiration » (Fur.)V. 1747.Recherche« Poursuite que l'on fait pour avoir une fille en mariage » (A. Fr.)V. 1196.Rencontre« Hazard, avanture, par laquelle on trouve fortuitement une personne, ou une chose »« Occasion ». (A. fr.)V. 748, 1340.Resver« Signifie aussi, Mediter ; appliquer serieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque invention » (Fur.)V. 650.Rioter« Diminutif de rire. Il est familier. » (A. Fr., 1762.)Locuteurs des vers 417, 637, 911, 1019, 1366.Sangler« Ceindre, serrer avec des sangles »« Appliquer, donner avec force un coup de poing, un soufflet, &c. … stile familier & bas ». (A. fr)V. 624.Sauver« Rendre sain & sauf »« Corriger ; excuser, conserver. En Musique on sauve une dissonance par une consonnance qui suit » (Fur.)V. 649.Sexe« Quand on dit, *Le beau sexe*, ou absolument, *Le sexe*, on entend tousjours parler des femmes »  (A. fr.)V. 785, 1078.Soin« Souci, … inquiétudes qui émeuvent, qui troublent l'ame » (Rich.)V. 164, 462, 1452.Soucy« Sollicitude, soin accompagné d'inquietude » (A. fr.)V. 1035.Suite« Enchaisnement de causes secondes, qui font qu'une chose vient après une autre naturellement » (Fur.)Conséquence.V. 1063.Surprise« Action par laquelle on surprend »« Etonnement, trouble » (A. fr.)V. 1125, 1139.Surprendre« Prendre quelqu'un sur le fait »« Etonner » (*A. fr*.)V. 148, 823.Vapeur« Est aussi une humeur subtile qui s'eleve des parties basses des animaux, & qui occupe & blesse leur cerveau » (Fur.)V. 1425.Vedette« Cavalier mis en sentinelle dans un lieu avancé » (A. fr.)V. 844.Tantost« Dans peu de temps ; & ce temps ne s'étend pas ordinairement au-delà de la journée » (A. Fr.)V. 29, 975, 1236, 1303, 1634, 1725.Tendresse« Sensibilité du cœur et de l'âme » (Fur.)Amour.V. 531, 788.Tenir (en)« On se sert aussi du mot de *Tenir*, En parlant des maladies de corps & d'esprit, & des differentes passions de l'ame dont on est possedé & saisi » (A. fr.). En ce sens, *en tenir pour quelqu'un* signifie « être amoureux »V. 1456.Toucher« Ce mot se dit en parlant de certains instrumens & veut dire joüer de cet instrument » (Rich.)Didascalie v. 98, locuteur v. 99 et v. 610, 641.Traitter« Faire un commerce, negocier, convenir de certaines conditions »« Agir, vivre avec certaines manieres proportionnées à la condition, ou à l'humeur des gens »« Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie » (Fur.)V. 44.Transport« Ravissement, extase »V. 1174.« Symptôme causé par des vapeurs malignes qui s'élèvent au cerveau. … *transport au cerveau*. » (A. fr.)V. 1446.Tourmens« Supplice » (A. Fr.)V. 166.Zele« Affection ardente pour quelque chose » (A. Fr.)V. 260.
+Rich. : *Dictionnaire françois* de Richelet.Aimable « Qui est digne d'estre aimé » (A. fr.)V. 270, 759, 966, 1118.Amant« Celuy, celle qui aime d'amour une personne d'un autre sexe » (A. fr.)V. 165, 225, 226, 231, 378, 382, 781, 801, 1468, 1513Amitié« Affection qu'on a pour quelqu'un »« On le dit encore en matière d'amour » (Fur.)V. 222.Apartement« Portion d'un grand logis où une personne loge ou peut loger separément d'avec une autre » (Fur.)V. 365, 1678.Appas« Se dit particulierement en Poësie, & signifie charmes, attraits, agrément, ce qui plaist. … Il se dit encore plus particulierement en parlant des attraits & de la beauté des femmes. » (Fur.)V. 618, 758, 1054, 1133.Arrester« Empêcher d'avancer, d'aller plus loin »« Retenir » (Rich.)V. 93.Art« La regle & la methode de bien faire un ouvrage » (A. fr.)Technique.Préface, v. 594, 632, 690, 713, 726, 731, 745, 813, 835, 861.Aveu« Reconnaissance verbale ou par écrit, d'avoir fait ou dit quelque chose. »« Il signifie aussi l'approbation, le consentement, l'agrément qu'une personne supérieure donne à ce qu'un inférieur a fait ou a dessein de faire. » (Ac. Fr.)V. 1182, 1815.Barguigner« Marchander sous à sou quelque chose »« Se dit figurément en choses spirituelles des irrésolutions d'esprit, quand un homme a du mal à se résoudre, à donner quelque parole, à conclure une affaire, à se défaire de quelque engagement » (Fur.)V. 1113.Beste« Animal irraisonnable »« Personne stupide, & qui n'a point d'esprit » (A. fr.)V. 1548.Boutade« Caprice, transport d'esprit qui se fait sans raison & avec impetuosité » (Fur.)V. 32.Brigue« Poursuite ardente qu'on fait par le moyen de plusieurs personnes qu'on engage dans ses interests »« Party, cabale » (A. fr.)PréfaceCacochime« Mal sain, de mauvaise complexion. Cela ne se dit proprement que des corps humains pleins de mauvaises humeurs & tousjours sujets à quelque maladie » (A. fr.)V. 1432.Caresse« Témoignage extérieur d'amitié, d'amour ou de bienveillance » (Rich.)Censurer« Critiquer, reprendre » (Fur.) V. 45.Chagrin« Inquiétude, ennuy, melancolie » *(Fur.)*V. 207, 945, 1029, 1043.Mauvaise humeur. (Se) ChagrinerAttrister, rendre chagrin » (Fur.)V. 220, 388, 1450.Chaise « Un petit carosse pour deux personnes. » (A. fr.)V. 1036.Charme « Puissance magique par laquelle avec l'aide du Demon les Sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature »« Ce qui figurément de ce qui nous plaist extraordinairement, qui nous ravit en admiration » (Fur.)V. 321, 411, 1175, 1453, 1459, 1576.Charmer« Faire quelque effet merveilleux par la puissance des charmes ou du démon »« Dire ou faire quelque chose de merveilleux, de surprenant, plaire extraordinairement ». (Fur.). Richelet le donne comme synonyme de *ravir*.V. 1051, 1054, 1089, 1105, 1142, 1849.Closture« Obligation que les Religieuses ont de ne point sortir de leur Monastere » (A. fr.)V. 242.Compliment« Civilité, ou honnesteté qu'on fait à autruy, soit en paroles, soit en actions » (Fur.)V. 336, 1246, 1514.ComplimenterFaire des compliments.V. 262.Concerter« Estudier, & repeter ensemble une piece de Musique, pour la bien executer quand il en sera temps » (A. fr.)V. 1, 1697.Coquet, coquette« Qui fait le galant, qui affecte de donner de l'amour. » (A. Fr.)V. 193, 316, 1589.Coquin« Gueux, miserable sans cœur et sans honneur » (Rich.)V. 708.Courir« Hanter ; fréquenter en certains lieux, se plaire à y aller souvent » (Fur.). Cette définition s'applique également aux êtres humains (« On *court* un prédicateur. Cet homme est si agréable, que toutes les Dames le *courent*. » Fur.)V. 179.Décevoir« Séduire, tromper par quelque chose de spécieux & d'engageant » (A.Fr.)V. 940, 1040.Dégénérer« Ne valoir pas ce que valoient ceux de qui nous descendons » (Rich.)V. 617Desmenager« Il se dit figurément pour dire, Sortir d'un lieu, d'une place où l'on est, & cela ne se dit guere que lorsqu'on en fait sortir par force. *Allons, desmenagez tout à l'heure*. » (A. Fr.) V. 106.DéparlerCesser de parler. « Il ne se dit qu'avec la négative, & n'a guere d'usage qu'en ces phrases. *Il ne déparle point. il n'a point déparlé*. » (A. Fr.)V. 42.Discerner« Séparer, distinguer » (Fur.) ; « Distinguer une chose d'une autre, ou en juger par comparaison » (A.fr.). Ici le terme désigne le fait de marquer la séparation entre un acte et le suivant.Didascalies fin du premier acte et fin du second acte.Egaremens« Mauvaise conduite, procédé peu réglé » (Rich.)V. 72, 111, lettre.S'égarer« Devenir un peu fou. Etre dans l'erreur, errer » (Rich.)Ennuy« Lassitude d'esprit »« Fascherie, chagrin, deplaisir, souci » (A. fr.)V. 1190, 1309.Entendre« Comprendre, concevoir en son esprit, avoir l'intelligence de quelque chose » (A. fr.)V. 536, 673, 677, 862.Entester« Se dit figurément, & signifie, Infatuer, préoccuper, prevenir en faveur d'une personne » (Fur.)V. 991Envier« Porter envie »« Signifie aussi en plusieurs sortes de jeux, Faire des envis, encherir sur quelqu'un » (Fur.)V. 1325.Equipage« Tout le meuble d'un particulier, état, habit » (Rich.)« Se dit du train, de la suite, mulets, chevaux, valets, hardes &c. » (A. Fr.)V. 855.Estime« Le cas, l'estat qu'on fait d'une personne, ou de son merite, ou de sa vertu » (A. fr.)Lettre, v. 507.Estimer« Priser quelque chose, en determiner la valeur »« Faire cas » de quelqu'un ou de quelque chose. (A. fr.)V. 323, lettre.Estomach« Il se prend aussi, Pour la partie extérieure du corps qui respond à la poitrine et à l'estomac » (A. fr.)V. 1656.Eventé« Qui a la teste legere, qui est emporté, evaporé, imprudent » (Fur.)V. 938.Etonner« Epouvanter, surprendre d'une certaine maniere qui touche » (Rich.)V. 1168.Extravagance« Bizarrerie, folie » (A. Fr.)V. 139, 160, lettre.Extravaguer« Penser, & dire des choses où il n'y a ny raison ny sens » (A. fr.)V. 196.Facilité« Moyen & maniere facile de faire, de dire, *&c*. »« Indulgence excessive » (A. fr.)V. 80.Faquin« Crocheteur, homme de la lie du peuple, vil & meprisable. » (Fur.)V. 202, 707.Fard« Ce qu'on met sur le visage pour l'embellir »« Toute sorte d'artifice dont on se sert pour déguiser une chose, & la faire paroistre autre et plus belle qu'elle n'est en effet » (Fur.)V. 326.Farder« Employer de l'artifice pour faire paroistre une chose plus belle qu'elle n'est » (Fur.)V. 1867.Felon« Signifiait aussi autrefois, Cruel & inhumain » (Fur.)V. 1317.Fixer« Arrester, determiner …. On dit, *Fixer un esprit*, pour dire, faire qu'il ne vacille plus » (A. fr.)V. 1072.Fourbe« Trompeur avec adresse & dissimulation » (Fur.)V. 708, 717.Fourber« Tromper adroitement, finement » (Fur.)V. 421, 1820.Franchise« Sincerité tant en paroles qu'en actions »« Liberté » (Fur.)V. 1140, 1335.Galanteries« Les devoirs, les respects, les services que l'on rend aux Dames » « Commerce amoureux »« Choses qu'on fait pour les Dames, ou qu'on leur donne par galanterie » (A. fr.)V. 167.Gaupe« Femme mal-propre & sale » (Fur.)V. 44.(Se) Gendarmer« Se tourmenter, se donner de l'inquiétude pour empescher quelque chose, ou pour l'obtenir »« Se fascher contre quelqu'un, s'en prendre à quelqu'un » (A. fr.)V. 412.Gesne« Torture » (Fur.)V. 1353, 1765.« Fatigue, peine, travail » (Rich.)GloireHonneur. « Réputation qui procède du merite d'une personne, de l'excellence de ses actions ou de ses ouvrages. » (A. Fr.)Lettre, v. 1615.Goust« L'appétit, l'envie qu'on a de boire et de manger » (Fur.), et par extension ici, l'appétit physique.V. 413GrimaceContorsion du visage« Feinte, hypocrisie. » (Fur.)V. 419.HontePeut être synonyme de pudeur. «  Passion qui excite du trouble dans l'ame par le danger de souffrir quelque confusion, quelque mépris des hommes …. La pudeur est une espèce de honte qui est loüable » (Fur.)V. 1797.Humeur« Substance fluide de quelque corps que ce soit … *Les quatre principales humeurs du corps sont* Le sang, la pituite, la bile, la mélancolie. » (A. fr.)V. 767, 1404, 1438.Hypocondre« La partie du ventre au dessous des costes, au costé droit ou au costé gauche » (A. fr.)V. 1439.Imposture« Tromperie, mensonge, calomnie » (Fur.) ; « Hypocrisie, déguisement dans ses mœurs, dans sa conduite » (A. fr.)V. 104.Inclination« Disposition & pente naturelle à quelque chose »« Affection, Amour » (A. fr.)V. 490.Inquiétude« Trouble, agitation d'esprit, inconstance d'humeur, &c. impatience causée par quelque passion, par quelque indisposition. » (A. Fr.)V. 380.Intelligence« Faculté intellective, capacité d'entendre, de comprendre »V. 676.« Connoissance, comprehension »V. 656.« Correspondance, communication entre des personnes qui s'entendent l'une avec l'autre » (A. fr.)V. 792.S'interesser pour« Entrer dans les interests de quelqu'un, en embrasser les interests » (A. fr.)V. 532.Jugement« Puissance de l'ame qui connoist, qui discerne le bon d'avec le mauvais, le vray d'avec le faux » (Fur.)V. 892, 989.Libertin« Qui ne veut pas s'assujettir aux loix, aux regles du bien vivre, à la discipline d'un Monastere. » (Fur.)V. 773, 1080.Maraud« Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien, ni honneur, qui sont capables de faire toutes sortes de laschetez » (Fur.)V. 30, 137, 207, 707.Mélancolie« Espece de delire sans fiévre, accompagné de crainte & de chagrins sans raison aparente à cause que l'imagination & le jugement sont blessés par l'abondance d'une bile noire & brûlée » (Rich.)V. 71.Meschant, ante« Mauvais, qui est dépourveu de bonnes qualitez, qui ne mérite aucune estime » (Fur.)V. 848, 859, 1661. Mignon« Terme de flaterie dont on se sert en parlant à un enfant » (A.Fr.)V. 79.Mordicant, ante« Ce qui est acide & piquant » (Fur.)V. 1220.Mouchoir« On appelle, *Mouchoir de col*, le linge dont les femmes se couvrent le col & la gorge » (A. Fr.)V. 1238.Mutin« Opiniâtre, querelleux, obstiné, testu. » (A. fr.)V. 1503.Nonchalance« Negligence, peu d'application qu'on a à quelque chose. (Fur.)V. 3.Objet« La personne qu'on aime » (A. fr.)V. 137, 264, 779, 782, 1032, 1115, 1354, 1766, 1848.OpilerObstruer. (« terme de médecin » Rich.)V. 1438.Pécore« Beste, stupide qui a du mal à concevoir quelque chose » (Fur.)V. 1327.Peine« Châtiment »« Douleur, tourment »« Soin, inquiétude d'esprit » (Fur.)Pénétrer« Approfondir une affaire, une science, la connoistre parfaitement » (Fur.)V. 1377.Pied-plat« Terme de mespris qui se dit d'un paysan, d'un gros lourdaut, d'un campagnard grossier » (A. fr.)« On appelle pied plat, un rustre, un paysan qui a des souliers tout unis. » (Fur.)V. 1550.Piquer« Ce mot se dit quelquefois des choses belles & jolies & veut dire, agréer, enflammer »« Ofencer, irriter par quelque action, par quelques paroles » (Rich.)V. 905Se piquer« Se fâcher, se mettre en colére » « C'est faire profession d'exceller en une chose, de savoir une chose en galant homme » (Rich.)V. 636, 1688.Prévenir« Estre le premier à faire la même chose, gagner les devants »« Preoccuper l'esprit, luy donner les premieres impressions » (Fur.)V. 1078.Prévariquer« Trahir la cause, l'intérest des personnes qu'on est obligé de deffendre, agir contre le devoir de sa charge, contre l'obligation de son ministere » (A. fr.)V. 1274.Protester« Faire des protestations »« Promettre, assûrer fortement quelque chose » (Fur.)V. 1577.Raciociner« Terme de Logique. User de son raisonnement, de sa faculté de raisonner, faire des arguments, des jugemens. … Ce mot n'est en usage que dans le dogmatique. » (Fur.)V. 1254.Ragoust« Ce qui est fait pour donner de l'appetit à ceux qui l'ont perdu » (Fur.)V. 1544.Raisonner« Exercer son entendement, sa faculté raisonnable »V. 1564.« Examiner, discuter une affaire, une question »V. 726.« Faire des difficultez, des objections, des repliques pour se dispenser d'obeïr » (Fur.)V. 162.Ravir« Emporter quelque chose violemment. … Se dit aussi des passions violentes qui troublent agréablement l'esprit, & suspendent les fonctions des sens, particulièrement de la joye, de l'etonnement & de l'admiration » (Fur.)V. 1747.Recherche« Poursuite que l'on fait pour avoir une fille en mariage » (A. Fr.)V. 1196.Rencontre« Hazard, avanture, par laquelle on trouve fortuitement une personne, ou une chose »« Occasion ». (A. fr.)V. 748, 1340.Resver« Signifie aussi, Mediter ; appliquer serieusement son esprit à raisonner sur quelque chose, à trouver quelque moyen, quelque invention » (Fur.)V. 650.Rioter« Diminutif de rire. Il est familier. » (A. Fr., 1762.)Locuteurs des vers 417, 637, 911, 1019, 1366.Sangler« Ceindre, serrer avec des sangles »« Appliquer, donner avec force un coup de poing, un soufflet, &c. … stile familier & bas ». (A. fr)V. 624.Sauver« Rendre sain & sauf »« Corriger ; excuser, conserver. En Musique on sauve une dissonance par une consonnance qui suit » (Fur.)V. 649.Sexe« Quand on dit, *Le beau sexe*, ou absolument, *Le sexe*, on entend tousjours parler des femmes » (A. fr.)V. 785, 1078.Soin« Souci, … inquiétudes qui émeuvent, qui troublent l'ame » (Rich.)V. 164, 462, 1452.Soucy« Sollicitude, soin accompagné d'inquietude » (A. fr.)V. 1035.Suite« Enchaisnement de causes secondes, qui font qu'une chose vient après une autre naturellement » (Fur.)Conséquence.V. 1063.Surprise« Action par laquelle on surprend »« Etonnement, trouble » (A. fr.)V. 1125, 1139.Surprendre« Prendre quelqu'un sur le fait »« Etonner » (*A. fr*.)V. 148, 823.Vapeur« Est aussi une humeur subtile qui s'eleve des parties basses des animaux, & qui occupe & blesse leur cerveau » (Fur.)V. 1425.Vedette« Cavalier mis en sentinelle dans un lieu avancé » (A. fr.)V. 844.Tantost« Dans peu de temps ; & ce temps ne s'étend pas ordinairement au-delà de la journée » (A. Fr.)V. 29, 975, 1236, 1303, 1634, 1725.Tendresse« Sensibilité du cœur et de l'âme » (Fur.)Amour.V. 531, 788.Tenir (en)« On se sert aussi du mot de *Tenir*, En parlant des maladies de corps & d'esprit, & des differentes passions de l'ame dont on est possedé & saisi » (A. fr.). En ce sens, *en tenir pour quelqu'un* signifie « être amoureux »V. 1456.Toucher« Ce mot se dit en parlant de certains instrumens & veut dire joüer de cet instrument » (Rich.)Didascalie v. 98, locuteur v. 99 et v. 610, 641.Traitter« Faire un commerce, negocier, convenir de certaines conditions »« Agir, vivre avec certaines manieres proportionnées à la condition, ou à l'humeur des gens »« Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie » (Fur.)V. 44.Transport« Ravissement, extase »V. 1174.« Symptôme causé par des vapeurs malignes qui s'élèvent au cerveau. … *transport au cerveau*. » (A. fr.)V. 1446.Tourmens« Supplice » (A. Fr.)V. 166.Zele« Affection ardente pour quelque chose » (A. Fr.)V. 260.
 
 
 ## Liste des comédies de Hauteroche
@@ -6467,7 +6462,7 @@ Hauteroche (Noël Le Breton), 1617(?)-1707, Schauspieler und Lustspieldichter
 
 [2] La légende n'apparaît cependant pas dans les œuvres publiées de Mouhy.
 
-[3] « … il imita la conduite que tient *Dorame* dans *Le Menteur*, emporta tout l'argent dont il put se saisir, et passa en Espagne », Pierre-David Lemazurier, *Galerie historique des acteurs du théâtre français*,  Paris, J. Chaumerot, 1810, p. 284.
+[3] « … il imita la conduite que tient *Dorame* dans *Le Menteur*, emporta tout l'argent dont il put se saisir, et passa en Espagne », Pierre-David Lemazurier, *Galerie historique des acteurs du théâtre français*, Paris, J. Chaumerot, 1810, p. 284.
 
 [4] Notamment celui de Pierre-David Lemazurier (*ibid*.) et de W. Voos (1928).
 
@@ -6531,7 +6526,7 @@ Hauteroche (Noël Le Breton), 1617(?)-1707, Schauspieler und Lustspieldichter
 
 [34] Philipin est le valet d'Ariste dans *L'Amant qui ne flatte point* (1668), et de Valère dans *Le souper mal apprêté* (1669).
 
-[35] Voir G. Forestier, *Esthétique de l'identité dans le  théâtre français, le déguisement et ses avatars, 1550-1680*, Genève, Droz, 1988, p. 173.
+[35] Voir G. Forestier, *Esthétique de l'identité dans le théâtre français, le déguisement et ses avatars, 1550-1680*, Genève, Droz, 1988, p. 173.
 
 [36] Boursault, *Le médecin volant* (1661), Du Perche, *L'ambassadeur d'Afrique* (publiée en 1666), Nanteuil, *Le Comte de Rocquefeuilles (*1669), R. Poisson, *Les femmes coquettes* (1670, en cinq actes), et Hauteroche, *Le deuil* (1672), voir J. Emelina, *op. cit.*, p. 165-166.
 
@@ -6617,7 +6612,7 @@ Hauteroche (Noël Le Breton), 1617(?)-1707, Schauspieler und Lustspieldichter
 
 [77] Vers 877 à 882.
 
-[78] Voir B. Louvat, *op.cit.*,  p. 176.
+[78] Voir B. Louvat, *op.cit.*, p. 176.
 
 [79] J. R. Anthony, *La Musique en France à l'époque baroque*, Paris, Fammarion ; rééd. Flammarion harmoniques, 1992, p. 201.
 
@@ -6765,7 +6760,7 @@ Hauteroche (Noël Le Breton), 1617(?)-1707, Schauspieler und Lustspieldichter
 
 [151] C'est à dire durant l'été 1674. La pièce a été créée le 5 juillet 1674, et a vraisemblablement été jouée jusqu'à la fin du mois de septembre de cette année.
 
-[152] « Les Modernes entendent maintenant par *Épisode*, une seconde histoire jetée comme à la traverse dans le principal sujet du Poème Dramatique, que pour cette raison quelques uns appellent *Une histoire à deux fils* » (D'Aubignac, *Pratique du théâtre*, p. 149). Hauteroche répond ici aux deux conditions que posait l'abbé D'Aubignac pour l'insertion d'une telle histoire : « ces Episodes, ou secondes histoires, doivent être tellement incorporées au principal Sujet qu'on ne les puisse séparer sans détruire tout l'Ouvrage »,  et « la seconde histoire ne doit pas être égale en son sujet non plus qu'en sa nécessité, à celle qui sert de fondement à tout le poème », (p. 150 et 152).
+[152] « Les Modernes entendent maintenant par *Épisode*, une seconde histoire jetée comme à la traverse dans le principal sujet du Poème Dramatique, que pour cette raison quelques uns appellent *Une histoire à deux fils* » (D'Aubignac, *Pratique du théâtre*, p. 149). Hauteroche répond ici aux deux conditions que posait l'abbé D'Aubignac pour l'insertion d'une telle histoire : « ces Episodes, ou secondes histoires, doivent être tellement incorporées au principal Sujet qu'on ne les puisse séparer sans détruire tout l'Ouvrage », et « la seconde histoire ne doit pas être égale en son sujet non plus qu'en sa nécessité, à celle qui sert de fondement à tout le poème », (p. 150 et 152).
 
 [153] La conduite de l'action.
 
@@ -6841,7 +6836,7 @@ Hauteroche (Noël Le Breton), 1617(?)-1707, Schauspieler und Lustspieldichter
 
 [189] « Si vouliez » dans l'édition originale : nous corrigeons d'après l'édition de 1680.
 
-[190] Les violons sont donc placés entre les deux châssis peints du décor, qui les couvrent ou les découvrent tour  à tour.
+[190] Les violons sont donc placés entre les deux châssis peints du décor, qui les couvrent ou les découvrent tour à tour.
 
 [191] Celui dans lequel Crispin et Phélonte seront enfermés au quatrième acte (IV,5-11), et celui dans lequel Dorame se retira pour chercher un double de la clef subtilisée (IV, 9)
 

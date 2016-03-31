@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-201 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_I01 *act_I *date_1674 *creator_montfleury
 
 -*who_l_industrie
 Bon, pour vous divertir, vous me faites un conte.
@@ -184,7 +184,7 @@ Je prétens à Paris passer pour son Cousin.
 -*who_l_industrie
 Quel seroit son dessein? C'est une affaire faite.
 
-**** *book_ *id_body-202 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_I02 *act_I *date_1674 *creator_montfleury
 
 -*who_toinette
 Ah Monsieur Trigaudin, est-il vray…
@@ -328,7 +328,7 @@ Pourquoy donc en parler ?
 -*who_toinette
       Par forme d'entretien.
 
-**** *book_ *id_body-203 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_I03 *act_I *date_1674 *creator_montfleury 
 
 -*who_geronte
 O le charmant Portrait !
@@ -562,7 +562,7 @@ Et je vay disposer cet Hymen concerté.
 -*who_geronte
 Et moy pres de ma Niéce agir de mon costé.
 
-**** *book_ *id_body-204 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_I04 *act_I *date_1674 *creator_montfleury
 
 -*who_geronte
 Que mon amour se sent fier de cette assurance !
@@ -584,7 +584,7 @@ Je dois de Trigaudin ménager l'intérest ;
 Et ma Niéce n'ayant de but que de me plaire,
 Je puis luy déclarer l'Hymen que je veux faire.
 
-**** *book_ *id_body-205 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_I05 *act_I *date_1674 *creator_montfleury
 
 -*who_geronte
 Ma Niéce, aprochez-vous, & dans un compliment
@@ -700,7 +700,7 @@ Mon Oncle…
       Taisez-vous, vous dis-je, & me suivez.
 Fin du premier Acte
 
-**** *book_ *id_body-301 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II01 *act_II *date_1674 *creator_montfleury
 
 -*who_toinette
 Et j'allois vous chercher, Monsieur, pour vous l'aprendre.
@@ -776,7 +776,7 @@ Je veux luy reprocher…
 -*who_toinette
       Doucement, je la voy.
 
-**** *book_ *id_body-302 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II02 *act_II *date_1674 *creator_montfleury
 
 -*who_valere
 Ah qu'un cœur à l'aspect d'une personne aimée…
@@ -835,7 +835,7 @@ Je vous quitte.
 -*who_valere
       Et je vay faire un dernier effort…
 
-**** *book_ *id_body-303 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_II03 *act_II *date_1674 *creator_montfleury 
 
 -*who_geronte
 Sa Cousine sans doute est venuë, & j'espere
@@ -993,7 +993,7 @@ A l'exemple du fruit veut meurir sur la paille,
 Soit. Mais je dois songer à regler vostre espoir,
 Il faut un autre Epoux à ma Niéce, bon-soir.
 
-**** *book_ *id_body-304 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II04 *act_II *date_1674 *creator_montfleury
 
 -*who_valere
 Que d'un pareil mépris ma flâme soit suivie !
@@ -1001,7 +1001,7 @@ Ah si je perds sa Niéce, il faut perdre la vie ;
 Suivons-le, mon amour ne se peut rebuter,
 Aussi-bien quelqu'un vient qui pourroit m'arrester.
 
-**** *book_ *id_body-305 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II05 *act_II *date_1674 *creator_montfleury
 
 -*who_l_industrie
 Mon Maistre à son retour met un assez long terme,
@@ -1010,7 +1010,7 @@ Je suis d'avis de voir ce qu'il est devenu,
 Il a quelque dessein qui ne m'est pas connu :
 Mais enfin par mes soins sa conduite observée…
 
-**** *book_ *id_body-306 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_II06 *act_II *date_1674 *creator_montfleury 
 
 -*who_l_industrie
 Monsieur…
@@ -1033,7 +1033,7 @@ Sans doute.
 Pour luy communiquer l'affaire qui s'apreste ;
 J'entre, & luy veux parler un moment teste-à-teste.
 
-**** *book_ *id_body-307 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II07 *act_II *date_1674 *creator_montfleury
 
 -*who_l_industrie
 Je ne sçay quel dessein fait mon Maistre aujourd'huy ;
@@ -1046,7 +1046,7 @@ Je connois son allûre⁎, & ne me trompe guere,
 Je veux les écouter, & voir sur cette affaire…
 Les voicy.
 
-**** *book_ *id_body-308 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II08 *act_II *date_1674 *creator_montfleury
 
 -*who_trigaudin
       Laisse-nous.
@@ -1350,7 +1350,7 @@ Que je donne vos jours en garde à vostre langue ;
 Dans une heure au plus-tard je vous l'amene icy,
 Faites-luy bonne mine, autrement…Songez-y.
 
-**** *book_ *id_body-309 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_II09 *act_II *date_1674 *creator_montfleury
 
 -*who_lucie
 Cecy me semble un songe, & jamais ma surprise
@@ -1390,7 +1390,7 @@ Pourra-t-il…
 Vien m'en entretenir, pour en presser l'effet.
 Fin du Second Acte
 
-**** *book_ *id_body-401 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III01 *act_III *date_1674 *creator_montfleury
 
 -*who_toinette
 Je vous cherchois, Monsieur ; on meurt d'impatience
@@ -1491,7 +1491,7 @@ Quel Galant ! La figure en est-elle pas bonne ?
 Mon amour est confus du Rival qu'on me donne ;
 Et si pour m'en vanger, je suivois mon chagrin…
 
-**** *book_ *id_body-402 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_III02 *act_III *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ah Monsieur.
@@ -1615,7 +1615,7 @@ Et que de mes respects vous serez satisfait.
 -*who_valere
 Cela suffit ; Adieu, nous en verrons l'effet.
 
-**** *book_ *id_body-403 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_III03 *act_III *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ce Geronte entesté de l'Hymen qu'il veut faire,
@@ -1623,7 +1623,7 @@ Avec cet Etourdy⁎ me fera quelque affaire.
 Cherchons-le cependant, pour luy dire qu'icy
 Ma Cousine arrivée y peut… Mais le voicy.
 
-**** *book_ *id_body-404 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III04 *act_III *date_1674 *creator_montfleury
 
 -*who_geronte
 Je vous cherchois. Hé bien, vostre aimable Parente…
@@ -1701,7 +1701,7 @@ Je m'en vay l'appeller.
 -*who_geronte
       Fort-bien.
 
-**** *book_ *id_body-405 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III05 *act_III *date_1674 *creator_montfleury
 
 -*who_lucie
       Que me veut-on?
@@ -1828,7 +1828,7 @@ Tous les jours, sans qu'aucun…
 Puis qu'elle me veut bien, & que je suis tout prest
 De l'épouser, pourquoy…
 
-**** *book_ *id_body-406 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III06 *act_III *date_1674 *creator_montfleury
 
 -*who_l_industrie
       Monsieur, on vous demande,
@@ -1854,7 +1854,7 @@ Celuy-cy… Puis que c'est une necessité,
 Le Logis où je vay n'est pas loin, & j'espere
 Estre bientost icy, je ne tarderay guère.
 
-**** *book_ *id_body-407 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III07 *act_III *date_1674 *creator_montfleury
 
 -*who_l_industrie
 Madame, le hazard le force à vous quitter,
@@ -1865,7 +1865,7 @@ Vous sçavez…
       C'est à quoy je suis bien résoluë :
 Laisse-nous seuls.
 
-**** *book_ *id_body-408 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III08 *act_III *date_1674 *creator_montfleury
 
 -*who_geronte
       Enfin, malgré la retenuë
@@ -2004,7 +2004,7 @@ Et ne vous montrez point.
 -*who_lucie
       Il avance.
 
-**** *book_ *id_body-409 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_III09 *act_III *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Qu'est devenu Geronte ?
@@ -2102,7 +2102,7 @@ Aux ordres absolus que j'ay sçeu vous donner ;
 J'iray tantost trouver Géronte à sa demeure,
 Et pour l'Hymen qu'il veut, prendre le jour & l'heure.
 
-**** *book_ *id_body-410 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_III10 *act_III *date_1674 *creator_montfleury 
 
 -*who_lucie
 Croyez-vous à present que ce soit tout de bon ?
@@ -2140,7 +2140,7 @@ Quel est ce tour.
       Venez, je m'en vay vous l'aprendre.
 Fin du Troisième Acte.
 
-**** *book_ *id_body-501 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_IV01 *act_IV *date_1674 *creator_montfleury
 
 -*who_geronte
 Ouy Valere, oüy ma Niéce, ils n'ont que trop parlé,
@@ -2185,7 +2185,7 @@ Pour conduire le tour qu'il s'est imaginé :
 Il doit venir chez nous, & je suis étonné…
 Mais je le vois : Hé bien, est-il temps, l'Industrie ?
 
-**** *book_ *id_body-502 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_IV02 *act_IV *date_1674 *creator_montfleury 
 
 -*who_l_industrie
 Il faut se dépescher, Monsieur, je vous en prie,
@@ -2231,7 +2231,7 @@ Je sçay ce que de moy vostre tendresse exige :
 Mais comme il faut songer à ce qu'on veut de nous,
 Rentrez, & soyez seûr que ma Niéce est à vous.
 
-**** *book_ *id_body-503 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_IV03 *act_IV *date_1674 *creator_montfleury
 
 -*who_geronte
 Ouy, ma Niéce, je veux que l'Hymen vous unisse,
@@ -2246,7 +2246,7 @@ Car si…
 C'est, en s'expliquant bien, répondre avec adresse :
 Mais je voy Trigaudin tout resveur, qu'on nous laisse.
 
-**** *book_ *id_body-504 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_IV04 *act_IV *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 He bien, vous avez veu ma Cousine ?
@@ -2410,12 +2410,12 @@ Aprendre à ma Cousine une telle nouvelle.
 -*who_geronte
 Adieu, dans peu de temps je me rendray près d'elle.
 
-**** *book_ *id_body-505 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_IV05 *act_IV *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Qu'il est dupe ! Allons voir… Mais ma Femme paraist.
 
-**** *book_ *id_body-506 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_IV06 *act_IV *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Qu'avez-vous ?
@@ -2501,7 +2501,7 @@ Mais ce point au Logis pouroit estre agité
 Avec plus de loisir & plus de liberté,
 Entrons pour y songer, car je me persuade…
 
-**** *book_ *id_body-507 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_IV07 *act_IV *date_1674 *creator_montfleury
 
 -*who_l_industrie
 La Forest, la voila, va luy donner l'aubade⁎.
@@ -2677,7 +2677,7 @@ Où demeurez-vous ?
       Je m'en vay le chercher.
 Mais je le voy qui vient, ma course seroit vaine.
 
-**** *book_ *id_body-508 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_IV08 *act_IV *date_1674 *creator_montfleury 
 
 -*who_la_riviere
 Je vay changer d'habit.
@@ -2800,7 +2800,7 @@ Mais…
 -*who_la_forest
 Entrons, notre Cousin est sans cerémonie.
 
-**** *book_ *id_body-509 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_IV09 *act_IV *date_1674 *creator_montfleury
 
 -*who_lucie
 Vous voyez l'embarras où vous vous estes mis,
@@ -2814,7 +2814,7 @@ De me tirer du pas que vous m'avez fait faire ;
 Et pour vous épargner des conseils superflus,
 J'entre, & j'attens chez nous vos ordres là-dessus.
 
-**** *book_ *id_body-510 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_IV10 *act_IV *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Sur tout cet embarras que faut-il que je fasse ?
@@ -2835,7 +2835,7 @@ Que résoudre ? que faire ? Entrons pour y resver,
 Et voyons quel remede on y poura trouver.
 Fin du Quatrième Acte.
 
-**** *book_ *id_body-601 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V01 *act_V *date_1674 *creator_montfleury
 
 -*who_lucie
 Jusqu'où doivent aller vos belles entreprises ?
@@ -2903,7 +2903,7 @@ C'est à quoy j'auray soin de ne vous pas commettre :
 Vostre Frere est tout seul ; quoy qui puisse arriver,
 Gardez-bien le secret, & l'allez retrouver.
 
-**** *book_ *id_body-602 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V02 *act_V *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Pour peu qu'à différer son refus les engage,
@@ -2911,7 +2911,7 @@ Je feray de ce temps un assez bon usage :
 Tandis qu'elle se va charger de ce soucy,
 Allons voir si Géronte est chez luy. Le voicy.
 
-**** *book_ *id_body-603 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V03 *act_V *date_1674 *creator_montfleury
 
 -*who_geronte
 He bien, conclurons-nous l'Hymen que je propose ?
@@ -2959,7 +2959,7 @@ Pour le tenir secret, tous les ordres qu'il faut.
 Oüy, oüy, je vay songer à regler cette affaire.
 Le Fourbe jusqu'au bout soûtient son caractere.
 
-**** *book_ *id_body-604 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_V04 *act_V *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ce dessein est hardy, mais bien imaginé ;
@@ -2970,7 +2970,7 @@ Je vay les disposer tous deux adroitement
 A différer d'un jour cet Hymen seulement,
 Tandis que je sçauray… Mais le Beaufrere avance.
 
-**** *book_ *id_body-605 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V05 *act_V *date_1674 *creator_montfleury
 
 -*who_la_forest
 Ouy, je me moqueray de vostre resistance,
@@ -3050,7 +3050,7 @@ Que sçait-on ? Contre moy prendre party pour elle ?
 Vous en pourez sçavoir dans peu quelque nouvelle,
 C'est un point que je vay décider de ce pas.
 
-**** *book_ *id_body-606 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V06 *act_V *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Tout cet emportement ne m'épouvante pas :
@@ -3059,7 +3059,7 @@ Je veux le dégoûter de l'hymen de ma Femme ;
 Mon discours peut avoir l'effet que j'en prévoy.
 Un mot, Monsieur Braillart ?
 
-**** *book_ *id_body-607 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_V07 *act_V *date_1674 *creator_montfleury 
 
 -*who_la_riviere
       Que voulez-vous de moy ?
@@ -3184,7 +3184,7 @@ Mon honneur en cecy se trouve joint au vostre ;
 Car la Belle ne peut offencer son Epoux,
 Sans qu'un pareil affront se répande sur vous.
 
-**** *book_ *id_body-608 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V08 *act_V *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Maistre Martin Braillard dit plus vray qu'il ne pense,
@@ -3194,7 +3194,7 @@ Il traite tout cecy fort cavalierement :
 Je voy qu'il faut bientost changer de batterie,
 Pour ne pas m'exposer…Mais je voy L'Industrie.
 
-**** *book_ *id_body-609 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_V09 *act_V *date_1674 *creator_montfleury 
 
 -*who_trigaudin
 Ecoute, va chez nous promptement de ma part,
@@ -3205,7 +3205,7 @@ Que je l'attens icy.
 -*who_l_industrie
       Je m'en vay l'en instruire.
 
-**** *book_ *id_body-610 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V10 *act_V *date_1674 *creator_montfleury
 
 -*who_trigaudin
 Il faut agir ; Cecy me semble un peu gaillart⁎,
@@ -3215,7 +3215,7 @@ Voir Géronte, & mener ma Femme à sa demeure :
 Il conclûra d'abord. Mais c'est luy que je voy,
 Il faut…
 
-**** *book_ *id_body-611 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V11 *act_V *date_1674 *creator_montfleury
 
 -*who_geronte
       Ah lâche Amy, sans honneur & sans foy !
@@ -3251,7 +3251,7 @@ La marier ? Qui peut vous avoir fait entendre…
 -*who_geronte
 C'est de vostre Valet que je le viens d'aprendre.
 
-**** *book_ *id_body-612 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V12 *act_V *date_1674 *creator_montfleury
 
 -*who_trigaudin
 L'Industrie, est-il vray qu'ils sont…
@@ -3277,7 +3277,7 @@ Je me garderay bien d'un semblable embarras.
 Mais c'est à mon insçeu, Monsieur, qu'on se propose…
 Son Frere vient, & va nous éclaircir la chose.
 
-**** *book_ *id_body-613 *act_ *date_1674 *creator_montfleury
+**** *book_ *id_V13 *act_V *date_1674 *creator_montfleury
 
 -*who_la_forest
 En vain vostre refus s'obstine à me fâcher ;
@@ -3370,7 +3370,7 @@ N'est qu'un Homme aposté ?
 -*who_trigaudin
       Et ce Frere ?
 
-**** *book_ *id_body-614 *act_ *date_1674 *creator_montfleury 
+**** *book_ *id_V14 *act_V *date_1674 *creator_montfleury 
 
 -*who_valere
 Est mon Valet de Chambre.

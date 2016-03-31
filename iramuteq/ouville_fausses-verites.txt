@@ -11,7 +11,7 @@ Achevé d'imprimer pour la premiere fois le vingt-
 
 huictiesme Janvier 1643.
 
-**** *book_ *id_body-301 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I01 *act_I *date_1643 *creator_ouville
 
 -*who_florimonde
 Je n'en puis plus Nerine, Ah Dieux que je suis lasse
@@ -112,7 +112,7 @@ J'entends tous leurs discours quand ils parlent ensemble.
 Escoutons les Nerine, Aujourd'huy ce me semble,
 Ou je me trompe fort, on parlera de nous.
 
-**** *book_ *id_body-302 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I02 *act_I *date_1643 *creator_ouville
 
 -*who_lidamant
 Comment ? desja levé ?
@@ -273,7 +273,7 @@ Ne pouvant soubsonner du tout qui ce peut estre.
 M'ayant dit plusieurs fois qu'en la voulant cognoistre,
 Je mettois en hazard sa vie & mon honneur.
 
-**** *book_ *id_body-303 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I03 *act_I *date_1643 *creator_ouville
 
 -*who_julie
 Une fille en secret pourra-t'elle Monsieur
@@ -297,7 +297,7 @@ Nous avons trop de temps pour achever l'histoire,
 Regardez si j'ay tort de vouloir presumer
 Que je suis bien sçavant en matiere d'aimer.
 
-**** *book_ *id_body-304 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I04 *act_I *date_1643 *creator_ouville
 
 -*who_leandre
 Qui t'amène Julie ? As tu quelque nouvelle ?
@@ -378,7 +378,7 @@ Va, marche, je te suis.
       Il faut bien peu d'adresse,
 Pour tromper un amant espris d'une maistresse.
 
-**** *book_ *id_body-305 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_I05 *act_I *date_1643 *creator_ouville 
 
 -*who_florimonde
 Dieux que j'apprehendois qu'en contant ses Amours
@@ -407,7 +407,7 @@ Nerine par un art le plus joly du monde
 Je faindray qui je suis : mais tay toy Florimonde,
 N'en dy pas davantage, allons n'en parlons plus.
 
-**** *book_ *id_body-306 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I06 *act_I *date_1643 *creator_ouville
 Dieux, peux tu vivre encor, Miserable Orazie ?
 Quand verray je la fin de cette jalousie,
 Qui fait dessus mon cœur de si cruels efforts
@@ -420,7 +420,7 @@ Ne peux tu sur mon cœur emporter la victoire
 Sans t'en vanter ingrat, & sans en faire gloire ?
 Ma Julie as tu veu cét infidelle Amant !
 
-**** *book_ *id_body-307 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_I07 *act_I *date_1643 *creator_ouville 
 
 -*who_julie
 Ouy j'ay jouë mon rolle assez adroittement.
@@ -629,7 +629,7 @@ Allez voir ce Soleil qui chasse la nuict sombre
 Pres duquel je ne suis qu'une estoille & qu'une ombre.
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II01 *act_II *date_1643 *creator_ouville
 
 -*who_orasie
 Vous me rendez Madame, aujourd'huy glorieuse,
@@ -770,7 +770,7 @@ Elle ne sçait pas tout.
 -*who_orasie
 Je voudrois vous servir mais je ne sçai comment.
 
-**** *book_ *id_body-402 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II02 *act_II *date_1643 *creator_ouville
 
 -*who_nerine
 J'emmeyne Lidamant, il attend à la porte.
@@ -793,7 +793,7 @@ Où vous estes Maistresse. Adieu ma Dame.
 -*who_florimonde
       Adieu.
 
-**** *book_ *id_body-403 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_II03 *act_II *date_1643 *creator_ouville 
 
 -*who_nerine
 Voicy cette maison que vous brusliez d'envie
@@ -875,7 +875,7 @@ Vous voulez m'esclarcir sur cette defiance,
 Et vous m'en augmentez encor plus la croyance,
 Car si vous n'estes pas.
 
-**** *book_ *id_body-404 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II04 *act_II *date_1643 *creator_ouville
 
 -*who_julie
       Monsieur vient, le voicy.
@@ -906,7 +906,7 @@ Ah Dieux ? je suis perdu.
 -*who_florimonde
       Que je suis malheureuse.
 
-**** *book_ *id_body-405 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II05 *act_II *date_1643 *creator_ouville
 
 -*who_orasie
 He bien vous m'accusiés tantost d'estre peureuse,
@@ -919,7 +919,7 @@ Eust on jamais pensé !
 -*who_orasie
       Je voudrois estre morte.
 
-**** *book_ *id_body-406 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_II06 *act_II *date_1643 *creator_ouville 
 
 -*who_tomire
 Depuis quand Orasie ouvre t'on cette porte,
@@ -972,7 +972,7 @@ Faites moy cét honneur, ne me refusez point.
 Puis que vous desirez m'obliger à ce point,
 J'accepte cét honneur.
 
-**** *book_ *id_body-407 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_II07 *act_II *date_1643 *creator_ouville 
 
 -*who_orasie
       Est-il vray que je veille !
@@ -993,7 +993,7 @@ Ouvre luy je m'en vay, Dieux de crainte je tremble.
 C'est Leandre, Madame, ah Dieux tout est perdu,
 Il entre.
 
-**** *book_ *id_body-408 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_II08 *act_II *date_1643 *creator_ouville 
 
 -*who_leandre
       Ayant long temps en la ruë attendu,
@@ -1105,7 +1105,7 @@ Au nom de nostre Amour.
       Bien bien puis qu'il vous plaist
 Je dissimuleray cette offence cogneue.
 
-**** *book_ *id_body-409 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_II09 *act_II *date_1643 *creator_ouville 
 
 -*who_tomire
 Quoy ! Leandre ?
@@ -1135,7 +1135,7 @@ Je veux parler à vous.
 Mais que veut-il de moy ? Que ce discours m'estonne
 Endurons constamment puis que le Ciel l'ordonne.
 
-**** *book_ *id_body-410 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II10 *act_II *date_1643 *creator_ouville
 
 -*who_leandre
 Que dois-je faire icy : Comment Leandre as tu
@@ -1153,7 +1153,7 @@ Escartons nous, il faut aujourd'huy que je voye,
 S'il est vray que le sort qu'on fait capricieux
 Se plaist de seconder les cœurs audacieux.
 
-**** *book_ *id_body-411 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_II11 *act_II *date_1643 *creator_ouville 
 
 -*who_julie
 Puis qu'ilz sont tous sortis, je puis en asseurance
@@ -1185,7 +1185,7 @@ Sortons d'icy.
 Qu'il sorte seulement, quand il sera dehors
 Qu'il arrive en la rue apres dix mille morts.
 
-**** *book_ *id_body-412 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II12 *act_II *date_1643 *creator_ouville
 
 -*who_leandre
 Mais elles tardent bien à le faire descendre :
@@ -1199,7 +1199,7 @@ Cavalier suivez moy, n'avez aucun soubçon
 Vous ne respondez point ? Ah volage, ah parjure ?
 Entrons voyons la fin d'une telle aventure.
 
-**** *book_ *id_body-413 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II13 *act_II *date_1643 *creator_ouville
 
 -*who_orasie
 Mon pere seulement m'a dit qu'il s'en alloit
@@ -1214,7 +1214,7 @@ Il me faut preferer mon interest au sein
 Sortez d'icy Monsieur, & ne redoutez rien,
 Ne vous estonnez point de me voir je vous prie.
 
-**** *book_ *id_body-414 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II14 *act_II *date_1643 *creator_ouville
 
 -*who_leandre
 Quoy ? ne m'estonner pas de cette effonterie ?
@@ -1302,7 +1302,7 @@ Un homme dites-vous il n'est pas impossible.
 Ouy Leandre, peut-estre avez vous eu raison,
 Vous aurez veu sortir quelqu'un de la maison.
 
-**** *book_ *id_body-415 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II15 *act_II *date_1643 *creator_ouville
 
 -*who_julie
 Je l'ay mis en lieu seur.
@@ -1374,7 +1374,7 @@ Florimonde faut-il que pour t'avoir servie
 Je perde en mesme temps & l'honneur & la vie ?
 Fin du second Acte.
 
-**** *book_ *id_body-501 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III01 *act_III *date_1643 *creator_ouville
 
 -*who_fabrice
 D'où venez vous Monsieur ? qu'avez vous ?
@@ -1487,7 +1487,7 @@ Me chasse de Paris en quittant mes affaires ?
 Ouy, va tost preparer les choses necessaires.
 J'entre en mon cabinet & reviens à l'instant.
 
-**** *book_ *id_body-502 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III02 *act_III *date_1643 *creator_ouville
 
 -*who_nerine
 Madame pensez y, ne vous hastez pas tant,
@@ -1525,7 +1525,7 @@ Et l'empescher aussi de m'arracher la vie,
 Et d'emporter un cœur que l'ingrat m'a volé.
 Atten moy.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_III03 *act_III *date_1643 *creator_ouville 
 
 -*who_lidamant
       Va sçavoir où Leandre est allé,
@@ -1620,7 +1620,7 @@ J'entre en ce cabinet.
 Il faut asseurement que ce soit sa maistresse.
 Je n'en sçaurois douter.
 
-**** *book_ *id_body-504 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III04 *act_III *date_1643 *creator_ouville
 
 -*who_leandre
       Ah ! mon cher Lidamant.
@@ -1731,7 +1731,7 @@ Que me conseillez vous ?
 -*who_leandre
       Je ne puis.
 
-**** *book_ *id_body-505 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_III05 *act_III *date_1643 *creator_ouville 
 
 -*who_fabrice
 Une Dame est là-bas qui demande Leandre.
@@ -1780,7 +1780,7 @@ Et je n'ay plus icy desormais rien à craindre.
 Sa maistresse est icy, l'autre donc ne l'est pas.
 Laissons les, descendons & j'attendray là-bas.
 
-**** *book_ *id_body-506 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_III06 *act_III *date_1643 *creator_ouville 
 
 -*who_orasie
 Puis que nous sommes seuls escoutez moy Leandre.
@@ -2021,7 +2021,7 @@ A qui par mille endroits je feray vomir l'ame.
 Et moy j'arracheray les yeux à cette infame.
 Fin du troisiesme Acte.
 
-**** *book_ *id_body-601 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV01 *act_IV *date_1643 *creator_ouville
 
 -*who_florimonde
 Tout s'est passé Nerine ainsi que je le dy.
@@ -2072,7 +2072,7 @@ Quelqu'un entre,
 -*who_nerine
       C'est Monsieur vostre frere,
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_IV02 *act_IV *date_1643 *creator_ouville 
 
 -*who_florimonde
 Je voy bien qu'il n'a pas la fortune⁎ prospere,
@@ -2183,7 +2183,7 @@ Que cent fois plus que luy j'ay lieu de souhaiter.
 Nerine j'oy du bruit, j'entens quelqu'un monter
 Va regarde qui c'est.
 
-**** *book_ *id_body-603 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV03 *act_IV *date_1643 *creator_ouville
 
 -*who_florimonde
       Est-ce vous ? chere amie.
@@ -2326,7 +2326,7 @@ Despeschons nous Julie.
 -*who_julie
       Allons je suis vos pas.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV04 *act_IV *date_1643 *creator_ouville
 
 -*who_lidamant
 Quel papier est ce là Fabrice ?
@@ -2412,7 +2412,7 @@ Croyez que les plus fins s'y laissent attraper.
 Je suis trop glorieux de l'estre de la sorte,
 Mais pren garde, j'entends quelqu'un à cette porte
 
-**** *book_ *id_body-605 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV05 *act_IV *date_1643 *creator_ouville
 
 -*who_nerine
 Escoutez Lidamant, celle que vous sçavez.
@@ -2459,7 +2459,7 @@ Vous n'irez point tout seul si vous me voulez croire.
 Sçaurois-je estre en peril lors que je suis en gloire ?
 Je ne puis là-dedans, estre qu'asseurement.
 
-**** *book_ *id_body-606 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_IV06 *act_IV *date_1643 *creator_ouville 
 
 -*who_leandre
 Où s'adressent vos pas ? vous sortez Lidamant !
@@ -2516,7 +2516,7 @@ Je les suivray tous deux leur deusse-je desplaire;
 Mais de peur d'estre veu, je les suivray de loing,
 Je ne desire pas leur manquer au besoing.
 
-**** *book_ *id_body-607 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_IV07 *act_IV *date_1643 *creator_ouville 
 
 -*who_lisis
 Reposez-vous sur moy Monsieur, à l'heure mesme
@@ -2571,7 +2571,7 @@ Ah la jambe.
 Au prochain Carrefour je ne tarderay pas.
 Fin du quatriesme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V01 *act_V *date_1643 *creator_ouville
 
 -*who_leandre
 L'Histoire me surprend.
@@ -2816,7 +2816,7 @@ Me voila.
 -*who_lidamant
 Nous nous verrons apres.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_V02 *act_V *date_1643 *creator_ouville 
 
 -*who_leandre
       Me traitter de la sorte ?
@@ -2857,7 +2857,7 @@ Mais quel bruit est-ce là ?
       C'est quelque autre jaloux
 Qui frappe à quelque porte, aussy bien comme vous.
 
-**** *book_ *id_body-703 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V03 *act_V *date_1643 *creator_ouville
 
 -*who_tomire
 Ouvrez Julie, ouvrez.
@@ -2951,7 +2951,7 @@ Seulle avec un valet & dans ce lieu suspect !
 Non ce seroit par trop luy manquer de respect.
 Moy de peur d'accident⁎ je garderay la ruë,
 
-**** *book_ *id_body-704 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_V04 *act_V *date_1643 *creator_ouville 
 
 -*who_leandre
 A la fin Orasie.
@@ -2979,7 +2979,7 @@ Que sera-ce de moy ?
       Grands Dieux est-il possible,
 Que vous me reservez un tourment si sensible ?
 
-**** *book_ *id_body-705 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_V05 *act_V *date_1643 *creator_ouville 
 
 -*who_tomire
 Si les forces du corps, me manquent, j'ay du cœur⁎,
@@ -3064,7 +3064,7 @@ Il faut en quelque lieu qu'il soit l'aller chercher.
 Mais Lisis soustiens moy, je ne sçaurois marcher
 Je periray plustost que l'affront m'en demeure.
 
-**** *book_ *id_body-706 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V06 *act_V *date_1643 *creator_ouville
 
 -*who_leandre
 De la chandelle hola.
@@ -3316,7 +3316,7 @@ Tout est perdu l'on va descouvrir le mistere,
 Qui pourroit l'advertir du danger où je suis.
 Rentrons, Dieux je retombe en un gouffre d'ennuis⁎.
 
-**** *book_ *id_body-707 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_V07 *act_V *date_1643 *creator_ouville 
 
 -*who_lidamant
 De crainte que quelqu'un vous suivist dans la ruë,
@@ -3413,7 +3413,7 @@ Donnez moy vostre main puis qu'il plaist à Leandre.
 -*who_florimonde
 Mon frere y consentant je ne m'en puis deffendre.
 
-**** *book_ *id_body-708 *act_ *date_1643 *creator_ouville 
+**** *book_ *id_V08 *act_V *date_1643 *creator_ouville 
 
 -*who_tomire
 Pardonnez si de nuit j'entre ainsi librement,

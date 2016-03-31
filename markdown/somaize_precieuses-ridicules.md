@@ -1654,7 +1654,7 @@ Hem ?
         Que vous  
 Nous donniez de l'argent.  
 
-    MASCARILLE  *(luy donnant un soufflet.*) [88]
+    MASCARILLE *(luy donnant un soufflet.*) [88]
         Quelle insolence ?  
 Demander de l'argent, à ceux de ma naissance.  
 
@@ -1666,7 +1666,7 @@ Et vostre qualité⁎, nous fait elle disner⁎ ?
 Ah ! je vous apprendray coquins, à vous connoistre⁎,  
 Vous osez vous marauts ? joüer à vostre Maistre.  
 
-    1. PORTEUR  *(prenant un des bastons de sa chaise.)*
+    1. PORTEUR *(prenant un des bastons de sa chaise.)*
 Ça viste, payez-nous ? [89]  
 
     MASCARILLE.
@@ -3006,7 +3006,7 @@ Demandez si vous plaist à Monsieur le Vicomte.
 LES VIOLONS (se tournent vers Jodelet).
 
 
-    JODELET  *(le premier vers à part.)*
+    JODELET *(le premier vers à part.)*
 D'un semblable revers mes sens sont esbaïs.  
 Demandez si vous plaist à Monsieur le Marquis.  
 
@@ -3189,7 +3189,7 @@ Quelques uns pretendent que cette Carte doit estre plus longue, puis que le suje
 
 C'est une chose étrange qu'on imprime les gens malgré eux. Je ne vois rien de si injuste, et je pardonnerais toute autre violence plutôt que celle-là.
 
-Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser, par honneur, ma comédie. J'offenserais mal à propos tout Paris, si je l'accusais d'avoir pu applaudir à une sottise. Comme le public est le juge absolu de ces sortes d'ouvrages, il y aurait de l'impertinence à moi de le démentir ; et quand j'aurais eu la plus mauvaise opinion du monde de mes *Précieuses* ridicule*s* avant leur représentation, je dois croire maintenant qu'elles valent quelque chose, puisque tant de gens ensemble en ont dit du bien. Mais comme une grande partie des grâces qu'on y a trouvées dépendent de l'action et du ton de voix, il m'importait qu'on ne les dépouillât pas de ces ornements ; et je trouvais que le succès qu'elles avaient eu dans la représentation était assez beau pour en demeurer là. J'avais résolu, dis-je, de ne les faire voir qu'à la chandelle, pour ne point donner lieu à quelqu'un de dire le proverbe ; et je ne voulais pas qu'elles sautassent du théâtre de Bourbon dans la galerie du Palais. Cependant je n'ai pu l'éviter, et je suis tombé dans la disgrâce de voir une copie dérobée de ma pièce entre les mains des libraires, accompagnée d'un privilège obtenu par surprise. J'ai eu beau crier : « Ô temps ! ô mœurs ! » on m'a fait voir une nécessité pour moi d'être imprimé, ou d'avoir un procès ; et le dernier mal est encore pire que le premier. Il faut donc se laisser aller à la destinée, et consentir à une chose qu'on ne laisserait pas de faire sans moi.
+Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser, par honneur, ma comédie. J'offenserais mal à propos tout Paris, si je l'accusais d'avoir pu applaudir à une sottise. Comme le public est le juge absolu de ces sortes d'ouvrages, il y aurait de l'impertinence à moi de le démentir ; et quand j'aurais eu la plus mauvaise opinion du monde de mes *Précieuses*ridicule*s* avant leur représentation, je dois croire maintenant qu'elles valent quelque chose, puisque tant de gens ensemble en ont dit du bien. Mais comme une grande partie des grâces qu'on y a trouvées dépendent de l'action et du ton de voix, il m'importait qu'on ne les dépouillât pas de ces ornements ; et je trouvais que le succès qu'elles avaient eu dans la représentation était assez beau pour en demeurer là. J'avais résolu, dis-je, de ne les faire voir qu'à la chandelle, pour ne point donner lieu à quelqu'un de dire le proverbe ; et je ne voulais pas qu'elles sautassent du théâtre de Bourbon dans la galerie du Palais. Cependant je n'ai pu l'éviter, et je suis tombé dans la disgrâce de voir une copie dérobée de ma pièce entre les mains des libraires, accompagnée d'un privilège obtenu par surprise. J'ai eu beau crier : « Ô temps ! ô mœurs ! » on m'a fait voir une nécessité pour moi d'être imprimé, ou d'avoir un procès ; et le dernier mal est encore pire que le premier. Il faut donc se laisser aller à la destinée, et consentir à une chose qu'on ne laisserait pas de faire sans moi.
 
 Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est neuf la première fois qu'on l'imprime ! Encore si l'on m'avait donné du temps, j'aurais pu mieux songer à moi, et j'aurais pris toutes les précautions que Messieurs les auteurs, à présent mes confrères, ont coutume de prendre en semblables occasions. Outre quelque grand seigneur que j'aurais été prendre malgré lui pour protecteur de mon ouvrage, et dont j'aurais tenté la libéralité par une épître dédicatoire bien fleurie, j'aurais tâché de faire une belle et docte préface ; et je ne manque point de livres qui m'auraient fourni tout ce qu'on peut dire de savant sur la tragédie et la comédie, l'étymologie de toutes deux, leur origine, leur définition et le reste. J'aurais parlé aussi à mes amis, qui pour la recommandation de ma pièce ne m'auraient pas refusé ou des vers français, ou des vers latins. J'en ai même qui m'auraient loué en grec, et l'on ignore pas qu'une louange en grec est d'une merveilleuse efficace à la tête d'un livre. Mais on me met au jour sans me donner le loisir de me reconnaître ; et je ne puis même obtenir la liberté de dire deux mots pour justifier mes intentions sur le sujet de cette comédie. J'aurais voulu faire voir qu'elle se tient partout dans les bornes de la satire honnête et permise ; que les plus excellentes choses sont sujettes à être copiées par de mauvais singes, qui méritent d'être bernés ; que ces vicieuses imitations de ce qu'il y a de plus parfait ont été de tout temps la matière de la comédie ; et que, par la même raison que les véritables savants et les vrais braves ne se sont point encore avisés de s'offenser du Docteur de la comédie et du Capitan, non plus que les juges, les princes et les rois de voir Trivelin, ou quelque autre sur le théâtre, faire ridiculement le prince, le juge ou le roi, aussi les véritables précieuses auraient tort de se piquer lorsqu'on joue les ridicules qui les imitent mal. Mais enfin, comme je l'ai dit, on ne me laisse pas le temps de respirer, et M. de Luynes veut m'aller relier de ce pas : à la bonne heure, puisque Dieu l'a voulu !
 
@@ -3372,7 +3372,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [33] *Denis*, Delphine, « Ce que parler “prétieux” veut dire : les enseignements d'une fiction linguistique au XVIIe siècle », *L'Information grammaticale*, n° 78, 1998, p. 54.
 
-[34] *La Philis de Scire, Pastorale du comte Bonarelli, traduite en vers libres*, Paris, Ribou, 1667.  
+[34] *La Philis de Scire, Pastorale du comte Bonarelli, traduite en vers libres*, Paris, Ribou, 1667. 
 
 [35]  E. Roy, « Les premiers cercles du XVIIe siècle », *Revue d'histoire littéraire de la France*, 1897.
 
@@ -3522,7 +3522,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [108]  Dans la quatrième partie de la *Clélie*, parue en août 1658.
 
-[109]  Quatre allusions au total : celles aux héros de la *Clélie* par Magdelon et à la Carte du Tendre par Cathos à la scène IV, suivies de la protestation de Marotte à la scène VI qui n'a  pas appris « la philofie dans le Grand Cyre » et enfin, à la scène IX, de l'évocation du personnage d'Amilcar. 
+[109]  Quatre allusions au total : celles aux héros de la *Clélie* par Magdelon et à la Carte du Tendre par Cathos à la scène IV, suivies de la protestation de Marotte à la scène VI qui n'a pas appris « la philofie dans le Grand Cyre » et enfin, à la scène IX, de l'évocation du personnage d'Amilcar. 
 
 [110] *Duchêne*, Roger, *op. cit.*, p. 223.
 
@@ -3656,9 +3656,9 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [175] *Ibid.*
 
-[176] *Les Précieuses ridicules*, sc. IX ; sc. XI ;  sc. IV ; sc. IX. 
+[176] *Les Précieuses ridicules*, sc. IX ; sc. XI ; sc. IV ; sc. IX. 
 
-[177] *Les Véritables précieuses*, sc. VI ; sc. III ; sc. III ;  sc. IV ; sc. VI.
+[177] *Les Véritables précieuses*, sc. VI ; sc. III ; sc. III ; sc. IV ; sc. VI.
 
 [178] *Les Entretiens d'Ariste et d'Eugène* du père Bouhours et le traité *De la connaissance des bons livres* de Sorel, tous deux parus en 1671, sont sur ce point des textes importants qui consacrent de longs développements à la question.
 
@@ -3678,7 +3678,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [186]  Roger Lathuillère souligne ainsi la récurrence de mots tels que *désagrément, désappropriation, désenchanter, désentêter, se désaccoutumer, destitution*, ou encore *déshabité* (*op. cit.*, p. 253).
 
-[187] *Encapuciner* est inspiré du mot *capucins*, qui désigne un ordre religieux dont l'habit est un long capuce ; *Enfrangé*  n'apparaît que dans le dictionnaire de Cotgrave en 1611, lequel en donne la traduction anglaise *befringed* (orné de franges) ; *Alambiquer*, au sens figuré, n'entre qu'en 1694 dans le dictionnaire de  l'Académie Française. 
+[187] *Encapuciner* est inspiré du mot *capucins*, qui désigne un ordre religieux dont l'habit est un long capuce ; *Enfrangé* n'apparaît que dans le dictionnaire de Cotgrave en 1611, lequel en donne la traduction anglaise *befringed* (orné de franges) ; *Alambiquer*, au sens figuré, n'entre qu'en 1694 dans le dictionnaire de l'Académie Française. 
 
 [188] *Réflexion* (« que j'applique la réflexion de ma bouche sur cette belle mouvante », sc. IV) : « Terme de Philosophie. C'est le détour, ou le changement de détermination qui arrive à un corps qui se meut à la rencontre d'un autre qu'il ne peut aucunement pénétrer » (Richelet).
 
@@ -3714,7 +3714,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [204]  Pour plus de clarté et d'homogénéité, nous avons modernisé l'orthographe des citations. 
 
-[1]  Marie Mancini (1639-1715), nièce du cardinal Jules Mazarin, lequel a fait venir sa famille à la Cour depuis l'Italie. Réputée pour avoir été le premier amour de Louis XIV (la reine mère et le cardinal feront tout pour endiguer cette passion affichée et empêcher un mariage inégal), devenue ensuite l'épouse du connétable Colonna, femme d'esprit et de lettres et protectrice de Somaize, si l'on en croit ce dernier, qui prétend avoir été son secrétaire. Régulièrement qualifiée, au même  titre que ses sœurs, de « précieuse », au sens propre du terme, l'épithète lui valut certainement la réputation d'appartenir aux prétendus cercles précieux. Dans le *Grand Dictionnaire des Précieuses* (1661), Somaize lui attribue le pseudonyme de Maximiliane. Nous reproduisons ici l'article qu'il y lui consacre : « *Maximiliane* Mlle de Mancini, à présent Mme la connétable Colonna. Si toute l'Europe ne connaissait pas les belles qualités qui rendent Maximiliane une des plus admirables personnes de son sexe, j'aurais de la peine à me résoudre à la mettre dans ce Dictionnaire, n'ignorant pas que l'on n'aurait pas manqué de publier que j'étais obligé de dire du bien de celle de qui j'en ai tant reçu ; mais, puisque la connaissance que chacun a de son mérite a levé cet obstacle, je puis dire, sans être soupçonné de flatterie, que c'est la personne du monde la plus spirituelle, qu'elle n'ignore rien , qu'elle a lu tous les bons livres, qu'elle écrit avec une facilité qui ne se peut imaginer, et qu'encore qu'elle ne soit pas de Grèce, elle en sait si bien la langue que les plus spirituels d'Athènes, et ceux même qui sont de l'assemblée des quarante barons l'Académie française, confessent qu'elle en connaît tout à fait bien la délicatesse ; de quoi Madate La Ménardière, qui avait l'honneur de la voir souvent, peut rendre témoignage. J'oserai ajouter à ceci que le ciel ne lui a pas seulement donné un esprit propre aux lettres, mais encore capable de régner sur les cœurs des plus puissants princes de l'Europe. Ce que je veux dire est assez connu sans qu'il soit besoin de m'expliquer davantage. »
+[1]  Marie Mancini (1639-1715), nièce du cardinal Jules Mazarin, lequel a fait venir sa famille à la Cour depuis l'Italie. Réputée pour avoir été le premier amour de Louis XIV (la reine mère et le cardinal feront tout pour endiguer cette passion affichée et empêcher un mariage inégal), devenue ensuite l'épouse du connétable Colonna, femme d'esprit et de lettres et protectrice de Somaize, si l'on en croit ce dernier, qui prétend avoir été son secrétaire. Régulièrement qualifiée, au même titre que ses sœurs, de « précieuse », au sens propre du terme, l'épithète lui valut certainement la réputation d'appartenir aux prétendus cercles précieux. Dans le *Grand Dictionnaire des Précieuses* (1661), Somaize lui attribue le pseudonyme de Maximiliane. Nous reproduisons ici l'article qu'il y lui consacre : « *Maximiliane* Mlle de Mancini, à présent Mme la connétable Colonna. Si toute l'Europe ne connaissait pas les belles qualités qui rendent Maximiliane une des plus admirables personnes de son sexe, j'aurais de la peine à me résoudre à la mettre dans ce Dictionnaire, n'ignorant pas que l'on n'aurait pas manqué de publier que j'étais obligé de dire du bien de celle de qui j'en ai tant reçu ; mais, puisque la connaissance que chacun a de son mérite a levé cet obstacle, je puis dire, sans être soupçonné de flatterie, que c'est la personne du monde la plus spirituelle, qu'elle n'ignore rien , qu'elle a lu tous les bons livres, qu'elle écrit avec une facilité qui ne se peut imaginer, et qu'encore qu'elle ne soit pas de Grèce, elle en sait si bien la langue que les plus spirituels d'Athènes, et ceux même qui sont de l'assemblée des quarante barons l'Académie française, confessent qu'elle en connaît tout à fait bien la délicatesse ; de quoi Madate La Ménardière, qui avait l'honneur de la voir souvent, peut rendre témoignage. J'oserai ajouter à ceci que le ciel ne lui a pas seulement donné un esprit propre aux lettres, mais encore capable de régner sur les cœurs des plus puissants princes de l'Europe. Ce que je veux dire est assez connu sans qu'il soit besoin de m'expliquer davantage. »
 
 [2]  Comme il l'explique dans sa Préface, Somaize prétend que Molière a emprunté le sujet de sa pièce à une farce des Italiens.
 
@@ -3760,7 +3760,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [23]  Variante orthograhique de « soupçonner », sans racine éthymologique (*soupçon* vient de l'Ancien Français *sospeçon*, lui-même dérivé du Latin *suspectio*). 
 
-[24] *Ambigu* : « Collation lardée où l'on sert la viande et le fruit le dessert ensemble, ensorte qu'on doute si c'est une simple collation, ou un souper » (Furetière). – Coquetterie et préciosité sont des notions vagues qui s'entremêlent dans l'imaginaire des contemporains.  
+[24] *Ambigu* : « Collation lardée où l'on sert la viande et le fruit le dessert ensemble, ensorte qu'on doute si c'est une simple collation, ou un souper » (Furetière). – Coquetterie et préciosité sont des notions vagues qui s'entremêlent dans l'imaginaire des contemporains. 
 
 [25]  Jeu de mot : « Joüer piece à quelqu'un, luy faire piece, pour dire, luy faire quelque supercherie, quelque affront, luy causer quelque dommage, ou raillerie » (Furetière).
 
@@ -3780,7 +3780,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [33] *Aubade* : « Concert qu'on donne dés le matin à la porte ou sous les fenestres de quelqu'un pour l'honorer, ou pour le rejouïr. Aubade signifie à contre-sens, quelque insulte, quelque affront qu'on fait à quelqu'un » (Furetière).
 
-[34] *Pommader* : « Ce mot ne se trouve que dans les *Précieuses*  de *Moliere, scene 3.* et il ne se peut dire qu'en riant. Il signifie *s'amuser* perdre son temps *à faire de la pommade.* C'est trop pommadé, dites-leur qu'elles décendent. » (Richelet). Somaize reprend ce néologisme à Molière. La comédie burlesque de l'époque aime particulièrement créer des verbes saugrenus sur le même modèle. 
+[34] *Pommader* : « Ce mot ne se trouve que dans les *Précieuses* de *Moliere, scene 3.* et il ne se peut dire qu'en riant. Il signifie *s'amuser* perdre son temps *à faire de la pommade.* C'est trop pommadé, dites-leur qu'elles décendent. » (Richelet). Somaize reprend ce néologisme à Molière. La comédie burlesque de l'époque aime particulièrement créer des verbes saugrenus sur le même modèle. 
 
 [35]  Diérèse : prononcer « ruiner »  en trois syllabes.
 
@@ -3810,7 +3810,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [48]  L'Eglise (le caractère sacré du mot interdit son emploi dans une fiction profane).
 
-[49]  La « question d'amour » était une activité essentielle des salons, par laquelle on s'offrait à l'examination d'un problème de morale amoureuse. Ces « conversations morales »  (Mlle de Scudéry publiera sous ce titre le florilège des questions extraites de ses romans) portaient sur des sujets bien plus vastes que l'amour et  montrent comment la société mondaine discutait de ses valeurs et de ses pratiques, dimension largement ignorée par Magdelon. 
+[49]  La « question d'amour » était une activité essentielle des salons, par laquelle on s'offrait à l'examination d'un problème de morale amoureuse. Ces « conversations morales » (Mlle de Scudéry publiera sous ce titre le florilège des questions extraites de ses romans) portaient sur des sujets bien plus vastes que l'amour et montrent comment la société mondaine discutait de ses valeurs et de ses pratiques, dimension largement ignorée par Magdelon. 
 
 [50]  Orthographe la plus courante d'*aveu.*
 
@@ -3826,7 +3826,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [56]  On avait chez Molière « incongrus en galanterie » : l'adjectif est rare et normalement réservé à la grammaire. Il s'intègre dans une série de créations saugrenues (métaphores et périphrases complexes) qui, alliées à des mots à la mode, sont la base d'un jargon ridiculisé.
 
-[57] *Billets galands, petits soins, jolis vers et billets doux* sont des villages inscrits sur la *Carte du Tendre*, publiée dans le premier volume de la *Clélie* de Mme de Scudéry, en 1654. Les « terres inconnues » y sont situées aux confins, au-delà de la « mer dangereuse », et y figurent la passion. Le succès de cette carte dans les salons suscita de nombreuses imitations et parodies. Elle représentait les étapes, réglées et codifiées, du cheminemet de l'homme en position de serviteur soumis vers la possession de la femme aimée. Molière opère cependant une distorsion, la carte illustrant initialement bien plus un idéal d'amitié tendre, le modèle exclusif et chaste de l' « ami de cœur »,  que les prémices du mariage, contrairement à une opinion répandue ; mais l'amalgame que les deux jeunes provinciales opèrent entre préciosité, galanterie et tendresse est le support d'un programme trop comique pour que les contemporains s'en offusquent, cataloguant pour longtemps Mme de Scudéry comme Précieuse, alors même qu'elle ignorait selon toute vraisemblance l'existence d'un amour précieux et considérait la galanterie comme la pire des contrefaçons de l'amour tendre. 
+[57] *Billets galands, petits soins, jolis vers et billets doux* sont des villages inscrits sur la *Carte du Tendre*, publiée dans le premier volume de la *Clélie* de Mme de Scudéry, en 1654. Les « terres inconnues » y sont situées aux confins, au-delà de la « mer dangereuse », et y figurent la passion. Le succès de cette carte dans les salons suscita de nombreuses imitations et parodies. Elle représentait les étapes, réglées et codifiées, du cheminemet de l'homme en position de serviteur soumis vers la possession de la femme aimée. Molière opère cependant une distorsion, la carte illustrant initialement bien plus un idéal d'amitié tendre, le modèle exclusif et chaste de l' « ami de cœur », que les prémices du mariage, contrairement à une opinion répandue ; mais l'amalgame que les deux jeunes provinciales opèrent entre préciosité, galanterie et tendresse est le support d'un programme trop comique pour que les contemporains s'en offusquent, cataloguant pour longtemps Mme de Scudéry comme Précieuse, alors même qu'elle ignorait selon toute vraisemblance l'existence d'un amour précieux et considérait la galanterie comme la pire des contrefaçons de l'amour tendre. 
 
 [58]  Sans canons (*voir plus bas, n.17 p. 45*). On assiste ici à une description parodique en contrepoints de l'homme à la mode, à travers ses attributs vestimentaires.
 
@@ -3914,7 +3914,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [100]  Comprendre : serai-je en sûreté ?
 
-[101] *Mine* : « Physionomie, disposition de corps, et sur tout du visage, qui fait juger en quelque façon de l'Interieur par l'exterieur. Gestes, contenances, et  marques exterieures qui font connoistre ce qui est caché ou secret » (Furetière). – *Faire insulte* : attaquer par surprise. – *Oster d'arçons* : désarçonner, littéralement faire tomber de cheval. 
+[101] *Mine* : « Physionomie, disposition de corps, et sur tout du visage, qui fait juger en quelque façon de l'Interieur par l'exterieur. Gestes, contenances, et marques exterieures qui font connoistre ce qui est caché ou secret » (Furetière). – *Faire insulte* : attaquer par surprise. – *Oster d'arçons* : désarçonner, littéralement faire tomber de cheval. 
 
 [102]  En ennemi déclaré.
 
@@ -4004,7 +4004,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [145]  Les Traités de musique distinguent trois « genres » : d'un côté le chromatique et l'enharmonique, qui utilisent les demi-tons, de l'autre le diatonique, ne procédant que par tons. Renvoyant étymologiquement à la notion de couleur en grec, la musique chromatique est réputée pour son expressivité plus grande, laquelle traduirait plus fidèlement les passions du texte. Furetière rapporte que les Spartiates en bannirent l'inventeur de leur ville, « à cause que cette Musique était trop molle ».
 
-[146]  Au sens d'envoutée. Le terme a un sens plus fort que le sens actuel (« Fureur prophetique ou poëtique qui transporte l'esprit, et qui luy fait dire des choses surprenantes et extraordinaires » (Furetière)). – Diérèse : prononcer « entousiasmée » en cinq syllabes. De même  au vers 750, prononcer « inquietude » en quatre syllabes. 
+[146]  Au sens d'envoutée. Le terme a un sens plus fort que le sens actuel (« Fureur prophetique ou poëtique qui transporte l'esprit, et qui luy fait dire des choses surprenantes et extraordinaires » (Furetière)). – Diérèse : prononcer « entousiasmée » en cinq syllabes. De même au vers 750, prononcer « inquietude » en quatre syllabes. 
 
 [147]  Disyllabique : il faut prononcer « vraye » en deux syllabes (pirouette autorisée par la graphie du mot), en plus de la diérèse sur « passionnée », afin d'obtenir un alexandrin. Somaize étire ici son vers au maximum.
 
@@ -4034,7 +4034,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [160] *La petite* oye, terme générique : « on entend par ces mots les rubans, la garniture et tout ce qui sert à l'embellissement de l'habit » (Richelet). L'expression vient, par analogie, d'un terme de rôtisseur par lequel on désigne les abattis de l'oie mise à la broche.
 
-[161]  Qui s'ajuste bien. Le terme, usité en géométrie, est rarissime et  inopportun. Il n'apparaît qu'en 1842 dans le Dictionnaire de l'Académie Française.
+[161]  Qui s'ajuste bien. Le terme, usité en géométrie, est rarissime et inopportun. Il n'apparaît qu'en 1842 dans le Dictionnaire de l'Académie Française.
 
 [162]  Perdrigeon était un mercier parisien en vogue dans ces années-là. M. Auger, dans son édition des Œuvres de Molière en 1819, rapproche ce vers d'un passage « d'une lettre de Scarron, de la même année que les *Pretieuses* » : "*Ah ! ma chère, à quoi avez-vous passé le jour ? Ah ! ma chère*, répond une autre, *Bastonneau tout pur*." La locution (qui veut dire « acheter des étoffes », selon les explications de Scarron) est présentée comme étant familière aux Précieuses.
 
@@ -4058,9 +4058,9 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [172]  La locution « à droite » n'apparaît qu'à la fin du siècle.
 
-[173]  « Le titre que porte Jodelet est composé de deux  « syllabes sales » (« vit » et « con » sont les termes le plus fréquemment utilisés dans le langage grivois du XVII*e* siècle). Le *Journal de conversation* (1673) de René Bary relève que, pour cette raison, le mot est à proscrire de la langue policée » (*Molière. Œuvres complètes*, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur *Les Précieuses ridicules*, n.1 p. 1223). Le mot est à dessein répété, sans compter que Magdelon et Mascarille surenchérissent par un « viste » et un « ravit », placé à la césure. 
+[173]  « Le titre que porte Jodelet est composé de deux « syllabes sales » (« vit » et « con » sont les termes le plus fréquemment utilisés dans le langage grivois du XVII*e* siècle). Le *Journal de conversation* (1673) de René Bary relève que, pour cette raison, le mot est à proscrire de la langue policée » (*Molière. Œuvres complètes*, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur *Les Précieuses ridicules*, n.1 p. 1223). Le mot est à dessein répété, sans compter que Magdelon et Mascarille surenchérissent par un « viste » et un « ravit », placé à la césure. 
 
-[174]  Le texte donnait « joie » mais cette graphie est nécessaire pour faire du substantif un disyllabique indispensable à la régularité de cet alexandrin.  
+[174]  Le texte donnait « joie » mais cette graphie est nécessaire pour faire du substantif un disyllabique indispensable à la régularité de cet alexandrin. 
 
 [175]  Cette exubérance affective contrevient aux exigences de contenance et de retenue imposées par les lois de la civilité. 
 
@@ -4130,7 +4130,7 @@ Mon Dieu, l'étrange embarras qu'un livre à mettre au jour, et qu'un auteur est
 
 [208]  Homme de basse condition.
 
-[209]  Comprendre :  Je n'ai rien voulu laisser transparaître.
+[209]  Comprendre : Je n'ai rien voulu laisser transparaître.
 
 [210]  Dans la pièce de Molière, la réplique de La Grange est la suivante : « Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets. Entrez, vous autres. » L'édition de 1682 rend la deuxième phrase explicite par une didascalie : « *Trois ou quatre spadassins entrent* ». Somaize omet ce détail. 
 

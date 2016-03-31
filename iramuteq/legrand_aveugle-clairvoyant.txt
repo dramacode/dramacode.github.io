@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body02 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I01 *act_ *date_1716 *creator_legrand
 
 -*who_lisette
 Eh bien ! madame, à quoi vous déterminez-vous ?
@@ -103,7 +103,7 @@ Prendre votre parti.
 -*who_leonor
       Quel parti puis-je prendre ?
 
-**** *book_ *id_body03 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I02 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Hoé, hoé, hoé ! Parbleu, j'ai beau crier :
@@ -163,7 +163,7 @@ Madame... en vérité... c'est de quoi me toucher
 Hâtez-vous de répondre à mon ardeur extrême,
 Et songez que mon maître arrive à l'heure même.
 
-**** *book_ *id_body04 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I03 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Vingt louis ! malepeste ! Allons, mon cher Marin,
@@ -191,7 +191,7 @@ Mettre à bout Léonor et ses amans... Mais chut.
 La voici de retour aussi bien que Lisette.
 Prenons de toutes mains, et dupons la coquette.
 
-**** *book_ *id_body05 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I04 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Eh bien ! ces vingt louis sont-ils prêts ?
@@ -226,7 +226,7 @@ A perdu les attraits qu'il avoit en partage.
 Oui, je saurai vous peindre en remède d'amour
 Mais voici votre tante.
 
-**** *book_ *id_body06 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I05 *act_ *date_1716 *creator_legrand
 
 -*who_marin
       Eh ! madame, bonjour.
@@ -384,7 +384,7 @@ Je dirai ce qu'il faut, vous n'avez rien à craindre ;
 Reposez-vous sur moi. La fourbe a réussi :
 Allons vîte avertir Damon de tout ceci.
 
-**** *book_ *id_body07 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I06 *act_ *date_1716 *creator_legrand
 
 -*who_lisette
 Ah ! j'entends Lempesé.
@@ -395,7 +395,7 @@ Je ne le puis souffrir, défais-t'en au plus vîte
 Je passe cependant dans ton appartement
 Où je veux réfléchir sur mon rôle un moment.
 
-**** *book_ *id_body08 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I07 *act_ *date_1716 *creator_legrand
 
 -*who_leonor
 Qu'il vient mal à propos !
@@ -501,7 +501,7 @@ De voir comme s'exprime un aveugle amoureux.
 -*who_lisette
 J'enrage !
 
-**** *book_ *id_body09 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I08 *act_ *date_1716 *creator_legrand
 
 -*who_damon
       Holà ! Quelqu'un, Marin... tout m'abandonne,
@@ -612,7 +612,7 @@ Ne craignez rien, il est de notre intelligence.
 -*who_lempese
 Je respire.
 
-**** *book_ *id_body10 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I09 *act_ *date_1716 *creator_legrand
 
 -*who_marin
       Ah ! ah ! ah !
@@ -673,7 +673,7 @@ De son retardement à la fin je m'ennuie.
 -*who_lisette
 J'y vais, monsieur.
 
-**** *book_ *id_body11 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I10 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Eh bien ! que t'en semble, Marin ?
@@ -734,7 +734,7 @@ C'est elle-même, songe à seconder ma feinte.
 -*who_marin
 Allez, je suis au fait, n'ayez aucune crainte.
 
-**** *book_ *id_body12 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I11 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Léonor ne vient point ?
@@ -836,7 +836,7 @@ Répondez, Léonor, à mon ardeur extrême.
 -*who_tante
 J'y vais, j'y cours, j'y vole, et je reviens de même.
 
-**** *book_ *id_body13 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I12 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Maugrebleu de la folle !
@@ -856,7 +856,7 @@ Le voilà tout surpris.
 Et je veux le surprendre avecque Léonor.
 Je passe dans ma chambre, et je vous laisse ensemble.
 
-**** *book_ *id_body14 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I13 *act_ *date_1716 *creator_legrand
 
 -*who_leandre
 Eh bien ! mon cher Marin.
@@ -880,7 +880,7 @@ Votre oncle a pris le change.
 Elle est chez le notaire à remplir notre attente.
 Mais voici Léonor qui peut vous assurer...
 
-**** *book_ *id_body15 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I14 *act_ *date_1716 *creator_legrand
 
 -*who_leandre
 Eh bien ! madame, enfin on peut donc espérer...
@@ -904,7 +904,7 @@ Ah ! quel espoir charmant ! souffrez qu'à vos genoux...
 -*who_marin
 Chut ! Ne remuez pas, l'aveugle vient à nous.
 
-**** *book_ *id_body16 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I15 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Charmante Léonor, votre voix adorable
@@ -1004,7 +1004,7 @@ Je vous quitte, et je vais retourner au notaire.
 Allez donc, et hâtez ces précieux instans :
 Qu'il apporte au plutôt le contrat, je l'attends.
 
-**** *book_ *id_body17 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I16 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Il n'est pas avec moi besoin que l'on s'explique ;
@@ -1021,7 +1021,7 @@ Je vais vous le chercher, je sais bien à-peu-près...
 Mais, par ma foi, la bête entre dans nos filets,
 Et le voici lui-même.
 
-**** *book_ *id_body18 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I17 *act_ *date_1716 *creator_legrand
 
 -*who_lempese
       Où Léonor est-elle ?
@@ -1192,7 +1192,7 @@ Mais le notaire vient.
       Cachons-lui tout ceci.
 Toi, prends garde qu'aucun ne nous surprenne ici
 
-**** *book_ *id_body19 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I18 *act_ *date_1716 *creator_legrand
 
 -*who_notaire
 A tous présens salut. Jamais dans mon étude
@@ -1248,7 +1248,7 @@ On aura même égard à votre diligence.
 Je ne demande rien, je suis payé d'avance ;
 Madame Léonor a su prendre ce soin.
 
-**** *book_ *id_body20 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I19 *act_ *date_1716 *creator_legrand
 
 -*who_lempese
 De beaucoup de finesse on n'a pas eu besoin.
@@ -1265,7 +1265,7 @@ Avec notre benêt j'ai bien joué mon rôle :
 Il est temps de finir ; je suis assez instruit,
 Et j'en ai vu bien plus qu'on ne m'en avoit dit.
 
-**** *book_ *id_body21 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I20 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 Monsieur, songez à vous ; Léonor et Léandre
@@ -1288,7 +1288,7 @@ Il va leur préparer encore un nouveau trait :
 D'avance je l'approuve, et mon âme ravie...
 Mais voici tous nos gens, jouons la comédie.
 
-**** *book_ *id_body22 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I21 *act_ *date_1716 *creator_legrand
 
 -*who_lisette
 Eh bien ! dort-il encore ?
@@ -1306,7 +1306,7 @@ S'il entendoit la voix de Léandre.
       Fort bien.
 Discourez à votre aise et n'appréhendez rien.
 
-**** *book_ *id_body23 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I22 *act_ *date_1716 *creator_legrand
 
 -*who_leandre
 Je ne reviens ici qu'en tremblant, je l'avoue.
@@ -1329,7 +1329,7 @@ Sans nous en informer aura joué ce tour.
 Laissez-les entr'eux deux démêler la fusée.
 Je vous la garantis femelle aussi rusée…
 
-**** *book_ *id_body24 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I23 *act_ *date_1716 *creator_legrand
 
 -*who_marin
 O disgrâce terrible ! inopiné malheur !
@@ -1401,7 +1401,7 @@ Dans son grand cabinet vous ferez mieux d'entrer.
 -*who_leandre
 Juste ciel ! quel revers !
 
-**** *book_ *id_body25 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I24 *act_ *date_1716 *creator_legrand
 
 -*who_damon
       Ah ! quel bonheur extrême !
@@ -1487,7 +1487,7 @@ Et cet objet pour vous est un nouveau spectacle.
 D'où vous vient donc à tous ce grand étonnement ?
 Est-ce de voir la fin de mon aveuglement ?
 
-**** *book_ *id_body26 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I25 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Mais j'aperçois, je crois, mon médecin. De grâce
@@ -1519,7 +1519,7 @@ On peut tout hasarder après un tel succès.
 -*who_marin
 Ah ! parbleu, voici l'autre.
 
-**** *book_ *id_body27 *act_ *date_1716 *creator_legrand
+**** *book_ *id_I26 *act_ *date_1716 *creator_legrand
 
 -*who_damon
 Ah ! ah ! c'est notre Tante.

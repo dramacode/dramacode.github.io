@@ -59,7 +59,7 @@ Achevé d'imprimer pour la premiere fois le dernier jour de janvier 1642.
 
 Les exemplaires ont esté fournis.
 
-**** *book_ *id_body-501 *act_ *date_1642 *creator_ouville
+**** *book_ *id_I01 *act_I *date_1642 *creator_ouville
 
 -*who_florestan
 Oui Paris en effet est l'abregé du monde
@@ -95,7 +95,7 @@ Et beaucoup moins encor en venir aux reproches :
 Mais à ce que je croy nous en sommes bien proches,
 Demande son logis.
 
-**** *book_ *id_body-502 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_I02 *act_I *date_1642 *creator_ouville 
 
 -*who_angelique
       Si comme je le croy,
@@ -135,7 +135,7 @@ J'useray de la force.
 Quelque subtil⁎ moyen, à propos cette lettre
 Nous y pourra servir.
 
-**** *book_ *id_body-503 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_I03 *act_I *date_1642 *creator_ouville 
 
 -*who_licidas
       Ouy je la veux cognoistre
@@ -187,7 +187,7 @@ As-tu du cœur⁎ ? il faut le faire icy paroistre.
 Toubeau, je n'oserois, j'offencerois mon maistre,
 Il me l'a deffendu.
 
-**** *book_ *id_body-504 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_I04 *act_I *date_1642 *creator_ouville 
 
 -*who_lizandre
       Que vois-je justes Dieux ?
@@ -303,7 +303,7 @@ M'en doutais-je pas bien ? on a payé mon maistre,
 Il le meritoit bien pour avoir imité
 Ce fol de Don Quixote en sa temerité.
 
-**** *book_ *id_body-505 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_I05 *act_I *date_1642 *creator_ouville 
 
 -*who_angelique
 Oste-moy promptement ces habits Isabelle,
@@ -396,7 +396,7 @@ Madame taisez-vous,vostre frere entre icy.
 -*who_angelique
 Ah dieux ! Que j'apprehende, il semble estre en colere.
 
-**** *book_ *id_body-506 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_I06 *act_I *date_1642 *creator_ouville 
 
 -*who_licidas
 Que faites-vous ma sœur ?
@@ -601,7 +601,7 @@ Si vous aviez dessein d'en user autrement.
 -*who_licidas
 Bien, je m'en vay le voir.
 
-**** *book_ *id_body-507 *act_ *date_1642 *creator_ouville
+**** *book_ *id_I07 *act_I *date_1642 *creator_ouville
 
 -*who_isabelle
       Qu'en dites-vous, Madame ?
@@ -708,7 +708,7 @@ Par cette lascheté desmentit aujourd'huy
 Les rares qualitez qui se trouvent en luy.
 Fin du premier Acte.
 
-**** *book_ *id_body-601 *act_ *date_1642 *creator_ouville
+**** *book_ *id_II01 *act_II *date_1642 *creator_ouville
 
 -*who_lizandre
 Si le courage⁎ est grand, la maison est estrette,
@@ -739,7 +739,7 @@ Lizandre, vostre frere est un homme de cœur⁎,
 Je veux doresnavant estre son serviteur,
 Et l'honorer bien fort, sa vertu⁎ m'y convie.
 
-**** *book_ *id_body-602 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_II02 *act_II *date_1642 *creator_ouville 
 
 -*who_licidas
 C'est moy qui dois pour vous mettre cent fois la vie.
@@ -772,7 +772,7 @@ Qu'elle perdra beaucoup ayant changé de maistre.
 -*who_lizandre
 Laissons ces compliments qui sont hors de saison.
 
-**** *book_ *id_body-603 *act_ *date_1642 *creator_ouville
+**** *book_ *id_II03 *act_II *date_1642 *creator_ouville
 
 -*who_carrille
 Au diable mille fois je donne la maison,
@@ -854,7 +854,7 @@ Carrille escoute un mot.
 -*who_carrille
       Bien Monsieur sans remise.
 
-**** *book_ *id_body-604 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_II04 *act_II *date_1642 *creator_ouville 
 
 -*who_carrille
 Or ça revisitons un peu nostre valize,
@@ -875,7 +875,7 @@ Mais prenons notre linge et le portons blanchir.
 Pourquoy rien refermer, laissons tout de la sorte,
 J'ay la clef, c'est à faire à bien fermer la porte.
 
-**** *book_ *id_body-605 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_II05 *act_II *date_1642 *creator_ouville 
 
 -*who_isabelle
 Madame, tout à l'heure on me vient d'advertir
@@ -1056,7 +1056,7 @@ Sauvons-nous promptement.
       Laisse tout comme il est,
 Je mets ma lettre là.
 
-**** *book_ *id_body-606 *act_ *date_1642 *creator_ouville
+**** *book_ *id_II06 *act_II *date_1642 *creator_ouville
 
 -*who_carrille
       Bon, mon fait est tout prest,
@@ -1080,7 +1080,7 @@ A l'ayde mes amis, au secours de Carrille,
 Empeschez que le diable à present ne l'estrille,
 Il est en son pouvoir.
 
-**** *book_ *id_body-607 *act_ *date_1642 *creator_ouville
+**** *book_ *id_II07 *act_II *date_1642 *creator_ouville
 
 -*who_licidas
       Dy, qui te fait crier ?
@@ -1162,7 +1162,7 @@ Tay toy, tu feras mieux, il te faut interdire
 Le mestier de bouffon si tu t'en veux mesler,
 Au plus chaud de l'esté tu nous ferois geler.
 
-**** *book_ *id_body-608 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_II08 *act_II *date_1642 *creator_ouville 
 
 -*who_florestan
 Et bien traistre, qui peut souffrir tes impudences,
@@ -1453,7 +1453,7 @@ Non n'ayez pas de peur, qu'icy seul je demeure,
 Je veux souper aussi, je m'en vay tout à l'heure.
 Fin du second Acte.
 
-**** *book_ *id_body-701 *act_ *date_1642 *creator_ouville
+**** *book_ *id_III01 *act_III *date_1642 *creator_ouville
 
 -*who_lucinde
 J'avouë en vérité que vous me surprenez
@@ -1703,7 +1703,7 @@ Depesche toy, va-tost, qu'est-ce que tu regardes ?
 J'aurois un grand desir d'apprendre du destin,
 A quoy reüssira cette histoire à la fin.
 
-**** *book_ *id_body-702 *act_ *date_1642 *creator_ouville
+**** *book_ *id_III02 *act_III *date_1642 *creator_ouville
 
 -*who_lizandre
 Voulez-vous voir le bal ? vous en prend-il envie ?
@@ -1744,7 +1744,7 @@ Vous avez trop de temps.
       Donc sans plus de demeure
 Je vous iray trouver chez vous avant une heure.
 
-**** *book_ *id_body-703 *act_ *date_1642 *creator_ouville
+**** *book_ *id_III03 *act_III *date_1642 *creator_ouville
 
 -*who_florestan
 Carrille, que fais-tu ?
@@ -1795,7 +1795,7 @@ Va querir un flambeau, je t'attens à la porte.
 -*who_carrille
 Ah Dieux ! c'est à ce coup, Monsieur, qu'il nous emporte.
 
-**** *book_ *id_body-704 *act_ *date_1642 *creator_ouville
+**** *book_ *id_III04 *act_III *date_1642 *creator_ouville
 
 -*who_isabelle
 Je sçay qu'ils sont dehors, on m'en vient d'advertir,
@@ -1815,7 +1815,7 @@ Qu'on ouvre cette porte, ah ! je perds tous les sens⁎ ;
 Celuy qui l'ouvre encor, porte de la lumiere,
 Que deviendray-je ? il faut me cacher là derriere.
 
-**** *book_ *id_body-705 *act_ *date_1642 *creator_ouville
+**** *book_ *id_III05 *act_III *date_1642 *creator_ouville
 
 -*who_carrille
 Esprit je te conjure en toute humilité
@@ -2063,7 +2063,7 @@ Je n'en veux point avoir de plus grand tesmoignage.
 -*who_florestan
 Allons sans discourir en ce lieu davantage.
 
-**** *book_ *id_body-706 *act_ *date_1642 *creator_ouville
+**** *book_ *id_III06 *act_III *date_1642 *creator_ouville
 
 -*who_isabelle
 Tout comme je vous dis estoit desesperé,
@@ -2115,7 +2115,7 @@ Je ne veux pas qu'un homme à qui je veux du bien,
 Cherisse si je puis d'autre objet que le mien.
 Fin du troisiesme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1642 *creator_ouville
+**** *book_ *id_IV01 *act_IV *date_1642 *creator_ouville
 
 -*who_angelique
 Isabelle m'as-tu preparé la lumiere ?
@@ -2142,7 +2142,7 @@ Mieux que vous ne croyez.
       Et moy je vous proteste⁎
 Que je viendray fort bien à bout de tout le reste.
 
-**** *book_ *id_body-802 *act_ *date_1642 *creator_ouville
+**** *book_ *id_IV02 *act_IV *date_1642 *creator_ouville
 
 -*who_florestan
 On t'a pris ton flambeau, maraut, je gagerois
@@ -2202,7 +2202,7 @@ Peut-on desavoüer ce qui nous est visible ?
 -*who_florestan
 Je suis quasi forcé de croire un impossible.
 
-**** *book_ *id_body-803 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_IV03 *act_IV *date_1642 *creator_ouville 
 
 -*who_angelique
 Mettons là la chandelle, et voyons ces escrits.
@@ -2425,7 +2425,7 @@ Tout m'arrive grands Dieux comme je le souhaite,
 J'ay pour m'eschaper d'eux trouvé cette deffaite,
 Rentrons et refermons aussi-tost apres nous.
 
-**** *book_ *id_body-804 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_IV04 *act_IV *date_1642 *creator_ouville 
 
 -*who_florestan
 Tout est fermé, Madame, avec de bons verrous,
@@ -2607,7 +2607,7 @@ Pour aller aux Enfers trouver une sorciere,
 Qu'en est-il de besoin ? Grand Dieu je vous promets
 Trente livres d'encens si j'en reviens jamais.
 
-**** *book_ *id_body-805 *act_ *date_1642 *creator_ouville
+**** *book_ *id_IV05 *act_IV *date_1642 *creator_ouville
 
 -*who_lucinde
 Que me comptez-vous là, grands Dieux ?
@@ -2656,7 +2656,7 @@ Agissez comme il faut.
       Laissez-m'en le soucy⁎.
 Fin du quatriesme Acte.
 
-**** *book_ *id_body-901 *act_ *date_1642 *creator_ouville
+**** *book_ *id_V01 *act_V *date_1642 *creator_ouville
 
 -*who_isabelle
 Permettez-moy, Monsieur, qu'en ce lieu je vous laisse,
@@ -2725,7 +2725,7 @@ Je voy de la clarté, je croy par cette fente.
 On ouvre, justes Dieux, que mon ame est contente.
 Carrille, vois-tu pas cette rare beauté ?
 
-**** *book_ *id_body-902 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_V02 *act_V *date_1642 *creator_ouville 
 
 -*who_carrille
 C'est à ce coup, Monsieur, que je suis enchanté⁎.
@@ -2960,7 +2960,7 @@ Que nous sert-on donc ?
 -*who_lucinde
       Madame, tout est prest.
 
-**** *book_ *id_body-903 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_V03 *act_V *date_1642 *creator_ouville 
 
 -*who_angelique
 Apelle-t'on ?
@@ -3102,7 +3102,7 @@ Il trouvera ces ais dé-joints, je suis perduë.
 -*who_lucinde
 Ne vous affligez point, sans en sçavoir l'issuë.
 
-**** *book_ *id_body-904 *act_ *date_1642 *creator_ouville
+**** *book_ *id_V04 *act_V *date_1642 *creator_ouville
 
 -*who_florestan
 Nous sommes, que je croy, veu cette obscurité
@@ -3175,7 +3175,7 @@ De pouvoir au besoin m'ayder de mon courage.
 -*who_carrille 
 Je me coule pour moy derriere ce buffet.
 
-**** *book_ *id_body-905 *act_ *date_1642 *creator_ouville
+**** *book_ *id_V05 *act_V *date_1642 *creator_ouville
 
 -*who_licidas
 Quoy donc, c'est Florestan ?
@@ -3296,7 +3296,7 @@ J'ay d'apprehension lasché tout dans mes chausses.
 Mais quoy sans les laver les laisserois-je ainsi ?
 Oüy, suivons-les de loing, j'aurois peur seul icy.
 
-**** *book_ *id_body-906 *act_ *date_1642 *creator_ouville 
+**** *book_ *id_V06 *act_V *date_1642 *creator_ouville 
 
 -*who_angelique
 Que me dis-tu, grands dieux !
@@ -3329,7 +3329,7 @@ Mais quoy, laisserons-nous Florestan au besoin ?
 Que pouvons-nous pour luy ? dieux si vous estes sage
 Fuyons sans consulter sur ce fait davantage.
 
-**** *book_ *id_body-907 *act_ *date_1642 *creator_ouville
+**** *book_ *id_V07 *act_V *date_1642 *creator_ouville
 
 -*who_lizandre
 Où vas-tu mal-heureuse ? et vous Lucinde aussi

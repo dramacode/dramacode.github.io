@@ -11,8 +11,7 @@ La Dame suivante
 Comédie
 
 A PARIS, Chez TOUSSAINCT QUINET, au Palais, sous la montée de la Cour des Aydes. M. DC. XXXXV. AVEC PRIVILEGE DU ROY.
-Édition critique établie par Fabienne Sebert dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (1999-2000).
+Édition critique établie par Fabienne Sebert dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (1999-2000).
 
 
 # Introduction
@@ -863,7 +862,7 @@ Vous sçaurez le premier cette heureuse nouvelle.
 
     CLIMANTE.
 Adieu donc cher Amy, puis que je ne puis mieux,  
-Je vay faire pour vous des prieres aux Cieux.   
+Je vay faire pour vous des prieres aux Cieux.    
 
 
 ### SCENE II.
@@ -886,7 +885,7 @@ Je vous le fais sçavoir par son commandement.
 Mais que veut cette femme ?  
 
     CARLIN.
-        Elle vient brusquement.  
+        Elle vient brusquement.   
 
 
 ### SCENE III.
@@ -935,7 +934,7 @@ Je vous garantirois où je perdrois la vie.
 J'accepte cet honneur, mais à condition  
 Qu'encor je vous auray cette obligation,  
 Que dans l'apartement où vous me voulez mettre,  
-Nul n'entrera que vous, le voulez-vous promettre ?  
+Nul n'entrera que vous, le voulez-vous promettre ?   
 
     CLIMANTE.
 Non seulement je doy vous accorder ce poinct,  
@@ -1439,7 +1438,7 @@ Que ce soit Leonor, et non pas Isabelle.
     CLIMANTE.
 Vous me permettrez bien de r'entrer avec elle.  
 Climante r'entre dans le Cabinet.
-
+ 
 
 
 ### SCENE X.
@@ -1718,7 +1717,7 @@ Courons, cette impudente a destruit mon amour.
 L'adrette [62], la matoise⁎, ô Dieux le plaisant tour !  
 Ils courent apres Leonor.
 
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1820,7 +1819,7 @@ N'est point à sa maison, il nous en faut aller :
 Nous reviendrons tantost ; Dieux soyés [69]-moi propices [70] !  
 Ne payez pas si mal mes fidelles services ;  
 Ou me donnez la mort, si je ne puis un jour  
-Recueillir aucun fruit de ma parfaite Amour [71].  
+Recueillir aucun fruit de ma parfaite Amour [71].   
 
 
 ### SCENE II.
@@ -1934,7 +1933,7 @@ L'ordre que je te donne.
 
     PAMPHILE.
         Il n'est pas difficile,  
-Vous estes sans mentir estrange en vos desseins.  
+Vous estes sans mentir estrange en vos desseins.   
 
 
 ### SCENE III.
@@ -2077,7 +2076,7 @@ Je r'entre, l'heur m'en veut [87], j'ay si bien rencontré⁎,
 Que servante jamais ne fust plus à mon gré.  
 Haut.
 
-Pren congé de ton Pere, et luy dy qu'il s'en aille.  
+Pren congé de ton Pere, et luy dy qu'il s'en aille.   
 
 
 ### SCENE IV.
@@ -2103,7 +2102,7 @@ Climante paroist.
 
         **Helas ! je voy venir  
 Climante ; justes Dieux que doy-je devenir ?  
-Il faut dissimuler.  
+Il faut dissimuler.   
 
 
 ### SCENE V.
@@ -2138,7 +2137,7 @@ Je sers ici, Monsieur.
 
     CLIMANTE.
         J'ay tort, je le confesse,  
-O Dieux qu'elle a d'appas ! quel beau teint ! quels beaux yeux !  
+O Dieux qu'elle a d'appas ! quel beau teint ! quels beaux yeux !   
 
 
 ### SCENE VI.
@@ -2203,7 +2202,7 @@ Si tard que vous pensez.
     ISABELLE.
 Je m'en vay seulement dire un mot à mon pere.  
 Climante et Leonor r'entrent.
-
+ 
 
 
 ### SCENE VII.
@@ -2370,7 +2369,7 @@ Le voudra-t'elle bien ? dy moy ce qui t'en semble,
 Je ne l'ay jamais veu.  
 
     CARLIN.
-        Mot [95], ils sortent ensemble.  
+        Mot [95], ils sortent ensemble.   
 
 
 ### SCENE VIII.
@@ -2438,7 +2437,7 @@ Climante s'en va.
     ISABELLE *bas en r'entrant au logis.*
 Tout m'arrive à souhait, grands Dieux je vous conjure  
 De donner à Dorise une heureuse⁎ adventure [100].  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III.
@@ -2524,7 +2523,7 @@ Et puis avecque luy vous serez miserable.
 
     LEONOR.
 Sans doute tu dis vray, mais je l'ayme, tay-toy,  
-Le voici, je l'entens.  
+Le voici, je l'entens.   
 
     ISABELLE *bas.*
         Il est vray, je le voy,  
@@ -2617,7 +2616,7 @@ Emporta hier [110] la clef ?
 
     CLIMANTE.
         Tu dis vray, mais voilà  
-L'autre que j'ay sur sur moy.  
+L'autre que j'ay sur sur moy.   
 Comme Climante veut ouvrir le cabinet, Dorise ouvre elle-mesme, sort avec sa coiffe et son masque.
 
 
@@ -2656,7 +2655,7 @@ Comme il fait l'estonné [112] ?
 
     LEONOR.
 Il m'attend, il me traitte⁎, et ne peut un seul jour  
-Bannir l'infame objet⁎ d'un impudique Amour.  
+Bannir l'infame objet⁎ d'un impudique Amour.   
 
     DORISE *à Climante.*
 Estes-vous si surpris que vous témoignez l'estre,  
@@ -3087,7 +3086,7 @@ Je vais y travailler.
 Bas.
 
         **Tout va bien jusqu'ici :  
-Dieux ! faites-moy le bien que tout s'acheve ainsi.  
+Dieux ! faites-moy le bien que tout s'acheve ainsi.   
 
 
 ### SCENE VII.
@@ -3198,7 +3197,7 @@ Je viens dans un quart-d'heure, et plutost [134] si je puis.
 
     CLIMANTE.
 Grands Dieux ! delivrez moy de la peine où je suis.  
-Fin du troisiesme Acte.
+Fin du troisiesme Acte. 
 
 
 ## ACTE IV.
@@ -3292,7 +3291,7 @@ Mais j'en ay le profit, je ne m'en sçaurois taire,
 Je vous dis en trois mots tout ce qu'elle m'a dit.  
 Après m'avoir payée elle a repris l'habit,  
 Et puis j'ay pris congé de ce parfait visage :  
-Je ne sçaurois, Monsieur, en dire davantage.  
+Je ne sçaurois, Monsieur, en dire davantage.   
 
     CLIMANTE *bas.*
 Sans doute Dorotée a dit la verité,  
@@ -3317,7 +3316,7 @@ Monsieur, je vous rends grace.
         **Ah ! je bruslois en l'ame  
 Du desir de sçavoir quelle estoit cette Dame.  
 Il r'entre dans son cabinet.
-
+ 
 
 
 ### SCENE II.
@@ -3358,7 +3357,7 @@ Si je te soubçonnois [144] d'aucune [145] trahison ?
     CARLIN.
 Tu m'accuses à tort, va tu n'as pas raison.  
 Un bel œil pour me vaincre est une faible amorce,  
-Ta bague, et tes escus ont beaucoup plus de force.  
+Ta bague, et tes escus ont beaucoup plus de force.   
 
 
 ### SCENE III.
@@ -3403,7 +3402,7 @@ Vien-ça, que luy dis-tu ?
 
     DORISE *à Carlin.*
 Or sus⁎ declare-toy, dis à qui tu veux estre,  
-Je veux sçavoir ici si tu n'es pas un traistre.  
+Je veux sçavoir ici si tu n'es pas un traistre.   
 
     ISABELLE *à Carlin.*
 Parle donc promptement.  
@@ -3450,7 +3449,7 @@ Adieu, ton Maistre vient.
         **Va, je n'aime que toy.  
 
     DORISE *en s'en allant.*
-Je ne souffriray pas qu'on se mocque de moy.  
+Je ne souffriray pas qu'on se mocque de moy.   
 
 
 ### SCENE IV.
@@ -3494,7 +3493,7 @@ Cette arrogante a tort se croyant outragée [154],
 Dessous le joug d'Hymen aujourd'huy s'est rangée  
 Avec un autre Amant, ou [155], pour n'en mentir point,  
 Si cet Hymen n'est pas accomply de tout poinct,  
-La chose est resoluë.  
+La chose est resoluë.   
 
     CLIMANTE.
         Elle s'est bien hastée :  
@@ -3626,7 +3625,7 @@ Le Soleil à l'estoille, et le Ciel à la terre,
 Quoy qu'elle semble avoir quelque peu de mon air.  
 
     CLIMANTE.
-S'il est vray, c'est un Ange, il n'en faut point douter.  
+S'il est vray, c'est un Ange, il n'en faut point douter.   
 
 
 ### SCENE V.
@@ -3689,7 +3688,7 @@ Me dis-tu point adieu ?
 
     ISABELLE.
         N'en dy pas davantage,  
-Va, va, je te cognoy, tu n'es rien qu'un volage.  
+Va, va, je te cognoy, tu n'es rien qu'un volage.   
 
 
 ### SCENE VI.
@@ -3789,7 +3788,7 @@ l'Amour⁎, vous le sçavez, ne veut point de témoins.
 
     CLIMANTE.
 J'ay deux heures encor de loisir pour le moins,  
-En puis-je estre picqué⁎ ne l'ayant jamais veuë ?  
+En puis-je estre picqué⁎ ne l'ayant jamais veuë ?   
 
     ADRASTE.
 Allons en attendant faire un tour par la ruë,  
@@ -3894,7 +3893,7 @@ Par ce que tu verras de l'esprit d'Isabelle.
 Mais Leonor paroist, elle sort de chez elle,  
 Retirez-vous tous deux.  
 Dorise et Pamphile sortent.
-
+ 
 
 
 ### SCENE IX.
@@ -4103,7 +4102,7 @@ Entre deux beaux coussins d'estre le cul en terre.
 
     CLIMANTE.
 Dorotée a dit vray, va Carlin, je la croy  
-Puis qu'elle m'en asseure, elle est digne de foy.  
+Puis qu'elle m'en asseure, elle est digne de foy.   
 
 
 ### SCENE II.
@@ -4123,7 +4122,7 @@ Que tu viennes [185] à bout [186].
 
     ISABELLE.
         Cessez d'apprehender,  
-Reposez-vous sur moy, la chose est tres-aisée.  
+Reposez-vous sur moy, la chose est tres-aisée.   
 
     LEONOR.
 Il le faut confesser, tu t'es bien déguisée,  
@@ -4170,7 +4169,7 @@ Ce soir elle me preste à dessein son logis,
 Et m'a par ma cadette envoyé ses habits  
 Qui me viennent⁎ bien mieux que n'eussent fait tous autres,  
 C'est le sujet⁎ pourquoy [188] je n'ay pas pris [189] les vostres,  
-On diroit que ceux-cy sont fait exprez pour [190] moy.  
+On diroit que ceux-cy sont fait exprez pour [190] moy.   
 
     LEONOR.
 Tu ne pourras jamais l'abuser que je croy,  
@@ -4219,7 +4218,7 @@ ISABELLE, DORISE.
     ISABELLE *dans la ruë.*
 Allons, ma sœur, allons. Au coin de cette ruë,  
 Quand tu ne seras plus de personne aperceuë,  
-Retourne à la maison.  
+Retourne à la maison.   
 
     DORISE.
         Je m'en vay m'échaper ;  
@@ -4235,7 +4234,7 @@ Le hazard⁎ est bien grand que vous allez courir.
     ISABELLE.
 Ne sors pas du logis, je t'envoyeray querir.  
 Elles s'en vont toutes deux, l'une par un costé et l'autre par l'autre.
-
+ 
 
 
 ### SCENE IV.
@@ -4257,7 +4256,7 @@ Qui ne fait que mentir ?
 
     CLIMANTE.
         Non, tant que je vivray  
-Je croiray Dorotée, elle a toûjours dit vray.  
+Je croiray Dorotée, elle a toûjours dit vray.   
 
     CARLIN.
 Pour se mocquer de vous, elle s'est advisée⁎  
@@ -4347,7 +4346,7 @@ Mais sous un autre habit ne vous ay-je point veuë ?
     ISABELLE.
 Non, mais c'est à la voix que vous m'avez cognuë  
 Vous m'avez peu parler seulement une fois  
-Qui fut hier au soir.  
+Qui fut hier au soir.   
 
     CLIMANTE *à Carlin.*
         Carlin, j'en jurerois.  
@@ -4396,7 +4395,7 @@ Qui me refugié [198] chez vous hier au soir,
 Pour avoir plus long-temps le bonheur de vous voir.  
 Je feigny que j'estois d'un mary poursuivie,  
 Qui vouloit en cholere attenter sur ma vie :  
-Mais je suis fille encor, je mentois à dessein.  
+Mais je suis fille encor, je mentois à dessein.   
 
     CARLIN *bas à Climante.*
 Elle mentit hier, et mentira demain,  
@@ -4420,7 +4419,7 @@ Si cette jeune fille a bien fait son devoir.
 
     CLIMANTE.
 Mais à tous vos desseins pouvois-je rien [200] comprendre ?  
-Madame, sans parler, pouvois-je vous entendre ?  
+Madame, sans parler, pouvois-je vous entendre ?   
 
     ISABELLE.
 Non, pour moy Dorotée en a pris le souci⁎,  
@@ -4445,7 +4444,7 @@ Dans ma confusion je ne sçay que vous dire.
 C'est moy qui doy, Madame, implorer à genoux  
 L'heur⁎ de vous posseder en qualité d'espoux :  
 Je me tiens glorieux, et renonce à tout autre  
-Si vous offrant ma main vous me donnez la vostre.  
+Si vous offrant ma main vous me donnez la vostre.   
 
     ISABELLE *luy donnant la main.*
 Me voici, je l'avoüe, au bout de mes souhaits,  
@@ -4468,7 +4467,7 @@ Voyez-vous pas [206] que c'est une fourbe inventée ?
 
     CLIMANTE.
 Mais quoy ! chez Leonor verrons-nous Dorotée  
-Sans qu'on charme⁎ mes yeux ? sans qu'on trompe mes sens ?  
+Sans qu'on charme⁎ mes yeux ? sans qu'on trompe mes sens ?   
 
     ISABELLE.
 Je vous la feray voir.  
@@ -4488,7 +4487,7 @@ Vous l'y verrez.
 
     CLIMANTE.
         Allons, j'en veux estre éclairci :  
-Soyez juges, mes yeux, de ce prodige ici [207].  
+Soyez juges, mes yeux, de ce prodige ici [207].   
 
 
 ### SCENE VII.
@@ -4536,7 +4535,7 @@ Timandre, accordez-moy l'heur⁎ de la posseder.
 Regardez⁎, Leonor, ce que vous voulez faire.  
 
     LEONOR.
-Puis qu'il vous plaist, Monsieur, je le veux satisfaire.  
+Puis qu'il vous plaist, Monsieur, je le veux satisfaire.   
 
     TIMANDRE.
 Je conjure le Ciel que selon vos desirs  
@@ -4564,7 +4563,7 @@ Ce bel objet⁎ que rien ne sçauroit égaler,
 Me peut, si je vous perds, aysément consoler.  
 
     ADRASTE *bas, estonné.*
-Que vois-je, justes Dieux ! que mon ame est ravie⁎ !  
+Que vois-je, justes Dieux ! que mon ame est ravie⁎ !   
 
     LEONOR* à Climante* ;
 Si vous considerez mon bonheur sans envie,  
@@ -4590,7 +4589,7 @@ Faites-moy, s'il vous plaist, appeler Dorotée.
 Que luy voulez-vous donc ?  
 
     CLIMANTE.
-        La voir tant seulement.  
+        La voir tant seulement.   
 
     LEONOR *à Adraste bas.*
 Et bien, qu'en dites-vous ? c'est elle asseurément,  
@@ -4619,7 +4618,7 @@ A Climante.
 
 Ah perfide ! ah volage ! indigne de pitié,  
 Le Ciel me vange bien de ton peu d'amitié,  
-Tu quittes la Maistresse pour prendre la Suivante [213].  
+Tu quittes la Maistresse pour prendre la Suivante [213].   
 
     CLIMANTE* regardant Isabelle.*
 Dieux [214] ! quelle trahison ?  
@@ -4696,7 +4695,7 @@ Que je devois servir, vous, commander chez moy.
 
     ISABELLE.
 Cet excez de faveur surpasse mon attente :  
-Mais quoy ! vous me traitez comme vostre servante.  
+Mais quoy ! vous me traitez comme vostre servante.   
 
     TIMANDRE.
 Laissons ces complimens, songeons à terminer  
@@ -4720,7 +4719,7 @@ Pourveu qu'elle ait sa bague et cent escus aussi.
 
     ISABELLE.
 Va, je t'en donne mille, en veux-tu davantage ?  
-Pourrois-tu souhaitter un plus beau mariage.  
+Pourrois-tu souhaitter un plus beau mariage.   
 
     CARLIN.
 Je seray plus heureux que mon Maistre à la fin.  
@@ -4751,9 +4750,7 @@ Fin de la Comedie de la Dame Suivante.
 Les Exemplaires ont esté fournis.
 
 
-# LexiqueAccidentTrouble.V. 267Accord« Se dit figurément de l'union de deux personnes qui vivent ensemble. » (Fur.)V. 670 ; 1564AdmirableÉtonnant.V. 1348Admiration« Action par laquelle on regarde avec estonnement quelque chose de grand et de surprenant. » (Fur.) A le même sens que *surprise*.V. 1321Adviser« Se dit figurément des découvertes qui se font par les yeux de l'esprit aprés quelque méditation. Il s'est *advisé* d'une bonne invention. » (Fur.)V. 1645AjusterOrner, embellir, parer.V. 324 ; 580 ; 823Amour (faire l')« Se livrer à la galanterie. » (Ac.) « on dit qu'un jeune homme fait l'amour à une fille, quand il la recherche en mariage. » (Fur.)V. 669 ; 1385Apparence« Se dit aussi de ce qui est opposé à la réalité, qui n'est que faux, feint& simulé. » (Fur.)V. 1088Arrester« Signifie tarder, s'amuser, rester quelques temps dans un lieu sans en sortir. » (Ac.)V. 22 ; 893 ; 978AsseuranceConstance, fermeté.V. 139AucunementEn quelque façon, jusqu'à un certain point.V. 746Autrefois« Signifie aussi un autre temps : je ne puis faire cela maintenant, ce sera pour une autrefois. » (Fur.)V. 646 ; 1382Badin, ine« Qui est folastre, peu serieux, qui fait des plaisanteries. » (Fur.)V. 1200Briser« Se dit absolument, quand on veut interrompre ou faire taire quelqu'un qui dit des choses désagréables, ou qui peuvent faire naître quelque querelle. » (Fur.)V. 125 ; 1701Brutal« Celuy qui n'a pas plus d'esprit & de conduitte qu'une beste. » (Fur.)V. 45CaresserFlatter, cajoler.V. 972Chagrin« Quelques-uns  derivent ce mot  de *aigrir*, parce qu'il cause quelque aigreur ou amertume dans l'esprit. » (Fur.) A le même sens que *rancune.*V. 1226Change« On dit figurément qu'un homme a pris le change, qu'on luy a donné le change, quand on luy a fait quitter quelque bonne affaire pour en poursuivre une autre qui luy est moins avantageuse. » (Fur.)V. 1280*Donner le change à quelqu'un* signifie « Détourner adroitement quelqu'un du dessein, des vues qu'il peut avoir, en lui donnant lieu de croire une chose pour une autre. » (Ac.)V. 448CharmerA le sens d'*ensorceler, enchanter*.V. 863 ; 1344 ; 1357 ; 1751Chaude (à la) : adv.« D'une maniere prompte & violente. » (Fur.)V. 52Cœur« Signifie quelquefois, Vigueur, force, courage, intrépidité. » (Fur.)V. 1628
-          CognoistreReconnaître.V. 934ComplexionTempérament, « habitude, disposition naturelle du corps. » (Fur.)V. 1361Composer« Signifie encore en Morale, Régler ses moeurs, ses actions, ses paroles. » (Fur.)V. 1143Consulter« Signifie aussi, Etre irresolu, incertain quel party on doit choisir. » (Fur.). Équivaut à *hésiter*.V. 770 ; 1692Contraindre« Gesner, incommoder. » (Fur.)V. 7ConvaincreFaire apparaître manifestement comme coupable.V. 336Couler (se)« Signifie encore, Entrer en quelque maison, s'y glisser avec adresse. » (Fur.)V. 938Cy-devantAuparavant.V. 1532Deffier (se)« Avec le pronom personnel, signifie, N'estre pas assûré de quelque personne, ou de quelque chose. » (Fur.) Signifie *se méfier*.V. 85 ; 1342Delicat« Se dit encore en ce sens de ce qui est foible ou fragile, qui ne peut pas resister aux attaques des corps estrangers. » (Fur.)V. 1255Démentir« Reprocher à quelqu'un qu'il a menti, luy soûtenir injurieusement qu'il n'a pas dit vray. » (Fur.)V. 350 ; 358 ; 1102Demeure« Se dit, en termes de Jurisprudence, du Retard, du temps qui court au-delà du terme où l'on est tenu de payer ou de faire quelque autre chose. » (Ac.) *Sans demeure* signifie *sans retard*.V. 832DevantAuparavant.V. 258Avant.V. 1881Diligence (en)Rapidement, en vitesse.V. 699Diligenter (se)Se dépêcher.V. 704Divertir (se)« On dit qu'une femme se divertit lors qu'elle fait l'amour. » (Fur.)V. 30DresserPréparer, arranger, mettre en état. *Dresser le ménage* signifie *faire le ménage*.V. 565Éclat« Bruit, rumeur, scandale. » (Ac.)V. 886EmmenerAu sens de *amener*.V. 300 ; 362 ; 660 ; 734 ; 849 ; 1094Empescher« Signifie aussi Embarrasser, occuper. » (Fur.)V. 1212Enchanter« Charmer, ensorceler par des sons, par des paroles, par des figures, par des opérations magiques. » (Ac.)V. 302 ; 845 ; 1673EnnuiSouci, chagrin, tourment.V. 398 ; 784 ; 1219Entendre« Consentir à quelque proposition. » (Fur.)V. 1484Comprendre.V. 492 ; 707Équipage« Provision de tout ce qui est necessaire pour voyager, ou s'entretenir honorablement, soit de valets, soit de chevaux, carrosses, habits, armes, … » (Fur.)V. 1133Estonner (s')S'effrayer.V. 1259 ; 1453Estre en peineÊtre inquiet.V. 242 ; 659 ; 1287 ; 1582Fable« Signifie absolument Fausseté. » (Fur.) A le sens de *mensonge*.V. 1092 ; 1372Faux (à)Locution adverbiale, signifie *à tort, injustement*. (Ac.)V. 425Ferrer la mule : proverbe.« Se dit quand les valets ou les commissionnaires trompent sur le prix des marchandises, & les comptent plus qu'ils ne les ont achetées. » (Fur.)V. 88Finesse« Se dit aussi en mauvaise part, pour signifier, Ruse, adresse, artifice. » (Fur.)V. 1171Force : adv. Beaucoup, d'une manière abondante.V. 1133Nécessité, contrainte.V. 112Front« Impudence, temerité de soustenir en face à quelqu'un un mensonge, une calomnie. » (Fur.)V. 349 ; 353 ; 866GalanterieBonne grâce, agrément, cadeau, divertissement plein de goût.V. 572GenereuxCourageux.V. 622Glorieux« Se dit aussi d'un orgueuilleux, d'un homme qui a trop de vanité. » (Fur.)V. 1455 ; 1541 ; 1762Goutte*Ne voir goutte* signifie* ne pas voir clair*. (Ac.)V. 424Gruë (faire la)« On dit aussi, qu'un homme fait le pied de gruë, quand il est long-temps debout en quelque lieu, et particulièrement quand on le fait attendre parce qu'on dit que les gruës ont coûtume d'avoir un pied en l'air quand elles font sentinelle. » (Fur.)V. 1654Hanter« Estre souvent en la compagnie de quelqu'un, soit qu'on luy fasse des visites, soit qu'on reçoive les siennes. » (Fur.)V. 1136 ; 1694« Se dit aussi des lieux où on va ordinairement. » (Fur.)V. 1655Haste (avoir)Être pressé.V. 889Haut« Se dit aussi de tout ce qui a quelque degré d'excellence, d'eslevation en quelque chose que ce soit, tant en bonne qu'en mauvaise part. On dit qu'un homme est haut en paroles, lors qu'il parle impérieusement. » (Fur.)V. 1197HazardRisque.V. 1635.Peut aussi signifier chance.V. 761 ; 1177HazarderRisquer.V. 140 ; 1584HeurRencontre avantageuse, bonne fortune. Équivaut pour le sens à *bonheur*.V. 687 ; 826 ; 1303 ; 1553 ; 1736 ; 1776Heureux« Signifie aussi, Chanceux, à qui le hasard est favorable.» (Fur.)V. 760 ; 1508 ; 1763Histoire« Description, narration des choses comme elles sont, ou des actions comme elles se sont passées. » (Fur.) *Histoire* s'oppose à *fable*.V. 1372HumeurEn humeur de signifie résolu.V. 971IncontinentAdv. de temps, signifie *un instant*.V. 367 ; 369Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. » (Fur.)V. 1056Intelligence« Union, amitié entre deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun différent. » (Fur.)V. 415 ; 504Connivence. « Se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autruy. » (Fur.)V. 899LaisserNe pas laisser de signifie « Ne pas cesser, ne pas s'abstenir, ne pas discontinuer de. » (Ac.)V. 548Liberalité« Vertu de celuy qui sait donner quand il faut, & sans interests. Se dit aussi quelque fois de la chose donnée. » (Fur.)V. 1037LorsAlors.V. 433 ; 1442Loüer de (se)« Avec le pronom personnel, signifie, Estre satisfait. » (Fur.)V. 1500MaintenantTout à l'heure.V. 787Manquer« Signifie aussi, Faire quelque faute. » (Fur.) Équivaut à *se tromper*.V. 1583Marry« Repentant, fasché, qui a du regret d'avoir fait quelque chose. » (Fur.)V. 781Matoise« Rusée, difficile à estre trompée, adroite à tromper les autres. » (Fur.)V. 390Méconter (se)« Ne se dit qu'avec le pronom personnel, et signifie, Se tromper en ses conjectures, en son raisonnement, en ses actions. » (Fur.)V. 1590 MenerEmmener.V. 371 ; 1627Menterie« Propos par lequel on donne pour vrai ce qu'on sait estre faux. Il est plus familier que *mensonge* et s'applique à des choses moins graves. (Ac.)V. 288
-          Mine« Se dit du bon ou du mauvais accueuil qu'on fait à quelqu'un, du bon ou du mauvais visage qu'on luy tesmoigne. » (Fur.) *Avoir bonne mine* signifie donc *recevoir un bon acceuil*.V. 1199Neveu« Au pluriel, se dit de tous les hommes qui viendront aprés nous, de la posterité. » (Fur.)V. 1870Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour. » (Fur.)V. 71 ; 217 ; 854 ; 998 ; 1286 ; 1358 ; 1365 ; 1566 ; 1671 ; 1787 ; 1832 ; 1843Obliger« Faire quelque faveur, civilité, courtoisie » (Fur.)V. 258 ; 373 ; 477 ; 818 ; 955 ; 1037 ; 1162 ; 1166 ; 1297 ; 1353 ; 1461 ; 1544 ; 1556 ; 1772 ; 1774OfficeService que l'on rend à quelqu'un.V. 1146 ; 1163 ; 1407OmbrageAu sens figuré, signifie *deffiance, soupçon*.V. 443 ; 1236 ; 1717Ouvrage« Se dit absolument des objets auxquels les femmes travaillent à l'aiguille. » (Ac.)V. 568Paroistre« Signifie aussi, Se faire distinguer des autres, éclater  davantage. » (Fur.)V. 820Passer outrePoursuivre son discours.V. 1007PasserSurpasser.V. 1730Picquer«  Se dit aussi des choses qui nous flattent, ou qui nous choquent. Cet amoureux est *piqué* et charmé d'une telle Dame. » (Fur.)V. 211 ; 1384 ; 1387.Signifie aussi *choquer*V. 1411 ; 1479Porter« Signifie encore, Estre disposé à faire quelque chose, soit par sa propre inclination, soit par l'instigation d'autruy. » (Fur.)V. 1068PrésentementA l'instant, tout à l'heure.V. 166Priser« Estimer, faire cas. » (Fur.)V. 789Produire« Signifie aussi, Avancer dans le monde, faire connoistre. » (Fur.)V. 607PropreBien orné, élégant, soigné, raffiné.V. 827Protester« Promettre, assûrer fortement quelque chose. » (Fur.)V. 182 ; 346 ; 983 ; 1529 ; 1690Qualité« Signifie aussi un titre qu'on donne aux personnes pour marquer leurs seigneuries, leurs prétentions. » (Fur.)V. 1017 ; 1242 ; 1728Ravir« Se dit aussi des passions violentes qui troublent agréablement l'esprit, et suspendent les fonctions des sens, particulierement de la joye, de l'estonnement et de l'admiration. » (Fur.) Équivaut pour le sens à *étonner*.V. 1789Regarder« Signifie aussi, Examiner, observer, considerer attentivement. » (Fur.)V. 1777Rencontrer« S'emploie absolument et signifie Etre bien ou mal servi par les événements dans quelque affaire. » (Ac.)V. 613ReputerEstimer. « Signifie aussi, Croire, presumer. » (Fur.)V. 1308Ressouvenir« Ce qui demeure en la mémoire. » (Fur.)V. 1859RetardementDélai, retard.V. 226 ; 244 ; 806Retiré« Un homme est bien retiré, lorsqu'il demeure chez luy clos & couvert, & qu'il ne veut voir ni frequenter personne. » (Fur.)V. 310Réverie« Action ou proposition desraisonnable, vision. » (Fur.) A le même sens que* mensonge*.V. 1340Riotte« Petite querelle ou difficulté qui arrive souvent dans le ménage, ou dans les sociétés. » (Fur.)V. 1525SeinPoitrine, cœur.V. 509Santé« Convenable disposition et tempérament des humeurs et des parties d'un corps animé, qui est cause qu'il fait bien ses fonctions. » (Fur.) Equivaut à *bonne santé*.V. 301Seconder« Il signifie Aider, favoriser, servir quelqu'un dans un travail, dans une affaire : *Seconder les vœux, les désirs, les bonnes intentions de quelqu'un*. » (Ac.)V. 1625 ; 1852SignaléRemarquable, célèbre.V. 236SouciSoin, préoccupation.V. 54 ; 1723SuccéderRéussir, avoir du succès.V. 708Sujet« Signifie aussi, Cause, occasion, raison. » (Fur.)V. 18 ; 36 ; 300 ; 327 ; 352 ; 408 ; 436 ; 441 ; 499 ; 844 ; 849 ; 880 ; 946 ; 975 ; 1085 ; 1182 ; 1279 ; 1370 ; 1417 ; 1610SuperbeHautain (en parlant du ton.)V. 1458Sus« On dit aussi par exclamation, Sus donc, Or sus, pour exciter quelqu'un à prendre du courage. » (Fur.)V. 712 ; 1203Tirer les vers du nez« Tirer adroitement un secret. » (Fur.)V. 1086Toilette« On dit proverbialement Plier la toilette, pour dire, Enlever ce qu'il y a de meubles, d'habits, de linge, de pierreries, qu'on laisse en voye dans une maison et sur la toilette, soit par un vol domestique, soit par la violence que font souvent les filoux aux Courtisanes. » (Fur.)V. 96Toûjours« Se dit quelquefois du temps present. » (Fur.) Signifie alors* du moins*.V. 1649Tout beau (ou Toubeau) : loc. adv. et fam.« Doucement, modérez-vous, retenez-vous » (Ac.)V. 471 ; 535Trait« Se dit aussi à table, de ce qu'on avale tout d'un coup en beuvant. »  (Fur.)V. 1652Traitter« Agir avec quelqu'un, en user avec luy de telle ou telle manière. » (Fur.) Équivaut pour le sens à *considérer quelqu'un de telle ou telle manière*.V. 1272 ; 1505.« Signifie aussi, Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie. » (Fur.)V. 853Trancher (ou trencher)« Se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre plus qu'ils ne sont. Il *trenche* du grand Seigneur, pour dire, Il fait le grand Seigneur. » (Fur.)V. 1456Transport« Se dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passions. » (Fur.)V. 148 ; 155Traverser« Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement. » (Fur.)V. 1535VeillerS'abstenir de dormir.V. 99 ; 1316Venir« Signifie encore, Estre convenable. Cet habit vous *vient* à merveilles. » (Fur.)V. 1609Voir« Signifie aussi, Commander, ou avoir autorité sur quelque chose. » (Fur.)V. 1511.Signifie également *traitter, considérer* quelqu'un de telle ou telle manièreV. 534.Vuide (à) : adv.« Qui n'est pas plein. On dit qu'un homme marche *à vuide*, pour dire, qu'il n'a rien mangé. » (Fur.)V. 1653
+# LexiqueAccidentTrouble.V. 267Accord« Se dit figurément de l'union de deux personnes qui vivent ensemble. » (Fur.)V. 670 ; 1564AdmirableÉtonnant.V. 1348Admiration« Action par laquelle on regarde avec estonnement quelque chose de grand et de surprenant. » (Fur.) A le même sens que *surprise*.V. 1321Adviser« Se dit figurément des découvertes qui se font par les yeux de l'esprit aprés quelque méditation. Il s'est *advisé* d'une bonne invention. » (Fur.)V. 1645AjusterOrner, embellir, parer.V. 324 ; 580 ; 823Amour (faire l')« Se livrer à la galanterie. » (Ac.) « on dit qu'un jeune homme fait l'amour à une fille, quand il la recherche en mariage. » (Fur.)V. 669 ; 1385Apparence« Se dit aussi de ce qui est opposé à la réalité, qui n'est que faux, feint& simulé. » (Fur.)V. 1088Arrester« Signifie tarder, s'amuser, rester quelques temps dans un lieu sans en sortir. » (Ac.)V. 22 ; 893 ; 978AsseuranceConstance, fermeté.V. 139AucunementEn quelque façon, jusqu'à un certain point.V. 746Autrefois« Signifie aussi un autre temps : je ne puis faire cela maintenant, ce sera pour une autrefois. » (Fur.)V. 646 ; 1382Badin, ine« Qui est folastre, peu serieux, qui fait des plaisanteries. » (Fur.)V. 1200Briser« Se dit absolument, quand on veut interrompre ou faire taire quelqu'un qui dit des choses désagréables, ou qui peuvent faire naître quelque querelle. » (Fur.)V. 125 ; 1701Brutal« Celuy qui n'a pas plus d'esprit & de conduitte qu'une beste. » (Fur.)V. 45CaresserFlatter, cajoler.V. 972Chagrin« Quelques-uns derivent ce mot de *aigrir*, parce qu'il cause quelque aigreur ou amertume dans l'esprit. » (Fur.) A le même sens que *rancune.*V. 1226Change« On dit figurément qu'un homme a pris le change, qu'on luy a donné le change, quand on luy a fait quitter quelque bonne affaire pour en poursuivre une autre qui luy est moins avantageuse. » (Fur.)V. 1280*Donner le change à quelqu'un* signifie « Détourner adroitement quelqu'un du dessein, des vues qu'il peut avoir, en lui donnant lieu de croire une chose pour une autre. » (Ac.)V. 448CharmerA le sens d'*ensorceler, enchanter*.V. 863 ; 1344 ; 1357 ; 1751Chaude (à la) : adv.« D'une maniere prompte & violente. » (Fur.)V. 52Cœur« Signifie quelquefois, Vigueur, force, courage, intrépidité. » (Fur.)V. 1628 CognoistreReconnaître.V. 934ComplexionTempérament, « habitude, disposition naturelle du corps. » (Fur.)V. 1361Composer« Signifie encore en Morale, Régler ses moeurs, ses actions, ses paroles. » (Fur.)V. 1143Consulter« Signifie aussi, Etre irresolu, incertain quel party on doit choisir. » (Fur.). Équivaut à *hésiter*.V. 770 ; 1692Contraindre« Gesner, incommoder. » (Fur.)V. 7ConvaincreFaire apparaître manifestement comme coupable.V. 336Couler (se)« Signifie encore, Entrer en quelque maison, s'y glisser avec adresse. » (Fur.)V. 938Cy-devantAuparavant.V. 1532Deffier (se)« Avec le pronom personnel, signifie, N'estre pas assûré de quelque personne, ou de quelque chose. » (Fur.) Signifie *se méfier*.V. 85 ; 1342Delicat« Se dit encore en ce sens de ce qui est foible ou fragile, qui ne peut pas resister aux attaques des corps estrangers. » (Fur.)V. 1255Démentir« Reprocher à quelqu'un qu'il a menti, luy soûtenir injurieusement qu'il n'a pas dit vray. » (Fur.)V. 350 ; 358 ; 1102Demeure« Se dit, en termes de Jurisprudence, du Retard, du temps qui court au-delà du terme où l'on est tenu de payer ou de faire quelque autre chose. » (Ac.) *Sans demeure* signifie *sans retard*.V. 832DevantAuparavant.V. 258Avant.V. 1881Diligence (en)Rapidement, en vitesse.V. 699Diligenter (se)Se dépêcher.V. 704Divertir (se)« On dit qu'une femme se divertit lors qu'elle fait l'amour. » (Fur.)V. 30DresserPréparer, arranger, mettre en état. *Dresser le ménage* signifie *faire le ménage*.V. 565Éclat« Bruit, rumeur, scandale. » (Ac.)V. 886EmmenerAu sens de *amener*.V. 300 ; 362 ; 660 ; 734 ; 849 ; 1094Empescher« Signifie aussi Embarrasser, occuper. » (Fur.)V. 1212Enchanter« Charmer, ensorceler par des sons, par des paroles, par des figures, par des opérations magiques. » (Ac.)V. 302 ; 845 ; 1673EnnuiSouci, chagrin, tourment.V. 398 ; 784 ; 1219Entendre« Consentir à quelque proposition. » (Fur.)V. 1484Comprendre.V. 492 ; 707Équipage« Provision de tout ce qui est necessaire pour voyager, ou s'entretenir honorablement, soit de valets, soit de chevaux, carrosses, habits, armes, … » (Fur.)V. 1133Estonner (s')S'effrayer.V. 1259 ; 1453Estre en peineÊtre inquiet.V. 242 ; 659 ; 1287 ; 1582Fable« Signifie absolument Fausseté. » (Fur.) A le sens de *mensonge*.V. 1092 ; 1372Faux (à)Locution adverbiale, signifie *à tort, injustement*. (Ac.)V. 425Ferrer la mule : proverbe.« Se dit quand les valets ou les commissionnaires trompent sur le prix des marchandises, & les comptent plus qu'ils ne les ont achetées. » (Fur.)V. 88Finesse« Se dit aussi en mauvaise part, pour signifier, Ruse, adresse, artifice. » (Fur.)V. 1171Force : adv. Beaucoup, d'une manière abondante.V. 1133Nécessité, contrainte.V. 112Front« Impudence, temerité de soustenir en face à quelqu'un un mensonge, une calomnie. » (Fur.)V. 349 ; 353 ; 866GalanterieBonne grâce, agrément, cadeau, divertissement plein de goût.V. 572GenereuxCourageux.V. 622Glorieux« Se dit aussi d'un orgueuilleux, d'un homme qui a trop de vanité. » (Fur.)V. 1455 ; 1541 ; 1762Goutte*Ne voir goutte* signifie* ne pas voir clair*. (Ac.)V. 424Gruë (faire la)« On dit aussi, qu'un homme fait le pied de gruë, quand il est long-temps debout en quelque lieu, et particulièrement quand on le fait attendre parce qu'on dit que les gruës ont coûtume d'avoir un pied en l'air quand elles font sentinelle. » (Fur.)V. 1654Hanter« Estre souvent en la compagnie de quelqu'un, soit qu'on luy fasse des visites, soit qu'on reçoive les siennes. » (Fur.)V. 1136 ; 1694« Se dit aussi des lieux où on va ordinairement. » (Fur.)V. 1655Haste (avoir)Être pressé.V. 889Haut« Se dit aussi de tout ce qui a quelque degré d'excellence, d'eslevation en quelque chose que ce soit, tant en bonne qu'en mauvaise part. On dit qu'un homme est haut en paroles, lors qu'il parle impérieusement. » (Fur.)V. 1197HazardRisque.V. 1635.Peut aussi signifier chance.V. 761 ; 1177HazarderRisquer.V. 140 ; 1584HeurRencontre avantageuse, bonne fortune. Équivaut pour le sens à *bonheur*.V. 687 ; 826 ; 1303 ; 1553 ; 1736 ; 1776Heureux« Signifie aussi, Chanceux, à qui le hasard est favorable.» (Fur.)V. 760 ; 1508 ; 1763Histoire« Description, narration des choses comme elles sont, ou des actions comme elles se sont passées. » (Fur.) *Histoire* s'oppose à *fable*.V. 1372HumeurEn humeur de signifie résolu.V. 971IncontinentAdv. de temps, signifie *un instant*.V. 367 ; 369Insigne« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. » (Fur.)V. 1056Intelligence« Union, amitié entre deux ou plusieurs personnes qui s'entendent bien ensemble, qui n'ont aucun différent. » (Fur.)V. 415 ; 504Connivence. « Se dit aussi en mauvaise part, d'une cabale secrette, d'une collusion de parties qui tend à nuire à autruy. » (Fur.)V. 899LaisserNe pas laisser de signifie « Ne pas cesser, ne pas s'abstenir, ne pas discontinuer de. » (Ac.)V. 548Liberalité« Vertu de celuy qui sait donner quand il faut, & sans interests. Se dit aussi quelque fois de la chose donnée. » (Fur.)V. 1037LorsAlors.V. 433 ; 1442Loüer de (se)« Avec le pronom personnel, signifie, Estre satisfait. » (Fur.)V. 1500MaintenantTout à l'heure.V. 787Manquer« Signifie aussi, Faire quelque faute. » (Fur.) Équivaut à *se tromper*.V. 1583Marry« Repentant, fasché, qui a du regret d'avoir fait quelque chose. » (Fur.)V. 781Matoise« Rusée, difficile à estre trompée, adroite à tromper les autres. » (Fur.)V. 390Méconter (se)« Ne se dit qu'avec le pronom personnel, et signifie, Se tromper en ses conjectures, en son raisonnement, en ses actions. » (Fur.)V. 1590 MenerEmmener.V. 371 ; 1627Menterie« Propos par lequel on donne pour vrai ce qu'on sait estre faux. Il est plus familier que *mensonge* et s'applique à des choses moins graves. (Ac.)V. 288 Mine« Se dit du bon ou du mauvais accueuil qu'on fait à quelqu'un, du bon ou du mauvais visage qu'on luy tesmoigne. » (Fur.) *Avoir bonne mine* signifie donc *recevoir un bon acceuil*.V. 1199Neveu« Au pluriel, se dit de tous les hommes qui viendront aprés nous, de la posterité. » (Fur.)V. 1870Objet« Se dit poëtiquement des belles personnes qui donnent de l'amour. » (Fur.)V. 71 ; 217 ; 854 ; 998 ; 1286 ; 1358 ; 1365 ; 1566 ; 1671 ; 1787 ; 1832 ; 1843Obliger« Faire quelque faveur, civilité, courtoisie » (Fur.)V. 258 ; 373 ; 477 ; 818 ; 955 ; 1037 ; 1162 ; 1166 ; 1297 ; 1353 ; 1461 ; 1544 ; 1556 ; 1772 ; 1774OfficeService que l'on rend à quelqu'un.V. 1146 ; 1163 ; 1407OmbrageAu sens figuré, signifie *deffiance, soupçon*.V. 443 ; 1236 ; 1717Ouvrage« Se dit absolument des objets auxquels les femmes travaillent à l'aiguille. » (Ac.)V. 568Paroistre« Signifie aussi, Se faire distinguer des autres, éclater davantage. » (Fur.)V. 820Passer outrePoursuivre son discours.V. 1007PasserSurpasser.V. 1730Picquer«  Se dit aussi des choses qui nous flattent, ou qui nous choquent. Cet amoureux est *piqué* et charmé d'une telle Dame. » (Fur.)V. 211 ; 1384 ; 1387.Signifie aussi *choquer*V. 1411 ; 1479Porter« Signifie encore, Estre disposé à faire quelque chose, soit par sa propre inclination, soit par l'instigation d'autruy. » (Fur.)V. 1068PrésentementA l'instant, tout à l'heure.V. 166Priser« Estimer, faire cas. » (Fur.)V. 789Produire« Signifie aussi, Avancer dans le monde, faire connoistre. » (Fur.)V. 607PropreBien orné, élégant, soigné, raffiné.V. 827Protester« Promettre, assûrer fortement quelque chose. » (Fur.)V. 182 ; 346 ; 983 ; 1529 ; 1690Qualité« Signifie aussi un titre qu'on donne aux personnes pour marquer leurs seigneuries, leurs prétentions. » (Fur.)V. 1017 ; 1242 ; 1728Ravir« Se dit aussi des passions violentes qui troublent agréablement l'esprit, et suspendent les fonctions des sens, particulierement de la joye, de l'estonnement et de l'admiration. » (Fur.) Équivaut pour le sens à *étonner*.V. 1789Regarder« Signifie aussi, Examiner, observer, considerer attentivement. » (Fur.)V. 1777Rencontrer« S'emploie absolument et signifie Etre bien ou mal servi par les événements dans quelque affaire. » (Ac.)V. 613ReputerEstimer. « Signifie aussi, Croire, presumer. » (Fur.)V. 1308Ressouvenir« Ce qui demeure en la mémoire. » (Fur.)V. 1859RetardementDélai, retard.V. 226 ; 244 ; 806Retiré« Un homme est bien retiré, lorsqu'il demeure chez luy clos & couvert, & qu'il ne veut voir ni frequenter personne. » (Fur.)V. 310Réverie« Action ou proposition desraisonnable, vision. » (Fur.) A le même sens que* mensonge*.V. 1340Riotte« Petite querelle ou difficulté qui arrive souvent dans le ménage, ou dans les sociétés. » (Fur.)V. 1525SeinPoitrine, cœur.V. 509Santé« Convenable disposition et tempérament des humeurs et des parties d'un corps animé, qui est cause qu'il fait bien ses fonctions. » (Fur.) Equivaut à *bonne santé*.V. 301Seconder« Il signifie Aider, favoriser, servir quelqu'un dans un travail, dans une affaire : *Seconder les vœux, les désirs, les bonnes intentions de quelqu'un*. » (Ac.)V. 1625 ; 1852SignaléRemarquable, célèbre.V. 236SouciSoin, préoccupation.V. 54 ; 1723SuccéderRéussir, avoir du succès.V. 708Sujet« Signifie aussi, Cause, occasion, raison. » (Fur.)V. 18 ; 36 ; 300 ; 327 ; 352 ; 408 ; 436 ; 441 ; 499 ; 844 ; 849 ; 880 ; 946 ; 975 ; 1085 ; 1182 ; 1279 ; 1370 ; 1417 ; 1610SuperbeHautain (en parlant du ton.)V. 1458Sus« On dit aussi par exclamation, Sus donc, Or sus, pour exciter quelqu'un à prendre du courage. » (Fur.)V. 712 ; 1203Tirer les vers du nez« Tirer adroitement un secret. » (Fur.)V. 1086Toilette« On dit proverbialement Plier la toilette, pour dire, Enlever ce qu'il y a de meubles, d'habits, de linge, de pierreries, qu'on laisse en voye dans une maison et sur la toilette, soit par un vol domestique, soit par la violence que font souvent les filoux aux Courtisanes. » (Fur.)V. 96Toûjours« Se dit quelquefois du temps present. » (Fur.) Signifie alors* du moins*.V. 1649Tout beau (ou Toubeau) : loc. adv. et fam.« Doucement, modérez-vous, retenez-vous » (Ac.)V. 471 ; 535Trait« Se dit aussi à table, de ce qu'on avale tout d'un coup en beuvant. » (Fur.)V. 1652Traitter« Agir avec quelqu'un, en user avec luy de telle ou telle manière. » (Fur.) Équivaut pour le sens à *considérer quelqu'un de telle ou telle manière*.V. 1272 ; 1505.« Signifie aussi, Nourrir, donner à manger, soit à l'ordinaire, soit en ceremonie. » (Fur.)V. 853Trancher (ou trencher)« Se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre plus qu'ils ne sont. Il *trenche* du grand Seigneur, pour dire, Il fait le grand Seigneur. » (Fur.)V. 1456Transport« Se dit figurément en choses morales du trouble ou de l'agitation de l'âme par la violence des passions. » (Fur.)V. 148 ; 155Traverser« Signifie figurément en Morale, Faire obstacle, opposition, apporter de l'empeschement. » (Fur.)V. 1535VeillerS'abstenir de dormir.V. 99 ; 1316Venir« Signifie encore, Estre convenable. Cet habit vous *vient* à merveilles. » (Fur.)V. 1609Voir« Signifie aussi, Commander, ou avoir autorité sur quelque chose. » (Fur.)V. 1511.Signifie également *traitter, considérer* quelqu'un de telle ou telle manièreV. 534.Vuide (à) : adv.« Qui n'est pas plein. On dit qu'un homme marche *à vuide*, pour dire, qu'il n'a rien mangé. » (Fur.)V. 1653
 
 
 # Bibliographie
@@ -4848,7 +4845,7 @@ Grammaire du français classique et moderne
 
 [19] FORESTIER, Georges, *Esthétique de l'identité dans le théâtre français, 1550-1680. Le déguisement et ses avatars*, p. 365.
 
-[20] Voir : FORESTIER, Georges, *op. cit.*,  tableau p. 115.
+[20] Voir : FORESTIER, Georges, *op. cit.*, tableau p. 115.
 
 [21] CIORANESCU, Alexandre, *Le Masque et le visage. Du baroque espagnol au classicisme français*, Genève, Droz, 1983, p. 106.
 
@@ -4900,7 +4897,7 @@ Grammaire du français classique et moderne
 
 [45] L'édition originale propose : *Madame il est bien vrai que je le voulois faire*, ce qui n'a pas de sens dans le contexte. Nous corrigeons et remplaçons *faire* par *taire*, puisque Climante désire cacher la raison de son embarras.
 
-[46] Cette phrase comporte une ellision : il faut sous-entendre *la faveur signalée qu'il vous a pleu  de lui faire.* D'autre part, le point équivaut encore une fois à des points de suspension (cf. vers 98) : Climante coupe la parole à Dorise.
+[46] Cette phrase comporte une ellision : il faut sous-entendre *la faveur signalée qu'il vous a pleu de lui faire.* D'autre part, le point équivaut encore une fois à des points de suspension (cf. vers 98) : Climante coupe la parole à Dorise.
 
 [47] Le *oüy* doit se prononcer en diérèse en raison des exigences de la prosodie.
 
@@ -4918,7 +4915,7 @@ Grammaire du français classique et moderne
 
 [54] Cela suppose un système de décors à compartiments (voir notre introduction.)
 
-[55] Dans *l'Héritier ridicule* ou *la Dame intéressée* de Scarron (1650), Helene admire aussi l'appartement de sa rivale Leonor. (Acte IV, scène 2) : « Sa chambre est magnifique. … Ce cabinet est riche et plein de beaux  tableaux. »Elle y découvre ensuite son amant Dom Diegue, caché chez Leonor.
+[55] Dans *l'Héritier ridicule* ou *la Dame intéressée* de Scarron (1650), Helene admire aussi l'appartement de sa rivale Leonor. (Acte IV, scène 2) : « Sa chambre est magnifique. … Ce cabinet est riche et plein de beaux tableaux. »Elle y découvre ensuite son amant Dom Diegue, caché chez Leonor.
 
 [56] En raison des exigences de la prosodie, il faut prononcer le *e* de *qu'importe*. Ce *e* devrait normalement être muet puisqu'il est suivi d'un mot commençant par une voyelle. Cependant, le fait de prononcer ce* e* n'est pas choquant, étant donné que *qu'importe* et* Ah je meurs* sont exprimés par deux personnes différentes ; il y a donc une pause entre les deux mots, symbolisée par les deux points de ponctuation, qui rend naturelle la prononciation du *e*.
 
@@ -4994,7 +4991,7 @@ Grammaire du français classique et moderne
 
 [92] Même remarque qu'au vers 532. L'omission de* ne* dans l'interrogation est fréquente au dix-septième siècle.
 
-[93] « Dans la perspective des relations franco-espagnoles, le dix-septième siècle est une période de guerres et de mariages successifs, dont le but est la débilitation du voisin et, si faire se peut, sa neutralisation. » (Alexandre Cioranescu dans *Le Masque et le visage.*) La victoire à laquelle fait allusion d'Ouville est une victoire réelle, et non imaginaire : le grand Condé, qui n'était alors que duc d'Enghien, remporta sur les Espagnols, commandés par don Francisco de Mello,  la victoire de Rocroi (18-19 mai 1643), date qui correspond à la date de création de la pièce. Cette victoire eut un retentissement considérable ; elle mit fin à la réputation d'invincibilité de la « redoutable infanterie d'Espagne » ; elle était aussi la première grande victoire remportée depuis un siècle par une armée française sur une armée étrangère. Le Roi, après cette victoire, défila triomphalement dans les rues de Paris.
+[93] « Dans la perspective des relations franco-espagnoles, le dix-septième siècle est une période de guerres et de mariages successifs, dont le but est la débilitation du voisin et, si faire se peut, sa neutralisation. » (Alexandre Cioranescu dans *Le Masque et le visage.*) La victoire à laquelle fait allusion d'Ouville est une victoire réelle, et non imaginaire : le grand Condé, qui n'était alors que duc d'Enghien, remporta sur les Espagnols, commandés par don Francisco de Mello, la victoire de Rocroi (18-19 mai 1643), date qui correspond à la date de création de la pièce. Cette victoire eut un retentissement considérable ; elle mit fin à la réputation d'invincibilité de la « redoutable infanterie d'Espagne » ; elle était aussi la première grande victoire remportée depuis un siècle par une armée française sur une armée étrangère. Le Roi, après cette victoire, défila triomphalement dans les rues de Paris.
 
 [94] Parle à moi : parle-moi. Il y a au dix-septième siècle une grande liberté en ce qui concerne la construction des régimes.
 
@@ -5030,7 +5027,7 @@ Grammaire du français classique et moderne
 
 [110] En raison des exigences de la prosodie, *hier* doit être prononcé en synérèse.
 
-[111] Dans l'exemplaire Rés. Yf. 544 de la BNF, entre les pages 80 et 81,  c'est-à-dire entre les cahiers K et L,  ont été incluses par erreur les comédies *Les Fausses Veritez* et *L'Absent chez soy*.
+[111] Dans l'exemplaire Rés. Yf. 544 de la BNF, entre les pages 80 et 81,  c'est-à-dire entre les cahiers K et L, ont été incluses par erreur les comédies *Les Fausses Veritez* et *L'Absent chez soy*.
 
 [112] Le point d'interrogation a ici une valeur informative : il indique à l'acteur qu'il doit élever la voix. Il équivaut à un point d'exclamation.
 
@@ -5054,7 +5051,7 @@ Grammaire du français classique et moderne
 
 [122] Même remarque qu'au vers 698 ; parle à moi : parle moi. Il y a au dix-septième siècle une grande liberté en ce qui concerne la construction des régimes.
 
-[123] Où : là où. A l'époque classique, *où* employé sans antécédent équivaut pour le sens à  *là où*.
+[123] Où : là où. A l'époque classique, *où* employé sans antécédent équivaut pour le sens à *là où*.
 
 [124] Comme : comment. *Comme* s'employait à l'époque classique pour introduire une interrogation partielle.
 
@@ -5210,11 +5207,11 @@ Grammaire du français classique et moderne
 
 [200] Rien a le sens positif de quelque chose. Le vers signifie : Mais à tous vos desseins pouvois-je comprendre quoi que ce soit ?
 
-[201] Même remarque qu'au vers 762. Qui est employé  là où la langue moderne préfère lequel ou laquelle. La langue classique substitue qui à lequel, car lequel en fonction de sujet ou d'objet est jugé « rude » et « extrémement dur » selon Vaugelas (Rem. p. 49). L'emploi de cette forme ne peut se justifier que par la volonté d'éviter l'équivoque. Ici à qui équivaut à à laquelle, qui renvoie à Dorotée.
+[201] Même remarque qu'au vers 762. Qui est employé là où la langue moderne préfère lequel ou laquelle. La langue classique substitue qui à lequel, car lequel en fonction de sujet ou d'objet est jugé « rude » et « extrémement dur » selon Vaugelas (Rem. p. 49). L'emploi de cette forme ne peut se justifier que par la volonté d'éviter l'équivoque. Ici à qui équivaut à à laquelle, qui renvoie à Dorotée.
 
 [202] Le point d'interrogation a ici une valeur informative : il indique à l'acteur qu'il doit élever la voix. Il équivaut à un point d'exclamation.
 
-[203] « à marquant un rapport de temps est encore fréquent au dix-septième siècle. Corneille changea le vers : Il vous faut à ce soir en : Il vous faut dès ce soir (Place Royalle, III, 6, 807). La langue actuelle préfère remplacer à dans cet emploi par un accusatif de temps, répondant à la question quand. »  (Haase.)
+[203] « à marquant un rapport de temps est encore fréquent au dix-septième siècle. Corneille changea le vers : Il vous faut à ce soir en : Il vous faut dès ce soir (Place Royalle, III, 6, 807). La langue actuelle préfère remplacer à dans cet emploi par un accusatif de temps, répondant à la question quand. » (Haase.)
 
 [204] En raison des exigences de la prosodie, liens doit être prononcé en diérèse.
 

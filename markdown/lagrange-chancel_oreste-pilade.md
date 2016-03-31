@@ -669,7 +669,7 @@ pour jurer, de / pour jurer de (v. 418) ; Verray-je l'Etranger Anthenor / Verra
 
 ## Préface.
 
-*Il y a long-temps qu'on auroit vû paroître sur la Scene ce sujet, qui est un des plus grands et des plus beaux de l'antiquité* [247] , *si nos meilleurs Autheurs avoient crû pouvoir en surmonter les difficultez* [248]  ; *mais quand on est jeune on est toujours temeraire* [249] . *Et l'on est quelquefois heureux. D'ailleurs comme l'on sçait assez que la qualité d'Autheur n'est pas celle qui m'honnore le plus, j'ay voulu traiter un sujet dont la réussite me déterminast à travailler pour le Theatre, ou à employer mes momens de loisir à quelque occupation qui me fust plus convenable. Madame la Princesse de Conty* [250] , *chez qui j'ay eu l'honneur d'estre élevé, me choisit elle-même ce sujet préferablement à beaucoup d'autres. J'y ay donné tous mes soins; et ce qui me confirme encore dans la bonne opinion que j'en ay, c'est qu'on le voit encore paroistre tous les jours sur la Scene avec autant de plaisir et d'applaudissemens que dans les premieres representations* [251] , *je puis dire que cet Ouvrage a esté si generalement approuvé de tout le monde, que je ne répondray pas seulement à la mauvaise critique de ceux qui ont condamné Thoas et Thomiris; l'un est dans Euripide* [252] , *sans lequel il n'y auroit point de Piece* [253] , *et je me suis assez bien trouvé de l'autre pour ne m'en pas* *repentir* [254] . *La perte que fit le Theatre, en perdant Mademoiselle de Champmesle* [255] , *m'avoit empesché de faire imprimer cette Piece; mais depuis qu'une jeune Actrice, qui a paru ces jours passez, nous en a rafraîchy la mémoire* [256] , *je me suis laissé vaincre par les pressantes sollicitations de mes amis, qui, avec mes autres Ouvrages, m'ont persuadé de donner encore celuy-cy au public, me flattant que la lecture ne luy en fera pas moins de plaisir que la representation.*
+*Il y a long-temps qu'on auroit vû paroître sur la Scene ce sujet, qui est un des plus grands et des plus beaux de l'antiquité* [247] , *si nos meilleurs Autheurs avoient crû pouvoir en surmonter les difficultez* [248]  ; *mais quand on est jeune on est toujours temeraire* [249] . *Et l'on est quelquefois heureux. D'ailleurs comme l'on sçait assez que la qualité d'Autheur n'est pas celle qui m'honnore le plus, j'ay voulu traiter un sujet dont la réussite me déterminast à travailler pour le Theatre, ou à employer mes momens de loisir à quelque occupation qui me fust plus convenable. Madame la Princesse de Conty* [250] , *chez qui j'ay eu l'honneur d'estre élevé, me choisit elle-même ce sujet préferablement à beaucoup d'autres. J'y ay donné tous mes soins; et ce qui me confirme encore dans la bonne opinion que j'en ay, c'est qu'on le voit encore paroistre tous les jours sur la Scene avec autant de plaisir et d'applaudissemens que dans les premieres representations* [251] , *je puis dire que cet Ouvrage a esté si generalement approuvé de tout le monde, que je ne répondray pas seulement à la mauvaise critique de ceux qui ont condamné Thoas et Thomiris; l'un est dans Euripide* [252] , *sans lequel il n'y auroit point de Piece* [253] , *et je me suis assez bien trouvé de l'autre pour ne m'en pas**repentir* [254] . *La perte que fit le Theatre, en perdant Mademoiselle de Champmesle* [255] , *m'avoit empesché de faire imprimer cette Piece; mais depuis qu'une jeune Actrice, qui a paru ces jours passez, nous en a rafraîchy la mémoire* [256] , *je me suis laissé vaincre par les pressantes sollicitations de mes amis, qui, avec mes autres Ouvrages, m'ont persuadé de donner encore celuy-cy au public, me flattant que la lecture ne luy en fera pas moins de plaisir que la representation.*
 
 
 ## EXTRAIT DU PRIVILEGE du Roi.
@@ -3161,7 +3161,7 @@ Vers 242 : **Par l'équité des Dieux avec aux injustices.** => *Tu veux par mo
 
 Vers 267 : Je croy deja le voir **en amant** irrité => *furieux*.
 
-Vers 268 : Porter **sa main hardie …** => *sur vostre teste* *…*
+Vers 268 : Porter **sa main hardie …** => *sur vostre teste**…*
 
 Vers 280 : Et pourrois *tu* descendre a cette indignité ?
 
@@ -3239,7 +3239,7 @@ Vers 623 : Animé par vous mesme et **par** vostre deffence => *pour*.
 
 Vers 634 : Qu'Helene n'en a fait armer **pour** Menelas => *par*.
 
-Vers 647-648 : rature complète : **Mais pourquoy déguiser le trouble de mon ame / Vous avez des vertus, et j'ay des yeux, Madame.** => *Mes discours, mes regards, et mon trouble madame* **/** *Trahissent malgré moy le secret de mon ame*.
+Vers 647-648 : rature complète : **Mais pourquoy déguiser le trouble de mon ame / Vous avez des vertus, et j'ay des yeux, Madame.** => *Mes discours, mes regards, et mon trouble madame* **/***Trahissent malgré moy le secret de mon ame*.
 
 Vers 668 : Ne portes pas plus loin la peine de **mon** crime => *ton*.
 
@@ -3358,7 +3358,7 @@ Vers 1267 : **Vous l'avez prononcé, mon sang se doit verser** => *Ignorez vous
 
 Vers 1283 : *Ou ce depost sacré doit mon crime effacer.*
 
-Vers 1285-1286 : **Mon ame aprouveroit cette ardeur empressée / Et mesme en ce dessein vous auroit ….** => correction manuscrite = *Loin de blâmer en vous cette ardeur empressée* **/** *J'aprouverois mon frére une telle pensée*
+Vers 1285-1286 : **Mon ame aprouveroit cette ardeur empressée / Et mesme en ce dessein vous auroit ….** => correction manuscrite = *Loin de blâmer en vous cette ardeur empressée***/***J'aprouverois mon frére une telle pensée*
 
 Vers 1329 : Vivez Prince, étouffez de **criminels** souhaits => Vivez Prince, étouffez *d'inutiles* souhaits
 
@@ -3462,15 +3462,15 @@ Le chiffre indique le montant de la recette rapportée [483].
 
 12 : *L'Allure coquette* / *Le Cocu imaginaire* = 384, 5
 
-**13** : ***Oreste et Pilade*** **= 912, 5**
+**13** : ***Oreste et Pilade*****= 912, 5**
 
 14 : *Le Distrait* = 510
 
-**15** : ***Oreste et Pilade*** **= 986, 5**
+**15** : ***Oreste et Pilade*****= 986, 5**
 
 16 : *L'Avare* / *L'Été des coquettes* = 589
 
-**17** : ***Oreste et Pilade*** **= 727**
+**17** : ***Oreste et Pilade*****= 727**
 
 18 : *La Coquette* / *Scapin* = 785
 
@@ -3478,7 +3478,7 @@ Le chiffre indique le montant de la recette rapportée [483].
 
 20 : *L'Esprit folle* / *Les Dragons* = 428, 10
 
-**21** : ***Oreste et Pilade*** **/** *Le Florentin* **= 1486**
+**21** : ***Oreste et Pilade*****/***Le Florentin***= 1486**
 
 22 : *L'homme à bonnes fortunes* / *Scapin* = 1252, 10
 
@@ -3488,11 +3488,11 @@ Le chiffre indique le montant de la recette rapportée [483].
 
 25 : Relâche : Fête de Noël.
 
-**26** : ***Oreste et Pilade*** **/** *Les Précieuses* **= 1402, 5**
+**26** : ***Oreste et Pilade*****/***Les Précieuses***= 1402, 5**
 
 27 : *Le Malade imaginaire* = 1709
 
-**28** : ***Oreste et Pilade*** **/** *Le Coché supposé* **= 1686, 15**
+**28** : ***Oreste et Pilade*****/***Le Coché supposé***= 1686, 15**
 
 29 : *Le Malade imaginaire* = 1371
 
@@ -3511,7 +3511,7 @@ Le chiffre indique le montant de la recette rapportée [483].
 
 4 : *Le Bourgeois Gentilhomme* = 1401
 
-**5** : ***Oreste et Pilade*** **/** *Les Dragons* **= 960, 5**
+**5** : ***Oreste et Pilade*****/***Les Dragons***= 960, 5**
 
 6 : *Le Bourgeois Gentilhomme* = 1573, 10
 

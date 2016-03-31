@@ -788,7 +788,7 @@ Tout mon soing⁎ n'en a pû voir qu'une fort legere, dont je te donne advis; c'
 
 ## Extraict du Privilege du Roy.
 
-Par grace et Privilege du Roy: Donné à Paris le deuxiesme jour d'Avril mil six cens trente-six. Il est permis à *Augustin Courbé*, Marchand Libraire à Paris, d'Imprimer, vendre et distribuer un Livre intitulé, *Le Fils Supposé, Comedie, Composée par Monsieur* *De Scudery*: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu'ils soient, d'imprimer, vendre ny distribuer dudit Livre, d'autre Impression que celle qu'aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d'amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu'il est plus amplemens porté par lesdites Lettres de Privilege.
+Par grace et Privilege du Roy: Donné à Paris le deuxiesme jour d'Avril mil six cens trente-six. Il est permis à *Augustin Courbé*, Marchand Libraire à Paris, d'Imprimer, vendre et distribuer un Livre intitulé, *Le Fils Supposé, Comedie, Composée par Monsieur**De Scudery*: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu'ils soient, d'imprimer, vendre ny distribuer dudit Livre, d'autre Impression que celle qu'aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d'amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu'il est plus amplemens porté par lesdites Lettres de Privilege.
 
 Par le Roy en son Conseil,
 

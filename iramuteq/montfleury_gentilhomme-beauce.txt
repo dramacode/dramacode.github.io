@@ -39,7 +39,7 @@ Les Exemplaires ont esté fournis.
 
 Achevé d'imprimer pour la premiere fois le 18. jour de Septembre 1670.
 
-**** *book_ *id_body-401 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I01 *act_I *date_1670 *creator_montfleury
 
 -*who_beatrix
 Quoy vous espouseriez ce cousin ? ce magot⁎
@@ -139,7 +139,7 @@ Dis luy si tu le vois qu'avec un peu d'adresse…
 -*who_beatrix
 J'y suis interessée & diray ce qu'il faut.
 
-**** *book_ *id_body-402 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I02 *act_I *date_1670 *creator_montfleury
 
 -*who_le_gascon
 Hola, quelqu'un, lacquais faut il monter en haut ?
@@ -208,7 +208,7 @@ Tous nous autres Gascons sommes francs.
 Loin de nous en blâmer, un chacun nous en louë,
 Vos lots seront-ils gros ?
 
-**** *book_ *id_body-403 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I03 *act_I *date_1670 *creator_montfleury
 
 -*who_le_beauceron
       Quel est cet évelier⁎ ?
@@ -357,7 +357,7 @@ Je le crois.
 -*who_le_beauceron
 Et par l'autre escalier qu'on le face descendre.
 
-**** *book_ *id_body-404 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I04 *act_I *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Enfin vous voulez donc en tous lieux & toûjours,
@@ -524,7 +524,7 @@ A propos le Gascon n'est pas sorty je pense.
 Il cherche à s'introduire ou j'en ay mal jugé ;
 Je vais s'il ne l'est pas luy donner son congé.
 
-**** *book_ *id_body-405 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I05 *act_I *date_1670 *creator_montfleury
 
 -*who_climenne
 De quoy t'es tu meslée ? est-ce pour mon supplice,
@@ -572,7 +572,7 @@ Tu luy diras.
 -*who_beatrix
       J'y cours, mais je le vois paroistre.
 
-**** *book_ *id_body-406 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I06 *act_I *date_1670 *creator_montfleury
 
 -*who_leandre
 Je trouve en mon mal-heur quelque chose de doux,
@@ -644,7 +644,7 @@ Et que rien ne sçauroit esbranler ma constance.
 Que cet espoir m'est doux & que cette asseurance,
 Malgré ce que je crains rend mes desirs contens.
 
-**** *book_ *id_body-407 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I07 *act_I *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Le Gascon est dehors, voicy l'autre dedans,
@@ -700,7 +700,7 @@ Et prens congé de vous.
 -*who_le_beauceron
       La peste quel compere⁎.
 
-**** *book_ *id_body-408 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I08 *act_I *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Et deux cousine, & deux, parlons de bonne foy,
@@ -773,7 +773,7 @@ Je pretens⁎…
 -*who_le_beauceron
       Et mort-bleu faites ce qu'on vous dit.
 
-**** *book_ *id_body-409 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I09 *act_I *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Où cours-tu ? que fais-tu ? quel couroux te transporte,
@@ -797,7 +797,7 @@ Deffendez-en l'entrée, & que pas un n'en sorte,
 Et taschez d'empescher qu'on ne force sa porte.
 O Beatrix !
 
-**** *book_ *id_body-410 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_I10 *act_I *date_1670 *creator_montfleury
 
 -*who_beatrix
       Monsieur.
@@ -816,7 +816,7 @@ Ah ! je ne pretens⁎ plus quitter d'un pas Climenne,
 Rentrons, le bruit augmente, & le peuple est mutin⁎ ;
 Afin de l'appaiser envoyons luy martin.
 
-**** *book_ *id_body-501 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II01 *act_II *date_1670 *creator_montfleury
 
 -*who_le_basque
 Lestre dans sty lochis que sty Monser dimeure ?
@@ -861,7 +861,7 @@ Songe à jouër icy ton roolle comme il faut,
 Je vais au Beauceron te conduire là haut,
 Il vient, prepare toy.
 
-**** *book_ *id_body-502 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II02 *act_II *date_1670 *creator_montfleury
 
 -*who_beatrix
       Monsieur, voilà le Suisse.
@@ -970,7 +970,7 @@ Et qu'elle vienne voir nostre officier nouveau.
 -*who_beatrix
 J'y vais, nostre cousin donne dans le panneau.
 
-**** *book_ *id_body-503 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II03 *act_II *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Suisse.
@@ -1037,7 +1037,7 @@ Ouy Monser, j'il tir fou moy tout caillardement,
 -*who_le_beauceron
 Bouche close ; il suffit, je voy venir Climenne.
 
-**** *book_ *id_body-504 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II04 *act_II *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Venez, que dites-vous du Suisse qu'on m'ameine ?
@@ -1091,7 +1091,7 @@ Que sans confusion il donne son argent.
 -*who_le_basque
 O Monser, j'y n'y fair moy point dy manquement.
 
-**** *book_ *id_body-505 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II05 *act_II *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Cette acquisition est fort bonne, & ce Suisse
@@ -1392,7 +1392,7 @@ Je vais auprés de vous écrire à mon païs.
 -*who_climenne
 Va porter mon billet.
 
-**** *book_ *id_body-506 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II06 *act_II *date_1670 *creator_montfleury
 
 -*who_beatrix
       Pendant que ce fantasque,
@@ -1402,7 +1402,7 @@ L'a pris pour duppe, & m'a fait rire tout mon sou,
 Mais je le vois venir, de me voir il petille,
 Si quelqu'un…
 
-**** *book_ *id_body-507 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II07 *act_II *date_1670 *creator_montfleury
 
 -*who_le_basque
       Pon chour fou Matame Piatille,
@@ -1488,7 +1488,7 @@ Preparons le billet que ma Maistresse écrit,
 A Leandre, Il verra que le tout est d'esprit ;
 Mais je le voys.
 
-**** *book_ *id_body-508 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_II08 *act_II *date_1670 *creator_montfleury
 
 -*who_leandre
       Et bien ne puis-je voir Climenne ?
@@ -1561,14 +1561,14 @@ Adieu je sors.
 -*who_beatrix
       Et moy je remonte là haut.
 
-**** *book_ *id_body-601 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III01 *act_III *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Eh Suisse, Beatrix, eh Champagne la Brie,
 La peste soit des lots & de la lotterie,
 Quelle confusion !
 
-**** *book_ *id_body-602 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III02 *act_III *date_1670 *creator_montfleury
 
 -*who_beatrix
       Monsieur, que voulez-vous ?
@@ -1604,14 +1604,14 @@ Champagne…
 Il est constant Monsieur, il faut que je l'en gronde ;
 Et j'y vais de ce pas.
 
-**** *book_ *id_body-603 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III03 *act_III *date_1670 *creator_montfleury
 
 -*who_le_beauceron
       C'est fort bien fait à toy,
 Quel sabat, quel fracas ! ah je suis hors de moy ;
 Ce desordre est enfin tout ce que j'apprehende.
 
-**** *book_ *id_body-604 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III04 *act_III *date_1670 *creator_montfleury
 
 -*who_champagne
 Avec empressement un homme vous demande.
@@ -1650,7 +1650,7 @@ Ah cet avis⁎ enfin vaudroit je croy bien l'autre,
 Il vient je m'en doutois & c'est un cuistre⁎ aussi ;
 Que me veut-il ?
 
-**** *book_ *id_body-605 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III05 *act_III *date_1670 *creator_montfleury
 
 -*who_le_basque
       Joüons bien nostre roole icy,
@@ -1901,7 +1901,7 @@ Il en tient.
 -*who_le_beauceron
       Serviteur.
 
-**** *book_ *id_body-606 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III06 *act_III *date_1670 *creator_montfleury
 
 -*who_le_beauceron
       Non je ne puis m'en taire ;
@@ -1922,7 +1922,7 @@ D'introduire quelqu'un sans que j'en sceusse rien :
 Allons voir si le Suisse est de retour ; son zelle…
 Mais Climenne paroist que Diable cherche-t-elle.
 
-**** *book_ *id_body-607 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III07 *act_III *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Est-ce pour un galand⁎ que l'amour en argus,
@@ -2071,7 +2071,7 @@ Recevoir cet argent, mais cachons nostre absence,
 Je vais donner mon ordre, au Suisse sur ce point.
 Le voicy.
 
-**** *book_ *id_body-608 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III08 *act_III *date_1670 *creator_montfleury
 
 -*who_le_basque
       Chyl tir toy party qui lentry point,
@@ -2164,7 +2164,7 @@ Cela suffit je sors.
 -*who_le_basque
       Chil louvre fou sty porte.
 
-**** *book_ *id_body-609 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III09 *act_III *date_1670 *creator_montfleury
 
 -*who_beatrix
 Enfin il est dehors, que Belzebut l'emporte,
@@ -2174,7 +2174,7 @@ Pour voir s'il sortiroit, combien il a de peine⁎,
 À sortir, mais allons avertir Climenne,
 Ne vois-je pas Leandre ?
 
-**** *book_ *id_body-610 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_III10 *act_III *date_1670 *creator_montfleury
 
 -*who_beatrix
       Estiez- vous à l'affus ?
@@ -2215,7 +2215,7 @@ Vivez en repos.
 D'accort, & nous pourrons nous sentant de la Feste,
 Regler nostre entretien⁎ dessus leur teste à teste.
 
-**** *book_ *id_body-701 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV01 *act_IV *date_1670 *creator_montfleury
 
 -*who_le_gascon
 À la fin j'ay trouvé moyen d'entrer ceans⁎,
@@ -2233,7 +2233,7 @@ Mais de coups de baston le Ciel m'a fait peu chiche.
 Où se sont donc fourrez tous les gens⁎ du logis,
 Mais n'apperçois-je pas Monsieur Martin ?
 
-**** *book_ *id_body-702 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV02 *act_IV *date_1670 *creator_montfleury
 
 -*who_martin
       Quid vis.
@@ -2332,7 +2332,7 @@ Il me faut quatre lots tout au moins pour la faire,
 Si je ne gagne rien je pretens⁎…Vous verrez.
 Ne m'en prendre qu'à vous & vous m'en respondrez.
 
-**** *book_ *id_body-703 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV03 *act_IV *date_1670 *creator_montfleury
 
 -*who_martin
 À moy Monsieur à moy cet homme n'est pas sage,
@@ -2342,7 +2342,7 @@ Il a perdu l'esprit, mais quelqu'un vient je croy :
 De peur que ce n'estoit quelque fou comme l'autre ;
 Sortons de cette chambre & montons dans la nostre.
 
-**** *book_ *id_body-704 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV04 *act_IV *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Ouy je suis pris pour duppe & voy la fausseté
@@ -2373,7 +2373,7 @@ Si l'on me croit dehors j'en puis estre éclaircy,
 Et voir sans estre veu ce qui se passe icy :
 Quelqu'un vient écoutons.
 
-**** *book_ *id_body-705 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV05 *act_IV *date_1670 *creator_montfleury
 
 -*who_beatrix
       Il est nuit l'heure presse,
@@ -2440,7 +2440,7 @@ Mais je ne vois venir Climenne ny Leandre ;
 Allons les separer dedans cet entretien⁎,
 Ils passeront la nuit si l'on ne leur dit rien.
 
-**** *book_ *id_body-706 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV06 *act_IV *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Ah ! ah ! chacun icy cajole⁎ à tour de roole,
@@ -2468,7 +2468,7 @@ Il s'appelle le Basque & je le viens d'apprendre,
 Je ne le connois point mais je pretens⁎ ravoir…
 Quelqu'un vient écoutons sans qu'on nous puisse voir.
 
-**** *book_ *id_body-707 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV07 *act_IV *date_1670 *creator_montfleury
 
 -*who_leandre
 Faut-il nous separer ? que cet ordre est severe.
@@ -2553,7 +2553,7 @@ Vous le sçaurez du Basque.
 -*who_climenne
       Adieu.
 
-**** *book_ *id_body-708 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV08 *act_IV *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 J'en tiens, ils ont assez agité la matiere,
@@ -2581,7 +2581,7 @@ De l'ingenuité c'est un parfait modelle ;
 Et pour ce Suisse enfin ma bonté se resout,
 Mais quelqu'un vient encor écoutons jusqu'au bout.
 
-**** *book_ *id_body-709 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV09 *act_IV *date_1670 *creator_montfleury
 
 -*who_beatrix
 Basque.
@@ -2590,7 +2590,7 @@ Basque.
       C'est Beatrix elle appelle le Basque,
 Examinons-le avant que de lever le masque.
 
-**** *book_ *id_body-710 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV10 *act_IV *date_1670 *creator_montfleury
 
 -*who_le_basque
 Que veux-tu.
@@ -2707,7 +2707,7 @@ Tu me quittes je vais te rendre la pareille,
 Et ne veux desormais aymer que ma bouteille :
 Mais en nous retirant gardons de⁎ nous heurter.
 
-**** *book_ *id_body-711 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_IV11 *act_IV *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Tous sont d'inteligence⁎ & je n'en puis douter,
@@ -2728,7 +2728,7 @@ Laisser jusqu'à ce temps rassoir ma bille émeuë⁎ : 
 Et pour passer en paix le reste de la nuit,
 Je vais me retirer dans ma chambre sans bruit.
 
-**** *book_ *id_body-801 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V01 *act_V *date_1670 *creator_montfleury
 
 -*who_beatrix
 Quoy, tu voudrois encor soûtenir le contraire ?
@@ -2786,7 +2786,7 @@ Toûjours mesme chanson ? ma foy tu le verras,
 Ce n'est que par tes yeux que je veux te confondre :
 Le voicy qu'en dis tu.
 
-**** *book_ *id_body-802 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V02 *act_V *date_1670 *creator_montfleury
 
 -*who_le_basque
       Je n'ay rien à respondre ;
@@ -2800,7 +2800,7 @@ Que je veux luy parler, & voudrois bien sçavoir,
 S'il faut que je l'attende, ou si je l'iray voir ;
 Je parle à Beatrix laissez-la faire Suisse.
 
-**** *book_ *id_body-803 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V03 *act_V *date_1670 *creator_montfleury
 
 -*who_le_basque
 Chi ly veut moy tout jour rendre à vou bon service.
@@ -2851,7 +2851,7 @@ O Monser.
       Qu'on se taise ou j'en redonne autant,
 Mais je vois avancer Beatrix & Climenne.
 
-**** *book_ *id_body-804 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V04 *act_V *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Je ne pretendois pas vous donner tant de peine⁎ :
@@ -2859,7 +2859,7 @@ Mais puis que vous voilà, donnez nous deux fauteüils,
 Montrez-nous les talons.
       Et vous laissez-nous seuls.
 
-**** *book_ *id_body-805 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V05 *act_V *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Approchez-vous Climenne, & prenez vostre place,
@@ -3084,13 +3084,13 @@ Luy conter vos amours, luy vanter vostre choix,
 Et j'espere devant⁎ qu'il soit trois fois les Rois :
 Qu'il en sera parlé, donnez vous patience.
 
-**** *book_ *id_body-806 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V06 *act_V *date_1670 *creator_montfleury
 
 -*who_climenne
 On va tout exiger de mon obeyssance,
 Et l'on va me forcer…Ah Beatrix sçais-tu ?….
 
-**** *book_ *id_body-807 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V07 *act_V *date_1670 *creator_montfleury
 
 -*who_beatrix
 Je sçay tout comme vous car j'ay tout entendu.
@@ -3117,7 +3117,7 @@ En quatre mots voilà ce que je luy dirois,
 Qu'on me laisse en repos⁎, je n'ayme que Leandre,
 Je hais le Beauceron, qu'il s'aille faire pendre.
 
-**** *book_ *id_body-808 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V08 *act_V *date_1670 *creator_montfleury
 
 -*who_le_basque
 Mon Maistre…
@@ -3132,7 +3132,7 @@ S'il peut vous venir voir.
 -*who_climenne
       Dis luy qu'il peut entrer.
 
-**** *book_ *id_body-809 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V09 *act_V *date_1670 *creator_montfleury
 
 -*who_climenne
 En vain j'empescherois son amour de parestre,
@@ -3140,7 +3140,7 @@ C'est la derniere fois qu'il me verra peut estre ;
 Le plus severe honneur⁎ peut permettre en ce jour,
 De donner ce dernier moment à nostre amour.
 
-**** *book_ *id_body-810 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V10 *act_V *date_1670 *creator_montfleury
 
 -*who_climenne
 Rien ne peut plus flater⁎ ma flame ny la vostre,
@@ -3191,7 +3191,7 @@ Mon amour aussi bien est trop grand pour le vostre.
 Adieu vous me voyez pour la derniere fois,
 Obeyssez Madame, & faites vostre choix.
 
-**** *book_ *id_body-811 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V11 *act_V *date_1670 *creator_montfleury
 
 -*who_le_beauceron
 Leandre, revenez, parlons de vostre flame,
@@ -3245,7 +3245,7 @@ Quoy vous ne verriez pas ce qu'amour nous destine ?
 -*who_le_beauceron
 Non je vous en repons⁎ ; jusqu'au revoir cousine.
 
-**** *book_ *id_body-812 *act_ *date_1670 *creator_montfleury
+**** *book_ *id_V12 *act_V *date_1670 *creator_montfleury
 
 -*who_leandre
 Allons voir vostre mere.

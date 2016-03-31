@@ -1,6 +1,6 @@
 ---
 identifier: GILLET_DENIAISE  
-creator: GILLET DE LA TESSONERIE  
+creator: Gillet de La Tessonerie  
 date: 1647  
 title: LE DÉNIAISÉ, COMÉDIE  
 ---
@@ -50,8 +50,8 @@ Qu'un amant est prodigue, et que rien ne lui coûte.
 Vous me raillez toujours ...  
 
     CLIMANTE.
-        Que vos gants sentent bon !  
-Est-ce de Martial ou Frangipane ? [1] [2]  
+        Que vos gants sentent bon !   [1] [2]
+Est-ce de Martial ou Frangipane ?  
 
     ARISTE.
         Non,  
@@ -99,16 +99,16 @@ J'en aurais dit autant.
 
     CLIMANTE.
         Au moins prenez y garde,  
-Il fait bon d'en donner, mais c'est un grand malheur  
-Quelque habile qu'on soit de passer pour hâbleur, [3]  
+Il fait bon d'en donner, mais c'est un grand malheur   [3]
+Quelque habile qu'on soit de passer pour hâbleur,  
 Si lorsqu'on s'introduit dedans les compagnies,  
 On ne concerte bien toutes ses menteries,  
 Et si l'on n'a l'esprit de les faire avouer,  
 Ce n'est qu'un beau talent pour se faire jouer.  
 Pour moi qui comme vous en revenant de Rome,  
 Partout où je pouvais en donnais en jeune homme,  
-Et voulais tout risquer pour faire le plaisant,  
-Je reconnais fort bien mes faibles à présent : [4]  
+Et voulais tout risquer pour faire le plaisant,   [4]
+Je reconnais fort bien mes faibles à présent :  
 Et puis en me voyant dans un autre moi-même  
 Vous tirer aujourd'hui d'un embarras extrême.  
 
@@ -124,8 +124,8 @@ Peut-il de fois par jour donner des menteries ?
 
     CLIMANTE.
 Il faut selon les gens régler la quantité,  
-Apprendre leur humeur, savoir leur qualité ;  
-Mais lorsque vous voudrez donner quelque cassade, [5]  
+Apprendre leur humeur, savoir leur qualité ;   [5]
+Mais lorsque vous voudrez donner quelque cassade,  
 Consultez-moi devant pour régler la boutade,  
 Le feu que vous avez a besoin de leçon  
 Après vous hablerez de la bonne façon :  
@@ -186,8 +186,8 @@ Ah ! C'est trop m'obliger.
         Le galant personnage !  
 Il croit trouver sa dupe.  
 
-    JODELET.
-        Ah ! Le plaisant falot. [6]  
+    JODELET. [6]
+        Ah ! Le plaisant falot.  
 
     ARISTE.
 Il faut tout endurer, et ne lui dire mot,  
@@ -196,8 +196,8 @@ Et puisque mon bonheur consiste dans ces feintes,
 Il faut passer plus outre, et faisant l'ingénu,  
 Me maintenir au point où je suis parvenu,  
 Donc, mon cher Jodelet, réponds à mon attente,  
-Et ne dédaigne point cette adroite suivante,  
-Qui servant d'un Argus à ma divinité [7]  
+Et ne dédaigne point cette adroite suivante,   [7]
+Qui servant d'un Argus à ma divinité  
 Alors qu'elle te suit nous laisse en liberté  
 Ses sanglots font pitié...  
 
@@ -208,14 +208,14 @@ Ses sanglots font pitié...
 Mais...  
 
     JODELET.
-        Quand vous le voudrez je la rendrai plus douce  
-Et plus souple cent fois qu'un gant de chevrotin. [8]  
+        Quand vous le voudrez je la rendrai plus douce   [8]
+Et plus souple cent fois qu'un gant de chevrotin.  
 
     ARISTE.
 Tu l'entends, Jodelet.  
 
-    JODELET PORTE LE DOIGT À SA BOUCHE.
-        Je suis un faux mâtin, [9]  
+    JODELET PORTE LE DOIGT À SA BOUCHE. [9]
+        Je suis un faux mâtin,  
 Sans moi dans vos amours vous auriez votre compte,  
 Car Lisette m'a dit que l'Intendant d'Oronte  
 Sans elle nous allait envoyer à vaux l'eau,  
@@ -489,8 +489,8 @@ Car enfin ce mari ne me quittant jamais
 Me suivait au manège, au tripot, au Palais,  
 En affaire, en emplette, à la campagne, en ville,  
 Encore que partout je lui fusse inutile ;  
-Si j'allais promener le bonhomme y venait ;  
-Si je gardais la chambre, alors il s'y tenait. [10]  
+Si j'allais promener le bonhomme y venait ;   [10]
+Si je gardais la chambre, alors il s'y tenait.  
 
     PANCRACE, BAS.
 Ce zèle est paradoxe et ces soins incommodes.  
@@ -527,8 +527,8 @@ Ne purent éclairer ce miracle des belles,
 Là pleins d'un beau désir qu'on ne peut exprimer  
 Tout riait à nos yeux, et tout parlait d'aimer.  
 
-    PANCRACE, BAS.
-Cet homme a lu les Grecs, et possède les fables. [11]  
+    PANCRACE, BAS. [11]
+Cet homme a lu les Grecs, et possède les fables.  
 
     OLYMPE.
 N'a-t-il pas des moments qui sont assez passables ?  
@@ -555,8 +555,8 @@ Elles rencontreraient leurs tombeaux dans nos plats.
 Que dit cet insolent ?  
 
     JODELET.
-        Que ces nymphes volages  
-N'étaient foi de piéton que des canards sauvages [12]  
+        Que ces nymphes volages   [12]
+N'étaient foi de piéton que des canards sauvages  
 Que vous sûtes du lit si bien effaroucher  
 Que jamais du depuis ils n'y vinrent coucher.  
 
@@ -595,8 +595,8 @@ Et vous me haïriez si j'étais inconstant,
 Et croiriez que pour vous j'en pourrais faire autant.  
 
     ORONTE.
-Madame, apaisez-vous, et cachez votre haine,  
-L'apostrophe est plaisant, étant de longue haleine, [13]  
+Madame, apaisez-vous, et cachez votre haine,   [13]
+L'apostrophe est plaisant, étant de longue haleine,  
 Et vous nous priverez d'un entretien fort doux,  
 Si Monsieur le retranche, et se contraint pour vous.  
 
@@ -699,8 +699,8 @@ Je m'en étais douté, mais...
 
     PANCRACE.
         Les doutes sont grands  
-Pour définir s'il est des appas différents.  
-Pythagore, Zénon, Aristote, Socrates, [14]  
+Pour définir s'il est des appas différents.   [14]
+Pythagore, Zénon, Aristote, Socrates,  
 Philostrate, Bias, Eschyle, Zenocrates,  
 Aristippe, Plutarque, Isocrates, Platon,  
 Démosthene, Luculle, Hesiode, Caton,  
@@ -857,8 +857,8 @@ Peste.
 Qui sans avoir de sang avaient été formées.  
 Il est des animaux qui n'en répandent pas  
 Après le coup fatal qui cause leur trépas.  
-L'âme n'est pas aussi l'acte ni l'énergie,  
-C'est au corps qu'appartient le mot d'entelechie. [15]  
+L'âme n'est pas aussi l'acte ni l'énergie,   [15]
+C'est au corps qu'appartient le mot d'entelechie.  
 
     JODELET.
 Hola !  
@@ -886,8 +886,8 @@ Aussi l'âme à l'arbitre.
         Ah ! c'est trop arbitré  
 Au diable le moment que je t'ai rencontré.  
 
-    PANCRACE.
-Au diable le pendard qui ne veut rien apprendre. [16]  
+    PANCRACE. [16]
+Au diable le pendard qui ne veut rien apprendre.  
 
     JODELET.
 Au diable les savants, et qui les peut comprendre.  
@@ -969,8 +969,8 @@ Nous reviendrons...
         Olympe en rit à tout moment,  
 Mais qui croirait jamais une telle innocence ?  
 
-    CLIMANTE.
-Elle passe au delà de toute la créance. [17]  
+    CLIMANTE. [17]
+Elle passe au delà de toute la créance.  
 
     ORONTE.
 Enfin vous connaissez l'esprit du pèlerin.  
@@ -998,8 +998,8 @@ Et de raisonnements ridicules et sots.
 Pour, je me ressouviens, il met je me recorde,  
 Et rime hallebarde avec miséricorde,  
 Les voyelles chez lui sont en confusion,  
-Il dit que l'on s'en sert dedans l'illusion  
-Comme dans la céruse et dedans le mystique, [18]  
+Il dit que l'on s'en sert dedans l'illusion   [18]
+Comme dans la céruse et dedans le mystique,  
 Sans que ce soit alors licence poétique.  
 Mais enfin le meilleur est qu'il m'a conjuré  
 De lui faire des vers pour un désespéré ;  
@@ -1018,8 +1018,8 @@ Et qu'il n'avait pour elle autre amour que l'estime.
 Mais qu'avez vous promis ?  
 
     ORONTE.
-        Pour nous jouer de lui,  
-J'ai promis de lui faire une Stance aujourd'hui, [19]  
+        Pour nous jouer de lui,   [19]
+J'ai promis de lui faire une Stance aujourd'hui,  
 Cependant je ne sais si je tiendrai parole ;  
 Mais vous en savez faire, et cela me console.  
 
@@ -1114,8 +1114,8 @@ En est-ce assez ?
         C'est trop ; mais dans la promenade,  
 De quoi vous parlait-il ?  
 
-    OLYMPE.
-        De donner sérénade. [20]  
+    OLYMPE. [20]
+        De donner sérénade.  
 
     ORONTE.
 Quand ?  
@@ -1136,8 +1136,8 @@ Et ne s'en souvient plus, il faut que je le dise.
 
     ARISTE.
 Ne tâchez point par là de me perdre d'honneur,  
-Je m'en dois souvenir si j'en fais mon bonheur  
-Si vous voulez demain venir voir Rodogune ; [21]  
+Je m'en dois souvenir si j'en fais mon bonheur   [21]
+Si vous voulez demain venir voir Rodogune ;  
 Les vers en sont fort beaux, l'intrigue peu commune,  
 Et surtout cette mère a de grands mouvements.  
 
@@ -1189,8 +1189,8 @@ Que dirai-je pour être en tous vos sentiments,
 Dites moi...  
 
     ORONTE.
-        Nommez vous le Phoenix des amants ?  
-Et pour jouer Ariste avec un peu d'adresse, [22]  
+        Nommez vous le Phoenix des amants ?   [22]
+Et pour jouer Ariste avec un peu d'adresse,  
 Traitez moi de jaloux auprès de ma maîtresse,  
 Dites que ma présence est cause quelquefois  
 Que vous avez perdu l'usage de la voix :  
@@ -1251,8 +1251,8 @@ Ariste...
 Dites lui que ce soir je dois souper en ville,  
 Que de vous voir la nuit il sera très facile ;  
 S'il veut entrer chez vous sous l'habit d'un archer  
-Pendant Climante et moi nous irons nous cacher,  
-En ces logis voisins de la Conciergerie, [23]  
+Pendant Climante et moi nous irons nous cacher,   [23]
+En ces logis voisins de la Conciergerie,  
 Où des gens apostez pour cette raillerie  
 De ce déguisement lui demandant raison  
 Feindront de le vouloir mener dans la prison ;  
@@ -1423,38 +1423,38 @@ Faut il que ce brutal traverse mon repos ?
 Quoi, pour moi ta folie est toujours sans pareille.  
 
     PANCRACE EN LA POURSUIVANT.
-Ah ! Cruelle ! Ah ! Bacchante ! Ah ! Scythique merveille !  
-De l'élément nitreux le monstre le plus fier [24] [25]  
+Ah ! Cruelle ! Ah ! Bacchante ! Ah ! Scythique merveille !   [24] [25]
+De l'élément nitreux le monstre le plus fier  
 Se rendrait plus sensible en m'écoutant prier,  
 Le discourtois Sarmathe, et le froid Sycophage  
-Auprès de ton humeur n'ont rien qui soit sauvage ;  
-Le Sipille, ou Niobé, à l'âme de rocher, [26]  
-Du vent de mes soupirs se laisserait toucher. [27]  
+Auprès de ton humeur n'ont rien qui soit sauvage ;   [26]
+Le Sipille, ou Niobé, à l'âme de rocher,   [27]
+Du vent de mes soupirs se laisserait toucher.  
 Ô Carybde amoureux ! Où je prévois l'orage.  
-Ô Scylla dangereux où je ferai naufrage !  
-Ô bel oeil sanguinaire ! Aimable Lestrigon, [28] [29]  
+Ô Scylla dangereux où je ferai naufrage !   [28] [29]
+Ô bel oeil sanguinaire ! Aimable Lestrigon,  
 Qui surpasses en force et Briare, et Typhon,  
 Aspre aimant de mon coeur, adorable Cyclope !  
-Qui n'eut pas épargné l'amant de Pénélope,  
-Et veux ensanglanter les myrtes glorieux [30]  
-Que cueille dans Paphos un coeur victorieux, [31]  
-À la fin tu me vois loin des ports et des rades.  
-À travers des écueils au dessous des Pléiades [32]  
-Sans que j'y puisse avoir de plus doux réconfort,  
-Que d'être auxilié par les traits de la mort, [33]  
-Cruelle, arrête un peu ! Ces regards homicides.  
-Sont bons dans le Cocyte aux yeux des Euménides, [34] [35]  
+Qui n'eut pas épargné l'amant de Pénélope,   [30]
+Et veux ensanglanter les myrtes glorieux   [31]
+Que cueille dans Paphos un coeur victorieux,  
+À la fin tu me vois loin des ports et des rades.   [32]
+À travers des écueils au dessous des Pléiades  
+Sans que j'y puisse avoir de plus doux réconfort,   [33]
+Que d'être auxilié par les traits de la mort,  
+Cruelle, arrête un peu ! Ces regards homicides.   [34] [35]
+Sont bons dans le Cocyte aux yeux des Euménides,  
 Mais toi ?  
 
     LISETTE.
         Le bel amant avec son poil grison !  
 
-    PANCRACE.
-Je puis me rajeunir mieux que ne fit Éson, [36]  
-Et domptant la rigueur des fières destinées  
-Dérober à Cloton le fil de mes années [37]  
-Par la rare vertu d'un savoir dominant,  
-Je confondrai mon être avec l'Altitonant : [38]  
+    PANCRACE. [36]
+Je puis me rajeunir mieux que ne fit Éson,  
+Et domptant la rigueur des fières destinées   [37]
+Dérober à Cloton le fil de mes années  
+Par la rare vertu d'un savoir dominant,   [38]
+Je confondrai mon être avec l'Altitonant :  
 Et joignant le principe à sa cause première,  
 J'emprunterai d'un Dieu l'éclat et la lumière  
 Et devenu divin par sa réflexion,  
@@ -1486,46 +1486,46 @@ Ou ne haranguez point, ou ne raillez personne,
 Car si je ne suis pas la perle de Paris,  
 Vous ne devez pas croire être le beau Paris.  
 
-    PANCRACE.
-Celle qui descendit de la voûte étoilée [39]  
-Pour se faire admirer aux noces de Pelée,  
-Et fut après porter dessus le mont Ida, [40]  
+    PANCRACE. [39]
+Celle qui descendit de la voûte étoilée  
+Pour se faire admirer aux noces de Pelée,   [40]
+Et fut après porter dessus le mont Ida,  
 Le fameux différent que ce Grec décida,  
 N'avait pas plus que vous d'appas hiéroglyphiques  
 Pour donner à mon coeur des coups symptomatiques,  
 Et celle qui fuyant les bras de Ménélas  
-Réduisit Ilion à dix ans de combats,  
-Et chassant de Priam les Lares domestiques [41] [42]  
-Attacha son génie à des destins tragiques, [43]  
-Eût moins fait que vos yeux d'efforts herculiens,  
-Et n'aurait jamais pu me donner des liens, [44]  
-Car ce coeur que j'ai mis au rang de vos conquêtes  
-En bonnes qualités est un hydre à cent têtes, [45]  
+Réduisit Ilion à dix ans de combats,   [41] [42]
+Et chassant de Priam les Lares domestiques   [43]
+Attacha son génie à des destins tragiques,  
+Eût moins fait que vos yeux d'efforts herculiens,   [44]
+Et n'aurait jamais pu me donner des liens,  
+Car ce coeur que j'ai mis au rang de vos conquêtes   [45]
+En bonnes qualités est un hydre à cent têtes,  
 Et quand de ses vertus un gros est abattu,  
 Il en renaît un autre avec plus de vertu.  
 Jugez s'il est aisé de lui donner la gêne,  
 Et ce que peut l'objet qui le met à la chaîne ?  
 
-    LISETTE.
-Moi ! Je pourrais aimer ce nez de harlequin, [46]  
-Ce poil de goupillon, et cet oeil de Bouquin [47]  
+    LISETTE. [46]
+Moi ! Je pourrais aimer ce nez de harlequin,   [47]
+Ce poil de goupillon, et cet oeil de Bouquin  
 Pour attraper la miche allez à l'autre porte.  
 
     PANCRACE.
 Aimable et cher objet, traitez moi d'autre sorte,  
 L'ironie est choquante à l'esprit d'un amant  
-Qui n'a pas reconnu qu'on l'aime infiniment,  
-Après l'énormité de cette catachrèse, [48]  
+Qui n'a pas reconnu qu'on l'aime infiniment,   [48]
+Après l'énormité de cette catachrèse,  
 Qu'un propos moins acide en ma douleur m'apaise  
 Et qu'un trait de vos yeux me redonne le jour.  
-Cette vicissitude est plaisante en amour,  
-Que si vous affectez de parler par figure, [49]  
+Cette vicissitude est plaisante en amour,   [49]
+Que si vous affectez de parler par figure,  
 Ou que vous en usiez par instinct de nature,  
-Chérissez l'antithèse, et pour parler d'amour,  
-Prenez la tapinose, et l'énigme à son tour, [50] [51]  
-Le Sarcasme est plaisant, fuyant le Kacozelle,  
-L'apophtegme est savant, et l'hyperbole est belle, [52]  
-Alors ... [53]  
+Chérissez l'antithèse, et pour parler d'amour,   [50] [51]
+Prenez la tapinose, et l'énigme à son tour,  
+Le Sarcasme est plaisant, fuyant le Kacozelle,   [52]
+L'apophtegme est savant, et l'hyperbole est belle,   [53]
+Alors ...  
 
     LISETTE.
     Adieu, Docteur.  
@@ -1537,8 +1537,8 @@ Un mot.
     LISETTE.
         Il faut aller balayer la maison.  
 
-    PANCRACE.
-Hélas ! Je voudrai bien que ton âme abstersive [54]  
+    PANCRACE. [54]
+Hélas ! Je voudrai bien que ton âme abstersive  
 Chassât loin de mon coeur une douleur trop vive,  
 Et qu'en y balayant des tristesses d'amour,  
 Tu le fisses passer de la poussière au jour !  
@@ -1734,8 +1734,8 @@ Qu'il attende !
     CLIMANTE.
 Qu'il revienne tantôt ; ne plaignez point ses peines.  
 
-    LISETTE.
-Un linger vient d'entrer avec des points de Gênes. [55]  
+    LISETTE. [55]
+Un linger vient d'entrer avec des points de Gênes.  
 
     OLYMPE.
 Qu'il s'en aille ! J'irai le voir en sa maison.  
@@ -1757,8 +1757,8 @@ Encore un surveillant ?
     PANCRACE, À CLIMANTE.
         Quatre mots, s'il vous plaît.  
 Mon maître vous expecte, et dit que tout est prêt :  
-Qu'il a vu les archers, et qu'il est tantôt l'heure  
-D'attendre le badaud. [56]  
+Qu'il a vu les archers, et qu'il est tantôt l'heure   [56]
+D'attendre le badaud.  
 
     CLIMANTE.
         Nous rirons, ou je meure.  
@@ -1803,8 +1803,8 @@ Et du rationnel et du végétatif.
     LISETTE.
         Adieu.  
 
-    PANCRACE.
-Les vents qui font trembler les Néréides, [57]  
+    PANCRACE. [57]
+Les vents qui font trembler les Néréides,  
 Les obligent d'aller dans leurs grottes humides,  
 Pour y ressusciter les tritons langoureux,  
 Et piquer les poissons d'un instinct amoureux.  
@@ -1855,8 +1855,8 @@ Ce brasier est si violent
 Que par sa vertu spécifique,  
 En m'échauffant d'un feu centrique  
 Je suis un Vésuve brûlant;   [58]
-De sa consommante hypostase [59]   [60]
-Se forme un antipéristase [61]  
+De sa consommante hypostase   [59]
+Se forme un antipéristase  
 Avecque ma froide raison ;  
 D'où vient la foudroyante flamme  
 Qui sans espoir de guérison  
@@ -1877,9 +1877,9 @@ L'accident dont elle est forcée ?
 
 Vous qui n'avouiez pour vrais biens,  
 Que ceux qui semblent impossibles,  
-Nobles et divins insensibles,   [62]
-Miraculeux stoïciens, [63]   [64]
-Qui des passions mordicantes, [65]  
+Nobles et divins insensibles,   [60]
+Miraculeux stoïciens,   [61]
+Qui des passions mordicantes,  
 Réprimiez les flammes piquantes,  
 Éclairez mon entendement  
 D'un rayon de votre lumière !  
@@ -1888,8 +1888,8 @@ Et le dégager noblement
 Des faiblesses de la matière !  
 
 Mais ô déplorable rigueur !  
-Il faudrait une main divine   [66]
-Pour chasser l'amoureuse Erynne [67]  
+Il faudrait une main divine   [62]
+Pour chasser l'amoureuse Erynne  
 Qui met tout l'enfer dans mon coeur :  
 Cette furie est si fatale,  
 Qu'avec toute votre cabale  
@@ -1920,8 +1920,8 @@ Et croient vous jouer une pièce excellente.
 
     ARISTE.
 Pour les contre-jouer d'une façon galante,  
-J'ai fait au lieu de moi déguiser Jodelet,  
-Qui loin de vous porter un amoureux poulet, [68]  
+J'ai fait au lieu de moi déguiser Jodelet,   [63]
+Qui loin de vous porter un amoureux poulet,  
 Tient un écrit tout plein d'excuses ingénues  
 Pour ne pouvoir venir à ces heures indues,  
 Où je vous dis qu'étant fort brave cavalier  
@@ -2044,17 +2044,17 @@ Et faisant de nos coeurs un amoureux tison,
 Mets enfin tôt ou tard le feu dans ta maison ;  
 N'es-tu pas satisfait de me voir de la sorte ?  
 Ne ris-tu point de voir les armes que je porte ?  
-Et n'es-tu pas enfin un plaisant maroquin  
-De m'avoir engagé dessous ce casaquin ? [69]  
+Et n'es-tu pas enfin un plaisant maroquin   [64]
+De m'avoir engagé dessous ce casaquin ?  
 Par toi je suis archer, mais un archer sans gage,  
 Par toi je suis soldat, mais soldat sans courage ;  
 Par toi je suis amant mais amant sans amour ;  
-Et par toi je produis sans mettre rien au jour ;  
-D'un jeune enamouré qui va voir sa donzelle [70]  
+Et par toi je produis sans mettre rien au jour ;   [65]
+D'un jeune enamouré qui va voir sa donzelle  
 Sans être en faction je suis la sentinelle ;  
 Et des pièces d'amour, dont il est l'inventeur,  
-Je serai la machine alors qu'il est l'acteur :  
-Je suis par le secret de cette hallebarde [71]  
+Je serai la machine alors qu'il est l'acteur :   [66]
+Je suis par le secret de cette hallebarde  
 Caporal, et sergent, soldat et corps de garde ;  
 Et seul faisant le tout dans un si bel emploi  
 Toute la compagnie est au-dessous de moi ;  
@@ -2063,18 +2063,18 @@ Qui chez nos bons bourgeois est si considérée ?
 Et que mon vieil voisin appelle un bon bâton ?  
 Au diable, je me suis écorché le menton :  
 Et pour peu que je veuille en faire davantage  
-Je reconnaîtrai bien que je ne suis pas sage.  
-Si faut-il toutefois faire le moulinet, [72]  
+Je reconnaîtrai bien que je ne suis pas sage.   [67]
+Si faut-il toutefois faire le moulinet,  
 Hé bien ! le tour est vite et l'écart est bien net ;  
-J'y suis un peu gruyer, et j'en ferais la nique  
-Au plus mauvais garçon des courtaux de boutique. [73]  
-Mais à quoi m'amusai-je, amour peste aux écus  
-Petit cousin germain du bon père Bacchus ; [74]  
-Qui force les clients qui voguent sous ton aile  
-À prendre un vomitif qui vide l'escarcelle ; [75]  
-Fais couler jusqu'à moi quelques méchants ducats ! [76]  
-Donne moi le moyen d'aller vider les plats  
-Et d'aller m'esbaudir avec le Dieu des pintes [77]  
+J'y suis un peu gruyer, et j'en ferais la nique   [68]
+Au plus mauvais garçon des courtaux de boutique.  
+Mais à quoi m'amusai-je, amour peste aux écus   [69]
+Petit cousin germain du bon père Bacchus ;  
+Qui force les clients qui voguent sous ton aile   [70]
+À prendre un vomitif qui vide l'escarcelle ;   [71]
+Fais couler jusqu'à moi quelques méchants ducats !  
+Donne moi le moyen d'aller vider les plats   [72]
+Et d'aller m'esbaudir avec le Dieu des pintes  
 Et te sacrifier des chants au lieu de plaintes  
 Exauce mes souhaits, amour écoute moi  
 Puisque je suis archer aussi bien comme toi ;  
@@ -2083,8 +2083,8 @@ Travaillant l'un pour l'autre, aider qui nous ressemble !
 Nous de la ressemblance, Ah fat au dernier point !  
 J'ai des yeux qui sont bons, et toi tu n'en as point !  
 D'un cocuage encor nul mari ne me blâme,  
-Et ma mère après tout est fort honnête femme.  
-Non, non je suis archer, tu n'es qu'un archerot ; [78]  
+Et ma mère après tout est fort honnête femme.   [73]
+Non, non je suis archer, tu n'es qu'un archerot ;  
 Je suis fort honnête homme et tol tu n'es qu'un sot.  
 Au diable soit l'amour, avec la hallebarde !  
 
@@ -2094,8 +2094,8 @@ Au diable soit l'amour, avec la hallebarde !
     LE-CAPORAL.
 La Verdure.  
 
-    JODELET, BAS.
-    Motus. [79]  
+    JODELET, BAS. [74]
+    Motus.  
 
     LE-CAPORAL.
         Venez au corps de garde ?  
@@ -2165,9 +2165,9 @@ Sors de là !
 
     JODELET.
         J'y serais jusqu'à demain matin.  
-A d'autre, vieil ami, vous m'éprouvez en vain :  
-Je n'en branlerais pas pour gagner un Empire. [80]  
-Dieu vous doint tout le bien que votre coeur désire, [81]  
+A d'autre, vieil ami, vous m'éprouvez en vain :   [75]
+Je n'en branlerais pas pour gagner un Empire.   [76]
+Dieu vous doint tout le bien que votre coeur désire,  
 Encor, Dieu vous assiste, et bonsoir.  
 
     LE-CAPORAL.
@@ -2175,8 +2175,8 @@ Encor, Dieu vous assiste, et bonsoir.
 Qu'il prenait bien son temps, pour s'évader d'ici !  
 Il me faut suivre ami.  
 
-    JODELET, EN LE FLATTANT.
-        Le Belaud, qu'il est drôle ! [82]  
+    JODELET, EN LE FLATTANT. [77]
+        Le Belaud, qu'il est drôle !  
 
     LE-CAPORAL.
 Pourquoi m'as tu donné ce coup dessus l'épaule ?  
@@ -2211,8 +2211,8 @@ Mon maître...
     JODELET.
         Quelle grêle de coups !  
 Au meurtre, l'on m'assomme, on me vole, on me tue !  
-Au diable soit l'amour, la maison et la rue !  
-Lettres, message, ami, maîtresse, casaquin, [83]  
+Au diable soit l'amour, la maison et la rue !   [78]
+Lettres, message, ami, maîtresse, casaquin,  
 Sentinelle, poignard, hallebarde et rouquin.  
 
 
@@ -2233,8 +2233,8 @@ Ce climat tempéré n'est bon qu'au cocuage.
 
     ORONTE.
 Cesse, pour engager Olympe en ce voyage  
-Demain seul avec elle allant me promener  
-Auprès de Saint-Denis tu nous feras mener [84]  
+Demain seul avec elle allant me promener   [79]
+Auprès de Saint-Denis tu nous feras mener  
 Quatre chevaux tous prêts pour rejoindre aux deux nôtres,  
 Puis...  
 
@@ -2260,8 +2260,8 @@ Apprenant en l'état qu'on m'aura vu passer
 Par ce déguisement il peut s'embarrasser :  
 Le nom de père enfin....  
 
-    PANCRACE.
-        La fourbe est assez bonne. [85]  
+    PANCRACE. [80]
+        La fourbe est assez bonne.  
 
     ORONTE.
 Moi pour ne témoigner mes desseins à personne,  
@@ -2345,11 +2345,11 @@ Tu m'obliges.
 
     LISETTE, SEULE.
 Ai-je dessein de mourir de la toux ?  
-Et la fraîcheur qui vient de l'air et de la terre  
-Pourrait-elle être bonne à guérir mon cathere ? [86]  
+Et la fraîcheur qui vient de l'air et de la terre   [81]
+Pourrait-elle être bonne à guérir mon cathere ?  
 Moi chercher un valet ! Et me mettre en danger,  
-En perdre pour le voir, le boire et le manger,  
-Avoir martel en tête, et la puce en l'oreille ; [87]  
+En perdre pour le voir, le boire et le manger,   [82]
+Avoir martel en tête, et la puce en l'oreille ;  
 Dont le bourdonnement à toute heure m'éveille,  
 Et m'amaigrit si fort qu'avant ce renouveau  
 Je pense que les os me perceront la peau.  
@@ -2360,8 +2360,8 @@ Encor s'il était beau : mais ce n'est qu'un badaud.
 Et quelque long chagrin qui m'ait défigurée,  
 Je ne suis pas si sotte et pas tant déchirée,  
 Que je ne vaille bien un amour mutuel.  
-Vraiment c'est bien à lui de faire le cruel,  
-Mais c'est lui que j'entends qui nasonne et qui gronde. [88]  
+Vraiment c'est bien à lui de faire le cruel,   [83]
+Mais c'est lui que j'entends qui nasonne et qui gronde.  
 
 
 ## SCÈNE IV. Jodelet, Lisette.
@@ -2375,8 +2375,8 @@ Attendre ici des gens pour donner sérénade.
     LISETTE.
 Roder ici la nuit, tu te feras malade.  
 
-    JODELET.
-Je viens attendre ici des suppôts de l'archet. [89]  
+    JODELET. [84]
+Je viens attendre ici des suppôts de l'archet.  
 
     LISETTE.
 Que ne viens-tu pour voir celle qui t'y cherchait ?  
@@ -2417,8 +2417,8 @@ Ah ! Ne me touche point avecque tes mains sales.
     LISETTE.
 Es-tu si délicat ?  
 
-    JODELET.
-        Peste, je crains les galles. [90]  
+    JODELET. [85]
+        Peste, je crains les galles.  
 
     LISETTE.
 Écoute encor un mot.  
@@ -2434,18 +2434,18 @@ Es-tu si délicat ?
 Adieu ton mot est dit.  
 
     LISETTE.
-        Pour t'arrêter donc-là,  
-Je t'en conjure enfin par ces franches lippées, [91]  
+        Pour t'arrêter donc-là,   [86]
+Je t'en conjure enfin par ces franches lippées,  
 Par ces bribes de pain dedans le pot trempées,  
 Par ces soupers gardés, quand tu venais si tard,  
 Et que dessous mon nom je faisais mettre à part ;  
 Par ces deux bouillons faits quand tu pris médecine  
 Un jour que je te vis malade en la cuisine :  
-Bref, par tout ce qui peut d'un gosier altéré,  
-Plus que l'or et l'argent être considéré. [92]  
+Bref, par tout ce qui peut d'un gosier altéré,   [87]
+Plus que l'or et l'argent être considéré.  
 Hélas ! pour adoucir ton humeur rogue et fière  
-Que le ciel ne m'a-t-il fait naître sommelière,  
-Peut être que l'arbois, le grave et le muscat [93] [94]  
+Que le ciel ne m'a-t-il fait naître sommelière,   [88] [89]
+Peut être que l'arbois, le grave et le muscat  
 Ne te permettraient pas d'être si délicat.  
 
     JODELET.
@@ -2457,8 +2457,8 @@ En as-tu ?
     JODELET.
         Adieu, je vais coucher en ville.  
 
-    LISETTE.
-La gabatine est franche, et la ruse est subtile. [95]  
+    LISETTE. [90]
+La gabatine est franche, et la ruse est subtile.  
 
     JODELET.
 Tu m'as tout déchiré.  
@@ -2466,8 +2466,8 @@ Tu m'as tout déchiré.
     LISETTE.
         Tu ne t'en iras point.  
 
-    JODELET.
-Donne moi donc de quoi racoutrer mon pourpoint. [96]  
+    JODELET. [91]
+Donne moi donc de quoi racoutrer mon pourpoint.  
 
     LISETTE.
 Ah ! Que d'or et d'argent n'ai-je une vive source,  
@@ -2519,8 +2519,8 @@ Oui ; mais l'impatience au logis me prenait.
     JODELET.
 De vrai l'impatience est une étrange chose !  
 
-    PANCRACE.
-Elle perdra l'éclat de mon apothéose ! [97]  
+    PANCRACE. [92]
+Elle perdra l'éclat de mon apothéose !  
 
     JODELET.
 Sans doute, mais encor que veut dire ce mot ?  
@@ -2544,8 +2544,8 @@ Et combien vendrait-on l'once d'apothéose ?
 Si l'homme la vendait ce serait peu de chose.  
 
     JODELET.
-S'il en est sous le Ciel notre épicier en a,  
-Il vend bien du mercure et du diapalma. [98]  
+S'il en est sous le Ciel notre épicier en a,   [93]
+Il vend bien du mercure et du diapalma.  
 
     PANCRACE.
 En voulant t'enseigner mon erreur est extrême,  
@@ -2564,8 +2564,8 @@ Corrompt le meilleur sang, et le plus épuré.
 C'est le funeste auteur de ces tristes ravages,  
 Qu'excitent les désirs dans le coeur des plus sages ;  
 Et le noir séducteur des belles passions,  
-Par où l'honneur nous pousse aux bonnes actions.  
-Par un amas confus de flegmes et de bile, [99]  
+Par où l'honneur nous pousse aux bonnes actions.   [94]
+Par un amas confus de flegmes et de bile,  
 En offusquant l'organe il rend l'âme inhabile,  
 L'attache à la matière, et fait qu'elle ne peut  
 S'en rendre la maîtresse alors qu'elle le veut.  
@@ -2578,11 +2578,11 @@ Je sais bien que l'amour n'est qu'un fils de putain,
 Qu'un rustre était aimé de Madame sa mère,  
 Et qu'il ne fut jamais à feu Monsieur son père.  
 
-    PANCRACE.
-Ce divin forgeron, ce boiteux renommé [100]  
-Qui règne auprès du Styx sur un trône enfumé, [101]  
-Et qui prête la force au bras nerveux de Bronthe,  
-Vit un jour forligner la Reine d'Amadonthe, [102]  
+    PANCRACE. [95]
+Ce divin forgeron, ce boiteux renommé   [96]
+Qui règne auprès du Styx sur un trône enfumé,  
+Et qui prête la force au bras nerveux de Bronthe,   [97]
+Vit un jour forligner la Reine d'Amadonthe,  
 Et dedans la prison des réseaux qu'il avait  
 Fit voir à tous les Dieux l'affront qu'il recevait :  
 Mais je soutiens enfin à tous gymnosophistes,  
@@ -2596,14 +2596,14 @@ Hé bien ?
     PANCRACE.
         C'est un discours digne de ma colère  
 D'alléguer que l'amour est né dans l'adultère ;  
-C'est une médisance horrible aux gens d'esprit  
-Qui savent mieux que toi ce qu'Ovide en écrit. [103]  
-Ce subtil scrutateur des affaires du monde  
-Qui suivit Pythagore en sa route profonde, [104]  
+C'est une médisance horrible aux gens d'esprit   [98]
+Qui savent mieux que toi ce qu'Ovide en écrit.  
+Ce subtil scrutateur des affaires du monde   [99]
+Qui suivit Pythagore en sa route profonde,  
 N'osa pas insérer cet étrange discours  
 Dans le plaisant tissu de ses folles amours ;  
-Ce Dieu des chantres Grecs, et ce thébain lyrique  
-Par qui nous savons l'art de l'ode Pindarique, [105]  
+Ce Dieu des chantres Grecs, et ce thébain lyrique   [100]
+Par qui nous savons l'art de l'ode Pindarique,  
 Soutient bien le contraire à la barbe de tous,  
 Aussi je veux dans peu confondre ces vieux fous ;  
 Atlas : Roi de Mauritanie, fils de Japet et de Clymène, fut selon la fable, transformé en montagne pour avoir pris parti pour les Titans contre Jupiter, ou pour avoir refusé l'hospitalité à Persée et fut obligé de porter la Ciel sur ses épaules. B Au Roi-106
@@ -2614,14 +2614,14 @@ C'est assez, concluons que l'amour est bon drôle.
 Tu te mets en colère ?  
 
     PANCRACE.
-        Est ce mal à propos ?  
-Et l'amour n'est-il pas fils aîné de Chaos ? [106]  
+        Est ce mal à propos ?   [101]
+Et l'amour n'est-il pas fils aîné de Chaos ?  
 
     JODELET.
 Du chaos ! Par ma foi tu m'en fais bien accroire.  
 
-    PANCRACE.
-Hésiode t'en peut rafraîchir la mémoire, [107]  
+    PANCRACE. [102]
+Hésiode t'en peut rafraîchir la mémoire,  
 Et te faire savoir si ce sont des abus.  
 
     JODELET.
@@ -2633,8 +2633,8 @@ Voilà bien de quoi rire !
         Ah ! Stupide, ah ! Profane,  
 Nommer un philosophe un faiseur de rébus ?  
 
-    JODELET.
-Mais n'est-ce pas tout un, puisqu'il parlait Phébus ? [108]  
+    JODELET. [103]
+Mais n'est-ce pas tout un, puisqu'il parlait Phébus ?  
 Dis-en la vérité.  
 
     PANCRACE.
@@ -2657,8 +2657,8 @@ Et de diversités fait nos tempéraments.
 Ce qu'une étoile peut, quelle est son influence,  
 Comme sans nous forcer elle émeut la puissance,  
 Et donne quelque pente à l'inclination  
-Sans la violenter dans l'opération.  
-Je sais comme se font les carreaux du tonnerre, [109]  
+Sans la violenter dans l'opération.   [104]
+Je sais comme se font les carreaux du tonnerre,  
 Les éclipses de jour, les tremblements de terre :  
 Ce que l'on peut trouver de soufre aux minéraux,  
 Et ce qui peut entrer de sel dans les métaux  
@@ -2670,8 +2670,8 @@ Comme elle donne au corps les ordres nécessaires,
 Comme se font les nerfs, les veines, les artères,  
 Les fibres, les tendons, le sang, les ligaments,  
 Muscles, os, cartilage, et chair, et filaments :  
-Comme sont confondus par un lien utile  
-L'esprit, la pituite, et le sang et la bile. [110]  
+Comme sont confondus par un lien utile   [105]
+L'esprit, la pituite, et le sang et la bile.  
 Je sais que le poumon, le coeur et le cerveau...  
 
     JODELET.
@@ -2721,25 +2721,25 @@ Tu l'aimes ?
         J'en ai bien vu d'autres.  
 Ils ont beau me prier, mon honneur m'est trop cher,  
 S'ils veulent de l'amour qu'ils en aillent chercher,  
-Je ne suis pas payé pour souffrir leurs fredaines,  
-Et j'aimerais bien mieux que les fièvres quartaines [111]  
-Les prissent au collet, et les vinssent serrer [112]  
+Je ne suis pas payé pour souffrir leurs fredaines,   [106]
+Et j'aimerais bien mieux que les fièvres quartaines   [107]
+Les prissent au collet, et les vinssent serrer  
 Que de les écouter se plaindre et soupirer.  
 L'une en vous oeilladant d'un regard ridicule  
 Vous vient dire, je meurs, ah ! Je pâme, je brûle,  
-J'enrage mon amour, je suis dans les transports.  
-L'autre plus engrognée invoque mille morts, [113]  
+J'enrage mon amour, je suis dans les transports.   [108]
+L'autre plus engrognée invoque mille morts,  
 Et pour vaincre une humeur trop rebrousse et trop aigre  
-Fait la mine d'un chat qui boirait du vinaigre,  
-Et se met à pioller sur un ton si touchant, [114]  
+Fait la mine d'un chat qui boirait du vinaigre,   [109]
+Et se met à pioller sur un ton si touchant,  
 Qu'il ferait enrager la bête et le marchant.  
 Je ne suis pas si sot que de croire Lisette,  
 Elle a perdu son temps et sa fortune est faite ;  
 Elle a beau me vouloir déchirer le manteau,  
 M'arracher les cheveux, ou m'écorcher la peau ;  
 On ne dira jamais dedans notre village  
-Que j'aie démenti l'honneur de mon lignage,  
-Et que je ne sois plus un garçon vergogneux ; [115]  
+Que j'aie démenti l'honneur de mon lignage,   [110]
+Et que je ne sois plus un garçon vergogneux ;  
 Je sais ce qu'on disait de Pierrot le honteux  
 Quand il s'amouracha de sa jeune commère.  
 
@@ -2774,17 +2774,17 @@ Ne raille point ami, dis-moi tout, je te prie.
     JODELET.
 Je parle tout de bon, ce n'est point raillerie ;  
 Elle m'a dit de plus que tu veux l'épouser,  
-Et que sur l'escalier en la voulant baiser,  
-Tu te fis en tombant cette bugne à la temple. [116] [117]  
+Et que sur l'escalier en la voulant baiser,   [111] [112]
+Tu te fis en tombant cette bugne à la temple.  
 
     PANCRACE.
 En puis je demander une preuve plus ample ?  
 
     JODELET.
 De plus elle m'a dit, mais au moins soit discret,  
-Que de ton maître enfin lui fiant le secret,  
-Tu lui dis que demain il devait faire gilles, [118]  
-Qu'il emmenait Olympe, et qu'il troussait ses quilles : [119]  
+Que de ton maître enfin lui fiant le secret,   [113]
+Tu lui dis que demain il devait faire gilles,   [114]
+Qu'il emmenait Olympe, et qu'il troussait ses quilles :  
 En veux-tu davantage ?  
 
     PANCRACE.
@@ -2853,12 +2853,12 @@ Allons, c'est à ce coup.
 Ma quarte se relâche au moins d'un demi-ton,  
 Je suis bien.  
 
-    PREMIER VIOLON.
-        L'Allemande, allons, c'est tout de bon. [120]  
+    PREMIER VIOLON. [115]
+        L'Allemande, allons, c'est tout de bon.  
 
     ARISTE.
-Messieurs, ce n'est pas là ce que je vous demande,  
-Vous jouez la bourrée au lieu d'une Allemande [121]  
+Messieurs, ce n'est pas là ce que je vous demande,   [116]
+Vous jouez la bourrée au lieu d'une Allemande  
 
     SECOND VIOLON.
 Nous n'étions pas ici tous seuls de violons.  
@@ -2866,8 +2866,8 @@ Nous n'étions pas ici tous seuls de violons.
     ARISTE.
 Le flambeau...  
 
-    JODELET, APPORTANT UN FLAMBEAU.
-        Sus, Messieurs, montrez-nous les talons. [122]  
+    JODELET, APPORTANT UN FLAMBEAU. [117]
+        Sus, Messieurs, montrez-nous les talons.  
 
     ARISTE.
 Les coquins.  
@@ -3009,11 +3009,11 @@ J'ai donné pour le moins sept à huit cents Cassandre.
     CLIMANTE.
 Moi cinq cents Ibrahims, et trois cents Polexandre.  
 
-    ARISTE.
-J'ai fait voir à Daphnis dix fois Héraclius. [123]  
+    ARISTE. [118]
+J'ai fait voir à Daphnis dix fois Héraclius.  
 
-    CLIMANTE.
-Moi vingt fois Thémistocle, et peut-être encor plus. [124]  
+    CLIMANTE. [119]
+Moi vingt fois Thémistocle, et peut-être encor plus.  
 
     ARISTE.
 J'ai donné du jasmin dans le mois de décembre.  
@@ -3080,8 +3080,8 @@ Mais...
         Tout ce qu'il vous plaira  
 
     PANCRACE.
-Exhibez vous, Monsieur, et par quelques adages  
-De ces périclitans, dissipez les ambages. [125]  
+Exhibez vous, Monsieur, et par quelques adages   [120]
+De ces périclitans, dissipez les ambages.  
 
 
 ## SCÈNE VII. Ariste, Climante, Oronte, Pancrace, Jodelet, Les deux troupes de Violons.
@@ -3138,8 +3138,8 @@ Ce débat durerait jusqu'à demain matin.
     ARISTE.
 En ces beaux jours d'été...  
 
-    PANCRACE.
-        L'exorde n'est pas fade. [126]  
+    PANCRACE. [121]
+        L'exorde n'est pas fade.  
 
     ARISTE.
 Voulant me divertir à donner sérénade,  
@@ -3767,8 +3767,8 @@ Il sait que son absence en est le seul moyen,
 Et qu'autant qu'un jaloux je hais son entretien ;  
 Quoi ! Climante est bourru quand je chéris Ariste ?  
 Le reste de ses jours il peut donc être triste,  
-Et pendant que je veuille en dire les raisons  
-S'assurer d'une place aux petites maisons. [127]  
+Et pendant que je veuille en dire les raisons   [122]
+S'assurer d'une place aux petites maisons.  
 Allez beau bilieux, amant trop colérique  
 Modérer ce chagrin qui vous rendrait éthique,  
 Soyez de belle humeur, reprenez l'embonpoint,  
@@ -4138,8 +4138,8 @@ Ayant tant de sujet de me plaindre de toi.
 Dis lâche, n'es-tu pas ce ravisseur infâme,  
 Qui contraignit Olympe à se dire ta femme,  
 Elle qui s'abaissa jusques à te flatter,  
-Dans les extrémités que tu voulais tenter :  
-Dedans la ville d'Aix ne l'as-tu pas ravie ? [128]  
+Dans les extrémités que tu voulais tenter :   [123]
+Dedans la ville d'Aix ne l'as-tu pas ravie ?  
 
     OLYMPE.
 Mais vous m'avez promis de lui sauver la vie.  
@@ -4222,8 +4222,8 @@ C'est devant ses parents que j'attends...
 Cet éclaircissement se doit à sa vertu,  
 Non à vous.  
 
-    PANCRACE, À JODELET.
-        Il touchait son an climatérique. [129]  
+    PANCRACE, À JODELET. [124]
+        Il touchait son an climatérique.  
 
     ORONTE, EN S'EN ALLANT.
 Ah ! Trop cruelle Olympe.  
@@ -4407,144 +4407,134 @@ En êtes-vous d'accord ?
 
 [58] Hypostase : Terme de théologie. Suppôt, personne.
 
-[59] Hypostase : Terme de théologie. Suppôt, personne.
+[59] Antipéristase : actions de deux qualités contraires, dont l'une augmente la force de l'autre.
 
-[60] Antipéristase : actions de deux qualités contraires, dont l'une augmente la force de l'autre.
+[60] Stoïcien : philosophe grec.
 
-[61] Antipéristase : actions de deux qualités contraires, dont l'une augmente la force de l'autre.
+[61] Mondicant : qui est acide et piquant. F
 
-[62] Stoïcien : philosophe grec.
+[62] Errynies : personnages de la Myhtologie autrement nommées Furies.
 
-[63] Stoïcien : philosophe grec.
+[63] Poulet : signifie aussi un petit billet amoureux qu'on envoie aux Dames galantes, ainsi nommé, parce qu'en le pliant on y faisait deux pointes qui representaient les ailes d'un poulet. F
 
-[64] Mondicant : qui est acide et piquant. F
+[64] Casaquin : petite casaque. Il n'est en usage qu'en cette phrase proverbiale : "on lui a donné sur le casaquin" ; pour dire, on l'a battu. F
 
-[65] Mondicant : qui est acide et piquant. F
+[65] Donzelle : terme burlesque qui se dit pour demoiselles ; mais il est odieux et offensant ; et se prend ordiinairement en mauvaise part. F
 
-[66] Errynies : personnages de la Myhtologie autrement nommées Furies.
+[66] Hallebarde : arme d'hst offensive, composée d'une long fût ou bâton d'environ cinq pied, qui a un crochet ou un fer plat et échancré aboutissant en pointe, et au bout une grande lame de fer fot aigue. F
 
-[67] Errynies : personnages de la Myhtologie autrement nommées Furies.
+[67] Gruyer : Se dit figurément d'un homme qui est habile en son métier, en quelque profession. Il faut aller consulter ce vieux Advocat, il est gruyer en cette matière. F
 
-[68] Poulet : signifie aussi un petit billet amoureux qu'on envoie aux Dames galantes, ainsi nommé, parce qu'en le pliant on y faisait deux pointes qui representaient les ailes d'un poulet. F
+[68] Courtaux de boutique : Commis marchand. L
 
-[69] Casaquin : petite casaque. Il n'est en usage qu'en cette phrase proverbiale : "on lui a donné sur le casaquin" ; pour dire, on l'a battu. F
+[69] Bacchus : Dieu de la mythologie, des vendanges.
 
-[70] Donzelle : terme burlesque qui se dit pour demoiselles ; mais il est odieux et offensant ; et se prend ordiinairement en mauvaise part. F
+[70] Escarcelle : grande bourse de cuir à l'antique, qui se fermait à ressort avec du fer. F
 
-[71] Hallebarde : arme d'hst offensive, composée d'une long fût ou bâton d'environ cinq pied, qui a un crochet ou un fer plat et échancré aboutissant en pointe, et au bout une grande lame de fer fot aigue. F
+[71] Ducat : monnaie d'or et d'argent qui est battu dans les terres d'un Duc, et qui vaut environ un écu en argent. F
 
-[72] Gruyer : Se dit figurément d'un homme qui est habile en son métier, en quelque profession. Il faut aller consulter ce vieux Advocat, il est gruyer en cette matière. F
+[72] Dieu des pintes : Dieu des boissons, Bacchus.
 
-[73] Courtaux de boutique : Commis marchand. L
+[73] Archerot : vieux mot, qui signifie petit archer. Les poètes donnaient autrefois cet épithète à Cupidon. F
 
-[74] Bacchus : Dieu de la mythologie, des vendanges.
+[74] Motus : injonction de se taire.
 
-[75] Escarcelle : grande bourse de cuir à l'antique, qui se fermait à ressort avec du fer. F
+[75] Branler : Se mouvoir en deçà et en delà, chanceler, ne pas tenir ferme. F
 
-[76] Ducat : monnaie d'or et d'argent qui est battu dans les terres d'un Duc, et qui vaut environ un écu en argent. F
+[76] Doint : ancienne forme du subjonctif présent du verbe donner.
 
-[77] Dieu des pintes : Dieu des boissons, Bacchus.
+[77] Berlaud : Nigaud bête niais, stupide.
 
-[78] Archerot : vieux mot, qui signifie petit archer. Les poètes donnaient autrefois cet épithète à Cupidon. F
+[78] Casaquin : petite casaque qui est un manteau.
 
-[79] Motus : injonction de se taire.
+[79] Saint-Denis : Ville au nord de Paris.
 
-[80] Branler : Se mouvoir en deçà et en delà, chanceler, ne pas tenir ferme. F
+[80] Fourbe : tromperie, déguisement de la vérité. F
 
-[81] Doint : ancienne forme du subjonctif présent du verbe donner.
+[81] Caterre : terme de médecine . Fluxion et distillation d'hueur sur la visage, sur la gorge, ou sur quelque autre partie du corps. F
 
-[82] Berlaud : Nigaud bête niais, stupide.
+[82] Martel : vieux mot qui signifiait autrefois marteau, qui se dit encore en cette phrase. Il a martel en tête ; pour dire, il a quelque chose qui lui donne du chagrin, du souci, de l'inquiétude, de la jalousie. F
 
-[83] Casaquin : petite casaque qui est un manteau.
+[83] Nasonner : Parler du nez.
 
-[84] Saint-Denis : Ville au nord de Paris.
+[84] Suppôts de l'archer : probablement les violonistes.
 
-[85] Fourbe : tromperie, déguisement de la vérité. F
+[85] Galles : croûtes. L
 
-[86] Caterre : terme de médecine . Fluxion et distillation d'hueur sur la visage, sur la gorge, ou sur quelque autre partie du corps. F
+[86] Lippées : grosse lèvre et qui avance au-dehors. Lippée signifie au propre : autant de viande qu'on en peut emporter avec la lippe sur les lèvres». F 
 
-[87] Martel : vieux mot qui signifiait autrefois marteau, qui se dit encore en cette phrase. Il a martel en tête ; pour dire, il a quelque chose qui lui donne du chagrin, du souci, de l'inquiétude, de la jalousie. F
+[87] Rogue : superbe, fier, altier, méprisant, peu courtois. Il n'ets ne usage que dans le style familier. F
 
-[88] Nasonner : Parler du nez.
+[88] Arbois : nom d'un cepage comme le muscat.
 
-[89] Suppôts de l'archer : probablement les violonistes.
+[89] Grave : on appelle vin de grave, un certain vin d'un rouge foncé, que beaucoup de gens trouvent excellent pour la santé. Il croît dans un petit pays qui s'appelle Grave, et qui est aux environs de Bordeaux. F
 
-[90] Galles : croûtes. L
+[90] Gabatine : galimatias, promesse ambigue, et faite en se moquant, qu'on ne veut pas tenir, tromperie. F
 
-[91] Lippées : grosse lèvre et qui avance au-dehors. Lippée signifie au propre : autant de viande qu'on en peut emporter avec la lippe sur les lèvres». F 
+[91] Racoutrer : Accomoder, rapiécer. Il se dit proprement des habits. F
 
-[92] Rogue : superbe, fier, altier, méprisant, peu courtois. Il n'ets ne usage que dans le style familier. F
+[92] Apothéose : cérémonie païenne qe faisaient les idolâtres pour mettre leurs empereurs romains au rang des Dieux. F
 
-[93] Arbois : nom d'un cepage comme le muscat.
+[93] Diapalma : Terme de pharmacie. Emplâtre defficatif (...) composé d'huile commune, de graisse de porc, et de litharge d'or préparé. C'est l'emplâtre le plus utilisé pour les plaies et les ulcères. F
 
-[94] Grave : on appelle vin de grave, un certain vin d'un rouge foncé, que beaucoup de gens trouvent excellent pour la santé. Il croît dans un petit pays qui s'appelle Grave, et qui est aux environs de Bordeaux. F
+[94] Flegme : En terme de médecine est l'une des quatre humeurs, dont les anciens disaient que la masse du sang était composée, et qui en ets la patie la plus crue, froide, humide et insipide.
 
-[95] Gabatine : galimatias, promesse ambigue, et faite en se moquant, qu'on ne veut pas tenir, tromperie. F
+[95] Divin forgeron : Arès dieu des enfers dans la mythologie greco-romaine.
 
-[96] Racoutrer : Accomoder, rapiécer. Il se dit proprement des habits. F
+[96] Styx : Fleuve des enfers sur lequel Charron embarque les âmes pour les champs élysées.
 
-[97] Apothéose : cérémonie païenne qe faisaient les idolâtres pour mettre leurs empereurs romains au rang des Dieux. F
+[97] Forligner : dégénérer, ne pas suivre la vertu, et le bon exemple de ses ancêtres, de ce dont on est issu ; faire quelque chose digne de leur race. F
 
-[98] Diapalma : Terme de pharmacie. Emplâtre defficatif (...) composé d'huile commune, de graisse de porc, et de litharge d'or préparé. C'est l'emplâtre le plus utilisé pour les plaies et les ulcères. F
+[98] Ovide : auteur latin qui acivite entres autres L'Art d'aimer.
 
-[99] Flegme : En terme de médecine est l'une des quatre humeurs, dont les anciens disaient que la masse du sang était composée, et qui en ets la patie la plus crue, froide, humide et insipide.
+[99] Pythagore : mathématicien grec à qui l'on doit la géometrie des triangles.
 
-[100] Divin forgeron : Arès dieu des enfers dans la mythologie greco-romaine.
+[100] Pindare : le plus grand poète lyrique grec né lan 520 avant JC à Thèbes en Boétie, mort vers lan 450. B
 
-[101] Styx : Fleuve des enfers sur lequel Charron embarque les âmes pour les champs élysées.
+[101] Chaos : mélange confus de toutes les matières élémentaires avant la formation du monde. Les poètes le perosinnfièrent et en firent n Dieu, le plus ancien de tous, et père de l'Erebe et de la Nuit. B
 
-[102] Forligner : dégénérer, ne pas suivre la vertu, et le bon exemple de ses ancêtres, de ce dont on est issu ; faire quelque chose digne de leur race. F
+[102] Hésiode : célèbre poète didactique grec, poriginaire de Cumes en Eolie. Il a composé un grand nombre de poémes ; on en a conservé que trois ; Les Travaux et les jours ; la Théogonie et le Bouclier d'Hercule. B
 
-[103] Ovide : auteur latin qui acivite entres autres L'Art d'aimer.
+[103] Phébus : autre nom d'Apollon.
 
-[104] Pythagore : mathématicien grec à qui l'on doit la géometrie des triangles.
+[104] Carreau : se dit aussi d'une arme de trait, ou flèche carrée, qu'on tire avec une arbalète. F
 
-[105] Pindare : le plus grand poète lyrique grec né lan 520 avant JC à Thèbes en Boétie, mort vers lan 450. B
+[105] Pituite : l'une des quatre humeurs qui sont encloses dans le corps des animaux et qui constituent leurs tempéramment. La pituite est blanche et froide. F 
 
-[106] Chaos : mélange confus de toutes les matières élémentaires avant la formation du monde. Les poètes le perosinnfièrent et en firent n Dieu, le plus ancien de tous, et père de l'Erebe et de la Nuit. B
+[106] Fièvre quarte : Fièvre qui ne vient ue le quatrième jour, et qui laisse deux jours de repos. F
 
-[107] Hésiode : célèbre poète didactique grec, poriginaire de Cumes en Eolie. Il a composé un grand nombre de poémes ; on en a conservé que trois ; Les Travaux et les jours ; la Théogonie et le Bouclier d'Hercule. B
+[107] Collet : se prend quelquefois improprement pour le cou même. F
 
-[108] Phébus : autre nom d'Apollon.
+[108] Engrogner : du verbe grogner.
 
-[109] Carreau : se dit aussi d'une arme de trait, ou flèche carrée, qu'on tire avec une arbalète. F
+[109] Pioller : ou piauler, crier, piailler.
 
-[110] Pituite : l'une des quatre humeurs qui sont encloses dans le corps des animaux et qui constituent leurs tempéramment. La pituite est blanche et froide. F 
+[110] Vergogneux : Ce mot est vieux au XVIIème et hors d'usage et signifiait honteux.
 
-[111] Fièvre quarte : Fièvre qui ne vient ue le quatrième jour, et qui laisse deux jours de repos. F
+[111] Bugne : coup.
 
-[112] Collet : se prend quelquefois improprement pour le cou même. F
+[112] Temple : Au XVIIème terme pour signifier les deux cotés latéraux du crane puis fut remplacé par « tempe ».
 
-[113] Engrogner : du verbe grogner.
+[113] Faire gilles : Pour dire s'enfuir. F 
 
-[114] Pioller : ou piauler, crier, piailler.
+[114] Trousser ses quilles : idem « faire gilles ».
 
-[115] Vergogneux : Ce mot est vieux au XVIIème et hors d'usage et signifiait honteux.
+[115] Allemande : pièce de musique qui est grave, et de pleine mesure, qu'on joue à quatre temps sur les instruments, et particulièrement sur le luth, le théorbe, l'orgue et le clavecin. F
 
-[116] Bugne : coup.
+[116] Bourrée : Espèce de danse composée de trois pas joints ensemble en deux mouvements, et commence par une noire en levant. F
 
-[117] Temple : Au XVIIème terme pour signifier les deux cotés latéraux du crane puis fut remplacé par « tempe ».
+[117] Montrer les talons : S'en aller.
 
-[118] Faire gilles : Pour dire s'enfuir. F 
+[118] Héraclius : tragédie de Pierre Corneille (1647).
 
-[119] Trousser ses quilles : idem « faire gilles ».
+[119] Thémistocle : tragédie de Du Ryer (1646).
 
-[120] Allemande : pièce de musique qui est grave, et de pleine mesure, qu'on joue à quatre temps sur les instruments, et particulièrement sur le luth, le théorbe, l'orgue et le clavecin. F
+[120] Ambage : Vieux mot qui signifiait autrefois, un amas confus et obscur de paroles, dont on a de la peine à deviner la signification. F
 
-[121] Bourrée : Espèce de danse composée de trois pas joints ensemble en deux mouvements, et commence par une noire en levant. F
+[121] Exorde : Entrée, préambule, commencement d'un discours, d'une harangue pour préparer les auditeurs à ce qu'on va dire. F
 
-[122] Montrer les talons : S'en aller.
+[122] Petites maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. Il est à mettre aux Petites-Maisons c'est un échappé des Petites-Maisons, c'est un homme sans raison, qui fait ou dit des choses folles. L
 
-[123] Héraclius : tragédie de Pierre Corneille (1647).
+[123] Aix : Aix-en-Provence dans les Bouches-du-Rhône à 33 km de Marseille.
 
-[124] Thémistocle : tragédie de Du Ryer (1646).
-
-[125] Ambage : Vieux mot qui signifiait autrefois, un amas confus et obscur de paroles, dont on a de la peine à deviner la signification. F
-
-[126] Exorde : Entrée, préambule, commencement d'un discours, d'une harangue pour préparer les auditeurs à ce qu'on va dire. F
-
-[127] Petites maisons : nom donné autrefois à un hôpital de Paris où l'on renfermait les aliénés. Il est à mettre aux Petites-Maisons c'est un échappé des Petites-Maisons, c'est un homme sans raison, qui fait ou dit des choses folles. L
-
-[128] Aix : Aix-en-Provence dans les Bouches-du-Rhône à 33 km de Marseille.
-
-[129] An climatérique : Année funeste aux critiques (tout âge qui est un multiple de 7), année dangereuse à passer et où on est en danger de mort aux dires des astrologues. F
+[124] An climatérique : Année funeste aux critiques (tout âge qui est un multiple de 7), année dangereuse à passer et où on est en danger de mort aux dires des astrologues. F

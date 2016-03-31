@@ -19,7 +19,7 @@ Vostre très humble, et très obeissant serviteur, DE R.
 
 LES AMOURS DE PALINICE, CIRCEINE ET FLORICE TRAGI-COMEDIE
 
-**** *book_ *id_body-301 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I01 *act_I *date_1634 *creator_rayssiguier
 
 -*who_florice
 Mon frère confessés que toute l'Italie,
@@ -240,7 +240,7 @@ Le feras-tu ma sœur ?
       Ouy, je la voy venir.
 Donnez nous le loisir de nous entretenir.
 
-**** *book_ *id_body-302 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I02 *act_I *date_1634 *creator_rayssiguier
 
 -*who_circeine
 En me voyant venir vostre frère vous quitte,
@@ -346,7 +346,7 @@ Adieu
 -*who_circeine
       A quelque heure du jour.
 
-**** *book_ *id_body-303 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I03 *act_I *date_1634 *creator_rayssiguier
 
 -*who_clorian
 Amour que les mortels qui sont en ta puissance
@@ -386,7 +386,7 @@ Aimons la donc tousjours, et faisons nos efforts
 De perdre ce rival qui rompt nos doux accords,
 Ma peur peut tout sur elle, il faut qu'elle l'en presse.
 
-**** *book_ *id_body-304 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I04 *act_I *date_1634 *creator_rayssiguier
 
 -*who_palinice
 Que fait icy mon frère, absent de sa maistresse  ?
@@ -468,7 +468,7 @@ Ce qui n'est qu'en l'esprit d'un Amant⁎ irrité,
 D'un Amant soupçonneux qui se plaint de son ombre,
 Et craint sans en avoir des ennemis sans nombre.
 
-**** *book_ *id_body-305 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I05 *act_I *date_1634 *creator_rayssiguier
 
 -*who_circeine
 Que de diversitez travaillent mes esprits,
@@ -490,7 +490,7 @@ Et j'ay pour me conduire assez d'expérience :
 Mais Alcandre se vient promener en ces lieux,
 Feignons de nous vouloir destourner de ses yeux.
 
-**** *book_ *id_body-306 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I06 *act_I *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Cet Argus importun⁎, qui sans cesse m'esclaire,
@@ -570,7 +570,7 @@ De vous oser aymer, mais c'est la vérité.
 Ou véritable ou faux, si vous me voulez plaire,
 N'en parlons plus.
 
-**** *book_ *id_body-307 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_I07 *act_I *date_1634 *creator_rayssiguier
 
 -*who_palinice
       Circeine, et bien cette onde claire
@@ -669,7 +669,7 @@ Cette obligation⁎, de ce que je pourray.
 Pour ne les fascher point, il me faudra contraindre,
 L'on vient à bout de tout pourveu qu'on sçache feindre.
 
-**** *book_ *id_body-401 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_II01 *act_II *date_1634 *creator_rayssiguier
 
 -*who_cerinte
 
@@ -726,7 +726,7 @@ La touchent de pitié pour ta longue souffrance,
 Elle a l'esprit trop bon pour prendre en bonne part
 Sans quelqu'autre intérest les vœux⁎ de ce vieillard.
 
-**** *book_ *id_body-402 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_II02 *act_II *date_1634 *creator_rayssiguier
 
 -*who_florice
 Cerinte quel sujet a vostre humeur réveuse ?
@@ -822,7 +822,7 @@ Je devrois effacer son portrait de mon cœur,
 Mais ses dédains ne font que raviver ma flame,
 Elle se changera, souffrons, c'est une femme.
 
-**** *book_ *id_body-403 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_II03 *act_II *date_1634 *creator_rayssiguier
 
 -*who_arimant
 Amour puissant demon, qui régis les mortels,
@@ -855,7 +855,7 @@ Mais le voicy venir assez mélancolique,
 Je sçay bien d'où luy vient la douleur qui le pique,
 Circeine depuis peu le voit bien froidement.
 
-**** *book_ *id_body-404 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_II04 *act_II *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Me voilà trop heureux, servons-nous d'Arimant,
@@ -929,7 +929,7 @@ Selon vostre désir,
 -*who_arimant
       Adieu c'est m'obliger⁎.
 
-**** *book_ *id_body-405 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_II05 *act_II *date_1634 *creator_rayssiguier
 
 -*who_sileine
 Dois-je encore long-temps supporter mes supplices,
@@ -1006,7 +1006,7 @@ Sont de chercher tousjours de nouvelles malices :
 Ingrate je voy bien, mais je le voy trop tard,
 Que tes discours ne sont que feintes et que fard.
 
-**** *book_ *id_body-501 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_III01 *act_III *date_1634 *creator_rayssiguier
 
 -*who_arimant
 Circeine vous sçavez que j'adore Florice,
@@ -1243,7 +1243,7 @@ Mais Alcandre à mes yeux a de puissants apas⁎,
 Sa passion discrète entièrement m'oblige⁎,
 Clorian que voicy m'importune et m'afflige.
 
-**** *book_ *id_body-502 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_III02 *act_III *date_1634 *creator_rayssiguier
 
 -*who_clorian
 Je cognois bien Circeine en vos déportemens⁎,
@@ -1280,7 +1280,7 @@ Ah ! quelle ingratitude, après tant de services⁎
 Que ce sexe s'emporte, aisément dans les vices :
 Mais elle a laissé cheoir un de ses gands icy.
 
-**** *book_ *id_body-503 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_III03 *act_III *date_1634 *creator_rayssiguier
 
 -*who_sileine
 Clorian m'a promis de prendre le soucy⁎
@@ -1410,7 +1410,7 @@ Ainsi mal-aisement sera-t-elle déceuë.
 Laisse m'en le soucy⁎, fais les vers seulement,
 Je feray bien le reste assez subtilement.
 
-**** *book_ *id_body-601 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_IV01 *act_IV *date_1634 *creator_rayssiguier
 
 -*who_cerinte
 On me vient d'advertir que Florice est allée
@@ -1450,7 +1450,7 @@ Destournons par icy, j'y puis aller de mesme.
 -*who_arimant
 Il s'en va, courons donc vers la beauté que j'aime.
 
-**** *book_ *id_body-602 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_IV02 *act_IV *date_1634 *creator_rayssiguier
 
 -*who_florice
 
@@ -1639,7 +1639,7 @@ Te pourroit bien encor aporter de l'ennuy :
 Mais voicy Clorian découvrons luy l'affaire
 Désobligeons Alcandre, et tachons de luy plaire.
 
-**** *book_ *id_body-603 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_IV03 *act_IV *date_1634 *creator_rayssiguier
 
 -*who_clorian
 La ruse est bien conduite, Ah ! que c'est dextrement,
@@ -1727,7 +1727,7 @@ Ce rival importun⁎ qui cause ma tristesse,
 La finesse en amour est prise pour vertu,
 Tel a vaincu souvent qui n'a pas combatu.
 
-**** *book_ *id_body-604 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_IV04 *act_IV *date_1634 *creator_rayssiguier
 
 -*who_circeine
 Que la condition quelquesfois est nuisible,
@@ -1805,7 +1805,7 @@ Tu ne pouvois ingrat autrement me desplaire,
 Et je te feray voir avec ta vanité,
 Que ma lettre est l'effect d'une importunité.
 
-**** *book_ *id_body-605 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_IV05 *act_IV *date_1634 *creator_rayssiguier
 
 -*who_florice
 Estes-vous resolus encor de me poursuivre ?
@@ -1910,7 +1910,7 @@ Mon frère satisfaict, n'a que faire de luy
 Cerinte dont l'amour est véritable et forte
 Doit estre désormais receu d'une autre sorte.
 
-**** *book_ *id_body-701 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V01 *act_V *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Qu'on ne me parle plus de ces cruels tourments,
@@ -1952,7 +1952,7 @@ Ne me reprochégs point cette amoureuse force,
 Et pour l'amour de moy conservez cherement
 Les marques que j'y mets de mon contentement.
 
-**** *book_ *id_body-702 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V02 *act_V *date_1634 *creator_rayssiguier
 
 -*who_circeine
 Alcandre qui tenoit sa flame si secrète,
@@ -2125,7 +2125,7 @@ Ny souffrir qu'on se jouë à moy de la façon,
 Clorian est l'auteur de cette tromperie,
 Et je me vangeray de sa supercherie.
 
-**** *book_ *id_body-703 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V03 *act_V *date_1634 *creator_rayssiguier
 
 -*who_florice
 Et bien que dites vous du divertissement
@@ -2147,7 +2147,7 @@ Pourroient-ils devenir à ce point inhumains ?
 Je le crois, et voudrois avoir veu cette belle,
 Pour en pouvoir sçavoir la verité par elle.
 
-**** *book_ *id_body-704 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V04 *act_V *date_1634 *creator_rayssiguier
 
 -*who_circeine
 En vain je l'ay suivi, je n'ay peu l'attraper,
@@ -2231,7 +2231,7 @@ Et si je m'y trouvois je prendrois sa deffence.
 C'est Cerinte et mon frere, il est vray ce sont eux.
 Quelque accident nouveau les assemble tous deux.
 
-**** *book_ *id_body-705 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V05 *act_V *date_1634 *creator_rayssiguier
 
 -*who_sileine
 Nous decouvrons d'icy presque toute la plaine.
@@ -2274,7 +2274,7 @@ Ils sont pourtant sortis pour vuider⁎ leur querelle.
 Ils ne sçauroient aller qu'à l'entour de ces lieux,
 Tournons de tous costez vostre oreille et vos yeux.
 
-**** *book_ *id_body-706 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V06 *act_V *date_1634 *creator_rayssiguier
 
 -*who_alcandre
 Puis que l'amour le veut : et qu'il est impossible
@@ -2351,7 +2351,7 @@ Est-il assez puissant pour troubler mon repos ?
 -*who_florice
 Le voicy qui s'en vient tout prest à vous respondre.
 
-**** *book_ *id_body-707 *act_ *date_1634 *creator_rayssiguier
+**** *book_ *id_V07 *act_V *date_1634 *creator_rayssiguier
 
 -*who_arimant
 Voicy, voicy le bras qui te pourra confondre,

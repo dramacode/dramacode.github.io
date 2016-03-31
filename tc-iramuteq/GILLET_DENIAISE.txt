@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1647
+**** *book_ *id_I01 *act_I *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_climante
 Certes, c'est renchérir dessus les plus galants,
@@ -141,7 +141,7 @@ Je m'en vais la quérir : en faut-il davantage ?
 -*who_ariste
 Ah ! C'est trop m'obliger.
 
-**** *book_ *id_I02 *act_I *date_1647
+**** *book_ *id_I02 *act_I *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
       Le galant personnage !
@@ -337,7 +337,7 @@ Elle est pourtant passable.
 -*who_ariste
 Mais voici mon Olympe, ah, divine merveille !
 
-**** *book_ *id_I03 *act_I *date_1647
+**** *book_ *id_I03 *act_I *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_climante
 Pour un ami qui dort toujours quelqu'autre veille
@@ -634,7 +634,7 @@ Monsieur on a servi.
 Vous nous achèverez le récit commencé,
 Et nous ferez savoir d'où vint votre disgrâce.
 
-**** *book_ *id_I04 *act_I *date_1647
+**** *book_ *id_I04 *act_I *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_jodelet
 Tandis qu'ils vont dîner, un petit mot, Pancrace,
@@ -858,7 +858,7 @@ Mais ...
 -*who_jodelet
       Encor me parler, bonsoir et bonne nuit.
 
-**** *book_ *id_II01 *act_II *date_1647
+**** *book_ *id_II01 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
 Madame, j'ai donné le paquet à Léonce,
@@ -917,7 +917,7 @@ Mais je crois voir venir Oronte avec Climante.
 Comme en nous promenant marchons négligemment,
 Nous reviendrons...
 
-**** *book_ *id_II02 *act_II *date_1647
+**** *book_ *id_II02 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
       Olympe en rit à tout moment,
@@ -1054,7 +1054,7 @@ Sachons plutôt comment je ferai mon ouvrage.
 -*who_oronte
 Mais la voici qui vient avec le personnage.
 
-**** *book_ *id_II03 *act_II *date_1647
+**** *book_ *id_II03 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
 Vous trouver sans Lisette, et de plus avec lui ?
@@ -1122,7 +1122,7 @@ Vous verrez mon crédit.
 -*who_ariste
 Vous m'y verrez moi-même ou je serai malade.
 
-**** *book_ *id_II04 *act_II *date_1647
+**** *book_ *id_II04 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
 Ces vers pour un jaloux ...
@@ -1172,7 +1172,7 @@ Au moins nous en rirons.
 Un tour dans cette allée achèvera l'ouvrage.
 L'agréable travail où mon rival m'engage !
 
-**** *book_ *id_II05 *act_II *date_1647
+**** *book_ *id_II05 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
 Hé bien commencez vous de respirer ici,
@@ -1226,7 +1226,7 @@ Mais ces archers...
 -*who_oronte
       Sauront ce qu'est cet ingénu.
 
-**** *book_ *id_II06 *act_II *date_1647
+**** *book_ *id_II06 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_olympe
 Climante vient.
@@ -1366,7 +1366,7 @@ Que pour me délivrer il vient bien à propos !
 -*who_climante
 Faut il que ce brutal traverse mon repos ?
 
-**** *book_ *id_II07 *act_II *date_1647
+**** *book_ *id_II07 *act_II *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_lisette
 Quoi, pour moi ta folie est toujours sans pareille.
@@ -1542,7 +1542,7 @@ Elle a fermé l'oreille, et vient de s'en aller :
 Allons chercher l'écho de quelque antre sauvage,
 Et plaignons nous à lui d'un si sensible outrage.
 
-**** *book_ *id_III01 *act_III *date_1647
+**** *book_ *id_III01 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_climante
 En vain j'ai pratiqué tout ce que la prudence,
@@ -1664,7 +1664,7 @@ Ariste... Quelqu'un vient ? Rencontre déplaisante !
 -*who_olympe
 Pour me dire le reste, envoyez-le, Climante !
 
-**** *book_ *id_III02 *act_III *date_1647
+**** *book_ *id_III02 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_lisette
 Un marchand du Palais demande à vous parler.
@@ -1695,7 +1695,7 @@ J'y vais ? c'est m'épier d'une façon adroite.
 -*who_climante
 Encore un surveillant ?
 
-**** *book_ *id_III03 *act_III *date_1647
+**** *book_ *id_III03 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_pancrace
       Quatre mots, s'il vous plaît.
@@ -1776,7 +1776,7 @@ L'écuyer son cheval, et l'enfant sa poupée ;
 Et moi qui suis docteur in utroque juré,
 Je n'aime que toi seule, ou le bonnet quarré.
 
-**** *book_ *id_III04 *act_III *date_1647
+**** *book_ *id_III04 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_pancrace
 
@@ -1842,7 +1842,7 @@ Et mon sang restant sans vertu
 Coule tout nitreux dans mes veines.
 Mais quelqu'un vient ici, fuyons.
 
-**** *book_ *id_III05 *act_III *date_1647
+**** *book_ *id_III05 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
       La nuit est sombre ;
@@ -1973,7 +1973,7 @@ Le menant à l'endroit où les fins doivent être :
 Puisqu'il leur faut du temps pour aller et venir,
 Servons nous en du moins pour nous entretenir.
 
-**** *book_ *id_III06 *act_III *date_1647
+**** *book_ *id_III06 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_jodelet
 Amour jeune falot, petit monstre fantasque,
@@ -2026,7 +2026,7 @@ Non, non je suis archer, tu n'es qu'un archerot ;
 Je suis fort honnête homme et tol tu n'es qu'un sot.
 Au diable soit l'amour, avec la hallebarde !
 
-**** *book_ *id_III07 *act_III *date_1647
+**** *book_ *id_III07 *act_III *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_caporal
 La Verdure.
@@ -2152,7 +2152,7 @@ Au diable soit l'amour, la maison et la rue !
 Lettres, message, ami, maîtresse, casaquin,
 Sentinelle, poignard, hallebarde et rouquin.
 
-**** *book_ *id_IV01 *act_IV *date_1647
+**** *book_ *id_IV01 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
 Je te l'ai déjà dit, fais donc ta diligence ;
@@ -2210,7 +2210,7 @@ N'importe, mais surtout choisis un bel habit,
 Pour jouer comme il faut le rôle que j'ai dit.
 Entre, Climante vient.
 
-**** *book_ *id_IV02 *act_IV *date_1647
+**** *book_ *id_IV02 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
       Hé bien ! S'en raille-t-elle ?
@@ -2250,7 +2250,7 @@ Il s'y faut préparer.
 -*who_climante
       Le tour sera d'esprit.
 
-**** *book_ *id_IV03 *act_IV *date_1647
+**** *book_ *id_IV03 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
 Dis nous que fait Olympe à présent ?
@@ -2294,7 +2294,7 @@ Que je ne vaille bien un amour mutuel.
 Vraiment c'est bien à lui de faire le cruel,
 Mais c'est lui que j'entends qui nasonne et qui gronde.
 
-**** *book_ *id_IV04 *act_IV *date_1647
+**** *book_ *id_IV04 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_jodelet
 Oui, Jodelet sans eux tu n'étais plus au monde.
@@ -2418,7 +2418,7 @@ Si tu parles toujours, je veux toujours t'aimer.
 -*who_lisette
 Pancrace vient, écoute.
 
-**** *book_ *id_IV05 *act_IV *date_1647
+**** *book_ *id_IV05 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_pancrace
       Elle n'est pas sortie,
@@ -2742,7 +2742,7 @@ Ah ! mort.
       Laisse-moi.
 Mais j'entends quelque bruit.
 
-**** *book_ *id_IV06 *act_IV *date_1647
+**** *book_ *id_IV06 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_jodelet
       Voici toute la bande.
@@ -3012,7 +3012,7 @@ Mais...
 Exhibez vous, Monsieur, et par quelques adages
 De ces périclitans, dissipez les ambages.
 
-**** *book_ *id_IV07 *act_IV *date_1647
+**** *book_ *id_IV07 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
 Ami ?
@@ -3209,7 +3209,7 @@ Il n'en est pas au monde un plus sot.
 Je te rends grâce Amour, je les tiens au filet,
 Les fourbes sont dupés, fais jouer Jodelet.
 
-**** *book_ *id_V01 *act_V *date_1647
+**** *book_ *id_V01 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
 Madame, bénissons l'amour de Jodelet,
@@ -3289,7 +3289,7 @@ C'est offenser l'honneur que ne vous aimer pas !
 -*who_ariste
 C'est suivre la vertu que marcher sur vos pas.
 
-**** *book_ *id_V02 *act_V *date_1647
+**** *book_ *id_V02 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_olympe
 Que Climante m'oblige alors qu'il vous envoie !
@@ -3437,7 +3437,7 @@ Vite, l'exempt, Monsieur.
       Parle distinctement,
 Mais écoute on nous suit.
 
-**** *book_ *id_V03 *act_V *date_1647
+**** *book_ *id_V03 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
       Feignons avec adresse.
@@ -3509,7 +3509,7 @@ Allons vers ces jardins, c'est là qu'ils s'entretiennent.
 -*who_oronte
 Ne sortons point d'ici, je les revois qui viennent.
 
-**** *book_ *id_V04 *act_V *date_1647
+**** *book_ *id_V04 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_climante
 Cajoler ce qu'on aime et ne le point quitter,
@@ -3751,7 +3751,7 @@ Que cet ami feignait de faire le critique ;
 De grâce, apaisez-le cependant que j'irai
 Courir après Climante, et le ramènerai.
 
-**** *book_ *id_V05 *act_V *date_1647
+**** *book_ *id_V05 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
 Il croit adroitement vous avoir offensée.
@@ -3796,7 +3796,7 @@ Mais...
 -*who_olympe
       Oronte revient, et paraît en courroux.
 
-**** *book_ *id_V06 *act_V *date_1647
+**** *book_ *id_V06 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_oronte
 Non, je n'en doute plus, leur flamme est toute claire,
@@ -3986,7 +3986,7 @@ Si je le vois tantôt, je lui donnerai bonne.
 -*who_olympe
 Au moins conseillez-lui de ne jouer personne.
 
-**** *book_ *id_V07 *act_V *date_1647
+**** *book_ *id_V07 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_ariste
 Voici quelque nouvelle !
@@ -4024,7 +4024,7 @@ Dans ces anxiétés il faut que la prudence...
 -*who_oronte
 C'est trop...
 
-**** *book_ *id_V08 *act_V *date_1647
+**** *book_ *id_V08 *act_V *date_1647 *creator_gillet_de_la_tessonerie
 
 -*who_exempt
       Faire le brave et se mettre en défense.

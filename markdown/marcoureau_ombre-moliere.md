@@ -13,8 +13,7 @@ COMÉDIE
 Par le sieur de Brécourt
 
 A PARIS, Chez CLAUDE BARBIN, sur le Second Perron de la S. Chapelle. M. DC. LXXIV. *AVEC PRIVILEGE DU ROY.*
-Édition critique établie par Marie-Astrid Lechat sous la direction de Georges
-          Forestier (2006)
+Édition critique établie par Marie-Astrid Lechat sous la direction de Georges Forestier (2006)
 
 
 # Introduction générale
@@ -412,7 +411,7 @@ Page 34 : entrer ? corrigé en entrer..
 
 ### Scène X
 
-Page 60 : Ombre leur Partie corrigé en Ombre, leur Partie.
+Page 60 : Ombre leur Partie corrigé en Ombre, leur Partie. 
 
 
 # À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D'ENGUIEN [43].
@@ -427,7 +426,7 @@ DE V.A.S.
 
 Le tres-humble et tres-obeïssant Serviteur,
 
-BRECOURT.
+BRECOURT. 
 
 
 # ACTEURS.
@@ -450,7 +449,7 @@ BRECOURT.
  – 
  – 
 La Scène est dans les Champs Elysées.
-
+ 
 
 
 # PROLOGUE DE L'OMBRE DE MOLIERE
@@ -461,7 +460,7 @@ ORONTE, CLEANTE.
 Point, vous dis-je ; C'est une raillerie qu'on vous a faite de moy.
 
     CLEANTE.
-Je vous dis que je suis seûr de la chose.
+Je vous dis que je suis seûr de la chose. 
 
     ORONTE.
 C'est quelqu'un qui a voulu se divertir à mes dépens, vous dis-je.
@@ -488,7 +487,7 @@ Encore ?
 C'est une petite Pièce en Prose.
 
     ORONTE.
-Bon.
+Bon. 
 
     CLEANTE.
 Et les Comédiens qui la représenteront, sont cachez là-haut dans vostre Chambre, pour la repéter aujourd'huy. Là, rougissez à present qu'on vous met le doigt sur la Piece. Hé ?
@@ -525,7 +524,7 @@ Allez, Oronte, quelque chose que ce soit, le seul sentiment qui vous l'a fait en
 
     ORONTE.
 Ne me faites pas rougir davantage, Cleante ; et venez seulement donner vostre avis sur nostre Repétition.
-**Fin du prologue.**
+**Fin du prologue.** 
 
 
 # L'OMBRE DE MOLIERE.
@@ -560,7 +559,7 @@ Oüy, mais il y a Laquais, et Laquais.
 Et qu'as-tu à me reprocher ? N'ay-je pas fidellement servy tous les Maistres à qui j'ay esté ?
 
     1*e* OMBRE.
-Ay-je manqué en rien, moy, à tout ce que les miens m'ont commandé ? Et quand je servois, par exemple, cet illustre et fameux Tailleur, m'a-t-on jamais veu luy friponner [48] la moindre guenille des choses qu'il déroboit ?
+Ay-je manqué en rien, moy, à tout ce que les miens m'ont commandé ? Et quand je servois, par exemple, cet illustre et fameux Tailleur, m'a-t-on jamais veu luy friponner [48] la moindre guenille des choses qu'il déroboit ? 
 
     2*e* OMBRE.
 Et quand je servois, moy, mon petit Grison de Procureur, m'a-t-on jamais veu abuser des secrets qu'il me confioit, ny revéler aucune des friponneries qu'il faisoit à ses Parties [49] ?
@@ -590,7 +589,7 @@ Attens : Non, non ce n'est pas luy encore ; c'est Caron avec le Génie du Poë
 A qui en a Caron aussy, de tourmenter incessamment ce pauvre Génie ?
 
     1*e* OMBRE.
-Il faut bien qu'il luy ait fait quelque chose.
+Il faut bien qu'il luy ait fait quelque chose. 
 
 
 ## SCENE II.
@@ -607,10 +606,9 @@ Oüy, Messieurs, et vous pouvez quereller icy fort proprement.
 Quoy ! tu ne me laisseras pas en repos ? Veux-tu te retirer ?
 
     LE POETE.
-Helas, Caron ! helas !
+Helas, Caron ! helas ! 
 
     CARON *le raillant sur le mesme ton.*
-
 Helas, Caron ! helas ! A qui diable en as-tu avec tes piteux helas ?
 
     LE POETE.
@@ -626,7 +624,7 @@ Et quel outrage leur ay-je fait ?
 Ce que tu leur as fait ? Ma foy, tu en as fait de forts jolis Garçons ; et principalement les Héros Grecs ont grand sujet de se loüer de toy. Tu les as si bien barboüillez, qu'ils n'ont plus besoin de masques de Carnaval pour se déguiser.
 
     LE POETE.
-Que tu fais le plaisant mal à propos !
+Que tu fais le plaisant mal à propos ! 
 
     CARON.
 Tu as raison, mais ce n'est que depuis que nous nous voyons. Ce Faquin, sans me connoistre, m'a si bien traduit en Diseur de bons mots, que l'on me chante en l'autre Monde comme un Opérateur Grotesque, moy qui à force d'entendre des lamentations, dois estre triste comme un Bonnet de nuit sans coëffe. Hé bien, tenez, ne voila-t-il pas encore ? Un Bonnet de nuit sans coëffe ! Depuis que je connoy cet Animal, je ne dis que des sottises. Il me prend envie de te mettre aux mains avec Virgile, il t'ap- prendra à me connoistre.
@@ -705,7 +703,7 @@ Voicy déja l'Accusé que Caron vous ameine.
 Où sont les Complaignans ?
 
     MINOS.
-L'Envie les doit conduire icy.
+L'Envie les doit conduire icy. 
 
 
 ## SCENE IV.
@@ -743,7 +741,7 @@ En voila trop pour un jour : Qu'il n'en vienne qu'une partie.
 J'oubliois encore un Limousin, dont l'esprit est assez matériel pour servir de Corps en un besoin [53].
 
     PLUTON.
-Fais-les entrer selon le rang qu'ils auront à la Porte. Radamante, prens le Rôle [54] pour écrire le nom des Complaignans. Çà, qui est celle-cy ?
+Fais-les entrer selon le rang qu'ils auront à la Porte. Radamante, prens le Rôle [54] pour écrire le nom des Complaignans. Çà, qui est celle-cy ? 
 
 
 ## SCENE V.
@@ -775,7 +773,7 @@ Ma foy, je n'y entens goute.
 La férocité de cet Esprit sauvage a si bien donné la chasse au Gibier de nostre éloquence, que l'indigestion de nos pensées n'ose plus 39 trouver le suplément de nos expressions. Il nous a si bien atteintes du crime d'absurdité, que nous en paroissons presque convaincuës par tout le pied-d'estal du bas Monde. Pardonnez, grand Monarque, si j'ose vous parler si vulgairement, et si toutes nos pensées ne sont pas revestuës d'expressions nobles et vigoureuses.
 
     PLUTON.
-Hé, il n'y a point de mal à cela ; au contraire, on ne se pique pas icy de beau langage. Dites un peu naturellement vostre affaire, car foy de Dieu d'icy-bas je n'y ay rien compris encore.
+Hé, il n'y a point de mal à cela ; au contraire, on ne se pique pas icy de beau langage. Dites un peu naturellement vostre affaire, car foy de Dieu d'icy-bas je n'y ay rien compris encore. 
 
     LA PRETIEUSE.
 Se peut-il faire que vostre noire Majesté ait la forme si enfoncée dans la matiere ?
@@ -787,7 +785,7 @@ Ma foy, je ne vous entens pas.
 Quoy ! la dureté de vostre Compréhension ne peut estre amolie par le concert éclatant des rares qualitez de vos vertus sublimes ?
 
     PLUTON.
-Je ne sçay ce que c'est que tout cela, mais j'auray soin de vous rendre justice. Passez sur les aîles de mon Trône.
+Je ne sçay ce que c'est que tout cela, mais j'auray soin de vous rendre justice. Passez sur les aîles de mon Trône. 
 
     LA PRETIEUSE.
 Quoy, Monarque enfumé ! vous répandrez de vos propres bontez sur le gemissement de nos altercations ?
@@ -898,7 +896,7 @@ Comment donc ?
 Elle rit de tout, et ne s'afflige de rien, pas mesme d'estre venuë icy à la fleur de son âge.
 
     PLUTON.
-Cela est de bon sens ; y venir tost ou tard, c'est toûjours y venir ; et comme l'usage de la mort est un peu de durée, on fait bien de s'y accoûtumer de bonne heure. Mais qui est-elle, cette Ombre ?
+Cela est de bon sens ; y venir tost ou tard, c'est toûjours y venir ; et comme l'usage de la mort est un peu de durée, on fait bien de s'y accoûtumer de bonne heure. Mais qui est-elle, cette Ombre ? 
 
     CARON.
 Ce n'est qu'une Servante.
@@ -924,7 +922,7 @@ Hé, oüy, c'est moy. Quand j'ay appris que vous estiez icy, par ma figue, ay-
 Tu es donc bien-aise d'estre en celuy-cy, Nicole, puis que tu ris si fort ?
 
     NICOLE.
-C'est que vous m'avez appris à me moquer de tout : Et puis franchement je ne suis pas trop fâchée d'estre icy, et je ne trouve pas que la Mort soit si dégoûtante que l'on se l'imagine.
+C'est que vous m'avez appris à me moquer de tout : Et puis franchement je ne suis pas trop fâchée d'estre icy, et je ne trouve pas que la Mort soit si dégoûtante que l'on se l'imagine. 
 
     PLUTON.
 Et d'où vient que tu t'accommodes si aisément d'une chose que les Hommes trouvent si peu aimable ?
@@ -975,7 +973,7 @@ Ostez-moy cette Impudente. Qu'est-ce encore ? Je n'en veux plus entendre ; Qu'
 Hé, c'est l'Ombre de Pourceaugnac, ce brave Limousin ; Elle n'a qu'un mot à vous dire.
 
     PLUTON.
-Hé bien, qu'il entre. Ah quelle peine ! Ne sera-ce jamais fait ?
+Hé bien, qu'il entre. Ah quelle peine ! Ne sera-ce jamais fait ? 
 
 
 ## SCENE X.
@@ -1001,7 +999,7 @@ N'est-ce pas moy qui vous ay fait connoistre ?
 D'accord.
 
     MOLIERE.
-Ne vous a-t-on pas veu avec beaucoup de plaisir ?
+Ne vous a-t-on pas veu avec beaucoup de plaisir ? 
 
     POURCEAUGNAC.
 Cela est vray, car chacun rioit dés qu'on me voyoit.
@@ -1045,7 +1043,7 @@ MADAME JOURDAIN, PLUTON, MOLIERE, CARON, RADAM. MINOS.
 Justice, justice, justice, justice, justice.
 
     PLUTON.
-Qui est-ce encore icy ? Je ne veux plus entendre personne, et je suis las de tant d'impertinentes Plaintes. Pourquoy l'as-tu laissée entrer ?
+Qui est-ce encore icy ? Je ne veux plus entendre personne, et je suis las de tant d'impertinentes Plaintes. Pourquoy l'as-tu laissée entrer ? 
 
     CARON.
 Elle a forcé la Porte.
@@ -1053,8 +1051,7 @@ Elle a forcé la Porte.
     PLUTON.
 Pren donc bien garde aux autres, et qu'il n'en entre plus. Je n'ay jamais veu tant de Canailles en un jour. Çà, que demandez-vous ?
 
-    M*e* JOURDAIN *d'un air chagrin et
-                  brusque.*
+    M*e* JOURDAIN *d'un air chagrin et brusque.*
 Ce que je n'auray pas.
 
     PLUTON.
@@ -1079,7 +1076,7 @@ Sur mes pieds comme une Oye.
 Ah quelle Femme !
 
     MOLIERE.
-Vous venez vous plaindre de moy, n'est-ce pas, Madame Jourdain ?
+Vous venez vous plaindre de moy, n'est-ce pas, Madame Jourdain ? 
 
     M*e* JOURDAIN.
 Ça non ; j'aurois beau me plaindre, beau me plaindre j'aurois.
@@ -1102,7 +1099,7 @@ Oüy, qu'avez-vous à me frire ?
     PLUTON.
 Diable soit la Masque [70] ; Que l'on me l'oste d'icy, et que d'aujourd'huy personne ne me parle. Je suis las de tous ces Extravagans, et me voila dans une colere que je ne me sens pas. Qu'est-ce encore ? Qu'y a-t-il ? Que veut-on ? Seray-je toûjours troublé, persecuté, accablé d'affaires ? Hé, quelle misere est-ce-cy ? A-t-on jamais veu un Dieu plus fatigué que moy ?
 Pluton se leve de son Tribunal.
-
+ 
 
 
 ## SCENE XII.
@@ -1122,7 +1119,7 @@ Ce sont…
 Quoy, sans repos !
 
     CARON.
-Il y a…
+Il y a… 
 
     PLUTON
 Sans plaisir !
@@ -1137,13 +1134,13 @@ Sans relâche ! Non, je ne veux plus rien entendre. Que tout soit renversé, bo
 Ce sont des Medecins qui viennent d'arriver, et qui voudroient vous demander un moment d'audiance.
 
     PLUTON
-Des ?
+Des ? 
 
     CARON.
 Des Medecins.
 
     PLUTON *courant se remettre sur son Tribunal.*
-Des Medecins ! Ho ! qu'on les fasse entrer : Ce sont nos meilleurs Amis ; Qu'ils viennent, qu'ils viennent. D'honnestes Gens, à qui je doy trop pour leur rien refuser. Ils ont augmenté le nombre de mes Sujets, et je leur en dois sans doute une ample reconnoissance. Mais les voicy.
+Des Medecins ! Ho ! qu'on les fasse entrer : Ce sont nos meilleurs Amis ; Qu'ils viennent, qu'ils viennent. D'honnestes Gens, à qui je doy trop pour leur rien refuser. Ils ont augmenté le nombre de mes Sujets, et je leur en dois sans doute une ample reconnoissance. Mais les voicy. 
 
 
 ## SCENE XIII.
@@ -1178,7 +1175,7 @@ C'est avec plaisir que l'on sert un si grand Monarque.
 Je vous suis obligé, et j'ay bien de la joye de vous voir. Ce n'est pas que vous ne m'eussiez esté encore un peu necessaires là-haut, et j'ay eu quelque chagrin quand les Parques m'ont dit que vous veniez icy : Mais je m'en suis neantmoins consolé lors que j'ay appris que vous aviez laissé de grands Enfants qui sçavoient assez bien leur mestier, et que mesme il estoit déjà venu icy quelques Morts de leurs Amis, qui en avoient fait une experience fort raisonnable. Mais que souhaitez-vous de moy ?
 
     3*e* MEDECIN.
-Nous venons vous demander justice d'un Téméraire qui prétend traitter la Medecine d'imposture, et de Charlatanerie.
+Nous venons vous demander justice d'un Téméraire qui prétend traitter la Medecine d'imposture, et de Charlatanerie. 
 
     PLUTON
 C'est donc quelqu'un qui la connoît ?
@@ -1208,7 +1205,7 @@ C'est donc à moy à qui vous en voulez, Messieurs ? Vous demandez vengeance du
 Ah ! voicy une Conversa- tion raisonnable celle-cy.
 
     MOLIERE.
-Imposteurs ! Qui peut mieux prouver vostre ignorance, et l'incertitude de vos projets, que vos contrarietez perpétuelles ? Vous trouvez-vous jamais d'accord ensemble ? Et jusqu'à vos moindres Ordonnances, a-t-on jamais veu un Medecin suivre celle de l'autre, sans y ajoûter ou diminuer quelque chose ? Quant à leurs opinions, elles sont encore plus diférentes que leurs pratiques. Les uns disent que la Cause des maux est dans les humeurs [73] ; Les autres dans le sang. Quelques-uns, par un pompeux galimathias, l'imputent aux atomes invisibles, qui entrent dans les pores. Celuy-cy soûtient, que les maladies viennent du defaut des forces corporelles : Celuy-là, qu'elles procedent de l'inégalité des élémens du Corps, et de la qualité de l'air que nous respirons, ou de l'abondance, crudité, et corruption de nos alimens. Ah que cette diversité d'opinions marque bien l'ignorance des Medecins ; mais encore plus la foiblesse ou la temérité des Malades qui s'abandonnent aux agitations de tant de vents contraires !
+Imposteurs ! Qui peut mieux prouver vostre ignorance, et l'incertitude de vos projets, que vos contrarietez perpétuelles ? Vous trouvez-vous jamais d'accord ensemble ? Et jusqu'à vos moindres Ordonnances, a-t-on jamais veu un Medecin suivre celle de l'autre, sans y ajoûter ou diminuer quelque chose ? Quant à leurs opinions, elles sont encore plus diférentes que leurs pratiques. Les uns disent que la Cause des maux est dans les humeurs [73] ; Les autres dans le sang. Quelques-uns, par un pompeux galimathias, l'imputent aux atomes invisibles, qui entrent dans les pores. Celuy-cy soûtient, que les maladies viennent du defaut des forces corporelles : Celuy-là, qu'elles procedent de l'inégalité des élémens du Corps, et de la qualité de l'air que nous respirons, ou de l'abondance, crudité, et corruption de nos alimens. Ah que cette diversité d'opinions marque bien l'ignorance des Medecins ; mais encore plus la foiblesse ou la temérité des Malades qui s'abandonnent aux agitations de tant de vents contraires ! 
 
     PLUTON *aux Medecins.*
 Messieurs, hé ?
@@ -1243,7 +1240,7 @@ CARON, LES OMBRES, PLUTON, RADAM. MINOS, MOLIERE.
 Oh ! je n'y puis plus tenir. Depuis que je conduits la Barque, je n'ay jamais tant veu de Morts pour un jour ; et si vous n'y venez donner ordre, je ne sçay pas ce que nous en ferons.
 
     PLUTON
-Comment ? Nous avons donc bien des Gens ?
+Comment ? Nous avons donc bien des Gens ? 
 
     CARON.
 Tout créve à la Porte.
@@ -1252,7 +1249,7 @@ Tout créve à la Porte.
 Puis que nous avons tant de Morts icy-bas, il faut qu'il y ait encore bien des Medecins là- haut. Mais qu'ils attendent à un autre jour, je ne juge d'aujourd'huy, et voicy ma derniere Sentance. Retirez-vous un peu, que je prenne les opinions. Minos, qu'en dis-tu ?
 
     MINOS.
-Moy ? Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement avantageux.
+Moy ? Que cette Ombre est de bon sens, et qu'elle mérite bien quelque Jugement avantageux. 
 
     RADAMANTE.
 Il n'y a qu'honneur à juger en sa faveur.
@@ -1261,7 +1258,7 @@ Il n'y a qu'honneur à juger en sa faveur.
 J'en demeure d'accord ; mais aussi les obligations que nous avons à ces Messieurs m'embarrassent ; et je croy qu'un Arbitrage conviendroit mieux à cette affaire qu'un Jugement dans les formes. Ne trouvez-vous point à propos de leur proposer un accommodement ?
 
     MINOS.
-Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté.
+Hé, oüyda ; car il est vray que nous avons quelque mesure à garder avec la Faculté. 
 
     RADAMANTE.
 Je suis de cet avis.
@@ -1279,7 +1276,7 @@ Ho, ho, Messieurs, si vous n'êtes contens, prenez des Cartes. J'y pers plus que
 Quoy, Pluton…
 
     PLUTON
-Quoy ! vos Ombres teméraires m'osent repliquer, moy, qui puis vous faire évanoüir d'un souffle seulement ?
+Quoy ! vos Ombres teméraires m'osent repliquer, moy, qui puis vous faire évanoüir d'un souffle seulement ? 
 
     LES MEDECINS.
 Nous demandons justice, justice.
@@ -1292,11 +1289,11 @@ Ton Ombre avecque ta Mémoire.
 Que la Postérité t'en choisisse le lieu ;  
 *Et tandis qu'elle ira travailler à ta Gloire*,  
 Entre Térence et Plaute occupe le milieu.  
-Le carillon se fait.
+Le carillon se fait. 
 
     CARON.
 Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oüy la retraite. Bon-soir.
-FIN.
+FIN. 
 
 
 # EXTRAIT DU PRIVILÈGE DU ROY
@@ -1317,35 +1314,28 @@ le 2 May 1674.
 
 ## Sur la comédie en France au XVII*e* siècleLa Comédie de l'âge classique. 1630-1715
 Lire la comédie
-A History of French Dramatic Literature in the
-                Seventeenth Century
+A History of French Dramatic Literature in the Seventeenth Century
 La Dramaturgie classique en France
 
 
 
 ## Sur l'histoire matérielle des théâtresLe Théâtre professionnel à Paris. 1600-1649
-Le Mémoire de Mahelot, Laurent et autres
-                décorateurs de l'Hôtel de Bourgogne
-Le Théâtre et le public à Paris sous Louis XIV :
-                1659-1715
+Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne
+Le Théâtre et le public à Paris sous Louis XIV : 1659-1715
 
 
 
 ## Ouvrages généraux sur la périodeHistoire de la littérature française du XVII*e* siècle
 Morales du Grand Siècle
 Œuvres complètes
-L'Intérieur et l'Extérieur. Essais sur la poésie et le
-                théâtre au XVII*e* siècle
+L'Intérieur et l'Extérieur. Essais sur la poésie et le théâtre au XVII*e* siècle
 
 
 
 ## Sur la vie de Brécourt et Champmeslé, comédiens et auteurs de théâtre du XVII*e* siècleDictionnaire du Grand Siècle
 Ecrivains de théâtre. 1600-1649
-Cent ans de recherche sur
-                la vie de Molière, sur sa famille et sur les comédiens de sa troupe
-Les Comédiens français du XVII*e*
-                siècle. Dictionnaire biographique, suivi d'un inventaire des troupes,
-                1590-1710
+Cent ans de recherche sur la vie de Molière, sur sa famille et sur les comédiens de sa troupe
+Les Comédiens français du XVII*e* siècle. Dictionnaire biographique, suivi d'un inventaire des troupes, 1590-1710
 
 
 
@@ -1353,16 +1343,13 @@ Les Comédiens français du XVII*e*
 
 
 
-## Sur Brécourt et Champmeslé et la réception de leur pièceGalerie historique des acteurs de théâtre français depuis 1600
-                jusqu'à nos jours…
+## Sur Brécourt et Champmeslé et la réception de leur pièceGalerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos jours…
 Bibliothèque des théâtres
-Histoire du théâtre depuis son origine jusqu'à
-                présent…
+Histoire du théâtre depuis son origine jusqu'à présent…
 
 
 
-## Édition des Œuvres de MolièreLes Œuvres de Monsieur de Molière. Revues, corrigées et augmentées
-                (1682)
+## Édition des Œuvres de MolièreLes Œuvres de Monsieur de Molière. Revues, corrigées et augmentées (1682)
 Œuvres complètes
 
 
@@ -1371,12 +1358,8 @@ Histoire du théâtre depuis son origine jusqu'à
 
 
 ### DictionnairesDictionnaire
-Dictionnaire universel contenant généralement tous
-                  les mots françois tant vieux que modernes et les termes de toutes les sciences et
-                  ls arts
-Dictionnaire françois contenant les mots et les choses,
-                  plusieurs nouvelles remarques sur la langue françoise…avec les termes les plus
-                  connus des arts et des sciences
+Dictionnaire universel contenant généralement tous les mots françois tant vieux que modernes et les termes de toutes les sciences et ls arts
+Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise…avec les termes les plus connus des arts et des sciences
 
 
 
@@ -1387,310 +1370,156 @@ Introduction à la langue française du XVII*e* siècle
 -------
 
 
-[1] Brécourt, *L'Ombre de
-                      Molière*, Prologue, p. 11-12.
+[1] Brécourt, *L'Ombre de Molière*, Prologue, p. 11-12.
 
 [2] Brécourt, *L'Ombre de Moliere*, Prologue, p. 9.
 
 [3] *Ibid.*, p. 10-11.
 
-[4] Dans Adam, Antoine, *Histoire de la littérature française du
-                        XVII*e* siècle*, Domat, 1948-1952 ; rééd. Del Duca,
-                    1962 ; rééd. Albin Michel, 1996.
+[4] Dans Adam, Antoine, *Histoire de la littérature française du XVII*e* siècle*, Domat, 1948-1952 ; rééd. Del Duca, 1962 ; rééd. Albin Michel, 1996.
 
-[5] Il s'agit-là d'une formule. La Troupe
-                  royale n'a jamais renoncé à la tragédie : elle se met à produire davantage de
-                  comédies qui sont représentées à l'issue des tragédies.
+[5] Il s'agit-là d'une formule. La Troupe royale n'a jamais renoncé à la tragédie : elle se met à produire davantage de comédies qui sont représentées à l'issue des tragédies.
 
-[6] Maupoint, *Bibliothèque des théâtres*,
-                1733.
+[6] Maupoint, *Bibliothèque des théâtres*, 1733.
 
-[7] Lancaster, Henry
-                  Carrington, *A History of French Dramatic Literature in the
-                    Seventeenth Century*, Baltimore, Johns Hopkins Press, 1929-1942.
+[7] Lancaster, Henry Carrington, *A History of French Dramatic Literature in the Seventeenth Century*, Baltimore, Johns Hopkins Press, 1929-1942.
 
-[8] Brécourt,
-                  *L'Ombre de Moliere*, Prologue, p. 9.
+[8] Brécourt, *L'Ombre de Moliere*, Prologue, p. 9.
 
-[9] Brécourt, *L'Ombre de
-                Moliere*, Prologue, p. 10.
+[9] Brécourt, *L'Ombre de Moliere*, Prologue, p. 10.
 
-[10] Lemazurier, *Galerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos
-                jours…*, Paris, J. Chaumerot, 1810, t. I, p. 160.
+[10] Lemazurier, *Galerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos jours…*, Paris, J. Chaumerot, 1810, t. I, p. 160.
 
-[11] Lemazurier, *Galerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos
-                jours…*, t. I, p. 162.
+[11] Lemazurier, *Galerie historique des acteurs de théâtre français depuis 1600 jusqu'à nos jours…*, t. I, p. 162.
 
-[12] Howe Alan, *Le Théâtre professionnel à Paris.
-                1600-1649*, Paris, Archives Nationales, 2000.
+[12] Howe Alan, *Le Théâtre professionnel à Paris. 1600-1649*, Paris, Archives Nationales, 2000.
 
-[13] *Honnête homme* : la notion est à prendre au sens du
-                XVII*e* siècle : « On le dit premièrement de l'homme de bien, du
-              galant homme, qui a pris l'air du monde, qui sait vivre. » L'honnêteté désigne la
-              « pureté des mœurs. Les règles de l'honnêteté sont les règles de la bienséance, des
-              bonnes mœurs. L'honnêteté des hommes est une manière d'agir juste, sincère, courtoise,
-              obligeante, civile. » *Dictionnaire Universel* d'Antoine
-              Furetière.
+[13] *Honnête homme* : la notion est à prendre au sens du XVII*e* siècle : « On le dit premièrement de l'homme de bien, du galant homme, qui a pris l'air du monde, qui sait vivre. » L'honnêteté désigne la « pureté des mœurs. Les règles de l'honnêteté sont les règles de la bienséance, des bonnes mœurs. L'honnêteté des hommes est une manière d'agir juste, sincère, courtoise, obligeante, civile. » *Dictionnaire Universel* d'Antoine Furetière.
 
 [14] Brécourt, *L'Ombre de Moliere*, Prologue, p. 10.
 
-[15] Brécourt, *L'Ombre de
-                  Moliere*, scène III, p. 30-31.
+[15] Brécourt, *L'Ombre de Moliere*, scène III, p. 30-31.
 
-[16] *Ibid.*, scène III, p. 31
-              
+[16] *Ibid.*, scène III, p. 31 
 
 [17] *Ibid.*, scène dernière, p. 97.
 
-[18] Brécourt, *L'Ombre de Moliere*, scène IV, p.
-                34-35.
+[18] Brécourt, *L'Ombre de Moliere*, scène IV, p. 34-35.
 
 [19] Brécourt, *L'Ombre de Moliere*, scène III, p. 28-30.
 
-[20] Lancaster Henry Carrington, *A
-                History of French Dramatic Literature in the Seventeenth Century*, Part. III et
-              IV, Baltimore, Johns Hopkins Press, 1929-1942.
+[20] Lancaster Henry Carrington, *A History of French Dramatic Literature in the Seventeenth Century*, Part. III et IV, Baltimore, Johns Hopkins Press, 1929-1942.
 
-[21] Lancaster
-              Henry Carrington, éd., *Le Mémoire de Mahelot, Laurent et autres
-                décorateurs de l'Hôtel de Bourgogne*, Paris, Champion, 1920, p.
-            136.
+[21] Lancaster Henry Carrington, éd., *Le Mémoire de Mahelot, Laurent et autres décorateurs de l'Hôtel de Bourgogne*, Paris, Champion, 1920, p. 136.
 
-[22] Brécourt, *L'Ombre
-                  de Moliere*, scène III, p. 32.
+[22] Brécourt, *L'Ombre de Moliere*, scène III, p. 32.
 
-[23] Nous reprenons ici
-              l'orthographe avec laquelle le personnage est présenté par Brécourt.
+[23] Nous reprenons ici l'orthographe avec laquelle le personnage est présenté par Brécourt.
 
-[24] Brécourt, *L'Ombre de
-                Moliere*, scène V, p. 36.
+[24] Brécourt, *L'Ombre de Moliere*, scène V, p. 36.
 
-[25] Molière, *Les
-                  Précieuses ridicules*, scène V.
+[25] Molière, *Les Précieuses ridicules*, scène V.
 
-[26] Brécourt, *L'Ombre de Moliere*, scène V, p.
-              41.
+[26] Brécourt, *L'Ombre de Moliere*, scène V, p. 41.
 
-[27] Brécourt, *L'Ombre de Moliere*, scène VI, p.
-                43.
+[27] Brécourt, *L'Ombre de Moliere*, scène VI, p. 43.
 
-[28] Molière, *Sganarelle ou
-                Le Cocu imaginaire.*
+[28] Molière, *Sganarelle ou Le Cocu imaginaire.*
 
-[29] Lancaster Henry
-              Carrington, *A History of French Dramatic Literature in the Seventeenth
-                Century*, Part. III et IV, Baltimore, Johns Hopkins Press, 1929-1942.
+[29] Lancaster Henry Carrington, *A History of French Dramatic Literature in the Seventeenth Century*, Part. III et IV, Baltimore, Johns Hopkins Press, 1929-1942.
 
-[30] Brécourt, *L'ombre de Moliere*,
-                scène VII, p. 49.
+[30] Brécourt, *L'ombre de Moliere*, scène VII, p. 49.
 
 [31] *Ibid.*, scène IX, p. 53.
 
 [32] Molière, *Monsieur de Pourceaugnac*, scène III.
 
-[33] Brécourt, *L'Ombre de Moliere*, scène XI, p.
-                70.
+[33] Brécourt, *L'Ombre de Moliere*, scène XI, p. 70.
 
-[34] Brécourt, *L'Ombre de Moliere*, scène XIII, p.
-                75.
+[34] Brécourt, *L'Ombre de Moliere*, scène XIII, p. 75.
 
 [35] Molière, *L'Amour médecin*, Acte II, scène III.
 
 [36] Brécourt, *L'Ombre de Moliere*, scène XIII, p. 76.
 
-[37] Dixit, dans *A History of French Dramatic Literature in the Seventeenth Century*,
-              Part. III et IV, Baltimore, Johns Hopkins Press, 1929-1942.
+[37] Dixit, dans *A History of French Dramatic Literature in the Seventeenth Century*, Part. III et IV, Baltimore, Johns Hopkins Press, 1929-1942.
 
-[38] Lancaster affirme cela, dans *A
-                History of French Dramatic Literature in the Seventeenth Century*, mais malgré
-              toutes nos recherches et après consultation des différentes éditions de *L'Ombre*, nous n'avons trouvé aucune didascalie semblable ni aucune
-              modification de ce genre.
+[38] Lancaster affirme cela, dans *A History of French Dramatic Literature in the Seventeenth Century*, mais malgré toutes nos recherches et après consultation des différentes éditions de *L'Ombre*, nous n'avons trouvé aucune didascalie semblable ni aucune modification de ce genre.
 
-[39] Lemazurier, *Galerie
-                historique des acteurs du théâtre français depuis 1600 jusqu'à nos jours…*,
-              Paris, J. Chaumerot, 1810, t. I, p. 169.
+[39] Lemazurier, *Galerie historique des acteurs du théâtre français depuis 1600 jusqu'à nos jours…*, Paris, J. Chaumerot, 1810, t. I, p. 169.
 
-[40] Les deux exemplaires existent à la
-                Bibliothèque nationale de France, mais les noms des imprimeurs ne figurent pas sur
-                les pages de titre car il s'agit sans aucun doute de copies.
+[40] Les deux exemplaires existent à la Bibliothèque nationale de France, mais les noms des imprimeurs ne figurent pas sur les pages de titre car il s'agit sans aucun doute de copies.
 
-[41] Par rapport à l'édition originale de 1674,
-                plusieurs majuscules sont supprimées ainsi que le tréma ; l'accent circonflexe est
-                parfois remplacé par l'ajout d'un « s »; enfin, la police et les interlignes sont
-                plus petites.
+[41] Par rapport à l'édition originale de 1674, plusieurs majuscules sont supprimées ainsi que le tréma ; l'accent circonflexe est parfois remplacé par l'ajout d'un « s »; enfin, la police et les interlignes sont plus petites.
 
-[42] On connaît également une édition des *Fragmens de
-                  Moliere, comédie par Monsieur de Brécourt*, publiée à la Haye chez Adrian
-                Moetjens en 1682. En réalité cette comédie est de Champmeslé, il y a eu confusion
-                avec *L'Ombre de Moliere* de Brécourt. On trouve cet exemplaire à la
-                Bibliothèque nationale de France, site Richelieu, Arts du spectacle:
-                8-RF-3099.
+[42] On connaît également une édition des *Fragmens de Moliere, comédie par Monsieur de Brécourt*, publiée à la Haye chez Adrian Moetjens en 1682. En réalité cette comédie est de Champmeslé, il y a eu confusion avec *L'Ombre de Moliere* de Brécourt. On trouve cet exemplaire à la Bibliothèque nationale de France, site Richelieu, Arts du spectacle: 8-RF-3099.
 
-[43] Il
-              s'agit de Louis II, prince de Condé, dit le Grand Condé (1621-1686) qui se rendit
-              célèbre par ses victoires militaires, notamment celle de Rocroi en 1643 contre les
-              Espagnols. Il prit la tête de la Fronde des princes en 1651 mais fut battu par Turenne
-              en 1652 et passa alors du côté de l'armée espagnole. Ayant obtenu le pardon de Louis
-              XIV en 1659, il se remit au service du roi de France. Promu commandant en chef des
-              armées françaises en 1675 il livra, la même année, sa dernière bataille contre l'armée
-              du Saint Empire, sur le front du Rhin. Il se retira à la fin de sa vie au château de
-              Chantilly, dans une semi-disgrâce, protégeant plusieurs écrivains, parmi lesquels
-              Molière, qui fit notamment jouer *le Tartuffe* à Chantilly, en 1668,
-              alors qu'il était interdit à Paris.
+[43] Il s'agit de Louis II, prince de Condé, dit le Grand Condé (1621-1686) qui se rendit célèbre par ses victoires militaires, notamment celle de Rocroi en 1643 contre les Espagnols. Il prit la tête de la Fronde des princes en 1651 mais fut battu par Turenne en 1652 et passa alors du côté de l'armée espagnole. Ayant obtenu le pardon de Louis XIV en 1659, il se remit au service du roi de France. Promu commandant en chef des armées françaises en 1675 il livra, la même année, sa dernière bataille contre l'armée du Saint Empire, sur le front du Rhin. Il se retira à la fin de sa vie au château de Chantilly, dans une semi-disgrâce, protégeant plusieurs écrivains, parmi lesquels Molière, qui fit notamment jouer *le Tartuffe* à Chantilly, en 1668, alors qu'il était interdit à Paris.
 
-[44] *Madrigal* : « Petite Poésie amoureuse composée d'un petit nombre de
-                vers libres inégaux, qui n'a ni la gêne d'un Sonnet, ni la subtilité d'une
-                Epigramme, mais qui se contente d'une pensée tendre et agréable ». *Dictionnaire Universel* d'Antoine Furetière.
+[44] *Madrigal* : « Petite Poésie amoureuse composée d'un petit nombre de vers libres inégaux, qui n'a ni la gêne d'un Sonnet, ni la subtilité d'une Epigramme, mais qui se contente d'une pensée tendre et agréable ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[45] Au XVII*e* siècle, le pluriel en -és des
-                substantifs et des participes passés est fréquemment rendu par -ez.
+[45] Au XVII*e* siècle, le pluriel en -és des substantifs et des participes passés est fréquemment rendu par -ez.
 
-[46] « *Force*, en
-                termes de Jurisprudence, signifie, Violence. … Mener à force. » Idem. Il faut
-                comprendre ici que le hasard est forcé ; ce n'est donc plus du hasard, mais quelque
-                chose qui est provoqué. *Incidents forcés.*
+[46] « *Force*, en termes de Jurisprudence, signifie, Violence. … Mener à force. » Idem. Il faut comprendre ici que le hasard est forcé ; ce n'est donc plus du hasard, mais quelque chose qui est provoqué. *Incidents forcés.*
 
-[47] *Demander quartier* : Terme de
-                guerre : « Signifie le bon traitement qu'on promet à des troupes qui se rendent, qui
-                mettent les armes à bas. Les ennemis ont demandé quartier », c'est-à-dire la pitié
-                de leurs ennemis. *Dictionnaire Universel* d'Antoine Furetière.
-                Comprendre : Epargner. Oronte demande l'indulgence de Cléante.
+[47] *Demander quartier* : Terme de guerre : « Signifie le bon traitement qu'on promet à des troupes qui se rendent, qui mettent les armes à bas. Les ennemis ont demandé quartier », c'est-à-dire la pitié de leurs ennemis. *Dictionnaire Universel* d'Antoine Furetière. Comprendre : Epargner. Oronte demande l'indulgence de Cléante.
 
-[48] *Friponner* : « Voler,
-                  tromper, escroquer ». Le fripon est celui « qui dérobe secrètement, qui tâche à
-                  tromper ceux qui ont à faire à lui, qui fait des gains illicites au jeu, ou dans
-                  le négoce, et qui est sans honneur et sans bonne foi ». *Dictionnaire
-                    universel* d'Antoine Furetière.
+[48] *Friponner* : « Voler, tromper, escroquer ». Le fripon est celui « qui dérobe secrètement, qui tâche à tromper ceux qui ont à faire à lui, qui fait des gains illicites au jeu, ou dans le négoce, et qui est sans honneur et sans bonne foi ». *Dictionnaire universel* d'Antoine Furetière.
 
-[49] « *Partie* : en termes de
-                  Palais, se dit de tous les plaideurs. Les demandeurs et les défendeurs, les
-                  appelants et les intimés, s'appellent parties principales ; et les parties
-                  intervenantes sont celles qui s'y joignent par quelque intérêt, ou qui y sont
-                  appelées en assistance de cause ». Idem.
+[49] « *Partie* : en termes de Palais, se dit de tous les plaideurs. Les demandeurs et les défendeurs, les appelants et les intimés, s'appellent parties principales ; et les parties intervenantes sont celles qui s'y joignent par quelque intérêt, ou qui y sont appelées en assistance de cause ». Idem.
 
-[50] *Empirique* : « Terme de médecine. Celui qui tient
-                  que la médecine ne consiste que dans l'expérience. Un Médecin empirique ». le mot
-                  peut être utilisé substantivement. « Faire l'empirique, c'est-à-dire, faire le
-                  charlatan ». *Dictionnaire François* par P. Richelet.
+[50] *Empirique* : « Terme de médecine. Celui qui tient que la médecine ne consiste que dans l'expérience. Un Médecin empirique ». le mot peut être utilisé substantivement. « Faire l'empirique, c'est-à-dire, faire le charlatan ». *Dictionnaire François* par P. Richelet.
 
-[51] Le *Poëte Doucet* est une
-                  référence au dramaturge Quinault qui, dit-on, « a passé pour la douceur mesme »,
-                  ce que Brécourt rappelle à la scène II, p. 25. Cf. Introduction, IV-
-                  L'intertextualité dans *L'Ombre de Moliere*.
+[51] Le *Poëte Doucet* est une référence au dramaturge Quinault qui, dit-on, « a passé pour la douceur mesme », ce que Brécourt rappelle à la scène II, p. 25. Cf. Introduction, IV- L'intertextualité dans *L'Ombre de Moliere*.
 
-[52] *Accommoder* : «  on dit qu'un Poète a
-                  accommodé un sujet au théâtre, pour dire, qu'il l'a disposé pour paraître agréable
-                  sur la scène ». *Dictionnaire Universel* d'Antoine
-                  Furetière.
+[52] *Accommoder* : «  on dit qu'un Poète a accommodé un sujet au théâtre, pour dire, qu'il l'a disposé pour paraître agréable sur la scène ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[53] « On dit en terme de Palais, qu'un
-                  homme s'est obligé corps et biens, pour dire, qu'il s'est soumis à tenir prison
-                  faute de payement. L'Ordonnance de 1667 a abrogé les contraintes par corps après
-                  les quatre mois ». *Dictionnaire Universel* d'Antoine Furetière.
-                  Il faut comprendre que le Limousin a assez de biens pour payer s'il en a besoin
-                  dans une situation extrême. Il s'agit de M. de Pourceaugnac qui apparaît à la
-                  scène X.
+[53] « On dit en terme de Palais, qu'un homme s'est obligé corps et biens, pour dire, qu'il s'est soumis à tenir prison faute de payement. L'Ordonnance de 1667 a abrogé les contraintes par corps après les quatre mois ». *Dictionnaire Universel* d'Antoine Furetière. Il faut comprendre que le Limousin a assez de biens pour payer s'il en a besoin dans une situation extrême. Il s'agit de M. de Pourceaugnac qui apparaît à la scène X.
 
-[54] «  Se dit au Palais, de l'état des causes
-                  enregistrées, qui doivent être appelées et plaidées en leur ordre ». Idem.
+[54] «  Se dit au Palais, de l'état des causes enregistrées, qui doivent être appelées et plaidées en leur ordre ». Idem.
 
-[55] «  On dit qu'une cause est
-                  appointée sur le rôle, quand elle demeure à plaider après que le temps des
-                  audiences de chaque rôle est passé ; car alors on donne un appointement général
-                  sur ce qui reste ». *Dictionnaire Universel* d'Antoine
-                  Furetière.
+[55] «  On dit qu'une cause est appointée sur le rôle, quand elle demeure à plaider après que le temps des audiences de chaque rôle est passé ; car alors on donne un appointement général sur ce qui reste ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[56] *Canon* :
-                  « Est un ornement de toile rond fort large, et souvent orné de dentelle qu'on
-                  attache au-dessus du genoux, qui prend jusqu'à moitié jambe pour la couvrir ….
-                  C'est dont Molière se raille ». *Dictionnaire Universel* d'Antoine
-                  Furetière.
+[56] *Canon* : « Est un ornement de toile rond fort large, et souvent orné de dentelle qu'on attache au-dessus du genoux, qui prend jusqu'à moitié jambe pour la couvrir …. C'est dont Molière se raille ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[57] *Fâcheux* :
-                  « Importun. Qui ennuie, qui lasse et fatigue à cause de ses sottises et de ses
-                  manières. Qui cause du chagrin. C'est un fâcheux des plus fâcheux du monde,
-                  Molière. ». *Dictionnaire François* par P. Richelet. Allusion aux
-                    *Fâcheux*, comédie de Molière qui présente le personnage du
-                  chasseur.
+[57] *Fâcheux* : « Importun. Qui ennuie, qui lasse et fatigue à cause de ses sottises et de ses manières. Qui cause du chagrin. C'est un fâcheux des plus fâcheux du monde, Molière. ». *Dictionnaire François* par P. Richelet. Allusion aux *Fâcheux*, comédie de Molière qui présente le personnage du chasseur.
 
-[58] *Gaulis* : Terme de Vénerie. Branche d'arbre
-                  qu'il faut que les Veneurs plient ou détournent quand ils percent dans le fort
-                  d'un bois ». *Dictionnaire Universel* d'Antoine Furetière.
+[58] *Gaulis* : Terme de Vénerie. Branche d'arbre qu'il faut que les Veneurs plient ou détournent quand ils percent dans le fort d'un bois ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[59] *Gigot* : Se dit burlesquement
-                  des cuisses d'un homme ». Idem.
+[59] *Gigot* : Se dit burlesquement des cuisses d'un homme ». Idem.
 
-[60] « On dit proverbialement
-                  d'une chose commune et triviale, que les enfants en vont à la moutarde ». *Dictionnaire Universel* d'Antoine Furetière.
+[60] « On dit proverbialement d'une chose commune et triviale, que les enfants en vont à la moutarde ». *Dictionnaire Universel* d'Antoine Furetière.
 
 [61] Cf. note 1 p. 43.
 
-[62] *Endesver* : « Etre fort fâché
-                  de quelque action. Ce mot est du bas peuple ». *Dictionnaire
-                    Universel* d'Antoine Furetière.
+[62] *Endesver* : « Etre fort fâché de quelque action. Ce mot est du bas peuple ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[63] *Caresme-prenans* est « le jour du mardi qui précède le Carême, et quelque
-                  fois tout le temps du Carnaval depuis les Rois ». Idem.
+[63] *Caresme-prenans* est « le jour du mardi qui précède le Carême, et quelque fois tout le temps du Carnaval depuis les Rois ». Idem.
 
-[64] « *Piece*, en termes de
-                    Palais, se dit de tout ce qu'on écrit et produit en un procès pour le mettre en
-                    état, et justifier de son droit. On fait un inventaire de production pour
-                    l'induction et la conservation de ses pièces ». « *Sac*, en termes de Palais, se dit de celui où l'on met les papiers d'un
-                    procès. Cette partie a chargé un tel Avocat de son sac ».
-                Idem.
+[64] « *Piece*, en termes de Palais, se dit de tout ce qu'on écrit et produit en un procès pour le mettre en état, et justifier de son droit. On fait un inventaire de production pour l'induction et la conservation de ses pièces ». « *Sac*, en termes de Palais, se dit de celui où l'on met les papiers d'un procès. Cette partie a chargé un tel Avocat de son sac ». Idem.
 
-[65] *Prononcer* « signifie, Décider avec
-                  autorité. On a ouït les Avocats, il ne reste qu'à prononcer ». *Dictionnaire Universel* d'Antoine Furetière. Il s'agit donc de la décision
-                  du Juge à la fin du procès.
+[65] *Prononcer* « signifie, Décider avec autorité. On a ouït les Avocats, il ne reste qu'à prononcer ». *Dictionnaire Universel* d'Antoine Furetière. Il s'agit donc de la décision du Juge à la fin du procès.
 
-[66] Au XVII*e* siècle, il n'y a pas de distinction orthographique entre fond et
-                  fonds.
+[66] Au XVII*e* siècle, il n'y a pas de distinction orthographique entre fond et fonds.
 
-[67] *Assesseur* : « officier de Justice gradué, créé
-                  pour servir de conseil ordinairement à un Juge d'épée dans la Maréchaussée ». *Dictionnaire Universel* d'Antoine Furetière.
+[67] *Assesseur* : « officier de Justice gradué, créé pour servir de conseil ordinairement à un Juge d'épée dans la Maréchaussée ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[68] On note ici le jeu de mots : la scène a lieu aux Enfers et, de ce
-                  fait, on ne peut s'empêcher de faire un rapprochement entre les *Verres d'oubly* et le Léthé, c'est-à-dire le fleuve de l'oubli de la
-                  mythologie qui coule aux Enfers et qui a la propriété souveraine de faire oublier
-                  les peines et les chagrins de l'existence. De plus l'alcool favorise aussi l'oubli
-                  car on y noie soucis et chagrins. 
+[68] On note ici le jeu de mots : la scène a lieu aux Enfers et, de ce fait, on ne peut s'empêcher de faire un rapprochement entre les *Verres d'oubly* et le Léthé, c'est-à-dire le fleuve de l'oubli de la mythologie qui coule aux Enfers et qui a la propriété souveraine de faire oublier les peines et les chagrins de l'existence. De plus l'alcool favorise aussi l'oubli car on y noie soucis et chagrins. 
 
 [69] *Et si* a une valeur concessive : comprendre : et cependant. 
 
-[70] *Masque* : « Terme
-                  injurieux qu'on dit aux femmes du commun peuple, pour leur reprocher leur laideur,
-                  ou leur vieillesse ». *Dictionnaire Universel* d'Antoine
-                  Furetière.
+[70] *Masque* : « Terme injurieux qu'on dit aux femmes du commun peuple, pour leur reprocher leur laideur, ou leur vieillesse ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[71] « *Revenche* :
-                  Reconnaissance et ressentiment qu'on a d'une chose ». *Dictionnaire
-                    François* par P. Richelet. Il faut comprendre ici : en échange, en retour ;
-                  Pluton exprime sa reconnaissance aux médecins qui l'ont servi fidèlement. 
+[71] « *Revenche* : Reconnaissance et ressentiment qu'on a d'une chose ». *Dictionnaire François* par P. Richelet. Il faut comprendre ici : en échange, en retour ; Pluton exprime sa reconnaissance aux médecins qui l'ont servi fidèlement. 
 
-[72] *Emetique* : « Est un remède qui purge avec violence par haut
-                  et par bas, fait de la poudre et du beurre d'antimoine préparé, dont on a séparé
-                  les sels corrosifs par plusieurs lotions ». *Dictionnaire
-                    Universel* d'Antoine Furetière.
+[72] *Emetique* : « Est un remède qui purge avec violence par haut et par bas, fait de la poudre et du beurre d'antimoine préparé, dont on a séparé les sels corrosifs par plusieurs lotions ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[73] *Humeur* :
-                  « En terme de Médecine, on appelle les quatre humeurs, les quatre substances
-                  liquides qui abreuvent tous les corps des animaux, et qu'on croit être la cause
-                  des divers tempéraments, qui sont la flegme ou la pituite, le sang, la bile, la
-                  mélancolie ». *Dictionnaire Universel* d'Antoine
-                Furetière.
+[73] *Humeur* : « En terme de Médecine, on appelle les quatre humeurs, les quatre substances liquides qui abreuvent tous les corps des animaux, et qu'on croit être la cause des divers tempéraments, qui sont la flegme ou la pituite, le sang, la bile, la mélancolie ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[74] *Hydropisie* : « Enflure des membres du corps
-                  causée par une eau qui se coule entre cuir et chair, lorsque le foie ne fait plus
-                  ses fonctions ». *Dictionnaire Universel* d'Antoine
-                  Furetière.
+[74] *Hydropisie* : « Enflure des membres du corps causée par une eau qui se coule entre cuir et chair, lorsque le foie ne fait plus ses fonctions ». *Dictionnaire Universel* d'Antoine Furetière.
 
-[75] *Brutal* : « Se tient de
-                  la brute, qui a quelque chose de l'animal, qui est de bête ». « Brute, ce mot se
-                  dit des bêtes, et veut dire qui est sans raison, mais dans ce sens il ne se dit
-                  proprement qu'au féminin ». « Brutes : les animaux. Les bêtes brutes ». *Dictionnaire François* par P. Richelet.
+[75] *Brutal* : « Se tient de la brute, qui a quelque chose de l'animal, qui est de bête ». « Brute, ce mot se dit des bêtes, et veut dire qui est sans raison, mais dans ce sens il ne se dit proprement qu'au féminin ». « Brutes : les animaux. Les bêtes brutes ». *Dictionnaire François* par P. Richelet.
 
-[76] *Rapatrier* : « Réconcilier,
-                  raccommoder des gens qui étaient brouillés ». *Dictionnaire
-                    François* par P. Richelet.
+[76] *Rapatrier* : « Réconcilier, raccommoder des gens qui étaient brouillés ». *Dictionnaire François* par P. Richelet.
 
 [77] Cf. note 1 p. 53.

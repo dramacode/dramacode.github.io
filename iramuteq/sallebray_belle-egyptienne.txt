@@ -15,7 +15,7 @@ LES PERSONNAGES.
 
 LA BELLE EGIPTIENNE, TRAGI-COMEDIE
 
-**** *book_ *id_body-301 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_I01 *act_I *date_1642 *creator_sallebray
 
 -*who_precieuse
 Enfin, personne icy ne sçauroit nous entendre,
@@ -181,7 +181,7 @@ Taisons-nous, j'apercoy quelqu'un qui vient icy.
 -*who_la_vieille
 C'est nôtre Poëte, ô Dieu, l'étrange personnage !
 
-**** *book_ *id_body-302 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_I02 *act_I *date_1642 *creator_sallebray
 
 -*who_le_poete
 C'est elle, je la voy.
@@ -246,7 +246,7 @@ Tranche luy moy tout court, ou me viens appeler.
 -*who_precieuse
 Allés, cela vaut fait.
 
-**** *book_ *id_body-303 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_I03 *act_I *date_1642 *creator_sallebray
 
 -*who_precieuse
       Ouy, j'ay leu cet ouvrage,
@@ -407,7 +407,7 @@ Il ne doit plus servir au trafic des humains
 Ce tresor que j'égalle à ceux des Republiques,
 Et je vay l'enchâsser ainsi que des Reliques.
 
-**** *book_ *id_body-304 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_I04 *act_I *date_1642 *creator_sallebray
 
 -*who_la_vieille
 Précieuse.
@@ -423,7 +423,7 @@ Nos gens vont à la ville, il faut que tu te pares.
 -*who_precieuse
 Nous bravons sans cela les beautés les plus rares.
 
-**** *book_ *id_body-305 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_I05 *act_I *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Hé bien, es-tu content puissant Maistre des Dieux,
@@ -481,7 +481,7 @@ Et fay moy triompher d'une jeune innocence.
 La voicy, Dieux ! je tremble à son divin aspect,
 Et je sens ce desir qui se change en respect.
 
-**** *book_ *id_body-306 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_I06 *act_I *date_1642 *creator_sallebray
 
 -*who_la_vieille
 Qu'est-ce donc ?
@@ -747,7 +747,7 @@ De grace...
 -*who_dom_jean_de_carcame
       C'est assés, à Dieu, je t'obéis.
 
-**** *book_ *id_body-307 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_I07 *act_I *date_1642 *creator_sallebray
 
 -*who_la_vieille
 Mes leçons et mes soins⁎ sont donc ainsi trahis.
@@ -777,7 +777,7 @@ Au reste, allons hâter nos desseins resolus.
 Passe pour cette fois, mais n'y retourne plus.
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_II01 *act_II *date_1642 *creator_sallebray
 
 -*who_dom_jean_de_carcame
 A peine mon vaisseau s'éloigne du rivage,
@@ -809,7 +809,7 @@ Dans ce beau champ d'Amour marche plus assurée.
 Le Ciel rit à mes vœux, l'air me semble plus dous.
 C'est l'effet du Soleil qui s'approche de nous.
 
-**** *book_ *id_body-402 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_II02 *act_II *date_1642 *creator_sallebray 
 
 -*who_le_capitaine
 Il faut entretenir le feu qui le consome.
@@ -1095,7 +1095,7 @@ Et trompe des Argus l'exacte vigilance.
 Suivés-moy Compagnons, tous en ordre rangés,
 Ces ducas⁎ au retour vous seront partagés.
 
-**** *book_ *id_body-403 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_II03 *act_II *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Enfin j'ay le bon-heur où mon amour aspire,
@@ -1334,7 +1334,7 @@ Mais il faut qu'avec moy vous y mettiés la main.
 Elle s'en doute, Amour seconde⁎ son dessein.
 Fin du second Acte.
 
-**** *book_ *id_body-501 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_III01 *act_III *date_1642 *creator_sallebray
 
 -*who_le_poete
 Au secours, je suis mort, ha ! quelle destinée
@@ -1396,7 +1396,7 @@ Pour en estre content, rens-la devant⁎ contente.
 -*who_le_poete
 Je n'épargneray rien pour mon soulagement.
 
-**** *book_ *id_body-502 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_III02 *act_III *date_1642 *creator_sallebray 
 
 -*who_la_vieille
 Mon fils, où courés-vous ?
@@ -1459,7 +1459,7 @@ Cours, es-tu revenuë ?
 C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,
 De nuit, et déguisé, je crains quelque surprise.
 
-**** *book_ *id_body-503 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_III03 *act_III *date_1642 *creator_sallebray 
 
 -*who_le_poete
 Soleil dont la lumiere est si douce à mes yeux,
@@ -1478,7 +1478,7 @@ Entrés-là, c'en est fait, son sang est arresté.
 -*who_dom_jean_de_carcame
 O discours salutaire en cette extremité.
 
-**** *book_ *id_body-504 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_III04 *act_III *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Quoy déjà de retour ?
@@ -1486,7 +1486,7 @@ Quoy déjà de retour ?
 -*who_la_vieille
       Viste, ma fille apporte.
 
-**** *book_ *id_body-505 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_III05 *act_III *date_1642 *creator_sallebray
 
 -*who_precieuse
 La charité m'oblige⁎ à courir de la sorte.
@@ -1501,7 +1501,7 @@ Si vous n'avés besoin que de ma diligence...
 -*who_dom_jean_de_carcame
 Tu pourois sans courir hâter mon alegeance.
 
-**** *book_ *id_body-506 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_III06 *act_III *date_1642 *creator_sallebray
 
 -*who_la_vieille
 Te voylà bien, à Dieu, repose en seureté,
@@ -1527,7 +1527,7 @@ Allons nous retirer.
 -*who_precieuse
 Ma tante allés devant, nous vous suivons de prez.
 
-**** *book_ *id_body-507 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_III07 *act_III *date_1642 *creator_sallebray
 
 -*who_precieuse
 Les Lauriers d'Apollon sont changez en Cyprez.
@@ -1644,7 +1644,7 @@ Je n'ay pas entendu que ce fut à toute heure.
 -*who_dom_jean_de_carcame
 La nuit, et sans témoins elle seroit meilleure.
 
-**** *book_ *id_body-508 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_III08 *act_III *date_1642 *creator_sallebray
 
 -*who_dom_jean_de_carcame
 Loin de ces beaux charmeurs qui corrompent les sens,
@@ -1708,7 +1708,7 @@ Tirons de ce rival un éclaircissement,
 Arrachons son aveu par force ou par adresse,
 Et perdons puis apres le traitre et la traitresse.
 
-**** *book_ *id_body-509 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_III09 *act_III *date_1642 *creator_sallebray 
 
 -*who_dom_jean_de_carcame
 Camarade, dors-tu ?
@@ -1914,7 +1914,7 @@ Et si son lâche cœur trempoit dedans ton crime,
 J'abatrois d'un seul coup l'autel et la victime.
 Fin du troisieme Acte.
 
-**** *book_ *id_body-601 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_IV01 *act_IV *date_1642 *creator_sallebray
 
 -*who_dom_jean_de_carcame
 Mais tu ne me dis rien de ce pauvre blessé,
@@ -1960,7 +1960,7 @@ D'obtenir l'entretien d'une heure seulement,
 Ne luy refuse pas un bien si desirable,
 Et prepare à ses vœux un acueil favorable.
 
-**** *book_ *id_body-602 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_IV02 *act_IV *date_1642 *creator_sallebray
 
 -*who_dom_jean_de_carcame
 Ha ! le fâcheux objet⁎.
@@ -2014,7 +2014,7 @@ Hélas ! elle a raison, éprouvons son avis.
 -*who_dom_jean_de_carcame
 De quel nouveau mal-heur⁎ mes jours sont-ils suivis ?
 
-**** *book_ *id_body-603 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_IV03 *act_IV *date_1642 *creator_sallebray
 
 -*who_dom_jean_de_carcame
 Madame, vous m'offrés un honneur qui m'étonne⁎.
@@ -2186,7 +2186,7 @@ Qu'il vaudroit mieux vivant tomber dans les enfers,
 Qu'au pouvoir irrité d'une amante enragée
 D'un indigne mépris dont je seray vangée.
 
-**** *book_ *id_body-604 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_IV04 *act_IV *date_1642 *creator_sallebray
 
 -*who_precieuse
 Bon augure, il est seul, mais las ! en peu de temps
@@ -2278,7 +2278,7 @@ Faut-il qu'à mon sujet vous ayés tant de peine ?
 O Ciel ! contre ces traits⁎ daigne armer nôtre sein,
 Ou bien fais avorter ce damnable dessein.
 
-**** *book_ *id_body-605 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_IV05 *act_IV *date_1642 *creator_sallebray
 
 -*who_hipolite
 Je bénis ce rencontre à mes yeux favorable,
@@ -2316,7 +2316,7 @@ Allons, c'est icy prez, et s'ils font resistance,
 Sans attendre ma voix, main basse, tués tout,
 Du meurtre general mon pouvoir vous absout.
 
-**** *book_ *id_body-606 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_IV06 *act_IV *date_1642 *creator_sallebray 
 
 -*who_hipolite
 Je te tiens arrogant, et ta perte arrestée
@@ -2326,7 +2326,7 @@ Prépare à ton orgueil un juste châtiment,
 Et ces joyaux tirés du fond de ta valise
 Feront selon mes vœux réussir l'entreprise.
 
-**** *book_ *id_body-607 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_IV07 *act_IV *date_1642 *creator_sallebray
 
 -*who_le_capitaine
 Ouy, je treuve à propos d'éviter sa fureur,
@@ -2359,7 +2359,7 @@ Sur nos chastes desseins mon amour se repose.
 -*who_la_vieille
 On dit bien vray, l'épine est proche de la rose.
 
-**** *book_ *id_body-608 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_IV08 *act_IV *date_1642 *creator_sallebray 
 
 -*who_le_prevost
 Demeurés. Le premier qui fait le moindre effort.
@@ -2554,7 +2554,7 @@ Je sçauray reconnestre un si loüable office.
 Je seray toujours prest à vous rendre service.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_V01 *act_V *date_1642 *creator_sallebray
 
 -*who_isabelle
 Vous voyés bien, Monsieur, par cet évenement,
@@ -2624,7 +2624,7 @@ La vertu sollicite aujourd'huy pour le vice.
 -*who_ferdinand
 Il la faut escouter.
 
-**** *book_ *id_body-702 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_V02 *act_V *date_1642 *creator_sallebray
 
 -*who_precieuse
       Ha ! Monseigneur, justice,
@@ -2675,7 +2675,7 @@ Il s'en faut éclaircir.
 Justes Dieux qui sçavés le crime et l'innocence !
 N'ordonnés point la peine à qui souffre⁎ l'offense.
 
-**** *book_ *id_body-703 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_V03 *act_V *date_1642 *creator_sallebray
 
 -*who_isabelle
 Ne crains point, Precieuse, approche, baise moy,
@@ -3001,7 +3001,7 @@ Ce que tu m'as appris de son extraction⁎
 Le rend un digne objet⁎ de ton affection,
 Mais le voicy.
 
-**** *book_ *id_body-704 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_V04 *act_V *date_1642 *creator_sallebray
 
 -*who_isabelle
       Monsieur, benissés l'avanture⁎
@@ -3119,7 +3119,7 @@ D'un si parfait bon-heur ma voix le veut surprendre.
 -*who_precieuse
 Que j'ay peur de sa crainte, ha s'il pouvoit m'entendre !
 
-**** *book_ *id_body-705 *act_ *date_1642 *creator_sallebray
+**** *book_ *id_V05 *act_V *date_1642 *creator_sallebray
 
 -*who_ferdinand
 Approche scelerat.
@@ -3303,7 +3303,7 @@ A qui premier de vous faut-il que je m'adresse ?
 -*who_ferdinand
 Dieux ! qui nous vient troubler en ce jour solemnel ?
 
-**** *book_ *id_body-706 *act_ *date_1642 *creator_sallebray 
+**** *book_ *id_V06 *act_V *date_1642 *creator_sallebray 
 
 -*who_le_capitaine
 Grace, grace, Monsieur, il n'est point criminel.

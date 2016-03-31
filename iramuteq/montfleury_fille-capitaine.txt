@@ -34,7 +34,7 @@ THIERRY, Syndic.
 Achevé d'imprimer pour la premiere fois le 4.
 Janvier 1672.
 
-**** *book_ *id_body-401 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I01 *act_I *date_1672 *creator_montfleury
 
 -*who_angelique
 Je suis libre à present, & maistresse de moy,
@@ -162,7 +162,7 @@ Voicy ton Chevalier : & je lis dans ses yeux,
 Que si ton Frere estoit comme nous dans ces lieux,
 Au plaisir de te voir il seroit plus sensible.
 
-**** *book_ *id_body-402 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I02 *act_I *date_1672 *creator_montfleury
 
 -*who_lucinde
 Est-ce ce qui vous trouble ? & seroit-il possible…
@@ -211,7 +211,7 @@ Un an de Mariage appaise bien des feux⁎.
 -*who_damon
 Ah, pour diminuer, mes flames⁎ sont trop belles.
 
-**** *book_ *id_body-403 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I03 *act_I *date_1672 *creator_montfleury
 
 -*who_cato
 Ah que pour vostre amour j'ay de bonnes nouvelles !
@@ -256,7 +256,7 @@ Rentrons dans le Logis.
 -*who_cato
       Madame, le voicy.
 
-**** *book_ *id_body-404 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I04 *act_I *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Madame, Serviteur à vostre Compagnie,
@@ -343,7 +343,7 @@ Cependant comme il faut en ménager l'aveu⁎,
 Je vais pour l'obtenir, me rendre à sa demeure.
 Je vous quitte à regret, & reviens dans une heure.
 
-**** *book_ *id_body-405 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I05 *act_I *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Elles vont toutes deux jaser jusqu'à demain,
@@ -352,7 +352,7 @@ Et je meurs de soif.
 -*who_cato
       Viens dans le Logis.
 
-**** *book_ *id_body-406 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I06 *act_I *date_1672 *creator_montfleury
 
 -*who_angelique
       En vain
@@ -497,7 +497,7 @@ Evitons-le, il pourroit m'aborder.
 -*who_angelique
       J'y consens.
 
-**** *book_ *id_body-407 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I07 *act_I *date_1672 *creator_montfleury
 
 -*who_madame_le_blanc
 Où voulez-vous aller ? Je ne sçay point d'affaire…
@@ -635,7 +635,7 @@ Si…
 -*who_monsieur_le_blanc
       Morbleu, laissez-moy, vous raisonnez toûjours.
 
-**** *book_ *id_body-408 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I08 *act_I *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 De pareils Animaux, la moitié d'une paire,
@@ -648,7 +648,7 @@ Ou si quelque soupçon de mon nouvel amour
 L'a fait, pour m'imiter, servir de ce détour ?
 Mais voicy mon Neveu, je pense qu'il murmure.
 
-**** *book_ *id_body-409 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I09 *act_I *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Qu'avez-vous, Chevalier de la triste Figure⁎?
@@ -820,7 +820,7 @@ Je m'éloigne de vous.
 -*who_monsieur_le_blanc
       Vous ne sçauriez mieux faire.
 
-**** *book_ *id_body-410 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_I10 *act_I *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Cecy n'est pas mon compte, & ce jeune Coquet
@@ -836,7 +836,7 @@ Mais il faut hazarder, si l'on veut estre heureux ;
 Je l'aime, elle le sçait, mes soins l'ont fait connoistre :
 Voyons-la ; Que sçait-on ? je lui plairay peut-estre.
 
-**** *book_ *id_body-501 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II01 *act_II *date_1672 *creator_montfleury
 
 -*who_cato
 Quoy, ce Monsieur le Blanc fait l'amoureux de vous,
@@ -903,7 +903,7 @@ Nous allons le berner, en vous servant tous deux :
 Prenez-vous-en à moy, si vous n'estes contente.
 Mais Damon vient, je pense, avecque sa Parente.
 
-**** *book_ *id_body-502 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II02 *act_II *date_1672 *creator_montfleury
 
 -*who_damon
 Voila ce qui se passe, & ce que l'on résout ;
@@ -942,7 +942,7 @@ Il n'en est pas besoin, car je la voy venir.
 -*who_madame_le_blanc
 On ne peut estre mieux, & j'aurois de la peine…
 
-**** *book_ *id_body-503 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II03 *act_II *date_1672 *creator_montfleury
 
 -*who_angelique
 L' Esperance ? mes Gens ?
@@ -984,7 +984,7 @@ Puis que c'est un moyen de le rendre fidelle.
 -*who_madame_le_blanc
 J'ay promis à Damon de suivre vos avis.
 
-**** *book_ *id_body-504 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II04 *act_II *date_1672 *creator_montfleury
 
 -*who_lucinde
 Qu'est-ce ?
@@ -1010,7 +1010,7 @@ Tout est bien concerté ; je prétens aujourd huy
 Vous donner un plaisir qui n'ait rien qui l'égale.
 Mais je les vois venir, entrons dans cette Salle.
 
-**** *book_ *id_body-505 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II05 *act_II *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Oüy, Madame Cato, vous m'en voyez charmé ;
@@ -1136,7 +1136,7 @@ Au pis aller, Monsieur, il faudra vous cacher.
 Allez, rassurez-vous, je m'en vay la chercher ;
 Si son Frere paroist, cachez-vous, je vous prie.
 
-**** *book_ *id_body-506 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II06 *act_II *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Hé bien va. Tout cecy passe la raillerie ;
@@ -1157,7 +1157,7 @@ Mais si l'on m'y retient, je veux estre berné,
 Car j'en auray la fievre au moins une semaine.
 Ah morbleu, je suis mort, voicy le Capitaine.
 
-**** *book_ *id_body-507 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II07 *act_II *date_1672 *creator_montfleury
 
 -*who_lucinde
 O Dieux ! Monsieur le Blanc, vous estes-vous blessé ?
@@ -1170,7 +1170,7 @@ Ce n'est rien : Mais que fait Monsieur le Capitaine ?
 Je pense qu'il écrit.
       Prends garde qu'il ne vienne.
 
-**** *book_ *id_body-508 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II08 *act_II *date_1672 *creator_montfleury
 
 -*who_lucinde
 Vous voyez jusqu'où va ma tendresse⁎ pour vous,
@@ -1192,7 +1192,7 @@ Et la peur quelquefois met la joy en déroute.
 -*who_lucinde
 Douter de mon amour ? lors que le vostre obtient…
 
-**** *book_ *id_body-509 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II09 *act_II *date_1672 *creator_montfleury
 
 -*who_cato
 Ah Monsieur, cachez-vous, le Capitaine vient.
@@ -1221,7 +1221,7 @@ Où faut-il me cacher ?
 Je me fie à Cato, qui me trahit peut-estre.
 Ecoutons-les sans bruit, je pourray le connoistre.
 
-**** *book_ *id_body-510 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II10 *act_II *date_1672 *creator_montfleury
 
 -*who_angelique
 Cato, je te cherchois, & depuis mon retour
@@ -1364,7 +1364,7 @@ Morbleu, fut-il déjà dans sa Chambre avec elle.
 -*who_angelique
 L'Esperance ?
 
-**** *book_ *id_body-511 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II11 *act_II *date_1672 *creator_montfleury
 
 -*who_l_esperance
       Monsieur ?
@@ -1440,7 +1440,7 @@ Dieu sçait si le Mary… plaist-il⁎, Monsieur ?
       Tay-toy,
 Quelqu'un vient, laisse-nous, c'est elle que je voy.
 
-**** *book_ *id_body-512 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II12 *act_II *date_1672 *creator_montfleury
 
 -*who_cato
 A Vingt pas du Logis, j'ay rencontré Madame.
@@ -1511,7 +1511,7 @@ Cato ?
 -*who_cato
       Monsieur ?
 
-**** *book_ *id_body-513 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II13 *act_II *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
       Voila la Marchande de joye :
@@ -1538,7 +1538,7 @@ Il est plus d'une Femme, & l'on a qu'une vie;
 Il est mutin en diable, & Cato me l'a dit.
 Taisons-nous, attendons qu'elle… J'entens du bruit.
 
-**** *book_ *id_body-514 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II14 *act_II *date_1672 *creator_montfleury
 
 -*who_cato
 Il faut faire sortir nostre Amoureux.
@@ -1618,7 +1618,7 @@ Puis que vous le voulez, adieu, Monsieur.
 -*who_monsieur_le_blanc
       Adieu.
 
-**** *book_ *id_body-515 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_II15 *act_II *date_1672 *creator_montfleury
 
 -*who_cato
 Il meurt de jalousie, & de colere ensemble.
@@ -1626,7 +1626,7 @@ J'ay bien joüé mon rôle ; & voila, ce me semble,
 Pour un commencement, assez bien débuté.
 Allons songer au reste, & rire en liberté.
 
-**** *book_ *id_body-601 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_III01 *act_III *date_1672 *creator_montfleury
 
 -*who_lucinde
 Cato ?
@@ -1747,7 +1747,7 @@ Outre que leur défaite est preste.
 Tay-toy, je l'aperçois, évitons-le, & pour cause.
 Allons dans le Logis préparer chaque chose.
 
-**** *book_ *id_body-602 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_III02 *act_III *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Ma Femme ne vient point, elle se trouve bien,
@@ -1772,7 +1772,7 @@ Leur conseil au besoin…Mais j'aperçoy la Belle,
 Et Monsieur l'Officier n'a plus que faire d'elle :
 Mon Neveu l'accompagne. Il faut dissimuler.
 
-**** *book_ *id_body-603 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_III03 *act_III *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Serviteur.
@@ -1885,7 +1885,7 @@ Mon Oncle…
 -*who_monsieur_le_blanc
       Mon Neveu, vous prenez trop de soin.
 
-**** *book_ *id_body-604 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_III04 *act_III *date_1672 *creator_montfleury
 
 -*who_damon
 On doit pour une Femme avoir quelque scrupule.
@@ -2001,7 +2001,7 @@ Et je sçais un moyen… Serviteur.
 -*who_damon
       Je vous laisse.
 
-**** *book_ *id_body-605 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_III05 *act_III *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Il raisonne assez bien, je puis m'estre trompé,
@@ -2019,7 +2019,7 @@ Et je veux m'éclaircir enfin, quoy qu'il m'en couste;
 Cherchons-la, je prétens, en sortant de ces lieux,
 Que…Mais tout-à-propos elle s'offre à mes yeux.
 
-**** *book_ *id_body-606 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_III06 *act_III *date_1672 *creator_montfleury
 
 -*who_cato
 Je vous ay tant cherché, que j'en suis hors d'haleine :
@@ -2165,7 +2165,7 @@ A son honneur douteux faire amande honorable,
 Et feindre d'un discours, & d'un air composé,
 Pour la mieux abuser, d'estre des-abusé.
 
-**** *book_ *id_body-701 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV01 *act_IV *date_1672 *creator_montfleury
 
 -*who_l_esperance
 A la fin, Dieu mercy, j'ons tout ce qui nous faut,
@@ -2188,7 +2188,7 @@ Le bon Païs que c'est, pour une Garnison !
 Mais ce raisonnement n'est pas fort de saison,
 Allons tout préparer, & faisons diligence.
 
-**** *book_ *id_body-702 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV02 *act_IV *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Ah, Cato, ton Valet.
@@ -2250,7 +2250,7 @@ Va.
 -*who_l_esperance
       Tu n'en es pas quitte. On y va. Serviteur.
 
-**** *book_ *id_body-703 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV03 *act_IV *date_1672 *creator_montfleury
 
 -*who_cato
 Peste du gros lourdaut ! voyez, qu'il prend de peine.
@@ -2262,7 +2262,7 @@ Il nous payera bien la peine qu'il nous donne.
 Le tour qu'on luy prépare est plaisant, sur ma foy ;
 Sa Femme devroit bien venir… Mais je la voy.
 
-**** *book_ *id_body-704 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV04 *act_IV *date_1672 *creator_montfleury
 
 -*who_cato
 Je craignois bien qu'icy vous ne pûssiez vous rendre.
@@ -2390,7 +2390,7 @@ Qu'elle songe à son rôle.
 -*who_madame_le_blanc
       Il suffit, je te laisse.
 
-**** *book_ *id_body-705 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV05 *act_IV *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Comment va nostre affaire ?
@@ -2433,7 +2433,7 @@ Pourray-je luy parler, & veux-tu t'employer…
 -*who_cato
 Oüy, Monsieur, attendez, je vay vous l'envoyer.
 
-**** *book_ *id_body-706 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV06 *act_IV *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Pour finir l'embarras d'un amour qui me gesne⁎,
@@ -2454,7 +2454,7 @@ Et quand on se prévaut de leur simplicité,
 On peut… Mais reprenons un peu de gravité,
 La voicy.
 
-**** *book_ *id_body-707 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV07 *act_IV *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
       Revenu d'une frayeur mortelle,
@@ -2596,7 +2596,7 @@ Je seray moins sans vous que le corps n'est sans ombre :
 Je veux pour le prouver, par des baisers sans nombre,
 Devorer à genoux & ces mains, & ces bras.
 
-**** *book_ *id_body-708 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV08 *act_IV *date_1672 *creator_montfleury
 
 -*who_angelique
 Alte-là, vieux Magot⁎, vous vous baissez trop bas.
@@ -2745,7 +2745,7 @@ Tant-s'en-faut.
 Et pour vous faire voir combien je veux vous plaire ;
 L'Esperance?
 
-**** *book_ *id_body-709 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_IV09 *act_IV *date_1672 *creator_montfleury
 
 -*who_l_esperance
       Monsieur ?
@@ -2936,7 +2936,7 @@ Je suis parbleu ravy que vous soyez des nostres.
 -*who_monsieur_le_blanc
 Fort-bien. Avec le temps nous en verrons bien d'autres.
 
-**** *book_ *id_body-801 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V01 *act_V *date_1672 *creator_montfleury
 
 -*who_damon
 Est-il bien vray, Madame?
@@ -2968,7 +2968,7 @@ Nous en pourrons sçavoir…
 -*who_damon
       Madame, la voicy.
 
-**** *book_ *id_body-802 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V02 *act_V *date_1672 *creator_montfleury
 
 -*who_angelique
 Vous craignez?
@@ -3006,7 +3006,7 @@ Il m'en souvient, Madame, et j'en fais mon affaire.
 Cato secondera vos soins. Quant à l'effet…
 L'Espérance paroist, sçachons ce qu'il a fait.
 
-**** *book_ *id_body-803 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V03 *act_V *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Ce que j'ons fait? Morgué, j'avons fait des merveilles:
@@ -3064,7 +3064,7 @@ Commençons.
       Je l'entends, il a fait bande à part.
 Si vous voulez bien rire, écoutez-le à l'écart.
 
-**** *book_ *id_body-804 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V04 *act_V *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Quel équipage⁎, helas! ma peine est sans seconde;
@@ -3088,7 +3088,7 @@ D'aller en Garnison en bonne compagnie.
 Si je trouvois moyen de sortir de ceans⁎….
 Mais j'aperçoy Cato, prenons mieux nostre temps.
 
-**** *book_ *id_body-805 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V05 *act_V *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Elle pleure, je croy. Qu'as-tu, ma Chere? écoute;
@@ -3196,7 +3196,7 @@ Va…
 Je risque tout pour vous; Je vais querir la Belle;
 Quand vous nous entendrez, éteignez la chandelle.
 
-**** *book_ *id_body-806 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V06 *act_V *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Mieux que je n'esperois, mes soins ont reüssy,
@@ -3205,7 +3205,7 @@ Il vaut mieux, à mon sens, quelque soin qu'il en coûte,
 Estre seur une fois, qu'estre toûjours en doute ;
 Cet éclaircissement peut-estre produira…
 
-**** *book_ *id_body-807 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V07 *act_V *date_1672 *creator_montfleury
 
 -*who_l_esperance
 Eh, la Roze?
@@ -3265,13 +3265,13 @@ Je m'en vay boire un coup en attendant.
 -*who_monsieur_le_blanc
       Allez.
 
-**** *book_ *id_body-808 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V08 *act_V *date_1672 *creator_montfleury
 
 -*who_monsieur_le_blanc
 Sans argent, mille coups relançoient ma prière.
 J'entens venir quelqu'un, éteignons la lumière.
 
-**** *book_ *id_body-809 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V09 *act_V *date_1672 *creator_montfleury
 
 -*who_cato
 Monsieur, voilà Madame.
@@ -3335,7 +3335,7 @@ Le voila cet Epoux.
 -*who_madame_le_blanc
       Au secours.
 
-**** *book_ *id_body-810 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V10 *act_V *date_1672 *creator_montfleury
 
 -*who_cato
       Au secours,
@@ -3348,7 +3348,7 @@ Estes-vous fou, Monsieur?
 -*who_cato
 Vous, insulter ceans⁎ une Femme d'honneur?
 
-**** *book_ *id_body-811 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V11 *act_V *date_1672 *creator_montfleury
 
 -*who_damon
 Qui cause un tel desordre en ce Logis?
@@ -3436,7 +3436,7 @@ Je m'en vais luy parler.
       N'en prenez pas la peine,
 Je le vais avertir.
 
-**** *book_ *id_body-812 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V12 *act_V *date_1672 *creator_montfleury
 
 -*who_damon
       L'auriez-vous insulté?
@@ -3445,7 +3445,7 @@ Je le vais avertir.
 Jamais: Mais vous sçaurez que ce jeune éventé…
 Le voicy, vous allez en sçavoir davantage.
 
-**** *book_ *id_body-813 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V13 *act_V *date_1672 *creator_montfleury
 
 -*who_angelique
 Je suis faché, voulant me vanger d'un outrage,
@@ -3598,7 +3598,7 @@ Qu'en dites-vous?
 -*who_damon
       Je croy que c'est elle en effet.
 
-**** *book_ *id_body-814 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V14 *act_V *date_1672 *creator_montfleury
 
 -*who_angelique
 Permettez qu'à leurs yeux, quelque soin qui les touche,
@@ -3664,7 +3664,7 @@ Il n'en est pas besoin, voila vostre Garent.
 -*who_monsieur_le_blanc
 Songeons à son repos⁎, pour celuy qu'il me rend.
 
-**** *book_ *id_body-815 *act_ *date_1672 *creator_montfleury
+**** *book_ *id_V15 *act_V *date_1672 *creator_montfleury
 
 -*who_lucinde
 Mon Frere est arrivé, nous voila hors de peine.

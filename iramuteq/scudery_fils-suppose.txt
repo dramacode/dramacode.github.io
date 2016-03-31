@@ -35,13 +35,13 @@ Tout mon soing⁎ n'en a pû voir qu'une fort legere, dont je te donne advis; c'
 Extraict du Privilege du Roy.
 
 Par grace et Privilege du Roy: Donné à Paris le deuxiesme jour d'Avril mil six cens trente-six.
-Il est permis à Augustin Courbé, Marchand Libraire à Paris, d'Imprimer, vendre et distribuer un Livre intitulé, Le Fils Supposé, Comedie, Composée par Monsieur De Scudery: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu'ils soient, d'imprimer, vendre ny distribuer dudit Livre, d'autre Impression que celle qu'aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d'amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu'il est plus amplemens porté par lesdites Lettres de Privilege.
+Il est permis à Augustin Courbé, Marchand Libraire à Paris, d'Imprimer, vendre et distribuer un Livre intitulé, Le Fils Supposé, Comedie, Composée par MonsieurDe Scudery: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu'ils soient, d'imprimer, vendre ny distribuer dudit Livre, d'autre Impression que celle qu'aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d'amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu'il est plus amplemens porté par lesdites Lettres de Privilege.
 
 Par le Roy en son Conseil,
 
 Signé, CONRAR.
 
-**** *book_ *id_body-501 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I01 *act_I *date_1636 *creator_scudery
 
 -*who_rosandre
 Ha ! ne contestez plus; laissez vous enflamer;
@@ -203,7 +203,7 @@ Dont un autre a desja le laurier sur la teste.
 
 ACTE I.
 
-**** *book_ *id_body-502 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I02 *act_I *date_1636 *creator_scudery
 
 -*who_oronte
 Ha ! Monsieur escoutez, au moins auparavant:
@@ -293,7 +293,7 @@ O remede sanglant, que tu m'es necessaire ?
 
 ACTE I.
 
-**** *book_ *id_body-503 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I03 *act_I *date_1636 *creator_scudery
 
 -*who_almedor
 Cher Rosandre, aussi tost qu'on nous eut separez,
@@ -400,7 +400,7 @@ Adieu, puisse le Ciel, nos travaux⁎ couronner.
 
 ACTE I.
 
-**** *book_ *id_body-504 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I04 *act_I *date_1636 *creator_scudery
 
 -*who_philante
 Et quoy chere Belise, en augmentant mes peines,
@@ -475,7 +475,7 @@ Trouve-t'il pas en vous de quoy la contenter ?
 
 ACTE I.
 
-**** *book_ *id_body-505 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I05 *act_I *date_1636 *creator_scudery
 
 -*who_clorian
 Une affaire pressee, au logis vous demande:
@@ -512,7 +512,7 @@ Je veux que ton esprit soit de ma confidence;
 
 ACTE I.
 
-**** *book_ *id_body-506 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I06 *act_I *date_1636 *creator_scudery
 
 -*who_doriste
 Gouvernez tous les deux avecques la prudence:
@@ -521,7 +521,7 @@ Mais si vous commandez, c'est à luy d'obeïr.
 
 ACTE I.
 
-**** *book_ *id_body-507 *act_ *date_1636 *creator_scudery
+**** *book_ *id_I07 *act_I *date_1636 *creator_scudery
 
 -*who_clorian
 Ma sœur, je suis fasché que vostre retenuë,
@@ -563,7 +563,7 @@ L'esclair assez souvent est suivy de la foudre:
 Mais tousjours le bon-heur, sauve de ces hazards,
 Les mirthes de l'Amour, et les lauriers de Mars.
 
-**** *book_ *id_body-601 *act_ *date_1636 *creator_scudery
+**** *book_ *id_II01 *act_II *date_1636 *creator_scudery
 
 -*who_luciane
 STANCES.
@@ -617,7 +617,7 @@ Sa tristesse me dit qu'il sçait nostre infortune⁎.
 
 ACTE II.
 
-**** *book_ *id_body-602 *act_ *date_1636 *creator_scudery
+**** *book_ *id_II02 *act_II *date_1636 *creator_scudery
 
 -*who_oronte
 Et bien mon cœur ? souffrez⁎, pour charmer mon soucy,
@@ -749,7 +749,7 @@ Je me mocque de tout, et je ne crains plus rien.
 
 ACTE II.
 
-**** *book_ *id_body-603 *act_ *date_1636 *creator_scudery
+**** *book_ *id_II03 *act_II *date_1636 *creator_scudery
 
 -*who_belise
 Doriste, à quel mal-heur me trouvay je reduite ?
@@ -845,7 +845,7 @@ Pour terminer sa crainte, en terminant la mienne.
 
 ACTE II.
 
-**** *book_ *id_body-604 *act_ *date_1636 *creator_scudery
+**** *book_ *id_II04 *act_II *date_1636 *creator_scudery
 
 -*who_clorian
 Que ne peut-on forcer avecques la douceur !
@@ -865,7 +865,7 @@ Allons rompre ses fers afin de l'embrasser.
 
 ACTE II.
 
-**** *book_ *id_body-605 *act_ *date_1636 *creator_scudery
+**** *book_ *id_II05 *act_II *date_1636 *creator_scudery
 
 -*who_philante
 Sejour des mal-heureux; effroyable demeure;
@@ -885,7 +885,7 @@ Mais voicy le cruel⁎ qui me force à me taire.
 
 ACTE II.
 
-**** *book_ *id_body-606 *act_ *date_1636 *creator_scudery
+**** *book_ *id_II06 *act_II *date_1636 *creator_scudery
 
 -*who_clorian
 Persistez vous tousjours, en ce mauvais dessein⁎ ?
@@ -923,7 +923,7 @@ Mon oreille me trompe aussi bien que mes yeux !
 -*who_clorian
 Ha ! tirons la vertu de ces infames lieux.
 
-**** *book_ *id_body-701 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III01 *act_III *date_1636 *creator_scudery
 
 -*who_philante
 Villanelle.
@@ -1007,7 +1007,7 @@ Releve avant ma mort, mon courage abatu.
 
 ACTE III.
 
-**** *book_ *id_body-702 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III02 *act_III *date_1636 *creator_scudery
 
 -*who_clorian
 Mon frere, tout va bien; mes gens viennent d'apprendre,
@@ -1039,7 +1039,7 @@ Ce discours nous amuse, et j'y voudrois voler.
 
 ACTE III.
 
-**** *book_ *id_body-703 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III03 *act_III *date_1636 *creator_scudery
 
 -*who_almedor
 Plus je te voy, mon fils, et plus en ma pensee,
@@ -1127,7 +1127,7 @@ Ce qu'en cét accident je viens de projecter.
 
 ACTE III.
 
-**** *book_ *id_body-704 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III04 *act_III *date_1636 *creator_scudery
 
 -*who_oronte
 Qu'importe à mon esprit si Rosandre s'offence,
@@ -1146,7 +1146,7 @@ Mais sans perdre⁎ le temps, allons voir nostre gloire⁎;
 Et recueillir les fruicts d'une belle victoire.
 ACTE III.
 
-**** *book_ *id_body-705 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III05 *act_III *date_1636 *creator_scudery
 
 -*who_almedor
 En fin ce serviteur si long temps attendu,
@@ -1181,7 +1181,7 @@ Ma fille... .
 
 ACTE III.
 
-**** *book_ *id_body-706 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III06 *act_III *date_1636 *creator_scudery
 
 -*who_belise
       Sans user de puissance absoluë;
@@ -1244,7 +1244,7 @@ Souffrez⁎ que je luy donne un peu de jalousie.
 
 ACTE III.
 
-**** *book_ *id_body-707 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III07 *act_III *date_1636 *creator_scudery
 
 -*who_oronte
 Rompant vostre entretien⁎, je crains d'estre indiscret.
@@ -1292,7 +1292,7 @@ Vous ne veistes le Roy, qu'en ce lieu-là sans doute:
 
 ACTE III.
 
-**** *book_ *id_body-708 *act_ *date_1636 *creator_scudery
+**** *book_ *id_III08 *act_III *date_1636 *creator_scudery
 
 -*who_rosandre
 Luciane,
@@ -1340,7 +1340,7 @@ Le conseil de l'honneur⁎, et celuy du courage;
 Qu'il meure; mais qu'il meure, en deffendant un bien,
 Que m'oste la fortune⁎, et que l'Amour fit mien.
 
-**** *book_ *id_body-801 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV01 *act_IV *date_1636 *creator_scudery
 
 -*who_belise
 Que vostre esprit adroit, sçait habillement feindre !
@@ -1442,7 +1442,7 @@ Un Ange tutelaire inspire ce discours.
 
 ACTE IV.
 
-**** *book_ *id_body-802 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV02 *act_IV *date_1636 *creator_scudery
 
 -*who_oronte
 Braside, cher amy, mon amour vous conjure,
@@ -1501,7 +1501,7 @@ Sçait blesser de la main aussi bien que des yeux.
 
 ACTE IV.
 
-**** *book_ *id_body-803 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV03 *act_IV *date_1636 *creator_scudery
 
 -*who_doriste
 Miserable Doriste, en quelle solitude,
@@ -1523,7 +1523,7 @@ Tout ce qu'il te demande est une prompte mort.
 
 ACTE IV.
 
-**** *book_ *id_body-804 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV04 *act_IV *date_1636 *creator_scudery
 
 -*who_philante
 N'auray-je point bien-tost le bon-heur que j'espere ?
@@ -1575,7 +1575,7 @@ Nous en ferons nous deux;
 
 ACTE IV.
 
-**** *book_ *id_body-805 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV05 *act_IV *date_1636 *creator_scudery
 
 -*who_almedor
 Ne remarquez vous pas comme ce beau visage,
@@ -1619,7 +1619,7 @@ Nos voeus s'accompliront ainsi que leurs desirs,
 
 ACTE IV.
 
-**** *book_ *id_body-806 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV06 *act_IV *date_1636 *creator_scudery
 
 -*who_oronte
 STANCES.
@@ -1682,7 +1682,7 @@ Voicy nos ennemis, et j'apperçoy Braside.
 
 ACTE IV.
 
-**** *book_ *id_body-807 *act_ *date_1636 *creator_scudery
+**** *book_ *id_IV07 *act_IV *date_1636 *creator_scudery
 
 -*who_braside
 Oronte est en estat de fort homme de bien;
@@ -1802,7 +1802,7 @@ Qu'Oronte chasse donc cette crainte importune;
 Loing d'estre son Rival je suis son serviteur;
 Mais sans perdre⁎ le temps voyons cét imposteur.
 
-**** *book_ *id_body-901 *act_ *date_1636 *creator_scudery
+**** *book_ *id_V01 *act_V *date_1636 *creator_scudery
 
 -*who_belise
 STANCES.
@@ -1860,7 +1860,7 @@ Ce que je cherche en vain dans mon invention ?
 
 ACTE V.
 
-**** *book_ *id_body-902 *act_ *date_1636 *creator_scudery
+**** *book_ *id_V02 *act_V *date_1636 *creator_scudery
 
 -*who_luciane
 Helas chere Belise ! il ne m'est pas possible,
@@ -1914,7 +1914,7 @@ Favoriser en nous l'amour et l'amitié⁎.
 
 ACTE V.
 
-**** *book_ *id_body-903 *act_ *date_1636 *creator_scudery
+**** *book_ *id_V03 *act_V *date_1636 *creator_scudery
 
 -*who_rosandre
 Ha monsieur on nous trompe, et cette belle flame,
@@ -1983,7 +1983,7 @@ Mais que veulent ces gens que j'apperçoy venir ?
 
 ACTE V.
 
-**** *book_ *id_body-904 *act_ *date_1636 *creator_scudery
+**** *book_ *id_V04 *act_V *date_1636 *creator_scudery
 
 -*who_philante
 Voyons ce beau Philante;
@@ -2129,7 +2129,7 @@ Viens deffendre ton droict, et le faire punir.
 
 ACTE V.
 
-**** *book_ *id_body-905 *act_ *date_1636 *creator_scudery
+**** *book_ *id_V05 *act_V *date_1636 *creator_scudery
 
 -*who_belise
 O Dieu !

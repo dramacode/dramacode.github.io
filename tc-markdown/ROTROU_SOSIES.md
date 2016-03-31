@@ -122,8 +122,8 @@ Qu'il achèvera plus, que je ne délibère,
 Et que par ses exploits, il prouvera son père,  
 Mais que des enfers même, il sorte glorieux,  
 Que second Encelade il attaque les Cieux,  
-Et mette la frayeur au sein du Dieu de Thrace ;  
-........................................ [1]  
+Et mette la frayeur au sein du Dieu de Thrace ;   [1]
+........................................  
 Mon seul ressentiment, ma seule passion,  
 Saura bien triompher de son ambition,  
 D'autres armes manquant à ma fureur extrême,  
@@ -134,8 +134,8 @@ Je veux qu'il ait ensemble, et la gloire, et la honte,
 Qu'au rang de ses vaincus, quelque jour on le compte,  
 S'il triomphe de tout, et si pour son trépas  
 Tout autre est impuissant, il ne le sera pas ;  
-Lui-même, contre lui, servira ma colère,  
-Mieux qu'hydre, que serpents, que lion, que Cerbère, [2]  
+Lui-même, contre lui, servira ma colère,   [2]
+Mieux qu'hydre, que serpents, que lion, que Cerbère,  
 Et ne laissera pas à la Postérité,  
 L'audace d'attenter, à la divinité.  
 
@@ -172,8 +172,8 @@ Que s'ignorant soi-même, il s'éloigne d'ici.
 
 ## SCÈNE II.
 
-    SOSIE, SEUL, UNE LANTERNE À LA MAIN.
-Quelle témérité pareille à mon audace, [3]  
+    SOSIE, SEUL, UNE LANTERNE À LA MAIN. [3]
+Quelle témérité pareille à mon audace,  
 Pourrait entrer au sein du Dieu même de Thrace ?  
 À quelle complaisance un serf est-il réduit,  
 Qu'il faille marcher seul, à telle heure de nuit ?  
@@ -183,8 +183,8 @@ Mon innocence alors, veuve de tout secours
 Emploiera vainement, et raison, et discours ;  
 Ces gens pour mon malheur trop pleins de courtoisie,  
 Me voudront recevoir contre ma fantaisie,  
-Et croyant me traiter bien honorablement  
-De la maison du Roi, feront mon logement. [4]  
+Et croyant me traiter bien honorablement   [4]
+De la maison du Roi, feront mon logement.  
 Le plaisir de mon maître à ce malheur m'expose,  
 Son imprudence ainsi de mes heures dispose,  
 À ses commandements le jour ne suffit pas,  
@@ -211,8 +211,8 @@ Tous ont exécuté, plus qu'ils n'avaient promis,
 Chaque coup, mettait bas un de nos ennemis,  
 Et mon maître à nous voir les destins si propices,  
 A douté, si des Dieux marchaient sous ses auspices.  
-Des rebelles enfin, l'espérance est à bas,  
-Créon est rétabli dedans tous ses états, [5]  
+Des rebelles enfin, l'espérance est à bas,   [5]
+Créon est rétabli dedans tous ses états,  
 Et mon maître vainqueur, m'envoie à ma maîtresse,  
 Annoncer cette heureuse, et commune allégresse.  
 
@@ -248,8 +248,8 @@ Madame, Amphitryon (arrivés que nous sommes)
 Entre les principaux, a fait choix de deux hommes,  
 Gens de coeur, et zélés sur tous les Citoyens,  
 Pour envoyer d'abord, vers les Téléboyens ;  
-Tous deux, partent du Camp, avec ordre d'apprendre,  
-Si Ptérèle prétend, ou se perdre, ou se rendre, [6]  
+Tous deux, partent du Camp, avec ordre d'apprendre,   [6]
+Si Ptérèle prétend, ou se perdre, ou se rendre,  
 S'il veut par son devoir se procurer la paix :  
 Ou s'il veut, que du bruit, nous passions aux effets.  
 Mais en lui, ces hérauts trouvent une âme altière,  
@@ -558,8 +558,8 @@ On t'appelle.
     SOSIE.
     Sosie.  
 
-    MERCURE.
-        À ton dam, misérable, [7]  
+    MERCURE. [7]
+        À ton dam, misérable,  
 Tu viens si prestement, de forger cette fable ;  
 De cette invention cent coups seront le prix.  
 Il le bat.
@@ -902,8 +902,8 @@ On nous donne à bon prix, toutes ces qualités,
 Défiances, soupçons, coups, injures, menaces,  
 Le servage est l'objet, de toutes ces disgrâces.  
 
-    AMPHITRYON.
-Tu murmures pendard ? [8]  
+    AMPHITRYON. [8]
+Tu murmures pendard ?  
 
     SOSIE.
         Et pour dernier malheur,  
@@ -1163,8 +1163,8 @@ J'ignore quelle fin son retour se propose,
 Mais je bénis l'effet, quelle qu'en soit la cause.  
 
     AMPHITRYON, L'ABORDANT.
-Le Ciel te rie, Alcmène, et soient bénis les Dieux,  
-Dont le soin provident, me ramène en ces lieux. [9]  
+Le Ciel te rie, Alcmène, et soient bénis les Dieux,   [9]
+Dont le soin provident, me ramène en ces lieux.  
 Viens-je aussi désiré, que je te suis fidèle ?  
 Et t'es-tu conservée, aussi saine, que belle ?  
 
@@ -1308,8 +1308,8 @@ Je ne me connais plus, moi-même je m'ignore.
 De quoi puis-je tenir, sinon de votre voix,  
 L'agréable récit du fruit de vos exploits,  
 Incomparable ardeur de ces foudres de guerre,  
-Qui semblent être nés, pour conquérir la terre,  
-La prise de Télèbe, et le triste destin [10]  
+Qui semblent être nés, pour conquérir la terre,   [10]
+La prise de Télèbe, et le triste destin  
 Qui renversa l'orgueil de ce peuple mutin ;  
 Votre duel, enfin, et la mort de Ptérèle,  
 De qui, sinon de vous, tiens-je cette nouvelle ?  
@@ -1455,8 +1455,8 @@ Je vous vais tout conter, je ne m'en défends point.
 Hier au point que la nuit tendait ses sombres voiles,  
 Et qu'on voyait au ciel les premières étoiles.  
 
-    AMPHITRYON.
-Après. [11]  
+    AMPHITRYON. [11]
+Après.  
 
     ALCMÈNE.
         Je vous tendis les bras.  
@@ -1937,30 +1937,30 @@ Doit forcer tout obstacle, et tout empêchement ;
 Ce soin m'a fait quitter une réjouissance,  
 Par qui les dieux, d'un Dieu célèbrent la naissance,  
 Car Hercule va naître, et par un ordre exprès,  
-Tous les Dieux en font fête, et boivent à longs traits ;  
-Ô ! Comme le nectar s'avale à tasse pleine ; [12]  
-Bacchus, le bon ivrogne, en a perdu l'haleine ! [13]  
-Mome, à force de boire a cessé de railler, [14]  
-Et pressé du sommeil, ne fait plus que bailler ; [15]  
+Tous les Dieux en font fête, et boivent à longs traits ;   [12]
+Ô ! Comme le nectar s'avale à tasse pleine ;   [13]
+Bacchus, le bon ivrogne, en a perdu l'haleine !   [14]
+Mome, à force de boire a cessé de railler,   [15]
+Et pressé du sommeil, ne fait plus que bailler ;  
 Mars, voit, (pris comme il est) des troupes d'Encelades,  
 Qui dans le ciel encor, dressent des escalades,  
 Et de son coutelas, son ombre poursuivant,  
-Au grand plaisir de tous, se bat contre du vent ;  
-Vulcain, ce vieux jaloux, plein jusques à la gorge, [16] [17]  
+Au grand plaisir de tous, se bat contre du vent ;   [16] [17]
+Vulcain, ce vieux jaloux, plein jusques à la gorge,  
 Souffle un air aussi chaud, que celui de sa forge ;  
-Saturne le bon père, en a jusques aux yeux,  
-Pallas même, et Vénus, trinquant à qui mieux, mieux [18]  
+Saturne le bon père, en a jusques aux yeux,   [18]
+Pallas même, et Vénus, trinquant à qui mieux, mieux  
 Noient le souvenir de leur vieille querelle,  
-Dedans cette liqueur, aux Dieux si naturelle.  
-Junon seule, bouffie, et de haine, et d'orgueil, [19]  
+Dedans cette liqueur, aux Dieux si naturelle.   [19]
+Junon seule, bouffie, et de haine, et d'orgueil,  
 Lorsque je suis entré, m'a fait un triste accueil,  
 Se promène à grands pas, un peu loin de la troupe,  
 Et contre sa coutume, a refusé la coupe.  
 Ainsi, la jalousie, a jusques dans le ciel,  
 Dégorgé son poison, et répandu son fiel ;  
 Mais la laissant enfin, avecque sa colère,  
-J'ai voulu, comme un autre honorer le mystère,  
-Ganimède y faisait l'honneur de la maison, [20]  
+J'ai voulu, comme un autre honorer le mystère,   [20]
+Ganimède y faisait l'honneur de la maison,  
 Et m'apportait déjà, la dixième raison,  
 Quand la voix de mon père a parti de la terre ;  
 Cette voix, de ma main a fait tomber le verre,  
@@ -2076,8 +2076,8 @@ Mais rien ne me succède, et sa recherche est vaine,
 Ma seule lassitude est le fruit de ma peine ;  
 Je trouve tout changé, tout est ici confus,  
 On s'y perd, on s'y double, on ne s'y connaît plus ;  
-Cet importun destin, qui brouille toutes choses,  
-Aura mêlé Naucrate, en ces métamorphoses, [21]  
+Cet importun destin, qui brouille toutes choses,   [21]
+Aura mêlé Naucrate, en ces métamorphoses,  
 Nous sommes deux doublés, celui-là s'est perdu,  
 Quand notre état premier, nous sera-t-il rendu,  
 Quand se termineront ces changements étranges,  
@@ -2709,8 +2709,8 @@ Exerce ta valeur, ailleurs qu'à te détruire,
 Veuille, en d'autres plutôt, encore te reproduire,  
 Tous deux épargnez-vous, calmez cette fureur,  
 Je conçois le moyen de nous tirer d'erreur,  
-Vous, parlez le premier. Le jour de la victoire,  
-Qui sur les Taphiens, nous acquit tant de gloire, [22]  
+Vous, parlez le premier. Le jour de la victoire,   [22]
+Qui sur les Taphiens, nous acquit tant de gloire,  
 De quoi, de votre part, reçus-je un ordre exprès.  
 
     AMPHITRYON.
@@ -2913,8 +2913,8 @@ Souffre que le devoir, après l'amour s'acquitte,
 Et que je rende au Roi, ma première visite.  
 Adieu, conserve-toi, pour ce fruit précieux,  
 Qui va naître à la terre, à la honte des Cieux,  
-Et dont j'ose prédire (et non sans connaissance,)  
-Que Jupin, sera cru l'Auteur de sa naissance, [23]  
+Et dont j'ose prédire (et non sans connaissance,)   [23]
+Que Jupin, sera cru l'Auteur de sa naissance,  
 Et qu'un jour, ses exploits les moins laborieux,  
 Ne lui devront pas moins, qu'un rang entre les Dieux.  
 
@@ -2979,8 +2979,8 @@ Mais, de quelle furie, il revient sur ses pas ?
 Voyez à quel souci mon malheur vous oblige ?  
 Quelle étrange aventure égale ce prodige ?  
 Lorsque victorieux des ennemis du Roi  
-J'apporte ici la paix, j'ai la guerre chez moi.  
-L'ennemi que je cherche au rivage Euboïque, [24]  
+J'apporte ici la paix, j'ai la guerre chez moi.   [24]
+L'ennemi que je cherche au rivage Euboïque,  
 Me cherche chez moi-même, et s'y rend domestique,  
 La révolte, ce monstre à mes coups endurci,  
 Me devance au retour, je la retrouve ici.  

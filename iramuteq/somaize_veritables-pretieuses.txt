@@ -25,16 +25,16 @@ Mais c'est assez parler des Pretieuses Ridicules, il est temps de dire un mot de
 
 Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Sçavoir, pourquoy je fais que mes Acteurs parlent tantost en insencez, & tantost en gens tout à fait raisonnables ; Mais qui examinera bien les Personnages qu'ils representent, discernera aisement que ce qu'ils disent de juste, c'est seulement par oüy dire, & qu'en ce qu'ils disent d'eux-mesmes ils ne démentent point leurs caracteres.
 
-**** *book_ *id_body-401 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I01 *act_I *date_1660 *creator_somaize
 
 -*who_iscarie
 Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente.
-Allez luy dire que je suis dans le dernier emportement⁎ de ne la point voir.
+Allez luy dire que je suis dans le dernieremportement⁎ de ne la point voir.
 
 -*who_isabelle
 Je vais vous obeïr Madame, mais la voicy qui vient.
 
-**** *book_ *id_body-402 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I02 *act_I *date_1660 *creator_somaize
 
 -*who_iscarie
 Vrayment ma chere je suis en humeur de pousser⁎ le dernier rudea contre vous, vous n'avez guere d'exactitude dans vos promesses, le temps a desja marqué deux pasb depuis que je vous attends.
@@ -75,7 +75,7 @@ Ah ! ma chere, vous faites trop de despence en beaux discoursn pour me dauber s
 Ce que vous me dites là est du dernier obligeant⁎ ; mais si vous voulez que je vous donne un quart d'heure de divertissement, entrons dans mon cabinet je vous feray voir un innocentq que l'on m'a envoyé ; dont l'encombrement du stil, est capable de faire changer l'assiette de vostre ame.
 (q Poulet)
 
-**** *book_ *id_body-403 *act_ *date_1660 *creator_somaize 
+**** *book_ *id_I03 *act_I *date_1660 *creator_somaize 
 
 -*who_beatrix
 Dites moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n'entends⁎ point ce jargon & s'il faut qu'elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage & de nous remettre à l'abc.
@@ -131,7 +131,7 @@ Ah ! je vais bien vous monstrer...... mais voicy Flanquin, le Pretieux.
 Quoy ! le valet du Baron de la Taupiniere, qui vous fait les doux yeux, est donc aussi de ce nombre.
 Vraiment il merite qu'on l'escoute & c'est une chose assez divertissante à mon avis, que d'entendre un valet parler pretieux.
 
-**** *book_ *id_body-404 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I04 *act_I *date_1660 *creator_somaize
 
 -*who_flanquin
 Ah ! ma chere, ma toute aymable, que je suis heureux de vous voir.
@@ -177,7 +177,7 @@ Quoy ; point de quartier ny de treve, tou-/ /sjours, cette juppe modeste m'empe
 (u Cette juppe de dessus m'empeschera de voir celle de dessous)
 
 -*who_beatrix
-Ce n'est pas une petite joye de voir un valet pretieux faire l'amour⁎ .
+Ce n'est pas une petite joye de voir un valet pretieux faire l'amour⁎.
 
 -*who_isabelle
 Vraiment vous estes aujourd'huy sus vostre grand fecond.
@@ -212,7 +212,7 @@ Adieu beau Pretieux.
 -*who_flanquin
 Adieu l'hetheroclite du beau langage.
 
-**** *book_ *id_body-405 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I05 *act_I *date_1660 *creator_somaize
 
 -*who_artemise
 Quelle pauvreté ma chere, il n'y a pas une chose raisonnable là dedans !
@@ -251,7 +251,7 @@ Elle brave avecque eux les plus rapides langues,
 Et leurs seuls branslemens⁎ composent son caquet.
 Pour moy, je suis pour ces sortes de vers qui s'esloignent du vulgaire⁎ ; mais nous contemplerons le reste à loisir : car voicy Monsieur le Baron.
 
-**** *book_ *id_body-406 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I06 *act_I *date_1660 *creator_somaize
 
 -*who_le_baron
 Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l'extrait de l'esprit humain.d
@@ -363,7 +363,7 @@ On fait parler le muët,l sans doute le voicy.
 Ouy c'est luy mesme que Flanquin ameine.
 (l On heurte.)
 
-**** *book_ *id_body-407 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I07 *act_I *date_1660 *creator_somaize
 
 -*who_le_poete
 Ah ! vrayment Monsieur, je feray chanter à ma Callioppe en vers bien montez, & d'une veine bien guindée, les remerciemens que je vous dois de l'heureuse & inesperée connoissance que vous me pro-/ /curez de ces deux divinitez charmeresses dont les beaux yeux vont esclairer mon esprit & embraser mon uranie, d'un feu plus devorant, que n'est celuy de ce mont si renommé dans la Sicile, où le vieux Boiteux tenoit jadis sa forge, & bien plus endoctrinant que celuy qu'Appollon inspire aux neuf sœurs.
@@ -503,7 +503,7 @@ Pour moy, cela m'enleve jusques au troisiesme ciel.
 -*who_le_poete
 Je m'en vais donc commancer.
 
-**** *book_ *id_body-408 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I08 *act_I *date_1660 *creator_somaize
 
 -*who_lusse_tu_cru
 Jamais l'hidre⁎ fecond en mille & mille testes,
@@ -577,7 +577,7 @@ Sans mon escoulement de nezp je les aurois leus d'un ton bien plus fortifié.
 -*who_flanquin
 Elles donnent dans le paneau.
 
-**** *book_ *id_body-409 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I09 *act_I *date_1660 *creator_somaize
 
 -*who_isabelle
 Madame, voila Monsieur de Greval qui vient.

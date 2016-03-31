@@ -33,7 +33,7 @@ Achevé d'imprimer pour la premiere fois le premier Avril 1697.
 
 Le prix est vingt sols.
 
-**** *book_ *id_body-401 *act_ *date_1697 *creator_pradon
+**** *book_ *id_I01 *act_I *date_1697 *creator_pradon
 
 -*who_lepide
 Seigneur, en attendant que Scipion vous voye,
@@ -126,7 +126,7 @@ Mais, Seigneur, Erixene en ce lieu doit venir,
 Scipion luy permet de vous entretenir,
 Je vois qu'elle s'avance, & vous laisse avecque elle.
 
-**** *book_ *id_body-402 *act_ *date_1697 *creator_pradon
+**** *book_ *id_I02 *act_I *date_1697 *creator_pradon
 
 -*who_erixene
 On nous vient d'annoncer une grande nouvelle,
@@ -208,7 +208,7 @@ Et du moins je voudrois pour flater⁎ ma fierté⁎,
 Que l'heureuse Erixene eût part à ce traité.
 Adieu, Scipion vient, & vous allez l'entendre.
 
-**** *book_ *id_body-403 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_I03 *act_I *date_1697 *creator_pradon 
 
 -*who_scipion
 Est-il donc vray, Seigneur, ce qu'on vient de m'apprendre,
@@ -285,7 +285,7 @@ Je me fais un plaisir de le voir, de l'entendre,
 Mais pressez l'entreveuë où j'ay dû consentir,
 Et voyez Isperie avant que de partir.
 
-**** *book_ *id_body-404 *act_ *date_1697 *creator_pradon
+**** *book_ *id_I04 *act_I *date_1697 *creator_pradon
 
 -*who_scipion
 Lepide, que crois-tu de cette conference
@@ -460,7 +460,7 @@ Je veux sonder son cœur, je veux estre éclaircy
 Des secretes raisons qui l'amenent icy.
 Fin du premier Acte.
 
-**** *book_ *id_body-501 *act_ *date_1697 *creator_pradon
+**** *book_ *id_II01 *act_II *date_1697 *creator_pradon
 
 -*who_isperie
 Languirais⁎-je toujours en des craintes mortelles⁎ ?
@@ -540,7 +540,7 @@ Ce penser contre luy me revolte, m'indigne,
 Et s'il manque d'amour en sera-t-il plus digne ?
 Mais que vois-je ? est-ce luy ? grands Dieux !…
 
-**** *book_ *id_body-502 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_II02 *act_II *date_1697 *creator_pradon 
 
 -*who_lucejus
       N'en doutez plus,
@@ -670,7 +670,7 @@ Vous partirez.
       Seigneur, je promets de vous suivre,
 Et même de mourir si vous cessez de vivre.
 
-**** *book_ *id_body-503 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_II03 *act_II *date_1697 *creator_pradon 
 
 -*who_isperie
 A present je respire ! il a rempli mes vœux,
@@ -689,7 +689,7 @@ C'est ma seule esperance en cette occasion,
 Et sur tout portez-y le cœur de Scipion :
 Il vient, que me veut-il ?
 
-**** *book_ *id_body-504 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_II04 *act_II *date_1697 *creator_pradon 
 
 -*who_scipion
       Je vous cherchois, Madame ;
@@ -832,7 +832,7 @@ Mais vous voulez de Rome achever la vangeance.
 Achevez-la, Seigneur, mais du moins le trépas,
 Au defaut de la paix ne nous manquera pas.
 
-**** *book_ *id_body-505 *act_ *date_1697 *creator_pradon
+**** *book_ *id_II05 *act_II *date_1697 *creator_pradon
 
 -*who_scipion
 Et le sort⁎, juste Ciel ! & les yeux pleins de larmes
@@ -869,7 +869,7 @@ Tout le veut, la raison, la gloire, l'équité,
 Il faut par d'autres fers me mettre en liberté.
 Fin du second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1697 *creator_pradon
+**** *book_ *id_III01 *act_III *date_1697 *creator_pradon
 
 -*who_barce
 Tandis que Scipion fait ranger son armée,
@@ -960,7 +960,7 @@ Et moy, j'aime un ingrat sans espoir d'estre aimée.
 Que vôtre cœur si fier⁎ rappelle sa raison,
 Madame, soûtenez l'éclat de vôtre nom.
 
-**** *book_ *id_body-602 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_III02 *act_III *date_1697 *creator_pradon 
 
 -*who_lepide
 Annibal dans ces lieux à l'instant va se rendre,
@@ -971,7 +971,7 @@ J'ay dû vous avertir…
       Lepide, c'est assez.
 Barcé, retirons-nous.
 
-**** *book_ *id_body-603 *act_ *date_1697 *creator_pradon
+**** *book_ *id_III03 *act_III *date_1697 *creator_pradon
 
 -*who_scipion
       Mes desirs empressez
@@ -1020,7 +1020,7 @@ Il faut vaincre Annibal & la guerre est finie, 
 Il vient, que son abord⁎ inspire de respect,
 Allez.
 
-**** *book_ *id_body-604 *act_ *date_1697 *creator_pradon
+**** *book_ *id_III04 *act_III *date_1697 *creator_pradon
 
 -*who_annibal
       Si j'ay paru surpris à vôtre aspect⁎,
@@ -1219,7 +1219,7 @@ En l'attendant souffrez⁎ que je parle à ma Niéce.
 -*who_scipion
 Seigneur, vous le pouvez.
 
-**** *book_ *id_body-605 *act_ *date_1697 *creator_pradon
+**** *book_ *id_III05 *act_III *date_1697 *creator_pradon
 
 -*who_scipion
       Connoît⁎-il ma tendresse ?
@@ -1251,7 +1251,7 @@ Dieux ! soûtenez ma gloire, & versez dans mon sein
 Un conseil salutaire à l'Empire⁎ Romain.
 Fin du troisiéme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV01 *act_IV *date_1697 *creator_pradon
 
 -*who_ermilie
 Ouy, Madame, Annibal par l'éclat de vos charmes⁎
@@ -1285,7 +1285,7 @@ Les regards d'Annibal & les yeux d'Isperie,
 Que c'est moy qui l'ordonne, & qu'enfin je prétens⁎
 Qu'il m'obéïsse… Ah Ciel ! il vient, il n'est plus temps.
 
-**** *book_ *id_body-702 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV02 *act_IV *date_1697 *creator_pradon
 
 -*who_lucejus
 He bien, aprenez-moy quelle est ma destinée ?
@@ -1375,7 +1375,7 @@ Honorez de vos pleurs un Amant, un époux,
 Et si je meurs, du moins, songez que c'est pour vous ;
 Adieu, Madame.
 
-**** *book_ *id_body-703 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV03 *act_IV *date_1697 *creator_pradon
 
 -*who_isperie
       Helas ! que va-t-il entreprendre ?
@@ -1386,7 +1386,7 @@ Qu'il regagne son Camp, & qu'enfin il revienne
 Soûtenir dignement & sa gloire & la mienne ?
 Dieux ! Annibal paroît…
 
-**** *book_ *id_body-704 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_IV04 *act_IV *date_1697 *creator_pradon 
 
 -*who_isperie
       J'embrasse vos genoux,
@@ -1496,7 +1496,7 @@ Je ne dis plus qu'un mot, Madame, & je vous laisse.
 Tournez vers Scipion vôtre cœur & vos vœux,
 Vous l'allez voir ; sur tout songez que je le veux.
 
-**** *book_ *id_body-705 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV05 *act_IV *date_1697 *creator_pradon
 
 -*who_isperie
 Cruel ? à Lucejus mon cœur sera fidelle,
@@ -1506,7 +1506,7 @@ Montrer que nôtre cœur ne dépend que de nous,
 J'aperçois Scipion, armons-nous de courage,
 Et soûtenons le nom, la gloire de Cartage.
 
-**** *book_ *id_body-706 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV06 *act_IV *date_1697 *creator_pradon
 
 -*who_scipion
 On veut que vous soyez le gage d'une paix,
@@ -1531,7 +1531,7 @@ Qu'engagée à tenir une sainte promesse…
 -*who_scipion
 Je vois trop…
 
-**** *book_ *id_body-707 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV07 *act_IV *date_1697 *creator_pradon
 
 -*who_sextus
       Pardonnez si je vous interromps,
@@ -1559,7 +1559,7 @@ Non, Seigneur, je commence à dissiper ma crainte,
 Malgré tous mes malheurs je reprends quelque espoir,
 S'il vient me secourir il remplit son devoir.
 
-**** *book_ *id_body-708 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV08 *act_IV *date_1697 *creator_pradon
 
 -*who_scipion
 Il remplit son devoir ? Ah ! quelle confiance !
@@ -1580,7 +1580,7 @@ Tout m'est suspect en luy, Lepide, je le voy,
 A bien d'autres qu'à nous il a manqué de foy⁎,
 Il vient, je ne dois plus le tenir en balance.
 
-**** *book_ *id_body-709 *act_ *date_1697 *creator_pradon
+**** *book_ *id_IV09 *act_IV *date_1697 *creator_pradon
 
 -*who_annibal
 Ne me soupçonnez pas d'aucune intelligence,
@@ -1643,7 +1643,7 @@ Rome, vous attendez cette grande action,
 Qu'Annibal suive un jour le char de Scipion.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1697 *creator_pradon
+**** *book_ *id_V01 *act_V *date_1697 *creator_pradon
 
 -*who_isperie
 Ne m'abandonne point, viens, ma chere Ermilie,
@@ -1674,7 +1674,7 @@ Ce Heros qui combat fera voir son grand cœur⁎
 Sans doute⁎, & Scipion n'est pas encor vainqueur,
 Les Dieux pouront… Mais quoy ? j'aperçois Erixene.
 
-**** *book_ *id_body-802 *act_ *date_1697 *creator_pradon
+**** *book_ *id_V02 *act_V *date_1697 *creator_pradon
 
 -*who_erixene
 Madame c'en est fait, nôtre esperance est vaine,
@@ -1708,7 +1708,7 @@ Je ne puis demeurer dans cette incertitude,
 Sortons, allons-le joindre⁎, & je veux aujourd'huy
 S'il est parmy les morts expirer avec luy.
 
-**** *book_ *id_body-803 *act_ *date_1697 *creator_pradon
+**** *book_ *id_V03 *act_V *date_1697 *creator_pradon
 
 -*who_erixene
 O Fortune⁎ ! ô journée à toutes deux fatale⁎ !
@@ -1725,7 +1725,7 @@ On la doit assieger, j'y finiray mes jours,
 J'attends de Scipion ce funeste⁎ secours ;
 Je l'aperçois, parlons.
 
-**** *book_ *id_body-804 *act_ *date_1697 *creator_pradon 
+**** *book_ *id_V04 *act_V *date_1697 *creator_pradon 
 
 -*who_scipion
       Qu'on observe Isperie ?
@@ -1763,7 +1763,7 @@ Et j'emporte de vous une si haute estime,
 Que mon cœur penetré d'un si noble dessein,
 Me fera reverer toujours le nom Romain.
 
-**** *book_ *id_body-805 *act_ *date_1697 *creator_pradon
+**** *book_ *id_V05 *act_V *date_1697 *creator_pradon
 
 -*who_lepide
 Ainsi vous l'envoyez secourir sa patrie :
@@ -1830,7 +1830,7 @@ De ma victoire un autre aura-t-il le salaire ?
 Mais je vois Isperie, ah ! j'ay mal combatu,
 A ses yeux j'ay besoin de toute ma vertu⁎.
 
-**** *book_ *id_body-806 *act_ *date_1697 *creator_pradon
+**** *book_ *id_V06 *act_V *date_1697 *creator_pradon
 
 -*who_isperie
 Ah ! Seigneur, tirez-moy du plus cruël martyre,
@@ -1896,7 +1896,7 @@ Que je m'épargnerois un mortel⁎ déplaisir⁎ !
 Si malgré moy j'évite une fatale⁎ veuë,
 Un objet⁎ tel que vous porte un charme⁎ qui tuë.
 
-**** *book_ *id_body-807 *act_ *date_1697 *creator_pradon
+**** *book_ *id_V07 *act_V *date_1697 *creator_pradon
 
 -*who_lucejus
 Seigneur, ne croyez pas que la peur de la mort

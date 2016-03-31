@@ -40,7 +40,7 @@ Achevé d'imprimer pour la premiere fois, le vingtieme de Mars mil six cens quar
 
 Ledit Sieur de la Serre a cedé son Privilege à Antoine de Sommaville & Augustin Courbé, Marchands Libraires à Paris, suivant l'accord fait entr'eux.
 
-**** *book_ *id_body-501 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_I01 *act_I *date_1643 *creator_puget_de_la_serre
 
 -*who_l_imperatrice
 Que les bornes de cét Empire sont aujourd'huy de longue étenduë, puis qu'une derniere victoire nous fait triompher de tout l'Univers.
@@ -90,12 +90,12 @@ La Clemence assujetit plus de coeurs, que la Cruauté n'en sçauroit immoler.
 -*who_l_imperatrice
 En effet, si les Roys ne tiennent leurs sujets enchaisnez par l'amour, aussi bien que par la crainte, ils ne songent jamais qu'à recouvrer leur liberté, ne pouvant supporter le joug de leur servitude.
 
-**** *book_ *id_body-502 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_I02 *act_I *date_1643 *creator_puget_de_la_serre 
 
 -*who_trasee
 Madame, les preparatifs du Sacrifice sont faits, l'Empereur est desja en chemin pour aller au Temple, le voicy qui vient.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_I03 *act_I *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 Madame, nos voeux sont exaucez, & nos esperances terminées⁎.
@@ -133,7 +133,7 @@ De sorte que vostre Majesté peut disposer / / aujourd'huy d'autant de Coronnes 
 Ces felicitez sont des presens des Dieux, plustost que de la Fortune, & les bruits de mon nom ny la force de mes armes ne me rendroient point aujourd'huy Maistre de toute la terre, si le Ciel n'eût donné un nouveau⁎ courage à mes Soldats pour emporter le prix⁎ d'une telle conqueste; je veux que Silanus et Thésiphonte ayent contraint les plus incredules d'adjoûter foy aux miracles de leur valeur; si faut-il confesser que les Dieux en soustenant mes interests ont gaigné la victoire.
 Ce qui m'oblige en recognoissance de tant de faveurs, de faire un Sacrifice aussi pompeux⁎ que mon Triomphe, & pour le rendre plus celebre⁎, il faut que les Chrestiens en soient, ou les admirateurs, ou les victimes, ne pouvant souffrir dans mon Empire des Sujets qui refusent de l'encens aux Divinitez que j'adore.
 
-**** *book_ *id_body-504 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_I04 *act_I *date_1643 *creator_puget_de_la_serre 
 
 -*who_lepide
 Le Grand Prestre attend vos Majestez dans le Temple où tout le peuple est assemblé, pour commencer le Sacrifice.
@@ -141,7 +141,7 @@ Le Grand Prestre attend vos Majestez dans le Temple où tout le peuple est assem
 -*who_l_empereur
 Allons Madame, allons celebrer la feste des Dieux durant ce beau jour de Triomphe; il leur en faut offrir les coronnes pour en meriter la gloire; Que si les Chrestiens au mespris de mon Edit ne suivent mon exemple, je jure par ma vie, que la leur sera l'objet de mon juste Courroux.
 
-**** *book_ *id_body-601 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_II01 *act_II *date_1643 *creator_puget_de_la_serre
 
 -*who_ste_catherine
 Que cét Edit qu'on a fait contre les Chrestiens me paroist doux & cruel tout à la fois.
@@ -173,7 +173,7 @@ Je méprise les conseils de la prudence humaine, où il y va de l'interest⁎ de
 Ma mort sera plus utile aux Chrestiens que ma vie, puis que l'exemple de mon Martyre doit donner du courage aux plus timides pour franchir la carriere⁎ des tourmens⁎ où ils sont destinez.
 Voicy Corvin qui m'en porte sans doute les premieres nouvelles.
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_II02 *act_II *date_1643 *creator_puget_de_la_serre 
 
 -*who_corvin
 Madame, l'horreur & la pitié rendent mes yeux plus éloquens que ma bouche, pour vous faire voir par mes larmes plutost que par mes discours le deplorable sort des Chrestiens; lisez donc Madame sur mon triste visage le funeste recit de leur mort, puisque la voix me defaut pour vous en raconter l'histoire; Je vous diray toutefois en peu de mots, qu'Alexandrie n'est plus qu'un Theatre sanglant où l'Empereur fait representer aujourd'huy la tragedie de ses cruautez, par autant de bourreaux qu'il a choisi de victimes; & à voir les ruës toutes couvertes de sang, on diroit que le Nil qui en porte la couleur s'est débordé pour en tirer vangeance.
@@ -253,7 +253,7 @@ Cette jeune Princesse court avec trop de violence au devant du peril dont elle e
 La colere des Rois ne se peut adoucir que par la soumission; c'est un Torrent qui entraine tout ce qu'il trouve; Et comme il ne veut que passer, la prudence luy fait un chemin dont la pente precipite la courbe.
 Je sens déjà par avance tous les malheurs qu'elle doit encourir.
 
-**** *book_ *id_body-603 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_II03 *act_II *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 La feste des Sacrifices que je presente aux Dieux ne sçauroit estre dignement celebrée, si le dernier des Chrestiens n'en est aujourd'huy la victime sur les mesmes Autels qu'il aura profanez de son mespris.
@@ -266,7 +266,7 @@ Il est temps ce me semble de faire cognoistre vostre bonté, apres avoir fait re
 -*who_l_empereur
 Les plaintes des criminels sont autant de Cantiques de gloire pour les Dieux, puisqu'elles publient hautement leur Justice; que si nos sens sont effrayez des tourmens⁎ qu'ils endurent, la force de la raison doit prevaloir sur cette foiblesse de la nature, pour rejouïr nos esprits de l'avantage qui nous en revient.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_II04 *act_II *date_1643 *creator_puget_de_la_serre 
 
 -*who_lepide
 Sire, la Princesse Catherine demande audience à vostre Majesté.
@@ -274,7 +274,7 @@ Sire, la Princesse Catherine demande audience à vostre Majesté.
 -*who_l_empereur
 Qu'on la face entrer, pour sçavoir le sujet qui la meine: mais j'appréhende d'en estre trop tost esclaircy⁎, m'imaginant ce qu'elle a à me dire.
 
-**** *book_ *id_body-605 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_II05 *act_II *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 Que desirez-vous de moi, ma Princesse.
@@ -409,7 +409,7 @@ Les Dieux veulent estre vangez, mais si je leur obéïs je me punis moy-mesme.
 En cette extremité mon esprit irresolu me suggere tout à la fois mille differentes pensées sans se pouvoir determiner au choix de l'une, ou de l'autre.
 Mais c'est trop long temps s'arrester dans un chemin où la raison & mon devoir me veulent servir de guide, courons à la vengeance, au mespris de l'amour, & s'il faut mourir de la blessure dont je suis atteint, sauvons l'honneur en perdant la vie, ce me sera toujours quelque sorte de consolation.
 
-**** *book_ *id_body-701 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_III01 *act_III *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 Ha Porphire, que mon sort est deplorable!
@@ -449,7 +449,7 @@ Enfin ménage discretement⁎ le temps & l'occasion de l'entretenir, & ne hazard
 -*who_porphire
 J'executeray fidelement les commandemens de vostre Majesté.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_III02 *act_III *date_1643 *creator_puget_de_la_serre 
 
 -*who_l_imperatrice
 J'ay decouvert à la fin⁎ les artifices de l'empereur; il fait semblant de vanger les Dieux, en punissant les Chrestiens, & il protege Catherine dans son Palais, la fait traiter en Reine plustost qu'en esclave, & commande qu'on luy rende les honneurs qui ne sont deuz qu'à ma qualité, comme si elle occupoit déja la place de mon trosne.
@@ -468,7 +468,7 @@ Ce n'est pas le moyen de moderer sa vanité, que de luy rendre visite jusques da
 -*who_l_imperatrice
 Je veux bien me satisfaire⁎ dans l'inquietude où je me treuve, son entretien éclaircira⁎ mon esprit de ses doutes; Suivez moy, ne vous opposez plus à mon contentement.
 
-**** *book_ *id_body-703 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_III03 *act_III *date_1643 *creator_puget_de_la_serre 
 
 -*who_ste_catherine
 "O Divin Redempteur de mon ame, puis que vostre bonté toujours "infinie guide aujourd'huy mes pas dans le mesme chemin que vous avez "tenu pour acquerir vostre propre gloire, éclairez mon esprit de la lumiere de "vos "graces: Echaufez ma volonté du feu de vostre amour, & animez mon "courage de la force de vostre protection, afin que je connoisse la verité en "vous adorant, que je mesprise teutes choses en vous aymant, & que je "triomphe de tous mes ennemis en leur faisant confesser & vostre nom, & "leur erreur par la voix d'une humble repentance.
@@ -476,7 +476,7 @@ Adjoutez Seigneur, à "toutes ces graces, celle de pouvoir mourir pour vous, n'e
 Mais d'un desir impatient⁎, puis "qu'il me fait sans cesse soûpirer⁎ en cette attente.
 Voicy Porphire, que "desire t'il-de moi.
 
-**** *book_ *id_body-704 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_III04 *act_III *date_1643 *creator_puget_de_la_serre
 
 -*who_porphire
 Madame, réjoüissez-vous, je viens rompre vos chesnes, & vous preter la main pour vous ayder à monter sur le trône qu'on vous a preparé, si vous étes resoluë à changer de creance.
@@ -589,7 +589,7 @@ Madame, je m'en vay rendre compte à l'Empereur de mon message.
 Allez hardiment, le Ciel prépare vostre recompense.
 Mais voicy l'Imperatrice; Je sçay le dessein qui l'ameine, le succez⁎ luy en sera favorable.
 
-**** *book_ *id_body-705 *act_ *date_1643 *creator_puget_de_la_serre 
+**** *book_ *id_III05 *act_III *date_1643 *creator_puget_de_la_serre 
 
 -*who_l_imperatrice
 CHere Princesse, je suis fort ayse⁎ que vostre vertu & vostre beauté obligent aujourd'huy l'Empereur à vous élever sur son trosne.
@@ -642,7 +642,7 @@ Il faut que vostre esperance surmonte vostre crainte, le Ciel n'abandonne jamais
 -*who_l_imperatrice
 Cette esperance me console de nostre separation.
 
-**** *book_ *id_body-801 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_IV01 *act_IV *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 J'ay de la peine à croire ce que tu dis ?
@@ -666,7 +666,7 @@ Il faut que je me serve de ce dernier moyen, j'ay commandé / / qu'on fit assemb
 Mais avant qu'on commance la dispute je veux me donner le contentement de luy parler, qu'on la face venir.
 Ha ! que j'ay mauvaise grace de faire le Souverain devant cette Reyne de mon ame, j'ay beau cacher dans mon sein le feu qui me devore, mes soûpirs sont autant d'estincelles qui en decelent le secret.
 
-**** *book_ *id_body-802 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_IV02 *act_IV *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 Belle Princesse, l'Amour a beau me solliciter⁎ de luy accorder la grace de vostre crime, je ne puis la donner qu'à vostre repentir.
@@ -728,7 +728,7 @@ J'espere que luy-mesme confessera bien tost la sienne à vostre confusion & à s
 -*who_l_empereur
 Quelle apparence⁎, qu'un disciple instruise son maistre: deffendez-vous seulement, encore que⁎ vous soyez vaincuë, la hardiesse que vous avez de vous presenter au combat, merite des couronnes.
 
-**** *book_ *id_body-803 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_IV03 *act_IV *date_1643 *creator_puget_de_la_serre
 
 -*who_corvin
 Le Philosophe Lucius choisi & deputé de tous ses compagnons⁎, est à la porte de la chambre; il demande à vostre Majesté la liberté d'entrer.
@@ -736,7 +736,7 @@ Le Philosophe Lucius choisi & deputé de tous ses compagnons⁎, est à la porte
 -*who_l_empereur 
 Faites le venir, j'attends desja avec impatience le succez de son entreprise.
 
-**** *book_ *id_body-804 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_IV04 *act_IV *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 Lucius, il faut que tu me donnes aujourd'huy ce contentement, d'instruire cette belle ignorante, & de luy faire connoistre⁎ à force de raisons, l'erreur où elle a vescu, & la verité qu'elle doit suivre; sa jeunesse doit excuser la vanité qu'elle a, d'entrer en dispute avec un homme de ta reputation.
@@ -859,7 +859,7 @@ Que Lucius soit brulé tout vif, & Porphire devoré des Lyons: Qu'on trenche la 
 O adorable Redempteur! dont la parole toute-puissante s'est servie de ma bouche pour annoncer vos loüanges & soûtenir la verité, Je vous rends graces d'avoir exaucé mes voeux en illuminant ces aveugles, pour leur apprendre le chemin du Calvaire, où vostre misericorde infinie leur a preparé tout à la fois, & des autels & des couronnes.
 Agreez seulement le zele de toutes ces victimes; Et puis que vostre Bonté m'a mise du nombre, je vous offre par avance le coeur de ce corps qui vous doit étre immolé, pour achever le sacrifice à vôtre gloire.
 
-**** *book_ *id_body-901 *act_ *date_1643 *creator_puget_de_la_serre
+**** *book_ *id_V01 *act_V *date_1643 *creator_puget_de_la_serre
 
 -*who_l_empereur
 Je veux eriger un Autel à la Justice des Dieux, où la mienne y portera en offrande les cendres de Lucius, les os de Porphire, la teste de l'Imperatrice,& le corps brisé de cette malheureuse Princesse, afin que ces objets d'horreur & d'effroy punissent par avance les rebelles à force de crainte & d'étonnement⁎.

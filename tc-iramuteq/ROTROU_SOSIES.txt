@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1646 *creator_rotrou
+**** *book_ *id_A01 *act_A *date_1646 *creator_rotrou
 
 -*who_junon
 Soeur du plus grand des Dieux, (car ce nom seul me reste)
@@ -96,7 +96,7 @@ Mieux qu'hydre, que serpents, que lion, que Cerbère,
 Et ne laissera pas à la Postérité,
 L'audace d'attenter, à la divinité.
 
-**** *book_ *id_II01 *act_II *date_1646 *creator_rotrou
+**** *book_ *id_I01 *act_I *date_1646 *creator_rotrou
 
 -*who_mercure
 Vierge, Reine des mois, et des feux inconstants,
@@ -122,7 +122,7 @@ Allons de ce valet emprunter la figure,
 Et troublons son esprit d'un si plaisant souci,
 Que s'ignorant soi-même, il s'éloigne d'ici.
 
-**** *book_ *id_II02 *act_II *date_1646 *creator_rotrou
+**** *book_ *id_I02 *act_I *date_1646 *creator_rotrou
 
 -*who_sosie
 Quelle témérité pareille à mon audace,
@@ -168,7 +168,7 @@ Créon est rétabli dedans tous ses états,
 Et mon maître vainqueur, m'envoie à ma maîtresse,
 Annoncer cette heureuse, et commune allégresse.
 
-**** *book_ *id_II03 *act_II *date_1646 *creator_rotrou
+**** *book_ *id_I03 *act_I *date_1646 *creator_rotrou
 
 -*who_mercure
 Inspiré de mon père à qui tout est connu,
@@ -777,7 +777,7 @@ Et plût au Ciel aussi, qu'il me pût méconnaître
 De cet heureux malheur, naîtrait ma liberté,
 Et ce serait me perdre, avec utilité.
 
-**** *book_ *id_II04 *act_II *date_1646 *creator_rotrou
+**** *book_ *id_I04 *act_I *date_1646 *creator_rotrou
 
 -*who_mercure
 Ai-je avec gloire, enfin abattu son audace ?
@@ -793,7 +793,7 @@ L'heure approche bientôt, qu'il faut qu'il s'en sépare,
 Et le jour doit enfin succéder à la nuit.
 Taisons-nous, le voici, la porte a fait du bruit.
 
-**** *book_ *id_II05 *act_II *date_1646 *creator_rotrou
+**** *book_ *id_I05 *act_I *date_1646 *creator_rotrou
 
 -*who_jupiter
 Avecque ce baiser, je te laisse mon âme,
@@ -825,7 +825,7 @@ Et laisse mon retour, au seul soin de tes charmes.
 Déesse du repos, nuit, mère du sommeil,
 Achève enfin ta course, et fais place au Soleil.
 
-**** *book_ *id_III01 *act_III *date_1646 *creator_rotrou
+**** *book_ *id_II01 *act_II *date_1646 *creator_rotrou
 
 -*who_amphitryon
 Marche tôt.
@@ -1033,7 +1033,7 @@ Par cette vue enfin, je resterai confus.
 -*who_sosie
 Allons, mais que les coups, s'il se peut n'en soient plus.
 
-**** *book_ *id_III02 *act_III *date_1646 *creator_rotrou
+**** *book_ *id_II02 *act_II *date_1646 *creator_rotrou
 
 -*who_alcmene
 Par quel ordre fatal, ma chère Céphalie,
@@ -1084,7 +1084,7 @@ La vertu, ce seul bien, de soi-même dispose,
 Elle possède tout, et donne toute chose,
 Et le sort ; mais que dis-je, il revient sur ses pas ?
 
-**** *book_ *id_III03 *act_III *date_1646 *creator_rotrou
+**** *book_ *id_II03 *act_II *date_1646 *creator_rotrou
 
 -*who_amphitryon
 Le plaisir est plus doux, quand on ne l'attend pas,
@@ -1329,7 +1329,7 @@ Que les fous en autrui, trouvent leur maladie,
 Qu'ils tiennent tous esprits dans le défaut des leurs,
 Et qu'ils se peignent tout de leurs propres couleurs.
 
-**** *book_ *id_III04 *act_III *date_1646 *creator_rotrou
+**** *book_ *id_II04 *act_II *date_1646 *creator_rotrou
 
 -*who_cephalie
 Le voici.
@@ -1554,7 +1554,7 @@ Que dit cet insensé ?
       Ne m'approche pas, traître,
 Suppôt d'un imposteur, Valet digne du maître.
 
-**** *book_ *id_IV01 *act_IV *date_1646 *creator_rotrou
+**** *book_ *id_III01 *act_III *date_1646 *creator_rotrou
 
 -*who_jupiter
 Je suis ce suborneur, ce faux Amphitryon,
@@ -1580,7 +1580,7 @@ Sort les larmes aux yeux, modérons sa tristesse,
 Chassons pour quelque temps le trouble de ces lieux,
 Mais ne la détrompons, que pour la tromper mieux.
 
-**** *book_ *id_IV02 *act_IV *date_1646 *creator_rotrou
+**** *book_ *id_III02 *act_III *date_1646 *creator_rotrou
 
 -*who_cephalie
 Madame, où courez-vous ?
@@ -1791,7 +1791,7 @@ S'ils sont encor au port, prendre ici le repas.
 Ainsi, de la maison, sans soupçon, je le chasse,
 Où Mercure, aussitôt, occupera sa place.
 
-**** *book_ *id_IV03 *act_IV *date_1646 *creator_rotrou
+**** *book_ *id_III03 *act_III *date_1646 *creator_rotrou
 
 -*who_alcmene
 Si je vous l'ose dire, et si j'en crois mes yeux,
@@ -1806,7 +1806,7 @@ Tu me rends la pareille, et te sens trop solvable,
 Pour vouloir un moment être ma redevable ;
 Ton éloquence, enfin, paye mon compliment.
 
-**** *book_ *id_IV04 *act_IV *date_1646 *creator_rotrou
+**** *book_ *id_III04 *act_III *date_1646 *creator_rotrou
 
 -*who_sosie
 Êtes-vous tous deux fous ? Quel est ce changement ?
@@ -1845,7 +1845,7 @@ Quitte ce champ d'azur, et fends l'air de tes ailes ;
 Adroit, dérobe-toi de la table des Dieux,
 Descends, divin Sosie, et te rends en ces lieux.
 
-**** *book_ *id_IV05 *act_IV *date_1646 *creator_rotrou
+**** *book_ *id_III05 *act_III *date_1646 *creator_rotrou
 
 -*who_mercure
 Hommes, dieux, animaux, sortez de mon passage,
@@ -1896,7 +1896,7 @@ Dedans ce vaste champ, j'ai changé de figure,
 Je suis Sosie en terre, au ciel, j'étais Mercure ;
 J'arrive, enfin, à temps ; on ouvre, quelqu'un sort.
 
-**** *book_ *id_IV06 *act_IV *date_1646 *creator_rotrou
+**** *book_ *id_III06 *act_III *date_1646 *creator_rotrou
 
 -*who_cephalie
 Que tes pas sont légers ! Viens-tu déjà du port ?
@@ -1982,7 +1982,7 @@ Quel que soit leur secret, condamne ma paresse.
 Entrons ; lorsqu'il s'agit d'un excellent repas,
 Mille secrets d'état, ne m'arrêteraient pas.
 
-**** *book_ *id_V01 *act_V *date_1646 *creator_rotrou
+**** *book_ *id_IV01 *act_IV *date_1646 *creator_rotrou
 
 -*who_amphitryon
 Et sur tout le rivage, et par toute la ville,
@@ -2007,7 +2007,7 @@ Cette confession, de la bouche d'Alcmène.
 Et puisse tout périr, plutôt que mon honneur.
 Holà ? quelqu'un ici ?
 
-**** *book_ *id_V02 *act_V *date_1646 *creator_rotrou
+**** *book_ *id_IV02 *act_IV *date_1646 *creator_rotrou
 
 -*who_mercure
       Qu'est-ce ?
@@ -2177,7 +2177,7 @@ Si tu ne veux ma perte, établis mon repos.
 Dessille-nous les yeux, dissipe ce nuage,
 Et rends-moi, pour le moins, mon nom, et mon visage.
 
-**** *book_ *id_V03 *act_V *date_1646 *creator_rotrou
+**** *book_ *id_IV03 *act_IV *date_1646 *creator_rotrou
 
 -*who_capitaine1
 Tu nous en contes bien, qui t'en a tant appris ?
@@ -2397,7 +2397,7 @@ Qui mériterait bien qu'on s'en mît en souci.
 Entrons et me prêtez, et vos soins, et votre aide,
 À chasser de ce lieu, l'erreur qui nous possède.
 
-**** *book_ *id_V04 *act_V *date_1646 *creator_rotrou
+**** *book_ *id_IV04 *act_IV *date_1646 *creator_rotrou
 
 -*who_jupiter
 Que m'a-t-on rapporté, que veut cet insolent,
@@ -2717,7 +2717,7 @@ Faisons plutôt périr, valets, amis, biens, femme,
 Enfants, parents, voisins, honneur, charges, maison,
 Que de cet affronteur je n'aie ma raison.
 
-**** *book_ *id_VI01 *act_VI *date_1646 *creator_rotrou
+**** *book_ *id_V01 *act_V *date_1646 *creator_rotrou
 
 -*who_sosie
 Je suis mort ! Au secours, épargne-moi de grâce,
@@ -2807,7 +2807,7 @@ Cherchons le malheureux, et suivons sa fortune ;
 Compagnon de son sort, protégeons son souci ;
 S'il périt, périssons, s'il vit, vivons aussi.
 
-**** *book_ *id_VI02 *act_VI *date_1646 *creator_rotrou
+**** *book_ *id_V02 *act_V *date_1646 *creator_rotrou
 
 -*who_jupiter
 Souffre que le devoir, après l'amour s'acquitte,
@@ -2850,7 +2850,7 @@ Nous vous obéissons.
 Qu'Amphitryon, enfin demeure Amphitryon,
 Sosie soit Sosie, et chacun ait son nom.
 
-**** *book_ *id_VI03 *act_VI *date_1646 *creator_rotrou
+**** *book_ *id_V03 *act_V *date_1646 *creator_rotrou
 
 -*who_capitaine1
 Plus sur ce que je vois je pense, et je repense,
@@ -2870,7 +2870,7 @@ Qui ne nous touche point, et passe la nature ;
 Celle-ci me confond, mais ne m'empêche pas.
 Mais, de quelle furie, il revient sur ses pas ?
 
-**** *book_ *id_VI04 *act_VI *date_1646 *creator_rotrou
+**** *book_ *id_V04 *act_V *date_1646 *creator_rotrou
 
 -*who_amphitryon
 Voyez à quel souci mon malheur vous oblige ?
@@ -2964,7 +2964,7 @@ La terre ouvre son centre, et le Ciel est de flamme.
 Terre, Ciel, hommes, Dieux ! qui me vient secourir ?
 Quoi, puis-je en même jour, et doubler et périr.
 
-**** *book_ *id_VI05 *act_VI *date_1646 *creator_rotrou
+**** *book_ *id_V05 *act_V *date_1646 *creator_rotrou
 
 -*who_cephalie
 Quel effroi, quelle horreur, quel bruit, quelle épouvante,
@@ -3173,7 +3173,7 @@ Avecque mon injure, accorde mon honneur.
 Mais quel nouvel orage, à ce calme succède ?
 Ô dieux, Maître des Dieux, je réclame ton aide.
 
-**** *book_ *id_VI06 *act_VI *date_1646 *creator_rotrou
+**** *book_ *id_V06 *act_V *date_1646 *creator_rotrou
 
 -*who_jupiter
 

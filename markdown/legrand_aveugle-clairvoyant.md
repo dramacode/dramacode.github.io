@@ -13,8 +13,7 @@ COMÉDIE EN UN ACTE ET EN VERS
 DE LE GRAND
 
 Représentée, pour la premiere fois, le 18 septembre 1716 [1].
-Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de
-          master 1 sous la direction de Georges Forestier (2003-2004)
+Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)
 
 
 # Notice sur Le Grand
@@ -1039,8 +1038,7 @@ Redites donc cent fois que mon amour vous touche ;
 Redoublez, Léonor, ces soupirs amoureux  
 Qui viennent de me mettre au comble de mes voeux.  
 
-    LÉONOR, *bas, à Marin.*
-          
+    LÉONOR, *bas, à Marin.* 
 Que lui disoit ma tante ?  
 
     MARIN.
@@ -1165,8 +1163,7 @@ Tu me trompes ; j'entends marcher quelqu'un ici.
     LEMPESÉ.
 Je tremble.  
 
-    DAMON, *gagnant la porte, et tâtonnant par-tout avec son bâton.*
-          
+    DAMON, *gagnant la porte, et tâtonnant par-tout avec son bâton.* 
         Je me veux éclaircir de ceci.  
 
     MARIN, *bas, à Lempesé.*

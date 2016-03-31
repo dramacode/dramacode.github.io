@@ -14,7 +14,7 @@ Les exemplaires ont esté fournis.
 
 Ledit QUINET a fait part du present Privilege à ANTOINE DE SOMMAVILLE, Marchand Libraire, pour en jouyr pendant le temps et conditions portées par iceluy : ainsi qu'il a esté accordé entre eux.
 
-**** *book_ *id_body-301 *act_ *date_1647 *creator_ouville
+**** *book_ *id_I01 *act_I *date_1647 *creator_ouville
 
 -*who_acaste
 Certainement amy je commence à connestre
@@ -203,7 +203,7 @@ Je vay voir si le Ciel vaincra mes desplaisirs.
 -*who_acaste
 Qu'il vueille de tout point seconder vos desirs.
 
-**** *book_ *id_body-302 *act_ *date_1647 *creator_ouville
+**** *book_ *id_I02 *act_I *date_1647 *creator_ouville
 
 -*who_beatrix
 Il faut peu de suject pour vous mettre en colere.
@@ -469,7 +469,7 @@ Beatrix, je consents d'en estre chastié.
 -*who_beatrix
 O le pauvre jeune homme, ah! qu'il me fait pitié!
 
-**** *book_ *id_body-303 *act_ *date_1647 *creator_ouville
+**** *book_ *id_I03 *act_I *date_1647 *creator_ouville
 
 -*who_arimant
 Voy cruelle! Est-ce là toute la recompense
@@ -536,7 +536,7 @@ Je vous suy.
 Mon mal est incapable à present de remede,
 Je n'en espere point, si ce n'est en la mort.
 
-**** *book_ *id_body-304 *act_ *date_1647 *creator_ouville
+**** *book_ *id_I04 *act_I *date_1647 *creator_ouville
 
 -*who_acaste
 Il le faut laisser seul, je deplore son sort,
@@ -598,7 +598,7 @@ Qui me vient de la part de celle que j'adore
 Pleust au Ciel qu'Arimant en eust autant de Flore.
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1647 *creator_ouville
+**** *book_ *id_II01 *act_II *date_1647 *creator_ouville
 
 -*who_acaste
 Et bien, qu'en dites-vous? lors que pour un Amy
@@ -665,7 +665,7 @@ Serois-je son rival?
 Que Dorotée, au moins j'y voy grande apparence,
 Se sentira bien-tost de cette connoissance.
 
-**** *book_ *id_body-402 *act_ *date_1647 *creator_ouville
+**** *book_ *id_II02 *act_II *date_1647 *creator_ouville
 
 -*who_pamphile
 Madame excusez moy, je ne puis nullement
@@ -861,7 +861,7 @@ Và ne redoute rien. Pauline va sçavoir
 Si Leonor est là, si je la pourray voir?
 Mais la voicy qui sort, arreste-toy Pauline.
 
-**** *book_ *id_body-403 *act_ *date_1647 *creator_ouville
+**** *book_ *id_II03 *act_II *date_1647 *creator_ouville
 
 -*who_dorotee
 Et bien que vous en semble? ay-je pas bonne mine?
@@ -1012,7 +1012,7 @@ Pour avoir ce qu'il faut dans cette matinée.
 Ouy, la commission en est desja donnée.
 Fin du second Acte.
 
-**** *book_ *id_body-501 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III01 *act_III *date_1647 *creator_ouville
 
 -*who_flore
 Quel changement mon Coeur? et quelle frenaisie
@@ -1085,7 +1085,7 @@ J'ayme sans esperance, il faut qu'un mesme jour
 Ensemble voye et naistre, et mourir mon amour.
 Chassons ce fol⁎ desir qui ma raison emporte.
 
-**** *book_ *id_body-502 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III02 *act_III *date_1647 *creator_ouville
 
 -*who_flore
 Que veux-tu?
@@ -1147,7 +1147,7 @@ Et que je ne puis pas refuser justement
 Que par galanterie un homme me frequente.
 Autre chose est d'aimer ou d'estre complaisante.
 
-**** *book_ *id_body-503 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III03 *act_III *date_1647 *creator_ouville
 
 -*who_beatrix
 Entrez, Messieurs, entrez.
@@ -1243,7 +1243,7 @@ Et de vouloir de plus par tout estre adorée;
 Ce n'est point par amour sans doute je le croy
 Connoissant son humeur comme je la connoy.
 
-**** *book_ *id_body-504 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III04 *act_III *date_1647 *creator_ouville
 
 -*who_philipin
 Que me donnerez-vous pour la bonne nouvelle?
@@ -1317,7 +1317,7 @@ Si vous n'avez dessein de me mettre en colere.
 -*who_arimant
 Madame excusez-moy.
 
-**** *book_ *id_body-505 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III05 *act_III *date_1647 *creator_ouville
 
 -*who_beatrix
       C'est cette Perruquiere
@@ -1552,7 +1552,7 @@ De vous accompagner.
       Demeurez je vous prie,
 Il faut que je sois seul, je vous en remercie.
 
-**** *book_ *id_body-506 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III06 *act_III *date_1647 *creator_ouville
 
 -*who_flore
 Comment, vous le laissez aller seul Arimant ?
@@ -1611,7 +1611,7 @@ Je cognois bien qu'Acaste est maistre de son cœur,
 Mais il est mon amy je n'en ay point de peur
 Et puis il ayme trop sa chere Dorotée.
 
-**** *book_ *id_body-507 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III07 *act_III *date_1647 *creator_ouville
 
 -*who_acaste
 Je l'ay toujours suivie, et ne l'ay point quittée
@@ -1666,7 +1666,7 @@ Et nous assommeront, Monsieur, pensez-y bien.
 -*who_acaste
 Va tu n'es qu'un maraut⁎, je ne redoute rien.
 
-**** *book_ *id_body-508 *act_ *date_1647 *creator_ouville
+**** *book_ *id_III08 *act_III *date_1647 *creator_ouville
 
 -*who_pamphile
 Que voulez-vous, Monsieur ?
@@ -1737,7 +1737,7 @@ Monsieur le voudroit-il soustenir de la sorte.
 Entrons et visitons un peu cette autre porte.
 Fin du troisième Acte
 
-**** *book_ *id_body-601 *act_ *date_1647 *creator_ouville
+**** *book_ *id_IV01 *act_IV *date_1647 *creator_ouville
 
 -*who_philipin
 Quel est vostre dessein ? pourquoy revenez-vous
@@ -1776,7 +1776,7 @@ Il nous lorgnoit tanstot d'une estrange posture,
 Et nous mangeoit des yeux, c'est une chose seure,
 Qu'il bande son fuzil, et s'arme là dedans
 
-**** *book_ *id_body-602 *act_ *date_1647 *creator_ouville
+**** *book_ *id_IV02 *act_IV *date_1647 *creator_ouville
 
 -*who_dorotee
 Que voulez-vous, Monsieur ? que cherchez-vous ceans⁎ ?
@@ -1967,7 +1967,7 @@ Et vous inspire bien ce que vous devez faire.
 M'en blasme qui voudra le sort en est jetté,
 Adorons cette rare et charmante beauté.
 
-**** *book_ *id_body-603 *act_ *date_1647 *creator_ouville
+**** *book_ *id_IV03 *act_IV *date_1647 *creator_ouville
 
 -*who_dorotee
 Tu l'as veu, Leonor ?
@@ -2156,7 +2156,7 @@ Vous le faictes, Madame, aujourd'hui bien paroistre.
 Tu le verras tanstot, et c'est ce que l'Amour
 M'a depuis que j'y suis apris en cette Cour.
 
-**** *book_ *id_body-604 *act_ *date_1647 *creator_ouville
+**** *book_ *id_IV04 *act_IV *date_1647 *creator_ouville
 
 -*who_acaste
 Quelle confusion est pareille à la mienne ?
@@ -2182,7 +2182,7 @@ Nous le verrons.
 -*who_acaste
       Mais je vois Arimant.
 
-**** *book_ *id_body-605 *act_ *date_1647 *creator_ouville
+**** *book_ *id_IV05 *act_IV *date_1647 *creator_ouville
 
 -*who_arimant
 Quoy si pres du logis je vous trouve en la ruë ?
@@ -2240,7 +2240,7 @@ Entrez je vous rejoins, j'en donne ma parole.
 Je n'ose, allez escrire, Acaste, et cependant
 Je me promeneray seul en vous attendant.
 
-**** *book_ *id_body-606 *act_ *date_1647 *creator_ouville
+**** *book_ *id_IV06 *act_IV *date_1647 *creator_ouville
 
 -*who_flore
 Je n'ay jamais ouy parler de cette femme.
@@ -2375,7 +2375,7 @@ Je pensois vous servir, et je vous mescontente.
 Madame excusez-moy je suis vostre servante.
 Fin du quatriesme acte.
 
-**** *book_ *id_body-701 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V01 *act_V *date_1647 *creator_ouville
 
 -*who_flore
 Resvez-je point icy ? suis-je bien éveillée ?
@@ -2399,7 +2399,7 @@ Le volage, l'ingrat, le perfide, le traistre,
 Dissimulons mon cœur, mais non je ne le puis,
 Faisons voir quel il est, et montrons qui je suis.
 
-**** *book_ *id_body-702 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V02 *act_V *date_1647 *creator_ouville
 
 -*who_flore
 Acaste est-il bien vray ce que je viens d'entendre ?
@@ -2541,7 +2541,7 @@ Que je vous quitte, adieu, je vous cede la place.
 -*who_acaste
 Nous n'avons pas dessein de vous incommoder.
 
-**** *book_ *id_body-703 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V03 *act_V *date_1647 *creator_ouville
 
 -*who_acaste
 Mais encore sur quoy se veut-elle fonder ?
@@ -2573,7 +2573,7 @@ Qu'il me semble la voir elle-mesme, et soubçonne
 Que toutes trois ne sont qu'une mesme personne.
 Ouy les trois ne sont qu'une, ou j'ay perdu l'esprit.
 
-**** *book_ *id_body-704 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V04 *act_V *date_1647 *creator_ouville
 
 -*who_philipin
 J'ay des lettres, Monsieur,
@@ -2689,7 +2689,7 @@ Vois-tu je veux partir dés la pointe du jour,
 -*who_philipin
 Bien j'y cours de ce pas.
 
-**** *book_ *id_body-705 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V05 *act_V *date_1647 *creator_ouville
 
 -*who_philipin
       Monsieur bonne nouvelle,
@@ -2786,7 +2786,7 @@ En fin c'est un peu trop la colere m'emporte.
 -*who_dorotee
 Vrayment elle a grand tort d'en user de la sorte.
 
-**** *book_ *id_body-706 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V06 *act_V *date_1647 *creator_ouville
 
 -*who_philipin
 Les cheveaux seront prests, et vous pourrez sortir
@@ -2837,7 +2837,7 @@ La perdre en te perdant, tant elle te ressemble.
 -*who_dorotee
 Courage, tout va bien.
 
-**** *book_ *id_body-707 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V07 *act_V *date_1647 *creator_ouville
 
 -*who_philipin
       Un certain homme en bas
@@ -2855,7 +2855,7 @@ D'une Dame qu'il sert.
 -*who_acaste
       Qu'il entre promptement.
 
-**** *book_ *id_body-708 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V08 *act_V *date_1647 *creator_ouville
 
 -*who_pamphile
 Monsieur, je viens icy par le commandement
@@ -2911,7 +2911,7 @@ Encor une autre ?
 -*who_acaste
       Elle est maistresse d'Arimant.
 
-**** *book_ *id_body-709 *act_ *date_1647 *creator_ouville
+**** *book_ *id_V09 *act_V *date_1647 *creator_ouville
 
 -*who_arimant
 Flore icy, justes Dieux! cela ne peut pas estre.

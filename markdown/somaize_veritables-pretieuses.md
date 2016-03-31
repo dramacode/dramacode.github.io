@@ -949,7 +949,7 @@ ISCARIE, ISABELLE,
 
 
     ISCARIE.
-Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier [217] emportement⁎ de ne la point voir [218].
+Que l'attente d'Artemise, me cause de chagrin⁎, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier [217]emportement⁎ de ne la point voir [218].
 
     ISABELLE.
 Je vais vous obeïr Madame, mais la voicy qui vient. [219]

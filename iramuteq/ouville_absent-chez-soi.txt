@@ -12,7 +12,7 @@ Avril 1643.
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-301 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I01 *act_I *date_1643 *creator_ouville
 
 -*who_diane
 JE beny cette nuict qui me donne le bien
@@ -59,7 +59,7 @@ Attens-y mon carrosse.
 -*who_elize
       Et toy Pauline aussi.
 
-**** *book_ *id_body-302 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I02 *act_I *date_1643 *creator_ouville
 
 -*who_pauline
 JE me réjoüys fort de voir que nos maistresses
@@ -159,7 +159,7 @@ Le carosse est venu, j'advertis ma maitresse.
 -*who_pauline
 Elles viennent ensemble.
 
-**** *book_ *id_body-303 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I03 *act_I *date_1643 *creator_ouville
 
 -*who_diane
       Et bien quelle paresse !
@@ -201,7 +201,7 @@ De ce que tu m'as dit.
 -*who_julie
       Repose-toy sur moy.
 
-**** *book_ *id_body-304 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I04 *act_I *date_1643 *creator_ouville
 
 -*who_diane
 Vous vous estes, Monsieur, fait bien long-temps attendre.
@@ -244,7 +244,7 @@ Vous irez de ma part, & verrez ce que c'est.
 -*who_clitandre
 Entrons, je le veux bien, j'iray puis qu'il vous plaist.
 
-**** *book_ *id_body-305 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I05 *act_I *date_1643 *creator_ouville
 
 -*who_clorimant
 Bien que t'a-t-elle dit ?
@@ -288,7 +288,7 @@ Estre en la rue ?
       Octave est un mauvais garçon,
 Que sçavons nous Monsieur, peut-estre qu'il nous guette.
 
-**** *book_ *id_body-306 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I06 *act_I *date_1643 *creator_ouville
 
 -*who_polemas
 Elize ne vient point !
@@ -499,7 +499,7 @@ Si l'Amour est plus fort que n'est l'obeyssance,
 Ou si l'obeyssance est maistresse d'Amour ;
 Ne tardons point, allons icy pres faire un tour.
 
-**** *book_ *id_body-307 *act_ *date_1643 *creator_ouville
+**** *book_ *id_I07 *act_I *date_1643 *creator_ouville
 
 -*who_clorimant
 Je bruslois de desir dedans l'impatience
@@ -620,7 +620,7 @@ Si tu ne veux soudain me mettre au desespoir.
 Va ne crains rien, & vien promptement me revoir.
 Fin du premier Acte
 
-**** *book_ *id_body-401 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II01 *act_II *date_1643 *creator_ouville
 
 -*who_clorimant
 Je me trompe, ou je voy Pauline dans la ruë ?
@@ -665,7 +665,7 @@ Je fais ce que tu veux.
 -*who_elize
       Et toy Geraste aussi.
 
-**** *book_ *id_body-402 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II02 *act_II *date_1643 *creator_ouville
 
 -*who_clitandre
 Pardonnez-moy, je viens de la part d'une Dame
@@ -783,7 +783,7 @@ On appelle Madame.
 -*who_elize
       Ah grands Dieux qui sera-ce ?
 
-**** *book_ *id_body-403 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II03 *act_II *date_1643 *creator_ouville
 
 -*who_elize
 Qu'on ouvre promptement.
@@ -1003,7 +1003,7 @@ Pourrez-vous à Diane ainsi manquer de foy⁎ ?
 -*who_clitandre
 Elle aura patience⁎ aussi bien comme moy.
 
-**** *book_ *id_body-404 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II04 *act_II *date_1643 *creator_ouville
 
 -*who_clorimant
 Ingrate & fiere⁎ Elize a mon ame agitée
@@ -1177,7 +1177,7 @@ Fait en cette action violence à soy-mesme.
 Je suis morte r'entrons, peut-estre un mot d'escrit
 Aura quelque pouvoir sur ce boüillant esprit.
 
-**** *book_ *id_body-405 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II05 *act_II *date_1643 *creator_ouville
 
 -*who_diane
 Clitandre s'entretient long-temps avec Elize,
@@ -1197,7 +1197,7 @@ J'oy du bruit, voy qui c'est.
 -*who_julie
       C'est Clitandre, Madame.
 
-**** *book_ *id_body-406 *act_ *date_1643 *creator_ouville
+**** *book_ *id_II06 *act_II *date_1643 *creator_ouville
 
 -*who_diane
 Qu'il est triste ? avez vous quelque trouble dans l'ame ?
@@ -1358,7 +1358,7 @@ Sortons, n'arrestons pas d'avantage en ce lieu.
 Allons revoir Élize. Adieu Diane, Adieu.
 Fin du second Acte
 
-**** *book_ *id_body-501 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III01 *act_III *date_1643 *creator_ouville
 
 -*who_clorimant
 Tout mon fait est-il prest ?
@@ -1455,7 +1455,7 @@ Veux-tu que tout de bon je me mette en colere !
 En colere ? pourquoy ! vous n'auriez guere à faire.
 Elle entre icy, Monsieur.
 
-**** *book_ *id_body-502 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III02 *act_III *date_1643 *creator_ouville
 
 -*who_pauline
       O le brave⁎ soldat !
@@ -1602,7 +1602,7 @@ Ne me parle jamais de cette ingratte, Adieu.
 -*who_pauline
 Je reviendray tantost, vous estes en colere.
 
-**** *book_ *id_body-503 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III03 *act_III *date_1643 *creator_ouville
 
 -*who_geraste
 Vous avez tort, Monsieur, mais que pensez-vous faire ?
@@ -1678,7 +1678,7 @@ De jour, comment cela ?
       Ne t'en mets pas en peine.
 Grands Dieux changez Elize, ou mon Amour en haine.
 
-**** *book_ *id_body-504 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III04 *act_III *date_1643 *creator_ouville
 
 -*who_ormin
 Vous estes tout pensif, qu'avez vous ?
@@ -1758,7 +1758,7 @@ Je m'en vais appeler, mais faites que l'on voye
 Des marques sur ce front d'allegresse, & de joie.
 Tout est ouvert entrons.
 
-**** *book_ *id_body-505 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III05 *act_III *date_1643 *creator_ouville
 
 -*who_polemas
       Toute la Cour, Monsieur,
@@ -1809,7 +1809,7 @@ Des sieges promptement.
 -*who_elize
 Grands Dieux, c'est à ce coup qu'on attente⁎ à ma vie.
 
-**** *book_ *id_body-506 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III06 *act_III *date_1643 *creator_ouville
 
 -*who_pauline
 Un Cavalier⁎ là bas vous demande, Monsieur.
@@ -2020,7 +2020,7 @@ Adieu, je ne veux pas arrester davantage.
 -*who_octave
 Puissiez-vous revenir en santé du voyage.
 
-**** *book_ *id_body-507 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III07 *act_III *date_1643 *creator_ouville
 
 -*who_polemas
 Ce Cavalier⁎ icy sans doute me prenoit
@@ -2052,7 +2052,7 @@ Disposez comme estant enfant de la maison.
 -*who_clitandre
 Vous me rendez confus par cét honneur extresme.
 
-**** *book_ *id_body-508 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III08 *act_III *date_1643 *creator_ouville
 
 -*who_ormin
 Je ne sçaurois celer, Pauline, que je t'ayme.
@@ -2120,7 +2120,7 @@ Je sors donc, & ce soir je vous verray, Madame.
 -*who_elize
 Faites ce qu'il vous plaist.
 
-**** *book_ *id_body-509 *act_ *date_1643 *creator_ouville
+**** *book_ *id_III09 *act_III *date_1643 *creator_ouville
 
 -*who_elize
       Ah, Pauline, je pasme !
@@ -2179,7 +2179,7 @@ Mon pere, c'en est faict, pardonnez cette offence,
 Mon Amour est plus fort que mon obeïssance.
 Fin du troisiesme Acte
 
-**** *book_ *id_body-601 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV01 *act_IV *date_1643 *creator_ouville
 
 -*who_clorimant
 Est-il dessous le Ciel un plus heureux Amant ?
@@ -2253,7 +2253,7 @@ Que deviendray-je moy ?
 -*who_julie
       Va te cacher aussi.
 
-**** *book_ *id_body-602 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV02 *act_IV *date_1643 *creator_ouville
 
 -*who_elize
 Parce que vous avez juste subject de plainte,
@@ -2397,7 +2397,7 @@ Octave monte icy, Madame, avec Clitandre.
 Dieux il me faut cacher je ne m'en puis deffendre.
 Grands Dieux que faites vous ?
 
-**** *book_ *id_body-603 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV03 *act_IV *date_1643 *creator_ouville
 
 -*who_octave
       En cette occasion⁎
@@ -2514,7 +2514,7 @@ Sçauroit on jamais voir deux Amans plus honteux ?
 -*who_julie
 Vous les avez tuez d'un mesme coup tous deux.
 
-**** *book_ *id_body-604 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV04 *act_IV *date_1643 *creator_ouville
 
 -*who_clorimant
 Justes Dieux quels dédains vous me faites paroistre,
@@ -2582,7 +2582,7 @@ D'une si detestable & noire trahison ?
 Puis que je t'ay trouvé caché dans sa maison.
 Je ne te veux ny voir ny parler de ma vie.
 
-**** *book_ *id_body-605 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV05 *act_IV *date_1643 *creator_ouville
 
 -*who_clorimant
 Acheve-moy cruelle, assouvy ton envie.
@@ -2603,7 +2603,7 @@ Veux-tu comme ton maistre estre ingrat.
       Laisse moy.
 Je veux suivre Pauline & luy garder la foy⁎.
 
-**** *book_ *id_body-606 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV06 *act_IV *date_1643 *creator_ouville
 
 -*who_diane
 Que dis-tu de cela ? vois-tu comme on nous traitte ?
@@ -2617,7 +2617,7 @@ Clitandre est à mes yeux encore plus charmant.
 J'auray pour son subject tousjours mesme tendresse,
 Quoy qu'inconstant⁎ pourveu qu'Elize me le laisse.
 
-**** *book_ *id_body-607 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV07 *act_IV *date_1643 *creator_ouville
 
 -*who_ormin
 Pensez y mieux Monsieur, pourquoy desirez vous
@@ -2683,7 +2683,7 @@ Allons soupper devant retirons-nous sans bruit.
 -*who_ormin
 C'est fort bien dit Monsieur, je vais à la cuisine.
 
-**** *book_ *id_body-608 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV08 *act_IV *date_1643 *creator_ouville
 
 -*who_clorimant
 Geraste escoute un mot, dis-tu pas que Pauline
@@ -2710,7 +2710,7 @@ Mais ce que vous voulez ne sçaurois-je luy dire.
 -*who_clorimant
 Comme moy tu ne peux exprimer mon martire⁎.
 
-**** *book_ *id_body-609 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV09 *act_IV *date_1643 *creator_ouville
 
 -*who_elize
 Geraste doit-il pas te venir voir icy ?
@@ -2918,7 +2918,7 @@ Tes escrits, tes rubans, tes indignes cheveux,
 Et je vay dans le vin esteindre tous mes feux⁎.
 Tu t'en repentiras, je jure aussi bien qu'elle.
 
-**** *book_ *id_body-610 *act_ *date_1643 *creator_ouville
+**** *book_ *id_IV10 *act_IV *date_1643 *creator_ouville
 
 -*who_elize
 Il est le seul coupable & me fait criminelle.
@@ -3047,7 +3047,7 @@ Va je ne te crains plus, & croy, quoy que tu faces,
 Qu'à present je me ry de toutes tes menaces.
 Fin du quatriesme Acte
 
-**** *book_ *id_body-701 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V01 *act_V *date_1643 *creator_ouville
 
 -*who_octave
 D'où vient que je vous voy, Monsieur si tost levé ?
@@ -3081,7 +3081,7 @@ Il est un peu matin, & ma sœur que je croy
 Ne peut pas à cette heure estre encor esveillée.
 Mais la voicy qui sort, mesme toute habillée.
 
-**** *book_ *id_body-702 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V02 *act_V *date_1643 *creator_ouville
 
 -*who_polemas
 Ma fille quel sujet vous fait veiller ainsi ?
@@ -3206,7 +3206,7 @@ Fay qu'il vienne avec toy.
 Puis que ta lascheté⁎ se fait ainsi paroistre,
 Amour fay qu'aujourd'huy je me vange du traistre.
 
-**** *book_ *id_body-703 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V03 *act_V *date_1643 *creator_ouville
 
 -*who_clitandre
 C'en est fait me voilà maintenant desgagé⁎,
@@ -3234,7 +3234,7 @@ Entrons donc chez Diane.
 -*who_ormin
       Elle sort je la voy.
 
-**** *book_ *id_body-704 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V04 *act_V *date_1643 *creator_ouville
 
 -*who_diane
 Que veut dire cela ? Clitandre entrer chez moy ?
@@ -3370,7 +3370,7 @@ J'entens monter quelqu'un, Madame, c'est Octave.
 -*who_clitandre
 Il vient pour m'attaquer, il vient faire du brave.
 
-**** *book_ *id_body-705 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V05 *act_V *date_1643 *creator_ouville
 
 -*who_octave
 Comme je vous cherchois, quelqu'un m'a dit Monsieur,
@@ -3465,7 +3465,7 @@ Pourrois-je justement abandonner mon maistre ?
 -*who_julie
 Je n'attendois pas moins d'un perfide & d'un traistre.
 
-**** *book_ *id_body-706 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V06 *act_V *date_1643 *creator_ouville
 
 -*who_julie
 Encor que dites-vous de cette lascheté⁎ ?
@@ -3492,7 +3492,7 @@ Madame le voilà.
       Te mocques⁎ tu Julie ?
 Ma joye est à present de tout point accomplie.
 
-**** *book_ *id_body-707 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V07 *act_V *date_1643 *creator_ouville
 
 -*who_julie
 Quoy vous estes icy Clorimant ? justes Dieux !
@@ -3593,7 +3593,7 @@ Avecque mes parents à present dans le temple,
 Dessous les mesmes loix je m'en vay me ranger,
 Et me joindre à Diane afin de me vanger.
 
-**** *book_ *id_body-708 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V08 *act_V *date_1643 *creator_ouville
 
 -*who_polemas
 Des sieges promptement, sçachez mon cher Clitandre,
@@ -3728,7 +3728,7 @@ Je luy souffre⁎ en ce cas d'agir comme il luy plaist.
 -*who_elize
 Je cherche mon repos, & vous vostre interest.
 
-**** *book_ *id_body-709 *act_ *date_1643 *creator_ouville
+**** *book_ *id_V09 *act_V *date_1643 *creator_ouville
 
 -*who_clorimant
 Par vostre mandement je suis venu, Madame,

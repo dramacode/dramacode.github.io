@@ -143,7 +143,7 @@ Je luy ay donné un interest d'amour & de jalousie qui sert à mon action princi
 J'avoüe que le caractere de Fulvie est entierement de mon invention, & qu'elle fait l'epizode de ma Piece, on l'y trouve amenée avec bien sceance, & elle a des sentimens assez dignes d'une Romaine, pour ne pas faire rougir Regulus du dessein qu'il a de l'épouser aprés la prise de Cartage.
 Enfin sans faire une plus longue discution, je puis dire que cét Ouvrage a frapé si vivement tout le public, & les Acteurs en ont remply si dignement les caracteres, que cela me doit encourager à l'avenir à travailler avec plus d'ap- plication que jamais, & à chercher des sujets dont la grandeur soutienne celuy de Regulus, qui a trompé les Satyriques, puisqu'il a eu un sort⁎ à Paris moins cruel que celuy qu'il eut à Cartage.
 
-**** *book_ *id_body-501 *act_ *date_1688 *creator_pradon
+**** *book_ *id_I01 *act_I *date_1688 *creator_pradon
 
 -*who_metellus
 SEIGNEUR, je suis charmé de vous voir prés de nous,
@@ -265,7 +265,7 @@ Il a voulu venir dans le Camp de Cartage,
 A peine a-t-il encor deux lustres accomplis,
 Que déja de son Pere il est le digne Fils.
 
-**** *book_ *id_body-502 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_I02 *act_I *date_1688 *creator_pradon 
 
 -*who_priscus
 Je viens remplir le choix dont Scipion m'honore,
@@ -352,7 +352,7 @@ Nous allons (s'il se peut) rendre Rome contente,
 Et quand il sera temps nostre zele & nos soins⁎
 N'en prendront aujourd'huy que vos yeux pour témoins.
 
-**** *book_ *id_body-503 *act_ *date_1688 *creator_pradon
+**** *book_ *id_I03 *act_I *date_1688 *creator_pradon
 
 -*who_regulus
 Cartage nous fournit une illustre matiere
@@ -450,7 +450,7 @@ Mais il fait tous les jours son devoir comme un autre,
 Il vient, & son ardeur rassure mes esprits⁎,
 Je verray vôtre Fille, allez trouver mon Fils.
 
-**** *book_ *id_body-504 *act_ *date_1688 *creator_pradon
+**** *book_ *id_I04 *act_I *date_1688 *creator_pradon
 
 -*who_mannius
 Tout flate vos desseins, & tout vous favorise,
@@ -490,7 +490,7 @@ Dans peu vous reviendrez me trouver dans ma tente,
 Que la gloire de Rome anime vôtre espoir,
 Vous m'entendez, Tribun, faites vôtre devoir.
 
-**** *book_ *id_body-505 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_I05 *act_I *date_1688 *creator_pradon 
 
 -*who_mannius
 Qu'entens-je Regulus en moy seul se confie,
@@ -530,7 +530,7 @@ Je le dois à ma flamme autant qu'à ma vengeance ;
 Allons sans balancer servir nos ennemis,
 Et leur tenir enfin tout ce que j'ay promis.
 
-**** *book_ *id_body-601 *act_ *date_1688 *creator_pradon
+**** *book_ *id_II01 *act_II *date_1688 *creator_pradon
 
 -*who_fulvie
 PRISCUS est dans ce Camp, enfin Rome est instruite
@@ -642,7 +642,7 @@ Aprés cela sa gloire en doit estre contente,
 Regulus est trop seur de l'immortalité,
 Et n'en a que trop fait pour la posterité.
 
-**** *book_ *id_body-602 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_II02 *act_II *date_1688 *creator_pradon 
 
 -*who_regulus
 NON, non, je n'ay rien fait si je ne prens Cartage,
@@ -745,7 +745,7 @@ Il estoit le plus grand de tous vos ennemis,
 Pour l'en punir partez, oubliez sa tendresse,
 Et que la gloire soit vostre unique maîtresse⁎.
 
-**** *book_ *id_body-603 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_II03 *act_II *date_1688 *creator_pradon 
 
 -*who_regulus
 Ah ! Seigneur, servez-vous de vostre authorité,
@@ -770,7 +770,7 @@ J'adore⁎ sa vertu⁎, je cheris sa tendresse,
 Je cours où mon devoir m'appelle, & je vous laisse,
 Adieu, Madame, vous prenez soin⁎ de mon fils.
 
-**** *book_ *id_body-604 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_II04 *act_II *date_1688 *creator_pradon 
 
 -*who_metellus
 He' quoy ? donc nous serons tous deux desobeïs,
@@ -844,7 +844,7 @@ Mannius doit venir pour vous prester la main,
 Dites-luy que pour vous j'ay changé de dessein ;
 Adieu, mais oubliez toute vostre foiblesse.
 
-**** *book_ *id_body-605 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_II05 *act_II *date_1688 *creator_pradon 
 
 -*who_fulvie
 Ciel ! que ne dois-je point à sa juste tendresse,
@@ -853,7 +853,7 @@ Mais pourquoy Mannius prend-il de nouveaux soins⁎ ?
 Pourquoy pour m'escorter s'offre-t-il à mon pere ?
 Pourquoy ?....mais j'en sçay trop penetrer le mistere.
 
-**** *book_ *id_body-606 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_II06 *act_II *date_1688 *creator_pradon 
 
 -*who_mannius
 Madame, tout est prest si vous voulez partir,
@@ -878,7 +878,7 @@ Où mon pere est, Seigneur, je ne vois rien à craindre,
 Je sçauray partager les perils avec luy ;
 Allez à Clypea nous attendre aujourd'huy.
 
-**** *book_ *id_body-607 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_II07 *act_II *date_1688 *creator_pradon 
 
 -*who_mannius
 Ah ! sans aller si loin, vous iriez à Cartage,
@@ -896,7 +896,7 @@ Il faut vers Xantipus que je guide ses pas ;
 Ouy, ce poste qu'il veut avec moy reconnoître,
 Luy va couter le jour, ou luy donner un maître.
 
-**** *book_ *id_body-701 *act_ *date_1688 *creator_pradon
+**** *book_ *id_III01 *act_III *date_1688 *creator_pradon
 
 -*who_metellus
 Est-il donc vray, Priscus ?
@@ -976,7 +976,7 @@ Seigneur, voicy Fulvie, ah ! cachons luy de grace
 Du sort de Regulus la cruelle disgrace,
 D'un funeste recit épargnons luy l'éclat.
 
-**** *book_ *id_body-702 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_III02 *act_III *date_1688 *creator_pradon 
 
 -*who_fulvie
 Seigneur, apprenez-moy le succés du combat,
@@ -1033,7 +1033,7 @@ Montrez-vous à nos yeux aussi ferme que luy ;
 Il est quelques perils où la guerre nous livre,
 Je sors, & vous défens, ma fille, de nous suivre.
 
-**** *book_ *id_body-703 *act_ *date_1688 *creator_pradon
+**** *book_ *id_III03 *act_III *date_1688 *creator_pradon
 
 -*who_fulvie
 Mon pere de ces lieux me défend de sortir
@@ -1062,7 +1062,7 @@ On nous trompe, te dis-je, allons, courons nous rendre....
 Mais je voy Mannius, que venez-vous m'apprendre
 Mannius.
 
-**** *book_ *id_body-704 *act_ *date_1688 *creator_pradon
+**** *book_ *id_III04 *act_III *date_1688 *creator_pradon
 
 -*who_mannius
               Des malheurs où je n'ose penser,
@@ -1149,7 +1149,7 @@ J'en remets la vengeance aux armes de Cartage,
 Je sens, comme je dois ces mépris éclatans,
 Et vous me connoîtrez, Madame, avec le temps.
 
-**** *book_ *id_body-705 *act_ *date_1688 *creator_pradon
+**** *book_ *id_III05 *act_III *date_1688 *creator_pradon
 
 -*who_fulvie
 Lasche, pour te punir d'une telle insolence,
@@ -1163,7 +1163,7 @@ Et redouble aujourd'huy l'horreur que j'ay pour toy ;
 Ah ! Lepide, parlez, dites, que fait mon pere,
 Que dois-je craindre, helas ! que faut-il que j'espere ?
 
-**** *book_ *id_body-706 *act_ *date_1688 *creator_pradon
+**** *book_ *id_III06 *act_III *date_1688 *creator_pradon
 
 -*who_lepide
 Ah ! Madame, esperez que dans peu les Romains
@@ -1185,7 +1185,7 @@ Esperer....
 Plaise aux Dieux qu'en ce jour il propose la paix
 Lepide, ce sont là mes plus ardans souhaits !
 
-**** *book_ *id_body-707 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_III07 *act_III *date_1688 *creator_pradon 
 
 -*who_metellus
 Pour épargner vos pleurs & vostre ame étonnée⁎,
@@ -1207,7 +1207,7 @@ J'obeïs,
 -*who_metellus
       Laissez-nous.
 
-**** *book_ *id_body-708 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_III08 *act_III *date_1688 *creator_pradon 
 
 -*who_metellus
                       Mon ame est allarmée,
@@ -1297,7 +1297,7 @@ Pour l'un & l'autre enfin je partage mes vœux,
 Mon sentiment, Seigneur, s'accorde avec le vostre,
 Et je voudrois donner mes jours pour l'un & l'autre.
 
-**** *book_ *id_body-709 *act_ *date_1688 *creator_pradon
+**** *book_ *id_III09 *act_III *date_1688 *creator_pradon
 
 -*who_lepide
 Seigneur, Regulus vient, j'ay dû vous avertir
@@ -1310,7 +1310,7 @@ Il marche vers ces lieux,
                       Faisons nostre devoir,
 A la teste du Camp allons le recevoir.
 
-**** *book_ *id_body-801 *act_ *date_1688 *creator_pradon
+**** *book_ *id_IV01 *act_IV *date_1688 *creator_pradon
 
 -*who_mannius
 Quel retour impréveu ? j'ay peine à me connoître,
@@ -1330,7 +1330,7 @@ Hé ! qui pouroit douter de ma foy, de mon zele ?
 Il faut m'abandonner en aveugle à mon sort,
 Je perds Fulvie, helas ! & je cherche la mort.
 
-**** *book_ *id_body-802 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_IV02 *act_IV *date_1688 *creator_pradon 
 
 -*who_lepide
 Seigneur, quand tout le Camp marque tant d'allegresse,
@@ -1380,7 +1380,7 @@ Nous le verrons bien-tôt, & déja Metellus....
 -*who_mannius
 Juste Ciel ! il avance avecque Regulus.
 
-**** *book_ *id_body-803 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_IV03 *act_IV *date_1688 *creator_pradon 
 
 -*who_regulus
 La fortune, Romains, vient de changer de face,
@@ -1569,7 +1569,7 @@ Moy, Seigneur ? je pourois....
                       Ne me répondez plus,
 Allez, & qu'on me laisse avecque Metellus.
 
-**** *book_ *id_body-804 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_IV04 *act_IV *date_1688 *creator_pradon 
 
 -*who_regulus
 Seigneur, nous sommes seuls, & je puis sans contrainte
@@ -1633,7 +1633,7 @@ Je craindrois d'oublier ma patrie & ma gloire,
 Je dois la fuir, Seigneur, aussi bien que mon fils,
 Elle paroît, tâchez de calmer ses esprits⁎.
 
-**** *book_ *id_body-805 *act_ *date_1688 *creator_pradon
+**** *book_ *id_IV05 *act_IV *date_1688 *creator_pradon
 
 -*who_fulvie
 Où donc est Regulus, Seigneur, toute l'armée,
@@ -1685,7 +1685,7 @@ Helas ! vous n'y prendrez que trop de part ma fille ;
 Mais si vous m'en croyez, faites-vous cet effort,
 Ne vous informez plus, ma fille, de son sort.
 
-**** *book_ *id_body-806 *act_ *date_1688 *creator_pradon
+**** *book_ *id_IV06 *act_IV *date_1688 *creator_pradon
 
 -*who_fulvie
 Que veut-il dire, ah Ciel ! je passe de la joye
@@ -1702,7 +1702,7 @@ Faustine, explique-moy les pleurs de Metellus,
 Pourquoy dans ces momens se cache Regulus ?
 Mais que me veut Priscus qui paroît tout en larmes ?
 
-**** *book_ *id_body-807 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_IV07 *act_IV *date_1688 *creator_pradon 
 
 -*who_priscus
 Ah ! Madame, je viens augmenter vos allarmes⁎,
@@ -1745,7 +1745,7 @@ Peut-estre en vous voyant tous deux...
 Pourons-nous empescher un si cruel départ ?
 Allons... mais que je crains de luy parler trop tard.
 
-**** *book_ *id_body-901 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V01 *act_V *date_1688 *creator_pradon
 
 -*who_regulus
 Quoy ? l'on me veut livrer à la noire infamie,
@@ -1802,7 +1802,7 @@ Vous vous repentirez d'un si sanglant outrage,
 Vous attaquez ma gloire empeschant mon retour,
 Je vous pardonnerois si vous m'ostiez le jour.
 
-**** *book_ *id_body-902 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V02 *act_V *date_1688 *creator_pradon
 
 -*who_priscus
 Seigneur, ayez pitié de la triste Fulvie,
@@ -1824,7 +1824,7 @@ Elle vous cherche.
 -*who_regulus
               Ah Dieux ! fuyons. Mais on l'ameine.
 
-**** *book_ *id_body-903 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V03 *act_V *date_1688 *creator_pradon
 
 -*who_fulvie
 Ne croyez pas, Seigneur, que pour vous attendrir,
@@ -1882,7 +1882,7 @@ Je sens que ma vertu⁎ dans le trouble où je suis
 Pouroit....sortons ; mais Dieux ! l'on m'ameine mon fils :
 Voila le dernier trait⁎ que me gardoit Lepide.
 
-**** *book_ *id_body-904 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V04 *act_V *date_1688 *creator_pradon
 
 -*who_attilius
 Seigneur, où courez-vous ? quel dessein parricide⁎
@@ -1909,7 +1909,7 @@ Justes Dieux ! ah ! mon fils !
                       Seigneur, tant de tendresse
 Ne peut-elle toucher ?...
 
-**** *book_ *id_body-905 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_V05 *act_V *date_1688 *creator_pradon 
 
 -*who_regulus
                   Ciel ! je voy Metellus,
@@ -1972,7 +1972,7 @@ Il court où son devoir l'appelle, & nous au nôtre.
 Esperez cependant⁎, Priscus, moy, les Romains,
 Nous allons l'arracher aux cruels Africains.
 
-**** *book_ *id_body-906 *act_ *date_1688 *creator_pradon 
+**** *book_ *id_V06 *act_V *date_1688 *creator_pradon 
 
 -*who_fulvie
 Quel espoir justes Dieux !
@@ -2000,7 +2000,7 @@ Qu'il laisse à sa patrie un fils digne de luy.
 Hé bien ? Seigneur, allons, il faut vous satisfaire,
 Ah ! trop genereux fils d'un trop malheureux pere !
 
-**** *book_ *id_body-907 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V07 *act_V *date_1688 *creator_pradon
 
 -*who_fulvie
 Mon pere & Regulus me quittent, quel effroy !
@@ -2021,7 +2021,7 @@ Vous devez esperer....
                   Que veux-tu que j'espere ?
 Tu connois Regulus, & tu connois mon pere.
 
-**** *book_ *id_body-908 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V08 *act_V *date_1688 *creator_pradon
 
 -*who_marcelle
 Ah ! Madame, apprenez le plus grand des forfaits
@@ -2052,7 +2052,7 @@ Ce n'est point Mannius qui trahit sa patrie,
 C'est le fatal amour de la triste Fulvie :
 Ah ! Seigneur, qu'a-t'on fait ? & Regulus enfin....
 
-**** *book_ *id_body-909 *act_ *date_1688 *creator_pradon
+**** *book_ *id_V09 *act_V *date_1688 *creator_pradon
 
 -*who_priscus
 Du plus grand des Heros aprenez le destin.

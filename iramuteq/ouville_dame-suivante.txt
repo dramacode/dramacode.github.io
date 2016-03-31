@@ -23,7 +23,7 @@ obeïssant serviteur,
 
 D'OUVILLE
 
-**** *book_ *id_body-301 *act_ *date_1643
+**** *book_ *id_I01 *act_I *date_1643
 
 -*who_climante
 Oüy vous avez querelle, et je sçay de certain
@@ -76,7 +76,7 @@ Vous sçaurez le premier cette heureuse nouvelle.
 Adieu donc cher Amy, puis que je ne puis mieux,
 Je vay faire pour vous des prieres aux Cieux. 
 
-**** *book_ *id_body-302 *act_ *date_1643
+**** *book_ *id_I02 *act_I *date_1643 
 
 -*who_climante
 Je le quitte à regret. Le sort douteux des armes
@@ -96,7 +96,7 @@ Mais que veut cette femme ?
 -*who_carlin
       Elle vient brusquement.
 
-**** *book_ *id_body-303 *act_ *date_1643
+**** *book_ *id_I03 *act_I *date_1643 
 
 -*who_isabelle
 Protegez, Cavalier, une innocente femme,
@@ -140,7 +140,7 @@ Je vous garantirois où je perdrois la vie.
 J'accepte cet honneur, mais à condition
 Qu'encor je vous auray cette obligation,
 Que dans l'apartement où vous me voulez mettre,
-Nul n'entrera que vous, le voulez-vous promettre ?
+Nul n'entrera que vous, le voulez-vous promettre ? 
 
 -*who_climante
 Non seulement je doy vous accorder ce poinct,
@@ -150,7 +150,7 @@ Enfermez-vous dedans, et n'ouvrez à personne,
 Je m'en vay voir dehors si l'on vous poursuit pas.
 Carlin, va la conduire.
 
-**** *book_ *id_body-304 *act_ *date_1643
+**** *book_ *id_I04 *act_I *date_1643
 
 -*who_climante
       O Dieux qu'elle a d'appas,
@@ -190,7 +190,7 @@ Qui sçait subtilement ployer une toilette⁎.
 -*who_climante
 Laissons-là ce discours, tai-toy, sortons d'icy.
 
-**** *book_ *id_body-305 *act_ *date_1643
+**** *book_ *id_I05 *act_I *date_1643
 
 -*who_isabelle
 Sont-ils partis, Dorise.
@@ -287,7 +287,7 @@ Perdu le jugement.
 -*who_dorise
       Je le croy, mais j'en tremble.
 
-**** *book_ *id_body-306 *act_ *date_1643
+**** *book_ *id_I06 *act_I *date_1643
 
 -*who_leonor
 Qu'on fasse promptement avancer mon cocher.
@@ -403,7 +403,7 @@ Vous me le commandez, j'obey sans replique.
 -*who_carlin
 Mieux que nous n'esperions la chose a reüssi.
 
-**** *book_ *id_body-307 *act_ *date_1643
+**** *book_ *id_I07 *act_I *date_1643
 
 -*who_isabelle
 Climante tarde trop, retirons-nous d'ici,
@@ -450,7 +450,7 @@ Mais pourtant.
 Va va, je ne suis pas si seule que tu penses,
 J'ay bonne compagnie estant seule avec moy.
 
-**** *book_ *id_body-308 *act_ *date_1643
+**** *book_ *id_I08 *act_I *date_1643
 
 -*who_climante
 Que fait vostre Maistresse ?
@@ -536,7 +536,7 @@ Il est proche parent du Mary que je crains.
 R'entrez, et là dedans vos soubçons seront vains,
 Ne redoutez, Madame, ici nulle surprise.
 
-**** *book_ *id_body-309 *act_ *date_1643
+**** *book_ *id_I09 *act_I *date_1643
 
 -*who_adraste
 Dieux que je suis surpris ! seroit-ce bien Dorise
@@ -598,7 +598,7 @@ Que ce soit Leonor, et non pas Isabelle.
 -*who_climante
 Vous me permettrez bien de r'entrer avec elle.
 
-**** *book_ *id_body-310 *act_ *date_1643
+**** *book_ *id_I10 *act_I *date_1643 
 
 -*who_leonor
 C'est Adraste qui sort de chez luy.
@@ -844,7 +844,7 @@ Courons, cette impudente a destruit mon amour.
 L'adrette, la matoise⁎, ô Dieux le plaisant tour !
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1643
+**** *book_ *id_II01 *act_II *date_1643
 
 -*who_adraste
 Quoy, Climante n'est pas en son logis, Ariste ?
@@ -940,7 +940,7 @@ Ne payez pas si mal mes fidelles services ;
 Ou me donnez la mort, si je ne puis un jour
 Recueillir aucun fruit de ma parfaite Amour.
 
-**** *book_ *id_body-402 *act_ *date_1643
+**** *book_ *id_II02 *act_II *date_1643 
 
 -*who_pamphile
 Songez-y mieux, Madame, et que pensez-vous faire ?
@@ -1049,7 +1049,7 @@ L'ordre que je te donne.
       Il n'est pas difficile,
 Vous estes sans mentir estrange en vos desseins.
 
-**** *book_ *id_body-403 *act_ *date_1643
+**** *book_ *id_II03 *act_II *date_1643 
 
 -*who_leonor
 Si belle, me dis-tu ?
@@ -1181,7 +1181,7 @@ Je r'entre, l'heur m'en veut, j'ay si bien rencontré⁎,
 Que servante jamais ne fust plus à mon gré.
 Pren congé de ton Pere, et luy dy qu'il s'en aille.
 
-**** *book_ *id_body-404 *act_ *date_1643
+**** *book_ *id_II04 *act_II *date_1643 
 
 -*who_isabelle
 Tu me vois à present dans le champ de bataille,
@@ -1202,7 +1202,7 @@ Allons jusques au bout.
 Climante ; justes Dieux que doy-je devenir ?
 Il faut dissimuler.
 
-**** *book_ *id_body-405 *act_ *date_1643
+**** *book_ *id_II05 *act_II *date_1643 
 
 -*who_climante
       Je ne tarderay guere,
@@ -1230,7 +1230,7 @@ Je sers ici, Monsieur.
       J'ay tort, je le confesse,
 O Dieux qu'elle a d'appas ! quel beau teint ! quels beaux yeux !
 
-**** *book_ *id_body-406 *act_ *date_1643
+**** *book_ *id_II06 *act_II *date_1643 
 
 -*who_leonor
 Excusez-la, Monsieur, elle est neuve en ces lieux,
@@ -1290,7 +1290,7 @@ Si tard que vous pensez.
 -*who_isabelle
 Je m'en vay seulement dire un mot à mon pere.
 
-**** *book_ *id_body-407 *act_ *date_1643
+**** *book_ *id_II07 *act_II *date_1643 
 
 -*who_carlin
 Ce visage n'est point un visage ordinaire,
@@ -1444,7 +1444,7 @@ Je ne l'ay jamais veu.
 -*who_carlin
       Mot, ils sortent ensemble.
 
-**** *book_ *id_body-408 *act_ *date_1643
+**** *book_ *id_II08 *act_II *date_1643 
 
 -*who_leonor
 Qu'on fasse donc venir le carosse ?
@@ -1505,7 +1505,7 @@ Tout m'arrive à souhait, grands Dieux je vous conjure
 De donner à Dorise une heureuse⁎ adventure.
 Fin du second Acte.
 
-**** *book_ *id_body-501 *act_ *date_1643
+**** *book_ *id_III01 *act_III *date_1643
 
 -*who_dorise
 Pamphile m'a trouvée avec un grand hazard⁎,
@@ -1540,7 +1540,7 @@ Allons, ne troublons point cette bonne fortune,
 Ma visite aujourd'huy luy seroit importune :
 Je serois bien marry⁎ si je l'avois trouvé.
 
-**** *book_ *id_body-502 *act_ *date_1643
+**** *book_ *id_III02 *act_III *date_1643
 
 -*who_leonor
 Climante, à vostre avis sera-t'il arrivé ?
@@ -1576,13 +1576,13 @@ Et puis avecque luy vous serez miserable.
 
 -*who_leonor
 Sans doute tu dis vray, mais je l'ayme, tay-toy,
-Le voici, je l'entens.
+Le voici, je l'entens. 
 
 -*who_isabelle
       Il est vray, je le voy,
 L'agreable sujet du trouble de mon ame.
 
-**** *book_ *id_body-503 *act_ *date_1643
+**** *book_ *id_III03 *act_III *date_1643
 
 -*who_leonor
 Vous avez bien tardé ?
@@ -1664,9 +1664,9 @@ Emporta hier la clef ?
 
 -*who_climante
       Tu dis vray, mais voilà
-L'autre que j'ay sur sur moy.
+L'autre que j'ay sur sur moy. 
 
-**** *book_ *id_body-504 *act_ *date_1643
+**** *book_ *id_III04 *act_III *date_1643
 
 -*who_dorise
       Je ne sçaurois comprendre
@@ -1698,7 +1698,7 @@ Comme il fait l'estonné ?
 
 -*who_leonor
 Il m'attend, il me traitte⁎, et ne peut un seul jour
-Bannir l'infame objet⁎ d'un impudique Amour.
+Bannir l'infame objet⁎ d'un impudique Amour. 
 
 -*who_dorise
 Estes-vous si surpris que vous témoignez l'estre,
@@ -1901,7 +1901,7 @@ Vous ne trouverez rien dequoy dîner chez vous.
 -*who_leonor
 Allons, la Ville est bonne.
 
-**** *book_ *id_body-505 *act_ *date_1643
+**** *book_ *id_III05 *act_III *date_1643
 
 -*who_climante
       O Dieux ! quelle surprise !
@@ -1942,7 +1942,7 @@ Aux heures seulement que l'autre y vient aussi ?
 Elle ne me dit mot. Ah ! toutes deux ensemble
 Sont d'accord pour troubler mes desseins, ce me semble.
 
-**** *book_ *id_body-506 *act_ *date_1643
+**** *book_ *id_III06 *act_III *date_1643
 
 -*who_isabelle
 Ma Maistresse, Monsieur, est-elle encor ici ?
@@ -2107,7 +2107,7 @@ Je vais y travailler.
       Tout va bien jusqu'ici :
 Dieux ! faites-moy le bien que tout s'acheve ainsi.
 
-**** *book_ *id_body-507 *act_ *date_1643
+**** *book_ *id_III07 *act_III *date_1643 
 
 -*who_climante
 Que te semble, Carlin, de cette étrange histoire ?
@@ -2213,7 +2213,7 @@ Je viens dans un quart-d'heure, et plutost si je puis.
 Grands Dieux ! delivrez moy de la peine où je suis.
 Fin du troisiesme Acte.
 
-**** *book_ *id_body-601 *act_ *date_1643
+**** *book_ *id_IV01 *act_IV *date_1643
 
 -*who_dorise
 Mais encore, Carlin, que veux-tu que je fasse ?
@@ -2295,7 +2295,7 @@ Mais j'en ay le profit, je ne m'en sçaurois taire,
 Je vous dis en trois mots tout ce qu'elle m'a dit.
 Après m'avoir payée elle a repris l'habit,
 Et puis j'ay pris congé de ce parfait visage :
-Je ne sçaurois, Monsieur, en dire davantage.
+Je ne sçaurois, Monsieur, en dire davantage. 
 
 -*who_climante
 Sans doute Dorotée a dit la verité,
@@ -2316,7 +2316,7 @@ Monsieur, je vous rends grace.
       Ah ! je bruslois en l'ame
 Du desir de sçavoir quelle estoit cette Dame.
 
-**** *book_ *id_body-602 *act_ *date_1643
+**** *book_ *id_IV02 *act_IV *date_1643 
 
 -*who_carlin
 Quoy, tu me trompois donc en me faisant sçavoir
@@ -2352,7 +2352,7 @@ Tu m'accuses à tort, va tu n'as pas raison.
 Un bel œil pour me vaincre est une faible amorce,
 Ta bague, et tes escus ont beaucoup plus de force.
 
-**** *book_ *id_body-603 *act_ *date_1643
+**** *book_ *id_IV03 *act_IV *date_1643 
 
 -*who_isabelle
 M'en doutoy-je pas bien, desloyal, imposteur,
@@ -2390,7 +2390,7 @@ Vien-ça, que luy dis-tu ?
 
 -*who_dorise
 Or sus⁎ declare-toy, dis à qui tu veux estre,
-Je veux sçavoir ici si tu n'es pas un traistre.
+Je veux sçavoir ici si tu n'es pas un traistre. 
 
 -*who_isabelle
 Parle donc promptement.
@@ -2435,7 +2435,7 @@ Adieu, ton Maistre vient.
 -*who_dorise
 Je ne souffriray pas qu'on se mocque de moy.
 
-**** *book_ *id_body-604 *act_ *date_1643
+**** *book_ *id_IV04 *act_IV *date_1643 
 
 -*who_climante
 De quels excez d'ennuis⁎ mon ame est agitée ?
@@ -2472,7 +2472,7 @@ Cette arrogante a tort se croyant outragée,
 Dessous le joug d'Hymen aujourd'huy s'est rangée
 Avec un autre Amant, ou, pour n'en mentir point,
 Si cet Hymen n'est pas accomply de tout poinct,
-La chose est resoluë.
+La chose est resoluë. 
 
 -*who_climante
       Elle s'est bien hastée :
@@ -2600,7 +2600,7 @@ Quoy qu'elle semble avoir quelque peu de mon air.
 -*who_climante
 S'il est vray, c'est un Ange, il n'en faut point douter.
 
-**** *book_ *id_body-605 *act_ *date_1643
+**** *book_ *id_IV05 *act_IV *date_1643 
 
 -*who_adraste
 De vous trouver ici, Climante, c'est merveille.
@@ -2654,7 +2654,7 @@ Me dis-tu point adieu ?
       N'en dy pas davantage,
 Va, va, je te cognoy, tu n'es rien qu'un volage.
 
-**** *book_ *id_body-606 *act_ *date_1643
+**** *book_ *id_IV06 *act_IV *date_1643 
 
 -*who_adraste
 Quoy ? cette fille ici sert donc chez Leonor ?
@@ -2747,7 +2747,7 @@ l'Amour⁎, vous le sçavez, ne veut point de témoins.
 
 -*who_climante
 J'ay deux heures encor de loisir pour le moins,
-En puis-je estre picqué⁎ ne l'ayant jamais veuë ?
+En puis-je estre picqué⁎ ne l'ayant jamais veuë ? 
 
 -*who_adraste
 Allons en attendant faire un tour par la ruë,
@@ -2756,7 +2756,7 @@ Nous nous separerons quand vous l'ordonnerez.
 -*who_climante
 Je le veux, nous ferons tout ce que vous voudrez.
 
-**** *book_ *id_body-607 *act_ *date_1643
+**** *book_ *id_IV07 *act_IV *date_1643
 
 -*who_lucille
 Pensez-y mieux, Madame.
@@ -2815,7 +2815,7 @@ Je dois à son amour cette recognoissance :
 Et puis nous songerons apres à la vengeance
 Contre cet inconstant qui m'a manqué de foy.
 
-**** *book_ *id_body-608 *act_ *date_1643
+**** *book_ *id_IV08 *act_IV *date_1643
 
 -*who_isabelle
 Leonor vient d'entrer. Toy, Pamphile, dy moy,
@@ -2844,7 +2844,7 @@ Par ce que tu verras de l'esprit d'Isabelle.
 Mais Leonor paroist, elle sort de chez elle,
 Retirez-vous tous deux.
 
-**** *book_ *id_body-609 *act_ *date_1643
+**** *book_ *id_IV09 *act_IV *date_1643 
 
 -*who_leonor
       Dorotée, est-ce toy ?
@@ -2934,7 +2934,7 @@ Je croy que ton esprit peut entreprendre tout,
 Et si je ne me trompe, en venir bien à bout.
 Fin du quatriesme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1643
+**** *book_ *id_V01 *act_V *date_1643
 
 -*who_adraste
 Le Ciel me favorise, et certes aujourd'huy
@@ -3040,7 +3040,7 @@ Entre deux beaux coussins d'estre le cul en terre.
 Dorotée a dit vray, va Carlin, je la croy
 Puis qu'elle m'en asseure, elle est digne de foy.
 
-**** *book_ *id_body-702 *act_ *date_1643
+**** *book_ *id_V02 *act_V *date_1643 
 
 -*who_isabelle
 Qu'en dites-vous, Madame ?
@@ -3053,7 +3053,7 @@ Que tu viennes à bout.
 
 -*who_isabelle
       Cessez d'apprehender,
-Reposez-vous sur moy, la chose est tres-aisée.
+Reposez-vous sur moy, la chose est tres-aisée. 
 
 -*who_leonor
 Il le faut confesser, tu t'es bien déguisée,
@@ -3100,7 +3100,7 @@ Ce soir elle me preste à dessein son logis,
 Et m'a par ma cadette envoyé ses habits
 Qui me viennent⁎ bien mieux que n'eussent fait tous autres,
 C'est le sujet⁎ pourquoy je n'ay pas pris les vostres,
-On diroit que ceux-cy sont fait exprez pour moy.
+On diroit que ceux-cy sont fait exprez pour moy. 
 
 -*who_leonor
 Tu ne pourras jamais l'abuser que je croy,
@@ -3139,12 +3139,12 @@ Je meine⁎ pour Servante avecque moy ma sœur.
 -*who_leonor
 Ciel, donnez-luy la force aussi bien que le cœur⁎.
 
-**** *book_ *id_body-703 *act_ *date_1643
+**** *book_ *id_V03 *act_V *date_1643
 
 -*who_isabelle
 Allons, ma sœur, allons. Au coin de cette ruë,
 Quand tu ne seras plus de personne aperceuë,
-Retourne à la maison.
+Retourne à la maison. 
 
 -*who_dorise
       Je m'en vay m'échaper ;
@@ -3160,7 +3160,7 @@ Le hazard⁎ est bien grand que vous allez courir.
 -*who_isabelle
 Ne sors pas du logis, je t'envoyeray querir.
 
-**** *book_ *id_body-704 *act_ *date_1643
+**** *book_ *id_V04 *act_V *date_1643 
 
 -*who_climante
 Voicy l'heure, sans doute, à mon bonheur fatale,
@@ -3175,7 +3175,7 @@ Qui ne fait que mentir ?
 
 -*who_climante
       Non, tant que je vivray
-Je croiray Dorotée, elle a toûjours dit vray.
+Je croiray Dorotée, elle a toûjours dit vray. 
 
 -*who_carlin
 Pour se mocquer de vous, elle s'est advisée⁎
@@ -3206,7 +3206,7 @@ Je ne me plaindrois point de mon mauvais destin,
 Quand mesme j'y serois du soir jusqu'au matin :
 Mais à pied dans la ruë on me fait trop attendre.
 
-**** *book_ *id_body-705 *act_ *date_1643
+**** *book_ *id_V05 *act_V *date_1643
 
 -*who_le_page
 Souffrez la liberté, Monsieur, que j'ose prendre ;
@@ -3227,7 +3227,7 @@ Quel heur⁎ pour moy : Carlin, dis-tu pas qu'elle ment ?
 Si la fin peut respondre à ce commencement ;
 (Mais j'en doute bien fort) j'auray menti moy-mesme.
 
-**** *book_ *id_body-706 *act_ *date_1643
+**** *book_ *id_V06 *act_V *date_1643
 
 -*who_isabelle
 Vous ayant fait sçavoir, Monsieur, que je vous ayme,
@@ -3255,7 +3255,7 @@ Mais sous un autre habit ne vous ay-je point veuë ?
 -*who_isabelle
 Non, mais c'est à la voix que vous m'avez cognuë
 Vous m'avez peu parler seulement une fois
-Qui fut hier au soir.
+Qui fut hier au soir. 
 
 -*who_climante
       Carlin, j'en jurerois.
@@ -3304,7 +3304,7 @@ Qui me refugié chez vous hier au soir,
 Pour avoir plus long-temps le bonheur de vous voir.
 Je feigny que j'estois d'un mary poursuivie,
 Qui vouloit en cholere attenter sur ma vie :
-Mais je suis fille encor, je mentois à dessein.
+Mais je suis fille encor, je mentois à dessein. 
 
 -*who_carlin
 Elle mentit hier, et mentira demain,
@@ -3328,7 +3328,7 @@ Si cette jeune fille a bien fait son devoir.
 
 -*who_climante
 Mais à tous vos desseins pouvois-je rien comprendre ?
-Madame, sans parler, pouvois-je vous entendre ?
+Madame, sans parler, pouvois-je vous entendre ? 
 
 -*who_isabelle
 Non, pour moy Dorotée en a pris le souci⁎,
@@ -3353,7 +3353,7 @@ Dans ma confusion je ne sçay que vous dire.
 C'est moy qui doy, Madame, implorer à genoux
 L'heur⁎ de vous posseder en qualité d'espoux :
 Je me tiens glorieux, et renonce à tout autre
-Si vous offrant ma main vous me donnez la vostre.
+Si vous offrant ma main vous me donnez la vostre. 
 
 -*who_isabelle
 Me voici, je l'avoüe, au bout de mes souhaits,
@@ -3376,7 +3376,7 @@ Voyez-vous pas que c'est une fourbe inventée ?
 
 -*who_climante
 Mais quoy ! chez Leonor verrons-nous Dorotée
-Sans qu'on charme⁎ mes yeux ? sans qu'on trompe mes sens ?
+Sans qu'on charme⁎ mes yeux ? sans qu'on trompe mes sens ? 
 
 -*who_isabelle
 Je vous la feray voir.
@@ -3398,7 +3398,7 @@ Vous l'y verrez.
       Allons, j'en veux estre éclairci :
 Soyez juges, mes yeux, de ce prodige ici.
 
-**** *book_ *id_body-707 *act_ *date_1643
+**** *book_ *id_V07 *act_V *date_1643 
 
 -*who_adraste
 Mais est-il bien certain, Monsieur, j'ay peine à croire
@@ -3437,7 +3437,7 @@ Timandre, accordez-moy l'heur⁎ de la posseder.
 Regardez⁎, Leonor, ce que vous voulez faire.
 
 -*who_leonor
-Puis qu'il vous plaist, Monsieur, je le veux satisfaire.
+Puis qu'il vous plaist, Monsieur, je le veux satisfaire. 
 
 -*who_timandre
 Je conjure le Ciel que selon vos desirs
@@ -3445,7 +3445,7 @@ Rien ne puisse jamais alterer vos plaisirs :
 Entrons, nous serons mieux au logis qu'en la ruë.
 Ces gens viennent à nous, attendons leur venuë.
 
-**** *book_ *id_body-708 *act_ *date_1643
+**** *book_ *id_V08 *act_V *date_1643
 
 -*who_climante
 Je viens pour prendre part à vos felicitez,
@@ -3456,7 +3456,7 @@ Ce bel objet⁎ que rien ne sçauroit égaler,
 Me peut, si je vous perds, aysément consoler.
 
 -*who_adraste
-Que vois-je, justes Dieux ! que mon ame est ravie⁎ !
+Que vois-je, justes Dieux ! que mon ame est ravie⁎ ! 
 
 -*who_leonor
 Si vous considerez mon bonheur sans envie,
@@ -3482,7 +3482,7 @@ Faites-moy, s'il vous plaist, appeler Dorotée.
 Que luy voulez-vous donc ?
 
 -*who_climante
-      La voir tant seulement.
+      La voir tant seulement. 
 
 -*who_leonor
 Et bien, qu'en dites-vous ? c'est elle asseurément,
@@ -3505,7 +3505,7 @@ C'est à toy que je parle, il n'est plus temps de feindre,
 Ma fille, respons-moy, va, tu n'as rien à craindre.
 Ah perfide ! ah volage ! indigne de pitié,
 Le Ciel me vange bien de ton peu d'amitié,
-Tu quittes la Maistresse pour prendre la Suivante.
+Tu quittes la Maistresse pour prendre la Suivante. 
 
 -*who_climante
 Dieux ! quelle trahison ?
@@ -3582,7 +3582,7 @@ Que je devois servir, vous, commander chez moy.
 
 -*who_isabelle
 Cet excez de faveur surpasse mon attente :
-Mais quoy ! vous me traitez comme vostre servante.
+Mais quoy ! vous me traitez comme vostre servante. 
 
 -*who_timandre
 Laissons ces complimens, songeons à terminer
@@ -3606,7 +3606,7 @@ Pourveu qu'elle ait sa bague et cent escus aussi.
 
 -*who_isabelle
 Va, je t'en donne mille, en veux-tu davantage ?
-Pourrois-tu souhaitter un plus beau mariage.
+Pourrois-tu souhaitter un plus beau mariage. 
 
 -*who_carlin
 Je seray plus heureux que mon Maistre à la fin.

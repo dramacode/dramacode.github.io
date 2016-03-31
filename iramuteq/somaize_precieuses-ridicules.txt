@@ -183,7 +183,7 @@ Par exemple, il y en a dans la page 59 devant le 5. vers, où le nom de Mascaril
 
 Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis qu'à peine le Dictionnaire des Pretieuses est en vente, & cette Comedie achevée d'imprimer, que de Luines, Sercy & Barbin, malgré le Privilege que Monseigneur le Chancelier m'en a donné, avec toute la connoissance possible, ne laissent pas de faire signifier une opposition à mon Libraire : comme si jusques icy les Versions avoient esté defenduës, & qu'il ne fust pas permis de mettre le Pater noster François, en vers.                    
 
-**** *book_ *id_body-601 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I01 *act_I *date_1660 *creator_somaize
 
 -*who_du_croisy
 Seigneur, la Grange.
@@ -270,7 +270,7 @@ Mon dessein n'a jamais esté de vous le taire
 Il nous faut.... mais sortons, car tout n'iroit pas bien
 Si Gorgibus, qui vient sçavoit nostre entretien.
 
-**** *book_ *id_body-602 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I02 *act_I *date_1660 *creator_somaize
 
 -*who_gorgibus
 He bien ? Vous avez veu ma niepce avec ma fille
@@ -292,7 +292,7 @@ D'où leur pourroit venir, ce mescontentement :
 Ces coquines, tousjours me causent mille angoisses
 Hola ?
 
-**** *book_ *id_body-603 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I03 *act_I *date_1660 *creator_somaize
 
 -*who_marotte
       Plaist-il Monsieur ?
@@ -332,7 +332,7 @@ Et je puis assurer que des pieds de moutons
 Dont icy chaque jour, elles font la despence
 Dix valets en auroient plus que leur suffisance.
 
-**** *book_ *id_body-604 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I04 *act_I *date_1660 *creator_somaize
 
 -*who_gorgibus
 Cela n'est par ma foy du tout, ny bien ny beau
@@ -595,7 +595,7 @@ Ou chacune de vous restera tousjours fille,
 Ou sera par ma foy, mise doresnavant
 Puis que je l'ay juré, dedans un bon Couvent.
 
-**** *book_ *id_body-605 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I05 *act_I *date_1660 *creator_somaize
 
 -*who_cathos
 Quelle stupidité⁎, que vois-je ah ! Dieu ma chere !
@@ -618,7 +618,7 @@ Je le croirois bien oüy ; car enfin sans médire
 J'y vois grande apparence⁎, & je ne sçay qu'en dire
 Pour moy quand je me vois aussi....
 
-**** *book_ *id_body-606 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I06 *act_I *date_1660 *creator_somaize
 
 -*who_marotte
       Madame,
@@ -691,7 +691,7 @@ Pecore, & gardez bien en vous y faisant voir
 D'en obscurcir la glace, & de luy faire outrage
 En luy communiquant de trop pres vostre image.
 
-**** *book_ *id_body-607 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I07 *act_I *date_1660 *creator_somaize
 
 -*who_mascarille
 Là, là porteurs, hola, là, là, là, là, hola,
@@ -777,7 +777,7 @@ Je me laisse fleschir, à la moindre priere.
 Allez viste sortez, & venez me chercher
 Tantost, pour aller au Louvre au petit coucher.
 
-**** *book_ *id_body-608 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I08 *act_I *date_1660 *creator_somaize
 
 -*who_marotte
 Mes maistresses Monsieur, vont venir tout à l'heure⁎.
@@ -790,7 +790,7 @@ Et je puis à loisir, les attendre aisement.
 -*who_marotte
 Elles viennent Monsieur,
 
-**** *book_ *id_body-609 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I09 *act_I *date_1660 *creator_somaize
 
 -*who_mascarille
       Mes Dames mon audace
@@ -1451,7 +1451,7 @@ J'ay sujet toutefois, de faire ce reproche :
 Comment diable, je sens que quoy que vous disiez
 Il est depuis la teste escorché jusqu'aux pieds.
 
-**** *book_ *id_body-610 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I10 *act_I *date_1660 *creator_somaize
 
 -*who_marotte
 On demande à vous voir.
@@ -1486,7 +1486,7 @@ Viste, faites entrer.
 Me charme, & me ravit ; car ma foy je vous jure
 Que depuis fort long temps, nous ne nous sommes veüs.
 
-**** *book_ *id_body-611 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I11 *act_I *date_1660 *creator_somaize
 
 -*who_mascarille
 Ah ! Vicomte,
@@ -1820,7 +1820,7 @@ Quoy donc ?
 -*who_mascarille
 Nous sommes obligez aux peines qu'elles prennent.
 
-**** *book_ *id_body-612 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I12 *act_I *date_1660 *creator_somaize
 
 -*who_magdelon
 Mon Dieu, vous nous devez mes cheres pardonner,
@@ -1881,7 +1881,7 @@ Je ne fais que sortir de maladie.
       Et dance,
 Vicomte.
 
-**** *book_ *id_body-613 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I13 *act_I *date_1660 *creator_somaize
 
 -*who_la_grange
       Ah, ah ! coquins, que faites-vous ceans⁎ ?
@@ -1904,7 +1904,7 @@ Et l'homme d'importance.
       Ah ! Vous voulez paroistre⁎,
 Cela vous apprendra certes, à vous connoistre⁎.
 
-**** *book_ *id_body-614 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I14 *act_I *date_1660 *creator_somaize
 
 -*who_magdelon
 Que vien-je donc de voir ?
@@ -1934,7 +1934,7 @@ Depuis long-temps desja nous nous connoissons bien :
 Vous sçavez qu'entre amis, quoy qu'on fasse & qu'on ose,
 On ne se picque pas pour si petite chose.
 
-**** *book_ *id_body-615 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I15 *act_I *date_1660 *creator_somaize
 
 -*who_la_grange
 Ma foy, c'est trop marauts, vous divertir de nous,
@@ -2029,7 +2029,7 @@ Demandez si vous plaist à Monsieur le Vicomte.
 D'un semblable revers mes sens sont esbaïs.
 Demandez si vous plaist à Monsieur le Marquis.
 
-**** *book_ *id_body-616 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I16 *act_I *date_1660 *creator_somaize
 
 -*who_gorgibus
 Coquines, qu'ay-je oüy ? vous nous venez de mettre
@@ -2071,7 +2071,7 @@ La fortune pour nous aura plus de douceurs,
 La vertu sans grandeurs n'est point icy connuë
 Et l'on l'en fait sortir, quand elle est toute nuë.
 
-**** *book_ *id_body-617 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I17 *act_I *date_1660 *creator_somaize
 
 -*who_violons
 Nous atendons icy Monsieur, à leur defaut

@@ -17,7 +17,7 @@ MONSEIGNEUR,
 
 Vostre tres-humble & tres-obeïssant serviteur, QUINAULT.
 
-**** *book_ *id_body-301 *act_ *date_1657 *creator_quinault
+**** *book_ *id_I01 *act_I *date_1657 *creator_quinault
 
 -*who_carlos
 Le sçay tu bien Clarine ? Ô Ciel ! est-il possible,1
@@ -124,7 +124,7 @@ Malgré l'obscurité dont l'orison se couvre,
 Je discerne aisement, que cette porte s'ouvre,
 C'est sans doute Isabelle, il se faut avancer.
 
-**** *book_ *id_body-302 *act_ *date_1657 *creator_quinault
+**** *book_ *id_I02 *act_I *date_1657 *creator_quinault
 
 -*who_carlos
 Mon bon-heur⁎ est plus grand que je n'osois penser,
@@ -188,7 +188,7 @@ Que Carlos le redouble alors qu'il le partage,
 Et qu'il diminuëroit si tu n'y prenois part,
 Mais de nostre maison qui peut sortir si tard.
 
-**** *book_ *id_body-303 *act_ *date_1657 *creator_quinault
+**** *book_ *id_I03 *act_I *date_1657 *creator_quinault
 
 -*who_clarine
 Entrez, entrez Seigneur, ma Maistresse⁎ Isabelle
@@ -212,7 +212,7 @@ Sur la conclusion de vostre Mariage.
 Je connois⁎ sa tendresse, & je sçay mon devoir,
 Je vais avec Carlos luy donner le bon soir.
 
-**** *book_ *id_body-304 *act_ *date_1657 *creator_quinault
+**** *book_ *id_I04 *act_I *date_1657 *creator_quinault
 
 -*who_climene
 Cette voix que j'entends est celle de Fabrice,
@@ -404,7 +404,7 @@ Le danger de mourir en te disant adieu.
 -*who_fabrice
 Climene ; elle me fuit, ô destin déplorable !
 
-**** *book_ *id_body-305 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_I05 *act_I *date_1657 *creator_quinault 
 
 -*who_carlos
 Amy console-toy.
@@ -470,7 +470,7 @@ Entre dans mon logis.
 Je vais de cét advis⁎ faire part à Climene ;
 Mais qu'est-ce que j'entens
 
-**** *book_ *id_body-306 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_I06 *act_I *date_1657 *creator_quinault 
 
 -*who_ferdinand
       Faites ce que j'ay dit.
@@ -496,7 +496,7 @@ Ne parlez pas, sans doute, elle se va méprendre.
 -*who_fabrice
 Il faut nous éclaircir, approchons doucement.
 
-**** *book_ *id_body-307 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_I07 *act_I *date_1657 *creator_quinault 
 
 -*who_climene
 Que peus-tu souhaiter, où viens-tu cher Amant.
@@ -579,7 +579,7 @@ En perdant ce Rival je puis tout acquerir,
 Et s'il ne perit pas mon espoir doit perir,
 Sçachons si le succez⁎ respond à mon envie.
 
-**** *book_ *id_body-308 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_I08 *act_I *date_1657 *creator_quinault 
 
 -*who_valere
 Ah Seigneur ! c'en est fait, il est tombé sans vie,
@@ -608,7 +608,7 @@ Et luy faites sçavoir que sa temerité,
 N'a receu que le prix qu'elle avoit merité.
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II01 *act_II *date_1657 *creator_quinault
 
 -*who_isabelle
 Qui vient d'entrer ceans.
@@ -680,7 +680,7 @@ De mépriser l'amour mon cœur ne sçait plus l'art :
 Mais que vois-je Carlos, dans ma chambre & si tard.
 O Ciel ?
 
-**** *book_ *id_body-402 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_II02 *act_II *date_1657 *creator_quinault 
 
 -*who_carlos
       De ce logis, voyant la porte ouverte,
@@ -781,7 +781,7 @@ O Ciel ? j'entens mon Pere.
 Possible il s'est douté de vostre intelligence⁎,
 Dedans ce cabinet entrez en diligence⁎.
 
-**** *book_ *id_body-403 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II03 *act_II *date_1657 *creator_quinault
 
 -*who_alphonce
 Ah ma fille ? ah ma fille ?
@@ -883,7 +883,7 @@ Que le corps de mon frere attend la sepulture.
 Oüy, j'en ay pris le soin⁎, par mon commandement
 On le doit apporter dans cét appartement.
 
-**** *book_ *id_body-404 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II04 *act_II *date_1657 *creator_quinault
 
 -*who_licaste
 Seigneur de vostre fils la mort est trop certaine,
@@ -946,7 +946,7 @@ Je ferois aussi bien des efforts superflus,
 Mon fils revivra-t'il si le Duc ne vit plus ?
 Mais Clarine à la haste icy s'est avancée.
 
-**** *book_ *id_body-405 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II05 *act_II *date_1657 *creator_quinault
 
 -*who_clarine
 Ah Seigneur ; ah Madame…
@@ -983,7 +983,7 @@ C'est mon frere…
 -*who_alphonce
       O merveille ! en effet c'est mon fils.
 
-**** *book_ *id_body-406 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II06 *act_II *date_1657 *creator_quinault
 
 -*who_alphonce
 Mon fils, mon ame est-elle éclaircie ou trompée,
@@ -1100,7 +1100,7 @@ Sors, sors sans differer, adieu, que je t'embrasse,
 De mon plus cher appuy je me laisse priver,
 Mais quoy je ne te perds qu'afin de te sauver.
 
-**** *book_ *id_body-407 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_II07 *act_II *date_1657 *creator_quinault 
 
 -*who_isabelle
 Par quelle cruauté bannissez-vous mon frere.
@@ -1119,7 +1119,7 @@ Aussi bien devons-nous quelque honneur pour le prix,
 D'un sang de qui la perte a conservé mon fils.
 Enfin,
 
-**** *book_ *id_body-408 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II08 *act_II *date_1657 *creator_quinault
 
 -*who_fabrice
       Seigneur…
@@ -1149,7 +1149,7 @@ Pourveu que la lumiere en ce lieu soit estainte.
 -*who_fabrice
 Je n'y contredits point, dépeschons-nous d'entrer.
 
-**** *book_ *id_body-409 *act_ *date_1657 *creator_quinault
+**** *book_ *id_II09 *act_II *date_1657 *creator_quinault
 
 -*who_carlos
 Ils sont entrez tous deux, sortons sans differer.
@@ -1157,7 +1157,7 @@ Le sort à mes desirs cesse d'estre contraire,
 Je puis sortir ; mais quoy, j'entends la voix du Pere.
 Que je suis mal-heureux⁎.
 
-**** *book_ *id_body-410 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_II10 *act_II *date_1657 *creator_quinault 
 
 -*who_ferdinand
       Je ne suis point déceu,
@@ -1237,7 +1237,7 @@ Que Fabrice à l'instant en mon logis se rende,
 D'icy sans qu'on le voye il se peut évader,
 Je vais suivre le Duc pour le persuader.
 
-**** *book_ *id_body-411 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_II11 *act_II *date_1657 *creator_quinault 
 
 -*who_alphonce
 Sors & choisis demain Florence pour retraitte.
@@ -1274,7 +1274,7 @@ Je souffre⁎ assez d'ennuis⁎.
 Pour estre plus cachez ne sont pas moins pressans.
 Fin du second Acte.
 
-**** *book_ *id_body-501 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III01 *act_III *date_1657 *creator_quinault
 
 -*who_jacinte
 C'est icy le jardin, Seigneur, où ma Maistresse⁎
@@ -1353,7 +1353,7 @@ On void sur sa pâleur sa tristesse étalée.
 -*who_jacinte
 Laissez-moy l'aborder ? passez dans cette allée.
 
-**** *book_ *id_body-502 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III02 *act_III *date_1657 *creator_quinault
 
 -*who_jacinte
 Madame…
@@ -1386,7 +1386,7 @@ Avant que de ces lieux je vous puisse tirer :
 Je vais y prendre garde, & tandis⁎ vostre Altesse
 Peut dans ces promenoirs divertir⁎ sa tristesse.
 
-**** *book_ *id_body-503 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III03 *act_III *date_1657 *creator_quinault
 
 -*who_climene
 STANCES.
@@ -1451,7 +1451,7 @@ Dieu le desordre augmente, & la terre se fend ?
 O Ciel ! Fabrice en sort, la force icy me laisse,
 Je n'en puis plus, je meurs de crainte & de foiblesse.
 
-**** *book_ *id_body-504 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III04 *act_III *date_1657 *creator_quinault
 
 -*who_fabrice
 Grace aux soins⁎ de Carlos, & malgré le destin,
@@ -1483,7 +1483,7 @@ D'un regard tout au moins honore mon trespas :
 J'entens quelqu'un marcher, cachons nous sans l'attendre.
 Si j'entrois dans la Mine, on pouroit me surprendre.
 
-**** *book_ *id_body-505 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III05 *act_III *date_1657 *creator_quinault
 
 -*who_ferdinand
 Je viens d'oüir des coups qui m'ont inquieté,
@@ -1607,7 +1607,7 @@ Qu'un jour⁎ à mes desirs vous serez moins contraire.
 Le temps n'a point pour moy de remede assez fort,
 Mon mal n'aura jamais de terme que ma mort.
 
-**** *book_ *id_body-506 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III06 *act_III *date_1657 *creator_quinault
 
 -*who_fabrice
 Approchons, j'apperçoy le Duc qui se retire,
@@ -1742,7 +1742,7 @@ Cependant que j'iray prendre mes pierreries ?
 Passe sous ce berceau, je crois oüyr du bruit,
 Je te viendrai trouver si-tost qu'il fera nuict.
 
-**** *book_ *id_body-507 *act_ *date_1657 *creator_quinault
+**** *book_ *id_III07 *act_III *date_1657 *creator_quinault
 
 -*who_fabrice
 Si je ne suis trompé, Jacinte icy s'avance,
@@ -1817,7 +1817,7 @@ Et qu'augmentant sa force au milieu des obstacles,
 Ce Dieu sçait tousjours l'art de faire des miracles.
 Fin du troisiéme Acte.
 
-**** *book_ *id_body-601 *act_ *date_1657 *creator_quinault
+**** *book_ *id_IV01 *act_IV *date_1657 *creator_quinault
 
 -*who_fabrice
 Voicy l'heure propice où j'espere de voir
@@ -1841,7 +1841,7 @@ Ce long retardement marque un defaut⁎ d'amour !
 On marche, & si mes yeux sont des tesmoins fideles,
 Je voy venir enfin ce miracle des Belles.
 
-**** *book_ *id_body-602 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_IV02 *act_IV *date_1657 *creator_quinault 
 
 -*who_climene
 Fabrice ?...
@@ -1889,7 +1889,7 @@ On veut te faire outrage, & je dois l'empescher ;
 Je suis bien averty que le Duc se prepare
 A te faire enlever par un ordre barbare.
 
-**** *book_ *id_body-603 *act_ *date_1657 *creator_quinault
+**** *book_ *id_IV03 *act_IV *date_1657 *creator_quinault
 
 -*who_valere
 Elle doit estre icy…
@@ -2068,7 +2068,7 @@ N'en doutez point, Seigneur, c'est l'ombre de Fabrice.
 -*who_ferdinand
 N'importe, il faut encor que je m'en éclaircisse.
 
-**** *book_ *id_body-604 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_IV04 *act_IV *date_1657 *creator_quinault 
 
 -*who_carlos
 Secourons nostre amy, ce bruit me fait juger
@@ -2128,7 +2128,7 @@ Si Fabrice est trouvé, sa perte est asseurée ;
 Mais si malgré la nuit, je ne m'abuse pas,
 J'apperçoy qu'une femme addresse icy ses pas.
 
-**** *book_ *id_body-605 *act_ *date_1657 *creator_quinault
+**** *book_ *id_IV05 *act_IV *date_1657 *creator_quinault
 
 -*who_climene
 Fabrice, est-ce toy…
@@ -2175,7 +2175,7 @@ Guide icy mon Amant ; mais quoy, ce sont deux femmes,
 Elles m'ont apperceu, ou je m'abuse fort,
 Allons chercher Fabrice, & fuyons leur abord.
 
-**** *book_ *id_body-606 *act_ *date_1657 *creator_quinault
+**** *book_ *id_IV06 *act_IV *date_1657 *creator_quinault
 
 -*who_jacinte
 C'est Climene, approchez avec toute asseurence,
@@ -2258,7 +2258,7 @@ Je ne sçay, mais je croy qu'ils ont fait connoissance⁎,
 Ils s'accordent fort bien, mais je l'avois bien dit,
 En forme de Geant voicy venir l'esprit⁎.
 
-**** *book_ *id_body-607 *act_ *date_1657 *creator_quinault
+**** *book_ *id_IV07 *act_IV *date_1657 *creator_quinault
 
 -*who_fabrice
 C'est Jacinte, & Climene est sans doute avec elle.
@@ -2323,7 +2323,7 @@ J'entends quelqu'un marcher, mon frere éloignez-vous.
 Je suivray ton advis⁎, sors de cette demeure,
 Et t'en vas chez Carlos, je te suis tout à l'heure.
 
-**** *book_ *id_body-608 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_IV08 *act_IV *date_1657 *creator_quinault 
 
 -*who_carlos
 Vous voyez en ce lieu Climene qui m'attent.
@@ -2350,7 +2350,7 @@ Qu'on vient à bout de tout par la perseverance,
 Et qu'il n'est point de cœur, soit de bronze ou de fer,
 Que des feux⁎ bien ardens ne puissent échauffer.
 
-**** *book_ *id_body-609 *act_ *date_1657 *creator_quinault 
+**** *book_ *id_IV09 *act_IV *date_1657 *creator_quinault 
 
 -*who_climene
 Fabrice…
@@ -2402,7 +2402,7 @@ Ha je ne puis souffrir⁎ cette outrage à mes yeux,
 Allons, il faut nous perdre ou la sauver ? ah Cieux.
 Fin du Quatrième Acte.
 
-**** *book_ *id_body-701 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V01 *act_V *date_1657 *creator_quinault
 
 -*who_carlos
 Que vois-je, qu'ay-je fait ! ah rencontre cruelle,
@@ -2587,7 +2587,7 @@ Vous serez excusé, si vous le voulez estre.
 Dessus vos belles mains pour cét aveu charmant,
 Que j'exprime ma joye & mon ressentiment.
 
-**** *book_ *id_body-702 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V02 *act_V *date_1657 *creator_quinault
 
 -*who_alphonce
 Que vois-je ?
@@ -2703,7 +2703,7 @@ Il n'est point en ces lieux, & je vous en asseure.
 -*who_alphonce
 Je n'en veux point douter, puis que vous l'asseurez.
 
-**** *book_ *id_body-703 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V03 *act_V *date_1657 *creator_quinault
 
 -*who_fabrice
 Enfin des mains du Duc nous sommes délivrez.
@@ -2822,7 +2822,7 @@ Le Duc à s'appaiser apres sera reduit.
 -*who_carlos
 Ce moyen est fort seur, mais d'où provient ce bruit.
 
-**** *book_ *id_body-704 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V04 *act_V *date_1657 *creator_quinault
 
 -*who_celin
 Plusieurs hommes, Seigneur, armez de hallebardes,
@@ -2869,7 +2869,7 @@ Concurrant de son Prince & rival de son Maistre ;
 Mais quoy ! n'entend-je pas icy quelqu'un marcher,
 Qui tesmoigne de moy se vouloir approcher.
 
-**** *book_ *id_body-705 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V05 *act_V *date_1657 *creator_quinault
 
 -*who_ferdinand
 Apres avoir passé par une estroite route,
@@ -2995,7 +2995,7 @@ Avançons vers ce mur & nous cachons derriere.
 Nous sortirons d'erreur, voicy de la clairté,
 Qui pourra m'esclaircir de ce dont j'ay douté.
 
-**** *book_ *id_body-706 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V06 *act_V *date_1657 *creator_quinault
 
 -*who_climene
 Voyons-nous pas le Duc.
@@ -3078,7 +3078,7 @@ Fabrice encor vivant paroissoit à mes yeux,
 A ses justes desirs bien loin d'estre contraire,
 Il obtiendroit de moy cette beauté si chere.
 
-**** *book_ *id_body-707 *act_ *date_1657 *creator_quinault
+**** *book_ *id_V07 *act_V *date_1657 *creator_quinault
 
 -*who_fabrice
 Vous me voyez vivant Prince trop genereux,

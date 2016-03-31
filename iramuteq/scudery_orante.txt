@@ -72,7 +72,7 @@ Achevé d'imprimer ce I. Septembre 1635.
 
 Lesdits livres ont este fournis, ainsi qu'il est porté par le Privilege.
 
-**** *book_ *id_body-601 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I01 *act_I *date_1635 *creator_scudery
 
 -*who_rosimond
 Malgré le vœu⁎ discret d'une bouche muette,
@@ -248,7 +248,7 @@ Mon cœur tout genereux⁎ se mocque de sa haine ;
 Et sçache que pour voir ce que j'aime le mieux,
 J'attaquerois l'enfer & forcerois le Cieux.
 
-**** *book_ *id_body-602 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I02 *act_I *date_1635 *creator_scudery
 
 -*who_ormin
 Rude & foible raison, abandonne mon ame :
@@ -292,7 +292,7 @@ Pour posseder Orante, il faut que je m'en prive ;
 Le Ciel entend mes vœus⁎, & mon bon-heur s'y lit ;
 Mais, Amour avec eux n'entre pas dans le lit .
 
-**** *book_ *id_body-603 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I03 *act_I *date_1635 *creator_scudery
 
 -*who_clindor
 Nerine, qu'à propos je vous ay rencontrée !
@@ -338,7 +338,7 @@ Monte au grand escalier, où je m'en vay t'attendre :
 -*who_clindor
 J'ose tout, je fais tout, pour servir Isimandre.
 
-**** *book_ *id_body-604 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I04 *act_I *date_1635 *creator_scudery
 
 -*who_lucinde
 Vous l'accusez à tort, elle a plus de bonté⁎ ;
@@ -380,7 +380,7 @@ Puis qu'il me faut mourir je veux je mourir en Cygne,
 Et chante les beautez, & vanter les appas⁎,
 Que je trouve en ses yeux, que je gouste au trespas.
 
-**** *book_ *id_body-605 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I05 *act_I *date_1635 *creator_scudery
 
 -*who_orante
 STANCES. 
@@ -446,7 +446,7 @@ Taschons de consoler l'esprit d'un miserable ;
 Faisons voir que la mort ne peut rien sur l'Amour :
 Adieu cher Isimandre, adieu, je perds le jour.
 
-**** *book_ *id_body-606 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I06 *act_I *date_1635 *creator_scudery
 
 -*who_nerine
 Que me donneriez vous d'une bonne nouvelle ?
@@ -458,7 +458,7 @@ Son funeste projet n'a point trouvé d'obstacle :
 Et ce papier m'apprend, que sa fidelité,
 Arrive par la mort à l'immortalité.
 
-**** *book_ *id_body-607 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I07 *act_I *date_1635 *creator_scudery
 
 -*who_clindor
 Il faut que je m'advance à la chambre voisine :
@@ -477,7 +477,7 @@ Qu'il punisse Florange autheur de ce dommage ;
 On la vouloit forcer de vivre sous sa Loy ;
 Adieu, ne sois point veu, quelqu'un vient, sauve toy.
 
-**** *book_ *id_body-608 *act_ *date_1635 *creator_scudery
+**** *book_ *id_I08 *act_I *date_1635 *creator_scudery
 
 -*who_lucinde
 Quel bruit ay-je entendu ?
@@ -522,7 +522,7 @@ Vivez aimable Orante, on ne vous peut forcer ;
 -*who_orante
 Je conjure les Dieux de vous recompenser.
 
-**** *book_ *id_body-701 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II01 *act_II *date_1635 *creator_scudery
 
 -*who_palinice
 Invisible serpent, cruelle jalousie,
@@ -568,7 +568,7 @@ Taschons de luy donner des sentimens plus seins :
 Qu'il prenne pour guarir la medecine amere,
 Et que son pouvoir cede à celuy d'une mere.
 
-**** *book_ *id_body-702 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II02 *act_II *date_1635 *creator_scudery
 
 -*who_ormin
 STANCES.
@@ -627,7 +627,7 @@ Viens rendre une visite au bel œil mon vainqueur ;
 Et pour faire un miracle, en voyant ma Rebelle ;
 Suy moy dans mon retour, & demeure chez elle.
 
-**** *book_ *id_body-703 *act_ *date_1635 *creator_scudery 
+**** *book_ *id_II03 *act_II *date_1635 *creator_scudery 
 
 -*who_orante
 M'empeschant de mourir, ton secours me conduit,
@@ -747,7 +747,7 @@ Je le veux : mais Floran …
 -*who_nerine
       Madame, le voila.
 
-**** *book_ *id_body-704 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II04 *act_II *date_1635 *creator_scudery
 
 -*who_florange
 Mon abord vous desplaist ; mon respect vous offence ;
@@ -783,7 +783,7 @@ Et ce jour pour mon ame, est bien un jour de crise.
 Prononçant un arrest⁎, que j'attends à genous,
 Vuidez le different, qui s'esmeut entre nous.
 
-**** *book_ *id_body-705 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II05 *act_II *date_1635 *creator_scudery
 
 -*who_lucinde
 Ma parole tiendra, puis que je l'ay donnée :
@@ -793,7 +793,7 @@ Amour est bien un Dieu plus puissant qu'Hymenée⁎.
 Ah, Monsieur ! on me force, & les Cieux ennemis,
 Veulent m'oster un bien que vous m'avez promis.
 
-**** *book_ *id_body-706 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II06 *act_II *date_1635 *creator_scudery
 
 -*who_ormin
 Qui vous fait si hardy, que de m'estre rebelle ?
@@ -815,7 +815,7 @@ Despeschons Lindoman au fidele Isimandre ;
 Afin que son esprit, où regne la raison,
 Tire le mien de peine, & mon corps de prison.
 
-**** *book_ *id_body-707 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II07 *act_II *date_1635 *creator_scudery
 
 -*who_isimandre
 Que l'attente est fascheuse à l'Amant qui souspire⁎ !
@@ -851,7 +851,7 @@ N'as-tu point veu ses pleurs, comme tu vois mes larmes ?
 Ne m'escrit-elle pas ? Que sert de le celer⁎ ?
 Enfin, dois-je mourir ? ou si tu dois parler ?
 
-**** *book_ *id_body-708 *act_ *date_1635 *creator_scudery
+**** *book_ *id_II08 *act_II *date_1635 *creator_scudery
 
 -*who_clindor
 Juste Ciel, je voudrois dans le mal qui me touche,
@@ -925,7 +925,7 @@ Partons Clindor, allons luy rendre cét office ;
 Et quand j'auray puny ces volleurs de mon bien,
 Je respandray mon sang sur les marques du sien.
 
-**** *book_ *id_body-801 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III01 *act_III *date_1635 *creator_scudery
 
 -*who_florange
 La peine que je sens leur est indifferante :
@@ -957,7 +957,7 @@ Il faudra qu'il la prenne au bout de mon espée ;
 Ormin, la Mere, Orante, Isimandre, & le sort,
 Ne peuvent me l'oster, qu'en me donnant la mort.
 
-**** *book_ *id_body-802 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III02 *act_III *date_1635 *creator_scudery
 
 -*who_isimandre
 Orante n'est pas morte ! Orante vit encore !
@@ -1030,7 +1030,7 @@ Le mien plus pur que luy se cachera de mesme ;
 Mon cœur est son vray centre, où son esclat ne luit,
 Que pour moy qui le sens, & pour qui l'a produit.
 
-**** *book_ *id_body-803 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III03 *act_III *date_1635 *creator_scudery
 
 -*who_palinice
 Ce n'est pas sans rougir que je me voy contrainte,
@@ -1103,7 +1103,7 @@ J'aime plus mon honneur⁎ que je ne crains sa haine.
 Dieux ! on la veut forcer, je n'y puis consentir ;
 Mais ce mal est pressant, je vay l'en advertir.
 
-**** *book_ *id_body-804 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III04 *act_III *date_1635 *creator_scudery
 
 -*who_orante
 Je ne puis te payer, je le voy plus j'y pense :
@@ -1129,7 +1129,7 @@ Vous qui l'avez au cœur ne le connoistrez pas.
 Souz un mauvais habit paroist sa bonne mine⁎,
 Ainsi que l'or esclate en l'obscur d'une mine.
 
-**** *book_ *id_body-805 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III05 *act_III *date_1635 *creator_scudery
 
 -*who_nerine
 Ha Madame, escoutez…
@@ -1148,7 +1148,7 @@ Je l'apperçoy Madame, & Clindor le conduit.
 Mon cœur nage en la joye, & rien ne l'importune ;
 Il ne craint plus les traicts⁎ que tire la fortune.
 
-**** *book_ *id_body-806 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III06 *act_III *date_1635 *creator_scudery
 
 -*who_isimandre
 Lisez dedans mes yeux, voyez en ma couleur,
@@ -1246,7 +1246,7 @@ Ha Monsieur, approchez, venez voir des merveilles ;
 Qui chez les plus grands Rois n'auroient point de pareilles ;
 Tout ainsi que les miens, vos yeux seront charmez :
 
-**** *book_ *id_body-807 *act_ *date_1635 *creator_scudery
+**** *book_ *id_III07 *act_III *date_1635 *creator_scudery
 
 -*who_ormin
 Elles valent beaucoup, si vous les estimez.
@@ -1389,7 +1389,7 @@ Je sortiray des fers si j'en ay le courage⁎ ;
 Comment ! j'hesite encor ! sur un point assuré !
 Non, non, il faut partir ; Orante l'a juré.
 
-**** *book_ *id_body-901 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV01 *act_IV *date_1635 *creator_scudery
 
 -*who_palinice
 Vous serez dans le calme, & rirez des tempestes ;
@@ -1410,7 +1410,7 @@ Souz cét habit trompeur on ne vous connoist pas :
 -*who_orante
 Veüille Amour, qu'Isimandre ait devancé mes pas.
 
-**** *book_ *id_body-902 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV02 *act_IV *date_1635 *creator_scudery
 
 -*who_florange
 C'est en vain qu'on me fuit, c'est en vain qu'on se cache ;
@@ -1494,7 +1494,7 @@ Le vaincu doit ployer sous les loix du vainqueur ;
 -*who_florange
 Que n'avois je le bras aussi bon que le cœur.
 
-**** *book_ *id_body-903 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV03 *act_IV *date_1635 *creator_scudery
 
 -*who_poliante
 Que n'es tu le tesmoing de mon inquietude ?
@@ -1550,7 +1550,7 @@ Pour allonger ses jours, retranchez mes années ;
 Et bornant son voyage ainsi que mon ennuy⁎,
 Que je meure en moy mesme, & que je vive en luy.
 
-**** *book_ *id_body-904 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV04 *act_IV *date_1635 *creator_scudery
 
 -*who_orante
 Dieux ! il ne songe point au tourment qui me presse :
@@ -1584,7 +1584,7 @@ Qui l'a pris une fois, le prendra bien encor :
 -*who_nerine
 O ciel ! voicy venir le fidelle Clindor,
 
-**** *book_ *id_body-905 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV05 *act_IV *date_1635 *creator_scudery
 
 -*who_clindor
 Si vous me voyez seul, qu'il ne vous semble estrange ;
@@ -1600,7 +1600,7 @@ Si vainqueur ou blessé je dois revoir ton Maistre.
 Et vainqueur, & blessé, mais fort legerement ;
 Quelqu'un nous surprendra, sauvons nous vistement.
 
-**** *book_ *id_body-906 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV06 *act_IV *date_1635 *creator_scudery
 
 -*who_lucinde
 Helas ! de mon support⁎ je me trouve privée ;
@@ -1624,7 +1624,7 @@ Mais allons descouvrir la route qu'elle a prise :
 -*who_lucinde
 Vous redoublez encor la gesne⁎ à mes esprits.
 
-**** *book_ *id_body-907 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV07 *act_IV *date_1635 *creator_scudery
 
 -*who_ormin
 Le feu de mon courroux se mesle avec ma flame ;
@@ -1642,7 +1642,7 @@ Mais un coup de poignard luy va percer le sein,
 Si sa ruse entreprend de faire l'ignorante ;
 Elle perdra le jour, si je perds mon Orante.
 
-**** *book_ *id_body-908 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV08 *act_IV *date_1635 *creator_scudery
 
 -*who_florange
 La fortune a trahy tout l'espoir que j'avois :
@@ -1712,7 +1712,7 @@ Orante vient icy ;
       Vous l'avez deviné.
 Approche mon espoir,
 
-**** *book_ *id_body-909 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV09 *act_IV *date_1635 *creator_scudery
 
 -*who_orante
       Fuyons, fuyons ma vie ;
@@ -1756,7 +1756,7 @@ Elle vaut mieux qu'Helene, & Naples moins que Troye ;
 Et premier que je rende un bien que j'ay vollé,
 Brusle comme mon cœur mon païs desolé.
 
-**** *book_ *id_body-910 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV10 *act_IV *date_1635 *creator_scudery
 
 -*who_ormin
 La belle invention ! ô Dieux qu'elle est subtile !
@@ -1817,7 +1817,7 @@ Page, secourez moy, je ne le puis tenir :
 -*who_palinice
 Ciel ! peux-tu voir son crime, & ne le pas punir ?
 
-**** *book_ *id_body-911 *act_ *date_1635 *creator_scudery
+**** *book_ *id_IV11 *act_IV *date_1635 *creator_scudery
 
 -*who_florange
 Si vous cherchez Orante, elle n'est plus à Pise :
@@ -1905,7 +1905,7 @@ J'obeïs au courroux, je n'en tiens plus la bride ;
 Il m'emporte, il m'entraine, il me force à courir,
 Je te suy, je te tiens, Ormin, il faut mourir.
 
-**** *book_ *id_body-1001 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V01 *act_V *date_1635 *creator_scudery
 
 -*who_isimandre
 CARTEL⁎.
@@ -1966,7 +1966,7 @@ Ressuscite Isimandre, & fay mourir son frere ;
 Que ce nom desormais soit banny d'entre nous ;
 Veux-tu pour l'obtenir que je sois à genous ?
 
-**** *book_ *id_body-1002 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V02 *act_V *date_1635 *creator_scudery
 
 -*who_orante 
 Cruel, que ne fais tu ce que ta voix m'ordonne ?
@@ -1984,7 +1984,7 @@ Elles tiennent sur moy la qualité de Reines.
 L'espreuve en fera foy ; le voicy, tu le vois,
 Adieu, peut-estre adieu, pour la derniere fois.
 
-**** *book_ *id_body-1003 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V03 *act_V *date_1635 *creator_scudery
 
 -*who_poliante
 Dequoy s'entretenoit le brave Cleomire ?
@@ -2099,7 +2099,7 @@ Ha ! formez quelques pas, que j'en baise les traces ;
 Aussi bien que ce fils je vous dois rendre graces :
 C'est moy qui suis ……qui suis ……
 
-**** *book_ *id_body-1004 *act_ *date_1635 *creator_scudery 
+**** *book_ *id_V04 *act_V *date_1635 *creator_scudery 
 
 -*who_clindor
       Je viens vous advertir
@@ -2144,7 +2144,7 @@ Je les puisse changer en celuy des Vestales :
 C'est un port⁎ assuré qui s'offre à ma douleur :
 Mes feux sont eternels aussi bien que le leur.
 
-**** *book_ *id_body-1005 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V05 *act_V *date_1635 *creator_scudery
 
 -*who_ormin
 C'est icy que ma main se va remplir de gloire ;
@@ -2160,7 +2160,7 @@ Dois-je porter en tierce ? ou bien plus tost en quarte ?
 Non, par un autre coup, je prepare sa mort,
 Je passeray sur luy, car je suis assez fort.
 
-**** *book_ *id_body-1006 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V06 *act_V *date_1635 *creator_scudery
 
 -*who_florange
 Main basse Compagnons:
@@ -2178,7 +2178,7 @@ Oubliez vous l'honneur⁎ ?
       Je le trouve à punir,
 Un qui donne sa foy⁎, pour ne la pas tenir.
 
-**** *book_ *id_body-1007 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V07 *act_V *date_1635 *creator_scudery
 
 -*who_isimandre
 J'entends un bruit d'espée ; advançons :
@@ -2236,7 +2236,7 @@ Naples vous peut revoir, y venant quant & moy :
 -*who_ormin
 Je marche sans frayeur, marchant sur vostre foy.
 
-**** *book_ *id_body-1008 *act_ *date_1635 *creator_scudery 
+**** *book_ *id_V08 *act_V *date_1635 *creator_scudery 
 
 -*who_lucinde
 Voyant ce ravisseur, qui passoit dans la ruë,
@@ -2268,7 +2268,7 @@ Il est nostre ennemy, mais il est tout parfait.
 Mettons nous dans ce lieu qui regarde la porte ;
 Nous le descouvrirons, soit qu'il entre, ou qu'il sorte :
 
-**** *book_ *id_body-1009 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V09 *act_V *date_1635 *creator_scudery
 
 -*who_poliante
 L'Amitié⁎ m'abusoit ; son conseil estoit faux ;
@@ -2299,7 +2299,7 @@ Mon ame de raison est-elle bien pourveuë ?
 Je reconnois Ormin, ce n'est point une erreur ;
 Je l'ay veu maintes fois aupres de l'Empereur.
 
-**** *book_ *id_body-1010 *act_ *date_1635 *creator_scudery 
+**** *book_ *id_V10 *act_V *date_1635 *creator_scudery 
 
 -*who_ormin
 Il n'est rien d'eternel en la terre où nous sommes :
@@ -2313,7 +2313,7 @@ Qui marche le premier, a la premiere gloire ;
 Mais puis que vos bontez me la veulent ravir,
 Je garderay pour moy celle de vous servir.
 
-**** *book_ *id_body-1011 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V11 *act_V *date_1635 *creator_scudery
 
 -*who_lucinde
 J'ay ma part à la paix aussi bien qu'à la guerre :
@@ -2355,7 +2355,7 @@ Mais souz un autre habit que vous ne l'avez veu :
 -*who_poliante
 Quel prodige⁎ nouveau m'attaque à l'impourvueu ?
 
-**** *book_ *id_body-1012 *act_ *date_1635 *creator_scudery
+**** *book_ *id_V12 *act_V *date_1635 *creator_scudery
 
 -*who_isimandre
 Madame, je vous rends un bien inestimable ;

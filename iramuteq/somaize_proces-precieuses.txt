@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-101 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I01 *act_I *date_1660 *creator_somaize
 
 -*who_epicarie
 Hem, ou courez-vous de ce pas ?
@@ -37,7 +37,7 @@ Et que Professeurs, & Sergens
 Ne paroistrons pas negligens ;
 Mais marchons je le vois paroistre.
 
-**** *book_ *id_body-102 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I02 *act_I *date_1660 *creator_somaize
 
 -*who_roguespine
 Parbieu c'est bien avoir mon maistre,
@@ -293,7 +293,7 @@ Mais quoy ne vois-je pas venir
 Mon vieil amy, Monsieur Pancrace,
 Vrayement il faut que je l'embrasse.
 
-**** *book_ *id_body-103 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I03 *act_I *date_1660 *creator_somaize
 
 -*who_pancrace
 Cher amy, que je suis joyeux
@@ -543,7 +543,7 @@ Cacher, ce qui nous fait venir.
 -*who_ribercour
 Entrons donc pour l'entretenir.
 
-**** *book_ *id_body-104 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I04 *act_I *date_1660 *creator_somaize
 
 -*who_roguespine
 Ah ! puisque je sçay la demeure
@@ -561,7 +561,7 @@ Quand ils sont bien vestus, bien fais,
 Et qu'enfin ils ont l'avantage
 De sçavoir un peu ce langage.
 
-**** *book_ *id_body-105 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I05 *act_I *date_1660 *creator_somaize
 
 -*who_roguespine
 Mais où va cette fille-là ?
@@ -646,7 +646,7 @@ Mais nos gens sortent satisfaits,
 Et je donnerois ma parole
 Qu'ils viennent d'atraper le drole.
 
-**** *book_ *id_body-106 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I06 *act_I *date_1660 *creator_somaize
 
 -*who_ribercour
 Je vous suis obligé Monsieur,
@@ -690,7 +690,7 @@ Qui me vient trouver d'ordinaire ;
 Voyons donc de quelle façon
 Elle a retenu sa leçon.
 
-**** *book_ *id_body-107 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I07 *act_I *date_1660 *creator_somaize
 
 -*who_theocrite
 Bonjour, entrons dans cette salle.
@@ -781,7 +781,7 @@ Une longue, & mortelle guerre
 A toutes celles, & tous ceux
 Qu'on prendra parlant Pretieux.
 
-**** *book_ *id_body-108 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I08 *act_I *date_1660 *creator_somaize
 
 -*who_theocrite
 Ce divertissement est drolle,
@@ -789,7 +789,7 @@ Et je jouë assez bien mon roolle.
 Ils sont pris pour duppes ma foy.
 Mais que desirez-vous de moy !
 
-**** *book_ *id_body-109 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I09 *act_I *date_1660 *creator_somaize
 
 -*who_ergaste
 Je viens vous prier d'une grace.
@@ -1032,7 +1032,7 @@ Tant vous m'en priez de grand cœur.
 -*who_ergaste
 Adieu jusqu'au revoir Monsieur.
 
-**** *book_ *id_body-110 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I10 *act_I *date_1660 *creator_somaize
 
 -*who_theocrite
 Bon Dieu ! sans le Dictionnaire
@@ -1048,7 +1048,7 @@ Ont joüé comme moy leurs roolles,
 Et si Monsieur, le deputé
 A force Ducats apporté.
 
-**** *book_ *id_body-111 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I11 *act_I *date_1660 *creator_somaize
 
 -*who_ribercour
 Enfin nostre affaire s'avance
@@ -1103,7 +1103,7 @@ Que de ……
 -*who_ribercour
 Mais je le voids paroistre.
 
-**** *book_ *id_body-112 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I12 *act_I *date_1660 *creator_somaize
 
 -*who_ribercour
 Eh bien qu'as-tu veu ? qu'as-tu fait ?
@@ -1480,7 +1480,7 @@ Allons viste, l'heure nous presse.
 Allons Monsieur, j'en suis d'accord,
 Voir ce qu'ordonnera le sort.
 
-**** *book_ *id_body-113 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I13 *act_I *date_1660 *creator_somaize
 
 -*who_roguespine
 Dieux ! qu'ils ont le jugement mince ;
@@ -1492,7 +1492,7 @@ Allons voir remuer leurs langues ;
 Car j'en jurerois bien ma foy,
 Ce doit estre un plaisir de Roy.
 
-**** *book_ *id_body-114 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I14 *act_I *date_1660 *creator_somaize
 
 -*who_patrice
 Enfin nous voicy tantost Juges.
@@ -1532,7 +1532,7 @@ C'est desja nostre Deputé.
 -*who_patrice
 Tenons donc nostre gravité.
 
-**** *book_ *id_body-115 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I15 *act_I *date_1660 *creator_somaize
 
 -*who_ribercour
 Messieurs, j'en veux aux Pretieuses,
@@ -1551,7 +1551,7 @@ Jugez s'il vous plaist.
 -*who_patrice
             Les voicy.
 
-**** *book_ *id_body-116 *act_ *date_1660 *creator_somaize
+**** *book_ *id_I16 *act_I *date_1660 *creator_somaize
 
 -*who_ribercour
 Approchez-vous belle jazeuse,

@@ -33,7 +33,7 @@ Registré sur le livre de la Communauté , le 24 Janvier 1669.
 
 A. SOUBRON Syndic.
 
-**** *book_ *id_body-401 *act_ *date_1669 *creator_quinault
+**** *book_ *id_I01 *act_I *date_1669 *creator_quinault
 
 -*who_demarate
 Il le faut avoüer, rien n'est plus éclattant
@@ -161,7 +161,7 @@ D'un art⁎ si peu commun…
 -*who_demarate
 Ce n'est pas moi qu'il cherche, il ne m'apperçoit pas.
 
-**** *book_ *id_body-402 *act_ *date_1669 *creator_quinault
+**** *book_ *id_I02 *act_I *date_1669 *creator_quinault
 
 -*who_pausanias
 Voir un autre à ma honte obtenir Cleonice,
@@ -261,7 +261,7 @@ Luy donner le loisir de se donner luy mesme,
 Aprés cela de peur de vous embarasser,
 Seigneur je me retire, & vous laisse y penser.
 
-**** *book_ *id_body-403 *act_ *date_1669 *creator_quinault 
+**** *book_ *id_I03 *act_I *date_1669 *creator_quinault 
 
 -*who_eurianax
 De si beaux sentimens où tant d'amour⁎ s'exprime,
@@ -338,7 +338,7 @@ Du pouvoir que les Grecs n'ont confié qu'à vous.
 -*who_pausanias
 Je le sçay, mais passons, je le voy qui s'avance.
 
-**** *book_ *id_body-404 *act_ *date_1669 *creator_quinault
+**** *book_ *id_I04 *act_I *date_1669 *creator_quinault
 
 -*who_aristide
 De vos amis, Seigneur, fuyez vous la presence,
@@ -458,7 +458,7 @@ Que ne vous dois-je pas Seigneur, & quel moïen…
 -*who_aristide
 Je fais ce que je dois, vous ne me devez rien.
 
-**** *book_ *id_body-405 *act_ *date_1669 *creator_quinault
+**** *book_ *id_I05 *act_I *date_1669 *creator_quinault
 
 -*who_sophane
 Quoi Seigneur au mépris d'une amitié si tendre
@@ -505,7 +505,7 @@ Mais pour l'y preparer prenons soin⁎ de le voir,
 Et qu'il s'en plaigne ou non faisons nostre devoir.
 Fin du premier Acte.
 
-**** *book_ *id_body-501 *act_ *date_1669 *creator_quinault
+**** *book_ *id_II01 *act_II *date_1669 *creator_quinault
 
 -*who_cleonice
 Cesse de me flatter d'une attente importune,
@@ -642,7 +642,7 @@ Mais Dieux !
 -*who_cleonice
       Pausanias paroist.
 
-**** *book_ *id_body-502 *act_ *date_1669 *creator_quinault
+**** *book_ *id_II02 *act_II *date_1669 *creator_quinault
 
 -*who_pausanias
 Quoi malgré tous mes soins⁎ vostre invincible haine
@@ -742,7 +742,7 @@ Je veux bien vous laisser en pleine liberté,
 Et vous donner le droit malgré le rang suprême,
 De pouvoir tout ici jusques contre moi même.
 
-**** *book_ *id_body-503 *act_ *date_1669 *creator_quinault
+**** *book_ *id_II03 *act_II *date_1669 *creator_quinault
 
 -*who_demarate
 On vient de m'avertir que suivant nostre espoir
@@ -762,7 +762,7 @@ D'essayer d'adoucir une haine funeste⁎,
 Et s'il se peut enfin d'obliger son courroux
 A ne connoistre plus d'ennemis parmi nous.
 
-**** *book_ *id_body-504 *act_ *date_1669 *creator_quinault
+**** *book_ *id_II04 *act_II *date_1669 *creator_quinault
 
 -*who_demarate
 Vostre ressentiment à quelque point qu'il monte,
@@ -897,7 +897,7 @@ Le soin⁎ de l'excuser à ce point vous irrite ?
 En me parlant pour lui si c'estoit m'irriter,
 Je ne craindrois pas tant de vous trop écouter.
 
-**** *book_ *id_body-505 *act_ *date_1669 *creator_quinault
+**** *book_ *id_II05 *act_II *date_1669 *creator_quinault
 
 -*who_demarate
 Ai-je bien entendu, Charile, est-il possible ?
@@ -966,7 +966,7 @@ Si tout nous manque⁎ enfin, je sçais où l'attaquer,
 Et la vengeance au moins ne me sçauroit manquer⁎.
 Fin du Second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1669 *creator_quinault
+**** *book_ *id_III01 *act_III *date_1669 *creator_quinault
 
 -*who_aristide
 D'un Ami mécontent évitons la presence,
@@ -1041,7 +1041,7 @@ J'espere…
 Et vais de mon costé diposer nos Amis
 A tenter hautement ce qu'ils nous ont promis.
 
-**** *book_ *id_body-602 *act_ *date_1669 *creator_quinault
+**** *book_ *id_III02 *act_III *date_1669 *creator_quinault
 
 -*who_demarate
 Seigneur pour éviter le peril qui me presse,
@@ -1147,7 +1147,7 @@ Je veux tout déclarer⁎ & j'irai de ce pas.
 -*who_aristide
 Vous n'irez pas bien loin voici Pausanias.
 
-**** *book_ *id_body-603 *act_ *date_1669 *creator_quinault 
+**** *book_ *id_III03 *act_III *date_1669 *creator_quinault 
 
 -*who_pausanias
 A vostre tour, Seigneur, fuyez vous ma presence,
@@ -1159,7 +1159,7 @@ Mais Demarate cherche à vous entretenir,
 Seigneur, & le secret qu'elle pretend vous dire
 Doit fuir la multitude & veut qu'on se retire.
 
-**** *book_ *id_body-604 *act_ *date_1669 *creator_quinault
+**** *book_ *id_III04 *act_III *date_1669 *creator_quinault
 
 -*who_pausanias
 Quel est donc ce secret dont vous l'avez instruit,
@@ -1315,7 +1315,7 @@ Et qu'il m'estoit mieux deub peut-estre qu'à personne.
 Si du plus tendre Amour⁎ la plus fidelle ardeur
 Pouvoit jamais suffire à mériter un cœur.
 
-**** *book_ *id_body-605 *act_ *date_1669 *creator_quinault
+**** *book_ *id_III05 *act_III *date_1669 *creator_quinault
 
 -*who_eurianax
 N'en est-ce point assez ? & seroit-il possible
@@ -1338,7 +1338,7 @@ Hastons nous d'éloigner ses dangereux attrais,
 Allons lui dire adieu pour ne la voir jamais.
 Fin du Troisième Acte.
 
-**** *book_ *id_body-701 *act_ *date_1669 *creator_quinault
+**** *book_ *id_IV01 *act_IV *date_1669 *creator_quinault
 
 -*who_aristide
 Je détourne vos pas, je sçai où je m'expose ;
@@ -1489,7 +1489,7 @@ Je n'écoute plus rien vos soins⁎ sont superflus.
 -*who_aristide
 Je voi pourquoi Seigneur vous ne m'écoutez plus
 
-**** *book_ *id_body-702 *act_ *date_1669 *creator_quinault 
+**** *book_ *id_IV02 *act_IV *date_1669 *creator_quinault 
 
 -*who_cleonice
 Aprés tant de bien-faits & pour faveur derniere,
@@ -1742,7 +1742,7 @@ Vostre exemple authorise & me rend ma foiblesse ;
 Allez esperez tout vous m'aprenez trop bien,
 Seigneur que quand on aime on ne refuse rien.
 
-**** *book_ *id_body-703 *act_ *date_1669 *creator_quinault
+**** *book_ *id_IV03 *act_IV *date_1669 *creator_quinault
 
 -*who_demarate
 Pardonnez moi le trouble⁎ où vous met ma presence,
@@ -1849,7 +1849,7 @@ Le vostre est d'estre ingrat, & le mien de sçavoir,
 Et souffrir sans murmure & servir sans espoir.
 Il s'en va donc enfin.
 
-**** *book_ *id_body-704 *act_ *date_1669 *creator_quinault
+**** *book_ *id_IV04 *act_IV *date_1669 *creator_quinault
 
 -*who_charile
       Il sort l'ame interdite⁎.
@@ -1901,7 +1901,7 @@ Dans un coeur outragé, vien Charile, vien voir
 Ce que peut à son tour l'Amour⁎ au desespoir.
 Fin du Quatriéme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1669 *creator_quinault
+**** *book_ *id_V01 *act_V *date_1669 *creator_quinault
 
 -*who_eurianax
 Dans quel trouble⁎ Seigneur vous voi-je ici paroistre ?
@@ -1923,7 +1923,7 @@ Et qu'en ces lieux enfin contre vous tout conspire.
 Les mutins font un Chef dont je prens peu d'effroi.
 Aristide est ici le seul... Mais je le voi.
 
-**** *book_ *id_body-802 *act_ *date_1669 *creator_quinault 
+**** *book_ *id_V02 *act_V *date_1669 *creator_quinault 
 
 -*who_aristide
 Je me dérobe aux Grecs & viens ici moi-même
@@ -2006,7 +2006,7 @@ Respectez son repos, empéchez qu'on le trouble⁎ ;
 De son appartement qu'on s'approche sans bruit,
 Et qu'il n'arrive rien sans que j'en sois instruit.
 
-**** *book_ *id_body-803 *act_ *date_1669 *creator_quinault
+**** *book_ *id_V03 *act_V *date_1669 *creator_quinault
 
 -*who_pausanias
 Je doute Eurianax, si mon amour⁎ extrême
@@ -2094,7 +2094,7 @@ Mes fautes, mes erreurs, tout s'en doit ressentir,
 Et j'oserai porter, quoi qu'on en puisse croire,
 Mon Amour⁎ aussi loin que j'ai porté ma Gloire⁎.
 
-**** *book_ *id_body-804 *act_ *date_1669 *creator_quinault
+**** *book_ *id_V04 *act_V *date_1669 *creator_quinault
 
 -*who_pausanias
 He bien qu'avez vous fait ?
@@ -2122,7 +2122,7 @@ Du trouble⁎ où je vous voi vous devez revenir.
 -*who_pausanias
 Je ne le puis cacher j'ai peine à le bannir.
 
-**** *book_ *id_body-805 *act_ *date_1669 *creator_quinault
+**** *book_ *id_V05 *act_V *date_1669 *creator_quinault
 
 -*who_pausanias
 Mais Sophane en ces lieux, quel ordre vous rappelle ?
@@ -2151,7 +2151,7 @@ Elle mesme vous cherche avec empressement⁎,
 Et ne veut s'expliquer qu'avec vous seulement.
 Vous la voyez.
 
-**** *book_ *id_body-806 *act_ *date_1669 *creator_quinault
+**** *book_ *id_V06 *act_V *date_1669 *creator_quinault
 
 -*who_pausanias
       Madame où donc est Cleonice ?
@@ -2254,7 +2254,7 @@ Et les infortunez sont toûjours mes Amis :
 Un affreux desepoir dans ses regards éclatte,
 Mais Sophane revient & quitte Demarate.
 
-**** *book_ *id_body-807 *act_ *date_1669 *creator_quinault
+**** *book_ *id_V07 *act_V *date_1669 *creator_quinault
 
 -*who_sophane
 Avant qu'on l'ait pû joindre elle a fini son sort,

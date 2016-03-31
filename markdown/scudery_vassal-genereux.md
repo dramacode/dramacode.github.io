@@ -1,6 +1,6 @@
 ---
 identifier: scudery_vassal-genereux  
-creator: Georges de Scudéry  
+creator: Scudéry, Georges de  
 date: 1636  
 title: Le Vassal généreux. Tragi-comédie  
 ---
@@ -13,8 +13,7 @@ POEME TRAGI-COMIQUE
 PAR MONSIEUR DE SCUDERY.
 
 A PARIS, Chez AUGUSTIN COURBE, Imprimeur et Libraire de Monsieur frere du Roy, dans la petite Salle du Palais, à la Palme. M. DC. XXXVI. AVEC PRIVILEGE DU ROY
-Édition critique établie dans le cadre d'un mémoire de
-      master 1 sous la direction de Georges Forestier (2007).
+Édition critique établie dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2007).
 
 
 # Introduction
@@ -1182,7 +1181,7 @@ De venir si matin [130] vous trouver dans ce Temple?
 Pardonnez ce peché qui ne vient que d'amour;  
 Je vous ay voulu voir aussi tost que le jour.  
 
-    THEANDRE.    
+    THEANDRE. 
 Je prens comme je dois l'honneur de vos caresses [131];  
 C'est dans ces lieux sacrez qu'on doit voir les Deesses,  
 C'est dans ces lieux icy [132] qu'on les doit honorer;  
@@ -1226,7 +1225,7 @@ J'aime Theandre enfin aussi bien comme il aime;
 Et pour le contenter plainement aujourd'huy,  
 Je veux qu'il sçache encor que j'aime plus que luy.  
 
-    THEANDRE.    
+    THEANDRE. 
 Ha trop heureux Amant! plaisir incomparable!  
 O bon-heur [143] infiny, pourveu qu'il soit durable!  
 Mais........  
@@ -2089,7 +2088,7 @@ Ils se monstrent leurs gages.
 
         le Mouchoir.  
 
-    LUCIDAN.      [46]
+    LUCIDAN.   [46]
 Indiscret,  
 
     ROSILEE. 
@@ -3266,7 +3265,7 @@ Et que de vostre Nom, les Siècles amoureux,
 Consacrent un Autel au VASSAL GENEREUX [331].  
 
 
-# LexiqueApparenceVraisemblanceV. 1119ArcherSymbolise l'être aimé qui blesse de la flèche d'amour (par référence au petit Dieu Amour) celui qui aimeV. 124, 453BornerAcheverV. 377, 1071ConseilDécision, résolutionV. 869Constance/constantRésolution, fermetéV. 663, 685, 794CourrousColèreV. 51, 763, 831, 976, 1440DecevoirTromperV. 883DommagePerte, ruine, malheurV. 909EffectRéalisationV. 101, 485, 735, 1169EnnuySouffranceV. 644EnvieJalousieDédicace, v. 142, 301, 677, 1091, 1203, 1331, 1357Désir violentV. 173, 345, 713, 745FrancLibéréV. 1291, 1450FoudreColère divine V. 700, 923, 1412FureurGrands emportements provoqués par les passionsV. 1075HasarderMettre au hasard de perdre, risquerV. 746, 995InconstantQui manque de résolution, de fermetéV. 41, 508, 1343InsigneRemarquable, que l'on distingue des autresV. 1305LicencePermissionV. 565LosSituation personnelleV. 1496Loyer RécompenseV. 1307ManiePassionV. 497, 1449MelancolieC'est l'une des quatre humeurs qui sont dans le corps. Elle est la plus pesante et la plus incommode, elle cause la tristesse et le chagrin. La mélancolie noire peut quelques fois entraîner la folie.V. 425, 1132PotentatPersonne qui a une puissance souveraine et fort étendue. Le roi est le plus redouté des Potentats d'Europe.V. 1250PublierRendre une chose publiqueV. 307, 875RareExceptionnelV. 1315, 1353ReglerModérer, se montrer raisonnableV. 369, 379, 485, 714, 1021  ResverieStupeurV. 1429SoingDans le langage amoureux, c'est l'ensemble des attentions que l'on apporte à l'être aiméV. 411SubjetRaison, motifV. 644, 1072, 1130TramerComploterV. 892TrespasMortV. 811, 1101SaisonLe bon moment, ou le moment propiceV. 1229SoucyChagrin, inquiétude d'espritV. 1459
+# LexiqueApparenceVraisemblanceV. 1119ArcherSymbolise l'être aimé qui blesse de la flèche d'amour (par référence au petit Dieu Amour) celui qui aimeV. 124, 453BornerAcheverV. 377, 1071ConseilDécision, résolutionV. 869Constance/constantRésolution, fermetéV. 663, 685, 794CourrousColèreV. 51, 763, 831, 976, 1440DecevoirTromperV. 883DommagePerte, ruine, malheurV. 909EffectRéalisationV. 101, 485, 735, 1169EnnuySouffranceV. 644EnvieJalousieDédicace, v. 142, 301, 677, 1091, 1203, 1331, 1357Désir violentV. 173, 345, 713, 745FrancLibéréV. 1291, 1450FoudreColère divine V. 700, 923, 1412FureurGrands emportements provoqués par les passionsV. 1075HasarderMettre au hasard de perdre, risquerV. 746, 995InconstantQui manque de résolution, de fermetéV. 41, 508, 1343InsigneRemarquable, que l'on distingue des autresV. 1305LicencePermissionV. 565LosSituation personnelleV. 1496Loyer RécompenseV. 1307ManiePassionV. 497, 1449MelancolieC'est l'une des quatre humeurs qui sont dans le corps. Elle est la plus pesante et la plus incommode, elle cause la tristesse et le chagrin. La mélancolie noire peut quelques fois entraîner la folie.V. 425, 1132PotentatPersonne qui a une puissance souveraine et fort étendue. Le roi est le plus redouté des Potentats d'Europe.V. 1250PublierRendre une chose publiqueV. 307, 875RareExceptionnelV. 1315, 1353ReglerModérer, se montrer raisonnableV. 369, 379, 485, 714, 1021 ResverieStupeurV. 1429SoingDans le langage amoureux, c'est l'ensemble des attentions que l'on apporte à l'être aiméV. 411SubjetRaison, motifV. 644, 1072, 1130TramerComploterV. 892TrespasMortV. 811, 1101SaisonLe bon moment, ou le moment propiceV. 1229SoucyChagrin, inquiétude d'espritV. 1459
 
 
 # Annexe 1 : Préface d'*Arminius ou Les Frères ennemis*
@@ -3654,7 +3653,7 @@ Les Tragi-comédies de Scudéry et L'AstréeLes Trois Scudéry
 
 [113] « Satisfaire aux usages ».
 
-[114] « Le fondement, l'abrégé d'une Histoire, d'une Comédie, d'un Chapître ». « On a perdu l'usage des Prologues, qui contenaient l'argument de la Comédie ». Entre 1628 et 1635, une grande partie des pièces publiées s'ouvraient par un argument. L'usage, cependant, commençait à passer, et Corneille s'en abstient depuis la publication de *Clitandre*  en 1632.
+[114] « Le fondement, l'abrégé d'une Histoire, d'une Comédie, d'un Chapître ». « On a perdu l'usage des Prologues, qui contenaient l'argument de la Comédie ». Entre 1628 et 1635, une grande partie des pièces publiées s'ouvraient par un argument. L'usage, cependant, commençait à passer, et Corneille s'en abstient depuis la publication de *Clitandre* en 1632.
 
 [115] Nous ne rendons ici que quelques parties du *Privilege du Roy* qui se trouvait à la fin de l'édition d'Antoine Courbé.
 
@@ -3726,11 +3725,11 @@ Les Tragi-comédies de Scudéry et L'AstréeLes Trois Scudéry
 
 [149] Allégorie de la mort. Les Parques sont issues des trois sœurs grecques: Clotho la fileuse, Lachésis qui personnifie le hasard de la destinée, et Atrops qui représente le caractère immuable de la destinée. Elles sont associées tantôt à la naissance, tantôt à la mort.
 
-[150] Il s'agit peut-être ici d'une référence aux *Amours tragiques de Pyrame et Thisbé*  où l'amour impossible des amants ne se réalisera qu'à travers leur mort.
+[150] Il s'agit peut-être ici d'une référence aux *Amours tragiques de Pyrame et Thisbé* où l'amour impossible des amants ne se réalisera qu'à travers leur mort.
 
 [151] La barque de Charon qui fait franchir aux âmes l'Achéron, le fleuve des enfers.
 
-[152] La locution est employée ici avec l'infinitif pur. La langue du XVII*e* siècle omet très souvent, contrairement à l'usage actuel, la préposition *de*  devant un infinitif  construit avec le *que*  comparatif (cf. Haase, § 88).
+[152] La locution est employée ici avec l'infinitif pur. La langue du XVII*e* siècle omet très souvent, contrairement à l'usage actuel, la préposition *de* devant un infinitif construit avec le *que* comparatif (cf. Haase, § 88).
 
 [153] Avant d'enfiler l'anneau à son doigt.
 
@@ -3740,9 +3739,9 @@ Les Tragi-comédies de Scudéry et L'AstréeLes Trois Scudéry
 
 [156] Métaphore, celui qui est aimé est comparé à un archer, par référence au petit Dieu Amour.
 
-[157] Coup de foudre ; au XVII*e*  siècle, la foudre est souvent masculin en ce sens.
+[157] Coup de foudre ; au XVII*e* siècle, la foudre est souvent masculin en ce sens.
 
-[158] Les « Articles » de la loi à laquelle il est en train de jurer obéissance. C'est ici une référence aux *Douze Tables d'Amour*  de Céladon dans *L'Astrée* .
+[158] Les « Articles » de la loi à laquelle il est en train de jurer obéissance. C'est ici une référence aux *Douze Tables d'Amour* de Céladon dans *L'Astrée* .
 
 [159] Périphrase lexicalisée, signifie « la mort ».
 

@@ -1043,8 +1043,8 @@ Que tu viennes à bout de sa fidélité.
 
     CLITON.
 Monsieur, reposez-vous sur ma subtilité ;  
-Il faudra malgré lui qu'il donne dans le piège ;  
-Ma tête sur ce point vous servira de pleige ; [1]  
+Il faudra malgré lui qu'il donne dans le piège ;   [1]
+Ma tête sur ce point vous servira de pleige ;  
 Mais aussi vous savez...  
 
     ERASTE.
@@ -2306,8 +2306,8 @@ M'engloutit, et me plonge aux enfers tout vivant.
 Je vous entends, grands dieux ; c'est là-bas que leurs âmes  
 Aux champs Elysiens éternisent leurs flammes ;  
 C'est là-bas qu'à leurs pieds il faut verser mon sang :  
-La terre à ce dessein m'ouvre son large flanc,  
-Et jusqu'aux bords du Styx me fait libre passage ; [2]  
+La terre à ce dessein m'ouvre son large flanc,   [2]
+Et jusqu'aux bords du Styx me fait libre passage ;  
 Je l'aperçois déjà, je suis sur son rivage.  
 Fleuve, dont le saint nom est redoutable aux dieux,  
 Et dont les neuf replis ceignent ces tristes lieux,  
@@ -2376,8 +2376,8 @@ Ne laisse point sur elle agir mon désespoir ?
 Détacher Ixion pour me mettre en sa place,  
 Mégères, c'est à vous une indiscrète audace.  
 Ai-je, avec même front que cet ambitieux,  
-Attenté sur le lit du monarque des cieux ?  
-Vous travaillez en vain, barbares Euménides : [3]  
+Attenté sur le lit du monarque des cieux ?   [3]
+Vous travaillez en vain, barbares Euménides :  
 Non, ce n'est pas ainsi qu'on punit les perfides.  
 Quoi ! Me presser encor ? Sus, de pieds et de mains  
 Essayons d'écarter ces monstres inhumains.  
@@ -2424,12 +2424,12 @@ Vous me connaissez mal ; dans le corps d'un perfide
 Je porte le courage et les forces d'Alcide.  
 Je vais tout renverser dans ces royaumes noirs,  
 Et saccager moi seul ces ténébreux manoirs.  
-Une seconde fois le triple chien Cerbère  
-Vomira l'aconit en voyant la lumière. [4]  
+Une seconde fois le triple chien Cerbère   [4]
+Vomira l'aconit en voyant la lumière.  
 J'irai du fond d'enfer dégager les Titans ;  
 Et si Pluton s'oppose à ce que je prétends,  
-Passant dessus le ventre à sa troupe mutine,  
-J'irai d'entre ses bras enlever Proserpine. [5]  
+Passant dessus le ventre à sa troupe mutine,   [5]
+J'irai d'entre ses bras enlever Proserpine.  
 
 
 ## SCÈNE X. Lisis, Chloris.
@@ -2840,8 +2840,8 @@ L'infidèle m'a fait tant de nouveaux serments,
 Tant d'offres, tant de voeux, et tant de compliments,  
 Mêlés de repentirs...  
 
-    MÉLITE.
-        Qu'à la fin exorable, [6]  
+    MÉLITE. [6]
+        Qu'à la fin exorable,  
 Vous l'avez regardé d'un oeil plus favorable.  
 
     CHLORIS.

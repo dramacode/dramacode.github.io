@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-101 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I01 *act_I *date_1664 *creator_montfleury
 
 -*who_tomire
 Si Celime est bien tost d humeur a Vous entendre
@@ -14,7 +14,7 @@ Je vay Voir si pour vous elle sera Visible
 Preparez Vous icy iusques a mon retour
 A la bien divertir pour faire Vostre cour
 
-**** *book_ *id_body-102 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I02 *act_I *date_1664 *creator_montfleury
 
 -*who_julie
 Ah Carlos
@@ -273,7 +273,7 @@ Et cache plus desprit sous ces petitz habitz
 Que le plus vieux renard de tout nostre pays
 On dit quelle a trente ans et je n'ay point de peine
 
-**** *book_ *id_body-103 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I03 *act_I *date_1664 *creator_montfleury
 
 -*who_zaire
 Celime va passer dans la sale prochaine
@@ -322,13 +322,13 @@ Au feu de Fatiman si l hymen concerté
 S'accomplit il me doit donner la liberté
 Il me la bien promis et me tiendra parolle
 
-**** *book_ *id_body-104 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I04 *act_I *date_1664 *creator_montfleury
 
 -*who_zaire
 Qu'a telle a differer son chagrin me desole
 il faut que ie l'observe ah ! la voicy j'ay peur
 
-**** *book_ *id_body-105 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I05 *act_I *date_1664 *creator_montfleury
 
 -*who_celime
 Ah qu'un nouvel amour met de trouble en mon cœur
@@ -396,7 +396,7 @@ Et qu'ilz feroient dancer les bestes et les arbres
 Il faut les avertir je vay prendre ce soin
 Ilz vous resjouiront vous en avez besoin
 
-**** *book_ *id_body-106 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I06 *act_I *date_1664 *creator_montfleury
 
 -*who_celime
 N'estoit ce pas assez du destin qui me brave
@@ -409,7 +409,7 @@ Ma deffiance peut avoir trompé mes yeux
 Et le temp et mes soins m'en esclairciront mieux
 Je voy carlos tachons de lire dans son ame
 
-**** *book_ *id_body-107 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I07 *act_I *date_1664 *creator_montfleury
 
 -*who_celime
 M'avez vous preparé quelque air galand
@@ -493,7 +493,7 @@ Tenez vous a la porte et qu'aucun n'entre icy
 Et vous Zaïre aussy que peut elle pretendre
 Je feins de m'esloigner et reviens pour l'entendre
 
-**** *book_ *id_body-108 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I08 *act_I *date_1664 *creator_montfleury
 
 -*who_celime
 Carlos dans vos ennuys que je vois a regret
@@ -535,7 +535,7 @@ Cependant songez y carlos plus d'une fois
 Elle ayme cet esclave ah quelle extravagance
 Mais il faut la rejoindre et garder le silence
 
-**** *book_ *id_body-109 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I09 *act_I *date_1664 *creator_montfleury
 
 -*who_carlos
 L'ay je bien entendue ou me suis je abusé ?
@@ -546,7 +546,7 @@ Helas mille dangers m'alarment tour a tour
 Je crains esgalement sa haine et son amour
 Je me pers et nosant resister ny me rendre
 
-**** *book_ *id_body-110 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_I10 *act_I *date_1664 *creator_montfleury
 
 -*who_tomire
 Monsieur aprez cecy Vous n'avez qu'a vous pendre
@@ -652,7 +652,7 @@ Autrement
 -*who_carlos
       Vien suy moy tomire et ne crains rien
 
-**** *book_ *id_body-201 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II01 *act_II *date_1664 *creator_montfleury
 
 -*who_brusquin
 Si julie encor vous est chere
@@ -798,7 +798,7 @@ Certain penchant pour moy surquoy je m'imagine
 Que je pourray du tout estre bien esclaircy
 Alors qu'adroitement je l'auray.... la Voicy
 
-**** *book_ *id_body-202 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II02 *act_II *date_1664 *creator_montfleury
 
 -*who_tomire
 Prens bien garde…
@@ -815,7 +815,7 @@ Je vous suis obligé, serviteur
 -*who_tomire
       je vous quitte
 
-**** *book_ *id_body-203 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II03 *act_II *date_1664 *creator_montfleury
 
 -*who_marine
 C'est luy mesme et dabord je l'ay bien reconnu
@@ -1247,7 +1247,7 @@ Il est... mais fatiman vient icy je l'entens
 Menagez nos plaisirs si vous aymez le vostre
 A dieu pour le parent gardez le pour quelque autre
 
-**** *book_ *id_body-204 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II04 *act_II *date_1664 *creator_montfleury
 
 -*who_brusquin
 Je croy que le Voicy peste quel egrillart
@@ -1379,14 +1379,14 @@ Cinq mille ducatz
 -*who_fatiman
       c'est une affaire concluë
 
-**** *book_ *id_body-205 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II05 *act_II *date_1664 *creator_montfleury
 
 -*who_fatiman
 Je vay voir si celime est toujours resolüe
 A remettre l'hymen qui doit me rendre heureux
 Sa Naine vient icy qui t'ameine en ces lieux
 
-**** *book_ *id_body-206 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II06 *act_II *date_1664 *creator_montfleury
 
 -*who_zaire
 Pour adoucir l'excez de sa Melancolie
@@ -1421,7 +1421,7 @@ Ne voyez vous pas bien qu'on m'escoute
 -*who_fatiman
       sortez
 
-**** *book_ *id_body-207 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II07 *act_II *date_1664 *creator_montfleury
 
 -*who_zaire
 Vous n'en scavez rien
@@ -1479,12 +1479,12 @@ Je vay les envoyer adieu
 -*who_celime
       jusqu'a demain
 
-**** *book_ *id_body-208 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II08 *act_II *date_1664 *creator_montfleury
 
 -*who_zaire
 Il faut, voicy carlos
 
-**** *book_ *id_body-209 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II09 *act_II *date_1664 *creator_montfleury
 
 -*who_zaire
       celime vous demande
@@ -1494,7 +1494,7 @@ Cherchez la promptement et venez sur mes pas
 -*who_carlos
 Suffit ah quels ennuys ! mais ne la vois-je pas
 
-**** *book_ *id_body-210 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II10 *act_II *date_1664 *creator_montfleury
 
 -*who_carlos
 Scavez vous la rigueur du destin qui traverse
@@ -1579,7 +1579,7 @@ A dieu
 -*who_julie
       r'entrons voicy cet espoux
 
-**** *book_ *id_body-211 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II11 *act_II *date_1664 *creator_montfleury
 
 -*who_brusquin
       c'est ma femme
@@ -1605,7 +1605,7 @@ Reconnoissez l'espoux dont la main et le cœur...
 -*who_julie
 Je ne connois en vous que mon persecuteur
 
-**** *book_ *id_body-212 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_II12 *act_II *date_1664 *creator_montfleury
 
 -*who_brusquin
 Suis je pas un grand sot d'aymer cette traitresse
@@ -1613,7 +1613,7 @@ Mais puis que rien ne peut guerir tant de foiblesse
 Et que le diable espargne enfin si peu de fronts
 Hasard a mon marché concluons et partons.
 
-**** *book_ *id_body-301 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III01 *act_III *date_1664 *creator_montfleury
 
 -*who_zaire
 Mais considerez mieux qu'elle raison l'oblige
@@ -1668,7 +1668,7 @@ Un si cruel obstacle a leur intelligence
 Que tous deux... cet esclave autre fois son valet...
 Aproche, m'en poura reveler le secret
 
-**** *book_ *id_body-302 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III02 *act_III *date_1664 *creator_montfleury
 
 -*who_tomire
 Je passois par respect n'osant icy paroistre
@@ -1886,7 +1886,7 @@ Je feindray d'jgnorer...
 -*who_tomire
       tout comme il vous plaira
 
-**** *book_ *id_body-303 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III03 *act_III *date_1664 *creator_montfleury
 
 -*who_celime
 Qu'ay je entendu Zaïre et qu'a til s'ceu m'apprendre
@@ -1916,7 +1916,7 @@ Je vay...
 -*who_celime
 Escoutons et voyons jusques ou vont leurs feux
 
-**** *book_ *id_body-304 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III04 *act_III *date_1664 *creator_montfleury
 
 -*who_carlos
 Malgré tous les malheurs dont ma flame est suivie
@@ -2020,7 +2020,7 @@ Il suffit vous pouvez poursuivre en mon absence
 Carlos et le service aura sa recompense
 Ah que pour deux jeunes cœurs & C  :
 
-**** *book_ *id_body-305 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III05 *act_III *date_1664 *creator_montfleury
 
 -*who_brusquin
 Encor chascun de vous y prend goust ce me semble
@@ -2032,7 +2032,7 @@ Mon but monsieur n'estoit que de la divertir
 -*who_brusquin
 Ce soin la me regarde et vous pouvez sortir
 
-**** *book_ *id_body-306 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III06 *act_III *date_1664 *creator_montfleury
 
 -*who_brusquin
 Vous aymez donc ces gens toujours prests a bien faire
@@ -2094,14 +2094,14 @@ De l'aymer...
 Ou changez de discours ou fuyez ma presence
 Vous disje car je sens que je perds patience
 
-**** *book_ *id_body-307 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III07 *act_III *date_1664 *creator_montfleury
 
 -*who_brusquin
 Elle a perdu l'esprit ou me croit... mais il faut
 Voir fatiman conclurre, et partir au plutost
 Le Voicy
 
-**** *book_ *id_body-308 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III08 *act_III *date_1664 *creator_montfleury
 
 -*who_fatiman
       j'aperçoy Dom brusquin d'Alvarade
@@ -2303,7 +2303,7 @@ Mais si J'y suis present je veux estre pendu
 Pour croire mon malheur suffit qu'on m'en reponde
 Je pars et le diray chez nous a tout le monde.
 
-**** *book_ *id_body-309 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_III09 *act_III *date_1664 *creator_montfleury
 
 -*who_carlos
 S'il part ce n'est rien faire et si vous n'ordonnez
@@ -2315,7 +2315,7 @@ Alons de ce debut rendre conte a Julie
 Disposons son esprit a ce que j'en prevoy
 Entrons et du succez reposez vous sur moy.
 
-**** *book_ *id_body-401 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV01 *act_IV *date_1664 *creator_montfleury
 
 -*who_fatiman
 Et bien c'est un hymen qui vous plaist de remettre
@@ -2406,7 +2406,7 @@ Cachez moy les transportz d'un amour mercenaire
 Suivez vostre penchant sans me faire de loy
 Et meritez ma main sans l'exiger de moy
 
-**** *book_ *id_body-402 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV02 *act_IV *date_1664 *creator_montfleury
 
 -*who_stamorat
 Vous l'avez irritée
@@ -2436,13 +2436,13 @@ Tu vas voir de quel air je pretens m'en vanger
 Quoy je me resoudrois a partager la honte...
 Quelqu'un vient voy qui c'est et men vien rendre compte
 
-**** *book_ *id_body-403 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV03 *act_IV *date_1664 *creator_montfleury
 
 -*who_stamorat
 C'est marine et tomire et s'il vous plaist J'iray
 Commancer... mais suivons le il est desja rentré
 
-**** *book_ *id_body-404 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV04 *act_IV *date_1664 *creator_montfleury
 
 -*who_tomire
 Eh marine
@@ -2548,7 +2548,7 @@ Je ne dis pas cela
 Voicy Julie adieu va songe a detaler
 Et cours ou Dom carlos t'a tantost dit d'aller
 
-**** *book_ *id_body-405 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV05 *act_IV *date_1664 *creator_montfleury
 
 -*who_carlos
 Nous devons ce bonheur a l'amour de celime
@@ -2600,7 +2600,7 @@ De vos bontez pour moy n'espere aucune preuve
 Quelque soit le succez qui puisse en decider
 Qu'autant que vous croirez m'en pouvoir accorder
 
-**** *book_ *id_body-406 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV06 *act_IV *date_1664 *creator_montfleury
 
 -*who_carlos
 Qu'as tu donc
@@ -2664,7 +2664,7 @@ Le Voicy
 Fatiman l'attendoit et je luy vais apprendre
 Comme il m'en a chargé qu'il vient d'estre amené
 
-**** *book_ *id_body-407 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV07 *act_IV *date_1664 *creator_montfleury
 
 -*who_brusquin
 Et bien me trouvez vous suffisamment berné
@@ -2685,7 +2685,7 @@ Rit entre cuir et chair de me voir...
 -*who_stamorat
       parlez bas
 
-**** *book_ *id_body-408 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV08 *act_IV *date_1664 *creator_montfleury
 
 -*who_fatiman
 Je Vous l'avois bien dit quil ne s'en jroit pas
@@ -2824,7 +2824,7 @@ Qui des costes d'Alger partiront les premieres
 -*who_fatiman
 Ouy vous m'informerez tantost du resultat
 
-**** *book_ *id_body-409 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_IV09 *act_IV *date_1664 *creator_montfleury
 
 -*who_brusquin
 Ah canaille maudite ah traitre, moy forçat
@@ -2843,7 +2843,7 @@ Croyez Vous que mon cœur sans douleur soufrira
 -*who_stamorat
 Songez vous resoudre et lon vous repondra.
 
-**** *book_ *id_body-501 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V01 *act_V *date_1664 *creator_montfleury
 
 -*who_marine
 Me dis tu vray tomire et sur ton asseurance
@@ -2909,7 +2909,7 @@ Quand...
 R'entrons et s'il se peut tandis que lon le presse
 Scachons que deviendront ton maistre et ma maistresse
 
-**** *book_ *id_body-502 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V02 *act_V *date_1664 *creator_montfleury
 
 -*who_brusquin
 Messieurs que faites vous je suis prest a signer
@@ -2961,7 +2961,7 @@ Tenez prenez cecy pour vous donner courage
 -*who_stamorat
 Attendez je vay voir mais s'il vient soyez sage
 
-**** *book_ *id_body-503 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V03 *act_V *date_1664 *creator_montfleury
 
 -*who_brusquin
 Helas ! a mes depens je connoy mais trop tart
@@ -2973,7 +2973,7 @@ Qui rendroient grace au ciel d'en estre ainsy deffaits
 Quelqu'un vient je crains fort et je ne Ø puis m'en taire
 Que mon retardement ne m'ayt fait quelque affaire
 
-**** *book_ *id_body-504 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V04 *act_V *date_1664 *creator_montfleury
 
 -*who_fatiman
 Est il prest a signer tout ce qu'on luy dira
@@ -3080,14 +3080,14 @@ Vous n'avez qu'a le suivre
 -*who_brusquin
       ah le maudit voyage
 
-**** *book_ *id_body-505 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V05 *act_V *date_1664 *creator_montfleury
 
 -*who_fatiman
 Nous verrons de quel air celime recevra
 Ce coup dont je pretens punir... mais la voila
 Voyons jusques ou va cet orgueil qui me brave
 
-**** *book_ *id_body-506 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V06 *act_V *date_1664 *creator_montfleury
 
 -*who_celime
 Avez vous decidé du sort de Vostre esclave
@@ -3160,7 +3160,7 @@ Vous trouveriez moyen de rompre aussy le vostre
 Et je regarde enfin comme indigne de moy
 Qui peut porter un cœur a manquer a sa foy
 
-**** *book_ *id_body-507 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V07 *act_V *date_1664 *creator_montfleury
 
 -*who_fatiman
 Elle meurt de depit et j'en voy bien la cause
@@ -3168,7 +3168,7 @@ Mais perdre une infidelle est perdre peu de chose
 Et puisque cet hymen luy cause un tel transport
 Tachons en l'achevant de le rendre plus fort
 
-**** *book_ *id_body-508 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V08 *act_V *date_1664 *creator_montfleury
 
 -*who_brusquin
 Je reviens et tout est a vos ordres conforme
@@ -3207,7 +3207,7 @@ Vous ne vous reservez que le droit su seigneur
 Mon front est a l'enchere et m'a femme au pillage
 Les voicy
 
-**** *book_ *id_body-509 *act_ *date_1664 *creator_montfleury
+**** *book_ *id_V09 *act_V *date_1664 *creator_montfleury
 
 -*who_carlos
       quel respect ou plutost quel homage

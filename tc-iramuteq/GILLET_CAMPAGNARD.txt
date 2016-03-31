@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1656
+**** *book_ *id_I01 *act_I *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Tu ne la trouves pas plus belle que cela ?
@@ -157,7 +157,7 @@ Que de cet accident Phénice se moqua,
 Et même jusqu'au point que Cliton s'en piqua.
 Mais j'aperçois venir et Bazile et ma Reine.
 
-**** *book_ *id_I02 *act_I *date_1656
+**** *book_ *id_I02 *act_I *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Salut ! Où va la botte, et quel bon vent vous mène ?
@@ -360,7 +360,7 @@ Les savants ont leur verve et font tout par caprice ;
 Je le sais par moi-même, et je connais mon vice.
 Mais Léandre s'approche.
 
-**** *book_ *id_I03 *act_I *date_1656
+**** *book_ *id_I03 *act_I *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_leandre
       Hé bien, le jour est beau
@@ -386,7 +386,7 @@ Serait-ce fort mal fait ?
 -*who_lecampagnard
 Si vous tardez beaucoup, il faudra que je meure.
 
-**** *book_ *id_I04 *act_I *date_1656
+**** *book_ *id_I04 *act_I *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Picquart ne t'a-t-il pas été voir tout à l'heure ?
@@ -510,7 +510,7 @@ Viens.
 -*who_lecampagnard
 Je suis mort, ne crains pas que je puisse parler.
 
-**** *book_ *id_I05 *act_I *date_1656
+**** *book_ *id_I05 *act_I *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_anselme
 Le dessein va-t-il bien ?
@@ -663,7 +663,7 @@ Et, buvant la santé de la personne aimée,
 Avouons que Bacchus est un dieu sans pareil,
 Qui peut guider l'Amour et lui donner conseil.
 
-**** *book_ *id_II01 *act_II *date_1656
+**** *book_ *id_II01 *act_II *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Il faut que de Cliton j'aie le sang et l'âme.
@@ -848,7 +848,7 @@ Il n'oserait jamais.
       Il peut bien être sage,
 Ou je lui ferai voir que je ne suis pas sot.
 
-**** *book_ *id_II02 *act_II *date_1656
+**** *book_ *id_II02 *act_II *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lepage
 Monsieur, un cavalier voudrait vous dire un mot.
@@ -896,7 +896,7 @@ Que disent-ils tout bas ?
 -*who_alcipe
       La peine n'est pas grande.
 
-**** *book_ *id_II03 *act_II *date_1656
+**** *book_ *id_II03 *act_II *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Je ne vous connais plus pour ami désormais,
@@ -972,7 +972,7 @@ Va-t'en trouver Cliton, mais vite, je te prie,
 Et lui dis qu'il remette à tantôt la partie ;
 Nous, cachons nos desseins.
 
-**** *book_ *id_II04 *act_II *date_1656
+**** *book_ *id_II04 *act_II *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_phenice
       Hé quoi, toujours rêver,
@@ -1176,7 +1176,7 @@ N'eut pas beaucoup mieux fait s'il eût voulu se taire.
 -*who_phenice
 Sans doute ; mais voici notre peintre qui vient.
 
-**** *book_ *id_II05 *act_II *date_1656
+**** *book_ *id_II05 *act_II *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_bazile
 Hé bien ces beaux tableaux sont ?...
@@ -1375,7 +1375,7 @@ Et les chevaux ailés se peignent de la sorte.
 Madame, je me rends, la partie est trop forte ;
 Mais achevons le reste.
 
-**** *book_ *id_II06 *act_II *date_1656
+**** *book_ *id_II06 *act_II *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lepage
       Ah ! Monsieur...
@@ -1403,7 +1403,7 @@ Au diable les valets, maudite soit la race !
 Je n'en puis plus souffrir, il faut que je les chasse.
 Ma nièce, je reviens ici dans un moment.
 
-**** *book_ *id_III01 *act_III *date_1656
+**** *book_ *id_III01 *act_III *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Que faisait en ce lieu le plus savant des hommes?
@@ -1638,7 +1638,7 @@ Adieu, j'ai trop parlé.
 -*who_anselme
 Les dieux rendent parfois les astres sans effet.
 
-**** *book_ *id_III02 *act_III *date_1656
+**** *book_ *id_III02 *act_III *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lecampagnard
 Ah ! Jodelet !
@@ -1797,7 +1797,7 @@ La composition est assez raisonnable.
 Ah ! Que j'aurai de peine en rencontre semblable !
 J'y veux encor penser. Mais quelqu'un vient ici.
 
-**** *book_ *id_III03 *act_III *date_1656
+**** *book_ *id_III03 *act_III *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_bazile
 Vous devez avancer, puisqu'il avance aussi,
@@ -1945,7 +1945,7 @@ De grâce !...
 -*who_jodelet
 J'en connais un plus sage aux Petites-Maisons.
 
-**** *book_ *id_IV01 *act_IV *date_1656
+**** *book_ *id_IV01 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_leandre
 Tu viens, en ma faveur, par un grand coup d'adresse,
@@ -2133,7 +2133,7 @@ Je le ferai, mais c'est pour la dernière fois.
 -*who_leandre
 Tais-toi, Phénice vient, je l'entends à la voix.
 
-**** *book_ *id_IV02 *act_IV *date_1656
+**** *book_ *id_IV02 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_philis
 N'ai-je pas vu ma soeur qui fuit devant Léandre ?
@@ -2273,7 +2273,7 @@ Ah ! L'importun amant !
       Ô fortuné Léandre,
 Quel service important viens-je encor de te rendre !
 
-**** *book_ *id_IV03 *act_IV *date_1656
+**** *book_ *id_IV03 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_philis
 Je ne vous pensais pas si proche de ces lieux.
@@ -2347,7 +2347,7 @@ Changez de sentiment.
 Souffrez que dans l'excès d'une amour sans pareille,
 Dessus ces belles mains...
 
-**** *book_ *id_IV04 *act_IV *date_1656
+**** *book_ *id_IV04 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_cliton
       Poursuivez à loisir,
@@ -2409,7 +2409,7 @@ Ah ! La maudite rouille, ah ! Monsieur, ah ! Mon maître,
 Au diable soit l'épée et ceux qui l'ont fait naître !
 Au secours, aux voleurs, aux meurtres !
 
-**** *book_ *id_IV05 *act_IV *date_1656
+**** *book_ *id_IV05 *act_IV *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_bazile
       Qu'est ceci ?
@@ -2499,7 +2499,7 @@ Que si je l'avais fait je serais un grand sot !
 Rouille-toi tout ton saoul aussi bien, chère Olinde,
 N'es-tu pas pour l'oison, la poule et le coq d'Inde ?
 
-**** *book_ *id_V02 *act_V *date_1656
+**** *book_ *id_V02 *act_V *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_phenice
 De peur que votre honneur ici ne se hasarde,
@@ -2589,7 +2589,7 @@ Sans dessein de venger les affronts qu'il m'a faits,
 Je vais de vos desseins prévenir les effets.
 Je ne vous croirai pas ; vous êtes en colère.
 
-**** *book_ *id_V03 *act_V *date_1656
+**** *book_ *id_V03 *act_V *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_leandre
 Nous n'osions avancer de peur de vous déplaire,
@@ -2749,7 +2749,7 @@ Mais quelqu'un vient.
 -*who_philis
       Feignons.
 
-**** *book_ *id_V04 *act_V *date_1656
+**** *book_ *id_V04 *act_V *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_leandre
       Madame, il faut, de grâce,
@@ -2938,7 +2938,7 @@ C'en est assez.
 -*who_lecampagnard
       Je suis à vous toute ma vie.
 
-**** *book_ *id_V05 *act_V *date_1656
+**** *book_ *id_V05 *act_V *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_bazile
 Êtes-vous insensés ? Que faites-vous, Messieurs ?
@@ -3007,7 +3007,7 @@ Et si le bon Anselme, avecque sa doctrine,
 N'avait pas si bon jeu, comme il a bonne mine,
 Et s'était pu tromper en me trompant aussi...
 
-**** *book_ *id_V06 *act_V *date_1656
+**** *book_ *id_V06 *act_V *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_jodelet
 Ne l'allez point chercher autre part le voici !
@@ -3083,7 +3083,7 @@ Envoyons donc quérir cette agréable aînée.
 -*who_bazile
 Mais Lise vient à nous.
 
-**** *book_ *id_V07 *act_V *date_1656
+**** *book_ *id_V07 *act_V *date_1656 *creator_gillet_de_la_tessonerie
 
 -*who_lise
       Ô fille infortunée !

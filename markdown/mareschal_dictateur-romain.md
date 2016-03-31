@@ -814,7 +814,7 @@ L'action du *Dictateur romain* est donc *a posteriori* plus classique qu'elle n'
 
 # Conclusion : Le Dictateur romain ou la clémence de Papyre ?
 
-Revenons, pour conclure, à ce geste primordial du dictateur qui, à maints égards, semble faire toute la pièce. Toute ? Peut-on vraiment parler, dans le cas de notre pièce, pour copier le titre de la pièce de Corneille *Cinna*, du *Dictateur romain* **ou** *la Clémence de Papyre* ?
+Revenons, pour conclure, à ce geste primordial du dictateur qui, à maints égards, semble faire toute la pièce. Toute ? Peut-on vraiment parler, dans le cas de notre pièce, pour copier le titre de la pièce de Corneille *Cinna*, du *Dictateur romain***ou***la Clémence de Papyre* ?
 
 Avec la pièce de Corneille, qui, si elle est peu citée dans cette étude n'en est pas moins présente à nos esprits, il y a à la fois des similitudes et des divergences, et c'est ce point que nous voudrions développer en conclusion, non pas afin de juger Mareschal à l'aune de Corneille, mais bien plutôt pour souligner l'originalité intrinsèque de sa dernière pièce, dont la réussite est loin de ne tenir qu'à ce parallèle inconscient entre deux gestes de clémence également mis sur le théâtre.
 

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-201 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I01 *act_I *date_1650 *creator_ouville
 
 -*who_alcipe
 Arreste, nous voicy dans la ruë, où demeure
@@ -63,7 +63,7 @@ Je ne m'y porte pas, leur vif éclat m'attire,
 Et vouloir resister à leurs puissans efforts⁎,
 C'est m'estreindre de noeuds plus preignants⁎ et plus forts.
 
-**** *book_ *id_body-202 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I02 *act_I *date_1650 *creator_ouville
 
 -*who_alcipe
 Amis concertez vous, et que vostre harmonie
@@ -73,7 +73,7 @@ Un esprit insensible ou plûtost un rocher.
 C'est assez, quelqu'un vient d'ouvrir une fenestre :
 Retirez vous, Sylvain songe à les reconnoistre.
 
-**** *book_ *id_body-203 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I03 *act_I *date_1650 *creator_ouville
 
 -*who_astree
 N'est-ce pas vous Alcipe ?
@@ -132,7 +132,7 @@ Que je ne la priois…
 -*who_alcipe
 Tirons nous à l'écart, et gardons le silence.
 
-**** *book_ *id_body-204 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I04 *act_I *date_1650 *creator_ouville
 
 -*who_picard
 Malgré l'ombre et l'horreur de cet air obscurcy,
@@ -250,7 +250,7 @@ Monsieur, encor un coup.
 -*who_alcipe
 Retirons nous d'icy, quelqu'un vient, ce me semble.
 
-**** *book_ *id_body-205 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I05 *act_I *date_1650 *creator_ouville
 
 -*who_leandre
 Je rends graces au Ciel, nous sommes arrivez ;
@@ -396,7 +396,7 @@ Il nous arrive à tous d'accuser l'innocence !
 Mais où va cette Dame, il me le faut sçavoir,
 Et sans qu'elle me voye, essayer de la voir.
 
-**** *book_ *id_body-206 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I06 *act_I *date_1650 *creator_ouville
 
 -*who_astree
 Retourne t'en Picard, c'est assez d'Hypolite :
@@ -480,7 +480,7 @@ N'est pas en mon avis de fort bonne apparence.
 J'interprete sa peur de mauvaise façon,
 Et rentre, peu s'en faut, dans mon premier soupçon.
 
-**** *book_ *id_body-207 *act_ *date_1650 *creator_ouville
+**** *book_ *id_I07 *act_I *date_1650 *creator_ouville
 
 -*who_leandre
 Je ne l'ay pas trouvée.
@@ -506,7 +506,7 @@ Passez-donc.
       Je le veux, de peur d'estre importun.
 Fin de l'Acte premier.
 
-**** *book_ *id_body-301 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II01 *act_II *date_1650 *creator_ouville
 
 -*who_alcipe
 Donne moy ton espée, il faut que mon courage⁎
@@ -557,7 +557,7 @@ En cette occasion qu'imaginer ? que faire ?
 Continuez toûjours vos menaçants propos ;
 Asseurez vous du reste, et soyez en repos.
 
-**** *book_ *id_body-302 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II02 *act_II *date_1650 *creator_ouville
 
 -*who_leandre
 En des maisons d'honneur apporter du scandale !
@@ -663,7 +663,7 @@ De qui donc sçaviez-vous mon retour à Paris ?
 -*who_sylvain
 D'un Marchand de Lyon, qui nous l'avoit apris.
 
-**** *book_ *id_body-303 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II03 *act_II *date_1650 *creator_ouville
 
 -*who_astree
 Voulez-vous demeurer toûjours dans cette ruë ?
@@ -684,7 +684,7 @@ Mais mon coeur seroit mal secondé de mon bras.
 Alcipe demeurez ; tout le pouvoir des charmes⁎
 Ne le peut empécher de tomber sous nos armes.
 
-**** *book_ *id_body-304 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II04 *act_II *date_1650 *creator_ouville
 
 -*who_astree
 Je rentre.
@@ -749,7 +749,7 @@ Le soin⁎ de vostre bien m'ordonne de le faire ;
 C'est pour vostre repos que j'en dispose ainsi,
 Ne trouvez pas mauvais que je vous laisse icy.
 
-**** *book_ *id_body-305 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II05 *act_II *date_1650 *creator_ouville
 
 -*who_alcipe
 Ne trouvez pas mauvais que j'en tire vangeance :
@@ -787,7 +787,7 @@ De me voir, de m'oüyr⁎ et garder le silence.
 Ils reviennent tous deux, nous serions bien trompez,
 S'ils avoient en courant nos filoux attrapez.
 
-**** *book_ *id_body-306 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II06 *act_II *date_1650 *creator_ouville
 
 -*who_filemon
 Ma peine, grace au Ciel, n'a pas esté trompée ;
@@ -1023,7 +1023,7 @@ C'est assez.
 -*who_leandre
       Je le suy, montrez-vous le plus sage.
 
-**** *book_ *id_body-307 *act_ *date_1650 *creator_ouville
+**** *book_ *id_II07 *act_II *date_1650 *creator_ouville
 
 -*who_sylvain
 Il vous a balotté d'une estrange façon,
@@ -1040,7 +1040,7 @@ J'auray par l'artifice⁎, y deusse-je perir,
 Ce qu'en vain mes soûpirs ont tâché d'acquerir.
 Fin de l'Acte second.
 
-**** *book_ *id_body-401 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III01 *act_III *date_1650 *creator_ouville
 
 -*who_astree
 Cousine à quel propos vous donner cette peine ?
@@ -1174,7 +1174,7 @@ Est venu dans Paris afin d'y prendre femme ;
 Son valet à propos dresse ses pas icy,
 Il rendra sur ce point nostre doute éclaircy.
 
-**** *book_ *id_body-402 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III02 *act_III *date_1650 *creator_ouville
 
 -*who_astree
 Escoute un mot.
@@ -1247,7 +1247,7 @@ Parle.
       Mon Maistre vient, Ciel quel est mon soucy⁎,
 Que ne dira-t'il pas de me trouver icy !
 
-**** *book_ *id_body-403 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III03 *act_III *date_1650 *creator_ouville
 
 -*who_filemon
 Quoy maraut, quoy coquin, quoy perfide, quoy traistre ?
@@ -1400,7 +1400,7 @@ M'empéchent de parler en paroles plus claires ;
 Vous connoistrez un jour ces yeux remplis d'appas⁎,
 Si je voy que mes feux ne leur deplaisent pas.
 
-**** *book_ *id_body-404 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III04 *act_III *date_1650 *creator_ouville
 
 -*who_filemon
 Et bien m'apportes-tu les lettres desirées ?
@@ -1431,7 +1431,7 @@ Afin qu'une autre fois l'on change d'écriture,
 D'adresse, de cachet, de qualitez, de nom,
 Et que ce soit Alcandre, au lieu de Filemon.
 
-**** *book_ *id_body-405 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III05 *act_III *date_1650 *creator_ouville
 
 -*who_astree
 Vous estes, ma cousine, à present soulagée ;
@@ -1476,7 +1476,7 @@ Je doute si c'est vous ou si c'est moy qu'il aime.
 L'apparence est égale, et de tous les costez,
 J'y vois de mesmes nuicts et de mesmes clartez.
 
-**** *book_ *id_body-406 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III06 *act_III *date_1650 *creator_ouville
 
 -*who_hyppolite
 J'ay le paquet, Madame, et si j'ay fait promettre
@@ -1500,7 +1500,7 @@ Que nous l'empécherons de faire ce voyage.
 -*who_orphise
 Destournez ce papier, Leandre vient à nous.
 
-**** *book_ *id_body-407 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III07 *act_III *date_1650 *creator_ouville
 
 -*who_leandre
 Que craignez vous de moy, quel écrit cachez vous ?
@@ -1572,7 +1572,7 @@ Faites donc qu'on le cele⁎, et qu'il ne sorte pas.
 -*who_leandre
 Je vay touchant ce poinct le trouver de ce pas.
 
-**** *book_ *id_body-408 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III08 *act_III *date_1650 *creator_ouville
 
 -*who_astree
 Connoissez vous le but de ce prompt stratagéme ?
@@ -1595,7 +1595,7 @@ Amour qui sçait mon mal aide à nostre entreprise.
 -*who_astree
 Mes ordres sont donnez, retirons nous Orphise.
 
-**** *book_ *id_body-409 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III09 *act_III *date_1650 *creator_ouville
 
 -*who_hyppolite
 Que l'esprit d'une femme a de ressors divers !
@@ -1611,7 +1611,7 @@ Il les faut attrapper pour la seconde fois,
 Et pour y reüssir, me servir de l'addresse⁎,
 Dont me vient en secret d'instruire ma Maistresse.
 
-**** *book_ *id_body-410 *act_ *date_1650 *creator_ouville
+**** *book_ *id_III10 *act_III *date_1650 *creator_ouville
 
 -*who_valentin
 Adieu belle Hyppolite !
@@ -1674,7 +1674,7 @@ Adieu donc, Hyppolite !
       Adieu donc Valentin,
 Que sois-tu quelque jour mon réveille-matin.
 
-**** *book_ *id_body-501 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV01 *act_IV *date_1650 *creator_ouville
 
 -*who_astree
 Il faut de plus en plus que nostre esprit s'exerce
@@ -1688,7 +1688,7 @@ Ce procedé me fait croire que les soupçons qu'il a pû concevoir, s'augmentent
 Je le crains
 FILEMON.
 
-**** *book_ *id_body-502 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV02 *act_IV *date_1650 *creator_ouville
 
 -*who_orphise
 Cachez…
@@ -1713,7 +1713,7 @@ J'en obtiendray ce poinct ou de force ou de grace ;
 Ma cousine venez, en ce pressant danger,
 Nous avons tout à craindre, et rien à negliger.
 
-**** *book_ *id_body-503 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV03 *act_IV *date_1650 *creator_ouville
 
 -*who_leandre
 A mille autres ces soins donneroient de l'ombrage⁎ ;
@@ -1723,7 +1723,7 @@ Elle suit mon humeur, mes pensers sont les siens.
 J'estime Filemon, Astrée en fait de mesme :
 Et l'aime seulement à cause que je l'aime.
 
-**** *book_ *id_body-504 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV04 *act_IV *date_1650 *creator_ouville
 
 -*who_sylvain
 Il me faut aquiter de ma commission.
@@ -1782,7 +1782,7 @@ J'ay receu de ta main le billet qu'il envoye.
 J'attends icy qu'il vienne, au reste cele⁎ luy
 Ce qu'un trompeur soupçon m'a fait dire de luy.
 
-**** *book_ *id_body-505 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV05 *act_IV *date_1650 *creator_ouville
 
 -*who_alcipe
 Mon secret est pressant, et ne m'a pû permettre
@@ -1855,7 +1855,7 @@ Vous y pouvez venir comme en vôtre maison.
 Adieu ; cette faveur est sans comparaison,
 Mon esperance croist, et ma peur se dissipe.
 
-**** *book_ *id_body-506 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV06 *act_IV *date_1650 *creator_ouville
 
 -*who_leandre
 Ce papier est tombé de la poche d'Alcipe,
@@ -1915,7 +1915,7 @@ Non non, je ne le puis, et je ne le doi pas ;
 Mais vanger mon affront et haster son trépas :
 Tu mourras, il le faut.
 
-**** *book_ *id_body-507 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV07 *act_IV *date_1650 *creator_ouville
 
 -*who_hyppolite
       De qui parle Leandre,
@@ -1931,7 +1931,7 @@ Je tiendray ma parole, et tu mourras Astrée !
 Qu'a-t'il dit, qu'ay-je oüy⁎, Ciel quelle est sa fureur !
 Allons par nos avis empécher ce mal-heur.
 
-**** *book_ *id_body-508 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV08 *act_IV *date_1650 *creator_ouville
 
 -*who_leandre
 Amy qui mieux que moy decouvres l'artifice⁎,
@@ -1947,7 +1947,7 @@ Elle frequente Astrée, elle en suivroit l'exemple.
 Elle vient la perfide, avec une chaleur
 Qui montre assez les feux qu'elle cache en son coeur.
 
-**** *book_ *id_body-509 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV09 *act_IV *date_1650 *creator_ouville
 
 -*who_astree
 Monsieur informez moy de l'outrage ou du crime,
@@ -1971,7 +1971,7 @@ Il la veut poignarder, Cieux quelle perfidie !
 A quel aveuglement s'est-il abandonné ?
 Mais détournons ce coup avant qu'il soit donné.
 
-**** *book_ *id_body-510 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV10 *act_IV *date_1650 *creator_ouville
 
 -*who_astree
 Hyppolite est sortie.
@@ -2038,7 +2038,7 @@ Mes mains mes propres mains auroient recours aux armes.
 L'Arrest en est donné, c'est fait de vostre sort ;
 Mon honneur m'y contraint, attendez donc la mort.
 
-**** *book_ *id_body-511 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV11 *act_IV *date_1650 *creator_ouville
 
 -*who_filemon
 Cruel, impitoyable, inhumain, sanguinaire !
@@ -2137,7 +2137,7 @@ Que ce consentement me plaist et me contente,
 Que ce trait de bonté remplit bien mes souhaits :
 Ami, parole, honneur vous serez satisfaits.
 
-**** *book_ *id_body-512 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV12 *act_IV *date_1650 *creator_ouville
 
 -*who_astree
 Genereux⁎ Cavalier, je ne sçaurois moins faire
@@ -2151,7 +2151,7 @@ N'ont point intimidé vôtre illustre courage⁎.
 Il n'est point de danger que je n'affronte ainsi
 Pour vous servir, Madame, et vous Madame aussi.
 
-**** *book_ *id_body-513 *act_ *date_1650 *creator_ouville
+**** *book_ *id_IV13 *act_IV *date_1650 *creator_ouville
 
 -*who_orphise
 Qu'en dirons nous cousine, et qu'en devons nous croire,
@@ -2169,7 +2169,7 @@ Dans le doute où je suis, je le blâme et le louë ;
 S'il m'aime, il se méprend : s'il vous aime, il fait bien ;
 D'Orphise il aura tout, d'Astrée il n'aura rien.
 
-**** *book_ *id_body-601 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V01 *act_V *date_1650 *creator_ouville
 
 -*who_leandre
 Sacré respect d'Hymen⁎, sentimens de tendresse,
@@ -2214,7 +2214,7 @@ J'apprends de mon honneur ce qu'il faut que je fasse ;
 Son rigoureux desir s'accorde à mon souhait,
 Il demande ta mort, il sera satisfait.
 
-**** *book_ *id_body-602 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V02 *act_V *date_1650 *creator_ouville
 
 -*who_leandre
 O vous ami parfait accourez à mon aide !
@@ -2307,7 +2307,7 @@ Vous n'avez qu'à l'attendre en la prochaine ruë.
 J'y vay dans le dessein de ne rien pardonner,
 D'y recevoir la mort, ou bien de la donner.
 
-**** *book_ *id_body-603 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V03 *act_V *date_1650 *creator_ouville
 
 -*who_alcipe
 Courage, mon amour augmente et persevere :
@@ -2341,7 +2341,7 @@ Tout me rit, j'apperçoy l'objet de mes amours.
 Filemon la conduit, feignons de bonne grace,
 Et l'obligeons par ruse à nous ceder la place.
 
-**** *book_ *id_body-604 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V04 *act_V *date_1650 *creator_ouville
 
 -*who_alcipe
 Ah ! Madame, j'allois, il y va, je l'ay veu,
@@ -2363,7 +2363,7 @@ En cette occasion volontiers occuppée.
 Il suffit de la mienne, et d'un zele⁎ aussi grand
 Je feray repentir quiconque l'entreprend.
 
-**** *book_ *id_body-605 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V05 *act_V *date_1650 *creator_ouville
 
 -*who_alcipe
 Leandre a de l'adresse autant que de courage ;
@@ -2438,7 +2438,7 @@ Monsieur.
 -*who_alcipe
 Leandre ne vit plus, ou n'ose plus paroistre.
 
-**** *book_ *id_body-606 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V06 *act_V *date_1650 *creator_ouville
 
 -*who_leandre
 Je le voy le perfide, il vient le suborneur.
@@ -2600,7 +2600,7 @@ Qu'Alcipe soit coupable, et ma femme innocente !
 Que j'apprenne de l'un le Zele⁎ dangereux,
 De l'autre l'innocence et l'amour genereux⁎.
 
-**** *book_ *id_body-607 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V07 *act_V *date_1650 *creator_ouville
 
 -*who_orphise
 L'insolent vous parloit avec tant d'impudence ?
@@ -2610,7 +2610,7 @@ Il a mesme passé jusqu'à la violence.
 Il m'a dessus la gorge osé porter la main,
 Et fait quelqu'autre effort⁎ plus grand ; mais aussi vain.
 
-**** *book_ *id_body-608 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V08 *act_V *date_1650 *creator_ouville
 
 -*who_hyppolite
 Il revient.
@@ -2657,7 +2657,7 @@ Fuyons Sylvain.
 -*who_sylvain
       Fuyons, nous ne sçaurions mieux faire.
 
-**** *book_ *id_body-609 *act_ *date_1650 *creator_ouville
+**** *book_ *id_V09 *act_V *date_1650 *creator_ouville
 
 -*who_leandre
 Tien le bien Hyppolite.

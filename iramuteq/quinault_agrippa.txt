@@ -54,7 +54,7 @@ Janvier 1663.
 
 Signé, DUBRAY, Scyndic.
 
-**** *book_ *id_body-401 *act_ *date_1663 *creator_quinault
+**** *book_ *id_I01 *act_I *date_1663 *creator_quinault
 
 -*who_lavinie
 Vostre malheur au mien n'est pas à comparer,
@@ -149,7 +149,7 @@ Mais qui s'approche,
       Adieu, c'est le Prince Mezence,
 Son amour prés de vous ne veut pas ma presence.
 
-**** *book_ *id_body-402 *act_ *date_1663 *creator_quinault
+**** *book_ *id_I02 *act_I *date_1663 *creator_quinault
 
 -*who_lavinie
 Vous voyez de vos soins quel est pour moy le fruit,
@@ -284,7 +284,7 @@ Lassez de mes regards, avec soin les evitent.
 Voicy de mon amant le Pere infortuné,
 Quelque soucy le presse, il paroit estonné.
 
-**** *book_ *id_body-403 *act_ *date_1663 *creator_quinault 
+**** *book_ *id_I03 *act_I *date_1663 *creator_quinault 
 
 -*who_tirrhene
 Ne vous offencez pas, Seigneur, si je m'avance,
@@ -302,7 +302,7 @@ Le supplice de voir cet objet odieux.
 Mon plus ardent desir est celuy de vous plaire,
 Et de tout mon pouvoir je cours vous satisfaire.
 
-**** *book_ *id_body-404 *act_ *date_1663 *creator_quinault
+**** *book_ *id_I04 *act_I *date_1663 *creator_quinault
 
 -*who_tirrhene
 Le Prince entreprendra de l'arrester en vain ;
@@ -325,7 +325,7 @@ Je suis trop mal-heureux pour avoir rien à craindre.
 Je veux luy reprocher son crime aux yeux de tous …
 Gardez qu'il ne vous voye, il vient, retirez-vous.
 
-**** *book_ *id_body-405 *act_ *date_1663 *creator_quinault
+**** *book_ *id_I05 *act_I *date_1663 *creator_quinault
 
 -*who_agrippa
 Qu'on ne m'en parle plus, je veux voir Lavinie.
@@ -566,7 +566,7 @@ Je vous deffends moy-mesme icy de m'espargner ;
 Ma veritable gloire est de vous voir regner.
 Fin du premier Acte.
 
-**** *book_ *id_body-501 *act_ *date_1663 *creator_quinault
+**** *book_ *id_II01 *act_II *date_1663 *creator_quinault
 
 -*who_julie
 Ce Palais n'est pour vous qu'un objet de tristesse.
@@ -675,7 +675,7 @@ Il faut…
 -*who_albine
       N'acheve pas, mon Pere vient à nous.
 
-**** *book_ *id_body-502 *act_ *date_1663 *creator_quinault
+**** *book_ *id_II02 *act_II *date_1663 *creator_quinault
 
 -*who_tirrhene
 O dure tirannie ! ô rigueur inhumaine !
@@ -758,7 +758,7 @@ Et servir à la fois mon depit, & mon pere,
 Si la Princesse en croit mon violent transport…
 Mais on ouvre chez elle, & je la voy qui sort.
 
-**** *book_ *id_body-503 *act_ *date_1663 *creator_quinault 
+**** *book_ *id_II03 *act_II *date_1663 *creator_quinault 
 
 -*who_lavinie
 J'allois vous voir, Albine, & confuse & troublée,
@@ -872,7 +872,7 @@ Il vient.
 -*who_albine
       Si je le voy, c'est pour mieux m'irriter.
 
-**** *book_ *id_body-504 *act_ *date_1663 *creator_quinault 
+**** *book_ *id_II04 *act_II *date_1663 *creator_quinault 
 
 -*who_agrippa
 Le sort m'offre un bonheur où je n'osois pretendre,
@@ -1011,7 +1011,7 @@ Où tout cœur court hazard de retomber toûjours.
 Je veux en m'éloignant vous sauver cette peine,
 Et mettre en seureté l'honneur de vôtre haine.
 
-**** *book_ *id_body-505 *act_ *date_1663 *creator_quinault 
+**** *book_ *id_II05 *act_II *date_1663 *creator_quinault 
 
 -*who_albine
 Pour te faire haïr, va ne prens aucun soin,
@@ -1034,7 +1034,7 @@ Et le sang, & l'amour, à la fois outragez,
 Sont trop forts, estants joints, pour n'étre pas vangez.
 Fin du second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1663 *creator_quinault
+**** *book_ *id_III01 *act_III *date_1663 *creator_quinault
 
 -*who_fauste
 Quoy ! tant de mécontens qui s'offrent dans l'armée
@@ -1070,7 +1070,7 @@ Le Roy vient vers l'endroit où loge la Princesse.
 -*who_mezence
 Il s'arreste en resvant, quelque soucy le presse.
 
-**** *book_ *id_body-602 *act_ *date_1663 *creator_quinault
+**** *book_ *id_III02 *act_III *date_1663 *creator_quinault
 
 -*who_mezence
 Sans paroistre indiscret puis-je estre curieux,
@@ -1241,7 +1241,7 @@ Ma pitié se hazarde à cette confidence ;
 Et pour vos bons avis offerts à mon amour,
 J'ay crû vous en devoir quelque chose à mon tour.
 
-**** *book_ *id_body-603 *act_ *date_1663 *creator_quinault
+**** *book_ *id_III03 *act_III *date_1663 *creator_quinault
 
 -*who_mezence
 Fauste, as tu bien compris jusqu'où va ma disgrace ?
@@ -1257,7 +1257,7 @@ Et faire agir la force où l'amour seroit vain,
 Vos feux vont recevoir cette atteinte cruelle :
 Mais la Princesse sort, je vous laisse avec elle.
 
-**** *book_ *id_body-604 *act_ *date_1663 *creator_quinault
+**** *book_ *id_III04 *act_III *date_1663 *creator_quinault
 
 -*who_lavinie
 Vous a-t'on dit, Seigneur, mes nouveaux deplaisirs ?
@@ -1356,7 +1356,7 @@ L'ordre expres du Tyran luy deffend ma presence,
 Et je vous laisse seuls resoudre des moyens
 De combler promptement tous mes vœux & les siens.
 
-**** *book_ *id_body-605 *act_ *date_1663 *creator_quinault
+**** *book_ *id_III05 *act_III *date_1663 *creator_quinault
 
 -*who_mezence
 Venés sçavoir pour vous combien on s'interesse,
@@ -1497,7 +1497,7 @@ Pour peu que par le Ciel mes soins soient secondez,
 Ils pourront faire encore plus que vous n'attendez.
 Fin du troisième Acte.
 
-**** *book_ *id_body-701 *act_ *date_1663 *creator_quinault
+**** *book_ *id_IV01 *act_IV *date_1663 *creator_quinault
 
 -*who_lavinie
 Quel malheur impreveu venez vous de m'apprendre !
@@ -1554,7 +1554,7 @@ Il s'est trop avancé, la fuite seroit vaine.
 Pour l'amuser icy, faites vous quelque effort,
 Et donnez ces momens aux aprests de sa mort.
 
-**** *book_ *id_body-702 *act_ *date_1663 *creator_quinault
+**** *book_ *id_IV02 *act_IV *date_1663 *creator_quinault
 
 -*who_agrippa
 Il se peut donc, Princesse, enfin que je vous voye ?
@@ -1738,7 +1738,7 @@ Connoissez qui je suis par l'aveu qu'il va faire.
 -*who_lavinie
 Taschez d'estre son fils, si vous me voulez plaire.
 
-**** *book_ *id_body-703 *act_ *date_1663 *creator_quinault
+**** *book_ *id_IV03 *act_IV *date_1663 *creator_quinault
 
 -*who_agrippa
 Seigneur, à la Princesse, enfin, j'ay tout appris :
@@ -1928,7 +1928,7 @@ Va, si je t'escoutois, j'aurois peur de te croire.
 -*who_agrippa
 Je ne vous quitte point, que vous n'ayez pû voir…
 
-**** *book_ *id_body-704 *act_ *date_1663 *creator_quinault
+**** *book_ *id_IV04 *act_IV *date_1663 *creator_quinault
 
 -*who_tirrhene
 Arreste, aveugle, arreste, & rentre en ton devoir :
@@ -2043,7 +2043,7 @@ Seigneur…
 -*who_tirrhene
       J'entends du bruit ; on vient : songez à vous.
 
-**** *book_ *id_body-705 *act_ *date_1663 *creator_quinault
+**** *book_ *id_IV05 *act_IV *date_1663 *creator_quinault
 
 -*who_tirrhene
 He bien ! par tout mon sang, contentez vostre haine.
@@ -2064,7 +2064,7 @@ Va, barbare.
 Que peut-on craindre, helas ! quand on a tout perdu !
 Fin du quatrième Acte.
 
-**** *book_ *id_body-801 *act_ *date_1663 *creator_quinault
+**** *book_ *id_V01 *act_V *date_1663 *creator_quinault
 
 -*who_fauste
 De quel effroy, Madame, estes vous agitée
@@ -2141,7 +2141,7 @@ Qu'on pense tout, pourveu qu'on n'execute rien.
 Dieux ! si le coup fatal qu'a tant pressé ma haine
 Tomboit…mais qu'on me laisse entretenir Tirrhene.
 
-**** *book_ *id_body-802 *act_ *date_1663 *creator_quinault 
+**** *book_ *id_V02 *act_V *date_1663 *creator_quinault 
 
 -*who_lavinie
 Venez, Seigneur, venez, s'il se peut, dissiper
@@ -2248,7 +2248,7 @@ Ah, Madame ! empeschons ce coup precipité.
 -*who_lavinie
 Sans doute, il n'est plus temps, tout est executé.
 
-**** *book_ *id_body-803 *act_ *date_1663 *creator_quinault
+**** *book_ *id_V03 *act_V *date_1663 *creator_quinault
 
 -*who_lavinie
 Avez-vous assez tost pû rejoindre Mezence ?
@@ -2395,7 +2395,7 @@ Rien ne me couste à perdre, après ce que je pers,
 Avec mon Fils & nous, perisse l'Univers ;
 Que ma Fille elle-mesme évite ma colere.
 
-**** *book_ *id_body-804 *act_ *date_1663 *creator_quinault 
+**** *book_ *id_V04 *act_V *date_1663 *creator_quinault 
 
 -*who_tirrhene
 Mal-heureuse ! où viens-tu ?
@@ -2419,7 +2419,7 @@ Il vient.
 -*who_tirrhene
       Tournons sur luy la fureur qui nous presse.
 
-**** *book_ *id_body-805 *act_ *date_1663 *creator_quinault
+**** *book_ *id_V05 *act_V *date_1663 *creator_quinault
 
 -*who_agrippa
 Ay-je encor, contre moy, mon Pere, & ma Princesse ?

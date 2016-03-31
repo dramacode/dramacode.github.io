@@ -13,8 +13,7 @@ Comédie
 PAR Monsieur D'OUVILLE.
 
 A PARIS. Chez TOUSSAINT QUINET, au Palais, en la gallerie des Merciers, sous la montée de la Cour des Aydes. M. DC. XLII.*Avec Privilege du Roy.*
-Édition critique établie par Elsa Jollès dans le cadre d'un mémoire de
-      maîtrise sous la direction de Georges Forestier (2000).
+Édition critique établie par Elsa Jollès dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000).
 
 
 # Introduction
@@ -649,8 +648,7 @@ J'en demande pardon.
     LIZANDRE
 Allons icy devant penser vostre blessure.  
 
-    FLORESTAN *(bas)*
- 
+    FLORESTAN *(bas)*  
 En entrant dans Paris, Dieux ! quel mauvais augure,  
 Qu'il me couste du sang.  
 
@@ -778,7 +776,7 @@ Estes-vous en colere ?
     LICIDAS
         Oüy j'y suis en effet.  
 
-    ISABELLE  *(bas)*
+    ISABELLE *(bas)*
 Ah Madame, il le sçait.  
 
     ANGELIQUE*(bas)*
@@ -803,7 +801,7 @@ Qui vient icy loger ?
 C'est Florestan, de qui Lizandre estoit en peine,  
 Dont nous avons parlé plusieurs fois entre nous.  
 
-    ANGELIQUE  *(bas)*
+    ANGELIQUE *(bas)*
 Mes esprits sont remis. Dieux ! que me dites-vous ?  
 Mais quel sujet a fait naistre votre querelle ?  
 
@@ -889,7 +887,7 @@ Soustenez-moy, je meurs.
         J'ay les sens tous confus :  
 Mais d'où vient que son mal jusqu'à ce point vous touche ?  
 
-    ANGELIQUE  *(bas)*
+    ANGELIQUE *(bas)*
 Ah grands Dieux ! ma douleur m'a trahy par ma bouche .  
 Quoy, jusques à ce point dois-je pas m'attrister,  
 Si le coup est mortel, qu'il vous faille absenter [36] ?  
@@ -1209,7 +1207,7 @@ Aux plus fins du mestier j'en feray des leçons,
 Laissez-y moy penser, et je vous feray dire  
 Que vous n'eustes jamais un tel sujet de rire.  
 
-    LIZANDRE  *(luy baillant une clef)*
+    LIZANDRE *(luy baillant une clef)*
 Monsieur, voilà la clef de vostre appartement,  
 Je vous ay mis icy pour pouvoir librement  
 Entrer quand vous voudrez sans qu'on vous divertisse.  
@@ -1465,7 +1463,7 @@ Je mets ma lettre là.
 
 ### Scene VI
 
-    CARRILLE  *(seul)*
+    CARRILLE *(seul)*
         Bon, mon fait est tout prest,  
 Que veut dire cela ? qui m'a fait ce mesnage,  
 Qui nous a mis ainsi nos hardes au pillage ?  
@@ -1826,7 +1824,7 @@ Seroit-ce pas une ame en peine ?
         Et tu pretends  
 Qu'elle me fist l'amour [78] ? as-tu perdu le sens ?  
 
-    CARRILLE  
+    CARRILLE 
 Un succube [79] ?  
 
     FLORESTAN
@@ -1853,8 +1851,7 @@ Plus je me romps l'esprit sur un sujet si rare,
 Plus mes sens sont confus, et ma raison s'esgare.  
 Achevons.  
 
-    CARRILLE,* (à par soy en ramassant les hardes.)*
-            
+    CARRILLE,* (à par soy en ramassant les hardes.)* 
         Ce demon,cét esprit enragé  
 S'est sauvé de l'enfer sans demander congé,  
 Avec son esprit fort mon maistre est heretique,  
@@ -2276,7 +2273,7 @@ Je suis le serviteur, tu n'en veux qu'à mon Maistre.
 (Isabelle se met derriere luy, de peur qu'il ne la voye.)
 
 
-    ISABELLE  *(bas)*
+    ISABELLE *(bas)*
 La lumiere m'a faict aysément recognoistre.  
 
     CARRILLE 
@@ -2327,7 +2324,7 @@ Comme la peur te fait avoir ces visions.
 Ce ne sont pas, Monsieur, imaginations,  
 Diable, je ne suis point, tout à fait insensible.  
 
-    ISABELLE  *(bas)*
+    ISABELLE *(bas)*
 Maintenant par ces ais, r'entrons s'il est possible.  
 
     FLORESTAN
@@ -2341,14 +2338,14 @@ R'allumer ta chandelle.
 (Carrille sort.)
 
 
-    ISABELLE  *(bas)*
+    ISABELLE *(bas)*
 Justes Dieux ; c'est bien pis, j'ay rencontré le Maistre.  
 
     FLORESTAN
 Qui que tu sois, atten, car si tu fais paroistre  
 De vouloir eschaper, je te poignarderay.  
 
-    ISABELLE  *(bas)*
+    ISABELLE *(bas)*
 Que deviendray-je, ô Dieux ! qu'est-ce que je feray ?  
 Il a pris le panier, je luy laisse, il n'importe,  
 Je m'en vay me sauver, j'ay remarqué la porte  
@@ -2569,7 +2566,7 @@ Comme il sera tantost.
     LUCINDE
         Mon ame en est ravie.  
 
-    ANGELIQUE  *(à Isabelle.)*
+    ANGELIQUE *(à Isabelle.)*
 Toy si tost qu'un chacun se sera retiré  
 Tu sçais bien ce que j'ay tantost deliberé,  
 Apreste la lumiere, afin d'aller moy-mesme  
@@ -2762,7 +2759,7 @@ Tu n'eschaperas pas de mes mains cette fois [131].
 (Il la prend au colet.)
 
 
-    ANGELIQUE  *(surprise, bas.)*
+    ANGELIQUE *(surprise, bas.)*
 Je suis surprise, ô Dieux que je suis miserable !  
 
     CARRILLE
@@ -2772,7 +2769,7 @@ Retourne t'en sur l'heure aux Enfers, sans parler.
     FLORESTAN
 Que me veux-tu, respons ?  
 
-    ANGELIQUE  *(bas.)*
+    ANGELIQUE *(bas.)*
         Il faut dissimuler. [132]  
 Genereux Florestan, à qui seul la Nature  
 Prepare dés long-temps [133] la plus rare adventure  
@@ -3256,7 +3253,7 @@ Il fait icy plus beau cent fois que dans les Cieux,
 Si l'on voit aux Enfers des lieux si delectables,  
 Que je serois heureux d'aller à tous les Diables.  
 
-    ANGELIQUE  (À FLORESTAN.)
+    ANGELIQUE (À FLORESTAN.)
 Vous vous plaindrez de moy, certes avec raison,  
 De vous avoir tenu si long-temps en prison  
 Parmy ces lieux obscurs.  
@@ -3311,7 +3308,7 @@ Est-ce une illusion, ou quelque enchantement ?
 Apellons ce valet, le divertissement  
 N'en sera point mauvais, faisons luy des caresses.  
 
-    LUCINDE  *(appellant Carrille.)*
+    LUCINDE *(appellant Carrille.)*
 Hola-hau mon amy.  
 
     CARRILLE
@@ -3537,7 +3534,7 @@ Où m'avez vous conduit, justes dieux !
         Ah Monsieur !  
 C'estoit avec raison que je mourois de peur.  
 
-    LICIDAS  *entre.*
+    LICIDAS *entre.*
 Pour ouvrir une porte [174] il faut bien du mystere.  
 
     ANGELIQUE
@@ -3673,7 +3670,7 @@ Peut-estre en pourrons-nous sçavoir quelque nouvelle.
     LICIDAS *(derriere le theatre à Isabelle.)*
 Je proteste⁎ qu'un homme est entré là dedans.  
 
-    ISABELLE  *(derriere le theatre.)*
+    ISABELLE *(derriere le theatre.)*
 Par où Monsieur ?  
 
     LICIDAS
@@ -4185,13 +4182,13 @@ Syntaxe du XVII*e* siècle
 
 [25] « Tout-à-l'heure ».
 
-[26] Autrement appelée : « Les trahisons d'Arbiran ».Première pièce de d'Ouville, publiée en 1638. Il est intéressant à ce propos de citer quelques passages du prologue de cette pièce, qui ne diffère presque pas des paroles de Licidas : « «Les intrigues sont en quantité et assez  bien démeslez », et plus loin : « Mais quoy que les Vers ne soient pas bien forts, vous les trouverez assez bien raisonnez, et le sujet fort divertissant. »
+[26] Autrement appelée : « Les trahisons d'Arbiran ».Première pièce de d'Ouville, publiée en 1638. Il est intéressant à ce propos de citer quelques passages du prologue de cette pièce, qui ne diffère presque pas des paroles de Licidas : « «Les intrigues sont en quantité et assez bien démeslez », et plus loin : « Mais quoy que les Vers ne soient pas bien forts, vous les trouverez assez bien raisonnez, et le sujet fort divertissant. »
 
 [27] « Bel ordre et disposition des choses. » (Furetière)
 
 [28] 1642 : « Donne ». Le participe passé semble plus pertinent dans ce contexte.
 
-[29] « Signifie les injures ou les insultes qu'on fait à quelqu'un qu'on méprise, soit par  des paroles soit par quelque adresses malicieuses. » (Furetière)
+[29] « Signifie les injures ou les insultes qu'on fait à quelqu'un qu'on méprise, soit par des paroles soit par quelque adresses malicieuses. » (Furetière)
 
 [30] « Le tout premier ».
 
@@ -4291,7 +4288,7 @@ Syntaxe du XVII*e* siècle
 
 [76] Nécromantien : « Magicien qui communique avec le Diable, et qui l'invoque pour faire des choses extraordinaires, et surtout par l'apparition des morts. » (Furetière) Ici Carrille déforme comiquement le terme.
 
-[77] « Fantosme qu'on fait craindre au peuple, qui s'imagine que c'est une ame en peine qui court les rues pendant les Avents de Noël, qui maltraite les passans. » (Furetière) L'adjectif « bourru » s'explique par le fait qu ‘il est vêtu de bure (bourre).  C'est exactement la croyance dont fait mention Sganarelle dans *Don Juan* (III, 1).
+[77] « Fantosme qu'on fait craindre au peuple, qui s'imagine que c'est une ame en peine qui court les rues pendant les Avents de Noël, qui maltraite les passans. » (Furetière) L'adjectif « bourru » s'explique par le fait qu ‘il est vêtu de bure (bourre). C'est exactement la croyance dont fait mention Sganarelle dans *Don Juan* (III, 1).
 
 [78] C'est à dire qu'Angélique lui tient des propos galants.
 
@@ -4343,7 +4340,7 @@ Syntaxe du XVII*e* siècle
 
 [102] Le sujet de cette phrase est bien entendu le diable, ou l'esprit folet.
 
-[103] Cette proposition est elliptique : il faut sous-entendre une proposition principale commençant  à nouveau par « je suis fort en soucy de savoir ».
+[103] Cette proposition est elliptique : il faut sous-entendre une proposition principale commençant à nouveau par « je suis fort en soucy de savoir ».
 
 [104] 1642 : « songés ». On trouve souvent l'impératif des verbes du premier groupe orthographié avec le *s* au XVII*e* siècle. 
 
@@ -4415,7 +4412,7 @@ Syntaxe du XVII*e* siècle
 
 [137] 1642 : « que je ne te veus point selon ton desir. » (Nous proposons la correction de 1643.) 
 
-[138] 1642 : « Et croy de tout point je te satisferay » Ce vers de onze syllabes nécessite manifestement  la conjonction  « que » (édition de 1643.)
+[138] 1642 : « Et croy de tout point je te satisferay » Ce vers de onze syllabes nécessite manifestement la conjonction  « que » (édition de 1643.)
 
 [139] La ponctuation de cette longue tirade n'étant constituée que de virgules, nous avons cru bon de ménager des pauses typographiques plus conséquentes ; ainsi nous avons mis un point virgule au vers 1250, et des points aux vers 1256 et 1266.
 

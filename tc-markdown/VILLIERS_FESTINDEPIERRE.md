@@ -624,8 +624,8 @@ Dieux, donnez-moi la mort que mon coeur vous demande.
 Dans l'entracte, Don Juan passe dans un balcon, et laisse Philipin en sentinelle.
 
 
-    PHILIPIN, SEUL.
-Je voudrais bien savoir que veut dire cela ? [1]  
+    PHILIPIN, SEUL. [1]
+Je voudrais bien savoir que veut dire cela ?  
 
 
 ## SCÈNE II. Aamrille, Don Pèdre, Don Juan, Philipin, Valets.
@@ -3384,8 +3384,8 @@ Ah, grands Dieux ! je suis mort.
 
 ## SCÈNE DERNIÈRE. Philémon, Macette, Philipin.
 
-    PHILÉMON.
-        Enfilons la venelle, [2]  
+    PHILÉMON. [2]
+        Enfilons la venelle,  
 Macette, dépêchons.  
 
     MACETTE.

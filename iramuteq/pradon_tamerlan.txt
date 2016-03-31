@@ -35,14 +35,14 @@ D'ailleurs s'ils faisoient refléxion sur plusieurs de leurs Pieces, ils verroie
 Au reste, je n'entreray point dans le détail de cet Ouvrage, je l'expose au Public afin qu'il en juge luy-mesme, sans tascher de le prévenir⁎ inutilement.
 J'ay fait un honneste Homme de Tamerlan, contre l'opinion de certaines Gens, qui vouloient qu'il fut tout-à-fait brutal, et qu'il fit mourir jusques aux Gardes.
 J'ay tasché d'apporter un tempérament⁎ à sa ferocité naturelle, et d'y mesler un caractere de grandeur et de genérosité⁎, qui est fondé dans l'Histoire, puis qu'il refusa l'Empire⁎ des Grecs, et qu'il a esté un des plus grands Hommes du Monde : Cela se peut voir dans Calchondile, et sur tout dans une Traduction d'un Auteur Arabe, où la Vie de Tamerlan et ses grandes actions sont écrites tout au long.
-J'ay intitulé la Piece, Tamerlan, ou la Mort de Bajazet, puis que c'est la mort de Bajazet qui en fait la catastrophe⁎.
+J'ay intitulé la Piece,Tamerlan, ou la Mort de Bajazet, puis que c'est la mort de Bajazet qui en fait la catastrophe⁎.
 Je ne diray rien de son caractere, l'Histoire nous marque assez que ce Prince fut intrépide, et méprisa Tamerlan et la vie, jusqu'au dernier soûpir.
 Voila tout ce que j'avois à dire sur cette Tragedie, peut-estre vivra-t-elle autant sur le papier; que certains Ouvrages qui ne tirent leur succez que de la Déclamation, dont les Auteurs sont les Maistres, et qui ne reüssit que pour eux.
 Je souhaite que si celuy-cy m'a attiré leurs mauvaises intentions, je me rende encor plus digne à l'avenir de leur chagrin⁎.
 
 Le lecteur me fera assez de justice, pour ne me pas imputer quelques fautes qui se sont coulées dans l'Impression, et que j'ay marquées à la fin de la Piece.
 
-**** *book_ *id_body-401 *act_ *date_1676 *creator_pradon
+**** *book_ *id_I01 *act_I *date_1676 *creator_pradon
 
 -*who_andronic
 Enfin, Leon, tu vois cette grande Journée
@@ -197,7 +197,7 @@ Bajazet vient, sondons cette ame si hautaine,
 Et tâchons d'étoufer les restes de sa haine.
 Laisse-nous.
 
-**** *book_ *id_body-402 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_I02 *act_I *date_1676 *creator_pradon 
 
 -*who_bajazet
       C'est à vous sans-doute⁎ à qui je dois
@@ -301,7 +301,7 @@ Vous essuyrez ses pleurs, si je meurs aujourd'huy ;
 Ne l'abandonnez pas, et luy servez d'apuy.
 Adieu, Seigneur.
 
-**** *book_ *id_body-403 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_I03 *act_I *date_1676 *creator_pradon 
 
 -*who_andronic
       Ah Ciel ! que vient-il de m'aprendre ?
@@ -311,7 +311,7 @@ Etoufer, s'il se peut, son funeste⁎ projet ;
 Le Ciel me dictera ce que je dois luy dire…
 Mais Tamerlan paroist, je tremble et je soûpire.
 
-**** *book_ *id_body-404 *act_ *date_1676 *creator_pradon
+**** *book_ *id_I04 *act_I *date_1676 *creator_pradon
 
 -*who_tamerlan
 Prince, j'ai veu les Grecs, et leurs Ambassadeurs
@@ -440,7 +440,7 @@ J'attens tout de vos soins⁎, Prince, et je m'y confie⁎ ;
 Et songez en ce jour, si je suis son Epous,
 Que Byzance, Araxide, enfin⁎, tout est à vous.
 
-**** *book_ *id_body-405 *act_ *date_1676 *creator_pradon
+**** *book_ *id_I05 *act_I *date_1676 *creator_pradon
 
 -*who_andronic
 Il adore⁎ Astérie, et m'en fait confidence,
@@ -465,7 +465,7 @@ Dans le goufre et l'horreur des maux que je prévois,
 O Ciel ! ferme mes yeux sur tout ce que je vois.
 Fin du Premier Acte.
 
-**** *book_ *id_body-501 *act_ *date_1676 *creator_pradon
+**** *book_ *id_II01 *act_II *date_1676 *creator_pradon
 
 -*who_asterie
 Tu m'aprens que la Cour est pleine d'allégresse,
@@ -596,7 +596,7 @@ Et je demeureray seule avec mon amour.
 Tamerlan vient icy, songez à vous, Madame,
 Et cachez le desordre où se trouve vostre ame.
 
-**** *book_ *id_body-502 *act_ *date_1676 *creator_pradon
+**** *book_ *id_II02 *act_II *date_1676 *creator_pradon
 
 -*who_tamerlan
 Madame, il n'est plus temps de cacher un secret⁎
@@ -732,7 +732,7 @@ Je luy laisse la vie avec la liberté.
 Je vous laisse y penser, et vous quite, Madame,
 Pour vous donner le temps d'y résoudre⁎ vostre ame.
 
-**** *book_ *id_body-503 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_II03 *act_II *date_1676 *creator_pradon 
 
 -*who_asterie
 Qu'ay-je entendu⁎, Zaïde, et que m'a-t-il apris ?
@@ -765,7 +765,7 @@ On a crû l'Empereur charmé⁎ de sa beauté,
 La vostre cependant a vaincu sa fierté⁎ ;
 Mais, Madame, Andronic poura mieux vous aprendre…
 
-**** *book_ *id_body-504 *act_ *date_1676 *creator_pradon
+**** *book_ *id_II04 *act_II *date_1676 *creator_pradon
 
 -*who_asterie
 He bien, Seigneur, de vous quel destin dois-je attendre ?
@@ -871,7 +871,7 @@ Craignez de Tamerlan la haine et la vangeance,
 Et, s'il se peut, tâchons d'en détourner l'effet.
 Mais Leon vient à nous. As-tu veu Bajazet ?
 
-**** *book_ *id_body-505 *act_ *date_1676 *creator_pradon
+**** *book_ *id_II05 *act_II *date_1676 *creator_pradon
 
 -*who_leon
 Je viens d'estre témoin, Seigneur, de sa disgrace⁎ ;
@@ -912,7 +912,7 @@ Faisons notre devoir dans un coup⁎ si funeste⁎,
 Sortons, et le Destin ordonnera⁎ du reste.
 Fin du Second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1676 *creator_pradon
+**** *book_ *id_III01 *act_III *date_1676 *creator_pradon
 
 -*who_bajazet
 Non, je n'écoute rien.
@@ -1031,7 +1031,7 @@ De braver Tamerlan jusqu'au dernier soûpir.
 Ah Seigneur ! le voicy, modérez-vous de grace,
 Calmez…
 
-**** *book_ *id_body-602 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_III02 *act_III *date_1676 *creator_pradon 
 
 -*who_bajazet
       Hé bien, viens-tu joüir de ma disgrace⁎ ?
@@ -1124,7 +1124,7 @@ Tu seras satisfait. Qu'on l'éloigne de moy.
 -*who_bajazet
 Si je meurs, je seray plus satisfait que toy.
 
-**** *book_ *id_body-603 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_III03 *act_III *date_1676 *creator_pradon 
 
 -*who_andronic
 Ah ! Seigneur, modérez ce couroux…
@@ -1178,7 +1178,7 @@ Vostre gloire⁎, Seigneur.
       J'en auray soin sans vous,
 Et feray ce que veut un trop juste couroux.
 
-**** *book_ *id_body-604 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_III04 *act_III *date_1676 *creator_pradon 
 
 -*who_asterie
 Quoy ? Seigneur, à la mort entraîne-t-on mon Pere,
@@ -1216,7 +1216,7 @@ Pour peindre à Bajazet le péril qui le presse,
 J'atendray sa réponse, elle fera son sort⁎,
 C'est d'elle que dépend ou sa vie, ou sa mort.
 
-**** *book_ *id_body-605 *act_ *date_1676 *creator_pradon
+**** *book_ *id_III05 *act_III *date_1676 *creator_pradon
 
 -*who_andronic
 Voicy l'afreux instant que nous avions à craindre,
@@ -1267,7 +1267,7 @@ On vient, retirez-vous, sortez.
 -*who_andronic
       Adieu, Madame.
 
-**** *book_ *id_body-606 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_III06 *act_III *date_1676 *creator_pradon 
 
 -*who_bajazet
 Ma Fille, il faut montrer la grandeur de ton ame,
@@ -1390,7 +1390,7 @@ Gardes, suivez vostre ordre, à la mort je m'apreste,
 Et portez au Tyran mes refus et ma teste.
 Fin du Troisiéme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1676 *creator_pradon
+**** *book_ *id_IV01 *act_IV *date_1676 *creator_pradon
 
 -*who_andronic
 Que dit-on dans le Camp du sort⁎ de Bajazet,
@@ -1436,7 +1436,7 @@ J'iray sur les Autels ensanglanter la Feste ;
 Pour réponse à ses pleurs j'ay du sang à verser,
 J'iray… Mais elle vient, Ciel ! que dois-je penser ?
 
-**** *book_ *id_body-702 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_IV02 *act_IV *date_1676 *creator_pradon 
 
 -*who_asterie
 Me plaindrez-vous, Seigneur, dans ma triste⁎ avanture ?
@@ -1595,7 +1595,7 @@ Perdez⁎ plutost l'Amant⁎, et vivez.
       Ah Seigneur,
 J'entens⁎ du bruit⁎, on vient, et je voy l'Empereur.
 
-**** *book_ *id_body-703 *act_ *date_1676 *creator_pradon
+**** *book_ *id_IV03 *act_IV *date_1676 *creator_pradon
 
 -*who_tamerlan
 Enfin, Prince, l'amour termine⁎ nostre haine,
@@ -1760,7 +1760,7 @@ Et que puis-je, Madame ?
       Eloignez de mes yeux
 Cet objet⁎ insolent d'un Rival odieux.
 
-**** *book_ *id_body-704 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_IV04 *act_IV *date_1676 *creator_pradon 
 
 -*who_tamerlan
 Madame, vous voyez à quel point il m'irrite,
@@ -1776,7 +1776,7 @@ Quitez, abandonnez l'Amant⁎ pour vostre Pere ;
 Si l'un et l'autre enfin ne subissent mes Loix,
 Vous les verrez tous deux pour la derniere fois.
 
-**** *book_ *id_body-705 *act_ *date_1676 *creator_pradon
+**** *book_ *id_IV05 *act_IV *date_1676 *creator_pradon
 
 -*who_asterie
 Ah ! Seigneur… il me quite helas ! que vais-je faire ?
@@ -1797,7 +1797,7 @@ Bajazet, Andronic, Pere, Amant⁎ malheureux⁎,
 Je sçauray périr seule, et vous sauver tous deux.
 Fin du Quatriéme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1676 *creator_pradon
+**** *book_ *id_V01 *act_V *date_1676 *creator_pradon
 
 -*who_asterie
 Ne m'abandonne point, tout est perdu, Zaïde,
@@ -1871,7 +1871,7 @@ Ciel ! que n'a-t-il quité ces cruels⁎ sentimens ?
 Mais il vient, ah fuyons, de crainte que ma vûë
 Ne rallume en son cœur le poison qui me tuë.
 
-**** *book_ *id_body-802 *act_ *date_1676 *creator_pradon
+**** *book_ *id_V02 *act_V *date_1676 *creator_pradon
 
 -*who_tamerlan
 Tu dis que Bajazet rentre dans son devoir,
@@ -1963,7 +1963,7 @@ Lors⁎ que…
 -*who_tamerlan
       Sa Fille vient. Fais venir Bajazet.
 
-**** *book_ *id_body-803 *act_ *date_1676 *creator_pradon
+**** *book_ *id_V03 *act_V *date_1676 *creator_pradon
 
 -*who_tamerlan
 Vostre Pere a changé son superbe⁎ langage,
@@ -2027,7 +2027,7 @@ Non, Madame, au contraire, on va briser sa chaîne,
 Et Bajazet et moy, dans nos embrassemens,
 Nous allons étoufer tous nos ressentimens.
 
-**** *book_ *id_body-804 *act_ *date_1676 *creator_pradon
+**** *book_ *id_V04 *act_V *date_1676 *creator_pradon
 
 -*who_andronic
 Ah ! Madame, est-il vray ce qu'on vient de m'aprendre ?
@@ -2071,7 +2071,7 @@ J'en seray la Victime, et je dois obeïr,
 Mais je n'ignore pas quand il faudra mourir.
 Il vient. Ah Ciel !
 
-**** *book_ *id_body-805 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_V05 *act_V *date_1676 *creator_pradon 
 
 -*who_bajazet
       Ma Fille, il faut que je t'embrasse,
@@ -2176,7 +2176,7 @@ Ah ! laisse-moy, Tyran, expirer de douleur !
 Tu pers tout aujoud'huy, malheureuse⁎ Astérie,
 Et pour dernier malheur⁎ il te reste la vie.
 
-**** *book_ *id_body-806 *act_ *date_1676 *creator_pradon 
+**** *book_ *id_V06 *act_V *date_1676 *creator_pradon 
 
 -*who_andronic
 Si vous l'aimez, Seigneur, craignons son desespoir,

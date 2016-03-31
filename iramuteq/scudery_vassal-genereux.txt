@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_body-1 *date_1636
+**** *book_ *id_body-1 *date_1636 *creator_scudery
 
 À MADEMOISELLE DE RAMBOUILLET .
 
@@ -28,14 +28,14 @@ tres-passionné serviteur,
 
 DE SCUDERY.
 
-**** *book_ *id_body-2 *date_1636
+**** *book_ *id_body-2 *date_1636 *creator_scudery
 
 AU LECTEUR.
 
 Bien que mes ouvrages soient assez intelligibles d'eux-mesmes, je t'advouë que je devrois donner à la Coustume, ou plustost à ton impatience, les Argumens de toutes mes pieces : mais pour te les donner il les faudroit faire; et c'est à quoy je ne me puis resoudre.
 Excuse ma paresse, je t'en supplie; et te souvienne en ma faveur, que les Italiens appellent ce vice, celui des honnestes gens.
 
-**** *book_ *id_body-3 *date_1636
+**** *book_ *id_body-3 *date_1636 *creator_scudery
 
 EXTRAIT DU PRIVILEGE DU ROY
 
@@ -55,7 +55,7 @@ Achevé d'imprimé ce premier Septembre 1635.
 
 Les Exemplaires ont esté fournis, ainsi qu'il est porté par le Privilege.
 
-**** *book_ *id_body-501 *act_ *date_1636
+**** *book_ *id_I01 *act_I *date_1636 *creator_scudery
 
 -*who_theandre
 STANCES.
@@ -260,7 +260,7 @@ Moins vous demeurerez, et moins j'auray de peine;
 O cieux, au mesme instant que je perds ses appas,
 Mon triste cœur me quitte, et la suit pas à pas.
 
-**** *book_ *id_body-502 *act_ *date_1636
+**** *book_ *id_I02 *act_I *date_1636 *creator_scudery
 
 -*who_lucidan
 La fortune me rit, le sort m'est favorable;
@@ -419,7 +419,7 @@ Monseigneur, le Roy sort,
       Et j'entre en une peine,
 Et la moins supportable, et la plus inhumaine.
 
-**** *book_ *id_body-503 *act_ *date_1636 
+**** *book_ *id_I03 *act_I *date_1636 *creator_scudery 
 
 -*who_theandre
 Pensers, craintes, soubçons, mes plus fiers ennemis,
@@ -602,7 +602,7 @@ En cét excez d'honneur je ne me puis regler⁎,
 -*who_lucidan
 Il faut que je l'embrasse, au lieu de l'estrangler.
 
-**** *book_ *id_body-601 *act_ *date_1636
+**** *book_ *id_II01 *act_II *date_1636 *creator_scudery
 
 -*who_glacitide
 Vous n'avez pas semé sur l'infertile arene;
@@ -676,7 +676,7 @@ Afin qu'il le remette aux termes du devoir.
 Puissent les immortels reconnoistre les peines,
 Que prend pour ses subjets la meilleure des Reines.
 
-**** *book_ *id_body-602 *act_ *date_1636 
+**** *book_ *id_II02 *act_II *date_1636 *creator_scudery 
 
 -*who_lindorante
 Le respect vous oblige, et la raison aussi,
@@ -804,7 +804,7 @@ Philidaspe, va-t'en, je suivray tes conseils;
 Voicy venir le Roy, qu'il faut que j'entretienne,
 Dans l'ordre que ta ruse a prescrit à la mienne.
 
-**** *book_ *id_body-603 *act_ *date_1636
+**** *book_ *id_II03 *act_II *date_1636 *creator_scudery
 
 -*who_glacitide
 Taschez de luy tirer cette espine du cœur,
@@ -934,7 +934,7 @@ Quoy que je sois son fils, il me traicte en esclave:
 Et ne suis-je pas Prince aussi bien comme luy?
 Mais je vois les subjets⁎ qui causent mon ennuy⁎.
 
-**** *book_ *id_body-604 *act_ *date_1636 
+**** *book_ *id_II04 *act_II *date_1636 *creator_scudery 
 
 -*who_lucidan
 Ha traistre il faut mourir,
@@ -1006,7 +1006,7 @@ Feront durer mes feux plus long-temps que ma vie:
 La Bague, et le Mouchoir, seront tousjours tesmoins,
 Que ce que j'ay promis ne durera pas moins.
 
-**** *book_ *id_body-701 *act_ *date_1636
+**** *book_ *id_III01 *act_III *date_1636 *creator_scudery
 
 -*who_lucidan
 Je regne Lindorante, et tousjours dans la flame,
@@ -1098,7 +1098,7 @@ Faites-moy suivre là par trente de mes Gardes;
 Ce nombre suffira pour ce peuple insolent;
 Si contre mon dessein le leur est violent.
 
-**** *book_ *id_body-702 *act_ *date_1636 
+**** *book_ *id_III02 *act_III *date_1636 *creator_scudery 
 
 -*who_glacitide
 Je ne puis m'esloigner, quoy que je le desire;
@@ -1148,7 +1148,7 @@ Payera ce service avec vostre constance⁎.
 Selon ses volontez, qu'il dispose de moy;
 Je suis tousjours vassal, il est tousjours mon Roy.
 
-**** *book_ *id_body-703 *act_ *date_1636
+**** *book_ *id_III03 *act_III *date_1636 *creator_scudery
 
 -*who_philidaspe
 L'ame dans le peril se doit monstrer discrette;
@@ -1174,7 +1174,7 @@ D'immoler de ma main, ce traistre à ma vangeance;
 Il faut que son trespas⁎ instruise les flatteurs;
 Du desordre des grands detestables autheurs.
 
-**** *book_ *id_body-704 *act_ *date_1636 
+**** *book_ *id_III04 *act_III *date_1636 *creator_scudery 
 
 -*who_rosimar
 Comment? peuple Gaulois, la valeur indomptée,
@@ -1210,7 +1210,7 @@ Que vostre volonté dispose de la nostre.
 Allons, allons soldats, chassez cét Ennemy,
 Achevant un labeur desja fait à demy.
 
-**** *book_ *id_body-705 *act_ *date_1636 
+**** *book_ *id_III05 *act_III *date_1636 *creator_scudery 
 
 -*who_rosilee
 Me loger chez Theandre, et mesme en son absence!
@@ -1239,7 +1239,7 @@ Et s'il poursuit encor ses infames projects,
 Il connoistra qu'un Dieu n'est pas de ses subjects.
 Alcaste vient à nous, ha que je suis surprise:
 
-**** *book_ *id_body-706 *act_ *date_1636 
+**** *book_ *id_III06 *act_III *date_1636 *creator_scudery 
 
 -*who_alcaste
 Madame sauvez-vous, de crainte d'estre prise;
@@ -1262,7 +1262,7 @@ Ce secret important n'est pas à publier⁎:
 -*who_artesie
 Il faut que je vous fasse aujourd'huy Chevalier.
 
-**** *book_ *id_body-707 *act_ *date_1636
+**** *book_ *id_III07 *act_III *date_1636 *creator_scudery
 
 -*who_lucidan
 Cesse facheux Amour, cesse de me poursuivre,
@@ -1288,7 +1288,7 @@ Et souz un pan de mur, me destine un Cercueïl:
 Mais je vois un Heraut, ô Dieux quelle bravade!
 Quoy, ce Tambour s'appreste à faire une Chamade!
 
-**** *book_ *id_body-708 *act_ *date_1636 
+**** *book_ *id_III08 *act_III *date_1636 *creator_scudery 
 
 -*who_palinonde
 Les Princes, le Senat, et le peuple Gaulois,
@@ -1346,7 +1346,7 @@ Ne dois tu pas mourir, puis que je suis banny?
 Mais ne le voyant point, dequoy sert ce reproche?
 O Dieux! comme à propos le perfide s'approche!
 
-**** *book_ *id_body-709 *act_ *date_1636 
+**** *book_ *id_III09 *act_III *date_1636 *creator_scudery 
 
 -*who_philidaspe
 Sire consolez vous;
@@ -1359,7 +1359,7 @@ S'offre à cacher ma fuite, aussi bien que ma honte;
 Acceptons ce secours en estant despourveus,
 Et puis qu'il faut ceder, fuyons sans estre veus.
 
-**** *book_ *id_body-801 *act_ *date_1636
+**** *book_ *id_IV01 *act_IV *date_1636 *creator_scudery
 
 -*who_theandre
 Fidele Perintor, que j'ay l'esprit en peine;
@@ -1445,7 +1445,7 @@ Allons nous divertir en visitant ces bois;
 Et laissons au Destin le soin de nous conduire;
 Si le Ciel est pour nous, la Terre ne peut nuire.
 
-**** *book_ *id_body-802 *act_ *date_1636
+**** *book_ *id_IV02 *act_IV *date_1636 *creator_scudery
 
 -*who_lucidan
 STANCES.
@@ -1536,7 +1536,7 @@ Allons, allons nous perdre en cette solitude;
 Et faisons que la faim, par son pouvoir fatal,
 Nous punisse en ces bois d'un appetit brutal.
 
-**** *book_ *id_body-803 *act_ *date_1636
+**** *book_ *id_IV03 *act_IV *date_1636 *creator_scudery
 
 -*who_rosilee
 Ta langue veut trahir le secret de mon ame:
@@ -1602,7 +1602,7 @@ Ennemy du discours, amoureux des combats,
 Pour reparer l'honneur d'une Dame trompée,
 Desire avecque vous mesurer son espée.
 
-**** *book_ *id_body-804 *act_ *date_1636
+**** *book_ *id_IV04 *act_IV *date_1636 *creator_scudery
 
 -*who_theandre
 Va, dis luy de ma part qu'il soit le bien venu:
@@ -1623,7 +1623,7 @@ En mourant du premier, tu n'en feras point trois.
 -*who_artesie
 Entrez au champ de Mars, la barriere est ouverte:
 
-**** *book_ *id_body-805 *act_ *date_1636 
+**** *book_ *id_IV05 *act_IV *date_1636 *creator_scudery 
 
 -*who_lucidan
 O Ciel! quatre Guerriers travaillent à leur perte;
@@ -1710,7 +1710,7 @@ Je vous attaqueray dans une autre saison⁎;
 -*who_artesie
 Je seray tousjours prest à vous faire raison.
 
-**** *book_ *id_body-901 *act_ *date_1636
+**** *book_ *id_V01 *act_V *date_1636 *creator_scudery
 
 -*who_theandre
 Toy dont la prudence eternelle
@@ -1973,7 +1973,7 @@ Monstrant n'en point avoir, desarmez son courroux⁎.
 -*who_rosimar
 Quelle confusion me couvre le visage!
 
-**** *book_ *id_body-902 *act_ *date_1636 
+**** *book_ *id_V02 *act_V *date_1636 *creator_scudery 
 
 -*who_glacitide
 Qu'icy vostre prudence exerce son usage;
