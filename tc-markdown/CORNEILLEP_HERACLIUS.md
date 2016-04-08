@@ -140,8 +140,8 @@ Quand vous fîtes périr Maurice et sa famille,
 Il vous en plut, seigneur, réserver une fille,  
 Et résoudre dès lors qu'elle aurait pour époux  
 Ce prince destiné pour régner après vous.  
-Le peuple en sa personne aime encore et révère  
-Et son père Maurice et son aïeul Tibère, [1] [2]  
+Le peuple en sa personne aime encore et révère   [1] [2]
+Et son père Maurice et son aïeul Tibère,  
 Et vous verra sans trouble en occuper le rang  
 S'il voit tomber leur sceptre au reste de leur sang.  
 Non, il ne courra plus après l'ombre du frère  
@@ -275,8 +275,8 @@ Je fis ce que je pus : je conservai sa fille,
 Et, sans avoir besoin de titre ni d'appui,  
 Je te fais part d'un bien qui n'était plus à lui.  
 
-    PULCHÉRIE.
-Un chétif centenier des troupes de Mysie, [3]  
+    PULCHÉRIE. [3]
+Un chétif centenier des troupes de Mysie,  
 Qu'un gros de mutinés élut par fantaisie,  
 Oser arrogamment se vanter à mes yeux  
 D'être juste seigneur du bien de mes aïeux !  
@@ -480,8 +480,8 @@ Que nos captivités doivent être éternelles.
 Seigneur, vous connaissez ce cœur infortuné :  
 Léonce y peut beaucoup ; vous me l'avez donné,  
 Et votre main illustre augmente le mérite  
-Des vertus dont l'éclat pour lui me sollicite.  
-Mais à d'autres pensers il me faut recourir : [4]  
+Des vertus dont l'éclat pour lui me sollicite.   [4]
+Mais à d'autres pensers il me faut recourir :  
 Il n'est plus temps d'aimer alors qu'il faut mourir,  
 Et quand à ce départ une âme se prépare...  
 
@@ -805,8 +805,8 @@ Exupère, Madame, est là qui vous demande.
 
     LÉONTINE.
 Exupère ! À ce nom que ma surprise est grande !  
-Qu'il entre ! À quel dessein vient-il parler à moi,  
-Lui que je ne vois point, qu'à peine je connais ? [5]  
+Qu'il entre ! À quel dessein vient-il parler à moi,   [5]
+Lui que je ne vois point, qu'à peine je connais ?  
 Dans l'âme il hait Phocas, qui s'immola son père,  
 Et sa venue ici cache quelque mystère.  
 Je vous l'ai déjà dit, votre langue nous perd.  
@@ -1617,8 +1617,8 @@ Périra-t-il pour moi quand je lui dois le jour ?
 Et lorsque sous mon nom il se livre à sa perte,  
 Tiendrai-je sous le sien ma fortune couverte ?  
 S'il s'agissait ici de le faire empereur,  
-Je pourrais lui laisser mon nom et son erreur ;  
-Mais conniver en lâche à ce nom qu'on me vole, [6]  
+Je pourrais lui laisser mon nom et son erreur ;   [6]
+Mais conniver en lâche à ce nom qu'on me vole,  
 Quand son père à mes yeux au lieu de moi l'immole !  
 Souffrir qu'il se trahisse aux rigueurs de mon sort !  
 Vivre par son supplice, et régner par sa mort !  

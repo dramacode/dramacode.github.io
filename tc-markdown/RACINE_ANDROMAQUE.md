@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_ANDROMAQUE  
-creator: RACINE, Jean  
-date: 1697  
+creator: Racine, Jean  
+date: 1667  
 title: ANDROMAQUE, TRAGÉDIE  
 ---
 
@@ -144,8 +144,8 @@ Le pompeux appareil qui suit ici vos pas,
 N'est point d'un malheureux qui cherche le trépas.  
 
     ORESTE
-Hélas ! Qui peut savoir le destin qui m'amène ?  
-L'amour me fait ici chercher une inhumaine. [2]  
+Hélas ! Qui peut savoir le destin qui m'amène ?   [2]
+L'amour me fait ici chercher une inhumaine.  
 Mais qui sait ce qu'il doit ordonner de mon sort,  
 Et si je viens chercher, ou la vie, ou la mort ?  
 
@@ -364,8 +364,8 @@ Que malgré la pitié dont je me sens saisir,
 Dans le sang d'un enfant je me baigne à loisir ?  
 Non, Seigneur. Que les Grecs cherchent quelque autre proie,  
 Qu'ils poursuivent ailleurs ce qui reste de Troie,  
-De mes inimitiés le cours est achevé,  
-L'Épire sauvera ce que Troie a sauvé. [3]  
+De mes inimitiés le cours est achevé,   [3]
+L'Épire sauvera ce que Troie a sauvé.  
 
     ORESTE
 Seigneur, vous savez trop, avec quel artifice  
@@ -1642,8 +1642,8 @@ Oui, je m'y trouverai. Mais allons voir mon fils.
 Madame, qui vous presse ? Il suffit que sa vue  
 Désormais à vos yeux ne soit plus défendue.  
 Vous lui pourrez bientôt prodiguer vos bontés,  
-Et vos embrassements ne seront plus comptés.  
-Quel plaisir d'élever un enfant, qu'on voit croître, [4]  
+Et vos embrassements ne seront plus comptés.   [4]
+Quel plaisir d'élever un enfant, qu'on voit croître,  
 Non plus comme un esclave élevé pour son maître,  
 Mais pour voir avec lui renaître tant de rois !  
 
@@ -2033,8 +2033,8 @@ Et malgré tous mes Grecs honteux de mes bontés.
 Je leur ai commandé de cacher mon injure.  
 J'attendais en secret le retour d'un parjure.  
 J'ai cru que tôt ou tard à ton devoir rendu,  
-Tu me rapporterais un coeur qui m'était dû.  
-Je t'aimais inconstant, qu'aurais-je fait fidèle ? [5]  
+Tu me rapporterais un coeur qui m'était dû.   [5]
+Je t'aimais inconstant, qu'aurais-je fait fidèle ?  
 Et même en ce moment où ta bouche cruelle  
 Vient si tranquillement m'annoncer le trépas,  
 Ingrat, je doute encor si je ne t'aime pas.  

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1671
+**** *book_ *id_I01 *act_I *date_1670 *creator_racine
 
 -*who_antiochus
 Arrêtons un moment. La pompe de ces lieux,
@@ -26,7 +26,7 @@ Ce rang entre elle et vous met-il tant de distance ?
 Va, dis-je, et sans vouloir te charger d'autres soins,
 Vois si je puis bientôt lui parler sans témoins.
 
-**** *book_ *id_I02 *act_I *date_1671
+**** *book_ *id_I02 *act_I *date_1670 *creator_racine
 
 -*who_antiochus
 Hé bien, Antiochus, es-tu toujours le même ?
@@ -62,7 +62,7 @@ Quoi qu'il en soit, parlons, c'est assez nous contraindre.
 Et que peut craindre, hélas ! un amant sans espoir
 Qui peut bien se résoudre à ne la jamais voir ?
 
-**** *book_ *id_I03 *act_I *date_1671
+**** *book_ *id_I03 *act_I *date_1670 *creator_racine
 
 -*who_antiochus
 Arsace, entrerons-nous ?
@@ -215,7 +215,7 @@ Dans quel trouble, Seigneur, jetez-vous mon esprit !
 -*who_antiochus
 La reine vient. Adieu, fais tout ce que j'ai dit.
 
-**** *book_ *id_I04 *act_I *date_1671
+**** *book_ *id_I04 *act_I *date_1670 *creator_racine
 
 -*who_berenice
 Enfin je me dérobe à la joie importune
@@ -403,7 +403,7 @@ Madame, le seul bruit d'une mort que j'implore,
 Vous fera souvenir que je vivais encore.
 Adieu.
 
-**** *book_ *id_I05 *act_I *date_1671
+**** *book_ *id_I05 *act_I *date_1670 *creator_racine
 
 -*who_phenice
       Que je le plains ! Tant de fidélité,
@@ -461,7 +461,7 @@ Je reviens le chercher, et dans cette entrevue
 Dire tout ce qu'aux coeurs l'un de l'autre contents
 Inspirent des transports retenus si longtemps.
 
-**** *book_ *id_II01 *act_II *date_1671
+**** *book_ *id_II01 *act_II *date_1670 *creator_racine
 
 -*who_titus
 A-t-on vu de ma part le roi de Comagène ?
@@ -493,7 +493,7 @@ Vous la plaignez ?
 -*who_titus
       Paulin, qu'on vous laisse avec moi.
 
-**** *book_ *id_II02 *act_II *date_1671
+**** *book_ *id_II02 *act_II *date_1670 *creator_racine
 
 -*who_titus
 Hé bien, de mes desseins Rome encore incertaine
@@ -741,7 +741,7 @@ Encore un coup, allons, il n'y faut plus penser.
 Je connais mon devoir, c'est à moi de le suivre.
 Je n'examine point si j'y pourrai survivre.
 
-**** *book_ *id_II03 *act_II *date_1671
+**** *book_ *id_II03 *act_II *date_1670 *creator_racine
 
 -*who_rutile
 Bérénice, Seigneur, demande à vous parler.
@@ -757,7 +757,7 @@ Voici le temps.
 -*who_titus
       Hé bien, voyons-la. Qu'elle vienne.
 
-**** *book_ *id_II04 *act_II *date_1671
+**** *book_ *id_II04 *act_II *date_1670 *creator_racine
 
 -*who_berenice
 Ne vous offensez pas, si mon zèle indiscret
@@ -867,7 +867,7 @@ Hé bien ?
 -*who_titus
       Sortons, Paulin, je ne lui puis rien dire.
 
-**** *book_ *id_II05 *act_II *date_1671
+**** *book_ *id_II05 *act_II *date_1670 *creator_racine
 
 -*who_berenice
 Quoi me quitter sitôt, et ne me dire rien ?
@@ -918,7 +918,7 @@ Rassurons-nous, mon coeur, je puis encor lui plaire.
 Je me comptais trop tôt au rang des malheureux.
 Si Titus est jaloux, Titus est amoureux.
 
-**** *book_ *id_III01 *act_III *date_1671
+**** *book_ *id_III01 *act_III *date_1670 *creator_racine
 
 -*who_titus
 Quoi, prince ! Vous partiez ? Quelle raison subite
@@ -1055,7 +1055,7 @@ Adieu ne quittez point ma princesse, ma reine !
 Tout ce qui de mon coeur fut l'unique désir,
 Tout ce que j'aimerai jusqu'au dernier soupir.
 
-**** *book_ *id_III02 *act_III *date_1671
+**** *book_ *id_III02 *act_III *date_1670 *creator_racine
 
 -*who_arsace
 Ainsi le ciel s'apprête à vous rendre justice.
@@ -1176,7 +1176,7 @@ Ah ! La voici, Seigneur, prenez votre parti.
 -*who_antiochus
 Ô ciel !
 
-**** *book_ *id_III03 *act_III *date_1671
+**** *book_ *id_III03 *act_III *date_1670 *creator_racine
 
 -*who_berenice
       Hé quoi, Seigneur vous n'êtes point parti ?
@@ -1311,7 +1311,7 @@ Pour jamais à mes yeux gardez-vous de paraître.
 Ne m'abandonne pas dans l'état où je suis,
 Hélas ! Pour me tromper je fais ce que je puis.
 
-**** *book_ *id_III04 *act_III *date_1671
+**** *book_ *id_III04 *act_III *date_1670 *creator_racine
 
 -*who_antiochus
 Ne me trompé-je point ? L'ai-je bien entendue ?
@@ -1358,7 +1358,7 @@ Je vais dans mon palais attendre ton retour.
 Va voir si la douleur ne l'a point trop saisie.
 Cours. Et partons du moins assurés de sa vie.
 
-**** *book_ *id_IV01 *act_IV *date_1671
+**** *book_ *id_IV01 *act_IV *date_1670 *creator_racine
 
 -*who_berenice
 Phénice ne vient point ? Moments trop rigoureux,
@@ -1371,7 +1371,7 @@ Phénice n'aura point de réponse à me rendre.
 Titus, l'ingrat Titus n'a point voulu l'entendre.
 Il fuit, il se dérobe à ma juste fureur.
 
-**** *book_ *id_IV02 *act_IV *date_1671
+**** *book_ *id_IV02 *act_IV *date_1670 *creator_racine
 
 -*who_berenice
 Chère Phénice, hé bien ! As-tu vu l'empereur ?
@@ -1408,7 +1408,7 @@ J'entends du bruit, Madame, et l'empereur s'approche,
 Venez, fuyez la foule, et rentrons promptement.
 Vous l'entretiendrez seul dans votre appartement.
 
-**** *book_ *id_IV03 *act_IV *date_1671
+**** *book_ *id_IV03 *act_IV *date_1670 *creator_racine
 
 -*who_titus
 De la reine, Paulin, flattez l'inquiétude.
@@ -1420,7 +1420,7 @@ Que l'on me laisse.
 Grands dieux, sauvez sa gloire, et l'honneur de l'État.
 Voyons la reine.
 
-**** *book_ *id_IV04 *act_IV *date_1671
+**** *book_ *id_IV04 *act_IV *date_1670 *creator_racine
 
 -*who_titus
       Hé bien, Titus, que viens-tu faire ?
@@ -1478,7 +1478,7 @@ Ah malheureux ! Combien j'en ai déjà perdus !
 Ne tardons plus. Faisons ce que l'honneur exige.
 Rompons le seul lien...
 
-**** *book_ *id_IV05 *act_IV *date_1671
+**** *book_ *id_IV05 *act_IV *date_1670 *creator_racine
 
 -*who_berenice
       Non, laissez-moi, vous dis-je.
@@ -1673,7 +1673,7 @@ Et sans me repentir de ma persévérance,
 Je me remets sur eux de toute ma vengeance.
 Adieu.
 
-**** *book_ *id_IV06 *act_IV *date_1671
+**** *book_ *id_IV06 *act_IV *date_1670 *creator_racine
 
 -*who_paulin
       Dans quel dessein vient-elle de sortir,
@@ -1724,7 +1724,7 @@ Va partout de lauriers couronner vos statues.
 Ah Rome ! Ah Bérénice ! Ah prince malheureux !
 Pourquoi suis-je empereur ? Pourquoi suis-je amoureux ?
 
-**** *book_ *id_IV07 *act_IV *date_1671
+**** *book_ *id_IV07 *act_IV *date_1670 *creator_racine
 
 -*who_antiochus
 Qu'avez-vous fait, Seigneur ? L'aimable Bérénice
@@ -1745,7 +1745,7 @@ Dites un mot.
       Hélas ! Quel mot puis-je lui dire ?
 Moi-même en ce moment sais-je si je respire ?
 
-**** *book_ *id_IV08 *act_IV *date_1671
+**** *book_ *id_IV08 *act_IV *date_1670 *creator_racine
 
 -*who_rutile
 Seigneur, tous les tribuns, les consuls, le Sénat,
@@ -1775,7 +1775,7 @@ Prince de ce devoir je ne puis me défendre.
 Voyez la reine. Allez. J'espère à mon retour
 Qu'elle ne pourra plus douter de mon amour.
 
-**** *book_ *id_V01 *act_V *date_1671
+**** *book_ *id_V01 *act_V *date_1670 *creator_racine
 
 -*who_arsace
 Où pourrai-je trouver ce prince trop fidèle ?
@@ -1783,7 +1783,7 @@ Ciel, conduisez mes pas, et secondez mon zèle,
 Faites qu'en ce moment je lui puisse annoncer
 Un bonheur où peut-être il n'ose plus penser.
 
-**** *book_ *id_V02 *act_V *date_1671
+**** *book_ *id_V02 *act_V *date_1670 *creator_racine
 
 -*who_arsace
 Ah quel heureux destin en ces lieux vous renvoie,
@@ -1834,7 +1834,7 @@ Croit même, en espérant, irriter la Fortune.
 Mais que vois-je ? Titus porte vers nous ses pas.
 Que veut-il ?
 
-**** *book_ *id_V03 *act_V *date_1671
+**** *book_ *id_V03 *act_V *date_1670 *creator_racine
 
 -*who_titus
       Demeurez, qu'on ne me suive pas.
@@ -1845,7 +1845,7 @@ Calmer des déplaisirs moins cruels que les miens.
 Venez, Prince, venez. Je veux bien que vous-même,
 Pour la dernière fois vous voyiez si je l'aime.
 
-**** *book_ *id_V04 *act_V *date_1671
+**** *book_ *id_V04 *act_V *date_1670 *creator_racine
 
 -*who_antiochus
 Hé bien ! Voilà l'espoir que tu m'avais rendu.
@@ -1859,7 +1859,7 @@ De la crainte à l'espoir, de l'espoir à la rage.
 Et je respire encor ? Bérénice ! Titus !
 Dieux cruels ! De mes pleurs vous ne vous rirez plus.
 
-**** *book_ *id_V05 *act_V *date_1671
+**** *book_ *id_V05 *act_V *date_1670 *creator_racine
 
 -*who_berenice
 Non, je n'écoute rien. Me voilà résolue.
@@ -1961,7 +1961,7 @@ Vous cherchez à mourir ? Et de tout ce que j'aime
 Il ne restera plus qu'un triste souvenir ?
 Qu'on cherche Antiochus, qu'on le fasse venir.
 
-**** *book_ *id_V06 *act_V *date_1671
+**** *book_ *id_V06 *act_V *date_1670 *creator_racine
 
 -*who_titus
 Madame, il faut vous faire un aveu véritable.
@@ -2033,7 +2033,7 @@ Hélas !
 Vous voilà de mes jours maintenant responsable.
 Songez-y bien, Madame. Et si je vous suis cher...
 
-**** *book_ *id_V07 *act_V *date_1671
+**** *book_ *id_V07 *act_V *date_1670 *creator_racine
 
 -*who_titus
 Venez, Prince, venez, je vous ai fait chercher.

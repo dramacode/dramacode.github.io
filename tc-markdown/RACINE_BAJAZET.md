@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_BAJAZET  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1672  
 title: BAJAZET, TRAGÉDIE  
 ---
@@ -85,8 +85,8 @@ Un long chemin sépare et le camp et Byzance.
 Mille obstacles divers m'ont même traversé,  
 Et je puis ignorer tout ce qui s'est passé.  
 
-    ACOMAT
-Que faisaient cependant nos braves janissaires ? [2]  
+    ACOMAT [2]
+Que faisaient cependant nos braves janissaires ?  
 Rendent-ils au sultan des hommages sincères ?  
 Dans le secret des cours, Osmin, n'as-tu rien lu ?  
 Amurat jouit-il d'un pouvoir absolu ?  
@@ -148,8 +148,8 @@ Quoi, Seigneur ! Le sultan reverra son visage,
 Sans que de vos respects il lui porte ce gage ?  
 
     ACOMAT
-Cet esclave n'est plus. Un ordre, cher Osmin,  
-L'a fait précipiter dans le fond de l'Euxin. [3]  
+Cet esclave n'est plus. Un ordre, cher Osmin,   [3]
+L'a fait précipiter dans le fond de l'Euxin.  
 
     OSMIN
 Mais le sultan surpris d'une trop longue absence,  
@@ -333,8 +333,8 @@ Croyez-moi, hâtons-nous d'en prévenir le bruit.
 S'il fuit, que craignez-vous ? S'il triomphe au contraire,  
 Le conseil le plus prompt est le plus salutaire.  
 Vous voudrez, mais trop tard, soustraire à son pouvoir  
-Un peuple dans ses murs prêt à le recevoir.  
-Pour moi, j'ai su déjà par mes brigues secrètes [4]  
+Un peuple dans ses murs prêt à le recevoir.   [4]
+Pour moi, j'ai su déjà par mes brigues secrètes  
 Gagner de notre loi les sacrés interprètes.  
 Je sais combien crédule en sa dévotion  
 Le peuple suit le frein de la religion.  
@@ -350,8 +350,8 @@ Qu'Amurat le dédaigne, et veut loin de Byzance
 Transporter désormais son trône et sa présence.  
 Déclarons le péril dont son frère est pressé.  
 Montrons l'ordre cruel qui vous fut adressé.  
-Surtout qu'il se déclare et se montre lui-même,  
-Et fasse voir ce front digne du diadème. [5]  
+Surtout qu'il se déclare et se montre lui-même,   [5]
+Et fasse voir ce front digne du diadème.  
 
     ROXANE
 Il suffit. Je tiendrai tout ce que j'ai promis.  
@@ -521,8 +521,8 @@ Lui rendit des respects. Pouvait-il faire moins ?
 Mais qu'aisément l'amour croit tout ce qu'il souhaite !  
 De ses moindres respects Roxane satisfaite  
 Nous engagea tous deux, par sa facilité,  
-À la laisser jouir de sa crédulité.  
-Zaïre, il faut pourtant avouer ma faiblesse. [6]  
+À la laisser jouir de sa crédulité.   [6]
+Zaïre, il faut pourtant avouer ma faiblesse.  
 D'un mouvement jaloux je ne fus pas maîtresse.  
 Ma rivale accablant mon amant de bienfaits,  
 Opposait un empire à mes faibles attraits.  
@@ -1290,8 +1290,8 @@ Mais après les adieux que je venais d'entendre,
 Après tous les transports d'une douleur si tendre,  
 Je sais qu'il n'a point dû lui faire remarquer  
 La joie et les transports qu'on vient de m'expliquer.  
-Toi-même juge-nous, et vois si je m'abuse :  
-Pourquoi de ce conseil moi seule suis-je excluse ? [7]  
+Toi-même juge-nous, et vois si je m'abuse :   [7]
+Pourquoi de ce conseil moi seule suis-je excluse ?  
 Au sort de Bajazet ai-je si peu de part ?  
 À me chercher lui-même attendrait-il si tard,  
 N'était que de son cœur le trop juste reproche  
@@ -2277,8 +2277,8 @@ Bajazet à vos soins tôt ou tard plus sensible,
 Madame, a tant d'attraits n'était pas invincible.  
 Jalouse, et toujours prête à lui représenter  
 Tout ce que je croyais digne de l'arrêter,  
-Je n'ai rien négligé, plaintes, larmes, colère,  
-Quelquefois attestant les mânes de sa mère ; [8]  
+Je n'ai rien négligé, plaintes, larmes, colère,   [8]
+Quelquefois attestant les mânes de sa mère ;  
 Ce jour même, des jours le plus infortuné,  
 Lui reprochant l'espoir qu'il vous avait donné,  
 Et de ma mort enfin le prenant à partie,  
@@ -2502,8 +2502,8 @@ Qu'a lui survivre hélas ! Je fusse condamnée ?
 Et fallait-il encor que pour comble d'horreurs  
 Je ne pusse imputer sa mort qu'a mes fureurs ?  
 Oui, c'est moi, cher amant, qui t'arrache la vie,  
-Roxane, ou le sultan, ne te l'ont point ravie.  
-Moi seule, j'ai tissu le lien malheureux [9]  
+Roxane, ou le sultan, ne te l'ont point ravie.   [9]
+Moi seule, j'ai tissu le lien malheureux  
 Dont tu viens d'éprouver les détestables nœuds.  
 Et je puis, sans mourir, en souffrir la pensée ?  
 Moi, qui n'ai pu tantôt, de ta mort menacée,  

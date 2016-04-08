@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_IPHIGENIE  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1674  
 title: IPHIGÉNIE, TRAGÉDIE.  
 ---
@@ -92,8 +92,8 @@ Mais tout dort, et l'armée, et les vents, et Neptune.
 
     AGAMEMNON.
 Heureux ! Qui satisfait de son humble fortune,  
-Libre du joug superbe où je suis attaché,  
-Vit dans l'état obscur où les dieux l'ont caché. [2]  
+Libre du joug superbe où je suis attaché,   [2]
+Vit dans l'état obscur où les dieux l'ont caché.  
 
     ARCAS.
 Et depuis quand, Seigneur, tenez-vous ce langage ?  
@@ -167,8 +167,8 @@ Fis voeu sur leurs autels de leur désobéir.
 Que n'en croyais-je alors ma tendresse alarmée ?  
 Je voulais sur-le-champ congédier l'armée.  
 Ulysse en apparence approuvant mes discours,  
-De ce premier torrent laissa passer le cours.  
-Mais bientôt rappelant sa cruelle industrie, [3]  
+De ce premier torrent laissa passer le cours.   [3]
+Mais bientôt rappelant sa cruelle industrie,  
 Il me représenta l'honneur et la patrie,  
 Tout ce peuple, ces rois à mes ordres soumis,  
 Et l'empire d'Asie à la Grèce promis.  
@@ -366,8 +366,8 @@ Retiendra sans péril la soeur de votre femme.
     AGAMEMNON.
 Hé quoi ! votre valeur, qui nous a devancés,  
 N'a-t-elle pas pris soin de nous venger assez ?  
-Les malheurs de Lesbos par vos mains ravagée  
-Épouvantent encor toute la mer Égée. [4]  
+Les malheurs de Lesbos par vos mains ravagée   [4]
+Épouvantent encor toute la mer Égée.  
 Troie en a vu la flamme. Et jusque dans ses ports  
 Les flots en ont poussé le débris et les morts.  
 Que dis-je ? Les Troyens pleurent une autre Hélène,  
@@ -402,8 +402,8 @@ Et laissant faire au sort, courons où la valeur
 Nous promet un destin aussi grand que le leur.  
 C'est à Troie, et j'y cours. Et quoi qu'on me prédise,  
 Je ne demande aux dieux, qu'un vent qui m'y conduise.  
-Et quand moi seul enfin il faudrait l'assiéger,  
-Patrocle et moi, Seigneur, nous irons vous venger. [5]  
+Et quand moi seul enfin il faudrait l'assiéger,   [5]
+Patrocle et moi, Seigneur, nous irons vous venger.  
 Mais non, c'est en vos mains que le destin la livre.  
 Je n'aspire en effet qu'à l'honneur de vous suivre.  
 Je ne vous presse plus d'approuver les transports  
@@ -442,8 +442,8 @@ Et qui sait ce qu'aux Grecs frustrés de leur victime
 Peut permettre un courroux, qu'ils croiront légitime ?  
 Gardez-vous de réduire un peuple furieux,  
 Seigneur, à prononcer entre vous, et les dieux.  
-N'est-ce pas vous enfin, de qui la voix pressante  
-Nous a tous appelés aux campagnes du Xanthe ? [6]  
+N'est-ce pas vous enfin, de qui la voix pressante   [6]
+Nous a tous appelés aux campagnes du Xanthe ?  
 Et qui de ville en ville attestiez les serments  
 Que d'Hélène autrefois firent tous les amants,  
 Quand presque tous les Grecs, rivaux de votre frère  
@@ -587,8 +587,8 @@ Quoi, Madame ! toujours irritant vos douleurs,
 Croirez-vous ne plus voir que des sujets de pleurs ?  
 Je sais que tout déplaît aux yeux d'une captive,  
 Qu'il n'est point dans les fers de plaisir qui la suive.  
-Mais dans le temps fatal que repassant les flots  
-Nous suivions malgré nous le vainqueur de Lesbos, [7]  
+Mais dans le temps fatal que repassant les flots   [7]
+Nous suivions malgré nous le vainqueur de Lesbos,  
 Lorsque dans son vaisseau prisonnière timide  
 Vous voyiez devant vous ce vainqueur homicide,  
 Le dirai-je ? Vos yeux de larmes moins trempés  
@@ -695,8 +695,8 @@ Rappellerai-je encor le souvenir affreux
 Du jour qui dans les fers nous jeta toutes deux ?  
 Dans les cruelles mains, par qui je fus ravie,  
 Je demeurai longtemps sans lumière et sans vie.  
-Enfin mes tristes yeux cherchèrent la clarté ;  
-Et me voyant presser d'un bras ensanglanté, [8]  
+Enfin mes tristes yeux cherchèrent la clarté ;   [8]
+Et me voyant presser d'un bras ensanglanté,  
 Je frémissais, Doris, et d'un vainqueur sauvage  
 Craignais de rencontrer l'effroyable visage.  
 J'entrai dans son vaisseau, détestant sa fureur,  
@@ -739,7 +739,7 @@ Sans chercher des parents si longtemps ignorés,
 Et que ma folle amour a trop déshonorés.  
 
     DORIS.
-Que je vous plains, Madame ! Et que la tyrannie...  
+Que je vous plains, Madame ! Et que la tyrannie...   [9]
 
     ERIPHILE.
 Tu vois Agamemnon avec Iphigénie.  
@@ -1166,8 +1166,8 @@ Vous êtes dans un camp...
     CLYTEMNESTRE.
         Où tout vous est soumis,  
 Où le sort de l'Asie en vos mains est remis,  
-Où je vois sous vos lois marcher la Grèce entière,  
-Où le fils de Thétis va m'appeler sa mère. [9]  
+Où je vois sous vos lois marcher la Grèce entière,   [10]
+Où le fils de Thétis va m'appeler sa mère.  
 Dans quel palais superbe et plein de ma grandeur,  
 Puis-je jamais paraître avec plus de splendeur ?  
 
@@ -1394,8 +1394,8 @@ Une mère à vos pieds peut tomber sans rougir.
 C'est votre épouse, hélas ! qui vous est enlevée.  
 Dans cet heureux espoir je l'avais élevée.  
 C'est vous que nous cherchions sur ce funeste bord.  
-Et votre nom, Seigneur, l'a conduite à la mort.  
-Ira-t-elle des dieux implorant la justice [10]  
+Et votre nom, Seigneur, l'a conduite à la mort.   [11]
+Ira-t-elle des dieux implorant la justice  
 Embrasser leurs autels parés pour son supplice ?  
 Elle n'a que vous seul. Vous êtes en ces lieux  
 Son père, son époux, son asile, ses dieux.  
@@ -1512,8 +1512,8 @@ Ah, cruel ! cet amour dont vous voulez douter,
 Ai-je attendu si tard pour le faire éclater ?  
 Vous voyez de quel oeil, et comme indifférente,  
 J'ai reçu de ma mort la nouvelle sanglante.  
-Je n'en ai point pâli. Que n'avez-vous pu voir  
-À quel excès tantôt allait mon désespoir, [11]  
+Je n'en ai point pâli. Que n'avez-vous pu voir   [12]
+À quel excès tantôt allait mon désespoir,  
 Quand presque en arrivant un récit peu fidèle  
 M'a de votre inconstance annoncé la nouvelle !  
 Qui sait même, qui sait si le ciel irrité  
@@ -1555,8 +1555,8 @@ Madame, retenez un amant furieux.
 De ce triste entretien détournons les approches.  
 Seigneur, trop d'amertume aigrirait vos reproches.  
 Je sais jusqu'où s'emporte un amant irrité,  
-Et mon père est jaloux de son autorité.  
-On ne connaît que trop la fierté des Atrides. [12]  
+Et mon père est jaloux de son autorité.   [13]
+On ne connaît que trop la fierté des Atrides.  
 Laissez parler, Seigneur, des bouches plus timides.  
 Surpris, n'en doutez point, de mon retardement,  
 Lui-même il me viendra chercher dans un moment.  
@@ -1918,8 +1918,8 @@ Pourquoi le demander, puisque vous le savez ?
     ACHILLE.
 Pourquoi je le demande ? Ô ciel ! le puis-je croire ?  
 Qu'on ose des fureurs avouer la plus noire ?  
-Vous pensez qu'approuvant vos desseins odieux,  
-Je vous laisse immoler votre fille à mes yeux ? [13]  
+Vous pensez qu'approuvant vos desseins odieux,   [14]
+Je vous laisse immoler votre fille à mes yeux ?  
 Que ma foi, mon amour, mon honneur y consente ?  
 
     AGAMEMNON.
@@ -2307,11 +2307,11 @@ Oui, je la défendrai contre toute l'armée,
 Lâches, vous trahissez votre reine opprimée !  
 
     EURYBATE.
-Non, Madame, il suffit que vous me commandiez.  
-Vous nous verrez combattre, et mourir à vos pieds. [14]  
+Non, Madame, il suffit que vous me commandiez.   [15]
+Vous nous verrez combattre, et mourir à vos pieds.  
 Mais de nos faibles mains, que pouvez-vous attendre ?  
-Contre tant d'ennemis, qui vous pourra défendre ?  
-Ce n'est plus un vain peuple en désordre assemblé. [15]  
+Contre tant d'ennemis, qui vous pourra défendre ?   [16]
+Ce n'est plus un vain peuple en désordre assemblé.  
 C'est d'un zèle fatal tout le camp aveuglé.  
 Plus de pitié. Calchas seul règne, seul commande.  
 La piété sévère exige son offrande.  
@@ -2402,8 +2402,8 @@ Mer, tu n'ouvriras pas des abîmes nouveaux ?
 Quoi ! lorsque les chassant du port qui les recèle,  
 L'Aulide aura vomi leur flotte criminelle,  
 Les vents, les mêmes vents si longtemps accusés,  
-Ne te couvriront pas de ses vaisseaux brisés ?  
-Et toi, Soleil, et toi, qui dans cette contrée [16]  
+Ne te couvriront pas de ses vaisseaux brisés ?   [17]
+Et toi, Soleil, et toi, qui dans cette contrée  
 Reconnais l'héritier, et le vrai fils d'Atrée,  
 Toi, qui n'osas du père éclairer le festin,  
 Recule, ils t'ont appris ce funeste chemin.  
@@ -2447,8 +2447,8 @@ C'est lui. Ma fille est morte, Arcas, il n'est plus temps.
 ## SCÈNE DERNIÈRE. Ulysse, Arcas, AEgine, Gardes.
 
     ULYSSE.
-Non, votre fille vit, et les dieux sont contents.  
-Rassurez-vous. Le ciel a voulu vous la rendre. [17]  
+Non, votre fille vit, et les dieux sont contents.   [18]
+Rassurez-vous. Le ciel a voulu vous la rendre.  
 
     CLYTEMNESTRE.
 Elle vit ! Et c'est vous qui venez me l'apprendre !  
@@ -2670,20 +2670,22 @@ Mais quelle apparence de donner les mains à une passion qui le déshonore ? All
 
 [8] Variante éd. 1675 et 1676 : v.491, "mes faibles yeux" au lieu de "mes tristes yeux".
 
-[9] Thétis : Néréïdes (fille de Nérée) et mère d'Achille.
+[9] Variante éd. 1677 à 1687 : v.529, "Et que pour votre vie" au lieu de "Et que la tyrannie".
 
-[10] Variante éd. 1675 : v.936, "la conduit à la mort" au lieu de "l'a conduite à la mort".
+[10] Thétis : Néréïdes (fille de Nérée) et mère d'Achille.
 
-[11] Variante éd. antérieures à 1697 : suivant le v.1035, "Quel trouble ! Quel torrent de mots injurieux//Accusait à la fois les hommes et les dieux !// Ah ! Que vous auriez-vu, sans que je vous le die,// De combien votre amour m'est plus cher que la vie".
+[11] Variante éd. 1675 : v.936, "la conduit à la mort" au lieu de "l'a conduite à la mort".
 
-[12] Atrides : nom donné aux descendants d'Atrée, spécialement à ses deux petits-fils, Agamemnon et Ménélas. B 
+[12] Variante éd. antérieures à 1697 : suivant le v.1035, "Quel trouble ! Quel torrent de mots injurieux//Accusait à la fois les hommes et les dieux !// Ah ! Que vous auriez-vu, sans que je vous le die,// De combien votre amour m'est plus cher que la vie".
 
-[13] Variante éd. 1675 à 1687 : v.1339, "Vous croyez" au lieu de "Vous pensez".
+[13] Atrides : nom donné aux descendants d'Atrée, spécialement à ses deux petits-fils, Agamemnon et Ménélas. B 
 
-[14] Variante éd. 1675 à 1687 : v.1615, "vous nous commandiez" au lieu de "vous me commandiez".
+[14] Variante éd. 1675 à 1687 : v.1339, "Vous croyez" au lieu de "Vous pensez".
 
-[15] Variante éd. 1675 à 1687 : v.1618, "qui pourra vous" au lieu de "qui vous pourra".
+[15] Variante éd. 1675 à 1687 : v.1615, "vous nous commandiez" au lieu de "vous me commandiez".
 
-[16] Variante éd. 1675 à 1687 : v.1685, "de ces vaisseaux" au lieu de "de ses vaisseaux".
+[16] Variante éd. 1675 à 1687 : v.1618, "qui pourra vous" au lieu de "qui vous pourra".
 
-[17] Variante éd. 1675 à 1687 : v.1716, "Madame, elle vit," au lieu de "votre fille vit,".
+[17] Variante éd. 1675 à 1687 : v.1685, "de ces vaisseaux" au lieu de "de ses vaisseaux".
+
+[18] Variante éd. 1675 à 1687 : v.1716, "Madame, elle vit," au lieu de "votre fille vit,".

@@ -223,8 +223,8 @@ Je vous veux faire voir sa fortune éclatante.
 Les novices de l'art, avec tous leurs encens,  
 Et leurs mots inconnus, qu'ils feignent tout-puissants,  
 Leurs herbes, leurs parfums et leurs cérémonies,  
-Apportent au métier des longueurs infinies,  
-Qui ne sont, après tout, qu'un mystère pipeur [1]  
+Apportent au métier des longueurs infinies,   [1]
+Qui ne sont, après tout, qu'un mystère pipeur  
 Pour se faire valoir et pour vous faire peur :  
 Ma baguette à la main, j'en ferai davantage.  
 Il donne un coup de baguette, et on tire un rideau derrière lequel sont en parade les plus beaux habits des comédiens.
@@ -302,8 +302,8 @@ Enrichit les chanteurs de la Samaritaine.
 Son style prit après de plus beaux ornements ;  
 Il se hasarda même à faire des romans,  
 Des chansons pour Gautier, des pointes pour Guillaume.  
-Depuis, il trafiqua de chapelets de baume,  
-Vendit du Mithridate en maître opérateur, [2]  
+Depuis, il trafiqua de chapelets de baume,   [2]
+Vendit du Mithridate en maître opérateur,  
 Revint dans le Palais, et fut solliciteur.  
 Enfin, jamais Buscon, Lazarille de Tormes,  
 Sayavèdre, et Gusman, ne prirent tant de formes :  
@@ -387,8 +387,8 @@ Tu crois donc que ce bras ne soit pas assez fort ?
 Le seul bruit de mon nom renverse les murailles,  
 Défait les escadrons, et gagne les batailles.  
 Mon courage invaincu contre les empereurs  
-N'arme que la moitié de ses moindres fureurs ;  
-D'un seul commandement que je fais aux trois parques, [3]  
+N'arme que la moitié de ses moindres fureurs ;   [3]
+D'un seul commandement que je fais aux trois parques,  
 Je dépeuple l'état des plus heureux monarques ;  
 Le foudre est mon canon, les destins mes soldats :  
 Je couche d'un revers mille ennemis à bas.  
@@ -445,8 +445,8 @@ La frayeur qu'il en eut le fit bientôt résoudre :
 Ce que je demandais fut prêt en un moment ;  
 Et depuis, je suis beau quand je veux seulement.  
 
-    CLINDOR.
-Que j'aurais, sans cela, de poulets à vous rendre ! [4]  
+    CLINDOR. [4]
+Que j'aurais, sans cela, de poulets à vous rendre !  
 
     MATAMORE.
 De quelle que ce soit, garde-toi bien d'en prendre,  
@@ -1019,8 +1019,8 @@ Je ne suis que servante : et qu'est-il que valet ?
 Si son visage est beau, le mien n'est pas trop laid :  
 Il se dit riche et noble, et cela me fait rire ;  
 Si loin de son pays, qui n'en peut autant dire ?  
-Qu'il le soit : nous verrons ce soir, si je le tiens,  
-Danser sous le cotret sa noblesse et ses biens. [5]  
+Qu'il le soit : nous verrons ce soir, si je le tiens,   [5]
+Danser sous le cotret sa noblesse et ses biens.  
 
 
 ## SCÈNE X. Alcandre, Pridamant.
@@ -1240,8 +1240,8 @@ Ce fer a trop de quoi dompter leur violence.
 
     MATAMORE.
 Oui, mais les feux qu'il jette en sortant de prison  
-Auraient en un moment embrasé la maison,  
-Dévoré tout à l'heure ardoises et gouttières, [6]  
+Auraient en un moment embrasé la maison,   [6]
+Dévoré tout à l'heure ardoises et gouttières,  
 Faîtes, lattes, chevrons, montants, courbes, filières,  
 Entretoises, sommiers, colonnes, soliveaux,  
 Pannes, soles, appuis, jambages, traveteaux,  
@@ -1292,8 +1292,8 @@ Qui serait le brutal qui ne t'aimerait pas ?
 De grâce, et depuis quand me trouvez-vous si belle ?  
 Voyez bien, je suis Lyse, et non pas Isabelle.  
 
-    CLINDOR.
-Vous partagez vous deux mes inclinations : [7]  
+    CLINDOR. [7]
+Vous partagez vous deux mes inclinations :  
 J'adore sa fortune, et tes perfections.  
 
     LYSE.
@@ -2012,11 +2012,11 @@ Quatre jours.
     ISABELLE.
     Et vécu ?  
 
-    MATAMORE.
-        De nectar, d'ambrosie. [8]  
+    MATAMORE. [8]
+        De nectar, d'ambrosie.  
 
-    LYSE.
-Je crois que cette viande aisément rassasie ? [9]  
+    LYSE. [9]
+Je crois que cette viande aisément rassasie ?  
 
     MATAMORE.
 Aucunement.  
@@ -2717,8 +2717,8 @@ Voyez si pas un d'eux s'y montre négligent.
 
     PRIDAMANT.
 Je vois Clindor ! Ah dieux ! Quelle étrange surprise !  
-Je vois ses assassins, je vois sa femme et Lyse !  
-Quel charme en un moment étouffe leurs discords, [10]  
+Je vois ses assassins, je vois sa femme et Lyse !   [10]
+Quel charme en un moment étouffe leurs discords,  
 Pour assembler ainsi les vivants et les morts ?  
 
     ALCANDRE.

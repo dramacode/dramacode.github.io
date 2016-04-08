@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1697
+**** *book_ *id_I01 *act_I *date_1664 *creator_racine
 
 -*who_jocaste
 Ils sont sortis, Olympe ? Ah mortelles douleurs !
@@ -43,7 +43,7 @@ S'ils sont tous deux méchants, et s'ils sont parricides ;
 Tu sais qu'ils sont sortis d'un sang incestueux,
 Et tu t'étonnerais s'ils étaient vertueux.
 
-**** *book_ *id_I02 *act_I *date_1697
+**** *book_ *id_I02 *act_I *date_1664 *creator_racine
 
 -*who_jocaste
 Ma fille avez-vous su l'excès de nos misères ?
@@ -62,7 +62,7 @@ Répandre notre sang pour attaquer le leur.
 -*who_antigone
 Madame, c'en est fait, voici le roi lui-même.
 
-**** *book_ *id_I03 *act_I *date_1697
+**** *book_ *id_I03 *act_I *date_1664 *creator_racine
 
 -*who_jocaste
 Olympe, soutiens-moi, ma douleur est extrême.
@@ -217,7 +217,7 @@ Mais qu'il se rende enfin si le peuple le chasse,
 Je ne force personne, et j'engage ma foi
 De laisser aux Thébains à se choisir un roi.
 
-**** *book_ *id_I04 *act_I *date_1697
+**** *book_ *id_I04 *act_I *date_1664 *creator_racine
 
 -*who_creon
 Seigneur, votre sortie a mis tout en alarmes ;
@@ -253,7 +253,7 @@ Et vous quittez ainsi la puissance absolue ?
 Que je la quitte ou non ne vous tourmentez pas ;
 Faites ce que j'ordonne, et venez sur mes pas.
 
-**** *book_ *id_I05 *act_I *date_1697
+**** *book_ *id_I05 *act_I *date_1664 *creator_racine
 
 -*who_creon
 Qu'avez-vous fait, Madame, et par quelle conduite
@@ -423,7 +423,7 @@ Adieu, faites venir Hémon et Polynice.
 N'en doute pas, méchant, ils vont venir tous deux,
 Tous deux ils préviendront tes desseins malheureux.
 
-**** *book_ *id_I06 *act_I *date_1697
+**** *book_ *id_I06 *act_I *date_1664 *creator_racine
 
 -*who_antigone
 Le perfide, à quel point son insolence monte !
@@ -447,7 +447,7 @@ Et si tu prends pitié d'une flamme innocente,
 Ramène-le fidèle, et permets en ce jour,
 Qu'en retrouvant l'amant je retrouve l'amour.
 
-**** *book_ *id_II01 *act_II *date_1697
+**** *book_ *id_II01 *act_II *date_1664 *creator_racine
 
 -*who_hemon
 Quoi, vous me refusez votre aimable présence,
@@ -546,7 +546,7 @@ Je les connais tous deux, et je répondrais bien
 Que leur coeur, cher Hémon, est plus dur que le mien.
 Mais les Dieux quelquefois font de plus grands miracles.
 
-**** *book_ *id_II02 *act_II *date_1697
+**** *book_ *id_II02 *act_II *date_1664 *creator_racine
 
 -*who_antigone
 Hé bien apprendrons-nous ce qu'ont dit les oracles ?
@@ -636,7 +636,7 @@ Mon désespoir ferait ce qu'ils ne feraient pas.
 Mais peut-être après tout notre frayeur est vaine,
 Attendons... Mais voici Polynice et la reine.
 
-**** *book_ *id_II03 *act_II *date_1697
+**** *book_ *id_II03 *act_II *date_1664 *creator_racine
 
 -*who_polynice
 Madame, au nom des Dieux, cessez de m'arrêter.
@@ -786,7 +786,7 @@ Vous aurez satisfait une mère, une soeur,
 Et vous aurez surtout satisfait votre honneur.
 Mais que veut ce soldat ? Son âme est toute émue.
 
-**** *book_ *id_II04 *act_II *date_1697
+**** *book_ *id_II04 *act_II *date_1664 *creator_racine
 
 -*who_gardes
 Seigneur, on est aux mains, et la trêve est rompue,
@@ -809,7 +809,7 @@ Du moins allez prier Hémon qu'il les sépare.
 La force m'abandonne, et je n'y puis courir,
 Tout ce que je puis faire, hélas ! c'est de mourir.
 
-**** *book_ *id_III01 *act_III *date_1697
+**** *book_ *id_III01 *act_III *date_1664 *creator_racine
 
 -*who_jocaste
 Olympe, va-t-en voir ce funeste spectacle.
@@ -833,7 +833,7 @@ Mais vous dois-je laisser en cette solitude ?
 Va, je veux être seule en l'état où je suis,
 Si toutefois on peut l'être avec tant d'ennuis.
 
-**** *book_ *id_III02 *act_III *date_1697
+**** *book_ *id_III02 *act_III *date_1664 *creator_racine
 
 -*who_jocaste
 Dureront-ils toujours ces ennuis si funestes ?
@@ -861,7 +861,7 @@ Afin d'en faire après d'illustres misérables ?
 Et ne peuvent-ils point quand ils sont en courroux,
 Chercher des criminels à qui le crime est doux ?
 
-**** *book_ *id_III03 *act_III *date_1697
+**** *book_ *id_III03 *act_III *date_1664 *creator_racine
 
 -*who_jocaste
 Hé bien en est-ce fait ? L'un ou l'autre perfide
@@ -971,7 +971,7 @@ De deux jeunes héros cet infidèle père...
 -*who_antigone
 Ah ! le voici, Madame, avec le roi mon frère.
 
-**** *book_ *id_III04 *act_III *date_1697
+**** *book_ *id_III04 *act_III *date_1664 *creator_racine
 
 -*who_jocaste
 Mon fils, c'est donc ainsi que l'on garde sa foi ?
@@ -1087,7 +1087,7 @@ Vous ne l'ignorez pas, Polynice veut l'être ;
 Il demande surtout le pouvoir souverain,
 Et ne veut revenir que le sceptre à la main.
 
-**** *book_ *id_III05 *act_III *date_1697
+**** *book_ *id_III05 *act_III *date_1664 *creator_racine
 
 -*who_attale
 Polynice, Seigneur, demande une entrevue ;
@@ -1139,7 +1139,7 @@ Allons.
       Ah ! si ce jour rend la paix aux Thébains,
 Elle sera, Créon, l'ouvrage de vos mains.
 
-**** *book_ *id_III06 *act_III *date_1697
+**** *book_ *id_III06 *act_III *date_1664 *creator_racine
 
 -*who_creon
 L'intérêt des Thébains n'est pas ce qui vous touche,
@@ -1247,7 +1247,7 @@ Et je n'ai plus un coeur que le crime effarouche.
 Tous les premiers forfaits coûtent quelques efforts,
 Mais, Attale, on commet les seconds sans remords.
 
-**** *book_ *id_IV01 *act_IV *date_1697
+**** *book_ *id_IV01 *act_IV *date_1664 *creator_racine
 
 -*who_eteocle
 Oui, Créon, c'est ici qu'il doit bientôt se rendre,
@@ -1320,7 +1320,7 @@ Cependant écoutez le prince votre frère,
 Et s'il se peut, Seigneur, cachez votre colère.
 Feignez... Mais quelqu'un vient.
 
-**** *book_ *id_IV02 *act_IV *date_1697
+**** *book_ *id_IV02 *act_IV *date_1664 *creator_racine
 
 -*who_eteocle
       Sont-ils bien près d'ici ?
@@ -1339,7 +1339,7 @@ Qu'on hait un ennemi quand il est près de nous !
 Ah ! le voici. Fortune achève mon ouvrage,
 Et livre-les tous deux aux transports de leur rage.
 
-**** *book_ *id_IV03 *act_IV *date_1697
+**** *book_ *id_IV03 *act_IV *date_1664 *creator_racine
 
 -*who_jocaste
 Me voici donc tantôt au comble de mes voeux,
@@ -1673,7 +1673,7 @@ Si la vertu vous plaît, si vous m'aimez encore,
 Et qu'on puisse arrêter leurs parricides mains,
 Hélas ! pour me sauver, sauvez ces inhumains.
 
-**** *book_ *id_V01 *act_V *date_1697
+**** *book_ *id_V01 *act_V *date_1664 *creator_racine
 
 -*who_antigone
 
@@ -1713,7 +1713,7 @@ Et je veux bien vivre pour toi.
 Si jamais tu doutas de ma flamme fidèle...
 Mais voici du combat la funeste nouvelle.
 
-**** *book_ *id_V02 *act_V *date_1697
+**** *book_ *id_V02 *act_V *date_1664 *creator_racine
 
 -*who_antigone
 Hé bien, ma chère Olympe, as-tu vu ce forfait ?
@@ -1771,7 +1771,7 @@ Créon vient.
 Au courroux du vainqueur la mort du roi l'expose.
 C'est de tous nos malheurs l'auteur pernicieux.
 
-**** *book_ *id_V03 *act_V *date_1697
+**** *book_ *id_V03 *act_V *date_1664 *creator_racine
 
 -*who_creon
 Madame, qu'ai-je appris en entrant dans ces lieux ?
@@ -1982,7 +1982,7 @@ Je suis prêt...
 -*who_antigone
 Attendez.
 
-**** *book_ *id_V04 *act_V *date_1697
+**** *book_ *id_V04 *act_V *date_1664 *creator_racine
 
 -*who_attale
       Son courroux serait-il adouci ?
@@ -2040,7 +2040,7 @@ Que... mais Olympe vient.
 -*who_attale
       Dieux ! elle est toute en larmes.
 
-**** *book_ *id_V05 *act_V *date_1697
+**** *book_ *id_V05 *act_V *date_1664 *creator_racine
 
 -*who_olympe
 Qu'attendez-vous, Seigneur ? La princesse n'est plus.
@@ -2065,7 +2065,7 @@ Et j'ai cru que mon âme allait suivre ses pas.
 Heureuse mille fois si ma douleur mortelle,
 Dans la nuit du tombeau, m'eût plongée avec elle !
 
-**** *book_ *id_V06 *act_V *date_1697
+**** *book_ *id_V06 *act_V *date_1664 *creator_racine
 
 -*who_creon
 Ainsi donc vous fuyez un amant odieux,

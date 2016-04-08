@@ -404,8 +404,8 @@ J'ose satisfaisant à ma commission,
 Me promettre l'honneur de son attention.  
 
     LE ROI LIT UN MOT, OU DEUX, ET PUIS DIT.
-Et vantons orgueilleux, les droits d'une Couronne,  
-Et le faux ascendant que son éclat nous donne ; [1]  
+Et vantons orgueilleux, les droits d'une Couronne,   [1]
+Et le faux ascendant que son éclat nous donne ;  
 Pourrais-je obtenir moins dessous un nom privé,  
 Quand ce grade éminent, où je suis élevé !  
 Une ingrate sujette à ce point me dédaigne !  

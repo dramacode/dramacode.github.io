@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1691
+**** *book_ *id_I01 *act_I *date_1691 *creator_racine
 
 -*who_abner
 Oui, je viens dans son Temple adorer l'Éternel.
@@ -193,7 +193,7 @@ L'illustre Josabet porte vers vous ses pas.
 Je sors, et vais me joindre à la troupe fidèle
 Qu'attire de ce jour la pompe solennelle.
 
-**** *book_ *id_I02 *act_I *date_1691
+**** *book_ *id_I02 *act_I *date_1691 *creator_racine
 
 -*who_joad
 Les temps sont accomplis, Princesse, il faut parler,
@@ -357,7 +357,7 @@ De la chute des rois funeste avant-coureur.
 L'heure me presse. Adieu. Des plus saintes familles
 Votre fils et sa soeur vous amènent les filles.
 
-**** *book_ *id_I03 *act_I *date_1691
+**** *book_ *id_I03 *act_I *date_1691 *creator_racine
 
 -*who_josabet
 Cher Zacharie, allez, ne vous arrêtez pas,
@@ -375,7 +375,7 @@ Et du Temple bientôt on permettra l'entrée.
 Tandis que je me vais préparer à marcher,
 Chantez, louez le Dieu que vous venez chercher.
 
-**** *book_ *id_I04 *act_I *date_1691
+**** *book_ *id_I04 *act_I *date_1691 *creator_racine
 
 -*who_choeur
 Tout l'univers est plein de sa magnificence.
@@ -469,7 +469,7 @@ Et ne l'aimer jamais ?
 Que de raisons, quelle douceur extrême
 D'engager à ce Dieu son amour et sa foi !
 
-**** *book_ *id_II01 *act_II *date_1691
+**** *book_ *id_II01 *act_II *date_1691 *creator_racine
 
 -*who_josabet
 Mes filles, c'est assez, suspendez vos cantiques.
@@ -477,7 +477,7 @@ Il est temps de nous joindre aux prières publiques.
 Voici notre heure. Allons célébrer ce grand jour,
 Et devant le Seigneur paraître à notre tour.
 
-**** *book_ *id_II02 *act_II *date_1691
+**** *book_ *id_II02 *act_II *date_1691 *creator_racine
 
 -*who_josabet
 Mais que vois-je ? mon fils, quel sujet vous ramène ?
@@ -570,7 +570,7 @@ Que craint-on d'un enfant sans support, et sans père ?
 -*who_josabet
 Ah ! la voici. Sortons. Il la faut éviter.
 
-**** *book_ *id_II03 *act_II *date_1691
+**** *book_ *id_II03 *act_II *date_1691 *creator_racine
 
 -*who_agar
 Madame, dans ces lieux, pourquoi vous arrêter ?
@@ -585,7 +585,7 @@ Va, fais dire à Mathan qu'il vienne, qu'il se presse.
 Heureuse, si je puis trouver par son secours
 Cette paix que je cherche, et qui me fuit toujours.
 
-**** *book_ *id_II04 *act_II *date_1691
+**** *book_ *id_II04 *act_II *date_1691 *creator_racine
 
 -*who_abner
 Madame, pardonnez si j'ose le défendre.
@@ -612,7 +612,7 @@ Abner a le coeur noble, et qu'il rend à la fois
 Ce qu'il doit à son Dieu, ce qu'il doit à ses rois.
 Demeurez.
 
-**** *book_ *id_II05 *act_II *date_1691
+**** *book_ *id_II05 *act_II *date_1691 *creator_racine
 
 -*who_mathan
       Grande Reine, est-ce ici votre place ?
@@ -794,7 +794,7 @@ Que Joad mette un frein à son zèle sauvage,
 Et ne m'irrite point par un second outrage.
 Allez.
 
-**** *book_ *id_II06 *act_II *date_1691
+**** *book_ *id_II06 *act_II *date_1691 *creator_racine
 
 -*who_mathan
       Enfin je puis parler en liberté.
@@ -817,7 +817,7 @@ Laissez-moi, cher Mathan, le voir, l'interroger.
 Vous cependant allez, et sans jeter d'alarmes,
 À tous mes Tyriens faites prendre les armes.
 
-**** *book_ *id_II07 *act_II *date_1691
+**** *book_ *id_II07 *act_II *date_1691 *creator_racine
 
 -*who_josabet
 Ô vous, sur ces enfants si chers, si précieux,
@@ -1096,7 +1096,7 @@ J'ai voulu voir, j'ai vu.
       Je vous l'avais promis,
 Je vous rends le dépôt que vous m'avez commis.
 
-**** *book_ *id_II08 *act_II *date_1691
+**** *book_ *id_II08 *act_II *date_1691 *creator_racine
 
 -*who_josabet
 Avez-vous entendu cette superbe reine,
@@ -1115,7 +1115,7 @@ A souillé les regards et troublé la prière,
 Rentrons, et qu'un sang pur par mes mains épanché
 Lave jusques au marbre où ses pas ont touché.
 
-**** *book_ *id_II09 *act_II *date_1691
+**** *book_ *id_II09 *act_II *date_1691 *creator_racine
 
 -*who_choeur
 Quel astre à nos yeux vient de luire ?
@@ -1247,7 +1247,7 @@ Que tu présenteras au jour de ta fureur
 Ô songe peu durable !
 Ô dangereuse erreur !
 
-**** *book_ *id_III01 *act_III *date_1691
+**** *book_ *id_III01 *act_III *date_1691 *creator_racine
 
 -*who_mathan
 Jeunes filles, allez. Qu'on dise à Josabet
@@ -1262,7 +1262,7 @@ Hé quoi ? Tout se disperse et fuit sans vous répondre ?
 -*who_mathan
 Approchons.
 
-**** *book_ *id_III02 *act_III *date_1691
+**** *book_ *id_III02 *act_III *date_1691 *creator_racine
 
 -*who_zacharie
       Téméraire, où voulez-vous passer ?
@@ -1279,7 +1279,7 @@ Mon fils, nous attendrons, cessez de vous troubler.
 C'est votre illustre mère à qui je veux parler.
 Je viens ici chargé d'un ordre de la reine.
 
-**** *book_ *id_III03 *act_III *date_1691
+**** *book_ *id_III03 *act_III *date_1691 *creator_racine
 
 -*who_nabal
 Leurs enfants ont déjà leur audace hautaine.
@@ -1397,7 +1397,7 @@ Et parmi le débris, le ravage, et les morts,
 À force d'attentats perdre tous mes remords.
 Mais voici Josabet.
 
-**** *book_ *id_III04 *act_III *date_1691
+**** *book_ *id_III04 *act_III *date_1691 *creator_racine
 
 -*who_mathan
       Envoyé par la reine
@@ -1481,7 +1481,7 @@ Vous, malheureux, assis dans la chaire empestée
 Où le mensonge règne et répand son poison,
 Vous, nourri dans la fourbe et dans la trahison ?
 
-**** *book_ *id_III05 *act_III *date_1691
+**** *book_ *id_III05 *act_III *date_1691 *creator_racine
 
 -*who_joad
 Où suis-je ? De Baal ne vois-je pas le prêtre ?
@@ -1524,7 +1524,7 @@ Doit... Mais sortons, Nabal.
 De vos sens étonnés, quel désordre s'empare ?
 Voilà votre chemin.
 
-**** *book_ *id_III06 *act_III *date_1691
+**** *book_ *id_III06 *act_III *date_1691 *creator_racine
 
 -*who_josabet
       L'orage se déclare.
@@ -1592,7 +1592,7 @@ Que du bandeau royal sa tête soit ornée.
 Je veux même avancer l'heure déterminée,
 Avant que de Mathan le complot soit formé.
 
-**** *book_ *id_III07 *act_III *date_1691
+**** *book_ *id_III07 *act_III *date_1691 *creator_racine
 
 -*who_joad
 Hé bien, Azarias, le Temple est-il fermé ?
@@ -1717,7 +1717,7 @@ Fit consacrer au Dieu qui l'avait protégé.
 Peut-on les employer pour un plus noble usage ?
 Venez, je veux moi-même en faire le partage.
 
-**** *book_ *id_III08 *act_III *date_1691
+**** *book_ *id_III08 *act_III *date_1691 *creator_racine
 
 -*who_salomith
 Que de craintes, mes soeurs, que de troubles mortels !
@@ -1811,7 +1811,7 @@ Sur la terre, dans le ciel même,
 Est-il d'autre bonheur que la tranquille paix
 D'un coeur qui t'aime ?
 
-**** *book_ *id_IV01 *act_IV *date_1691
+**** *book_ *id_IV01 *act_IV *date_1691 *creator_racine
 
 -*who_salomith
 D'un pas majestueux à côté de ma mère,
@@ -1857,7 +1857,7 @@ Hélas ! un fils n'a rien qui ne soit à son père.
 Voici qui vous dira les volontés des cieux.
 Ne craignez rien. Et nous, sortons tous de ces lieux.
 
-**** *book_ *id_IV02 *act_IV *date_1691
+**** *book_ *id_IV02 *act_IV *date_1691 *creator_racine
 
 -*who_joas
 Mon père !
@@ -1937,7 +1937,7 @@ Un peuple obéissant et prompt à vous venger.
 Entrez, généreux chefs des familles sacrées,
 Du ministère saint tour à tour honorées.
 
-**** *book_ *id_IV03 *act_IV *date_1691
+**** *book_ *id_IV03 *act_IV *date_1691 *creator_racine
 
 -*who_joad
 Roi, voilà vos vengeurs contre vos ennemis.
@@ -2070,7 +2070,7 @@ Mon Dieu, punissez-moi, si je vous abandonne.
 Venez, de l'huile sainte il faut vous consacrer.
 Paraissez, Josabet, vous pouvez vous montrer.
 
-**** *book_ *id_IV04 *act_IV *date_1691
+**** *book_ *id_IV04 *act_IV *date_1691 *creator_racine
 
 -*who_josabet
 Ô Roi, fils de David !
@@ -2106,7 +2106,7 @@ Quoi, c'est là...
 -*who_joad
       Écoutons ce lévite.
 
-**** *book_ *id_IV05 *act_IV *date_1691
+**** *book_ *id_IV05 *act_IV *date_1691 *creator_racine
 
 -*who_levites
 J'ignore contre Dieu quel projet on médite.
@@ -2157,7 +2157,7 @@ Suivez-le, Josabet. Vous,
       donnez-moi ces armes.
 Enfants, offrez à Dieu vos innocentes larmes.
 
-**** *book_ *id_IV06 *act_IV *date_1691
+**** *book_ *id_IV06 *act_IV *date_1691 *creator_racine
 
 -*who_choeur
 Partez, enfants d'Aaron, partez.
@@ -2228,7 +2228,7 @@ Courons, fuyons, retirons-nous
 À l'ombre salutaire
 Du redoutable sanctuaire.
 
-**** *book_ *id_V01 *act_V *date_1691
+**** *book_ *id_V01 *act_V *date_1691 *creator_racine
 
 -*who_salomith
 Cher Zacharie, hé bien ? Que nous apprenez-vous ?
@@ -2300,7 +2300,7 @@ Le Temple est-il forcé ?
       Dissipez vos alarmes.
 Dieu nous envoie Abner.
 
-**** *book_ *id_V02 *act_V *date_1691
+**** *book_ *id_V02 *act_V *date_1691 *creator_racine
 
 -*who_joad
       En croirai-je mes yeux,
@@ -2436,7 +2436,7 @@ Et je vous ferai juge entre Athalie et lui.
 Ah ! je le prends déjà, Seigneur, sous mon appui.
 Ne craignez rien. Je cours vers celle qui m'envoie.
 
-**** *book_ *id_V03 *act_V *date_1691
+**** *book_ *id_V03 *act_V *date_1691 *creator_racine
 
 -*who_joad
 Grand Dieu, voici ton heure, on t'amène ta proie.
@@ -2468,7 +2468,7 @@ Et faites retentir jusques à son oreille
 De Joas conservé l'étonnante merveille.
 Il vient.
 
-**** *book_ *id_V04 *act_V *date_1691
+**** *book_ *id_V04 *act_V *date_1691 *creator_racine
 
 -*who_joad
       Lévites saints, prêtres de notre Dieu,
@@ -2494,7 +2494,7 @@ Quoi ? Ne voyez-vous pas quelle nombreuse escorte...
 Je vois que du saint temple on referme la porte.
 Tout est en sûreté.
 
-**** *book_ *id_V05 *act_V *date_1691
+**** *book_ *id_V05 *act_V *date_1691 *creator_racine
 
 -*who_athalie
       Te voilà, séducteur,
@@ -2569,7 +2569,7 @@ Que mes armes encor vous tiennent assiégés.
 J'entends à haute voix tout mon camp qui m'appelle.
 On vient à mon secours. Tremblez, troupe rebelle.
 
-**** *book_ *id_V06 *act_V *date_1691
+**** *book_ *id_V06 *act_V *date_1691 *creator_racine
 
 -*who_ismael
 Seigneur, le Temple est libre, et n'a plus d'ennemis.
@@ -2630,7 +2630,7 @@ De leur sang par sa mort faire cesser les cris.
 Si quelque audacieux embrasse sa querelle,
 Qu'à la fureur du glaive on le livre avec elle.
 
-**** *book_ *id_V07 *act_V *date_1691
+**** *book_ *id_V07 *act_V *date_1691 *creator_racine
 
 -*who_joas
 Dieu, qui voyez mon trouble et mon affliction,
@@ -2648,7 +2648,7 @@ Nous rengager à lui par de nouveaux serments.
 Abner, auprès du roi reprenez votre place.
 Hé bien ? de cette impie a-t-on puni l'audace ?
 
-**** *book_ *id_V08 *act_V *date_1691
+**** *book_ *id_V08 *act_V *date_1691 *creator_racine
 
 -*who_levites
 Le fer a de sa vie expié les horreurs.

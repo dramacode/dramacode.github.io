@@ -243,8 +243,8 @@ Je lui dis mon amour, et j'en fus écouté,
 Et sans faire le vain, ma fortune fut-elle,  
 Qu'elle brûla pour moi, si je brûlai pour elle.  
 Je n'allongerai point ce récit malheureux,  
-Des services, des soins que rend un amoureux,  
-Il suffit que je fis tout ce qu'il faut pour plaire, [1]  
+Des services, des soins que rend un amoureux,   [1]
+Il suffit que je fis tout ce qu'il faut pour plaire,  
 Et comme les présents font à la fin tout faire,  
 Pour la première fois, en secret, et la nuit,  
 Je fus par sa suivante en sa chambre introduit.  
@@ -334,8 +334,8 @@ Tu le peux Don Carlos, tout est facile à faire.
 Dans les plus bas emplois je ne rougirai point,  
 Si je sers une Dame à qui le sang te joint.  
 Ne considère plus ma fortune passée ;  
-Du soin de mon salut détourne ta pensée.  
-Songe au tien : cours en Flandre exercer ta valeur, [2]  
+Du soin de mon salut détourne ta pensée.   [2]
+Songe au tien : cours en Flandre exercer ta valeur,  
 Et me laisses ici seule avec mon malheur.  
 Et vous en qui le Ciel me suscite un asile,  
 Telle qu'il m'a dépeinte, il est bien difficile,  
@@ -360,8 +360,8 @@ Que j'opposai toujours à sa témérité ;
 Mais pour peu qu'on déplaise, on en est moins croyable.  
 
     DON CARLOS.
-Vous êtes l'innocence, et je suis le coupable.  
-On ne peut trop blâmer mon procédé jaloux ; [3]  
+Vous êtes l'innocence, et je suis le coupable.   [3]
+On ne peut trop blâmer mon procédé jaloux ;  
 Mais l'honneur où l'on voit la moindre ombre paraître  
 S'il n'est déjà taché, n'est pas longtemps sans l'être.  
 
@@ -861,8 +861,8 @@ C'est jeter un peu d'eau dans un brasier ardent.
 Il me trahit l'ingrat, et me voit l'impudent !  
 Don Sanche ? Où venez-vous ? Et que pensez-vous faire ?  
 Et n'avez-vous point peur de rencontrer mon frère ?  
-Vous n'avez pas toujours vécu si bons amis,  
-Que vous me deviez voir, sans qu'il vous l'ait permis. [4]  
+Vous n'avez pas toujours vécu si bons amis,   [4]
+Que vous me deviez voir, sans qu'il vous l'ait permis.  
 
     DON SANCHE.
 Votre frère aurait droit d'y trouver à redire ;  
@@ -882,8 +882,8 @@ Ne m'a paru sans vous qu'un enfer de supplices ;
 Ce n'est pas que la Cour n'ait ce charmants appas ;  
 Mais je suis toujours triste, où je ne vous vois pas.  
 Combien de fois mes yeux ont-ils versé des larmes,  
-Dans un temps, où Madrid avait le plus de charmes ?  
-Combien de fois les bords du clair Mansanarets [5]  
+Dans un temps, où Madrid avait le plus de charmes ?   [5]
+Combien de fois les bords du clair Mansanarets  
 Ont-ils été témoins de mes tristes regrets ?  
 
     FLORE.
@@ -1224,8 +1224,8 @@ Il sait qu'elle est ici...
         Qui lui peut avoir dit ?  
 Alors que l'on saura le sujet qui l'amène,  
 Il sera temps assez de vous en mettre en peine :  
-Mais le voici déjà, cachez-vous mon cousin,  
-Ce Castillan paraît un vieillard fort mutin. [6]  
+Mais le voici déjà, cachez-vous mon cousin,   [6]
+Ce Castillan paraît un vieillard fort mutin.  
 
 
 ## SCÈNE III. Don Pedre, Don Louis.
@@ -1330,8 +1330,8 @@ Ce sera donc, Monsieur, pour cette seule fois.
 ## SCÈNE IV. Don Carlos, Fabrice.
 
     DON CARLOS SORTANT D'OÙ IL ÉTAIT CACHÉ.
-Heureusement pour nous le vieillard prend le change.  
-Ô Dieux ! Que dois-je faire en ce rencontre étrange ? [7]  
+Heureusement pour nous le vieillard prend le change.   [7]
+Ô Dieux ! Que dois-je faire en ce rencontre étrange ?  
 Dois-je pas m'éloigner d'une ingrate beauté ?  
 Dois-je l'abandonner en cette extrémité ?  
 Et me dois-je cacher ? Un ami m'en conjure,  
@@ -1339,8 +1339,8 @@ Un parent dont j'éprouve une amitié si pure.
 Comment donc accorder ces devoirs opposés,  
 Que l'amour et l'honneur rendent si malaisés ?  
 Fabrice, il faut aller avertir Léonore,  
-Que son père la cherche, il lui faut dire encore  
-Que sans lui dire adieu, j'ai parti ce matin, [8]  
+Que son père la cherche, il lui faut dire encore   [8]
+Que sans lui dire adieu, j'ai parti ce matin,  
 Et pour toi, que tu sers désormais mon Cousin.  
 
     FABRICE.
@@ -1355,8 +1355,8 @@ J'y vais ; mais quelqu'un vient, cachez-vous.
     LÉONORE.
 Madame.  
 
-    FLORE.
-        Achevez donc de remplir ma dentelle. [9]  
+    FLORE. [9]
+        Achevez donc de remplir ma dentelle.  
 
     LÉONORE.
 Elle est toute remplie à quelque chose près :  
@@ -1651,8 +1651,8 @@ Tu te livres toi-même à ma juste vengeance.
 
     DON LOUIS.
 Mon Cousin, laissez-moi punir son insolence.  
-Fabrice entre et veut frapper Don Sanche.  
-Point de quartier, main basse. [10]  
+Fabrice entre et veut frapper Don Sanche.   [10]
+Point de quartier, main basse.  
 
     MARINE L'ARRÊTE.
         Arrête malheureux.  
@@ -2219,8 +2219,8 @@ Et des pieds et des mains.
 
 ## SCÈNE V. Marine, Flore, Don Pedre.
 
-    MARINE.
-        Ce Cavalier grison, [11]  
+    MARINE. [11]
+        Ce Cavalier grison,  
 Veut-il à coups de pied démolir la maison ?  
 Flore entre.
 
@@ -2266,8 +2266,8 @@ Madame, encore un coup faites-moi la donc rendre.
     FLORE.
 Ha mon frère ? Approchez, et nous venez défendre,  
 Don Louis entre.
-
-Ce colère vieillard qu'on ne peut apaiser, [12]  
+ [12]
+Ce colère vieillard qu'on ne peut apaiser,  
 Ne veut pas moins chez vous que les portes briser.  
 
 
@@ -2752,8 +2752,8 @@ Soyez seule pour moi, je suffis contre eux tous.
 
     CARDILLE.
 Ce frère ingénieux à surprendre le monde,  
-En qui de l'Univers toute la bile abonde,  
-Vient avec Don Pedre qui lui sert de recors [13]  
+En qui de l'Univers toute la bile abonde,   [13]
+Vient avec Don Pedre qui lui sert de recors  
 C'est à vous à songer au salut de nos Corps.  
 
     FLORE.
@@ -3096,9 +3096,9 @@ Hé de grâce, oublions ces tristes aventures.
 Soyez au moins d'accord, vous et votre rival,  
 Qu'une fausse apparence est un dangereux mal.  
 
-    CARDILLE SE BATTANT TOUT SEUL.
-Je pare, et tout d'un temps faisant feinte à la vue, [14]  
-Je lâche le pied droit, et donne une venue. [15]  
+    CARDILLE SE BATTANT TOUT SEUL. [14]
+Je pare, et tout d'un temps faisant feinte à la vue,   [15]
+Je lâche le pied droit, et donne une venue.  
 
     MARINE.
 Et contre qui, grand fou, te sers-tu de ton bras ?  
@@ -3109,10 +3109,10 @@ Et grand'folle, dis moi, ne nous battons nous pas ?
     MARINE.
 Non grand fou, mais ma foi l'on te devrait bien battre,  
 
-    CARDILLE.
-Lorsque j'ai dégainé, je fais le diable à quatre, [16]  
-Ces rivaux m'ont rendu de si mauvaise humeur,  
-Qu'il faut absolument que je fasse rumeur, [17]  
+    CARDILLE. [16]
+Lorsque j'ai dégainé, je fais le diable à quatre,  
+Ces rivaux m'ont rendu de si mauvaise humeur,   [17]
+Qu'il faut absolument que je fasse rumeur,  
 Si nous n'allons tous deux conjoints pour l'hyménée  
 Grossir de ces amants la troupe fortunée.  
 

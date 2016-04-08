@@ -1180,7 +1180,7 @@ Nous n'avons pas non plus accordé une mise en page particulière pour le change
 
 En outre, cette seconde édition corrige un certain nombre de coquilles de la première édition.
 
-Afin de faciliter la lecture de cette double édition, nous avons choisi, en accord avec Amélie Canu, ingénieur d'étude au CELLF 16-18 (Centre d'études de la langue et des littératures françaises du XVI*e* au XVIII*e* siècle), de n'établir qu'un seul fichier, regroupant les deux éditions. C'est pourquoi il existe une unique page de titre - où nous avons précisé entre crochets les éléments concernant la seconde édition (1802) - et une table des matières comportant tout d'abord les actes et scènes de l'édition de 1788, puis ceux de 1802, la date étant là encore indiquée entre crochets.
+Afin de faciliter la lecture de cette double édition, nous avons choisi, en accord avec Amélie Canu, ingénieur d'étude au CELLF 16-18 (Centre d'études de la langue et des littératures françaises du XVI*e* au XVIII*e* siècle), de n'établir qu'un seul fichier, regroupant les deux éditions. C'est pourquoi il existe une unique page de titre - où nous avons précisé entre crochets les éléments concernant la seconde édition (1802) - et une table des matières comportant tout d'abord les actes et scènes de l'édition de 1788, puis ceux de 1802, la date étant là encore indiquée entre crochets.
 
 
 # LA MORT DE *MOLIERE*, PIÈCE EN TROIS ACTES, EN VERS, PIECE HISTORIQUE, EN QUATRE ACTES EN VERS, ET A SPECTACLE ;

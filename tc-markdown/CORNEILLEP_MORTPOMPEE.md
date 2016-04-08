@@ -888,8 +888,8 @@ Quel projet faisait-il dont vous pussiez vous plaindre ?
 
     CLÉOPÂTRE
 J'en ai souffert beaucoup, et j'avais plus à craindre :  
-Un si grand politique est capable de tout ;  
-Et vous donnez les mains à tout ce qu'il résout. [1]  
+Un si grand politique est capable de tout ;   [1]
+Et vous donnez les mains à tout ce qu'il résout.  
 
     PTOLÉMÉE
 Si je suis ses conseils, j'en connais la prudence.  

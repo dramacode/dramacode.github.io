@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_BRITANNICUS  
-creator: RACINE, Jean  
-date: 1670  
+creator: Racine, Jean  
+date: 1669  
 title: BRITANNICUS, TRAGÉDIE  
 ---
 
@@ -115,8 +115,8 @@ Madame, retournez dans votre appartement.
 Albine, il ne faut pas s'éloigner un moment.  
 Je veux l'attendre ici. Les chagrins qu'il me cause  
 M'occuperont assez tout le temps qu'il repose.  
-Tout ce que j'ai prédit n'est que trop assuré.  
-Contre Britannicus Néron s'est déclaré. [2] [3]  
+Tout ce que j'ai prédit n'est que trop assuré.   [2] [3]
+Contre Britannicus Néron s'est déclaré.  
 L'impatient Néron cesse de se contraindre,  
 Las de se faire aimer il veut se faire craindre.  
 Britannicus le gêne, Albine, et chaque jour  
@@ -1055,12 +1055,12 @@ Songiez-vous aux douleurs que vous m'alliez coûter ?
 Vous ne me dites rien ? Quel accueil ! Quelle glace !  
 Est-ce ainsi que vos yeux consolent ma disgrâce ?  
 Parlez. Nous sommes seuls. Notre ennemi trompé  
-Tandis que je vous parle est ailleurs occupé.  
-Ménageons les moments de cette heureuse absence. [4]  
+Tandis que je vous parle est ailleurs occupé.   [4]
+Ménageons les moments de cette heureuse absence.  
 
     JUNIE.
-Vous êtes en des lieux tout pleins de sa puissance.  
-Ces murs mêmes, Seigneur, peuvent avoir des yeux, [5]  
+Vous êtes en des lieux tout pleins de sa puissance.   [5]
+Ces murs mêmes, Seigneur, peuvent avoir des yeux,  
 Et jamais l'empereur n'est absent de ces lieux.  
 
     BRITANNICUS.

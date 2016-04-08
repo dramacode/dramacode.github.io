@@ -774,7 +774,7 @@ Aprés [85] le Chœur, le Palais s'en retourne d'où il est venu ; le tourbillo
 Fin du Prologue. 
 
 
-## Acteursde la tragédie.
+## Acteurs de la tragédie.
  – CREON,Roy de Corinthe.
  – CREUSE,Fille de Creon.
  – MEDEE,Princesse de Colchos.
@@ -788,7 +788,7 @@ Fin du Prologue.
  – Un petit Argien, déguisé en Amour.
  – Troupe de Captifs de l'Amour.
  – Troupe de Demons.
- – Phantomes< Medée,tragedie. >
+ – Phantomes< Medée, tragedie. >
 
 
 ## Acte premier.

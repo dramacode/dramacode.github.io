@@ -96,8 +96,8 @@ Ce qui te fait juger qu'il approuve mon choix :
 Apprends-moi de nouveau quel espoir j'en dois prendre ;  
 Un si charmant discours ne se peut trop entendre ;  
 Tu ne peux trop promettre aux feux de notre amour  
-La douce liberté de se montrer au jour.  
-Que t'a-t-il répondu sur la secrète brigue [2]  
+La douce liberté de se montrer au jour.   [2]
+Que t'a-t-il répondu sur la secrète brigue  
 Que font auprès de toi Don Sanche et Don Rodrigue ?  
 N'as-tu point trop fait voir quelle inégalité  
 Entre ces deux amants me penche d'un côté ?  
@@ -120,8 +120,8 @@ Qui d'un homme de coeur ne soit la haute image,
 Et sort d'une maison si féconde en guerriers,  
 Qu'ils y prennent naissance au milieu des lauriers.  
 La valeur de son père, en son temps sans pareille,  
-Tant qu'a duré sa force, a passé pour merveille ;  
-Ses rides sur son front ont gravé ses exploits, [3]  
+Tant qu'a duré sa force, a passé pour merveille ;   [3]
+Ses rides sur son front ont gravé ses exploits,  
 Et nous disent encor ce qu'il fut autrefois.  
 Je me promets du fils ce que j'ai vu du père ;  
 Et ma fille, en un mot, peut l'aimer et me plaire. »  
@@ -341,8 +341,8 @@ Un prince dans un livre apprend mal son devoir.
 Et qu'a fait après tout ce grand nombre d'années,  
 Que ne puisse égaler une de mes journées ?  
 Si vous fûtes vaillant, je le suis aujourd'hui,  
-Et ce bras du royaume est le plus ferme appui.  
-Grenade et l'Aragon tremblent quand ce fer brille ; [4] [5]  
+Et ce bras du royaume est le plus ferme appui.   [4] [5]
+Grenade et l'Aragon tremblent quand ce fer brille ;  
 Mon nom sert de rempart à toute la Castille :  
 Sans moi, vous passeriez bientôt sous d'autres lois,  
 Et vous auriez bientôt vos ennemis pour rois.  
@@ -565,7 +565,7 @@ Endurer que l'Espagne impute à ma mémoire
 D'avoir mal soutenu l'honneur de ma maison !  
 Respecter un amour dont mon âme égarée  
 Voit la perte assurée !   [6]
-N'écoutons plus ce penser suborneur, [7]  
+N'écoutons plus ce penser suborneur,  
 Qui ne sert qu'à ma peine.  
 Allons, mon bras, sauvons du moins l'honneur,  
 Puisqu'après tout il faut perdre Chimène.  
@@ -597,8 +597,8 @@ Qu'aux volontés du roi ce grand courage cède :
 Il y prend grande part, et son coeur irrité  
 Agira contre vous de pleine autorité.  
 Aussi vous n'avez point de valable défense :  
-Le rang de l'offensé, la grandeur de l'offense,  
-Demandent des devoirs et des submissions [8]  
+Le rang de l'offensé, la grandeur de l'offense,   [7]
+Demandent des devoirs et des submissions  
 Qui passent le commun des satisfactions.  
 
     LE COMTE.
@@ -660,9 +660,9 @@ Mais songez que les rois veulent être absolus.
     LE COMTE.
 Le sort en est jeté, Monsieur, n'en parlons plus.  
 
-    DON ARIAS.
-Adieu donc, puisqu'en vain je tâche à vous résoudre : [9]  
-Avec tous vos lauriers, craignez encor le foudre. [10]  
+    DON ARIAS. [8]
+Adieu donc, puisqu'en vain je tâche à vous résoudre :   [9]
+Avec tous vos lauriers, craignez encor le foudre.  
 
     LE COMTE.
 Je l'attendrai sans peur.  
@@ -732,8 +732,8 @@ Sais-tu bien qui je suis ?
 
     DON RODRIGUE.
         Oui ; tout autre que moi  
-Au seul bruit de ton nom pourrait trembler d'effroi.  
-Les palmes dont je vois ta tête si couverte [11]  
+Au seul bruit de ton nom pourrait trembler d'effroi.   [10]
+Les palmes dont je vois ta tête si couverte  
 Semblent porter écrit le destin de ma perte.  
 J'attaque en téméraire un bras toujours vainqueur ;  
 Mais j'aurai trop de force, ayant assez de coeur.  
@@ -746,8 +746,8 @@ Par tes yeux, chaque jour, se découvrait aux miens ;
 Et croyant voir en toi l'honneur de la Castille,  
 Mon âme avec plaisir te destinait ma fille.  
 Je sais ta passion, et suis ravi de voir  
-Que tous ses mouvements cèdent à ton devoir ;  
-Qu'ils n'ont point affaibli cette ardeur magnanime ; [12]  
+Que tous ses mouvements cèdent à ton devoir ;   [11]
+Qu'ils n'ont point affaibli cette ardeur magnanime ;  
 Que ta haute vertu répond à mon estime ;  
 Et que voulant pour gendre un cavalier parfait,  
 Je ne me trompais point au choix que j'avais fait ;  
@@ -791,8 +791,8 @@ Ton bonheur n'est couvert que d'un peu de nuage,
 Et tu n'as rien perdu pour le voir différer.  
 
     CHIMÈNE.
-Mon coeur outré d'ennuis n'ose rien espérer.  
-Un orage si prompt qui trouble une bonace [13]  
+Mon coeur outré d'ennuis n'ose rien espérer.   [12]
+Un orage si prompt qui trouble une bonace  
 D'un naufrage certain nous porte la menace :  
 Je n'en saurais douter, je péris dans le port.  
 J'aimais, j'étais aimée, et nos pères d'accord ;  
@@ -824,12 +824,12 @@ Nourrit des feux cachés, mais d'autant plus ardents.
     L'INFANTE.
 Le saint noeud qui joindra Don Rodrigue et Chimène  
 Des pères ennemis dissipera la haine ;  
-Et nous verrons bientôt votre amour le plus fort  
-Par un heureux hymen étouffer ce discord. [14]  
+Et nous verrons bientôt votre amour le plus fort   [13]
+Par un heureux hymen étouffer ce discord.  
 
     CHIMÈNE.
-Je le souhaite ainsi plus que je ne l'espère :  
-Don Diègue est trop altier, et je connais mon père. [15]  
+Je le souhaite ainsi plus que je ne l'espère :   [14]
+Don Diègue est trop altier, et je connais mon père.  
 Je sens couler des pleurs que je veux retenir ;  
 Le passé me tourmente, et je crains l'avenir.  
 
@@ -945,8 +945,8 @@ Que ne fera-t-il point, s'il peut vaincre le Comte ?
 J'ose m'imaginer qu'à ses moindres exploits  
 Les royaumes entiers tomberont sous ses lois ;  
 Et mon amour flatteur déjà me persuade  
-Que je le vois assis au trône de Grenade,  
-Les Mores subjugués trembler en l'adorant, [16]  
+Que je le vois assis au trône de Grenade,   [15]
+Les Mores subjugués trembler en l'adorant,  
 L'Aragon recevoir ce nouveau conquérant,  
 Le Portugal se rendre, et ses nobles journées  
 Porter delà les mers ses hautes destinées,  
@@ -1032,8 +1032,8 @@ Attendant qu'il l'ait su, voici qui répondra.
     DON FERNAND.
 Vous perdez le respect ; mais je pardonne à l'âge,  
 Et j'excuse l'ardeur en un jeune courage.  
-Un roi dont la prudence a de meilleurs objets  
-Est meilleur ménager du sang de ses sujets : [17]  
+Un roi dont la prudence a de meilleurs objets   [16]
+Est meilleur ménager du sang de ses sujets :  
 Je veille pour les miens, mes soucis les conservent,  
 Comme le chef a soin des membres qui le servent.  
 Ainsi votre raison n'est pas raison pour moi :  
@@ -1071,8 +1071,8 @@ Vous n'avez rien à craindre.
     DON FERNAND.
         Et rien à négliger :  
 Le trop de confiance attire le danger ;  
-Et vous n'ignorez pas qu'avec fort peu de peine  
-Un flux de pleine mer jusqu'ici les amène. [18]  
+Et vous n'ignorez pas qu'avec fort peu de peine   [17]
+Un flux de pleine mer jusqu'ici les amène.  
 Toutefois j'aurais tort de jeter dans les cours,  
 L'avis étant mal sûr, de paniques terreurs.  
 L'effroi que produirait cette alarme inutile,  
@@ -1208,8 +1208,8 @@ Ce que n'a pu jamais Aragon ni Grenade,
 Ni tous vos ennemis, ni tous mes envieux,  
 Le Comte en votre Cour l'a fait presque à vos yeux,  
 Jaloux de votre choix, et fier de l'avantage  
-Que lui donnait sur moi l'impuissance de l'âge.  
-Sire, ainsi ces cheveux blanchis sous le harnois, [19]  
+Que lui donnait sur moi l'impuissance de l'âge.   [18]
+Sire, ainsi ces cheveux blanchis sous le harnois,  
 Ce sang pour vous servir prodigué tant de fois,  
 Ce bras, jadis l'effroi d'une armée ennemie,  
 Descendaient au tombeau tous chargés d'infamie,  
@@ -1403,8 +1403,8 @@ Quittez, quittez, Madame, un dessein si tragique ;
 Ne vous imposez point de loi si tyrannique.  
 
     CHIMÈNE.
-Quoi ! Mon père étant mort, et presque entre mes bras,  
-Son sang criera vengeance, et je ne l'orrai pas ! [20]  
+Quoi ! Mon père étant mort, et presque entre mes bras,   [19]
+Son sang criera vengeance, et je ne l'orrai pas !  
 Mon coeur, honteusement surpris par d'autres charmes,  
 Croira ne lui devoir que d'impuissantes larmes !  
 Et je pourrai souffrir qu'un amour suborneur  
@@ -1663,8 +1663,8 @@ Rodrigue, qui l'eût cru ?
     DON RODRIGUE.
         Chimène, qui l'eût dit ?  
 
-    CHIMÈNE.
-Que notre heur fût si proche et sitôt se perdît ? [21]  
+    CHIMÈNE. [20]
+Que notre heur fût si proche et sitôt se perdît ?  
 
     DON RODRIGUE.
 Et que si près du port, contre toute apparence,  
@@ -1886,8 +1886,8 @@ Sont les premiers effets qu'ait produits sa valeur ;
 Et quoi qu'on die ailleurs d'un coeur si magnanime,  
 Ici tous les objets me parlent de son crime.  
 Vous qui rendez la force à mes ressentiments,  
-Voiles, crêpes, habits, lugubres ornements,  
-Pompe que me prescrit sa première victoire, [22]  
+Voiles, crêpes, habits, lugubres ornements,   [21]
+Pompe que me prescrit sa première victoire,  
 Contre ma passion soutenez bien ma gloire ;  
 Et lorsque mon amour prendra trop de pouvoir,  
 Parlez à mon esprit de mon triste devoir,  
@@ -1922,8 +1922,8 @@ Et je l'entends partout publier hautement
 Aussi brave guerrier que malheureux amant.  
 
     L'INFANTE.
-Qu'a de fâcheux pour toi ce discours populaire ?  
-Ce jeune Mars qu'il loue a su jadis te plaire : [23]  
+Qu'a de fâcheux pour toi ce discours populaire ?   [22]
+Ce jeune Mars qu'il loue a su jadis te plaire :  
 Il possédait ton âme, il vivait sous tes lois ;  
 Et vanter sa valeur, c'est honorer ton choix.  
 
@@ -1932,8 +1932,8 @@ Chacun peut la vanter avec quelque justice ;
 Mais pour moi sa louange est un nouveau supplice.  
 On aigrit ma douleur en l'élevant si haut :  
 Je vois ce que je perds quand je vois ce qu'il vaut.  
-Ah ! Cruels déplaisirs à l'esprit d'une amante !  
-Plus j'apprends son mérite, et plus mon feu s'augmente : [24]  
+Ah ! Cruels déplaisirs à l'esprit d'une amante !   [23]
+Plus j'apprends son mérite, et plus mon feu s'augmente :  
 Cependant mon devoir est toujours le plus fort,  
 Et malgré mon amour, va poursuivre sa mort.  
 
@@ -1970,8 +1970,8 @@ Ah ! Ce n'est pas à moi d'avoir tant de bonté ;
 Le devoir qui m'aigrit n'a rien de limité.  
 Quoique pour ce vainqueur mon amour s'intéresse,  
 Quoiqu'un peuple l'adore et qu'un roi le caresse,  
-Qu'il soit environné des plus vaillants guerriers,  
-J'irai sous mes cyprès accabler ses lauriers. [25] [26]  
+Qu'il soit environné des plus vaillants guerriers,   [24] [25]
+J'irai sous mes cyprès accabler ses lauriers.  
 
     L'INFANTE.
 C'est générosité quand pour venger un père  
@@ -2095,8 +2095,8 @@ Avant qu'aucun résiste ou reprenne son rang.
 Mais bientôt, malgré nous, leurs princes les rallient ;  
 Leur courage renaît, et leurs terreurs s'oublient :  
 La honte de mourir sans avoir combattu  
-Arrête leur désordre, et leur rend leur vertu.  
-Contre nous de pied ferme ils tirent leurs alfanges, [27]  
+Arrête leur désordre, et leur rend leur vertu.   [26]
+Contre nous de pied ferme ils tirent leurs alfanges,  
 De notre sang au leur font d'horribles mélanges ;  
 Et la terre, et le fleuve, et leur flotte, et le port,  
 Sont des champs de carnage où triomphe la mort.  
@@ -2161,8 +2161,8 @@ Rendez grâces au ciel, qui vous en a vengée.
 Voyez comme déjà sa couleur est changée.  
 
     DON DIÈGUE.
-Mais voyez qu'elle pâme, et d'un amour parfait,  
-Dans cette pâmoison, Sire, admirez l'effet. [28]  
+Mais voyez qu'elle pâme, et d'un amour parfait,   [27]
+Dans cette pâmoison, Sire, admirez l'effet.  
 Sa douleur a trahi les secrets de son âme,  
 Et ne vous permet plus de douter de sa flamme.  
 
@@ -2776,8 +2776,8 @@ Vos mains seules ont droit de vaincre un invincible ;
 Prenez une vengeance à tout autre impossible.  
 Mais du moins que ma mort suffise à me punir :  
 Ne me bannissez point de votre souvenir ;  
-Et puisque mon trépas conserve votre gloire,  
-Pour vous en revancher conservez ma mémoire, [29]  
+Et puisque mon trépas conserve votre gloire,   [28]
+Pour vous en revancher conservez ma mémoire,  
 Et dites quelquefois, en déplorant mon sort :  
 « S'il ne m'avait aimée, il ne serait pas mort. »  
 
@@ -2966,48 +2966,46 @@ Et le combat cessa faute de combattants.
 
 [6] Penser : nom masculin au XVIIème pour « pensée ».
 
-[7] Penser : nom masculin au XVIIème pour « pensée ».
+[7] Submissions : voir soumission. Humiliation, obéissance. F
 
-[8] Submissions : voir soumission. Humiliation, obéissance. F
+[8] Résoudre : Expliquer une difficulté, décider une question, trouver un problème. Signifie aussi conclure après avoir délibéré. F
 
-[9] Résoudre : Expliquer une difficulté, décider une question, trouver un problème. Signifie aussi conclure après avoir délibéré. F
+[9] Foudre : (sens figuré masculin) Se dit de la colère de Dieu ou des rois. L
 
-[10] Foudre : (sens figuré masculin) Se dit de la colère de Dieu ou des rois. L
+[10] Palme : Se dit figurément en Morale d'une victoire, ou d'un avantage remporté en quelque combat ; à cause que le palme en était autrefois le symbole. F
 
-[11] Palme : Se dit figurément en Morale d'une victoire, ou d'un avantage remporté en quelque combat ; à cause que le palme en était autrefois le symbole. F
+[11] Magnanime : Qui a une grandeur d'âme et de courage, qui l'élève au dessus du commun des hommes. Il signifie beaucoup plus que brave et vaillant. F
 
-[12] Magnanime : Qui a une grandeur d'âme et de courage, qui l'élève au dessus du commun des hommes. Il signifie beaucoup plus que brave et vaillant. F
+[12] Bonace : Calme de la mer, qui se dit quand le vent est abattu, ou a cessé. La bonace trompe souvent le Pilote. F
 
-[13] Bonace : Calme de la mer, qui se dit quand le vent est abattu, ou a cessé. La bonace trompe souvent le Pilote. F
+[13] Discord : désunion, dispute , querelle. Il est vieux et hors d'usage. F
 
-[14] Discord : désunion, dispute , querelle. Il est vieux et hors d'usage. F
+[14] Altier : Orgueileux, fier, qui commande avec hauteur. F
 
-[15] Altier : Orgueileux, fier, qui commande avec hauteur. F
+[15] Mores (maures) : Homme noir ou femme noire, nés en une région d'Afrique appelée la Mauritanie F. Othello, le personnage de la pièce du même nom de Shakespeare est un maure.
 
-[16] Mores (maures) : Homme noir ou femme noire, nés en une région d'Afrique appelée la Mauritanie F. Othello, le personnage de la pièce du même nom de Shakespeare est un maure.
+[16] Ménager : Bon économe de son bien ; qui épargne, qui ne fait point de dépense superflue ; qui fait bien valoir ce qu'on lui donne à manier. F
 
-[17] Ménager : Bon économe de son bien ; qui épargne, qui ne fait point de dépense superflue ; qui fait bien valoir ce qu'on lui donne à manier. F
+[17] Un flux de pleine mer ne peut amener les troupes jusqu'à Séville. Voir l'Examen 1660 en tête du texte.
 
-[18] Un flux de pleine mer ne peut amener les troupes jusqu'à Séville. Voir l'Examen 1660 en tête du texte.
+[18] Harnois : Armure complète, la cuirasse, la casque, et tout l'équipage des armes d'un cavalier pesamment armé. F
 
-[19] Harnois : Armure complète, la cuirasse, la casque, et tout l'équipage des armes d'un cavalier pesamment armé. F
+[19] Orrai : future du verbe ouïr. Le verbe oeïr est maintenant défectif.
 
-[20] Orrai : future du verbe ouïr. Le verbe oeïr est maintenant défectif.
+[20] Heur : rencontre avantageuse. (...) F antonyme de malheur
 
-[21] Heur : rencontre avantageuse. (...) F antonyme de malheur
+[21] Pompe : Somptuosité ; appareil superbe ; dépense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solennelle, et plus éclatante. F
 
-[22] Pompe : Somptuosité ; appareil superbe ; dépense magnifique qu'on fait pour rendre quelque action plus recommandable, plus solennelle, et plus éclatante. F
+[22] Mars : Sedit aussi d'un grand guerrier, d'un brave. F
 
-[23] Mars : Sedit aussi d'un grand guerrier, d'un brave. F
+[23] Feu : On dit aussi d'un homme amoureux qu'il brûle d'un beau feu, qu'il nourrit un feu discret, un feu caché sous la cendre, un feu qui le dévore. F
 
-[24] Feu : On dit aussi d'un homme amoureux qu'il brûle d'un beau feu, qu'il nourrit un feu discret, un feu caché sous la cendre, un feu qui le dévore. F
+[24] Cyprès : Nom d'un arbre assez connu. Les poètes emploient figurément le mot cyprès, pour signifier la mort, le tombeau. F
 
-[25] Cyprès : Nom d'un arbre assez connu. Les poètes emploient figurément le mot cyprès, pour signifier la mort, le tombeau. F
+[25] Laurier : Arbre dont le tige est unie et sans noeud. Se dit figurément en morale, pour signifier la gloire d'un triomphe, d'une conquête. F
 
-[26] Laurier : Arbre dont le tige est unie et sans noeud. Se dit figurément en morale, pour signifier la gloire d'un triomphe, d'une conquête. F
+[26] Alfange : sorte de cimmeterre, large sabre d'origine arabe.
 
-[27] Alfange : sorte de cimmeterre, large sabre d'origine arabe.
+[27] Pâmoison : état d'une personne pâmer ; défaillance. F
 
-[28] Pâmoison : état d'une personne pâmer ; défaillance. F
-
-[29] Revancher : Quelques uns disent revenger ; Se défendre contre quelqu'un, lui rendre des coups. Signifie aussi rendre la pareille, s'acquitter. F
+[28] Revancher : Quelques uns disent revenger ; Se défendre contre quelqu'un, lui rendre des coups. Signifie aussi rendre la pareille, s'acquitter. F

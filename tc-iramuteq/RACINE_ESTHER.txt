@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1689
+**** *book_ *id_I01 *act_I *date_1689 *creator_racine
 
 -*who_piete
 Du séjour bienheureux de la Divinité,
@@ -74,7 +74,7 @@ Dont l'oreille s'ennuie au son de mes paroles,
 Fuyez de mes plaisirs la sainte austérité.
 Tout respire ici Dieu, la paix, la vérité.
 
-**** *book_ *id_II01 *act_II *date_1689
+**** *book_ *id_II01 *act_II *date_1689 *creator_racine
 
 -*who_esther
 Est-ce toi, chère Élise ? Ô jour trois fois heureux !
@@ -204,7 +204,7 @@ Il faut les appeler. Venez, venez, mes filles,
 Compagnes autrefois de ma captivité,
 De l'antique Jacob jeune postérité.
 
-**** *book_ *id_II02 *act_II *date_1689
+**** *book_ *id_II02 *act_II *date_1689 *creator_racine
 
 -*who_choeur
 Ma soeur, quelle voix nous appelle ?
@@ -267,7 +267,7 @@ Par cent miracles signalées !
 Du doux pays de nos aïeux
 Serons-nous toujours exilées ?
 
-**** *book_ *id_II03 *act_II *date_1689
+**** *book_ *id_II03 *act_II *date_1689 *creator_racine
 
 -*who_esther
 Quel profane en ce lieu s'ose avancer vers nous ?
@@ -383,7 +383,7 @@ Contente de périr, s'il faut que je périsse,
 J'irai pour mon pays m'offrir en sacrifice.
 Qu'on s'éloigne un moment.
 
-**** *book_ *id_II04 *act_II *date_1689
+**** *book_ *id_II04 *act_II *date_1689 *creator_racine
 
 -*who_esther
       Ô mon souverain Roi !
@@ -433,7 +433,7 @@ Et prête à mes discours un charme qui lui plaise.
 Les orages, les vents, les cieux te sont soumis.
 Tourne enfin sa fureur contre nos ennemis.
 
-**** *book_ *id_II05 *act_II *date_1689
+**** *book_ *id_II05 *act_II *date_1689 *creator_racine
 
 -*who_choeur
 Pleurons, et gémissons, mes fidèles compagnes.
@@ -561,7 +561,7 @@ Donne à ton nom la victoire.
 Ne souffre point que ta gloire
 Passe à des dieux étrangers.
 
-**** *book_ *id_III01 *act_III *date_1689
+**** *book_ *id_III01 *act_III *date_1689 *creator_racine
 
 -*who_aman
 Hé quoi ? Lorsque le jour ne commence qu'à luire,
@@ -774,14 +774,14 @@ J'entends du bruit, je sors. Toi, si le roi m'appelle...
 -*who_hydaspe
 Il suffit.
 
-**** *book_ *id_III02 *act_III *date_1689
+**** *book_ *id_III02 *act_III *date_1689 *creator_racine
 
 -*who_assuerus
       Ainsi donc, sans cet avis fidèle,
 Deux traîtres dans son lit assassinaient leur roi ?
 Qu'on me laisse, et qu'Asaph seul demeure avec moi.
 
-**** *book_ *id_III03 *act_III *date_1689
+**** *book_ *id_III03 *act_III *date_1689 *creator_racine
 
 -*who_assuerus
 Je veux bien l'avouer. De ce couple perfide
@@ -853,7 +853,7 @@ Un Juif m'a préservé du glaive des Persans ?
 Mais, puisqu'il m'a sauvé, quel qu'il soit, il n'importe.
 Holà, quelqu'un !
 
-**** *book_ *id_III04 *act_III *date_1689
+**** *book_ *id_III04 *act_III *date_1689 *creator_racine
 
 -*who_hydaspe
       Seigneur.
@@ -868,7 +868,7 @@ Aman à votre porte a devancé le jour.
 -*who_assuerus
 Qu'il entre. Ses avis m'éclaireront, peut-être.
 
-**** *book_ *id_III05 *act_III *date_1689
+**** *book_ *id_III05 *act_III *date_1689 *creator_racine
 
 -*who_assuerus
 Approche, heureux appui du trône de ton maître,
@@ -930,7 +930,7 @@ Sortez tous.
 -*who_aman
       Dieux !
 
-**** *book_ *id_III06 *act_III *date_1689
+**** *book_ *id_III06 *act_III *date_1689 *creator_racine
 
 -*who_assuerus
       Le prix est sans doute inouï.
@@ -943,7 +943,7 @@ On verra l'innocent discerné du coupable.
 Je n'en perdrai pas moins ce peuple abominable.
 Leurs crimes...
 
-**** *book_ *id_III07 *act_III *date_1689
+**** *book_ *id_III07 *act_III *date_1689 *creator_racine
 
 -*who_assuerus
       Sans mon ordre on porte ici ses pas ?
@@ -1060,7 +1060,7 @@ Suis-moi, Thamar. Et vous, troupe jeune et timide,
 Sans craindre ici les yeux d'une profane cour,
 À l'abri de ce trône attendez mon retour.
 
-**** *book_ *id_III08 *act_III *date_1689
+**** *book_ *id_III08 *act_III *date_1689 *creator_racine
 
 -*who_elise
 Que vous semble, mes soeurs, de l'état où nous sommes ?
@@ -1239,7 +1239,7 @@ Heureux le coeur qui ne te perd jamais !
 Mes soeurs, j 'entends du bruit dans la chambre prochaine.
 On nous appelle, allons rejoindre notre reine.
 
-**** *book_ *id_IV01 *act_IV *date_1689
+**** *book_ *id_IV01 *act_IV *date_1689 *creator_racine
 
 -*who_zares
 C'est donc ici d'Esther le superbe jardin,
@@ -1333,7 +1333,7 @@ Est plus sûre pour nous que cette cour trompeuse.
 Mais à grands pas vers vous je vois quelqu'un marcher.
 C'est Hydaspe.
 
-**** *book_ *id_IV02 *act_IV *date_1689
+**** *book_ *id_IV02 *act_IV *date_1689 *creator_racine
 
 -*who_hydaspe
       Seigneur, je courais vous chercher.
@@ -1376,7 +1376,7 @@ Les compagnes d'Esther s'avancent vers ce lieu.
 Sans doute leur concert va commencer la fête.
 Entrez, et recevez l'honneur qu'on vous apprête.
 
-**** *book_ *id_IV03 *act_IV *date_1689
+**** *book_ *id_IV03 *act_IV *date_1689 *creator_racine
 
 -*who_choeur
 C'est Aman.
@@ -1517,7 +1517,7 @@ Comme d'enfants une troupe inutile.
 Et si par un chemin il entre en tes États,
 Qu'il en sorte par plus de mille.
 
-**** *book_ *id_IV04 *act_IV *date_1689
+**** *book_ *id_IV04 *act_IV *date_1689 *creator_racine
 
 -*who_assuerus
 Oui, vos moindres discours ont des grâces secrètes.
@@ -1685,7 +1685,7 @@ Appelez Mardochée, il faut aussi l'entendre.
 -*who_choeur
 Vérité, que j'implore, achève de descendre.
 
-**** *book_ *id_IV05 *act_IV *date_1689
+**** *book_ *id_IV05 *act_IV *date_1689 *creator_racine
 
 -*who_aman
 D'un juste étonnement je demeure frappé.
@@ -1720,7 +1720,7 @@ Par ce sage vieillard, l'honneur de votre race,
 Daignez d'un roi terrible apaiser le courroux.
 Sauvez Aman, qui tremble à vos sacrés genoux.
 
-**** *book_ *id_IV06 *act_IV *date_1689
+**** *book_ *id_IV06 *act_IV *date_1689 *creator_racine
 
 -*who_assuerus
 Quoi ? Le traître sur vous porte ses mains hardies ?
@@ -1732,7 +1732,7 @@ Et que devant sa porte, au lieu de Mardochée,
 Apaisant par sa mort et la terre et les cieux,
 De mes peuples vengés il repaisse les yeux.
 
-**** *book_ *id_IV07 *act_IV *date_1689
+**** *book_ *id_IV07 *act_IV *date_1689 *creator_racine
 
 -*who_assuerus
 Mortel chéri du ciel, mon salut et ma joie,
@@ -1750,7 +1750,7 @@ Que vos heureux enfants dans leurs solennités,
 Consacrent de ce jour le triomphe et la gloire,
 Et qu'à jamais mon nom vive dans leur mémoire.
 
-**** *book_ *id_IV08 *act_IV *date_1689
+**** *book_ *id_IV08 *act_IV *date_1689 *creator_racine
 
 -*who_assuerus
 Que veut Asaph ?
@@ -1773,7 +1773,7 @@ Révoquer d'un méchant les ordres sanguinaires.
 Ô Dieu ! Par quelle route inconnue aux mortels,
 Ta sagesse conduit ses desseins éternels !
 
-**** *book_ *id_IV09 *act_IV *date_1689
+**** *book_ *id_IV09 *act_IV *date_1689 *creator_racine
 
 -*who_choeur
 Dieu fait triompher l'innocence,

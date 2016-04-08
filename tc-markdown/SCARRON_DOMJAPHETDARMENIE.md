@@ -77,8 +77,8 @@ Cependant dans Orgas un malheureux village,
 Emporté des désirs d'un homme de votre âge,  
 Sans songer qu'à Séville un grand bien vous attend,  
 Vous suivez en aveugle un bel oeil qui vous prend :  
-La villageoise est belle, et jeune, je l'avoue,  
-Don Alfonse en passant peut la coucher en joue, [1]  
+La villageoise est belle, et jeune, je l'avoue,   [1]
+Don Alfonse en passant peut la coucher en joue,  
 Et s'il la peut blesser, bon ; c'est autant de pris :  
 Mais être avec fureur de son amour épris,  
 Et pour elle oublier son devoir, sa naissance,  
@@ -172,19 +172,19 @@ Monsieur, je n'entends pas la langue de la Cour.
 
     DON JAPHET.
 Vous ne m'entendez pas ? Je vous aime autant sourd ;  
-Car assez rarement mon discours s'humanise.  
-Mais pour vous aujourd'hui je démétaphorise [2]  
+Car assez rarement mon discours s'humanise.   [2]
+Mais pour vous aujourd'hui je démétaphorise  
 (Démétaphoriser, c'est parler bassement)  
-Si mon discours pour vous n'est que de l'Allemand,  
-Vous aurez avec moi disette de loquelle, [3]  
-L'Empereur donc de qui je suis le parallèle : [4]  
+Si mon discours pour vous n'est que de l'Allemand,   [3]
+Vous aurez avec moi disette de loquelle,   [4]
+L'Empereur donc de qui je suis le parallèle :  
 M'entendez-vous Bailli ?  
 
     LE BAILLI.
     Nenni.  
 
-    DON JAPHET.
-        Le parangon ? [5]  
+    DON JAPHET. [5]
+        Le parangon ?  
 
     LE BAILLI.
 Encore moins.  
@@ -194,8 +194,8 @@ Encore moins.
 Ce serait déroger à ma noblesse antique ;  
 Tâchons pourtant d'user de quelque terme oblique  
 Pour nous accommoder à cet homme des champs :  
-Charles-Quint donc mon cher parent en peu de temps,  
-M'ayant mis à son aise en prince de Cocaigne, [6]  
+Charles-Quint donc mon cher parent en peu de temps,   [6]
+M'ayant mis à son aise en prince de Cocaigne,  
 Et tout à fait exclus des Hôpitaux d'Espagne ;  
 (Car Bailli dussiez-vous cent fois en enrager,  
 J'ai six mille ducats tous les ans à manger.)  
@@ -205,8 +205,8 @@ L'un et l'autre natif de Chicuchiquizèque
 L'Empereur mon Cousin me força d'épouser  
 Cette jeune indienne un peu courte et camarde,  
 Mais pourtant agréable en son humeur hagarde :  
-À mes noces, le grand César rien n'oublia,  
-Et fit le bon parent, même il trépudia : [7]  
+À mes noces, le grand César rien n'oublia,   [7]
+Et fit le bon parent, même il trépudia :  
 Entendez-vous le mot trépudier, Compère ?  
 
     LE BAILLI.
@@ -225,9 +225,9 @@ Fut comme son papa fort sujette à sa bouche ;
 Enfin elle mourut d'un excès de melon,  
 Et son Père Uriquis d'un ulcère au talon :  
 De ce beau-père éteint, de cette femme éteinte,  
-Il ne me resta pas la moindre plume peinte,  
-Le moindre Guenuchon, le moindre perroquet, [8]  
-Tout leur bien du Pérou n'étant que du caquet. [9]  
+Il ne me resta pas la moindre plume peinte,   [8]
+Le moindre Guenuchon, le moindre perroquet,   [9]
+Tout leur bien du Pérou n'étant que du caquet.  
 Les gens d'Almodobar à leur dam me déplurent,  
 Vous pouvez bien penser que punis ils en furent,  
 Et bientôt ; car prenant ma résolution,  
@@ -334,14 +334,14 @@ Et ton pays natal, quel est-il ?
     DON ALFONCE.
         Annecy.  
 
-    DON JAPHET.
-Haye aux autres : et toi ? [10]  
+    DON JAPHET. [10]
+Haye aux autres : et toi ?  
 
     DON ALFONCE.
         Don Roc Zurducaci.  
 
-    DON JAPHET.
-Biscain ? [11]  
+    DON JAPHET. [11]
+Biscain ?  
 
     DON ALFONCE.
         Non Monsieur, je suis de la Galice.  
@@ -352,8 +352,8 @@ Tu parais grand fripon.
     DON ALFONCE.
         Fort à votre service.  
 
-    DON JAPHET.
-Torribio Poncil est un nom apostat, [12]  
+    DON JAPHET. [12]
+Torribio Poncil est un nom apostat,  
 Changeant Poncil en Ponce a mon majordomat,  
 Il pourra parvenir : mais avant toute chose  
 Il faut au nom de Ponce ajouter Don, pour cause :  
@@ -361,22 +361,22 @@ Llorente Riberos aura nom Ribera,
 Pascal Zapatero, Don Pascal Zapata.  
 Ils prendront tous le Don, comme le majordome,  
 Et seront dans deux ans des plus Grands du Royaume :  
-Quant au Galicien Don Roc Zurducaci,  
-Je lui donne congé de s'appeler ainsi ; [13]  
+Quant au Galicien Don Roc Zurducaci,   [13]
+Je lui donne congé de s'appeler ainsi ;  
 Aurait-il bien l'esprit d'être mon Secrétaire ?  
 
     DON ALFONCE.
 Jeune comme je suis, Monsieur je sais tout faire,  
 Je rase, je blanchis, je couds, je sais saigner,  
 Je sais noircir le poil, le couper, le peigner,  
-Je travaille en parfums, je sais la médecine ;  
-J'entends bien les procès, et fais bien la cuisine ; [14]  
+Je travaille en parfums, je sais la médecine ;   [14]
+J'entends bien les procès, et fais bien la cuisine ;  
 Je suis grand spadassin, excellent écuyer,  
 Fort entendu chasseur, et parfait jardinier ;  
 J'écris Français, Gothique, Italien, Tudesque ;  
 J'écris en héroïque aussi bien qu'en burlesque ;  
-Je fais des impromptus, rondeaux et bouts rimés ;  
-Bref, je suis bel esprit, et des plus renommés, [15]  
+Je fais des impromptus, rondeaux et bouts rimés ;   [15]
+Bref, je suis bel esprit, et des plus renommés,  
 Regardez si je suis digne d'être des vôtres.  
 
     DON JAPHET.
@@ -391,8 +391,8 @@ Qu'il soit mis sur l'État. Pourquoi cette soutane ?
 Êtes-vous Insacris ? Id est antiprofane :  
 Êtes-vous Médecin. Êtes-vous Avocat ?  
 
-    DON ALFONCE.
-Monsieur, je suis pourvu d'un bon Canonicat. [16]  
+    DON ALFONCE. [16]
+Monsieur, je suis pourvu d'un bon Canonicat.  
 
     DON JAPHET.
 De Rome j'obtiendrai par grâce singulière,  
@@ -433,8 +433,8 @@ Et bien galleux aussi.
     DON JAPHET.
         Faquin de Foucaral,  
 Épargnez le prochain sans en dire du mal.  
-Depuis deux ou trois jours j'ai la tête pesante,  
-Je m'en vais exercer ma vertu caminante [17]  
+Depuis deux ou trois jours j'ai la tête pesante,   [17]
+Je m'en vais exercer ma vertu caminante  
 Dans les lieux d'alentour. Que l'on m'attende ici ;  
 Foucaral !  
 
@@ -482,9 +482,9 @@ Que j'aille lui parler ?
     LÉONORE.
         Ha ! Tu ne sais pas tout.  
 
-    MARINE.
-Est-ce que l'Adonis se tient sur le bon bout ? [18]  
-Je ne le pense pas ; car il en a dans l'aile, [19]  
+    MARINE. [18]
+Est-ce que l'Adonis se tient sur le bon bout ?   [19]
+Je ne le pense pas ; car il en a dans l'aile,  
 Et se plaint tous les jours de votre humeur cruelle :  
 Pourquoi donc tant pleurer ? Quelque autre de ce Bourg  
 A-t-elle eu le pouvoir de gagner son amour ?  
@@ -708,8 +708,8 @@ Sachent tous mes valets que ma bonté se lasse,
 Sachent les malheureux qu'aujourd'hui je les casse ;  
 Je m'en vais tant crier qu'ils viendront, les marauds.  
 
-    FOUCARAL.
-Monsieur ne criez point, tous vos gens en un gros [20]  
+    FOUCARAL. [20]
+Monsieur ne criez point, tous vos gens en un gros  
 Viennent auprès de vous.  
 
     DON JAPHET.
@@ -727,22 +727,22 @@ Bailli !
     LE BAILLI.
     Monsieur.  
 
-    DON JAPHET.
-        Le bourg est-il chargé de tailles ? [21]  
-Est-il noblifié de vives antiquailles ? [22]  
+    DON JAPHET. [21]
+        Le bourg est-il chargé de tailles ?   [22]
+Est-il noblifié de vives antiquailles ?  
 
     LE BAILLI.
 Je ne vous entends point.  
 
-    DON JAPHET.
-        A-t-il des hobereaux ? [23]  
+    DON JAPHET. [23]
+        A-t-il des hobereaux ?  
 
     LE BAILLI.
 Encore moins.  
 
     DON JAPHET.
-        J'entends de ces gentilshommeaux,  
-Des tireurs en volant, des tyrans de village, [24]  
+        J'entends de ces gentilshommeaux,   [24]
+Des tireurs en volant, des tyrans de village,  
 Des nobles.  
 
     LE BAILLI.
@@ -787,8 +787,8 @@ Oui Monsieur.
     LE BAILLI.
     Oui Monsieur.  
 
-    DON JAPHET.
-        Mal encombre. [25]  
+    DON JAPHET. [25]
+        Mal encombre.  
 Puisse arriver à qui me répond toujours oui.  
 
     LE BAILLI.
@@ -859,11 +859,11 @@ Mon Maître est dégoûté.
 
     LE BAILLI.
         La fille à Jean Vincent,  
-Le Collecteur du bourg seule en vaut plus d'un cent :  
-Mais la voilà qui parle à votre secrétaire. [26]  
+Le Collecteur du bourg seule en vaut plus d'un cent :   [26]
+Mais la voilà qui parle à votre secrétaire.  
 
-    FOUCARAL.
-Le Drôle l'a fleurée. [27]  
+    FOUCARAL. [27]
+Le Drôle l'a fleurée.  
 
     DON JAPHET.
         En mon nom va lui faire  
@@ -876,13 +876,13 @@ Mon nom seul vaut autant qu'une cérémonie.
 Que maudit soit le fou, son laquais vient à nous.  
 
     FOUCARAL.
-De la part de Japhet le cacique des fous,  
-Je viens, plus fou que lui de servir un tel maître, [28]  
+De la part de Japhet le cacique des fous,   [28]
+Je viens, plus fou que lui de servir un tel maître,  
 Vous dire qu'à vos yeux il voudrait bien paraître.  
 
     DON JAPHET A SUIVI SON LAQUAIS.
-Le voilà tout paru ; par l'âme de Noé,  
-La Sotte a l'oeil brillant et l'air bien enjoué. [29]  
+Le voilà tout paru ; par l'âme de Noé,   [29]
+La Sotte a l'oeil brillant et l'air bien enjoué.  
 
     LÉONORE.
 Quoi, vous m'appelez sotte ?  
@@ -894,17 +894,17 @@ Sotte entre Courtisans, c'est-à-dire Friponne.
     LÉONORE.
 Friponne, encore pis.  
 
-    DON JAPHET.
-        Oui, tu m'as friponné ; [30]  
-Mon coeur infriponnable, oeil emérillonné : [31]  
+    DON JAPHET. [30]
+        Oui, tu m'as friponné ;   [31]
+Mon coeur infriponnable, oeil emérillonné :  
 Ha ! Si le Ciel t'avait fait naître une Duchesse ;  
 S'il t'avait seulement fait naître une Comtesse,  
 Nous pourrions en vertu du lien conjugal,  
 Coucher en même lit sans qu'on en dît du mal :  
 Mais hélas par malheur ta naissance est trop basse,  
 Et l'hymen entre nous aurait mauvaise grâce ;  
-Si bien que sans rien craindre, et sans scrupuliser,  
-À simple concubine, il faut s'humaniser, [32]  
+Si bien que sans rien craindre, et sans scrupuliser,   [32]
+À simple concubine, il faut s'humaniser,  
 Si tu veux posséder un corps comme le nôtre.  
 
     LÉONORE.
@@ -1018,8 +1018,8 @@ Vous m'aimerez bien fort ?
     FOUCARAL, À MARINE.
 Ton bel oeil m'a blessé.  
 
-    MARINE.
-        Va te faire penser. [33]  
+    MARINE. [33]
+        Va te faire penser.  
 
     LE BAILLI.
 Mais notre ami Vincent, où l'aviez-vous trouvée ?  
@@ -1046,8 +1046,8 @@ M'ayant recommandé le secret, s'en alla :
 L'enfant est justement la Dame que voilà,  
 Je crois par son moyen que ma fortune est faite,  
 Comme on me l'a promis la chose étant secrète :  
-Or la chaîne, Messieurs, n'était pas de laiton,  
-Elle était d'or ducat du poids d'un quarteron. [34]  
+Or la chaîne, Messieurs, n'était pas de laiton,   [34]
+Elle était d'or ducat du poids d'un quarteron.  
 Ma femme.  
 
     DON JAPHET.
@@ -1109,9 +1109,9 @@ La Cour vous ôtera bientôt l'air du village,
 Ô que joints par hymen, nous aurons des Japhets ;  
 Et de corps et d'esprit également bien faits !  
 Je vous ai déjà dit, Monsieur mon Secrétaire,  
-De ne l'approcher point, vous n'en voulez rien faire ;  
-Vous me l'aviez bien dit, vous êtes factoton, [35]  
-Et vous ne valez rien sous ce noir Hoqueton : [36]  
+De ne l'approcher point, vous n'en voulez rien faire ;   [35]
+Vous me l'aviez bien dit, vous êtes factoton,   [36]
+Et vous ne valez rien sous ce noir Hoqueton :  
 Et vous qui l'écoutez, Madame Léonore,  
 Vous ne valez pas mieux ; et vous Monsieur encore  
 Qui devriez à partir être plus diligent,  
@@ -1135,8 +1135,8 @@ Je vous suivrai partout quand ce serait au Cloître.
     JEAN VINCENT.
 Devant que de partir il faut un peu manger.  
 
-    RODRIGUE.
-La traite est longue, il faut promptement déloger, [37]  
+    RODRIGUE. [37]
+La traite est longue, il faut promptement déloger,  
 Un relais nous attend dans un bourg, où Madame  
 Pourra faire un repas.  
 
@@ -1201,8 +1201,8 @@ Et nous droit à Séville achever notre noce.
     DON ALFONCE.
 Nous n'en sommes pas là, Léonore n'est plus  
 Un reprochable objet de désirs superflus ;  
-À ses perfections la naissance étant jointe,  
-Nonobstant tes avis, je veux suivre ma pointe ; [38]  
+À ses perfections la naissance étant jointe,   [38]
+Nonobstant tes avis, je veux suivre ma pointe ;  
 Demain avec Japhet j'espère de la voir,  
 Et toi sois complaisant tu feras ton devoir.  
 
@@ -1279,8 +1279,8 @@ Qu'il obtiendra de vous, et de Monsieur son père,
 Madame Léonore, et je ne pense pas  
 Qu'il soit encor longtemps sans venir sur mes pas,  
 Tant sa présomption incessamment le presse  
-De venir s'étaler aux pieds de sa maîtresse,  
-Et de venir ici trancher du grand seigneur ; [39]  
+De venir s'étaler aux pieds de sa maîtresse,   [39]
+Et de venir ici trancher du grand seigneur ;  
 Car c'est là sa marotte.  
 
     LE COMMANDEUR.
@@ -1325,20 +1325,20 @@ Votre Maître Japhet ?
 Pressé de son amour qui lui donne des ailes,  
 Le rangera bientôt auprès des Demoiselles.  
 
-    LE COMMANDEUR.
-Je veux bien recevoir ce second Don Guichot, [40]  
+    LE COMMANDEUR. [40]
+Je veux bien recevoir ce second Don Guichot,  
 Instruire tous mes gens, et leur donner le mot,  
-Afin que rien ne manque à la cérémonie,  
-Dont je veux achever Don Japhet d'Arménie. [41]  
+Afin que rien ne manque à la cérémonie,   [41]
+Dont je veux achever Don Japhet d'Arménie.  
 
-    DON ALVARE.
-Il est tout achevé si jamais on le fut ; [42]  
+    DON ALVARE. [42]
+Il est tout achevé si jamais on le fut ;  
 Il a l'esprit gâté si jamais homme l'eut,  
 C'est un fou très complet.  
 Foucaral revient sur le Théâtre.
 
-        Don Japhet le fantasque,  
-Jusques ici d'Orgas a trotté comme un Basque. [43]  
+        Don Japhet le fantasque,   [43]
+Jusques ici d'Orgas a trotté comme un Basque.  
 Il arrive.  
 
     LE COMMANDEUR.
@@ -1517,8 +1517,8 @@ Le céleste séjour.
     DON JAPHET.
         Quoi toujours renifler,  
 Moucher, tousser, cracher, et toujours me parler ?  
-Et moi je ne pourrai dire quatre paroles ?  
-Et de grâce, Messieurs, je donne cent pistoles, [44]  
+Et moi je ne pourrai dire quatre paroles ?   [44]
+Et de grâce, Messieurs, je donne cent pistoles,  
 Et qu'on m'ôte d'ici ce fâcheux renifleur,  
 De quoi diable sert-il à votre Commandeur.  
 
@@ -1566,8 +1566,8 @@ Pour bien vous régaler.
         Ah ma foi je suis sourd.  
 Ce grand bruit a percé ma pauvre tête à jour ;  
 nièce du Commandeur autrefois villageoise,  
-Et main tenant grand Dame, et Dame discourtoise ;  
-Est-ce de guet-apens, ou par cas fortuit [45]  
+Et main tenant grand Dame, et Dame discourtoise ;   [45]
+Est-ce de guet-apens, ou par cas fortuit  
 Que l'on m'a voulu perdre à force de grand bruit ?  
 De cent sots compliments sans y compter le vôtre,  
 Contre moi décochés, entassés l'un sur l'autre,  
@@ -1680,8 +1680,8 @@ Qu'on me donne un fauteuil, Messieurs, et tout à l'heure,
 Car quand on devient sourd, on se lasse, ou je meure ;  
 Et si vous m'aimez bien, notre cher Commandeur,  
 Qu'on ne me montre plus le vilain Harangueur,  
-S'il ne revient encore faire ses reniflades,  
-On me verra ma foi sur lui faire à gourmades. [46]  
+S'il ne revient encore faire ses reniflades,   [46]
+On me verra ma foi sur lui faire à gourmades.  
 Ne le voilà-t-il pas ?  
 Le Harangueur passe au travers du théâtre.
 
@@ -1730,8 +1730,8 @@ D'un brevet de Marquis Don Japhet d'Arménie.
 L'Empereur mon Cousin me donne un Marquisat ?  
 Bon Parent par mon chef, le présent n'est pas fat ;  
 Un Marquisat pourtant est chose fort commune,  
-La multiplicité de Marquis importune ;  
-Depuis que dans l'État on s'est emmarquisé, [47]  
+La multiplicité de Marquis importune ;   [47]
+Depuis que dans l'État on s'est emmarquisé,  
 On trouve à chaque pas un Marquis supposé.  
 
     LE COMMANDEUR.
@@ -1759,8 +1759,8 @@ Le Château du Marquis est-il beau ?
         Tout de brique.  
 
     DON JAPHET.
-Il durera longtemps : les habitants du lieu,  
-Morifiques ou chrétiens ? [48]  
+Il durera longtemps : les habitants du lieu,   [48]
+Morifiques ou chrétiens ?  
 
     FOUCARAL.
         Grands serviteurs de Dieu.  
@@ -1836,8 +1836,8 @@ Je veux faire pourvoir dans les prochains États,
 Fais m'en ressouvenir : ô future Marquise,  
 Vous voyez que le Ciel mes desseins favorise :  
 Mais mon cher Commandeur, concluons vitement,  
-Je suis de mon amour pressé cruellement ;  
-L'humide radical dans mon coeur se dissipe, [49]  
+Je suis de mon amour pressé cruellement ;   [49]
+L'humide radical dans mon coeur se dissipe,  
 Mon esprit s'en altère, et mon corps s'en constipe.  
 
     LE COMMANDEUR.
@@ -1855,8 +1855,8 @@ Il y faut des Ballets, des combats de Taureaux.
     DON JAPHET.
 Taureaux, j'en suis, je veux y jouer des couteaux,  
 Et donner au public sans crainte de leurs cornes  
-Échantillon sanglant de ma valeur sans bornes ;  
-Je veux tauricider avec mon seul laquais. [50]  
+Échantillon sanglant de ma valeur sans bornes ;   [50]
+Je veux tauricider avec mon seul laquais.  
 
     FOUCARAL.
 Tauricidez tout seul.  
@@ -1885,14 +1885,14 @@ Coeur d'acier
 Tu m'as mis le flanc,  
 À feu et à sang :  
 Hélas l'amour m'a pris  
-Comme le chat fait la souris.  
-Je t'y prends, grand pendard, tu baises donc sa main, [51]  
+Comme le chat fait la souris.   [51]
+Je t'y prends, grand pendard, tu baises donc sa main,  
 Aujourd'hui tu mourras ou pour le moins demain !  
 Quoi, ta bouche à tabac, de ses moites moustaches,  
 A cette main d'ivoire ose faire des taches ?  
 Icare audacieux, téméraire Ixion,  
-Je te juge et condamne à la décollation :  
-Et toi, de qui je tiens la main très inquinée, [52]  
+Je te juge et condamne à la décollation :   [52]
+Et toi, de qui je tiens la main très inquinée,  
 Je t'exclus de l'honneur d'un futur hyménée.  
 
     LÉONORE.
@@ -1904,8 +1904,8 @@ Si vous vouliez m'ouïr.
     DON ALFONCE.
 Monsieur.  
 
-    DON JAPHET.
-        Tais-toi truand, pied plat, cagou, bigot. [53]  
+    DON JAPHET. [53]
+        Tais-toi truand, pied plat, cagou, bigot.  
 
     LÉONORE.
 Monsieur assurément si vous vouliez m'entendre,  
@@ -2023,8 +2023,8 @@ Pour trouver ce qu'on cherche en un si grand logis.
     DON ALFONCE.
 Qui va là ?  
 
-    MARINE.
-    Haye, c'est moi. [54]  
+    MARINE. [54]
+    Haye, c'est moi.  
 
     DON ALFONCE.
     Qui vous.  
@@ -2122,8 +2122,8 @@ Léonore aurait pu résister à mes charmes :
 Mais je n'ai qu'à paraître, il faut rendre les armes :  
 Ce fat Zurducaci lui faisait les doux yeux.  
 
-    FOUCARAL.
-C'est un fat voirement, et Pascal en est deux. [55]  
+    FOUCARAL. [55]
+C'est un fat voirement, et Pascal en est deux.  
 
     MARC ANTOINE.
 Je m'en vais te payer bientôt de ta louange.  
@@ -2143,8 +2143,8 @@ Alors, je ne suis plus César, je suis Pompée.
     FOUCARAL.
 Que voulez-vous donc faire avec ces chantres-ci.  
 
-    DON JAPHET.
-J'en veux dulcifier mon amoureux souci. [56]  
+    DON JAPHET. [56]
+J'en veux dulcifier mon amoureux souci.  
 
     FOUCARAL.
 Et si le Commandeur entend votre Musique ?  
@@ -2216,8 +2216,8 @@ Monsieur si vous vouliez je crierais au voleur.
     DON JAPHET.
 Ne gâtons rien.  
 
-    FOUCARAL.
-        Mort bleu cependant l'on me gâte. [57]  
+    FOUCARAL. [57]
+        Mort bleu cependant l'on me gâte.  
 
     DON JAPHET.
 Le Lutin qui me bat n'a pas beaucoup de hâte,  
@@ -2333,8 +2333,8 @@ Je ne le puis celer, le désir de vous voir
 Me fait abandonner le soin de mon devoir.  
 
     DON JAPHET.
-Ha ! Vous m'assassinez d'excès de courtoisie,  
-Alérion musqué doux comme malvoisie : [58] [59]  
+Ha ! Vous m'assassinez d'excès de courtoisie,   [58] [59]
+Alérion musqué doux comme malvoisie :  
 Mais ne ferais-je point vers vous ascension.  
 
     LÉONORE.
@@ -2414,8 +2414,8 @@ Aboutissent souvent en blessures mortelles.
 Me voilà pris en cage ainsi qu'un Perroquet,  
 Je commence à trembler pour mon dessein coquet :  
 Ô des Amants furtifs Déesse ténébreuse !  
-Si tu fais réussir l'entreprise amoureuse,  
-Je t'offre en sacrifice, un, deux, ou trois Lirons, [60]  
+Si tu fais réussir l'entreprise amoureuse,   [60]
+Je t'offre en sacrifice, un, deux, ou trois Lirons,  
 Et deux gros chats-huants, déesse des larrons ;  
 De ton obscurité redouble un peu la dose,  
 Et rends bien assoupi le vieillard qui repose ;  
@@ -2468,8 +2468,8 @@ Je ne vaux rien, tiré.
         Jette-toi donc en bas.  
 
     DON JAPHET.
-Vous savez ce qu'on fait à quiconque se tue,  
-Et que s'homicider est chose défendue. [61]  
+Vous savez ce qu'on fait à quiconque se tue,   [61]
+Et que s'homicider est chose défendue.  
 
     LE COMMANDEUR.
 Faisons-le dépouiller, et jeter ses habits.  
@@ -2489,8 +2489,8 @@ Savez-vous que l'on va faire jouer la fronde ?
 Vite, qu'on me le fronde, il ose raisonner.  
 
     DON JAPHET.
-Frondeurs, ne frondez pas, je vais vous les donner :  
-Voilà pour commencer, la rondelle et l'épée, [62]  
+Frondeurs, ne frondez pas, je vais vous les donner :   [62]
+Voilà pour commencer, la rondelle et l'épée,  
 Je me disais tantôt César, je suis Pompée :  
 César vint, vit, vainquit, et moi, je suis venu,  
 Je n'ai rien vu, l'on m'a battu, puis mis à nu.  
@@ -2507,8 +2507,8 @@ Vous riez, assassins.
 Je crois que ce voleur nous appelle assassins,  
 Qu'on le tue.  
 
-    DON JAPHET.
-        Ha Messieurs ! Je disais spadassins, [63]  
+    DON JAPHET. [63]
+        Ha Messieurs ! Je disais spadassins,  
 Et consens de bon coeur que quelqu'un m'assassine.  
 Si j'ai cru votre troupe autre que spadassine.  
 
@@ -2542,14 +2542,14 @@ De son Balcon en bas, donne-moi ce fusil,
 Je veux faire un beau coup.  
 
     DON JAPHET.
-        Messieurs, que vous faut-il ?  
-Ce n'est donc pas assez d'être nud en chemise ? [64]  
-Et la plainte au chétif ne sera pas permise ? [65]  
+        Messieurs, que vous faut-il ?   [64]
+Ce n'est donc pas assez d'être nud en chemise ?   [65]
+Et la plainte au chétif ne sera pas permise ?  
 Ma foi c'est bien à moi de faire le railleur,  
-Mort de peur, mort de froid, et pris pour un voleur ;  
-Laissez-moi donc en paix, attiédissez vos biles, [66]  
-Et que mes vêtements vous puissent être utiles :  
-Voilà mon haut-de-chausse, et mon pourpoint aussi. [67]  
+Mort de peur, mort de froid, et pris pour un voleur ;   [66]
+Laissez-moi donc en paix, attiédissez vos biles,  
+Et que mes vêtements vous puissent être utiles :   [67]
+Voilà mon haut-de-chausse, et mon pourpoint aussi.  
 
     DON ALVARE.
 C'est trop, c'est trop. Adieu, Seigneur, et grand merci.  
@@ -2571,8 +2571,8 @@ Gare l'eau.
     DON JAPHET.
         Gare l'eau ? Bon Dieu, la pourriture ;  
 Ce dernier accident ne promet rien de bon :  
-Ha ! Chienne de Duègne, ou servante, ou Démon ;  
-Tu m'as tout compissé, pisseuse abominable, [68]  
+Ha ! Chienne de Duègne, ou servante, ou Démon ;   [68]
+Tu m'as tout compissé, pisseuse abominable,  
 Sépulcre d'os vivant, habitacle du Diable ;  
 Gouvernante d'Enfer, épouvantail plâtré,  
 Dents et crins empruntés, et face de châtré.  
@@ -2585,8 +2585,8 @@ Gare l'eau.
 Exécrable Guenon, si c'était de l'eau rose  
 On la pourrait souffrir par le grand froid qu'il fait ;  
 Mais je suis tout couvert de ton déluge infect ;  
-Et quand j'espérerais le retour de ma Belle,  
-Étant tout putréfait que ferais-je avec elle ? [69]  
+Et quand j'espérerais le retour de ma Belle,   [69]
+Étant tout putréfait que ferais-je avec elle ?  
 Il faut céder au Temps, c'est assez pour un coup.  
 J'ai fort mal réussi : mais j'aurai fait beaucoup  
 Si je puis descendant l'échelle que j'accroche,  
@@ -2651,8 +2651,8 @@ Autant que la saison votre amour est terrible ;
 Et l'on vous peut nommer un amoureux sans pair,  
 De vous baigner ainsi dans le fort de l'Hiver.  
 
-    DON JAPHET.
-Foi de fidel amant présentement je sue. [70]  
+    DON JAPHET. [70]
+Foi de fidel amant présentement je sue.  
 
     RODRIGUE AVEC LES HABITS DE JAPHET.
 J'ai trouvé ces habits au détour de la rue ;  
@@ -2723,18 +2723,18 @@ L'Alezan est fougueux.
 Il ne vous faudrait donc qu'un bon cheval de pas.  
 
     DON JAPHET.
-Fort bien, et qui pourtant donnât quelques courbettes :  
-Je hais fort les chevaux qui portent des bossettes : [71]  
-J'en voudrais un qui fût entre triste et gaillard,  
-Qui tînt fort de la Mule, et fort peu du Bayard. [72]  
+Fort bien, et qui pourtant donnât quelques courbettes :   [71]
+Je hais fort les chevaux qui portent des bossettes :  
+J'en voudrais un qui fût entre triste et gaillard,   [72]
+Qui tînt fort de la Mule, et fort peu du Bayard.  
 
     DON ALVARE.
 J'en chercherai quelqu'un doux comme une litière.  
 
-    DON JAPHET.
-Mon dessein entre nous, menace de la bière ; [73]  
-Ne puis-je pas porter quelque bonne arme à feu,  
-Afin de mieux tirer mon épingle du jeu ? [74]  
+    DON JAPHET. [73]
+Mon dessein entre nous, menace de la bière ;  
+Ne puis-je pas porter quelque bonne arme à feu,   [74]
+Afin de mieux tirer mon épingle du jeu ?  
 
     DON ALVARE.
 Ce serait un coup sûr : mais ce n'est pas la mode.  
@@ -2744,8 +2744,8 @@ Quoi, l'usage prévaut ? Ô sottise incommode?
 En chose où le péril paraît de tous côtés,  
 On peut fort bien passer sur les formalités.  
 Et si quelque taureau vient à moi comme un foudre,  
-Puisqu'un vilain taureau peut un homme découdre,  
-Ne peut-on pas alors se tirer à quartier ? [75]  
+Puisqu'un vilain taureau peut un homme découdre,   [75]
+Ne peut-on pas alors se tirer à quartier ?  
 
     DON ALVARE.
 Ce serait l'action d'un lâche Cavalier.  
@@ -2804,8 +2804,8 @@ Car un Taureau n'est pas un traitable animal.
     DON ALVARE.
 En peu de mots, voici ce que vous devez faire,  
 Vous entrerez en lice hardi, non téméraire ;  
-Votre lance en l'arrêt, ferme dans les arçons,  
-Et rendant le salut aux dames des balcons. [76]  
+Votre lance en l'arrêt, ferme dans les arçons,   [76]
+Et rendant le salut aux dames des balcons.  
 
     DON JAPHET.
 Et puis après j'irai chercher des coups de cornes ;  
@@ -2853,8 +2853,8 @@ Sa mort, ou son retour vous ramènent bientôt.
     DON ALVARE.
 Bien donc, pour vous rejoindre il faut que je vous quitte.  
 
-    ELVIRE.
-Votre action Alvare, aura tout son mérite, [77]  
+    ELVIRE. [77]
+Votre action Alvare, aura tout son mérite,  
 Vous trouverez un frère, et vous aurez sa soeur.  
 
 
@@ -2984,8 +2984,8 @@ Dis ton nom, scélérat, ou je te vais planter
 Ce poignard dans le sein.  
 
     DON ALFONCE.
-        C'est toute mon envie,  
-Si je perds Léonore, ai-je affaire de vie ? [78]  
+        C'est toute mon envie,   [78]
+Si je perds Léonore, ai-je affaire de vie ?  
 Délivre-moi le bras, donne-moi ton poignard,  
 Tu me verras percer mon coeur de part en part ;  
 Tu veux savoir mon nom, je le saurais bien taire  
@@ -3075,10 +3075,10 @@ A de la selle en bas bientôt changé de gîte ;
 L'impertinent taureau le voyant piéton,  
 Est allé droit à lui sans craindre son bâton ;  
 Et le brave Japhet, voyant ses grandes cornes,  
-S'est présenté trois fois pour transgresser les bornes ;  
-Le peuple mal courtois a dit, nescio vos ; [79]  
-Cependant l'animal a pris son homme à dos :  
-Et les cornes s'étant en grègue embarrassées, [80]  
+S'est présenté trois fois pour transgresser les bornes ;   [79]
+Le peuple mal courtois a dit, nescio vos ;  
+Cependant l'animal a pris son homme à dos :   [80]
+Et les cornes s'étant en grègue embarrassées,  
 L'infortuné Japhet, et ses belles pensées,  
 Ayant été longtemps dans l'air bien secoué,  
 (Sans cornade pourtant, dont le Ciel soit loué)  
@@ -3086,8 +3086,8 @@ S'est à la fin trouvé couché sur la poussière,
 Foulé de coups de pieds d'une étrange manière :  
 On le remporte à quatre, et je viens tout exprès  
 Vous faire le récit de ce triste succès :  
-Mais notre Secrétaire est vêtu comme un Prince,  
-Que diable a-t-il donc fait de son justaucorps mince ? [81]  
+Mais notre Secrétaire est vêtu comme un Prince,   [81]
+Que diable a-t-il donc fait de son justaucorps mince ?  
 
     DON ALVARE.
 Don Roc Zurducaci n'est plus un écrivain,  
@@ -3101,8 +3101,8 @@ Et mon maître ?
 
     FOUCARAL.
 Cela nuira beaucoup à sa convalescence :  
-Comme un valet toujours dit tout ce qu'il a vu,  
-Je m'en vais lui conter la chose à l'impourvu. [82]  
+Comme un valet toujours dit tout ce qu'il a vu,   [82]
+Je m'en vais lui conter la chose à l'impourvu.  
 
     LE COMMANDEUR.
 Léonore entre.
@@ -3146,26 +3146,26 @@ Et de plus elle est juste, autant qu'elle est utile.
     FOUCARAL.
 Place Messieurs, je viens vous trouver à grands pas,  
 Mortel avant-coureur de quatre ou cinq trépas ;  
-Pour vous signifier que la fureur dans l'âme,  
-Don Japhet courroucé vient chanter votre gamme. [83]  
+Pour vous signifier que la fureur dans l'âme,   [83]
+Don Japhet courroucé vient chanter votre gamme.  
 
     DON JAPHET ARMÉ DE TOUTES PIÈCES, AVEC UNE LANCE.
-Où se cachera-t-il, ce Commandeur maudit,  
-Qui dans un même jour a son dit et dédit ? [84]  
+Où se cachera-t-il, ce Commandeur maudit,   [84]
+Qui dans un même jour a son dit et dédit ?  
 Ha te voilà vieux fou, sans honneur sans parole,  
 Maître de valets fous, Oncle de nièce folle !  
 Et tu ris grand vilain ? Et tu m'as mal traité ?  
 Et tes valets ont pris la même liberté ?  
-Cependant qu'au péril de cent mille cornades,  
-Je combats des Taureaux à grands coups de lançades, [85]  
+Cependant qu'au péril de cent mille cornades,   [85]
+Je combats des Taureaux à grands coups de lançades,  
 Tu me ravis ta nièce, ignorant, affronteur ;  
 En faveur d'un valet qui n'est qu'un imposteur :  
 Elle aurait succédé dans ma couche honorable,  
 À ma chère Azatèque une Reine adorable :  
 Et traître tu la fais femme d'un écrivain,  
 D'un grand faquin qui vit du travail de sa main ?  
-De fourbe le plus grand qui soit dans la Castille,  
-Est-ce pour tes beaux yeux qu'on s'expose en soudrille ? [86]  
+De fourbe le plus grand qui soit dans la Castille,   [86]
+Est-ce pour tes beaux yeux qu'on s'expose en soudrille ?  
 Ne contes-tu pour rien d'être venu d'Orgas ?  
 Et suis-je un homme à perdre, et mon temps et mes pas ?  
 Si je n'étais Chrétien (mais le Christianisme)  
@@ -3173,15 +3173,15 @@ Me défend d'entreprendre un sanglant cataclysme,
 Si je n'étais Chrétien, Commandeur effronté,  
 Je t'aurais dépaulé, décuissé, détêté ;  
 Si je n'avais eu peur de m'accabler moi-même,  
-J'aurais fait le Samson dans ma fureur extrême ;  
-J'aurais mis ton château tout sens dessus dessous, [87]  
+J'aurais fait le Samson dans ma fureur extrême ;   [87]
+J'aurais mis ton château tout sens dessus dessous,  
 Ton renifleur et toi, ta nièce, et son époux :  
 Si tu m'avais tenu la parole promise,  
 Je lui donnais mon bien, je la faisais Marquise,  
 Moi parent de César, moi Marquis, moi Japhet  
 J'allais faire l'esclave, et j'aurais fort mal fait :  
-Mais que je sache encor pourquoi d'un secrétaire  
-Cette jeune indiscrète, est l'injuste salaire ; [88]  
+Mais que je sache encor pourquoi d'un secrétaire   [88]
+Cette jeune indiscrète, est l'injuste salaire ;  
 Est-ce pour les profits du Secrétariat,  
 Qui ne lui vaudra pas par an demi ducat ?  
 
@@ -3296,8 +3296,8 @@ Il n'en faut point douter.
     LE COURIER.
         La Dame Occidentale  
 A deux vaisseaux chargés de précieux bijoux,  
-De gorges de Griffons, de peaux de Loups-garous  
-De baume gris de lin, de Vezugues musquées, [89]  
+De gorges de Griffons, de peaux de Loups-garous   [89]
+De baume gris de lin, de Vezugues musquées,  
 De grandes pièces d'or non encor fabriquées.  
 
     DON JAPHET.

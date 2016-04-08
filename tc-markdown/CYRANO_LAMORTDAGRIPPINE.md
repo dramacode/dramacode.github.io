@@ -236,8 +236,8 @@ Qui de tous mes enfants ne m'ont laissé qu'un fils!
 ## SCÈNE II. Séjanus, Agrippine, Cornélie.
 
     SÉJANUS.
-Madame, la nouvelle en est trop assurée ;  
-L'Empereur ce matin est sorti de Caprée, [1]  
+Madame, la nouvelle en est trop assurée ;   [1]
+L'Empereur ce matin est sorti de Caprée,  
 Il marche droit à Rome, accompagné des siens,  
 Des Soldats Allemands et des Prétoriens;  
 Et l'on croit que demain, nous verrons à nos portes  
@@ -512,7 +512,7 @@ Craindra de s'attaquer au mari de sa mère,
 Ou forcé de le perdre, avec moins de courroux  
 Elle en pardonnera le meurtre à son époux.  
 Mais allons préparer, dans la pompe célèbre  
-Du retour de Tibère, une pompe funèbre.  
+Du retour de Tibère, une pompe funèbre.   [2]
 
 
 # ACTE II
@@ -534,8 +534,8 @@ Agrippine te hait, mais elle est femme enfin.
 Que de justes frayeurs s'emparent de mon âme !  
 Le grand Germanicus me combat dans sa femme !  
 De ce Prince au tombeau, le nom ressuscité  
-Semble accourir aux voeux qui l'ont sollicité ;  
-Sous mon trône abattu, ce nouvel Encelade [2]  
+Semble accourir aux voeux qui l'ont sollicité ;   [3]
+Sous mon trône abattu, ce nouvel Encelade  
 Du profond des Enfers à ma Cour rétrograde,  
 Et jette un cri si haut, que du bruit effrayé  
 Je doute s'il foudroie ou s'il est foudroyé.  
@@ -699,8 +699,8 @@ Et qu'un sceptre, appuyé d'une si faible main,
 Soutint mal la grandeur de l'Empire Romain.  
 Mais quoi que sa prudence, en bravant la Nature,  
 T'ait ravi la Couronne avec beaucoup d'injure,  
-Puis qu'aujourd'hui son sang en tes bras affaibli  
-A dans ceux de ton fils ses forces rétablies, [3]  
+Puis qu'aujourd'hui son sang en tes bras affaibli   [4]
+A dans ceux de ton fils ses forces rétablies,  
 Je le veux élever par droit héréditaire,  
 Après un interrègne au trône de son père.  
 
@@ -988,8 +988,8 @@ J'ai honte de l'effroi dont je suis accablée ;
 Mais on peut bien trembler quand le Ciel tremble aussi  
 Écoute donc sur quoi je m'épouvante ainsi :  
 Des poings du victimaire aujourd'hui nos hosties,  
-Le couteau dans la gorge en fureur sont parties;  
-L'Aruspice a trouvé le coeur défectueux, [4]  
+Le couteau dans la gorge en fureur sont parties;   [5]
+L'Aruspice a trouvé le coeur défectueux,  
 Les poumons tous flétris, et le sang tout bourbeux;  
 La chair du sacrifice au brasier pétillante,  
 Distillait sur l'Autel une liqueur puante ;  
@@ -1024,8 +1024,8 @@ C'est lui qui le commet, puisqu'il nous y contraint.
 
     LIVILLA.
 Mon esprit est remis, et ton noble courage,  
-Quoi qu'annonce le Ciel, est un heureux présage.  
-Allons de cent Argus Tibère environner, [5]  
+Quoi qu'annonce le Ciel, est un heureux présage.   [6]
+Allons de cent Argus Tibère environner,  
 Arrêtons les avis qu'on lui pourrait donner;  
 Et puis qu'il ne tient pas tout le secret encore,  
 Coupons vers notre bout la moitié qu'il ignore.  
@@ -1347,8 +1347,8 @@ Ne réchauffe le sang de quelque autre Jason,
 Et cette peur, hélas ! Doit bien être soufferte  
 En celui que menace une si grande perte.  
 
-    AGRIPPINE.
-Non, croyez, Séjanus, avec tous les humains, [6]  
+    AGRIPPINE. [7]
+Non, croyez, Séjanus, avec tous les humains,  
 Que je ne puis sans vous achever mes desseins,  
 Et que vous connaîtrez dans peu comme moi-même  
 Si véritablement Agrippine vous aime.  
@@ -1703,8 +1703,8 @@ Rougirait de combattre un monstre si timide.
 
     TIBÈRE.
 En découvrant ainsi ta noire intention,  
-Et travaillant toi-même à ta conviction,  
-Tu t'épargnes la géhenne. [7]  
+Et travaillant toi-même à ta conviction,   [8]
+Tu t'épargnes la géhenne.  
 
     AGRIPPINE.
         Ah ! Si je suis blâmable,  
@@ -1775,8 +1775,8 @@ Pour les piquer d'honneur, vous direz de leurs pères,
 Que vous les avez vus parmi nos adversaires,  
 Pêle-mêle entassés, et sanglants qu'ils étaient,  
 S'enterrer sous le poids des corps qu'ils abattaient,  
-Percer des escadrons les murailles ferrées,  
-Faire avec un bras seul plus que deux Briarées, [8]  
+Percer des escadrons les murailles ferrées,   [9]
+Faire avec un bras seul plus que deux Briarées,  
 Et qu'au lit de la mort ces vaincus triomphants  
 Vous ont recommandé leurs malheureux enfants ;  
 Que c'est bien la raison que vous serviez de mère  
@@ -1851,8 +1851,8 @@ Tu seras son rival sans qu'il en soit jaloux ;
 Il joindra de son nom la force à ton audace,  
 Pourvu qu'en le vengeant tu mérites sa place.  
 À ces conditions que je passe avec toi,  
-Dessous le sceau d'hymen je t'engage ma foi.  
-Mais il faut, si tu veux que le contrat s'observe, [9]  
+Dessous le sceau d'hymen je t'engage ma foi.   [10]
+Mais il faut, si tu veux que le contrat s'observe,  
 Vengeant Germanicus, le venger sans réserve ;  
 Et quand ton bras aura ses Mânes consolés,  
 Et tous ses meurtriers à son Ombre immolés,  
@@ -2056,8 +2056,8 @@ Sans que pour lui personne ait osé s'entremettre,
 Comme si son malheur était contagieux,  
 Chacun de son visage a détourné les yeux ;  
 Ce puissant Séjanus, si grand, si craint naguère,  
-Cette Divinité du noble et du vulgaire,  
-À qui le peuple au Temple appendait des tableaux, [10]  
+Cette Divinité du noble et du vulgaire,   [11]
+À qui le peuple au Temple appendait des tableaux,  
 À qui l'on décernait des triomphes nouveaux,  
 Qu'on regardait au trône avec idolâtrie,  
 Nommé par le Sénat, père de la Patrie,  
@@ -2431,8 +2431,8 @@ Enfin persécuté de mes proches parents,
 Et dedans ma famille au milieu des serpents,  
 J'imiterai, Superbe, Hercule en ce rencontre.  
 
-    AGRIPPINE.
-Ô ! Le digne rapport d'Hercule avec un Monstre ! [11]  
+    AGRIPPINE. [12]
+Ô ! Le digne rapport d'Hercule avec un Monstre !  
 
     TIBÈRE.
 Qu'on égorge les siens, hormis Caligula !  
@@ -2481,22 +2481,24 @@ Sont-ils morts l'un et l'autre?
 
 [1] Caprée : Capri, île au large de Naples
 
-[2] Encelade : personnage de la mythologie grecque. Vaincu par Athéna, Encélade le Géant fut enterré sous le mont Etna en Sicile. 
+[2] Porte forcée se rapportant à Agrippine, mais le vers est faux. C'est Séjanus qui se verra forcé de perdre le fils d'Agrippine; il y a là une tout à fait latine ellipse (note de P. L.).
 
-[3] 1654 : affoiblys et restablyes, ce qui rend ces vers inintelligibles; dans l'édition de 1710, la correction a été malheureuse : A dans ceux de son tous ses droits fils rétablis, ce vers ne se rapportant plus au précédent (P. L.)
+[3] Encelade : personnage de la mythologie grecque. Vaincu par Athéna, Encélade le Géant fut enterré sous le mont Etna en Sicile. 
 
-[4] Aruspice : À Rome, devin qui interprète la volonté divine en lisant dans les entrailles d'un animal sacrifié.
+[4] 1654 : affoiblys et restablyes, ce qui rend ces vers inintelligibles; dans l'édition de 1710, la correction a été malheureuse : A dans ceux de son tous ses droits fils rétablis, ce vers ne se rapportant plus au précédent (P. L.)
 
-[5] Argus : personnage de la mythologie gréco-romaine, c'était un géant qui avait cent yeux dont cinquante ouverts pendant que cinquante étaient fermé et dormaient.
+[5] Aruspice : À Rome, devin qui interprète la volonté divine en lisant dans les entrailles d'un animal sacrifié.
 
-[6] Vers équivoques. (note de l'édition 1654)
+[6] Argus : personnage de la mythologie gréco-romaine, c'était un géant qui avait cent yeux dont cinquante ouverts pendant que cinquante étaient fermé et dormaient.
 
-[7] Géhenne : lieu de douleurs extrêmes où se retrouvent les pêcheurs après leur mort. Peur être assimiler aux Enfers. 
+[7] Vers équivoques. (note de l'édition 1654)
 
-[8] Briarée : personnage de la mythologie grecque, Géant, frère des Titans et des cyclopes, qui a cinquante têtes et cent bras
+[8] Géhenne : lieu de douleurs extrêmes où se retrouvent les pêcheurs après leur mort. Peur être assimiler aux Enfers. 
 
-[9] Vers qui cachent un autre sens. (note de l'édition 1654)
+[9] Briarée : personnage de la mythologie grecque, Géant, frère des Titans et des cyclopes, qui a cinquante têtes et cent bras
 
-[10] Appendre : pendre, attacher quelque chose dans une Église, ou dans un Temple. F
+[10] Vers qui cachent un autre sens. (note de l'édition 1654)
 
-[11] Hercule : demi-dieu de la mythologie et second prénom de l'auteur.
+[11] Appendre : pendre, attacher quelque chose dans une Église, ou dans un Temple. F
+
+[12] Hercule : demi-dieu de la mythologie et second prénom de l'auteur.

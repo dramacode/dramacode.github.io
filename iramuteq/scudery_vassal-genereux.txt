@@ -133,7 +133,7 @@ L'oubly mesme en aura pour vous y conserver.
 Ne jugerez- vous point ma faute sans exemple,
 De venir si matin vous trouver dans ce Temple?
 Pardonnez ce peché qui ne vient que d'amour;
-Je vous ay voulu voir aussi tost que le jour.
+Je vous ay voulu voir aussi tost que le jour. 
 
 -*who_theandre
 Je prens comme je dois l'honneur de vos caresses;
@@ -177,7 +177,7 @@ Vous aimez par devoir! non pas Jupiter mesme.
 -*who_rosilee
 J'aime Theandre enfin aussi bien comme il aime;
 Et pour le contenter plainement aujourd'huy,
-Je veux qu'il sçache encor que j'aime plus que luy.
+Je veux qu'il sçache encor que j'aime plus que luy. 
 
 -*who_theandre
 Ha trop heureux Amant! plaisir incomparable!
@@ -260,7 +260,7 @@ Moins vous demeurerez, et moins j'auray de peine;
 O cieux, au mesme instant que je perds ses appas,
 Mon triste cœur me quitte, et la suit pas à pas.
 
-**** *book_ *id_I02 *act_I *date_1636 *creator_scudery
+**** *book_ *id_I02 *act_I *date_1636 *creator_scudery 
 
 -*who_lucidan
 La fortune me rit, le sort m'est favorable;
@@ -973,7 +973,7 @@ Ha Ciel! il la vaincra, sa constance⁎ va choir;
 Il la faut soustenir, la Bague,
 
 -*who_rosilee
-      le Mouchoir.
+      le Mouchoir. 
 
 -*who_lucidan
 Indiscret,
@@ -1202,7 +1202,7 @@ Qui ne vit point en Roy, n'est pas digne de l'estre;
 Que dans tous les quartiers chacun aille disant,
 Liberté, liberté, ce joug est trop pesant.
 
--*who_un_citoyen
+-*who_citoyen
 Sans vouloir rechercher le conseil d'aucun autre,
 Que vostre volonté dispose de la nostre.
 
@@ -1566,9 +1566,9 @@ Helas que sans subject⁎, vous faites des jaloux.
 Malgré mon desplaisir je ris de ta folie:
 
 -*who_artesie
-Je tasche de bannir vostre melancolie⁎:
+Je tasche de bannir vostre melancolie⁎: 
 
--*who_rosilee 
+-*who_rosilee
 D'un remede plus fort ma douleur a besoin:
 
 -*who_artesie
@@ -1986,9 +1986,9 @@ Vous aimastes le pere, et vous chassez l'enfant!
 Quittez au nom des Dieux, quittez cette manie⁎:
 Son regne sera franc⁎ de toute tyrannie;
 Et soyez asseurez qu'on vous verra benir,
-Le fidele Vassal qui l'a fait revenir.
+Le fidele Vassal qui l'a fait revenir. 
 
--*who_rosilee 
+-*who_rosilee
 Seigneur, mon interest vous fit prendre les armes;
 Pour le mesme aujourd'huy donnez-les à mes larmes;
 Sur la foy de Theandre il est icy venu;

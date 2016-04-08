@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_ESTHER  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1689  
 title: ESTHER, TRAGÉDIE tirée de l'écriture sainte.  
 ---
@@ -61,8 +61,8 @@ Je ne puis me résoudre à finir cette préface sans rendre à celui qui a fait 
 
     LA PIÉTÉ
 Du séjour bienheureux de la Divinité,  
-Je descends dans ce lieu par la Grâce habité.  
-L'innocence s'y plaît ma compagne éternelle, [2]  
+Je descends dans ce lieu par la Grâce habité.   [2]
+L'innocence s'y plaît ma compagne éternelle,  
 Et n'a point sous les cieux d'asile plus fidèle.  
 Ici, loin du tumulte, aux devoirs les plus saints  
 Tout un peuple naissant est formé par mes mains.  
@@ -156,8 +156,8 @@ Au bruit de votre mort justement éplorée
 Du reste des humains je vivais séparée,  
 Et de mes tristes jours n'attendais que la fin ;  
 Quand tout à coup, Madame, un prophète divin :  
-" C'est pleurer trop longtemps une mort qui t'abuse,  
-Lève-toi, m'a-t-il dit ; prends ton chemin vers Suse. [3]  
+" C'est pleurer trop longtemps une mort qui t'abuse,   [3]
+Lève-toi, m'a-t-il dit ; prends ton chemin vers Suse.  
 Là tu verras d'Esther la pompe et les honneurs,  
 Et sur le trône assis le sujet de tes pleurs.  
 Rassure, ajouta-t-il, tes tribus alarmées,  
@@ -318,7 +318,7 @@ Par cent miracles signalées !
 Du doux pays de nos aïeux  
 Serons-nous toujours exilées ?  
 
-    UNE ISRAÉLITE
+    UNE ISRAÉLITE, SEULE.
 Quand verrai-je, ô Sion ! relever tes remparts,  
 Et de tes tours les magnifiques faîtes ?  
 Quand verrai-je de toutes parts  
@@ -791,8 +791,8 @@ Répandus sur la terre, ils en couvraient la face.
 Un seul osa d'Aman attirer le courroux,  
 Aussitôt de la terre ils disparurent tous.  
 
-    HYDASPE
-Ce n'est donc pas, Seigneur, le sang amalécite, [4]  
+    HYDASPE [4]
+Ce n'est donc pas, Seigneur, le sang amalécite,  
 Dont la voix à les perdre en secret vous excite ?  
 
     AMAN
@@ -1758,9 +1758,9 @@ Pendant que votre main sur eux appesantie
 Ils conjuraient ce Dieu de veiller sur vos jours,  
 De rompre des méchants les trames criminelles,  
 De mettre votre trône à l'ombre de ses ailes.  
-N'en doutez point, Seigneur, il fut votre soutien.  
-Lui seul mit à vos pieds le Parthe et l'Indien, [5]  
-Dissipa devant vous les innombrables Scythes, [6]  
+N'en doutez point, Seigneur, il fut votre soutien.   [5]
+Lui seul mit à vos pieds le Parthe et l'Indien,   [6]
+Dissipa devant vous les innombrables Scythes,  
 Et renferma les mers dans vos vastes limites.  
 Lui seul aux yeux d'un Juif découvrit le dessein  
 De deux traîtres tout prêts à vous percer le sein.  

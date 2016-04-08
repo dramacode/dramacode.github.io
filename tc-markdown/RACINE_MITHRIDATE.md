@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_MITHRIDATE  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1673  
 title: MITHRIDATE, TRAGÉDIE.  
 ---

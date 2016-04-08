@@ -84,8 +84,8 @@ N'ont jamais épargné le sang de leurs vaincus :
 Tour à tour la victoire, autour d'eux en furie,  
 A poussé leur courroux jusqu'à la barbarie ;  
 Tour à tour le carnage et les proscriptions  
-Ont sacrifié Rome à leurs dissensions ;  
-Mais leurs sanglants discords qui nous donnent des maîtres [1]  
+Ont sacrifié Rome à leurs dissensions ;   [1]
+Mais leurs sanglants discords qui nous donnent des maîtres  
 Ont fait des meurtriers, et n'ont point fait de traîtres :  
 Leurs plus vastes fureurs jamais n'ont consenti  
 Qu'aucun versât le sang de son propre parti ;  
@@ -132,8 +132,8 @@ Mais sitôt qu'il parut, je vis en moins de rien
 Tout mon camp déserté pour repeupler le sien ;  
 Je vis par mes soldats mes aigles arrachées  
 Pour se ranger sous lui voler vers ses tranchées ;  
-Et pour en colorer l'emportement honteux,  
-Je les suivis de rage, et m'y rangeai comme eux. [2]  
+Et pour en colorer l'emportement honteux,   [2]
+Je les suivis de rage, et m'y rangeai comme eux.  
 L'impérieuse aigreur de l'âpre jalousie  
 Dont en secret dès lors mon âme fut saisie  
 Grossit de jour en jour sous une passion  
@@ -557,8 +557,8 @@ Et quiconque peut tout est aimable en tout temps.
 Mais, madame, nos rois, dont l'amour vous irrite,  
 N'ont-ils tous ni vertu, ni pouvoir, ni mérite ?  
 Et dans votre parti se peut-il qu'aucun d'eux  
-N'ait signalé son nom par des exploits fameux ?  
-Celui des Turdétans, celui des Celtibères, [3] [4]  
+N'ait signalé son nom par des exploits fameux ?   [3] [4]
+Celui des Turdétans, celui des Celtibères,  
 Soutiendraient-ils si mal le sceptre de vos pères ?  
 
     VIRIATE.
@@ -1647,8 +1647,8 @@ Mais la gloire, qui fait toutes vos passions,
 Vous met trop au-dessus de ces impressions :  
 De tels désirs, trop bas pour les grands coeurs de Rome...  
 
-    SERTORIUS.
-Ah ! Pour être romain, je n'en suis pas moins homme : [5]  
+    SERTORIUS. [5]
+Ah ! Pour être romain, je n'en suis pas moins homme :  
 J'aime, et peut-être plus qu'on n'a jamais aimé ;  
 Malgré mon âge et moi, mon coeur s'est enflammé.  
 J'ai cru pouvoir me vaincre, et toute mon adresse  
@@ -2067,8 +2067,8 @@ Mais je crains que ce don n'ait jamais son aveu,
 Qu'il n'attire sur nous d'impitoyables haines.  
 Que vous dirai-je enfin ? L'Espagne a d'autres reines ;  
 Et vous pourriez vous faire un destin bien plus doux,  
-Si vous faisiez pour moi ce que je fais pour vous.  
-Celle des Vacéens, celle des Ilergètes, [6] [7]  
+Si vous faisiez pour moi ce que je fais pour vous.   [6] [7]
+Celle des Vacéens, celle des Ilergètes,  
 Rendraient vos volontés bien plus tôt satisfaites ;  
 La reine avec chaleur saurait vous y servir.  
 
@@ -2078,8 +2078,8 @@ Vous me l'avez promise, et me l'allez ravir !
     SERTORIUS.
 Que sert que je promette et que je vous la donne,  
 Quand son ambition l'attache à ma personne ?  
-Vous savez les raisons de cet attachement,  
-Je vous en ai tantôt parlé confidemment ; [8]  
+Vous savez les raisons de cet attachement,   [8]
+Je vous en ai tantôt parlé confidemment ;  
 Je vous en fais encor la même confidence.  
 Faites à votre amour un peu de violence ;  
 J'ai triomphé du mien : j'y suis encor tout prêt ;  
@@ -2233,8 +2233,8 @@ Je périrai plutôt qu'une autre la partage.
 Mes sujets valent bien que j'aime à leur donner  
 Des monarques d'un sang qui sache gouverner,  
 Qui sache faire tête à vos tyrans du monde,  
-Et rendre notre Espagne en lauriers si féconde,  
-Qu'on voie un jour le Pô redouter ses efforts, [9]  
+Et rendre notre Espagne en lauriers si féconde,   [9]
+Qu'on voie un jour le Pô redouter ses efforts,  
 Et le Tibre lui-même en trembler pour ses bords.  
 
     ARISTIE.

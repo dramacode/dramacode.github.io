@@ -334,8 +334,8 @@ Ne l'ont pu, jusqu'ici, réduire à la raison.
 Il dit au prince
 
 Ma créance, mon fils, sans doute, un peu légère,  
-N'est pas sans quelque erreur, et cette erreur m'est chère ;  
-Étouffons nos discords, dans nos embrassements, [1]  
+N'est pas sans quelque erreur, et cette erreur m'est chère ;   [1]
+Étouffons nos discords, dans nos embrassements,  
 Il l'embrasse.
 
 Je ne puis de mon sang, forcer les mouvements ;  
@@ -493,8 +493,8 @@ Mais vos derniers progrès (qui certes m'ont surpris)
 Passent tout créance, et demandent leur prix,  
 Avec si peu de gens, avoir fait nos frontières,  
 D'un si puissant parti, les sanglants cimetières ;  
-Et dans si peu de jours, par d'incroyables faits,  
-Réduit le Moscovite à demander la paix ; [2]  
+Et dans si peu de jours, par d'incroyables faits,   [2]
+Réduit le Moscovite à demander la paix ;  
 Ce sont des actions, dont la reconnaissance,  
 Du plus riche monarque, excède la puissance,  
 N'exceptez rien, aussi, de ce que je vous dois,  

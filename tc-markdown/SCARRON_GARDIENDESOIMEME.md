@@ -134,8 +134,8 @@ Pour moi j'étais pour vous en des peines mortelles,
 Vous sachant au milieu de tous vos ennemis.  
 
     ALCANDRE.
-Admire où mon destin extravagant m'a mis.  
-Où je crois me sauver, nos chevaux, cher Sulpice, [1]  
+Admire où mon destin extravagant m'a mis.   [1]
+Où je crois me sauver, nos chevaux, cher Sulpice,  
 Tombent avecques nous au fond d'un précipice,  
 Et je me vois réduit, étant bien informé,  
 Que l'on a contre moi tout le Pays armé,  
@@ -332,8 +332,8 @@ Tu me vas adorer tant je vais bien agir.
 Dis bien tout ce qu'il faut.  
 
     FILIPIN.
-        Et j'en dirai de reste :  
-Mais la voici qui vient ; quelque fat, malepeste, [2]  
+        Et j'en dirai de reste :   [2]
+Mais la voici qui vient ; quelque fat, malepeste,  
 Irait la haranguer, et je ne suis pas prêt ;  
 Qu'un autre au lieu de moi harangue s'il lui plaît.  
 
@@ -397,8 +397,8 @@ S'alla jeter aux pieds de l'Infante Isabelle,
 Poussant du bras mon frère à genoux devant elle,  
 Mon frère plus discret, et plus respectueux,  
 Se contenta pour lors de lui parler des yeux.  
-L'autre ayant quelque temps entretenu l'Infante,  
-Regardant mon Germain d'une façon choquante, [3]  
+L'autre ayant quelque temps entretenu l'Infante,   [3]
+Regardant mon Germain d'une façon choquante,  
 Règle mieux tes désirs, lui dit-il, et me crois ;  
 Pour aimer Isabelle il faut être né Roi.  
 Cela dit, il porta la main sur son épée,  
@@ -419,13 +419,13 @@ Quoique son action paraisse téméraire,
 Elle n'est pourtant pas d'un homme du vulgaire.  
 
     CONSTANCE.
-Le jour d'après le bal le tournoi commença,  
-Mon frère aux premiers jouts maints Guerriers terrassa, [4] [5]  
+Le jour d'après le bal le tournoi commença,   [4] [5]
+Mon frère aux premiers jouts maints Guerriers terrassa,  
 Je ne te dirai point leurs chiffres, leurs livrées,  
 Leurs devises, leurs noms, leurs superbes entrées,  
 Aussi bien après eux l'inconnu cavalier,  
-Ne parût pas plutôt, qu'il les fit oublier.  
-Tel que le Dieu de Thrace est dépeint dans la fable, [6]  
+Ne parût pas plutôt, qu'il les fit oublier.   [6]
+Tel que le Dieu de Thrace est dépeint dans la fable,  
 Il parut sur les rangs même plus redoutable,  
 Ascagne, je ne puis te le peindre autrement ;  
 Car, quoiqu'il soit de moi haï mortellement,  
@@ -456,8 +456,8 @@ Mais se put-il sauver, ce guerrier plein d'audace ?
     CONSTANCE.
 Comme un vent, comme un foudre, il sortit de la place.  
 Le Roi d'aller après, ordonne vainement.  
-On s'attroupe, on le suit, mais de loin seulement,  
-Cependant son cheval par sa vite carrière, [7]  
+On s'attroupe, on le suit, mais de loin seulement,   [7]
+Cependant son cheval par sa vite carrière,  
 Se dérobant à ceux, qu'il a laissés derrière,  
 Rend leur poursuite vaine, on ne croit pourtant pas,  
 Qu'avec tous les Soldats, qu'on a mis sur ses pas,  
@@ -481,8 +481,8 @@ Qu'on les fasse approcher.
 Maudit soit la harangue, et qui m'en a parlé.  
 Madame donc, Madame, on dit que votre frère  
 Est mort, à mon avis il ne pouvais pis faire.  
-Chacun dit qu'il est mort comme feu Pharaon,  
-Ou comme Phaéton, ou comme fanfaron, [8] [9]  
+Chacun dit qu'il est mort comme feu Pharaon,   [8] [9]
+Ou comme Phaéton, ou comme fanfaron,  
 Enfin comme un des trois, vous choisirez, Madame,  
 Cependant il est mort, Dieu veuille avoir son âme,  
 Pour prendre l'assassin tout est plein de Sergents...  
@@ -514,26 +514,26 @@ Mâtine, ai-je rien dit qui ne soit à propos.
     MAURICETTE. ELLE S'EN VA.
 On t'a pourtant fait taire avec ton beau langage.  
 
-    FILIPIN, SEUL.
-Ne me lanterne point malencontreux visage. [10]  
+    FILIPIN, SEUL. [10]
+Ne me lanterne point malencontreux visage.  
 Sur le premier railleur, qui viendra m'agacer,  
 Je veux de mille coups ma colère passer.  
 Ascagne, qu'il se taise, a dit la dégoûtée,  
 Voyez le grand tourment, elle était bien gâtée  
-D'employer un moment à me bien écouter ;  
-Mais elle a mieux aimé faire la Dame Esther [11]  
-Avec son écuyer, qui la mène et ramène.  
-Vous verrez, qu'elle avait la mère, ou la migraine : [12]  
+D'employer un moment à me bien écouter ;   [11]
+Mais elle a mieux aimé faire la Dame Esther  
+Avec son écuyer, qui la mène et ramène.   [12]
+Vous verrez, qu'elle avait la mère, ou la migraine :  
 Ma harangue ma foi, valait bien un sermon,  
 Et j'allais haranguer comme un Roi Salomon :  
 À son dam, elle y perd plus que moi. Ma bourrique  
-Que je ne trouve point me rend mélancolique.  
-La quinteuse qu'elle est pour se faire chercher, [13]  
+Que je ne trouve point me rend mélancolique.   [13]
+La quinteuse qu'elle est pour se faire chercher,  
 Dans quelque endroit du bois a bien pu se cacher.  
 Dieu la garde des dents tant de loup que de louve,  
 Cependant cherchons-la, quand on cherche l'on trouve.  
-Je puis déjà gager, qu'elle n'est point ici,  
-Ni dans ce gros hallier, ni dans cet autre aussi : [14]  
+Je puis déjà gager, qu'elle n'est point ici,   [14]
+Ni dans ce gros hallier, ni dans cet autre aussi :  
 Mais que vois-je briller dans cette roche obscure,  
 Si j'allais y trouver quelque bonne aventure,  
 Voyons, en bonne foi, voici bien du butin,  
@@ -541,8 +541,8 @@ C'est un bonnet de fer doublé de bon satin,
 Bien doré par-dessus, et l'habit lui ressemble.  
 Dans l'Église du Bourg certain Saint ce me semble  
 Est vêtu tout de même auprès d'un gros dragon,  
-Il faut pour le vêtir dépouiller le jupon,  
-Et puis s'aller quarrer au milieu du village : [15]  
+Il faut pour le vêtir dépouiller le jupon,   [15]
+Et puis s'aller quarrer au milieu du village :  
 Entrons pour cet effet dans le prochain bocage ;  
 Aussi bien j'aperçois certaine nation,  
 Qui depuis peu chez nous vit à discrétion.  
@@ -610,12 +610,12 @@ Tantôt dans notre bourg passant et repassant,
 Je m'en vais bien reluire en mon bel attelage,  
 À ma grosse dondon, pour qui d'amour j'enrage.  
 J'ai peur qu'elle n'en veuille au neveu du curé,  
-Parce que le Dimanche il est tout bigarré,  
-Et qu'il racle des doigts une vieille guiterne ; [16]  
-Mais ce voyant tantôt ainsi qu'un Olopherne, [17]  
-Elle ouvrira les yeux, et se repentira,  
-D'un certain coup de pied qu'elle me desserra, [18]  
-Comme je la courais dans une chènevière. [19]  
+Parce que le Dimanche il est tout bigarré,   [16]
+Et qu'il racle des doigts une vieille guiterne ;   [17]
+Mais ce voyant tantôt ainsi qu'un Olopherne,  
+Elle ouvrira les yeux, et se repentira,   [18]
+D'un certain coup de pied qu'elle me desserra,   [19]
+Comme je la courais dans une chènevière.  
 Elle rue en génisse et devant et derrière ;  
 Mais si nous devenons par le prêtre conjoints,  
 Maître Filipin fait merveille des poings.  
@@ -651,8 +651,8 @@ Et même désarmé ce dangereux garçon.
 Éveillez-le.  
 
     SOLDAT.
-        Holà, ho Cavalier, qui reposes,  
-Il est temps d'entrouvrir tes deux paupières closes. [20]  
+        Holà, ho Cavalier, qui reposes,   [20]
+Il est temps d'entrouvrir tes deux paupières closes.  
 Je le tiens mort ou sourd.  
 
     LICASTE.
@@ -732,8 +732,8 @@ Allons, allons, Monsieur.
     FILIPIN.
         Oui, qui le pourrait faire,  
 Je me tuerai le corps seulement pour vous plaire ;  
-Armez-vous nous verrons votre légèreté,  
-Ou bien courrez devant si vous êtes hâté. [21]  
+Armez-vous nous verrons votre légèreté,   [21]
+Ou bien courrez devant si vous êtes hâté.  
 
 
 # ACTE II
@@ -895,8 +895,8 @@ Vous parlez bas encor.
 Je ne puis m'empêcher...  
 
     CONSTANCE.
-        D'être un fort grand rêveur ;  
-Mais Licaste de Naple arrive. [22]  
+        D'être un fort grand rêveur ;   [22]
+Mais Licaste de Naple arrive.  
 
 
 ## SCÈNE III. Licaste, Constance, Alcandre.
@@ -1656,8 +1656,8 @@ Courut six ou sept fois contre vous.
         Contre moi ?  
 
     SULPICE.
-Oui, Seigneur : sous vos coups il mordit la poussière,  
-Il fallut se sauver en forçant la barrière. [23]  
+Oui, Seigneur : sous vos coups il mordit la poussière,   [23]
+Il fallut se sauver en forçant la barrière.  
 Vous fîtes le Démon.  
 
     FILIPIN.
@@ -1714,10 +1714,10 @@ Il m'appelle son maître, et me dit à ma face,
 Que je suis fils d'un Roi : puis dans une grand place  
 Me fait paraître armé, comme on dit, jusqu'aux dents,  
 Me fait tuer un Prince, et donner des fendants,  
-Tandis qu'il donne aussi des coups dont on trépane.  
-Puis il dit, que chacun devant moi fait la cane, [24]  
-Devant moi, que la peur fait plonger en canard.  
-Et puis toujours monté sur mon cheval Bayard, [25]  
+Tandis qu'il donne aussi des coups dont on trépane.   [24]
+Puis il dit, que chacun devant moi fait la cane,  
+Devant moi, que la peur fait plonger en canard.   [25]
+Et puis toujours monté sur mon cheval Bayard,  
 Me fait en moins de rien traverser des campagnes ;  
 Ensuite trébucher du sommet des montagnes  
 À me rompre le cou ; puis me fait prendre armé  
@@ -1749,8 +1749,8 @@ C'est l'Infante.
 Que nous voyons un peu comme est fait une Infante.  
 À la voir, celle-ci paraît divertissante.  
 Isabelle à part avec Alcandre.
-
-Ma cousine est à craindre en ce rencontre-ci. [26]  
+ [26]
+Ma cousine est à craindre en ce rencontre-ci.  
 
     ALCANDRE.
 C'est elle seulement qui m'inquiète aussi.  
@@ -1794,14 +1794,14 @@ De beaux et grands enfants à qui l'épousera.
 Nous pourrions bien un jour, moi Prince, elle Princesse,  
 Pour ne pas succomber à l'humaine faiblesse,  
 En pompeux appareil, dans Naple aux yeux de tous,  
-Jouer le personnage, et d'épouse, et d'époux.  
-J'en veux dire deux mots au Roi de Partenope : [27]  
+Jouer le personnage, et d'épouse, et d'époux.   [27]
+J'en veux dire deux mots au Roi de Partenope :  
 Au reste, ma moitié doit être Pénélope,  
 N'entretenir jamais d'homme en particulier,  
 Comme présentement vous faites mon Geôlier.  
 Et vous qui me semblez bête un peu trop privée,  
-Pour Geôlier, votre mine est beaucoup relevée ;  
-Ou décoquetez-vous, ou si nous sommes joints, [28]  
+Pour Geôlier, votre mine est beaucoup relevée ;   [28]
+Ou décoquetez-vous, ou si nous sommes joints,  
 Vous n'approcherez pas ma femme sans témoins ?  
 Ou vous vous laisserez tailler comme un Eunuque,  
 Et raser jusqu'au cuir votre longue perruque.  
@@ -1814,16 +1814,16 @@ Vous êtes bien jaloux.
     FILIPIN.
         Et plus que vous ne direz.  
 Les conversations seront très interdites  
-À ma femme, et sur tout ce qu'on nomme cadeaux,  
-Trébuchets inventés par les godelureaux. [29] [30]  
+À ma femme, et sur tout ce qu'on nomme cadeaux,   [29] [30]
+Trébuchets inventés par les godelureaux.  
 
     ALCANDRE.
 Comment un paysan peut-il savoir ces choses ?  
 
     FILIPIN.
 Vous ne croyez donc pas dans les métamorphoses ?  
-Paysan dites-vous ? Apprenez idiot,  
-Que l'on peur devenir Prince de pied d'écot ; [31]  
+Paysan dites-vous ? Apprenez idiot,   [31]
+Que l'on peur devenir Prince de pied d'écot ;  
 Que depuis deux soleils aux champs comme à la ville,  
 Je suis le fils aîné du grand Roi de Sicile.  
 Je ne sais pas comment : mais je m'en trouve bien.  
@@ -1831,8 +1831,8 @@ Et ne changerais pas ma qualité pour rien.
 Feu mon oncle du bourg était maître d'école,  
 Il avait du savoir, quoique la tête folle,  
 Le pédant me faisait lire à devenir fou,  
-Ce que je dis est pris, je ne puis dire où,  
-Ne vous étonnez point des disparates nôtres, [32]  
+Ce que je dis est pris, je ne puis dire où,   [32]
+Ne vous étonnez point des disparates nôtres,  
 Si nous nous fréquentons, vous en verrez bien d'autres.  
 
     ISABELLE.
@@ -2319,8 +2319,8 @@ Que je vous sacrifie afin d'avoir la paix.
 Et moi, Sire, je suis toute prête à tout faire  
 Pour le bien de la paix, pour l'honneur de vous plaire.  
 
-    LE ROI.
-Qu'il est aisé de voir ce qu'elle peut celer ! [33]  
+    LE ROI. [33]
+Qu'il est aisé de voir ce qu'elle peut celer !  
 
     LICASTE.
 Alcandre est à la porte, il allait prendre l'air  
@@ -2353,8 +2353,8 @@ Et que par-dessus tout la soupe abonde en pain.
 J'aime aussi ces pâtés qu'on sert sur une assiette,  
 Que l'on m'en serve au moins la douzaine complète.  
 Les Princes n'osent-ils manger du Parmesan ?  
-J'en étais fort friand quand j'étais paysan.  
-Sulpice sur mon coeur cette belle Infantine, [34]  
+J'en étais fort friand quand j'étais paysan.   [34]
+Sulpice sur mon coeur cette belle Infantine,  
 Fera de grands progrès avec sa bonne mine.  
 Comment diable ? Ses yeux me sont autant d'éclairs,  
 Non pas de ceux qui font scandale dans les airs ;  
@@ -2376,8 +2376,8 @@ Les vieillards son toujours des animaux changeants.
 Licaste, eusses-tu cru pareille extravagance ?  
 Avec un Prince tel peut-on faire alliance ?  
 Un État tel qu'il soit est-il bien soutenu  
-D'un Prince né peu sage, ou bien tel devenu ?  
-Ha je ne voudrais pas, ni pour fils ni pour gendre, [35]  
+D'un Prince né peu sage, ou bien tel devenu ?   [35]
+Ha je ne voudrais pas, ni pour fils ni pour gendre,  
 Le plus vaillant des Rois, qui fut fou comme Alcandre.  
 
     FILIPIN.
@@ -2386,8 +2386,8 @@ Vous avez par ma foi quelque chose en l'esprit,
 J'aime les joviaux, et n'aime pas les sages,  
 Qui craignent en riant de froncer leurs visages.  
 Réjouissez-vous donc, et que cet air obscur,  
-Disparaisse du front d'un beau-père futur.  
-Je vous veux rendre gai par une chansonnette [36]  
+Disparaisse du front d'un beau-père futur.   [36]
+Je vous veux rendre gai par une chansonnette  
 Sur certaines amours depuis peu par moi faite.  
 CHANSON.
 
@@ -2403,16 +2403,16 @@ En bonne foi,
 Plus heureux que Reine et Roi.  
 Chacun pour soi,  
 Ne vivrons qu'à notre Loi,  
-Si quelqu'un en souffle,  
-Peste de maroufle. [37]  
+Si quelqu'un en souffle,   [37]
+Peste de maroufle.  
 Ô que nous deux esprits prompts !  
 Disputerons :  
 Mais nous nous apaiserons,  
 Et chasserons,  
 Tout autant que nous pourrons :  
 De nous la famine,  
-Et la triste mine.  
-N'est-ce pas bien chanter, et mieux qu'un sansonnet ? [38]  
+Et la triste mine.   [38]
+N'est-ce pas bien chanter, et mieux qu'un sansonnet ?  
 Donnez-moi votre voix, ou parlez du bonnet.  
 
     LE ROI.
@@ -2428,8 +2428,8 @@ Je m'attends bien aussi de vivre en liberté.
 Je reviendrai bientôt retrouver votre Altesse.  
 
     FILIPIN.
-Point si vous ne voulez, et que rien ne vous presse,  
-Adieu jusqu'au revoir, soyez le bien sorti, [39]  
+Point si vous ne voulez, et que rien ne vous presse,   [39]
+Adieu jusqu'au revoir, soyez le bien sorti,  
 J'aurais bientôt sans vous quelque part pris parti.  
 Disons-nous des douceurs Princesse de mon âme,  
 J'aime ces mots d'amour, de martyre, de flamme,  
@@ -2457,8 +2457,8 @@ Mon Prince, rions donc.
     FILIPIN.
         Non avec vous fripon,  
 Qui sortez avec moi des bornes de bouffon.  
-Je me souviens fort bien de vos actions folles :  
-Étant seuls, elles vont jusqu'à des croquignoles ; [40]  
+Je me souviens fort bien de vos actions folles :   [40]
+Étant seuls, elles vont jusqu'à des croquignoles ;  
 Quand c'est devant le monde, aussitôt le respect,  
 Vous arrête les mains, et vous ferme le bec,  
 Je me souviens fort bien d'une nuit mal plaisante,  
@@ -2547,8 +2547,8 @@ Pour lequel j'ai procès avec le barbier,
 C'est un maudit menteur. Le clocher du Village  
 Est tout juste en sa place, et je vois le bocage  
 Qui joins le pré commun, et je me trompe fort  
-Ou nous sommes ici dans le donjon du Fort  
-Et par quel dessein donc, par quelle enchanterie. [41]  
+Ou nous sommes ici dans le donjon du Fort   [41]
+Et par quel dessein donc, par quelle enchanterie.  
 Suis-je ici ? Suis-je Prince ? Aide-moi je te prie,  
 Sulpice, à découvrir la vérité du fait,  
 Je te pardonnerai tout ce que tu m'as fait,  
@@ -2592,8 +2592,8 @@ Sans votre Altesse.
         Il faut comme l'on est venu  
 S'en retourner, mon Prince, et vite.  
 
-    FILIPIN.
-        À la malheure [42]  
+    FILIPIN. [42]
+        À la malheure  
 M'a-t-on fait fils de Roi.  
 
     SULPICE.

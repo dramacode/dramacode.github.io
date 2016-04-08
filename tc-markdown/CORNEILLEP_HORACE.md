@@ -79,14 +79,14 @@ Puisqu'elle va combattre, elle va s'agrandir.
 Bannissez, bannissez une frayeur si vaine,  
 Et concevez des voeux dignes d'une Romaine.  
 
-    SABINE.
-Je suis romaine, hélas ! Puisque mon époux l'est ; [1]  
+    SABINE. [1]
+Je suis romaine, hélas ! Puisque mon époux l'est ;  
 L'Hymen me fait de Rome embrasser l'intérêt,  
 Mais il tiendrait mon âme en esclave enchaînée  
-S'il m'ôtait le penser des lieux où je suis née.  
-Albe où j'ai commencé de respirer le jour, [2]  
-Albe mon cher pays et mon premier amour,  
-Quand entre nous et toi je vois la guerre ouverte, [3]  
+S'il m'ôtait le penser des lieux où je suis née.   [2]
+Albe où j'ai commencé de respirer le jour,  
+Albe mon cher pays et mon premier amour,   [3]
+Quand entre nous et toi je vois la guerre ouverte,  
 Je crains notre victoire autant que notre perte.  
 Rome, si tu te plains que c'est là te trahir,  
 Fais-toi des ennemis que je puisse haïr :  
@@ -120,8 +120,8 @@ Ses voeux seront pour toi, si tu n'es plus contre elle.
     JULIE.
 Ce discours me surprend, vu que depuis le temps  
 Qu'on a contre son peuple armé nos combattants,  
-Je vous ai vu pour elle autant d'indifférence,  
-Que si dedans nos murs vous aviez pris naissance. [4]  
+Je vous ai vu pour elle autant d'indifférence,   [4]
+Que si dedans nos murs vous aviez pris naissance.  
 J'admirais la vertu qui réduisait en vous  
 Vos plus chers intérêts à ceux de votre époux,  
 Et je vous consolais au milieu de vos plaintes,  
@@ -151,8 +151,8 @@ Je ne suis point pour Albe, et ne suis plus pour Rome,
 Je crains pour l'une et l'autre en ce dernier effort,  
 Et serai du parti qu'affligera le sort.  
 Égale à tous les deux jusques à la victoire,  
-Je prendrai part aux maux, sans en prendre à la gloire ;  
-Et garde, en attendant ses funeses rigueurs, [5]  
+Je prendrai part aux maux, sans en prendre à la gloire ;   [5]
+Et garde, en attendant ses funeses rigueurs,  
 Mes larmes aux vaincus, et ma haine aux vainqueurs.  
 
     JULIE.
@@ -162,8 +162,8 @@ Et qu'à nos yeux Camille agit bien autrement !
 Son frère est votre époux, le vôtre est son amant,  
 Mais elle voit d'un oeil bien différent du vôtre,  
 Son sang dans une armée, et son amour dans l'autre.  
-Lorsque vous conserviez un esprit tout romain,  
-Le sien irrésolu, tremblotant, incertain, [6]  
+Lorsque vous conserviez un esprit tout romain,   [6]
+Le sien irrésolu, tremblotant, incertain,  
 De la moindre mêlée appréhendait l'orage,  
 De tous les deux partis détestait l'avantage,  
 Au malheur des vaincus donnait toujours ses pleurs,  
@@ -179,12 +179,12 @@ Pour ce rival, sans doute, elle quitte mon frère,
 Son esprit ébranlé par les objets présents  
 Ne trouve point d'absent aimable après deux ans.  
 Mais excusez l'ardeur d'une amour fraternelle,  
-Le soin que j'ai de lui me fait craindre tout d'elle,  
-Je forme des soupçons d'un sujet trop léger, [7]  
+Le soin que j'ai de lui me fait craindre tout d'elle,   [7]
+Je forme des soupçons d'un sujet trop léger,  
 Le jour d'une bataille est mal propre à changer,  
 D'un nouveau trait alors peu d'âmes sont blessées,  
-Et dans un si grand trouble on a d'autres pensées :  
-Mais on n'a pas aussi de si gais entretiens, [8]  
+Et dans un si grand trouble on a d'autres pensées :   [8]
+Mais on n'a pas aussi de si gais entretiens,  
 Ni de contentements qui soient pareils aux siens.  
 
     JULIE.
@@ -206,8 +206,8 @@ Cherche la solitude à cacher ses soupirs.
 
 ## SCÈNE II. Camille, Julie.
 
-    CAMILLE.
-Pourquoi fuir, et vouloir que je vous entretienne ? [9]  
+    CAMILLE. [9]
+Pourquoi fuir, et vouloir que je vous entretienne ?  
 Croit-elle ma douleur moins vive que la sienne,  
 Et que plus insensible à de si grands malheurs  
 À mes tristes discours je mêle moins de pleurs ?  
@@ -215,8 +215,8 @@ De pareilles frayeurs mon âme est alarmée,
 Comme elle je perdrai dans l'une et l'autre armée,  
 Je verrai mon amant, mon plus unique bien,  
 Mourir pour son pays, ou détruire le mien :  
-Et cet objet d'amour devenir pour ma peine  
-Ou digne de mes pleurs, ou digne de ma haine. [10]  
+Et cet objet d'amour devenir pour ma peine   [10]
+Ou digne de mes pleurs, ou digne de ma haine.  
 Hélas !  
 
     JULIE.
@@ -239,8 +239,8 @@ Quoi ! Vous appelez crime un change raisonnable ?
     CAMILLE.
 Quoi ! Le manque de foi vous semble pardonnable ?  
 
-    JULIE.
-Envers un ennemi qui nous peut obliger ? [11]  
+    JULIE. [11]
+Envers un ennemi qui nous peut obliger ?  
 
     CAMILLE.
 D'un serment solennel qui peut nous dégager ?  
@@ -257,8 +257,8 @@ N'en imaginez rien qu'à son désavantage,
 De mon contentement un autre était l'objet.  
 Mais pour sortir d'erreur sachez-en le sujet,  
 Je garde à Curiace une amitié trop pure  
-Pour souffrir plus longtemps qu'on m'estime parjure.  
-Quelques cinq ou six mois après que de sa soeur [12]  
+Pour souffrir plus longtemps qu'on m'estime parjure.   [12]
+Quelques cinq ou six mois après que de sa soeur  
 L'hymenée est rendu mon frère possesseur  
 (Vous le savez Julie) il obtint de mon père  
 Que de ses chastes feux je serais le salaire.  
@@ -302,8 +302,8 @@ Tout ce qu'on me disait me parlait de ses feux,
 Tout ce que je disais l'assurait de mes voeux.  
 Le combat général aujourd'hui se hasarde,  
 J'en sus hier la nouvelle, et je n'y pris pas garde,  
-Mon esprit rejetait ces funestes objets  
-Charmé des doux pensers d'hymen et de la paix. [13]  
+Mon esprit rejetait ces funestes objets   [13]
+Charmé des doux pensers d'hymen et de la paix.  
 La nuit a dissipé des erreurs si charmantes,  
 Mille songes affreux, mille images sanglantes,  
 Ou plutôt mille amas de carnage et d'horreur  
@@ -327,9 +327,9 @@ Par là finit la guerre, et la paix lui succède.
     CAMILLE.
 Dure à jamais le mal s'il y faut ce remède !  
 Soit que Rome y succombe ou qu'Albe ait le dessous,  
-Cher amant, n'attends plus d'être un jour mon époux,  
-Mon coeur (quelque grand feu qui pour toi le consomme) [14]  
-Ni veut ni le vainqueur, ni l'esclave de Rome. [15]  
+Cher amant, n'attends plus d'être un jour mon époux,   [14]
+Mon coeur (quelque grand feu qui pour toi le consomme)   [15]
+Ni veut ni le vainqueur, ni l'esclave de Rome.  
 Mais quel objet nouveau se présente en ces lieux ?  
 Est-ce toi Curiace ? En croirai-je mes yeux ?  
 
@@ -421,14 +421,14 @@ Pourvu qu'à moins de sang nous voulions l'apaiser,
 Elle nous unira, loin de nous diviser.  
 Nommons des combattants pour la cause commune,  
 Que chaque peuple aux siens attache sa fortune,  
-Et suivant ce que d'eux ordonnera le sort,  
-Que le parti plus faible obéisse au plus fort : [16]  
+Et suivant ce que d'eux ordonnera le sort,   [16]
+Que le parti plus faible obéisse au plus fort :  
 Mais sans indignité pour des guerriers si braves,  
 Qu'ils deviennent sujets sans devenir esclaves,  
 Sans honte, sans tribut, et sans autre rigueur  
 Que de suivre en tous lieux les drapeaux du vainqueur.  
-Ainsi nos deux États ne feront qu'un empire. »  
-À ces mots il se tait, d'aise chacun soupire, [17]  
+Ainsi nos deux États ne feront qu'un empire. »   [17]
+À ces mots il se tait, d'aise chacun soupire,  
 Chacun, jetant les yeux dans un rang ennemi  
 Reconnaît un beau-frère, un cousin, un ami,  
 Ils s'étonnent comment leurs mains de sang avides  
@@ -482,18 +482,18 @@ J'irai rendre pour vous grâces aux immortels.
 Ainsi Rome n'a point séparé son estime ;  
 Elle eût cru faire ailleurs un choix illégitime,  
 Cette superbe ville en vos frères et vous  
-Trouve les trois guerriers qu'elle préfère à tous,  
-Et ne nous opposant d'autres bras que les vôtres, [18]  
-D'une seule maison brave toutes les nôtres :  
-Nous croirons, à la voir toute entière en vos mains, [19]  
+Trouve les trois guerriers qu'elle préfère à tous,   [18]
+Et ne nous opposant d'autres bras que les vôtres,  
+D'une seule maison brave toutes les nôtres :   [19]
+Nous croirons, à la voir toute entière en vos mains,  
 Que hors les fils d'Horace il n'est point de Romains :  
 Ce choix pouvait combler trois familles de gloire,  
 Consacrer hautement leurs noms à la mémoire,  
 Oui, l'honneur que reçoit la vôtre par ce choix  
 En pouvait à bon titre immortaliser trois,  
 Et puisque c'est chez vous que mon heur et ma flamme  
-M'ont fait placer ma soeur et choisir une femme,  
-Ce que je vous dois être et ce que je vous suis [20]  
+M'ont fait placer ma soeur et choisir une femme,   [20]
+Ce que je vous dois être et ce que je vous suis  
 Me font y prendre part autant que je le puis ;  
 Mais un autre intérêt tient ma joie en contrainte,  
 Et parmi ses douceurs mêle beaucoup de crainte ;  
@@ -505,8 +505,8 @@ Je vois trop dans ce choix ses funestes projets
 Et me compte déjà pour un de vos sujets.  
 
     HORACE.
-Loin de trembler pour Albe, il vous faut plaindre Rome  
-Vu ceux qu'elle rejette et les trois qu'elle nomme, [21]  
+Loin de trembler pour Albe, il vous faut plaindre Rome   [21]
+Vu ceux qu'elle rejette et les trois qu'elle nomme,  
 C'est un aveuglement pour elle bien fatal  
 D'avoir tant à choisir, et de choisir si mal.  
 Mille de ses enfants beaucoup plus dignes d'elle  
@@ -548,8 +548,8 @@ Dans un si beau trépas ils sont les seuls à plaindre,
 La gloire en est pour vous, et la perte pour eux,  
 Il vous fait immortel et les rend malheureux,  
 On perd tout quand on perd un ami si fidèle ;  
-Mais Flavian m'apporte ici quelque nouvelle,  
-Albe de trois guerriers a-t-elle fait le choix ? [22]  
+Mais Flavian m'apporte ici quelque nouvelle,   [22]
+Albe de trois guerriers a-t-elle fait le choix ?  
 
 
 ## SCÈNE II. Horace, Curiace, Flavian.
@@ -608,8 +608,8 @@ L'est bien moins que l'honneur qu'on nous fait à tous deux.
 Le sort qui de l'honneur nous ouvre la barrière  
 Offre à notre constance une illustre matière,  
 Il épuise sa force à former un malheur  
-Pour mieux se mesurer avec notre valeur,  
-Comme il ne nous prend pas pour des âmes peu communes, [23]  
+Pour mieux se mesurer avec notre valeur,   [23]
+Comme il ne nous prend pas pour des âmes peu communes,  
 Hors de l'ordre commun il nous fait des fortunes.  
 Combattre un ennemi pour le salut de tous,  
 Et contre un inconnu s'exposer seul aux coups,  
@@ -692,9 +692,9 @@ Souffrez que je l'admire, et ne l'imite point.
 Non, non, n'embrassez pas de vertu par contrainte,  
 Et puisque vous trouvez plus de charme à la plainte ;  
 En toute liberté goûtez un bien si doux,  
-Voici venir ma soeur pour se plaindre avec vous.  
-Je vais revoir la vôtre, et résoudre son âme [24]  
-À se ressouvenir qu'elle est toujours ma femme, [25]  
+Voici venir ma soeur pour se plaindre avec vous.   [24]
+Je vais revoir la vôtre, et résoudre son âme   [25]
+À se ressouvenir qu'elle est toujours ma femme,  
 À vous aimer encore, si je meurs par vos mains,  
 Et prendre en son malheur des sentiments romains  
 
@@ -714,23 +714,23 @@ Et si par mon trépas il retourne vainqueur,
 Ne le recevez point en meurtrier d'un frère,  
 Mais en homme d'honneur qui fait ce qu'il doit faire,  
 Qui sert bien son pays, et sait montrer à tous,  
-Par sa haute vertu, qu'il est digne de vous ;  
-Comme si je vivais achevez l'hyménée ; [26]  
+Par sa haute vertu, qu'il est digne de vous ;   [26]
+Comme si je vivais achevez l'hyménée ;  
 Mais si ce fer aussi tranche sa destinée  
 Faites à ma victoire un pareil traitement,  
 Ne me reprochez point la mort de votre amant,  
-Vos larmes vont couler, et votre coeur se presse,  
-Consommez avec lui toute cette faiblesse, [27]  
-Querellez Ciel et Terre, et maudissez le sort,  
-Mais après le combat ne pensez plus aux mort. [28]  
-Je ne vous laisserai qu'un moment avec elle, [29]  
+Vos larmes vont couler, et votre coeur se presse,   [27]
+Consommez avec lui toute cette faiblesse,  
+Querellez Ciel et Terre, et maudissez le sort,   [28]
+Mais après le combat ne pensez plus aux mort.   [29]
+Je ne vous laisserai qu'un moment avec elle,  
 Puis nous irons ensemble où l'honneur nous appelle.  
 
 
 ## SCÈNE V. Curiace, Camille.
 
-    CAMILLE.
-Iras-tu, ma chère âme, et ce funeste honneur [30]  
+    CAMILLE. [30]
+Iras-tu, ma chère âme, et ce funeste honneur  
 Te plaît-il aux dépens de tout notre bonheur ?  
 
     CURIACE.
@@ -746,24 +746,24 @@ Je vous plains, je me plains, mais il y faut aller.
     CAMILLE.
 Non, je te connais mieux, tu veux que je te prie,  
 Et qu'ainsi mon pouvoir t'excuse à ta patrie,  
-Tu n'es que trop fameux par tes autres exploits,  
-Albe a reçu par eux tout ce que tu lui dois. [31]  
+Tu n'es que trop fameux par tes autres exploits,   [31]
+Albe a reçu par eux tout ce que tu lui dois.  
 Autre n'a mieux que toi soutenu cette guerre,  
 Autre de plus de morts n'a couvert notre terre,  
 Ton nom ne peut plus croître, il ne lui manque rien,  
 Souffre qu'un autre ici puisse ennoblir le sien.  
 
     CURIACE.
-Que je souffre à mes yeux qu'on ceigne une autre tête  
-Des lauriers immortels que la gloire m'apprête, [32]  
+Que je souffre à mes yeux qu'on ceigne une autre tête   [32]
+Des lauriers immortels que la gloire m'apprête,  
 Ou que tout mon pays reproche à ma vertu  
 Qu'il aurait triomphé si j'avais combattu,  
 Et que sous mon amour ma valeur endormie  
 Couronne tant d'exploits d'une telle infamie ?  
 Non, Albe, après l'honneur que j'ai reçu de toi  
-Tu ne succomberas ni vaincras que par moi ;  
-Tu m'as commis ton sort, je t'en rendrai bon compte, [33]  
-Et vivrai sans reproche, ou finirai sans honte. [34]  
+Tu ne succomberas ni vaincras que par moi ;   [33]
+Tu m'as commis ton sort, je t'en rendrai bon compte,   [34]
+Et vivrai sans reproche, ou finirai sans honte.  
 
     CAMILLE.
 Quoi ! Tu ne veux pas voir qu'ainsi tu me trahis !  
@@ -780,14 +780,14 @@ Ta soeur de son mari !
 Le choix d'Albe et de Rome ôte toute douceur  
 Aux noms jadis si doux de beau-frère et de soeur.  
 
-    CAMILLE.
-Viendras-tu point encore me présenter sa tête [35]  
+    CAMILLE. [35]
+Viendras-tu point encore me présenter sa tête  
 Et demander ma main pour prix de ta conquête !  
 
     CURIACE.
 Il n'y faut plus penser, en l'état où je suis,  
-Vous aimer sans espoir c'est tout ce que je puis.  
-Vous pleurez, ma chère âme. [36]  
+Vous aimer sans espoir c'est tout ce que je puis.   [36]
+Vous pleurez, ma chère âme.  
 
     CAMILLE.
         Il faut bien que je pleure :  
@@ -801,14 +801,14 @@ Et dit qu'il m'aime encore alors qu'il m'assassine.
 Que les pleurs d'une amante ont de puissants discours,  
 Et qu'un bel oeil est fort avec un tel secours !  
 Que mon coeur s'attendrit à cette triste vue !  
-Ma constance contre elle à regret s'évertue.  
-N'attaquez plus ma gloire avecque vos douleurs, [37]  
-Et laissez-moi sauver ma vertu de vos pleurs ; [38]  
+Ma constance contre elle à regret s'évertue.   [37]
+N'attaquez plus ma gloire avecque vos douleurs,   [38]
+Et laissez-moi sauver ma vertu de vos pleurs ;  
 Je sens qu'elle chancelle, et défend mal la place :  
 Plus je suis votre amant, moins je suis Curiace.  
 Faible d'avoir déjà combattu l'amitié,  
-Vaincrait-elle à la fois l'amour et la pitié ?  
-Allez, ne m'aimez plus, ne versez plus de larmes, [39]  
+Vaincrait-elle à la fois l'amour et la pitié ?   [39]
+Allez, ne m'aimez plus, ne versez plus de larmes,  
 Ou j'oppose l'offense à de si fortes armes,  
 Je me défendrai mieux contre votre courroux,  
 Et pour le mériter, je n'ai plus d'yeux pour vous,  
@@ -910,9 +910,9 @@ Ces héros qu'Albe et Rome ont pris pour défenseurs ?
 
     HORACE.
 Que t'ai-je fait, Sabine, et quelle est mon offense  
-Qui t'oblige à chercher une telle vengeance ?  
-Que t'a fait mon honneur, et pourquoi viens-tu [40]  
-Avecque tout ta force attaquer ma vertu ? [41]  
+Qui t'oblige à chercher une telle vengeance ?   [40]
+Que t'a fait mon honneur, et pourquoi viens-tu   [41]
+Avecque tout ta force attaquer ma vertu ?  
 Du moins contente-toi de l'avoir étonnée  
 Et me laisse achever cette grande journée.  
 Tu me viens de réduire en un étrange point,  
@@ -1041,11 +1041,11 @@ Si vous traitez ainsi les voeux de l'innocence ?
 
     SABINE.
 En est-ce fait, Julie, et que m'apportez-vous ?  
-Est-ce la mort d'un frère, ou celle d'un époux ?  
-Ou le triste succès de leurs armes impies [42]  
-De tous les combattants a fait autant d'hosties, [43]  
-Et m'enviant l'horreur que j'aurais des vainqueurs,  
-Pour tous tant qu'ils étaient m'a condamnée aux pleurs ? [44]  
+Est-ce la mort d'un frère, ou celle d'un époux ?   [42]
+Ou le triste succès de leurs armes impies   [43]
+De tous les combattants a fait autant d'hosties,  
+Et m'enviant l'horreur que j'aurais des vainqueurs,   [44]
+Pour tous tant qu'ils étaient m'a condamnée aux pleurs ?  
 
     JULIE.
 Quoi, ce qui s'est passé vous l'ignorez encore ?  
@@ -1089,21 +1089,21 @@ Et charme tellement leur âme ambitieuse,
 Qu'alors qu'on les déplore ils s'estiment heureux,  
 Et prennent pour affront la pitié qu'on a d'eux,  
 Le trouble des deux camps souille leur renommée,  
-Ils combattront plutôt et l'une et l'autre armée,  
-Et mourront par les mains qui les ont séparés [45]  
-Que quitter les honneurs qui leur sont déférés. [46]  
+Ils combattront plutôt et l'une et l'autre armée,   [45]
+Et mourront par les mains qui les ont séparés   [46]
+Que quitter les honneurs qui leur sont déférés.  
 
-    SABINE.
-Quoi ? Dans leur dureté ces coeurs de fers s'obstinent ! [47]  
+    SABINE. [47]
+Quoi ? Dans leur dureté ces coeurs de fers s'obstinent !  
 
-    JULIE.
-Ils le font, mais d'ailleurs les deux camps se mutinent : [48]  
+    JULIE. [48]
+Ils le font, mais d'ailleurs les deux camps se mutinent :  
 Et leurs cris des deux parts poussés en même temps,  
 Demandent la bataille, ou d'autres combattants.  
 La présence des chefs à peine est respectée,  
 Leur pouvoir est douteux, leur voix mal écoutée,  
-Le roi même s'étonne, et pour dernier effort,  
-« Puisque chacun, dit-il, s'échauffe en ce discord, [49]  
+Le roi même s'étonne, et pour dernier effort,   [49]
+« Puisque chacun, dit-il, s'échauffe en ce discord,  
 Consultons des grands Dieux la majesté sacrée  
 Et voyons si ce change à leurs bontés agrée ;  
 Quel impie osera se prendre à leur vouloir,  
@@ -1118,8 +1118,8 @@ Dans l'une et l'autre armée on s'en fait une loi,
 Comme si toutes deux le connaissaient pour roi.  
 Le reste s'apprendra par la mort des victimes.  
 
-    SABINE.
-Les Dieux n'avoueront point un combat plein de crimes, [50]  
+    SABINE. [50]
+Les Dieux n'avoueront point un combat plein de crimes,  
 J'en espère beaucoup, puisqu'il est différé,  
 Et je commence à voir ce que j'ai désiré.  
 
@@ -1182,21 +1182,21 @@ Ne vous entretenir que de propos d'amour,
 Et que nous n'emploierons la fin de la journée  
 Qu'aux doux préparatifs d'un heureux hyménée.  
 
-    SABINE.
-Comme vous je l'espère. [51]  
+    SABINE. [51]
+Comme vous je l'espère.  
 
-    CAMILLE.
-        Et je n'ose y songer. [52]  
+    CAMILLE. [52]
+        Et je n'ose y songer.  
 
-    JULIE.
-L'effet vous fera voir qui sait mieux en juger. [53]  
+    JULIE. [53]
+L'effet vous fera voir qui sait mieux en juger.  
 
 
 ## SCÈNE IV. Sabine, Camille.
 
     SABINE.
-Parmi nos déplaisirs souffrez que je vous blâme,  
-Je ne puis approuver tant de trouble en notre âme, [54]  
+Parmi nos déplaisirs souffrez que je vous blâme,   [54]
+Je ne puis approuver tant de trouble en notre âme,  
 Que feriez-vous, ma soeur, au point où je me vois,  
 Si vous aviez à craindre autant que je le dois,  
 Et si vous attendiez de leurs armes fatales  
@@ -1210,8 +1210,8 @@ Les vôtres auprès d'eux vous sembleront un songe.
 La seule mort d'Horace est à craindre pour vous,  
 Des frères ne sont rien à l'égal d'un époux,  
 L'hymen qui nous attache en une autre famille,  
-Nous détache de celle où l'on a vécu fille,  
-On ne compare point des noeuds si différents, [55]  
+Nous détache de celle où l'on a vécu fille,   [55]
+On ne compare point des noeuds si différents,  
 Et pour suivre un mari l'on quitte ses parents :  
 Mais si près d'un hymen l'amant que donne un père  
 Nous est moins qu'un époux et non pas moins qu'un frère,  
@@ -1235,9 +1235,9 @@ Aussi bien qu'un époux ils sont d'autres nous-mêmes,
 Et tous maux sont pareils alors qu'ils sont extrêmes :  
 Mais l'amant qui vous charme, et pour qui vous brûlez  
 Ne vous est après tout que ce que vous voulez,  
-Une mauvaise humeur, un peu de jalousie,  
-Le peuvent mettre hors de votre fantaisie, [56]  
-Ce qu'elles font souvent faites le par raison, [57]  
+Une mauvaise humeur, un peu de jalousie,   [56]
+Le peuvent mettre hors de votre fantaisie,   [57]
+Ce qu'elles font souvent faites le par raison,  
 Et laissez votre sang hors de comparaison,  
 C'est crime qu'opposer des liens volontaires  
 À ceux que la naissance a rendus nécessaires.  
@@ -1271,15 +1271,15 @@ Vos frères sont aux mains, les dieux ainsi l'ordonnent.
     SABINE.
 Je veux bien l'avouer, ces nouvelles m'étonnent,  
 Et je m'imaginais dans la divinité  
-Beaucoup moins d'injustice, et bien plus de bonté.  
-Ne nous consolez point, la raison importune [58]  
-Quand elle ose combattre une telle infortune. [59]  
-Nous avons en nos mains la fin de nos douleurs,  
-Qui peut vouloir mourir, peut braver les malheurs. [60]  
+Beaucoup moins d'injustice, et bien plus de bonté.   [58]
+Ne nous consolez point, la raison importune   [59]
+Quand elle ose combattre une telle infortune.  
+Nous avons en nos mains la fin de nos douleurs,   [60]
+Qui peut vouloir mourir, peut braver les malheurs.  
 Nous pourrions aisément faire en votre présence  
 De notre désespoir une fausse constance,  
-Mais quand on peut sans honte être sans fermeté,  
-La vouloir contraire, c'est une lâcheté ; [61]  
+Mais quand on peut sans honte être sans fermeté,   [61]
+La vouloir contraire, c'est une lâcheté ;  
 L'usage d'un tel art nous le laissons aux hommes,  
 Et ne voulons passer que pour ce que nous sommes.  
 Nous ne demandons point qu'un courage si fort  
@@ -1474,8 +1474,8 @@ Il me suffit.
         Mais l'autre est un rare bonheur,  
 De tous les trois chez vous il doit tenir la place.  
 
-    LE VIEIL HORACE.
-Eut-il fait avec lui périr le nom d'Horace ? [62]  
+    LE VIEIL HORACE. [62]
+Eut-il fait avec lui périr le nom d'Horace ?  
 
     VALÈRE.
 Seul vous le maltraitez après ce qu'il a fait.  
@@ -1511,11 +1511,11 @@ Lorsqu'Albe sous ses lois range notre destin ?
 Que parlez-vous ici d'Albe, et de sa victoire ?  
 Ignorez-vous encore la moitié de l'histoire ?  
 
-    LE VIEIL HORACE.
-Le combat par sa fuit n'est-il pas terminé ? [63]  
+    LE VIEIL HORACE. [63]
+Le combat par sa fuit n'est-il pas terminé ?  
 
-    VALÈRE.
-Albe ainsi quelque temps se l'est imaginé, [64]  
+    VALÈRE. [64]
+Albe ainsi quelque temps se l'est imaginé,  
 Mais on a bientôt vu qu'il ne fuyait qu'en homme  
 Qui savait ménager l'avantage de Rome.  
 
@@ -1553,8 +1553,8 @@ Hélas !
         Tout hors d'haleine il prend pourtant sa place,  
 Et redouble bientôt la victoire d'Horace,  
 Son courage sans force est un débile appui,  
-Voulant venger son frère il tombe auprès de lui.  
-L'air résonne de cris qu'au ciel chacun envoie, [65]  
+Voulant venger son frère il tombe auprès de lui.   [65]
+L'air résonne de cris qu'au ciel chacun envoie,  
 Albe en jette d'angoisse et les Romains de joie.  
 Comme notre héros se voit près d'achever,  
 C'est peu pour lui de vaincre, il veut encor braver :  
@@ -1574,28 +1574,28 @@ Et son trépas de Rome établit la puissance.
 Ô d'un État penchant l'inespéré secours !  
 Vertu digne de Rome, et sang digne d'Horace !  
 Appui de ton pays, et gloire de ta race !  
-Quand pourrai-je étouffer dans tes embrassements  
-L'horreur dont j'ai formé de si faux sentiments ? [66]  
+Quand pourrai-je étouffer dans tes embrassements   [66]
+L'horreur dont j'ai formé de si faux sentiments ?  
 Quand pourra mon amour baigner avec tendresse  
 Ton front victorieux de larmes d'allégresse ?  
 
     VALÈRE.
 Vos caresses bientôt pourront se déployer,  
-Le Roi dans un moment vous le va renvoyer,  
-Et remet à demain ce pompeux sacrifice [67]  
-Que nous devons aux Dieux par un tel bénéfice. [68]  
+Le Roi dans un moment vous le va renvoyer,   [67]
+Et remet à demain ce pompeux sacrifice   [68]
+Que nous devons aux Dieux par un tel bénéfice.  
 Aujourd'hui seulement on s'acquitte vers eux  
 Par des chants de victoire et par de simples voeux ;  
 C'est où le roi le mène, et tandis il m'envoie  
 Faire office vers vous de douleur et de joie.  
 Mais cet office encore n'est pas assez pour lui,  
-Il y viendra lui-même et peut-être aujourd'hui,  
-Cette belle action si puissamment le touche, [69]  
-Qu'il vous veut rendre grêce, et de sa propre bouche, [70]  
-Et combien vous montrez d'ardeur pour son service. [71]  
+Il y viendra lui-même et peut-être aujourd'hui,   [69]
+Cette belle action si puissamment le touche,   [70]
+Qu'il vous veut rendre grêce, et de sa propre bouche,   [71]
+Et combien vous montrez d'ardeur pour son service.  
 
-    LE VIEIL HORACE.
-Je vous devrai beaucoup un si bon office. [72]  
+    LE VIEIL HORACE. [72]
+Je vous devrai beaucoup un si bon office.   [73]
 
 
 ## SCÈNE III. Le Vieil Horace, Camille.
@@ -1780,8 +1780,8 @@ Voir le dernier Romain à son dernier soupir,
 Moi seule en être cause, et mourir de plaisir !  
 
     HORACE, METTANT L'ÉPÉE, À LA MAIN, ET POURSUIVANT SA SOEUR QUI S'ENFUIT.
-C'est trop, ma patience à la raison fait place ;  
-Va dedans les enfers joindre ton Curiace. [73]  
+C'est trop, ma patience à la raison fait place ;   [74]
+Va dedans les enfers joindre ton Curiace.  
 
     CAMILLE, BLESSÉE DERRIÈRE LE THÉÂTRE.
 Ah ! Traître !  
@@ -2338,16 +2338,16 @@ En un même tombeau voie enfermer leurs corps.
 
 ## SCÈNE DERNIÈRE.
 
-    JULIE.
-Camille, ainsi le ciel t'avait bien avertie [74]  
+    JULIE. [75]
+Camille, ainsi le ciel t'avait bien avertie  
 Des tragiques succès qu'il t'avait préparés,  
 Mais toujours du secret il cache une partie  
 Aux esprits les plus nets, et les mieux éclairés,  
 Il semblait nous parler de ton proche hyménée,  
 Il semblait tout promettre à tes voeux innocents,  
 Et nous cachant ainsi ta mort inopinée  
-Sa voix n'est que trop vraie en trompant notre sens.  
-Albe et Rome aujourd'hui prennent une autre face, [75]  
+Sa voix n'est que trop vraie en trompant notre sens.   [76]
+Albe et Rome aujourd'hui prennent une autre face,  
 Tes voeux sont exaucés, elles goûtent la paix,  
 Et tu vas être unie avec ton Curiace  
 Sans qu'aucun mauvais sort t'en sépare jamais.  
@@ -2563,8 +2563,10 @@ Je vous devrai beaucoup pour un si bon office.
 
 [72] Variante, v. 1162 de l'éd. 1682 est "De tels remerciements ont pour moi trop d'éclat,"
 
-[73] v. 1320, l'édition 1660 remplace "joindre" par "plaindre".
+[73] Variante 4, en annexe.
 
-[74] Cette scène est supprimée à partir de 1660.
+[74] v. 1320, l'édition 1660 remplace "joindre" par "plaindre".
 
-[75] Vers 1791, l'édition 1641 porte "un autre", nous corrigeons en "une autre".
+[75] Cette scène est supprimée à partir de 1660.
+
+[76] Vers 1791, l'édition 1641 porte "un autre", nous corrigeons en "une autre".

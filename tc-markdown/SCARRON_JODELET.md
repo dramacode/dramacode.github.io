@@ -112,22 +112,22 @@ Moi que j'aime Isabelle, et que son seul Portrait
 Me perce jusqu'au coeur d'un redoutable trait.  
 
     JODELET.
-Vous êtes donc de ceux qu'une seule peinture  
-Remplit de feu grégeois, et met à la torture, [2]  
+Vous êtes donc de ceux qu'une seule peinture   [2]
+Remplit de feu grégeois, et met à la torture,  
 Et si Monsieur le Peintre a bien fait un museau,  
 S'il s'est heureusement escrimé du pinceau,  
 S'il vous a fait en toile une adorable idole,  
 L'original peut être une fort belle folle,  
 Sa bouche de Corail peut enfermer dedans  
 De petits os pourris au lieu de belles dents,  
-Un Portrait dira-t-il les défauts de sa taille,  
-Si son corps est armé d'une jaque de maille, [3]  
+Un Portrait dira-t-il les défauts de sa taille,   [3]
+Si son corps est armé d'une jaque de maille,  
 S'il a quelques égouts outre les naturels  
 Accident très contraire aux appétits charnels :  
 Enfin si ce n'est point quelque horrible Squelette  
 Dont les beautés la nuit sont dessous la toilette,  
-Ma foi si l'on vous voit de femme mal pourvu  
-Puisque vous vous coiffez devant que d'avoir vu [4]  
+Ma foi si l'on vous voit de femme mal pourvu   [4]
+Puisque vous vous coiffez devant que d'avoir vu  
 Vous ne serez pas plaint de beaucoup de personnes.  
 
     DON JUAN.
@@ -236,8 +236,8 @@ Vingt mil écus étaient offerts avec la belle,
 Et vous pour la charmer comme vous l'étiez d'elle,  
 Vous voulûtes aussi qu'elle eût votre Portrait,  
 Ainsi vous la frappiez avec son même trait :  
-Lors à bon chat, bon rat, et la pauvre donzelle  
-Était pour en avoir profondément dans l'aile, [5]  
+Lors à bon chat, bon rat, et la pauvre donzelle   [5]
+Était pour en avoir profondément dans l'aile,  
 Le stratagème était d'amant bien raffiné,  
 Mais le Ciel autrement en avait ordonné.  
 
@@ -409,9 +409,9 @@ Il joint Étienne qui féraille en reculant et se sauve.
 
 ## SCÈNE III. Jodelet, Don Juan.
 
-    JODELET.
-        La peste comme il drille, [6]  
-J'ai pourtant eu frayeur de ce chien de soudrille, [7]  
+    JODELET. [6]
+        La peste comme il drille,   [7]
+J'ai pourtant eu frayeur de ce chien de soudrille,  
 Autrement sans péril je lui cassais les os :  
 Foin je n'aurai jamais poltron plus à propos,  
 Mais d'où diable est sorti cet autre vilain homme.  
@@ -428,8 +428,8 @@ Don Louis descend du Balcon.
     L'on y va.  
 
     DON JUAN.
-        C'est son valet qu'il nomme,  
-Celui qui devant nous vient de gagner au pied. [8]  
+        C'est son valet qu'il nomme,   [8]
+Celui qui devant nous vient de gagner au pied.  
 
     DON LOUIS.
 Ou je me trompe fort, ou je suis épié,  
@@ -454,16 +454,16 @@ Demeure encor un coup.
     DON JUAN.
 Dis ton nom vitement, ou je t'ôte la vie.  
 
-    JODELET.
-Je suis Don Jodelet natif de Sigovie. [9]  
+    JODELET. [9]
+Je suis Don Jodelet natif de Sigovie.  
 
     DON JUAN.
 Au Diable le maraud, et l'homme du balcon.  
 
     JODELET.
 Il s'en est envolé léger comme un faucon,  
-Et moi sot que je suis-je vidais sa querelle  
-Tandis que le poltron enfilait la venelle, [10]  
+Et moi sot que je suis-je vidais sa querelle   [10]
+Tandis que le poltron enfilait la venelle,  
 De deux grands vilains coups que vous m'avez poussés  
 J'ai cru mes intestins par deux fois offensés,  
 Vous êtes un peu prompt, mais de grâce mon maître,  
@@ -482,8 +482,8 @@ Oui.
     JODELET.
         Et moi tout confondu.  
 
-    DON JUAN.
-Je ne dois pas ici rien faire à la volée. [11]  
+    DON JUAN. [11]
+Je ne dois pas ici rien faire à la volée.  
 
     JODELET.
 Vous avez ce me semble, un peu l'âme troublée.  
@@ -538,8 +538,8 @@ Mon amour droit ici m'amène.
         Un peu trop vite.  
 
     DON JUAN.
-Je rencontre un valet où loge Don Fernand  
-Qui me fait à dessein querelle d'Allemand, [12]  
+Je rencontre un valet où loge Don Fernand   [12]
+Qui me fait à dessein querelle d'Allemand,  
 J'en vois sortir son maître.  
 
     JODELET.
@@ -559,8 +559,8 @@ Il y vint Jodelet comme aimé d'Isabelle.
     JODELET.
 Fort mal.  
 
-    DON JUAN.
-        Et c'est cela qui me met en cervelle. [13]  
+    DON JUAN. [13]
+        Et c'est cela qui me met en cervelle.  
 
     JODELET.
 Raisonnons donc encore.  
@@ -606,8 +606,8 @@ Je me verrai réduit à te porter envie
 Sans espoir de guérir durant ma triste vie.  
 
     JODELET.
-Et je ne pourrai pas pour mieux représenter  
-Le Seigneur Don Juan quelquefois charpenter [14]  
+Et je ne pourrai pas pour mieux représenter   [14]
+Le Seigneur Don Juan quelquefois charpenter  
 Sur votre noble dos, bien souvent ce me semble,  
 Vous en usez ainsi.  
 
@@ -621,8 +621,8 @@ Il sort.
 ## SCÈNE VI.
 
     JODELET.
-Potages mitonnés, savoureux entremets,  
-Bisques, pâtés, ragoûts, enfin dans mes entrailles [15]  
+Potages mitonnés, savoureux entremets,   [15]
+Bisques, pâtés, ragoûts, enfin dans mes entrailles  
 Vous serez digérés, et vous lâches canailles,  
 Courtisans de Madrid, luisants, polis et beaux  
 Nous vous en fournirons des cocus de Burgos.  
@@ -735,14 +735,14 @@ Je l'enfermais encor lorsque vous arrivâtes,
 Avecque le vieillard très longtemps vous causâtes,  
 Cependant Don Louis le Balcon habitait,  
 Où de vos longs discours peu content il était :  
-Enfin quand je vous vis dans le lit assoupie,  
-Moi qui suis de tout temps encline à l'oeuvre pie [16]  
+Enfin quand je vous vis dans le lit assoupie,   [16]
+Moi qui suis de tout temps encline à l'oeuvre pie  
 Je l'allai délivrer très charitablement,  
-Il me dit qu'il voulait vous parler un moment.  
-Je dis nescio vos, et lui chantai goguette, [17] [18]  
+Il me dit qu'il voulait vous parler un moment.   [17] [18]
+Je dis nescio vos, et lui chantai goguette,  
 Disant allez chercher votre dariolette,  
-Un autre l'eût servi, car il parlait des mieux,  
-Et je voyais tomber les larmes de ses yeux : [19]  
+Un autre l'eût servi, car il parlait des mieux,   [19]
+Et je voyais tomber les larmes de ses yeux :  
 Mais lorsqu'en me coulant en main quelques pistoles  
 Et qu'en me conjurant de ses belles paroles,  
 En m'appelant mon coeur, ma chère Béatrix,  
@@ -752,11 +752,11 @@ Que je pensai deux fois lui sauter au visage.
 Non que tous ses regrets ne me fissent pitié,  
 Et vraiment je le tiens de fort bonne amitié :  
 Mais dans vos intérêts je ne connais personne,  
-Brebis partout ailleurs j'y suis une Lionne,  
-Et lui sitôt qu'il vit que ce n'était plus jeu, [20]  
+Brebis partout ailleurs j'y suis une Lionne,   [20]
+Et lui sitôt qu'il vit que ce n'était plus jeu,  
 Que de fine fureur j'avais la face en feu.  
-Du Balcon sans tarder il sauta dans la rue,  
-Où j'entendis crier tôt après tue, tue ; [21]  
+Du Balcon sans tarder il sauta dans la rue,   [21]
+Où j'entendis crier tôt après tue, tue ;  
 Voilà ce grand sujet de mon exclusion,  
 Et le juste loyer de mon affection,  
 Il faut bien que je sois fille peu fortunée,  
@@ -834,12 +834,12 @@ Ah ! Que si je croyais mon esprit irrité,
 Votre jeune museau se verrait souffleté,  
 Et si je faisais bien, qu'avec ces deux mains closes  
 Je ternirais de lys et fanerais de roses :  
-Vous voulez volontiers quelque godelureau  
-Qui méthodiquement vous lèche le morveau, [22]  
+Vous voulez volontiers quelque godelureau   [22]
+Qui méthodiquement vous lèche le morveau,  
 Un faiseur de recueils, un débiteur de rimes,  
-Un de ces libertins qui causent aux minimes,  
-Un plisseur de canons, un de ces fainéants, [23]  
-Qui passent tout un jour à nouer des galants, [24]  
+Un de ces libertins qui causent aux minimes,   [23]
+Un plisseur de canons, un de ces fainéants,   [24]
+Qui passent tout un jour à nouer des galants,  
 Ou se faire traîner coucher dans un carrosse,  
 Si je lui faisais plaie, ou du moins une bosse,  
 Ne ferais-je pas bien ? Qu'en dis-tu ma raison,  
@@ -862,8 +862,8 @@ Lui montrant un portrait.
 Mais confessez aussi regardant ce tableau  
 Affreux au dernier point, bien loin de sembler beau,  
 Que ma douleur est juste alors qu'elle est extrême,  
-Et qu'il faut bien qu'il soit la brutalité même,  
-Le brutal sur lequel ce marmouset est fait. [25]  
+Et qu'il faut bien qu'il soit la brutalité même,   [25]
+Le brutal sur lequel ce marmouset est fait.  
 
     DON FERNAND, PRENANT LE PORTRAIT.
 Vous jugez donc d'un homme en voyant son portrait ?  
@@ -874,13 +874,13 @@ Regardant le portrait.
 Il est vrai, celui-ci doit se plaindre de l'art,  
 Et tout y représente un indigne pendard,  
 Où Diable ai-je pêché ce détestable gendre ?  
-Et comment Don Fernand a-t-il pu se méprendre ?  
-Je pensais bien avoir trouvé la pie au nid ; [26]  
+Et comment Don Fernand a-t-il pu se méprendre ?   [26]
+Je pensais bien avoir trouvé la pie au nid ;  
 Mais pourtant, mais pourtant beaucoup de gens m'ont dit  
 Qu'on estime à la Cour ce Juan d'Alvarade :  
 Lui rendant le portrait.
-
-Or bien promettez-moi sans faire de boutade, [27]  
+ [27]
+Or bien promettez-moi sans faire de boutade,  
 Que vous le traiterez partout civilement,  
 Et moi je vous promets foi d'homme qui ne ment,  
 S'il se trouve aussi sot que sa peinture est laide,  
@@ -981,8 +981,8 @@ Un étranger qui vint aux fêtes de Burgos
 Fit voir en nos tournois qu'il avait peu d'égaux,  
 Nous nous vîmes le soir dedans une assemblée  
 Je souffris son abord, et j'en fus cajolée,  
-Ou plutôt mon esprit fut par le sien charmé,  
-Il feignit de m'aimer, tout de bon je l'aimé : [28]  
+Ou plutôt mon esprit fut par le sien charmé,   [28]
+Il feignit de m'aimer, tout de bon je l'aimé :  
 Mais souffrez que mes pleurs vous apprennent le reste  
 Car tout en est honteux ; car tout en est funeste,  
 Puisque mon crime, hélas ! un frère me ravit,  
@@ -1005,8 +1005,8 @@ Qui me pris par les yeux et triompha de moi,
 Se déguisant d'un nom aussi faux que sa foi,  
 Je me vois devant vous comme une forcenée,  
 Maudissant mille fois le jour sa destinée.  
-Hélas ! Que contre moi le Ciel est irrité,  
-Puisque tout mon espoir n'est qu'un nom aposté, [29]  
+Hélas ! Que contre moi le Ciel est irrité,   [29]
+Puisque tout mon espoir n'est qu'un nom aposté,  
 Et qu'avec cet espoir justement je m'étonne,  
 Quand je vois que ce nom n'est connu de personne,  
 Cependant il est vrai qu'il habite ces lieux  
@@ -1122,8 +1122,8 @@ Vous allez tout savoir.
         S'entend en peu de mots.  
 
     DON LOUIS.
-Vous vous souvenez bien des Fêtes de Burgos,  
-Pour le premier enfant qu'eût la grande Isabelle, [30]  
+Vous vous souvenez bien des Fêtes de Burgos,   [30]
+Pour le premier enfant qu'eût la grande Isabelle,  
 Des Royales vertus le plus parfait modèle,  
 Un ami qui faisait trop d'estime de moi  
 M'invita de venir à ce fameux Tournoi,  
@@ -1147,8 +1147,8 @@ La porte s'ouvre, on entre, on m'attaque, on me blesse,
 Sans voir je pousse, pare, et plus d'heur que d'adresse,  
 J'en fais d'abord choir un blessé mortellement,  
 Puis dans l'obscurité je m'échappe aisément.  
-Hélas ! Le jour d'après quelle fut ma tristesse,  
-Quand le mort se trouva frère de ma maîtresse, [31]  
+Hélas ! Le jour d'après quelle fut ma tristesse,   [31]
+Quand le mort se trouva frère de ma maîtresse,  
 Et de plus, ô malheur, dur à mon souvenir,  
 Ce même intime ami qui m'avait fait venir,  
 Comment ne sus-je point que cette pauvre amante  
@@ -1224,8 +1224,8 @@ Ha ma fille approchez.
     DON LOUIS, À PART.
         Que de bon coeur j'enrage.  
 
-    DON FERNAND.
-Allons le recevoir. [32]  
+    DON FERNAND. [32]
+Allons le recevoir.  
 
     ISABELLE.
         Ou plutôt à la mort.  
@@ -1283,8 +1283,8 @@ Maudit soit le fâcheux.
         De quoi donc parle-t-il.  
 
     JODELET.
-Ne puis-je point de face, ou du moins de profil,  
-Vous guigner un moment, ô charmante Isabelle ? [33]  
+Ne puis-je point de face, ou du moins de profil,   [33]
+Vous guigner un moment, ô charmante Isabelle ?  
 De grâce, Don Fernand, que l'on m'approche d'elle,  
 Ou du moins qu'on m'en montre ou jambe, ou bras, ou main.  
 
@@ -1517,8 +1517,8 @@ Bon, voici Béatrix.
     BÉATRIX.
         Ha Monsieur est-ce vous ?  
 
-    ÉTIENNE.
-Non, c'est le grand Mogor. [34]  
+    ÉTIENNE. [34]
+Non, c'est le grand Mogor.  
 
     BÉATRIX.
         Tout beau Roi des filous,  
@@ -1534,8 +1534,8 @@ A mangé comme un diable, et s'est déboutonné,
 Puis dans un cabinet qui joint la vieille salle  
 S'est couché de son long sur une natte sale,  
 Un peu de temps après il s'est mis à ronfler,  
-Je n'ai jamais ouï Cheval mieux renifler :  
-Toute la vitre en tremble, et les verres s'en cassent, [35]  
+Je n'ai jamais ouï Cheval mieux renifler :   [35]
+Toute la vitre en tremble, et les verres s'en cassent,  
 Mais si je vous disais les choses qui se passent.  
 
     DON LOUIS.
@@ -1564,25 +1564,25 @@ Votre chère Isabelle également enrage,
 Jusques là qu'elle en a souffleté son visage.  
 Le temps est, ou jamais, de jouer votre jeu,  
 Il faut battre le fer tandis qu'il est au feu :  
-Et si vous ne savez bien pêcher en eau trouble,  
-Je ne donnerais pas de votre affaire un double : [36]  
+Et si vous ne savez bien pêcher en eau trouble,   [36]
+Je ne donnerais pas de votre affaire un double :  
 Tâchez donc de la voir et de l'entretenir,  
 Promettez comme quand on ne veut pas tenir,  
 Employez hardiment votre meilleure prose,  
 N'oubliez pas le lys, n'oubliez pas la rose,  
 Dites-lui bien qu'elle est l'objet de tous vos voeux,  
-Pleurez, et soupirez, arrachez des cheveux,  
-Puis sur vos grands chevaux monté comme un Saint Georges, [37] [38]  
+Pleurez, et soupirez, arrachez des cheveux,   [37] [38]
+Puis sur vos grands chevaux monté comme un Saint Georges,  
 Dites, que pour bien moins on se coupe la gorge,  
 Que Don Juan n'a pas encore ce qu'il prétend.  
 Qu'en tout cas vous savez fort bien comme on se pend.  
 Si l'insolent vous nuit, reprenez le modeste,  
 Invoquez-moi la mort, ou pour le moins la peste,  
 Ne vous étonnez point, elle fera beau bruit :  
-Mais vous savez qu'on perd le combat quand on fuit.  
-Or si vous tirez la moindre lacrymule, [39]  
-Je vous donne gagné foi de Béatricule, [40]  
-Vous riez Don Louis de ce diminutif, [41]  
+Mais vous savez qu'on perd le combat quand on fuit.   [39]
+Or si vous tirez la moindre lacrymule,   [40]
+Je vous donne gagné foi de Béatricule,   [41]
+Vous riez Don Louis de ce diminutif,  
 Dame nous en usons et du superlatif.  
 Un certain jeune Auteur qui tâche de me plaire  
 Quand je vais visiter mon cousin le Libraire,  
@@ -1593,12 +1593,12 @@ Don Louis se cache.
 
 Cachez-vous en ce coin,  
 À Étienne.
-
-        Et vous Jean de Nivelle [42]  
+ [42]
+        Et vous Jean de Nivelle  
 Sauvez-vous vitement.  
 
-    ÉTIENNE.
-        Adieu donc faux teston. [43]  
+    ÉTIENNE. [43]
+        Adieu donc faux teston.  
 
     BÉATRIX.
 Je te battrai bien si je prends un bâton.  
@@ -1620,8 +1620,8 @@ Car a-t-on vu jamais affaire plus mêlée,
 Ma foi j'en ai quasi la cervelle fêlée,  
 Mon gendre est offensé, je le dois être aussi,  
 Si c'est par mon neveu, que dois-je faire ici ?  
-Dois-je abandonner l'un, pour me joindre avec l'autre ?  
-Ventre de moi, partout il y va du nôtre, [44]  
+Dois-je abandonner l'un, pour me joindre avec l'autre ?   [44]
+Ventre de moi, partout il y va du nôtre,  
 L'un me tient par le sang, et l'autre par l'honneur,  
 Et j'ai besoin ici d'un extrême bonheur.  
 
@@ -1700,8 +1700,8 @@ Ah ! Ne te flatte point dedans ta passion,
 Tu ne seras jamais que mon aversion :  
 Va, va-t-en à Burgos faire des perfidies,  
 Va, va-t-en à Burgos jouer tes Tragédies ;  
-Vas-y tromper la soeur, et tuer le germain,  
-Et me laisse en repos, exécrable, inhumain, [45]  
+Vas-y tromper la soeur, et tuer le germain,   [45]
+Et me laisse en repos, exécrable, inhumain,  
 Assez grands sont les maux de la pauvre Isabelle,  
 Sans tâcher de la rendre encore criminelle.  
 
@@ -1782,11 +1782,11 @@ Non, non à d'autres non, j'ai le tout entendu.
 À Béatrix.
 
 Vous ne m'aimiez donc pas Madame la traîtresse,  
-Et vous me desservez auprès de ma maîtresse,  
-Ha ! Louve ! Ha porque ! Ha chienne ! Ha braque ! Ha loup-garou. [46]  
+Et vous me desservez auprès de ma maîtresse,   [46]
+Ha ! Louve ! Ha porque ! Ha chienne ! Ha braque ! Ha loup-garou.  
 Puisses-tu te briser bras, main, pied, chef, cul, cou,  
-Que toujours quelque chien contre ta jupe pisse  
-Qu'avec ces trois gosiers, Cerberus t'engloutisse ; [47]  
+Que toujours quelque chien contre ta jupe pisse   [47]
+Qu'avec ces trois gosiers, Cerberus t'engloutisse ;  
 Le grand chien Cerberus, Cerberus le grand chien,  
 Plus beau que toi cent fois, et plus homme de bien.  
 
@@ -1886,8 +1886,8 @@ Et qui pourra donc mieux lui faire savoir, gueux ?
 Madame j'obéis puisqu'on me le commande.  
 
     JODELET.
-Qu'il a peur de faillir avec sa houppelande.  
-Ça, radoucissez-vous sans faire le railleur, [48]  
+Qu'il a peur de faillir avec sa houppelande.   [48]
+Ça, radoucissez-vous sans faire le railleur,  
 Faites bien les doux yeux, et donnez du meilleur,  
 Je m'en vais cependant faire auprès de la porte  
 Quelques réflexions sur chose qui m'importe.  
@@ -1899,16 +1899,16 @@ Comment pourrai-je donc tirer hors de son trou
 Ce maudit Don Louis, male peste du fou ?  
 
     JODELET, À PART.
-Mais n'est-ce point aussi Madame son étoile  
-Qui la pousse sur nous, comme on dit, à plein voile ? [49]  
-La fortune ma foi s'irait rire de moi,  
-Si m'offrant tel bonheur je ne vous l'empaumais. [50]  
+Mais n'est-ce point aussi Madame son étoile   [49]
+Qui la pousse sur nous, comme on dit, à plein voile ?  
+La fortune ma foi s'irait rire de moi,   [50]
+Si m'offrant tel bonheur je ne vous l'empaumais.  
 Mon Maître que sait-on peut en être bien aise ;  
 Mais il arrive aussi que cela lui déplaise,  
 Prenons l'occasion au péril d'un affront  
 Par le fin beau toupet qu'elle a dessus le front,  
-Par derrière elle est chauve, et ressemble une gogue :  
-Mais qui l'eût jamais dit qu'un visage de dogue [51] [52]  
+Par derrière elle est chauve, et ressemble une gogue :   [51] [52]
+Mais qui l'eût jamais dit qu'un visage de dogue  
 Peut donner de l'amour, il faut en profiter,  
 Et quand nous serons seuls je prétends la tenter ;  
 Rêvons un peu dessus cette présente affaire,  
@@ -1946,8 +1946,8 @@ Pouvait s'émanciper, ha ! Je ne la tiens plus,
 Elle m'est échappée adorable isabelle,  
 Le plaisir que je prends en vous voyant si belle  
 M'a séché la mémoire et troublé les esprits  
-Ou bien plutôt c'est toi maudite Béatrix,  
-Qui me porte guignon, allons vite qu'on gille ; [53] [54]  
+Ou bien plutôt c'est toi maudite Béatrix,   [53] [54]
+Qui me porte guignon, allons vite qu'on gille ;  
 À Don Juan.
 
 Vous aussi mon valet qui faites tant l'habile,  
@@ -1962,8 +1962,8 @@ Et qui peut en parler si je le trouve bon ?
     ISABELLE.
 Au moins que Béatrix.  
 
-    JODELET.
-        Je n'en veux point démordre. [55]  
+    JODELET. [55]
+        Je n'en veux point démordre.  
 Il fait sortir Béatrix.
 
 
@@ -2056,8 +2056,8 @@ Ha mon Maître !
         Ha la tête, ha l'épaule  
 Ha de grâce Seigneur !  
 
-    DON JUAN.
-        Si j'avais une gaule, [56]  
+    DON JUAN. [56]
+        Si j'avais une gaule,  
 Je te ferais crier d'une étrange façon :  
 Apercevant Isabelle.
 
@@ -2142,7 +2142,7 @@ Je vous nommais tantôt l'auteur de mon martyre,
 Et j'avais de l'amour pour vous, n'en croyez rien,  
 Ce n'est qu'à Don Juan que je voulais du bien,  
 Vous étiez Don Juan alors, mais à cette heure  
-Vous êtes Jodelet.  
+Vous êtes Jodelet.   [57]
 
     DON JUAN.
         Ha Madame je meurs,  
@@ -2172,8 +2172,8 @@ Il sort.
 
 ## SCÈNE XV. Béatrix, Isabelle.
 
-    BÉATRIX.
-Il s'en est donc allé le mignon de couchette, [57]  
+    BÉATRIX. [58]
+Il s'en est donc allé le mignon de couchette,  
 Je pourrai maintenant tirer de sa cachette  
 Le Seigneur Don Louis.  
 
@@ -2552,8 +2552,8 @@ Lucrèce sort et Isabelle se cache.
 
 ## SCÈNE II. Jodelet seul et en s'écurant les dents.
 
-    JODELET, EN SE CURANT LES DENTS.
-Soyez nettes mes dents, l'honneur vous le commande, [58]  
+    JODELET, EN SE CURANT LES DENTS. [59]
+Soyez nettes mes dents, l'honneur vous le commande,  
 Perdre les dents est tout le mal que jappréhende.  
 L'Ail ma foi vaut mieux qu'un oignon,  
 Quand je trouve quelque mignon,  
@@ -2573,8 +2573,8 @@ Ma foi j'ai raison quand je pense
 Que plus grand est l'heur du gredin,  
 Ni que du prélat en l'Église,  
 Ni que du prince en un État,  
-D'être peu, beaucoup je me prise,  
-Il n'est rien tel qu'un pied plat, [59]  
+D'être peu, beaucoup je me prise,   [60]
+Il n'est rien tel qu'un pied plat,  
 Soyez nettes mes dents, l'honneur vous le commande,  
 Perdre les dents est tout le mal que jappréhende.  
 Quand je mets à discourir  
@@ -2589,8 +2589,8 @@ Appeler un homme en duel ?
 Soyez nettes mes dents, l'honneur vous le commande,  
 Perdre les dents est tout le mal que jappréhende.  
 Un Barbier y met bien la main,  
-Qui bien souvent n'est qu'un vilain,  
-Et dans son métier un grand aze [60]  
+Qui bien souvent n'est qu'un vilain,   [61]
+Et dans son métier un grand aze  
 Alors que tel barbier vous rase,  
 Il vous gâte un visage humain,  
 Pourquoi ne t'en veux-tu pas battre,  
@@ -2675,19 +2675,19 @@ Follette, Dieu me sauve.
     JODELET, PRENANT LA CLEF.
 Mais viens donc me mener jusqu'à ce nouveau gîte.  
 
-    BÉATRIX.
-Tarare suivez-moi, j'y vais tout de ce pas. [61]  
+    BÉATRIX. [62]
+Tarare suivez-moi, j'y vais tout de ce pas.  
 
-    JODELET.
-Larronesse des coeurs tu n'échapperas pas ; [62]  
+    JODELET. [63]
+Larronesse des coeurs tu n'échapperas pas ;  
 Béatrix se débarrasse de Jodelet, et se sauve.
 
 
 
 ## SCÈNE IV.
 
-    JODELET, À BÉATRIX QUI FUIT.
-Las faut-il donc pour vous que notre poitrine arde [63]  
+    JODELET, À BÉATRIX QUI FUIT. [64]
+Las faut-il donc pour vous que notre poitrine arde  
 Si vous n'êtes pour nous qu'une nymphe fuyarde.  
 
 
@@ -2709,11 +2709,11 @@ Ce sont jeux de garçon qui passent avec l'âge.
 Vous donnerez de vous mauvaise opinion,  
 Et je dois bien douter de votre affection.  
 
-    JODELET.
-Allez-vous en filler notre épouse future, [64]  
+    JODELET. [65]
+Allez-vous en filler notre épouse future,  
 Plus grand Dame que vous est Madame Nature,  
-Je suis son serviteur, et le fus de tout temps,  
-Et nargue pour tous ceux qui n'en sont pas content. [65]  
+Je suis son serviteur, et le fus de tout temps,   [66]
+Et nargue pour tous ceux qui n'en sont pas content.  
 
     ISABELLE.
 Je vais donc vous laisser de peur de vous déplaire.  
@@ -2728,13 +2728,13 @@ Isabelle sort.
 
     JODELET.
 Ma foi je m'y suis pris de mauvaise façon,  
-Car je sais que son coeur ne fut jamais glaçon.  
-Aristote a raison, qui dit qu'une maraude [66]  
-Ne se doit point prier, mais qu'il faut à la chaude [67]  
+Car je sais que son coeur ne fut jamais glaçon.   [67]
+Aristote a raison, qui dit qu'une maraude   [68]
+Ne se doit point prier, mais qu'il faut à la chaude  
 La gripper aux cheveux, la saisir au collet,  
 Quelquefois l'affaiblir avec un beau soufflet :  
-Si soufflet ne suffit, user de la gourmade,  
-Si la gourmade est peu, lors de la bastonnade. [68]  
+Si soufflet ne suffit, user de la gourmade,   [69]
+Si la gourmade est peu, lors de la bastonnade.  
 Tout homme de bon sens doit, ce dit-il user  
 Pour la mettre en état de ne rien refuser,  
 Mais autre censeur vient de mes censeurs le pire.  
@@ -2814,8 +2814,8 @@ Fut-ce la nuit ?
 
     JODELET.
         Se battre qui voudra,  
-Puisque sans voir il tue alors qu'il me verra,  
-Que pourrais-je durer contre un tel Matamore, [69]  
+Puisque sans voir il tue alors qu'il me verra,   [70]
+Que pourrais-je durer contre un tel Matamore,  
 Et, de plus voulez-vous que je vous dise encore  
 L'avantage qu'aurait ce dangereux garçon ?  
 C'est que cet enragé sait déjà la façon  
@@ -2865,11 +2865,11 @@ Beau-père trop hargneux, beau-père trop farouche,
 Beau-père assassinant, et beau-père éternel  
 Qui me viens proposer un acte criminel  
 Que vous a déjà fait un misérable gendre,  
-Que vous tâchez déjà de voir son sang répandu ?  
-Monseigneur Belzébuth qui vous puisse emporter, [70]  
+Que vous tâchez déjà de voir son sang répandu ?   [71]
+Monseigneur Belzébuth qui vous puisse emporter,  
 Vous aurait-il chargé de me venir tenter,  
-Si le danger n'était que d'un simple homicide :  
-Mais vous voulez sur moi voir faire un gendricide, [71]  
+Si le danger n'était que d'un simple homicide :   [72]
+Mais vous voulez sur moi voir faire un gendricide,  
 Et le faire devant la consommation,  
 Est certes Don Fernand très cruelle action.  
 
@@ -2951,8 +2951,8 @@ Inspirez-lui du coeur valeureux Jodelet :
 Je sais bien qu'en ceci j'ai quelque part à prendre,  
 Mais touchant mon devoir on ne peut rien m'apprendre.  
 Si j'étais offensé comme lui doublement,  
-On verrait Don Fernand agir tout autrement,  
-Enfin n'oubliez rien afin qu'il s'évertue, [72]  
+On verrait Don Fernand agir tout autrement,   [73]
+Enfin n'oubliez rien afin qu'il s'évertue,  
 Son ennemi l'attend au bout de cette rue,  
 Qui s'imaginera qu'on le redoute fort  
 Je m'en vais le trouver.  
@@ -3091,8 +3091,8 @@ De te venir trouver : Et toi d'un même pas
 Tu me l'amèneras en cette chambre basse.  
 
     DON JUAN.
-Autre difficulté mon esprit embarrasse,  
-S'il est court de visière. [73]  
+Autre difficulté mon esprit embarrasse,   [74]
+S'il est court de visière.  
 
     JODELET.
         Ha ! C'est trop discourir  
@@ -3116,11 +3116,11 @@ Je serai tout à l'heure et content et guéri.
 Le théâtre représente une chambre à coucher, dans laquelle il y a une alcôve.
 
 
-    BÉATRIX.
-Pleurez, pleurez mes yeux, l'honneur vous le commande, [74]  
+    BÉATRIX. [75]
+Pleurez, pleurez mes yeux, l'honneur vous le commande,  
 S'il vous reste des pleurs, donnez m'en j'en demande.  
-Je viens d'allumer ma chandelle,  
-La nuit noire comme du geais [75]  
+Je viens d'allumer ma chandelle,   [76]
+La nuit noire comme du geais  
 Vient d'arriver pompeuse et belle  
 Plus que je ne la vis jamais,  
 De ses Damoiselles suivantes  
@@ -3139,15 +3139,15 @@ Tantôt ce Grenadin, ce More
 Comme du feu qui me dévore  
 Je lui contais la cruauté,  
 M'a dit que je ne valais guères,  
-Et qu'il était bien fort tenté  
-De me donner les étrivières. [76]  
+Et qu'il était bien fort tenté   [77]
+De me donner les étrivières.  
 Pleurez, pleurez mes yeux, l'honneur vous le commande,  
 S'il vous reste des pleurs, donnez m'en j'en demande.  
 D'écus une assez bonne somme  
 Devant lui je faisais sonner,  
 Et lui faisais assez voir comme  
-Moi qui prends je lui veux donner :  
-Aussitôt cette âme rebourse [77]  
+Moi qui prends je lui veux donner :   [78]
+Aussitôt cette âme rebourse  
 M'a donné de ma même bourse  
 Un si grand coup dessus le cou  
 Que je m'en sens toute échinée  
@@ -3158,8 +3158,8 @@ S'il vous reste des pleurs, donnez m'en j'en demande.
 S'il plaisait à la destinée,  
 Qu'il fut l'importun à son tour,  
 Et Béatrix l'importunée,  
-Alors à beau jeu beau retour,  
-Encore aurais-je quelque joie : [78]  
+Alors à beau jeu beau retour,   [79]
+Encore aurais-je quelque joie :  
 Mais hélas ! Jusque dans le foie  
 Il me brûle le faux larron,  
 Et s'en rit l'impitoyable homme  
@@ -3221,8 +3221,8 @@ Mais hélas ! Je me sens pour la religion,
 Et pour ce brave époux pareille aversion.  
 
     BÉATRIX.
-Finissez, finissez votre quérimonie,  
-Et gagnons l'escalier ; et sans cérémonie [79]  
+Finissez, finissez votre quérimonie,   [80]
+Et gagnons l'escalier ; et sans cérémonie  
 Quelqu'un ouvre la porte, et l'on vous surprendra,  
 Quant à moi je m'enfuis, me suive qui voudra.  
 Elle sortent.
@@ -3231,8 +3231,8 @@ Elle sortent.
 
 ## SCÈNE III.
 
-    DON JUAN OUVRE LA PORTE, ET EN ÔTE LA CLEF. 
-Laissons la porte ouverte, et gagnons cette alcôve, [80]  
+    DON JUAN OUVRE LA PORTE, ET EN ÔTE LA CLEF.  [81]
+Laissons la porte ouverte, et gagnons cette alcôve,  
 Je les entends venir.  
 
 
@@ -3375,7 +3375,7 @@ Qu'est-ce ci mes amis ?
 On m'a tiré du sang, j'en veux tirer vengeance.  
 
     DON FERNAND.
-Est-ce d'un estocade, ou d'un estramaçon ?  
+Est-ce d'un estocade, ou d'un estramaçon ?   [82] [83]
 
     JODELET.
 L'un et l'autre ma foi n'est point de ma façon.  
@@ -3538,8 +3538,8 @@ Quand vous me reprochez que votre frère est mort,
 La raison est pour vous, et moi j'ai toujours tort :  
 Mais je devrais plutôt être par cette offense,  
 Un objet de pitié, qu'un objet de vengeance ;  
-Hélas je le tuai, mais comment, et pourquoi ?  
-Et quand je le sus mort, qui pleura plus que moi, [81]  
+Hélas je le tuai, mais comment, et pourquoi ?   [84]
+Et quand je le sus mort, qui pleura plus que moi,  
 Il m'attaqua la nuit, et moi sans le connaître,  
 Je cru l'ayant tué, n'avoir tué qu'un traître :  
 Malheureux que je suis, l'avoir tué sans voir,  
@@ -3647,8 +3647,8 @@ Par l'accomplissement de ce double hyménée.
 Ma foi vous n'êtes pas encor où vous pensez,  
 Et les discours ici ne sont pas tous passés,  
 Il me faut un portrait que retient Isabelle,  
-Qui pend à deux rubans au fonds de sa ruelle,  
-Moi qui ne sais si c'est ou pour bien, ou pour mal [82]  
+Qui pend à deux rubans au fonds de sa ruelle,   [85]
+Moi qui ne sais si c'est ou pour bien, ou pour mal  
 Qu'elle garde un portrait, perdant l'original :  
 Je veux qu'on me le rende, ou bien la comédie,  
 Par moi Don Jodelet deviendra tragédie.  
@@ -3770,54 +3770,60 @@ Pour en favoriser ma chère Béatrix.
 
 [56] Gaule : grande perche menue et longue avec laquelle on abat les noix, ou des pommes pour faire du cidre. F
 
-[57] Mignon : signifie aussi favori, soit en matière d'amitié soit d'amour. La plupart des princes ont des migons, des favoris qui les gouvernent. Beaucoup de dames ont des migons de couchette. (...) F
+[57] L'original porte Don Louis comme locuteur, c'est Don Juan évidemment. 
 
-[58] Cette réplique parodie celles du Cid et de Polyeucte. note A.F.D. 1845
+[58] Mignon : signifie aussi favori, soit en matière d'amitié soit d'amour. La plupart des princes ont des migons, des favoris qui les gouvernent. Beaucoup de dames ont des migons de couchette. (...) F
 
-[59] Pied plat : pied plat, et quelquefois plat pied, homme qui ne mérite aucune considération : locution qui vient non du vice de conformation ..., mais d'une différence de chaussure entre les gens du peuple et les gentilshommes, ceux-ci portant des souliers avec des talons rouges très relevés, tandis que les ouvriers et les bourgeois portaient des souliers plats. L
+[59] Cette réplique parodie celles du Cid et de Polyeucte. note A.F.D. 1845
 
-[60] Aze : Ce mot, qui est du style bas et comique, signifie un âne. T
+[60] Pied plat : pied plat, et quelquefois plat pied, homme qui ne mérite aucune considération : locution qui vient non du vice de conformation ..., mais d'une différence de chaussure entre les gens du peuple et les gentilshommes, ceux-ci portant des souliers avec des talons rouges très relevés, tandis que les ouvriers et les bourgeois portaient des souliers plats. L
 
-[61] Tarare : Mot burlesque qui signifie, quand on s'en sert, qu'on se moque de ce qu'un autre dit. T
+[61] Aze : Ce mot, qui est du style bas et comique, signifie un âne. T
 
-[62] Larronesse : Celle qui prend le bien d'autrui. R
+[62] Tarare : Mot burlesque qui signifie, quand on s'en sert, qu'on se moque de ce qu'un autre dit. T
 
-[63] Arder : Brûler. Vieux mot qui n'est plus en usage, mais dont il reste encore quelques traces dans cette phrase populaire d'imprécation. Ac. 1762
+[63] Larronesse : Celle qui prend le bien d'autrui. R
 
-[64] Filler : faire des enfants O
+[64] Arder : Brûler. Vieux mot qui n'est plus en usage, mais dont il reste encore quelques traces dans cette phrase populaire d'imprécation. Ac. 1762
 
-[65] Nargue : terme de depit, injurieux, et méprisant. F
+[65] Filler : faire des enfants O
 
-[66] Maraude : Coquine, friponne. R
+[66] Nargue : terme de depit, injurieux, et méprisant. F
 
-[67] À la chaude : Phrase adverbiale. Subitement, dans la premiére chaleur. T
+[67] Maraude : Coquine, friponne. R
 
-[68] Gourmade : Terme familier. Coup de poing, particulièrement sur la figure. L
+[68] À la chaude : Phrase adverbiale. Subitement, dans la premiére chaleur. T
 
-[69] Matamore : Terme des comédies espagnoles. Personnage qui se vantait à tout propos de ses exploits contre les Mores. Par extension, homme faisant étalage de bravoure et se vantant d'exploits vrais ou faux. L
+[69] Gourmade : Terme familier. Coup de poing, particulièrement sur la figure. L
 
-[70] Belzébuth : Dieu des mouches. LC
+[70] Matamore : Terme des comédies espagnoles. Personnage qui se vantait à tout propos de ses exploits contre les Mores. Par extension, homme faisant étalage de bravoure et se vantant d'exploits vrais ou faux. L
 
-[71] Gendricide : Terme burlesue. Tuer son beau-fils.
+[71] Belzébuth : Dieu des mouches. LC
 
-[72] S'évertuer : Faire vertu, faire effort pour arriver à quelque chose de louable ; s'efforcer de. L
+[72] Gendricide : Terme burlesue. Tuer son beau-fils.
 
-[73] Court de visière : Avoir la visière courte, avoir peu de sagesse, de pénétration. L
+[73] S'évertuer : Faire vertu, faire effort pour arriver à quelque chose de louable ; s'efforcer de. L
 
-[74] Le vers 1545 est la parodie du vers 799 du Cid de Pierre Corneille, Acte III, scène 3, Chimène.
+[74] Court de visière : Avoir la visière courte, avoir peu de sagesse, de pénétration. L
 
-[75] Geais : ou Jais, Minéral ou pierre fossile fort noire qui se fait d'un suc lapidifique et bitumineux dans la terre, comme le charbon ; mais celui-ci s'écaille, et reçoit un beau poli. (Dict. Furetière)
+[75] Le vers 1545 est la parodie du vers 799 du Cid de Pierre Corneille, Acte III, scène 3, Chimène.
 
-[76] Étrivière : courroie à laquelle est suspendu l'étrier. Coup d'étrivière, coup donné avec l'étrivière. L
+[76] Geais : ou Jais, Minéral ou pierre fossile fort noire qui se fait d'un suc lapidifique et bitumineux dans la terre, comme le charbon ; mais celui-ci s'écaille, et reçoit un beau poli. (Dict. Furetière)
 
-[77] Rebourse : Revêche, difficile à gouverner, à persuader. F
+[77] Étrivière : courroie à laquelle est suspendu l'étrier. Coup d'étrivière, coup donné avec l'étrivière. L
 
-[78] À beau jeu beau retour : se dit pour exprimer qu'on aura ou qu'on a eu sa revanche. L
+[78] Rebourse : Revêche, difficile à gouverner, à persuader. F
 
-[79] Quérimonie : Plainte qu'on fait aux juges d'églises pour avoir permission de publier monitoire. F ici sens figuré.
+[79] À beau jeu beau retour : se dit pour exprimer qu'on aura ou qu'on a eu sa revanche. L
 
-[80] Alcôve : les architectes le font masculin, mais dans l'usage ordinaire il est feminin. F
+[80] Quérimonie : Plainte qu'on fait aux juges d'églises pour avoir permission de publier monitoire. F ici sens figuré.
 
-[81] Tuai : l'orignal porte "tué" ; nous corrigeons.
+[81] Alcôve : les architectes le font masculin, mais dans l'usage ordinaire il est feminin. F
 
-[82] Ruelle : signifie aussi, l'extremité d'un lieu étendu en longueur, du moins à l'égard de la vue qui n'y peut pénétrer. F
+[82] Estocade : Terme d'escrime. Botte, grand coup de pointe. Allonger une estocade. L
+
+[83] Estramaçon : Épée droite, longue et à deux tranchants. L
+
+[84] Tuai : l'orignal porte "tué" ; nous corrigeons.
+
+[85] Ruelle : signifie aussi, l'extremité d'un lieu étendu en longueur, du moins à l'égard de la vue qui n'y peut pénétrer. F

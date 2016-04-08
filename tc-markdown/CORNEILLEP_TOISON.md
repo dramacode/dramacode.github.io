@@ -1760,8 +1760,8 @@ Que s'il faut qu'il me quitte, il a besoin de vous.
     MÉDÉE.
 Ce que vous en pensez me donne peu d'alarmes.  
 
-    HYPSIPYLE.
-Je n'ai que des attraits, et vous avez des charmes. [1]  
+    HYPSIPYLE. [1]
+Je n'ai que des attraits, et vous avez des charmes.  
 
     MÉDÉE.
 C'est beaucoup en amour que de savoir charmer.  

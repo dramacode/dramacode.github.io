@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_BERENICE  
-creator: RACINE, Jean  
-date: 1671  
+creator: Racine, Jean  
+date: 1670  
 title: BÉRÉNICE, TRAGÉDIE  
 ---
 
@@ -168,11 +168,11 @@ Il suffit. Cependant n'as-tu rien négligé
 Des ordres importants dont je t'avais chargé ?  
 
     ARSACE
-Seigneur, vous connaissez ma prompte obéissance.  
-Des vaisseaux dans Ostie armés en diligence, [2]  
+Seigneur, vous connaissez ma prompte obéissance.   [2]
+Des vaisseaux dans Ostie armés en diligence,  
 Prêts à quitter le port de moments en moments,  
-N'attendent pour partir que vos commandements.  
-Mais qui renvoyez-vous dans votre Comagène ? [3]  
+N'attendent pour partir que vos commandements.   [3]
+Mais qui renvoyez-vous dans votre Comagène ?  
 
     ANTIOCHUS
 Arsace, il faut partir quand j'aurai vu la reine.  
@@ -414,8 +414,8 @@ Il dompta les mutins, reste pâle et sanglant
 Des flammes, de la faim, des fureurs intestines,  
 Et laissa leurs remparts cachés sous leurs ruines.  
 Rome vous vit, Madame, arriver avec lui.  
-Dans l'Orient désert quel devint mon ennui !  
-Je demeurai longtemps errant dans Césarée, [4]  
+Dans l'Orient désert quel devint mon ennui !   [4]
+Je demeurai longtemps errant dans Césarée,  
 Lieux charmants, où mon coeur vous avait adorée.  
 Je vous redemandais à vos tristes États,  
 Je cherchais en pleurant les traces de vos pas.  
@@ -425,10 +425,10 @@ Le sort m'y réservait le dernier de ses coups.
 Titus en m'embrassant m'amena devant vous.  
 Un voile d'amitié vous trompa l'un et l'autre ;  
 Et mon amour devint le confident du vôtre.  
-Mais toujours quelque espoir flattait mes déplaisirs,  
-Rome, Vespasien, traversaient vos soupirs. [5]  
-Après tant de combats Titus cédait peut-être.  
-Vespasien est mort, et Titus est le maître. [6]  
+Mais toujours quelque espoir flattait mes déplaisirs,   [5]
+Rome, Vespasien, traversaient vos soupirs.  
+Après tant de combats Titus cédait peut-être.   [6]
+Vespasien est mort, et Titus est le maître.  
 Que ne fuyais-je alors ! J'ai voulu quelques jours  
 De son nouvel empire examiner le cours.  
 Mon sort est accompli. Votre gloire s'apprête,  
@@ -592,8 +592,8 @@ La cour sera toujours du parti de vos voeux.
 
     TITUS
 Et je l'ai vue aussi cette cour peu sincère,  
-À ses maîtres toujours trop soigneuse de plaire,  
-Des crimes de Néron approuver les horreurs, [7]  
+À ses maîtres toujours trop soigneuse de plaire,   [7]
+Des crimes de Néron approuver les horreurs,  
 Je l'ai vue à genoux consacrer ses fureurs.  
 Je ne prends point pour juge une cour idolâtre,  
 Paulin. Je me propose un plus noble théâtre ;  
@@ -638,8 +638,8 @@ Oublia dans son sein sa gloire et sa patrie,
 Sans oser toutefois se nommer son époux.  
 Rome l'alla chercher jusques à ses genoux,  
 Et ne désarma point sa fureur vengeresse,  
-Qu'elle n'eût accablé l'amant et la maîtresse.  
-Depuis ce temps, Seigneur, Caligula, Néron, [8]  
+Qu'elle n'eût accablé l'amant et la maîtresse.   [8]
+Depuis ce temps, Seigneur, Caligula, Néron,  
 Monstres, dont à regret je cite ici le nom,  
 Et qui ne conservant que la figure d'homme,  
 Foulèrent à leurs pieds toutes les lois de Rome,  
@@ -782,8 +782,8 @@ Pour prix de tant de gloire et de tant de vertus,
 Je lui dirai, partez, et ne me voyez plus.  
 
     PAULIN
-Hé quoi, Seigneur ! Hé quoi ! Cette magnificence  
-Qui va jusqu'à l'Euphrate étendre sa puissance, [9]  
+Hé quoi, Seigneur ! Hé quoi ! Cette magnificence   [9]
+Qui va jusqu'à l'Euphrate étendre sa puissance,  
 Tant d'honneurs, dont l'excès a surpris le Sénat,  
 Vous laissent-ils encor craindre le nom d'ingrat ?  
 Sur cent peuples nouveaux Bérénice commande.  
@@ -1130,8 +1130,8 @@ Que mon nom soit toujours dans tous vos entretiens.
 Pour rendre vos États plus voisins l'un de l'autre,  
 L'Euphrate bornera son empire et le vôtre.  
 Je sais que le Sénat tout plein de votre nom,  
-D'une commune voix confirmera ce don.  
-Je joins la Cilicie à votre Comagène. [10]  
+D'une commune voix confirmera ce don.   [10]
+Je joins la Cilicie à votre Comagène.  
 Adieu ne quittez point ma princesse, ma reine !  
 Tout ce qui de mon coeur fut l'unique désir,  
 Tout ce que j'aimerai jusqu'au dernier soupir.  
@@ -2285,7 +2285,7 @@ Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de
 
 [1] NOTA : Le texte est celui de l'édition 1697.
 
-[2] Ostie : Port de Rome situé à 35  km au sud de Rome au débouché du Tibre.
+[2] Ostie : Port de Rome situé à 35 km au sud de Rome au débouché du Tibre.
 
 [3] Comagène : Région de l'Asie Mineure au sud au nord de la Syrie à l'est de la Cappadoce. 
 

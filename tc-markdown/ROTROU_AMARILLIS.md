@@ -58,8 +58,8 @@ J'y rencontre toujours quelques nouveaux appas.
 Ce lieu comme Lyon est rempli de délices.  
 
     LISIMÈNE.
-La Cour n'a rien de plus que des soins et des vices,  
-Celle de Gondebaud où brûlent tant d'amants [1]  
+La Cour n'a rien de plus que des soins et des vices,   [1]
+Celle de Gondebaud où brûlent tant d'amants  
 Ne saurait égaler nos divertissements.  
 
     BÉLISE.
@@ -67,8 +67,8 @@ Mais partout la discorde a suscité la guerre.
 
     LISIMÈNE.
 Le Ciel va redonner la Paix à cette Terre ;  
-Mais quand on en viendrait à cette extrémité,  
-Dans les Palais d'Issoire on est en sûreté, [2]  
+Mais quand on en viendrait à cette extrémité,   [2]
+Dans les Palais d'Issoire on est en sûreté,  
 Nous en sommes voisins, et pouvons dans une heure  
 Choisir une retraite en leur belle demeure ;  
 Veuillez donc demeurer en ce lieu désormais,  
@@ -150,8 +150,8 @@ Son visage à ces mots a changé de couleur.
     BÉLISE.
 On m'a pris mes papiers.  
 
-    LISIMÈNE.
-        Je suis comme à la géhenne. [3]  
+    LISIMÈNE. [3]
+        Je suis comme à la géhenne.  
 
     BÉLISE.
 Ô Dieux !  
@@ -212,8 +212,8 @@ Contez-moi de vos feux l'origine, et le cours?
 
     BÉLISE.
 Durant mes plus beaux jours, en sortant de l'enfance,  
-Dans l'âge de la joie, et de l'indifférence ;  
-Le sage Armagedon qui me donna le jour, [4]  
+Dans l'âge de la joie, et de l'indifférence ;   [4]
+Le sage Armagedon qui me donna le jour,  
 Sous le saint nom d'hymen, fit naître mon amour :  
 Et jusques à ce temps j'avais toujours blâmée  
 La violente ardeur dont je suis enflammée ;  
@@ -579,8 +579,8 @@ Opinion bien fausse, et que je n'ai plus eue,
 Depuis que la raison m'a dessillé la vue.  
 Je n'estime plus tant les charmes de ta voix,  
 Je m'étonne bien plus de l'erreur où j'étais.  
-Mon âme s'est rendue à de faibles atteintes,  
-Tu galantises mal, et tu fais mal des plaintes. [5]  
+Mon âme s'est rendue à de faibles atteintes,   [5]
+Tu galantises mal, et tu fais mal des plaintes.  
 Ne figurant pas mieux ta peine et ton souci,  
 Amarillis fait bien de te traiter ainsi.  
 Tu lui parlais de pleurs pour exprimer ta peine,  
@@ -738,8 +738,8 @@ Un certain vermillon, dont l'éclat était doux,
 Colorait tendrement sa fesse et ses genoux.  
 
     PREMIER SATYRE.
-Ouf, arrête-toi là, n'en dis pas davantage,  
-Tu me ferais crever d'une amoureuse rage. [6]  
+Ouf, arrête-toi là, n'en dis pas davantage,   [6]
+Tu me ferais crever d'une amoureuse rage.  
 Ah ! que n'étais-je là, je l'eusse prise au corps,  
 Eussé-je dû souffrir un million de morts.  
 Dans le plus fort du bois je vous l'aurais fourrée,  
@@ -777,8 +777,8 @@ La plus petite paille ira chercher fortune ;
 Et les deux plus heureux en prendront chacun une.  
 
     DEUXIÈME SATYRE.
-Il n'est point de fétu, de paille, ou de hasard,  
-Nous nous gourmerons bien, ou j'en aurai ma part. [7]  
+Il n'est point de fétu, de paille, ou de hasard,   [7]
+Nous nous gourmerons bien, ou j'en aurai ma part.  
 
     TROISIÈME SATYRE.
 Il faut prendre devant ces Animaux sauvages,  
@@ -1017,8 +1017,8 @@ S'il faut que mon trépas contente votre ennuie,
 Avant qu'il soit longtemps je ferai voir à tous,  
 Que j'ai pris jusqu'ici quelque soin de ma vie,  
 À dessein seulement de l'employer pour vous.  
-Mais s'il faut qu'un beau coup finisse ma misère,  
-Mon amour me fournit mille pensers divers, [8]  
+Mais s'il faut qu'un beau coup finisse ma misère,   [8]
+Mon amour me fournit mille pensers divers,  
 Et je n'en puis trouver pour achever ce vers.  
 
     CÉLIDAN.
@@ -2591,8 +2591,8 @@ Ah vous n'en mourrez pas, suivez-nous promptement.
 
 ## SCÈNE VI. Philidas, Les Satyres, Amarillis.
 
-    PHILIDAS.
-Bouquins je suis à vous ? Attendez seulement ? [9]  
+    PHILIDAS. [9]
+Bouquins je suis à vous ? Attendez seulement ?  
 Vous mourrez de ma main, ou vous lâcherez prise.  
 
     DEUXIÈME SATYRE.

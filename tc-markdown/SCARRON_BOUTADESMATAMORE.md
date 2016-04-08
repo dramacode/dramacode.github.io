@@ -81,13 +81,13 @@ Jupiter me voyant toujours victorieux,
 En devint furieux ;  
 Il vint pour me heurter, moi je courus de même :  
 Mais pensant l'outrager, je lui fis un grand bien.  
-En ce temps il souffrait une douleur extrême,  
-Ne pouvant accoucher du divin Bromien, [1]  
+En ce temps il souffrait une douleur extrême,   [1]
+Ne pouvant accoucher du divin Bromien,  
 Mais lui fendant la cuisse : ô l'étrange merveille !  
 Je le fis accoucher du Dieu de la bouteille.  
 La Mort ensuite vint pour m'ôter la vigueur,  
-Et me crever le coeur :  
-Mais, ventre, j'écorchai cette engeance cruelle, [2]  
+Et me crever le coeur :   [2]
+Mais, ventre, j'écorchai cette engeance cruelle,  
 J'arrachai ses poumons, ses tripes, ses boyaux,  
 Son diaphragme, ses nerfs, ses cheveux, sa cervelle,  
 Ses veines, ses sourcils, ses lèvres, ses naseaux,  
@@ -96,9 +96,9 @@ Sa langue, son larynx, ses fibres, ses artères.
 Ses maudits ligaments, son coeur pernicieux,  
 Ses oreilles, ses yeux,  
 Son foie et ses tendons, ses reins, ses ventricules,  
-Ses glandes, son nombril, ses organes vitaux,  
-Ses muscles, ses boudins, sa chair, ses pannicules : [3]  
-Bref, je ne lui laissai parbleu que les os, [4]  
+Ses glandes, son nombril, ses organes vitaux,   [3]
+Ses muscles, ses boudins, sa chair, ses pannicules :   [4]
+Bref, je ne lui laissai parbleu que les os,  
 Et je la mis enfin en si pauvre posture,  
 Que je la fis alors comme on nous la figure.  
 
@@ -109,21 +109,21 @@ Que je la fis alors comme on nous la figure.
 Je suis l'effroi des Capitans,  
 Et la terreur des indomptables.  
 Mes bras nerveux et redoutables  
-Sont plus forts que ceux des tyrans :  
-Mais ventrebleu, quelle disgrâce, [5]  
-La gueuserie me pourchasse. [6]  
+Sont plus forts que ceux des tyrans :   [5]
+Mais ventrebleu, quelle disgrâce,   [6]
+La gueuserie me pourchasse.  
 Parbleu le Destin a grand tort,  
 Ce maraud qui me porte envie,  
 M'oblige à demander ma vie,  
 Moi qui donne toujours la mort.  
-Cet infâme et cruel Destin,  
-Ce souverain des noires parques [7]  
+Cet infâme et cruel Destin,   [7]
+Ce souverain des noires parques  
 Me donne d'infaillibles marques,  
 Qu'il est quelque fils de putain :  
 Car depuis l'heure que les choses  
 De leurs Chaos furent écloses,  
-Il n'a rien fait qui ne soit mal ;  
-Il a mis Mercure à la bière, [8]  
+Il n'a rien fait qui ne soit mal ;   [8]
+Il a mis Mercure à la bière,  
 César dans le cimetière,  
 Et Matamore à l'hôpital.  
 Ah, sort par trop injurieux,  
@@ -132,8 +132,8 @@ De déplier toute ta rage
 Sur un sujet si glorieux !  
 Un Capitan si plein de gloire,  
 Plus vaillant qu'on ne saurait croire,  
-Qui massacre de ses accents  
-Digne de régir la Guinée, [9]  
+Qui massacre de ses accents   [9]
+Digne de régir la Guinée,  
 Est réduit par la Destinée  
 De tendre la main aux passants.  
 Astres malins et dangereux,  
@@ -187,14 +187,14 @@ Quand je suis obligé d'assiéger une ville,
 Le canon me tient lieu d'une chose inutile ;  
 J'estime les travaux ridicules et vains,  
 Car pour y faire brèche il suffit de mes mains,  
-Avec elles j'abats tours, boulevards, murailles,  
-Fausses brayes, remparts, escarpes, flancs, tenailles, [10]  
-Demi-lunes, dehors, cavaliers, terre-pleins, [11]  
-Courtines, bastions, parapets, ravelins, [12]  
+Avec elles j'abats tours, boulevards, murailles,   [10]
+Fausses brayes, remparts, escarpes, flancs, tenailles,   [11]
+Demi-lunes, dehors, cavaliers, terre-pleins,   [12]
+Courtines, bastions, parapets, ravelins,  
 Et quelques grands efforts que la Garnison fasse,  
 Je gagne le dessus, j'entre dedans la place.  
-Pour exterminer tout je ne veux qu'un moment,  
-Et de chaque logis je fais un monument. [13]  
+Pour exterminer tout je ne veux qu'un moment,   [13]
+Et de chaque logis je fais un monument.  
 Quand je suis irrité, les plus hautes montagnes  
 S'abaissent aussitôt à l'égal des campagnes.  
 La Nature en conçoit une extrême terreur,  
@@ -245,8 +245,8 @@ Tout palpite par où je passe,
 Tout tremblote dessous mes pas,  
 Tout court de vitesse au trépas,  
 Et tout crève quand je menace.  
-Les Dieux endurent mille maux,  
-Ils trépassent comme marauds. [14]  
+Les Dieux endurent mille maux,   [14]
+Ils trépassent comme marauds.  
 En regardant ma contenance,  
 Et si l'Amour d'entre les Dieux  
 Ne peut mourir en ma présence,  
@@ -309,8 +309,8 @@ Car en bravant tous ses efforts,
 Je mettrai son horrible corps  
 En butte devant le tonnerre,  
 Et prenant le monde au collet,  
-Je ferai de toute la terre  
-Une balle d'arc à jalet. [15]  
+Je ferai de toute la terre   [15]
+Une balle d'arc à jalet.  
 
 
 ## ÉLÉGIE SÉRIEUSE de Matamore à sa Maîtresse.
@@ -366,14 +366,14 @@ Quand je pense aux grandeurs de ces perfections,
 Je me laisse emporter aux admirations ;  
 Mon jugement s'égare, et mon âme est confuse,  
 Voyant sur le Parnasse une nouvelle Muse,  
-Qui par un art nouveau, d'un nouvel Apollon  
-Fait sortir de Pégase un nouvel Hélicon : [16]  
-Les Muses ne sont plus ni charmantes, ni belles,  
-Son mérite ternit l'éclat des neufs Pucelles ; [17]  
+Qui par un art nouveau, d'un nouvel Apollon   [16]
+Fait sortir de Pégase un nouvel Hélicon :  
+Les Muses ne sont plus ni charmantes, ni belles,   [17]
+Son mérite ternit l'éclat des neufs Pucelles ;  
 Leur vieux maître a cédé sa place à son savoir,  
 Et s'est soumis lui-même aux lois de son pouvoir :  
-Si bien que cette belle étouffera la gloire  
-Et l'estime, et l'honneur des Filles de Mémoire. [18]  
+Si bien que cette belle étouffera la gloire   [18]
+Et l'estime, et l'honneur des Filles de Mémoire.  
 Elle va dominer en ce céleste lieu  
 Sur ce sacré troupeau comme faisait leur Dieu,  
 Et l'on n'y verra plus de Victime immolée  
@@ -477,8 +477,8 @@ Et malgré sa fureur je retins ce mutin,
 Où le Père du jour se lève le matin.  
 J'arrêtai du second la course vagabonde,  
 Aux lieux où le Soleil se va plonger dans l'onde :  
-Vers le Septentrion je mis les Aquilons,  
-Qui glacent les pays des barbares Gélons ; [19]  
+Vers le Septentrion je mis les Aquilons,   [19]
+Qui glacent les pays des barbares Gélons ;  
 Et cet humide vent qui grossit les nuages,  
 Qui les réduit en eaux pour faire les orages,  
 S'empara du Midi par mes commandements,  
@@ -549,17 +549,17 @@ Que l'on l'entend péter comme un coup de canon.
 Mon coeur en est tout enflammé,  
 J'en ai le corps tout consumé,  
 Déjà tous mes boyaux en sont réduits en cendre,  
-Et je crains par ces feux divers  
-Si le culier vint à se fendre, [20]  
-Qu'un vent de mon ponant ne brûle l'Univers. [21]  
+Et je crains par ces feux divers   [20]
+Si le culier vint à se fendre,   [21]
+Qu'un vent de mon ponant ne brûle l'Univers.  
 Allons donc trouver ce Docteur,  
 Ce vieux Singe, ce Radoteur,  
 S'il ne vient à mes yeux accorder angélique,  
 Quand il serait plus fort que Mars,  
 Je percerais à coups de pique  
 Malgré tous ses efforts, sa fille en toutes parts.  
-Je suis proche de la maison  
-De ce vieux Reître sans raison, [22]  
+Je suis proche de la maison   [22]
+De ce vieux Reître sans raison,  
 Oui voilà le logis de ma belle inhumaine :  
 Mais, ô Dieux ! N'en approche pas :  
 Car le seul vent de ton haleine,  
@@ -624,8 +624,8 @@ Que toutes fuient ma présence.
     MATAMORE.
 Hé bien, que dites-vous de cet oeil sourcilleux ?  
 Ne suis-je pas merveilleux,  
-Bien composé, bien fait, bien beau, bien estimable,  
-Bien touillant, bien gentil, bien poupin, bien charmant, [23]  
+Bien composé, bien fait, bien beau, bien estimable,   [23]
+Bien touillant, bien gentil, bien poupin, bien charmant,  
 Bien rude, bien cruel, bien fort, bien assommant,  
 Bien meurtrier, bien sanguin, et bien épouvantable ?  
 Ô quand je fais agir mes yeux, ou mes revers,  
@@ -645,8 +645,8 @@ Et fit ce grand déluge où tout fut abîmé.
 Une autre fois aussi le Ciel me fit savoir,  
 Que dans deux jours il voulait choir  
 Dessus tous les humains, afin de les détruire ;  
-Je lui dit, cher ami, ne sois pas si maraud,  
-Mais parbieu mon courroux n'émeut pas ce rustaud, [24]  
+Je lui dit, cher ami, ne sois pas si maraud,   [24]
+Mais parbieu mon courroux n'émeut pas ce rustaud,  
 Au contraire je vis qu'il n'en faisait que rire,  
 Connaissant donc par là qu'il voulait regimber,  
 Je dressai seulement mes plumes de la sorte,  
@@ -659,11 +659,11 @@ Et ces peuples encor en sont noirs comme il faut ;
 Moi pour l'en empêcher je m'élevai fort haut,  
 Mais si haut que j'étais au-dessus des tonnerres.  
 Étant donc là puissant à punir son orgueil,  
-Je lui crevai l'oeil gauche avecque ma rapière :  
-Si bien que du depuis ce Dieu de la lumière, [25]  
+Je lui crevai l'oeil gauche avecque ma rapière :   [25]
+Si bien que du depuis ce Dieu de la lumière,  
 Ce beau Soleil est borgne, et n'a plus rien qu'un oeil.  
-Enfin mes actions, mes regards, ou ma voix,  
-Font que tout plie sous mes lois ; [26]  
+Enfin mes actions, mes regards, ou ma voix,   [26]
+Font que tout plie sous mes lois ;  
 Étant donc satisfait du renom de mes armes,  
 Je ne veux désormais songer qu'aux passe-temps,  
 Je ne veux plus remplir les villes ni les champs  
@@ -704,8 +704,8 @@ Je n'aimerai que les femelles.
 Je trouve des félicités  
 À soupirer pour les beautés ;  
 Ô Dieux ! Si dans ces maux on trouve de la joie  
-Et beaucoup de contentement,  
-En quel aise faut-il qu'un amoureux se noie [27]  
+Et beaucoup de contentement,   [27]
+En quel aise faut-il qu'un amoureux se noie  
 Lorsqu'il a du soulagement.  
 
 
@@ -732,9 +732,9 @@ Toutefois cependant qu'ils tracent mon Histoire,
 Je travaille moi-même au récit de ma gloire,  
 Et par le moindre effet que j'en vais décrivant,  
 Je serai la terreur du siècle survivant.  
-Le Ciel parlant de moi s'explique en des Oracles,  
-La terre et tout son peuple admire mes miracles. [28]  
-J'ai vu des Quinze-Vingts qui ne me voyaient point, [29]  
+Le Ciel parlant de moi s'explique en des Oracles,   [28]
+La terre et tout son peuple admire mes miracles.   [29]
+J'ai vu des Quinze-Vingts qui ne me voyaient point,  
 Exalter ma beauté jusques au dernier point :  
 Et tel était le son de leurs justes louanges.  
 Cet homme est aussi beau que deux millions d'Anges.  
@@ -744,8 +744,8 @@ Et qu'il faut s'assurer que la même Éloquence
 A pris de moi la grâce et la vive élégance.  
 D'autres que le Soleil n'a point encore vus,  
 Disent que je suis fils de la belle Vénus,  
-Que Mars m'engendra d'elle, et que ce Dieu des armes  
-Sachant quel je serais aux martiaux alarmes, [30]  
+Que Mars m'engendra d'elle, et que ce Dieu des armes   [30]
+Sachant quel je serais aux martiaux alarmes,  
 Redouta ma naissance, et voulut qu'en ses flancs  
 La mère des beautés me portât deux mille ans :  
 Mais je me suis vengé d'une telle aventure,  
@@ -777,8 +777,8 @@ Diables damnés, dont les figures
 Donnent de la peur aux poltrons,  
 Rendez-vous palpables aux mains  
 Du plus terrible des humains,  
-Venez à moi, troupes maudites :  
-Mais, ventrebleu, vous n'osez pas, [31]  
+Venez à moi, troupes maudites :   [31]
+Mais, ventrebleu, vous n'osez pas,  
 Vos puissances sont trop petites,  
 Et votre courage est trop bas.  
 Que je suis bien incomparable !  
@@ -795,8 +795,8 @@ Les Déesses toutes perdues
 De l'amour qu'elles ont pour moi,  
 Ont tant de peine sous ma loi,  
 Qu'elles voudraient être pendues,  
-Parbleu vous diriez quelquefois,  
-Qu'elles vont rendre les abois, [32]  
+Parbleu vous diriez quelquefois,   [32]
+Qu'elles vont rendre les abois,  
 En me voulant montrer leurs braises :  
 Mais je leur use de rigueurs,  
 Car je trouve toutes mes aises  
@@ -810,8 +810,8 @@ Je ne me plais incessamment
 Qu'à distribuer des supplices  
 Et si l'on n'avait qu'aux travaux  
 Des extases et des délices,  
-Je ne ferais jamais de maux.  
-Toutes les horreurs de Bellone, [33]  
+Je ne ferais jamais de maux.   [33]
+Toutes les horreurs de Bellone,  
 Les soins, les troubles, les malheurs,  
 Et les plus terribles douleurs  
 Ne sont que les biens que je donne ;  
@@ -863,8 +863,8 @@ Gazouillent à l'envi pour mon contentement :
 Pour montrer à quel point le firmament m'honore,  
 Je suis tout le premier que regarde l'aurore,  
 Et le premier rayon de la clarté des Cieux,  
-Fait le premier honneur à ce prodigieux :  
-Mon baignoir est le vase où Neptune préside, [34]  
+Fait le premier honneur à ce prodigieux :   [34]
+Mon baignoir est le vase où Neptune préside,  
 Mon étuve est l'enclos de la Zone torride ;  
 Vous croyez que je sois sans aucuns serviteurs,  
 Mais j'en ai pour moi seul plus que douze Empereurs ;  
@@ -873,8 +873,8 @@ Mais, ventre, quand mon train commence de me nuire,
 Je le vais retranchant d'une étrange façon,  
 Car en me dépouillant contre quelque buisson,  
 Doucement et sans bruit ne faisant que m'ébattre,  
-Je le vais retranchant deux à deux, quatre à quatre.  
-Ah, ventre, un estafier me picote la peau, [35]  
+Je le vais retranchant deux à deux, quatre à quatre.   [35]
+Ah, ventre, un estafier me picote la peau,  
 Je le sens, je le tiens, ô petit vermisseau,  
 Vous me sucez le sang, vous l'osez entreprendre ?  
 Parbleu vous en mourez, rien ne vous peut défendre,  
@@ -884,8 +884,8 @@ Depuis sept ou huit jours aliment ni substance,
 Par mon large gosier n'est entré dans ma panse ;  
 Aussi tous mes boyaux se fâchent contre moi,  
 Allons-en demander à celui que je vois,  
-Je le volerais bien sans qu'il s'en pût défendre,  
-Mais j'aime mieux trucher que de me faire pendre. [36]  
+Je le volerais bien sans qu'il s'en pût défendre,   [36]
+Mais j'aime mieux trucher que de me faire pendre.  
 
 
 ## ENTRÉE DE MATAMORE. STANCES.
@@ -919,8 +919,8 @@ Ils craignirent tant ma vaillance,
 Que n'ayant pas la patience  
 Que le Soleil revint ici,  
 Ils donnèrent charge à l'Aurore  
-De voir de leur part Matamore,  
-Et de me conjurer de les prendre à merci. [37]  
+De voir de leur part Matamore,   [37]
+Et de me conjurer de les prendre à merci.  
 Je pris plaisir à voir la peur  
 De ces marauds de l'autre monde,  
 Leur soumission si profonde  
@@ -939,8 +939,8 @@ Je lui vais parler sans demeure
 L'entretenir tout à cette heure,  
 Je vais parbleu la suborner,  
 La cajoler et la séduire  
-Par le charme de mon bien dire,  
-Afin de m'efforcer de l'enjobeliner. [38]  
+Par le charme de mon bien dire,   [38]
+Afin de m'efforcer de l'enjobeliner.  
 
 
 ## ODE DE MATAMORE.
@@ -948,17 +948,17 @@ Afin de m'efforcer de l'enjobeliner. [38]
     MATAMORE.
 Oui, je m'en souviens, que depuis quelque temps  
 Pour rendre absolument tous mes désirs contents,  
-J'ai mis dessus le gril de même que des huîtres  
-Les détestables coeurs de quatorze bélîtres, [39]  
+J'ai mis dessus le gril de même que des huîtres   [39]
+Les détestables coeurs de quatorze bélîtres,  
 J'ajustai cent coquins, comme on fait des anchois,  
 Je fis bouillir des sots ainsi qu'on fait des pois,  
 Je fis des cervelas de tous les frénétiques,  
-Puis je mis à la broche onze cent Républiques ;  
-Je fis un hochepot de dix mille goujats, [40] [41]  
+Puis je mis à la broche onze cent Républiques ;   [40] [41]
+Je fis un hochepot de dix mille goujats,  
 Je fis un consommé de quinze boulevards ;  
 Je fis un court bouillon d'une terre affligée  
-Puis je fis un pâté d'une ville assiégée,  
-Je fis un saupiquet de plusieurs forcenés. [42]  
+Puis je fis un pâté d'une ville assiégée,   [42]
+Je fis un saupiquet de plusieurs forcenés.  
 Je fricassai moi seul la plupart des damnés,  
 Je pris les volontés des cervelles malfaites,  
 Et je les embrochai comme des alouettes ;  
@@ -968,23 +968,23 @@ Je mis dedans le pot en guise de volaille,
 L'épouvantable bruit d'une horrible bataille ;  
 J'y mis pour le salé tous les charivaris,  
 J'y mis pour du mouton, les Filous de Paris,  
-Pour des jarrets de veau, les fureurs de Bellone,  
-Et pour du boeuf tremblant, la tour de Babylone : [43]  
+Pour des jarrets de veau, les fureurs de Bellone,   [43]
+Et pour du boeuf tremblant, la tour de Babylone :  
 Enfin pour achever j'y mis tous les malheurs,  
 Et tous les hurlements en guise de choux-fleurs.  
 Quand j'eus fait ce potage aimable et magnifique,  
 Soudain je fis encor une excellente bisque,  
-J'y mis premièrement en guise de bouillon,  
-L'humide radical du corps d'un bataillon ; [44]  
+J'y mis premièrement en guise de bouillon,   [44]
+L'humide radical du corps d'un bataillon ;  
 Pour bien l'assaisonner en guise de morille,  
-J'y mis abondamment des langues de chenille ;  
-J'y mis pour champignons des yeux de basilic, [45]  
+J'y mis abondamment des langues de chenille ;   [45]
+J'y mis pour champignons des yeux de basilic,  
 Pour muscade et pour sel vingt quintaux d'arsenic ;  
-J'y mis force clochers ainsi que des asperges,  
-Et pour des artichauts, j'y mis trente ramberges ; [46]  
-Pour des cardes j'y mis la tresse d'Alecton, [47]  
-Les larmes de Vénus pour du jus de mouton ;  
-Pour des mirabolans j'y mis un grand gavache, [48] [49]  
+J'y mis force clochers ainsi que des asperges,   [46]
+Et pour des artichauts, j'y mis trente ramberges ;   [47]
+Pour des cardes j'y mis la tresse d'Alecton,  
+Les larmes de Vénus pour du jus de mouton ;   [48] [49]
+Pour des mirabolans j'y mis un grand gavache,  
 Et les rognons d'Hercule en guise de pistache :  
 Lorsque j'eus achevé ce superbe festin,  
 J'envoyai promptement mon valet le Destin,  
@@ -993,8 +993,8 @@ De venir m'assister à manger ma cuisine :
 Mais voyant qu'ils faisaient un peu trop les glorieux,  
 Parbleu je leur jetai tout mon festin aux yeux ;  
 De là je suis venu pour faire encor la guerre,  
-Et comme auparavant troubler toute la terre :  
-Mais premier que d'aller visiter les combats, [50]  
+Et comme auparavant troubler toute la terre :   [50]
+Mais premier que d'aller visiter les combats,  
 Je vais me marier à d'aimables appas.  
 
 
@@ -1004,13 +1004,13 @@ Je vais me marier à d'aimables appas.
 Qui saurait dire le courage,  
 Dont je me trouve revêtu ?  
 Pour bien parler de ma vertu,  
-L'on n'a point d'assez beau langage.  
-J'ai tant avalé d'espadons, [51]  
+L'on n'a point d'assez beau langage.   [51]
+J'ai tant avalé d'espadons,  
 De flèches, d'arcs et de guidons,  
 De couleuvrines et bombardes,  
 Que si, parbleu, je vomissais,  
-Je vomirais des hallebardes,  
-Des morions et des pavois. [52]  
+Je vomirais des hallebardes,   [52]
+Des morions et des pavois.  
 L'on ne saurait jamais comprendre  
 Le nombre infini des humains  
 Que j'ai par l'effort de mes mains  
@@ -1030,8 +1030,8 @@ Trop martial et trop vaillant,
 Mes vertus seront étouffées ;  
 Et par un malheureux Destin  
 La pesanteur de mes trophées  
-M'écrasera quelque matin.  
-Mais, Dieux, le fils de Cythérée [53]  
+M'écrasera quelque matin.   [53]
+Mais, Dieux, le fils de Cythérée  
 Par sa frauduleuse douceur,  
 Me force à quitter la noirceur  
 De mon humeur désespérée ;  
@@ -1154,8 +1154,8 @@ Prend au collet qui ne l'adore.
 Aussitôt qu'il fut abattu,  
 La majesté de la Vertu  
 L'affubla d'une robe noire ;  
-Mars traita le Sort en faquin,  
-Et lui rompant son casaquin, [54]  
+Mars traita le Sort en faquin,   [54]
+Et lui rompant son casaquin,  
 Lui brisa toute la mâchoire.  
 Aussitôt qu'il fut enfermé,  
 Et que sa tombe fut couverte,  
@@ -1175,8 +1175,8 @@ La Vertu n'eut ni feu, ni lieu,
 Autre part que dans l'hôtel-Dieu ;  
 La raison devint insensée,  
 Le mérite fut bâtonné,  
-Et l'honneur fut couronné  
-D'un bassin de chaise percée. [55] [56]  
+Et l'honneur fut couronné   [55] [56]
+D'un bassin de chaise percée.  
 Dès lors que ce Capitan  
 Fut dans la demeure infernale,  
 Il arracha l'oeil à Satan,  
@@ -1200,11 +1200,11 @@ Et le Roi de toutes les Âmes.
 Ainsi par le cruel effort  
 De son extrême violence,  
 Il s'est fait Souverain du Sort  
-Et du royaume du silence :  
-Il fait gémir dessous ses mains [57]  
+Et du royaume du silence :   [57]
+Il fait gémir dessous ses mains  
 Les fatalités des humains ;  
-Elles pleurent comme Niobe,  
-Et Lachese, Atrope et Cloton, [58]  
+Elles pleurent comme Niobe,   [58]
+Et Lachese, Atrope et Cloton,  
 Minos, Radamante et Pluton  
 Sont ses valets de garde-robe.  
 
@@ -1251,8 +1251,8 @@ Aussi tout s'esquive, et me fuit :
 Rien ne m'ose faire la guerre,  
 Et le Ciel tout tremblant d'effroi,  
 Ne s'éloigne point de la terre,  
-Que pour la peur qu'il a de moi.  
-Toutes choses hideuses, hâves, [59]  
+Que pour la peur qu'il a de moi.   [59]
+Toutes choses hideuses, hâves,  
 Laides, horribles, sans beautés,  
 Et qui n'ont que des cruautés,  
 Sont mes valets et mes esclaves.  
@@ -1306,8 +1306,8 @@ Je demande pour mes salades,
 Quarante, ou cinquante grenades,  
 Et dix, ou douze bastions.  
 Pour faire qu'après mes repas,  
-Mes humeurs se trouvent contentes,  
-Je dévore quelques courantes, [60]  
+Mes humeurs se trouvent contentes,   [60]
+Je dévore quelques courantes,  
 Et quinze, ou vingt bons entrechats.  
 Pour mes soupers je fais chercher,  
 La cervelle des crocodiles :  
@@ -1348,8 +1348,8 @@ Où je vais souvent m'égayer.
 Les balles de quoi je me sers,  
 Dans ces demeures effroyables,  
 Ne sont que les têtes des diables,  
-Que je massacre d'un revers.  
-Mes admirables raquetons, [61]  
+Que je massacre d'un revers.   [61]
+Mes admirables raquetons,  
 Ne sont que des gris et des flammes,  
 Sur lesquels on rôtit les âmes,  
 Des gavaches et des poltrons.  
@@ -1447,13 +1447,13 @@ Il n'est point de Guerriers, d'Empereurs, ni de Roi.
 Qui puisse justement se comparer à moi.  
 Auprès de mes regards, et de ma contenance,  
 Les plus déterminés perdent leur assurance.  
-En ma comparaison, ce sont poltrons parfaits,  
-Et tous les Amadis ne sont que des baudets. [62]  
+En ma comparaison, ce sont poltrons parfaits,   [62]
+Et tous les Amadis ne sont que des baudets.  
 
     BONNIFACE.
 Vous de qui les habits sont chamarrés d'oreilles,  
-Crieur de mort aux rats, saccageur de bouteilles.  
-Avaleur de pois gris, écraseur d'escargots [63]  
+Crieur de mort aux rats, saccageur de bouteilles.   [63]
+Avaleur de pois gris, écraseur d'escargots  
 Dont le dos est si propre à porter des fagots.  
 Vous qui ne voudriez pas, vous égaler un homme  
 De l'Histoire de Grèce, où de celle de Rome.  
@@ -1468,8 +1468,8 @@ Qui sont-ils ?
 
     MATAMORE.
 Ha ventrebleu ! Je crois que ce bonhomme est ivre :  
-Il a perdu l'esprit, son jugement se perd,  
-Le voici qui revient : hé bien vieux ladre vert, [64]  
+Il a perdu l'esprit, son jugement se perd,   [64]
+Le voici qui revient : hé bien vieux ladre vert,  
 Vous avez donc bientôt trouvé votre science ?  
 
     BONNIFACE.
@@ -1491,11 +1491,11 @@ Et que je suis un corps dont ils n'étaient que l'ombre.
 Vous vous moquez, allez vous êtes insensé :  
 Thésée.  
 
-    MATAMORE.
-        Ah tête-bleu, qu'il a bien commencé [65]  
+    MATAMORE. [65]
+        Ah tête-bleu, qu'il a bien commencé  
 Thésée malheureux, ce rapineur d'élite,  
-Que tu crois si parfait, et rempli de mérite,  
-Ne fut qu'un vagabond, un batteur de pavé. [66]  
+Que tu crois si parfait, et rempli de mérite,   [66]
+Ne fut qu'un vagabond, un batteur de pavé.  
 
     BONNIFACE.
 Romule.  
@@ -1828,8 +1828,8 @@ Te percer l'estomac, te déchirer le flanc,
 Et faire de ton corps un déluge de sang.  
 
     BONNIFACE.
-Et toi, si tu ne prends la fuite à mes prières,  
-Je te vais de ce pas donner les étrivières. [67]  
+Et toi, si tu ne prends la fuite à mes prières,   [67]
+Je te vais de ce pas donner les étrivières.  
 De mille coup de fouets te déchirer le flanc,  
 Et faire de ton corps un déluge de sang.  
 
@@ -1873,8 +1873,8 @@ Je fis le Roi des Morts, le Prince des Cornards.
 Un jour, mille marauds qui me voulaient frotter.  
 Résolurent ensemble à m'user de surprise,  
 Moi rempli de fureur sachant leur entreprise,  
-Je les trouvai bientôt, afin de les heurter.  
-Mais, ventre, j'abordai ces malheureux pagnotes, [68]  
+Je les trouvai bientôt, afin de les heurter.   [68]
+Mais, ventre, j'abordai ces malheureux pagnotes,  
 D'une telle vigueur  
 Que le vent de mes bottes  
 Leur brisa la cervelle, et leur creva le coeur.  
@@ -1947,8 +1947,8 @@ Elle entra dans Arbacte, et d'Arbacte en Cyrus.
 De Cyrus dans un Léopard,  
 D'un Léopard, dedans Hercule,  
 D'Hercule elle entra dans Romule,  
-De Romule, dedans César :  
-De César, dedans un Vipère, [69]  
+De Romule, dedans César :   [69]
+De César, dedans un Vipère,  
 D'un Vipère, dedans Tibère,  
 De Tibère dans un Héron :  
 Quand ce Héron n'eut plus de vie,  
@@ -1991,8 +1991,8 @@ Je donne incessamment la mort.
     MATAMORE.
 Enfin les beautés de la Terre,  
 Rendent honneur à mes beaux yeux,  
-Leur naturel si glorieux  
-Fléchit aux traits que je desserre. [70]  
+Leur naturel si glorieux   [70]
+Fléchit aux traits que je desserre.  
 Je tiens ces humaines beautés,  
 J'ai dessous mes autorités,  
 Les coeurs des claires et des brunes,  
@@ -2034,8 +2034,8 @@ Si peu sensibles aux appas,
 Ne souffrirait mille trépas  
 Pour les regards que je décoche ?  
 Si toutes ces Dames osaient,  
-Dieux ! Comme elles soupireraient,  
-Oeilladant un si beau visage : [71]  
+Dieux ! Comme elles soupireraient,   [71]
+Oeilladant un si beau visage :  
 L'eau qui tomberaient de leurs yeux,  
 Vous mouilleraient, parbleu, mille fois davantage,  
 Que ne ferait l'Orage, et la Pluie des Cieux.  
@@ -2044,8 +2044,8 @@ Ni que je pense nullement,
 Que le solide jugement  
 De ma maîtresse me dédaigne.  
 Mais je n'oserais l'aller voir,  
-Ainsi que le veut mon devoir :  
-J'appréhende les étrivières, [72]  
+Ainsi que le veut mon devoir :   [72]
+J'appréhende les étrivières,  
 Je redoute que son époux,  
 Sachant que je retiens ses beautés prisonnières,  
 Ne me brise les os de mille horribles coups.  
@@ -2082,8 +2082,8 @@ Je trouve des félicités
 À soupirer pour les beautés,  
 Ô Dieux ! Si dans les maux on trouve de la joie,  
 Et des plaisirs en quantité :  
-En quel aise faut-il qu'un amoureux se noie,  
-Lorsqu'il embrasse sa beauté ? [73]  
+En quel aise faut-il qu'un amoureux se noie,   [73]
+Lorsqu'il embrasse sa beauté ?  
 
 
 ## AUTRE STANCE DE MATAMORE.
@@ -2128,8 +2128,8 @@ Une étrange et cruelle guerre
 Car ce trait d'oeil si furieux,  
 De qui les facultés font des coups effroyables,  
 En cendre réduisit tous les nocturnes Lieux.  
-Et brûla tous les mille diables.  
-Mais, ventre, quel boulversement ! [74]  
+Et brûla tous les mille diables.   [74]
+Mais, ventre, quel boulversement !  
 Mes yeux quasi sur toutes choses  
 Agissent monstrueusement,  
 Et font mille Métamorphoses.  
@@ -2158,8 +2158,8 @@ Que l'on fait corporellement.
 J'ai de l'amour infiniment  
 Pour un bel oeil qui puissamment  
 Me trouble impérieusement.  
-Il demeure en ce logement,  
-Je m'en vais sans dilayement [75]  
+Il demeure en ce logement,   [75]
+Je m'en vais sans dilayement  
 Lui dire sans familièrement  
 Mais fort affectueusement  
 Que je l'aime incroyablement.  
@@ -2177,8 +2177,8 @@ C'est un faiseur d'égorgement,
 Voilà celle que chastement,  
 J'estime vertueusement.  
 Beau Soleil qui divinement,  
-Me subjuguez occultement,  
-Beauté de qui l'agréement [76]  
+Me subjuguez occultement,   [76]
+Beauté de qui l'agréement  
 M'a comme imperceptiblement  
 Assassiné l'entendement.  
 Dorlotez favorablement  
@@ -2195,8 +2195,8 @@ J'estime votre compliment,
 Mais, Monsieur, véritablement  
 Vous me voulez trop promptement,  
 Jeter dans un engagement,  
-Duquel on ne peut aisément  
-Se défaire qu'au monument. [77]  
+Duquel on ne peut aisément   [77]
+Se défaire qu'au monument.  
 Ce front, ces yeux, ce mouvement,  
 Ce ventre et cet accoutrement  
 Me captivent superbement.  
@@ -2254,8 +2254,8 @@ Je crois, qu'indubitablement
 Il mangerait un Régiment  
 De même qu'un grain de froment.  
 
-    ANGÉLIQUE.
-Tu parle irrégulièrement, [78]  
+    ANGÉLIQUE. [78]
+Tu parle irrégulièrement,  
 Il m'a miraculeusement  
 Soumise à son commandement.  
 
@@ -2270,8 +2270,8 @@ Que je l'aime violemment.
     ALISON.
 Arrêtez-vous, effrénément  
 Vous en aller absurdement  
-Prostituer enragement,  
-À celui qui bizarrement [79] [80]  
+Prostituer enragement,   [79] [80]
+À celui qui bizarrement  
 N'a pour tout divertissement  
 Qu'à faire du saccagement.  
 Je le connais parfaitement,  
@@ -2314,8 +2314,8 @@ Ah, ventrebleu, ce grognement
 Me tarabuste tellement,  
 Que si présomptueusement  
 Tu n'apportes du changement  
-À ce fâcheux rechignement,  
-Je te mettrai bourellement [81]  
+À ce fâcheux rechignement,   [81]
+Je te mettrai bourellement  
 Dedans l'anéantissement.  
 
     ANGÉLIQUE.
@@ -2330,8 +2330,8 @@ Vous me frappez injustement,
 Je vous le dis succinctement.  
 
     ANGÉLIQUE.
-Et je te dis prolixement  
-Que tu t'en aille habilement [82]  
+Et je te dis prolixement   [82]
+Que tu t'en aille habilement  
 
     ALISON.
 Ô j'aurai du ressentiment !  
@@ -2407,8 +2407,8 @@ Que j'en suis aise. Adieu, charmant.
 
     LE CAPITAINE.
 Adieu sujet de mon tourment.  
-Que je ferai friponnement  
-Un grotesque frétillement, [83] [84]  
+Que je ferai friponnement   [83] [84]
+Un grotesque frétillement,  
 Quand par un doux embrassement  
 Nous nous baiserons vivement.  
 
@@ -2476,8 +2476,8 @@ Lui touche l'âme doucement.
 Ô que je ferais sciemment :  
 Un effroyable manquement  
 Si je voulais obstinément  
-M'opposer à ce règlement,  
-Allons donc tout recentement, [85]  
+M'opposer à ce règlement,   [85]
+Allons donc tout recentement,  
 La voir en son appartement.  
 
     BEAU-CHÂTEAU.
@@ -2525,13 +2525,13 @@ Dans un si grand effrayement.
 Chère Alison, dis-moi nuement,  
 Et sans aucun déguisement  
 À qui veut désespérément  
-Se marier si bassement,  
-Celle qui si felonnement [86]  
-Nous assujettit roquement. [87] [88]  
+Se marier si bassement,   [86]
+Celle qui si felonnement   [87] [88]
+Nous assujettit roquement.  
 
     ALISON.
-À qui, bons Dieux ! Vous le nommant,  
-Ce serait un rengrégement [89]  
+À qui, bons Dieux ! Vous le nommant,   [89]
+Ce serait un rengrégement  
 De ce mal, qu'insensiblement  
 Vous ressentez grièvement.  
 
@@ -2565,8 +2565,8 @@ Sortir que fort honteusement
 De ce que déterminément  
 Vous résolvez brutalement.  
 Ce coup indubitablement  
-Vous ferait pendre bravement,  
-Et puis celui que cautement [90]  
+Vous ferait pendre bravement,   [90]
+Et puis celui que cautement  
 Vous voulez frauduleusement  
 Priver de vie et mouvement,  
 Est redouté terriblement.  
@@ -2629,8 +2629,8 @@ Je vous estime extrêmement.
 Beau maraud naturellement  
 Je vous déteste étrangement.  
 
-    BEAU-LIEU.
-Ô Tigresse, impiteusement [91]  
+    BEAU-LIEU. [91]
+Ô Tigresse, impiteusement  
 Vous m'assassinez méchamment.  
 
     ANGÉLIQUE.
@@ -2649,8 +2649,8 @@ Vous me parlez vilainement.
 Traitez-les plus civilement,  
 Qui vous fait dédaigneusement,  
 Rejeter orgueilleusement  
-Leurs services que noblement  
-Ils vous offrent mignardement ? [92]  
+Leurs services que noblement   [92]
+Ils vous offrent mignardement ?  
 
     LE CAPITAINE.
 Oui, chair bleu, valeureusement  
@@ -2718,8 +2718,8 @@ Venez à moi légèrement.
 
     LE CAPITAINE.
 Tes gendres, Dieux, exactement  
-Tu les as choisis savamment :  
-Ces mugueteaux. Hé bien, comment [93]  
+Tu les as choisis savamment :   [93]
+Ces mugueteaux. Hé bien, comment  
 Pouvez-vous sans frémissement  
 Me regarder effrontément.  
 Les aimez-vous, là hautement  
@@ -2765,8 +2765,8 @@ Pardonnez-nous courtoisement,
 
     LE CAPITAINE.
 Non, non, pour votre châtiment  
-Tous deux alternativement,  
-Abordez-moi cagnardement [94]  
+Tous deux alternativement,   [94]
+Abordez-moi cagnardement  
 Et me baiser le fondement,  
 Sinon religieusement,  
 Et fort dévotieusement  
@@ -2814,10 +2814,10 @@ Nous recherchions soigneusement.
 Allons donc honorablement  
 Nous baiser vigoureusement.  
 
-    LE CAPITAINE.
-Allons mon coeur, loustiquement [95]  
-Nous caresser grotesquement,  
-Allons-nous en turbulement [96]  
+    LE CAPITAINE. [95]
+Allons mon coeur, loustiquement  
+Nous caresser grotesquement,   [96]
+Allons-nous en turbulement  
 Nous embrasser bouffonnement,  
 Pour faire ridiculement  
 Par un divin chatouillement  

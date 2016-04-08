@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1674
+**** *book_ *id_I01 *act_I *date_1674 *creator_racine
 
 -*who_agamemnon
 Oui, c'est Agamemnon, c'est ton roi qui t'éveille.
@@ -186,7 +186,7 @@ Déjà le jour plus grand nous frappe et nous éclaire.
 Déjà même l'on entre, et j'entends quelque bruit.
 C'est Achille. Va, pars. Dieux ! Ulysse le suit.
 
-**** *book_ *id_I02 *act_I *date_1674
+**** *book_ *id_I02 *act_I *date_1674 *creator_racine
 
 -*who_agamemnon
 Quoi ! Seigneur, se peut-il que d'un cours si rapide
@@ -337,7 +337,7 @@ Veut qu'ici mon exemple encourage l'armée,
 Et me défend surtout de vous abandonner
 Aux timides conseils qu'on ose vous donner.
 
-**** *book_ *id_I03 *act_I *date_1674
+**** *book_ *id_I03 *act_I *date_1674 *creator_racine
 
 -*who_ulysse
 Seigneur, vous entendez. Quelque prix qu'il en coûte,
@@ -410,7 +410,7 @@ De quelque dieu plus doux qui veille sur ses jours.
 Vos conseils sur mon coeur n'ont eu que trop d'empire ;
 Et je rougis...
 
-**** *book_ *id_I04 *act_I *date_1674
+**** *book_ *id_I04 *act_I *date_1674 *creator_racine
 
 -*who_eurybate
       Seigneur...
@@ -449,7 +449,7 @@ Jamais père ne fut plus heureux que vous l'êtes.
 Eurybate, il suffit. Vous pouvez nous laisser.
 Le reste me regarde et je vais y penser.
 
-**** *book_ *id_I05 *act_I *date_1674
+**** *book_ *id_I05 *act_I *date_1674 *creator_racine
 
 -*who_agamemnon
 Juste ciel, c'est ainsi qu'assurant ta vengeance
@@ -491,7 +491,7 @@ Allez. Mais cependant faites taire Calchas.
 Et m'aidant à cacher ce funeste mystère,
 Laissez-moi de l'autel écarter une mère.
 
-**** *book_ *id_II01 *act_II *date_1674
+**** *book_ *id_II01 *act_II *date_1674 *creator_racine
 
 -*who_eriphile
 Ne les contraignons point, Doris, retirons-nous,
@@ -661,7 +661,7 @@ Que je vous plains, Madame ! Et que la tyrannie...
 -*who_eriphile
 Tu vois Agamemnon avec Iphigénie.
 
-**** *book_ *id_II02 *act_II *date_1674
+**** *book_ *id_II02 *act_II *date_1674 *creator_racine
 
 -*who_iphigenie
 Seigneur, où courez-vous ? Et quels empressements
@@ -767,7 +767,7 @@ Hélas !
       Vous y serez, ma fille.
 Adieu.
 
-**** *book_ *id_II03 *act_II *date_1674
+**** *book_ *id_II03 *act_II *date_1674 *creator_racine
 
 -*who_iphigenie
       De cet accueil que dois-je soupçonner ?
@@ -821,7 +821,7 @@ S'il part contre Ilion, c'est pour moi qu'il y vole,
 Et satisfait d'un prix qui lui semble si doux,
 Il veut même y porter le nom de mon époux.
 
-**** *book_ *id_II04 *act_II *date_1674
+**** *book_ *id_II04 *act_II *date_1674 *creator_racine
 
 -*who_clytemnestre
 Ma fille, il faut partir sans que rien nous retienne,
@@ -862,7 +862,7 @@ En de plus chères mains ma retraite vous livre.
 De vos desseins secrets on est trop éclairci,
 Et ce n'est pas Calchas que vous cherchez ici.
 
-**** *book_ *id_II05 *act_II *date_1674
+**** *book_ *id_II05 *act_II *date_1674 *creator_racine
 
 -*who_iphigenie
 En quel funeste état ces mots m'ont-ils laissée !
@@ -953,7 +953,7 @@ J'ai surpris ses soupirs qu'il me voulait cacher.
 Hélas ! De son accueil condamnant la tristesse,
 J'osais me plaindre à lui de son peu de tendresse.
 
-**** *book_ *id_II06 *act_II *date_1674
+**** *book_ *id_II06 *act_II *date_1674 *creator_racine
 
 -*who_achille
 Il est donc vrai, Madame, et c'est vous que je vois.
@@ -965,7 +965,7 @@ D'où vient qu'Agamemnon m'assurait le contraire ?
 Seigneur, rassurez-vous. Vos voeux seront contents.
 Iphigénie encor n'y sera pas longtemps.
 
-**** *book_ *id_II07 *act_II *date_1674
+**** *book_ *id_II07 *act_II *date_1674 *creator_racine
 
 -*who_achille
 Elle me fuit ! veillé-je ? Ou n'est-ce point un songe ?
@@ -1005,7 +1005,7 @@ Quelle entreprise ici pourrait être formée ?
 Suis-je sans le savoir la fable de l'armée ?
 Entrons. C'est un secret qu'il leur faut arracher.
 
-**** *book_ *id_II08 *act_II *date_1674
+**** *book_ *id_II08 *act_II *date_1674 *creator_racine
 
 -*who_eriphile
 Dieux, qui voyez ma honte, où me dois-je cacher ?
@@ -1020,7 +1020,7 @@ Et si le sort contre elle à ma haine se joint,
 Je saurai profiter de cette intelligence
 Pour ne pas pleurer seule, et mourir sans vengeance.
 
-**** *book_ *id_III01 *act_III *date_1674
+**** *book_ *id_III01 *act_III *date_1674 *creator_racine
 
 -*who_clytemnestre
 Oui, Seigneur, nous partions. Et mon juste courroux
@@ -1093,7 +1093,7 @@ Vous avez entendu ce que je vous demande,
 Madame. Je le veux, et je vous le commande.
 Obéissez.
 
-**** *book_ *id_III02 *act_III *date_1674
+**** *book_ *id_III02 *act_III *date_1674 *creator_racine
 
 -*who_clytemnestre
       D'où vient que d'un soin si cruel
@@ -1109,7 +1109,7 @@ Ma fille, ton bonheur me console de tout :
 Le ciel te donne Achille, et ma joie est extrême
 De t'entendre nommer... Mais le voici lui-même.
 
-**** *book_ *id_III03 *act_III *date_1674
+**** *book_ *id_III03 *act_III *date_1674 *creator_racine
 
 -*who_achille
 Tout succède, Madame, à mon empressement.
@@ -1133,7 +1133,7 @@ D'aller du sang troyen sceller notre union,
 Et de laisser bientôt sous Troie ensevelie
 Le déshonneur d'un nom, à qui le mien s'allie ?
 
-**** *book_ *id_III04 *act_III *date_1674
+**** *book_ *id_III04 *act_III *date_1674 *creator_racine
 
 -*who_achille
 Princesse, mon bonheur ne dépend que de vous.
@@ -1194,7 +1194,7 @@ Venez, qu'aux yeux des Grecs Achille vous délivre ;
 Et que le doux moment de ma félicité
 Soit le moment heureux de votre liberté.
 
-**** *book_ *id_III05 *act_III *date_1674
+**** *book_ *id_III05 *act_III *date_1674 *creator_racine
 
 -*who_arcas
 Madame, tout est prêt pour la cérémonie,
@@ -1308,7 +1308,7 @@ Il faudra que Calchas cherche une autre victime.
 Ou si je ne vous puis dérober à leurs coups,
 Ma fille, ils pourront bien m'immoler avant vous.
 
-**** *book_ *id_III06 *act_III *date_1674
+**** *book_ *id_III06 *act_III *date_1674 *creator_racine
 
 -*who_achille
 Madame, je me tais, et demeure immobile.
@@ -1423,7 +1423,7 @@ M'élevait au-dessus du sort d'une mortelle.
 -*who_achille
 Ah ! si je vous suis cher, ma Princesse, vivez.
 
-**** *book_ *id_III07 *act_III *date_1674
+**** *book_ *id_III07 *act_III *date_1674 *creator_racine
 
 -*who_clytemnestre
 Tout est perdu, Seigneur, si vous ne nous sauvez.
@@ -1477,7 +1477,7 @@ Croyez du moins, croyez que tant que je respire,
 Les dieux auront en vain ordonné son trépas ;
 Cet oracle est plus sûr que celui de Calchas.
 
-**** *book_ *id_IV01 *act_IV *date_1674
+**** *book_ *id_IV01 *act_IV *date_1674 *creator_racine
 
 -*who_doris
 Ah ! que me dites-vous ? Quelle étrange manie
@@ -1557,7 +1557,7 @@ Remettez-vous, Madame, ou fuyez sa présence.
 Rentrons. Et pour troubler un hymen odieux,
 Consultons des fureurs qu'autorisent les dieux.
 
-**** *book_ *id_IV02 *act_IV *date_1674
+**** *book_ *id_IV02 *act_IV *date_1674 *creator_racine
 
 -*who_clytemnestre
 Ægine, tu le vois, il faut que je la fuie.
@@ -1571,7 +1571,7 @@ Et croit pouvoir encor cacher sa trahison.
 Il vient. Sans éclater contre son injustice,
 Voyons s'il soutiendra son indigne artifice.
 
-**** *book_ *id_IV03 *act_IV *date_1674
+**** *book_ *id_IV03 *act_IV *date_1674 *creator_racine
 
 -*who_agamemnon
 Que faites-vous, Madame ? Et d'où vient que ces lieux
@@ -1602,7 +1602,7 @@ Vous ne me parlez point, Seigneur, de la victime.
 -*who_agamemnon
 Que me voulez-vous dire ? Et de quel soin jaloux...
 
-**** *book_ *id_IV04 *act_IV *date_1674
+**** *book_ *id_IV04 *act_IV *date_1674 *creator_racine
 
 -*who_clytemnestre
 Venez, venez, ma fille, on n'attend plus que vous,
@@ -1764,7 +1764,7 @@ Venez, si vous l'osez, la ravir à sa mère.
 Et vous, rentrez, ma fille, et du moins à mes lois
 Obéissez encor pour la dernière fois.
 
-**** *book_ *id_IV05 *act_IV *date_1674
+**** *book_ *id_IV05 *act_IV *date_1674 *creator_racine
 
 -*who_agamemnon
 À de moindres fureurs je n'ai pas dû m'attendre,
@@ -1774,7 +1774,7 @@ Je n'avais toutefois à craindre que ses cris !
 Hélas ! en m'imposant une loi si sévère,
 Grands dieux ! me deviez-vous laisser un coeur de père ?
 
-**** *book_ *id_IV06 *act_IV *date_1674
+**** *book_ *id_IV06 *act_IV *date_1674 *creator_racine
 
 -*who_achille
 Un bruit assez étrange est venu jusqu'à moi,
@@ -1910,7 +1910,7 @@ J'ai votre fille ensemble, et ma gloire à défendre.
 Pour aller jusqu'au coeur, que vous voulez percer,
 Voilà par quel chemin vos coups doivent passer.
 
-**** *book_ *id_IV07 *act_IV *date_1674
+**** *book_ *id_IV07 *act_IV *date_1674 *creator_racine
 
 -*who_agamemnon
 Et voilà ce qui rend sa perte inévitable.
@@ -1923,7 +1923,7 @@ Achille menaçant détermine mon coeur.
 Ma pitié semblerait un effet de ma peur.
 Holà, gardes, à moi !
 
-**** *book_ *id_IV08 *act_IV *date_1674
+**** *book_ *id_IV08 *act_IV *date_1674 *creator_racine
 
 -*who_eurybate
       Seigneur.
@@ -1960,7 +1960,7 @@ Il l'aime. Elle vivra pour un autre que lui.
 Eurybate, appelez la princesse, la reine.
 Qu'elles ne craignent point.
 
-**** *book_ *id_IV09 *act_IV *date_1674
+**** *book_ *id_IV09 *act_IV *date_1674 *creator_racine
 
 -*who_agamemnon
       Grands dieux, si votre haine
@@ -1971,7 +1971,7 @@ Je le sais. Mais, grands dieux, une telle victime
 Vaut bien que confirmant vos rigoureuses lois,
 Vous me la demandiez une seconde fois.
 
-**** *book_ *id_IV10 *act_IV *date_1674
+**** *book_ *id_IV10 *act_IV *date_1674 *creator_racine
 
 -*who_agamemnon
 Allez, Madame, allez, prenez soin de sa vie.
@@ -2001,7 +2001,7 @@ Par de feintes raisons je m'en vais l'abuser ;
 Je vais faire suspendre une pompe funeste,
 Et de ce jour au moins lui demander le reste.
 
-**** *book_ *id_IV11 *act_IV *date_1674
+**** *book_ *id_IV11 *act_IV *date_1674 *creator_racine
 
 -*who_eriphile
 Suis-moi. Ce n'est pas là, Doris, notre chemin.
@@ -2016,7 +2016,7 @@ Je n'emporterai point une rage inutile.
 Plus de raisons. Il faut, ou la perdre, ou périr.
 Viens, te dis-je. À Calchas je vais tout découvrir.
 
-**** *book_ *id_V01 *act_V *date_1674
+**** *book_ *id_V01 *act_V *date_1674 *creator_racine
 
 -*who_iphigenie
 Cesse de m'arrêter. Va, retourne à ma mère,
@@ -2053,7 +2053,7 @@ Dieux plus doux ! vous n'avez demandé que ma vie.
 Mourons, obéissons. Mais qu'est ce que je voi ?
 Dieux ! Achille ?
 
-**** *book_ *id_V02 *act_V *date_1674
+**** *book_ *id_V02 *act_V *date_1674 *creator_racine
 
 -*who_achille
       Venez, Madame, suivez-moi.
@@ -2176,7 +2176,7 @@ Ah, Seigneur ! Ah ! cruel... Mais il fuit, il m'échappe.
 Termine, juste ciel, ma vie, et mon effroi,
 Et lance ici des traits, qui n'accablent que moi.
 
-**** *book_ *id_V03 *act_V *date_1674
+**** *book_ *id_V03 *act_V *date_1674 *creator_racine
 
 -*who_clytemnestre
 Oui, je la défendrai contre toute l'armée,
@@ -2245,7 +2245,7 @@ Daignez m'ouvrir vos bras pour la dernière fois,
 Madame, et rappelant votre vertu sublime...
 Eurybate, à l'autel conduisez la victime.
 
-**** *book_ *id_V04 *act_V *date_1674
+**** *book_ *id_V04 *act_V *date_1674 *creator_racine
 
 -*who_clytemnestre
 Ah ! vous n'irez pas seule, et je ne prétends pas...
@@ -2290,7 +2290,7 @@ C'est le pur sang du dieu qui lance le tonnerre.
 J'entends gronder la foudre, et sens trembler la terre.
 Un dieu vengeur, un dieu fait retentir ces coups.
 
-**** *book_ *id_V05 *act_V *date_1674
+**** *book_ *id_V05 *act_V *date_1674 *creator_racine
 
 -*who_arcas
 N'en doutez point, Madame. Un dieu combat pour vous.
@@ -2317,7 +2317,7 @@ Le plus affreux péril n'a rien dont je pâlisse.
 J'irai partout. Mais dieux ! ne vois-je pas Ulysse ?
 C'est lui. Ma fille est morte, Arcas, il n'est plus temps.
 
-**** *book_ *id_V06 *act_V *date_1674
+**** *book_ *id_V06 *act_V *date_1674 *creator_racine
 
 -*who_ulysse
 Non, votre fille vit, et les dieux sont contents.

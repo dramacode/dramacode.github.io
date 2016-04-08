@@ -45,8 +45,8 @@ Ne me parle plus tant de joie et d'hyménée ;
 Tu ne sais pas les maux où je suis condamnée,  
 Ormène : c'est ici que doit s'exécuter  
 Ce traité qu'à deux rois il a plu d'arrêter ;  
-Et l'on a préféré cette superbe ville,  
-Ces murs de Séleucie, aux murs d'Hécatompyle. [1] [2]  
+Et l'on a préféré cette superbe ville,   [1] [2]
+Ces murs de Séleucie, aux murs d'Hécatompyle.  
 La reine et la princesse en quittent le séjour,  
 Pour rendre en ces beaux lieux tout son lustre à la cour.  
 Le roi les mande exprès, le prince n'attend qu'elles ;  
@@ -79,8 +79,8 @@ Aux yeux de votre amant !
         Il est temps de te dire  
 Et quel malheur m'accable, et pour qui je soupire.  
 Le mal qui s'évapore en devient plus léger,  
-Et le mien avec toi cherche à se soulager.  
-Quand l'avare Crassus, chef des troupes romaines, [3]  
+Et le mien avec toi cherche à se soulager.   [3]
+Quand l'avare Crassus, chef des troupes romaines,  
 Entreprit de dompter les Parthes dans leurs plaines,  
 Tu sais que de mon père il brigua le secours ;  
 Qu'Orode en fit autant au bout de quelques jours ;  

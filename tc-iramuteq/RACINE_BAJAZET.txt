@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1672
+**** *book_ *id_I01 *act_I *date_1672 *creator_racine
 
 -*who_acomat
 Viens, suis-moi. La sultane en ce lieu se doit rendre.
@@ -263,7 +263,7 @@ Et... Mais on vient. C'est elle, et sa chère Atalide.
 Demeure. Et s'il le faut, sois prêt a confirmer
 Le récit important dont je vais l'informer.
 
-**** *book_ *id_I02 *act_I *date_1672
+**** *book_ *id_I02 *act_I *date_1672 *creator_racine
 
 -*who_acomat
 La vérité s'accorde avec la renommée,
@@ -314,7 +314,7 @@ Je verrai Bajazet. Je ne puis dire rien,
 Sans savoir si son cœur s'accorde avec le mien.
 Allez, et revenez.
 
-**** *book_ *id_I03 *act_I *date_1672
+**** *book_ *id_I03 *act_I *date_1672 *creator_racine
 
 -*who_roxane
       Enfin, belle Atalide,
@@ -412,7 +412,7 @@ Que lui-même en secret amené dans ces lieux,
 Sans être préparé se présente à mes yeux.
 Adieu, vous saurez tout après cette entrevue.
 
-**** *book_ *id_I04 *act_I *date_1672
+**** *book_ *id_I04 *act_I *date_1672 *creator_racine
 
 -*who_atalide
 Zaïre, c'en est fait, Atalide est perdue.
@@ -521,7 +521,7 @@ De deux jeunes amants veut punir l'artifice,
 Ô ciel ! Si notre amour est condamné de toi,
 Je suis la plus coupable, épuise tout sur moi.
 
-**** *book_ *id_II01 *act_II *date_1672
+**** *book_ *id_II01 *act_II *date_1672 *creator_racine
 
 -*who_roxane
 Prince, l'heure fatale est enfin arrivée
@@ -704,7 +704,7 @@ Ou bien, me voila prêt, prenez votre victime.
 Ah ! C'en est trop enfin, tu seras satisfait.
 Hola, gardes, qu'on vienne.
 
-**** *book_ *id_II02 *act_II *date_1672
+**** *book_ *id_II02 *act_II *date_1672 *creator_racine
 
 -*who_roxane
       Acomat, c'en est fait.
@@ -713,7 +713,7 @@ Du sultan Amurat je reconnais l'empire.
 Sortez. Que le sérail soit désormais fermé,
 Et que tout rentre ici dans l'ordre accoutumé.
 
-**** *book_ *id_II03 *act_II *date_1672
+**** *book_ *id_II03 *act_II *date_1672 *creator_racine
 
 -*who_acomat
 Seigneur, qu'ai-je entendu ? Quelle surprise extrême !
@@ -845,7 +845,7 @@ Que même en périssant j'admire malgré moi !
 Faut-il qu'en un moment un scrupule timide
 Perde... Mais quel bonheur nous envoie Atalide ?
 
-**** *book_ *id_II04 *act_II *date_1672
+**** *book_ *id_II04 *act_II *date_1672 *creator_racine
 
 -*who_acomat
 Ah, Madame ! venez avec moi vous unir.
@@ -858,7 +858,7 @@ Veut que de ce palais la porte soit fermée.
 Toutefois, Acomat, ne vous éloignez pas.
 Peut-être on vous fera revenir sur vos pas.
 
-**** *book_ *id_II05 *act_II *date_1672
+**** *book_ *id_II05 *act_II *date_1672 *creator_racine
 
 -*who_bajazet
 Hé bien ! C'est maintenant qu'il faut que je vous laisse.
@@ -1024,7 +1024,7 @@ Votre trouble, ou le mien, nous feraient reconnaître.
 Allez encore un coup, je n'ose m'y trouver.
 Dites... tout ce qu'il faut, Seigneur, pour vous sauver.
 
-**** *book_ *id_III01 *act_III *date_1672
+**** *book_ *id_III01 *act_III *date_1672 *creator_racine
 
 -*who_atalide
 Zaïre, il est donc vrai, sa grâce est prononcée.
@@ -1104,7 +1104,7 @@ Allons, je veux savoir...
 On vient vous informer de tout ce qui se passe.
 C'est le vizir.
 
-**** *book_ *id_III02 *act_III *date_1672
+**** *book_ *id_III02 *act_III *date_1672 *creator_racine
 
 -*who_acomat
       Enfin nos amants sont d'accord,
@@ -1181,7 +1181,7 @@ De leur paix en passant vous conter la nouvelle,
 Et m'acquitter vers vous de mes respects profonds,
 Je vais le couronner, Madame, et j'en réponds.
 
-**** *book_ *id_III03 *act_III *date_1672
+**** *book_ *id_III03 *act_III *date_1672 *creator_racine
 
 -*who_atalide
 Allons, retirons-nous, ne troublons point leur joie.
@@ -1238,7 +1238,7 @@ Il ne me verra plus.
 -*who_zaire
       Madame, le voici.
 
-**** *book_ *id_III04 *act_III *date_1672
+**** *book_ *id_III04 *act_III *date_1672 *creator_racine
 
 -*who_bajazet
 C'en est fait, j'ai parlé, vous êtes obéie.
@@ -1322,7 +1322,7 @@ La voici.
       Juste ciel ! Où va-t-il s'exposer ?
 Si vous m'aimez, gardez de la désabuser.
 
-**** *book_ *id_III05 *act_III *date_1672
+**** *book_ *id_III05 *act_III *date_1672 *creator_racine
 
 -*who_roxane
 Venez, Seigneur, venez. Il est temps de paraître,
@@ -1348,7 +1348,7 @@ Vous répondront toujours de ma reconnaissance.
 Si je puis à ce prix mériter vos bienfaits,
 Je vais de vos bontés attendre les effets.
 
-**** *book_ *id_III06 *act_III *date_1672
+**** *book_ *id_III06 *act_III *date_1672 *creator_racine
 
 -*who_roxane
 De quel étonnement, ô ciel ! Suis-je frappée ?
@@ -1398,7 +1398,7 @@ Ce jour me jette aussi dans quelque inquiétude.
 J'ai, comme Bajazet, mon chagrin et mes soins,
 Et je veux un moment y penser sans témoins.
 
-**** *book_ *id_III07 *act_III *date_1672
+**** *book_ *id_III07 *act_III *date_1672 *creator_racine
 
 -*who_roxane
 De tout ce que je vois que faut-il que je pense ?
@@ -1434,7 +1434,7 @@ L'eut-il refusé même aux dépens de sa vie ?
 Que de justes raisons... Mais qui vient me parler ?
 Que veut-on ?
 
-**** *book_ *id_III08 *act_III *date_1672
+**** *book_ *id_III08 *act_III *date_1672 *creator_racine
 
 -*who_zatime
       Pardonnez si j'ose vous troubler.
@@ -1472,7 +1472,7 @@ Laisse par quelque marque échapper son secret.
 Observons Bajazet. Étonnons Atalide.
 Et couronnons l'amant, ou perdons le perfide.
 
-**** *book_ *id_IV01 *act_IV *date_1672
+**** *book_ *id_IV01 *act_IV *date_1672 *creator_racine
 
 -*who_atalide
 Ah ! Sais-tu mes frayeurs ? Sais-tu que dans ces lieux
@@ -1525,7 +1525,7 @@ Roxane vient à vous.
 -*who_atalide
       Ah ! Cachons cette lettre.
 
-**** *book_ *id_IV02 *act_IV *date_1672
+**** *book_ *id_IV02 *act_IV *date_1672 *creator_racine
 
 -*who_roxane
 Viens. J'ai reçu cet ordre. Il faut l'intimider.
@@ -1533,7 +1533,7 @@ Viens. J'ai reçu cet ordre. Il faut l'intimider.
 -*who_atalide
 Va, cours, et tâche enfin de le persuader.
 
-**** *book_ *id_IV03 *act_IV *date_1672
+**** *book_ *id_IV03 *act_IV *date_1672 *creator_racine
 
 -*who_roxane
 Madame, j'ai reçu des lettres de l'armée,
@@ -1652,7 +1652,7 @@ Allez, conduisez-la dans la chambre prochaine.
 Mais au moins observez ses regards, ses discours,
 Tout ce qui convaincra leurs perfides amours.
 
-**** *book_ *id_IV04 *act_IV *date_1672
+**** *book_ *id_IV04 *act_IV *date_1672 *creator_racine
 
 -*who_roxane
 Ma rivale à mes yeux s'est enfin déclarée.
@@ -1698,7 +1698,7 @@ Les percer l'un et l'autre, et moi-même après eux.
 Voilà, n'en doutons point, le parti qu'il faut prendre,
 Je veux tout ignorer.
 
-**** *book_ *id_IV05 *act_IV *date_1672
+**** *book_ *id_IV05 *act_IV *date_1672 *creator_racine
 
 -*who_roxane
       Ah ! Que viens-tu m'apprendre,
@@ -1798,7 +1798,7 @@ Me payer les plaisirs que je leur ai prêtés !
 Va, retiens-la. Surtout garde bien le silence.
 Moi... Mais qui vient ici différer ma vengeance ?
 
-**** *book_ *id_IV06 *act_IV *date_1672
+**** *book_ *id_IV06 *act_IV *date_1672 *creator_racine
 
 -*who_acomat
 Que faites-vous, Madame ? En quels retardements
@@ -1863,7 +1863,7 @@ Je perdrais ma vengeance en la rendant si prompte.
 Je vais tout préparer. Vous cependant allez
 Disperser promptement vos amis assemblés.
 
-**** *book_ *id_IV07 *act_IV *date_1672
+**** *book_ *id_IV07 *act_IV *date_1672 *creator_racine
 
 -*who_acomat
 Demeure. Il n'est pas temps, cher Osmin, que je sorte.
@@ -1957,7 +1957,7 @@ Ne tardons plus. Marchons. Et s'il faut que je meure,
 Mourons, moi, cher Osmin, comme un vizir ; et toi,
 Comme le favori d'un homme tel que moi.
 
-**** *book_ *id_V01 *act_V *date_1672
+**** *book_ *id_V01 *act_V *date_1672 *creator_racine
 
 -*who_atalide
 Hélas ! Je cherche en vain. Rien ne s'offre a ma vue.
@@ -1983,7 +1983,7 @@ Ah ! Bajazet est mort, ou meurt en ce moment.
 Cependant on m'arrête, on me tient enfermée.
 On ouvre. De son sort je vais être informée.
 
-**** *book_ *id_V02 *act_V *date_1672
+**** *book_ *id_V02 *act_V *date_1672 *creator_racine
 
 -*who_roxane
 Retirez-vous.
@@ -1995,7 +1995,7 @@ Retirez-vous.
 Retirez-vous, vous dis-je, et ne répliquez pas.
 Gardes, qu'on la retienne.
 
-**** *book_ *id_V03 *act_V *date_1672
+**** *book_ *id_V03 *act_V *date_1672 *creator_racine
 
 -*who_roxane
       Oui, tout est pret, Zatime.
@@ -2020,7 +2020,7 @@ Ne crois-tu pas encore être assez outragée ?
 Sans perdre tant d'efforts sur ce cœur endurci,
 Que ne le laissons-nous périr... Mais le voici.
 
-**** *book_ *id_V04 *act_V *date_1672
+**** *book_ *id_V04 *act_V *date_1672 *creator_racine
 
 -*who_roxane
 Je ne vous ferai point des reproches frivoles.
@@ -2144,7 +2144,7 @@ Madame. Et si jamais je vous fus cher...
 -*who_roxane
       Sortez.
 
-**** *book_ *id_V05 *act_V *date_1672
+**** *book_ *id_V05 *act_V *date_1672 *creator_racine
 
 -*who_roxane
 Pour la dernière fois, perfide, tu m'as vue,
@@ -2160,7 +2160,7 @@ D'un secret important qui vous touche plus qu'elle.
 Oui, qu'elle vienne. Et toi, suis Bajazet qui sort,
 Et quand il sera temps, viens m'apprendre son sort.
 
-**** *book_ *id_V06 *act_V *date_1672
+**** *book_ *id_V06 *act_V *date_1672 *creator_racine
 
 -*who_atalide
 Je ne viens plus, Madame, à feindre disposée
@@ -2220,7 +2220,7 @@ Par des nœuds éternels vous unir avec lui.
 Vous jouirez bientôt de son aimable vue.
 Levez-vous. Mais que veut Zatime tout émue ?
 
-**** *book_ *id_V07 *act_V *date_1672
+**** *book_ *id_V07 *act_V *date_1672 *creator_racine
 
 -*who_zatime
 Ah ! Venez vous montrer, Madame, ou désormais
@@ -2234,7 +2234,7 @@ Doutent si le Vizir vous sert, ou vous trahit.
 Ah les traîtres ! Allons, et courons le confondre.
 Toi, garde ma captive, et songe à m'en répondre.
 
-**** *book_ *id_V08 *act_V *date_1672
+**** *book_ *id_V08 *act_V *date_1672 *creator_racine
 
 -*who_atalide
 Hélas ! Pour qui mon cœur doit-il faire des vœux ?
@@ -2270,7 +2270,7 @@ Montre-toi, s'il se peut, digne de la servir.
 Tu me retiens en vain. Et dès cette même heure
 Il faut que je le voie, ou du moins que je meure.
 
-**** *book_ *id_V09 *act_V *date_1672
+**** *book_ *id_V09 *act_V *date_1672 *creator_racine
 
 -*who_acomat
 Ah que fait Bajazet ? Où le puis-je trouver,
@@ -2290,7 +2290,7 @@ Cette esclave le sait.
       Crains mon juste courroux.
 Malheureuse, réponds.
 
-**** *book_ *id_V10 *act_V *date_1672
+**** *book_ *id_V10 *act_V *date_1672 *creator_racine
 
 -*who_zaire
       Madame !
@@ -2324,7 +2324,7 @@ Bajazet vit encor, vizir, courez à lui.
 Par la bouche d'Osmin vous serez mieux instruite,
 Il a tout vu.
 
-**** *book_ *id_V11 *act_V *date_1672
+**** *book_ *id_V11 *act_V *date_1672 *creator_racine
 
 -*who_acomat
       Ses yeux ne l'ont-ils point séduite ?
@@ -2394,7 +2394,7 @@ Je cours ou ma présence est encor nécessaire,
 Et jusqu'au pied des murs que la mer vient laver,
 Sur mes vaisseaux tout prêts je viens vous retrouver.
 
-**** *book_ *id_V12 *act_V *date_1672
+**** *book_ *id_V12 *act_V *date_1672 *creator_racine
 
 -*who_atalide
 Enfin c'en est donc fait. Et par mes artifices,

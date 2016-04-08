@@ -185,8 +185,8 @@ La Victoire est à nous Menandre a Doristée,
 Et moi, l'âme à ces mots de fureur agitée :  
 Je suis, mais vainement leur course que le pas  
 Des chevaux du Soleil même n'égale pas.  
-Enfin le coeur saisi de l'ennui qui me presse ;  
-Je tombe en les suivant, mon courage me laisse : [1]  
+Enfin le coeur saisi de l'ennui qui me presse ;   [1]
+Je tombe en les suivant, mon courage me laisse :  
 Je sens clore mes yeux, je perds tout sentiment,  
 Et je reste en ce lieu froid et sans mouvement.  
 
@@ -216,8 +216,8 @@ Ami ta peine est grande, il faut que je l'avoue ;
 Ainsi de notre espoir la fortune se joue :  
 Ainsi les plus heureux ont un frêle destin  
 Et tel n'est pas le soir ce qu'il fut le matin  
-Suivrai-je avec toi cette route incertaine  
-N'épargne ni mon temps, ni mes pas, ni ma peine [2]  
+Suivrai-je avec toi cette route incertaine   [2]
+N'épargne ni mon temps, ni mes pas, ni ma peine  
 Je t'offre tous mes soins.  
 
     CLÉAGÉNOR.
@@ -555,8 +555,8 @@ Ce vieil habillement, ce reste de mon bien,
 Et croyez que l'ayant vous ne me laissez rien.  
 
     2ÈME VOLEUR.
-C'est trop, et ton trépas  
-Suivra ta résistance, ou tu suivra nos pas. [3]  
+C'est trop, et ton trépas   [3]
+Suivra ta résistance, ou tu suivra nos pas.  
 
     DORISTÉE TOUT BAS.
 Ô ciel ! de quel malheur ma fortune est suivie,  
@@ -1334,8 +1334,8 @@ Fera qu'on s'en enquête aux terres d'alentour.
 Fuyons subtilement.  
 
     PHILEMOND.
-        Donc obligeons Dorante  
-À sauver mon honneur de la perte apparente, [4]  
+        Donc obligeons Dorante   [4]
+À sauver mon honneur de la perte apparente,  
 Je dois sur sa pitié décharger mon souci,  
 Et par ses sages soins. Mais quelqu'un vient ici,  
 Ne précipitons rien.  
@@ -2485,8 +2485,8 @@ Aussi sévèrement que la même action.
 
     PHILACTE.
 Mais pouvant sans passer à la rigueur extrême,  
-Faire qu'à son insu cette fille vous aime,  
-Si vous la possédez Dorante à vos genoux [5]  
+Faire qu'à son insu cette fille vous aime,   [5]
+Si vous la possédez Dorante à vos genoux  
 N'obtiendra-t-elle rien sur votre esprit jaloux ?  
 
     THÉANDRE.

@@ -342,8 +342,8 @@ Une femme le fait, et si facilement !
 Contentez, grand héros, votre amoureuse envie,  
 Et ne contraignez point une si belle vie ;  
 Hercule oblige trop de n'aimer qu'en un lieu ;  
-Pour un objet mortel, c'est trop qu'un demi-dieu ;  
-C'est trop que jusqu'à nous Hercule se ravale ; [1]  
+Pour un objet mortel, c'est trop qu'un demi-dieu ;   [1]
+C'est trop que jusqu'à nous Hercule se ravale ;  
 Et, que je le partage avec une rivale,  
 Quelque nouvel objet qui le puisse toucher,  
 Hercule divisé m'est encore trop cher.  
@@ -389,10 +389,10 @@ Mais son espoir est vain, et le cours de cet âge
 Qui m'ôte des attraits me laisse du courage.  
 Si ma force n'est vaine en cette occasion,  
 Je paraîtrai ta femme à ta confusion ;  
-Ta vie, en la fureur dont j'ai l'âme enflammée,  
-Trame un pire lion que celui de Némée, [2]  
-Et ma jalouse humeur t'est un monstre plus fort  
-Que tous ceux dont tes bras ont accourci le sort. [3]  
+Ta vie, en la fureur dont j'ai l'âme enflammée,   [2]
+Trame un pire lion que celui de Némée,  
+Et ma jalouse humeur t'est un monstre plus fort   [3]
+Que tous ceux dont tes bras ont accourci le sort.  
 
 
 ## SCÈNE III. Hercule, Iole.
@@ -404,8 +404,8 @@ Attends qu'au naturel je figure ces lys
 Dont elle a ton beau sein et ton front embellis ;  
 Que tu serais charmée, et qu'en ce beau visage  
 Je prendrais le dessein d'un agréable ouvrage !  
-Si je gâte ces fleurs, tu les peux corriger,  
-Ton aiguille à mes doigts est un faix bien léger ; [4]  
+Si je gâte ces fleurs, tu les peux corriger,   [4]
+Ton aiguille à mes doigts est un faix bien léger ;  
 Mais ne t'oppose point à ce jeune caprice,  
 Qu'ils aient avec tes mains un commun exercice,  
 Ou, si ce passe-temps, mon coeur, t'est importun,  
@@ -646,8 +646,8 @@ Elle court furieuse où sa rage la porte !
 
     DÉJANIRE, FURIEUSE.
 D'où que de tes rayons les cieux soient éclairés,  
-Quelque endroit où tu sois en ces champs azurez,  
-Épouse de Jupin, contente ma colère, [5]  
+Quelque endroit où tu sois en ces champs azurez,   [5]
+Épouse de Jupin, contente ma colère,  
 Ton intérêt est joint à ma juste prière.  
 Ô Junon ! perds ce traître, envoyé un monstre ici,  
 Qui, te satisfaisant, me satisfasse aussi.  
@@ -663,8 +663,8 @@ Pourquoi perds-tu du temps à tirer de la terre
 Un monstre nécessaire à lui faire la guerre ?  
 Pourquoi dans les enfers cherches-tu sans effet  
 Tout ce qu'ils ont de pire et ce qu'il a défait ?  
-Si je porte en mon sein de quoi te satisfaire  
-Et si j'ai là-dedans sa Parque et son Cerbère, [6] [7]  
+Si je porte en mon sein de quoi te satisfaire   [6] [7]
+Et si j'ai là-dedans sa Parque et son Cerbère,  
 Tu trouveras en moi les armes qu'il te faut,  
 Prépare seulement mon bras à cet assaut ;  
 Qu'une fois cette main te soit officieuse,  
@@ -672,8 +672,8 @@ Sers-toi d'une enragée et d'une furieuse.
 Inspire moi, déesse, et m'enflamme le sein,  
 Seconde ma fureur en ce juste dessein.  
 
-    LUCINDE.
-Madame, au nom d'Hymen et par ses flammes saintes, [8]  
+    LUCINDE. [8]
+Madame, au nom d'Hymen et par ses flammes saintes,  
 Modérez vos ennuis et réprimez ces plaintes ;  
 Laissez à ces transports succéder le repos,  
 Paraissez Déjanire et femme d'un héros.  
@@ -683,14 +683,14 @@ Qu'Hercule me trahisse, et qu'Iole me brave !
 Qu'une jeune effrontée, une insolente esclave,  
 Dont le père a suivi ses peuples, déconfits,  
 Vienne en ce lieu donner des frères à mes fils,  
-Et, pour avoir charmé les yeux de ce perfide,  
-Soit fille de Jupin et compagne d'Alcide ! [9]  
+Et, pour avoir charmé les yeux de ce perfide,   [9]
+Soit fille de Jupin et compagne d'Alcide !  
 Non, non, je lui vendrai mon honneur chèrement,  
 Ou je détournerai ce triste événement.  
 Qu'il dispose des cieux et des enfers ensemble,  
 Qu'au seul bruit de son nom toute la terre tremble,  
-Il excité en mes sens une rébellion,  
-Pire que ses serpents, son hydre et son lion. [10]  
+Il excité en mes sens une rébellion,   [10]
+Pire que ses serpents, son hydre et son lion.  
 Une captive, ô dieux ! Partagera ma couche !  
 Souillé de ses baisers, il faut que je le touche ;  
 Il faudra que je perde ou divise son coeur,  
@@ -713,8 +713,8 @@ Dieux ! Que proposez-vous ? Quel crime épouvantable !
 D'une telle fureur votre esprit est capable ?  
 En quels lieux inconnus ou du ciel ou du sort  
 Cacheriez vous le bras auteur de cette mort ?  
-Où vous souffrirait-on, si chacun le révère ?  
-Et que ferait le foudre en la main de son père ? [11]  
+Où vous souffrirait-on, si chacun le révère ?   [11]
+Et que ferait le foudre en la main de son père ?  
 
     DÉJANIRE.
 Ma peur ne rendra pas ce perfide impuni ;  
@@ -752,8 +752,8 @@ Sa main peut en cent lieux mépriser sa conquête,
 Mais ayant bien couru quelqu'une enfin l'arrête ;  
 Ayant pour l'acquérir tant d'efforts entrepris,  
 Crois, crois, que ce vainqueur conservera son prix.  
-À ses plus douces nuits Iole est destinée,  
-Si je ne divertis ce fatal hyménée. [12]  
+À ses plus douces nuits Iole est destinée,   [12]
+Si je ne divertis ce fatal hyménée.  
 
     LUCINDE.
 Imaginons d'ailleurs un salutaire effet  
@@ -1039,8 +1039,8 @@ Où comme en tout le monde Hercule est révéré,
 Où même des vaincus mon nom est adoré,  
 Mon père, qui guida mes armes légitimes,  
 Attend de mon devoir des voeux, et des victimes,  
-Que le taureau soit prêt quand j'aurai dans les cieux  
-Poussé le zèle saint d'un coeur dévotieux. [13]  
+Que le taureau soit prêt quand j'aurai dans les cieux   [13]
+Poussé le zèle saint d'un coeur dévotieux.  
 Entretenez d'encens cette sainte fumée  
 Tant que soit par le feu l'offrande consumée.  
 À Philoctète.
@@ -1069,8 +1069,8 @@ Que le fer désormais ne serve plus au monde
 Qu'à couper de Cérès la chevelure blonde ;  
 Qu'une éternelle paix règne entre les mortels,  
 Qu'on ne verse du sang que dessus les autels ;  
-Que la mer soit sans flots, que jamais vent n'excite  
-Contre l'art des Nochers le courroux d'Amphitrite, [14]  
+Que la mer soit sans flots, que jamais vent n'excite   [14]
+Contre l'art des Nochers le courroux d'Amphitrite,  
 Et que le foudre en fin demeure après mes faits  
 Dans les mains de mon père un inutile faix !  
 Se levant, il dit :
@@ -1144,8 +1144,8 @@ Tu perds ta sûreté, lorsque tu perds Alcide,
 La Thessalie encor peut fournir des Titans  
 Capables d'étonner tes plus fiers habitants,  
 De nouveaux Gérions et de nouveaux Typhées  
-Peuvent à tes dépens s'acquérir des trophées ;  
-Encelade fendra ce pénible fardeau [15]  
+Peuvent à tes dépens s'acquérir des trophées ;   [15]
+Encelade fendra ce pénible fardeau  
 Qui lui servit d'échelle et depuis de tombeau.  
 Si tu sais la terreur que mon nom seul leur donne  
 Juge combien ma mort ébranle ta couronne.  
@@ -1214,8 +1214,8 @@ Et vous avez vaincu quelque chose de pire.
 
     HERCULE.
 Plut à mon père, hélas ! Que ce malheureux corps  
-Du lion de Némée eût senti les efforts ?  
-Que ne fut-il en proie au portier de l'Averne, [16]  
+Du lion de Némée eût senti les efforts ?   [16]
+Que ne fut-il en proie au portier de l'Averne,  
 Ou que, n'expira-t-il sous le serpent de Lerne ?  
 Que n'ont tant de géants accourci mon destin ?  
 Que d'un centaure affreux n'ai-je été le butin ?  
@@ -1335,8 +1335,8 @@ Et dont le pire monstre aurait été vaincu,
 Si pour te soulager Alcide n'eut vécu ;  
 Lance dessus mon chef le même trait de foudre  
 Dont de tant de géants tu fis si peu de poudre,  
-Ou celui qui causa le funeste accident,  
-D'un qui voulut du jour mener le char ardent. [17]  
+Ou celui qui causa le funeste accident,   [17]
+D'un qui voulut du jour mener le char ardent.  
 Mais que veux-je du Ciel ; quoi ! La femme d'Hercule  
 Au chemin de la mort est timide, et recule,  
 Elle implore des dieux le moyen de mourir,  
@@ -1358,10 +1358,10 @@ Et mourir d'un seul coup, c'est trop peu le venger.
 Quittez en ce besoin ces regrets et ces plaintes,  
 Évitez de son bras les mortelles atteintes,  
 Ne vous consommez point d'un inutile ennui,  
-Sauvez, en le perdant, quelque chose de lui :  
-Hylus l'ayant perdu, qu'il lui reste une mère, [18]  
-Sauvez vous pour le fils de la fureur du père ;  
-Cherchons un antre affreux où jamais le soleil... [19]  
+Sauvez, en le perdant, quelque chose de lui :   [18]
+Hylus l'ayant perdu, qu'il lui reste une mère,  
+Sauvez vous pour le fils de la fureur du père ;   [19]
+Cherchons un antre affreux où jamais le soleil...  
 
     DÉJANIRE.
 Ô timide dessein ! Ô frivole conseil !  
@@ -1396,8 +1396,8 @@ Et de cet accident mon bras seul est auteur.
 Ha ! Je découvre enfin l'appareil de ma perte,  
 D'affreuses légions la campagne est couverte,  
 Le juste bras du Ciel sur ma tête descend,  
-Les enfers vont s'ouvrir et la terre se fend ;  
-Déjà Mégère sort, et ses noires couleuvres [20]  
+Les enfers vont s'ouvrir et la terre se fend ;   [20]
+Déjà Mégère sort, et ses noires couleuvres  
 Vont ajouter ma perte à leurs tragiques uvres.  
 Que faut-il ? Ce héros ne veut-il que mon sang ?  
 Il est prêt à sortir, piquez, percez ce flanc.  
@@ -1478,8 +1478,8 @@ Et ces humides fleurs sèchent à mes regards.
 Tranchez, cruelles surs, cette fatale trame  
 Qui ne peut consommer, qui résiste à la flamme,  
 Achevez de mes jours le pénible fuseau,  
-Et de toutes vos mains pressez-y le ciseau ;  
-Je ne troublerai point vos ténébreuses rives. [21]  
+Et de toutes vos mains pressez-y le ciseau ;   [21]
+Je ne troublerai point vos ténébreuses rives.  
 Ô remède trop lent ! Ô filles trop tardives !  
 Quoi ! Mon mal par la mort ne peut être allégé,  
 Et pour ne mourir point il faut vivre enragé ?  
@@ -1539,8 +1539,8 @@ Ou qu'à ce nom de fils votre oreille s'offense ?
 Cessant d'être indomptable et d'être triomphant,  
 N'aurais-je point cessé d'être aussi votre enfant ?  
 
-    ALCMÈNE, PLEURANT.
-Quel Cerbère nouveau, quel monstre acherontide, [22]  
+    ALCMÈNE, PLEURANT. [22]
+Quel Cerbère nouveau, quel monstre acherontide,  
 Quel lion ou quelle Hydre a triomphé d'Alcide ?  
 
     HERCULE.
@@ -1584,8 +1584,8 @@ Quoi ! Le monde et l'Enfer, tout est sourd à mes cris !
 Terre, ingrat élément dont j'ai purgé les vices,  
 Qu'un de tes habitants paye tant de services,  
 Qu'il tente sur ma vie un pitoyable effort,  
-Pour prix de tant d'exploits je ne veux que la mort.  
-Suscite un Géryon, fais paraître un Typhée. [23] [24]  
+Pour prix de tant d'exploits je ne veux que la mort.   [23] [24]
+Suscite un Géryon, fais paraître un Typhée.  
 Mais je sens par le feu ma voix même étouffée,  
 Et ce corps, dénué de sang et de vigueur,  
 Après tant de tourment, succombe à sa langueur.  
@@ -1641,8 +1641,8 @@ Et ce mal toutefois devient plus furieux.
     ALCMÈNE, À PHILOCTÈTE.
 Hélas ! Suivez ses pas.  
 
-    HERCULE.
-        Dans le sein de Pénée [25]  
+    HERCULE. [25]
+        Dans le sein de Pénée  
 Courons précipiter cette ardeur, obstinée ;  
 Tentons une autre fois la faveur de son eau,  
 Qu'il me soit favorable ou qu'il soit mon tombeau  
@@ -2009,8 +2009,8 @@ Qu'un de vos gens, Madame, amène la victime.
     ALCMÈNE, À AGIS.
 Allez quérir Arcas, et qu'Iole avec lui  
 Vienne en ce lieu fatal partager notre ennui.  
-Révérez ce héros, fuyez, ombres profanes,  
-Du glorieux rivage où reposent ses mânes. [26]  
+Révérez ce héros, fuyez, ombres profanes,   [26]
+Du glorieux rivage où reposent ses mânes.  
 Changez, sombres forêts, vos cyprès en lauriers,  
 Qui seuls fassent ombrage à ce roi des guerriers ;  
 Et vous, fatales surs, reines des destinées,  
@@ -2043,8 +2043,8 @@ On lie Arcas au tombeau.
     IOLE.
 Barbares, assassins, quelle soif, quelle rage,  
 Du sang des innocents repaît votre courage ?  
-Quel arrêt l'abandonne à cet injuste effort ?  
-Quel dieu, quelle Thémis présidait à sa mort ? [27]  
+Quel arrêt l'abandonne à cet injuste effort ?   [27]
+Quel dieu, quelle Thémis présidait à sa mort ?  
 Donc son affection ne m'est pas légitime,  
 Je nuis à qui je plais et m'aimer est un crime.  
 Donc, pour ce qu'il m'est cher, je creuse son tombeau  

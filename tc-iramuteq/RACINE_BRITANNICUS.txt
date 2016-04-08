@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1670
+**** *book_ *id_I01 *act_I *date_1669 *creator_racine
 
 -*who_albine
 Quoi ! Tandis que Néron s'abandonne au sommeil,
@@ -165,7 +165,7 @@ Lui demander raison de cet enlèvement.
 Surprenons, s'il se peut, les secrets de son âme.
 Mais quoi ? Déjà Burrhus sort de chez lui ?
 
-**** *book_ *id_I02 *act_I *date_1670
+**** *book_ *id_I02 *act_I *date_1669 *creator_racine
 
 -*who_burrhus
       Madame,
@@ -352,7 +352,7 @@ Je vous laisse écouter, et plaindre sa disgrâce,
 Et peut-être, Madame, en accuser les soins
 De ceux que l'empereur a consultés le moins.
 
-**** *book_ *id_I03 *act_I *date_1670
+**** *book_ *id_I03 *act_I *date_1669 *creator_racine
 
 -*who_agrippine
 Ah, Prince ! Où courez-vous ? Quelle ardeur inquiète
@@ -379,7 +379,7 @@ Dégage ma parole, et m'acquitte envers vous.
 Je ne m'explique point. Si vous voulez m'entendre,
 Suivez-moi chez Pallas, où je vais vous attendre.
 
-**** *book_ *id_I04 *act_I *date_1670
+**** *book_ *id_I04 *act_I *date_1669 *creator_racine
 
 -*who_britannicus
 La croirai-je, Narcisse ? Et dois-je sur sa foi
@@ -446,7 +446,7 @@ Chez Pallas comme toi l'affranchi de mon père.
 Je vais la voir, l'aigrir, la suivre, et s'il se peut
 M'engager sous son nom plus loin qu'elle ne veut.
 
-**** *book_ *id_II01 *act_II *date_1670
+**** *book_ *id_II01 *act_II *date_1669 *creator_racine
 
 -*who_neron
 N'en doutez point, Burrhus ; malgré ses injustices
@@ -464,7 +464,7 @@ Ne le retrouve pas dans Rome, ou dans ma cour.
 Allez, cet ordre importe au salut de l'empire.
 Vous, Narcisse, approchez. Et vous, qu'on se retire.
 
-**** *book_ *id_II02 *act_II *date_1670
+**** *book_ *id_II02 *act_II *date_1669 *creator_racine
 
 -*who_narcisse
 Grâces aux dieux, Seigneur, Junie entre vos mains
@@ -680,7 +680,7 @@ Dis-lui qu'en sa faveur on me trompe moi-même.
 Qu'il la voit sans mon ordre. On ouvre, la voici.
 Va retrouver ton maître et l'amener ici.
 
-**** *book_ *id_II03 *act_II *date_1670
+**** *book_ *id_II03 *act_II *date_1669 *creator_racine
 
 -*who_neron
 Vous vous troublez, Madame, et changez de visage.
@@ -898,7 +898,7 @@ D'un geste, ou d'un soupir échappé pour lui plaire.
 Hélas ! Si j'ose encor former quelques souhaits,
 Seigneur, permettez-moi de ne le voir jamais.
 
-**** *book_ *id_II04 *act_II *date_1670
+**** *book_ *id_II04 *act_II *date_1669 *creator_racine
 
 -*who_narcisse
 Britannicus, Seigneur, demande la princesse.
@@ -915,13 +915,13 @@ Il approche.
 Sa fortune dépend de vous plus que de moi.
 Madame, en le voyant, songez que je vous vois.
 
-**** *book_ *id_II05 *act_II *date_1670
+**** *book_ *id_II05 *act_II *date_1669 *creator_racine
 
 -*who_junie
 Ah, cher Narcisse ! Cours au-devant de ton maître.
 Dis-lui... Je suis perdue, et je le vois paraître.
 
-**** *book_ *id_II06 *act_II *date_1670
+**** *book_ *id_II06 *act_II *date_1669 *creator_racine
 
 -*who_britannicus
 Madame, quel bonheur me rapproche de vous ?
@@ -988,7 +988,7 @@ Retirez-vous, Seigneur, l'empereur va venir.
 -*who_britannicus
 Après ce coup, Narcisse, à qui dois-je m'attendre ?
 
-**** *book_ *id_II07 *act_II *date_1670
+**** *book_ *id_II07 *act_II *date_1669 *creator_racine
 
 -*who_neron
 Madame...
@@ -998,7 +998,7 @@ Madame...
 Vous êtes obéi. Laissez couler du moins
 Des larmes dont ses yeux ne seront pas témoins.
 
-**** *book_ *id_II08 *act_II *date_1670
+**** *book_ *id_II08 *act_II *date_1669 *creator_racine
 
 -*who_neron
 Hé bien ? De leur amour tu vois la violence,
@@ -1018,7 +1018,7 @@ Narcisse, voudrais-tu résister à sa voix ?
 Suivons jusques au bout ses ordres favorables ;
 Et pour nous rendre heureux perdons les misérables.
 
-**** *book_ *id_III01 *act_III *date_1670
+**** *book_ *id_III01 *act_III *date_1669 *creator_racine
 
 -*who_burrhus
 Pallas obéira, Seigneur.
@@ -1082,7 +1082,7 @@ Burrhus, et je ferais quelque difficulté
 D'abaisser jusque-là votre sévérité.
 Adieu, je souffre trop éloigné de Junie.
 
-**** *book_ *id_III02 *act_III *date_1670
+**** *book_ *id_III02 *act_III *date_1669 *creator_racine
 
 -*who_burrhus
 Enfin, Burrhus, Néron découvre son génie.
@@ -1095,7 +1095,7 @@ Occupé loin de Rome ignore ce danger.
 Mais quoi ? Si d'Agrippine excitant la tendresse
 Je pouvais... La voici, mon bonheur me l'adresse.
 
-**** *book_ *id_III03 *act_III *date_1670
+**** *book_ *id_III03 *act_III *date_1669 *creator_racine
 
 -*who_agrippine
 Hé bien, je me trompais, Burrhus, dans mes soupçons ?
@@ -1169,7 +1169,7 @@ Et s'il m'écoute encor, Madame, sa bonté
 Vous en fera bientôt perdre la volonté.
 J'ai commencé, je vais poursuivre mon ouvrage.
 
-**** *book_ *id_III04 *act_III *date_1670
+**** *book_ *id_III04 *act_III *date_1669 *creator_racine
 
 -*who_albine
 Dans quel emportement la douleur vous engage,
@@ -1202,7 +1202,7 @@ Ah je ne puis, Albine, en souffrir la pensée.
 Quand je devrais du ciel hâter l'arrêt fatal,
 Néron, l'ingrat Néron... Mais voici son rival.
 
-**** *book_ *id_III05 *act_III *date_1670
+**** *book_ *id_III05 *act_III *date_1669 *creator_racine
 
 -*who_britannicus
 Nos ennemis communs ne sont pas invincibles,
@@ -1245,7 +1245,7 @@ Et ranger tous les coeurs du parti de ses larmes.
 Adieu. J'assiégerai Néron de toutes parts.
 Vous, si vous m'en croyez, évitez ses regards.
 
-**** *book_ *id_III06 *act_III *date_1670
+**** *book_ *id_III06 *act_III *date_1669 *creator_racine
 
 -*who_britannicus
 Ne m'as-tu point flatté d'une fausse espérance ?
@@ -1312,7 +1312,7 @@ Hé bien, Narcisse, allons. Mais que vois-je ? C'est elle.
 -*who_narcisse
 Ah dieux ! À l'empereur portons cette nouvelle.
 
-**** *book_ *id_III07 *act_III *date_1670
+**** *book_ *id_III07 *act_III *date_1669 *creator_racine
 
 -*who_junie
 Retirez-vous, Seigneur, et fuyez un courroux
@@ -1408,7 +1408,7 @@ Quand pourrai-je à vos pieds expier ce reproche ?
 -*who_junie
 Que faites-vous ? Hélas ! Votre rival s'approche.
 
-**** *book_ *id_III08 *act_III *date_1670
+**** *book_ *id_III08 *act_III *date_1669 *creator_racine
 
 -*who_neron
 Prince, continuez des transports si charmants.
@@ -1530,7 +1530,7 @@ Prince, sans l'irriter, cédons à cet orage.
 -*who_neron
 Gardes, obéissez, sans tarder davantage.
 
-**** *book_ *id_III09 *act_III *date_1670
+**** *book_ *id_III09 *act_III *date_1669 *creator_racine
 
 -*who_burrhus
 Que vois-je ? Ô ciel !
@@ -1556,7 +1556,7 @@ Trouve en vous un censeur, prêt à me contredire.
 Répondez m'en, vous dis-je, ou sur votre refus
 D'autres me répondront et d'elle, et de Burrhus.
 
-**** *book_ *id_IV01 *act_IV *date_1670
+**** *book_ *id_IV01 *act_IV *date_1669 *creator_racine
 
 -*who_burrhus
 Oui Madame, à loisir vous pourrez vous défendre.
@@ -1579,7 +1579,7 @@ Mais voici l'empereur.
 -*who_agrippine
       Qu'on me laisse avec lui.
 
-**** *book_ *id_IV02 *act_IV *date_1670
+**** *book_ *id_IV02 *act_IV *date_1669 *creator_racine
 
 -*who_agrippine
 Approchez-vous, Néron, et prenez votre place.
@@ -1783,7 +1783,7 @@ Je vous fais notre arbitre, et vous nous jugerez.
 Allez donc, et portez cette joie à mon frère.
 Gardes, qu'on obéisse aux ordres de ma mère.
 
-**** *book_ *id_IV03 *act_IV *date_1670
+**** *book_ *id_IV03 *act_IV *date_1669 *creator_racine
 
 -*who_burrhus
 Que cette paix, Seigneur, et ces embrassements
@@ -1906,7 +1906,7 @@ J'y cours. Je vais presser un entretien si doux.
 -*who_neron
 Dans mon appartement qu'il m'attende avec vous.
 
-**** *book_ *id_IV04 *act_IV *date_1670
+**** *book_ *id_IV04 *act_IV *date_1669 *creator_racine
 
 -*who_narcisse
 Seigneur, j'ai tout prévu pour une mort si juste.
@@ -2036,7 +2036,7 @@ Ah ! Ne voulez-vous pas les forcer à se taire ?
 -*who_neron
 Viens, Narcisse. Allons voir ce que nous devons faire.
 
-**** *book_ *id_V01 *act_V *date_1670
+**** *book_ *id_V01 *act_V *date_1669 *creator_racine
 
 -*who_britannicus
 Oui Madame, Néron (qui l'aurait pu penser ?)
@@ -2162,7 +2162,7 @@ Adieu.
 -*who_junie
 Mais du moins attendez qu'on vous vienne avertir.
 
-**** *book_ *id_V02 *act_V *date_1670
+**** *book_ *id_V02 *act_V *date_1669 *creator_racine
 
 -*who_agrippine
 Prince, que tardez-vous ? Partez en diligence.
@@ -2178,7 +2178,7 @@ Hâtez-vous d'embrasser ma soeur qui vous attend.
 Dès que je le pourrai je reviens sur vos traces,
 Madame, et de vos soins j'irai vous rendre grâces.
 
-**** *book_ *id_V03 *act_V *date_1670
+**** *book_ *id_V03 *act_V *date_1669 *creator_racine
 
 -*who_agrippine
 Madame, ou je me trompe, ou durant vos adieux
@@ -2227,7 +2227,7 @@ Que peut-on faire ?
 -*who_junie
       Ô ciel ! Sauvez Britannicus.
 
-**** *book_ *id_V04 *act_V *date_1670
+**** *book_ *id_V04 *act_V *date_1669 *creator_racine
 
 -*who_agrippine
 Burrhus, où courez-vous ? Arrêtez. Que veut dire...
@@ -2249,7 +2249,7 @@ Madame.
       Pardonnez, Madame, à ce transport.
 Je vais le secourir, si je puis, ou le suivre.
 
-**** *book_ *id_V05 *act_V *date_1670
+**** *book_ *id_V05 *act_V *date_1669 *creator_racine
 
 -*who_agrippine
 Quel attentat, Burrhus !
@@ -2294,7 +2294,7 @@ Pleurer Britannicus, César et tout l'État.
 -*who_agrippine
 Le voici. Vous verrez si c'est moi qui l'inspire.
 
-**** *book_ *id_V06 *act_V *date_1670
+**** *book_ *id_V06 *act_V *date_1669 *creator_racine
 
 -*who_neron
 Dieux !
@@ -2368,7 +2368,7 @@ Adieu, tu peux sortir.
 -*who_neron
       Narcisse, suivez-moi.
 
-**** *book_ *id_V07 *act_V *date_1670
+**** *book_ *id_V07 *act_V *date_1669 *creator_racine
 
 -*who_agrippine
 Ah ciel ! De mes soupçons quelle était l'injustice.
@@ -2396,7 +2396,7 @@ Un ministre importun qui ne le peut souffrir.
 Hélas ! Loin de vouloir éviter sa colère.
 La plus soudaine mort me sera la plus chère.
 
-**** *book_ *id_V08 *act_V *date_1670
+**** *book_ *id_V08 *act_V *date_1669 *creator_racine
 
 -*who_albine
 Ah Madame ! Ah Seigneur ! Courez vers l'empereur.

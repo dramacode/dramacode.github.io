@@ -80,10 +80,10 @@ LACHEVRE
 
 ## SCÈNE PREMIÈRE. Granger, Chasteaufort.
 
-    GRANGER.
+    GRANGER. [1]
 Oh ! Par les Dieux jumeaux ! Tous les Monstres ne sont pas en Afrique. Et de grâce, Satrape du Palais Stigial, donne-moi la définition de ton individu. Ne serais-tu point un être de raison, une chimère, un accident sans substance, un élixir de la matière première, un spectre de drap noir ? Ha ! Tu n'es sans doute que cela, ou tout au plus un grimaud d'Enfer qui fait l'école buissonnière.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [2] [3]
 Puisque je te vois curieux de connaître les grandes choses, je veux t'apprendre les miracles de mon berceau. Sache que la Nature voyant germer au monde un essaim de petits Dieux affamés, et craignant que cette vermine venant à pulluler n infectai à la fin la Terre après le Ciel, voulut opposer un Hercule à ces Monstres. Cela lui donna bien jusques à la hardiesse de s'imaginer qu'elle me pouvait produire. Pour cet effet elle empoigna les âmes de Samson, d'Hector, d'Achille, d'Ajax, de Cyrus, d'Epaminondas, d'Alexandre, de Romule, de Scipion, d'Annibal, de Sylla, de Pompée, de Pyrrhus, de Caton, de Caesar, et d'Antoine ; puis les ayant pulvérisées, calcinées, rectifiées, elle réduisit toute cette confection en un spirituel sublimé qui n'attendait plus qu'un fourreau pour s'y fourrer. Nature, glorieuse de son réussit, ne pût goûter modérément sa joie, elle clabauda son chef-d'oeuvre partout; l'Art en devint jaloux, et fâché, disait-il, qu'une teigneuse emportât toute seule la gloire de m'avoir engendré, la traita d'ingrate, de superbe, lui déchira sa coiffe ; Nature, de son côté, prit son ennemi aux cheveux ; enfin l'un et l'autre battit, et fut battu. Le tintamarre des démentis, des soufflets, des bastonnades, m'éveilla ; je les vis, et jugeant que leurs démêlés ne portaient pas la mine de prendre sitôt fin, pour les mettre d'accord, je me créé moi-même. Depuis ce temps-là leur querelle dure encore ; partout vous voyez ces irréconciliables ennemis se prêter le collet, et les descriptions de nos Écrivains d'aujourd'hui ne sont lardées d'autre chose que des faits d'armes de ces deux gladiateurs, à cause que, prenant à bon augure d'être né dans la guerre, je leur commandai, en mémoire de ma naissance, de se battre sans se reposer jusques à la fin du Monde. Nature pour gagner mes bonnes grâces me présenta cette bisque de héros, je n'en fis par Dieu que deux gorgées ; donc afin de ne pas demeurer ingrat, je la voulus dépêtrer de ces Dieutelets, dont l'insolence la mettait en cervelle. Je les mandai, ils obéirent ; enfin je prononçai cet immuable Arrêt : « Gaillarde troupe, quand je vous ai convoqués, la plus miséricordieuse intention que j'eusse pour vous était de vous annihiler ; mais craignant que votre impuissance ne reprochât à mes mains l'indignité de cette victoire, voici ce que j'ordonne de votre sort : Vous autres Dieux qui savez si bien courir comme Saturne, père du temps, qui mangeant et dévorant tout, court à l'hôpital ; Jupiter qui, comme ayant la tête fêlée depuis le coup de hache qu'il reçut de Vulcain, doit courir les rues ; Mars qui comme soldat court aux armes ; Phoebus qui comme Dieu des Vers court la bouche des Poètes ; Vénus qui comme putain court l'aiguillette ; Mercure qui comme Messager court la Poste ; et Diane qui comme Chasseresse court les bêtes ; vous prendrez la peine, s'il vous plaît, de monter tous sept à califourchon sur une étoile. Là vous courrez de si bonne sorte, que vous n'aurez pas le loisir d'ouvrir les yeux. »
 
     PAQUIER.
@@ -92,13 +92,13 @@ En effet, les Planètes sont justement ces sept-là.
     GRANGER.
 Et des autres Dieux qu'en fîtes-vous?
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [4]
 Midi sonna, la faim me prit, j'en fis un saupiquet pour mon dîner.
 
     PAQUIER.
 « Domine », ce fut assurément en ce temps-là, et je m'en souviens bien, que les Oracles cessèrent.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [5]
 Il est vrai ; et dès lors ma complexion prenant part à ce salmigondis de Rois et de Dieux, mes actions ont été toutes héroïques ou divines, car si je regarde, c'est en Basilic ; si j'engendre, c'est en Deucalion ; si je pleure, c'est en Héraclite ; si je ris, c'est en Démocrite ; si je vomis, c'est en Mont-Etna ; si j'écume, c'est en Cerbère ; si je dors, c'est en Morphée ; si je veille, c'est en Argus ; si je marche, c'est en Juif-Errant ; si je cours, c'est en Pacolet ; si je vole, c'est en financier ; si je m'arrête, c'est en Dieu Terme ; si je mange, c est en gangrène ; si je bois, c'est en éponge ; si j'ordonne, c'est en Destin ; si je baise, c'est en Judas. Enfin vous voyez celui qui fait que l'Histoire du Phoenix n'est pas un conte.
 
     GRANGER.
@@ -133,8 +133,8 @@ Dont homme soit mémoratif,
 Je jure par mon jour natif  
 Que je veux pour ce seul motif  
 Qu'un sale et sanglant vomitif,  
-Surmontant tout confortatif,  
-Tout lénitif, tout restrictif, [1]  
+Surmontant tout confortatif,   [6]
+Tout lénitif, tout restrictif,  
 Et tout bon corroboratif.  
 Soit le châtiment primitif  
 Et l'effroyable exprimitif  
@@ -151,21 +151,21 @@ D'amour naissant ou effectif :
 Qui n'êtes homme qu'abstractif,  
 Grâce à votre copulatif  
 Qu'a rendu fort imperfectif  
-Le cruel tranchant d'un canif ;  
-Si pour soudre ce logogrif [2]  
+Le cruel tranchant d'un canif ;   [7]
+Si pour soudre ce logogrif  
 Vous avez l'esprit trop tardif,  
 À ces mots soyez attentif :  
 Je fais voeu de me faire Juif  
-Au lieu d'eau de boire du suif,  
-D'être mieux damné que Caïphe, [3]  
-D'aller à pied voir le Chérif, [4]  
+Au lieu d'eau de boire du suif,   [8]
+D'être mieux damné que Caïphe,   [9]
+D'aller à pied voir le Chérif,  
 De me rendre à Tunis captif,  
-D'être berné comme escogriffe,  
-D'être plus maudit qu'un tarif, [5]  
+D'être berné comme escogriffe,   [10]
+D'être plus maudit qu'un tarif,  
 De devenir ladre et poussif,  
 Bref par les mains d'un sort hâtif  
-Couronné de cyprès et d'if,  
-Passer dans le mortel esquif [6]  
+Couronné de cyprès et d'if,   [11]
+Passer dans le mortel esquif  
 Au pays où l'on est oisif :  
 Si jamais je deviens rétif  
 A l'agréable exécutif  
@@ -175,19 +175,19 @@ Est, beau Sire, un bâton massif
 Qui sera le dissolutif  
 De votre demi-substantif :  
 Car c'est mon vouloir décisif  
-Et mon testament, mort, ou vif.  
+Et mon testament, mort, ou vif.   [12]
 Mais vous parler ainsi, c'est vous donner à soudre les emblèmes d'un Sphinx ; c'est perdre son huile et son temps; c'est écrire sur la Mer, bâtir sur l'Arène et fonder sur le vent. Enfin je connais que si vous avez quelque teinture des Lettres, ce n'est pas de celle des Gobelins, car par Jupiter Ammon, vous êtes fou.
 
     CHASTEAUFORT.
 Des Lettres ! Ah ! Que me dites-vous ? Des âmes de terre et de boue pourraient s'amuser à ces vétilles ; mais pour moi je n'écris que sur les corps humains.
 
-    GRANGER.
-Je le vois bien. C'est peut-être ce qui vous donne envie d'appuyer votre plume charnelle sur le parchemin vierge de ma fille. Elle n'en serait pas contristée, la pauvrette ; car une femme aujourd'hui aime mieux les bêtes que les hommes, suivant la règle « as petit haec ». Vous aspirez aussi bien qu'Hercule à ses Colonnes ivoirines ; mais l'orifice, l'orée, et l'ourlet de ses guêtres, est pour vous un « Ne plus ultra ». Premièrement à cause que vous êtes veuf d'une pucelle qui vous fit faire plus de chemin en deux jours que le Soleil n'en fait en huit mois dans le Zodiaque ; vous courûtes du Gemini au Chancre en huit jours, ce que l'autre ne saurait faire, et lorsque vous pensiez n'être encore arrivé qu'à la Vierge ; vous entrâtes au Verseau sans avoir vu d'autre signe en passant que celui du Capricorne. La seconde objection que je fais à vos arguments est que vous êtes Normand ; Normandie « quasi » venue du Nord pour mendier. De votre nation les serviteurs sont traîtres, les égaux insolents, et les maîtres insupportables. Jadis le blason de cette province était trois faux, pour montrer les trois espèces de faux qu'engendre ce climat ; « scilicet » faux-sauniers, faux-témoins et faux-monnayeurs ; je ne veux point de faussaires en ma maison. La troisième, qui m'est une raison invincible, c'est que votre bourse est malade d'un flux de ventre, dont la mienne appréhende la contagion. Je sais que votre valeur est recommandable, et que votre mine seule ferait trembler le plus ferme manteau d'aujourd'hui. Mais, en cet âge de Fer, on juge de nous parce que nous avons, et non pas parce que nous sommes. La pauvreté fait le crime, et si vous me demandez « Cur tibi despicior» je vous réponds « Nun comnibus itur ad aurum ». D'un certain riche laboureur la charrue m'éblouit, et je suis tout à fait résolu que puis que « hic dator ; Ilongum ponat » dans son « O commune ». C'est pourquoi je vous conseille de ne plus approcher ma fille en Roi d'Egypte, c'est-à-dire qu'on ne vous voie point auprès d'elle dresser la Pyramide à son intention. Quoique j'aime les règles de la Grammaire, je ne prendrais pas plaisir de vous voir accorder ensemble le masculin avec le féminin ; et je craindrais que « Si duo continuè jungantur fixa nec una, sit res », un malevole n'inférât « Optant sibi jungere casus ».
+    GRANGER. [13]
+Je le vois bien. C'est peut-être ce qui vous donne envie d'appuyer votre plume charnelle sur le parchemin vierge de ma fille. Elle n'en serait pas contristée, la pauvrette ; car une femme aujourd'hui aime mieux les bêtes que les hommes, suivant la règle « as petit haec ». Vous aspirez aussi bien qu'Hercule à ses Colonnes ivoirines ; mais l'orifice, l'orée, et l'ourlet de ses guêtres, est pour vous un « Ne plus ultra ». Premièrement à cause que vous êtes veuf d'une pucelle qui vous fit faire plus de chemin en deux jours que le Soleil n'en fait en huit mois dans le Zodiaque ; vous courûtes du Gemini au Chancre en huit jours, ce que l'autre ne saurait faire, et lorsque vous pensiez n'être encore arrivé qu'à la Vierge ; vous entrâtes au Verseau sans avoir vu d'autre signe en passant que celui du Capricorne. La seconde objection que je fais à vos arguments est que vous êtes Normand ; Normandie « quasi » venue du Nord pour mendier. De votre nation les serviteurs sont traîtres, les égaux insolents, et les maîtres insupportables. Jadis le blason de cette province était trois faux, pour montrer les trois espèces de faux qu'engendre ce climat ; « scilicet » faux-sauniers, faux-témoins et faux-monnayeurs ; je ne veux point de faussaires en ma maison. La troisième, qui m'est une raison invincible, c'est que votre bourse est malade d'un flux de ventre, dont la mienne appréhende la contagion. Je sais que votre valeur est recommandable, et que votre mine seule ferait trembler le plus ferme manteau d'aujourd'hui. Mais, en cet âge de Fer, on juge de nous parce que nous avons, et non pas parce que nous sommes. La pauvreté fait le crime, et si vous me demandez « Cur tibi despicior» je vous réponds « Nun comnibus itur ad aurum ». D'un certain riche laboureur la charrue m'éblouit, et je suis tout à fait résolu que puis que « hic dator ; Ilongum ponat » dans son « O commune ». C'est pourquoi je vous conseille de ne plus approcher ma fille en Roi d'Egypte, c'est-à-dire qu'on ne vous voie point auprès d'elle dresser la Pyramide à son intention. Quoique j'aime les règles de la Grammaire, je ne prendrais pas plaisir de vous voir accorder ensemble le masculin avec le féminin ; et je craindrais que « Si duo continuè jungantur fixa nec una, sit res », un malevole n'inférât « Optant sibi jungere casus ». [14]
 
     CHASTEAUFORT.
 Il est vrai, Dieu me damne, que votre fille est folle de mon amour. Mais quoi, c'est mon faible de n'avoir jamais pu regarder de femme sans la blesser. La petite gueuse toutefois a si bien su friponner mon coeur ; ses yeux ont si bien su paillarder ma pensée, que je lui pardonne quasi la hardiesse qu'elle a prise de me donner de l'amour. « Généreux Gentilhomme, me dit-elle l'autre jour, la pauvrette ne savoit pas mes qualités, l'Univers a besoin de deux conquérants ; la race en est éteinte en vous, si vous ne me regardez d'un oeil de miséricorde. Comme vous êtes un Alexandre, je suis une Amazone ; faisons sortir de nous deux un Plus-que-Mars, de qui la naissance soit fatale au genre humain et dont les armes, après avoir dispensé la mort aux deux bouts de la Terre, fassent un si puissant Empire que jamais le Soleil ne se couche pour tous ses peuples. » J'avais de la peine à me rendre entre les bras de cette passion, mais enfin je vainquis en me vainquant tout ce qu'il y a de grand au monde ; c'est-à-dire que je l'aimai. Je ne veux pas pourtant que tant de gloire vous rende orgueilleux, que vous deveniez insolent sur les petits ; mais humiliez-vous en votre néant que j'ai voulu choisir pour faire hautement éclater ma puissance. Vous craignez, je le vois bien, que je ne méprise votre pauvreté ; mais quand il plaira à cette épée, elle fera de l'Amérique et de la Chine une basse-cour de votre maison.
 
-    GRANGER.
+    GRANGER. [15]
 Ô ! Microcosme de visions fantastiques ! « Vade rétro ! » autrement, après avoir apostrophé du bras gauche, « Addetur huic dexter, cui syncopa fiet ut ulter ; » et pour toute emplâtre de ces balafres, vous serez médicamenté d'un « Sic volo, sic jubeo, sit pro ratione voluntas ». Loin donc d'ici, Prophane, si vous ne voulez que je mette en usage pour vous punir toutes les règles de l'Arithmétique. Ma colère « primo » commencera par la Démonstration, puis marchera ensuite une position de souflets ; « Item » une Addition de bastonnades ; « Hinc », une Fraction de bras ; « Illinc », une soustraction de jambes. De là je ferai grêler une multiplication de coups, tapes, taloches, horions, fendants, estocs, revers, estramaçons et cassemuseaux si épouvantables, qu'après ce charcutis grand nez, grand Khan, grand Turc, grand Muphti, grand Vizir et grand Tephterdat des plus redoutés charcutis, l'oeil d'un Lynx ne pourra pas faire la moindre division, ni subdivision, de la plus grosse parcelle de votre misérable individu.
 
     CHASTEAUFORT.
@@ -211,31 +211,31 @@ Ne vous expliquez pas, j'aurais peur que mes yeux en courroux ne jetassent des �
 
 ## SCÈNE I.. Granger, Paquier.
 
-    GRANGER.
+    GRANGER. [16]
 Hé bien, « Petre », ne voilà pas une digue que je viens d'opposer aux terreurs que me donne tous les jours Monsieur de La Tremblaye ? Car La Tremblaye à cause de Chasteaufort, Chasteaufort à cause de La Tremblaye, désisteront de la poursuite de ma fille ; ce sont deux poltrons si éprouvés, que si jamais ils se battent, ils se demanderont tous deux la vie. Me voici cependant embarqué sur une mer où la moitié du monde a fait naufrage. C'est l'amour chez moi, l'amour dehors, l'amour partout. Je n'ai qu'une fille à marier, et j'ai trois gendres prétendus : l'un se dit brave, je saisie contraire ; l'autre riche, mais je ne sais ; l'autre Gentilhomme, mais il mange beaucoup. Ô ! Nature, vous croiriez-vous être mise en frais, si vous aviez fagoté tant seulement trois belles qualités en un individu. Ha ! Pierre Paquier, le monde s'en va renverser.
 
     PAQUIER.
 Tant mieux, car autrefois j'entendais dire la même chose, que tout était renversé. Or si l'on renverse aujourd'hui ce qui était renversé, c'est le remettre en son sens.
 
-    GRANGER.
+    GRANGER. [17]
 Mais ce n'est pas encore là ma plus grande plaie ; j'aime, et mon fils est mon rival ! Depuis le jour que cette furieuse pensée a pris gîte au ventricule de mon cerveau, je ne mange pour toute viande qu'un « poenitet taedet, miseret ». Ha, c'en est fait, je me vais pendre !
 
     PAQUIER.
 Là, là, espérez en Dieu, il vous assistera. Il assiste bien les Allemands qui ne sont pas de ce pays-ci...
 
-    GRANGER.
+    GRANGER. [18]
 Si je l'envoyois à Venise ? « Haud dubiè », c'est le meilleur ! C'est le meilleur ! Oh ! oui sans doute. Bien donc ! Dès demain je le mettrai sur mer.
 
     PAQUIER.
 Au moins ne le laissez pas embarquer sans attacher sur lui de l'Anis à la Reine, car les Médecins en ordonnent contre les vents.
 
-    GRANGER.
-Va-t-en dire à Charlot Granger qu'il avole subitement ici. S'il veut savoir qui le demande, dis-lui que c'est moi.
+    GRANGER. [19]
+Va-t-en dire à Charlot Granger qu'il avole subitement ici. S'il veut savoir qui le demande, dis-lui que c'est moi. [20]
 
 
 ## SCÈNE I.I.
 
-    GRANGER, SEUL.
+    GRANGER, SEUL. [21] [22]
 Donc sejongant de nos Lares ce vorace absorbeur de biens, chaque sol de rente que je soulais avoir deviendra parisis ! Et le marteau de la jalousie ne sonnera plus les longues heures du désespoir dans le clocher de mon âme. D'un autre côté me puis-je résoudre au mariage, moi que les Livres ont instruit des accidents qu'il tire à sa cordelle ? Que je me marie ou que je ne me marie pas, je suis assuré de me repentir. N'importe ! Ma femme prétendue n'est pas grande ; ayant à vêtir une haire, je ne la puis prendre trop courte. On dit cependant qu'elle veut plastronner sa virginité contre les estocades de mes perfections. Hé ! À d'autres, un pucelage est plus difficile à porter qu'une cuirasse. Toutes les femmes ne sont-elles pas semblables aux arbres, pourquoi donc ne voudraient-elles pas être arrosées ? « ac primo » ; comme les arbres, elles ont plusieurs têtes ; comme les arbres, si elles sont ou trop ou trop peu humectées, elles ne portent point ; comme les arbres, elles ont les fleurs auparavant que les fruits ; comme les arbres, elles déchargent quand on les secoue. Enfin, Jean Despautère le confirme, quand il dit « Arboris est nomen muliebre ». Mais je crois que Paquier a bu de l'eau du fleuve « Léthé », ou que mon fils s'approche à pas d'écrevisse ; je m'en vais « obviam » droit à lui.
 
 
@@ -280,7 +280,7 @@ Qui, vous ? Je vais gager ce chapeau de Cocu, qui est un des vieux de votre pèr
     CHARLOT.
 Et toi, Paquier, en as-tu vu davantage ?
 
-    PAQUIER.
+    PAQUIER. [23] [24]
 Oui-da ; j'ai vu les Bons-Hommes. Chaillot, Saint-Cloud, Vaugirard.
 
     CHARLOT.
@@ -391,13 +391,13 @@ Parce que vous ne voulez pas aller à Venise.
     CHARLOT.
 Moi, je n'y veux pas aller ? On vous le fait accroire. Hélas ! Mon Père, tant s'en faut, toute ma vie j'ai souhaité avec passion de voir l'Italie et ces belles Contrées qu'on appelle le Jardin du Monde.
 
-    GRANGER.
+    GRANGER. [25]
 Donc, mon fils, tu n'as plus besoin d'Ellébore. Donc, ta tête reste encore aussi saine que celle d'un chou cabus après la gelée. Viens m'embrasser, viens mon Toutou, et va-t-en aussitôt chercher quelque chose de gentil et à bon marché, qui soit rare hors de Paris, pour en faire un présent à ton Oncle ; car je te vais tout à cette heure, retenir une place au Coche de Lyon.
 
 
 ## SCÈNE VI.I.
 
-    CHARLOT, SEUL.
+    CHARLOT, SEUL. [26]
 Que de fâcheuses conjonctures où je me trouve embarrassé ! Après toute ma feinte, il faut encore ou abandonner ma Maîtresse, c'est-à-dire mourir, ou me résoudre à vêtir un pourpoint de pierre, cela s'appelle Saint-Victor ou Saint-Martin.
 
 
@@ -409,7 +409,7 @@ Si vous voulez me croire, votre voyage ne sera pas long.
     CHARLOT.
 Ha ! Mon pauvre Corbineli, te voilà. Sais-tu donc bien les malheurs où mon Père m'engage ?
 
-    CORBINELI.
+    CORBINELI. [27] [28]
 Il m'en vient d'apostropher tout le « Tu autem ». Il vous envoyé à Venise ; vous devez partir demain. Mais pourvu que vous m'écoutiez, je pense que si le bonhomme, pour tracer le plan de cette ville, attend votre retour, il peut dès maintenant s'en fier à la Carte. Il vous commmande d'acheter ici quelque bagatelle à bon marché qui soit rare à Venise, pour en faire un présent à votre Oncle ; c'est un couteau qu'il vient d'émoudre pour s'égorger. Suivez-moi seulement.
 
 
@@ -426,7 +426,7 @@ Vous vous êtes battu ? Et donc ? Vous avez eu avantage sur votre ennemi ? Fort 
 
 ## SCÈNE I.. Gareau, Chasteaufort.
 
-    GAREAU.
+    GAREAU. [29] [30]
 Vartigué, vêla de ces mangeux de fpetis enfans ; la vegue de la Courtille, belle montre et peu de rapport.
 
     CHASTEAUFORT.
@@ -492,7 +492,7 @@ Il faut dire des exhortations à la Turque.
     CHASTEAUFORT.
 Ton Maître savait donc l'idiome Turc ?
 
-    GAREAU.
+    GAREAU. [31]
 Hé vrament oui oul sçavet ; tous ces Gérosmes-là les avet-il pas vus dans le Latin ? Son frère itou étet bien savant, mais oui n'étet pas encore si savant, car n'eu marmuset qu'oui n'avet appris le Latin qu'en François. C'étet un bon Nicolas, qui s'en allet tout devant ly, hurlu brelu, n'en eut pas dit qu'oui y touchet, et stampandant oui marmonet toujours dans une bâtelée de Livres. Je ne me sauras tenir de rire, quand je me ramenteu des noms si biscornus, et si, par le sanguoi, tout ça étet vrai, car oui étet moulé. D'auquns s'intiloient, s'intuloient : ouay ? Ce n'est pas encore comme ça : s'inlutiloient, j'y sis casi : s'intilutoient, j'y sis casi : s'intilutoient, sin, sin, sin. Tanquia que je m'entens bian.
 
     CHASTEAUFORT.
@@ -525,7 +525,7 @@ C'est un certain oignement dont les Ancians s'oignient quand ils estient morts, 
     CHASTEAUFORT.
 Ce coup ne m'offence point, au contraire, il publie mon courage invincible à souffrir. Toutefois, afin que tu ne te rendes pas indigne de pardon par une seconde faute, encore que ce soit ma coutume de donner plutôt un coup d'épée qu'une parole, je veux bien te dire qui je suis. J'ai fait en ma vie septante mille combats, et n'ai jamais porté botte qui n'ait tué sans confession. Ce n'est point que j'aie jamais ferraillé le fleuret, je suis adroit la Grâce à Dieu ; et partant la science que j'ai des armes, je ne l'ai jamais apprise que l'épée à la main. Mais que cet avertissement ne t'effraye point ; je suis tout coeur et il n'y a point, par conséquent, de place sur mon corps où tu puisses adresser tes coups sans me tuer. Sus donc, mais gardons la vue, ne portons point de même temps, ne poussons point de près, ne tirons point de seconde : mais vite, vite, je n'aime pas tant de discours. Mardieu, depuis le temps je me serais mis en garde, j'aurais gagné la mesure, je l'aurais rompue, j'aurais surpris le fort, j'aurais pris le temps, j'aurais coupé sous le bras, j'aurais marqué tous les battements, j'aurais tiré la flanconnade, j'aurais porté le coup de dessous, je me serais allongé de tierce sur les armes, j'aurais quarté du pied gauche, j'aurais marqué feinte à la pointe et dedans et dehors, j'aurais estramaçonné, ébranlé, empiété, engagé, volté, porté, paré, riposté, quarté, passé, désarmé et tué trente hommes.
 
-    GAREAU.
+    GAREAU. [32]
 Vramant, vramant, vêla bian la Musicle de Saint-Innocent, la pus grande piqué du monde. Quel embrocheux de limas.
 Il le frappe encore.
 
@@ -595,16 +595,16 @@ Là là, vous moquez-vous ? Rabusez votre bonet ; entre nous autres, il ne faut 
     GRANGER.
 Avez-vous ici les contrats acquisitoires de ces héritages-là ?
 
-    GAREAU.
+    GAREAU. [33]
 Nanain vrament, et si l'on ne me les veut pas donner ; mais je me doute bian de ce qu'oui y a. Testigué, je m'amuse bian à des papiers, moi. Hé ! Ardé, tous ces brinborions de Contrats, ce n'est que de l'écriture qui n'est pas vraie, car ol n'est pas moulée. Ho bian, acoutez la, c'est eune petite sussion qui est vrament bian grande da, de Nicolas Girard ; hé là, le père de ce petit Louis Girard qui étet si sémillant, ne vous sçauriais vous recorder ? C'est ly qui s'alit neger à la grand Mare. Ô bian son père est mort, et si je l'avons conduit en tare, s'il a plù à Guieu, sans repruche, comme dit l'autre. Ce pauvre Guiebe étet allé dénicher des pies sur l'Orme de la comère Massée. Dame, comme oui étet au Copiau. Le vêla, bredi breda, qui commence à griller tout avaux les branches et cheit une grande escousse, pouf, à la renvarse. Guieu bénit la Chresquianté ! Je crois que le coeur l'y escarbouillit dans le ventre, car oul ne sonit jamais mot, ne grouillit, sinon qu'oui grimonit en trépassant : « Guiebe set de la Pie et des Piaux. » Ô donc ly il étet mon Compère et sa femme ma Comère. Or ma Comère, pis que Comère y a, auparavant que d'avoir épousé mon Compère, avet épousé en preumières nopces le Cousain de la brû de Piare Olivier, qui touchet de bian près à Jean Hénault, de par le Gendre du Biaufrère de son Onque. Or cely-cy, retenez bian, avet eu des enfans de Jaquelaine Brunet qui mourirent sans enfans. Mais il se trouve que le Neveu de Denis Gauchet avet tout baillé à sa femme par contrat de mariage, à celle fin de frustriser les hériquers de Thomas Plançon qui devient y rentrer, pis que sa Mère-Grand n'avet rian laissé aux Mineurs de Denis Vanel l'esné. Or donc, il se trouve que je somes parens en queuque magnière de la Veuve de Denis Vanel le jeune, et par conséquent ne devons-je pas avoir la sussion de Nicolas Girard ?
 
-    GRANGER.
+    GRANGER. [34]
 Mon ami, je fais ouvrir à ma conception plus d'yeux que n'en eut jamais le gardien de la Vache Io, et je ne vois goutte en votre affaire.
 
     GAREAU.
 Ô Monsieu, je m'en vas vous l'éclaircir aussi finement claire que la voix des enfans de choeur de notre village. Acoutez donc : il faut que vous sachiais que la Veufve de Denis Vanel le jeune, dont je sommes parens en queuque magnière, étet fille du second lit de Georges Marquiau, le Biau-frère de la Soeur du Neveu de Piare Brunet, dont lavons tantôt fait mention. Or, il est bian à clair que si je cousain de la brû de Piare Olivier, qui touchet de bian près à Jean Hénault de par le Gendre du Biau-frère de son Onque, étet Père des enfans de Jaquelaine Brunet, trépassés sans enfants, et qu'après tout ce tintamare-là on n'avet rian laissé aux mineurs de Denis Vanel le jeune, j'y devons rentrer, n'est-ce pas ?
 
-    GRANGER.
+    GRANGER. [35]
 Paquier, repliez la nappe, Monsieur n'a pas loisir de s'arrêter. Ma foi. beau Sire, depuis le jour que Cupidon ségregea la Lumière du Chaos, il ne s'est point vu sous le Soleil un démêlé semblable. Dédale et son Labyrinthe en ont bien dans le dos. Je vous remercie cependant de l'honneur qu'il vous plaisait nous faire. Vous pouvez promener votre charrue ailleurs que sur le champ virginal du ventre de ma fille.
 
     MANON.
@@ -616,13 +616,13 @@ Vous avez bon courage, mais les jambes vous faillent.
     GAREAU.
 Ma foi voire ; aussi bian n'en velay-je pus. J'aime bian mieux eune bonne grosse Mainagère qui vous travaille de ses dix doigts, que non pas de ces Madames de Paris qui se fesont courtiser des Courtisans. Vous verrais ces Galouriaux, tant que le jour est long, leur dire : « Mon coeur, Mamour », Parcy, Parla ; je le veux bian, le veux-tu bian ? Et pis c'est à se sabouler, à se patiner, à plaquer leurs mains au commencement sur les joues, pis sur le cou, pis sur les tripes, pis sur le brinchet, pis encore pus bas, et ainsi le vit se glisse. Stanpendant, moi qui ne veux pas qu'on me fasse des Trogédies, si j'avouas treuvé queuque Ribaut licher le morviau à ma femme, comme cet affront-là frape bian au coeur, peut-être que dans le désespoir je m'emporteroüas à jeter son chapiau par les fenêtres ou à luy faire les cornes comme me moqué de li, pis ce seret du scandale ; Tigué, queuque gniais.
 
-    GRANGER.
+    GRANGER. [36]
 Ô espérances futiles du concept des humains ! J'avais été jusqu'à Vaugirard choisir un Gendre en qui la Nature ayant usé de parcimonie, je pensois que la Fortune eut été prodigue, mais je trouve que si la mine de son visage est bien plate, celle de son coffre est encore plus écachée. De même les chats, tu ne flattes que pour égratigner, Fortune malicieuse !
 
 
 ## SCÈNE IV. Corbineli, Granger, Paquier.
 
-    CORBINELI.
+    CORBINELI. [37] [38]
 Elle n'est pas seulement malicieuse, elle est enragée. Hélas ! Tout est perdu, votre fils est mort.
 
     GRANGER.
@@ -634,14 +634,14 @@ Non, je parle sérieusement : votre Fils à la vérité n'est pas mort, mais il 
     GRANGER.
 Entre les mains des Turcs ? Soutiens-moi, je suis mort.
 
-    CORBINELI.
+    CORBINELI. [39]
 À peine étions-nous entrés en bateau pour passer de la porte de Nesle au Quai de l'École....
 
     GRANGER.
 Et qu'allais-tu faire à l'École, Baudet ?
 
-    CORBINELI.
-Mon Maître s'étant souvenu du commandement que vous lui avez fait d'acheter quelque bagatelle qui fut rare à Venise, et de peu de valeur à Paris, pour en régaler son Oncle, s'était imaginé qu'une douzaine de cotrets n'étant pas chers, et ne s'en trouvant point, par toute l'Europe de mignons comme en cette Ville, il devait en porter là. C'est pourquoi nous passions vers l'École pour en acheter ; mais à peine avons-nous éloigné la côte, que le Page de notre Navire a découvert au Sud-Ouest une galère turque qui tâchait à coups de rames de dérober le vent dessus nous et le fit parce que nous étions mauvais voiliers. Après donc qu'elle a eu doublé le cap des bons hommes, qu'elle a eu jeté fond et demeuré quelque temps sur le fer à l'abri des dunes du cours, elle a levé l'ancre et fait canal droit à nous, de proue en poupe. Ce qui nous a fait choir en défaut, c'est qu'ils ont arboré de chrétienté, nous ont salué d'amis et cinglans d'un quart de boutine, nous ont gagné le flanc, nous ont accroché et la soldatesque sautée sur notre tillac, ils nous ont fait esclaves, puis se sont élargis en mer.
+    CORBINELI. [40] [41]
+Mon Maître s'étant souvenu du commandement que vous lui avez fait d'acheter quelque bagatelle qui fut rare à Venise, et de peu de valeur à Paris, pour en régaler son Oncle, s'était imaginé qu'une douzaine de cotrets n'étant pas chers, et ne s'en trouvant point, par toute l'Europe de mignons comme en cette Ville, il devait en porter là. C'est pourquoi nous passions vers l'École pour en acheter ; mais à peine avons-nous éloigné la côte, que le Page de notre Navire a découvert au Sud-Ouest une galère turque qui tâchait à coups de rames de dérober le vent dessus nous et le fit parce que nous étions mauvais voiliers. Après donc qu'elle a eu doublé le cap des bons hommes, qu'elle a eu jeté fond et demeuré quelque temps sur le fer à l'abri des dunes du cours, elle a levé l'ancre et fait canal droit à nous, de proue en poupe. Ce qui nous a fait choir en défaut, c'est qu'ils ont arboré de chrétienté, nous ont salué d'amis et cinglans d'un quart de boutine, nous ont gagné le flanc, nous ont accroché et la soldatesque sautée sur notre tillac, ils nous ont fait esclaves, puis se sont élargis en mer. [42]
 
     GRANGER.
 Hé ! De par le Cornet retors de Triton Dieu Marin, qui jamais ouït parler que la Mer fût à Saint-Cloud ? Qu'il y eût là des galères, des pirates, ni des écueils ?
@@ -649,7 +649,7 @@ Hé ! De par le Cornet retors de Triton Dieu Marin, qui jamais ouït parler que 
     CORBINELI.
 C'est en cela que la chose est plus merveilleuse. Et quoi que l'on ne les aie point vus en France que là, que sait-on s'ils ne sont point venus de Constantinople jusques ici entre deux eaux ?
 
-    PAQUIER.
+    PAQUIER. [43]
 En effet, Monsieur, les Topinambours qui demeurent quatre ou cinq cent lieues au delà du monde, vinrent bien autrefois à Paris, et l'autre jour encore les Polonois eurent bien l'impudence d'enlever la Princesse Marie, en plein jour, à l'Hôtel de Nevers, sans que personne osât branler.
 
     CORBINELI.
@@ -661,16 +661,16 @@ Quoi ! Sans confession ?
     CORBINELI.
 S'il ne se rachetait par de l'argent.
 
-    GRANGER.
+    GRANGER. [44]
 Ah ! Les misérables ! C'était pour incuter la peur dans cette jeune poitrine.
 
-    PAQUIER.
+    PAQUIER. [45]
 En effet, les Turcs n'ont garde de toucher l'argent des Chrétiens, à cause qu'il a une croix.
 
     CORBINELI.
 Mon Maître ne m'a jamais pu dire autre chose, sinon : « Va-t-en trouver mon Père, et lui dis... » Ses larmes aussitôt, suffoquant sa parole, m'ont bien mieux expliqué qu'il n'eût su faire, les tendresses qu'il a pour vous...
 
-    GRANGER.
+    GRANGER. [46]
 Que Diable aller faire aussi dans la galère d'un Turc ? D'un Turc ! « Perge ».
 
     CORBINELI.
@@ -694,7 +694,7 @@ Mais penses-tu qu'il soit bien résolu d'aller à Venise ?
     CORBINELI.
 Il ne respire autre chose.
 
-    GRANGER.
+    GRANGER. [47]
 Le mal n'est donc pas sans remède. Paquier, donne-moi le réceptable des instruments de l'Immortalité « Scriptorium scilicet ».
 
     CORBINELI.
@@ -706,7 +706,7 @@ Qu'en désirez-vous faire ?
     CORBINELI.
 Touchant quoi ?
 
-    GRANGER.
+    GRANGER. [48]
 Qu'ils me renvoient mon fils, parce que j'en ai affaire après dîner. Qu'au reste ils doivent excuser la jeunesse qui est sujette à beaucoup de fautes ; et que s'il lui arrive une autre fois de se laisser prendre, je leur promets, foi de Docteur, de ne leur en plus obtondre la faculté auditive.
 
     CORBINELI.
@@ -718,7 +718,7 @@ Va-t-en donc leur dire de ma part. Que je suis prêt de leur répondre par-devan
     CORBINELI.
 Tout cela s'appelle dormir les yeux ouverts.
 
-    GRANGER.
+    GRANGER. [49] [50]
 Mon Dieu, faut-il être ruiné à l'âge où je suis ? Va-t-en avec Paquier, prends le reste du teston que je lui donnai pour la dépense il n'y a que huit jours... ( Aller sans dessein dans une Galère ! )... Prends tout le reliquat de cette pièce... (Ha ! malheureuse géniture, tu me coûte plus d'or que tu n'es pesant !)... Paye la rançon et ce qui restera, emploie-le en oeuvres pies... (Dans la Galère d'un Turc !)... Bien, va-t-en !... ( Mais misérable, dis-moi, que Diable allais-tu faire dans cette Galère ?)... Va prendre dans mes armoires ce pourpoint découpé que quitta feu mon Père l'année du grand hiver.
 
     CORBINELI.
@@ -739,7 +739,7 @@ Je les ferai mentir... S'en aller dans la Galère d'un Turc ! Hé quoi faire, de
     PAQUIER.
 Voilà ce que c'est que d'aller aux galères. Qui Diable le pressoit ? Peut-être que s'il eût eu la patience d'attendre encore huit jours, le Roi l'y eut envoyé, en si bonne compagnie, que les Turcs ne l'eussent pas pris.
 
-    CORBINELI.
+    CORBINELI. [51]
 Notre « Domine » ne songe pas que ces Turcs me dévoreront.
 
     PAQUIER.
@@ -758,7 +758,7 @@ Tiens, va-t-en, emporte tout mon bien.
 
     CORBINELI.
 Frappant à la porte de La Tremblaye.
-
+ [52] [53]
 Monjoye Saint-Denis ; Ville gagnée, « Accède » Granger le jeune « accède ». Ô le plus heureux des hommes ! Ô le plus chéri des Dieux ! Tenez, prenez, parlez à cette bourse, et lui demandez ce que je vaux.
 
     CHARLOT.
@@ -776,10 +776,10 @@ Ne savez-vous pas qu'elle est une roue, Damoiselle Fortune ? Elle serait bien la
     GRANGER.
 As-tu quelquefois entendu frétiller sur la minuit dans ta chambre quelque chose de noir ?
 
-    PAQUIER.
+    PAQUIER. [54]
 Vraiment, vraiment, tantôt j'entends traîner des chaînes à l'entour de mon lit ; tantôt je sens coucher entre mes draps une grande masse lourde et froide comme du marbre ; tantôt j'aperçois à notre âtre une vieille toute ridée se graisser, puis, à califourchon sur un balai, s'envoler par la cheminée. Enfin je pense que notre Collège est l'Icon, le Prototipe, et le Père-grand du Château de Bicêtre.
 
-    GRANGER.
+    GRANGER. [55]
 Il serait donc à propos, ce me semble, de prendre garde à moi. Quelque Incube pourrait bien venir habiter avec ma fille, et faire pis encore, butinant les reliques de mon chétif et malheureux « Gaza ». Ma foi, pourtant, Diables Folets, si vous attendez cela pour dîner, vous n'avez qu'à dire Grâces : Je m'en vais faire prendre à toutes mes Chambres chacune un clystère d'eau bénite. Ils pourroient bien toutefois me voler d'un côté, quand je les conjurerois de l'autre. N'importe, j'imagine encore la parade de ce coup-là. Paquier, va-t-en chercher sous mes grandes armoires un vieux Livre de Plain-chant ; déchire-le par morceaux, et en attache un feuillet à chaque avenue de ma chambre, comme aux portes, aux fenêtres, à la cheminée ; et principalement enduis-en un certain coffre-fort, fidèle dépositaire de mon magasin. Écoute, écoute, Paquier, il vient de me souvenir que les Démons s'emparent des Trésors égarés ou perdus : De peur que quelqu'un d'eux ne vienne à se méprendre, souviens-toi bien d'écrire sur la pièce de game qui couvre la serrure, mais en gros caractères : « il n'est égaré ni perdu, car je sais bien qu'il est là ».
 
     PAQUIER.
@@ -827,7 +827,7 @@ Je ne sais de quoi tu me parles ; je voudrais seulement que Monsieur Granger sut
     GENEVOTE.
 Mon pauvre Paquier, si tu m'aimes, je te supplie entretiens moi d'autre chose ; parle-moi de l'amour que ton maître me porte.
 
-    PAQUIER.
+    PAQUIER. [56]
 Ce n'est pas là ce dont j'ai à vous parler. Mais à quoi Diable vous sert de tourner ainsi la truie au foin. Dites-moi donc, ferez-vous cette année du feu Grégeois à la Saint-Jean ?
 
     GENEVOTE.
@@ -842,10 +842,10 @@ D'un amour si violent que je souhaiterais qu'une moitié de lui devint une moiti
     PAQUIER.
 Hé bien, ne voilà pas toujours quitter notre propos ? Et tout cela de peur que votre âme ne prenne feu parmi tant d'autres, mais ma foi, il n'en ira pas ainsi. Il y a trois feux dans le Monde, Mademoiselle : Le premier est le feu Central, le second, le feu Vital ; et le troisième, le feu élémentaire. Ce premier en a trois sous soi qui ne diffèrent que par les accidents : le feu de collision, le feu d'attraction, et le feu de position.
 
-    GENEVOTE.
+    GENEVOTE. [57]
 As-tu fait dessein de continuer tes extravagances jusques au bout du Jugement ?
 
-    PAQUIER.
+    PAQUIER. [58]
 Mais vous-même, avez-vous fait dessein de me faire enrager jusques à la fin du Monde ? Vous me venez parler de l'amour que vous portez à mon Maître : voilà de belles sottises ! Ce n'est pas cela qu'on vous demande. Je veux seulement que vous sachiez que Monsieur Granger n'est qu'un Feu Follet depuis qu'il vous a vue ; que bientôt, aussi bien qne lui, vous arderez. S'il plaît à Dieu, du Feu Saint-Antoine, et que... Mais où Diable pêcher de nouveau Feu ? Ha ! Par ma foi j'en tiens, Mademoiselle, Feu votre Père et Feu votre Mère, avaient-ils fort aimé Feu leurs parents ? Car Feu le Père et Feu la Mère de Monsieur Granger avaient chéri passionnément Feu les Trépassés ; et je vous jure que le Feu est une chose si inséparable de mon Maître, qu'on peut dire de lui (quoi qu'il soit plein de vie) : Feu le pauvre Monsieur Granger, principal du Collège de Beauvais. Or ça il me reste encore les Charbons et les Traits.
 
     GENEVOTE.
@@ -866,7 +866,7 @@ Tu diras à ton Maître que j'étais venue ici pour le voir, mais que l'arrivée
 
 ## SCÈNE X. Chasteaufort, Paquier.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [59]
 Hé ! Mon Dieu, Messieurs, j'ai perdu mon Garde, mon pauvre Garde. Personne ne l'a-t-il rencontré ? Sans mentir j'en ferai reproche à la Connétablie, d'avoir fié à l'imprudence d'un jeune Homme, la garde d'un Diable comme moi. Si j'allais maintenant rencontrer ma partie, que serait-ce ? Il faudrait s'égorger comme des bêtes farouches. Pour moi, encore que je sois vaillant, je ne suis point brutal. Ce n'est pas que je craigne le combat, au contraire, c'est le pain quotidien que je demande à Dieu tous les jours en me levant. On le verra, on le verra ; car, par la Mort, aussitôt que j'aurai retrouvé ce Garde qui me gardoit, je proteste de désobéir à quiconque, hormis à ce pauvre Garde, me voudrait détourner de tirer l'épée. Hola, Garde-Mulet, ne l'as-tu point vu passer, mon Garde ? C'est un Garde que les Maréchaux de France m'ont envoyé pour m'empêcher de faire un Duel, le plus sanglant qui jamais ait rougi l'herbe du Pré aux Clercs. Ventre ! Que dira la Noblesse de moi, quand elle saura que je n'ai pas eu le soin de bien garder mon Garde ? Ô ! Toi donc, malheureux petit homme, va-t-en signifier à tous les Braves qu'ils aient à me laisser en patience dorénavant, pour qu'encore que mon Garde ne soit pas ici, je suis sensé comme l'ayant. Je lui donnais deux pistoles par jour ; et si je le puis retrouver, je promets à mon bon ange un cierge blanc de dix livres, et, à lui, de lui donner par jour quatre pistoles, au lieu de deux. Enfin je le rendrai si content de moi, qu'il ne souffrira pas que je m'échappe de lui, ou ce sera le plus ingrat homme du monde.
 
     PAQUIER.
@@ -878,7 +878,7 @@ Hé bien, Monsieur, qu'importe, puis que vous voulez tuer votre ennemi, que ce g
     PAQUIER.
 Adieu, adieu.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [60]
 Va toi-même à Dieu, poltron, et lui dis, de ma part, que j e lui vais envoyer bien-tôt tout ce qui reste d'hommes sur la Terre.
 
 
@@ -895,15 +895,15 @@ Ha ! Paquier, tu t'es aujourd'hui surpassé toi-même. N'espère pas toutefois d
 
     PAQUIER.
 Il ouvre un grand Bahut, d'où il tire de vieux habits, avec un miroir, etc.
-
+ [61] [62]
 Il m'en souvient : je n'ai donc plus qu'à choisir lequel me siéra le mieux de mes habits Pontificaux. Ô ! Déesse Paphienne, sois-moi en aide et confort en cette présente cette mienne tribulation. Et vous, sacrés haillons de mes ancêtres qui ne gagnez des crottes qu'aux bons jours, vous qui n'avez point vu le jour depuis celui du mariage de mon bisaïeul, qu'il n'y ait sur votre texte : tache, trou, balafre, ou déchirure qui ne reçoive de nous un sanglot, une larme, et une quérimonie particulière. Amour, flamme folette, qui n'es jamais qu'au bord d'un précipice ; Ardent qui brilles pour nous éblouir ; Feu qui brûles et ne consumes point ; Guide aveugle qui crèves les yeux à ceux que tu conduis ; Bourreau qui fais rire en tuant ; Poison que l'on boit par les yeux ; Assassin que l'âme introduit dans sa maison par les fenêtres ; Amour, petit poupard c'est à tes côtés douillettement frétillards, que je viens pérager les reliques de la journée. Plantons-nous diamétralement devant ce chef-d'oeuvre Vénitien, et faisons avec un compte exact la revue de tous les traits de mon visage. Que le poil de ma barbe qui paraîtra hors-d'oeuvre soit châtié comme un passe-volant. Essayons quel personnage il nous siéra mieux de représenter devant elle, de Caton, ou de Momus ? Je tâche à rire et à pleurer sans intervalle, et je n'en puis venir à bout.
 Il rit et il pleure en même temps.
-
+ [63]
 Mais que viens-je devoir ? Quand je ris, ma mâchoire, ainsi que la muraille d'une ville battue en ruine, découvre à côté droit une brèche à passer vingt hommes. C'est pourquoi, mon visage, il vous faut styler à ne plus rire qu'à gauche ; et, pour cet effet, je vais marquer sur mes joues de petits points que je défends à ma bouche, quand je rirai, d'outrepasser. On m'a dit que j'ai la voix un peu cassée, il faut surprendre avec l'oreille mon image en ce miroir, avant qu'elle se taise. « Je salue très humblement le Bastion des Grâces le Cavalier d'amour et la Citadelle des rigueurs de Mademoiselle Genevote. » Ai-je parlé trop haut, ou trop bas ? Il serait bon, ce me semble, d'avoir des lieux communs tout prêts pour chaque Passion que je voudrai vêtir. Il faudra faire éclater, selon que je serai bien ou mal reçu, le Dédain, la Colère ou l'Amour.
 Ça pour le « Dédain » : « Quoi tu penserais que tes yeux eussent féru ma poitrine au défaut de la cuirasse ? Non, non, tes traits sont si doux qu'ils ne blessent personne.Quoi, je t'aurais aimée, chétif égout de concupiscence, vase de nécessité, pot de chambre du sexe masculin ? Hélas, petite gueuse, regarde-moi seulement, admire et te tais. » Pour la « Colère » : « Ô ! trois et quatre fois, Mégère impitoyable, puisse le Ciel en courroux ébouler sur ton chef des hallebardes au lieu de pluie ! Puisses-tu boire autant d'encre que ton amour m'a fait verser de larmes ! Puisses-tu cent fois le jour servir aux chiens de muraille pour pisser ! Enfin, puisse la destinée tisser la trame de tes jours avec du crin, des chardons et des étoupes. » Pour l'« Amour » : « Soleil, principe de ma vie, vous me donnez la mort, et déjà je ne serais plus qu'une ombre vaine et gémissante qui marquerait de ses pas la rive blême de l'Achéron, si je n'eusse redouté de faire périr en moi votre amour, qui ne doit pas moins vivre que sa cause. Peut-être, ô belle Tigresse, que mon chef neigeux vous fait peur ! Je sais bien aussi que les jeunes ont dans les yeux moins de rouge, et plus de feu que nous ; que vous aimez mieux notre bourse au singulier qu'au pluriel ; qu'au déduit amoureux une femme est insatiable ; et que si la première nuit « Optât ut excédât digito », la seconde nuit elle en veut « Pede longior uno ». Mais sachez qu'un jour l'âge, ayant promené sa charrue sur les roses et sur les lys de votre teint, fera de votre front un grimoire en Arabe ; et que jeunes et vieux sont quotidiennement épitaphés, à cause que : « Compositum simplexque modo simili gradiuntur ».
 
 
-## SCENE II. Granger, Paquier, Genevote. [7]
+## SCENE II. Granger, Paquier, Genevote. [64]
 
     GRANGER.
 Mademoiselle, soyez-vous venue autant à la bonne heure que la grâce aux Pendus, quand ils sont sur l'échelle.
@@ -921,12 +921,12 @@ Mais vous n'en riez pas ?
 Ha, a, a, a, a.
 
     GENEVOTE.
-Il faut, avant que d'entrer en matière, vous anatomiser ce squelette d'homme et de vêtement, aux mêmes termes qu'un savant m'en a tantôt fait la description. Voici l'heure environ que le Soleil se couche, c'est l'heure aussi, par conséquent, que les lambeaux de son manteau se viennent rafraîchir aux étoiles. Leur Maître ne les expose jamais au jour, par ce qu'il craint que le soleil, prenant une matière si combustible pour le berceau du Phoenix, ne brûlât et le nid et l'oiseau. Ce manteau donc, cette cape, cette casaque, cette simarre, cette robe, cette soutane, ce pavillon, ce lange, ou cet habit, (car on est encore à deviner ce que c'est, et le Syndic des Tailleurs y demeureroit « a quia » fait bien dire aux gausseurs qu'il fait peur aux larrons en leur montrant la corde. Il est trop vieux le pénard pour en avoir une seule. Certains Dogmatistes disent avoir appris par tradition qu'il fût apporté du Caire, où on le trouva dans une vieille cave, à l'entour de je ne sais quelle Momie, sous les saintes Masures d'une Pyramide éboulée. À la vérité, les figures grotesques que les trous, les pièces, les taches et les filets y composent bizarrement, ont beaucoup de rapport avec les figures hyéroglyphiques des Égyptiens. C'est un plaisir sans pareil de contempler ce Fantôme arrêté dans une rue. Vous y verrez amasser cent curieux et tout en extase disputer de son origine : l'un soutenir que l'imprimerie ni le papier n'étant pas encore trouvés, les Doctes y avaient tracé l'Histoire universelle ; et sur cela remontant de Pharamond à César, de Romule à Priam, de Lycurgue à Deucalion, de Prométhée au premier homme, il ne laissera pas échapper un filet qui ne soit au moins le Symbole de la décadence d'une Monarchie ; un autre voudra que ce soit le tableau du Chaos; un autre la métempsycose de Pythagore ; un autre, divisant ses guenilles par chapitres, y trouvera l'Alcoran divisé par azoares ; un autre le système de Copernic ; un autre le Livre de Salomon ; un autre enfin jurera que c'est le manteau du prophète Elie, et que sa sécheresse est une marque qu'il a passé par le feu. Et moi pour vous blasonner cet écu. Je dis qu'il porte de sable, engrêlé sur la bordure, aux lambeaux sans nombre. Du manteau, je passerais aux habits, mais je pense qu'il suffira de dire que chaque pièce de son accoutrement est un antique. Venons de l'étoffe à la doublure, de la gaîne à l'épée et de la châsse au Saint. Traçons en deux paroles le crayon de notre ridicule Docteur. Figurez-vous un rejeton de ce fameux arbre Cocos, qui, seul, fournit un pays entier des choses nécessaires à la vie. Premièrement, en ses cheveux, on trouve de l'huile, de la graisse et des cordes de luth ; sa tête peut fournir de corne les couteliers, et son front, les nécromanciens, de grimoire à invoquer le Diable ; son cerveau, d'enclume ; ses yeux, de cire, de vernis et d'écarlate ; son visage, de rubis ; sa gorge, de clous ; sa barbe, de décrottoires ; ses doigts, de fuseaux ; sa peau, de lime ; son haleine, de vomitif ; sa parole, de ris ; ses cautères, de pois ; ses dartres, de farine ; ses oreilles, d'ailes à moulin ; son derrière, de vent le faire tourner; sa bouche, de four-à-ban ; et sa personne, d'âne à porter la mounée. Pour son nez, il mérite bien une égratignure particulière. Cet authentique nez arrive partout un quart d'heure devant son Maître : dix Savetiers, de raisonnable rondeur, vont travailler dessous à couvert de la pluie. Hé bien, Monsieur, ne voilà pas un joli Ganymède ? Et c'est pourtant le Héros de mon histoire. Cet honnête homme régente une classe dans l'Université, c'est bien le plus faquin, le plus chiche, le plus avare, le plus sordide, le plus mesquin... Mais riez donc !
+Il faut, avant que d'entrer en matière, vous anatomiser ce squelette d'homme et de vêtement, aux mêmes termes qu'un savant m'en a tantôt fait la description. Voici l'heure environ que le Soleil se couche, c'est l'heure aussi, par conséquent, que les lambeaux de son manteau se viennent rafraîchir aux étoiles. Leur Maître ne les expose jamais au jour, par ce qu'il craint que le soleil, prenant une matière si combustible pour le berceau du Phoenix, ne brûlât et le nid et l'oiseau. Ce manteau donc, cette cape, cette casaque, cette simarre, cette robe, cette soutane, ce pavillon, ce lange, ou cet habit, (car on est encore à deviner ce que c'est, et le Syndic des Tailleurs y demeureroit « a quia » fait bien dire aux gausseurs qu'il fait peur aux larrons en leur montrant la corde. Il est trop vieux le pénard pour en avoir une seule. Certains Dogmatistes disent avoir appris par tradition qu'il fût apporté du Caire, où on le trouva dans une vieille cave, à l'entour de je ne sais quelle Momie, sous les saintes Masures d'une Pyramide éboulée. À la vérité, les figures grotesques que les trous, les pièces, les taches et les filets y composent bizarrement, ont beaucoup de rapport avec les figures hyéroglyphiques des Égyptiens. C'est un plaisir sans pareil de contempler ce Fantôme arrêté dans une rue. Vous y verrez amasser cent curieux et tout en extase disputer de son origine : l'un soutenir que l'imprimerie ni le papier n'étant pas encore trouvés, les Doctes y avaient tracé l'Histoire universelle ; et sur cela remontant de Pharamond à César, de Romule à Priam, de Lycurgue à Deucalion, de Prométhée au premier homme, il ne laissera pas échapper un filet qui ne soit au moins le Symbole de la décadence d'une Monarchie ; un autre voudra que ce soit le tableau du Chaos; un autre la métempsycose de Pythagore ; un autre, divisant ses guenilles par chapitres, y trouvera l'Alcoran divisé par azoares ; un autre le système de Copernic ; un autre le Livre de Salomon ; un autre enfin jurera que c'est le manteau du prophète Elie, et que sa sécheresse est une marque qu'il a passé par le feu. Et moi pour vous blasonner cet écu. Je dis qu'il porte de sable, engrêlé sur la bordure, aux lambeaux sans nombre. Du manteau, je passerais aux habits, mais je pense qu'il suffira de dire que chaque pièce de son accoutrement est un antique. Venons de l'étoffe à la doublure, de la gaîne à l'épée et de la châsse au Saint. Traçons en deux paroles le crayon de notre ridicule Docteur. Figurez-vous un rejeton de ce fameux arbre Cocos, qui, seul, fournit un pays entier des choses nécessaires à la vie. Premièrement, en ses cheveux, on trouve de l'huile, de la graisse et des cordes de luth ; sa tête peut fournir de corne les couteliers, et son front, les nécromanciens, de grimoire à invoquer le Diable ; son cerveau, d'enclume ; ses yeux, de cire, de vernis et d'écarlate ; son visage, de rubis ; sa gorge, de clous ; sa barbe, de décrottoires ; ses doigts, de fuseaux ; sa peau, de lime ; son haleine, de vomitif ; sa parole, de ris ; ses cautères, de pois ; ses dartres, de farine ; ses oreilles, d'ailes à moulin ; son derrière, de vent le faire tourner; sa bouche, de four-à-ban ; et sa personne, d'âne à porter la mounée. Pour son nez, il mérite bien une égratignure particulière. Cet authentique nez arrive partout un quart d'heure devant son Maître : dix Savetiers, de raisonnable rondeur, vont travailler dessous à couvert de la pluie. Hé bien, Monsieur, ne voilà pas un joli Ganymède ? Et c'est pourtant le Héros de mon histoire. Cet honnête homme régente une classe dans l'Université, c'est bien le plus faquin, le plus chiche, le plus avare, le plus sordide, le plus mesquin... Mais riez donc ! [65]
 
     GRANGER.
 Ha, a, a, a, a !
 
-    GENEVOTE.
+    GENEVOTE. [66]
 Ce vieux rat de collège a un fils qui, je pense, est le receleur des perfections que la Nature a volées au père, ce chiche-pénard(294), ce radoteur.
 
     GRANGER.
@@ -944,16 +944,16 @@ Non, en aucune façon.
     GRANGER.
 Baste, baste, faites grâce à ce pauvre vieillard !
 
-    GENEVOTE.
+    GENEVOTE. [67] [68]
 Or, écoutez le plus plaisant. Ce goutteux, ce loup-garou, ce moine-bourru...
 
     GRANGER.
 Passez outre, cela ne fait rien à l'Histoire.
 
-    GENEVOTE.
+    GENEVOTE. [69]
 Commanda à son fils d'acheter quelque bagatelle pour faire un présent à son Oncle le Vénitien ; et son fils, un quart d'heure après, lui manda qu'il venait d'être pris prisonnier par les pirates turcs, à l'embouchure du Golfe des Bons-Hommes ; et ce qui n'est pas mal plaisant, c'est que le bonhomme aussitôt envoya la rançon. Mais il n'a que faire de craindre pour sa pécune, elle ne courra point de risque sur la Mer du Levant.
 
-    GRANGER.
+    GRANGER. [70]
 Traître Corbineli, tu m'as vendu ! Mais je te ferai donner la Salle. Il est vrai, Mademoiselle, que je suis interdit; mais jugez aussi par le trouble de mon visage de celui de mon âme. L'image de votre beauté joue incessamment dans mon coeur à remue-ménage. Ce n'est pas toutefois du désordre d'un esprit égaré que je prétends mériter ma récompense ; c'est de la force de ma passion, que je prétends vous prouver par quatre figures de Rhétorique : les antithèses, les métaphores, les comparaisons et les arguments. Et pour les déplier, écoutez parler l'« Antithèse » : « Si » mais je ne dis point si, car il est plus véritable que la vérité : « Si », dis-je, l'amère douceur et la douce amertume, le poison médicinal et la médecine empoisonnée, qui partent sans sortir de vous, ô Monstre indéfectueux, n'embrasaient mon esprit en le glaçant et n'y faisaient tantôt vivre, tantôt mourir, un immortel petit Géant (j'appelle ainsi les flammes visibles dont le plus grand et le plus petit des Dieux m'échauffe et me fait trembler). Ou « si » ces aveugles clairvoyants (je veux dire vos yeux, belle Tigresse, ces innocents coupables, mais plutôt encore le siège et la lice, le repos et l'action, le tout et la partie de l'unité de nos deux âmes) se publiant, sans dire mot, amis ennemis de l'esclave liberté des hommes, n'avaient contraint volontairement mon génie dans la libre prison de votre sorcière beauté, lui qui faisait gloire auparavant d'une fermeté constante en son inconstance; « Si», dis-je, tout cela n'avait fait faire et défaire à mes pensées beaucoup de chemin en peu d'espace ; « Si » bref vous ne m'aviez apporté des ténèbres par vos rayons, « Je » n'aurais pas appelé de mon juge à mon juge, pour demander ce que je ne veux pas obtenir ; c'est, pitoyable inhumaine, la santé mortelle d'une aigre douce maladie qu'on rendrait incurable si on la guérissait.
 
     GENEVOTE.
@@ -989,7 +989,7 @@ Ce n'est pas par la Métaphore seule, pain quotidien des scholares, que je prét
     GENEVOTE.
 Vraiment si j'avais dormi une nuit auprès de vous, je serais docte comme Hésiode, pour avoir dormi sur le Parnasse.
 
-    GRANGER.
+    GRANGER. [71]
 Mais j'ai d'autres armes encore qui sont toutes neuves à force d'être vieilles, dont je présume outrepercer votre tendrelette poitrine. C'est l'éloquence du franc Gaulois. Or oyez.
 Et déa Reine de haut parage, Mie de mes pensées, crème, fleur et parangon des Infantes, vous qui chevauchez par illec du fin faîte de cestuy votre magnifique et moult doucereux palefroy, jouxte lequel gésir soûliez en bonne couche ; prenez émoi de ma déconvenue. Las ! Oyez le méchef d'un dolent moribond qui, crevé d'anhan sur un chétif grabat, onques ne sentit au coeur joie. Point ne boutez en sourde oubliance cil à qui piéça Fortune porte guignon. Las ! Hélas ! Réconfortez un pauvret en marisson, à qui il conviendra soi gendarmer contre soi, s'occire, ou se déconfire par quelqu'autre tour de mal engin, se ne vous garmantez de lui donner soûlas ; car de finer ainsin piéça ne luy chaut. Or soyez ma Pucelle aux yeux vairs comme un Faucon, quant à moi je serai votre coint Damoisel, qui, par rémunération d'une si grande merci, se aucune chose avez à besogner de son avoir, à tout son tranchant glaive il redressera vos torts, et défera vos griefs ; il déconfira des Chevaliers félons ; il hachera des Andriaques ; il fera des Chapelis inénarrables, il martellera des Paladins ores à dextre, ores à senestre ; bref tant et si beau joutera, qu'il n'y aura pièce de fiers, orgueilleux, outrecuidés, et démesurés Géants, lesquels en dépit des armes Fées, et du Haubert de fine trempe, il ne pourfende jus les arçons. Quel ébaudissement de voir adonc issir le sang, àgrand randon, du flanc pantois de l'endémèné Sarasin ; et pour festoiement de cas tant beau, se voir léans guerdoné d'un los de plénière Chevalerie.
 
@@ -1005,7 +1005,7 @@ Auriez-vous donc agréable, Mademoiselle, lorsque la nuit au visage de More, aur
     GENEVOTE.
 Oui, venez, mais venez avec une échelle, et montez par ma fenêtre, car mon frère serre tous les jours les clefs de notre maison sous son chevet.
 
-    GRANGER.
+    GRANGER. [72] [73]
 Ô ! Que ne suis-je maintenant Julius César, ou le Pape Grégoire, qui firent passer le Soleil sous leur férule ! Je ne le reculerais, ni ne l'arrêterais en Thieste ou en Josué, mais je le contraindrois de marquer minuit à six heures.
 
 
@@ -1031,7 +1031,7 @@ Va donc avertir Mademoiselle Manon. Tout va bien : La bête donnera dans nos pan
 
 ## SCÈNE V. La Tremblaye, Manon, Corbineli.
 
-    LA TREMBLAYE.
+    LA TREMBLAYE. [74]
 Je m'en vais amasser de mes amis pour m'assister, en cas que son Collège voulut le secourir. Mais une autre difficulté m'embarrasse : c'est que je crains, si je ne suis arrivé assez tôt, qu'il n'entre dans la chambre de ma soeur ; et comme enfin elle est fille, qu'elle n'ait de la peine de se dépêtrer des poursuites de ce Docteur échauffé ; et qu'au contraire, s'il trouve la fenêtre fermée, contre la parole qu'il a reçue d'elle, qu'il ne s'en aille, pensant que ce soit une burle.
 
     CORBINELI.
@@ -1052,7 +1052,7 @@ C'est par là qu'il s'y faut prendre, n'y manquez pas. Adieu.
 
 ## SCÈNE PREMIÈRE. Granger, Paquier, Corbineli.
 
-    GRANGER.
+    GRANGER. [75]
 Tout est endormi chez rious d'un somme de fer ; tout y ronfle jusques aux grillons et aux crapauds. Paquier, avance ton échelle : mais que c'est bien pour moi l'échelle de Jacob, puisqu'elle me va monter au Paradis d'Amour.
 
     PAQUIER.
@@ -1082,7 +1082,7 @@ Il nage des bras dans la nuit pour toucher le mur.
 
 Comment je ne rencontre point de mur ? Notre machine tiendrait-elle bien toute seule ? « Domine », plantez vous-même votre échelle, je n'y oserais plus toucher, car j'aurais peur ma foi de trouver encore une barbe, j'aime mieux pour ce coup demeurer ignorant.
 
-    GRANGER.
+    GRANGER. [76]
 « Vade rétro», mauvaise bête, je l'appliquerai bien moi-même. Je pense que j'y suis, voici la porte ; je la connais aux clous ; sur chacun desquels j'ai composé jadis maintes bonnes épigrammes. « Scande pour essayer si elle est ferme. »
 
     PAQUIER.
@@ -1090,7 +1090,7 @@ Corbineli transpose l'échelle d'un côté et d'autre avec tant d'adresse, que P
 
 Ha ! Misérable que je suis, on vient d'arracher les dents à mon échelle. Miséricorde, mon échelle vient d'enfanter. Qui l'aurait engrossie ! Serait-ce point moi, car j'ai monté dessus ? Mais quoi l'enfant est déjà aussi gros que la mère.
 
-    GRANGER.
+    GRANGER. [77]
 Tais-toi, Paquier, j'ai vu tout à l'heure passer je ne sais quoi de noir. C'est peut-être une de ces Larves au teint blême, dont nous parlions tantôt, qui vient pour m'effrayer.
 
     PAQUIER.
@@ -1118,7 +1118,7 @@ Qui est-tu donc ?
     PAQUIER.
 Chantez un peu pour vous rassurer.
 Granger chante.
-
+ [78]
 Bon ; fort. Faites accroire au Spectre que vous ne le craignez point. « Domine », c'est un Diable Huguenot, car il ne se soucie point de la croix,
 Corbineli fait le signe de la Croix.
 
@@ -1155,7 +1155,7 @@ Qu'augures-tu de cette vision ?
     PAQUIER.
 Que c'est un Diable femelle, puisqu'il a tant de caquet.
 
-    GRANGER.
+    GRANGER. [79]
 En effet, je crois qu'il n'est pas méchant, car j'ai remarqué qu'il ne nous a dit mot, jusques à ce qu'il s'est vu armé d'un corcelet de pierre à l'épreuve de nous.
 
     PAQUIER.
@@ -1164,7 +1164,7 @@ Ma'foi, Monsieur, ne craignez point les Diables jusques à ce qu'ils vous emport
 
 ## SCÈNE II. La Tremblaye, Granger, Paquier, Chasteaufort.
 
-    LA TREMBLAYE.
+    LA TREMBLAYE. [80]
 Aux voleurs ! Aux voleurs ! Vous serez pendus, coquins ! Ce n'est pas d'aujourd'hui que vous vous en mêlez. Peuple, vous n'avez qu'à chanter le « Salve », le patient est sur l'échelle.
 
     PAQUIER.
@@ -1179,16 +1179,16 @@ Seigneur, ayez donc pitié de l'âme de feu mon pauvre Maitre Nicolas Granger. S
     GRANGER.
 Au secours, Monsieur de Chasteaufort, c'est votre ami Granger que La Tremblaye veut poignarder !
 
-    CHASTEAUFORT, PAR SA FENÊTRE.
+    CHASTEAUFORT, PAR SA FENÊTRE. [81]
 Qui sont les canailles qui font du bruit là-bas ? Si je descends, je lâcherai la bride aux Parques.
 
-    LA TREMBLAYE.
+    LA TREMBLAYE. [82]
 Soldats ! Qu'on leur donne les osselets.
 
-    GRANGER.
+    GRANGER. [83]
 Ah ! Monsieur de Chasteau-très-fort, envoyez, de l'Arsenal de votre puissance, la foudre craquetante sur la témérité criminelle de ces chétifs myrmidons !
 
-    CHASTEAUFORT, DESCENDU SUR LE THÉÀTRE.
+    CHASTEAUFORT, DESCENDU SUR LE THÉÀTRE. [84]
 Vous voilà donc, marauds. Hé ! Ne savez-vous pas qu'à ces heures muettes, j'ordonne à toutes choses de se taire, hormis à ma Renommée ? Ne savez-vous pas que mon épée est faite d'une branche des Ciseaux d'Atropos ! Ne savez-vous pas que si j'entre, c'est par la brèche ; si je sors, c'est du combat ; si je monte, c'est dans un trône ; si je descends, c'est sur le pré ; si je couche, c'est un homme par terre ; si j'avance, ce sont mes conquêtes ; si je recule, c'est pour mieux sauter ; si je joue, c'est au Roi dépouillé ; si je gagne, c'est une bataille ; si je perds, ce sont mes ennemis ; si j'écris, c'est un cartel ; si je lis, c'est un arrêt de mort. Enfin si je parle, c'est par la bouche d'un canon ? Donc, pendard, tu savais ces choses et tu n'as pas redouté mon tonnerre ? Choisis toi-même le genre de ton supplice ; mais dépêche-toi de parler car ton heure est venue.
 
     LA TREMBLAYE.
@@ -1203,7 +1203,7 @@ Mon rival ! Jupiter ne l'oserait être avec impunité.
     GRANGER.
 Cet homme ose donc plus que Jupiter ?
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [85] [86]
 Ce grimaud, ce fat, ce farfadet ! Docteur, vous avez grand tort. Je l'allais faire mourir avec douceur ; maintenant que ma bile est échauffée, sans vous mettre au hasard d'être accablé du Ciel qui tombera de peur, je ne le saurois punir. N'avez-vous point su cet estramaçon dont les siècles ont tant parlé ! Certain fat avait marché dans mon ombre ; mon tempérament s'en alluma ; je laissai tomber celui de mes revers, qu'on nomme l'Archi-épouvantable, avec un tel fracas que le vent seul de ma Tueuse ayant étouffé mon ennemi, le coup alla foudroyer les omoplates de la Nature. L'Univers, de frayeur, de carré qu'il était, s'en ramassa tout en une boule ; les Cieux en virent plus de cent mille étoiles ; la Terre en demeura immobile ; l'Air en perdit le vent ; les nues en pleurèrent; Iris en prit l'écharpe ; le Soleil en courut comme un fou ; la Lune en dressa les cornes ; la Canicule en enragea ; le silence en mordit ses doigts ; la Sicile en trembla ; le Vésuve en jeta feu et flamme ; les fleuves en gardèrent le lit ; la Nuit en porta le deuil ; le jour en déchira le voile de la Nuit ; les Fous en perdirent la raison ; les Chimistes en gagnèrent la pierre ; les épées en mirent leur pucelage à l'abandon ; l'or en eut la jaunisse ; la crotte en sécha sur le pied ; les peignes en grincèrent les dents; le tonnerre en gronda ; l'hiver en eut le frisson ; l'été en sua ; l'automne en avorta ; le vin s'en aigrit; les buissons s'en piquèrent ; l'écarlate en rougit ; les rois en eurent échec et mat ; les cordeliers en perdirent leur latin ; les noms Grecs en vinrent au duel, et tous les philosophes modernes aux nouvelles de ce vacarme, redoutant un second chaos se réfugièrent sous l'aile de « verbi gratia ».
 
     LA TREMBLAYE.
@@ -1258,10 +1258,10 @@ Entrez toujours, je vous suis. Je demeure ici un moment pour donner ordre que no
 
 ## SCÈNE IV. Granger, Paquier, Corbineli.
 
-    GRANGER.
+    GRANGER. [87] [88]
 Paquier, va-t-en « subito » m'accerser les Confrères d'Orphée. Mais d'abord que tu leur auras parlé, reviens et amène-les ; car c'est un lieu où je te défends de prendre racine ; encore que la viande aérée de ces Messieurs, aussi bien que le chef de Méduse, ait droit de te pétrifier ou t'immobiliser par la même force dont usa le violon Thracien pour tenir les bêtes pendues à son harmonie. Pour toi, Corbineli, je te pardonne ta fourbe en faveur de ma conjonction matrimoniale.
 
-    CORBINELI.
+    CORBINELI. [89]
 Monsieur, c'est aujourd'hui la fête de Sainte-Cécile. Si Paquier ne trouve leurs maisons aussi vides que leurs instruments, je veux devenir As de pique. Et puis, Monsieur, le pauvre garçon a bien des affaires, il doit aller en témoignage.
 
     GRANGER.
@@ -1273,16 +1273,16 @@ Un homme de son pays fut hier déchargé de ce fardeau, qui n'est jamais plus l�
     GRANGER.
 Hé bien, Paquier, que diras-tu, par ta foi, quand tu seras devant le Juge ?
 
-    PAQUIER.
+    PAQUIER. [90]
 Monsieur, dirai-je en levant la main, j'entendis, comme je dormais bien fort, du monde dans notre rue, criant tout bas tant qu'il pouvait « Aux voleurs ! » Dame, je me levai sans me grouiller, je mis mon chapeau dans ma tête, j'avalai mon châssis, je jetai ma tête dans le rue, et comme je vis que je ne vis rien, je m'en retournai coucher tout droit. Mais « Domine », au lieu de m'envoyer quérir des Baladins, il serait bien plus méritoire et plus agréable à Dieu de me faire habiller. Quelle honte sera-ce qu'on me voie aux noces fait comme un gueux, sachant que je suis à vous ? « lnduo veste petrum die aut vestem induo Petro » ; je m'appelle Pierre, monsieur.
 
     GRANGER.
 Tu peux donc bien te résoudre à rogner un morceau de l'Arc-en-ciel, car je ne sache point d'autre étoffe payée au marchand pour te vêtir. La Lune six fois n'a pas rempli son croissant depuis la maudite journée que je te caparaçonnai de neuf.
 
-    PAQUIER.
+    PAQUIER. [91]
 Monsieur « Saepe quidem docti repetunt bene praeposituram », c'est-à-dire que toute la Nature vous prêche, avec Jean Despautères, de m'armer tout de nouveau d'un bon lange de bure.
 
-    GRANGER.
+    GRANGER. [92]
 Va, console-toi, la pitié me surmonte : je te ferai bientôt habiller comme un Pape. Premièrement, je te donnerai un chapeau de fleurs, une laisse de chiens courants, un panache de cocu, un collet de mouton, un pourpoint de Tripe-madame, un haut-de-chausse de Ras-en-paille, un manteau de Dévotion, des bâts d'âne, des chausses d'Hippocras, des bottes d'escrime, des aiguillons de la chair ; bref une chemise de Chartre qui te durera longtemps, car je suis assuré que tu la doubleras d'un buffle. Cependant Corbineli, tu vois un Pirate d'Amour ; c'est sur cette mer orageuse et fameuse en naufrages, que j'ai besoin pour guide du phare de tes inventions. Certaine voix secrète me menace au milieu de mes joies, d'un brisant, d'un banc, ou d'un écueil. Penses-tu que ma maîtresse revoie mon fils, sans rallumer des flammes qui ne sont pas encore éteintes ? Ah ! C'est une plaie nouvellement fermée qu'on ne peut toucher sans la rouvrir. Toi seul peut démêler les sinueux détours d'un si léthifère dédale ; toi seul peut devenir l'Argus qui me conservera cette Io. Fais donc, je te supplie, toi qui es l'astre et la constellation de mes félicités, que mon fils ne soit plus rétrograde à ma volonté, mais si tu veux que l'embrion de tes espérances, devenant le plastron de mes libéralités, fasse métamorphoser ta bourse en un microcosme de richesses, et ta poche en corne d'abondance ; fais, dis-je, que mon coquin de fils prenne un verre au collet de si bonne sorte, qu'ils en tombent tous deux sur le cul. Je présage un sinistre succès à mes entreprises, s'il assiste à cette fête : C'est pourquoi enfonce-le dans un cabaret, où le jus des tonneaux le puisse entretenir jusques à demain matin. Voici de l'or, voici de l'argent ; regarde si, par un prodige surnaturel, je ne fais pas bien dans ma poche conjonction du Soleil et de la Lune, sans éclipse. Prends, ris, bois, mange, et surtout fais-le trinquer jusques à l'ourlet ! Qu'il en crève, ce ne sera que du vin perdu.
 
 
@@ -1309,7 +1309,7 @@ Mais vite, allez promptement étudier vos postures ; nous amuserons cependant, P
 
 ## SCÈNE VI. Granger, Corbineli, Paquier.
 
-    CORBINELI.
+    CORBINELI. [93]
 Ô Monsieur, je ne sais ce que vous avez fait à Dieu, mais il vous aime bien. Votre Fils sort de « La Croix-Blanche » avec deux ou trois de vos Pensionnaires qui le traitent. Il n'aura pas ajouté quatre verres de vin à ceux qu'il a pris, que nous lui verrons la cervelle tournée en Zodiaque.
 
     PAQUIER.
@@ -1324,8 +1324,8 @@ Je vous venais quérir, on n'attend plus que vous.
     GRANGER.
 J'entrais au moment que vous êtes sorti. Mais ma foi, mon gendre, si nos conviés sont infectés du venin de la tarentule, ils chercheront pour aujourd'hui d'autres médecins que les sectateurs d'Amphion ; et le goulu Saturne eut bien pu dévorer Jupiter, si les Curetés eussent entonné leurs charivaris aussi loin d'Ida, que ces Luthériens égratigneront leurs chanterelles « Procul » de nos pénates.
 Paquier et Corbineli parlent plus bas.
-
-Mais au lieu de cet ébat, j'ai pourpensé d'exhiber un Intermède de Muses fort jovial. C'est l'effort le plus argut qu'on se puisse fantasier : vous verrez mes grimauds scander les échines du Parnasse têtu, avec des pieds de vers ; tantôt à coups d' « Ergo », déchirer le visage aux erreurs populaires ; « Nunc », à Pégase faire litière de fleurs de rhétorique ; « Hinc », d'un fendant tiré par l'hexamètre sur les jarrets du pentamètre, le rendre boiteux pour sa vie ; « Illinc autem », un de mes Humanistes, avec un boulet d'Etopée, passer au travers des hypocondres de l'ignorance ; celui-ci de la carne d'une période, fendre au discours démembré le crâne jusques aux dents ; un autre « denique », à force de pointes bien aiguës, piquer les épigrammes au cul.
+ [94] [95]
+Mais au lieu de cet ébat, j'ai pourpensé d'exhiber un Intermède de Muses fort jovial. C'est l'effort le plus argut qu'on se puisse fantasier : vous verrez mes grimauds scander les échines du Parnasse têtu, avec des pieds de vers ; tantôt à coups d' « Ergo », déchirer le visage aux erreurs populaires ; « Nunc », à Pégase faire litière de fleurs de rhétorique ; « Hinc », d'un fendant tiré par l'hexamètre sur les jarrets du pentamètre, le rendre boiteux pour sa vie ; « Illinc autem », un de mes Humanistes, avec un boulet d'Etopée, passer au travers des hypocondres de l'ignorance ; celui-ci de la carne d'une période, fendre au discours démembré le crâne jusques aux dents ; un autre « denique », à force de pointes bien aiguës, piquer les épigrammes au cul. [96]
 
     LA TREMBLAYE.
 Je vous conseille de prendre là-dessus le conseil de Corbineli ; il est Italien ; ceux de sa nation jouent la Comédie en naissant ; et s'il est né jumeau, je ne voudrais pas gager qu'il n'ait farce dans le ventre de sa mère.
@@ -1333,7 +1333,7 @@ Je vous conseille de prendre là-dessus le conseil de Corbineli ; il est Italien
     CORBINELI.
 Ou plaide vitement, ou paie-moi ce que tu me dois.
 
-    PAQUIER.
+    PAQUIER. [97]
 Le temps n'est point préfix auquel je dois plaider.
 
     GRANGER.
@@ -1349,7 +1349,7 @@ Et c'est par là que je te vas convaincre, car n'est-il pas vrai, Corbineli, que
 Je déclare que Paquier n'est aucunement tenu de satisfaire à la dette parce que j'ordonne que Corbineli s'en fasse payer ; et que ledit Corbineli ne peut rien demander à Paquier, attendu que Paquier a perdu sa cause contre Corbineli. Ho, ho, j'aperçois mon fils ivre.
 
     CORBINELI.
-Hélas, Monsieur, il a tant bu, que je pense qu'il ferait du vin à deux sols, en soufflant dans une aiguière d'eau.
+Hélas, Monsieur, il a tant bu, que je pense qu'il ferait du vin à deux sols, en soufflant dans une aiguière d'eau. [98]
 
 
 ## SCÈNE VIII. Granger le jeune, Granger le père, La Tremblaye, Corbineli, Paquier.
@@ -1358,9 +1358,9 @@ Hélas, Monsieur, il a tant bu, que je pense qu'il ferait du vin à deux sols, e
 L'Hôtesse, je ne vous dois rien, je vous ai tout rendu. Miracle, miracle, je vois sans astrolabe des étoiles en plein jour. Copernic a dit vrai, ce n'est pas le Ciel, en effet, c'est la Terre qui tourne. Ah ! Que n'étais-je grue depuis la tête jusques aux pieds, j'aurais goûté ce nectar le long temps qu'il aurait été à baigner le long tuyau de cette gorge. Corbineli, dis-moi, suis-je bien enluminé à ton avis ? Si mon visage était un calendrier, mon nez rouge y marquerait bien la double fête que je viens de chômer. Ça, ça, courage, mon Bréviaire est à demi dit ; j'ai commencé à « Gaudeamus », et j'en suis à « Laetatus sum ». Garçon, encore chopine, et puis plus : blanc ou clairet... Il n'importe, mais qu'ils demeurent en paix, car à la première querelle, je les mets hors de chez moi. C'est pour s'être enivrés de blanc et de clairet que la Rose et le Lis sont Rois des autres Fleurs. Vite donc, haut le coude ; dans la soif où je suis, je te boirais, toi, ton père, et tes aïeuls s'ils étaient dans mon verre. Buvez toujours, compagnons, buvez toujours ; vous ne sauriez rien perdre, on donne à « la Croix-Blanche » douze rubis pour la valeur d'une pinte de vin. Ô ma foi, voilà bien bu, si tu manges de même, il n'est pas besoin de vendredis à dégraisser ton pourpoint. En effet, voyez un peu comme on devient riche à force de boire : je pensais n'avoir qu'une maison tantôt, j'en vois deux maintenant. C'est la vertu du vin qui fait tous ces prodiges. Sans mentir, Démocrite était bien fol de croire que la Vérité fût dans un puits. N'avait-il pas oui dire « In vino veritas » ? Mais lui, qui riait toujours, il pouvait bien ne l'avoir dit qu'en riant. Nature en sera bernée. Elle, qui nous a donné à chacun deux bras, deux pieds, deux mains, deux oreilles, deux yeux, deux naseaux, deux rognons et deux fesses, ne nous a donné qu'une bouche ? Encore n'est-elle pas tout à fait destinée à boire ? Nous en mangeons, nous en parlons, nous en baisons, nous en crachons, et nous en respirons. Ah ! Qu'heureuse entre les Dieux est la Renommée d'avoir cent bouches, mais qu'elle est infortunée de ne les avoir pleines que de vent ; c'est pour s'en bien servir, que la mienne ne dit mot, car sympatisant à mon humeur, elle boit toujours sans relâche, et mange tout jusqu'à ses paroles. La Parque fera bien de me laisser longtemps sur la Terre, car si elle me mettait dedans, j'y boirais tout le vin avant qu'il fût en grappe. Point d'eau, point d'eau, si ce n'est au moulin ; non plus que de ces vendanges qui se font à coups de bâton. La seule pensée m'en fait serrer les épaules : fi de la Pomme, et des Pommiers !
 
     GRANGER.
-Une pomme, en effet, ligua les Dieux l'un contre l'autre ; une pomme ravit la femme à Ménélas ; une pomme d'un grand Empire ne fit qu'un peu de cendres ; une pomme fit du Ciel un Hôpital d'insensés ; une pomme fit à Persée égorger trois pauvres filles ; une pomme empêcha Proserpine de sortir des Enfers ; une pomme mit en feu la maison de Théodose ; une pomme donna la courte haleine au genre humain : Enfin Dieu n'envoya le Déluge que pour ôter de dessus la Terre la mémoire des pommes.
+Une pomme, en effet, ligua les Dieux l'un contre l'autre ; une pomme ravit la femme à Ménélas ; une pomme d'un grand Empire ne fit qu'un peu de cendres ; une pomme fit du Ciel un Hôpital d'insensés ; une pomme fit à Persée égorger trois pauvres filles ; une pomme empêcha Proserpine de sortir des Enfers ; une pomme mit en feu la maison de Théodose ; une pomme donna la courte haleine au genre humain : Enfin Dieu n'envoya le Déluge que pour ôter de dessus la Terre la mémoire des pommes. [99]
 
-    GRANGER LE JEUNE.
+    GRANGER LE JEUNE. [100] [101]
 Que vient faire ici ce Neptune avec sa fourche ? Contente-toi d'avoir par ton eau rouge attrapé Pharaon. Le bon nigaud surpris par la couleur, te prenant pour du vin, te but et se noya. Ça, Compère au trident, c'est trop faire des tiennes ; tu boiras en eau douce, aussi bien que ton recors de Triton que voilà.
 
     PAQUIER.
@@ -1401,7 +1401,7 @@ Donc mes yeux, donc mes oreilles....
     PAQUIER.
 Vous ont trompé.
 
-    GRANGER.
+    GRANGER. [102]
 Conte-moi donc la série et la concaténation des projets qu'ils machinent.
 
     PAQUIER.
@@ -1410,20 +1410,20 @@ Que diantre, que vous avez la tête dure ! Je vous ai dit que votre fils a contr
     GRANGER.
 Mais « cui bono » toute cette machine de fourbes ?
 
-    PAQUIER.
+    PAQUIER. [103]
 « Cui bono » ? Je m'en vais vous l'apprendre. C'est qu'étant ainsi trépassé, Mademoiselle Genevote, laquelle a pris langue des conjurés, doit feindre qu'elle avait promis au défunt de l'épouser vif ou mort, et qu'à moins de s'être acquittée de sa parole, elle n'ose vous donner la main. Corbineli là-dessus vous conseillera de lui faire épouser le cadavre (au moins de faire toutes les cérémonies qu'on observe dans l'action des épousailles) afin qu'étant ainsi libre de sa promesse, elle vous la puisse engager. Supposé donc, comme ils s'y attendent bien, quand vous leur aurez fait prêter la foi conjugale, votre fils doit ressusciter, et vous remercier du présent que vous lui aurez fait.
 
-    GRANGER.
+    GRANGER. [104]
 Donc, la mine est éventée, et j'en suis obligé à Paquier, mon factotum ? Je ne te donnerai point une Couronne Civique à la façon des Romains, quoique tu aies sauvé la vie à un bourgeois, honorable homme, Maître Mathieu Granger, ayant pignon sur rue ; mais je te donne un impôt sur la pitance de mes Disciples. Voici l'heure à laquelle ces pêcheurs s'empêtreront dans leurs propres filets. Justement, j'aperçois le fourbe qui vient. Considère à ton aise la tempête du Port.
 
 
 ## SCÈNE II. Corbineli, Granger, Pasquier.
 
-    CORBINELI.
+    CORBINELI. [105]
 Serai-je toujours Ambassadeur de mauvaises nouvelles ? Votre fils est mort. Au sortir d'ici, étant comme vous savez un peu plus gai que de raison, il a choqué d'une esse un cavalier qui passait. L'un et l'autre se sont offensés. Ils ont dégainé, et presque en même temps votre fils est tombé mort, traversé de deux grands coups d'épée. J'ai fait porter son corps...
 
-    GRANGER.
-Quoi ! La Fortune réservait au déclin de mes ans le spectacle d'un revers si lugubre ! Misérable individu, je te plains, non point pour t'être acquitté de, bonne heure, de la dette où nous nous obligeons tous en naissant : je te plains, ô trois et quatre fois malheureux ! De ce que tu as occumbé d'une mort où l'on ne peut rien dire qui n'ait été déjà dit. Car de bon coeur je voudrais avoir donné un talent, et que tu eusses été mangé des mouches à ces vendanges dernières ; j'aurais composé là-dessus une épitaphe, la plus acute qu'aient jamais vanté les siècles Pristins.
+    GRANGER. [106] [107]
+Quoi ! La Fortune réservait au déclin de mes ans le spectacle d'un revers si lugubre ! Misérable individu, je te plains, non point pour t'être acquitté de, bonne heure, de la dette où nous nous obligeons tous en naissant : je te plains, ô trois et quatre fois malheureux ! De ce que tu as occumbé d'une mort où l'on ne peut rien dire qui n'ait été déjà dit. Car de bon coeur je voudrais avoir donné un talent, et que tu eusses été mangé des mouches à ces vendanges dernières ; j'aurais composé là-dessus une épitaphe, la plus acute qu'aient jamais vanté les siècles Pristins. [108]
 
     PAQUIER.
 A-t-il eu le temps de se reconnaître ? Est-il bien mort ?
@@ -1513,7 +1513,7 @@ En effet, votre déclamation n'eut pas été bonne, parce qu'elle est trop bonne
 La corde a manqué, Corbineli.
 
     CORBINELI.
-Mais j'avais plus d'une flèche, mais avouez avec moi qu'on devrait peindre Amour plutôt en habit de Berger que de Roi, puisque ceux qu'il protège sont moins hommes qu'ils ne sont bêtes ; considérez comme vos yeux ont donné si avant dans la visière de notre bon Seigneur qu'ils ont blessé jusques à sa cervelle. Je m'en vais l'engager dans un Labyrinthe où de plus grands Docteurs que lui demeureraient à « quia ».
+Mais j'avais plus d'une flèche, mais avouez avec moi qu'on devrait peindre Amour plutôt en habit de Berger que de Roi, puisque ceux qu'il protège sont moins hommes qu'ils ne sont bêtes ; considérez comme vos yeux ont donné si avant dans la visière de notre bon Seigneur qu'ils ont blessé jusques à sa cervelle. Je m'en vais l'engager dans un Labyrinthe où de plus grands Docteurs que lui demeureraient à « quia ». [109]
 
 
 ## SCÈNE V. Granger, Paquier, Genevote, Corbineli.
@@ -1524,20 +1524,20 @@ Au feu ! Au feu !
     GENEVOTE.
 Où est-ce ? Où est-ce?
 
-    GRANGER.
+    GRANGER. [110]
 Dans la plus haute région de l'air, selon l'opinion des Péripatéticiens. Hé bien, ne suis-je pas habile à la riposte ? N'ai-je pas guéri le mal aussitôt que je l'ai eu fait ? Ma langue est une vipère qui porte le venin et la thériaque tout ensemble, c'est la pique d'Achille qui seule peut guérir les blessures qu'elle a faites ; et, bien loin de ressembler aux bourreaux de la Faculté de Médecine, qui d'une égratignure font une grande plaie, d'une grande plaie je fais moins qu'une égratignure.
 
     CORBINELI.
 Nous perdons autant de temps que si nous ne devions pas aujourd'hui faire la Comédie. Je m'en vais instruire ces gens-ci de ce qu'ils auront à dire : cependant gardez bien la porte de chez vous, je te donnerais bien des préceptes, Paquier, mais tu n'aurais pas le temps d'apprendre tant de choses par coeur. Je prendrai soin, me tenant derrière toi, de te souffler ce que tu auras à dire. Vous, Monsieur, vous paroîtrez durant toute la pièce, et quoi que d'abord votre personnage semble sérieux, il n'y en a pas un si bouffon.
 
-    GRANGER.
+    GRANGER. [111]
 Qu'est-ce ci ? Vous m'engagez à soutenir des rôles dans vos batelages, et vous ne m'en racontez pas seulement le sujet !
 
-    CORBINELI.
+    CORBINELI. [112]
 Je vous en cache la conduite parce que si je vous l'expliquais à cette heure, vous auriez bien le plaisir maintenant de voir un beau démêlement, mais non pas celui d'être surpris. En vérité, je vous jure que lorsque vous verrez tantôt la péripétie d'un intrigue si bien démêlé, vous confesserez vous-même que nous aurions été des idiots, si nous vous l'avions découvert. Je veux toutefois vous en ébaucher un raccourci. Doncques ce que je désire vous représenter est une véritable histoire, et vous le connaîtrez quand la scène se fermera. Nous la posons à Constantinople, quoi qu'elle se passe autre part. Vous verrez un homme du Tiers-Etat, riche de deux enfants, et de force quarts d'écus : Le fils restait à pourvoir ; il s'affectionne d'une Damoiselle de qualité fort proche parente de son beau-frère ; il aime, il est aimé, mais son père s'oppose à l'achèvement mutuel de leurs desseins. Il entre en désespoir, sa Maîtresse de même. Enfin les voilà prêts, en se tuant, de clore cette pièce par une catastrophe. Mais ce Père, dont le naturel est bon, n'a pas la cruauté de souffrir à ses yeux une si tragique aventure ; il prête son consentement aux volontés du Ciel et fait les cérémonies du mariage, dont l'union secrète de ces deux coeurs avait déjà commencé le Sacrement.
 
-    GRANGER.
-Tu viens de rasseoir mon âme dans la chaire pacifique d'où l'avaient culbutée mille appréhensions cornues. Va paisiblement conférer avec tes acteurs ; je te déclare plénipotentiaire de ce traité comique. Toi, Paquier, je te fais le portier effroyable de l'introïte de mes Lares. Aie cure de les propugner de l'introïte du fanfaron, du bourgeois et du page, qui, sachant qu'on fait ici des jeux, ne manqueront pas d'y transporter leurs ignares personnes. Je te mets là des monstres en tête qu'il te faut combattre diversement. Tu verras diverses sortes de visages, Les uns t'aborderont froidement, et, si tu les refuses, aussitôt glaive en l'air, et forceront ta porte avec brutalité. Le moins de résistance que tu feras, c'est le meilleur. Il t'en conviendra voir d'autres, la barbe faite en garde de poignard, aux moustaches rubantées, au crin poudré, au manteau galonné, qui, tout échauffés, se présenteront à toi. Si tu t'opposes à leur torrent, il te traiteront de fat, se formaliseront que tu ne les connois pas. Dès qu'ils t'auront arraisonné de la sorte, juge qu'ils ont trop bonne mine pour être bien méchants ; avale toutes leurs injures. Mais si la main entreprend d'officier pour la langue, souviens-toi de la règle « Mobile pro Fixo », c'est un baume aussi souverain contre les Rodomonts que l'eau bénite contre les Diables. D'autres, pour s'introduire, demanderont à parler à quelque Acteur pour affaire d'importance et qui ne se peut remettre ; d'autres auront quelques hardes à leur porter. À tous ceux-là « Nescio vos ». D'autres, comme les Pages, environnés chacun d'un clerc, d'un écolier, d'un courtaut et d'une putain, viendront pour être admis : Reçois-les. Ce n'est pas que cette race de Pygmées puisse de soi rien effectuer de terrible ; mais elle irait conglober un torrent de canailles armées qui déborderait sur toi, comme un essaim de guêpes sur une poire molle « Vale, mi care ».
+    GRANGER. [113] [114]
+Tu viens de rasseoir mon âme dans la chaire pacifique d'où l'avaient culbutée mille appréhensions cornues. Va paisiblement conférer avec tes acteurs ; je te déclare plénipotentiaire de ce traité comique. Toi, Paquier, je te fais le portier effroyable de l'introïte de mes Lares. Aie cure de les propugner de l'introïte du fanfaron, du bourgeois et du page, qui, sachant qu'on fait ici des jeux, ne manqueront pas d'y transporter leurs ignares personnes. Je te mets là des monstres en tête qu'il te faut combattre diversement. Tu verras diverses sortes de visages, Les uns t'aborderont froidement, et, si tu les refuses, aussitôt glaive en l'air, et forceront ta porte avec brutalité. Le moins de résistance que tu feras, c'est le meilleur. Il t'en conviendra voir d'autres, la barbe faite en garde de poignard, aux moustaches rubantées, au crin poudré, au manteau galonné, qui, tout échauffés, se présenteront à toi. Si tu t'opposes à leur torrent, il te traiteront de fat, se formaliseront que tu ne les connois pas. Dès qu'ils t'auront arraisonné de la sorte, juge qu'ils ont trop bonne mine pour être bien méchants ; avale toutes leurs injures. Mais si la main entreprend d'officier pour la langue, souviens-toi de la règle « Mobile pro Fixo », c'est un baume aussi souverain contre les Rodomonts que l'eau bénite contre les Diables. D'autres, pour s'introduire, demanderont à parler à quelque Acteur pour affaire d'importance et qui ne se peut remettre ; d'autres auront quelques hardes à leur porter. À tous ceux-là « Nescio vos ». D'autres, comme les Pages, environnés chacun d'un clerc, d'un écolier, d'un courtaut et d'une putain, viendront pour être admis : Reçois-les. Ce n'est pas que cette race de Pygmées puisse de soi rien effectuer de terrible ; mais elle irait conglober un torrent de canailles armées qui déborderait sur toi, comme un essaim de guêpes sur une poire molle « Vale, mi care ». [115]
 
 
 ## SCÈNE VI.
@@ -1551,16 +1551,16 @@ Tu viens de rasseoir mon âme dans la chaire pacifique d'où l'avaient culbutée
     PAQUIER.
 Voici mon coup d'essai. Courage, j'en vais faire un chef-d'oeuvre.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [116] [117]
 Bourgeois, ho ! Hola, ho ! Bourgeois. Vous autres malheureux, ne représentez-vous pas aujourd'hui céans quelques coyonneries et jolivetés ?
 
     PAQUIER.
 « Salva pace », Monsieur, mon Maître n'appelle pas cela comme cela.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [118]
 Quelque momerie, quelque fadaise ? Vite, vite, ouvre-moi.
 
-    PAQUIER.
+    PAQUIER. [119]
 Je pense qu'il ne vous faut pas ouvrir, car vous avez la barbe faite en garde de poignard ; vous ne m'avez pas abordé froidement ; vous n'avez pas dégainé, ni vous n'êtes pas page.
 
     CHASTEAUFORT.
@@ -1575,19 +1575,19 @@ Morbleu ! Mon camarade, de grâce, laisse-moi passer.
     PAQUIER.
 Hé ! Vous faites encore pis ; vraiment, il ne faut pas prier.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [120]
 Savez-vous ce qu'il y a, petit godelureau ?... Je veux être fricassé comme Judas, si je me soucie ni de vous, ni de votre Collège ; car, après tout, j'ai encore une centaine de maisons, châteaux s'entend, dont la moindre... Mais je ne suis point discoureur. Ouvre-moi vite, si tu ne me veux obliger de croire qu'il n'entre céans que des coquins, puisqu'on m'en refuse l'abord. Cap-de-Biou, et que penses-tu que je sois ? Un nigaud ? Mardi, j'entends le jargon et le galimatias. Il est vrai que j'ai sur moi une mauvaise cape, mais, en récompense, je porte à mon côté une bonne tueuse, qui fera venir sur le pré le plus résolu de la troupe.
 
     PAQUIER.
 Vous raisonnez là tout comme ceux qui ne doivent point entrer.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [121]
 De grâce, pauvre homme, que j'aille du moins dire à ton Maître que je suis ici, et qu'il me rende un mien goujat qui s'est enfui sans congé.
 
     PAQUIER.
 « Il en viendra d'autres qui désireront parler à quelque Acteur pour affaire d'importance et qui ne se peut remettre. » Je ne sais plus comme il faut dire à ceux-là. Ha ! Monsieur, à propos, vous ne devez pas entrer.
 
-    CHASTEAUFORT.
+    CHASTEAUFORT. [122]
 Ventre ! Je vous dis encore que je ne suis ici que par promenade. Penses-tu donc, veillaque, qu'un gentilhomme de ma qualité aille loger quelque part que son bagage ne passe devant ?
 
     PAQUIER.
@@ -1602,7 +1602,7 @@ Ventre ! Je vous dis encore que je ne suis ici que par promenade. Penses-tu donc
     CHASTEAUFORT.
 J'aurais déjà fait un crible du ventre de ce coquin et jeté sa carcasse aux corbeaux, mais j'ai la crainte de faillir contre les règles de la Comédie, si j'ensanglantais la scène.
 
-    GAREAU.
+    GAREAU. [123]
 Vertigué, qu'ous êtes considérant, ous avez mangé de la soupe à neuf heures.
 
     CHASTEAUFORT.
@@ -1620,7 +1620,7 @@ Quel climat sont allés habiter nos Rosciens ? L'Antipode ou notre Zénith ? Je 
     GAREAU.
 Parguene, je sis venu nonobstant pour vous défrincher ma sussion encore une petite escousse. Excusez l'importunance-da ; car c'est la mainagère de mon Onque qui ne feset que huyer environ moi que je venis. Que velez-vous que je vous dise ? Ol feset la guieblesse. « Hé ! vramant, » ce feset-elle à part soi, Monsieur Granger, pisqu'il set tout, c'est à ly à savoir ça. Va-t-en, va, Jean, te dorra un consille là-dessus. » Dame, j'y sis venu.
 
-    GRANGER.
+    GRANGER. [124]
 Ô ! Mon cher ami, par Apollon claire-face qui communique sa lumière aux choses les plus obscures, ne nous veuille rejeter dedans le creux manoir de cette spélonque généalogique.
 
     GAREAU.
@@ -1658,7 +1658,7 @@ Veux-tu donc me diffamer « à capite ad calcem »?
     GAREAU.
 Bonnefy, vous le prendrais. Je sais bien, comme dit l'autre, que je ne sis pas digne d'être capabe ; mais stampandant oui n'y a rian qui ressembe si bien à eun chat qu'eune chate. Bonnefy, vous le prendrais da, car on me huiret ; et pis, vous en garderiais de la rancoeur encontre moi.
 
-    GRANGER.
+    GRANGER. [125]
 Ô vénérable confrère de Pan, des Faunes, des Sylvains, des Satyres et des Dryades, cesse enfin par un excès de bonne volonté, de diffamer mes ornements, et je te permets, par rémunération, de rester spectateur d'une invention théâtrale, la plus hilarieuse du monde.
 
     CHASTEAUFORT.
@@ -1685,7 +1685,7 @@ Ils entrent
 
 
 
-## SCÈNE X. Corbineli, Granger, Chasteaufort, Paquier, Gareau, La Tremblaye, Granger le jeuene, Manon, Genevote. [8]
+## SCÈNE X. Corbineli, Granger, Chasteaufort, Paquier, Gareau, La Tremblaye, Granger le jeuene, Manon, Genevote. [126]
 
     CORBINELI, À GRANGER
 Toutes choses sont prêtes. Faites seulement apporter un siège, et vous y colloquez car vous avez à paraître pendant toute la pièce. Il n'est pas besoin que vous sortiez d'ici, mais souvenez-vous bien de parler quand je vous soufflerai.
@@ -1693,13 +1693,13 @@ Toutes choses sont prêtes. Faites seulement apporter un siège, et vous y collo
     PAQUIER, À CHASTEAUFORT
 Pour vous, ô seigneur de vaste étendue, plongez-vous dans celle-ci ; mais gardez d'ébouler sur la compagnie, car nos reins ne sont pas à l'épreuve des Pierres, des Montagnes, des Tours, des Rochers, des Buttes et des Châteaux.
 
-    GRANGER.
+    GRANGER. [127]
 Ça donc que chacun s'habille. Hé quoi ! Je ne vois point de préparatifs ? Où sont donc les masques des Satyres ? Les chapelets et les barbes d'Hermites ? Les trousses des Cupidons ? Les flambeaux poiraisins, des Furies ? La filasse de Cloton ? Je ne vois rien de tout cela.
 
     GENEVOTE.
 Notre action n'a pas besoin de toutes ces simagrées. Comme ce n'est pas une fiction, nous n'y mêlons rien de feint ; nous ne changeons point d'habit. Cette place nous servira de Théâtre ; et vous verrez toutefois que la Comédie n'en sera pas moins divertissante.
 
-    GRANGER.
+    GRANGER. [128]
 Je conduis la ficelle de mes désirs au niveau de votre volonté. Mais déjà le feu des gueux fait place à nos chandelles. Ça, qui de vous le premier estropiera le silence ?
 Commencement de la Pièce.
 
@@ -1713,10 +1713,10 @@ Il est si bien perdu, qu'il ne souhaite pas de se retrouver.
     GENEVOTE.
 Je n'ai point encore su le lieu ni le temps où commença votre passion.
 
-    GRANGER LE JEUNE.
+    GRANGER LE JEUNE. [129]
 Hélas ! Ce fut aux Carmes, un jour que vous étiez au sermon...
 
-    GRANGER LE PÈRE, EN INTERROMPANT.
+    GRANGER LE PÈRE, EN INTERROMPANT. [130]
 Soleil, mon Soleil, qui tous les matins faites rougir de honte la céleste lanterne, ce fut au même lieu que vous donnâtes échec et mat à ma pauvre liberté. Vos yeux, toutefois, ne m'égorgèrent pas du premier coup de couteau, mais cela provint de ce que je ne sentais que de loin l'influence porte-trait de votre rayonnant visage, car ma rechignante destinée m'avait colloqué superficiellement à l'ourlet de la sphère de votre activité.
 
     CORBINELI.
@@ -1725,7 +1725,7 @@ Je pense, ma foi, que vous êtes fol de les interrompre : ne voyez-vous pas bien
     GRANGER LE JEUNE.
 Toutes les espèces de votre beauté vinrent en gros assiéger ma raison ; mais il ne me fut pas possible de haïr mes ennemis, après que je les eus considérés.
 
-    GRANGER LE PÈRE, EN INTERROMPANT.
+    GRANGER LE PÈRE, EN INTERROMPANT. [131]
 Allons, ma Nimphelette, allons, il est vergogneux aux filles pudibondes de coloquiser « diu et privatim » avec tant vert jouvenceau. Encore si c'était avec moi, ma barbe jure de ma sagesse, mais avec un petit cajoleur !
 
     CORBINELI.
@@ -1748,7 +1748,7 @@ Non, Monsieur, je ne m'en suis pas souvenu.
 
     GRANGER LE JEUNE.
 Il tire l'épée sur Paquier.
-
+ [132]
 Ha ! Maraud, ton sang me vengera de ta perfidie !
 
     CORBINELI.
@@ -1811,7 +1811,7 @@ Ils n'ont pas assez de bien l'un pour l'autre, je ne souffrirai jamais....
     GENEVOTE.
 Non, non, Monsieur, je suis d'une condition qui vousvdéfend d'appréhender la pauvreté pour vos petits. Je souhaiterais seulement que vous eussiez vu une Terre que nous avons à huit lieues d'ici : la solitude agréable des bois, le vert émaillé des prairies, le murmure des fontaines, l'harmonie des oiseaux, tout cela repeinturerait de noir votre poil déjà blanc.
 
-    PAQUIER.
+    PAQUIER. [133]
 Mademoiselle, ne passez pas outre, voilà tout ce qu'il faut à Charlot Granger. Il ne saurait mourir de faim, s'il a des bois, des prés, des oiseaux, et des fontaines ; car les arbres lui serviront à se guérir du mal des mouches ; les prés lui fourniront de quoi paître, et les oiseaux prendront le soin de chiffler quand il ira boire à la fontaine.
 
     GRANGER.
@@ -1880,10 +1880,10 @@ Et je ruminais encore à ces spéculateurs, qui tant de fois ont fait faire à l
     CORBINELI.
 Ce n'est pas de ces matières-là, vous dit-on, dont il est question. Nous parlons de marier Mademoiselle et votre fils, et vous nous embarquez sur la mer !
 
-    GRANGER.
+    GRANGER. [134]
 Quoi ! Parlez-vous de mariage avec cet hobereau ? Êtes-vous orbe de la faculté intellectuelle ? Êtes-vous hétéroclite d'entendement, ou le microcosme parfait d'une continuité de chimères abstractives ?
 
-    CORBINELI.
+    CORBINELI. [135]
 À force de représenter une Fable, la prenez-vous pour vérité ? Ce que vous avez inventé vous fait-il peur ? De même les enfants des grimauds dont ils ont eux-mêmes barbouillé les compagnons ? Ne voyez-vous pas que l'ordre de la pièce veut que vous donniez votre consentement ? Et toi, Paquier, surtout maintenant garde-toi bien de parler, car il paraît ici un muet que tu représentes ! Là donc, dépêchez-vous d'accorder votre fils à Mademoiselle. Mariez-les.
 
     GRANGER.
@@ -1895,7 +1895,7 @@ Eh bien, ne savez-vous pas que la conclusion d'un poème comique est toujours un
     GRANGER.
 Oui ; mais comment serait-ce ici la fin ? Il n'y a pas encore un acte de fait.
 
-    CORBINELI.
+    CORBINELI. [136]
 Vous avons uni tous les cinq en un, de peur de confusion : cela s'appelle pièce à la Polonaise.
 
     GRANGER.
@@ -1926,7 +1926,7 @@ Tu peux parler maintenant, il n'y a plus de danger.
     PAQUIER.
 Il faut avouer qu'Alexandre le Grand était un vaillant homme ; un jour...
 
-    CORBINELI.
+    CORBINELI. [137]
 Un jour tu seras juge, quand lu auras pris de l'ellébore.
 On donne congé au notaire.
 
@@ -1943,7 +1943,7 @@ Enfin c'est une pilule qu'il vous faut avaler.
     LA TREMBLAYE.
 Vous l'avalerez, ou par la mort...
 
-    GAREAU.
+    GAREAU. [138]
 Ah ! Par ma fy, je sommes logé à l'Enseigne de « J'en tenons ». Parmanda, j'en avouas queuque souleur, que cette petite Ravodière-là li grimoneret queuque tragédie. Hé bian, ne vêla pas notre putain de mainagère toute revenue ? Néanmoins, comme nan dit, Jésus Maria et durât sont deux biaux mots, feue la pauvre défunte, devant gnieu set son âme da, m'en baillit eun jour d'une belle vrédée. Par ma fiquette, ol me boutit à Cornuaille en tout bian et tout honneur. Stampandant la bonne chienne qu'ol estet... Aga hé ! Ous estes don itou de ces saintes sucrées-là ? Bonnefy, je le voyas bian, qu'ous aviais le nez torné à la friandise. Or un jour qu'il plut tant : « Jaquelaine, ce ly fis-je tout en gaussant, il fait cette nuit clair de l'Eune, il fera demain clair de l'Autre. » Enfin tanquia, qu'odon, ce nonobstant, après ça, ô dame, éclaircissez-moi à dire : « Tanquia que je m'en revenis tout épouvanté tintamarer à notre huis. À la parfin je me couchis tout fin nu auprès de notre bonne femme. Un tantet après que je me fussis rabougry tout en eun petit tapon, je sentis queuque chose qui groùillet. « Jaquelaine, ce ly fis-je, je pense qu'il y a là queuqu'un couché.  Oui, ce me fit-elle, je t'en répons et que guiantre y auret-il ? » Eune bonne escousse après je sacoute encore frétiller. « Han ! Jaquelaine, il y a là queuqu'un. « J'allongis ma main, je tâtis. « Houay ! Ce fis-je, eune tête, deux têtes » ; pis frougonnant entre les draps : « deux jambes, quatre jambes ; Han ! Jaquelaine il y a là queuqu'un. Hé, Piarre, que tu es fou, ce me fit-elle, tu comptes mes jambes deux fouas ! » Parguene, je ne me contentis point ; je me levis. Dame, je découvris le pot aux roses. « Ho ! Ho ! Vilaine, ce ly fis-je, qu'est-ce que ça ? « Fili Davi » ! Ton ribaut sera étripé ! Vrament, Jean, ce me fit-elle, garde t'en bian : c'est ce pauvre Maître Louis le barbier, qui venet de seigner eun malade de tout là-bas. Il estet tout rede de fred, et avet encore bian de vilain chemain à passer. Il m'exhorsiset d'allumer du feu ; dame, comme tu sais, le bois est char ; je l'y ai dit qu'il se venist pustôt réchauffer environ moi. Il ne feset que de s'y bouter quand tu es venu. Allons, allons, cely fis-je, Maître Louis on vous appranra devenir coucher avec les femmes des gens ». Dame, je ne fus ni fou, ni estourdi je le claquis bel et bian et le portis sur mes espaules jusqu'à moiquié chemain de sa maison : « Mais n'y revenez pas eune autre fouas ! Car parguene, s'il vous arrive, je vous porterai encore eune escousse aussi loin. » Et bian, regardez, il ne faut qu'eun malheur. Cette petite devargondée m'en eut peut-être fait autant. C'est pourquoi bonjour et bonsoir, c'est pour deux fouas.
 
     CORBINELI.
@@ -1977,18 +1977,278 @@ Je sens déjà mon âme s'endurcir aux afflictions, aussi Nature quand elle me b
 -------
 
 
-[1] Lénitif : Terme de médecine. C'est un remède adoucissant et résolutif, qui humecte la Partie malade, et fait dissiper l'humeur acre qui s'y est amassée. F
+[1] Cette pièce n'ayant pas été représentée, nous donnons le texte de l'imprimé de 1654 avec  en italique  les additions et corrections intéressantes du manuscrit de la Bibliothèque nationale. Nous n'avons tenu aucun compte des simples corrections de style. Lachèvre
 
-[2] Soudre : pour résoudre. Lachèvre
+[2] Clabauder : Aboyer fortement, comme font les chiens clabauds. F
 
-[3] Caïphe : grand prêtre des juifs, de la secte des saducéens, fit condamner J2sus à mort, fit arrêter les apôtres et fouetter Saint-Pierre et Saint-Jean qui prêcHaient la résurrection de leur maître. B
+[3] Bisque : Potge exquis fait de plusieurs pigeons, poulets, beatilles, jus de mouton, et autres ingrédients. On dit aussi, qu'un homme prend la bisquen quand il quitte son travail ordinaire, pour se divertir, et sans rien risquer pour les affaires. F
 
-[4] Chérif : Signifie prince chez les Arabes et les Maures. C'est celui qui doit succéder au caliphe. F
+[4] Saupiquet : mets assaisonné avec du sel et des épice spour irriter l'appetit. Il se dit de toutes sortes de sauces qui sont de heut goût. F
 
-[5] Tarif : il y a aussi en quelques provinces un impôt qu'on appelle absolument tarif, comme à Alençon. F
+[5] Pacolet : nom de l'écuyer dans le squtre fils d'Aymon. Il désignait un homme vif, actif et bon coureur. Lachèvre
 
-[6] Mortel esquif : la barque qui permet de franchir le Styx pour rejoindre les Enfers dans la mythologie.
+[6] Lénitif : Terme de médecine. C'est un remède adoucissant et résolutif, qui humecte la Partie malade, et fait dissiper l'humeur acre qui s'y est amassée. F
 
-[7] Molière a imité cette scène dans les Fourberies de Scapin, acte scène III, III, second emprunt fait à Cyrano pour cette dernière pièce. La scène de L'Ecole des Femmes acteIII, scène IV, où Horace vient raconter à Arnolphe les bons tours qu'Agnès a joués à celui-ci offre plus d'un trait de ressemblance avec celle-ci. Lachèvre
+[7] Soudre : pour résoudre. Lachèvre
 
-[8] Cette scène paraît à la fois avoir inspiré à Molière le passage du Malade imaginaire où Angélique et Cléante se chantent leur amour devant sous Argan, prétexte de répéter une leçon de musique, et surtout le dénouement bien connu de l'Amour médecin (Victor-Fournel).
+[8] Caïphe : grand prêtre des juifs, de la secte des saducéens, fit condamner J2sus à mort, fit arrêter les apôtres et fouetter Saint-Pierre et Saint-Jean qui prêcHaient la résurrection de leur maître. B
+
+[9] Chérif : Signifie prince chez les Arabes et les Maures. C'est celui qui doit succéder au caliphe. F
+
+[10] Tarif : il y a aussi en quelques provinces un impôt qu'on appelle absolument tarif, comme à Alençon. F
+
+[11] Mortel esquif : la barque qui permet de franchir le Styx pour rejoindre les Enfers dans la mythologie.
+
+[12] Gobelins : il s'agit de la manufacture des Gobelins sise à Paris qui fabriquait entre autres des tapisseries.
+
+[13] Malevole : malveillant. Lachèvre
+
+[14] F. Lachèvre suggère un rapprochement de cette tirade avec la scène VI de "La Jalousie du Barbouillé" de Molière dans la bouche du Docteur.
+
+[15] Horion : terme populaire et vieux, qui signifie un rude coup qu'on donne à quelqu'un, ou celui qu'on se donne par hasard en se heurtant contre quelque chose.
+
+[16] Petre : pierre. Lachèvre
+
+[17] poenitet taedet, miseret : Je me repends, je m'ennuie, je suis désolé. Lachèvre
+
+[18] Haud dubiè : sans doute. Lachèvre
+
+[19] Avole : accoure. Lachèvre
+
+[20] La manuscrit est incomplet de la fin de la scène 2 et du début de la scène III. Lachèvre
+
+[21] Sejongant : séparant, en latin sejungens Lachèvre
+
+[22] Granger tire la plupart de ses citations pédantes de la grammaire latine de Despautières. Lachèvre
+
+[23] Chaillot et Vaugirard étaient hors les murs de Paris au XVIIème siècle. Saint-Cloud est une commune du département des Hauts-de-Seine.
+
+[24] Bons-hommes : le couvent des Bons-hommes ou Nigeon ou Minimes, à Chaillot.
+
+[25] Cabus : épithète des choux qu'on appelle autrement pommés. On le dit aussi des laitues quand elles sont transplantées et crues en pommes. F
+
+[26] Abbayes où on enfermait les fils rebelles ou coupables. Lachèvre
+
+[27] Emoudre : Aiguiser sur le meule. L
+
+[28] Tu autem : tout ce qui te concerne.
+
+[29] Cyrano, a fabriqué de toutes pièces le patois de Gareau. Le manuscrit de la BN donne un langage tout différent que celui imprimé en 1654, la pronociation des mots n'est pas tout à fait la même. Nous avonrs naturellement maintenu pour Gareau le texte de 1654 publié par Cyrano lui-même. Lachèvre
+
+[30] La vigne de Courtille était sur l'emplacement de la ru Rochechouard, elle produisait du raisin qui ne mûrissait pas. Lachèvre
+
+[31] Gérosmes-là : idiomes-là.
+
+[32] Limas : Sorte de petit insecte qui ronge les les feuilles et mange les fruits. F.
+
+[33] On nous a assuré, disent les frères Parfait (Histoire du Théâtre français, t. VIII, p. 9) qu'un habile avocat s'était, à ses heures de loisir, donné-la peine d'examiner le droit de ce paysan et avait reconnu effectivement qu'il avait raison et que la succession devait lui appartenir. Lachèvre
+
+[34] Selon la mythologie grecque, Argus avait cent yeux et devait surveiller Io tranformée en vache.
+
+[35] Ségréger : Séparer, mettre à part. L
+
+[36] Ecacher : presser, aplatir, froisser, écraser. F
+
+[37] Voici la fameuse scène que Molière aurait empruntée, souvent littéralement à Cyrano, pour la placer dans les Fourberies de Scapin (acte II, scène XI) représentées seize ans après la première édition du Pédantjoué, en 1671. Lachèvre
+
+[38] Corbineli répond à l'interpellation que Granger vient d'adresser à la Fortune. Lachèvre
+
+[39] La porte de Nesle qui attenait à la vieille tour de Nesle servait de communication du Pont-Neuf au nouveau quartier construit sur le terrain du Pré aux Clercs, ce rendez-vous permanent des Ecoliers de l'Université. La Tour de Nesle fut démolie vers 1652. Lachèvre
+
+[40] Cotret : menu bois, court et relié avec des hares. On appelle figurément et burlesquement des coups de bâtons : huile de cotret. F
+
+[41] Tillac : terme de marine. La couverture du vaisseau, le plus haut point du navire, sur lequel on combat, où sont les soldats et les matelots pour la manoeuvre. F
+
+[42] Dans l'édition originalede 1654,ce long passage du Ms. est réduit à une ligne : «que nous avons été pris par une galère turque ». Lachèvre
+
+[43] Ca passage précise la date de la composition du Pédant Joué : le mariage de Marie de Gonzagues, duchesse de Mantoue, avec Vladislas IV, roi de Pologne, eut lieu en 1645, à Paris, par mabassadeur. Lachèvre
+
+[44] Incuter : faire entrer. Lachèvre
+
+[45] La plupart des monnaies de France et des autres états chrétiens portaient jusqu'au milieu du XVIè siècle une croix avec une légende. Lachèvre
+
+[46] Perge : continue. Lachèvre
+
+[47] Instrument de l'immortalité : l'écritoire. Lachèvre
+
+[48] Obtondre : assourdir. Lachèvre
+
+[49] Teston : ancienne monnaie de France qui a valu 15s. 6 d. et depuis 19s. 6 deniers. F
+
+[50] Le grand hiver est celui de 1638. Lachèvre
+
+[51] Domine : terme latin pour maître.
+
+[52] Monjoye Saint-Denis : Cri de guerre et de victoire des rois de France. Lachèvre
+
+[53] Accède : approche. Lachèvre
+
+[54] Louis XIII voulut, en 1634, faire reconstruire le vieux château, tombé en ruine pour en faire un hôpital destiné aux soldats estropiés ou invalides, mais cette reconstruction fut presque aussitôt arrêtée et les bâtiments déjà élevés ne servirent qu'à recueillir des gens sans aveu ; personne n'osait approcher de ces masures qu'on disait habitées par des larves et des démons. En 1656, le Roi y fit établir l'hôpital général des pauvres. Lachèvre
+
+[55] Gaza : trésor, magot.
+
+[56] Tourner la truie au foin : expression provebiale pour changer de propos, de discours. |Lachèvre
+
+[57] Jugement : jugement dernier, la fin des temps. 
+
+[58] Feu de Saint-Antoine : est le nom que le vulgaire donne à l'érysipele. F infection cutanée provoquant des plaques rouges. 
+
+[59] Pré aux clercs : lieu de prédilection pous les duels avant l'interdiction fait sour Louis XIII.
+
+[60] Lachèvre signale que le locuteur est "Granger" dans le manuscrit de la BnF.
+
+[61] Quérimonie : plainte qu'on fait aux juges d'église pour avoir permission de publier des monitoires. F
+
+[62] Pérager : voyage, pélerinage. C'était une peine que les juges imposaient autrefois à ceux qui avaient commis quelques crime. T
+
+[63] Passe-volant : faux soldat qui se présentait aux revies pour toucher au profit du capitaire ; on le punissait du fouet ou de la marque. Lachèvre 
+
+[64] Molière a imité cette scène dans les Fourberies de Scapin, acte scène III, III, second emprunt fait à Cyrano pour cette dernière pièce. La scène de L'Ecole des Femmes acteIII, scène IV, où Horace vient raconter à Arnolphe les bons tours qu'Agnès a joués à celui-ci offre plus d'un trait de ressemblance avec celle-ci. Lachèvre
+
+[65] Décrottoire : cure-dents. Lachèvre
+
+[66] Chiche-pénard : vilain avare. Lachèvre
+
+[67] Goutteux : Vicitme de la maladie nommée la goutte.
+
+[68] Moine-bourru : Personnage fantastique qui courait les rues la nuit à l'é poque de l'Avent, en tordant le cou à ceux qui mettaient le nez à la fenêtre et mltraitant les passants. Lachèvre
+
+[69] Golfe des Bons-hommes : Entre chaillot et l'île aux cygnes à Paris.
+
+[70] Donner la salle : donner le fouet.
+
+[71] La connaissance de la vieille langue était reléguée parmi les défroques de la pédanterie. Ce fut Chapelain qui la remit en honneur. Lachèvre
+
+[72] Le calendrier julien fut dresé par Jules César, le calendrier grégoirien par le Pape Grégoire XIII.
+
+[73] Josué arrêta le soleil pour pousuivre ses ennemis. Lachèvre
+
+[74] Burle : plaisanterie. Lachèvre
+
+[75] Jacob, dans la Bible, attends les cieux avec une échelle qui le mena près au Paradis.
+
+[76] Scander : Terme de grammaire. Mesurer un vers, voir s'il a le nombre de syllabes qu'il doit avoir, avec l'observation des longues et des brèves qui y est requise. F
+
+[77] Larve : terme de mythologie, qui signifie les Démons de l'air ; c'est ce que le peuple appelle loup garous. Les Anciens tenaient que c'étaient les âmes des méchants qui erraient ça et là, et des spectres qui effrayaient les hommes. F
+
+[78] Huguenot : C'est un nom qu'on a donné en France à ceux qui font profession des sentiments de Calvin. F
+
+[79] Corcelet : ou Corselet. Petite cuirasse que portent le spiquiers dans le régiment des Gardes. F
+
+[80] Sur l'échelle : prêt à être pendu.
+
+[81] Lâcher le bride aux Parques : tuer. Les parques sont les personnages de la myhtologie qui filait le vie des hommes et qui en coupait le fil le moment venu.
+
+[82] Donner les osselets : est aussi une espèce de gêne ou de violence qu'on fait à qulequ'un, pour lui faire dire où il a caché son argent, ou pour l'obliger à suivre,, quand on le mène prisonnier. C'est un os de pied de mouton qui serre un noeud coulant qu'on met au pouce, ou au poignet. Les soldats, les sergents savent fort bien donner les osselets. F
+
+[83] Myrmidon : Nom d'un ancien peuple de la Thessalie. Les Myrmidons marchant sous la conduite de Patrocle. L
+
+[84] Atropos : L'une des trois Parques qui tenaient les ciseaux qui coupaient le fil de la vie des hommes.
+
+[85] Grimaud : Petit écolier. Terme injurieux dont les grands écoliers se servent pour injurier les petits. F
+
+[86] Farfadet : Petit démon ou esprit folet qui fait peur aux personnes simples, qui croient le voir ou entendre la nuit. F
+
+[87] Acceser : me checher. Lachèvre terme forgé à partir d'accès, acoir accès, donner accès.
+
+[88] Confrères d'Orphée : musiciens.
+
+[89] Sainte Céciel : la Sainte-Cécile est le 22 novembre est la fête des musiciens.
+
+[90] Grouiller : Terme familier. Se remuer. L Voir occurence dans Molière Misanthrope Acte II scène 3, v. 616.
+
+[91] Despautères, Jean 1460-1524 : Grammairien, professa à Louvain et Bois-le-Duc. On lui doit uen grammaire latine qui malgré ses nombreuses imperfections, a été longtemps classique dans les écoles.
+
+[92] Cette réplique dans l'imprimé finit la scène IV, elle commence la scène V dans le Manuscrit. Lachèvre
+
+[93] La Croix Blanche : Cabaret situé rue de Bercy au Marais et avait une entrée sur une rue parallèle nommée rue de la Croix Blanche. Disparu en 1850 lors de la destruction de l'ilôt.
+
+[94] Pourpenser : Augmentatif de penser. Considérer attentivement, aec réflexion et délibération. F
+
+[95] Argut : d'Argutie. Petite subtilité d'esprit, un argument sophistique. F
+
+[96] Epigramme : c'est une espèce de poésie courte, qui finit par quelque pointe ou pensée sublime. F Elle exprime souvent une pensée mordante envers une personne ou une oeuvre.
+
+[97] Préfix : Se dit encore du Palais, d'un douaire, d'une certaine somme fixe que le mari donne à sa femme pour vivre pendant le viduité du revenu qui ne provient. F ici sens métaphorique.
+
+[98] Cette scène est la seule, avec trois phrases de l'inédit du Manuscrit de la Bibliothèque nationale que M. P. Brun a reproduite dans sa thèse. Lachèvre
+
+[99] Edition de 1654 « Enfin une Pomme a causé le péché de notre premier père et, par conséquent, tous les maux du Genre humain.» Lachèvre
+
+[100] Recors : Aide de sergent, celui qui l'assriste, lorsqu'il va faire quelque exploit, ou exécution, qui lui sert de témoin, et qui lui prête main forte. F
+
+[101] Eau rouge : Référence au franchissement de la Mer Rouge par les Hébreux dans l'Ancien Testament. F
+
+[102] Concaténation : terme de philosophie. Enchaînement. F
+
+[103] Cui bono : à quoi bon Lachèvre
+
+[104] Factotum : Homme qui se mêle de tout dans une maison, qui est un serviteur à tout faire. F
+
+[105] Esse : petit clou ou morceau de fer tordu ou curbé qu'on met au bout des essieux pour y arrêter les roues. F
+
+[106] Talent : fameux poids et monnaie des Antiques qui étaient de différente valeur selon les pays. F
+
+[107] Acute : aiguisé Lachèvre. Terme d'imprimerie, qui se dit d'un caractère marqué par un accent aigu. F
+
+[108] Pristins : anciens.Lachèvre 
+
+[109] Cette réplique de Genevote et celle de Corbineli finissent la scène IV dans
+
+[110] Péripatéticien : Qui suit la doctrine d'Aristote. La philosophie péripatéticienne. L
+
+[111] Batelage : Métier, action du bâteleur et charlatan. F
+
+[112] Intrigue : Au XVIIème, parfois au masculno, voir P. Corneille, La Veuve, , Th. Corneille, Le Feint Astrologue. L
+
+[113] Jeux : en pluriel, se dit des spectacles, des représentations publiques qui se faisiaent chez les Anciens. L
+
+[114] Introïte : Le Commence ment d ela Messe, le premier motet que les chantres entonnent pour commencer une messe haute. F Employé en sens de début ou entrée.
+
+[115] Conglober : Réunir en globe, en boule. L
+
+[116] Coyonneries : Lâcheté, poltronnerie. Signfie aussi un discours inpertinent, pliasant, extravagant. F
+
+[117] Jolivetés : actions jolies que font les enfants. F
+
+[118] Momerie : Se dit figurément en morale, de l'hypocrisie, des grimaces, des déguisements qui font praître les choses autrement qu'elles ne sont. F
+
+[119] Page : Enfant d'honneur qu'on met auprès des princes et des grands seigneurs pour les servir avec leurs livrées, et en même temps y avoir une honnête éducation, et y apprendre les exercices. F
+
+[120] Godelureau : Jeune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprés des femmes, qui est toujours bien propre et bien mis sans avoir d'autres perfections. Les vieux maris ont sujet d'être jaloux de ces godelureaux qui viennent cajoler leurs femmes. F
+
+[121] Goujat : Valet de soldat.
+
+[122] Veillaque : Homme sans foi, sans honneur. L
+
+[123] Manger de la soupe : locution proverbiale, Vous avez de bonne heure pris vos précautions. Lachèvre
+
+[124] Spalonque : Caverne, antre. F
+
+[125] Hilarieux : Barbarisme, qui provoque l'hilarité, qui est drôle.
+
+[126] Cette scène paraît à la fois avoir inspiré à Molière le passage du Malade imaginaire où Angélique et Cléante se chantent leur amour devant sous Argan, prétexte de répéter une leçon de musique, et surtout le dénouement bien connu de l'Amour médecin (Victor-Fournel).
+
+[127] Poiraisin
+
+[128] Feu des gueux : Soleil Lachèvre.
+
+[129] Carmes : Ordre de religieux, qui est l'un des quatre mendiants qui prétend tiré son nom du Mont Carmel en Syrie. Terme de jeu de Tric-trac, qui signifie deux 4 que les deux dés amènent à la fois. F
+
+[130] Porte-trait : Courroie pliée en deux parties, qui sert à soutenir les traits des chevaux attelés. F
+
+[131] Vergogneux : Ce mot est vieu et hors d'usage, et signifiait honteux. F
+
+[132] Maraud : Terme injurieux qui se dit des gueux, des coquins qui n'ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés. F
+
+[133] Chiffler : Siffler : mais il n'est pas en usage en ce sens. Mot burlesque ; pour dire, boire d'autant. F
+
+[134] Orbe : Terme de chirurgie ; qui se dit des coups qui font des conturiosn, et qui ne viennent pas d'instruments tranchants qui entament la peau. F Privé Lachèvre
+
+[135] Dans le Ms., cette réplique : ... Paquier, surtout maintenant est donnée à Granger le jeune, et Corbineli répond ; Dépêchez-vous d'accorder...
+
+[136] Nouvelle allusion au mariage de Marie de Gonzague avec Vladislas roi IV, de Pologne, et de la rapidité avec laquelle les négociations avaient été poursuivies. Lachèvre
+
+[137] Ellebore : Plante médicinale. Se tirait autrefois de l'Isle d'Anticyre ; on s'en servait dans la folie, dans la rage et dans d'autres maladies semblables. F
+
+[138] Molière a encore doublement imité cette scène d'une manière moins directe sans doute mais non moins évidente que les deux précédentes, d'une part dans le Malade imaginaire, acte II, scène VI et dans le dénouement de l'Amour médecin (V. Fournel). 

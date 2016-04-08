@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1669
+**** *book_ *id_I01 *act_I *date_1668 *creator_racine
 
 -*who_petit_jean
 Ma foi, sur l'avenir, bien fou qui se fiera.
@@ -53,7 +53,7 @@ Ma foi, pour cette nuit, il faut que je m'en donne,
 Pour dormir dans la rue on n'offense personne.
 Dormons.
 
-**** *book_ *id_I02 *act_I *date_1669
+**** *book_ *id_I02 *act_I *date_1668 *creator_racine
 
 -*who_lintime
       Ay, Petit-Jean, Petit-Jean.
@@ -84,7 +84,7 @@ Bonsoir.
       Comment bonsoir ? Que le diable m'emporte
 Si... Mais j'entends du bruit au dessus de la porte.
 
-**** *book_ *id_I03 *act_I *date_1669
+**** *book_ *id_I03 *act_I *date_1668 *creator_racine
 
 -*who_dandin
 Petit-Jean. L'Intimé.
@@ -117,7 +117,7 @@ Vous avez beau crier.
 -*who_dandin
       Main-forte. L'on me tue.
 
-**** *book_ *id_I04 *act_I *date_1669
+**** *book_ *id_I04 *act_I *date_1668 *creator_racine
 
 -*who_leandre
 Vite, un flambeau. J'entends mon père dans la rue.
@@ -219,7 +219,7 @@ Je ne dormirai point.
       Hé bien, à la bonne heure.
 Qu'on ne le quitte pas. Toi, l'Intimé, demeure.
 
-**** *book_ *id_I05 *act_I *date_1669
+**** *book_ *id_I05 *act_I *date_1668 *creator_racine
 
 -*who_leandre
 Je veux t'entretenir un moment sans témoin.
@@ -314,7 +314,7 @@ Je suis des deux métiers.
       Viens, je l'entends qui crie,
 Allons à ce dessein rêver ailleurs.
 
-**** *book_ *id_I06 *act_I *date_1669
+**** *book_ *id_I06 *act_I *date_1668 *creator_racine
 
 -*who_chicanneau
       La Brie !
@@ -371,7 +371,7 @@ Ne me suffirait pas pour gagner un portier.
 Mais j'aperçois venir madame la Comtesse
 De Pimbesche. Elle vient pour affaire qui presse.
 
-**** *book_ *id_I07 *act_I *date_1669
+**** *book_ *id_I07 *act_I *date_1668 *creator_racine
 
 -*who_chicanneau
 Madame, on n'entre plus.
@@ -654,7 +654,7 @@ Vous m'excédez.
 -*who_chicanneau
       Que n'ai-je des témoins !
 
-**** *book_ *id_I08 *act_I *date_1669
+**** *book_ *id_I08 *act_I *date_1668 *creator_racine
 
 -*who_petit_jean
 Voyez le beau sabbat qu'ils font à notre porte.
@@ -729,7 +729,7 @@ Un sergent, un sergent !
 -*who_petit_jean
 Ma foi, juge, et plaideurs, il faudrait tout lier.
 
-**** *book_ *id_II01 *act_II *date_1669
+**** *book_ *id_II01 *act_II *date_1668 *creator_racine
 
 -*who_lintime
 Monsieur encore un coup, je ne puis pas tout faire,
@@ -771,7 +771,7 @@ Mais ne va pas donner l'exploit pour le billet.
 Le père aura l'exploit, la fille le poulet.
 Rentrez.
 
-**** *book_ *id_II02 *act_II *date_1669
+**** *book_ *id_II02 *act_II *date_1668 *creator_racine
 
 -*who_isabelle
       Qui frappe ?
@@ -875,7 +875,7 @@ Avec votre billet, retournez sur vos pas.
 -*who_lintime
 Tenez. Une autre fois ne soyez pas si prompte.
 
-**** *book_ *id_II03 *act_II *date_1669
+**** *book_ *id_II03 *act_II *date_1668 *creator_racine
 
 -*who_chicanneau
 Oui ? Je suis donc un sot, un voleur, à son compte ?
@@ -919,7 +919,7 @@ Hé ! Ne te fâche point.
 -*who_isabelle
       Adieu, Monsieur.
 
-**** *book_ *id_II04 *act_II *date_1669
+**** *book_ *id_II04 *act_II *date_1668 *creator_racine
 
 -*who_lintime
       Or ça,
@@ -1096,7 +1096,7 @@ Rendez-les moi plutôt.
       Suffit qu'ils soient reçus,
 Je ne les voudrais pas donner pour mille écus.
 
-**** *book_ *id_II05 *act_II *date_1669
+**** *book_ *id_II05 *act_II *date_1668 *creator_racine
 
 -*who_lintime
 Voici fort à propos Monsieur le Commissaire.
@@ -1141,7 +1141,7 @@ Si j'en connais pas un, je veux être étranglé.
 -*who_leandre
 Comment, battre un huissier ? Mais voici la rebelle.
 
-**** *book_ *id_II06 *act_II *date_1669
+**** *book_ *id_II06 *act_II *date_1668 *creator_racine
 
 -*who_lintime
 Vous le reconnaissez.
@@ -1296,7 +1296,7 @@ Où donc ?
 -*who_chicanneau
 Comment ?
 
-**** *book_ *id_II07 *act_II *date_1669
+**** *book_ *id_II07 *act_II *date_1668 *creator_racine
 
 -*who_petit_jean
       Holà, quelqu'un n'a-t-il point vu mon maître ?
@@ -1313,7 +1313,7 @@ Et j'ai tout bonnement couru dans les offices
 Chercher la boîte au poivre. Et lui pendant cela
 Est disparu.
 
-**** *book_ *id_II08 *act_II *date_1669
+**** *book_ *id_II08 *act_II *date_1668 *creator_racine
 
 -*who_dandin
       Paix, paix, que l'on se taise là.
@@ -1347,7 +1347,7 @@ Ho, ho, Monsieur.
       Tais-toi sur les yeux de ta tête ;
 Et suis-moi.
 
-**** *book_ *id_II09 *act_II *date_1669
+**** *book_ *id_II09 *act_II *date_1668 *creator_racine
 
 -*who_dandin
       Dépêchez. Donnez votre requête.
@@ -1433,7 +1433,7 @@ Hélas !
       Hé quoi ! Déjà l'audience est finie ;
 Je n'ai pas eu le temps de lui dire deux mots.
 
-**** *book_ *id_II10 *act_II *date_1669
+**** *book_ *id_II10 *act_II *date_1668 *creator_racine
 
 -*who_leandre
 Messieurs voulez-vous bien nous laisser en repos ?
@@ -1479,7 +1479,7 @@ Par la fenêtre donc.
 -*who_chicanneau
 Quand je devrais ici demeurer jusqu'au soir.
 
-**** *book_ *id_II11 *act_II *date_1669
+**** *book_ *id_II11 *act_II *date_1668 *creator_racine
 
 -*who_petit_jean
 On ne l'entendra pas, quelque chose qu'il fasse.
@@ -1593,7 +1593,7 @@ Gardez le soupirail.
 -*who_leandre
       Va vite, je le garde.
 
-**** *book_ *id_II12 *act_II *date_1669
+**** *book_ *id_II12 *act_II *date_1668 *creator_racine
 
 -*who_lacomtesse
 Misérable ! Il s'en va lui prévenir l'esprit.
@@ -1621,7 +1621,7 @@ Contre Monsieur le juge, et contre le quartaut.
 Allez donc, et cessez de nous rompre la tête.
 Que de fous ! Je ne fus jamais à telle fête.
 
-**** *book_ *id_II13 *act_II *date_1669
+**** *book_ *id_II13 *act_II *date_1668 *creator_racine
 
 -*who_lintime
 Monsieur, où courez-vous ? C'est vous mettre en danger,
@@ -1680,7 +1680,7 @@ Il parle, ce me semble, assez pertinemment.
 -*who_leandre
 Contre un de vos voisins...
 
-**** *book_ *id_II14 *act_II *date_1669
+**** *book_ *id_II14 *act_II *date_1668 *creator_racine
 
 -*who_petit_jean
       Arrête, arrête, attrape.
@@ -1753,7 +1753,7 @@ Fermons l'oeil aux présents, et l'oreille à la brigue.
 Vous, Maître Petit-Jean, serez le demandeur.
 Vous, Maître l'Intimé, soyez le défendeur.
 
-**** *book_ *id_III01 *act_III *date_1669
+**** *book_ *id_III01 *act_III *date_1668 *creator_racine
 
 -*who_chicanneau
 Oui, Monsieur, c'est ainsi qu'il ont conduit l'affaire.
@@ -1800,7 +1800,7 @@ Allez et revenez, l'on vous fera justice.
 -*who_lesouffleur
 Quel homme !
 
-**** *book_ *id_III02 *act_III *date_1669
+**** *book_ *id_III02 *act_III *date_1668 *creator_racine
 
 -*who_leandre
       Je me sers d'un étrange artifice.
@@ -1810,7 +1810,7 @@ D'ailleurs j'ai mon dessein, et je veux qu'il condamne
 Ce fou qui réduit tout au pied de la chicane.
 Mais voici tous nos gens qui marchent sur nos pas.
 
-**** *book_ *id_III03 *act_III *date_1669
+**** *book_ *id_III03 *act_III *date_1668 *creator_racine
 
 -*who_dandin
 Çà, qu'êtes-vous ici ?
@@ -2274,7 +2274,7 @@ Mais s'il est condamné, l'embarras est égal,
 Voilà bien des enfants réduits à l'hôpital.
 Mais je suis occupé, je ne veux voir personne.
 
-**** *book_ *id_III04 *act_III *date_1669
+**** *book_ *id_III04 *act_III *date_1668 *creator_racine
 
 -*who_chicanneau
 Monsieur...

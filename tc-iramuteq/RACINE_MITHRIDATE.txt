@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1673
+**** *book_ *id_I01 *act_I *date_1673 *creator_racine
 
 -*who_xiphares
 On nous faisait, Arbate, un fidèle rapport.
@@ -158,7 +158,7 @@ Ira jouir ailleurs des bontés des Romains.
 Que ne devrai-je point à cette ardeur extrême ?
 Mais on vient. Cours, ami, c'est Monime, elle-même.
 
-**** *book_ *id_I02 *act_I *date_1673
+**** *book_ *id_I02 *act_I *date_1673 *creator_racine
 
 -*who_monime
 Seigneur, je viens à vous. Car enfin aujourd'hui
@@ -291,7 +291,7 @@ Ah ! Madame...
 -*who_monime
       Seigneur, vous voyez votre frère.
 
-**** *book_ *id_I03 *act_I *date_1673
+**** *book_ *id_I03 *act_I *date_1673 *creator_racine
 
 -*who_pharnace
 Jusques à quand, Madame, attendrez-vous mon père ?
@@ -428,7 +428,7 @@ Je le puis à Colchos, et je le puis ici.
 -*who_pharnace
 Ici ? Vous y pourriez rencontrer votre perte...
 
-**** *book_ *id_I04 *act_I *date_1673
+**** *book_ *id_I04 *act_I *date_1673 *creator_racine
 
 -*who_phoedime
 Princes, toute la mer est de vaisseaux couverte,
@@ -455,7 +455,7 @@ Qu'avons-nous fait !
 -*who_monime
       Adieu, Prince. Quelle nouvelle !
 
-**** *book_ *id_I05 *act_I *date_1673
+**** *book_ *id_I05 *act_I *date_1673 *creator_racine
 
 -*who_pharnace
 Mithridate revient ? Ah ! Fortune cruelle !
@@ -503,7 +503,7 @@ Sa haine sait cacher ses trompeuses adresses.
 Allons. Puisqu'il le faut, je marche sur vos pas.
 Mais en obéissant ne nous trahissons pas.
 
-**** *book_ *id_II01 *act_II *date_1673
+**** *book_ *id_II01 *act_II *date_1673 *creator_racine
 
 -*who_phoedime
 Quoi, vous êtes ici quand Mithridate arrive,
@@ -585,7 +585,7 @@ On vient. Que faites-vous, Madame ?
       Je ne puis.
 Je ne paraîtrai point dans le trouble où je suis.
 
-**** *book_ *id_II02 *act_II *date_1673
+**** *book_ *id_II02 *act_II *date_1673 *creator_racine
 
 -*who_mithridate
 Princes, quelques raisons que vous me puissiez dire
@@ -601,7 +601,7 @@ Je médite un dessein digne de mon courage.
 Vous en serez tantôt instruits plus amplement.
 Allez, et laissez-moi reposer un moment.
 
-**** *book_ *id_II03 *act_II *date_1673
+**** *book_ *id_II03 *act_II *date_1673 *creator_racine
 
 -*who_mithridate
 Enfin après un an, tu me revois, Arbate,
@@ -730,7 +730,7 @@ Dieux, qui voyez ici mon amour et ma haine,
 Que je ne trouve encor ceux que je vais chercher.
 Arbate, c'est assez, qu'on me laisse avec elle.
 
-**** *book_ *id_II04 *act_II *date_1673
+**** *book_ *id_II04 *act_II *date_1673 *creator_racine
 
 -*who_mithridate
 Madame, enfin le ciel près de vous me rappelle,
@@ -827,7 +827,7 @@ De qui nulle vertu n'accompagne l'audace,
 Que Pharnace, en un mot, ait pu prendre ma place ?
 Qu'il soit aimé, Madame, et que je sois haï ?
 
-**** *book_ *id_II05 *act_II *date_1673
+**** *book_ *id_II05 *act_II *date_1673 *creator_racine
 
 -*who_mithridate
 Venez, mon fils, venez, votre père est trahi.
@@ -860,7 +860,7 @@ Qu'elle ne pousse point cette même tendresse,
 Que sais-je ? à des fureurs, dont mon coeur outragé
 Ne se repentirait qu'après s'être vengé.
 
-**** *book_ *id_II06 *act_II *date_1673
+**** *book_ *id_II06 *act_II *date_1673 *creator_racine
 
 -*who_xiphares
 Que dirai-je, Madame ? Et comment dois-je entendre
@@ -1006,7 +1006,7 @@ Toutefois attendons que son sort s'éclaircisse,
 Et s'il faut qu'un rival la ravisse à ma foi,
 Du moins, en expirant, ne la cédons qu'au roi.
 
-**** *book_ *id_III01 *act_III *date_1673
+**** *book_ *id_III01 *act_III *date_1673 *creator_racine
 
 -*who_mithridate
 Approchez, mes enfants. Enfin l'heure est venue
@@ -1264,7 +1264,7 @@ Tu ne coures me perdre, et me vendre aux Romains.
 Mais avant que partir je me ferai justice.
 Je te l'ai dit.
 
-**** *book_ *id_III02 *act_III *date_1673
+**** *book_ *id_III02 *act_III *date_1673 *creator_racine
 
 -*who_mithridate
       Holà, gardes. Qu'on le saisisse.
@@ -1281,7 +1281,7 @@ Et ce fils si fidèle a dû vous faire entendre,
 Que des mêmes ardeurs dès longtemps enflammé,
 Il aime aussi la reine, et même en est aimé.
 
-**** *book_ *id_III03 *act_III *date_1673
+**** *book_ *id_III03 *act_III *date_1673 *creator_racine
 
 -*who_xiphares
 Seigneur, le croirez-vous qu'un dessein si coupable...
@@ -1295,7 +1295,7 @@ Ait pu percer ce coeur qu'un père lui confie.
 Je ne le croirai point. Allez. Loin d'y songer,
 Je ne vais désormais penser qu'à nous venger.
 
-**** *book_ *id_III04 *act_III *date_1673
+**** *book_ *id_III04 *act_III *date_1673 *creator_racine
 
 -*who_mithridate
 Je ne le croirai point ? Vain espoir qui me flatte !
@@ -1327,7 +1327,7 @@ Il n'est point de moyens... Mais je la vois paraître.
 Feignons. Et de son coeur d'un vain espoir flatté
 Par un mensonge adroit tirons la vérité.
 
-**** *book_ *id_III05 *act_III *date_1673
+**** *book_ *id_III05 *act_III *date_1673 *creator_racine
 
 -*who_mithridate
 Enfin j'ouvre les yeux, et je me fais justice.
@@ -1444,7 +1444,7 @@ Je suis content.
 -*who_monime
       Ô ciel ! Me serais-je abusée ?
 
-**** *book_ *id_III06 *act_III *date_1673
+**** *book_ *id_III06 *act_III *date_1673 *creator_racine
 
 -*who_mithridate
 Ils s'aiment. C'est ainsi qu'on se jouait de nous.
@@ -1458,7 +1458,7 @@ Ne garder près de moi que des troupes fidèles.
 Allons. Mais sans montrer un visage offensé,
 Dissimulons encor, comme j'ai commencé.
 
-**** *book_ *id_IV01 *act_IV *date_1673
+**** *book_ *id_IV01 *act_IV *date_1673 *creator_racine
 
 -*who_monime
 Phoedime, au nom des dieux, fais ce que je désire.
@@ -1528,7 +1528,7 @@ Approuver un amour si longtemps combattu ?
 Je pourrais tous les jours t'assurer que je t'aime ?
 Que ne viens-tu...
 
-**** *book_ *id_IV02 *act_IV *date_1673
+**** *book_ *id_IV02 *act_IV *date_1673 *creator_racine
 
 -*who_monime
       Seigneur, je parlais de vous-même.
@@ -1655,7 +1655,7 @@ Que serait-ce, grands dieux ! s'il venait vous surprendre ?
 Que dis-je ? On vient. Allez. Courez. Vivez enfin,
 Et du moins attendez quel sera mon destin.
 
-**** *book_ *id_IV03 *act_IV *date_1673
+**** *book_ *id_IV03 *act_IV *date_1673 *creator_racine
 
 -*who_phoedime
 Madame, à quels périls il exposait sa vie !
@@ -1666,7 +1666,7 @@ C'est le roi.
 Va, ne le quitte point ; et qu'il se garde bien
 D'ordonner de son sort, sans être instruit du mien.
 
-**** *book_ *id_IV04 *act_IV *date_1673
+**** *book_ *id_IV04 *act_IV *date_1673 *creator_racine
 
 -*who_mithridate
 Allons, Madame, allons. Une raison secrète
@@ -1802,7 +1802,7 @@ Que je vous trahis seule, et n'ai point de complice,
 Et que d'un plein succès vos voeux seraient suivis,
 Si j'en croyais, Seigneur, les voeux de votre fils.
 
-**** *book_ *id_IV05 *act_IV *date_1673
+**** *book_ *id_IV05 *act_IV *date_1673 *creator_racine
 
 -*who_mithridate
 Elle me quitte ! Et moi dans un lâche silence,
@@ -1849,7 +1849,7 @@ Ne pas laisser remplir d'ardeurs empoisonnées
 Un coeur déjà glacé par le froid des années ?
 De ce trouble fatal par où dois-je sortir ?
 
-**** *book_ *id_IV06 *act_IV *date_1673
+**** *book_ *id_IV06 *act_IV *date_1673 *creator_racine
 
 -*who_arbate
 Seigneur, tous vos soldats refusent de partir.
@@ -1890,7 +1890,7 @@ Les mutins n'oseraient soutenir ma présence.
 Je ne veux que les voir, je ne veux qu'à leurs yeux
 Immoler de ma main deux fils audacieux.
 
-**** *book_ *id_IV07 *act_IV *date_1673
+**** *book_ *id_IV07 *act_IV *date_1673 *creator_racine
 
 -*who_arcas
 Seigneur, tout est perdu. Les rebelles, Pharnace,
@@ -1908,7 +1908,7 @@ Ciel ! Courons.
       Écoutez. Du malheur qui me presse
 Tu ne jouiras pas, infidèle princesse.
 
-**** *book_ *id_V01 *act_V *date_1673
+**** *book_ *id_V01 *act_V *date_1673 *creator_racine
 
 -*who_phoedime
 Madame, où courez-vous ? Quels aveugles transports
@@ -1978,7 +1978,7 @@ Qui jadis sur mon front t'attacha la première.
 On vient, Madame, on vient. Et j'espère qu'Arcas
 Pour bannir vos frayeurs porte vers vous ses pas.
 
-**** *book_ *id_V02 *act_V *date_1673
+**** *book_ *id_V02 *act_V *date_1673 *creator_racine
 
 -*who_monime
 En est-ce fait, Arcas ? Et le cruel Pharnace...
@@ -2022,7 +2022,7 @@ Je n'ose en un tombeau demander d'être unie,
 Reçois ce sacrifice, et puisse en ce moment
 Ce poison expier le sang de mon amant.
 
-**** *book_ *id_V03 *act_V *date_1673
+**** *book_ *id_V03 *act_V *date_1673 *creator_racine
 
 -*who_arbate
 Arrêtez, arrêtez.
@@ -2042,7 +2042,7 @@ Madame, exécuter les volontés du roi.
 Vivez. Et vous, Arcas, du succès de mon zèle
 Courez à Mithridate apprendre la nouvelle.
 
-**** *book_ *id_V04 *act_V *date_1673
+**** *book_ *id_V04 *act_V *date_1673 *creator_racine
 
 -*who_monime
 Ah ! trop cruel Arbate, à quoi m'exposez-vous ?
@@ -2166,7 +2166,7 @@ Je le pusse pleurer sans en être coupable !
 Il vient. Quel nouveau trouble excite en mes esprits
 Le sang du père, ô ciel, et les larmes du fils !
 
-**** *book_ *id_V05 *act_V *date_1673
+**** *book_ *id_V05 *act_V *date_1673 *creator_racine
 
 -*who_monime
 Ah que vois-je, Seigneur, et quel sort est le vôtre !

@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_ALEXANDRE  
-creator: RACINE, Jean  
-date: 1697  
+creator: Racine, Jean  
+date: 1665  
 title: ALEXANDRE LE GRAND, TRAGÉDIE.  
 ---
 
@@ -621,8 +621,8 @@ Je crains pour lui, je crains pour Alexandre même.
 Je sais qu'en l'attaquant, cent rois se sont perdus,  
 Je sais tous ses exploits ; mais je connais Porus.  
 Nos peuples qu'on a vus triomphants à sa suite,  
-Repousser les efforts du Persan et du Scythe,  
-Et tout fiers des lauriers dont il les a chargés, [2]  
+Repousser les efforts du Persan et du Scythe,   [2]
+Et tout fiers des lauriers dont il les a chargés,  
 Vaincront à son exemple, ou périront vengés.  
 Et je crains...  
 
@@ -648,8 +648,8 @@ Mette tous vos États au rang de nos conquêtes,
 Alexandre veut bien différer ses exploits,  
 Et vous offrir la paix pour la dernière fois.  
 Vos peuples prévenus de l'espoir qui vous flatte,  
-Prétendaient arrêter le vainqueur de l'Euphrate ;  
-Mais l'Hydaspe malgré tant d'escadrons épars, [3]  
+Prétendaient arrêter le vainqueur de l'Euphrate ;   [3]
+Mais l'Hydaspe malgré tant d'escadrons épars,  
 Voit enfin sur ses bords flotter nos étendards.  
 Vous les verriez plantés jusques sur vos tranchées,  
 Et de sang et de morts vos campagnes jonchées,  
@@ -1107,8 +1107,8 @@ J'espère qu'Alexandre amoureux de sa gloire,
 Et fâché que ton crime ait souillé sa victoire,  
 S'en lavera bientôt par ton propre trépas.  
 Des traîtres comme toi font souvent des ingrats ;  
-Et de quelques faveurs que sa main t'éblouisse,  
-Du perfide Bessus regarde le supplice. [4]  
+Et de quelques faveurs que sa main t'éblouisse,   [4]
+Du perfide Bessus regarde le supplice.  
 Adieu.  
 
 

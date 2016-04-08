@@ -389,8 +389,8 @@ Hé quoi ma chère soeur avez-vous quelque affaire,
 Ou quelque déplaisir que vous me deviez taire.  
 
     ÉLISE.
-Ce jeune cavalier, ce vaillant étranger,  
-Qui secourut mon père en un mortel danger, [1]  
+Ce jeune cavalier, ce vaillant étranger,   [1]
+Qui secourut mon père en un mortel danger,  
 Dans ce fameux combat où d'un Prince rebelle,  
 Rhodes contre Pisandre entreprit la querelle,  
 Alcandre. Ah ! Ce beau nom est tout ce qui de lui,  
@@ -503,8 +503,8 @@ Le malheureux vous aime ; à ce mot échappé,
 Déjà de vos beaux yeux les foudres l'ont frappé,  
 Il voit d'un fier dédain s'armer votre visage,  
 Et dans ce fier dédain de sa mort le présage ;  
-Mais ayant obéi si vous l'en haïssez,  
-Daignez connaître au moins ce que vous punissez, [2]  
+Mais ayant obéi si vous l'en haïssez,   [2]
+Daignez connaître au moins ce que vous punissez,  
 Il est Prince Madame, et les Rois de sa race,  
 N'ont point mis dans son coeur sa téméraire audace  
 Un feu respectueux, une immuable foi,  
@@ -575,8 +575,8 @@ D'ennemi qu'il nous est, deviendra favorable.
 ## SCÈNE PREMIÈRE. Nicanor, Élise, Alcionne, Amintas.
 
     NICANOR.
-Madame, je veux bien ici vous répéter,  
-Ce que dans le Conseil je viens de protester, [3]  
+Madame, je veux bien ici vous répéter,   [3]
+Ce que dans le Conseil je viens de protester,  
 Que mon fils Amintas vous aime, et vous adore,  
 Et qu'il mourra plutôt du feu qui le dévore,  
 Que de se prévaloir des volontés du Roi,  
@@ -674,8 +674,8 @@ Et toute autre beauté par des sceptres offerts,
 La tenterait en vain de sortir de ses fers,  
 Pourrais-je donc, Seigneur, épousant Alcionne,  
 À sa soeur que j'adore ôter une couronne ?  
-Quand vous l'ordonneriez, vous devrais-je obéir ;  
-Tout d'un temps, puis-je aimer Élise, et la trahir ? [4]  
+Quand vous l'ordonneriez, vous devrais-je obéir ;   [4]
+Tout d'un temps, puis-je aimer Élise, et la trahir ?  
 Ha ! Que l'ambition ne nous fasse rien faire,  
 Dont nous puissions rougir, qui lui puisse déplaire  
 N'exigez rien d'un fils, qu'il doive refuser,  
@@ -760,8 +760,8 @@ Vengez-moi, je tiendrai tout que je promets,
 Ce n'est pas je l'avoue, une basse entreprise,  
 Que de vaincre Orosmane, et faire aimer Élise,  
 Vous allez attaquer un prodige en valeur,  
-Heureux dan les combats, et trop pour mon malheur  
-Mais quoi, que la victoire en soit presque impossible, [5]  
+Heureux dan les combats, et trop pour mon malheur   [5]
+Mais quoi, que la victoire en soit presque impossible,  
 Servez-vous donc du temps tandis qu'il est pour vous.  
 Et que n'avez-vous point encore de jaloux ;  
 Car quand seul vous seriez capable de me plaire,  
@@ -781,8 +781,8 @@ Et vous me plaindrai mort ou louerai mon courage.
 Avant qu'avoir vaincu vous triomphez, Seigneur,  
 Je pardonne la fougue à votre jeune ardeur :  
 Mais si l'excès bouillant d'une amour non commune,  
-Et le prix qu'un combat offre à votre fortune,  
-Enflamme à un tel point votre coeur amoureux, [6]  
+Et le prix qu'un combat offre à votre fortune,   [6]
+Enflamme à un tel point votre coeur amoureux,  
 Qu'il ne peut différer ce combat dangereux,  
 Celui qu'on traite ici de voleur, de corsaire,  
 Et qui se rend pourtant plus d'un Roi tributaire,  
@@ -856,8 +856,8 @@ Hélas ! Ce n'est pas là ce que je voulais dire,
 À l'innocent auteur de mon cruel martyre,  
 Je lui voulais ouvrir les secrets de mon coeur,  
 Lui dire qu'il y règne en aimable vainqueur ;  
-Lui révéler les maux qu'il ignore, et qu'il cause,  
-Clarice l'as-tu vu ! J'ai fait tout autre chose, [7]  
+Lui révéler les maux qu'il ignore, et qu'il cause,   [7]
+Clarice l'as-tu vu ! J'ai fait tout autre chose,  
 Ainsi le criminel de son remords pressé,  
 Se coupe, et ne dit rien de ce qu'il a pensé  
 Ainsi ce cher vainqueur de mon âme soumise,  
@@ -1259,8 +1259,8 @@ Pour avoir eu pour vous d'injustes cruautés,
 Sans avoir ignoré ce que vous méritez.  
 Mais amant malheureux, vous savez d'elle-même,  
 D'où son coeur a pour vous cette froideur extrême,  
-Et que ce coeur fidèle aux cendres d'un amant,  
-Vous suscite un rival au fond d'un monument. [8]  
+Et que ce coeur fidèle aux cendres d'un amant,   [8]
+Vous suscite un rival au fond d'un monument.  
 Tel que Chypre aujourd'hui vous admire, et vous prise ;  
 Car tout n'est pas dans Chypre injuste autant qu'Élise,  
 Vous méritez un coeur qui vous sut estimer,  

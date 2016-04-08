@@ -78,8 +78,8 @@ Contre un pouvoir plus fort qui me donne à Créuse.
     POLLUX.
 C'est donc là cet objet qui vous vient enchaîner ?  
 Sans l'entendre nommer je l'avais deviné,  
-Jason ne fit jamais de communes maîtresses,  
-Il est né seulement pour charmer les princesses, [1]  
+Jason ne fit jamais de communes maîtresses,   [1]
+Il est né seulement pour charmer les princesses,  
 Et je crois qu'il tiendrait pour un indigne emploi  
 De blesser d'autres coeurs que des filles de Roi ;  
 Hypsipyle à Lemnos, sur le Phase Médée,  
@@ -88,8 +88,8 @@ Font bien voir qu'en tous lieux sans lancer d'autres dards
 Les sceptres sont acquis à ses moindres regards.  
 
     JASON.
-Aussi je ne suis pas de ces amants vulgaires,  
-J'accommode ma flamme au bien de mes affaires, [2]  
+Aussi je ne suis pas de ces amants vulgaires,   [2]
+J'accommode ma flamme au bien de mes affaires,  
 Et sous quelque climat que le sort me jettat,  
 Je serai amoureux par maxime d'État.  
 Nous voulant à Lemnos rafraîchir dans la ville,  
@@ -118,8 +118,8 @@ Il est mort !
         Écoutez, et vous saurez comment  
 Son trépas seul me force à cet éloignement.  
 Après six ans passés, depuis notre voyage,  
-Dans les plus grands plaisirs qu'on goûte au mariage,  
-Mon père tout caduc émouvant ma pitié, [3]  
+Dans les plus grands plaisirs qu'on goûte au mariage,   [3]
+Mon père tout caduc émouvant ma pitié,  
 Je conjurai Médée, au nom de l'amitié.  
 
     POLLUX.
@@ -135,8 +135,8 @@ Je n'en fais qu'arriver.
         Apprenez donc de moi  
 Le sujet qui m'oblige à lui manquer de foi.  
 Malgré l'aversion d'entre nos deux familles,  
-De mon tyran Pélie elle gagne les filles,  
-Et leur feint de ma part tant d'outrages reçus, [4]  
+De mon tyran Pélie elle gagne les filles,   [4]
+Et leur feint de ma part tant d'outrages reçus,  
 Que ces faibles esprits sont aisément déçus.  
 Elle fait amitié, leur promet des merveilles,  
 Du pouvoir de son art leur remplit les oreilles,  
@@ -154,8 +154,8 @@ Médée, après le coup d'une si belle amorce,
 Prépare de l'eau pure et des herbes sans force,  
 Redouble le sommeil des gardes et du Roi,  
 (La suite au seul récit me fait trembler d'effroi.)  
-À force de pitié ces filles inhumaines  
-De leur père endormi vont épuiser les veines, [5]  
+À force de pitié ces filles inhumaines   [5]
+De leur père endormi vont épuiser les veines,  
 Leur tendresse crédule, à grands coups de couteau  
 Prodigue ce vieux sang, et fait place au nouveau.  
 Le coup le plus mortel s'impute à grand service,  
@@ -183,8 +183,8 @@ Acaste nouveau roi fait mutiner la ville,
 Nomme Jason l'auteur de cette trahison,  
 Et pour venger son père, assiège ma maison.  
 Mais j'étais déjà loin aussi bien que Médée  
-Et ma famille enfin à Corinthe abordée,  
-Nous saluons Créon, dont la bénignité [6]  
+Et ma famille enfin à Corinthe abordée,   [6]
+Nous saluons Créon, dont la bénignité  
 Nous promet contre Acaste un lieu de sûreté.  
 Que vous dirai-je plus ? Mon bonheur ordinaire  
 M'acquiert les volontés de la fille et du père,  
@@ -250,8 +250,8 @@ Je vous y conduirais, mais j'attends ma princesse,
 Qui va sortir du temple.  
 
     POLLUX.
-        Adieu : l'amour vous presse,  
-Et je serais marri qu'un soin officieux [7]  
+        Adieu : l'amour vous presse,   [7]
+Et je serais marri qu'un soin officieux  
 Vous fît perdre pour moi des temps si précieux.  
 
 
@@ -328,15 +328,15 @@ Voyez de quel mépris vous traite son parjure,
 Et m'aidez à venger cette commune injure :  
 S'il me peut aujourd'hui chasser impunément,  
 Vous êtes sans pouvoir ou sans ressentiment.  
-Et vous, troupe savante en noires barbaries,  
-Filles de l'Achéron, pestes, larves, furies, [8]  
+Et vous, troupe savante en noires barbaries,   [8]
+Filles de l'Achéron, pestes, larves, furies,  
 Fières soeurs, si jamais notre commerce étroit  
 Sur vous et vos serpents me donna quelque droit,  
 Sortez de vos cachots avec les mêmes flammes  
 Et les mêmes tourments dont vous gênez les âmes.  
 Laissez-les quelque temps reposer dans leurs fers,  
-Pour mieux agir pour moi faites trêve aux enfers ;  
-Apportez-moi du fond des antres de Mégère [9]  
+Pour mieux agir pour moi faites trêve aux enfers ;   [9]
+Apportez-moi du fond des antres de Mégère  
 La mort de ma rivale, et celle de son père,  
 Et si vous ne voulez mal servir mon courroux  
 Quelque chose de pis pour mon perfide époux.  
@@ -352,8 +352,8 @@ Jason me répudie ! Et qui l'aurait pu croire ?
 S'il a manqué d'amour, manque-t-il de mémoire ?  
 Me peut-il bien quitter après tant de bienfaits ?  
 M'ose-t-il bien quitter après tant de forfaits ?  
-Sachant ce que je puis, ayant vu ce que j'ose,  
-Croit-il que m'offenser soit si peu de chose ? [10]  
+Sachant ce que je puis, ayant vu ce que j'ose,   [10]
+Croit-il que m'offenser soit si peu de chose ?  
 Quoi ? Mon père trahi, les éléments forcés,  
 D'un frère dans la mer les membres dispersés,  
 Lui font-ils présumer mon audace épuisée ?  
@@ -378,8 +378,8 @@ Mais pour exécuter tout ce que j'entreprends,
 Quels dieux me fourniront des secours assez grands ?  
 Ce n'est plus vous, Enfers, qu'ici je sollicite :  
 Vos feux sont impuissants pour ce que je médite.  
-Auteur de ma naissance, aussi bien que du jour  
-Qu'à regret tu dépars à ce fatal séjour, [11]  
+Auteur de ma naissance, aussi bien que du jour   [11]
+Qu'à regret tu dépars à ce fatal séjour,  
 Soleil, qui vois l'affront qu'on va faire à ta race  
 Donne-moi tes chevaux à conduire en ta place,  
 Accorde cette grâce à mon désir bouillant,  
@@ -390,8 +390,8 @@ Mon erreur volontaire ajustée à mes voeux
 Arrêtera sur elle un déluge de feux,  
 Créon en est le prince, et prend Jason pour gendre,  
 Il faut l'ensevelir dessous sa propre cendre,  
-Et brûler son payx, si bine qu'à l'avenir  
-L'Isthme n'empêche plus les deux mers de s'unir. [12]  
+Et brûler son payx, si bine qu'à l'avenir   [12]
+L'Isthme n'empêche plus les deux mers de s'unir.  
 
 
 ## SCÈNE V. Médée, Nérine.
@@ -427,8 +427,8 @@ L'âme en est incapable en de moindres malheurs,
 Et n'a point où cacher de si grandes douleurs.  
 Jason m'a fait trahir mon pays et mon père,  
 Et me laisse au milieu d'une terre étrangère,  
-Sans support, sans amis, sans retraite, sans bien,  
-La fable de son peuple, et la haine du mien : [13]  
+Sans support, sans amis, sans retraite, sans bien,   [13]
+La fable de son peuple, et la haine du mien :  
 Nérine, après cela, tu veux que je me taise !  
 Ne dois-je point encore en témoigner de l'aise,  
 De ce royal hymen souhaiter l'heureux jour,  
@@ -442,8 +442,8 @@ Vous tient en sûreté parmi vos ennemis.
 
     MÉDÉE.
 L'âme doit se raidir plus elle est menacée,  
-Et contre la fortune aller tête baissée,  
-La choquer hardiment, et sans craindre la mort [14]  
+Et contre la fortune aller tête baissée,   [14]
+La choquer hardiment, et sans craindre la mort  
 Se présenter de front à son plus rude effort,  
 Cette lâche ennemie a peur des grands courages,  
 Et sur ceux qu'elle abat redouble ses outrages.  
@@ -454,8 +454,8 @@ Que sert ce grand courage où l'on est sans pouvoir ?
     MÉDÉE.
 Il trouve toujours lieu de se faire valoir.  
 
-    NÉRINE.
-Forcez l'aveuglement dont vous êtes séduite, [15]  
+    NÉRINE. [15]
+Forcez l'aveuglement dont vous êtes séduite,  
 Pour voir en quel état le sort vous a réduite,  
 Votre pays vous hait, votre époux est sans foi,  
 Dans un si grand revers que vous reste-t-il ?  
@@ -469,8 +469,8 @@ Moi dis-je, et c'est assez.
 
     MÉDÉE.
 Oui, tu vois en moi seule, et le fer, et la flamme,  
-Et la terre, et la mer, et l'enfer, et les Cieux,  
-Et le sceptre des Rois, et le foudre des Dieux. [16]  
+Et la terre, et la mer, et l'enfer, et les Cieux,   [16]
+Et le sceptre des Rois, et le foudre des Dieux.  
 
     NÉRINE.
 L'impétueuse ardeur d'un courage sensible  
@@ -484,10 +484,10 @@ Mon père qui l'était rompit-il mes projets ?
 Non, mais il fut surpris, et Créon se défie.  
 Fuyez, qu'à ses soupçons il ne vous sacrifie.  
 
-    MÉDÉE.
-Las ! Je n'ai que trop fui, cette infidélité [17]  
-D'un juste châtiment punit ma lâcheté :  
-Si je n'eusse point fui pour la mort de Pélie, [18]  
+    MÉDÉE. [17]
+Las ! Je n'ai que trop fui, cette infidélité  
+D'un juste châtiment punit ma lâcheté :   [18]
+Si je n'eusse point fui pour la mort de Pélie,  
 Si j'eusse tenu bon dedans la Thessalie,  
 Il n'eût point vu Créuse, et cet objet nouveau  
 N'eût point de notre hymen étouffé le flambeau.  
@@ -535,12 +535,12 @@ Notre première ardeur soutient son intérêt :
 Je crois qu'il m'aime encore et qu'il nourrit en l'âme  
 Quelques restes secrets d'une si belle flamme,  
 Il ne fait qu'obéir aux volontés d'un Roi,  
-Qui l'arrache à Médée en dépit de sa foi,  
-Qu'il vive, et s'il se peut que l'ingrat me demeure, [19]  
+Qui l'arrache à Médée en dépit de sa foi,   [19]
+Qu'il vive, et s'il se peut que l'ingrat me demeure,  
 Sinon, ce m'est assez que sa Créuse meure :  
 Qu'il vive cependant, et jouisse du jour  
-Que lui conserve encore mon immuable amour.  
-Créon seul, et sa fille ont fait la perfidie, [20]  
+Que lui conserve encore mon immuable amour.   [20]
+Créon seul, et sa fille ont fait la perfidie,  
 Eux seuls termineront toute la Tragédie,  
 Leur perte achèvera cette fatale paix.  
 
@@ -566,13 +566,13 @@ De quoi m'accuse-t-on ? Quel crime, quelle plainte
 Vous porte à me chasser avecque tant d'ardeur ?  
 
     CRÉON.
-Ah l'innocence même, et la même candeur !  
-Médée est un miroir de vertu signalée, [21]  
+Ah l'innocence même, et la même candeur !   [21]
+Médée est un miroir de vertu signalée,  
 Quelle inhumanité de l'avoir exilée !  
 Barbare as-tu sitôt oublié tant d'horreurs ?  
 Repasse tes forfaits avecque tes erreurs,  
-Et de tant de pays nomme quelque contrée  
-Dont tes méchancetés te permettent l'entrée. [22]  
+Et de tant de pays nomme quelque contrée   [22]
+Dont tes méchancetés te permettent l'entrée.  
 Toute la Thessalie en armes te poursuit,  
 Ton père te déteste, et l'univers te fuit.  
 Me dois-je en ta faveur charger de tant de haines,  
@@ -598,16 +598,16 @@ L'envoya sur nos bords se livrer à sa perte,
 Car comment voulez-vous que je nomme un dessein  
 Au-dessus de sa force et du pouvoir humain ?  
 Apprenez quelle était cette illustre conquête,  
-Et de combien de morts j'ai garanti sa tête.  
-Il fallait mettre au joug deux taureaux furieux, [23]  
+Et de combien de morts j'ai garanti sa tête.   [23]
+Il fallait mettre au joug deux taureaux furieux,  
 Des tourbillons de feux s'élançaient de leurs yeux,  
 Et leur maître Vulcain poussait par leur haleine  
 Un long embrasement dessus toute la plaine,  
 Eux domptés, on entrait en de nouveaux hasards,  
 Il fallait labourer les tristes champs de Mars,  
 Et des dents d'un serpent ensemencer leur terre  
-Dont la stérilité fertile pour la guerre  
-Produisait à l'instant des escadrons armés [24]  
+Dont la stérilité fertile pour la guerre   [24]
+Produisait à l'instant des escadrons armés  
 Contre le laboureur qui les avait semés,  
 Mais quoi qu'eût fait contre eux une valeur parfaite  
 La toison n'était pas au bout de leur défaite :  
@@ -617,8 +617,8 @@ Vomissant mille traits de sa gorge enflammée,
 La gardait beaucoup mieux que toute cette armée.  
 Jamais étoile, lune, aurore, ni soleil,  
 Ne virent abaisser sa paupière au sommeil.  
-Je l'ai seule assoupi, seule j'ai par mes charmes  
-Mis au joug les taureaux et défait les gendarmes. [25]  
+Je l'ai seule assoupi, seule j'ai par mes charmes   [25]
+Mis au joug les taureaux et défait les gendarmes.  
 Si lors à mon devoir mon désir limité  
 Eût conservé ma honte et ma fidélité,  
 Si j'eusse eu de l'horreur de tant d'énormes fautes,  
@@ -667,8 +667,8 @@ Emporte avecque toi son crime et mon souci,
 Tes herbes, tes poisons, ton coeur impitoyable,  
 Tout ce qui me fait craindre, et rend Jason coupable.  
 
-    MÉDÉE.
-Peignez mes actions plus noires que la nuit, [26] [27]  
+    MÉDÉE. [26] [27]
+Peignez mes actions plus noires que la nuit,  
 Je n'en ai que la honte, il en a tout le fruit :  
 C'est à son intérêt que ma savante audace  
 Immola son tyran par les mains de sa race,  
@@ -723,8 +723,8 @@ Quelle grâce !
 Sa contestation se rendrait éternelle.  
 Quel indomptable esprit ! Quel arrogant maintien  
 Accompagnait l'orgueil d'un si long entretien !  
-A-t-elle rien fléchi de son humeur altière ?  
-A-t-elle pu descendre à la moindre prière ? [28]  
+A-t-elle rien fléchi de son humeur altière ?   [28]
+A-t-elle pu descendre à la moindre prière ?  
 Et le sacré respect de ma condition  
 En a-t-il arraché quelque soumission ?  
 
@@ -790,17 +790,17 @@ Un trait de son envie, ou de son impuissance,
 Elle devait un sceptre au sang dont vous naissez,  
 Et sans lui vos vertus le méritaient assez.  
 L'amour, qui n'a pu voir une telle injustice,  
-Supplée à son défaut, ou punit sa malice,  
-Et vous donne au plus fort de vos adversités [29]  
+Supplée à son défaut, ou punit sa malice,   [29]
+Et vous donne au plus fort de vos adversités  
 Le sceptre que j'attends, et que vous méritez.  
 La gloire m'en demeure, et les races futures  
 Comptant notre hyménée entre vos aventures,  
 Vanteront à jamais mon amour généreux,  
 Qui d'un si grand héros rompt le sort malheureux.  
-Après tout cependant, riez de ma faiblesse :  
-Prête de posséder le phénix de la Grèce, [30]  
-La fleur de nos guerriers, le sang de tant de Dieux,  
-La robe de Médée a donné dans mes yeux. [31]  
+Après tout cependant, riez de ma faiblesse :   [30]
+Prête de posséder le phénix de la Grèce,  
+La fleur de nos guerriers, le sang de tant de Dieux,   [31]
+La robe de Médée a donné dans mes yeux.  
 Mon caprice à son lustre attachant mon envie  
 Sans elle trouve à dire au bonheur de ma vie,  
 C'est ce qu'ont prétendu mes desseins relevés  
@@ -809,8 +809,8 @@ Pour le prix des enfants que je vous ai sauvés.
     JASON.
 Que ce prix est léger pour un si bon office !  
 Il y faut toutefois employer l'artifice :  
-Ma jalouse en fureur n'est pas femme à souffrir  
-Que ma main l'en dépouille afin de vous l'offrir ; [32]  
+Ma jalouse en fureur n'est pas femme à souffrir   [32]
+Que ma main l'en dépouille afin de vous l'offrir ;  
 Des trésors dont son père épuise la Scythie,  
 C'est tout ce qu'elle a pris quand elle en est sortie.  
 
@@ -819,8 +819,8 @@ Qu'elle a fait un beau choix ! Jamais éclat pareil
 Ne sema dans la nuit les clartés du Soleil ;  
 Les perles avec l'or confusément mêlées,  
 Mille pierres de prix sur ses bords étalées,  
-D'un mélange divin éblouissent les yeux ;  
-Jamais rien d'approchant ne se fit en ces lieux ; [33]  
+D'un mélange divin éblouissent les yeux ;   [33]
+Jamais rien d'approchant ne se fit en ces lieux ;  
 Pour moi, tout aussitôt que je l'en vis parée,  
 Je ne fis plus d'état de la toison dorée,  
 Et dussiez-vous vous-même en être un peu jaloux,  
@@ -832,8 +832,8 @@ Pourvu que cette robe, et Jason soient à moi.
 
     JASON.
 N'en doutez point ma Reine, elle vous est acquise  
-Je vais chercher Nérine, et par son entremise  
-Obtenir de Médée avec dextérité [34]  
+Je vais chercher Nérine, et par son entremise   [34]
+Obtenir de Médée avec dextérité  
 Ce que refuserait son courage irrité.  
 Pour elle, vous savez que je fuis sses approches :  
 J'aurais peine à souffrir l'orgueil de ses reproches ;  
@@ -857,8 +857,8 @@ Allez donc, votre vue augmenterait ses peines.
     CLÉONE.
 Souvenez-vous de l'air dont il le faut traiter.  
 
-    CRÉUSE.
-Ma bouche accortement saura s'en acquitter. [35]  
+    CRÉUSE. [35]
+Ma bouche accortement saura s'en acquitter.  
 
 
 ## SCÈNE V. AEgée, Créuse, Cléone.
@@ -873,16 +873,16 @@ Et tout Corinthe enfin s'impute à grande injure,
 Qu'un fugitif, un traître, un meurtrier de Rois,  
 Lui donne à l'avenir des princes et des lois.  
 Il ne peut endurer que l'horreur de la Grèce  
-Pour prix de ses forfaits épouse sa princesse,  
-Et qu'il faille ajouter à vos titres d'honneur, [36]  
+Pour prix de ses forfaits épouse sa princesse,   [36]
+Et qu'il faille ajouter à vos titres d'honneur,  
 Femme d'un assassin et d'un empoisonneur.  
 
     CRÉUSE.
 Laissez agir, grand Roi, la raison sur votre âme,  
 Et ne le chargez point des crimes de sa femme.  
 J'épouse un malheureux, et mon père y consent,  
-Mais prince, mais vaillant, et surtout innocent.  
-Non pas que je ne faille en cette préférence ; [37]  
+Mais prince, mais vaillant, et surtout innocent.   [37]
+Non pas que je ne faille en cette préférence ;  
 De votre rang au sien je sais la différence.  
 Mais si vous connaissez l'amour et ses ardeurs,  
 Jamais pour son objet il ne prend les grandeurs,  
@@ -894,8 +894,8 @@ Et souvent, sans raison, les objets de nos flammes
 Frappent nos yeux ensemble et saisissent nos âmes.  
 Ainsi nous avons vu le souverain des Dieux,  
 Au mépris de Junon, aimer en ces bas lieux ;  
-Vénus quitter son Mars et négliger sa prise,  
-Tantôt pour Adonis, et tantôt pour Anchise ; [38]  
+Vénus quitter son Mars et négliger sa prise,   [38]
+Tantôt pour Adonis, et tantôt pour Anchise ;  
 Et c'est peut-être encore avec moins de raison  
 Que bien que vous m'aimiez, je me donne à Jason.  
 D'abord dans mon esprit vous eûtes ce partage,  
@@ -912,8 +912,8 @@ Quand on connaît sa faute, on pèche doublement.
     CRÉUSE.
 Puis donc que vous trouvez la mienne inexcusable,  
 Je ne veux plus, Seigneur, me confesser coupable.  
-L'amour de mon pays et le bien de l'État  
-Me défendaient l'hymen d'un si grand potentat. [39]  
+L'amour de mon pays et le bien de l'État   [39]
+Me défendaient l'hymen d'un si grand potentat.  
 Il m'eût fallu soudain vous suivre en vos provinces,  
 Et priver mes sujets de l'aspect de leurs princes.  
 Votre sceptre pour moi n'est qu'un pompeux exil ;  
@@ -928,8 +928,8 @@ Corinthe est bon sujet, mais il veut voir son roi,
 Et d'un prince éloigné rejetterait la loi.  
 Joignez à ces raisons qu'un père un peu sur l'âge,  
 Dont ma seule présence adoucit le veuvage,  
-Ne saurait se résoudre à séparer de lui  
-De ses débiles ans l'espérance et l'appui, [40]  
+Ne saurait se résoudre à séparer de lui   [40]
+De ses débiles ans l'espérance et l'appui,  
 Et vous reconnaîtrez que je ne vous préfère  
 Que le bien de l'État, mon pays et mon père.  
 
@@ -963,8 +963,8 @@ Favorisez celui de tous vos courtisans
 Qui raillera le mieux le déclin de mes ans :  
 Vous jouirez fort peu d'une telle insolence ;  
 Mon amour outragé court à la violence ;  
-Mes vaisseaux à la rade, assez proches du port,  
-N'ont que trop de soldats à faire un coup d'effort. [41]  
+Mes vaisseaux à la rade, assez proches du port,   [41]
+N'ont que trop de soldats à faire un coup d'effort.  
 La jeunesse me manque, et non pas le courage :  
 Les Rois ne perdent point les forces avec l'âge ;  
 Et l'on verra, peut-être avant ce jour fini,  
@@ -985,8 +985,8 @@ Ton destin te trahit, et ta beauté fatale
 Sous l'appas d'un hymen t'expose à ta rivale,  
 Ton sceptre est impuissant à vaincre son effort,  
 Et le jour de sa fuite est celui de ta mort.  
-Sa vengeance à la main elle n'a qu'à résoudre,  
-Un mot du haut des cieux fait descendre le foudre ; [42]  
+Sa vengeance à la main elle n'a qu'à résoudre,   [42]
+Un mot du haut des cieux fait descendre le foudre ;  
 Les mers pour noyer tout n'attendent que sa loi,  
 La terre offre à s'ouvrir sous le palais du Roi,  
 L'air tient les vents tous prêts à suivre sa colère,  
@@ -994,8 +994,8 @@ Tant la nature esclave a peur de lui déplaire :
 Et si ce n'est assez de tous les éléments,  
 Les enfers vont sortir à ses commandements.  
 Moi, bien que mon devoir m'attache à son service,  
-Je lui prête à regret un silence complice,  
-D'un louable désir mon coeur sollicité [43]  
+Je lui prête à regret un silence complice,   [43]
+D'un louable désir mon coeur sollicité  
 Lui ferait avec joie une infidélité ;  
 Mais loin de s'arrêter sa rage découverte  
 À celle de Créuse ajouterait ma perte,  
@@ -1030,8 +1030,8 @@ Ses pleurs en ont coulé, Créon même en soupire,
 Lui préfère à regret le bien de son Empire,  
 Et si dans son adieu son coeur moins irrité  
 En voulait mériter la libéralité,  
-Si jusque-là Médée apaisait ses menaces,  
-Qu'elle voulut partir avec ses bonnes grâces, [44]  
+Si jusque-là Médée apaisait ses menaces,   [44]
+Qu'elle voulut partir avec ses bonnes grâces,  
 Je sais (comme il est bon) que ses trésors ouverts,  
 Lui seraient sans réserve entièrement offerts,  
 Et malgré les malheurs où le sort l'a réduite  
@@ -1049,8 +1049,8 @@ De toutes ses fureurs l'aurait tôt ressaisie.
 
     JASON.
 Pour montrer sans les voir son courage apaisé  
-Je te dirai, Nérine, un moyen fort aisé ;  
-Mais puisse m'assurer dessus ta confidence ? [45]  
+Je te dirai, Nérine, un moyen fort aisé ;   [45]
+Mais puisse m'assurer dessus ta confidence ?  
 Oui, de trop longue main je connais ta prudence.  
 On a banni Médée, et Créon tout d'un temps  
 Joignait à son exil celui de ses enfants,  
@@ -1079,8 +1079,8 @@ Accoutumée à fuir, l'exil m'est peu de chose,
 Sa rigueur n'a pour moi de nouveau que sa cause,  
 C'est pour vous que j'ai fui, c'est vous qui me chassez.  
 Où me renvoyez-vous, si vous me bannissez ?  
-Irai-je sur le Phase, où j'ai trahi mon père  
-Apaiser de mon sang les mânes de mon frère ? [46]  
+Irai-je sur le Phase, où j'ai trahi mon père   [46]
+Apaiser de mon sang les mânes de mon frère ?  
 Irai-je en Thessalie où le meurtre d'un Roi  
 Pour victime aujourd'hui ne demande que moi ?  
 Il n'est point de climat dont mon amour fatale  
@@ -1097,13 +1097,13 @@ Qu'ai-je épargné depuis qui fût en mon pouvoir ?
 Ai-je auprès de l'amour écouté mon devoir ?  
 Pour jeter un obstacle à l'ardente poursuite  
 Dont mon père en fureur touchait déjà ta fuite,  
-Semai-je avec regret mon frère par morceaux ?  
-À ce objet piteux épandu sur les eaux, [47]  
+Semai-je avec regret mon frère par morceaux ?   [47]
+À ce objet piteux épandu sur les eaux,  
 Mon père trop sensible aux droits de la nature,  
 Quitta tous autres soins que de sa sépulture,  
 Et par ce nouveau crime émouvant sa pitié,  
-J'arrêtai les effets de son inimitié.  
-Bourelle de mon sang, honte de ma famille, [48]  
+J'arrêtai les effets de son inimitié.   [48]
+Bourelle de mon sang, honte de ma famille,  
 Aussi cruelle soeur, que déloyale fille,  
 Ces titres glorieux plaisaient à mes amours.  
 Je les pris sans horreur pour conserver tes jours.  
@@ -1168,8 +1168,8 @@ Où Créuse fait moins que le sort qui m'accable.
 Peux-tu bien, sans rougir, désavouer tes feux ?  
 
     JASON.
-Eh bien soit, ses attraits captivent tous mes voeux :  
-Toi qu'un amour furtif souilla de tant de crimes [49]  
+Eh bien soit, ses attraits captivent tous mes voeux :   [49]
+Toi qu'un amour furtif souilla de tant de crimes  
 M'oses-tu reprocher des ardeurs légitimes ?  
 
     MÉDÉE.
@@ -1244,9 +1244,9 @@ Que leur puisse opposer qu'un courage inutile ?
 
     MÉDÉE.
 Fuis-les tous les deux pour moi, suis Médée à ton tour,  
-Sauve ton innocence avecque ton amour.  
-Fuis les, je n'arme pas ta dextre sanguinaire [50]  
-Ni contre ton perent, ni contre ton beau-père. [51]  
+Sauve ton innocence avecque ton amour.   [50]
+Fuis les, je n'arme pas ta dextre sanguinaire   [51]
+Ni contre ton perent, ni contre ton beau-père.  
 
     JASON.
 Qui leur résistera, s'ils viennent à s'unir ?  
@@ -1283,9 +1283,9 @@ Te présente à mes yeux aussi bien qu'à mon âme.
     JASON.
 Ah ! Reprends ta colère, elle a moins de rigueur.  
 M'enlever mes enfants, c'est m'arracher le coeur,  
-Et Jupiter tout prêt à m'écraser du foudre  
-Mon trépas à la main, ne pourrait m'y résoudre. [52]  
-C'est pour eux que je change ; et la Parque, sans eux, [53]  
+Et Jupiter tout prêt à m'écraser du foudre   [52]
+Mon trépas à la main, ne pourrait m'y résoudre.   [53]
+C'est pour eux que je change ; et la Parque, sans eux,  
 Seule eut de notre hymen rompu les chastes noeuds.  
 
     MÉDÉE.
@@ -1312,13 +1312,13 @@ J'y donnerai bon ordre : il est en ta puissance
 D'oublier mon amour, mais non pas ma vengeance :  
 Je la saurai graver en tes esprits glacés  
 Par des coups trop profonds pour en être effacés.  
-Il aime ses enfants, ce courage inflexible,  
-Son faible est découvert, par eux il est sensible, [54]  
+Il aime ses enfants, ce courage inflexible,   [54]
+Son faible est découvert, par eux il est sensible,  
 Par eux mon bras armé d'une juste rigueur  
 Va trouver des chemins à lui percer le coeur.  
 
-    NÉRINE.
-Madame, épargnez-les, épargnez vos entrailles, [55]  
+    NÉRINE. [55]
+Madame, épargnez-les, épargnez vos entrailles,  
 N'avancez point par là vos propres funérailles,  
 Contre un sang innocent pourquoi vous irriter  
 Si Créuse en vos lacs se vient précipiter ?  
@@ -1359,8 +1359,8 @@ Il en faut un hommage à tes divins attraits,
 Et des remerciements au vol que tu me fais.  
 Tu l'auras, mon refus serait un nouveau crime,  
 Mais je t'en veux parer pour être ma victime,  
-Et sous un faux semblant de libéralité  
-Saouler et ma vengeance et ton avidité. [56]  
+Et sous un faux semblant de libéralité   [56]
+Saouler et ma vengeance et ton avidité.  
 Le charme est achevé, tu peux entrer Nérine,  
 Mes maux dans ces poisons trouvent leur médecine,  
 Vois combien de serpents à mon commandement  
@@ -1370,22 +1370,22 @@ Sur ce présent fatal ont déchrgé leurs pestes :
 L'amour à tous mes sens ne fut jamais si doux  
 Que ce triste appareil à mon esprit jaloux.  
 Ces herbes ne sont pas d'une vertu commune,  
-Moi-même en les cueillant je fis pâlir la Lune,  
-Quand, les cheveux flottants, le bras et le pied nu, [57]  
+Moi-même en les cueillant je fis pâlir la Lune,   [57]
+Quand, les cheveux flottants, le bras et le pied nu,  
 J'en dépouillai jadis un climat inconnu.  
-Vois mille autres venins : cette liqueur épaisse  
-Mêle du sang de l'Hydre avec celui de Nesse, [58]  
-Python eut cette langue, et ce plumage noir [59]  
+Vois mille autres venins : cette liqueur épaisse   [58]
+Mêle du sang de l'Hydre avec celui de Nesse,   [59]
+Python eut cette langue, et ce plumage noir  
 Est celui qu'une harpie en fuyant laissa choir.  
 Par ce tison Althée assouvit sa colère,  
-Trop pitoyable soeur et trop cruelle mère.  
-Ce feu tomba du ciel avec Phaéton, [60]  
+Trop pitoyable soeur et trop cruelle mère.   [60]
+Ce feu tomba du ciel avec Phaéton,  
 Cet autre vient des flots du pierreux Phlégéthon,  
-Et celui-ci jadis remplit en nos contrées  
-Des taureaux de Vulcain les gorges ensoufrées. [61]  
+Et celui-ci jadis remplit en nos contrées   [61]
+Des taureaux de Vulcain les gorges ensoufrées.  
 Enfin, tu ne vois là, poudres, racines, eaux,  
-Dont le pouvoir mortel n'ouvrît mille tombeaux,  
-Ce présent déceptif a bu toute leur force, [62]  
+Dont le pouvoir mortel n'ouvrît mille tombeaux,   [62]
+Ce présent déceptif a bu toute leur force,  
 Et bien mieux que mon bras vengera mon divorce,  
 Les traîtres apprendront à se jouer à moi.  
 Mais d'où provient ce bruit dans le palais du Roi ?  
@@ -1399,13 +1399,13 @@ Et que sur sa couronne et sa persévérance
 L'exil de votre époux ait eu la préférence,  
 A tâché par la force à repousser l'affront  
 Que ce nouvel hymen lui porte sur le front.  
-Comme cette beauté, pour lui toute de glace,  
-Sur les bords de la mer contemplait la bonace, [63]  
+Comme cette beauté, pour lui toute de glace,   [63]
+Sur les bords de la mer contemplait la bonace,  
 Il la voit mal suivie, et prend un si beau temps  
 À rendre ses désirs et les vôtres contents.  
 De ses meilleurs soldats une troupe choisie  
-Le suit dans ce dessein, Créuse en est sasie,  
-L'effroi qui la surprend la jette en pâmoison, [64]  
+Le suit dans ce dessein, Créuse en est sasie,   [64]
+L'effroi qui la surprend la jette en pâmoison,  
 Et tout ce qu'elle peut, c'est de nommer Jason.  
 Ses gardes à l'abord font quelque résistance,  
 Et le peuple leur prête une faible assistance,  
@@ -1417,8 +1417,8 @@ Déjà presque en leur bord elle était enlevée...
 Je devine la fin, mon traître l'a sauvée.  
 
     NÉRINE.
-Oui, Madame, et de plus Aegée est prisonnier,  
-Votre époux à son myrte ajoute ce laurier, [65]  
+Oui, Madame, et de plus Aegée est prisonnier,   [65]
+Votre époux à son myrte ajoute ce laurier,  
 Mais apprenez comment.  
 
     MÉDÉE.
@@ -1451,8 +1451,8 @@ Lui porter de ma part cette robe fatale,
 Mène-lui mes enfants, et fais-les si tu peux  
 Présenter par leur père à l'objet de ses voeux.  
 
-    NÉRINE.
-Mais, Madame, porter cette robe empestée, [66]  
+    NÉRINE. [66]
+Mais, Madame, porter cette robe empestée,  
 Que de tant de poisons vous avez infectée,  
 C'est pour votre Nérine un trop funeste emploi,  
 Avant que sur Créuse ils agiraient sur moi.  
@@ -1594,8 +1594,8 @@ Nous peuvent-ils laisser quelque sorte d'ombrages ?
 Peut-être que contre eux s'étend sa trahison,  
 Qu'elle ne les prend plus que pour ceux de Jason,  
 Et qu'elle s'imagine, en haine de leur père,  
-Que n'étant plus sa femme, elle n'est plus leur mère.  
-Sire, renvoyez-lui ce don pernicieux, [67]  
+Que n'étant plus sa femme, elle n'est plus leur mère.   [67]
+Sire, renvoyez-lui ce don pernicieux,  
 Et ne vous chargez point d'un poison précieux.  
 
     CLÉONE.
@@ -1608,8 +1608,8 @@ Il faut se faire force, et vaincre son désir.
 Jason dans son amour a trop de complaisance  
 De souffrir qu'un tel don s'accepte en sa présence.  
 
-    CRÉON.
-Sans rien mettre au hasard, je saurai dextrement [68]  
+    CRÉON. [68]
+Sans rien mettre au hasard, je saurai dextrement  
 Accorder vos soupçons : et son contentement.  
 Nous verrons dès ce soir sur une criminelle,  
 Si ce présent nous cache une embûche mortelle.  
@@ -1667,7 +1667,7 @@ Peste des coeurs, tyran des Rois,
 Dont les impérieuses lois  
 N'épargnent pas même ta mère,  
 Amour, contre Jason tourne ton trait fatal,   [69]
-Au pouvoir de tes dards je remets ma vengeance, [70]  
+Au pouvoir de tes dards je remets ma vengeance,  
 Atterre son orgueil, et montre ta puissance  
 À perdre également l'un et l'autre rival.  
 
@@ -1696,11 +1696,11 @@ Qui des mains des bourreaux affranchisse ma mort.
     MÉDÉE.
 Je viens l'en affranchir : ne craignez plus, grand Prince,  
 Ne pensez qu'à revoir votre chère province.  
-Ces portes ne sont pas pour tenir contre moi.  
-Cessez indignes fers de captiver un Roi : [71]  
+Ces portes ne sont pas pour tenir contre moi.   [70]
+Cessez indignes fers de captiver un Roi :  
 Est-ce à vous à presser les bras d'un tel Monarque ?  
-Et vous, reconnaissez Médée à cette marque,  
-Et fuyez un tyran, dont le forcènement [72]  
+Et vous, reconnaissez Médée à cette marque,   [71]
+Et fuyez un tyran, dont le forcènement  
 Joindrait votre supplice à mon bannissement,  
 Avec la liberté reprenez le courage.  
 
@@ -1712,8 +1712,8 @@ Disposez de ma vie, et du sceptre d'Athènes :
 Je dois et l'une et l'autre à qui brise mes chaînes,  
 Votre divin secours me tire de danger,  
 Mais je n'en veux sortir qu'afin de vous venger.  
-Madame, si jamais avec votre assistance  
-Je puis toucher les lieux de mon obéissance, [73]  
+Madame, si jamais avec votre assistance   [72]
+Je puis toucher les lieux de mon obéissance,  
 Vous me verrez suivi de mille bataillons  
 Jusques dessus ces murs planter mes pavillons,  
 Punir leur traître Roi de vous avoir bannie,  
@@ -1743,8 +1743,8 @@ Et vous serai-je ingrat autant que votre époux ?
 
     MÉDÉE.
 Si je vous ai servi, tout ce que j'en souhaite,  
-C'est de trouver chez vous une sûre retraite,  
-Où de mes ennemis menaces ni présents [74]  
+C'est de trouver chez vous une sûre retraite,   [73]
+Où de mes ennemis menaces ni présents  
 Ne puissent plus troubler le repos de mes ans.  
 Non pas que je les craigne, eux et toute la terre  
 À leur confusion me livreraient la guerre,  
@@ -1765,16 +1765,16 @@ Faites la sûreté que demande ma fuite.
 
     MÉDÉE.
 Ma vengeance n'aurait qu'un succès imparfait,  
-Je ne me venge pas si je n'en vois l'effet,  
-Je dois à mon courroux l'heur d'un si doux spectacle. [75]  
+Je ne me venge pas si je n'en vois l'effet,   [74]
+Je dois à mon courroux l'heur d'un si doux spectacle.  
 Allez, Prince, et sans moi ne craignez point d'obstacle,  
 Je vous suivrai demain par un chemin nouveau.  
 Nérine devat vous portera ce flambeau,  
 Sa secrète vertu qui vous fait invisible.  
 Rendra votre départ de tous côtés paisible.  
 Ici pour empêcher l'alarme que le bruit  
-De votre délivrance aurait bientôt produit,  
-Un fantôme pareil et de taille et de face [76]  
+De votre délivrance aurait bientôt produit,   [75]
+Un fantôme pareil et de taille et de face  
 Tandis que vous fuirez, remplira votre place.  
 Partez sans plus tarder, Prince chéri des Dieux,  
 Et quittez pour jamais ces détestables lieux.  
@@ -1840,8 +1840,8 @@ Courage, enfin il faut que l'un et l'autre meure.
 La flamme disparaît, mais l'ardeur leur demeure,  
 Et leurs habits charmés, malgré nos vains efforts  
 Sont des brasiers secrets attachés à leurs corps,  
-Qui veut les dépouiller, lui-même les déchire,  
-Et ce nouveau secours est un nouveau martyre. [77]  
+Qui veut les dépouiller, lui-même les déchire,   [76]
+Et ce nouveau secours est un nouveau martyre.  
 
     MÉDÉE.
 Que dit mon déloyal, que fait-il là dedans ?  
@@ -1875,8 +1875,8 @@ La pitié la combat, et se met en sa place,
 Puis cédant tout à coup la place à ma fureur,  
 J'adore les projets qui me faisaient horreur,  
 De l'amour aussitôt je tombe à la colère,  
-Des sentiments de femme aux tendresses de mère.  
-Cessez dorénavant, pensers irrésolus, [78]  
+Des sentiments de femme aux tendresses de mère.   [77]
+Cessez dorénavant, pensers irrésolus,  
 D'épargner des enfants que je ne verrai plus.  
 Chers fruits de mon amour, si je vous ai fait naître  
 Ce n'est pas seulement pour caresser un traître,  
@@ -1925,8 +1925,8 @@ Qui donne le trépas à qui je dois la vie,
 Mais soyez satisfait des rigueurs de mon sort,  
 Et cessez d'ajouter votre haine à ma mort.  
 L'ardeur qui me dévore et que j'ai méritée,  
-Surpasse en cruauté l'aigle de Prométhée,  
-Et je crois qu'Ixion au choix des châtiments, [79]  
+Surpasse en cruauté l'aigle de Prométhée,   [78]
+Et je crois qu'Ixion au choix des châtiments,  
 Préférerait sa roue à mes embrasements.  
 
     CRÉON.
@@ -1939,8 +1939,8 @@ Que le déclin des ans m'aurait bientôt ravie,
 La jeunesse des tiens, si beaux, si florissants,  
 Me porte bien des coups plus vifs, et plus pressants.  
 Ma fille, c'est donc là ce royal hyménée  
-Dont nous pensions toucher la pompeuse journée !  
-L'impiteuse Clothon en porte le flambeau, [80] [81]  
+Dont nous pensions toucher la pompeuse journée !   [79] [80]
+L'impiteuse Clothon en porte le flambeau,  
 Et pour lit nuptial il te faut un tombeau.  
 Ah rage, désespoir, destins, feux, poisons, charmes,  
 Tournez tous contre moi vos plus cruelles armes,  
@@ -1954,8 +1954,8 @@ De revivre à jamais en sa postérité.
     CRÉUSE.
 Cléone soutenez, les forces me défaillent,  
 Et ma vigueur succombe aux douleurs qui m'assaillent,  
-Le coeur va me manquer, je m'en puis plus, hélas,  
-Ne me refusez point, ce funeste soulas, [82]  
+Le coeur va me manquer, je m'en puis plus, hélas,   [81]
+Ne me refusez point, ce funeste soulas,  
 Monsieur, et si pour moi quelque amour vous demeure,  
 Entre vos bras mourants permettez que je meure,  
 Mes pleurs arroseront vos mortels déplaisirs,  
@@ -2010,8 +2010,8 @@ Hélas que de douceur aurait un prompt trépas !
 Dépêchez-vous Cléone aidez mon faible bras.  
 
     CLÉONE.
-Ne désespérez point, les Dieux plus pitoyables  
-À nos justes clameurs se rendront exorables, [83]  
+Ne désespérez point, les Dieux plus pitoyables   [82]
+À nos justes clameurs se rendront exorables,  
 Et vous conserveront en dépit du poison,  
 Et pour Reine à Corinthe, et pour femme à Jason.  
 Il arrive, et surpris il change, de visage :  
@@ -2054,8 +2054,8 @@ Et que je sens de morts sans mourir une fois !
 Quoi ? Vous m'estimez donc si lâche que de vivre  
 Et de si beaux chemins sont ouverts pour vous suivre ?  
 Ma reine si l'hymen n'a pu joindre nos corps,  
-Nous joindrons nos esprits, nous joindrons nos deux morts ;  
-Et l'on verra Charon passer chez Rhadamante, [84] [85]  
+Nous joindrons nos esprits, nous joindrons nos deux morts ;   [83] [84]
+Et l'on verra Charon passer chez Rhadamante,  
 Dans une même barque et l'amant, et l'amante.  
 Hélas ! Vous recevez, par ce présent charmé  
 Le déplorable prix de m'avoir trop aimé,  
@@ -2109,8 +2109,8 @@ Délivrer par sa mort mon âme prisonnière.
 Vous autres, cependant enlevez ces deux corps,  
 Contre tous ses démons mes bras sont assez forts,  
 Et la part que votre aide aurait en ma vengeance  
-Ne m'en permettrait pas une entière allégeance,  
-Préparez seulement des gênes des bourreaux, [86]  
+Ne m'en permettrait pas une entière allégeance,   [85]
+Préparez seulement des gênes des bourreaux,  
 Devenez inventifs en supplices nouveaux,  
 Qui la fassent mourir tant de fois sur leur tombe,  
 Que son coupable sang leur vaille une hécatombe ;  
@@ -2118,8 +2118,8 @@ Et si cette victime en mourant mille fois
 N'apaise point encore les mânes de deux Rois,  
 Je serai la seconde, et mon esprit fidèle  
 Ira gêner là-bas son âme criminelle,  
-Ira faire assembler pour sa punition  
-Les peines de Titye à celles d'Ixion. [87]  
+Ira faire assembler pour sa punition   [86]
+Les peines de Titye à celles d'Ixion.  
 Mais leur puis-je imputer ma mort en sacrifice ?  
 Elle m'est un plaisir et non pas un supplice,  
 Mourir c'est seulement auprès d'eux me ranger,  
@@ -2165,8 +2165,8 @@ Quoi tu m'oses braver, et ta brutalité
 Pense encore échapper à mon bras irrité ?  
 Tu redoubles ta peine avec cette insolence.  
 
-    MÉDÉE.
-Et que peut contre moi ta débile vaillance ? [88]  
+    MÉDÉE. [87]
+Et que peut contre moi ta débile vaillance ?  
 Mon art faisait ta force, et tes exploits guerriers  
 Tiennent de mon secours ce qu'ils ont de lauriers.  
 
@@ -2183,8 +2183,8 @@ Que sert de t'emporter à ces vaines furies,
 Vois les chemins de l'air qui me sont tous ouverts,  
 C'est par là que je fuis, et que je t'abandonne  
 Pour courir à l'exil que ton change m'ordonne,  
-Suis-moi, Jason, et trouve en ces lieux désolés  
-Des postillons pareils à mes dragons ailés. [89]  
+Suis-moi, Jason, et trouve en ces lieux désolés   [88]
+Des postillons pareils à mes dragons ailés.  
 Enfin je n'ai pas mal employé la journée  
 Que la bonté du Roi de grâce m'a donnée.  
 Mes désirs sont contents, mon père et mon pays,  
@@ -2197,8 +2197,8 @@ Lequel est plus à craindre ou d'elle ou de deux rois.
 
 ## SCÈNE VII.
 
-    JASON.
-Ô dieux ! Ce char volant, disparu dans la nue, [90]  
+    JASON. [89]
+Ô dieux ! Ce char volant, disparu dans la nue,  
 La dérobe à sa peine, aussi bien qu'à ma vue,  
 Et son impunité triomphe arrogamment  
 Des projets avortés de mon ressentiment.  
@@ -2223,8 +2223,8 @@ Misérable Perfide, ainsi donc ta faiblesse
 Est-ce là le pouvoir qu'ont sur toi ses désirs  
 Et ton obéissance à ses derniers soupirs ?  
 Venge-toi, pauvre amant, Créuse le commande,  
-Ne lui refuse point un sang qu'elle demande,  
-Écoute les accents de sa mourante voix, [91]  
+Ne lui refuse point un sang qu'elle demande,   [90]
+Écoute les accents de sa mourante voix,  
 Et vole sans rien craindre à ce que tu lui dois.  
 À qui sait bien aimer il n'est rien d'impossible.  
 Eusses-tu pour retraite un roc inaccessible,  
@@ -2388,46 +2388,44 @@ Si je vais te revoir plus tôt que tu ne veux.
 
 [69] Dard : Sorte d'arme qui est un bâton garni d'une pointe de fer et se lance avec la main. L
 
-[70] Dard : Sorte d'arme qui est un bâton garni d'une pointe de fer et se lance avec la main. L
+[70] Captiver : Retenir prisonnier. L
 
-[71] Captiver : Retenir prisonnier. L
+[71] Forcènement : État de celui qui est forcené, qui perd la raison. L
 
-[72] Forcènement : État de celui qui est forcené, qui perd la raison. L
+[72] Obéissance : En parlant des princes, domination. L
 
-[73] Obéissance : En parlant des princes, domination. L
+[73] Dans le vers ci-contre on lit n'y au lieu de ni, dans l'édtiion originale.
 
-[74] Dans le vers ci-contre on lit n'y au lieu de ni, dans l'édtiion originale.
+[74] Heur : rencontre avantageuse. (...) F antonyme de malheur
 
-[75] Heur : rencontre avantageuse. (...) F antonyme de malheur
+[75] Fantôme : Il se dit aussi du si mulacre surnaturel d'une personne. L
 
-[76] Fantôme : Il se dit aussi du si mulacre surnaturel d'une personne. L
+[76] Martyre : La mort ou les tourments endurés pour la religion chrétienne. Par extension; souffrance très intense. L
 
-[77] Martyre : La mort ou les tourments endurés pour la religion chrétienne. Par extension; souffrance très intense. L
+[77] Penser : nom masculin au XVIIème pour « pensée ».
 
-[78] Penser : nom masculin au XVIIème pour « pensée ».
+[78] Ixion : Roi des Lapithes, fit périr par surprise Délionée, son beau père, pour ne pas avoir à acquitter une dette contractée envers lui, et fut pour son crime chassé de ses États.
 
-[79] Ixion : Roi des Lapithes, fit périr par surprise Délionée, son beau père, pour ne pas avoir à acquitter une dette contractée envers lui, et fut pour son crime chassé de ses États.
+[79] Clothon : ou Clotho. Mythologie. Celle des trois Parques qui file le fil de la vie des hommes. L
 
-[80] Clothon : ou Clotho. Mythologie. Celle des trois Parques qui file le fil de la vie des hommes. L
+[80] Impiteux : Qui est fans pitié, qui est cruel. F
 
-[81] Impiteux : Qui est fans pitié, qui est cruel. F
+[81] Soulas : Terme vieilli. Soulagement, consolation, joie, plaisir. L
 
-[82] Soulas : Terme vieilli. Soulagement, consolation, joie, plaisir. L
+[82] Exorable : Qui se laisse fléchir par des supplications. L
 
-[83] Exorable : Qui se laisse fléchir par des supplications. L
+[83] Rhadamante : Fils de Jupiter et d'Europe et frère de Minos, est un des juges des Enfers. Il avait épousé Alcmène, veuve de d'Amphitryon. B
 
-[84] Rhadamante : Fils de Jupiter et d'Europe et frère de Minos, est un des juges des Enfers. Il avait épousé Alcmène, veuve de d'Amphitryon. B
+[84] Charon : Divinité de l'enfer dont la charge était de faire passer aux morts dans une barque le fleuve du Styx. L
 
-[85] Charon : Divinité de l'enfer dont la charge était de faire passer aux morts dans une barque le fleuve du Styx. L
+[85] Gêne : La question qu'on faisait subir aux accusés pour leur arracher des révélations. Par extension, les tortures qu'on inflige à quelqu'un pour lui faire dire quelque chose, pour en tirer de l'argent. 
 
-[86] Gêne : La question qu'on faisait subir aux accusés pour leur arracher des révélations. Par extension, les tortures qu'on inflige à quelqu'un pour lui faire dire quelque chose, pour en tirer de l'argent. 
+[86] Tytie : Géant célèbre, voulut attente à la pudeur de Latone, et fut tué à coup de flèches par les enfants de la déesse, Apollon et Diane, puis condamné à servir de pâture dans le Tartare à un vautour qui lui ronge éternellement les entrailles. B
 
-[87] Tytie : Géant célèbre, voulut attente à la pudeur de Latone, et fut tué à coup de flèches par les enfants de la déesse, Apollon et Diane, puis condamné à servir de pâture dans le Tartare à un vautour qui lui ronge éternellement les entrailles. B
+[87] Débile : Qui manque de force, au physique et au moral. L
 
-[88] Débile : Qui manque de force, au physique et au moral. L
+[88] Postillon : Homme attaché au service de la poste, et qui conduit les voyageurs. L
 
-[89] Postillon : Homme attaché au service de la poste, et qui conduit les voyageurs. L
+[89] Nue : Toute masse de vapeur d'eau répandue dans l'atmosphère. L
 
-[90] Nue : Toute masse de vapeur d'eau répandue dans l'atmosphère. L
-
-[91] Accent : Langage, chant, dans le style élevé et la poésie. L
+[90] Accent : Langage, chant, dans le style élevé et la poésie. L

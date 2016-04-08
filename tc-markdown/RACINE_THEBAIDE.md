@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_THEBAIDE  
-creator: RACINE, Jean  
-date: 1697  
+creator: Racine, Jean  
+date: 1664  
 title: LA THÉBAÏDE ou LES FRÈRES ENNEMIS, TRAGÉDIE.  
 ---
 
@@ -1835,8 +1835,8 @@ Dans des ruisseaux de sang elle voulait s'éteindre.
 Princes dénaturés, vous voilà satisfaits,  
 La mort seule entre vous pouvait mettre la paix.  
 Le trône pour vous deux avait trop peu de place,  
-Il fallait entre vous mettre un plus grand espace,  
-Et que le ciel vous mît pour finir vos discords, [3]  
+Il fallait entre vous mettre un plus grand espace,   [3]
+Et que le ciel vous mît pour finir vos discords,  
 L'un parmi les vivants, l'autre parmi les morts.  
 Infortunés tous deux, dignes qu'on vous déplore !  
 Moins malheureux pourtant que je ne suis encore,  

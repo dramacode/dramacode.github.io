@@ -122,8 +122,8 @@ Assure mon espoir de celles que j'attends ;
 Qu'un entretien rêveur durant ce peu de temps  
 M'instruise des moyens de plaire à cette belle,  
 Allume dans mon coeur de nouveaux feux pour elle :  
-Enfin, sans persister dans l'obstination,  
-Laisse-moi suivre ici mon inclination. [2]  
+Enfin, sans persister dans l'obstination,   [2]
+Laisse-moi suivre ici mon inclination.  
 
     LYSARQUE.
 Cette inclination, qui jusqu'ici vous mène,  
@@ -1763,8 +1763,8 @@ Prends ce fer en ta main.
 Oui, je le vois. Seigneur, quelle aventure étrange,  
 Quel malheureux destin en cet état vous range ?  
 
-    FLORIDAN.
-Garrottez ce maraud ; les couples de vos chiens [3]  
+    FLORIDAN. [3]
+Garrottez ce maraud ; les couples de vos chiens  
 Vous y pourront servir, faute d'autres liens.  
 Je veux qu'à mon retour une prompte justice  
 Lui fasse ressentir par l'éclat d'un supplice,  
@@ -1964,8 +1964,8 @@ Lorsqu'un infâme glaive allait trancher tes jours,
 Et qu'un injuste sort, ne trouvant point d'obstacle,  
 Apprêtait de ta tête un indigne spectacle !  
 
-    CLITANDRE.
-Ainsi qu'un autre Alcide, en m'arrachant des fers, [4]  
+    CLITANDRE. [4]
+Ainsi qu'un autre Alcide, en m'arrachant des fers,  
 Vous m'avez aujourd'hui retiré des enfers ;  
 Et moi dorénavant j'arrête mon envie  
 À ne servir qu'un prince à qui je dois la vie.  
@@ -2081,8 +2081,8 @@ Caliste entre et s'assied sur son lit.
 Celle qui voudrait voir tes blessures guéries,  
 Celle...  
 
-    ROSIDOR.
-        Ah, mon heur, jamais je n'obtiendrais sur moi [5]  
+    ROSIDOR. [5]
+        Ah, mon heur, jamais je n'obtiendrais sur moi  
 De pardonner ce crime à tout autre qu'à toi.  
 De notre amour naissant la douceur et la gloire  
 De leur charmante idée occupaient ma mémoire,  
@@ -2290,8 +2290,8 @@ J'en laisse à ses avis le libre jugement ;
 Mais qu'après son arrêt je saurai reconnaître  
 L'amour que vers son prince il aura fait paraître.  
 Viens çà toi maintenant, monstre de cruauté,  
-Qui joins l'assassinat à la déloyauté,  
-Détestable Alecton, que la reine déçue [6]  
+Qui joins l'assassinat à la déloyauté,   [6]
+Détestable Alecton, que la reine déçue  
 Avait naguère au rang de ses filles reçue !  
 Quel barbare, ou plutôt quelle peste d'enfer  
 Se rendit ton complice et te donna ce fer ?  
@@ -2336,8 +2336,8 @@ Après une bonté tellement excessive,
 Puisque votre clémence ordonne que je vive,  
 Permettez désormais, Sire, que mes desseins  
 Prennent des mouvements plus réglés et plus sains :  
-Souffrez que pour pleurer mes actions brutales,  
-Je fasse ma retraite avec les Vestales, [7]  
+Souffrez que pour pleurer mes actions brutales,   [7]
+Je fasse ma retraite avec les Vestales,  
 Et qu'une criminelle indigne d'être au jour  
 Se puisse renfermer en leur sacré séjour.  
 
@@ -2362,8 +2362,8 @@ Réunis mes faveurs t'unissant à Dorise.
 
     CLITANDRE.
 Mais par cette union mon esprit se divise,  
-Puisqu'il faut que je donne aux devoirs d'un époux  
-La moitié des pensers qui ne sont dûs qu'à vous. [8]  
+Puisqu'il faut que je donne aux devoirs d'un époux   [8]
+La moitié des pensers qui ne sont dûs qu'à vous.  
 
     FLORIDAN.
 Ce partage m'oblige, et je tiens tes pensées  
@@ -2417,8 +2417,8 @@ Si mon crime...
 Si tu crois que je puisse encore m'en souvenir.  
 
     ALCANDRE.
-Tu ne veux plus songer qu'à ce jour à venir  
-Où Rosidor guéri termine un hyménée. [9]  
+Tu ne veux plus songer qu'à ce jour à venir   [9]
+Où Rosidor guéri termine un hyménée.  
 Clitandre, en attendant cette heureuse journée,  
 Tâchera d'allumer en son âme des feux  
 Pour celle que mon fils désire, et que je veux,  

@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_PLAIDEURS69  
-creator: RACINE, Jean  
-date: 1669  
+creator: Racine, Jean  
+date: 1668  
 title: LES PLAIDEURS, COMÉDIE.  
 ---
 
@@ -52,8 +52,8 @@ Quoi qu'il en soit, je puis dire que notre siècle n'a pas été de plus mauvais
     PETIT-JEAN, TRAÎNANT UN GROS SAC DE PROCÈS.
 Ma foi, sur l'avenir, bien fou qui se fiera.  
 Tel qui rit vendredi, dimanche pleurera.  
-Un juge, l'an passé, me prit à son service,  
-Il m'avait fait venir d'Amiens pour être Suisse. [1] [2]  
+Un juge, l'an passé, me prit à son service,   [1] [2]
+Il m'avait fait venir d'Amiens pour être Suisse.  
 Tous ces Normands voulaient se divertir de nous,  
 On apprend à hurler, dit l'autre, avec les loups.  
 Tout Picard que j'étais, j'étais un bon apôtre,  
@@ -62,16 +62,16 @@ Tous les plus gros monsieurs me parlaient chapeau bas.
 Monsieur de Petit-Jean, ah, gros comme le bras,  
 Mais sans argent, l'honneur n'est qu'une maladie ;  
 Ma foi j'étais un franc portier de comédie,  
-On avait beau heurter et m'ôter son chapeau,  
-On n'entrait point chez nous sans graisser le marteau. [3]  
+On avait beau heurter et m'ôter son chapeau,   [3]
+On n'entrait point chez nous sans graisser le marteau.  
 Point d'argent, point de suisse, et ma porte était close.  
 Il est vrai qu'à Monsieur j'en rendais quelque chose.  
 Nous comptions quelquefois. On me donnait le soin  
 De fournir la maison de chandelle et de foin,  
 Mais je n'y perdais rien. Enfin vaille que vaille,  
 J'aurais sur le marché fort bien fourni la paille.  
-C'est dommage. Il avait le coeur trop au métier,  
-Tous les jours le premier aux plaids, et le dernier, [4]  
+C'est dommage. Il avait le coeur trop au métier,   [4]
+Tous les jours le premier aux plaids, et le dernier,  
 Et bien souvent tout seul, si l'on l'eût voulu croire,  
 Il y serait couché sans manger et sans boire.  
 Je lui disais parfois : « Monsieur Perrin Dandin,  
@@ -80,10 +80,10 @@ Qui veut voyager loin, ménage sa monture ;
 Buvez, mangez, dormez, et faisons feu qui dure. »  
 Il n'en a tenu compte. Il a si bien veillé,  
 Et si bien fait, qu'on dit que son timbre est brouillé.  
-Il nous veut tous juger les uns après les autres.  
-Il marmotte toujours certaines patenôtres [5] [6]  
-Où je ne comprends rien. Il veut bon gré, mal gré,  
-Ne se coucher qu'en robe, et qu'en bonnet carré. [7]  
+Il nous veut tous juger les uns après les autres.   [5] [6]
+Il marmotte toujours certaines patenôtres  
+Où je ne comprends rien. Il veut bon gré, mal gré,   [7]
+Ne se coucher qu'en robe, et qu'en bonnet carré.  
 Il fit couper la tête à son coq de colère,  
 Pour l'avoir éveillé plus tard qu'à l'ordinaire :  
 Il disait qu'un plaideur, dont l'affaire allait mal,  
@@ -91,8 +91,8 @@ Avait graissé la patte à ce pauvre animal.
 Depuis ce bel arrêt, le pauvre homme a beau faire,  
 Son fils ne souffre plus qu'on lui parle d'affaire,  
 Il nous le fait garder, jour et nuit, et de près.  
-Autrement serviteur, et mon homme est aux plaids.  
-Pour s'échapper de nous, Dieu sait s'il est allègre. [8]  
+Autrement serviteur, et mon homme est aux plaids.   [8]
+Pour s'échapper de nous, Dieu sait s'il est allègre.  
 Pour moi, je ne dors plus. Aussi je deviens maigre,  
 C'est pitié. Je m'étends, et ne fais que bâiller.  
 Mais veille qui voudra, voici mon oreiller,  
@@ -103,8 +103,8 @@ Dormons.
 
 ## SCÈNE II. L'Intimé, Petit-Jean.
 
-    L'INTIMÉ.
-    Ay, Petit-Jean, Petit-Jean. [9]  
+    L'INTIMÉ. [9]
+    Ay, Petit-Jean, Petit-Jean.  
 
     PETIT-JEAN.
         L'Intimé.  
@@ -113,8 +113,8 @@ Il a déjà bien peur de me voir enrhumé.
     L'INTIMÉ.
 Que diable ! Si matin que fais-tu dans la rue ?  
 
-    PETIT-JEAN.
-Est-ce qu'il faut toujours faire le pied de grue, [10]  
+    PETIT-JEAN. [10]
+Est-ce qu'il faut toujours faire le pied de grue,  
 Garder toujours un homme, et l'entendre crier ?  
 Quelle gueule ! Pour moi, je crois qu'il est sorcier.  
 
@@ -142,8 +142,8 @@ Petit-Jean. L'Intimé.
     Paix.  
 
     DANDIN.
-        Je suis seul ici.  
-Voilà mes guichetiers en défaut, Dieu merci. [11]  
+        Je suis seul ici.   [11]
+Voilà mes guichetiers en défaut, Dieu merci.  
 Si je leur donne temps, ils pourront comparaître.  
 Çà, pour nous élargir, sautons par la fenêtre.  
 Hors de cour.  
@@ -183,8 +183,8 @@ Et qui juger ? Tout dort.
     PETIT-JEAN.
         Ma foi, je ne dors guère.  
 
-    LÉANDRE.
-Que de sacs ! Il en a jusques aux jarretières. [12]  
+    LÉANDRE. [12]
+Que de sacs ! Il en a jusques aux jarretières.  
 
     DANDIN.
 Je ne veux de trois mois rentrer dans la maison.  
@@ -193,8 +193,8 @@ De sacs et de procès j'ai fait provision.
     LÉANDRE.
 Et qui vous nourrira ?  
 
-    DANDIN.
-        Le buvetier, je pense. [13]  
+    DANDIN. [13]
+        Le buvetier, je pense.  
 
     LÉANDRE.
 Mais où dormirez-vous, mon père ?  
@@ -218,11 +218,11 @@ Vous n'avez tantôt plus que la peau sur les os.
     DANDIN.
 Du repos ? Ah, sur toi tu veux régler ton père.  
 Crois-tu qu'un juge n'ait qu'à faire bonne chère,  
-Qu'à battre le pavé comme un tas de galants,  
-Courir le bal la nuit, et le jour les brelans ? [14]  
+Qu'à battre le pavé comme un tas de galants,   [14]
+Courir le bal la nuit, et le jour les brelans ?  
 L'argent ne nous vient pas si vite que l'on pense.  
-Chacun de tes rubans me coûte une sentence.  
-Ma robe vous fait honte. Un fils de juge ! Ah, fi. [15]  
+Chacun de tes rubans me coûte une sentence.   [15]
+Ma robe vous fait honte. Un fils de juge ! Ah, fi.  
 Tu fais le gentilhomme. Hé, Dandin, mon ami,  
 Regarde dans ma chambre, et dans ma garde-robe,  
 Les portraits des Dandins. Tous ont porté la robe,  
@@ -241,8 +241,8 @@ Elle ne manquait pas une seule audience,
 Jamais, au grand jamais, elle ne me quitta,  
 Et Dieu sait bien souvent ce qu'elle en rapporta ;  
 Elle eût du buvetier emporté les serviettes,  
-Plutôt que de rentrer au logis les mains nettes.  
-Et voilà comme on fait les bonnes maisons. Va, [16]  
+Plutôt que de rentrer au logis les mains nettes.   [16]
+Et voilà comme on fait les bonnes maisons. Va,  
 Tu ne seras qu'un sot.  
 
     LÉANDRE.
@@ -333,8 +333,8 @@ Mais encor.
     L'INTIMÉ.
         Ah, Monsieur, si feu mon pauvre père  
 Était encor vivant, c'était bien votre affaire.  
-Il gagnait en un jour plus qu'un autre en six mois,  
-Ses rides sur son front gravaient tous ses exploits. [17]  
+Il gagnait en un jour plus qu'un autre en six mois,   [17]
+Ses rides sur son front gravaient tous ses exploits.  
 Il vous eût arrêté le carrosse d'un Prince.  
 Il vous l'eût pris lui-même ; et si dans la province  
 Il se donnait en tout vingt coups de nerfs de boeuf,  
@@ -487,8 +487,8 @@ Du foin que peut manger une poule en un jour.
 Le tout joint au procès enfin, et toute chose  
 Demeurant en état, on appointe la cause.  
 Le cinquième ou sixième avril cinquante-six,  
-J'écris sur nouveaux frais. Je produis, je fournis  
-De dits, de contredits, enquêtes, compulsoires, [18]  
+J'écris sur nouveaux frais. Je produis, je fournis   [18]
+De dits, de contredits, enquêtes, compulsoires,  
 Rapports d'experts, transports, trois interlocutoires,  
 Griefs et faits nouveaux, baux, et procès verbaux.  
 J'obtiens lettres royaux, et je m'inscris en faux.  
@@ -682,8 +682,8 @@ Madame...
     CHICANNEAU.
 Mais, Madame...  
 
-    LA COMTESSE.
-        Un crasseux qui n'a que sa chicane, [19]  
+    LA COMTESSE. [19]
+        Un crasseux qui n'a que sa chicane,  
 Veut donner des avis.  
 
     CHICANNEAU.
@@ -710,8 +710,8 @@ Vous m'excédez.
 
 ## SCÈNE VIII. Petit-Jean, La Comtesse, Chicanneau.
 
-    PETIT-JEAN.
-Voyez le beau sabbat qu'ils font à notre porte. [20]  
+    PETIT-JEAN. [20]
+Voyez le beau sabbat qu'ils font à notre porte.  
 Messieurs, allez plus loin tempêter de la sorte.  
 
     CHICANNEAU.
@@ -825,8 +825,8 @@ Et vous ferez l'amour en présence du père.
     LÉANDRE.
 Mais ne va pas donner l'exploit pour le billet.  
 
-    L'INTIMÉ.
-Le père aura l'exploit, la fille le poulet. [21]  
+    L'INTIMÉ. [21]
+Le père aura l'exploit, la fille le poulet.  
 Rentrez.  
 
 
@@ -943,8 +943,8 @@ Un sergent s'est chargé de la remercier,
 Et je lui vais servir un plat de mon métier.  
 Je serais bien fâché que ce fût à refaire,  
 Ni qu'elle m'envoyât assigner la première.  
-Mais un homme ici parle à ma fille. Comment ?  
-Elle lit un billet ? Ah, c'est de quelque amant ! [22]  
+Mais un homme ici parle à ma fille. Comment ?   [22]
+Elle lit un billet ? Ah, c'est de quelque amant !  
 Approchons.  
 
     ISABELLE.
@@ -966,10 +966,10 @@ Tenez, voilà le cas qu'on fait de votre exploit.
 
     CHICANNEAU.
 Comment ! C'est un exploit que ma fille lisait ?  
-Ah, tu seras un jour l'honneur de ta famille.  
-Tu défendras ton bien. Viens, mon sang, viens, ma fille. [23]  
-Va, je t'achèterai "Le Praticien Français". [24]  
-Mais, diantre, il ne faut pas déchirer les exploits. [25]  
+Ah, tu seras un jour l'honneur de ta famille.   [23]
+Tu défendras ton bien. Viens, mon sang, viens, ma fille.   [24]
+Va, je t'achèterai "Le Praticien Français".   [25]
+Mais, diantre, il ne faut pas déchirer les exploits.  
 
     ISABELLE.
 Au moins dites-leur bien que je ne les crains guère,  
@@ -1060,8 +1060,8 @@ Haute et puissante dame Yolande Cudasne,
 Comtesse de Pimbesche, Orbesche, et caetera.  
 Il soit dit que sur l'heure il se transportera  
 Au logis de la dame, et là d'une voix claire,  
-Devant quatre témoins assistés d'un notaire, »  
-Zeste ! « ledit Hiérome avouera hautement [26]  
+Devant quatre témoins assistés d'un notaire, »   [26]
+Zeste ! « ledit Hiérome avouera hautement  
 Qu'il la tient pour sensée, et de bon jugement.  
 Le Bon. » C'est donc le nom de votre Seigneurie ?  
 
@@ -1075,8 +1075,8 @@ Monsieur le Bon.
     L'INTIMÉ.
     Monsieur.  
 
-    CHICANNEAU.
-        Vous êtes un fripon. [27]  
+    CHICANNEAU. [27]
+        Vous êtes un fripon.  
 
     L'INTIMÉ.
 Monsieur, pardonnez-moi, je suis fort honnête homme.  
@@ -1099,8 +1099,8 @@ Vous me le paierez bien.
         Oh, tu me romps la tête,  
 Tiens, voilà ton paiement.  
 
-    L'INTIMÉ.
-        Un soufflet ! Écrivons. [28]  
+    L'INTIMÉ. [28]
+        Un soufflet ! Écrivons.  
 « Lequel Hiérome après plusieurs rébellions,  
 Aurait atteint, frappé moi sergent, à la joue,  
 Et fait tomber d'un coup, mon chapeau dans la boue. »  
@@ -1147,8 +1147,8 @@ Non, à si bon marché l'on ne bat point les gens.
     CHICANNEAU.
 Monsieur, point de procès !  
 
-    L'INTIMÉ.
-        Serviteur. Contumace, [29]  
+    L'INTIMÉ. [29]
+        Serviteur. Contumace,  
 Bâton levé, soufflet, coup de pied. Ah !  
 
     CHICANNEAU.
@@ -1747,8 +1747,8 @@ Condamnez-le à l'amende, ou s'il le casse, au fouet.
 C'est quelque chose. Encor passe quand on raisonne.  
 Et mes vacations, qui les paiera ? Personne.  
 
-    LÉANDRE.
-Leurs gages vous tiendront lieu de nantissement. [30]  
+    LÉANDRE. [30]
+Leurs gages vous tiendront lieu de nantissement.  
 
     DANDIN.
 Il parle, ce me semble, assez pertinemment.  
@@ -1825,8 +1825,8 @@ Oncle, tante, cousins, tout vient, jusqu'au chat
 Dormir au plaidoyer de Monsieur l'avocat.  
 
     DANDIN.
-Allons nous préparer. Çà, Messieurs point d'intrigue.  
-Fermons l'oeil aux présents, et l'oreille à la brigue. [31]  
+Allons nous préparer. Çà, Messieurs point d'intrigue.   [31]
+Fermons l'oeil aux présents, et l'oreille à la brigue.  
 Vous, Maître Petit-Jean, serez le demandeur.  
 Vous, Maître l'Intimé, soyez le défendeur.  
 
@@ -1859,8 +1859,8 @@ Qui moissonnent les champs que vous avez semés
 Dont la main toujours pleine, et toujours indigente  
 S'engraisse impunément de vos chapons de rente  
 Le beau plaisir d'aller tout mourant de sommeil,  
-À la porte d'un juge, attendre son réveil,  
-Et d'essuyer le vent qui vous souffle vos oreilles, [32]  
+À la porte d'un juge, attendre son réveil,   [32]
+Et d'essuyer le vent qui vous souffle vos oreilles,  
 Tandis que Monsieur dort, et cuve vos bouteilles  
 Ou bien si vous entrés, de passer tout un jour  
 À conter, en grondant, les carreaux de la cour !  
@@ -1975,8 +1975,8 @@ Je ne dirai plus rien.
         Avocat incommode,  
 Que ne lui laissez-vous finir sa période ?  
 Je suais sang et eau pour voir si du Japon  
-Il viendrait à bon port au fait de son chapon,  
-Et vous l'interrompez par un discours frivole. [33]  
+Il viendrait à bon port au fait de son chapon,   [33]
+Et vous l'interrompez par un discours frivole.  
 Parlez donc, avocat.  
 
     PETIT-JEAN.
@@ -2045,8 +2045,8 @@ Encor !
     PETIT-JEAN.
     Le chien.  
 
-    LE SOUFFLEUR.
-        Le butor ! [34]  
+    LE SOUFFLEUR. [34]
+        Le butor !  
 
     PETIT-JEAN.
 Le butor.  
@@ -2055,8 +2055,8 @@ Le butor.
     Peste de l'avocat !  
 
     PETIT-JEAN.
-        Ah peste de toi-même !  
-Voyez cet autre avec sa face de carême. [35]  
+        Ah peste de toi-même !   [35]
+Voyez cet autre avec sa face de carême.  
 Va-t'en au diable.  
 
     DANDIN.
@@ -2064,18 +2064,18 @@ Va-t'en au diable.
 Du fait.  
 
     PETIT-JEAN.
-        Eh faut-il tant tourner autour du pot ?  
-Il me font dire aussi des mots longs d'une toise, [36]  
-De grands mots qui tiendraient d'ici jusqu'à Pontoise. [37]  
-Pour moi, je ne sais point tant faire de façon,  
-Pour dire qu'un mâtin vient de prendre un chapon. [38]  
+        Eh faut-il tant tourner autour du pot ?   [36]
+Il me font dire aussi des mots longs d'une toise,   [37]
+De grands mots qui tiendraient d'ici jusqu'à Pontoise.  
+Pour moi, je ne sais point tant faire de façon,   [38]
+Pour dire qu'un mâtin vient de prendre un chapon.  
 Tant y a qu'il n'est rien que votre chien ne prenne !  
 Qu'il a mangé là-bas un bon chapon du Maine ;  
 Que la première fois que je l'y trouverai,  
 Son procès est tout fait, et je l'assommerai.  
 
-    LÉANDRE.
-Belle conclusion, et digne de l'exorde ! [39]  
+    LÉANDRE. [39]
+Belle conclusion, et digne de l'exorde !  
 
     PETIT-JEAN.
 On l'entend bien toujours. Qui voudra mordre, y morde.  
@@ -2126,8 +2126,8 @@ Je ne réponds de rien.
     L'INTIMÉ, D'UN TON FINISSANT EN FAUSSET.
 Messieurs. Tout ce qui peut étonner un coupable,  
 Tout ce que les mortels ont de plus redoutable,  
-Semble s'être assemblé contre nous par hasard,  
-Je veux dire la brigue, et l'éloquence. Car [40]  
+Semble s'être assemblé contre nous par hasard,   [40]
+Je veux dire la brigue, et l'éloquence. Car  
 D'un côté le crédit du défunt m'épouvante,  
 Et de l'autre côté l'éloquence éclatante  
 De Maître Petit-Jean m'éblouit.  
@@ -2144,8 +2144,8 @@ Du beau ton
 Que nous doive donner la susdite éloquence,  
 Et le susdit crédit : ce néanmoins, Messieurs,  
 L'ancre de vos bontés nous rassure d'ailleurs.  
-Devant le grand Dandin l'innocence est hardie,  
-Oui, devant ce Caton de Basse-Normandie, [41]  
+Devant le grand Dandin l'innocence est hardie,   [41]
+Oui, devant ce Caton de Basse-Normandie,  
 Ce soleil d'équité qui n'est jamais terni,  
 Victrix causa diis placuit, sed victa Catoni.  
 
@@ -2171,20 +2171,20 @@ Prouverait que le bien et le mal...
 Qu'Aristote n'a point d'autorité céans.  
 Au fait.  
 
-    L'INTIMÉ.
-        Pausanias, en ses Corinthiaques... [42]  
+    L'INTIMÉ. [42]
+        Pausanias, en ses Corinthiaques...  
 
     DANDIN.
 Au fait.  
 
-    L'INTIMÉ.
-    Rebuffe... [43]  
+    L'INTIMÉ. [43]
+    Rebuffe...  
 
     DANDIN.
     Au fait ! Vous dis-je.  
 
-    L'INTIMÉ.
-        Le grand Jacques... [44]  
+    L'INTIMÉ. [44]
+        Le grand Jacques...  
 
     DANDIN.
 Au fait, au fait, au fait !  
@@ -2206,8 +2206,8 @@ Or celui pour lequel je parle est affamé.
 Celui contre lequel je parle autem plumé.  
 Et celui pour lequel je suis, prend en cachette  
 Celui contre lequel je parle. L'on décrète.  
-On le prend. Avocat pour et contre appelé.  
-Jour pris. Je dois parler, je parle, j'ai parlé. [45]  
+On le prend. Avocat pour et contre appelé.   [45]
+Jour pris. Je dois parler, je parle, j'ai parlé.  
 
     DANDIN.
 Ta, ta, ta, ta. Voilà bien instruire une affaire.  
@@ -2271,9 +2271,9 @@ Et concluez.
 
     L'INTIMÉ, D'UN TON PESANT.
         Puis donc, qu'on nous, permet, de prendre,  
-Haleine, et que l'on nous, défend, de nous, étendre,  
-Je vais, sans rien omettre, et sans prévariquer, [46]  
-Compendieusement énoncer, expliquer, [47]  
+Haleine, et que l'on nous, défend, de nous, étendre,   [46]
+Je vais, sans rien omettre, et sans prévariquer,   [47]
+Compendieusement énoncer, expliquer,  
 Exposer à vos yeux, l'idée universelle  
 De ma cause, et des faits, renfermez, en icelle.  
 
@@ -2302,8 +2302,8 @@ Le monde, l'univers, tout, la Nature entière
 Les éléments, le feu, l'air, et la terre, et l'eau,  
 Enfoncés, entassés, ne faisaient qu'un monceau,  
 Une confusion, une masse sans forme,  
-Un désordre, un chaos, une cohue énorme.  
-Unus erat toto naturæ vultus in orbe [48]  
+Un désordre, un chaos, une cohue énorme.   [48]
+Unus erat toto naturæ vultus in orbe  
 Quem Græci dixere chaos, rudis indigestaque moles...  
 
     LÉANDRE.
@@ -2367,8 +2367,8 @@ Ouf. Je me sens déjà pris de compassion.
 Ce que c'est qu'à propos toucher la passion !  
 Je suis bien empêché. La vérité me presse.  
 Le crime est avéré, lui-même il le confesse.  
-Mais s'il est condamné, l'embarras est égal,  
-Voilà bien des enfants réduits à l'hôpital. [49]  
+Mais s'il est condamné, l'embarras est égal,   [49]
+Voilà bien des enfants réduits à l'hôpital.  
 Mais je suis occupé, je ne veux voir personne.  
 
 
@@ -2421,8 +2421,8 @@ Parle donc.
     ISABELLE.
         Je vous ai trop d'obligation.  
 
-    DANDIN.
-N'avez-vous jamais vu donner la question ? [50]  
+    DANDIN. [50]
+N'avez-vous jamais vu donner la question ?  
 
     ISABELLE.
 Non, et ne le verrai, que je crois, de ma vie.  
@@ -2537,7 +2537,7 @@ Allons nous délasser à voir d'autres procès.
 
 [5] Marmotter : Parler confusément entre ses dents.
 
-[6] Patenôtres :  Il se dit des premières prières qu'on apprend aux enfants, et surtout du Pater. Toute autre espèce de prières chrétiennes. Par extension, vaines paroles sans cesse répétées. L
+[6] Patenôtres : Il se dit des premières prières qu'on apprend aux enfants, et surtout du Pater. Toute autre espèce de prières chrétiennes. Par extension, vaines paroles sans cesse répétées. L
 
 [7] Bonnet carré : coiffure des docteurs en théologie. L
 
@@ -2553,7 +2553,7 @@ Allons nous délasser à voir d'autres procès.
 
 [13] Buvetier : Celui qui tient la buvette. L
 
-[14] Brelan :  Jeu qui se joue avec trois cartes, à trois, ou à quatre, ou à cinq. Par extension, maison de jeu, tripot ; il se prend en mauvaise part.L
+[14] Brelan : Jeu qui se joue avec trois cartes, à trois, ou à quatre, ou à cinq. Par extension, maison de jeu, tripot ; il se prend en mauvaise part.L
 
 [15] Fi : interj. Exprime le blâme, le dédain, le mépris. L
 
@@ -2573,7 +2573,7 @@ Allons nous délasser à voir d'autres procès.
 
 [23] Le vers 368 ressemble au vers 268 du Cid de Corneille, "Viens mon fils, viens mon sang, viens réparer ma honte,", voir aussi Le vers 1643 Le Sallebray dans "La Belle Egyptienne".
 
-[24] Voir  "Le praticien français, contenant grand nombre d'instructions très-nécessaires pour la pratique des cours de France", Paris : Cardin Besongne, 1654. cote BnF F- 42096. Ouvrage à caractère juridique.
+[24] Voir "Le praticien français, contenant grand nombre d'instructions très-nécessaires pour la pratique des cours de France", Paris : Cardin Besongne, 1654. cote BnF F- 42096. Ouvrage à caractère juridique.
 
 [25] Exploit : Terme de pratique. Acte que l'huissier dresse et signifie pour assigner, notifier, saisir. L
 
@@ -2585,8 +2585,7 @@ Allons nous délasser à voir d'autres procès.
 
 [29] Contumace : Terme de droit criminel. Non-comparution d'un prévenu devant le tribunal où il est déféré. L
 
-[30] Nantissement :   Sûreté ; gage que donne, un débiteur à son créancier en meubles , ou autres effets pour le paiement de son dû. Les usuriers
-ne prêtent rien que sous bons gages et nantissements. F
+[30] Nantissement : Sûreté ; gage que donne, un débiteur à son créancier en meubles , ou autres effets pour le paiement de son dû. Les usuriers ne prêtent rien que sous bons gages et nantissements. F
 
 [31] Brigue : se dit aussi de la cabale qui est intéressée à soutenir plutôt un parti que l'autre dans une élection. F
 
@@ -2598,7 +2597,7 @@ ne prêtent rien que sous bons gages et nantissements. F
 
 [35] Face de carême : Visage pâli, tel qu'il est après le carême. L
 
-[36] Toise : Mesure longue de six pieds. La toise vaut en mètres 1m,949.  L
+[36] Toise : Mesure longue de six pieds. La toise vaut en mètres 1m,949. L
 
 [37] Pontoise : ville au nord-ouest de Paris. "D'ici jusqu'à Pontoise", très long. L
 
@@ -2622,8 +2621,7 @@ ne prêtent rien que sous bons gages et nantissements. F
 
 [47] Compendieusement : En abrégeant. L
 
-[48] Vers 809-810, citation de La Création d'Ovide, Métamorphes I : La nature dans l'univers entier ne présentait qu'un seul aspect,
-que l'on nomma Chaos. C'était une masse grossière et confuse(...).
+[48] Vers 809-810, citation de La Création d'Ovide, Métamorphes I : La nature dans l'univers entier ne présentait qu'un seul aspect, que l'on nomma Chaos. C'était une masse grossière et confuse(...).
 
 [49] Hôpital : Établissement où l'on reçoit gratuitement des pauvres, des infirmes, des enfants, des malades. L
 

@@ -2001,8 +2001,8 @@ Et moins intéressés, me feront mieux entendre.
     NARSÉE S'EN ALLANT.
 Bas.
 
-Dieux ! Quel est cette énigme, et qu'y puis-je comprendre !  
-Quel jour puis-je tirer, de tant d'obscurité ! [1]  
+Dieux ! Quel est cette énigme, et qu'y puis-je comprendre !   [1]
+Quel jour puis-je tirer, de tant d'obscurité !  
 Et quelle foi, devrai-je, à cette vérité ?  
 
 

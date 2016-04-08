@@ -1702,8 +1702,8 @@ Que je suis malheureux !
         Tout le monde vous plaint.  
 
     FÉLIX.
-On ne sait pas les maux dont mon coeur est atteint :  
-De pensers sur pensers mon âme est agitée, [1]  
+On ne sait pas les maux dont mon coeur est atteint :   [1]
+De pensers sur pensers mon âme est agitée,  
 De soucis sur soucis elle est inquiétée ;  
 Je sens l'amour, la haine, et la crainte, et l'espoir,  
 La joie et la douleur tour à tour l'émouvoir ;  

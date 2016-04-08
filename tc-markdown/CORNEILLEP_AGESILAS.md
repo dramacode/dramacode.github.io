@@ -51,8 +51,8 @@ Les règles sont bonnes, mais leur méthode n'est pas de notre siècle, et qui s
 
 ## SCÈNE PREMIÈRE. Elpinice, Aglatide
 
-    AGLATIDE
-Ma soeur, depuis un mois nous voilà dans Éphèse, [1]  
+    AGLATIDE [1]
+Ma soeur, depuis un mois nous voilà dans Éphèse,  
 Prêtes à recevoir ces illustres époux  
 Que Lysander mon père a su choisir pour nous ;  
 Et ce choix bienheureux n'a rien qui ne vous plaise.  
@@ -84,8 +84,8 @@ Qu'ils ont juré de n'être importuns l'un ni l'autre :
 Ils en font grand scrupule, et la sincérité  
 Dont mon amant se pique, à l'exemple du vôtre,  
 Ne met pas son bonheur en l'assiduité.  
-Ce n'est pas qu'à vrai dire il ne soit excusable,  
-Je préparai pour lui dès Sparte une froideur [2]  
+Ce n'est pas qu'à vrai dire il ne soit excusable,   [2]
+Je préparai pour lui dès Sparte une froideur  
 Qui dès l'abord était capable  
 D'éteindre la plus vive ardeur ;  
 Et j'avoue entre nous qu'alors qu'il me néglige,  
@@ -2723,8 +2723,8 @@ Jalouse de ce trône où vous êtes monté,
 Y faire seoir une Persane,  
 C'est pour elle une étrange et dure nouveauté,  
 Et tout votre pouvoir ne peut m'y donner place,  
-Que vous n'y renonciez pour toute votre race.  
-Vos éphores peut-être oseront encor plus ; [3]  
+Que vous n'y renonciez pour toute votre race.   [3]
+Vos éphores peut-être oseront encor plus ;  
 Et si votre Sénat avec eux se soulève,  
 Si de me voir leur Reine indignés et confus  
 Ils m'arrachent d'un trône où votre choix m'élève,  
@@ -2991,8 +2991,8 @@ Et l'on n'a pas toujours mêmes yeux ni même âme.
 Pourriez-vous de ma main accepter un époux ?  
 
     AGLATIDE
-Si mon père y consent, mon devoir me l'ordonne,  
-Ce me sera trop d'heur de le tenir de vous : [4]  
+Si mon père y consent, mon devoir me l'ordonne,   [4]
+Ce me sera trop d'heur de le tenir de vous :  
 Mais avant que savoir quelle en est la personne,  
 Pourrais-je vous parler avec la liberté  
 Que me souffrait à Sparte un feu trop écouté,  

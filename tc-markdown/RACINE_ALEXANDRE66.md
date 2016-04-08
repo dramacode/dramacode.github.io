@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_ALEXANDRE66  
-creator: RACINE, Jean  
-date: 1666  
+creator: Racine, Jean  
+date: 1665  
 title: ALEXANDRE LE GRAND, TRAGÉDIE.  
 ---
 
@@ -212,8 +212,8 @@ L'esclave de Porus, ou l'ami d'Alexandre.
     PORUS.
 Seigneur, ou je me trompe, ou nos fiers ennemis  
 Feront moins de progrès qu'ils ne s'étaient promis.  
-Nos chefs, et nos soldats brûlants d'impatience,  
-Font lire sur leur front une mâle assurance, [1]  
+Nos chefs, et nos soldats brûlants d'impatience,   [1]
+Font lire sur leur front une mâle assurance,  
 Ils s'animent l'un l'autre, et nos moindres guerriers  
 Se promettent déjà des moissons de lauriers.  
 J'ai vu de rang en rang cette ardeur répandue,  
@@ -267,8 +267,8 @@ Seigneur, si Darius avait su se connaître,
 Il régnerait encore où règne un autre maître.  
 Cependant cet orgueil qui causa son trépas,  
 Avait un fondement que vos mépris n'ont pas.  
-La valeur d'Alexandre à peine était connue,  
-Ce foudre était encore enfermé dans la nue. [2]  
+La valeur d'Alexandre à peine était connue,   [2]
+Ce foudre était encore enfermé dans la nue.  
 Dans un calme profond Darius endormi,  
 Ignorait jusqu'au nom d'un si faible ennemi.  
 Il le connut bientôt, et son âme étonnée  
@@ -300,8 +300,8 @@ D'un favorable accueil honorons son passage,
 Et lui cédant des droits que nous reprendrons bien,  
 Rendons-lui des devoirs qui ne nous coûtent rien.  
 
-    PORUS.
-Qui ne nous coûtent rien, Seigneur ? L'osez-vous croire ? [3]  
+    PORUS. [3]
+Qui ne nous coûtent rien, Seigneur ? L'osez-vous croire ?  
 Compterai-je pour rien la perte de ma gloire ?  
 Votre empire, et le mien seraient trop achetés,  
 S'ils coûtaient à Porus les moindres lâchetés.  
@@ -584,8 +584,8 @@ Oui, puisque ce héros veut que j'ouvre mon âme,
 J'écoute avec plaisir le récit de sa flamme ;  
 Je craignais que le temps n'en eût borné le cours,  
 Je souhaite qu'il m'aime, et qu'il m'aime toujours.  
-Je dis plus. Quand son bras força notre frontière,  
-Et dans les murs d'Omphis m'arrêta prisonnière, [4]  
+Je dis plus. Quand son bras força notre frontière,   [4]
+Et dans les murs d'Omphis m'arrêta prisonnière,  
 Mon coeur qui le voyait maître de l'Univers,  
 Se consolait déjà de languir dans ses fers ;  
 Et loin de murmurer contre un destin si rude,  
@@ -625,8 +625,8 @@ Je crains pour lui, je crains pour Alexandre même ;
 Je sais qu'en l'attaquant, cent rois se sont perdus,  
 Je sais tous ses exploits ; mais je connais Porus.  
 Nos peuples qu'on a vus triomphants à sa suite,  
-Repousser les efforts du Persan et du Scythe,  
-Et tous fiers des lauriers dont il les a chargés, [5]  
+Repousser les efforts du Persan et du Scythe,   [5]
+Et tous fiers des lauriers dont il les a chargés,  
 Vaincront à son exemple, ou périront vengés.  
 Et je crains...  
 
@@ -651,9 +651,9 @@ Avant que le combat qui menace vos têtes,
 Mette tous vos États au rang de nos conquêtes,  
 Alexandre veut bien différer ses exploits,  
 Et vous offrir la paix pour la dernière fois.  
-Vos peuples prévenus de l'espoir qui vous flatte,  
-Prétendaient arrêter le vainqueur de l'Euphrate ; [6]  
-Mais l'Hydaspe malgré tant d'escadrons épars, [7]  
+Vos peuples prévenus de l'espoir qui vous flatte,   [6]
+Prétendaient arrêter le vainqueur de l'Euphrate ;   [7]
+Mais l'Hydaspe malgré tant d'escadrons épars,  
 Voit enfin sur ses bords flotter nos étendards.  
 Vous les verriez plantés jusques sur vos tranchées,  
 Et de sang et de morts vos campagnes jonchées,  
@@ -677,8 +677,8 @@ Vous savez son dessein. Choisissez aujourd'hui,
 Si vous voulez tout perdre, ou tenir tout de lui.  
 
     TAXILE.
-Seigneur, ne croyez point qu'une fierté barbare  
-Nous fasse méconnaître une vertu si rare, [8]  
+Seigneur, ne croyez point qu'une fierté barbare   [8]
+Nous fasse méconnaître une vertu si rare,  
 Et que dans leur orgueil, nos peuples affermis,  
 Veuillent malgré vous être vos ennemis.  
 Nous rendons ce qu'on doit aux illustres exemples,  
@@ -696,8 +696,8 @@ N'est-il pas temps, Seigneur, qu'il cherche des amis ?
 Tout ce peuple captif, qui tremble au nom d'un maître,  
 Soutient mal un pouvoir qui ne fait que de naître,  
 Pour secouer le joug, les yeux toujours ouverts,  
-Votre empire n'est plein que d'ennemis couverts.  
-Le Bactrien conquis, reprend son diadème, [9]  
+Votre empire n'est plein que d'ennemis couverts.   [9]
+Le Bactrien conquis, reprend son diadème,  
 Vos fers trop étendus se relâchent d'eux-mêmes,  
 Et déjà dans leur coeur les Scythes mutinés,  
 Vont sortir de la chaîne, où vous nous destinez.  
@@ -734,8 +734,8 @@ Désoler un pays inconnu parmi nous ?
 Faut-il que tant d'États, de déserts, de rivières,  
 Soient entre nous et lui d'impuissantes barrières ?  
 Et ne saurait-on vivre au bout de l'Univers,  
-Sans connaître son nom, et le poids de ses fers ?  
-Quelle étrange valeur qui ne cherchant qu'à nuire, [10]  
+Sans connaître son nom, et le poids de ses fers ?   [10]
+Quelle étrange valeur qui ne cherchant qu'à nuire,  
 Embrase tout, sitôt qu'elle commence à luire,  
 Qui n'a que son orgueil pour règle et pour raison,  
 Qui veut que l'Univers ne soit qu'une prison,  
@@ -974,8 +974,8 @@ Quoi, lorsque mes sujets mourant dans une plaine,
 Sur les pas de Porus combattent pour leur reine,  
 Qu'au prix de tout leur sang ils signalent leur foi,  
 Que le cri des mourants vient presque jusqu'à moi,  
-On me parle de paix ? Et le camp de Taxile  
-Garde dans ce désordre une assiette tranquille, [11]  
+On me parle de paix ? Et le camp de Taxile   [11]
+Garde dans ce désordre une assiette tranquille,  
 On flatte ma douleur d'un calme injurieux,  
 Sur des objets de joie on arrête mes yeux.  
 
@@ -1136,8 +1136,8 @@ J'espère qu'Alexandre amoureux de sa gloire,
 Et fâché que ton crime ait souillé sa victoire,  
 S'en lavera bientôt par ton propre trépas.  
 Des traîtres comme toi font souvent des ingrats.  
-Et de quelques faveurs que sa main t'éblouisse,  
-Du perfide Bessus regarde le supplice. [12]  
+Et de quelques faveurs que sa main t'éblouisse,   [12]
+Du perfide Bessus regarde le supplice.  
 Adieu.  
 
 

@@ -687,8 +687,8 @@ Qu'on ne saurait changer sans lui faire une injure :
 Telle est la loi du ciel, dont la sage équité  
 Sème dans l'univers cette diversité.  
 Les Macédoniens aiment le monarchique,  
-Et le reste des Grecs la liberté publique :  
-Les Parthes, les Persans veulent des souverains ; [1]  
+Et le reste des Grecs la liberté publique :   [1]
+Les Parthes, les Persans veulent des souverains ;  
 Et le seul consulat est bon pour les Romains.  
 
     CINNA.
@@ -765,8 +765,8 @@ Votre Rome à genoux vous parle par ma bouche.
 Considérez le prix que vous avez coûté ;  
 Non pas qu'elle vous croie avoir trop acheté ;  
 Des maux qu'elle a soufferts elle est trop bien payée ;  
-Mais une juste peur tient son âme effrayée :  
-Si, jaloux de son heur, et las de commander, [2]  
+Mais une juste peur tient son âme effrayée :   [2]
+Si, jaloux de son heur, et las de commander,  
 Vous lui rendez un bien qu'elle ne peut garder,  
 S'il lui faut à ce prix en acheter un autre,  
 Si vous ne préférez son intérêt au vôtre,  
@@ -1746,8 +1746,8 @@ Et ne me permettant soupirs, sanglots, ni pleurs,
 Soutiennent ma vertu contre de tels malheurs.  
 Vous voulez que je meure avec ce grand courage  
 Qui m'a fait entreprendre un si fameux ouvrage ;  
-Et je veux bien périr comme vous l'ordonnez,  
-Et dans la même assiette où vous me retenez. [3]  
+Et je veux bien périr comme vous l'ordonnez,   [3]
+Et dans la même assiette où vous me retenez.  
 Ô liberté de Rome ! Ô mânes de mon père !  
 J'ai fait de mon côté tout ce que j'ai pu faire :  
 Contre votre tyran j'ai ligué ses amis,  

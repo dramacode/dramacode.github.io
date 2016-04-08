@@ -76,9 +76,9 @@ Mais trop pour mon repos.
 
     BÉATRIX.
         Trop aussi pour le mien,  
-Moi qui croyais marcher des mieux pour une fille,  
-Qui l'aurais disputé contre un porte-mandille : [1]  
-Je confesse pourtant que vous allez du pied [2]  
+Moi qui croyais marcher des mieux pour une fille,   [1]
+Qui l'aurais disputé contre un porte-mandille :   [2]
+Je confesse pourtant que vous allez du pied  
 Comme moi, pour le moins, voire mieux de moitié ;  
 Pour moi je ne vais plus quasi que d'une fesse ;  
 Car vous ne parlez point, et vous rêver sans cesse.  
@@ -94,8 +94,8 @@ J'y consens, et t'écoute avec attention.
     BÉATRIX.
 Discourons donc un peu, mais qu'il ne vous déplaise  
 Du sujet qui vous fait sans carrosse et sans chaise,  
-Sans Écuyer, sans gens, sans suite, sinon moi,  
-Courir le long du jour sur le pavé du Roi. [3]  
+Sans Écuyer, sans gens, sans suite, sinon moi,   [3]
+Courir le long du jour sur le pavé du Roi.  
 Je ne m'ingère point de condamner la chose  
 Devant que la savoir : mais l'effet qu'elle cause  
 Ma lassitude à part, je ne le puis louer :  
@@ -161,20 +161,20 @@ Le malheur n'est pas grand, il ne faut que lui dire.
     LÉONOR.
 Et comment Béatris ?  
 
-    BÉATRIX.
-        C'est moi qui lui dira, [4]  
+    BÉATRIX. [4]
+        C'est moi qui lui dira,  
 Reposez-vous sur moi, Dieu nous assistera,  
 Quand c'est à bonne fin, l'oeuvre n'est pas mauvaise.  
 Ha ! Vraiment, il vaut mieux aimer chaud comme braise,  
 Que haïr son prochain, et lui faire le froid,  
 Madame, il faut aimer ce qu'aimable l'on croit,  
 Et ne prétendre pas aussi pour être aimable,  
-Qu'on ait droit de laisser périr un misérable,  
-Quand votre Amant serait plus fier qu'un Narcissus, [5]  
+Qu'on ait droit de laisser périr un misérable,   [5]
+Quand votre Amant serait plus fier qu'un Narcissus,  
 J'en viendrais bien à bout, j'en aurais le dessus :  
 Et si je ne tiens pas la chose difficile,  
-Comment trouverait-il qui vous vaille en la ville ?  
-Nommez-le seulement, je vous le rends rendu, [6]  
+Comment trouverait-il qui vous vaille en la ville ?   [6]
+Nommez-le seulement, je vous le rends rendu,  
 Et quand pour son mérite il ferait l'entendu,  
 (Car je ne doute point qu'il n'en n'ait plus qu'un autre,  
 Puisqu'il a le pouvoir d'assujettir le vôtre).  
@@ -192,8 +192,8 @@ Selon que vous serez en humeur de bien faire,
 Il sera trop heureux, Madame, de vous plaire.  
 
     LÉONOR.
-Ho, ho, la Béatrix, qui t'en a tant appris ?  
-Je ne connaissais pas ton mérite et ton pris, [7]  
+Ho, ho, la Béatrix, qui t'en a tant appris ?   [7]
+Je ne connaissais pas ton mérite et ton pris,  
 Je ne pensais avoir qu'une simple servante,  
 Et tu t'es découverte une fille savante.  
 
@@ -671,11 +671,11 @@ Pour rendre cet esprit de Tigre un peu plus doux.
     ROSQUEPINE.
 Vous devriez bien plutôt, Monsieur, songer à vous,  
 Et sans vous tourmenter pour le repos d'un autre  
-Travailler tout de bon pour établir le vôtre,  
-Hélène de Torrès, vous mène par le bec, [8]  
+Travailler tout de bon pour établir le vôtre,   [8]
+Hélène de Torrès, vous mène par le bec,  
 Met votre coeur en cendre, et votre bourse à sec,  
-Lorsque vous lui parlez de conclure l'affaire,  
-La matoise qu'elle est adroitement diffère, [9]  
+Lorsque vous lui parlez de conclure l'affaire,   [9]
+La matoise qu'elle est adroitement diffère,  
 Et jure son grand Dieu, vous faisant les yeux doux,  
 Que si vous l'aimez bien, elle est folle de vous ;  
 Mais que plusieurs raisons qu'elle ne peut apprendre  
@@ -701,8 +701,8 @@ Et je veux qu'on me pende en cas que cela soit,
 Si chez elle jamais l'ingrate vous reçoit,  
 Toute la subsistance est, peu s'en faut, tarie,  
 Vous sollicitez mal votre Commanderie,  
-Très inutilement vous tirez comme on dit,  
-De la poudre aux moineaux, et donnez à crédit [10]  
+Très inutilement vous tirez comme on dit,   [10]
+De la poudre aux moineaux, et donnez à crédit  
 Votre temps, dont jamais on ne vous tiendra compte.  
 Vous en crevez de rire, et moi j'en meurs de honte.  
 
@@ -716,8 +716,8 @@ Je suis votre Écuyer, de plus, homme d'honneur.
 ## SCÈNE II. Filipin, Don Diègue, Roquespine.
 
     FILIPIN, ENTRE EN CHANTANT.
-Que la Tour de Valladolid tombe sur toi,  
-Qu'elle tombe, et te tue, que m'importe à moi ? [11]  
+Que la Tour de Valladolid tombe sur toi,   [11]
+Qu'elle tombe, et te tue, que m'importe à moi ?  
 
     DON DIÈGUE.
 Ho, ho, c'est Filipin, hé bien quelles nouvelles ?  
@@ -744,8 +744,8 @@ Je veux savoir où peut ma récompense aller,
 Et si je veux de plus outre ma récompense,  
 Que votre Seigneurie augmente ma dépense.  
 
-    DON DIÈGUE.
-Hé bien cela vaut fait, dis donc succinctement. [12]  
+    DON DIÈGUE. [12]
+Hé bien cela vaut fait, dis donc succinctement.  
 
     FILIPIN.
 Ce n'est pas là mon compte, il faut absolument  
@@ -809,8 +809,8 @@ Qui diable vous a dit que c'était là mon tendre ?
 Je ne veux point parler, alors qu'on veut m'entendre ;  
 Quand on ne le veut plus, j'enrage de parler :  
 Et maintenant, Monsieur, je ne le puis celer :  
-Si vous me défendez de dire mes nouvelles,  
-Vous perdez le Phénix des serviteurs fidèles ; [13]  
+Si vous me défendez de dire mes nouvelles,   [13]
+Vous perdez le Phénix des serviteurs fidèles ;  
 Les discours retenus me pourront suffoquer,  
 Et d'une mort si sotte on se pourra moquer.  
 
@@ -842,9 +842,9 @@ Mon cher oncle est donc mort.
 Que de femmes partout vous vont être données !  
 Le franc homme d'honneur que vous avez perdu  
 Le grand bien qu'il vous laisse à Séville rendu !  
-En est bon témoignage, ô la belle monnaie  
-Que de gros patacons son commis vous envoie ! [14]  
-En argent monnayé, diamants, et lingots, [15]  
+En est bon témoignage, ô la belle monnaie   [14]
+Que de gros patacons son commis vous envoie !   [15]
+En argent monnayé, diamants, et lingots,  
 Cent mille beaux écus, trente jeunes magots,  
 Autant de perroquets, de Cachou plein deux caisses,  
 Bref trois vaisseaux chargés de toutes les richesses  
@@ -1168,13 +1168,13 @@ Et que par mon bonheur, ou par mon artifice
 Lui faisant cent rapports que vous ne valez rien,  
 Le bonhomme en mourant m'a laissé tout son bien.  
 Vous savez qu'à la cour on ne me connaît guère,  
-Que je parle un langage étonnant le vulgaire ;  
-Et qu'ayant autrefois appris quelque latin, [16]  
+Que je parle un langage étonnant le vulgaire ;   [16]
+Et qu'ayant autrefois appris quelque latin,  
 Je sais, quoique laquais, dire sort, et destin ;  
-Parler Phoebus, écrire, en vers ainsi qu'en prose,  
-Appliquer bien ou mal une métamorphose, [17]  
-Si malgré mon langage et mine de pédant  
-Votre Hélène reçoit le nouveau prétendant, [18]  
+Parler Phoebus, écrire, en vers ainsi qu'en prose,   [17]
+Appliquer bien ou mal une métamorphose,  
+Si malgré mon langage et mine de pédant   [18]
+Votre Hélène reçoit le nouveau prétendant,  
 Pour l'espoir des grands biens dont il fera fanfare,  
 Plantez pour reverdir cette maîtresse avare ;  
 Prenez-moi bien et beau Madame Léonor,  
@@ -1346,11 +1346,11 @@ Carmagnolle !
 
     FILIPIN.
         Tiens-moi bien, je palpite !  
-Ô dangereuse vue ! Ô fatale visite !  
-Cousin où prends-tu donc l'aquiline valeur, [19]  
+Ô dangereuse vue ! Ô fatale visite !   [19]
+Cousin où prends-tu donc l'aquiline valeur,  
 Qui fait que sans ciller, sans changer de couleur,  
-Sans baisser seulement à demi la paupière,  
-Tu la guignes en aigle, une journée entière ? [20]  
+Sans baisser seulement à demi la paupière,   [20]
+Tu la guignes en aigle, une journée entière ?  
 Hélas ! Je ne la vois que depuis un moment,  
 Et je me sens déjà tout je ne sais comment :  
 Mais elle ne dit mot, me semble, cette belle,  
@@ -1405,14 +1405,14 @@ Tant vous avez eu peur de me désobliger !
 Mais riez, bel objet, riez si bon vous semble,  
 Et pour vous enhardir, rions, ma belle, ensemble.  
 Ça je vais commencer, rions à l'unissons :  
-Mon Dieu que vous riez de mauvaise façon !  
-Hi, hi, hi, hi, hi, hi ; vous riez en guenuche, [21]  
+Mon Dieu que vous riez de mauvaise façon !   [21]
+Hi, hi, hi, hi, hi, hi ; vous riez en guenuche,  
 Adorable beauté qui m'allez rendre cruche :  
 Je dis vos vérités, c'est mon plus grand regret.  
 Si je vous aimais moins, je serais plus discret :  
-Mais vous venez encor, assassinante oeillade,  
-Malgré mes beaux discours sur moi battre l'estrade ! [22]  
-Hé, trêve de matras, ils sont hors de saison, [23]  
+Mais vous venez encor, assassinante oeillade,   [22]
+Malgré mes beaux discours sur moi battre l'estrade !   [23]
+Hé, trêve de matras, ils sont hors de saison,  
 Et parmi les chrétiens c'est une trahison.  
 Je vous le maintiendrai, merveille des merveilles !  
 Tout à l'heure en champ clos avec armes pareilles :  
@@ -1429,8 +1429,8 @@ Je ne veux pas de vous une si rude épreuve.
     FILIPIN.
 Si vous me promettiez de n'être jamais veuve,  
 Quoique j'aie un regard de Caton le Censeur,  
-Nous autres Buffalos, savons tous un coup sûr  
-Pour faire des enfants, et la générative [24]  
+Nous autres Buffalos, savons tous un coup sûr   [24]
+Pour faire des enfants, et la générative  
 Dedans nous, fait la nique à la végétative :  
 Étant génératif plus que végétatif,  
 Il ne tiendra qu'à vous qu'un noeud copulatif,  
@@ -1452,8 +1452,8 @@ L'amour qui dans mon coeur chante ville gagnée
 Excite en mon jabot exhalaison ignée.  
 
     HÉLÈNE.
-Vraiment, mon Cavalier, ce terme de jabot  
-Est un terme fort bas, et qui sent le sabot. [25]  
+Vraiment, mon Cavalier, ce terme de jabot   [25]
+Est un terme fort bas, et qui sent le sabot.  
 
     FILIPIN.
 Un homme comme moi peut le mettre en usage :  
@@ -1478,8 +1478,8 @@ Carmagnolle !
     Monsieur.  
 
     FILIPIN.
-        Qu'on me donne un fauteuil,  
-D'où je puisse aisément faire la guerre à l'oeil [26]  
+        Qu'on me donne un fauteuil,   [26]
+D'où je puisse aisément faire la guerre à l'oeil  
 Sur ces tétons de lait, amoureuses collines ;  
 Ces deux mondes jumeaux, ces boules assassines,  
 Carmagnolle !  
@@ -1521,9 +1521,9 @@ Que dites-vous de moi ?
 Tout ce qu'on peut valoir.  
 
     FILIPIN.
-        Ha ! Vous me cajolez,  
-Et moi je dis de vous que déjà j'extravague ; [27]  
-Enfin que ma raison auprès de vous naufrague. [28]  
+        Ha ! Vous me cajolez,   [27]
+Et moi je dis de vous que déjà j'extravague ;   [28]
+Enfin que ma raison auprès de vous naufrague.  
 
     HÉLÈNE.
 Ce terme est fort nouveau.  
@@ -1565,8 +1565,8 @@ Carmagnolle !
     FILIPIN.
         Raconte quelque chose  
 À Madame, fais-lui quelques contes plaisants,  
-Tels que tu m'en faisais durant mes jeunes ans :  
-Tu me dis quelquefois mille coyonneries, [29]  
+Tels que tu m'en faisais durant mes jeunes ans :   [29]
+Tu me dis quelquefois mille coyonneries,  
 Qui font crever de rire : et dans tes railleries  
 Tu réussis assez ; mais trêve du prochain,  
 Dis-lui que Don Diègue est pour mourir de faim.  
@@ -1611,8 +1611,8 @@ Deux cent mille écus, dont la somme était due
 À mon oncle, de qui les enfants héritiers  
 S'opposant au décret seulement pour un tiers.  
 Ma tante mariée avec un Aquavive  
-Obtint contre l'arrêt sentence informative :  
-Par retrait lignager forme opposition, [30]  
+Obtint contre l'arrêt sentence informative :   [30]
+Par retrait lignager forme opposition,  
 Et reprend tout le bien ; mais par intrusion  
 La chose n'étant pas encore homologuée,  
 Je dis que la cutume est fort mal alléguée,  
@@ -1695,8 +1695,8 @@ Cela pourrait bien être.
         Il ne tiendra qu'à vous.  
 
     PAQUETTE.
-Quoi vous voulez, Madame, après un Don Diègue  
-Choisir un Campagnard, et de plus, un Gallégue ? [31]  
+Quoi vous voulez, Madame, après un Don Diègue   [31]
+Choisir un Campagnard, et de plus, un Gallégue ?  
 
     HÉLÈNE.
 Quand il est question d'établir mon repos  
@@ -1705,8 +1705,8 @@ M'irai-je embarrasser d'un gueux mal à propos ?
     PAQUETTE.
 Un mari jeune et beau, vaut bien la bonne chère :  
 Le plaisir vaut l'argent, j'ai ouï dire à ma mère :  
-Lorsqu'à mes grandes soeurs elle faisait leçon,  
-Qu'il faut choisir toujours jeune chair, vieux poisson : [32]  
+Lorsqu'à mes grandes soeurs elle faisait leçon,   [32]
+Qu'il faut choisir toujours jeune chair, vieux poisson :  
 Dieu veuille avoir son âme, elle en savait bien d'autres.  
 Je me souviens qu'un jour disant ses patenôtres,  
 Elle vint à parler du plaisir de la chair,  
@@ -1723,8 +1723,8 @@ Madame, encore un mot, puis après je me tais.
 Dis en trois si tu veux, et puis me laisse en paix.  
 
     PAQUETTE.
-J'accepte le parti ; savez-vous bien, Madame,  
-Que ce nouveau galant sentait l'ail, sur mon âme ? [33]  
+J'accepte le parti ; savez-vous bien, Madame,   [33]
+Que ce nouveau galant sentait l'ail, sur mon âme ?  
 
     HÉLÈNE.
 Opulent comme il est, moi n'ayant point de bien,  
@@ -1935,8 +1935,8 @@ Ne fut-il que passable, étant sans intérêt,
 Je l'aimerai toujours à cause qu'il me plaît :  
 Aimer pour le profit, c'est être mercenaire.  
 
-    HÉLÈNE.
-Courir sur le marché d'un autre, est-ce bien faire ? [34]  
+    HÉLÈNE. [34]
+Courir sur le marché d'un autre, est-ce bien faire ?  
 
     LÉONOR.
 Courir après l'argent, ce n'est pas faire mieux.  
@@ -2255,8 +2255,8 @@ Que j'aurai du plaisir à voir battre ces fous !
     ROSQUEPINE.
 Je sais fort bien que l'un, n'est pas homme à se battre.  
 
-    DON DIÈGUE.
-L'autre ne se fait pas non plus tenir à quatre. [35]  
+    DON DIÈGUE. [35]
+L'autre ne se fait pas non plus tenir à quatre.  
 
     ROSQUEPINE.
 Je vois venir quelqu'un.  
@@ -2287,9 +2287,9 @@ Filipin s'est armé d'une plaisante sorte.
 Posons auprès de nous Rondache et Morion,  
 Afin de les trouver en toute occasion :  
 Nous commençons trop tôt, l'heure est, me semble, indue,  
-J'ai peur que la musique étant trop entendue,  
-Il ne tombe sur nous quelque défluxion, [36]  
-Ou se fasse sur nous quelque profusion. [37]  
+J'ai peur que la musique étant trop entendue,   [36]
+Il ne tombe sur nous quelque défluxion,   [37]
+Ou se fasse sur nous quelque profusion.  
 Je me sens dedans moi quelque esprit prophétique,  
 Qui m'effraye et me dit, Malheur sur ta Musique !  
 Les gens de ce quartier ne sont pas endormis,  
@@ -2300,8 +2300,8 @@ Mais au nom de Dieu soit, commençons.
         Roquespine,  
 Ils s'en vont bien crier, au meurtre, on m'assassine !  
 Va charger Filipin, quand ils auront fini.  
-Je vais à Don Juan rendre le teint terni,  
-Et peut-être donner à son dos platassades. [38]  
+Je vais à Don Juan rendre le teint terni,   [38]
+Et peut-être donner à son dos platassades.  
 
     ROSQUEPINE.
 J'en prétends faire autant aux donne sérénades.  
@@ -2334,24 +2334,24 @@ Je trépigne,
 Je rechigne,  
 Je t'échigne,  
 Et dès demain  
-Tu sentiras ma main.  
-Foi de parfait quinola [39]  
+Tu sentiras ma main.   [39]
+Foi de parfait quinola  
 Notre main n'est pas si téméraire,  
 Que de faire  
 À ton nez, cet affront-là,  
 Non, non, je m'en dédis,  
-Je suis ton Amadis,  
-Ma levrette, [40]  
+Je suis ton Amadis,   [40]
+Ma levrette,  
 Ma civette,  
 Ma friquette,  
 Sois douce ou non,  
 Je trouverai tout bon.  
 
     FILIPIN.
-Êtes-vous là, charmante étoile poussinière,  
-Plus fraîche mille fois que la fleur matinière ? [41]  
-Êtes-vous en cornette, ou bien escoffion, [42]  
-Avez-vous entendu votre brave Amphion ?  
+Êtes-vous là, charmante étoile poussinière,   [41]
+Plus fraîche mille fois que la fleur matinière ?   [42]
+Êtes-vous en cornette, ou bien escoffion,  
+Avez-vous entendu votre brave Amphion ?   [43]
 
     DON JUAN.
 Je ne puis plus souffrir.  
@@ -2443,8 +2443,8 @@ Certain Duc est l'auteur de ce noir attentat,
 Pour certaines raisons, et d'amour, et d'État.  
 Ce bon Duc, qui n'a pas l'âme des plus guerrières,  
 Qui me craint, et me hait, et que je n'aime guères,  
-Comme je m'amusais après certain concert,  
-A pensé pour le coup, que j'étais pris sans vert. [43]  
+Comme je m'amusais après certain concert,   [44]
+A pensé pour le coup, que j'étais pris sans vert.  
 Il s'est jeté sur moi, suivi de trois ou quatre,  
 Mais je n'ai pas laissé toutefois de les battre,  
 À l'aide de Monsieur, et sans être blessé :  
@@ -2482,8 +2482,8 @@ Tant que dure la nuit, je ne dors rien qui vaille.
 Il s'en va.
 
 
-    FILIPIN.
-Et moi si l'on pouvait ne point funérailler, [44]  
+    FILIPIN. [45]
+Et moi si l'on pouvait ne point funérailler,  
 Je ne ferais, ma foi, jamais que batailler ;  
 Mais parce que combat engendre funéraille,  
 Alors que je combats, je ne fais rien qui vaille.  
@@ -2492,11 +2492,11 @@ Alors que je combats, je ne fais rien qui vaille.
 Fera-t-il ce qu'il dit ?  
 
     ROSQUEPINE.
-        Il ne le fera point,  
-Le Sire a trop grand soin du moule du pourpoint. [45]  
+        Il ne le fera point,   [46]
+Le Sire a trop grand soin du moule du pourpoint.  
 
-    DON DIÈGUE.
-Ô ! Que j'étais tenté par quelque estafilade [46]  
+    DON DIÈGUE. [47]
+Ô ! Que j'étais tenté par quelque estafilade  
 De punir son orgueil, et sa fanfaronnade !  
 
     FILIPIN.
@@ -2563,20 +2563,20 @@ Ta maîtresse me rend l'esprit tout sérieux,
 Pour te dire le vrai, je t'aimerais bien mieux.  
 
     PAQUETTE.
-Vous vous pensez moquer parmi des Damoiselles,  
-Telles que je puis être, on en voit d'aussi belles [47]  
+Vous vous pensez moquer parmi des Damoiselles,   [48]
+Telles que je puis être, on en voit d'aussi belles  
 Que ces Dames de prix, en qui souvent, dit-on,  
 Blanc, perles, coques d'oeuf, lard et pieds de mouton,  
-Baume, lait virginal, et cent mille autres drogues  
-De têtes sans cheveux aussi rases que gogues, [48]  
+Baume, lait virginal, et cent mille autres drogues   [49]
+De têtes sans cheveux aussi rases que gogues,  
 Font des miroirs d'amour, de qui les faux appas  
 Étalent des beautés qu'ils ne possèdent pas.  
 On les peut appeler visages de moquette.  
-Un tiers de leur personne est dessous la toilette ;  
-L'autre dans les patins, le pire est dans le lit : [49]  
+Un tiers de leur personne est dessous la toilette ;   [50]
+L'autre dans les patins, le pire est dans le lit :  
 Ainsi le bien d'autrui tout seul les embellit,  
-Ce qu'ils peuvent tirer de leur propre domaine,  
-C'est chair molle, gousset aigre, mauvaise haleine. [50]  
+Ce qu'ils peuvent tirer de leur propre domaine,   [51]
+C'est chair molle, gousset aigre, mauvaise haleine.  
 Et pour leurs beaux cheveux si ravissants à voir,  
 Ils ont pris leur racine en un autre terroir.  
 Ils sont le plus souvent des plantes transplantées,  
@@ -2599,10 +2599,10 @@ Mais la voici venir.
 Vous me le pardonnez, j'avais visite à rendre  
 À certaine Duchesse, à qui je dois beaucoup.  
 
-    FILIPIN.
-Ma belle Tramontane, hé bien, est-ce à ce coup, [51]  
-Que l'hymen ayant joint Don Pedre, et Dame Hélène,  
-De leur congrès fécond viendra la digne graine ! [52]  
+    FILIPIN. [52]
+Ma belle Tramontane, hé bien, est-ce à ce coup,  
+Que l'hymen ayant joint Don Pedre, et Dame Hélène,   [53]
+De leur congrès fécond viendra la digne graine !  
 Laquelle pullulant en ce puissant État,  
 Soumettra tout le monde à notre Potentat.  
 
@@ -2611,14 +2611,14 @@ Puisque votre vertu m'a tout à fait acquise,
 Ma volonté doit être à la vôtre soumise.  
 
     FILIPIN.
-Je n'ai présentement que dix mille Ducats,  
-Un faquin de facteur, dont j'ai fait quelque cas, [53]  
-Et que pour sa paresse, il faut casser au gage, [54]  
+Je n'ai présentement que dix mille Ducats,   [54]
+Un faquin de facteur, dont j'ai fait quelque cas,   [55]
+Et que pour sa paresse, il faut casser au gage,  
 Me fait de jour en jour attendre, dont j'enrage :  
 M'écrit, qu'à la monnaie, on agit lentement,  
 À cause que l'on sert le Roi premièrement,  
-Et que son Commissaire enlève de Séville  
-Autant de Patagons qu'on fait en cette ville. [55]  
+Et que son Commissaire enlève de Séville   [56]
+Autant de Patagons qu'on fait en cette ville.  
 
     HÉLÈNE.
 Cette guerre de Flandre enlève tout l'argent.  
@@ -2630,8 +2630,8 @@ Vous pouvez cependant ravir d'aise un pauvre homme
 Qui ne vit depuis peu que d'expectation,  
 Comme les sots de Juifs font après leur Sion :  
 Hélas ! Dans peu de jours, je vais mourir par braise !  
-Au lieu qu'un prompt Hymen me fera mourir d'aise.  
-Quatre ou cinq mille écus en velours et tabis, [56]  
+Au lieu qu'un prompt Hymen me fera mourir d'aise.   [57]
+Quatre ou cinq mille écus en velours et tabis,  
 Suffiront, ce me semble, à faire des habits,  
 Le carrosse, le train, et tout notre équipage,  
 Se feront à loisir après le mariage ;  
@@ -2650,8 +2650,8 @@ Que l'orangé pastel est couleur agréable !
     HÉLÈNE.
 On ne s'habille plus d'une couleur semblable.  
 
-    FILIPIN.
-Et zinzolin, Madame. [57]  
+    FILIPIN. [58]
+Et zinzolin, Madame.  
 
     HÉLÈNE.
         Il n'est plus de saison.  
@@ -2665,8 +2665,8 @@ Elle réjouit l'oeil.
 
     FILIPIN.
 Une robe de peau, couleur de pain d'épice ;  
-Qu'un drap marbré bien chaud, doublerait pour l'hiver,  
-Avec trois passepoils, jaune, minime, et vert, [58] [59]  
+Qu'un drap marbré bien chaud, doublerait pour l'hiver,   [59] [60]
+Avec trois passepoils, jaune, minime, et vert,  
 Qui feraient ce qu'on dit, Pistache ou bien Pistage,  
 Serait le vêtement le plus riche d'Espagne.  
 
@@ -2674,8 +2674,8 @@ Serait le vêtement le plus riche d'Espagne.
 Envoyez-moi l'argent, tout sera bien choisi.  
 
     FILIPIN.
-On me fait un pourpoint de velours cramoisi,  
-Dont les chausses seront de satin tristamie. [60]  
+On me fait un pourpoint de velours cramoisi,   [61]
+Dont les chausses seront de satin tristamie.  
 
     PAQUETTE.
 Don Diègue est là-bas.  
@@ -2687,8 +2687,8 @@ Assez mal à propos m'envoie un importun.
     HÉLÈNE.
 Ne le verrez-vous point ?  
 
-    FILIPIN.
-        Ce me serait tout un, [61]  
+    FILIPIN. [62]
+        Ce me serait tout un,  
 S'il ne m'avait point fait une supercherie  
 Sous mon nom. Il m'escroque une commanderie,  
 Et retient mes papiers après cet acte noir.  
@@ -2719,8 +2719,8 @@ Don Juan Bracamont.
     HÉLÈNE.
         Brisons-là, je vous prie.  
 
-    DON DIÈGUE.
-Depuis quand faites-vous si fort la rencherie ? [62]  
+    DON DIÈGUE. [63]
+Depuis quand faites-vous si fort la rencherie ?  
 Il est riche, Madame.  
 
     HÉLÈNE.
@@ -2755,8 +2755,8 @@ M'a fait un riche don, quoiqu'il m'ait fait sans bien !
 Auprès de Léonor, il ne vous manque rien.  
 
     DON DIÈGUE.
-Il est vrai ; mais pourtant, je crains qu'elle n'apprenne  
-Que je suis venu voir la nompareille Hélène. [63]  
+Il est vrai ; mais pourtant, je crains qu'elle n'apprenne   [64]
+Que je suis venu voir la nompareille Hélène.  
 
     HÉLÈNE.
 Le péril n'est pas grand pour vous.  
@@ -2851,9 +2851,9 @@ Il sort de l'Alcôve.
 Ha le mauvais parent ! Madame, je vous jure,  
 Si je n'ai eu peur de vous faire une injure,  
 Que j'aurais fait sur lui notable irruption :  
-Mais j'en retrouverai bientôt l'occasion.  
-Au prix de moi, Madame, un lion n'est qu'un ase, [64]  
-Quand je suis en colère, une antipéristase [65]  
+Mais j'en retrouverai bientôt l'occasion.   [65]
+Au prix de moi, Madame, un lion n'est qu'un ase,   [66]
+Quand je suis en colère, une antipéristase  
 Me trouble le dedans, la consanguinité  
 Fait la guerre en mon âme, à sa méchanceté.  
 Si je mangeais son coeur, je mordrais en la grappe.  
@@ -2862,8 +2862,8 @@ Ne me retenir point, c'est me faire enrager,
 Que sait-on ? Je ferai bien mieux de ne bouger.  
 Si je l'allais trouver, et qu'il fît résistance,  
 Le malheureux mourrait sans nulle repentance.  
-Comme mes premiers coups ne sont pas jeux d'enfants ;  
-Mais de ces orbes coups à tuer éléphants. [66]  
+Comme mes premiers coups ne sont pas jeux d'enfants ;   [67]
+Mais de ces orbes coups à tuer éléphants.  
 J'ai pourtant grand sujet de me mettre en colère,  
 C'est une passion qui grandement m'altère.  
 Qu'on me presse en un verre, un, deux ou trois limons,  
@@ -2887,8 +2887,8 @@ N'ont-ils point amené quelques autres encor ?
 Je ne le pense pas.  
 
     FILIPIN.
-        Bien, que mon cousin monte,  
-Copulativement je m'en vais à sa honte [67]  
+        Bien, que mon cousin monte,   [68]
+Copulativement je m'en vais à sa honte  
 Me joindre aux yeux de tous au trésor de beauté  
 Qu'il ne méritait point, et que j'ai mérité.  
 Paquette, approchez-vous, est-il prêt le Notaire ?  
@@ -2898,14 +2898,14 @@ Oui Monsieur.
 
     FILIPIN.
         Achevons vitement cette affaire,  
-Je suis grand amateur de la conclusion,  
-Et naturellement j'appète l'union. [68]  
+Je suis grand amateur de la conclusion,   [69]
+Et naturellement j'appète l'union.  
 
 
 ## SCÈNE IV. Léonor, Hélène, Don Diègue, Don Juan, Filipin ou Don Pedro de Buffalos, Paquette.
 
-    LÉONOR.
-Je viens me conjouir avec la belle Hélène. [69]  
+    LÉONOR. [70]
+Je viens me conjouir avec la belle Hélène.  
 
     HÉLÈNE.
 Ignorant le sujet, qui chez moi vous amène,  
@@ -2947,8 +2947,8 @@ Ha ! Ne blasphémons point.
     HÉLÈNE.
         Vous êtes fou, Mendoce.  
 
-    DON DIÈGUE.
-Vous êtes folle, Hélène, avecque votre noce. [70]  
+    DON DIÈGUE. [71]
+Vous êtes folle, Hélène, avecque votre noce.  
 
     HÉLÈNE.
 Don Pedre, endurez-vous ?  
@@ -3013,8 +3013,8 @@ C'est le prix où je mets mon amour, et ma foi.
     DON JUAN.
 Qui moi, vous épouser ? Vous, une intéressée  
 Que Mendoce a servie, et puis après laissée :  
-Parce qu'elle l'aimait seulement pour le bien,  
-Qu'un laquais a férue, et prise en moins de rien. [71]  
+Parce qu'elle l'aimait seulement pour le bien,   [72]
+Qu'un laquais a férue, et prise en moins de rien.  
 Puis pour son pis-aller qui m'a pris, moi la crème,  
 De la Cour de Madrid, moi que tout le monde aime !  
 Madame, je serais le plus sot des humains,  
@@ -3033,8 +3033,8 @@ Je ne veux point de vous, et vous baise les mains.
     FILIPIN.
 Qui moi, vous épouser ? Vous une intéressée,  
 Que mon Maître a servie, et puis après laissée ;  
-Et qui me donneriez bientôt du pied au cul,  
-Lorsque vous me verriez être sans un quart d'écu ! [72]  
+Et qui me donneriez bientôt du pied au cul,   [73]
+Lorsque vous me verriez être sans un quart d'écu !  
 Nous autres Filipins avons trop de courage,  
 Guérissez votre esprit, oubliez mon visage.  
 Madame, je serais le plus sot des humains,  
@@ -3130,14 +3130,14 @@ Le conseil est fort bon, la connais-je ?
     BÉATRIX.
         C'est moi.  
 
-    FILIPIN.
-Vade, Vade, retro Satanas, qui me tente ! [73]  
-Mon front ne fut jamais une table d'attente ; [74]  
-Et ne portera point le mystérieux bois  
-Que personne ne voit, et qu'on croit toutefois. [75]  
-Je ne veux point avoir un timbre de pécore, [76]  
-Je ne veux point de toi, redoutable Pandore !  
-Moi, te prendre, ha ! Vraiment, c'est moi qui serais pris, [77]  
+    FILIPIN. [74]
+Vade, Vade, retro Satanas, qui me tente !   [75]
+Mon front ne fut jamais une table d'attente ;  
+Et ne portera point le mystérieux bois   [76]
+Que personne ne voit, et qu'on croit toutefois.   [77]
+Je ne veux point avoir un timbre de pécore,  
+Je ne veux point de toi, redoutable Pandore !   [78]
+Moi, te prendre, ha ! Vraiment, c'est moi qui serais pris,  
 Et pour qui me prends-tu, maudite Béatris ?  
 Tu me crois aussi sot que Mendoce mon Maître.  
 Moi j'aurais des enfants, et leur mère à repaître !  
@@ -3175,22 +3175,22 @@ Moi, qui suis de galants jour et nuit recherchée
 De Bourgeois, Courtisans, Prélats, et gens d'épée,  
 Qui depuis quelques jours sans quelques ennemis,  
 Aurais eu pour époux un opulent commis ;  
-Qui viens de refuser le clerc ou secrétaire  
-D'un riche président : gros vilain, va te faire [78]  
+Qui viens de refuser le clerc ou secrétaire   [79]
+D'un riche président : gros vilain, va te faire  
 Cent fois plus honnête homme, et lors j'aviserai,  
 Par pitié seulement, si je t'épouserai.  
-J'ai reçu depuis peu deux gros poulets d'un Comte,  
-Un Duc me couche en joue, et j'en fais peu de compte. [79]  
-Un jeune abbé, qui n'est ni prêtre ni demi, [80]  
+J'ai reçu depuis peu deux gros poulets d'un Comte,   [80]
+Un Duc me couche en joue, et j'en fais peu de compte.   [81]
+Un jeune abbé, qui n'est ni prêtre ni demi,  
 S'offre de m'épouser, ou d'être mon ami :  
 Il me fit l'autre jour don d'une porcelaine,  
 Et je t'épouserais ? C'est ta fièvre quartaine.  
 
     FILIPIN.
-Arrête, Béatrix, elle s'en va, ma foi,  
-Je devais bien aussi faire du quant à moi, [81]  
-M'a-t-elle ainsi quitté par dépit ou par ruse ?  
-Foin, j'enrage d'avoir tout ce qu'on me refuse, [82]  
+Arrête, Béatrix, elle s'en va, ma foi,   [82]
+Je devais bien aussi faire du quant à moi,  
+M'a-t-elle ainsi quitté par dépit ou par ruse ?   [83]
+Foin, j'enrage d'avoir tout ce qu'on me refuse,  
 Mon Dieu, que l'on est sot, alors que l'on est beau !  
 Il faut que là-dessus je lui fasse un Rondeau.  
 
@@ -3281,82 +3281,84 @@ Il faut que là-dessus je lui fasse un Rondeau.
 
 [42] Escoffion : Ancienne coiffure à l'usage du peuple. L
 
-[43] Prendre sans vert : Prendre quelqu'un sans vert, le prendre au dépourvu. L
+[43] Amphion : Fils de Zeus et d'Antiope, poète et musicien.
 
-[44] Funérailler : donner de la matière aux funérailles : tuer.
+[44] Prendre sans vert : Prendre quelqu'un sans vert, le prendre au dépourvu. L
 
-[45] Moule du pourpoint : le corps. Sauver le moule du pourpoint, sauver son corps, sa personne. (Dict. littré)
+[45] Funérailler : donner de la matière aux funérailles : tuer.
 
-[46] Estafilade : coupure faite par un instrument tranchant. (Dict. Furetière)
+[46] Moule du pourpoint : le corps. Sauver le moule du pourpoint, sauver son corps, sa personne. (Dict. littré)
 
-[47] Lait virginal : cosmétique dans lequel on faisait entrer autrefois le baume du Pérou, le storax, l'ambre et la civette ; on le prépare aujourd'hui en versant goutte à goutte de la teinture alcoolique de benjoin dans de l'eau commune, jusqu'à ce que la liqueur soit parfaitement blanche. (Dict. Littré)
+[47] Estafilade : coupure faite par un instrument tranchant. (Dict. Furetière)
 
-[48] Gogue : Nom, dans l'Aunis, d'une grosse cerise blanchâtre. (Dict; Littré)
+[48] Lait virginal : cosmétique dans lequel on faisait entrer autrefois le baume du Pérou, le storax, l'ambre et la civette ; on le prépare aujourd'hui en versant goutte à goutte de la teinture alcoolique de benjoin dans de l'eau commune, jusqu'à ce que la liqueur soit parfaitement blanche. (Dict. Littré)
 
-[49] Patin : Soulier de femme qui a des semelles fort hautes et pleines de liège, afin de paraître de plus belle taille. (Dict. Furetière)
+[49] Gogue : Nom, dans l'Aunis, d'une grosse cerise blanchâtre. (Dict; Littré)
 
-[50] Gousset : qui signifie l'aisselle et la mauvaise odeur qui en sort : d'où vient qu'on dit communément, Sentir le gousset, pour dire, Sentir mauvais, à cause des mauvaises humeurs corrompues qui sortent par cette partie quand elle est échauffée. (Dict. Furetière)
+[50] Patin : Soulier de femme qui a des semelles fort hautes et pleines de liège, afin de paraître de plus belle taille. (Dict. Furetière)
 
-[51] Tramontane : L'étoile polaire, qui, avant la découverte de la boussole, servait seule de guide aux navigateurs. L
+[51] Gousset : qui signifie l'aisselle et la mauvaise odeur qui en sort : d'où vient qu'on dit communément, Sentir le gousset, pour dire, Sentir mauvais, à cause des mauvaises humeurs corrompues qui sortent par cette partie quand elle est échauffée. (Dict. Furetière)
 
-[52] Congrès : Terme obscène. Action du coït qui se faisait il n'y a pas longtemps par ordonnance d'un Juge écclesiastique en présence de chirurgiens et de aatrones, pour éprouver si un homme était impuissant, aux fins de dissoudre un mariage. (Dict. Furetière)
+[52] Tramontane : L'étoile polaire, qui, avant la découverte de la boussole, servait seule de guide aux navigateurs. L
 
-[53] Faquin : Crocheteur, homme de la lie du peuple, vil et méprisable. L
+[53] Congrès : Terme obscène. Action du coït qui se faisait il n'y a pas longtemps par ordonnance d'un Juge écclesiastique en présence de chirurgiens et de aatrones, pour éprouver si un homme était impuissant, aux fins de dissoudre un mariage. (Dict. Furetière)
 
-[54] Gage : Familièrement. Casser aux gages, retirer à quelqu'un son emploi, ses appointements. L
+[54] Faquin : Crocheteur, homme de la lie du peuple, vil et méprisable. L
 
-[55] Patagon : Monnaie de Flandres faite d'argent, qui a valu d'abord 48. s. et depuis 58. s. F
+[55] Gage : Familièrement. Casser aux gages, retirer à quelqu'un son emploi, ses appointements. L
 
-[56] Tabis : Étoffe de soie unie et ondée, passée à la calandre sous un cylindre qui imprime sur l'étoffe les inégalités onduleuses gravées sur le cylindre même. L
+[56] Patagon : Monnaie de Flandres faite d'argent, qui a valu d'abord 48. s. et depuis 58. s. F
 
-[57] Zinzolin : C'est un nom qu'on donne à une espece de couleur qui tire sur le rouge, dont la teinture est faite du suc d'une plante que les Latins appellent hysginum, dont parle Pline ; et de son diminutif hysginolinum a été fait zinzolin. L
+[57] Tabis : Étoffe de soie unie et ondée, passée à la calandre sous un cylindre qui imprime sur l'étoffe les inégalités onduleuses gravées sur le cylindre même. L
 
-[58] Passepoil : Petite bande de satin, ou taffetas de couleur qu'on met sur les coustures d'un habit, et qu'on laisse un peu avancer en dehors pour le relever. F
+[58] Zinzolin : C'est un nom qu'on donne à une espece de couleur qui tire sur le rouge, dont la teinture est faite du suc d'une plante que les Latins appellent hysginum, dont parle Pline ; et de son diminutif hysginolinum a été fait zinzolin. L
 
-[59] Minime : est aussi le nom d'une couleur trés-sombre, telle que celle que portent ces Religieux. C'est un gris fort obscur en tirant sur le noir ou tanné. F
+[59] Passepoil : Petite bande de satin, ou taffetas de couleur qu'on met sur les coustures d'un habit, et qu'on laisse un peu avancer en dehors pour le relever. F
 
-[60] Tristamie : Ancien nom de la couleur de pain bis, chez les teinturiers. L
+[60] Minime : est aussi le nom d'une couleur trés-sombre, telle que celle que portent ces Religieux. C'est un gris fort obscur en tirant sur le noir ou tanné. F
 
-[61] C'est tout un : il n'importe, cela est égal. Qu'il m'approuve ou me blâme, ce m'est tout un. L
+[61] Tristamie : Ancien nom de la couleur de pain bis, chez les teinturiers. L
 
-[62] Faire la rencherie : s'estimer beaucoup. O
+[62] C'est tout un : il n'importe, cela est égal. Qu'il m'approuve ou me blâme, ce m'est tout un. L
 
-[63] Nompareille : se dit en plusieurs arts pour exprimer ce qui y est de plus petit. L
+[63] Faire la rencherie : s'estimer beaucoup. O
 
-[64] Ase : âne.
+[64] Nompareille : se dit en plusieurs arts pour exprimer ce qui y est de plus petit. L
 
-[65] Antipéristase : Action de deux qualités contraires, dont l'une excite la vigueur de l'autre. La moyenne region de l'air est froide en été, et les foudres s'y forment par antiperistase, par le combat du froid et du chaud. F
+[65] Ase : âne.
 
-[66] Orbe : Terme de Chirurgie, qui se dit des coups qui font des contusions, et qui ne viennent pas d'instruments trenchants qui entament la peau. F
+[66] Antipéristase : Action de deux qualités contraires, dont l'une excite la vigueur de l'autre. La moyenne region de l'air est froide en été, et les foudres s'y forment par antiperistase, par le combat du froid et du chaud. F
 
-[67] Copulativement : d'une manière conjointe. Manière affectée de dire "et".
+[67] Orbe : Terme de Chirurgie, qui se dit des coups qui font des contusions, et qui ne viennent pas d'instruments trenchants qui entament la peau. F
 
-[68] Appéter : Terme dogmatique. Désirer. Il ne se dit guère que des désirs qui viennent des causes naturelles. F
+[68] Copulativement : d'une manière conjointe. Manière affectée de dire "et".
 
-[69] Conjouir : Il ne se dit qu'avec le pronom personnel. Se réjouir avec quelqu'un d'une bonne fortune qui lui est arrivée, d'une bonne affaire qu'il a faite. (...) Ce mot vieillit, et en sa place on dit "féliciter". F
+[69] Appéter : Terme dogmatique. Désirer. Il ne se dit guère que des désirs qui viennent des causes naturelles. F
 
-[70] Il faut au lieu de "avec" mettre "avecque" pour le nombre de pieds.
+[70] Conjouir : Il ne se dit qu'avec le pronom personnel. Se réjouir avec quelqu'un d'une bonne fortune qui lui est arrivée, d'une bonne affaire qu'il a faite. (...) Ce mot vieillit, et en sa place on dit "féliciter". F
 
-[71] Féru : Blessé. Il ne se dit qu'en cette phrase burlesque : "Il est bien feru de cette femme", pour dire, "Il en est bien amoureux" : et Son coeur est feru, pour dire, Il est blessé par l'amour. F
+[71] Il faut au lieu de "avec" mettre "avecque" pour le nombre de pieds.
 
-[72] Quart d'écu : Quart d'écu, ancienne monnaie d'argent, qui valait d'abord quinze ou vingt sous, et qui, plus tard, en a souvent valu davantage. L
+[72] Féru : Blessé. Il ne se dit qu'en cette phrase burlesque : "Il est bien feru de cette femme", pour dire, "Il en est bien amoureux" : et Son coeur est feru, pour dire, Il est blessé par l'amour. F
 
-[73] Vade, Vade, retro Satanas : phrase latine, "Va-t-en, va-t-en, en arrière Satan".
+[73] Quart d'écu : Quart d'écu, ancienne monnaie d'argent, qui valait d'abord quinze ou vingt sous, et qui, plus tard, en a souvent valu davantage. L
 
-[74] Table rase : ou table d'attente, lame, planche sur laquelle il n'y a encore rien de gravé. L
+[74] Vade, Vade, retro Satanas : phrase latine, "Va-t-en, va-t-en, en arrière Satan".
 
-[75] Timbre : se dit figurément en morale de la cervelle d'un homme, ou de son esprit. F
+[75] Table rase : ou table d'attente, lame, planche sur laquelle il n'y a encore rien de gravé. L
 
-[76] Pécore : Ce mot au sens prorpe signifie un animal, une bête ; mais il est bas et burlesque. Se dit aussi figurémment et burlesquement pour signifier une personne sotte, stupide, et qui a de la peine à concevoir quelque chose. F
+[76] Timbre : se dit figurément en morale de la cervelle d'un homme, ou de son esprit. F
 
-[77] Pandore : Mythologie. Nom qu'Hésiode donne à la première femme. T
+[77] Pécore : Ce mot au sens prorpe signifie un animal, une bête ; mais il est bas et burlesque. Se dit aussi figurémment et burlesquement pour signifier une personne sotte, stupide, et qui a de la peine à concevoir quelque chose. F
 
-[78] Poulet : signifie aussi un petit billet amoureux qu'on envoye aux Dames galantes, ainsi nommé, parce qu'en le pliant on y faisait deux pointes qui representaient les ailes d'un poulet. F
+[78] Pandore : Mythologie. Nom qu'Hésiode donne à la première femme. T
 
-[79] Coucher en joue : ne pas perdre de vue une personne ou une chose sur laquelle on a quelque dessein. L
+[79] Poulet : signifie aussi un petit billet amoureux qu'on envoye aux Dames galantes, ainsi nommé, parce qu'en le pliant on y faisait deux pointes qui representaient les ailes d'un poulet. F
 
-[80] Ni demi : avec un substantif qui précède, sans rien absolument de la chose dont il s'agit. L
+[80] Coucher en joue : ne pas perdre de vue une personne ou une chose sur laquelle on a quelque dessein. L
 
-[81] Quant-à-moi : ou le quant-à-soi, l'indépendance, la fierté qu'on se réserve. L
+[81] Ni demi : avec un substantif qui précède, sans rien absolument de la chose dont il s'agit. L
 
-[82] Foin : Interjection. Terme de repentir et d'indignation, qu'on dit, lors qu'on a fait quelque chose qui déplaît, contre celui qu'on accuse d'en être cause. F
+[82] Quant-à-moi : ou le quant-à-soi, l'indépendance, la fierté qu'on se réserve. L
+
+[83] Foin : Interjection. Terme de repentir et d'indignation, qu'on dit, lors qu'on a fait quelque chose qui déplaît, contre celui qu'on accuse d'en être cause. F

@@ -80,8 +80,8 @@ Quand Empereur il fit sa couche et son État
 Le prix de quelques pains, qu'il emprunta soldat,  
 Et par une faiblesse, à nulle autre seconde,  
 S'associa ma mère à l'Empire du monde ?  
-Depuis, Rome souffrit, et ne réprouva pas  
-Qu'il commit un Alcide, au fardeau d'un Atlas, [1]  
+Depuis, Rome souffrit, et ne réprouva pas   [1]
+Qu'il commit un Alcide, au fardeau d'un Atlas,  
 Qu'on vit sur l'Univers deux têtes souveraines,  
 Et que Maximian en partagea les rênes :  
 Mais pourquoi pour un seul tant de maîtres divers,  
@@ -337,8 +337,8 @@ Non des tableaux parlants de vos rares exploits,
 Non cette si célèbre et si fameuse histoire,  
 Que vos heureux succès laissent à la mémoire,  
 (Puisque le peuple grec, non plus que le romain,  
-N'a point pour les tromper une assez docte main.)  
-Mais quelque effort au moins, par qui nous puissions dire, [2]  
+N'a point pour les tromper une assez docte main.)   [2]
+Mais quelque effort au moins, par qui nous puissions dire,  
 Vous avoir délassés du grand faix de l'Empire,  
 Et par ce que notre art aura de plus charmant,  
 Avoir à vos grands soins ravi quelque moment.  
@@ -351,8 +351,8 @@ Sans un trait de ton art, aurait quelque défaut.
 Le théâtre aujourd'hui fameux par ton mérite,  
 À ce noble plaisir puissamment sollicité ;  
 Et dans l'état qu'il est, ne peut sans être ingrat,  
-Nier de te devoir son plus brillant éclat :  
-Avec confusion j'ai vu cent fois tes feintes, [3]  
+Nier de te devoir son plus brillant éclat :   [3]
+Avec confusion j'ai vu cent fois tes feintes,  
 Me livrer malgré moi de sensibles atteintes ;  
 En cent sujets divers, suivant tes mouvements,  
 J'ai reçu de tes feux de vrais ressentiments ;  
@@ -394,8 +394,8 @@ De trois ou quatre au plus, peut-être la mémoire
 Jusqu'aux siècles futurs, conservera la gloire ;  
 Mais de les égaler à ces fameux auteurs,  
 Dont les derniers des temps seront adorateurs,  
-Et de voir leurs travaux, avec la révérence  
-Dont je vois les écrits d'un Plaute et d'un Térence, [4] [5]  
+Et de voir leurs travaux, avec la révérence   [4] [5]
+Dont je vois les écrits d'un Plaute et d'un Térence,  
 Et de ces doctes Grecs, dont les rares brillants  
 Font qu'ils vivent encor si beaux après mille ans,  
 Et dont l'estime enfin ne peut être effacée,  
@@ -436,8 +436,8 @@ Il semble que les feux soient des fleurs sous tes pas.
     MAXIMIN.
 L'épreuve en est aisée.  
 
-    GENEST.
-        Elle sera sans peine, [6]  
+    GENEST. [6]
+        Elle sera sans peine,  
 Si votre nom, Seigneur, nous est libre en la scène ;  
 Et la mort d'Adrian, l'un de ces obstinés,  
 Par vos derniers arrêts naguère condamnés,  
@@ -1263,8 +1263,8 @@ Crois qu'ils seront pour moi, d'indissolubles noeuds,
 Dont l'étreinte en toi seul saura borner mes voeux.  
 
     ADRIAN.
-Ô Ciel, Ô Natalie ! Ah ! Douce et sainte flamme,  
-Je rallume mes feux, et reconnais ma femme ; [7]  
+Ô Ciel, Ô Natalie ! Ah ! Douce et sainte flamme,   [7]
+Je rallume mes feux, et reconnais ma femme ;  
 Puisqu'au chemin du Ciel, tu veux suivre mes pas,  
 Sois mienne, chère épouse, au-delà du trépas.  
 Que mes voeux, que ta foi ; mais tire-moi de peine,  
@@ -1535,8 +1535,8 @@ Croit faire des vaincus, et fait des conquérants.
     FLAVIE.
 Souvent en ces ardeurs la mort qu'on se propose,  
 Ne semble qu'un ébat, qu'un souffle, qu'une rose,  
-Mais quand ce spectre affreux sous un front inhumain,  
-Les tenailles, les feux, les haches à la main, [8]  
+Mais quand ce spectre affreux sous un front inhumain,   [8]
+Les tenailles, les feux, les haches à la main,  
 Commence à nous paraître, et faire ses approches ;  
 Pour ne s'effrayer pas, il faut être des roches ;  
 Et notre repentir, en cette occasion,  
@@ -1896,7 +1896,7 @@ M'a départi sa grâce, est mon approbateur,
 Me propose des prix, et m'a fait son acteur.  
 
     LENTULE.
-Quoi qu'il manque au sujet, jamais il ne hésite.  
+Quoi qu'il manque au sujet, jamais il ne hésite.   [9]
 
     GENEST.
 Dieu m'apprend sur le champ, ce que je vous récite ;  
@@ -2489,8 +2489,8 @@ Quelque compassion l'est à notre innocence.
 Le fer, qui de ses ans doit terminer le cours,  
 Retranche vos plaisirs, en retranchant ses jours.  
 
-    DIOCLÉTIAN.
-Je connais son mérite, et plains votre infortune ; [9]  
+    DIOCLÉTIAN. [10]
+Je connais son mérite, et plains votre infortune ;  
 Mais outre que l'injure, avec les dieux commune,  
 Intéresse l'État à punir son erreur ;  
 J'ai pour toute sa secte une si forte horreur,  
@@ -2580,4 +2580,6 @@ D'une feinte, en mourant, faire une vérité.
 
 [8] "spectre" remplace "sceptre", idem J. Sanchez.
 
-[9] Nous suivaons J. Sanhez en insérant "Dioclétian" comme locuteur.
+[9] Au vers 1315, la négation est marquée "ne" pour faire l'alexandrin.
+
+[10] Nous suivaons J. Sanhez en insérant "Dioclétian" comme locuteur.

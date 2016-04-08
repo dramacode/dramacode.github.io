@@ -1,7 +1,7 @@
 ---
 identifier: RACINE_ANDROMAQUE68  
-creator: RACINE, Jean  
-date: 1668  
+creator: Racine, Jean  
+date: 1667  
 title: ANDROMAQUE, TRAGÉDIE  
 ---
 
@@ -1269,8 +1269,8 @@ Mais qu'Oreste à son gré m'impute ses douleurs.
 N'avons-nous d'entretien que celui de ses pleurs ?  
 Pyrrhus revient à nous. Hé bien, chère Cléone,  
 Conçois-tu les transports de l'heureuse Hermione ?  
-Sais-tu quel est Pyrrhus ? T'es-tu fait raconter  
-Le nombre des Exploits... Mais qui les peut compter ? [2]  
+Sais-tu quel est Pyrrhus ? T'es-tu fait raconter   [2]
+Le nombre des Exploits... Mais qui les peut compter ?  
 Intrépide, et partout suivi de la Victoire,  
 Charmant, Fidèle enfin, rien ne manque à sa Gloire.  
 Songe...  

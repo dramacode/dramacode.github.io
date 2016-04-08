@@ -642,7 +642,7 @@ Et qu'on y passe mieux la plus mauvaise nuit.
 Je suis moins délicat que vous ; mais la punaise  
 M'a pourtant empêché de dormir à mon aise ;  
 Les cousins m'ont piqué, les rats et les souris  
-M'ont pissé sur le nez, et j'ai vu des esprits.  
+M'ont pissé sur le nez, et j'ai vu des esprits.   [1]
 
     DON DIÈGUE, IL S'EN VA..
 Va-t-en vite savoir où Don Félix demeure ;  
@@ -885,8 +885,8 @@ Je l'aurais bien frotté si ce n'est qu'il est vôtre.
 Il me trouve à son gré, tout ce que j'ai lui plaît ;  
 Mais me plaît-il aussi le maussade qu'il est ?  
 Il m'en faut bien un autre, et d'une autre fabrique,  
-C'est un beau marmouset, c'est un bel as de pique,  
-Il pense quand la nuit il a guitarisé, [1]  
+C'est un beau marmouset, c'est un bel as de pique,   [2]
+Il pense quand la nuit il a guitarisé,  
 Que j'en ai tout le jour le coeur martyrisé,  
 À la fin il verra, si vous n'y donnez ordre,  
 Que j'égratigne bien, et que je sais bien mordre,  
@@ -1970,7 +1970,7 @@ Ce sera de bon coeur.
 
     HÉLÈNE.
         Ha, Béatris, m'amie.  
-Qu'est-ce qu'a donc mon Père ?  
+Qu'est-ce qu'a donc mon Père ?   [3]
 
     BÉATRIX.
         Il a juste raison  
@@ -1980,7 +1980,7 @@ Ces beaux jeunes Seigneurs, que Dieu veuille confondre.
 
     DON FÉLIX.
 Je voudrais bien savoir quelle mouche a piqué  
-Ce colère vieillard ?  
+Ce colère vieillard ?   [4]
 
     DON DIÈGUE.
         Il s'est équivoqué ;  
@@ -2141,8 +2141,8 @@ Ha, traître !
     ALPHONSE.
     On m'assassine.  
 
-    DON DIÈGUE.
-    Ah, bélître ! [2]  
+    DON DIÈGUE. [5]
+    Ah, bélître !  
 
     ALPHONSE.
         On m'assomme.  
@@ -2459,14 +2459,14 @@ J'aimerais bien autant boire de la Ciguë ;
 Un oeil crevé, mon Dieu ! Que viens-je faire ici ?  
 Que je suis un franc sot, de m'hasarder ainsi !  
 Je n'aime point la mort parce qu'elle est camuse ;  
-Et que sans regarder qui la veut ou refuse,  
-L'indiscrète qu'elle est, grippe, voûsit ou non, [3]  
+Et que sans regarder qui la veut ou refuse,   [6]
+L'indiscrète qu'elle est, grippe, voûsit ou non,  
 Pauvre, riche, poltron, vaillant, mauvais et bon.  
 Mais je suis trop avant pour reculer arrière ;  
 C'est à faire en tout cas à rendre la Rapière,  
 Doncque bien loin de moi la peur et ses glaçons,  
-Je veux être de ceux qu'on dit mauvais garçons.  
-Mon cartel est reçu, je n'en fais point de doute, [4]  
+Je veux être de ceux qu'on dit mauvais garçons.   [7]
+Mon cartel est reçu, je n'en fais point de doute,  
 Mon homme ne vient point, peut-être il me redoute.  
 Hélas, plaise au Seigneur, qu'il soit sot à tel point,  
 Qu'il me tienne mauvais, et ne se batte point,  
@@ -2484,8 +2484,8 @@ Hay, Hay, j'ai l'oeil crevé, non, je me suis trompé,
 La peste, le grand coup dont je suis échappé,  
 Mais tu me payeras la peur que tu m'as faite ;  
 Il faut réciter ces vers-là vite, avec toute l'ardeur et la prestesse d'un homme qui se bat.
-
-Bon, ce coup-là sans doute a percé sa jaquette ; [5]  
+ [8]
+Bon, ce coup-là sans doute a percé sa jaquette ;  
 Bon, le voilà perdu : bon, me voilà sauvé ;  
 Car de ce premier coup son oeil droit est crevé ;  
 Mais il en faut avoir l'une et l'autre prunelle.  
@@ -2565,8 +2565,8 @@ Je m'acquitterais mieux de ce que je vous dois ;
 Je crois m'en acquitter un jour en galant homme.  
 Il le bat et s'en va.
 
-Recevez cependant cette petite somme,  
-De nasardes, soufflets, coups de pied et de poing. [6]  
+Recevez cependant cette petite somme,   [9]
+De nasardes, soufflets, coups de pied et de poing.  
 
     JODELET.
 J'eusse bien attendu, je n'en ai pas besoin.  
@@ -2575,8 +2575,8 @@ Et nous sommes étonnés en campagne assignée.
 Si je ne l'eusse fait, qu'est-ce qu'eut dit de moi  
 Ce Drôle, il en eut fait cent pièces, sur ma foi.  
 Ô qu'il est important d'avoir bien du courage !  
-Et que je me vais plaire à faire du carnage !  
-Je m'en vais devenir un vrai coupe-jarret, [7]  
+Et que je me vais plaire à faire du carnage !   [10]
+Je m'en vais devenir un vrai coupe-jarret,  
 On ne me verra plus à la main qu'un fleuret.  
 Mais j'aperçois quelqu'un, j'ai peur qu'on ne me voie.  
 
@@ -2631,7 +2631,7 @@ Or çà, voyons un peu la Lettre de ce traître,
 De ce faux Don Diègue ; ô l'insigne imposteur :  
 Et que n'aurait trompé ce visage menteur ?  
 LETTRE.
-
+ [11]
 Mon cher Époux,
 Sachant que Don Félix de Fonseque est votre ami, je vous écris à la hâte qu'on a exécuté ici des faux Monnayeurs, qui l'ont accusé d'être leur complice. Avertissez-le qu'un Exempt est parti avec ordre de le prendre en quelque lieu qu'il soit, et revenez voir promptement votre fidèle,
 DOROTHÉE.
@@ -3240,16 +3240,24 @@ Et rien n'est comparable à la quarte ou la tierce.
 -------
 
 
-[1] Guitariser : barbarisme pour dire jouer de la guitare.
+[1] Le locuteur suivant ne peut être Jodelet, c'est Don Diègue, nous corrigeons. 
 
-[2] Bélître : gros gueux qui mendie par fainéantise, et qui pourrait bine gagner sa vie. (Dict. Furetière)
+[2] Guitariser : barbarisme pour dire jouer de la guitare.
 
-[3] Dans le vers suivant, le mot traduit transcrit par voûsit est inconnu. 
+[3] Il semble que le locuteur suivant n'est pas Don Pedro mais Béatris.
 
-[4] Cartel : Appel en duel. Donner, recevoir, accepter, refuser un cartel. L
+[4] Il semble que le locuteur suivant n'est pas Don Pedro mais Don Diègue. 
 
-[5] Jaquette : est aussi un habit de paysan fait en petite casaque sans manche. F
+[5] Bélître : gros gueux qui mendie par fainéantise, et qui pourrait bine gagner sa vie. (Dict. Furetière)
 
-[6] Nasardes : chiquenaude que l'on donne sur le bout du nez. On dit d'un homme ridicule, et faible, qu'il a le nez à camouflets ou à nasardes. F
+[6] Dans le vers suivant, le mot traduit transcrit par voûsit est inconnu. 
 
-[7] Coupe-jarret : Brigand, assassin de profession. L
+[7] Cartel : Appel en duel. Donner, recevoir, accepter, refuser un cartel. L
+
+[8] Jaquette : est aussi un habit de paysan fait en petite casaque sans manche. F
+
+[9] Nasardes : chiquenaude que l'on donne sur le bout du nez. On dit d'un homme ridicule, et faible, qu'il a le nez à camouflets ou à nasardes. F
+
+[10] Coupe-jarret : Brigand, assassin de profession. L
+
+[11] Exempt : Est aussi un officier établi dans les compagnies des Gardes du Corps, dans celles des prévôts et autres officiers. Ils commandent en l'absence des capitaines et lieutenants. F

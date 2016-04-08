@@ -1089,7 +1089,7 @@ Les Exemplaires ont esté fournis, ainsi qu'il est porté par le Privilege.
  – LUCIDAME,Prince Gaulois.
  – ALBERIN,Tambour des Francs.
  – Chœur de peuple Gaulois.
- – Chœur de Trompettes.
+ – Chœur de Trompettes. 
 
 
 ## ACTE PREMIER.
@@ -1163,10 +1163,10 @@ Puis que le Soleil [126] est levé.
 Il entend de sa maistresse.
 
 
-    ROSILEE. 
+    ROSILEE.
 De quoy s'entretenoit la moitié de mon ame?  
 
-    THEANDRE. 
+    THEANDRE.
 Une telle demande a fait tort à ma flamme,  
 Et l'Amour s'en plaignant, vous respond en courrous⁎,  
 Que Theandre en tous lieux ne peut songer qu'à vous.  
@@ -1175,13 +1175,13 @@ Aussi bien que le cœur, vous tenez la memoire;
 Et si vostre trespas doit un jour arriver,  
 L'oubly mesme en [127] aura pour vous y [128] conserver.  
 
-    ROSILEE. 
+    ROSILEE.
 Ne jugerez- vous point ma faute sans exemple [129],  
 De venir si matin [130] vous trouver dans ce Temple?  
 Pardonnez ce peché qui ne vient que d'amour;  
-Je vous ay voulu voir aussi tost que le jour.  
+Je vous ay voulu voir aussi tost que le jour.   
 
-    THEANDRE. 
+    THEANDRE.
 Je prens comme je dois l'honneur de vos caresses [131];  
 C'est dans ces lieux sacrez qu'on doit voir les Deesses,  
 C'est dans ces lieux icy [132] qu'on les doit honorer;  
@@ -1191,41 +1191,41 @@ Il a tout ce qu'il faut pour un tel sacrifice [133],
 Car il s'offre luy-mesme en un si beau trespas,  
 Et le feu par vos yeux ne luy [134] manquera pas.  
 
-    ROSILEE. 
+    ROSILEE.
 Que ces flammes d'amour ne vous soyent point fatales;  
 Je veux bien vous brusler, mais d'un feu des Vestales [135],  
 Qu'un juste soin [136] conserve, et qui n'esteint [137] jamais;  
 Servez-luy d'aliment aussi bien que je fais.  
 
-    THEANDRE. 
+    THEANDRE.
 O Dieux! mon allegresse est bien tost accomplie,  
 Mais allez plus avant [138], mon cœur, je vous supplie;  
 Et par les sentimens que donne la pitié,  
 Faites-moy descouvrir ceux de vostre amitié;  
 Car parmy ces plaisirs certain soubçon m'afflige;  
 
-    ROSILEE. 
+    ROSILEE.
 J'aime Theandre, autant que son amour m'oblige:  
 
-    THEANDRE. 
+    THEANDRE.
 Ha! ce n'est pas assez, il faut passer [139] ce point;  
 Peut-estre mon amour ne vous oblige point,  
 Et de cette façon vous ne m'aimerez guere;  
 Mon brasier [140] sans pareil n'en veut point un vulgaire,  
 Tout ou rien, tout ou rien, jusqu'aux derniers abois [141]:  
 
-    ROSILEE. 
+    ROSILEE.
 J'aime encore Theandre autant que je le dois.  
 
-    THEANDRE. 
+    THEANDRE.
 Vous aimez par devoir! non pas Jupiter mesme [142].  
 
-    ROSILEE. 
+    ROSILEE.
 J'aime Theandre enfin aussi bien comme il aime;  
 Et pour le contenter plainement aujourd'huy,  
-Je veux qu'il sçache encor que j'aime plus que luy.  
+Je veux qu'il sçache encor que j'aime plus que luy.   
 
-    THEANDRE. 
+    THEANDRE.
 Ha trop heureux Amant! plaisir incomparable!  
 O bon-heur [143] infiny, pourveu qu'il soit durable!  
 Mais........  
@@ -1233,7 +1233,7 @@ Mais........
     ROSILEE.
     Dieux que craignez- vous?  
 
-    THEANDRE. 
+    THEANDRE.
         qu'un desir de grandeur  
 N'esteigne avec mes jours une si belle ardeur;  
 Le Prince Lucidan.....  
@@ -1256,7 +1256,7 @@ Nous aura fait parler [150] dans une mesme Barque [151];
 Afin de me punir, afin de vous vanger,  
 Si Dieux, ny Rois, ny Temps, m'obligent à changer,  
 
-    THEANDRE. 
+    THEANDRE.
 Avant que [152] te placer [153] il faut que je t'adore;  
 Bel enfant du Soleil, asseure mon Aurore,  
 Qu'il faudroit plus de jours à me desenflamer,  
@@ -1292,10 +1292,10 @@ Aussi bien que mes volontez,
 Devant ce Dieu qui m'a sceu prendre,  
 Tesmoings vos yeux, signé, Theandre.  
 
-    ROSILEE. 
+    ROSILEE.
 Cét aimable present je ne puis refuser.  
 
-    THEANDRE. 
+    THEANDRE.
 Sellez cette promesse avec un doux baiser;  
 Et ne me la rendez qu'en la seconde vie [159].  
 Dieux! le Temps qui m'a veu court plus viste d'envie⁎ [160];  
@@ -1305,17 +1305,17 @@ Car desja l'heure approche où je dois estre armé.
     ROSILEE.
 Je reviendray bien tost accompagner la Reine:  
 
-    THEANDRE. 
+    THEANDRE.
 Moins vous demeurerez, et moins j'auray de peine [161];  
 O cieux, au mesme instant que je perds ses appas,  
-Mon triste cœur me quitte, et la suit pas à pas.  
+Mon triste cœur me quitte, et la suit pas à pas.   
 
 
 ### SCENE SECONDE.
 LUCIDAN, ROSILEE, POLICRANE.
 
 
-    LUCIDAN *seul.* 
+    LUCIDAN *seul.*
 La fortune me rit, le sort m'est favorable;  
 Je suis autant heureux, que j'estois miserable;  
 Je triomphe sans peine, et comblé de bon-heur,  
@@ -1425,29 +1425,29 @@ Tout ainsi que d'amour vous manquez de respect;
 Mais considerez bien ce que vostre œil rejette;  
 Et qu'un vous obeït dont vous serez subjette.  
 
-    ROSILEE. 
+    ROSILEE.
 Trop de lumiere offusque, et l'œil ne la peut voir;  
 Je la crains par foiblesse, et la fuis par devoir.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Humilité superbe, et dont je hay l'usage;  
 La Couronne sied bien dessus un beau visage.  
 
-    ROSILEE. 
+    ROSILEE.
 Mon cœur n'est point avare, il est plustost guerrier;  
 Je la mesprise d'or, et la veux de laurier.  
 
     LUCIDAN. 
 Vous en aurez besoin, pour vous sauvez du foudre;  
 
-    ROSILEE. 
+    ROSILEE.
 À souffrir les malheurs je sçauray me resoudre:  
 
     LUCIDAN.
 Et bien, souvenez-vous, en m'osant desdaigner,  
 Que je suis Lucidan, et que je dois regner.  
 
-    ROSILEE. 
+    ROSILEE.
 Vous me pardonnerez, la Reine me demande [180]:  
 
     LUCIDAN
@@ -1515,7 +1515,7 @@ Il se met à genoux.
 
 Ce quarreau [184] preparé m'enseigne mon devoir.  
 
-    ANDROPHILE. 
+    ANDROPHILE.
 L'esperance est le bien qui devance les autres;  
 Serment de l'Ordre de Chevalerie.
 
@@ -1529,37 +1529,37 @@ De mourir pour l'Estat, pour le Roy, pour les Dieux!
 Et de ne faire rien où l'envie⁎ ait à mordre,  
 Rien indigne de vous, non plus que de mon Ordre?  
 
-    THEANDRE. 
+    THEANDRE.
 Mes volontez d'accord, avecque mon devoir,  
 Ne manqueront jamais, si ce n'est de pouvoir.  
 
-    ANDROPHILE. 
+    ANDROPHILE.
 Il suffit, Lucidan, pour faveur signalée,  
 Chaussez-luy l'esperon, donnez-luy l'accollée:  
 *Ceremonies antiques etmots essentiels.*
 
 
-    THEANDRE. 
+    THEANDRE.
 L'Univers m'entendra ce bien fait publier⁎:  
 
-    LUCIDAN. 
+    LUCIDAN.
 Theandre, approchez-vous je vous fais Chevalier.  
 
     ROSILEE.
 Je ne suis plus à moy, le Prince tient mon ame.  
 
-    ANDROPHILE. 
+    ANDROPHILE.
 Pour vous ceindre l'espée, eslisez une Dame:  
 *Autreceremonie.*
 
 
-    THEANDRE.  
+    THEANDRE. 
 Amour en fait le choix,  
 
     LUCIDAN.
         Un aveugle [185] choisir?  
 
-    THEANDRE. 
+    THEANDRE.
 Ouy Seigneur, un aveugle a trouvé mon desir:  
 Et c'est une beauté de tant d'attraits pourveuë,  
 Qu'il n'eust pû mieux eschoir [186], s'il eust eu bonne veuë.  
@@ -1573,7 +1573,7 @@ Que vostre belle main souffre d'estre occupée,
     ROSILEE.
 De la Reine despend ce que vous demandez:  
 
-    LUCIDAN. 
+    LUCIDAN.
 Mais de moy despendra ce que vous pretendez.  
 Il parle bas.
 
@@ -1588,7 +1588,7 @@ Elle luy ceind l'espée.
 Puissiez-vous succomber sous le faix des lauriers,  
 Et vous rendre fameux entre tous les guerriers:  
 
-    LUCIDAN. 
+    LUCIDAN.
 Que ses vœux ont d'amour, et moy d'inquietudes!  
 Il dit ce vers tout bas.
 
@@ -1602,31 +1602,31 @@ L'honneur que j'ay receu m'oblige desormais,
 La guerre des Danois contre nous allumée,  
 Vous offre ce renom sans partir de l'armée.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Seray-je retenu, le voyant retenir?  
 Il parle bas.
 
 
-    THEANDRE. 
+    THEANDRE.
 Là mon honneur doit naistre, ou ma course finir:  
 Il faut que la fortune à mes vœux favorable,  
 M'y donne la victoire, ou la mort honorable;  
 Il faut qu'on me rapporte en gloire ou bien en deuïl,  
 Sur un Char de triomphe, ou dedans un Cercueuïl;  
 
-    LUCIDAN. 
+    LUCIDAN.
 Le dernier t'est certain, si ton feu continuë,  
 Il dit ce vers bas.
 
 
-    THEANDRE. 
+    THEANDRE.
 Puis que ma passion vous est assez connuë,  
 Il se tourne vers Rosilée.
 
 Trouvez bon que je porte (en volant jusqu'aux Cieux)  
 De vostre Chevalier le titre glorieux.  
 
-    ROSILEE. 
+    ROSILEE.
 Ma gloire se rencontre avec vostre demande;  
 Mais pour vous obeïr, il faut qu'on me commande;  
 Pour sçavoir mes desirs, au lieu de m'en presser,  
@@ -1640,7 +1640,7 @@ C'est de vous que j'attends, ou la mort, ou la vie;
 Prononcez un arrest, qui rende un Amoureux,  
 Ou du tout [187] miserable, ou tout à fait heureux.  
 
-    LUCIDAN. 
+    LUCIDAN.
 La vanité sied bien, quand elle est moderée,  
 Et qu'un Zephir [188] la souffle, et non pas un Borée [189];  
 Mais icy vostre orgueil se veut trop eslever;  
@@ -1650,33 +1650,33 @@ Du service qu'on doit, pour tirer recompense?
 Theandre reglez mieux vostre temerité,  
 Et ne demandez rien sans l'avoir merité.  
 
-    THEANDRE. 
+    THEANDRE.
 Pour meriter l'honneur où mon desir aspire,  
 Il faudroit quelque chose au delà d'un Empire.  
 
     LUCIDAN.
 Pourquoy donc le vouloir?  
 
-    THEANDRE. 
+    THEANDRE.
         Je le veux seulement;  
 Afin de vous servir apres plus dignement;  
 Car dessous ce beau nom mon courage invincible,  
 Pourra tout entreprendre, et trouver tout possible.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Ce penser est injuste; et ce superbe rang,  
 Ne se peut acquerir qu'en la perte du sang.  
 
-    THEANDRE. 
+    THEANDRE.
 Mon sang pour ce subjet [190] est tout prest à respandre [191];  
 Mais Seigneur, qu'a bien fait le mal-heureux Theandre?  
 O Dieux, que l'apparence est un miroir flateur;  
 Je trouve un ennemy, que j'ay creu protecteur.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Une folle......  
 
-    ANDROPHILE. 
+    ANDROPHILE.
         Tout beau: vostre ame bien reglée⁎ [192],  
 Faisant ce jugement ne s'est point aveuglée;  
 Lucidan vous estime, et consent à vos vœux;  
@@ -1688,7 +1688,7 @@ Nous monstre dans les siens, quelle est sa volonté:
 Ceste ceremonie enfin estant bornée⁎ [193],  
 Le festin et le bal finiront la journée:  
 
-    THEANDRE. 
+    THEANDRE.
 Il baise la main du Prince.
 
 En cét excez d'honneur je ne me puis regler⁎ [194],  
@@ -1738,23 +1738,23 @@ Donnant à mes exploits la recompense telle;
 Accordant à mes vœux un thresor tant exquis,  
 Il m'auroit donné plus que je n'aurois conquis.  
 
-    ROSILEE. 
+    ROSILEE.
 Ouy, si l'affection peut passer pour merite;  
 Comme l'un seroit grand, l'autre n'est pas petite;  
 Et pourveu que mes soings⁎ vous puissent obliger;  
 Aucun pour vous servir je n'en veux negliger.  
 
-    GLACITIDE. 
+    GLACITIDE.
 Que vous estes heureux bruslant de mesme flames!  
 Le vray plaisir consiste en l'union des ames;  
 Plaisir si plein d'appas, si charmant, et si cher,  
 Qu'apres qu'on le possede, il n'en faut plus chercher.  
 
-    THEANDRE. 
+    THEANDRE.
 Madame il est certain, ces douceurs sont divines;  
 Mais en cueïllant ces fleurs j'y trouve des espines:  
 
-    GLACITIDE. 
+    GLACITIDE.
 Quel subjet avez-vous de craindre le malheur?  
 
     ROSILEE.
@@ -1763,18 +1763,18 @@ Le subjet vient de vous, qui causez sa douleur;
     GLACITIDE. 
 De moy, comment cela? Dieux, que suis troublée!  
 
-    THEANDRE. 
+    THEANDRE.
 Le Prince Lucidan adore Rosilée,  
 Jugez si je dois craindre en voyant ce Rival:  
 
-    GLACITIDE. 
+    GLACITIDE.
 N'ayez non plus de peur que vous aurez de mal.  
 M'apprenant le subjet de sa melancholie⁎ [196],  
 La prudence du Roy domptera sa folie;  
 Je m'en vay de ce pas la luy faire sçavoir,  
 Afin qu'il le remette aux termes du devoir.  
 
-    THEANDRE. 
+    THEANDRE.
 Puissent les immortels reconnoistre les peines,  
 Que prend pour ses subjets la meilleure des Reines.   
 
@@ -1783,11 +1783,11 @@ Que prend pour ses subjets la meilleure des Reines.
 LINDORANTE, LUCIDAN, PHILIDASPE.
 
 
-    LINDORANTE. 
+    LINDORANTE.
 Le respect vous oblige, et la raison aussi,  
 D'esteindre, ou de couvrir ce feu qui brusle ainsi.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Ha! bons Dieux Lindorante, il ne m'est pas possible;  
 Je suis fort patient, mais non pas insensible;  
 Ce mal me tient au cœur qu'on ne peut secourir [197];  
@@ -1809,7 +1809,7 @@ Là paroist malgré moy ma constance abatuë;
 Et parmy ce debris marche tousjours vainqueur,  
 Le superbe Tiran qui regne dans mon cœur.  
 
-    LINDORANTE. 
+    LINDORANTE.
 Nous voulons estre attaints quand cét Archer⁎ nous blesse;  
 Sa force ne luy vient que de nostre foiblesse;  
 Et quand il nous surprend, c'est par la trahison,  
@@ -1831,13 +1831,13 @@ Il a, comme le goust, l'effect des medecines;
 Si vous le recevez comme il est presenté,  
 J'en auray de la joye, et vous de la santé.  
 
-    PHILIDASPE. 
+    PHILIDASPE.
 Ignorans Medecins, stupides que nous sommes,  
 De mesurer les grands au vulgaire des hommes;  
 Et par ces beaux conseils qu'ils peuvent desdaigner,  
 Vouloir faire obeïr ceux qui doivent regner.  
 
-    LINDORANTE. 
+    LINDORANTE.
 Pour regner seurement, qu'ils regnent sur eux-mesmes;  
 S'ils domptent les desirs, leurs forces sont extrêmes;  
 Adorez de leurs peuples, et comblez de bon-heur,  
@@ -1869,20 +1869,20 @@ Et les ombres sans corps n'ayant point de visage,
 Ne se peuvent connoistre, et dans l'obscurité,  
 La laideur est esgale avecque la beauté.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Mais mon contentement n'est pas en ma puissance,  
 J'ay tasché vainement de l'avoir par constance.  
 
-    PHILIDASPE. 
+    PHILIDASPE.
 Quand on refuse un bien, desja trop acheté,  
 Sçachez que l'inconstance⁎ est une lascheté:  
 Cette difficulté vous doit servir d'amorce;  
 Où la constance est foible, il faut joindre la force,  
 
-    LINDORANTE. 
+    LINDORANTE.
 Tes conseils luy rendront tous les Dieux ennemis.  
 
-    PHILIDASPE. 
+    PHILIDASPE.
 Aux Princes comme luy, ce qui plaist est permis.  
 Tous les grands sont des Dieux, qui sont exempts de crime;  
 Leur pouvoir les absout, et rend tout legitime:  
@@ -1895,14 +1895,14 @@ Joint à ses qualitez celle de ravisseur:
 Cependant on l'encense, on luy bastit des Temples;  
 Peut-on estre blasmé de suivre ses exemples?  
 
-    LINDORANTE. 
+    LINDORANTE.
 L'humaine impieté fit ces inventions,  
 Afin d'authoriser ses sales passions:  
 
-    PHILIDASPE. 
+    PHILIDASPE.
 Dans l'histoire des Dieux ton ame est ignorante:  
 
-    LUCIDAN. 
+    LUCIDAN.
 Allez, retirez-vous, trop sage Lindorante,  
 Amour est un enfant qui cherit ses pareils:  
 Philidaspe, va-t'en, je suivray tes conseils;  
@@ -1914,7 +1914,7 @@ Dans l'ordre que ta ruse a prescrit à la mienne.
 GLACITIDE, ANDROPHILE, LUCIDAN.
 
 
-    GLACITIDE. 
+    GLACITIDE.
 Taschez de luy tirer cette espine du cœur,  
 Mais ne le traictez pas avec trop de rigueur,  
 Car au lieu d'y servir elle nous pourroit nuire:  
@@ -1958,7 +1958,7 @@ Je m'oblige à le mettre en cette connoissance;
 Et sans vous en parler mon discours suffira,  
 Pour luy faire observer tout ce qu'il vous plaira.  
 
-    ANDROPHILE. 
+    ANDROPHILE.
 Je suis fasché de voir deux choses en vostre ame,  
 Fort indignes d'un Prince, et bien dignes de blâme,  
 Et qui vous porteront un jour dans le malheur,  
@@ -2028,15 +2028,15 @@ La foiblesse me gagne, et la jambe, et la veuë;
 Je sens en tout mon corps la chaleur s'amortir [211],  
 Et semble que mon cœur ait des desseins de sortir.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Un lict seroit pour vous meilleur que cette place:  
 
-    ANDROPHILE. 
+    ANDROPHILE.
 N'approchant point tes feux d'un tronc qui n'est que glace,  
 Grave en ton souvenir, que par ton fol amour,  
 Tu ravis la lumière à qui te mis au jour [212].  
 
-    LUCIDAN. 
+    LUCIDAN.
 O Ciel, faut-il souffrir le mespris qui me brave?  
 Quoy que je sois son fils, il me traicte en esclave:  
 Et ne suis-je pas Prince aussi bien comme luy?  
@@ -2050,17 +2050,17 @@ LUCIDAN, THEANDRE, ROSILEE.
     LUCIDAN.
 Ha traistre il faut mourir,  
 
-    THEANDRE. 
+    THEANDRE.
     Seigneur,  
 
-    LUCIDAN. 
+    LUCIDAN.
         la resistance  
 Au lieu de te sauver irrite ma vangeance:  
 
-    THEANDRE. 
+    THEANDRE.
 Je ne fais que parer le coup de mon trespas;  
 
-    ROSILEE. 
+    ROSILEE.
 Dieux! que voulez-vous faire? il ne se deffend pas.  
 
     LUCIDAN. 
@@ -2079,25 +2079,25 @@ Prince aussi mal-traicté comme il est amoureux;
 Mais qui mourra content, si vostre ame farouche [214]  
 Endure qu'un souspir eschape à vostre bouche.  
 
-    THEANDRE. 
+    THEANDRE.
 Ha Ciel! il la vaincra, sa constance⁎ va choir [215];  
 Il la faut soustenir, la Bague,  
 
     ROSILEE.
 Ils se monstrent leurs gages.
 
-        le Mouchoir.  
+        le Mouchoir.   
 
-    LUCIDAN.   [46]
+    LUCIDAN.
 Indiscret,  
 
-    ROSILEE. 
+    ROSILEE.
     le Mouchoir,  
 
-    THEANDRE. 
+    THEANDRE.
     la Bague,  
 
-    LUCIDAN. 
+    LUCIDAN.
         O Dieux, perfides,  
 Vous cachez sous ces mots vos trames [216] homicides:  
 La Bague, et le Mouchoir, quels signes sont-ce icy?  
@@ -2115,7 +2115,7 @@ La Bague, et le Mouchoir, vous cousteront bien cher.
 Le Mouchoir, et la Bague, en dépit de l'envie⁎,  
 Feront durer mes feux plus long-temps que ma vie:  
 
-    ROSILEE. 
+    ROSILEE.
 La Bague, et le Mouchoir, seront tousjours tesmoins,  
 Que ce que j'ay promis ne durera pas moins.   
 
@@ -2189,7 +2189,7 @@ Je faillis, il est vray, mais ce fut par contrainte;
 L'apparence du bien, sert autant que l'effect⁎,  
 Elle sera contente, et vous fort satisfait.  
 
-    LINDORANTE. 
+    LINDORANTE.
 Sire ce beau conseil, qui se dit si propice,  
 Est un ardent trompeur, qui meine au precipice;  
 Ce feu que Philidaspe orne de tant d'appas,  
@@ -2204,16 +2204,16 @@ Vous hasardez⁎ [230] le Sceptre, et l'honneur, et la vie.
     LUCIDAN. 
 Je sçauray bien ranger [231] ces courages ingrats:  
 
-    PHILIDASPE. 
+    PHILIDASPE.
 L'occasion l'a belle, et l'Amour tend les bras;  
 Mais parce qu'il a peur, le lasche vous en donne:  
 
-    LINDORANTE. 
+    LINDORANTE.
 Sire, en voyant l'injure [232] où sa voix s'abandonne,  
 Tout ce que je puis dire à vostre Majesté,  
 Est qu'elle me verra mourir à son costé.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Je me puis garantir [233] sans que tu te hasardes:  
 Faites-moy suivre là par trente de mes Gardes;  
 Ce nombre suffira pour ce peuple insolent;  
@@ -2224,7 +2224,7 @@ Si contre mon dessein le leur est violent.
 GLACITIDE, THEANDRE.
 
 
-    GLACITIDE. 
+    GLACITIDE.
 Je ne puis m'esloigner, quoy que je le desire;  
 La Reine est dans un Chasteau.
 
@@ -2262,7 +2262,7 @@ Le respect me fait voir qu'il faut que je le serve;
 Et devant preferer son repos à mon bien,  
 Je respandray mon sang pour conserver le sien.  
 
-    GLACITIDE. 
+    GLACITIDE.
 Rare fidelité qui n'eut jamais d'exemple;  
 Digne que les mortels vous erigent un Temple!  
 Sauvez donc à [238] ce Prince, et le Sceptre, et l'honneur;  
@@ -2270,7 +2270,7 @@ Le Ciel vous comblera de gloire et de bon-heur;
 Et sans doute qu'un jour sa juste repentance,  
 Payera ce service avec vostre constance⁎ [239].  
 
-    THEANDRE. 
+    THEANDRE.
 Selon ses volontez, qu'il dispose de moy;  
 Je suis tousjours vassal, il est tousjours mon Roy.  
 
@@ -2279,7 +2279,7 @@ Je suis tousjours vassal, il est tousjours mon Roy.
 PHILIDASPE, LUCIDAN, LINDORANTE.
 
 
-    PHILIDASPE. 
+    PHILIDASPE.
 L'ame dans le peril se doit monstrer discrette;  
 Il se fait un grand bruit derriere le Theatre.
 
@@ -2291,7 +2291,7 @@ Tu fuis un precipice, où seul tu m'as jetté:
 Lasche, infame, poltron, je voy ta perfidie;  
 Ha traistre, tu n'as rien que la langue hardie [240].  
 
-    LINDORANTE. 
+    LINDORANTE.
 Sire, soyez tesmoin que je meurs aujourd'huy,  
 Beaucoup moins temeraire, mais plus vaillant que luy:  
 D'un conseil mesprisé je vous fait le reproche;  
@@ -2299,7 +2299,7 @@ Mais gagnez le Palais, car ce peuple s'approche;
 Je finis à vos pieds, percé de part en part;  
 Et je veux que mon corps vous serve de rempart.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Je parts, mais à dessein d'avoir cette allegeance [241],  
 D'immoler de ma main, ce traistre à ma vangeance;  
 Il faut que son trespas⁎ instruise les flatteurs;  
@@ -2310,7 +2310,7 @@ Du desordre des grands detestables autheurs.
 ROSIMAR, CHŒUR DE PEUPLE.
 
 
-    ROSIMAR. 
+    ROSIMAR.
 Comment? peuple Gaulois, la valeur indomptée,  
 De vos braves Ayeuls, est-elle surmontée?  
 Quoy! degenerez [242]-vous de ce genereux sang?  
@@ -2336,11 +2336,11 @@ Qui ne vit point en Roy, n'est pas digne de l'estre;
 Que dans tous les quartiers chacun aille disant,  
 Liberté, liberté, ce joug [245] est trop pesant.  
 
-    UN CITOYEN. 
+    UN CITOYEN.
 Sans vouloir rechercher le conseil d'aucun autre,  
 Que vostre volonté dispose de la nostre.  
 
-    ROSIMAR. 
+    ROSIMAR.
 Allons, allons soldats, chassez cét Ennemy,  
 Achevant un labeur desja fait à demy.   
 
@@ -2349,7 +2349,7 @@ Achevant un labeur desja fait à demy.
 ROSILEE, ARTESIE.
 
 
-    ROSILEE. 
+    ROSILEE.
 Me loger chez Theandre, et mesme en son absence!  
 Ce procedé nouveau chocque la bien-seance;  
 Quelque mauvais dessein est dans l'esprit du Roy;  
@@ -2359,7 +2359,7 @@ Y commander Theandre, et me laisser en peine!
 Tout cela m'est suspect, et crois qu'avec raison,  
 J'auray quitté la sienne, et pris cette Maison.  
 
-    ARTESIE. 
+    ARTESIE.
 Mon logis escarté trompera sa poursuite;  
 Icy rien ne sçauroit empescher nostre fuite;  
 Theandre et mon Mary ne peuvent estre loing;  
@@ -2369,7 +2369,7 @@ Souz l'ombre de la nuict nous ferons la retraicte [246];
 Et sortant de Paris comme des Estrangers,  
 En Chevaliers errans [247] nous courrons les dangers.  
 
-    ROSILEE. 
+    ROSILEE.
 Ouy, deussay-je souffrir mille morts au lieu d'une,  
 Je feray que l'Amour domptera la fortune,  
 Et s'il poursuit encor ses infames projects,  
@@ -2381,7 +2381,7 @@ Alcaste vient à nous, ha que je suis surprise:
 ALCASTE, ROSILEE, ARTESIE.
 
 
-    ALCASTE. 
+    ALCASTE.
 Madame sauvez-vous, de crainte d'estre prise;  
 Le logis de mon Maistre attaqué par le Roy,  
 N'a pas un serviteur qui ne tremble d'effroy;  
@@ -2391,7 +2391,7 @@ Mais le peuple irrité ne pouvant l'endurer,
 Les armes à la main l'en a fait retirer;  
 C'est à vous de choisir, quel conseil⁎ [248] on doit prendre:  
 
-    ROSILEE. 
+    ROSILEE.
 Mon conseil et mes pas s'adressent vers [249] Theandre:  
 Allons chere Artesie, allons-y promptement [250];  
 Cachons un amour vray d'un feint habillement;  
@@ -2399,13 +2399,13 @@ Toy, retourne au logis; fay que ta bouche ouverte,
 Descouvrant mon départ [251], ne conspire ta perte,  
 Ce secret important n'est pas à publier⁎:  
 
-    ARTESIE. 
+    ARTESIE.
 Il faut que je vous fasse aujourd'huy Chevalier.  
 
 
 ### SCENE SEPTIESME.
 
-    LUCIDAN. 
+    LUCIDAN.
 Cesse facheux Amour, cesse de me poursuivre,  
 Il est sur le pont de son Palais.
 
@@ -2436,13 +2436,13 @@ Quoy, ce Tambour s'appreste à faire une Chamade [255]!
 PALINONDE, ALBERIN, LUCIDAN.
 
 
-    PALINONDE. 
+    PALINONDE.
 Les Princes, le Senat, et le peuple Gaulois,  
 Ne pouvant plus souffrir le desordre des Loix,  
 Declarent Lucidan indigne de l'Empire;  
 Ordonnant qu'il s'en aille, à peine d'avoir pire [256].  
 
-    LUCIDAN. 
+    LUCIDAN.
 Je despité [257] le Ciel de me faire endurer;  
 Voicy le dernier traict qui luy reste à tirer:  
 Il arme contre moy la plus fiere des bestes;  
@@ -2497,12 +2497,12 @@ O Dieux! comme à propos le perfide s'approche!
 PHILIDASPE, LUCIDAN.
 
 
-    PHILIDASPE. 
+    PHILIDASPE.
 Sire consolez vous;  
 Il le tuë.
 
 
-    LUCIDAN. 
+    LUCIDAN.
         Traistre, tu sentiras,  
 Qu'en m'arrachant le Sceptre, on m'a laissé le bras:  
 La nuict moins noire encor, que l'humeur qui me dompte,  
@@ -2518,7 +2518,7 @@ Et puis qu'il faut ceder, fuyons sans estre veus.
 THEANDRE, PERINTOR.
 
 
-    THEANDRE. 
+    THEANDRE.
 Fidele Perintor, que j'ay l'esprit en peine;  
 Je songe incessament au discours de la Reine;  
 Je l'ay redit cent fois; mais plus je l'ay sondé,  
@@ -2540,7 +2540,7 @@ La qualité de Roy m'apprend quelle est la mienne;
 Je me voy temeraire, aussi bien que jalous;  
 Et la crainte sçait mettre un frain à mon courrous⁎.  
 
-    PERINTOR. 
+    PERINTOR.
 Monsieur, soyez certain, que jamais Artesie,  
 Puis que pour s'en servir [266] Madame l'a choisie,  
 Ne manquera de rendre un devoir assidu,  
@@ -2562,10 +2562,10 @@ Jette un appas charmant, par qui l'ame se trompe;
 Et si vous me croyez, sans la [270] plus hazarder⁎,  
 Puis qu'elle est un Thresor, nous irons le garder.  
 
-    THEANDRE. 
+    THEANDRE.
 Laisseray-je la Reine en ce lieu solitaire?  
 
-    PERINTOR. 
+    PERINTOR.
 Lors que je dois parler, je ne sçaurois me taire:  
 Quoy! pour un vain respect qui vous tient enchaisné,  
 Laisserez vous ravir ce qu'on vous a donné?  
@@ -2582,7 +2582,7 @@ L'ame qui ne craint rien, ne peut estre trompée;
 Commençons tousjours bien, sans regarder la fin;  
 Car l'un depend de nous, et l'autre du Destin.  
 
-    THEANDRE. 
+    THEANDRE.
 Ton conseil me rendroit (suivy pour l'amour d'elle)  
 Et fidelle amoureux, et subject infidelle:  
 La loy de mon devoir est escrite en airain;  
@@ -2701,7 +2701,7 @@ Nous punisse en ces bois d'un appetit brutal.
 ROSILEE, ARTESIE.
 
 
-    ROSILEE. 
+    ROSILEE.
 Ta langue veut trahir le secret de mon ame:  
 Elles sont en habit d'homme.
 
@@ -2727,22 +2727,22 @@ Dans leurs tristes regards se font voir languissantes;
 Leurs cœurs suivent vos yeux, si charmants et si doux;  
 Helas que sans subject⁎, vous faites des jaloux.  
 
-    ROSILEE. 
+    ROSILEE.
 Malgré mon desplaisir je ris de ta folie:  
 
-    ARTESIE. 
-Je tasche de bannir vostre melancolie⁎:  
+    ARTESIE.
+Je tasche de bannir vostre melancolie⁎:   
 
-     ROSILEE.
+    ROSILEE.
 D'un remede plus fort ma douleur a besoin:  
 
-    ARTESIE. 
+    ARTESIE.
 Madame,  
 
-    ROSILEE. 
+    ROSILEE.
     dis Monsieur,  
 
-    ARTESIE. 
+    ARTESIE.
         il ne peut estre loin.  
 Nous reverrons bientost, et la Reine, et Theandre;  
 Ils sont encor icy, vous avez pû l'entendre;  
@@ -2754,11 +2754,11 @@ Y deussiez-vous mourir, aussi bien que brusler,
 Je meure si pour vous je n'irois l'appeller,  
 Sur le pretexte faux d'une injure receüe;  
 
-    ROSILEE. 
+    ROSILEE.
 Ha! folle, sans combattre, il m'a desja vaincüe;  
 En me gagnant le cœur par son doux entretien:  
 
-    ARTESIE. 
+    ARTESIE.
 S'il a gagné le vostre, il a perdu le sien.  
 Voyez comme à propos le hazard nous l'ameine [285];  
 Dieux! que je m'en vay [286] rire, en le mettant en peine;  
@@ -2784,7 +2784,7 @@ Soyons de la partie, aussi bien que tesmoins,
 Et si vous approuvez le desir qui me presse,  
 Faisons trois coups d'espée, au nom de la Maistresse [291].  
 
-    PERINTOR. 
+    PERINTOR.
 Si ton bras est debile [292], autant comme [293] ta vois,  
 En mourant du premier [294], tu n'en feras point trois.  
 
@@ -2831,7 +2831,7 @@ En luisant dans vostre ame, allume la colere;
 Ostez-vous un obstacle, au lieu d'apprehender;  
 Si je suis vostre Roy, je vous puis commander.  
 
-    THEANDRE. 
+    THEANDRE.
 Sire, vous commandez une chose illicite;  
 En vain contre mon Roy sa voix me sollicite;  
 Que vostre Majesté s'assure de me voir,  
@@ -2845,13 +2845,13 @@ Je ne porte ce fer que pour vostre service;
 Et si le peuple a fait quelque legereté,  
 Je sçauray le submettre à vostre Majesté.  
 
-    ROSILEE. 
+    ROSILEE.
 Si le Ciel en vostre ame a fait mourir l'envie⁎,  
 Qui chocquant mon honneur s'attaquoit à ma vie,  
 Sire, soyez certain qu'un jour le mesme Ciel,  
 Se fera voir pour vous, et sans haine, et sans fiel [300].  
 
-    LUCIDAN. 
+    LUCIDAN.
 J'ay perdu ma fureur, en perdant mon Empire;  
 Pour avoir souspiré, maintenant je souspire;  
 Et jamais Prince juste en ses heureux desseins,  
@@ -2865,7 +2865,7 @@ Pour se mettre à couvert, n'a pas un toict de chaume;
 Heureux, si de sa terre, au milieu de son deuïl,  
 Il luy reste six pieds pour se faire un Cercueïl.  
 
-    THEANDRE. 
+    THEANDRE.
 Que vostre Majesté, s'il luy plaist se console;  
 Car de la restablir, j'engage ma parole;  
 Retournons à Paris, remettre vostre Cour,  
@@ -2873,7 +2873,7 @@ Je vous feray regner, ou je perdray le jour:
 Allons de ce Chasteau, faire partir la Reine;  
 Car sans la diligence [301], une entreprise est vaine.  
 
-    LUCIDAN. 
+    LUCIDAN.
 Allons brave Theandre, et disposez de moy;  
 Vous me serez subject, en me refaisant Roy.  
 
@@ -2881,10 +2881,10 @@ Vous me serez subject, en me refaisant Roy.
 Passez mon Ennemy, car mon ame trompée,  
 Redoute plus les coups, des yeux que de l'espée [302].  
 
-    PERINTOR. 
+    PERINTOR.
 Je vous attaqueray dans une autre saison⁎;  
 
-    ARTESIE. 
+    ARTESIE.
 Je seray tousjours prest à vous faire raison [303].   
 
 
@@ -2901,7 +2901,7 @@ PALINONDE, CHŒUR DE PEUPLE,
 CHŒUR DE TROMPETTES.
 
 
-    THEANDRE. 
+    THEANDRE.
 Le Temple Se tire où paroist un Throsne, et les ornements Royaux sont sur l'Autel.
 
 Toy dont la prudence eternelle  
@@ -2911,7 +2911,7 @@ En cette action solennelle,
 Afin qu'un juste choix puisse estre fait par nous,  
 Je viens t'en prier à genous.  
 
-    ROSIMAR. 
+    ROSIMAR.
 Que celuy que la voix commune,  
 Doit faire nostre Roy,  
 Puisse tousjours avoir en soy,  
@@ -2919,7 +2919,7 @@ Un cœur digne de sa fortune:
 Et qu'il garde gravé dedans son souvenir,  
 L'art de payer et de punir.  
 
-    MENOCRITE. 
+    MENOCRITE.
 Illumine sa connoissance,  
 Ayant le Sceptre en main:  
 Et fais que d'un esprit humain,  
@@ -2987,7 +2987,7 @@ Je garderay ma voix pour vous mettre d'accord,
 Si les vostres du moins se trouvent partagées,  
 Sur differents subjects qui les ont engagées.  
 
-    ROSIMAR. 
+    ROSIMAR.
 Je lis dedans les yeux de tous les assistans,  
 Que leur cœur a pour but, le mesme où je pretens;  
 Toutes nos volontez paroissent fort unies,  
@@ -3011,7 +3011,7 @@ L'Estat qu'à vos vertus la fortune a promis;
 Et puis qu'en me taisant il faut que je m'explique,  
 La voix que je vous donne, est une voix publique.  
 
-    ORCHOMENE. 
+    ORCHOMENE.
 Quand cét Estre infiny qui commande aux humains  
 Le Sceptre universel auroit mis en vos mains,  
 Il vous auroit donné moins que vostre merite:  
@@ -3050,7 +3050,7 @@ Braves Princes Gaulois, pardonnez à ma crainte;
 Mon ame ne sçauroit endurer de contrainte;  
 Je parle librement; l'exemple me fait peur.  
 
-    ROSIMAR. 
+    ROSIMAR.
 Dissipez ce soubçon qui n'est qu'une vapeur [314];  
 Vostre rare⁎ vertu, vostre extréme courage,  
 Vous mettent pour toujours à l'abry de l'orage;  
@@ -3060,17 +3060,17 @@ Et vostre regne heureux, en despit de l'envie⁎,
 N'aura jamais de fin que celle de la vie;  
 Vous irez au sepulcre avec vostre bon-heur:  
 
-    THEANDRE. 
+    THEANDRE.
 Puis que vous desirez me donner cét honneur,  
 Avant que l'accepter, avant que je commande,  
 Desirant obtenir tout ce que je demande,  
 Jurez moy par les dieux tous justes et clements,  
 D'obeïr au premier de mes commandements.  
 
-    ROSIMAR. 
+    ROSIMAR.
 Ouy, nous vous le jurons adorable Theandre.  
 
-    THEANDRE. 
+    THEANDRE.
 Mon desir cede au vostre, et ne peut se deffendre,  
 
     ROSIMAR. 
@@ -3193,7 +3193,7 @@ ARTESIE, PALINONDE,
 CHŒUR DE PEUPLE, CHŒUR DE TROMPETTES.
 
 
-    GLACITIDE. 
+    GLACITIDE.
 Qu'icy vostre prudence exerce son usage;  
 Et que le souvenir d'un pere genereux,  
 Vous empesche de rendre un Prince malheureux.  
@@ -3204,21 +3204,21 @@ Vous aimastes le pere, et vous chassez l'enfant!
 Quittez au nom des Dieux, quittez cette manie⁎:  
 Son regne sera franc⁎ de toute tyrannie;  
 Et soyez asseurez qu'on vous verra benir,  
-Le fidele Vassal qui l'a fait revenir.  
+Le fidele Vassal qui l'a fait revenir.   
 
-     ROSILEE.
+    ROSILEE.
 Seigneur, mon [326] interest vous fit prendre les armes;  
 Pour le mesme aujourd'huy donnez-les à mes larmes;  
 Sur la foy de Theandre il est icy venu;  
 Reconnoissez le Roy, puis qu'il s'est reconnu.  
 
-    ROSIMAR. 
+    ROSIMAR.
 On ne peut s'opposer aux loix des destinées:  
 Nos ames sans raison paroistroient obstinées;  
 Theandre et vous, estant nostre unique souci⁎,  
 Si vous estes contents, nous le sommes aussi.  
 
-    THEANDRE. 
+    THEANDRE.
 Sire prenez le rang où seul vous devez estre;  
 Nous sommes nais subjects, et vous estes nay Maistre.  
 Apres l'a- voir reves- tu des habits Royaux il le remet au Thrône.

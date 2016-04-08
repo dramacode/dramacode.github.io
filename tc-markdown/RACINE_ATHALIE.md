@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_ATHALIE  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1691  
 title: ATHALIE, TRAGÉDIE tirée de l'écriture sainte.  
 ---
@@ -69,8 +69,8 @@ On me trouvera peut-être un peu hardi d'avoir osé mettre sur la scène un prop
 Oui, je viens dans son Temple adorer l'Éternel.  
 Je viens, selon l'usage antique et solennel,  
 Célébrer avec vous la fameuse journée,  
-Où sur le mont Sina la Loi nous fut donnée.  
-Que les temps sont changés ! Sitôt que de ce jour [2]  
+Où sur le mont Sina la Loi nous fut donnée.   [2]
+Que les temps sont changés ! Sitôt que de ce jour  
 La trompette sacrée annonçait le retour,  
 Du Temple orné partout de festons magnifiques,  
 Le peuple saint en foule inondait les portiques.  
@@ -113,8 +113,8 @@ Ce lévite à Baal prête son ministère.
 Ce Temple l'importune, et son impiété  
 Voudrait anéantir le Dieu qu'il a quitté.  
 Pour vous perdre il n'est point de ressorts qu'il n'invente.  
-Quelquefois il vous plaint, souvent même il vous vante.  
-Il affecte pour vous une fausse douceur. [3]  
+Quelquefois il vous plaint, souvent même il vous vante.   [3]
+Il affecte pour vous une fausse douceur.  
 Et par là de son fiel colorant la noirceur,  
 Tantôt à cette reine il vous peint redoutable.  
 Tantôt voyant pour l'or sa soif insatiable,  
@@ -163,7 +163,7 @@ Ai-je besoin du sang des boucs et des génisses ?
 Le sang de vos rois crie, et n'est point écouté.  
 Rompez, rompez tout pacte avec l'impiété.  
 Du milieu de mon peuple exterminez les crimes,  
-Et vous viendrez alors m'immoler des victimes.  
+Et vous viendrez alors m'immoler des victimes.   [4]
 
     ABNER.
 Hé que puis-je au milieu de ce peuple abattu ?  
@@ -287,7 +287,7 @@ Et se croit quelque enfant rejeté par sa mère,
 
     JOSABET.
 Hélas ! de quel péril je l'avais su tirer !  
-Dans quel péril encore est-il prêt de rentrer !  
+Dans quel péril encore est-il prêt de rentrer !   [5]
 
     JOAD.
 Quoi ? Déjà votre foi s'affaiblit et s'étonne ?  
@@ -326,8 +326,8 @@ Qui donc opposez-vous contre ses satellites ?
 Ne vous l'ai-je pas dit ? Nos prêtres, nos lévites.  
 
     JOSABET.
-Je sais que près de vous en secret assemblé  
-Par vos soins prévoyants leur nombre est redoublé ; [4]  
+Je sais que près de vous en secret assemblé   [6]
+Par vos soins prévoyants leur nombre est redoublé ;  
 Que pleins d'amour pour vous, d'horreur pour Athalie,  
 Un serment solennel par avance les lie  
 À ce fils de David qu'on leur doit révéler.  
@@ -527,7 +527,7 @@ Et si pénible de l'aimer ?
 L'esclave craint le tyran qui l'outrage.  
 Mais des enfants l'amour est le partage.  
 Vous voulez que ce Dieu vous comble de bienfaits,  
-Et ne l'aimer jamais ?  
+Et ne l'aimer jamais ?   [7]
 
     TOUT LE CHOEUR.
 Ô divine, ô charmante loi !  
@@ -1259,7 +1259,7 @@ Qu'une âme qui te cherche, et veut être innocente,
 Trouve d'obstacle à ses desseins !  
 Que d'ennemis lui font la guerre !  
 Où se peuvent cacher tes saints ?  
-Les pécheurs couvrent la terre.  
+Les pécheurs couvrent la terre.   [8]
 
     UNE AUTRE.
 Ô palais de David, et sa chère cité,  
@@ -1280,7 +1280,7 @@ Où David t'exprimait ses saints ravissements,
 Et bénissait son Dieu, son Seigneur, et son père ;  
 Sion, chère Sion, que dis-tu quand tu vois  
 Louer le dieu de l'impie étrangère  
-Et blasphémer le nom qu'ont adoré tes rois ?  
+Et blasphémer le nom qu'ont adoré tes rois ?   [9]
 
     UNE VOIX, SEULE.
 Combien de temps, Seigneur, combien de temps encore  
@@ -1765,8 +1765,8 @@ Ses prêtres sont captifs, ses rois sont rejetés.
 Dieu ne veut plus qu'on vienne à ses solennités.  
 Temple, renverse-toi, cèdres, jetez des flammes.  
 Jérusalem, objet de ma douleur,  
-Quelle main en ce jour t'a ravi tous tes charmes ?  
-Qui changera mes yeux en deux sources de larmes [5]  
+Quelle main en ce jour t'a ravi tous tes charmes ?   [10]
+Qui changera mes yeux en deux sources de larmes  
 Pour pleurer ton malheur ?  
 
     AZARIAS.
@@ -1844,7 +1844,7 @@ Que la force et la violence,
 Où les honneurs et les emplois  
 Sont le prix d'une aveugle et basse obéissance,  
 Ma soeur, pour la triste innocence,  
-Qui voudrait élever sa voix ?  
+Qui voudrait élever sa voix ?   [11]
 
     UNE AUTRE.
 Dans ce péril, dans ce désordre extrême,  
@@ -2840,6 +2840,18 @@ Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de
 
 [3] Variante, éd. 1691 : v.43, "qu'il ne joue" au lieu de "qu'il n'invente" et v.44, "il vous loue" pour "il vous vante".
 
-[4] Variante, éd. 1691 et 1692 : v.92, "rassemblé" au lieu de "assemblé".
+[4] Variante, éd. 1691 et 1692 : v.92, "vos victimes" au lieu de "des victimes".
 
-[5] Variante éd. 1691 et 1692, v.1154 "en un jour" au lieu de "en ce jour".
+[5] Variante, éd. 1691 et 1692 : v.186, "il est" au lieu de "est-il".
+
+[6] Variante, éd. 1691 et 1692 : v.92, "rassemblé" au lieu de "assemblé".
+
+[7] Variante, éd. 1697 : v.369 et 370, présents uniquement dans le version de 1697.
+
+[8] Variante, v.782-794 absents de l'édition 1691.
+
+[9] Variante, v.804-809 absents de l'édition 1691.
+
+[10] Variante éd. 1691 et 1692, v.1154 "en un jour" au lieu de "en ce jour".
+
+[11] Variante, v.1195-12044 absents de l'édition 1691.

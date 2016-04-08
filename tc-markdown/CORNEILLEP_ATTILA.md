@@ -295,8 +295,8 @@ Qui ne permet aux siens d'emploi ni de pouvoir,
 Qu'autant que par son ordre ils en doivent avoir.  
 Il sait vaincre et régner ; et depuis sa victoire,  
 S'il a déjà soumis et la Seine et la Loire,  
-Quand vous voudrez aux siens joindre vos combattants,  
-La Garonne et l'Arar ne tiendront pas longtemps. [1] [2]  
+Quand vous voudrez aux siens joindre vos combattants,   [1] [2]
+La Garonne et l'Arar ne tiendront pas longtemps.  
 Alors ces mêmes champs, témoins de notre honte,  
 En verront la vengeance et plus haute et plus prompte ;  
 Et pour glorieux prix d'avoir su nous venger,  

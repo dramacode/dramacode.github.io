@@ -427,8 +427,8 @@ Disons.
 Dis.  
 
     LYSE.
-        Que tout vert et rouge, ainsi qu'un perroquet,  
-Tu n'es que bien en cage, et n'as que du caquet. [1]  
+        Que tout vert et rouge, ainsi qu'un perroquet,   [1]
+Tu n'es que bien en cage, et n'as que du caquet.  
 
     CLITON.
 Tu ris. Cette action, qu'est-elle ?  
@@ -446,8 +446,8 @@ Et cette main ?
 Cette jambe, ce pied ?  
 
     LYSE.
-        Si tu sors des prisons,  
-Dignes de t'installer aux Petites-Maisons. [2]  
+        Si tu sors des prisons,   [2]
+Dignes de t'installer aux Petites-Maisons.  
 
     CLITON.
 Ce front ?  

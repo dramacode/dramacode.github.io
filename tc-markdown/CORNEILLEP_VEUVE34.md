@@ -570,10 +570,10 @@ Qu'indifférent qu'il est mon entretien l'ennuie,
 Que je lui sois à charge, et lorsque je la vois,  
 Qu'elle use d'artifice à s'échapper de moi ?  
 Sans te mettre en souci du feu qui me consomme,  
-Apprends comme l'amour se traite en honnête homme,  
-Aussitôt qu'une dame en ses rets nous a pris [1]  
-Offrir notre service au hasard d'un mépris,  
-Et nous laissant conduire à nos brusques saillies, [2]  
+Apprends comme l'amour se traite en honnête homme,   [1]
+Aussitôt qu'une dame en ses rets nous a pris  
+Offrir notre service au hasard d'un mépris,   [2]
+Et nous laissant conduire à nos brusques saillies,  
 Au lieu de notre amour lui montrer nos folies,  
 Qu'un superbe dédain punisse au même instant :  
 Il n'est si maladroit qui n'en fît bien autant.  
@@ -757,13 +757,13 @@ Car enfin ce rival est bien dans son esprit,
 Mais non pas tellement qu'avant que le mois passe  
 Nous ne le sachions mettre en sa mauvaise grâce.  
 
-    ALCIDON.
-Et lors ? [3]  
+    ALCIDON. [3]
+Et lors ?  
 
     LA NOURRICE.
         Je te réponds de ce que tu chéris,  
-Cependant continue à caresser Doris,  
-Que son frère ébloui par cette accorte feinte [4]  
+Cependant continue à caresser Doris,   [4]
+Que son frère ébloui par cette accorte feinte  
 De ce que nous brassons n'ait ni soupçon ni crainte.  
 
     ALCIDON.
@@ -776,19 +776,19 @@ Et la dupe qu'elle est croit tout sur ta parole ?
 
     ALCIDON.
 Cette jeune étourdie est si folle de moi  
-Qu'elle prend chaque mot pour article de foi,  
-Et son frère pipé du fard de mon langage [5]  
+Qu'elle prend chaque mot pour article de foi,   [5]
+Et son frère pipé du fard de mon langage  
 Qui croit que je soupire après son mariage  
 Pensant bien m'obliger, m'en parle tous les jours,  
 Mais quand il en vient là je sais bien mes détours,  
 Tantôt vu l'amitié qui tous deux nous assemble  
 J'attendrai son hymen pour être heureux ensemble,  
 Tantôt il faut du temps pour le consentement  
-D'un oncle dont j'espère un haut avancement,  
-Tantôt je sais trouver quelque autre bagatelle. [6]  
+D'un oncle dont j'espère un haut avancement,   [6]
+Tantôt je sais trouver quelque autre bagatelle.  
 
-    LA NOURRICE.
-Séparons-nous, de peur qu'il entrât en cervelle [7]  
+    LA NOURRICE. [7]
+Séparons-nous, de peur qu'il entrât en cervelle  
 S'il avait découvert un si long entretien,  
 Joue aussi bien ton jeu que je jouerai le mien.  
 
@@ -881,8 +881,8 @@ Il me mena danser deux fois sans me rien dire.
 Oui, mais après ?  
 
     DORIS.
-        Après ? C'est bien le mot pour rire,  
-Mon baladin muet se retire en un coin, [8]  
+        Après ? C'est bien le mot pour rire,   [8]
+Mon baladin muet se retire en un coin,  
 Pour faire mieux m'envoyer des oeillades de loin ;  
 Enfin après m'avoir longtemps considérée,  
 Après m'avoir de l'oeil mille fois mesurée,  
@@ -941,16 +941,16 @@ Ne négligera rien qui soit en mon pouvoir.
     CHRYSANTE.
 Ma fille te voilà telle que je souhaite,  
 Pour ne te rien celer, c'est chose qui vaut faite.  
-Géron qui depuis peu fait ici tant de tours  
-Au désçu d'un chacun a traité ces amours ; [9]  
+Géron qui depuis peu fait ici tant de tours   [9]
+Au désçu d'un chacun a traité ces amours ;  
 Et puisqu'à mes désirs je te vois résolue,  
 Je veux qu'avant deux jours l'affaire soit conclue.  
 Au regard d'Alcidon tu dois continuer,  
 Et de ton beau semblant ne rien diminuer :  
 
     DORIS.
-Mon frère qui croira sa poursuite abusée.  
-SanS doute en sa faveur brouillera la fusée. [10]  
+Mon frère qui croira sa poursuite abusée.   [10]
+SanS doute en sa faveur brouillera la fusée.  
 
     CHRYSANTE.
 Il n'est pas si mauvais que l'on n'en vienne à bout.  
@@ -1444,8 +1444,8 @@ Un amour étouffé sous un honteux silence,
 Et n'ai pas tant choqué que piqué ses désirs  
 Dont la soif irritée avance tes plaisirs.  
 
-    PHILISTE.
-À croire ton babil, la ruse est merveilleuse, [11]  
+    PHILISTE. [11]
+À croire ton babil, la ruse est merveilleuse,  
 Mais l'épreuve à mon goût en est fort périlleuse.  
 
     LA NOURRICE.
@@ -1460,8 +1460,8 @@ Vous de bons témoins de toutes ces merveilles
 Vous-même avez tout vu que voulez-vous de plus,  
 Entrez, on vous attend, ces discours superflus  
 Reculent votre bien et font languir Clarice.  
-Allez, allez cueillir les fruits de mon service,  
-Usez bien de votre heur et de l'occasion. [12]  
+Allez, allez cueillir les fruits de mon service,   [12]
+Usez bien de votre heur et de l'occasion.  
 
     PHILISTE.
 Soit une vérité, soit une illusion,  
@@ -2043,8 +2043,8 @@ Qui connaît ton mérite autant comme ta flamme,
 Je lui fis bien savoir que mon consentement  
 Ne dépendrait jamais de son aveuglement,  
 Et que jusqu'au tombeau quant à cet hyménée  
-Je maintiendrais sa foi que je t'avais donnée.  
-Ma soeur accortement feignait de l'écouter, [13]  
+Je maintiendrais sa foi que je t'avais donnée.   [13]
+Ma soeur accortement feignait de l'écouter,  
 Non pas que son amour n'osât lui résister,  
 Mais fine, elle voulait qu'un ver de jalousie  
 Sur quelque bruit léger piquât ta fantaisie,  
@@ -2055,8 +2055,8 @@ Réveille puissamment un amour languissant.
 Fais à qui tu voudras ce conte ridicule,  
 Soit que ta soeur l'accepte ou qu'elle dissimule,  
 Le peu que j'y perdrai ne vaut pas m'en fâcher :  
-Rien de mes sentiments ne saurait approcher  
-Comme alors qu'au théâtre on nous fait voir Mélite [14]  
+Rien de mes sentiments ne saurait approcher   [14]
+Comme alors qu'au théâtre on nous fait voir Mélite  
 Le discours de Cloris, quand Philandre la quitte :  
 Ce qu'elle dit de lui, je le dis de ta soeur,  
 Et je la veux traiter avec même douceur.  
@@ -2256,8 +2256,8 @@ J'ai mis, grâces aux Dieux, ma promesse en effet.
 Ainsi vous m'empêchez d'exécuter la mienne.  
 
     PHILISTE.
-Je ne puis empêcher que la vôtre ne tienne,  
-Mais si jamais je trouve ici ce courratier [15]  
+Je ne puis empêcher que la vôtre ne tienne,   [15]
+Mais si jamais je trouve ici ce courratier  
 Je lui saurai, Madame, apprendre son métier.  
 
     CHRYSANTE.
@@ -2415,8 +2415,8 @@ Cocher, attends-nous là.
     CLARICE.
         D'où provient ce murmure ?  
 
-    ALCIDON.
-Il est temps d'avancer, baissons le tapabord, [16]  
+    ALCIDON. [16]
+Il est temps d'avancer, baissons le tapabord,  
 Moins nous ferons de bruit, moins il faudra d'effort.  
 
     CLARICE.
@@ -2521,8 +2521,8 @@ Ne laisse distinguer que Clarice en sa bouche.
 Ne t'a-t-elle rien dit ?  
 
     LYCAS.
-        Soudain qu'elle m'a vu,  
-Ces mots ont éclaté d'un transport impourvu, [17]  
+        Soudain qu'elle m'a vu,   [17]
+Ces mots ont éclaté d'un transport impourvu,  
 Va lui dire qu'il perd sa maîtresse et la nôtre ;  
 Et puis incontinent me prenant pour un autre,  
 Elle m'allait traiter en auteur du forfait,  
@@ -2544,8 +2544,8 @@ Faute d'un autre objet, eût vengé ce malheur ;
 Malheur d'autant plus grand que sa source ignorée  
 Ne laisse aucun espoir à mon âme éplorée,  
 Ne laisse à ma douleur, qui va finir mes jours  
-Qu'une plainte inutile, au lieu d'un prompt secours,  
-Vain et faible soulas en un coup si funeste. [18]  
+Qu'une plainte inutile, au lieu d'un prompt secours,   [18]
+Vain et faible soulas en un coup si funeste.  
 Mais il s'en faut servir, puisque seul il nous reste :  
 Plains Philiste, plains-toi, mais avec des accents  
 Plus remplis de fureur qu'ils ne sont impuissants,  
@@ -2699,11 +2699,11 @@ Va m'attendre.
         Arrêtez, je ne permettrai pas  
 Qu'un si funeste mot termine vos débats.  
 
-    PHILISTE.
-Faire ici du fendant tandis qu'on nous sépare [19]  
+    PHILISTE. [19]
+Faire ici du fendant tandis qu'on nous sépare  
 C'est montrer un esprit lâche autant que barbare,  
-Adieu, mauvais, adieu, nous nous pourrons trouver,  
-Et si le coeur t'en dit, au lieu de t'en braver, [20]  
+Adieu, mauvais, adieu, nous nous pourrons trouver,   [20]
+Et si le coeur t'en dit, au lieu de t'en braver,  
 J'apprendrai seul à seul, dans peu, de tes nouvelles.  
 Mon honneur souffrirait des taches éternelles  
 À craindre encore de perdre une telle amitié.  
@@ -3551,8 +3551,8 @@ Et dispensent ta bouche à ce fâcheux langage ?
 Ton amour et tes soins trompés par mon malheur,  
 Ma prison inconnue a bravé ta valeur ;  
 Que t'importe à présent qu'un autre m'en délivre,  
-Puisque c'est pour toi seul que Clarice veut vivre,  
-Et que d'un tel orage en bonace réduit [21]  
+Puisque c'est pour toi seul que Clarice veut vivre,   [21]
+Et que d'un tel orage en bonace réduit  
 Célidan a la peine, et Philiste le fruit ?  
 
     PHILISTE.
@@ -3723,8 +3723,8 @@ T'aurait pour récompense enlevé ta Doris.
 
     ALCIDON.
 Le désordre qu'on lit en mon âme étourdie  
-Vient moins de votre aspect que de sa perfidie,  
-Je forcène de voir que sur votre retour [22]  
+Vient moins de votre aspect que de sa perfidie,   [22]
+Je forcène de voir que sur votre retour  
 Ce traître assure ainsi ma perte et son amour,  
 Ô honte ! Ô crève-coeur ! Ô désespoir ! Ô rage !  
 Qui venez à l'envi déchirer mon courage,  

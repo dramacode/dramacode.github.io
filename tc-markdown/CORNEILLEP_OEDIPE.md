@@ -2840,8 +2840,8 @@ Si le ciel fait le choix qu'il nous faut tous deux craindre.
 S'il me choisit, ma sour, donnez-lui votre foi :  
 Je vous en prie en frère, et vous l'ordonne en roi.  
 Vous, seigneur, si Dircé garde encore sur votre âme  
-L'Empire que lui fit une si belle flamme,  
-Prenez soin d'apaiser les discords de mes fils, [1]  
+L'Empire que lui fit une si belle flamme,   [1]
+Prenez soin d'apaiser les discords de mes fils,  
 Qui par les nouds du sang vous deviendront unis.  
 Vous voyez où des dieux nous a réduits la haine.  
 Adieu : laissez-moi seul en consoler la reine ;  

@@ -160,8 +160,8 @@ Je le possède aussi moins que je ne le sers ;
 Les honneurs qu'il me rend sont d'honorables fers.  
 Au reste, un fondement reste à notre espérance,  
 Si l'oracle rendu nous tient lieu d'assurance ;  
-Thèbes lors jouira d'un paisible repos,  
-Quand les dents du Python la semence dernière [1]  
+Thèbes lors jouira d'un paisible repos,   [1]
+Quand les dents du Python la semence dernière  
 Satisfera pour tous et perdra la lumière.  
 Telle est l'arrêt des dieux.  
 
@@ -1117,16 +1117,16 @@ Non, Hémon est ici qui ne m'en a rien dit.
     ISMÈNE.
 Il fait d'un acte impie un acte de justice :  
 Il défend d'inhumer le corps de Polynice,  
-Et, déclarant ce prince ennemi de l'État,  
-Condamne l'infracteur comme d'un attentat. [2]  
+Et, déclarant ce prince ennemi de l'État,   [2]
+Condamne l'infracteur comme d'un attentat.  
 
 
 ## SCÈNE IV. Les mêmes, Hémon.
 
     HÉMON.
 Certes, jamais le sort n'a sur humaine race  
-Tant versé pour un jour de peine et de disgrâce.  
-Jocaste défaite ! Ô destin inhumain ! [3]  
+Tant versé pour un jour de peine et de disgrâce.   [3]
+Jocaste défaite ! Ô destin inhumain !  
 
     ANTIGONE.
 Vous voyez en sa mort une oeuvre de sa main :  
@@ -1235,7 +1235,7 @@ Pour un acte si juste, il est vrai, mais Créon ne l'est pas.
 Et s'il est inhumain serez-vous inhumaine ?  
 
     ISMÈNE.
-J'abhorre l'ordonnance et redoute la peine.  
+J'abhorre l'ordonnance et redoute la peine.   [4]
 
     ANTIGONE.
 Le dessein sans effet est aussi sans mérite.  
@@ -2274,8 +2274,8 @@ N'a pas de ce cruel la fureur assouvie.
     HÉMON.
 Quel est donc cet arrêt ?  
 
-    ÉPHISE.
-        Il commet à la fin, [4]  
+    ÉPHISE. [5]
+        Il commet à la fin,  
 Invisible bourreau, cet office inhumain ;  
 Et dessous Cythéron l'a fait enfermer vive,  
 Attendant qu'une mort de tant de morts la prive.  
@@ -2758,4 +2758,6 @@ Mourrai-je mille fois pour la peur d'une mort ?
 
 [3] Dans l'édition originale, le vers commence par "Iocaste", qui comporte avec une diérèse (Rem. D. Ducoffre). Nous conservons ici la version modernisée.
 
-[4] v. 1495, l'édition originale porte « Faim » au lien de « fin ».
+[4] Il est signalé le manque de deux vers dans le tome 4 de l'édition de 1820 éditée chez Th. Desoer.
+
+[5] v. 1495, l'édition originale porte « Faim » au lien de « fin ».

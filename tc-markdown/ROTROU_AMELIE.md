@@ -691,8 +691,8 @@ Obligent mon courage à leur faire la cour.
 Quelle est cette beauté ?  
 
     ÉMILE.
-        Dieux l'objet adorable !  
-Que vous allez juger ma défaite honorable ! [1]  
+        Dieux l'objet adorable !   [1]
+Que vous allez juger ma défaite honorable !  
 Amélie.  
 
     DIONYS.
@@ -955,8 +955,8 @@ Elle a des qualités dignes de vos désirs,
 Et je n'ai point dessein d'empêcher ses plaisirs.  
 
     DIONYS.
-Il vous est bien aisé de parler de la sorte,  
-Mais pour moi qui vous voue une amitié si forte : [2]  
+Il vous est bien aisé de parler de la sorte,   [2]
+Mais pour moi qui vous voue une amitié si forte :  
 Qui sait ce que je dois à des charmes si doux,  
 Qui ne suis ici-bas, qu'à dessein d'être à vous.  
 On ne me verra point, sans un effort étrange,  
@@ -1073,8 +1073,8 @@ Je demeure muet, en l'état où je suis.
 Effets prodigieux d'un généreux courage,  
 Tout respecte mon maître, et tout lui rend hommage,  
 Les plus ambitieux réputent à malheur,  
-De n'avoir des sujets de servir sa valeur.  
-Dans cet heureux papier Dionys a tracées, [3]  
+De n'avoir des sujets de servir sa valeur.   [3]
+Dans cet heureux papier Dionys a tracées,  
 De cet aimable amant la flamme, et les pensées,  
 On hait bien l'éloquence, ou bien ce mot d'écrit  
 Va faire à sa maîtresse admirer son esprit.  
@@ -1387,8 +1387,8 @@ Sans mérite, sans bruit, sans estime et sans bien,
 Qui n'a qu'un point de bon, c'est qu'il sait, qu'il n'a rien.  
 
     ÉRANTE.
-La belle couverture a son ingratitude.  
-Qu'il me tient ces discours après un long étude, [4]  
+La belle couverture a son ingratitude.   [4]
+Qu'il me tient ces discours après un long étude,  
 Quel moyen plus exquis, quels signes plus parfaits,  
 Te pouvaient assurer des voeux que je te fais ;  
 N'ai-je assez clairement ma passion décrite ?  
@@ -1465,8 +1465,8 @@ J'emploierai mes efforts à ruiner les tiens,
 À publier vos feux, rompre vos entretiens,  
 Découvrir ton adresse aussitôt que conçue,  
 Enfin à divertir une prospère issue,  
-Tiens pour illusion ce qu'elle t'a promis  
-Et saches en moi seule avoir mille ennemis. [5]  
+Tiens pour illusion ce qu'elle t'a promis   [5]
+Et saches en moi seule avoir mille ennemis.  
 
 
 ## SCÈNE VI. Amélie, Érante, Lisidan, Dionys.
@@ -1545,16 +1545,16 @@ Si leurs coups sont égaux à ceux de ses rigueurs,
 Quelle borne, destins à mes maux est prescrite.  
 
     DIONYS.
-Espérez-la du temps, et de votre mérite,  
-Mais j'implore le même, adorable beauté, [6]  
+Espérez-la du temps, et de votre mérite,   [6]
+Mais j'implore le même, adorable beauté,  
 Quand sera par l'Hymen notre amour limité ?  
 Et quand, vous dégageant des contraintes d'un père,  
 Voulez-vous accomplir le bonheur que j'espère.  
 
     AMÉLIE.
 Hélas ! Que j'ai de peine, à t'ouvrir mon secret ?  
-Que ce coeur est atteint d'un sensible regret ?  
-Et qu'un mot proféré me rendra misérable, [7]  
+Que ce coeur est atteint d'un sensible regret ?   [7]
+Et qu'un mot proféré me rendra misérable,  
 Si nous n'imaginons un moyen favorable,  
 Qui conserve à tes voeux mon amour et ma foi,  
 Qui m'ôte à ton rival, et qui me rende à toi.  
@@ -1995,12 +1995,12 @@ Mille ont été sauvés, quand leur mort était prête,
 Et tel, qui tient l'épée espère qu'on l'arrête ;  
 Ma seule affliction ne se peut comparer,  
 Seule je suis au point de ne rien espérer ;  
-Si la mort n'était sourde, et que les destinées,  
-Pussent une autre fois refiler ses années, [8]  
+Si la mort n'était sourde, et que les destinées,   [8]
+Pussent une autre fois refiler ses années,  
 L'enfer ne le pourrait refuser à mes cris,  
 Mais il ne rend jamais les tributs qu'il a pris :  
-Pluton rit de nos voeux, ce Dieu n'a point de temple,  
-Et dans la fable même, on n'en voit qu'un exemple. [9]  
+Pluton rit de nos voeux, ce Dieu n'a point de temple,   [9]
+Et dans la fable même, on n'en voit qu'un exemple.  
 
     AMÉLIE.
 Il le faut aborder.  
@@ -2147,8 +2147,8 @@ Et je révérais peu l'aveugle aversion,
 Qu'ils avaient, pour l'objet de mon affection.  
 Ils m'épiaient en vain, une entière licence,  
 Eût pu sur mon esprit, bien plus que leur défense,  
-Mes désirs s'animaient par leurs soins imprudents,  
-Les brasiers qu'on restreint, deviennent plus ardents. [10]  
+Mes désirs s'animaient par leurs soins imprudents,   [10]
+Les brasiers qu'on restreint, deviennent plus ardents.  
 Enfin, quand j'eus seize ans ; et que leur tyrannie,  
 M'eût ravi tout moyen d'être en sa compagnie,  
 Je force tout respect, je m'échappe, et je fais,  
@@ -2348,8 +2348,8 @@ J'aimais votre mémoire autant que sa beauté ;
 Et puisque vous vivez, les baisers de l'aurore,  
 Ne me seraient pas doux, si je vous plais encore.  
 
-    AMÉLIE EN RIANT. 
-Donc ce coeur inconstant a rompu ses liens. [11]  
+    AMÉLIE EN RIANT.  [11]
+Donc ce coeur inconstant a rompu ses liens.  
 
     CLORIS.
 Madame vos dédains, autorisent les siens.  
@@ -2568,8 +2568,8 @@ Que d'un commun dessein, tes voeux soient refroidis,
 Prouve en ne m'aimant plus, que tu m'aimas jadis,  
 Mon refroidissement t'est un sensible outrage,  
 Mais il est Dionys, moindre que ton courage  
-Deux jours feront la fin de ton ressentiment ;  
-Allons, laissons-le seul se plaindre librement. [12]  
+Deux jours feront la fin de ton ressentiment ;   [12]
+Allons, laissons-le seul se plaindre librement.  
 
     DIONYS SEUL.
 Je ne me plaindrai point, ouvrons ce coeur infâme,  
@@ -2696,8 +2696,8 @@ Qu'à propos cher ami, tu me viens obliger ;
 Et que tu m'as tiré d'un extrême danger.  
 
     ÉRANTE.
-Monsieur, que d'une feinte, une feinte vous venge  
-Témoignez de m'aimer, et d'imiter son change [13]  
+Monsieur, que d'une feinte, une feinte vous venge   [13]
+Témoignez de m'aimer, et d'imiter son change  
 Lors son ressentiment prouvera son amour,  
 Et nous aurons sujet de rire à notre tour.  
 
@@ -3034,8 +3034,8 @@ Nous voilà grands seigneurs.
     ÉMILE.
         Suis-les, atteins ses gens  
 Ma vengeance dépend de tes pas diligents :  
-Je veux pour contenter la fureur qui m'enflamme,  
-Voir à ces lâches coeurs vomir le sang et l'âme : [14]  
+Je veux pour contenter la fureur qui m'enflamme,   [14]
+Voir à ces lâches coeurs vomir le sang et l'âme :  
 Je les combattrai seul, arrête toutefois,  
 Je dois plus noblement employer mes exploits.  
 Une si méprisable et facile victoire,  

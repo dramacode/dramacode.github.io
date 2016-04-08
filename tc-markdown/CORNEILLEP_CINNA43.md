@@ -233,8 +233,8 @@ Jamais contre un tyran entreprise conçue
 Ne permit d'espérer une si belle issue,  
 Jamais de telle ardeur on n'en jura la mort,  
 Et jamais conjurés ne furent mieux d'accord :  
-Tous s'y montrent portés avec tant d'allégresse,  
-Qu'ils semblent, comme moi, servir une maîtresse ; [1]  
+Tous s'y montrent portés avec tant d'allégresse,   [1]
+Qu'ils semblent, comme moi, servir une maîtresse ;  
 Et tous font éclater un si puissant courroux,  
 Qu'ils semblent tous venger un père comme vous.  
 
@@ -288,8 +288,8 @@ Rome entière noyée au sang de ses enfants,
 Les uns assassinés dans les places publiques,  
 Les autres dans le sein de leurs dieux domestiques,  
 Le méchant par le prix au crime encouragé,  
-Le mari par sa femme en son lit égorgé,  
-Le fils tout dégouttant du meurtre de son père [2]  
+Le mari par sa femme en son lit égorgé,   [2]
+Le fils tout dégouttant du meurtre de son père  
 Et sa tête à la main demandant son salaire,  
 Sans exprimer encore avecque tous ces traits  
 Qu'un crayon imparfait de leur sanglante paix.  
@@ -687,8 +687,8 @@ Qu'on ne saurait changer sans lui faire une injure,
 Telle est la loi du Ciel, dont la sage équité  
 Sème dans l'Univers cette diversité :  
 Les Macédoniens aiment le monarchique,  
-Et le reste des Grecs la liberté publique,  
-Les Parthes, les Persans veulent des souverains, [3]  
+Et le reste des Grecs la liberté publique,   [3]
+Les Parthes, les Persans veulent des souverains,  
 Et le seul Consulat est bon pour les Romains.  
 
     CINNA
@@ -700,8 +700,8 @@ Rome a reçu des rois ses murs et sa naissance,
 Elle tient des consuls sa gloire et sa puissance,  
 Et reçoit maintenant de vos rares bontés  
 Le comble souverain de ses prospérités.  
-Sous vous l'État n'est plus en pillage aux armées,  
-Les portes de Janus par vos mains sont fermées, [4]  
+Sous vous l'État n'est plus en pillage aux armées,   [4]
+Les portes de Janus par vos mains sont fermées,  
 Ce que sous ses consuls n'ont pu faire que deux fois,  
 Et qu'a fait avant eux le second de ses rois.  
 
@@ -711,20 +711,20 @@ Ne coûtent point de sang, n'ont rien qui soit funeste.
 
     CINNA
 C'est un ordre des Dieux qui jamais ne se rompt  
-De nous vendre un peu cher les grands biens qu'ils nous font,  
-L'exil des Tarquins même ensanglanta nos terres, [5]  
+De nous vendre un peu cher les grands biens qu'ils nous font,   [5]
+L'exil des Tarquins même ensanglanta nos terres,  
 Et nos premiers Consuls nous ont coûté des guerres.  
 
-    MAXIME
-Donc votre aïeul Pompée au ciel a résisté [6]  
+    MAXIME [6]
+Donc votre aïeul Pompée au ciel a résisté  
 Quand il a combattu pour notre liberté ?  
 
     CINNA
 Si le ciel n'eût voulu que Rome l'eût perdue,  
 Par les mains de Pompée il l'aurait défendue,  
 Il a choisi sa mort pour servir dignement  
-D'une marque éternelle à ce grand changement,  
-Et devait cet honneur aux mânes d'un tel homme [7]  
+D'une marque éternelle à ce grand changement,   [7]
+Et devait cet honneur aux mânes d'un tel homme  
 D'emporter avec eux la liberté de Rome.  
 Ce nom depuis longtemps ne sert qu'à l'éblouir,  
 Et sa propre grandeur l'empêche d'en jouir.  
@@ -752,8 +752,8 @@ Sylla, quittant la place enfin bien usurpée,
 N'a fait qu'ouvrir le champ à César et Pompée,  
 Que le malheur des temps ne nous eût pas fait voir  
 S'il eût dans sa famille assuré son pouvoir.  
-Qu'a fait du grand César le cruel parricide,  
-Qu'élever contre vous Antoine avec Lépide, [8]  
+Qu'a fait du grand César le cruel parricide,   [8]
+Qu'élever contre vous Antoine avec Lépide,  
 Qui n'eussent pas détruit Rome par les Romains,  
 Si César eût laissé l'Empire entre vos mains ?  
 Vous la replongerez, en quittant cet Empire,  
@@ -764,8 +764,8 @@ Que l'amour du pays, que la pitié vous touche,
 Votre Rome à genoux vous parle par ma bouche,  
 Considérez le prix que vous avez coûté,  
 Non pas qu'elle vous croie avoir trop acheté,  
-Des maux qu'elle a soufferts elle est trop bien payée,  
-Mais une juste peur tient son âme effrayée ; [9]  
+Des maux qu'elle a soufferts elle est trop bien payée,   [9]
+Mais une juste peur tient son âme effrayée ;  
 Si jaloux de son heur et las de commander,  
 Vous lui rendez un bien qu'elle ne peut garder,  
 S'il lui faut à ce prix en acheter un autre,  
@@ -852,8 +852,8 @@ Mais nous ne verrons point de pareils accidents
 Lorsque Rome suivra des chefs moins imprudents.  
 
     MAXIME
-Nous sommes encor loin de mettre en évidence  
-Si nous nous conduisons avec plus de prudence, [10]  
+Nous sommes encor loin de mettre en évidence   [10]
+Si nous nous conduisons avec plus de prudence,  
 Cependant c'en est peu que de n'accepter pas  
 Le bonheur qu'on recherche au péril du trépas.  
 
@@ -1052,8 +1052,8 @@ Vous me semblez pensif.
     CINNA
         Ce n'est pas sans sujet.  
 
-    MAXIME
-D'un penser si profond quel est le triste objet ? [11]  
+    MAXIME [11]
+D'un penser si profond quel est le triste objet ?  
 
     CINNA
 Émilie et César, l'un et l'autre me gêne,  
@@ -1306,8 +1306,8 @@ Il fuit plus que la mort la honte d'être esclave.
     CINNA
 C'est l'être avec honneur que de l'être d'Octave,  
 Et nous voyons souvent des rois à nos genoux  
-Demander pour appui tels esclaves que nous.  
-Il abaisse à nos pieds l'orgueil des diadèmes, [12]  
+Demander pour appui tels esclaves que nous.   [12]
+Il abaisse à nos pieds l'orgueil des diadèmes,  
 Il nous fait souverains sur leurs grandeurs suprêmes,  
 Il prend d'eux les tributs dont il nous enrichit,  
 Et leur impose un joug dont il nous affranchit.  
@@ -1317,8 +1317,8 @@ L'indigne ambition que ton cœur se propose !
 Pour être plus qu'un roi, tu te crois quelque chose !  
 Aux deux bouts de la Terre en est-il un si vain  
 Qu'il prétende égaler un citoyen Romain ?  
-Antoine sur sa tête attira notre haine  
-En se déshonorant par l'amour d'une reine, [13]  
+Antoine sur sa tête attira notre haine   [13]
+En se déshonorant par l'amour d'une reine,  
 Attale, ce grand roi, dans la pourpre blanchi  
 Qui du peuple romain se nommait l'affranchi,  
 Quand de toute l'Asie il se fût vu l'arbitre,  
@@ -1547,8 +1547,8 @@ Qui pardonne aisément invite à l'offenser,
 Punissons l'assassin, proscrivons les complices.  
 Mais quoi ! Toujours du sang, et toujours des supplices ?  
 Ma cruauté se lasse et ne peut s'arrêter,  
-Je veux me faire craindre et ne fais qu'irriter ;  
-Rome a pour ma ruine une hydre trop fertile, [14]  
+Je veux me faire craindre et ne fais qu'irriter ;   [14]
+Rome a pour ma ruine une hydre trop fertile,  
 Une tête coupée en fait renaître mille,  
 Et le sang répandu de mille conjurés  
 Rend mes jours plus maudits et non plus assurés.  
@@ -1714,8 +1714,8 @@ Et je vous l'amenais plus traitable et plus doux
 Faire un second effort contre votre courroux,  
 J'en rendais grâce aux Dieux, quand soudain Polyclète,  
 Des volontés d'Auguste ordinaire interprète  
-Est venu l'aborder et sans suite et sans bruit  
-Et de sa part sur l'heure au palais l'a conduit. [15]  
+Est venu l'aborder et sans suite et sans bruit   [15]
+Et de sa part sur l'heure au palais l'a conduit.  
 Auguste est fort troublé, l'on ignore la cause,  
 Chacun diversement soupçonne quelque chose,  
 Tous présument qu'il ait un grand sujet d'ennui,  
@@ -1724,8 +1724,8 @@ Mais ce qui plus m'étonne et que je viens d'apprendre
 C'est que deux inconnus se sont saisis d'Évandre,  
 Qu'Euphorbe est arrêté sans qu'on sache pourquoi,  
 Que même de son maître on dit je ne sais quoi,  
-On lui veut imputer un désespoir funeste,  
-On parle d'eaux, de Tibre, et l'on se tait du reste. [16]  
+On lui veut imputer un désespoir funeste,   [16]
+On parle d'eaux, de Tibre, et l'on se tait du reste.  
 
     ÉMILIE
 Que de sujets de craindre et de désespérer  
@@ -1740,8 +1740,8 @@ Et ne me permettant soupirs, sanglots, ni pleurs,
 Soutiennent ma vertu contre de tels malheurs :  
 Vous voulez que je meure avec ce grand courage  
 Qui m'a fait entreprendre un si fameux ouvrage,  
-Et je veux bien périr comme vous l'ordonnez,  
-Et dans la même assiette où vous me retenez. [17]  
+Et je veux bien périr comme vous l'ordonnez,   [17]
+Et dans la même assiette où vous me retenez.  
 Ô liberté de Rome, ô mânes de mon père,  
 J'ai fait de mon côté tout ce que j'ai pu faire,  
 Contre votre tyran j'ai ligué ses amis,  

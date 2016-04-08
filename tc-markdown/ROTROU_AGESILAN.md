@@ -271,8 +271,8 @@ Quand à l'univers qui sommeille,
 Elle vient annoncer le jour.  
 Telle ne vient, ni si brillante,  
 Au fond du cor et de la voix,  
-Du jeune chasseur qui l'enchante,  
-L'illustre courrière des mois. [1]  
+Du jeune chasseur qui l'enchante,   [1]
+L'illustre courrière des mois.  
 Et telle n'est au Ciel l'amante  
 De cet homicide innocent,  
 Que la mort de Procris tourmente  
@@ -780,8 +780,8 @@ Diane, de ce pas où sa chambre regarde,
 (Comme nous avons su d'un des gens de sa garde,)  
 Pourra peut-être ouïr les aimables accents  
 Dont votre belle voix sait enchanter les sens,  
-Ses accords mariés à ceux de la guitare,  
-Peuvent si vous voulez charmer toute la terre ; [2]  
+Ses accords mariés à ceux de la guitare,   [2]
+Peuvent si vous voulez charmer toute la terre ;  
 Quoiqu'il arrive aussi vous ne la quittez pas,  
 Et voulez qu'elle et moi, suivions toujours vos pas,  
 Jointe à vos doux accents, votre voix sans pareille,  

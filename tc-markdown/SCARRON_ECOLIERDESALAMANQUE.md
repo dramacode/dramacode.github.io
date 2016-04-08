@@ -75,8 +75,8 @@ Béatrix.
     LÉONORE.
         Ferme-là, quoi qu'il te puisse dire.  
 
-    BÉATRIX.
-Elle l'est autant vaut. [1]  
+    BÉATRIX. [1]
+Elle l'est autant vaut.  
 
     LE COMTE.
         Madame, est-ce pour rire  
@@ -298,8 +298,8 @@ Je me brisais les doigts.
         On ne s'en peut aider,  
 Il faut un serrurier pour la raccommoder.  
 
-    DON FÉLIX.
-Toujours des serruriers, et de l'argent dépendre. [2]  
+    DON FÉLIX. [2]
+Toujours des serruriers, et de l'argent dépendre.  
 Des bourreaux de valets ne valent pas le pendre.  
 Quoi, ma fille vêtue au lieu d'être en son lit !  
 
@@ -357,7 +357,7 @@ LETTRE,
 
 La paix du Seigneur vous soit donnée, etc.
 Le beau commencement de lettre que voici :  
-Croit-il me tromper mieux en m'écrivant ainsi.  
+Croit-il me tromper mieux en m'écrivant ainsi.   [3]
 La paix du Seigneur vous soit donnée : Vous apprendrez par la présente, que j'ai joué et perdu à la prime l'argent de ma pension : mais au moins j'ai la satisfaction d'avoir perdu mon argent à cinquante cinq, et qu'il n'a pas moins fallu qu'un flux pour me faire perdre. Je vous prie de ne vous en alarmer point ; car j'ai fait serment de ne renvier jamais sans les avoir en la main. Vous savez mieux que moi, que qui n'a pas de quoi manger court risque de mourir de faim, et que vous êtes tenu de m'en fournir, ne vous ayant point prié de me mettre au monde. Au reste, je suis d'une humeur si pacifique que je ne puis dormir quand j'ai une querelle si je ne la vide aussitôt. L'autre jour un écolier Aragonais m'importunant pour se battre avec moi, qu'il lui en coûta un oil. Vous voyez par là que je ne suis pas si perdu que vous pensez. Je vous envoie Crispin, que vous me renverrez s'il vous plaît avec de l'argent. Je me recommande à vos bonnes grâces, cher Père de mon âme, lumière de mes yeux. Je prie Dieu qu'il vous conserve, et ma petite sour aussi, de qui quoique indigne je me souviens toujours dans mes oraisons. Votre humble fils Don PEDRE DE CESPEDE,
 De Salamanque ce dernier octobre.
 
@@ -365,10 +365,10 @@ De Salamanque ce dernier octobre.
 La Lettre est fort dévote.  
 
     DON FÉLIX.
-        Et voyez, je vous prie,  
-Et son hypocrisie et sa veillaquerie. [3]  
-Un more grenadin est plus que lui dévot,  
-Encore que d'origine il soit chevalier Goth. [4]  
+        Et voyez, je vous prie,   [4]
+Et son hypocrisie et sa veillaquerie.  
+Un more grenadin est plus que lui dévot,   [5]
+Encore que d'origine il soit chevalier Goth.  
 Je meure s'il songea jamais à ses prières,  
 Je lui veux retrancher ses vertus écolières,  
 Et vous veux faire voir son député badin,  
@@ -384,12 +384,12 @@ Holà, Crispin.
     DON FÉLIX.
         Parle Chrétien, sot homme.  
 
-    CRISPIN.
-Non possum. [5]  
+    CRISPIN. [6]
+Non possum.  
 
     DON FÉLIX.
-        Si je prends un bâton, je t'assomme,  
-Pour trois mots de Latin que le maroufle sait, [6]  
+        Si je prends un bâton, je t'assomme,   [7]
+Pour trois mots de Latin que le maroufle sait,  
 Il en est importun. Hé bien donc, comment fait  
 Mon bon vaurien de fils.  
 
@@ -397,8 +397,8 @@ Mon bon vaurien de fils.
     Male facit.  
 
     DON FÉLIX.
-        Encore ?  
-Ha ! Je t'étranglerai, Pédantesque pécore. [7]  
+        Encore ?   [8]
+Ha ! Je t'étranglerai, Pédantesque pécore.  
 
     CRISPIN.
 Tout beau, Monsieur, tout beau, je n'en cracherai plus.  
@@ -408,21 +408,21 @@ Ton Maître donc ?
 
     CRISPIN.
         Il loge avecque sept goulus  
-Débauchés comme lui, dans une chambre seule,  
-Où toujours quelqu'un jure, ou dit des mots de gueule. [8]  
+Débauchés comme lui, dans une chambre seule,   [9]
+Où toujours quelqu'un jure, ou dit des mots de gueule.  
 L'hiver, le vent y donne autant que dans les champs,  
-Ils couchent quatre à quatre en deux lits fort méchants :  
-Les murs y sont parés de rondelles, d'épées, [9]  
+Ils couchent quatre à quatre en deux lits fort méchants :   [10]
+Les murs y sont parés de rondelles, d'épées,  
 De portraits de charbon, de toiles d'araignées.  
 Ces huit bons écoliers, ou plutôt huit bandits ;  
 Chôment les Samedis comme les Vendredis.  
 Haïssent les leçons comme les Patenôtres,  
 Et ne font chaque jour que débaucher les autres.  
-La nuit venue, ils vont enlever des manteaux,  
-Plier quelque toilette, et jouer des couteaux, [10]  
+La nuit venue, ils vont enlever des manteaux,   [11]
+Plier quelque toilette, et jouer des couteaux,  
 Ils se couchent fort tard, et se lèvent de même,  
-Une servante maigre, acariâtre et blême,  
-Sèche, ferrant la mule, et qui compte trente ans [11]  
+Une servante maigre, acariâtre et blême,   [12]
+Sèche, ferrant la mule, et qui compte trente ans  
 Depuis qu'elle renonce à l'usage des dents,  
 Leur apprête à manger. Chacun y mange en Diable,  
 Ou si l'on veut en chien. Un coffre y sert de table,  
@@ -457,10 +457,10 @@ Ayant bon appétit et de meilleures dents.
     DON FÉLIX.
 Voilà comme j'étais durant mes jeunes ans.  
 Il faut que fils la jeunesse se passe,  
-Tiens voilà de l'argent : mais dis-lui bien qu'il fasse  
-Beaucoup mieux qu'il n'a fait, et qu'il soit ménager. [12]  
-Quoi ! Des bottes, faquin, comme un chevau-léger, [13]  
-Comment es-tu venu ? [14]  
+Tiens voilà de l'argent : mais dis-lui bien qu'il fasse   [13]
+Beaucoup mieux qu'il n'a fait, et qu'il soit ménager.   [14]
+Quoi ! Des bottes, faquin, comme un chevau-léger,   [15]
+Comment es-tu venu ?  
 
     CRISPIN.
         Par la poste, en charrette.  
@@ -609,8 +609,8 @@ Pensez-y mûrement, et que je me retire.
     DON FÉLIX.
 Tu ne t'en iras pas sans me faire raison.  
 
-    LE COMTE.
-La bravoure sied mal à tout homme grison. [15]  
+    LE COMTE. [16]
+La bravoure sied mal à tout homme grison.  
 
     DON FÉLIX.
 D'autres bras que les miens vengeront mon offense.  
@@ -697,8 +697,8 @@ Faisons main basse.
     ZAMORIN.
         Il est expédié,  
 Je le garantis tel, s'il n'appelle à son pied.  
-Or ça, mes compagnons, choisissons un bon poste,  
-Et va d'estramaçon, de pointe, et de riposte. [16] [17]  
+Or ça, mes compagnons, choisissons un bon poste,   [17] [18]
+Et va d'estramaçon, de pointe, et de riposte.  
 
     DON LOUIS.
 Chaque nuit sans manquer il passe par ici,  
@@ -722,8 +722,8 @@ Et ma très chère sour ?
     CRISPIN.
         Non pas même un salut.  
 
-    DON PEDRE.
-La pecque ! Que dit-il lorsque ma lettre il lut ? [18]  
+    DON PEDRE. [19]
+La pecque ! Que dit-il lorsque ma lettre il lut ?  
 
     CRISPIN.
 Je ne lui vis pas lire.  
@@ -744,14 +744,14 @@ Vous faites justement l'amour comme les chats.
 Il ne vous manque plus que courir les gouttières.  
 Vous feriez chat complet.  
 
-    DON PEDRE.
-        Mille coups d'étrivières. [19]  
+    DON PEDRE. [20]
+        Mille coups d'étrivières.  
 Aux railleurs comme toi.  
 
     CRISPIN.
         Mille bosses et trous,  
-À tous coureur de nuit, chats-huants comme vous.  
-Si vous vouliez au moins tirer la laine, [20]  
+À tous coureur de nuit, chats-huants comme vous.   [21]
+Si vous vouliez au moins tirer la laine,  
 On s'y pourrait sauver.  
 
     DON PEDRE.
@@ -774,8 +774,8 @@ Sour d'un Comte étranger, éloigné de la Cour
 Pour un soufflet donné.  
 
     CRISPIN.
-        J'ai peur que votre amour  
-N'arrive dessus nous quelques coups d'époussette. [21]  
+        J'ai peur que votre amour   [22]
+N'arrive dessus nous quelques coups d'époussette.  
 Ce Comte souffrira que sa sour la coquette  
 Vous épouse ; il fera le Diable. Encore bon  
 Si vous étiez un Comte, ou du moins un Baron :  
@@ -805,12 +805,12 @@ Puisque je ne dors point, trouvez bon que je rie.
     DON PEDRE.
 Comment se porte donc mon père ?  
 
-    CRISPIN.
-        Ha le penard ! [22]  
+    CRISPIN. [23]
+        Ha le penard !  
 Il dit que.  
 
-    DON PEDRE.
-        Tu perds le respect, franc pendard, [23]  
+    DON PEDRE. [24]
+        Tu perds le respect, franc pendard,  
 Si je prends un bâton.  
 
     CRISPIN.
@@ -830,14 +830,14 @@ Que deux.
 Pour dix : mais avec vous ayant le cher Crispin,  
 Qui n'est pas autrement homme propre à combattre.  
 Il faut que de vos dix vous en rabattiez quatre :  
-Qui de dix ôte quatre, il en restera six,  
-Vous voilà tant à tant, faites bien l'Amadis. [24]  
+Qui de dix ôte quatre, il en restera six,   [25]
+Vous voilà tant à tant, faites bien l'Amadis.  
 
     DON PEDRE.
 Marche avant.  
 
-    CRISPIN.
-        Ils sont tous de taille gigantine, [25]  
+    CRISPIN. [26]
+        Ils sont tous de taille gigantine,  
 Vilains hommes à voir, et de mauvaise mine.  
 Hélas, si j'avais fait un mot de testament.  
 
@@ -1450,8 +1450,8 @@ S'il s'en va, Béatris ?
 Bien loin que ma rigueur le charme, et le retienne,  
 Elle le doit chasser.  
 
-    BÉATRIX.
-        Il faudra courre après ; [26]  
+    BÉATRIX. [27]
+        Il faudra courre après ;  
 Mais sur lui vos beaux yeux ont fait trop de progrès.  
 Il reviendra cent fois puisqu'il en revient une,  
 Que s'il fait le cruel, faites lors l'importune.  
@@ -1470,8 +1470,8 @@ Qu'il aime, quoi qu'il fasse, et du meilleur de l'âme.
 Il le témoigne mal.  
 
     BÉATRIX.
-        S'il revient aujourd'hui,  
-Il n'est pas sous le Ciel un plus féru que lui. [27]  
+        S'il revient aujourd'hui,   [28]
+Il n'est pas sous le Ciel un plus féru que lui.  
 
     LÉONORE.
 C'est ce qu'il est le moins.  
@@ -1537,16 +1537,16 @@ Si vous voulez aimer autant que moi, etc.
     BÉATRIX.
 C'est le chien de Crispin.  
 
-    CRISPIN.
-        Dieu te gard la soubrette. [28]  
+    CRISPIN. [29]
+        Dieu te gard la soubrette.  
 
     BÉATRIX.
 Que viens-tu faire ici ?  
 
-    CRISPIN.
-        Je viens faire diète. [29]  
-Le fantasque vieillard a rappelé son fils.  
-Nous venons d'arriver tous deux au jour préfix, [30]  
+    CRISPIN. [30]
+        Je viens faire diète.  
+Le fantasque vieillard a rappelé son fils.   [31]
+Nous venons d'arriver tous deux au jour préfix,  
 Moi de mon pied gaillard, sur sa mule mon maître.  
 Je ne puis deviner, où le Seigneur peut-être,  
 Ni comment sur sa mule, et parti le premier,  
@@ -1634,8 +1634,8 @@ Par ma foi, j'ai bien eu besoin de patience,
 Voyez un peu son flegme, et son impertinence,  
 Il m'a fait enrager ; mais je le lui rendrai,  
 Il n'en use pourtant pas mal à mon gré,  
-Et j'en attendais pis d'une âme si mal faite.  
-Or ça suivant les pas de feu Dariolette, [31]  
+Et j'en attendais pis d'une âme si mal faite.   [32]
+Or ça suivant les pas de feu Dariolette,  
 Faisons entrer le Comte. Il siffle en étourneau.  
 Entrez voleur de nuit.  
 
@@ -1985,8 +1985,8 @@ Ta mort, satisfera moi, ma sour, et mon Père.
 Étant homme de cour, tu la disputeras :  
 Mais le Ciel est injuste, ou bien tu périras.  
 
-    LE COMTE.
-La chose gît en fait. Où te faut-il attendre ? [32]  
+    LE COMTE. [33]
+La chose gît en fait. Où te faut-il attendre ?  
 
     DON PEDRE.
 Dans la place, où je vais tout à l'heure me rendre.  
@@ -2052,10 +2052,10 @@ Qui sortait furieux, et pâle comme un traître,
 Jurant entre ses dents, nommant souvent sa sour,  
 Et la donnant au Diable, elle et son ravisseur.  
 De quartier en quartier il a cherché le Comte :  
-Nous ne l'avons trouvé, ni lui, ni notre compte.  
-Un prévôt nous a pris, et nous a mis leans ; [33] [34]  
-Leans, c'est un manoir qui ressemble à céans ;  
-Céans, c'est la prison ; Prison ; c'est où je peste ; [35]  
+Nous ne l'avons trouvé, ni lui, ni notre compte.   [34] [35]
+Un prévôt nous a pris, et nous a mis leans ;  
+Leans, c'est un manoir qui ressemble à céans ;   [36]
+Céans, c'est la prison ; Prison ; c'est où je peste ;  
 Pester, c'est dire, mort, tête, sang, je déteste,  
 Détester...  
 
@@ -2087,8 +2087,8 @@ Je t'apprends que mon Maître est un amant fidèle,
 Et c'est pour son sujet qu'à son frère germain,  
 Il fit comme tu sais perdre le goût du pain.  
 
-    BÉATRIX.
-J'appris hier cette mort pendant tout leur grabuge. [36]  
+    BÉATRIX. [37]
+J'appris hier cette mort pendant tout leur grabuge.  
 
     CRISPIN.
 Cependant, je verrai tantôt face de juge,  
@@ -2105,8 +2105,8 @@ Ne s'aimèrent jamais tant qu'ils font aujourd'hui.
 Nous sommes en prison, où Crispin et son Maître  
 Sont, me semble, aussi mal qu'ils puissent jamais être,  
 Pour moi je me console, et je rencontre ici,  
-Des gens qui comme moi se consolent aussi.  
-Je viens de leur payer à tous ma bienvenue. [37]  
+Des gens qui comme moi se consolent aussi.   [38]
+Je viens de leur payer à tous ma bienvenue.  
 
     BÉATRIX.
 Et moi, je m'en revois comme je suis venue.  
@@ -2141,8 +2141,8 @@ Elle a parbleu bon air ! Quelle est cette Princesse ?
     CRISPIN.
 Une fille de bien, qui pour moi s'intéresse.  
 
-    ZAMORIN.
-Elle n'est pas pourrie ! Et porte bien les pieds. [38]  
+    ZAMORIN. [39]
+Elle n'est pas pourrie ! Et porte bien les pieds.  
 
     CRISPIN.
 Sont-ils aller dormir nos braves conviés.  
@@ -2197,9 +2197,9 @@ Que j'eus pour un objet charmant.
         Dites-vous tout ?  
 
     CRISPIN.
-Je vous vais raconter l'affaire jusqu'au bout.  
-Un Avocat coquet à tête perruquée, [39]  
-Gardait bien chèrement une bourse musquée, [40]  
+Je vous vais raconter l'affaire jusqu'au bout.   [40]
+Un Avocat coquet à tête perruquée,   [41]
+Gardait bien chèrement une bourse musquée,  
 Je ne hais pas cela ; j'en devins amoureux.  
 La Donzelle n'eut pas le cour trop rigoureux,  
 Dans ma poche aussitôt l'amitié nous assemble.  
@@ -2221,7 +2221,7 @@ Mais aujourd'hui pourquoi vous a-t-on mis ici ?
 Pour aimer par excès.  
 
     ZAMORIN.
-        Est-ce une bourse encore ;  
+        Est-ce une bourse encore ;   [42]
 
     CRISPIN.
 Non, mais un chien de maître ; un vaurien que j'adore.  
@@ -2249,15 +2249,15 @@ En est-il mort quelqu'un ?
 Les cloches ont sonné, dit-on, auprès de là.  
 
     ZAMORIN.
-Si cette affaire est vraie, et va comme cela,  
-Il y pourrait entrer un tant soit peu d'échelle : [41]  
+Si cette affaire est vraie, et va comme cela,   [43]
+Il y pourrait entrer un tant soit peu d'échelle :  
 Mais à l'homme de cour ce n'est que bagatelle.  
 
-    CRISPIN.
-L'affaire, s'il vous plaît, soit secrète inter nos. [42]  
+    CRISPIN. [44]
+L'affaire, s'il vous plaît, soit secrète inter nos.  
 
-    ZAMORIN.
-Con lisenza Patron, je vais dire deux mots, [43]  
+    ZAMORIN. [45]
+Con lisenza Patron, je vais dire deux mots,  
 À l'homme que je vois.  
 
     CRISPIN.
@@ -2283,8 +2283,8 @@ Ayant à te parler, d'une course inutile
 J'ai fait en un moment tous les coins de la ville,  
 J'ai couru tous les lieux d'assemblée, et d'ébats,  
 Où nous délibérons des affaires d'État.  
-Enfin, n'espérant plus d'avoir de tes nouvelles,  
-Par bonheur, j'ai trouvé Jane des Écrouelles, [44]  
+Enfin, n'espérant plus d'avoir de tes nouvelles,   [46]
+Par bonheur, j'ai trouvé Jane des Écrouelles,  
 La veuve du Boiteux qu'on pendit à Burgos.  
 
     ZAMORIN.
@@ -2309,12 +2309,12 @@ Comme elle la raconte.
         Un certain écolier,  
 Galantisait la sour de certain cavalier.  
 Ce certain Cavalier, nous ayant fait bien boire  
-Et bien payer aussi, pendant une nuit noire,  
-Nous posta cinq bretteurs, pour réduire à néant, [45]  
-En pur assassinat ce brave étudiant.  
-Ce brave étudiant n'était pas une poule. [46]  
-Cinq nous l'attaquons seul ; seul, il nous bat en foule  
-Et donne au Cavalier d'abord entre oil et bat, [47]  
+Et bien payer aussi, pendant une nuit noire,   [47]
+Nous posta cinq bretteurs, pour réduire à néant,  
+En pur assassinat ce brave étudiant.   [48]
+Ce brave étudiant n'était pas une poule.  
+Cinq nous l'attaquons seul ; seul, il nous bat en foule   [49]
+Et donne au Cavalier d'abord entre oil et bat,  
 De ces coups qu'entre nous on nomme échec et mat.  
 Le bourgeois s'accumule, et la justice arrive,  
 On m'attrape, on m'arrête, on demande qui vive,  
@@ -2323,8 +2323,8 @@ Où j'ai toujours dit non, ainsi que de raison.
 On fait courir de nous un bruit sourd de Galère :  
 Grâce à Dieu, je ne suis ni traître ni faussaire.  
 Si l'on veut que je rame, et bien je ramerai,  
-J'y suis maître passé : mais je me vengerai,  
-Et certains happe-chair en auront dans leurs panses. [48]  
+J'y suis maître passé : mais je me vengerai,   [50]
+Et certains happe-chair en auront dans leurs panses.  
 
     LA TAILLADE.
 Cher Zamorin il faut pardonner ses offenses,  
@@ -2344,13 +2344,13 @@ Est-ce affaire de sang ?
     LA TAILLADE.
         C'est pour tuer un Comte,  
 Le même qui te tient si bien emprisonné,  
-Et l'on lui fait le tour pour un soufflet donné.  
-Un cartel de défi vers le soir nous l'amène [49]  
+Et l'on lui fait le tour pour un soufflet donné.   [51]
+Un cartel de défi vers le soir nous l'amène  
 Au bout du Pont, où l'eau nous tirera de peine  
 D'ensevelir le corps.  
 
-    ZAMORIN.
-        Vous faites bon marché, [50]  
+    ZAMORIN. [52]
+        Vous faites bon marché,  
 Supprimer un seigneur pour si peu c'est péché.  
 
     LA TAILLADE.
@@ -2507,7 +2507,7 @@ De vous voir, en dût-elle être ici retenue.
     DON PEDRE.
 Je suis bien éloigné de songer à l'amour.  
 Mais la voici qui vient. Mon brave au premier jour  
-Nous nous revancherons.  
+Nous nous revancherons.   [53]
 
     CRISPIN.
         Brisons-là, je vous prie ;  
@@ -2577,8 +2577,8 @@ Et si tu m'avais vue.
 Tu perdrais ta franchise.  
 
     CRISPIN.
-        Et bien voyons, tant mieux.  
-Mais j'aperçois venir le Diantre qui m'emporte. [51]  
+        Et bien voyons, tant mieux.   [54]
+Mais j'aperçois venir le Diantre qui m'emporte.  
 Ha mon cher Maître !  
 
     DON PEDRE.
@@ -2639,8 +2639,8 @@ Et qui me fait sortir ?
 C'est vous qui me rendez ce service important !  
 
     LE COMTE.
-C'est moi-même, et qui viens afin que rien n'y manque,  
-D'affermer qu'un des miens vous vit à Salamanque, [52]  
+C'est moi-même, et qui viens afin que rien n'y manque,   [55]
+D'affermer qu'un des miens vous vit à Salamanque,  
 Le jour que Don Louis fut tué par vos mains.  
 Ces sentiments sont-ils fort bas ? Fort inhumains ?  
 Et savons-nous aussi porter loin la bravoure ?  
@@ -2835,8 +2835,8 @@ Si nous nous voyons seuls, et le fer à la main.
 
     CRISPIN.
 La peste, mon Patron, et que vous en savez.  
-Et quel homme êtes-vous, qui si bien les sauver ?  
-Que si bien, les prisons fourbes à la sourdine. [53]  
+Et quel homme êtes-vous, qui si bien les sauver ?   [56]
+Que si bien, les prisons fourbes à la sourdine.  
 Votre esprit en sait plus ; que n'en dit votre mine.  
 
     DON PEDRE.
@@ -2917,8 +2917,8 @@ Ignorant mon dessein.
     CRISPIN.
         Je crois qu'il est fort beau.  
 Vous allez vous baigner ? Ou bien laisser dans l'eau  
-Mille sales acquêts que votre Seigneurie  
-Aura peut-être faits dans la Conciergerie ? [54]  
+Mille sales acquêts que votre Seigneurie   [57]
+Aura peut-être faits dans la Conciergerie ?  
 Allez-vous près du Pont dérober les passants ?  
 Enfin qu'allez-vous faire, homme de peu de sens ?  
 
@@ -2966,8 +2966,8 @@ Nous sommes bien payés soyons loyaux Marchands,
 Je hais plus que la mort tous les hommes méchants.  
 Si j'étais bien payé pour mettre à mort mon frère  
 Je le ferais mourir sans faire de mystère.  
-Amorçons nos fusils, visitons nos couteaux,  
-Et n'allons pas ici, Messieurs, faire les veaux ; [55]  
+Amorçons nos fusils, visitons nos couteaux,   [58]
+Et n'allons pas ici, Messieurs, faire les veaux ;  
 Si nous opérons mal, nulle miséricorde ;  
 Il y va de la roue, ou du moins de la corde.  
 Notre homme vient à nous, je m'en vais l'amuser,  
@@ -2997,8 +2997,8 @@ Je vous ferais périr.
         Je suis pour vous, courage.  
 Le plus méchant est mort.  
 
-    LA TAILLADE.
-        Mon arme a pris un rat. [56]  
+    LA TAILLADE. [59]
+        Mon arme a pris un rat.  
 
     DON PEDRE.
 Ils fuient les poltrons.  
@@ -3160,8 +3160,8 @@ Qu'as-tu fait de mon frère ?
 
     LÉONORE.
 Oui, traître tu l'avais si ton âme cruelle,  
-M'avait aimée autant, que je te suis fidèle.  
-Que tu te sais bon gré, dis-moi la vérité, [57]  
+M'avait aimée autant, que je te suis fidèle.   [60]
+Que tu te sais bon gré, dis-moi la vérité,  
 De m'avoir fait ouïr une brutalité ?  
 Avais-je à le garder ! Ô réponse barbare ?  
 
@@ -3273,8 +3273,8 @@ N'est que trop avéré !
         Le regard fort funeste,  
 Et l'esprit fort hargneux. J'ignore tout le reste.  
 J'ai couru vous chercher, et ne vous trouvant pas  
-J'ai trouvé votre fille, elle a doublé le pas  
-En Basque, et cette Dame est venue avec elle : [58]  
+J'ai trouvé votre fille, elle a doublé le pas   [61]
+En Basque, et cette Dame est venue avec elle :  
 De tout ce que je sais c'est le récit fidèle.  
 
     DON FÉLIX.
@@ -3425,114 +3425,120 @@ De l'humeur de Crispin.
 
 [2] Dépendre : signifie aussi dépenser. F
 
-[3] Veillaque : Terme vieilli. Homme sans fois, sans honneur. F Veillaquerie : le fait d'être un homme sans foi.
+[3] Renvier : enchérir sur ce qu'un autre a fait auparavant. F
 
-[4] Goth : nom d'une nation germanique divisée en ostrogoths ou goths orientaux, et Visigoths ou goths occidentaux. Fig. Barbare, sans goût. L
+[4] Veillaque : Terme vieilli. Homme sans fois, sans honneur. F Veillaquerie : le fait d'être un homme sans foi.
 
-[5] Adsum, Non possum, Male facit : mots latins signifiant : Me voici, Je ne peux, Il se conduit mal.
+[5] Goth : nom d'une nation germanique divisée en ostrogoths ou goths orientaux, et Visigoths ou goths occidentaux. Fig. Barbare, sans goût. L
 
-[6] Maroufle : Terme de mépris qui se dit d'un homme grossier. Il se dit aussi d'un homme qu'on estime pas. F
+[6] Adsum, Non possum, Male facit : mots latins signifiant : Me voici, Je ne peux, Il se conduit mal.
 
-[7] Pécore : bête, stupide qui a du mal à concevoir quelque chose. F
+[7] Maroufle : Terme de mépris qui se dit d'un homme grossier. Il se dit aussi d'un homme qu'on estime pas. F
 
-[8] Mots de gueule : des morts trop libres, paroles deshonnêtes, qui se disent parfois dans les repas abondants et joyeux. L
+[8] Pécore : bête, stupide qui a du mal à concevoir quelque chose. F
 
-[9] Rondelle : espèce de bouclier rond dont était autrefois armée l'infanterie. F
+[9] Mots de gueule : des morts trop libres, paroles deshonnêtes, qui se disent parfois dans les repas abondants et joyeux. L
 
-[10] Plier la toilette : faire un paquet de la toilette, et, par suite, voler, emporter toutes les hardes d'une personne. L
+[10] Rondelle : espèce de bouclier rond dont était autrefois armée l'infanterie. F
 
-[11] Ferrer la mule : accepter une chose pour quelqu'un, et la lui compter plus cher qu'elle n'a coûté, et aussi recevoir de l'argent pour procurer accès auprès d'un personnage puissant.
+[11] Plier la toilette : faire un paquet de la toilette, et, par suite, voler, emporter toutes les hardes d'une personne. L
 
-[12] Ménager : Ménager, ménagère, celui, celle qui entend le ménage. Celui, celle qui est économe. 
+[12] Ferrer la mule : accepter une chose pour quelqu'un, et la lui compter plus cher qu'elle n'a coûté, et aussi recevoir de l'argent pour procurer accès auprès d'un personnage puissant.
 
-[13] Faquin : crocheteur, homme de la lie du peuple, vil et méprisable. F
+[13] Ménager : Ménager, ménagère, celui, celle qui entend le ménage. Celui, celle qui est économe. 
 
-[14] Chevau-léger : cavalier armé légèrement. Il y a une compagnie des chevaux légers de la garde du Roi qui est composée de deux cent mâitres, servant par quartier. R
+[14] Faquin : crocheteur, homme de la lie du peuple, vil et méprisable. F
 
-[15] Grison : Celui dont les cheveux commencent à blanchir.F
+[15] Chevau-léger : cavalier armé légèrement. Il y a une compagnie des chevaux légers de la garde du Roi qui est composée de deux cent mâitres, servant par quartier. R
 
-[16] Estramaçon : coup qu'on donne du tranchant d'une forte épée, d'un coutelas, d'un cimeterre. F
+[16] Grison : Celui dont les cheveux commencent à blanchir.F
 
-[17] Riposte : terme d'escrime. Botte portée en parant. L
+[17] Estramaçon : coup qu'on donne du tranchant d'une forte épée, d'un coutelas, d'un cimeterre. F
 
-[18] Pecque : terme d'injure. Femme sotte et impertinente qui fait l'entendue.
+[18] Riposte : terme d'escrime. Botte portée en parant. L
 
-[19] Etrivière : Courroie de cuir, par laquelle les étriers sont suspendus. Donner les étrivières, c'est châtier des valets de livrée, les fouetter avec les étrivières. F
+[19] Pecque : terme d'injure. Femme sotte et impertinente qui fait l'entendue.
 
-[20] Tirer la laine : On dit aussi, qu'un filou tire la laine, quand il vole la nuit les chapeaux, ou les manteaux des passants. F
+[20] Etrivière : Courroie de cuir, par laquelle les étriers sont suspendus. Donner les étrivières, c'est châtier des valets de livrée, les fouetter avec les étrivières. F
 
-[21] Épousette : Réunion de plusieurs brins de bruyère, de poil ou de crin liés ensemble, dont on se sert pour faire tomber la poussière de dessus les meubles. L
+[21] Tirer la laine : On dit aussi, qu'un filou tire la laine, quand il vole la nuit les chapeaux, ou les manteaux des passants. F
 
-[22] Penard : terme de dénigrement. Vieux penard, ou, simplement, penard, vieillard usé. L
+[22] Épousette : Réunion de plusieurs brins de bruyère, de poil ou de crin liés ensemble, dont on se sert pour faire tomber la poussière de dessus les meubles. L
 
-[23] Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. F
+[23] Penard : terme de dénigrement. Vieux penard, ou, simplement, penard, vieillard usé. L
 
-[24] Amadir : Manche d'une veste d'homme, serrée, et boutonnée jusqu'au poignet. On lui donna ce nom, parce qu'à la représentation de l'Opera d'Amadis, les Acteurs avaient de ces sortes de manches. T
+[24] Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. F
 
-[25] Gigantine : synonyme inusité de gigantesque. L
+[25] Amadir : Manche d'une veste d'homme, serrée, et boutonnée jusqu'au poignet. On lui donna ce nom, parce qu'à la représentation de l'Opera d'Amadis, les Acteurs avaient de ces sortes de manches. T
 
-[26] Courre : Infinitif ancien du verbe courir. Au sens de courir, emploi dans lequel il a vieilli et est aujourd'hui hors d'usage.F
+[26] Gigantine : synonyme inusité de gigantesque. L
 
-[27] Féru : être féru d'une personne, d'une chose, en être très épris.L
+[27] Courre : Infinitif ancien du verbe courir. Au sens de courir, emploi dans lequel il a vieilli et est aujourd'hui hors d'usage.F
 
-[28] Licence poétique qui supprime le "e" de garde pour la métrique.
+[28] Féru : être féru d'une personne, d'une chose, en être très épris.L
 
-[29] Diète : Comme quand on dit, faire diète. De diaeta : qui signifie régime de vivre, et qui vient du Grec diaita, qui signifie la même chose. M
+[29] Licence poétique qui supprime le "e" de garde pour la métrique.
 
-[30] Préfix : Terme certain, marqué et determiné. Il a comparu à jour prefix, au terme qu'on lui avait marqué. Les billets payables à volonté n'ont point de terme prefix. F
+[30] Diète : Comme quand on dit, faire diète. De diaeta : qui signifie régime de vivre, et qui vient du Grec diaita, qui signifie la même chose. M
 
-[31] Dariolette : Suivante qui a la confidence de sa maîtresse. Ce mot est tiré de l'Amadis. F
+[31] Préfix : Terme certain, marqué et determiné. Il a comparu à jour prefix, au terme qu'on lui avait marqué. Les billets payables à volonté n'ont point de terme prefix. F
 
-[32] Gît en fait : c'est-à-dire, c'est un fait, cela consiste dans un fait, ou dans des faits. T
+[32] Dariolette : Suivante qui a la confidence de sa maîtresse. Ce mot est tiré de l'Amadis. F
 
-[33] Prévôt : Nom qu'on donnait autrefois à certains magistrats ou officiers chargés d'une juridiction, ou préposés à une haute surveillance.L
+[33] Gît en fait : c'est-à-dire, c'est un fait, cela consiste dans un fait, ou dans des faits. T
 
-[34] Leans : Vieux mot qui signifiait, dans quelque lieu. Cet homme n'est point encore sorti de sa maison, il est leans. Les sergents disent encore, qu'ils ont mis un homme leans, pour dire, qu'ils l'ont mis en prison, qu'ils l'ont écroué. F
+[34] Prévôt : Nom qu'on donnait autrefois à certains magistrats ou officiers chargés d'une juridiction, ou préposés à une haute surveillance.L
 
-[35] Céans : En cet endroit, en ce lieu-ci. R
+[35] Leans : Vieux mot qui signifiait, dans quelque lieu. Cet homme n'est point encore sorti de sa maison, il est leans. Les sergents disent encore, qu'ils ont mis un homme leans, pour dire, qu'ils l'ont mis en prison, qu'ils l'ont écroué. F
 
-[36] Grabuge : vieux mot qui signifie, débat et différent domestique. Il y a toujours du grabuge entre ce mari et cette femme. F
+[36] Céans : En cet endroit, en ce lieu-ci. R
 
-[37] Bienvenue : est aussi le repas qu'on donne à ceux avec qui on entre en quelque espèce de communauté. F
+[37] Grabuge : vieux mot qui signifie, débat et différent domestique. Il y a toujours du grabuge entre ce mari et cette femme. F
 
-[38] Porter : se dit aussi de la manière de marcher, de la posture, de l'air de la personne. Graviter incedere. Cette femme a bon air, elle porte bien son bois. Ce Danseur porte bien ses pieds en dehors, il porte bien sa jambe. T
+[38] Bienvenue : est aussi le repas qu'on donne à ceux avec qui on entre en quelque espèce de communauté. F
 
-[39] Perruquée : S'est dit, par plaisanterie, des personnes qui portent une perruque. F
+[39] Porter : se dit aussi de la manière de marcher, de la posture, de l'air de la personne. Graviter incedere. Cette femme a bon air, elle porte bien son bois. Ce Danseur porte bien ses pieds en dehors, il porte bien sa jambe. T
 
-[40] Musquée : Il se dit aussi de certaines choses dont l'odeur a quelque rapport avec celle du musc. L
+[40] Perruquée : S'est dit, par plaisanterie, des personnes qui portent une perruque. F
 
-[41] Échelle : se prend quelquefois pour le gibet, à cause qu'on fait monter avec une échelle ceux qu'on pend à une potence. Ainsi on dit, Celui-là a été condamné à assister à l'exécution, à avoir le fouet au pied de l'échelle.
+[41] Musquée : Il se dit aussi de certaines choses dont l'odeur a quelque rapport avec celle du musc. L
 
-[42] Inter nos : entre nous.
+[42] L'original porte comme locuteur : Zamorin, en fait il s'agit de Crispin.
 
-[43] Con lisenza Patron : Avec notre permission.
+[43] Échelle : se prend quelquefois pour le gibet, à cause qu'on fait monter avec une échelle ceux qu'on pend à une potence. Ainsi on dit, Celui-là a été condamné à assister à l'exécution, à avoir le fouet au pied de l'échelle.
 
-[44] Écrouelles : Maladie caractérisée par la tuméfaction des glandes du cou et par une détérioration générale de la constitution ; c'est la même chose que scrofules. L
+[44] Inter nos : entre nous.
 
-[45] Bretteur : Celui qui porte une brette, qui aime à se battre et à ferrailler. On le dit aussi des filous, des gens qui ne vivent que des violences qu'ils font en des lieux de débauche, ou qui servent à venger les querelles d'autrui. F
+[45] Con lisenza Patron : Avec notre permission.
 
-[46] Poule : froussard.
+[46] Écrouelles : Maladie caractérisée par la tuméfaction des glandes du cou et par une détérioration générale de la constitution ; c'est la même chose que scrofules. L
 
-[47] Oeil et bat : Vieux mot qui n'est plus en usage qu'en la cuisine du roi, en cette phrase : On estime les poissons selon la quantité de pouces qu'ils ont entre oeil et bat, c'est à dire, entre la tête et la queue. F
+[47] Bretteur : Celui qui porte une brette, qui aime à se battre et à ferrailler. On le dit aussi des filous, des gens qui ne vivent que des violences qu'ils font en des lieux de débauche, ou qui servent à venger les querelles d'autrui. F
 
-[48] Happe-chair : Personne d'une excessive avidité. Cet huissier est un happe-chair. L
+[48] Poule : froussard.
 
-[49] Cartel : écrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé. Les cartels ne sont plus en usage depuis que le Roi a si sévèrement défendu les duels, si ce n'est figurément et en raillerie, quand on veut défier quelqu'un à la dispute, et faire un assaut de réputation. F
+[49] Oeil et bat : Vieux mot qui n'est plus en usage qu'en la cuisine du roi, en cette phrase : On estime les poissons selon la quantité de pouces qu'ils ont entre oeil et bat, c'est à dire, entre la tête et la queue. F
 
-[50] Marché : Bon marché, grand marché, prix peu élevé ; meilleur marché, prix inférieur à un autre. L
+[50] Happe-chair : Personne d'une excessive avidité. Cet huissier est un happe-chair. L
 
-[51] Diantre : terme populaire dont se servent ceux qui font scrupule de nommer le Diable. Allez au diantre. F
+[51] Cartel : écrit qu'on envoie à quelqu'un pour le défier à un combat singulier, soit pour des tournois, soit pour un duel formé. Les cartels ne sont plus en usage depuis que le Roi a si sévèrement défendu les duels, si ce n'est figurément et en raillerie, quand on veut défier quelqu'un à la dispute, et faire un assaut de réputation. F
 
-[52] Affermer : Affermer, Tantôt vient du Latin, Affirmare, Assurer une chose être ou non être. N
+[52] Marché : Bon marché, grand marché, prix peu élevé ; meilleur marché, prix inférieur à un autre. L
 
-[53] Sourdine : Secrètement, et sans bruit R
+[53] L'original porte comme locuteur : Zamorin, en fait il s'agit de Crispin.
 
-[54] Conciergerie : Prison sur l'Ile de la Cité à Paris. L
+[54] Diantre : terme populaire dont se servent ceux qui font scrupule de nommer le Diable. Allez au diantre. F
 
-[55] Faire le veau : S'étendre comme un veau, faire le veau, se dit d'un homme qui se tient d'une manière nonchalante. L
+[55] Affermer : Affermer, Tantôt vient du Latin, Affirmare, Assurer une chose être ou non être. N
 
-[56] Prendre un rat : prendre un rat, se dit d'une arme à feu quand le coup ne part pas, et qui a, pour ainsi dire, un caprice. L
+[56] Sourdine : Secrètement, et sans bruit R
 
-[57] Gré : Se savoir gré, bon gré de, s'applaudir de. La belle se sut gré de tous ces sentiments. L
+[57] Conciergerie : Prison sur l'Ile de la Cité à Paris. L
 
-[58] En Basque : Familièrement. Aller, courir comme un Basque, aller, courir fort vite. L
+[58] Faire le veau : S'étendre comme un veau, faire le veau, se dit d'un homme qui se tient d'une manière nonchalante. L
+
+[59] Prendre un rat : prendre un rat, se dit d'une arme à feu quand le coup ne part pas, et qui a, pour ainsi dire, un caprice. L
+
+[60] Gré : Se savoir gré, bon gré de, s'applaudir de. La belle se sut gré de tous ces sentiments. L
+
+[61] En Basque : Familièrement. Aller, courir comme un Basque, aller, courir fort vite. L

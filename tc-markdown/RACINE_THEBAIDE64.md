@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_THEBAIDE64  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1664  
 title: LA THÉBAÏDE ou LES FRÈRES ENNEMIS, TRAGÉDIE.  
 ---
@@ -1098,8 +1098,8 @@ Le repos des Thébains trouve encor quelque obstacle ?
 Cet illustre trépas ne peut-il vous calmer,  
 Puisque même mes fils s'en laissent désarmer ?  
 La refuserez-vous cette noble victime ?  
-Si la vertu vous touche autant que fait le crime,  
-Si vous donnez les prix comme vous punissez, [1]  
+Si la vertu vous touche autant que fait le crime,   [1]
+Si vous donnez les prix comme vous punissez,  
 Quels crimes par ce sang ne seront effacés ?  
 
     ANTIGONE.
@@ -1415,8 +1415,8 @@ Que rappelant leur haine au lieu de la chasser,
 Il s'étouffent, Attale, en voulant s'embrasser.  
 
     ATTALE.
-Vous n'avez plus, Seigneur, à craindre que vous-même,  
-On porte ses remords avec le Diadème. [2]  
+Vous n'avez plus, Seigneur, à craindre que vous-même,   [2]
+On porte ses remords avec le Diadème.  
 
     CRÉON.
 Quand on est sur le trône on a bien d'autres soins,  
@@ -1758,8 +1758,8 @@ En m'alliant chez lui n'aurai-je rien porté,
 Et tiendrai-je mon rang de sa seule bonté ?  
 D'un trône qui m'est dû faut-il que l'on me chasse,  
 Et d'un prince étranger que je brigue la place ?  
-Non non, sans m'abaisser à lui faire la cour,  
-Je veux devoir le sceptre à qui je dois le jour. [3]  
+Non non, sans m'abaisser à lui faire la cour,   [3]
+Je veux devoir le sceptre à qui je dois le jour.  
 
     HÉMON.
 Qu'on le tienne, mon fils, d'un beau-père ou d'un père,  
@@ -1971,8 +1971,8 @@ Dans des ruisseaux de sang elle voulait s'éteindre :
 Princes dénaturés, vous voilà satisfaits,  
 La mort seule entre vous pouvait mettre la paix.  
 Le Trône pour vous deux avait trop peu de place,  
-Il fallait entre vous mettre un plus grand espace,  
-Et que le ciel vous mît pour finir vos discords, [4]  
+Il fallait entre vous mettre un plus grand espace,   [4]
+Et que le ciel vous mît pour finir vos discords,  
 L'un parmi les vivants, l'autre parmi les morts.  
 Infortunés tous deux, dignes qu'on vous déplore !  
 Moins malheureux pourtant que je ne suis encore,  
@@ -2059,8 +2059,8 @@ Madame, je l'avoue, et les destins contraires,
 Me font pleurer deux fils si vous pleurez deux frères.  
 
     ANTIGONE.
-Mes frères et vos fils ! Dieux ! que veut ce discours ?  
-Quelque autre qu'Étéocle a-t-il fini ses jours ? [5]  
+Mes frères et vos fils ! Dieux ! que veut ce discours ?   [5]
+Quelque autre qu'Étéocle a-t-il fini ses jours ?  
 
     CRÉON.
 Mais ne savez-vous pas cette sanglante histoire.  
@@ -2205,8 +2205,8 @@ Et vous osez, Créon, m'offrir le Diadème ?
     CRÉON.
 Je sais que ce haut rang n'a rien de glorieux,  
 Qui ne cède à l'honneur de l'offrir à vos yeux.  
-D'un si noble destin je me connais indigne,  
-Mais si l'on peut prétendre à cette gloire insigne, [6]  
+D'un si noble destin je me connais indigne,   [6]
+Mais si l'on peut prétendre à cette gloire insigne,  
 Si par d'illustres faits on la peut mériter,  
 Que faut-il faire enfin, Madame ?  
 

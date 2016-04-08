@@ -1,6 +1,6 @@
 ---
 identifier: RACINE_PHEDRE77  
-creator: RACINE, Jean  
+creator: Racine, Jean  
 date: 1677  
 title: PHÈDRE, TRAGÉDIE  
 ---
@@ -69,8 +69,8 @@ Déjà pour satisfaire à votre juste crainte
 J'ai couru les deux mers que sépare Corinthe.  
 J'ai demandé Thésée aux peuples de ces bords  
 Où l'on voit l'Achéron se perdre chez les Morts.  
-J'ai visité l'Élide, et laissant le Ténare,  
-Passé jusqu'à la mer, qui vit tomber Icare. [1]  
+J'ai visité l'Élide, et laissant le Ténare,   [1]
+Passé jusqu'à la mer, qui vit tomber Icare.  
 Sur quel espoir nouveau, dans quels heureux climats  
 Croyez-vous découvrir la trace de ses pas ?  
 Qui sait même, qui sait si le roi votre père  
@@ -120,8 +120,8 @@ Je fuis, je l'avouerai, cette jeune Aricie,
 Reste d'un sang fatal conjuré contre nous.  
 
     THÉRAMÈNE.
-Quoi vous-même, Seigneur, la persécutez-vous ?  
-Jamais l'aimable soeur des cruels Pallantides [2]  
+Quoi vous-même, Seigneur, la persécutez-vous ?   [2]
+Jamais l'aimable soeur des cruels Pallantides  
 Trempa-t-elle aux complots de ses frères perfides ?  
 Et devez-vous haïr ses innocents appas ?  
 
@@ -152,10 +152,10 @@ Attaché près de moi par un zèle sincère
 Tu me contais alors l'histoire de mon père.  
 Tu sais combien mon âme attentive à ta voix  
 S'échauffait au récit de ses nobles exploits ;  
-Quand tu me dépeignais ce héros intrépide  
-Consolant les mortels de l'absence d'Alcide ; [3]  
-Les monstres étouffés, et les brigands punis,  
-Procuste, Cercyon, et Sciron, et Sinnis, [4]  
+Quand tu me dépeignais ce héros intrépide   [3]
+Consolant les mortels de l'absence d'Alcide ;  
+Les monstres étouffés, et les brigands punis,   [4]
+Procuste, Cercyon, et Sciron, et Sinnis,  
 Et les os dispersés du géant d'Épidaure,  
 Et la Crète fumant du sang du Minotaure.  
 Mais quand tu récitais des faits moins glorieux,  
@@ -201,8 +201,8 @@ S'il a quelque douceur n'osez-vous l'essayer ?
 En croirez-vous toujours un farouche scrupule ?  
 Craint-on de s'égarer sur les traces d'Hercule ?  
 Quels courages Vénus n'a-t-elle pas domptés !  
-Vous-même où seriez-vous, vous qui la combattez,  
-Si toujours Antiope à ses lois opposée [5]  
+Vous-même où seriez-vous, vous qui la combattez,   [5]
+Si toujours Antiope à ses lois opposée  
 D'une pudique ardeur n'eût brûlé pour Thésée ?  
 Mais que sert d'affecter un superbe discours ?  
 Avouez-le, tout change. Et depuis quelques jours  
@@ -461,8 +461,8 @@ Juste ciel ! Tout mon sang dans mes veines se glace.
 Voyage infortuné ! Rivage malheureux,  
 Fallait-il approcher de tes bords dangereux ?  
 
-    PHÈDRE.
-Mon mal vient de plus loin. À peine au fils d'Égée, [6]  
+    PHÈDRE. [6]
+Mon mal vient de plus loin. À peine au fils d'Égée,  
 Sous les lois de l'hymen je m'étais engagée,  
 Mon repos, mon bonheur semblait être affermi,  
 Athènes me montra mon superbe ennemi.  
@@ -975,11 +975,11 @@ Digne sujet des voeux des filles de Minos.
 Que faisiez-vous alors ? Pourquoi sans Hippolyte  
 Des héros de la Grèce assembla-t-il l'élite ?  
 Pourquoi trop jeune encor ne pûtes-vous alors  
-Entrer dans le vaisseau qui le mit sur nos bords ?  
-Par vous aurait péri le monstre de la Crète [7]  
-Malgré tous les détours de sa vaste retraite, [8]  
-Pour en développer l'embarras incertain  
-Ma soeur du fil fatal eût armé votre main. [9]  
+Entrer dans le vaisseau qui le mit sur nos bords ?   [7]
+Par vous aurait péri le monstre de la Crète   [8]
+Malgré tous les détours de sa vaste retraite,  
+Pour en développer l'embarras incertain   [9]
+Ma soeur du fil fatal eût armé votre main.  
 Mais non, dans ce dessein je l'aurais devancée.  
 L'amour m'en eût d'abord inspiré la pensée.  
 C'est moi, Prince, c'est moi dont l'utile secours  
@@ -1005,8 +1005,8 @@ Que j'accusais à tort un discours innocent.
 Ma honte ne peut plus soutenir votre vue.  
 Et je vais...  
 
-    PHÈDRE.
-        Ah ! Cruel, tu m'as trop entendue. [10]  
+    PHÈDRE. [10]
+        Ah ! Cruel, tu m'as trop entendue.  
 Je t'en ai dit assez pour te tirer d'erreur.  
 Hé bien ! Connais donc Phèdre et toute sa fureur.  
 J'aime. Ne pense pas qu'au moment que je t'aime,  
@@ -1468,8 +1468,8 @@ Mais que tout son pouvoir ne saurait ébranler.
     THÉSÉE.
 Ah ! Qu'est-ce que j'entends ! Un traître, un téméraire  
 Préparait cet outrage à l'honneur de son père ?  
-Avec quelle rigueur, Destin, tu me poursuis !  
-Je ne sais où je vais, je ne sais où je suis. [11]  
+Avec quelle rigueur, Destin, tu me poursuis !   [11]
+Je ne sais où je vais, je ne sais où je suis.  
 Ô tendresse ! Ô bonté trop mal récompensée !  
 Projet audacieux ! Détestable pensée !  
 Pour parvenir au but de ses noires amours  
@@ -1592,8 +1592,8 @@ Passer subitement à l'extrême licence.
 Un jour seul ne fait point d'un mortel vertueux  
 Un perfide assassin, un lâche incestueux.  
 Élevé dans le sein d'une chaste héroïne,  
-Je n'ai point de son sang démenti l'origine.  
-Pitthée estimé sage entre tous les humains [12]  
+Je n'ai point de son sang démenti l'origine.   [12]
+Pitthée estimé sage entre tous les humains  
 Daigna m'instruire encore au sortir de ses mains.  
 Je ne veux point me peindre avec trop d'avantage.  
 Mais si quelque vertu m'est tombée en partage,  
@@ -1648,8 +1648,8 @@ Ah ! Que ton impudence excite mon courroux !
     HIPPOLYTE.
 Quel temps à mon exil, quel lieu prescrivez-vous ?  
 
-    THÉSÉE.
-Fusses-tu par delà les colonnes d'Alcide, [13]  
+    THÉSÉE. [13]
+Fusses-tu par delà les colonnes d'Alcide,  
 Je me croirais encor trop voisin d'un perfide.  
 
     HIPPOLYTE.
@@ -2211,8 +2211,8 @@ Leur fougue impétueuse enfin se ralentit.
 Ils s'arrêtent, non loin de ces tombeaux antiques,  
 Où des rois ses aïeux sont les froides reliques.  
 J'y cours en soupirant, et sa garde me suit.  
-De son généreux sang la trace nous conduit.  
-Les rochers en sont teints. Les ronces dégouttantes [14]  
+De son généreux sang la trace nous conduit.   [14]
+Les rochers en sont teints. Les ronces dégouttantes  
 Portent de ses cheveux les dépouilles sanglantes.  
 J'arrive, je l'appelle, et me tendant la main  
 Il ouvre un oeil mourant, qu'il referme soudain.  
@@ -2228,8 +2228,8 @@ Triste objet où des Dieux triomphe la colère,
 Et que méconnaîtrait l'oeil même de son père.  
 
     THÉSÉE.
-Ô mon fils ! Cher espoir que je me suis ravi !  
-Inexorables Dieux, qui m'avez trop servi ! [15]  
+Ô mon fils ! Cher espoir que je me suis ravi !   [15]
+Inexorables Dieux, qui m'avez trop servi !  
 À quels mortels regrets ma vie est réservée !  
 
     THÉRAMÈNE.
@@ -2308,8 +2308,8 @@ Le fer aurait déjà tranché ma destinée.
 Mais je laissais gémir la vertu soupçonnée.  
 J'ai voulu, devant vous exposant mes remords,  
 Par un chemin plus lent descendre chez les morts.  
-J'ai pris, j'ai fait couler dans mes brûlantes veines  
-Un poison que Médée apporta dans Athènes. [16]  
+J'ai pris, j'ai fait couler dans mes brûlantes veines   [16]
+Un poison que Médée apporta dans Athènes.  
 Déjà jusqu'à mon coeur le venin parvenu  
 Dans ce coeur expirant jette un froid inconnu.  
 Déjà je ne vois plus qu'à travers un nuage  
@@ -2327,8 +2327,8 @@ Allons de mon erreur, hélas ! trop éclaircis
 Mêler nos pleurs au sang de mon malheureux fils.  
 Allons de ce cher fils embrasser ce qui reste,  
 Expier la fureur d'un voeu que je déteste.  
-Rendons-lui les honneurs qu'il a trop mérités.  
-Et pour mieux apaiser ses mânes irrités, [17]  
+Rendons-lui les honneurs qu'il a trop mérités.   [17]
+Et pour mieux apaiser ses mânes irrités,  
 Que malgré les complots d'une injuste famille  
 Son amante aujourd'hui me tienne lieu de fille.  
 
@@ -2347,8 +2347,7 @@ Le sujet de la tragédie de Phèdre est pris d'Euripide. Comme nous le verrons, 
 Commençons d'abord par analyser la tragédie de Racine ; nous analyserons ensuite celles d'Euripide et de Sénèque, et nous établirons la part d'imitation qui se trouve dans la pièce française.
 
 Hippolyte, fils de Thésée et d'Antiope, reine des Amazones, veut quitter Trézène. Son oisiveté lui pèse ; il a résolu d'aller à la recherche de son père, absent depuis six mois, ou plutôt, de fuir des lieux qu'il n'ose plus voir. Son gouverneur Théramène entend cette confidence et croit que c'est Phèdre, toujours injuste pour lui, qui est la cause de son chagrin et de son départ. Il s'en étonne cependant, car Phèdre, atteinte d'un mal mystérieux, ne songe guère, pour le moment, à poursuivre son beau-fils. Hippolyte se retire devant une autre ennemie, la jeune Aricie, qui a su se faire aimer de lui, et qui est du sang odieux de Pallante, son grand-oncle, de ce Pallante dont les fils ont conspiré jadis contre Thésée. Cet amour est coupable, il le sait ; son père ne le lui pardonnera jamais. Thésée, par une loi sévère, a défendu qu'aucun Grec soupirât pour Aricie. Cependant il ne quittera point Trézène sans avoir vu Phèdre. La reine, annoncée par sa nourrice OEnone, approche « pâle comme son propre fantôme, les yeux rougis, les bras dénoués et morts, le corps inerte sous ses belles draperies à plis droits » (3), ne se soutenant plus, les yeux éblouis du jour qu'elle revoit, ses genoux tremblants se dérobant sous elle. Hippolyte ne veut point l'aborder. Phèdre, fille de Minos et de Pasiphaé, brûlée de la passion la plus sacrilège, mais résistant de toute la force de sa vertu aux traits qui la pénètrent, vient voir pour la dernière fois le Soleil, dont sa mère se vantait de descendre. Mais dans ces adieux elle laisse échapper le secret de son mal : elle voudrait
-
-au travers d'une noble poussière
+au travers d'une noble poussière  
 
 Suivre de l'oeil un char fuyant dans la carrière.
 
@@ -2359,20 +2358,16 @@ Aricie est informée de la mort de Thésée : son sort va changer de face. Déj�
 Phèdre vient elle-même s'entretenir avec le héros. D'abord, elle le prie pour son fils orphelin et qui a besoin d'un défenseur, elle s'excuse d'avoir été une cruelle marâtre, et, dans cette confession, elle l'assure que s'il eût pu lire dans son coeur, il aurait vu que l'inimitié ne l'avait point seule poussée à tant de rigueur ; l'égarement continue ; il est bientôt porté à son comble ; son secret lui échappe enfin dans le délire de la passion. Hippolyte veut s'éloigner ; il n'ose pas lever les yeux sur la femme incestueuse qui lui parle ; mais Phèdre, ne gardant plus de bornes, se fait connaître à Hippolyte dans toute sa fureur. Elle a plaisir à la fois et horreur à déclarer son amour.
 
 Elle réclame la mort, elle lui dit de frapper, et, tandis qu'il reste atterré, elle lui prend son épée, et s'en percerait sous ses yeux, si OEnone ne l'entraînait au milieu de sa rage. Théramène, qui survient, reste surpris à la vue d'Hippolyte pâle, interdit, mais qui veut ensevelir en un profond oubli l'horrible secret qui vient de lui être révélé. Un bruit vague court que Thésée respire encore ; à Athènes, on s'est déclaré pour le fils de Phèdre. Ce choix immérité ou du moins téméraire arrache à Hippolyte ce beau cri de révolte :
-
-Dieux, qui la connaissez,
-
-Est-ce donc sa vertu que vous récompensez ! (Acte II.)
+Dieux, qui la connaissez,  
+Est-ce donc sa vertu que vous récompensez ! (Acte II.)  
 
 Athènes, nous l'avons dit, a proclamé roi le fils aîné de Phèdre et de Thésée. Mais Phèdre ne songe qu'à Hippolyte ; cette grandeur ne la touche guère ; elle voit sans cesse l'insensible Hippolyte. Elle conserve encore cependant l'espoir de gagner son coeur. Elle le croit ambitieux. C'est par l'ambition qu'elle cherchera à le séduire. Elle charge OEnone d'aller lui offrir en son nom la couronne réservée à son fils. Il instruira le jeune prince dans l'art de commander, il saura que ce sceptre, il le doit à Phèdre qui se meurt d'amour pour lui. Peut-être se laissera-t-il fléchir enfin ? OEnone revient bientôt annoncer à sa maîtresse que Thésée n'est pas mort, qu'il est arrivé à Trézène, et que le peuple se précipite à sa rencontre. À cette terrible nouvelle, Phèdre, qui n'est point de celles qui
-
-ont su se faire un front qui ne rougit jamais vers 852
+ont su se faire un front qui ne rougit jamais vers 852  
 
 regrette de n'avoir point suivi son premier dessein : elle voulait se tuer, et la tendresse d'OEnone a prévalu : elle serait digne d'être pleurée au moins ! Elle mourra maintenant, mais elle mourra déshonorée. OEnone lui conseille alors d'accuser Hippolyte du crime qu'elle a commis elle-même ; tout parle contre lui, surtout l'épée qui est restée entre ses mains. Phèdre repousse d'abord avec horreur une si odieuse perfidie. Mais, quand elle voit Thésée s'approcher avec Hippolyte, sa tête s'égare, la crainte s'empare de son âme, elle s'abandonne à OEnone, elle lui permet de tout dire pourvu qu'elle la sauve. L'accueil même qu'elle fait à Thésée est plein de douleur et de confusion. Thésée s'étonne; il demande à Hippolyte à qui il avait confié en partant la garde de son épouse et de sa nièce, la cause de ce trouble étrange. Hippolyte, pour toute réponse, supplie son père de le laisser s'éloigner des lieux où Phèdre habite. Maintenant que Thésée est revenu, Hippolyte n'a plus de soins à remplir ; il lui en coûte de ne montrer son adresse que sur les bêtes des forêts ; il voudrait, à l'exemple de son père, teindre ses javelots d'un sang plus généreux. Thésée, devant la crainte qu'il inspire et le peu de joie que fait éprouver son retour, déclare qu'il eût mieux aimé périr dans la prison où l'ennemi de Pisithoüs l'avait enfermé que d'en sortir miraculeusement, puisqu'à sa rentrée dans ses États, il devait voir à la fois sa femme et son fils fuir son approche ! (Acte III.)
 
 Dès le commencement du quatrième acte, Thésée a appris d'OEnone la prétendue trahison de son fils. Tout parle en effet contre Hippolyte : les paroles à double entente de la reine, quand elle avait reçu son époux, le trouble d'Hippolyte, son embarras, son silence, son refus de répondre aux questions de Thésée, son désir de quitter les lieux où Phèdre habite, son épée enfin qui était restée dans les mains de la reine ! II n'a pour lui que son noble maintien, cette vertu qui brille sur son front innocent. Mais Thésée ne s'y laissera point tromper, et, quand il le revoit, il l'accable de sa colère et de ses imprécations. Il fait plus : il demande à Neptune de le venger et d'exercer toute sa colère sur le traître qu'il lui abandonne. Par respect pour son père, Hippolyte ne veut point se défendre de cette odieuse calomnie. Il supplie Thésée d'examiner sa vie passée qui tout entière s'est écoulée dans l'innocence. Il n'est point épris d'un feu profane : s'il est coupable, c'est d'avoir aimé, c'est d'aimer encore Aricie. Thésée, que la colère aveugle, ne veut rien entendre : il chasse une dernière fois son fils de sa présence. Mais Phèdre accourt toute troublée. Elle supplie le roi de revenir sur son cruel arrêt ; elle eût tout tenté pour calmer sa colère ; qui sait ? Elle se fût peut-être accusée elle-même pour sauver Hippolyte ; une nouvelle lui a fermé la bouche ; Thésée lui a appris qu'Hippolyte osait, de plus, aimer la fille de Pallante ! Au sentiment qui amenait Phèdre au secours de l'innocence succède la jalousie. Elle ne défendra plus celui qui lui a donné une rivale ! Elle se rappelle avec amertume les pleurs qu'elle a versés, le trouble qu'elle a éprouvé, les combats que sa vertu a livrés avant d'être vaincue par la passion ! Pendant ces angoisses, Hippolyte et Aricie se voyaient, s'aimaient en toute liberté, sans crainte, leur amour était approuvé du ciel ; ils ne connaissaient point le remords :
-
-Tous les jours se levaient clairs et sereins pour eux ! vers 1240
+Tous les jours se levaient clairs et sereins pour eux ! vers 1240  
 
 Dans le délire de la jalousie, elle ordonne à OEnone de retourner auprès de Thésée, d'exciter sa colère, d'attirer sur Hippolyte et Aricie toutes ses vengeances. Puis, tout à coup, elle revient à elle ; ses yeux se dessillent, la raison reprend son empire. Elle est jalouse ! Et c'est Thésée qu'elle implore ! Elle brûle encore quand Thésée est vivant ! Elle se fait horreur. Elle ne trouve point de retraite ni sur terre ni dans les enfers pour cacher sa honte. Sur terre, le soleil, le père de sa mère, l'éclaire, et dans la nuit infernale, c'est Minos, son propre père, qui juge « tous les pâles humains! » OEnone s'efforce de calmer sa terreur ; elle excuse l'amour, cette faiblesse naturelle aux mortels, et dont les dieux eux-mêmes ne peuvent se défendre. À ces paroles impies, Phèdre recouvre toute sa vertu. Elle déteste et maudit cette malheureuse OEnone qui par ses perfides conseils et aussi par sa tendresse aveugle a perdu l'âme de sa maîtresse et qui par d'insupportables flatteries ose « du crime lui aplanir le chemin ». (Acte IV.)
 
@@ -2403,8 +2398,7 @@ Les Représentations
 La première représentation de Phèdre fut donnée sur le théâtre de l'hôtel de Bourgogne, le 1er janvier 1677. Il n'y a que deux interprètes créateurs dont les noms soient certainement connus. Melle de Champmeslé joua Phèdr e; Melle d'Ennebaut, Aricie. Pour les autres, on peut conjecturer que les personnages d'OEnone, d'Hippolyte, de Thésée et de Thèramène furent tenus par Melle Beauval (7), Baron, Champmeslé et Hauteroche.
 
 Melle d'Ennebaut était la fille de Montfleury et la femme de Mathieu d'Ennebaut « qui n'avait pour toute fortune, nous apprend Le Mazurier, qu'un emploi en Bretagne. » Elle était chargée, à l'hôtel de Bourgogne, des seconds rôles dans les deux genres, et les jouait à la pleine satisfaction du public. Remarquable dans la Junie de Britannicus, elle ne le fut pas moins dans Aricie. Une ennemie de Racine, Mme Deshoulières, plus avantageusement connue pour ses poésies pastorales, parlant d'elle dans un sonnet cruel, nous la dépeint
-
-Une grosse Aricie. au teint rouge, aux crins blonds.
+Une grosse Aricie. au teint rouge, aux crins blonds.  
 
 Elle était petite et un peu grasse en vérité ; elle était blonde aussi. Mais, elle était jolie, et avait, ce qui ne gâtait rien, un talent très distingué.
 
@@ -2439,10 +2433,8 @@ On le voit, les critiques fondées qui peuvent être adressées à la Phèdre de
 Quoi qu'il en soit, cette tragédie, quand elle a rencontré une interprète de talent, sinon de génie, a toujours été applaudie sur notre théâtre. Après la Champmeslé, Adrienne Lecouvreur, Melles Dumesnil, Clairon ont été des Phèdres admirables. Melle Raucourt, bien qu'inférieure à ses devancières dans ce terrible rôle, a remporté de beaux succès. Melle Duchesnois ensuite y fit pleurer les plus insensibles. Melle Georges s'y montra la rivale redoutable de la Duchesnois. Melle Rachel a été, croyons-nous, la Phèdre idéale. Melle Sarah Bernardht enfin a eu le rare mérite de rappeler quelquefois la grande Rachel, et c'est aujourd'hui Mell Dudlay qui a hérité de toutes ces illustres tragédiennes. Après Melle d'Ennebaut on ne peut guère citer qu'une Aricie pleine d'une grâce charmante, de modestie, de douceur et de sensibilité. Melle Gaussin, cette actrice aimable dont nous avons eu déjà plus d'une fois l'occasion de louer le talent. L'acteur qui sans comparaison laissa les meilleurs souvenirs dans le rôle de Théramène fut Guérin. Saint-Fal fut un noble et touchant Hippolyte. Brizart et Saint-Prix se distinguèrent sous le casque légendaire du majestueux Thésée. Nous allons donner quelques détails biographiques sur tous ceux de ces interprètes qui n'ont point trouvé place encore dans nos études.
 
 Adrienne Lecouvreur naquit à Fismes, près de Reims, en 1690. Elle accompagna ses parents à Paris en 1702. Comme son père était venu s'établir dans le faubourg Saint-Germain, tout près de la Comédie française, elle eut l'occasion d'y aller souvent et de développer son goût précoce pour le théâtre. Nous avons déjà raconté, dans notre Histoire de Polyeucte, qu'à, l'âge de quinze ans elle joua le rôle de Pauline chez la présidente Lejay avec quelques autres jeunes gens de son quartier, et qu'elle y excita un vif enthousiasme. Un acteur qui par hasard assistait à cette représentation, Legrand père, lui proposa des leçons dont elle profita si bien qu'après une audition le directeur du théâtre de Strasbourg l'engagea. À Strasbourg et dans les grandes villes de l'Alsace et de la Lorraine elle conquit une éclatante réputation. Le bruit en parvint à la Comédie française : on l'y appela, et elle débuta très heureusement dans le rôle de Monime. Du premier coup elle rendit jalouse Mlle Duclos alors en possession de la faveur publique. Elle devint en peu de temps la gloire de la Comédie. Les rôles que nous allons citer furent pour elle de véritables triomphes : Emilie, Cornélie, de Pompée ; Laodice, de Nicomède ; Hermione, Bérénice, Roxane, Ériphile, Phèdre, Athalie. Je me borne au répertoire de Corneille et de Racine. Quand nous nous occuperons du théâtre de Voltaire, nous rappellerons les rôles qu'elle a créés dans les tragédies de ce poète. Melle Adrienne Lecouvreur comme le fit plus tard Melle Rachel, aborda le genre comique. Son esprit et son intelligence la sauvèrent de l'insuccès. Toutefois son jeu avait sinon trop d'ampleur, du moins trop de correction grave et majestueuse pour se sentir à l'aise dans la comédie qui exige de la verve, de la gaieté, de la souplesse. On ne dépouille pas impunément la robe de Phèdre. Dans ce rôle de Phèdre elle était très remarquable. Elle le joua même un soir au naturel. Adrienne Lecouvreur n'eut pas à imiter cette fois la jalousie, elle la ressentit pour son propre compte, et le public fut frappé d'admiration et de terreur. On sait qu'elle aimait le célèbre Maurice de Saxe. Mais l'amant volage ne craignait point de porter ses offrandes à un autre autel ; il s'était épris aussi de la duchesse de Bouillon qui réclamait des hommages exclusifs. L'actrice jalouse, en prononçant ces vers :
-
-... Je ne suis point de ces femmes hardies
-
-Oui goûtent dans le crime une tranquille paix, vers 850-851
+... Je ne suis point de ces femmes hardies  
+Oui goûtent dans le crime une tranquille paix, vers 850-851  
 
 au lieu de s'adresser à OEnone, regarda, dit-on, obstinément dans la loge de sa rivale et la désigna d'un superbe geste de mépris. Les spectateurs, qui connaissaient cette intrigue, saisirent l'allusion et vengèrent de leurs applaudissements la tragédienne dédaignée, outrageant du même coup la maîtresse puissante et préférée. On raconte que la duchesse fit périr par le poison Adrienne Lecouvreur qui l'avait si cruellement insultée. Je donne cette anecdote terrible pour ce qu'elle vaut : elle est cependant vraisemblable. D'autres critiques prétendent qu'Adrienne Lecouvreur mourut des suites d'une fluxion de poitrine le 17 mars 1730 : elle avait à peine quarante ans. Quoi qu'il en soit, cette mort prématurée excita dans le public d'universels regrets. Voltaire, dans une épître célèbre, a parlé au nom de tous le langage de la reconnaissance pour ce beau talent trop tôt moissonné. Comme Baron avait fait en remplaçant Beaubourg, elle substitua à la manière de Melle Duclos, à une déclamation chantée, aux roulements d'yeux, aux contorsions du visage un débit simple et naturel, un visage pur et restant beau même dans la douleur, des gestes pleins de mesure et de vérité. Bien que de taille médiocre, avec ses yeux pleins de feu, son visage mobile, sa voix aux touchantes inflexions, son maintien noble et assuré, elle sut rendre avec beaucoup de pathétique les diverses passions de l'âme. Melle Lecouvreur connaissait aussi l'art si difficile d'écouter au théâtre. « Sa pantomime, dit Lemazurier, dans les scènes muettes était d'une expression si grande que tous les discours de l'acteur qui lui parlait se peignaient sur son visage. » Enfin jamais actrice ne porta plus loin la terreur tragique avant la Dumesnil dont nous allons maintenant dire quelques mots.
 
@@ -2451,8 +2443,7 @@ Melle Dumesnil est parisienne ; elle naquit en 1712. Elle devait fournir une lon
 Melle Clairon (Claire-Josèphe-Hippolyte Leyris de la Tude) naquit dans les environs de Condé, en 1724, et mourut le 31 janvier 1803. Elle appartenait à une famille pauvre. À l'âge de douze ans, elle fut présentée à un acteur de la Comédie italienne, du nom de Dehesse, qui, lui trouvant d'heureuses dispositions, lui donna les premières leçons et la fit débuter en 1736 dans le rôle de la soubrette de Île des Esclaves de Marivaux. De là elle passa au théâtre de Rouen, dirigé par Melle Gautier, devenue plus tard Mme Drouin, et Lanoue, l'excellent Polyeucte dont nous avons parlé. De Rouen elle vint à Lille, puis à Gand, à Dunkerque, enfin à Paris, à l'Opéra, car elle était douée d'une fort belle voix. Mais ce n'était point là que l'appelait son étoile. Elle entra à la Comédie française pour y jouer les soubrettes et y doubler Melle Dangeville. Cet emploi ne lui convenait guère. Elle voulut paraître dans la tragédie, et demanda, à la stupéfaction des semainiers, comme rôle de début, celui de Phèdre. On ne pouvait le lui refuser. Elle joua, et obtint dans ce rôle si difficile un très beau succès, ce qui l'étonna moins que tous ses camarades. Dès ce début, elle marqua sa place au second rang, assez près du premier, tenu, on le sait, par la Dumesnil, très loin du troisième. Pendant vingt-deux ans, elle conquit tous les suffrages, mais elle ne put, quelque désir qu'elle en eût, arracher sa couronne au front de la Dumesnil. La vivacité de son esprit, la supériorité de son intelligence, son travail immense pour se perfectionner ne purent triompher des moyens prodigieux, de la facilité étonnante, du naturel exquis de sa puissante rivale. Dans le rôle de Phèdre cependant la victoire resta indécise. Elle y avait moins de véhémence, moins de flamme certainement, mais son art était plus consommé. Melle Clairon a laissé, dans ses Mémoires, des observations sur ce rôle de Phèdre, dont nous allons citer les plus saillantes : « Racine a marqué d'acte en acte les gradations que la passion de Phèdre doit avoir. Suivez l'auteur exactement dans sa marche ; tâchez de l'atteindre ; gardez-vous de prétendre le surpasser... Je m'étais prescrit dans tout ce qui tient aux remords, une diction simple, des accents nobles et doux, des larmes abondantes, une physionomie profondément douloureuse, et, dans tout ce qui tient à l'amour, l'espèce d'ivresse, de délire que peut offrir une somnambule conservant dans les bras du sommeil le souvenir du feu qui la consume en veillant... Dans la scène du second acte avec Hippolyte, je disais le premier couplet d'une voix basse, tremblante et sans oser lever les yeux... Le second couplet avait... une émotion différente : mes mots étaient entrecoupés par le battement de mon coeur, et non par la crainte. Au troisième, un coup d'oeil enflammé, et réprimé au même instant, marquait le combat qui s'élevait dans mon âme. Au quatrième, ce combat était encore plus sensible, mais l'amour l'emportait. Au cinquième, il régnait seul, et, dans mon égarement, je n'avais conservé que l'habitude de la noblesse et de la décence... (8) »
 
 Melle Raucourt, dans le rôle de Phèdre, semblait ne se souvenir que du vers :
-
-C'est Vénus tout entière à sa proie attachée. vers 306
+C'est Vénus tout entière à sa proie attachée. vers 306  
 
 Elle y manquait de sensibilité.
 
@@ -2496,14 +2487,10 @@ par l'Abbé Simon Augustin IRAIL (1717-1794) - dans Querelles littéraires ou m�
 Le public est souvent injuste et précipité dans ses décisions ! Il n'est juge infallible qu'à la longue. Comment reçut-il d'abord Athalie de Racine, 1691 et le Misanthrope de Molière, 1666 ? Une ombre dans Sémiramis de Voltaire 1748 l'a révolté. Un coup de canon hasardé dans un endroit terrible, a fait tomber Adélaïde de Voltaire 1734, il a fallu que la pièce, pour être applaudie ait reparu longtemps après sous un autre titre. C'est ainsi qu'on arrête l'essor du génie et que ceux qu'il inspire sont contraints de sacrifier des beautés sublimes et véritables à des beautés de convention et de caprice. La cabale est cause de tout. On ne garde aucun frein dans son enthousiasme ou dans fon mépris. On confond toutes les distinctions. Celle que mérite un Athlèle, blanchi dans la carrière de Sophocle et d'Euripide, est prodiguée à quiconque y fait le premier pas. À la première représentation de Mérope on demanda l'auteur. En conséquence on demande tous les auteurs aujourd'hui pour peu qu'ils réussissent. Deux ou trois voix élevées dans le parterre, procurent aisément la gloire de se donner en spectacle qur le théâtre la tête ombragée de faux lauriers et qui font bientôt flétris. Toute pièce nouvelle qui s'annonce avec quelque éclat excite une guerre civile. On dispute, on s'échauffe, on s'aigrit. Cafés, foyers, promenades, sociétés particulières, tout retentit de cris glapissants. On ne voit qu'admirateurs ou frondeurs analyser, disserter comparer vouloir l'emporter les uns sur les autres. Deux femmes, rivales et beaux esprits, se mettent à la tête des factions. C'est une étonnante contrariété dont on n'aperçoit la déraison que longtemps après. Les mouvements que se donne le monde auteur connaisseur, amateur, et conduit par la partialité pour ou contre resemblent aux vagues d'une mer en fureur, qui vont reviennent continuellement jusqu'à ce que le temps et le calme remettent les choses dans leur situation naturelle.
 
 C'est à la faveur de quelques chefs de meute que Pradon eut la gloire de balancer Racine et même de paraître quelque temps avec plus d'éclat. Pradon était de Rouen. De toutes ses pièces on ne joue que celle de Régulus. Mais l'amour le fervit mieux que Melpomène. On connaît ces quatre vers en réponse à d'autres de la fameuse Mademoiselle Bernard qu'il aimait et dont il ne recevoit que des plaisanteries :
-
-Vous n'écrivez que pour écrire.
-
-C'est pour vous un amusement.
-
-Moi, qui vous aime tendrement,
-
-Je n'écris que pour vous le dire.
+Vous n'écrivez que pour écrire.  
+C'est pour vous un amusement.  
+Moi, qui vous aime tendrement,  
+Je n'écris que pour vous le dire.  
 
 Il n'eut de poète que la figure, les distractions, l'extérieur négligé les saillies et les aventures singulières. Voyant un jour siffler une de ses pièces, il siffla comme les autres. Un mousquetaire qui ne le connaissait point et dont il s'obstinait à ne vouloir pas être connu, prit sa perruque et son chapeau qu'il jetta sur le théâtre, le battit, et voulut pour venger Pradon, percer de fon épée Pradon lui-même. Il était d'une si grande ignorance, qu'il transporta plus d'une fois des villes d'Europe en Afie.Un prince lui en ayant fait des reproches : Oh ! lui répondit Pradon, votre altesse m'excusera, c'est que je ne sais pas la chronologie.
 
@@ -2512,20 +2499,13 @@ Quant à Racine voici de nouvelles particularités sur sa personne.
 Il naquit à la Ferté-Milon en 1639. C'est l'élève le plus illustre de Port-Royal. Etant enfant, il passait les journées entières à l'étude des auteurs Grecs. Il cachait des livres pour les dévorer à des heures indues. Il allait souvent se perdre dans les bois de l'abbaye, un Euripide à la main malgré la défense de quelques personnes dont il dépendait et qui lui en brûlèrent consécutivement trois exemplaires. La lecture de ce grand maître dans l'art d'émouvoir les passions frappa tellement son imagination tendre et vive, qu'il se promit bien dès-lors de les imiter un jour.
 
 Il débuta, dans le monde, par une ode sur le mariage du roi ; elle lui valut une gratification : ce succès le détermina à la poésie. Il travailla pour le théâtre. Quand il fit la tragédie de Théagène, sur laquelle il consulta Molière, et celle des Frères ennemis La Thébaïde dont ce comique lui donna le sujet, il portait encore l'habit ecclésiastique. Dans le privilège de l'Andromaque, Racine est intitulé prieur de L'Epinai. Sa réputation s'accrut de jour en jour elle scandalisa les solitaires de Port-royal : ils pleurèrent tous sur ce poète et sur sa passion pour la Champmêlé. La mère Agnès, sa tante ne voulut plus le voir. Nicole écrivit contre lui, le traita d'empoisonneur des âmes. Racine se défendit, et tâcha de ridiculiser, dans unelettre, les messieurs et les religieux de Port-royal. On lui répondit, et il répliqua. Cette rupture entre Port-Royal et le poète qui faisait tant d'honneur à ses maîtres réjouissait les jésuites. Racine en eut du scrupule, il s'en ouvrit à Despréaux qui lui conseilla de ménager davantage des gens dont il avait autrefois embrassé les idées et dont il pourroit reprendre un jour la façon de penser. Il se réconcilia sincèrement avec eux : il quitta pour leur plaire la comédies et les comédiennes ; deux articles qui furent les préliminaires de la paix. Il ne travailla plus qu'à des tragédies saintes mais sa dévotion ne réforma point son caractère naturellement caustique. Il peignit plus d'un perfonnage d'après nature. Il avoua que dans celui du prêtre Mathan, il avoit en vue le P. le T... Ce poëte dont tous les ouvrages respirent la douceur et la mollesse, renfermoit, dans son coeur, le fiel le plus amer. Indépendamment des épigrammes sur l'Aspar de Fontenelle, sur l'Iphigénie de Le Clerc, et sur la Judith de Boyer qui sont imprimées, il en avait fait près de trois cent autres qui ne nous sont point parvenues, et qu'on a brûlées à sa mort. Le nombre des couplets qu'il fit contre beaucoup d'académiciens et de personnes distinguées est confidérable. On jugera de ce qu'il savait faire en ce genre par ce couplet contre Fontenelle, à sa réception à l'Académie Française :
-
-Quand le novice académique
-
-Eut salué fort humblement,
-
-D'une Normande rhétorique,
-
-Il commença son compliment,
-
-Où sottement,
-
-De sa noblesse poétique
-
-Il fit un long dénombrement.
+Quand le novice académique  
+Eut salué fort humblement,  
+D'une Normande rhétorique,  
+Il commença son compliment,  
+Où sottement,  
+De sa noblesse poétique  
+Il fit un long dénombrement.  
 
 Mais ne considérons Racine que par les endroits qui l'immortalisent. Voyons, dans cet écrivain rival des tragiques Grecs et de Corneille pour l'intelligence des passions, une élégance toujours soutenue, une correction admirable la vérité la plus frappante, point ou presque point de déclamation ; partout le langage du coeur et du sentiment, l'art de la versification avec l'harmonie et les grâces de la poésie porté au plus haut degré. C'est le poète après Virgile qui a le mieux entendu cette partie des vers. J'ajoute qu'en bien des endroits c'est aussi le poète le plus éloquent. Quel morceau d'éloquence que celui de la fameuse scène d'Agrippine et de Néron ! On reproche à Racine une continuelle uniformité dans l'ordonnance dans les intrigues dans les caractères. Tous les héros de la Grèce et de Rome qu'il a voulu peindre il les a faits sur le modèle des courtisans de Versailles. On ne voit, dans ses pièces que des amants et des amantes qui se quittent et qui renouent tour à tour. Malgré tous ces défauts on a bien peu de pareils tragiques.
 
@@ -2536,32 +2516,22 @@ La concurrence des deux nouveautés attire au spectacle une foule prodigieuse. J
 En vain quelques esprits sans prévention, et frappés des beautés de celui-ci crièrent à l'injustice. En vain au plus fort de l'orage, élevé contre Racine, son ami Despréaux fit tout ce qu'il put, en général habile et désespéré, pour ramener la multitude et faire entendre raison. Le grand nombre ne l'écouta point. On courait à la Phédre de Pradon. Le parterre était gagné les loges l'étaient aussi. Des Crésus les faisaient retenir y envoyaient, dans leurs carrosses des complaisants et des complaisantes à qui l'on avait fait la leçon pour applaudir avec transport. Le grand Rousseau Jean-Baptiste lui-même eut la bassesse de se prêter à cette manoeuvre, comme il l'a depuis avoué. Il n'osa point parler hautement en faveur du poète qu'il admirait lorsque je voulais, disait-il défendre Racine contre Pradon des favoris de Plutus me fermaient la bouche.
 
 Madame Deshoulières était l'âme de ce parti. Enchantée de voir le peu de succès de la Phèdre de Racine elle fit au sortir de la première représentation, ce fameux sonnet :
-
-Dans un fauteuil doré, Phédre tremblante et blême
-
-Dit des vers où d'abord personne n''entend rien, etc
+Dans un fauteuil doré, Phédre tremblante et blême  
+Dit des vers où d'abord personne n''entend rien, etc  
 
 Mais il ne parut point sous son nom : on ne fit que le répandre dans le public, et mettre certaines personnes dans la confidence celles qui n'y étaient point, et qui d'ailleurs voyaient souvent madame Deshoulières, se firent une fête de lui apporter les vers nouveaux. L'abbé Tallemant surtout s'empresse de venir les lui lire à sa toilette, et d'en faire l'éloge elle les trouve admirables ne et manque pas d'en prendre une copie pour les montrer à tous ceux qu'elle verrait. On cherchait partout à deviner l'auteur. Les amis de Racine les attribuèrent au duc de Nevers, et parodièrent le sonnet :
-
-Dans un palais doré, Damon jaloux et blême,
-
-Fait des vers où jamais personne n'entend rien.
+Dans un palais doré, Damon jaloux et blême,  
+Fait des vers où jamais personne n'entend rien.  
 
 C'était aussi peur rendre justice à ce duc, dont on a des vers fort agréables qu'il la rendait peu lui-même à Racine, dont il n'estimait point les ouvrages. Mais dans une telle chaleur des esprits pouvait-on bien apprécier les choses ? Un parti ne cherchait qu'à décrier l'autre, qu'à l'écraser. Outre ces couleurs affreuses dont on peignait le duc dans la parodie on y traita sa soeur indignement :
-
-Une soeur vagabonda, aux crins plus noirs que blonds,
-
-Va dans toutes les cours montrer ses deux tétons,
-
-Dont, malgré son pays, son frère est idolâtre.
+Une soeur vagabonda, aux crins plus noirs que blonds,  
+Va dans toutes les cours montrer ses deux tétons,  
+Dont, malgré son pays, son frère est idolâtre.  
 
 Il ne douta point que cette atrocité ne vint de Despréaux et de Racine. Dans son premier transport il parla de les faire assommer. Le duc fit la parodie de celle qu'il leur attribuait et leur disait :
-
-Vous en serez punis, satyrique ingrats,
-
-Non pas en trahison d'un fou de mort-aux-rats,
-
-Mais de coups de bâton, donnés en plein théâtre.
+Vous en serez punis, satyrique ingrats,  
+Non pas en trahison d'un fou de mort-aux-rats,  
+Mais de coups de bâton, donnés en plein théâtre.  
 
 Tous deux désavouèrent les vers dont le duc les croyait les auteurs. Ils en appréhendèrent des suites terribles. Cette affaire eut pu réellement en avoir sans le prince de Condé fils du grand Condé, qui prit Racine et Despréaux sous sa protection leur offrit un logement à son hôtel et fit dire au duc de-Nevers et même en termes assez durs qu'il regarderait comme faites à lui-même les insultes qu'on s'aviserait de leur faire. Le duc fut encore retenu par la crainte de s'attirer l'indignation du roi qui les avait tout récemment choisis pour écrire l'histoire de son règne.
 
@@ -2572,14 +2542,10 @@ L'esprit de cabale, acharné contre Racine, le persécuta jusqu'à la mort. C'es
 Lorsque Racine fit voir à Corneille sa tragédie d'Alexandre, Corneille lui donna des louanges et lui conseilla en même temps d'abandonner la poésie dramatique comme étant un genre qui ne lui convenait pas. Celui de l'histoire l'eût peut-être également immortalisé à juger du moins par celle que Racine avait faite de Port-Royal dont la seconde partie a été perdue. On y découvre un historien d'un goût admirable et approchant de celui de Tacite. Il reste quelques fragments manuscrits de cette seconde partie mais ils ne font que plus sentir la perte qu'on a faite.
 
 Le ridicule rival de ce grand homme mourut à Paris d'apoplexie l'an 1698. Son épitaphe est connue.
-
-Ci gît le poète Pradon
-
-Qui, durant quarante ans, d'une ardeur sans pareille
-
-Fit, la barbe d'Apollon,
-
-Le même métier que Corneille.
+Ci gît le poète Pradon  
+Qui, durant quarante ans, d'une ardeur sans pareille  
+Fit, la barbe d'Apollon,  
+Le même métier que Corneille.  
 
 
 ## Liste des oeuvres théâtrales de Jean Racine
@@ -2637,7 +2603,7 @@ Athalie, représentée pour le première fois le 17 novembre 1691 au Collège de
 
 [11] Vers 1004, "je ne sais où je vas" sic au lieu de "je ne sais où je vais".
 
-[12] Pithée : aïeul maternel de Thésée, était fils de Pelops et d'Hippodamie, et régnait sur Trézène. Il était renommé pour sa sagesse ; Ethra , sa fille, mariée à Egée, lui confia l'éducation de Thésée, Thésée à son tour lui confia celle    d'Hyppolyte.
+[12] Pithée : aïeul maternel de Thésée, était fils de Pelops et d'Hippodamie, et régnait sur Trézène. Il était renommé pour sa sagesse ; Ethra , sa fille, mariée à Egée, lui confia l'éducation de Thésée, Thésée à son tour lui confia celle d'Hyppolyte.
 
 [13] Alcide : autre nom d'Hercule.
 

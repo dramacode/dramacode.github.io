@@ -82,8 +82,8 @@ Et nous abandonnant à nos brusques saillies,
 Au lieu de notre ardeur lui montrer nos folies,  
 Nous attirer sur l'heure un dédain éclatant :  
 Il n'est si maladroit qui n'en fît bien autant.  
-Il faut s'en faire aimer avant qu'on se déclare.  
-Notre submission à l'orgueil la prépare. [1]  
+Il faut s'en faire aimer avant qu'on se déclare.   [1]
+Notre submission à l'orgueil la prépare.  
 Lui dire incontinent son pouvoir souverain,  
 C'est mettre à sa rigueur les armes à la main.  
 Usons, pour être aimés, d'un meilleur artifice  
@@ -1492,8 +1492,8 @@ Que je vois d'un autre oeil ton mérite et ta flamme,
 Je lui fis bien savoir que mon consentement  
 Ne dépendrait jamais de son aveuglement,  
 Et que jusqu'au tombeau, quant à cet hyménée,  
-Je maintiendrais la foi que je t'avais donnée.  
-Ma soeur accortement feignait de l'écouter ; [2]  
+Je maintiendrais la foi que je t'avais donnée.   [2]
+Ma soeur accortement feignait de l'écouter ;  
 Non pas que son amour n'osât lui résister,  
 Mais elle voulait bien qu'un peu de jalousie  
 Sur quelque bruit léger piquât ta fantaisie :  
@@ -1707,8 +1707,8 @@ J'ai mis, grâces aux dieux, ma promesse en effet.
 Ainsi vous m'empêchez d'exécuter la mienne.  
 
     PHILISTE.
-Je ne puis empêcher que la vôtre ne tienne ;  
-Mais si jamais je trouve ici ce courratier, [3]  
+Je ne puis empêcher que la vôtre ne tienne ;   [3]
+Mais si jamais je trouve ici ce courratier,  
 Je lui saurai, madame, apprendre son métier.  
 
     CHRYSANTE.
@@ -1863,8 +1863,8 @@ Cocher, attends-nous là.
     CLARICE.
         D'où provient ce murmure ?  
 
-    ALCIDON.
-Il est temps d'avancer ; baissons le tapabord ; [4]  
+    ALCIDON. [4]
+Il est temps d'avancer ; baissons le tapabord ;  
 Moins nous ferons de bruit, moins il faudra d'effort.  
 
     CLARICE.
@@ -2786,8 +2786,8 @@ Les pistoles dans peu feront sa délivrance,
 Pourvu qu'un prompt hymen succède à mes désirs.  
 
     CÉLIDAN.
-Que cette invention t'assure de plaisirs !  
-Une subtilité si dextrement tissue [5] [6]  
+Que cette invention t'assure de plaisirs !   [5] [6]
+Une subtilité si dextrement tissue  
 Ne peut jamais avoir qu'une admirable issue.  
 
     ALCIDON.
@@ -3172,8 +3172,8 @@ T'aurait pour récompense enlevé ta Doris.
 
     ALCIDON.
 Le désordre éclatant qu'on voit sur mon visage  
-N'est que l'effet trop prompt d'une soudaine rage.  
-Je forcène de voir que sur votre retour [7]  
+N'est que l'effet trop prompt d'une soudaine rage.   [7]
+Je forcène de voir que sur votre retour  
 Ce traître assure ainsi ma perte et son amour.  
 Perfide ! à mes dépens tu veux donc des maîtresses ?  
 Et mon honneur perdu te gagne leurs caresses ?  

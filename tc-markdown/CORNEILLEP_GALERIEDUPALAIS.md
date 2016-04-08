@@ -99,8 +99,8 @@ S'ils n'aperçoivent point que nous parlions nous deux.
     PLEIRANTE.
 Ne pense plus, ma fille, à me cacher ta flamme ;  
 N'en conçois point de honte, et n'en crains point de blâme :  
-Le sujet qui l'allume a des perfections  
-Dignes de posséder tes inclinations ; [1]  
+Le sujet qui l'allume a des perfections   [1]
+Dignes de posséder tes inclinations ;  
 Et pour mieux te montrer le fond de mon courage,  
 J'aime autant son esprit que tu fais son visage.  
 Confesse donc, ma fille, et crois qu'un si beau feu  
@@ -506,13 +506,13 @@ Quels insolents vers moi s'osent ainsi méprendre ?
     CLÉANTE.
 Je ne connais qu'un d'eux, et c'est là le retour  
 De quelques tours de main qu'il reçut l'autre jour,  
-Lorsque, m'ayant tenu quelques propos d'ivrogne,  
-Nous eûmes prise ensemble à l'Hôtel de Bourgogne. [2]  
+Lorsque, m'ayant tenu quelques propos d'ivrogne,   [2]
+Nous eûmes prise ensemble à l'Hôtel de Bourgogne.  
 
     DORIMANT.
 Qu'on le trouve où qu'il soit ; qu'une grêle de bois  
-Assemble sur lui seul le châtiment des trois ;  
-Et que sous l'étrivière il puisse tôt connaître, [3]  
+Assemble sur lui seul le châtiment des trois ;   [3]
+Et que sous l'étrivière il puisse tôt connaître,  
 Quand on se prend aux miens, qu'on s'attaque à leur maître !  
 
     LYSANDRE.
@@ -2447,8 +2447,8 @@ On joue ainsi le monde.
 
     LE MERCIER.
         Après tout ce langage,  
-Ne me repoussez pas mes boîtes davantage.  
-Votre caquet m'enlève à tous coups mes chalands ; [4]  
+Ne me repoussez pas mes boîtes davantage.   [4]
+Votre caquet m'enlève à tous coups mes chalands ;  
 Vous vendez dix rabats contre moi deux galants.  
 Pour conserver la paix, depuis six mois j'endure,  
 Sans vous en dire mot, sans le moindre murmure ;  

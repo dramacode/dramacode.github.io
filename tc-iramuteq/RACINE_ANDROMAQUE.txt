@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1697
+**** *book_ *id_I01 *act_I *date_1667 *creator_racine
 
 -*who_oreste
 Oui, puisque je retrouve un ami si fidèle,
@@ -169,7 +169,7 @@ Il vient.
       Hé bien, va donc disposer la cruelle
 À revoir un amant qui ne vient que pour elle.
 
-**** *book_ *id_I02 *act_I *date_1697
+**** *book_ *id_I02 *act_I *date_1667 *creator_racine
 
 -*who_oreste
 Avant que tous les Grecs vous parlent par ma voix,
@@ -294,7 +294,7 @@ Du sang qui vous unit je sais l'étroite chaîne.
 Après cela, Seigneur, je ne vous retiens plus,
 Et vous pourrez aux Grecs annoncer mon refus.
 
-**** *book_ *id_I03 *act_I *date_1697
+**** *book_ *id_I03 *act_I *date_1667 *creator_racine
 
 -*who_phoenix
 Ainsi vous l'envoyez aux pieds de sa maîtresse ?
@@ -319,7 +319,7 @@ Seigneur...
       Une autre fois je t'ouvrirai mon âme,
 Andromaque paraît.
 
-**** *book_ *id_I04 *act_I *date_1697
+**** *book_ *id_I04 *act_I *date_1667 *creator_racine
 
 -*who_pyrrhus
       Me cherchiez-vous, Madame ?
@@ -484,7 +484,7 @@ Ne prendra pas toujours sa colère pour guide.
 Pour savoir nos destins, j'irai vous retrouver.
 Madame, en l'embrassant, songez à le sauver.
 
-**** *book_ *id_II01 *act_II *date_1697
+**** *book_ *id_II01 *act_II *date_1667 *creator_racine
 
 -*who_hermione
 Je fais ce que tu veux. Je consens qu'il me voie,
@@ -610,7 +610,7 @@ Allons. Qu'il vienne enfin.
 -*who_hermione
 Ah ! Je ne croyais pas qu'il fût si près d'ici.
 
-**** *book_ *id_II02 *act_II *date_1697
+**** *book_ *id_II02 *act_II *date_1667 *creator_racine
 
 -*who_hermione
 Le croirai-je, Seigneur, qu'un reste de tendresse
@@ -772,7 +772,7 @@ Qu'il songe qui des deux, il veut rendre, ou garder.
 Enfin qu'il me renvoie, ou bien qu'il vous le livre.
 Adieu, s'il y consent, je suis prête à vous suivre.
 
-**** *book_ *id_II03 *act_II *date_1697
+**** *book_ *id_II03 *act_II *date_1667 *creator_racine
 
 -*who_oreste
 Oui, oui, vous me suivrez, n'en doutez nullement.
@@ -790,7 +790,7 @@ Perde à jamais tes bords et ton prince de vue.
 Mais un heureux destin le conduit en ces lieux.
 Parlons. À tant d'attraits, Amour, ferme ses yeux.
 
-**** *book_ *id_II04 *act_II *date_1697
+**** *book_ *id_II04 *act_II *date_1667 *creator_racine
 
 -*who_pyrrhus
 Je vous cherchais, Seigneur. Un peu de violence
@@ -821,7 +821,7 @@ J'attends, avec la paix, son coeur de votre main.
 -*who_oreste
 Ah dieux !
 
-**** *book_ *id_II05 *act_II *date_1697
+**** *book_ *id_II05 *act_II *date_1667 *creator_racine
 
 -*who_pyrrhus
       Hé bien, Phoenix, l'amour est-il le maître ?
@@ -951,7 +951,7 @@ Protestez-lui...
 -*who_pyrrhus
       Faisons tout ce que j'ai promis.
 
-**** *book_ *id_III01 *act_III *date_1697
+**** *book_ *id_III01 *act_III *date_1667 *creator_racine
 
 -*who_pylade
 Modérez donc, Seigneur, cette fureur extrême.
@@ -1092,7 +1092,7 @@ Oubliez votre amour. Elle vient, je la vois.
 -*who_oreste
 Va-t'en. Réponds-moi d'elle, et je réponds de moi.
 
-**** *book_ *id_III02 *act_III *date_1697
+**** *book_ *id_III02 *act_III *date_1667 *creator_racine
 
 -*who_oreste
 Hé bien ? mes soins vous ont rendu votre conquête.
@@ -1136,7 +1136,7 @@ Et pourquoi vous lasser d'une plainte importune ?
 Tel est votre devoir, je l'avoue. Et le mien
 Est de vous épargner un si triste entretien.
 
-**** *book_ *id_III03 *act_III *date_1697
+**** *book_ *id_III03 *act_III *date_1667 *creator_racine
 
 -*who_hermione
 Attendais-tu, Cléone, un courroux si modeste ?
@@ -1175,7 +1175,7 @@ Vient à vos pieds sans doute apporter ses douleurs.
 Dieux ! Ne puis-je à ma joie abandonner mon âme ?
 Sortons. Que lui dirais-je ?
 
-**** *book_ *id_III04 *act_III *date_1697
+**** *book_ *id_III04 *act_III *date_1667 *creator_racine
 
 -*who_andromaque
       Où fuyez-vous, Madame ?
@@ -1210,7 +1210,7 @@ S'il faut fléchir Pyrrhus, qui le peut mieux que vous ?
 Vos yeux assez longtemps ont régné sur son âme.
 Faites-le prononcer, j'y souscrirai, Madame.
 
-**** *book_ *id_III05 *act_III *date_1697
+**** *book_ *id_III05 *act_III *date_1667 *creator_racine
 
 -*who_andromaque
 Quel mépris la cruelle attache à ses refus !
@@ -1220,7 +1220,7 @@ Je croirais ses conseils, et je verrais Pyrrhus.
 Un regard confondrait Hermione et la Grèce...
 Mais lui-même il vous cherche.
 
-**** *book_ *id_III06 *act_III *date_1697
+**** *book_ *id_III06 *act_III *date_1667 *creator_racine
 
 -*who_pyrrhus
       Où donc est la princesse ?
@@ -1334,7 +1334,7 @@ Il ne séparât point des dépouilles si chères !
 -*who_pyrrhus
 Va m'attendre, Phoenix.
 
-**** *book_ *id_III07 *act_III *date_1697
+**** *book_ *id_III07 *act_III *date_1667 *creator_racine
 
 -*who_pyrrhus
       Madame, demeurez.
@@ -1368,7 +1368,7 @@ Pour vous mener au temple, où ce fils doit m'attendre.
 Et là vous me verrez soumis, ou furieux,
 Vous couronner, Madame, ou le perdre à vos yeux.
 
-**** *book_ *id_III08 *act_III *date_1697
+**** *book_ *id_III08 *act_III *date_1667 *creator_racine
 
 -*who_cephise
 Je vous l'avais prédit, qu'en dépit de la Grèce,
@@ -1477,7 +1477,7 @@ Allons.
 -*who_andromaque
 Allons, sur son tombeau consulter mon époux.
 
-**** *book_ *id_IV01 *act_IV *date_1697
+**** *book_ *id_IV01 *act_IV *date_1667 *creator_racine
 
 -*who_cephise
 Ah ! Je n'en doute point. C'est votre époux Madame,
@@ -1582,7 +1582,7 @@ On vient. Cache tes pleurs, Céphise, et souviens-toi
 Que le sort d'Andromaque est commis à ta foi.
 C'est Hermione. Allons, fuyons sa violence.
 
-**** *book_ *id_IV02 *act_IV *date_1697
+**** *book_ *id_IV02 *act_IV *date_1667 *creator_racine
 
 -*who_cleone
 Non, je ne puis assez admirer ce silence.
@@ -1609,7 +1609,7 @@ Prêt à servir toujours sans espoir de salaire,
 Vos yeux ne sont que trop assurés de lui plaire.
 Mais il entre.
 
-**** *book_ *id_IV03 *act_IV *date_1697
+**** *book_ *id_IV03 *act_IV *date_1667 *creator_racine
 
 -*who_oreste
       Ah Madame ! Est-il vrai qu'une fois
@@ -1762,7 +1762,7 @@ Et vous reconnaîtrez mes soins, si vous voulez.
 Allez. De votre sort laissez-moi la conduite.
 Et que tous vos vaisseaux soient prêts pour notre fuite.
 
-**** *book_ *id_IV04 *act_IV *date_1697
+**** *book_ *id_IV04 *act_IV *date_1667 *creator_racine
 
 -*who_cleone
 Vous vous perdez, Madame. Et vous devez songer...
@@ -1792,7 +1792,7 @@ Je vous obéirai. Mais qu'est-ce que je vois ?
 Ah ! Cours après Oreste, et dis-lui, ma Cléone,
 Qu'il n'entreprenne rien sans revoir Hermione.
 
-**** *book_ *id_IV05 *act_IV *date_1697
+**** *book_ *id_IV05 *act_IV *date_1667 *creator_racine
 
 -*who_pyrrhus
 Vous ne m'attendiez pas, Madame, et je vois bien
@@ -1914,7 +1914,7 @@ Que les mêmes serments avec moi t'ont lié.
 Porte aux pieds des autels ce coeur qui m'abandonne.
 Va, cours. Mais crains encor d'y trouver Hermione.
 
-**** *book_ *id_IV06 *act_IV *date_1697
+**** *book_ *id_IV06 *act_IV *date_1667 *creator_racine
 
 -*who_phoenix
 Seigneur, vous entendez. Gardez de négliger
@@ -1926,7 +1926,7 @@ Oreste l'aime encore. Et peut-être à ce prix...
 -*who_pyrrhus
 Andromaque m'attend. Phoenix, garde son fils.
 
-**** *book_ *id_V01 *act_V *date_1697
+**** *book_ *id_V01 *act_V *date_1667 *creator_racine
 
 -*who_hermione
 Où suis-je ? Qu'ai-je fait ? Que dois-je faire encore ?
@@ -1967,7 +1967,7 @@ Je n'ai donc traversé tant de mers, tant d'États,
 Que pour venir si loin préparer son trépas ?
 L'assassiner, le perdre ? Ah ! Devant qu'il expire...
 
-**** *book_ *id_V02 *act_V *date_1697
+**** *book_ *id_V02 *act_V *date_1667 *creator_racine
 
 -*who_hermione
 Ah ! Qu'ai-je fait, Cléone ? Et que viens-tu me dire ?
@@ -2057,7 +2057,7 @@ Tout me sera Pyrrhus, fût-ce Oreste lui-même.
 Je mourrai. Mais au moins ma mort me vengera,
 Je ne mourrai pas seule, et quelqu'un me suivra.
 
-**** *book_ *id_V03 *act_V *date_1697
+**** *book_ *id_V03 *act_V *date_1667 *creator_racine
 
 -*who_oreste
 Madame, c'en est fait, et vous êtes servie.
@@ -2151,7 +2151,7 @@ Je renonce à la Grèce, à Sparte, à son empire,
 À toute ma famille. Et c'est assez pour moi,
 Traître, qu'elle ait produit un monstre comme toi.
 
-**** *book_ *id_V04 *act_V *date_1697
+**** *book_ *id_V04 *act_V *date_1667 *creator_racine
 
 -*who_oreste
 Que vois-je ? Est-ce Hermione ? Et que viens-je d'entendre ?
@@ -2173,7 +2173,7 @@ Je la vois pour jamais s'éloigner de mes yeux,
 Et l'ingrate, en fuyant, me laisse pour salaire
 Tous les noms odieux que j'ai pris pour lui plaire.
 
-**** *book_ *id_V05 *act_V *date_1697
+**** *book_ *id_V05 *act_V *date_1667 *creator_racine
 
 -*who_pylade
 Il faut partir, Seigneur. Sortons de ce palais,

@@ -54,8 +54,8 @@ Madame excusez-moi, si je vous interromps ;
 Mais le soleil ici donne sur nous à plomb,  
 Sans parasol, sans mante, au Soleil, à telle heure,  
 Être au cours, c'est jouer à se perdre, ou je meure,  
-Voulez-vous faire ici de l'astre radieux,  
-Et de votre bel oeil morguer celui des cieux ? [1]  
+Voulez-vous faire ici de l'astre radieux,   [1]
+Et de votre bel oeil morguer celui des cieux ?  
 Sauf l'honneur que je dois à votre noble essence,  
 Ce dessein romanesque a de l'extravagance.  
 
@@ -155,8 +155,8 @@ Qu'il décline son nom, son pays, sa naissance ;
 Il est temps qu'à son tour, il fasse quelque avance.  
 S'il a ce qu'il vous faut, un Notaire, un Curé ;  
 S'il n'est pas ce qu'on croit, fît-il bien l'éploré,  
-Fermez-lui votre porte, et m'en cherchez un autre,  
-Dont vous serez le fait, comme il sera le vôtre. [2]  
+Fermez-lui votre porte, et m'en cherchez un autre,   [2]
+Dont vous serez le fait, comme il sera le vôtre.  
 
     STÉFANIE.
 Je sais que bien souvent, il se promène ici.  
@@ -169,8 +169,8 @@ Et que pour me connaître, il vienne m'approcher.
 Qu'espérez-vous par là ?  
 
     STÉFANIE.
-        Je lui veux reprocher,  
-Qu'il donne à tout. [3]  
+        Je lui veux reprocher,   [3]
+Qu'il donne à tout.  
 
     LOUISE.
         Ma foi, ce n'est pas gain de cause,  
@@ -188,8 +188,8 @@ Par ma foi, je le tiens aussi fourbe que nous.
     STÉFANIE.
 Mais il n'est pas aussi le seul but de mes coups.  
 
-    LOUISE.
-Ce financier coquet, que vous couchiez en joue, [4]  
+    LOUISE. [4]
+Ce financier coquet, que vous couchiez en joue,  
 Et qui ne vous hait pas, le valait bien.  
 
     STÉFANIE.
@@ -302,16 +302,16 @@ Comment se porte-t-il ?
 Au reste, avant l'hymen le Seigneur est jaloux,  
 Sa lettre qu'il m'a lue, et que je vous apporte,  
 Vous fera voir comment son Marquisat se porte,  
-Il prétend se cacher quelque temps dans Madrid,  
-Faisant la guerre à l'oeil, s'éclaircissant l'esprit [5]  
+Il prétend se cacher quelque temps dans Madrid,   [5]
+Faisant la guerre à l'oeil, s'éclaircissant l'esprit  
 Du renom, et des moeurs de l'épouse promise,  
 Qui payera bien cher le titre de Marquise.  
 
     DON SANCHE.
 La femme qu'il prendra, doit bien se préparer  
 À mal passer son temps, et beaucoup endurer.  
-J'avais comme tu vois aujourd'hui pris la botte,  
-Pour aller au-devant de ce franc Don Quichotte. [6]  
+J'avais comme tu vois aujourd'hui pris la botte,   [6]
+Pour aller au-devant de ce franc Don Quichotte.  
 
     MERLIN.
 Vous l'avez mieux nommé que vous n'avez pensé.  
@@ -366,8 +366,8 @@ Quand j'y rêve, elle croit, comme elle est vaine et belle,
 Que je ne puis rêver pour autre que pour elle,  
 Et lorsque je me tais par taciturnité,  
 Que c'est par le respect que j'ai pour sa beauté.  
-Je lui dis des douceurs, qui ne me coûtent guère,  
-Et souvent je me plais de lui rompre en visière [7]  
+Je lui dis des douceurs, qui ne me coûtent guère,   [7]
+Et souvent je me plais de lui rompre en visière  
 Pour diversifier la conversation,  
 Ou faisant le jaloux par ostentation,  
 J'ai le plaisir de voir comment elle s'efforce,  
@@ -402,8 +402,8 @@ La Dame, ou je me trompe, est faible de cerveau.
 Et mille en cette Cour avecque moins de charmes,  
 Se font rendre tribut de soupirs, et de larmes.  
 
-    MERLIN.
-Elle est fort mal en meuble, et je gagerais bien [8]  
+    MERLIN. [8]
+Elle est fort mal en meuble, et je gagerais bien  
 Qu'elle est franche friponne, et qu'elle ne vaut rien,  
 L'autre jour sa suivante, en colère contre elle,  
 Disait tout haut qu'à peine elle était Damoiselle.  
@@ -459,8 +459,8 @@ Et quelle est la beauté qu'il adore à la cour ?
     MERLIN.
 On vous a donc appris l'objet de son amour ?  
 À part.
-
-Je viens de lui donner du martel. [9]  
+ [9]
+Je viens de lui donner du martel.  
 
     STÉFANIE, À PART.
         Ha le traître !  
@@ -480,8 +480,8 @@ Le diamant est bon ?
     Fort bon.  
 
     MERLIN.
-        Un peu jaunâtre.  
-Bas de Bizot ? [10]  
+        Un peu jaunâtre.   [10]
+Bas de Bizot ?  
 
     LOUISE.
         Vois-tu, l'on te bat comme plâtre,  
@@ -501,8 +501,8 @@ Et sage au dernier point m'a toujours fait secret ;
 Mais comme les Valets ont l'âme curieuse,  
 Et que je vous connais Dame très généreuse,  
 Je veux vous avouer avec sincérité,  
-Que quant à son pays, son bien, sa qualité,  
-Quoique votre présent j'aye bien voulu prendre. [11]  
+Que quant à son pays, son bien, sa qualité,   [11]
+Quoique votre présent j'aye bien voulu prendre.  
 Il s'enfuit.
 
 Je n'en sais rien du tout, et n'en puis rien apprendre.  
@@ -538,8 +538,8 @@ Je suis dans Madrid, et qui pis est, j'y suis pour me marier. J'ai grand peur, q
     LOUISE.
 A-t-on jamais écrit plus extravagamment ;  
 En des termes plus bas, avec moins d'agrément ?  
-Le style répond mal à l'esprit de Don Sanche.  
-Avez-vous remarqué CE MOUCHE SUR LA MANCHE ? [12]  
+Le style répond mal à l'esprit de Don Sanche.   [12]
+Avez-vous remarqué CE MOUCHE SUR LA MANCHE ?  
 
     STÉFANIE.
 On écrit mal parfois, quoique l'on parle bien.  
@@ -636,11 +636,11 @@ Malheur sur le Marquis qui nous a pris pour dupe.
 ## SCÈNE PREMIÈRE. Blanche, Lizette.
 
     LISETTE.
-Pour moi quand vos chevaux s'emporteront si fort,  
-Je dis mon in manus, et j'attendis la mort. [13]  
+Pour moi quand vos chevaux s'emporteront si fort,   [13]
+Je dis mon in manus, et j'attendis la mort.  
 Si je ne l'avais vu, je croirais impossible  
-Que la peur fît en nous un effet si terrible ;  
-Car vous chutes sur moi, sans pouls, sans sentiment, [14]  
+Que la peur fît en nous un effet si terrible ;   [14]
+Car vous chutes sur moi, sans pouls, sans sentiment,  
 Et j'en suis pâle encor d'y songer seulement.  
 
     BLANCHE.
@@ -803,8 +803,8 @@ Madame de la part. Mais...
         Que demandez-vous ?  
 
     MERLIN, À PART.
-Je suis pris. Un laquais était venu chez nous.  
-Demander un juillep pour votre fille morte, [15]  
+Je suis pris. Un laquais était venu chez nous.   [15]
+Demander un juillep pour votre fille morte,  
 Je suis apothicaire, et c'est ce que j'apporte.  
 
     DON COSME.
@@ -865,8 +865,8 @@ Tu sais où le trouver ?
     Oui, Monsieur ?  
 
     DON COSME.
-        C'est assez.  
-Ajustez-vous ma fille, et vous réjouissez, [16]  
+        C'est assez.   [16]
+Ajustez-vous ma fille, et vous réjouissez,  
 Je prétends dès ce soir achever votre noce.  
 Qu'on mette vivement les chevaux au carrosse.  
 Lizette, et vous ma fille obtenez dessus vous,  
@@ -922,8 +922,8 @@ Mais j'ai cru vous devoir au moins une visite,
 Ou plutôt je l'ai cru devoir à mon repos,  
 Puisque éloigné de vous j'endure mille maux.  
 
-    BLANCHE.
-Bien que j'aye pour vous toute sorte d'estime, [17]  
+    BLANCHE. [17]
+Bien que j'aye pour vous toute sorte d'estime,  
 Je ne puis plus longtemps vous écouter sans crime,  
 Vous revoir, c'est manquer à ce que je me dois,  
 Et peu faire pour vous ; mais beaucoup contre moi.  
@@ -986,8 +986,8 @@ M'entendez-vous ?
 Comme Maître absolu.  
 
     DON BLAIZE.
-        Je l'entends bien ainsi.  
-Mon beau-père, notez, que vous avez la draitte, [18]  
+        Je l'entends bien ainsi.   [18]
+Mon beau-père, notez, que vous avez la draitte,  
 Notez de la façon qu'avecque vous je traite :  
 Je ne la donne pas à tous, en bonne foi.  
 Et ce rencontre ici ne fait pas une loi.  
@@ -1021,8 +1021,8 @@ Madame !
 La Cour pourra changer le style, et l'air des champs.  
 
     DON BLAIZE.
-Vous êtes un long temps, me semble, à me répondre,  
-Devrait-on là-dessus avoir à vous semondre ? [19]  
+Vous êtes un long temps, me semble, à me répondre,   [19]
+Devrait-on là-dessus avoir à vous semondre ?  
 
     BLANCHE.
 Quand bien on m'offrirait ce qui ne se peut pas,  
@@ -1057,8 +1057,8 @@ Ordugno !
     DON BLAIZE.
 Mais à bon chat bon rat, j'en tiens pareillement.  
 Ordugno ! La maison me choque en sa structure,  
-Il en faudrait changer toute l'architecture,  
-La chambre est en bicoin, tout au moins il faudrait [20]  
+Il en faudrait changer toute l'architecture,   [20]
+La chambre est en bicoin, tout au moins il faudrait  
 Abattre l'angle aigu, pour en faire un droit.  
 Ordugno !  
 
@@ -1169,8 +1169,8 @@ Ha Lizette !
     LISETTE.
         Ha Madame ! À quelle destinée  
 Vous réduit votre père avec son hyménée.  
-Avait-il de bons yeux quand il vous a choisi  
-Ce Marquis campagnard, fantasque en cramoisi ? [21]  
+Avait-il de bons yeux quand il vous a choisi   [21]
+Ce Marquis campagnard, fantasque en cramoisi ?  
 
     BLANCHE.
 Ha ! Ne m'en parle point qu'avec respect Lizette,  
@@ -1286,8 +1286,8 @@ Qui contre l'ordre exprès à lui par moi donné,
 À lui frère cadet par moi son frère aîné ;  
 Qui contre l'ordre donc, porté dans ma missive,  
 De ne révéler pas à personne qui vive  
-Que je suis dans Madrid, a d'abord découvert  
-L'infaillible moyen de me prendre sans vert. [22]  
+Que je suis dans Madrid, a d'abord découvert   [22]
+L'infaillible moyen de me prendre sans vert.  
 
     ORDUGNO.
 Et qu'ordonniez-vous à Don Sanche ?  
@@ -1608,8 +1608,8 @@ Sortir.
     DON BLAIZE.
 Parle pour toi croquant. Sais-tu bien ce qu'engendre  
 L'indulgence d'un Maître au valet bon à pendre ?  
-Certaines libertés, qui lassent à la fin.  
-Et qui font tôt ou tard qu'on le traite en faquin : [23]  
+Certaines libertés, qui lassent à la fin.   [23]
+Et qui font tôt ou tard qu'on le traite en faquin :  
 Va quérir mon épée, et prends aussi la tienne,  
 Et lanterne, et poignard.  
 
@@ -1630,12 +1630,12 @@ Si tard ?
         Tu le sauras devant que la nuit passe,  
 D'où viens-tu toi ?  
 
-    MERLIN.
-        Je viens de perdre à tope et masse [24]  
+    MERLIN. [24]
+        Je viens de perdre à tope et masse  
 Un petit diamant, dont m'avait fait régal  
 La belle Stéfanie honneur de Portugal :  
-Il n'en est pas au monde une plus folle qu'elle,  
-Je la viens de trouver avec sa séquelle, [25]  
+Il n'en est pas au monde une plus folle qu'elle,   [25]
+Je la viens de trouver avec sa séquelle,  
 C'est-à-dire Louise, et son Olivares,  
 Assiégeant ce logis, et de loin et de près.  
 Elle, ou quelqu'un des siens, n'en quitte pas la porte  
@@ -1646,9 +1646,9 @@ Elle m'a fait sur vous mille et mille demandes,
 Quand elle m'aurait fait autant de réprimandes,  
 Je crois sur mon honneur, qu'elle m'eût moins pesé,  
 Quelqu'un dans son esprit vous a démarquisé,  
-Je l'en trouve pour vous un peu moins échauffée,  
-Et même je la tiens de Don Blaize coiffée, [26]  
-Et que c'est pour lui seul qu'elle bat le pavé. [27]  
+Je l'en trouve pour vous un peu moins échauffée,   [26]
+Et même je la tiens de Don Blaize coiffée,   [27]
+Et que c'est pour lui seul qu'elle bat le pavé.  
 
     DON SANCHE.
 Je voudrais de bon coeur qu'elle l'eut enlevé.  
@@ -1658,8 +1658,8 @@ Le Marquisat sans doute a donné dans son tendre,
 Un Marquisat aussi n'est pas mauvais à prendre.  
 
     DON SANCHE.
-Plût à Dieu que ses yeux fissent un même effet  
-Sur ce cher frère aîné, qui serait bien son fait, [28]  
+Plût à Dieu que ses yeux fissent un même effet   [28]
+Sur ce cher frère aîné, qui serait bien son fait,  
 Et que d'elle amoureux, il me cédât mon ange.  
 
     MERLIN.
@@ -1668,8 +1668,8 @@ Mais songez vous encore à la prise d'un coeur
 Si régulièrement retranché dans l'honneur,  
 Un coeur, qu'on peut nommer la plus dure des roches,  
 Qui ne peut pas souffrir seulement des approches.  
-Vous m'allez alléguer ses yeux astres jumeaux.  
-D'accord ; mais c'est tirer votre poudre aux moineaux. [29]  
+Vous m'allez alléguer ses yeux astres jumeaux.   [29]
+D'accord ; mais c'est tirer votre poudre aux moineaux.  
 
     DON SANCHE.
 À peine croiras-tu Merlin ! Par quelle voie,  
@@ -1765,8 +1765,8 @@ Si le prend dans Madrid belle ni laide femme.
 Comment ! Un étranger y paraît-il, soudain  
 Les femmes du pays le courent comme un daim.  
 Mon frère, justement au sortir de la porte,  
-Deux dames de qui l'une à l'autre sert d'escorte,  
-Et certain Quinola qui sert à la mener, [30]  
+Deux dames de qui l'une à l'autre sert d'escorte,   [30]
+Et certain Quinola qui sert à la mener,  
 Comme un lièvre gîté me sont venu tourner ;  
 Et celle qui des deux m'a paru la Maîtresse,  
 D'une démarche fière, et d'un air de Princesse,  
@@ -1819,8 +1819,8 @@ Et ceux de votre train ?
 On ne se défait pas de tels habits sans perte ?  
 
     DON BLAIZE.
-Veux-tu que je me jette en une fosse ouverte ?  
-Et qu'étant marié, je sois encornaillé ? [31]  
+Veux-tu que je me jette en une fosse ouverte ?   [31]
+Et qu'étant marié, je sois encornaillé ?  
 Mais d'un bien plus grand soin je me sens travaillé,  
 Il faudra que je trouve une excuse valable  
 À Don Cosme, un vieillard d'une humeur détestable.  
@@ -1830,8 +1830,8 @@ Qui ne manquera pas de louer ma prudence ;
 Qui dira, quoiqu'il perde en ma chère alliance,  
 Qu'il rompra mon Hymen tout comme il me plaira ;  
 Et dans le même temps qu'il me le promettra,  
-Le malheureux qu'il est, quoi que je puisse faire,  
-Malgré mes dents et moi se fera mon beau-père. [32]  
+Le malheureux qu'il est, quoi que je puisse faire,   [32]
+Malgré mes dents et moi se fera mon beau-père.  
 Mortel, est-il jamais un embarras pareil ;  
 Mais la nuit là-dessus nous donnera conseil.  
 Vous ne laisserez pas de toute votre adresse,  
@@ -1986,8 +1986,8 @@ Tu me verras Marquise, ou bien je périrai.
 Ma foi, vous le serez comme je volerai.  
 
     STÉFANIE.
-N'ai-je pas plaisamment attrapé la peinture,  
-L'aimable marmouset de l'épouse future ? [33]  
+N'ai-je pas plaisamment attrapé la peinture,   [33]
+L'aimable marmouset de l'épouse future ?  
 
     OLIVARES.
 Quel bien vous viendra-t-il d'avoir pris un portrait ?  
@@ -1995,8 +1995,8 @@ Quel bien vous viendra-t-il d'avoir pris un portrait ?
     STÉFANIE.
 J'en aurai du plaisir.  
 
-    OLIVARES.
-        J'en aurai du cotret. [34]  
+    OLIVARES. [34]
+        J'en aurai du cotret.  
 
     STÉFANIE.
 Homme de peu de foi !  
@@ -2194,8 +2194,8 @@ Ma jeunesse crédule, et mon âme trop tendre,
 Ma folle vanité trop aisée à surprendre.  
 Enfin tout ce que peut d'ennemis assembler  
 La rigueur d'un destin qui voulait m'accabler,  
-Favorisa si bien les desseins de ce traître,  
-Que je ne puis l'haïr quelque ingrat qu'il puisse être, [35]  
+Favorisa si bien les desseins de ce traître,   [35]
+Que je ne puis l'haïr quelque ingrat qu'il puisse être,  
 Qu'il obtint... mais hélas ma rougeur, et mes pleurs  
 Vous déclarent assez jusqu'où vont mes malheurs :  
 Mais aussi, je vous suis encor si peu connue,  
@@ -2261,17 +2261,17 @@ Si j'allais emprunter, ou louer un carrosse,
 Pour aller à l'Église, au lieu d'en avoir un  
 En propre, et d'un ouvrage au-delà du commun :  
 Si Blanche en pareil jour était si mal en ordre,  
-Que le moindre bourgeois y pût trouver à mordre :  
-Enfin si j'épousait votre fille en gredin, [36]  
-Ne me croirait-on pas un fou, vous un badin ? [37]  
+Que le moindre bourgeois y pût trouver à mordre :   [36]
+Enfin si j'épousait votre fille en gredin,   [37]
+Ne me croirait-on pas un fou, vous un badin ?  
 Ne passerais-je pas, ô trop hâté Don Cosme !  
 Pour le plus grand vilain qui soit dans le Royaume,  
 Ne serais-je pas fat, et même plus que vous ?  
 (Ceci soit dit pourtant sans vous mettre en courroux)  
 Si je ne rendais pas célèbre la journée  
 Qui se pourra vanter de mon noble Hyménée.  
-Je veux que bals, festins, musiques, et taureaux,  
-Carrousels, et combats de barrière aux flambeaux, [38]  
+Je veux que bals, festins, musiques, et taureaux,   [38]
+Carrousels, et combats de barrière aux flambeaux,  
 Fassent parler en Cour de ma magnificence :  
 Je différerai donc avec votre licence.  
 
@@ -2296,8 +2296,8 @@ Je ne refuse rien.
     DON COSME.
 Ha non.  
 
-    DON BLAIZE.
-        Ô mal plaisant vieillard, s'il en fut onc ? [39]  
+    DON BLAIZE. [39]
+        Ô mal plaisant vieillard, s'il en fut onc ?  
 Voulez-vous différer ou non ?  
 
     DON COSME.
@@ -2351,8 +2351,8 @@ J'ai reçu là-dessus des avis importants.
 Je ne puis différer.  
 
     DON BLAIZE.
-        Quel détestable flegme !  
-Ha dites-moi plutôt quelque vieil apophtegme, [40]  
+        Quel détestable flegme !   [40]
+Ha dites-moi plutôt quelque vieil apophtegme,  
 De ceux dont vous m'avez tantôt assassiné.  
 
     DON COSME.
@@ -2636,8 +2636,8 @@ Si j'étais, comme vous, beau comme Cupidon ;
 Si j'avais, comme vous, un satyre pour frère ;  
 Si j'avais, comme vous, des qualités à plaire ;  
 Si Blanche, comme à vous, me faisait les doux yeux,  
-Si l'amour, comme vous, me rendait furieux ;  
-Je pousserais ma pointe, il n'est frère qui tienne, [41]  
+Si l'amour, comme vous, me rendait furieux ;   [41]
+Je pousserais ma pointe, il n'est frère qui tienne,  
 Tant que je verrais Blanche en espoir d'être mienne,  
 Et lorsque je verrais la belle en d'autre bras,  
 J'en serais bien fâché ; mais je n'en mourrais pas.  
@@ -2792,21 +2792,21 @@ Ce riche don du Ciel, cette chère moitié,
 Et digne de mon choix et de mon amitié ;  
 Contre qui vos serments, vos prières, vos larmes  
 N'ont été, dites-vous, que d'inutiles armes ;  
-Qui vous a fait sentir les traits de son courroux ;  
-Que vous n'espérez pas de rapaiser sans nous. [42]  
-Vous courez donc ainsi sur le marché d'un frère ? [43]  
+Qui vous a fait sentir les traits de son courroux ;   [42]
+Que vous n'espérez pas de rapaiser sans nous.   [43]
+Vous courez donc ainsi sur le marché d'un frère ?  
 
     DON SANCHE.
 Et ne m'avez-vous pas commandé de le faire ?  
 De lui porter dans l'âme un sentiment d'amour ?  
 
-    DON BLAIZE.
-Et c'est dont je me plains, Godelureau de Cour ! [44]  
+    DON BLAIZE. [44]
+Et c'est dont je me plains, Godelureau de Cour !  
 Je vous avais bien dit, de lui parler de flamme,  
-Afin de découvrir ce qu'elle avait dans l'âme ;  
-Mais de la coqueter, comme vous l'avez fait, [45]  
-Ha ! C'est une action d'infidèle cadet.  
-Ma foi, de la façon qu'il me l'a muguetée, [46]  
+Afin de découvrir ce qu'elle avait dans l'âme ;   [45]
+Mais de la coqueter, comme vous l'avez fait,  
+Ha ! C'est une action d'infidèle cadet.   [46]
+Ma foi, de la façon qu'il me l'a muguetée,  
 De la place où j'étais, j'avais l'âme tentée.  
 Le fripon lui tirait ses coups à bout portant,  
 La plus laide guenon qui m'en dirait autant,  
@@ -2850,8 +2850,8 @@ Comme si le galon ne m'avait rien coûté ;
 Tu me l'as conseillé, confident éventé !  
 Et de charger mon train de laquais et de pages,  
 Mais je me vengerai sur l'argent de tes gages.  
-Allons chercher Don Cosme et cependant, cadet,  
-Puisque je le permets, poussez votre bidet. [47]  
+Allons chercher Don Cosme et cependant, cadet,   [47]
+Puisque je le permets, poussez votre bidet.  
 À part.
 
 J'ai d'étranges soupçons de ce cher petit frère.  
@@ -2916,9 +2916,9 @@ Ne l'ont jamais value avecque leur prouesse :
 Lucrèce avec Tarquin se donna du bon temps,  
 Et l'autre se brûla la gorge à contretemps.  
 Dieu ! Qu'elle est raisonnable et qu'elle est forte en bouche,  
-Celle que je croyais une sainte N'y touche.  
-Ma foi je me marie au son de maint rebec, [48]  
-Et Don Sanche n'aura qu'à s'en torcher le bec, [49]  
+Celle que je croyais une sainte N'y touche.   [48]
+Ma foi je me marie au son de maint rebec,   [49]
+Et Don Sanche n'aura qu'à s'en torcher le bec,  
 Je veux dès cette nuit avec grande énergie,  
 Ébaucher en draps blancs ma généalogie ;  
 Et cependant cadet, vous ferez là-dessus,  
@@ -3033,8 +3033,8 @@ Que tu verras bientôt ta Maîtresse Marquise.
     LOUISE.
 Don Cosme lit.
 
-Mais si l'on va savoir que vous ne soyez pas  
-La fille du vieillard, la machine est à bas ; [50]  
+Mais si l'on va savoir que vous ne soyez pas   [50]
+La fille du vieillard, la machine est à bas ;  
 C'est à vous d'y penser.  
 
     STÉFANIE.
@@ -3273,8 +3273,8 @@ Tes injustes rigueurs durent-elles encore ?
 Belle qui pleureux tant, inconnue à mes yeux,  
 Voudriez-vous pleurer moins, ou vous expliquer mieux ?  
 
-    STÉFANIE, LUI SAUTANT AUX YEUX.
-Tu ne me connais pas ingrat ? Ha ! Tout à l'heure. [51]  
+    STÉFANIE, LUI SAUTANT AUX YEUX. [51]
+Tu ne me connais pas ingrat ? Ha ! Tout à l'heure.  
 Il faut que je t'étrangle, ou qu'un de nous deux meure.  
 
     DON BLAIZE.
@@ -3349,16 +3349,16 @@ Mon front serait gâté s'il devenait cornu,
 Et je n'épouse point de visage inconnu.  
 Don Blaize, il faut quitter cette maudite terre,  
 Où tout le genre humain me déclare la guerre ;  
-Où l'on voit tant de fous ; où l'on force les gens  
-Au fâcheux joug d'hymen, même malgré leurs dents. [52]  
+Où l'on voit tant de fous ; où l'on force les gens   [52]
+Au fâcheux joug d'hymen, même malgré leurs dents.  
 Don Cosme pour t'avoir ma maudite promesse,  
 Et pour n'épouser pas ta fille, ou ta Comtesse,  
 Un dangereux dragon, qui m'a pris au gosier,  
 Et qui me dérobant certain portrait hier,  
 M'égratigna les mains (je reconnais sa taille,)  
 Et je gagerais bien, que ce n'est rien qui vaille :  
-Pour m'en délivrer donc, et partir à l'instant,  
-Je veux bien qu'il m'en coûte un peu d'argent comptant. [53] [54]  
+Pour m'en délivrer donc, et partir à l'instant,   [53] [54]
+Je veux bien qu'il m'en coûte un peu d'argent comptant.  
 
     DON COSME, À STÉFANIE.
 Il le faut prendre au mot, vous ne sauriez mieux faire.  

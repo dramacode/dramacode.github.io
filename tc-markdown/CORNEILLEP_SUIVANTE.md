@@ -37,8 +37,8 @@ Représenté pour la première fois zn 1634 au Théâtre de l'Hôtel de Bourgogn
 ## SCÈNE PREMIÈRE.
 
     DAMON.
-Ami, j'ai beau rêver, toute ma rêverie  
-Ne me fait rien comprendre en ta galanterie. [1]  
+Ami, j'ai beau rêver, toute ma rêverie   [1]
+Ne me fait rien comprendre en ta galanterie.  
 Auprès de ta maîtresse engager un ami,  
 C'est, à mon jugement, ne l'aimer qu'à demi.  
 Ton humeur qui s'en lasse au changement l'invite ;  
@@ -54,8 +54,8 @@ Que mon amour ne cède à mon ambition.
 Ainsi, malgré l'ardeur qui pour elle me presse,  
 À la fin j'ai levé les yeux sur sa maîtresse,  
 Où mon dessein, plus haut et plus laborieux,  
-Se promet des succès beaucoup plus glorieux.  
-Mais lors, soit qu'Amarante eût pour moi quelque flamme, [2]  
+Se promet des succès beaucoup plus glorieux.   [2]
+Mais lors, soit qu'Amarante eût pour moi quelque flamme,  
 Soit qu'elle pénétrât jusqu'au fond de mon âme,  
 Et que malicieuse elle prît du plaisir  
 À rompre les effets de mon nouveau désir,  
@@ -182,8 +182,8 @@ Et même ces raisons sont-elles de saison ?
 Si Daphnis doit rougir en brûlant pour Florame,  
 Qui l'en affranchirait en secondant ma flamme ?  
 Étant tous deux égaux, il faut bien que nos feux  
-Lui fassent même honte, ou même honneur tous deux :  
-Ou tous deux nous formons un dessein téméraire, [3]  
+Lui fassent même honte, ou même honneur tous deux :   [3]
+Ou tous deux nous formons un dessein téméraire,  
 Ou nous avons tous deux même droit de lui plaire.  
 Si l'espoir m'est permis, il y peut aspirer ;  
 Et s'il prétend trop haut, je dois désespérer.  
