@@ -1138,7 +1138,7 @@ Est-il donc possible, Monsieur, que vos Censeurs se persuadent, qu'il n'y a pres
  – Fernand,Gentilhomme Sicilien, Confident d'Alphonse.
  – Selim,domestique de Haly.
 La Scene est en Alger. [162]
-
+ 
 
 
 ## ACTE PREMIER.
@@ -1305,7 +1305,7 @@ Le Roy… mais il arrive.
 
 ### SCENE DEUXIEME.
 LE ROY, ALPHONSE, FERNAND.
-
+ 
 
     LE ROY.
         Alphonse, approchez-vous [188],  
@@ -1607,7 +1607,7 @@ FIN DU PREMIER ACTE.
 
 ### SCENE PREMIERE.
 CLARICE, HALY.
-
+ 
 
     HALY.
 Que faites-vous, Madame, helas ! à quel dessein⁎  
@@ -1723,8 +1723,8 @@ De quelque bon succez un asseuré presage.
 
 
 ### SCENE TROISIEME.
-LA REYNE, ALPHONSE, CLARICE, HALY, FERNAND.****
-
+LA REYNE, ALPHONSE, CLARICE, HALY, FERNAND.
+ 
 
     ALPHONSE.
 Hé bien ! Madame, enfin faut-il vivre ou mourir ?  
@@ -1845,8 +1845,8 @@ Haly, retirez-vous, sans les perdre de veüe.
 
 
 ### SCENE QUATRIEME.
-ALPHONSE, CLARICE, FERNAND.****
-
+ALPHONSE, CLARICE, FERNAND.
+ 
 
     ALPHONSE.
 Ha ! malheureux depart.  
@@ -2141,7 +2141,7 @@ FIN DU SECOND ACTE.
 
 ### SCENE PREMIERE.
 LE ROY, LA REYNE.
-
+ 
 
     LA REYNE.
 Ouy, se disant adieu tous deux versoient des larmes,  
@@ -2187,7 +2187,7 @@ Se verra-t'il jamais esprit plus affligé ?
 
 ### SCENE DEUXIEME.
 LE ROY, LA REYNE, ALPHONSE, FERNAND.
-
+ 
 
     ALPHONSE.
 Grand Roy, puisque mes vœux, mes soûpirs, et mes larmes  
@@ -2958,7 +2958,7 @@ Vous, Haly, demeurez.
 
 ### SCENE QUATRIEME.
 LE ROY, HALY.
-
+ 
 
     HALY.
         Que cét affront me pique⁎ !  
@@ -3051,7 +3051,7 @@ FIN DU QUATRIEME ACTE.
 
 ### SCENE PREMIERE.
 ALPHONSE, FERNAND.
-
+ 
 
     ALPHONSE.
 Ha ! je l'y cherche en vain, on l'en a retirée,  

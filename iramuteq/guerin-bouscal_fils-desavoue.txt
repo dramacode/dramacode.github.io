@@ -58,7 +58,7 @@ Je n'ose consentir aux desseins⁎ que j'approuve,
 Contre mes propres vœux, mes vœux sont revoltez,
 Et je ne resous rien dans ces perplexitez.
 
-**** *book_ *id_I02 *act_I *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I02 *act_I *date_1641 *creator_guerin_de_bouscal 
 
 -*who_livie
 Madame, le Roy vient par la porte prochaine,
@@ -209,7 +209,7 @@ Et que sous nostre regne un peuple est bien-heureux.
 Que je le suis, Seigneur, de consacrer ma vie
 Aux importants emplois où mon Roy me convie.
 
--*who_theodoric
+-*who_theodoric 
 Cependant ce beau jour nous invite à sortir,
 Montons au Capitole, allons nous divertir,
 Voyons les raretez⁎ qu'on admire⁎ dans Rome.
@@ -233,7 +233,7 @@ D'un ouvrage en qui l'art estonnoit⁎ la nature !
 Rome que je te plains ! et que j'auray d'honneur
 Si je puis quelque jour restablir ton bon-heur !
 
-**** *book_ *id_I05 *act_I *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_I05 *act_I *date_1641 *creator_guerin_de_bouscal 
 
 -*who_sinderic
 Je sçay que tous les jours ce Prince magnanime,
@@ -257,7 +257,7 @@ Vostre appuy, vos tresors, vos charges, votre employ,
 Quoy que vous en disiez j'ay de la peine à croire,
 Que le Ciel vous reserve une plus haute gloire⁎.
 
--*who_sinderic
+-*who_sinderic 
 Emile, il est certain que l'amitié⁎ du Roy
 Sembloit avoir versé tous ses bienfaicts sur moy.
 Avant que ce grand Prince eust attaqué Ravenne,
@@ -339,7 +339,7 @@ Si mon sang est illustre au point qu'on me l'a faict,
 Et si le ciel reserve un tel bien à ma vie,
 Il porte ma fortune⁎ au dessus de l'envie⁎.
 
--*who_emile
+-*who_emile 
 Mais ne sçauray-je point vostre histoire ?
 
 -*who_sinderic
@@ -411,7 +411,7 @@ Vous devez ce respect à qui vous a fait naistre,
 Quelque rang qu'aujourd'huy vous teniez dans l'estat :
 J'en sçauray le succez⁎ au sortir du Senat.
 
-**** *book_ *id_II02 *act_II *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II02 *act_II *date_1641 *creator_guerin_de_bouscal 
 
 -*who_sinderic
 Mais, Emile, est-il vray qu'on croit dans l'Italie,
@@ -453,7 +453,7 @@ Et qu'elle veuille enfin recompenser ma foy⁎ ?
 Vous m'aymez ! Ah bon-heur à qui tout autre cede !
 Est-il vray qu'aujourd'huy Maxime vous possede ?
 
--*who_julie
+-*who_julie 
 Est-il vray qu'il en doute ? et qu'il ne cognoist pas
 Que son manque de foy⁎ me donne le trepas ?
 Quoy n'est-ce pas assez vous découvrir⁎ mon ame,
@@ -557,7 +557,7 @@ Qu'un injuste soubçon avoit rendu coupable,
 Qui ne me fut donné que pour m'estre ravy,
 Je le perdis helas ! d'abord⁎ que je le vy.
 
--*who_livie
+-*who_livie 
 Rome n'a jamais sçeu cette estrange⁎ advanture⁎,
 Mais enfin que fit-on ?
 
@@ -585,7 +585,7 @@ Par un homme incogneu fut porté jusqu'en France.
 Mais apres que Lepide eut suby le trépas
 Le fites-vous chercher ?
 
--*who_julie
+-*who_julie 
       Non, car je n'osay pas.
 Deux puissantes raisons en destournoient mon ame,
 Le trouvant, l'avouant⁎, je me rendois infame,
@@ -610,7 +610,7 @@ Je doy bien cét honneur au favory⁎ du Roy.
 Que je plains son mal-heur ! dieux à ce que je voy,
 Ce n'est pas sans raison qu'elle craint sa fortune⁎ !
 
-**** *book_ *id_II06 *act_II *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_II06 *act_II *date_1641 *creator_guerin_de_bouscal 
 
 -*who_sinderic
 Madame chassez-moy si je vous importune,
@@ -634,7 +634,7 @@ Avez-vous faict dessein⁎ de me desadvoüer⁎?
 Puis-je ne pas rougir, et voir que l'on me loüe ?
 Finissez ce discours, ou je vous desadvoüe⁎.
 
--*who_sinderic
+-*who_sinderic 
 Quand vous me menacez de me desadvoüer⁎,
 Vous me representez ce que j'ay veu joüer,
 C'est un subject nouveau fort extraordinaire,
@@ -688,7 +688,7 @@ Il n'est pas plutost né que le voila banny.
 -*who_julie
 O dieux ! qu'ay-je entendu ? Mais sçauray-je le reste ?
 
--*who_sinderic
+-*who_sinderic 
 Ah! Ce n'est pas encor l'endroit le plus funeste⁎!
 
 -*who_julie
@@ -743,7 +743,7 @@ Que sa mere vivoit.
 -*who_sinderic
       Le teint vous change.
 
--*who_julie
+-*who_julie 
 Ce dernier accident⁎ me paroist bien estrange⁎!
 
 -*who_sinderic
@@ -916,7 +916,7 @@ Mais Dieux, que ma fortune⁎ est une estrange⁎ chose !
 Que difficillement je puis me contenter !
 Je tache à m'esclaircir lors que je veux doubter !
 
-**** *book_ *id_III02 *act_III *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III02 *act_III *date_1641 *creator_guerin_de_bouscal 
 
 -*who_julie
 Maxime nous a veus, que dittes vous Livie ?
@@ -963,7 +963,7 @@ Helas que doy-je dire ? helas que doy-je taire ?
 -*who_livie
 Cachez vostre douleur, laissez le reste au sort.
 
-**** *book_ *id_III03 *act_III *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_III03 *act_III *date_1641 *creator_guerin_de_bouscal 
 
 -*who_maxime
 Madame sauvez moy.
@@ -985,7 +985,7 @@ J'ay tué par mal-heur le favory⁎ du Roy.
 -*who_julie
 Le favory⁎ du Roy !
 
--*who_maxime
+-*who_maxime 
       Sinderic !
 
 -*who_julie
@@ -1095,7 +1095,7 @@ Des vœux dont vostre amour pourroit être offencée,
 Je vous le dis encor, l'amour que j'ay pour luy
 Vous doit contre luy-mesme assurer aujourd'huy.
 
--*who_maxime
+-*who_maxime 
 Mon esprit ne prend point le sens de ce mystere.
 
 -*who_julie
@@ -1121,7 +1121,7 @@ Votre amour diminuë avecques vostre estime,
 Et que je sois privé de ce plaisir Charmant,
 Qu'une extréme amitié⁎ peut donner seulement.
 
--*who_julie
+-*who_julie 
 Vous vous cognoissez trop pour avoir cette crainte,
 Chassez donc les soubçons dont vostre ame est atteinte,
 Et croyez que Julie ayme comme elle doit,
@@ -1244,7 +1244,7 @@ Elle a bien des appas⁎ dans l'esprit de Julie.
 -*who_sinderic
 Mais pour quelle raison m'en parlez-vous ainsi ?
 
--*who_maxime
+-*who_maxime 
 C'est par-ce seulement que je vous trouve icy.
 Mais quoy ! vous laisser seul dans cette salle basse,
 Cette incivilité n'est pas de bonne grace,
@@ -1271,7 +1271,7 @@ Vous avez vostre but, et j'ay le mien aussi.
 Suffit que j'ay raison en ce que je projette,
 Et que Julie a tort lors qu'elle me rejette,
 
--*who_maxime
+-*who_maxime 
 Ainsi souvent les grands dedans leur passion
 Se laissent aveugler à la presomption ;
 Ils pensent que l'amour, les soins⁎ et les caresses,
@@ -1295,7 +1295,7 @@ Vous vous plaignez d'un cœur dont vous estes le maistre,
 Et feignez que Julie a des rigueurs pour vous
 Lors que vous esprouvez ses traictements plus doux.
 
--*who_sinderic
+-*who_sinderic 
 Que Julie à mes vœux soit propice ou contraire,
 J'iray jusques au bout, rien ne m'en peut distraire.
 
@@ -1322,7 +1322,7 @@ A m'accorder bien-tost ce qu'elle me desnie.
 -*who_maxime
 Ceste entreprise⁎ est grande.
 
--*who_sinderic
+-*who_sinderic 
       Elle est de mon devoir.
 
 -*who_maxime
@@ -1347,7 +1347,7 @@ Nous vivons dedans Rome où regne l'equité⁎.
 Mais vostre nation n'en sçait pas l'exercice,
 Et l'on voit rarement qu'un Goth rende justice.
 
--*who_sinderic
+-*who_sinderic 
 Ce que Theodoric pratique tous les jours,
 Montre la fausseté de ce lasche⁎ discours.
 Ah ! Maxime c'est trop, ce reproche m'outrage,
@@ -1388,7 +1388,7 @@ Viste qu'on se dépesche, allez dire à Camille,
 A Dave, à tous mes gens, qu'ils aillent à la ville
 Semer chez leurs amis un si funeste⁎ bruit⁎.
 
--*who_livie
+-*who_livie 
 Madame ils sont aprés.
 
 -*who_julie
@@ -1518,7 +1518,7 @@ Mais le succez⁎ ?
 -*who_julie
       Ah ! dieux suis-je trompée !
 
--*who_horace
+-*who_horace 
 En est sorty blessé de deux grands coups⁎ d'espée.
 
 -*who_julie
@@ -1575,7 +1575,7 @@ Indigne de l'ardeur⁎ que Maxime a pour toy,
 Non, non, je ne sçaurois dissimuler ton crime⁎,
 Je m'en vay de ce pas en advertir Maxime.
 
-**** *book_ *id_IV03 *act_IV *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV03 *act_IV *date_1641 *creator_guerin_de_bouscal 
 
 -*who_sinderic
 Julie ayme Maxime! helas que dites vous?
@@ -1647,7 +1647,7 @@ Nature, assistez moy dedans ceste entreprise⁎,
 Et ne souffrez⁎ jamais qu'au mespris de vos loix
 L'amour ou l'interest⁎ l'emportent sur mes droits.
 
-**** *book_ *id_IV04 *act_IV *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_IV04 *act_IV *date_1641 *creator_guerin_de_bouscal 
 
 -*who_julie
 Que j'ay peu de repos dedans ma solitude,
@@ -1720,7 +1720,7 @@ Madame, il est bien tard.
 -*who_julie
       N'importe !
 
--*who_cornelie
+-*who_cornelie 
       Et bien j'y cours.
 
 -*who_julie
@@ -1745,7 +1745,7 @@ Ah dieux ! chaque moment augmente ma misere,
 Quoy ! Maxime a donc sçeu que j'avois esté mere ?
 Et que c'est de mon fils que procede son mal ?
 
--*who_livie
+-*who_livie 
 Cela n'est pas croyable, il l'appelle Rival.
 
 -*who_julie
@@ -1770,7 +1770,7 @@ Mais que feray-je enfin, si Maxime le sçait ?
 Vous devez soustenir ce que vous avez fait,
 Accuser hautement Sinderic d'imposture⁎.
 
--*who_julie
+-*who_julie 
 Trahir mon propre sang ! démentir sa nature,
 Souffrir⁎ dedans mon cœur⁎ ce combat criminel,
 M'exposer aux rigueurs d'un remords eternel,
@@ -1797,7 +1797,7 @@ La raison vous apprend ce que vous devez faire,
 Vous retracter, Madame, en ceste occasion,
 Ce seroit redoubler vostre confusion.
 
--*who_julie
+-*who_julie 
 Et bien vous l'emportez, honneur inexorable ?
 Ouy malgré ton respect, nature venerable,
 Et tous ses sentimens de tendresse et de sang,
@@ -1821,7 +1821,7 @@ Quoy je voy Sinderic dans ma chambre, et de nuit !
 -*who_sinderic
 Madame appaisez vous, le respect l'y conduit.
 
--*who_julie
+-*who_julie 
 Sinderic, dans ma chambre, ah dieux quelle insolence !
 
 -*who_sinderic
@@ -2007,7 +2007,7 @@ Quoy n'obtiendray-je rien ?
 -*who_julie
       Je ne vous entens⁎ plus.
 
--*who_sinderic
+-*who_sinderic 
 Un moment d'audiance, et puis je me retire.
 
 -*who_julie
@@ -2065,7 +2065,7 @@ Que je veux la revoir auparavant ma mort.
 -*who_horace
 Son logis n'est pas loin.
 
--*who_maxime
+-*who_maxime 
       Je tremble, à cet abord.
 Je recherche, et je fuis ceste belle coupable,
 J'ay dessein⁎ de la voir, et n'en suis pas capable.
@@ -2089,7 +2089,7 @@ Je ne conteste plus, il faut que je la voye.
 Prenons l'occasion que le ciel nous envoye.
 On ouvre, et quelqu'un sort.
 
-**** *book_ *id_V02 *act_V *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V02 *act_V *date_1641 *creator_guerin_de_bouscal 
 
 -*who_maxime
       Ah ! Livie est-ce toy ?
@@ -2108,7 +2108,7 @@ Chez le Roy !
       Ah comble de ma peine !
 Que me dis-tu Livie ?
 
--*who_livie
+-*who_livie 
       Une chose certaine.
 Il a mandé Julie.
 
@@ -2162,7 +2162,7 @@ Où vas-tu ?
 -*who_livie
       Laissez-moy.
 
-**** *book_ *id_V03 *act_V *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V03 *act_V *date_1641 *creator_guerin_de_bouscal 
 
 -*who_maxime
       Sortez donc de mon cœur⁎,
@@ -2232,7 +2232,7 @@ Allons voir chez le Roy, Sinderic et Julie,
 Sçachons leurs differens, et voyons en ce jour
 Combattre la nature, et triompher l'amour.
 
-**** *book_ *id_V04 *act_V *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V04 *act_V *date_1641 *creator_guerin_de_bouscal 
 
 -*who_sinderic
 Grand Monarque, escoutez la voix de la nature.
@@ -2413,7 +2413,7 @@ Pardonne à Sinderic.
 -*who_theodoric
 Passez dedans la sale, et laissez nous icy.
 
-**** *book_ *id_V05 *act_V *date_1641 *creator_guerin_de_bouscal
+**** *book_ *id_V05 *act_V *date_1641 *creator_guerin_de_bouscal 
 
 -*who_theodoric
 Boece, leurs discours ne m'ont point esclaircy,
@@ -2437,7 +2437,7 @@ Je ne me vis jamais dans un pareil combat.
 -*who_boece
 Seigneur, sur ce subject consultons le Senat.
 
--*who_theodoric
+-*who_theodoric 
 Il n'en est pas besoing, je voy dedans mon ame
 La brillante clarté d'une secrete flamme⁎.
 Chasser l'ombre et l'erreur qui possedoit mes sens.
@@ -2460,7 +2460,7 @@ De ses pretentions pour sa recognoissance.
 -*who_julie
 Que je vous doy Seigneur apres ce jugement !
 
--*who_theodoric
+-*who_theodoric 
 En effect sa poursuite estoit sans fondement,
 Et je recognoy⁎ bien plus je vous considere,
 Que Sinderic eust tort de vous choisir pour mere.
@@ -2487,7 +2487,7 @@ Que vous avez aymé,
 -*who_theodoric
 Je ne vous entens⁎ point.
 
--*who_julie
+-*who_julie 
       Je disois à mon Roy,
 Que tousjours ses desirs me tiendront lieu de loy.
 
@@ -2514,7 +2514,7 @@ Mais d'où peut proceder vostre subject de plainte?
 Le party qu'on vous offre a-t'il quelque défaut⁎ ?
 Pouvez-vous justement entreprendre un plus haut ?
 
--*who_julie
+-*who_julie 
 Seigneur il est trop grand, et trop considerable,
 L'excez de sa grandeur me rendroit miserable⁎.
 
@@ -2567,7 +2567,7 @@ C'est à moy d'ordonner ; c'est à vous d'obeyr.
 Ah ! je reclame icy vostre justice extréme !
 J'en appelle seigneur de vous mesme à vous mesme !
 
--*who_theodoric
+-*who_theodoric 
 Ne me repliquez plus, vous devez aujourd'huy
 Recevoir Sinderic, et vous donner à luy.
 
@@ -2643,7 +2643,7 @@ La honte m'a forcée à le desadvoüer⁎.
 -*who_theodoric
 Cette force d'esprit ne se peut trop loüer.
 
--*who_julie
+-*who_julie 
 Il est pourtant, mon fils, je le sens, je l'espreuve,
 Je ne sçauroy le voir sans que mon sang s'esmeuve,
 Sinderic est mon fils, c'est un adveu, seigneur,
@@ -2668,7 +2668,7 @@ De grace accordez moy Maxime pour beau pere.
 Je vous accorde tout, mais à condition,
 Qu'ils vous accorderont leur approbation :
 
--*who_julie
+-*who_julie 
 Ah! seigneur, si Maxime ayme encore sa maistresse,
 S'il me peut pardonner cette extréme foiblesse⁎,
 Que mon esprit confus a faict voïr aujourd'huy,
@@ -2693,7 +2693,7 @@ Que vous estes divin!
 -*who_maxime
       Que nous sommes heureux⁎!
 
--*who_sinderic
+-*who_sinderic 
 Grands dieux que puis-je rendre à qui me rend ma mere,
 Qui ne soit au dessoubs de ce que je doy faire !
 

@@ -1063,7 +1063,7 @@ Nostre bien-aimé AUGUSTIN COURBE, Marchand Libraire en nostre bonne ville de Pa
 
 Par le Roy en son Conseil.
 
-CONRART.
+**CONRART**.
 
 Achevé d'imprimé ce premier Septembre 1635.
 
@@ -2641,7 +2641,10 @@ Les Rocs, les Monts audacieux,
 Comme les plus voisins des Cieux,  
 Sont les plus subjects à la foudre:  
 Elle n'en veut qu'à leur orgueil;  
-Et ce Sceptre qui porte un œil  Hieroglifique de Dieu selon les Egyptiens.
+Et ce Sceptre qui porte un œil  
+Hieroglifique de Dieu selon les Egyptiens.
+
+
 Brise tous les autres en poudre;  
 Et qui regne, doit se resoudre,  
 A faire d'un Throsne un cercueil.  

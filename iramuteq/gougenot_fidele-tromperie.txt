@@ -136,7 +136,7 @@ Ce que le mien conçoit s'exale par ma bouche,
 Mais puis que ce tourment⁎ vous maistrise absolu,
 Je vous y veux servir, je m'y suis resolu.
 
--*who_armidore
+-*who_armidore 
 Vous me ressuscitez, ha que je vous embrasse.
 
 -*who_clidame
@@ -183,7 +183,7 @@ Mais moy que deviendray-je en ce beau changement ?
 Ceste difficulté trouble mon jugement,
 Cher amy c'est à vous à surmonter⁎ ce doute.
 
--*who_clidame
+-*who_clidame 
 Aux affaires d'amour mon esprit ne voit goute,
 Ces ruses à la fin descouvrent leur poison.
 
@@ -224,7 +224,7 @@ De vous voir esprouver⁎ ceste belle science :
 Allons pourvoir à tout et resoudre comment
 Vous vous pourrez servir de cet habillement.
 
-**** *book_ *id_I02 *act_I *date_1633 *creator_gougenot
+**** *book_ *id_I02 *act_I *date_1633 *creator_gougenot 
 
 -*who_clorisee
 Mortel ressouvenir⁎ d'une ame desloyale⁎
@@ -323,7 +323,7 @@ J'y perds le jugement.
       C'est la Reyne sans doute,
 Mon frere le bon-heur assiste nostre route.
 
--*who_clorisee
+-*who_clorisee 
 Plus je voy ceste fille et plus je m'esbahis,
 Sçachons où vont ces gens, s'ils sont de ce pays.
 
@@ -347,7 +347,7 @@ Nostre desir vouloit luy faire resistance,
 Lors que ne voyant plus que des objets de mort,
 Un bon astre nous fit aborder vostre port.
 
--*who_clorisee
+-*who_clorisee 
 Sans doute vous parlez de quelque aspre tourmente.
 
 -*who_clidame
@@ -417,7 +417,7 @@ Qu'elle fut mise à fonds.
 -*who_clorisee
       Bons Dieux que de misere !
 
--*who_clidame
+-*who_clidame 
 Nous roulasmes⁎ trois jours à la mercy des vents,
 Mais ceste nuict passée autant morts que vivans,
 Preparez au peril d'un évident naufrage,
@@ -494,7 +494,7 @@ Pleust au Ciel que vos yeux vissent mon Alderine.
 -*who_clidame
 A-t-elle tant d'attraits ?
 
--*who_lucide
+-*who_lucide 
       Plus cent fois que Cyprine,
 Sa divine beauté qui peut fléchir les Dieux,
 Merveille de la terre, et chef-d'œuvre des cieux,
@@ -533,7 +533,7 @@ Arresteroient bien mieux la course du Soleil,
 Que ne fit autresfois la fille de Penée
 Lors qu'elle redoubloit sa fuitte infortunée⁎ .
 
--*who_clidame
+-*who_clidame 
 Toutes ces beautez sont en vos perfections.
 
 -*who_lucide
@@ -584,7 +584,7 @@ Je vay trouver la Reyne,
 -*who_lucide
       Et moy revoir mon cœur.
 
-**** *book_ *id_II02 *act_II *date_1633 *creator_gougenot
+**** *book_ *id_II02 *act_II *date_1633 *creator_gougenot 
 
 -*who_alderine
 Mais vous ne dites rien de ma chere Lucide,Elles sont dans le
@@ -704,7 +704,7 @@ Ma paupiere se ferme, et mon teint devient pasle,
 Ne pouvant plus rien voir, je me perds au sommeil,
 Et comme le soucy⁎ j'attens le beau Soleil.
 
--*who_lucide
+-*who_lucide 
 Madame, quand le sort de vos yeux me separe,
 La mort en mesme temps de mon ame s'empare,
 Je me brusle en ma crainte, et me noye en mes pleurs,
@@ -770,7 +770,7 @@ Un air qu'en vostre absence, Amour m'a faict apprendre :
 Allons nous rafraichir dans les ombres du bois,
 Je veux joindre à mon luth une divine voix.
 
-**** *book_ *id_II03 *act_II *date_1633 *creator_gougenot
+**** *book_ *id_II03 *act_II *date_1633 *creator_gougenot 
 
 -*who_clorisee
 Me faut-il donc souffrir⁎ une peine⁎ infinie,
@@ -1060,7 +1060,7 @@ Ne doivent rien changer en ses affections.
 L'or s'esprouve⁎ au creuset, mon amour aux miseres
 Et ma foy⁎ se redouble aux peines⁎ plus ameres.
 
--*who_bruserbe
+-*who_bruserbe 
 Mais c'est contre soy-mesme user de cruauté,
 D'aymer un desloyal⁎ en sa desloyauté⁎.
 
@@ -1083,7 +1083,7 @@ La foy⁎ fille du Ciel soustient ma resistance.
 -*who_bruserbe
 La foy⁎ se desoblige apres le changement.
 
--*who_clorisee
+-*who_clorisee 
 Ouy dans un foible esprit frappé d'aveuglement.
 
 -*who_bruserbe
@@ -1109,7 +1109,7 @@ Ce Prince m'est plus cher mille fois que mes yeux.
 -*who_bruserbe
 Laissez-vous sans espoir mon amoureuse peine⁎ ?
 
--*who_clorisee
+-*who_clorisee 
 Je ne puis escouter ceste parole vaine.
 
 -*who_bruserbe
@@ -1202,7 +1202,7 @@ Souvent en se mocquant se déprave et s'irrite⁎ ;
 En fin vous m'obligez de faire comme vous,
 Et forcez mon esprit de se mettre en courroux.
 
--*who_lucide
+-*who_lucide 
 Icy les complimens ne sont point en usage,
 Le combat veut l'effect⁎, et non pas le langage,
 Ne feignez point vos coups, et ne m'espargnez pas,
@@ -1288,7 +1288,7 @@ Vous sentirez bien tost vostre ame soulagée,
 Et le Ciel permettra que vous serez vangée,
 Grande Reyne, essuyez les larmes de vox yeux.
 
--*who_clorisee
+-*who_clorisee 
 Que veut ce Chevallier ? son aspect glorieux
 Pourroit à nos souhaits donner quelque presage.
 
@@ -1359,7 +1359,7 @@ Je ne puis plus souffrir⁎ vostre audace impunie.
 Mon frere pardonnez à ce petit excés,
 Nostre sexe est tousjours trop prompt dans ses accés.
 
--*who_filamon
+-*who_filamon 
 J'excuse aussi l'excez, avec la promptitude.
 
 -*who_lucide
@@ -1567,7 +1567,7 @@ Un regret éternel me contraigne à rougir.
 Si me faut-il trouver relasche à mes tortures,
 Ou qu'une prompte mort borne⁎ mes adventures.
 
-**** *book_ *id_IV02 *act_IV *date_1633 *creator_gougenot
+**** *book_ *id_IV02 *act_IV *date_1633 *creator_gougenot 
 
 -*who_clorisee
 Lucide les vertus ont des charmes⁎ si forts,
@@ -1641,7 +1641,7 @@ D'aller jusqu'aux enfers affronter les Demons⁎,
 Protestant que mon cœur ne vit en ma puissance,
 Que pour mieux respirer dans vostre obeyssance.
 
--*who_clorisee
+-*who_clorisee 
 Lucide, c'est assez, je reçoy vos sermens,
 Quoy qu'ils ayent choisi de foibles fondemens,
 Que les yeux de ma fille, et croy que leurs lumieres,
@@ -1661,7 +1661,7 @@ Qui faict à mon esprit beaucoup de violence,
 Ne vous contraignez point par crainte ou par respect,
 Si vostre cœur n'est libre il me sera suspect.
 
--*who_lucide
+-*who_lucide 
 Madame, si ma voix a demeuré contrainte,
 C'est plus par le respect que ce n'est pour la crainte,
 Mais tant s'en faut qu'il vueille arrester mon devoir,
@@ -1703,7 +1703,7 @@ Pourveu que vos desirs n'offencent mon repos,
 Et qu'on ne parle point de me laisser la vie,
 Je ne reffuse point l'effet de vostre envie.
 
--*who_lucide
+-*who_lucide 
 Maintenant mes esprits demeurent satisfaits.
 
 -*who_clorisee
@@ -1854,7 +1854,7 @@ Un secret que je tiens aussi cher que ma vie.
 -*who_florinde
 Vos secrets sont bien froids pour donner de l'envie.
 
-**** *book_ *id_IV03 *act_IV *date_1633 *creator_gougenot
+**** *book_ *id_IV03 *act_IV *date_1633 *creator_gougenot 
 
 -*who_clidame
 Que ceste passion estourdit les esprits !
@@ -1894,7 +1894,7 @@ Ne peut dans le combat la reculer d'un pas.
 Et c'est là le sujet qui m'afflige⁎ pour elle,
 Voyant son malheur peint dedans ceste querelle.
 
--*who_tersandre
+-*who_tersandre 
 Je croy bien que les Dieux reservent à ses mains
 La gloire d'achever des genereux⁎ desseins :
 Mais celuy de dompter un si fort adversaire,
@@ -1916,7 +1916,7 @@ Prepare pour demain l'appareil⁎ de sa route.
 -*who_tersandre
 Madame, sur ce fait mon esprit est en doute.
 
--*who_clorisee
+-*who_clorisee 
 Et le mien resolu ne cerche point d'advis,
 Regardez seulement que les miens soient suivis.
 
@@ -1976,7 +1976,7 @@ J'accepte pour l'effet ceste belle apparence,
 Et conserve en mon cœur vostre fidelité,
 Dont je tire un rayon de ma felicité.
 
-**** *book_ *id_IV04 *act_IV *date_1633 *creator_gougenot
+**** *book_ *id_IV04 *act_IV *date_1633 *creator_gougenot 
 
 -*who_alderine
 Que vos sages pensers promettent des miracles,
@@ -1990,7 +1990,7 @@ Vos glorieux projets surmontent⁎ ma raison.
 Mes jours sont affermis dessus vostre prudence,
 Mais je ne puis penser aux nuicts de nostre absence.
 
--*who_lucide
+-*who_lucide 
 Madame, ce seul poinct trouble mes sentimens,
 Car ainsi que les corps sont joincts aux élemens,
 Mon cœur de vostre esprit se trouve inseparable,
@@ -2082,7 +2082,7 @@ Ha ! c'est trop craindre en vain,
       Je veux affranchir⁎ ma crainte,
 Madame, vous voyez un Prince devant vous.
 
--*who_alderine
+-*who_alderine 
 Que dites-vous ? un Prince.
 
 -*who_lucide
@@ -2246,7 +2246,7 @@ Florinde vous veut secourir.
 Vous ignorez quelle adventure
 Me donne une si douce mort.
 
--*who_florinde
+-*who_florinde 
 Je sçay bien que tout cet effort⁎,
 N'agist qu'en dépit de nature.
 
@@ -2303,7 +2303,7 @@ Que je meure en ma solitude.
 -*who_florinde
 Voyez comme la honte estourdit le devoir.
 
--*who_lucide
+-*who_lucide 
 Dieux que vous m'estes importune.
 
 -*who_florinde
@@ -2332,7 +2332,7 @@ En fin il me faudra contraindre.
 -*who_florinde
 A quitter ces vaines amours.
 
--*who_lucide
+-*who_lucide 
 Vous prenez mon mal à rebours.
 
 -*who_florinde
@@ -2515,7 +2515,7 @@ Que pour bien soustenir chacun vaut un Alcide.
 -*who_clorisee
 Ha ! que je te regrette invincible Lucide.
 
-**** *book_ *id_V03 *act_V *date_1633 *creator_gougenot
+**** *book_ *id_V03 *act_V *date_1633 *creator_gougenot 
 
 -*who_alderine
 Que les secrettes destinées,
@@ -2705,7 +2705,7 @@ En prolongeant ma vie ait avancésa mort :
 Justes Dieux, s'il est vray, faites que ceste atteinte,
 Borne⁎ ma passion au but de vostre crainte.
 
-**** *book_ *id_V04 *act_V *date_1633 *creator_gougenot
+**** *book_ *id_V04 *act_V *date_1633 *creator_gougenot 
 
 -*who_bruserbe
 Portons nostre vengeance à toute extremité,
@@ -2743,7 +2743,7 @@ Icy mes compagnons.
       La grace que je veux,
 C'est de voir en ton sang recompenser mes vœux.
 
--*who_lucide
+-*who_lucide 
 Reçoy ce que merite une mauvaise envie.
 
 -*who_bruserbe
@@ -2803,7 +2803,7 @@ Je descens ma compagne.
 -*who_filamon
       O desdaigneuse parque,
 
--*who_filamire
+-*who_filamire 
 Voyla du desespoir une evidente marque.
 
 -*who_tersandre
@@ -2851,7 +2851,7 @@ Qui va là ?
 Sire, je ne croy pas que vous puissiez douter,
 Que Lucide pour vous n'ait une ame fidele.
 
--*who_filamire
+-*who_filamire 
 Vous cognoissant autant vertueuse que belle,
 Je formerois à tort cet injuste debat,
 Si j'ay quelque soucy⁎, c'est pour nostre combat,
@@ -2873,7 +2873,7 @@ Certes, la Reyne a tort de me tant affliger⁎.
 Or puis que par vos mains elle se veut vanger,
 Contentons sa rigueur aux despens de nos vies.
 
--*who_lucide
+-*who_lucide 
 Nous bornerons⁎ demain ses mortelles envies :
 Mais, Sire, cependant allons nous reposer.
 
@@ -2895,7 +2895,7 @@ Peut estre que les Dieux changeront tout cecy.
 -*who_clorisee
 Nos tyrans sont donc pris, bon Dieu je te rends grace.
 
--*who_tersandre
+-*who_tersandre 
 Ils sont aussi confus qu'ils estoient plein d'audace.
 
 -*who_clorisee
@@ -2998,7 +2998,7 @@ La plus debile main luy peut donner la mort.
 -*who_clorisee
 C'est donc en ceste sorte, et bien je suis trompée.
 
--*who_lucide
+-*who_lucide 
 Madame, recevez (s'il vous plaist) mon espée.
 Abbatez-en ce chef⁎ de vostre belle main,
 Et lors j'accompliray vostre dernier dessein.
@@ -3058,7 +3058,7 @@ Pourveu qu'en mon trépas vous soyez satisfaite,
 Je laisse franchement ma vie à l'abandon,
 Si vostre douce voix ne prononce un pardon.
 
--*who_clorisee
+-*who_clorisee 
 Ah ! charmes⁎ renaissans de ma premiere gloire,
 Venez-vous derechef affliger⁎ ma memoire ?
 Levez-vous Filamire, un Prince tel que vous
@@ -3078,7 +3078,7 @@ Madame, mon depart l'esmeut⁎ tant de tristesse,
 A cause du combat que j'avois entrepris
 Que j'ay peur que ma veuë allume son mépris.
 
--*who_clorisee
+-*who_clorisee 
 Elle avoit bien raison de craindre pour son pere.
 
 -*who_lucide
@@ -3105,7 +3105,7 @@ Elle doit chastier vostre retardement.
 -*who_lucide
 Mais dites moy mon cœur, vous serez mon refuge.
 
--*who_florinde
+-*who_florinde 
 Non, ne le croyez pas, je seray vostre juge,
 Quittons la raillerie, et parlons de bon sens,
 Madame vous veut voir toutes choses cessans.
@@ -3131,7 +3131,7 @@ Cognoisse le tresor que luy garde ma foy⁎.
 Dieux ! qu'est-ce que j'entens, ô nouvelle adorée,
 Je vay gaigner des gans d'éternelle durée.
 
--*who_filamire
+-*who_filamire 
 Madame pardonnez à la necessité,
 Je suis tousjours fascheux à vostre Majesté.
 
@@ -3154,7 +3154,7 @@ Mais sur tout à celuy de pourvoir vostre fille.
 -*who_filamire
 C'est ce que je souhaitte avecque plus d'ardeur⁎.
 
-**** *book_ *id_V06 *act_V *date_1633 *creator_gougenot
+**** *book_ *id_V06 *act_V *date_1633 *creator_gougenot 
 
 -*who_tersandre
 Noz mutins maintenant abbatus de froideur,
@@ -3169,7 +3169,7 @@ Je croy que sans la vostre on m'eust fait voir l'Epire,
 Laissons les complimens, sçachons que fait ma sœur.
 Comment l'a-t'on reçeuë ?
 
--*who_tersandre
+-*who_tersandre 
       Avec plus de douceur
 Que l'excez de ma voix ne vous le sçauroit dire.
 
@@ -3231,7 +3231,7 @@ Monsieur, que dites vous de ceste nouveauté ?
 -*who_tersandre
 Mon esprit estonné⁎ croit de voir des chimeres.
 
--*who_clorisee
+-*who_clorisee 
 Je laisse desormais le soing⁎ de mes miseres,
 Et pourray maintenant à tout mal resister.
 
@@ -3296,7 +3296,7 @@ La Reyne vous delivre, et vous oste vos fers.
 -*who_bruserbe
 Nous n'attendions pas moins, de sa main genereuse.
 
--*who_filamon
+-*who_filamon 
 Nous avons tousjours creu, nostre prison heureuse,
 Et que ceste Princesse, a trop d'humanité,
 Pour punir les excez, de nostre cruauté.

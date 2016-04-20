@@ -697,7 +697,7 @@ La Scene est à Paris.
 ACASTE, ARIMANT.
 
 
-    ACASTE.
+    ACASTE. 
 Certainement amy je commence à connestre [18]  
 Que je suis moins aymé que je ne pensois l'estre,  
 Puisque j'ignore encor ce qui vous trouble ainsi.  
@@ -1571,7 +1571,7 @@ Mais la voicy qui sort, arreste-toy Pauline.
 
 ### Scène 3
 DOROTEE, LEONOR, PAULINE, PAMPHILE.
-
+ 
 
     DOROTEE.
 Et bien que vous en semble? ay-je pas bonne mine?  
@@ -1955,7 +1955,7 @@ Elle eust quelques defauts, je ne les verrois pas.
     FLORE, *bas.*
 Dieux! quel impertinent.  
 
-    ARIMANT, *bas*.
+    ARIMANT, *bas*. 
         Flore n'est pas contente  
 A ce que je puis voir d'entendre que l'on vante,  
 De Dorotée ainsi la grace et la beauté:  
@@ -1987,7 +1987,7 @@ As-tu des lettres?
     PHILIPPIN.
         Ouy d'elle.  
 
-    ACASTE.
+    ACASTE. 
 Donne-les promptement. Vous m'excuserez bien  
 Madame, si je quitte un si doux entretien.  
 Pardonnez s'il vous plaist à mon impatience.  
@@ -2015,7 +2015,7 @@ Bas
     FLORE.
 Pourquoy?  
 
-    ARIMANT.
+    ARIMANT. 
         Ne vous ayant nulle obligation,  
 Madame usant vers [139] moy d'un traitement si rude  
 Pourriez-vous m'accuser jamais d'ingratitude?  
@@ -2067,7 +2067,7 @@ Est-ce pas Leonor [141]?
 
     DOROTEE.
 Entre avec la quaissette.
-
+ 
 Madame vous plaist-il d'une façon nouvelle  
 Voir des coiffes, des noeuds, des tresses, des rubans,  
 Des bracelets brodez, et de forts beaux galands⁎?  
@@ -2095,7 +2095,7 @@ Emmenez la demain Leonor, je vous prie.
     LEONOR.
 Je n'y manqueray pas.  
 
-    DOROTEE *à Leonor, bas.*
+    DOROTEE *à Leonor, bas.* 
         Je ne vis en ma vie  
 Une plus agreable et plus rare beauté.  
 
@@ -2151,7 +2151,7 @@ N'est-ce pas Dorotée à present que je voy.
     PHILIPIN.
 Ce ne l'est pas, Monsieur, mais ce la devroit estre.  
 
-    DOROTEE *ouvrant la quaissette.*
+    DOROTEE *ouvrant la quaissette.* 
 Je perds l'esprit grands Dieux! voyez un peu le traistre,  
 Le tour que m'a joüé cét insigne affronteur,  
 Maudit soit le mestier, je le dy de bon cœur,  
@@ -2181,7 +2181,7 @@ Etes-vous en colere.
     DOROTEE.
 J'en ay trop de sujet.  
 
-    FLORE.
+    FLORE. 
         Dites-le, je vous prie.  
 
     DOROTEE, *bas.*
@@ -2421,7 +2421,7 @@ Va tu n'es qu'un maraut⁎, je ne redoute rien.
 
 ### Scène 8
 PAMPHILE. ACASTE. PHILIPIN.
-
+ 
 
     PAMPHILE. 
 Que voulez-vous, Monsieur ?  
@@ -2498,7 +2498,7 @@ Fin du troisième Acte
 
 ### Scène première
 ACASTE. PHILIPIN.
-
+ 
 
     PHIPIPIN.
 Quel est vostre dessein ? pourquoy revenez-vous  
@@ -2542,7 +2542,7 @@ Qu'il bande [179] son fuzil, et s'arme là dedans
 DOROTEE en habit de Dame superbement parée.
 
 ACASTE. PHILIPIN. PAMPHILE.
-
+ 
 
     DOROTEE.
 Que voulez-vous, Monsieur ? que cherchez-vous ceans⁎ ?  
@@ -2565,7 +2565,7 @@ Nous avons la berluë [180], et nous n'avons rien veu.
     DOROTEE.
 Vous ne respondez point ?  
 
-    PAMPHILE.
+    PAMPHILE. 
         Ce Cavalier a creu  
 Qu'il est entré chez vous une certaine fille  
 Qui coiffe proprement, et qu'il trouve gentille [181].  
@@ -2618,7 +2618,7 @@ Que par ces actions publiques.
     ACASTE.
         Moy, Madame ?  
 
-    PHILIPIN.
+    PHILIPIN. 
 C'est à ce coup grands Dieux que je perds tous les sens.  
 
     DOROTEE.
@@ -2645,7 +2645,7 @@ Adieu, je suis troublée, et je crains mesme aussi
 Que mon mary ne vienne, et ne vous trouve icy.  
 Cecy vous doit suffire.  
 
-    ACASTE.
+    ACASTE. 
         Hé quoy ! ma chere Dame,  
 Elle part, et me laisse un grand trouble⁎ dans l'ame,  
 
@@ -2856,7 +2856,7 @@ Si farouche, si sotte, et si capricieuse,
 Qu'il n'est homme icy bas qui ne luy fasse peur,  
 A cause qu'elle croit que tout homme est trompeur.  
 
-    LEONOR.
+    LEONOR. 
 Ce remede est certain.  
 
     DOROTEE.
@@ -2957,7 +2957,7 @@ Nous le verrons.
 
 ### Scène 5
 ARIMANT. ACASTE. PHILIPIN.
-
+ 
 
     ARIMANT.
 Quoy si pres du logis je vous trouve en la ruë ?  
@@ -2982,7 +2982,7 @@ Vous pouvez plus icy sans moi, que moy sans vous.
     ACASTE.
 Je ne vous entends point, cette enigme m'estonne⁎.  
 
-    ARIMANT.
+    ARIMANT. 
 Je ne veux, cher Acaste, estre obscur à personne,  
 Je me veux expliquer, sçachez donc que je croy  
 Que Flore a de l'amour pour vous, et peu pour moy.  
@@ -3034,7 +3034,7 @@ A ce que dit son homme elle s'appelle ainsi.
 Je ne la cognoy point, et je suis en soucy [231]  
 Beatrix, quelle elle est [232].  
 
-    BEATRIX.
+    BEATRIX. 
         Madame elle est tres-belle.  
 
     FLORE.
@@ -3161,7 +3161,7 @@ Fin du quatriesme acte.
 
 ### Scène première
 
-    FLORE *seule.*
+    FLORE *seule.* 
 Resvez-je point icy ? suis-je bien éveillée ?  
 Ma paupiere, grands Dieux ! est-elle dessillée ?  
 Quoy respiray-je encor ? quels charmes si puissans  
@@ -3341,7 +3341,7 @@ Nous n'avons pas dessein de vous incommoder.
 
 ### Scène 3
 ACASTE. ARIMANT.
-
+ 
 
     ACASTE.
 Mais encore sur quoy se veut-elle fonder ?  
@@ -3392,7 +3392,7 @@ Ouy voilà deux pacquets.
 Je me trompe Arimant, non, non, ce n'est point elle.  
 Dieux ! quelle vision avois-je !  
 
-    ARIMANT.
+    ARIMANT. 
         Encor pourquoi ?  
 
     ACASTE.
@@ -3497,7 +3497,7 @@ Bien j'y cours de ce pas.
 ACASTE. PHILIPIN. ARIMANT.
 
 DOROTEE. LEONOR.
-
+ 
 
     PHILIPPIN.
         Monsieur bonne nouvelle,  
@@ -3546,7 +3546,7 @@ Avec qui pratiquer ailleurs la raillerie,
 Les hommes d'aujourd'huy sont de vrais cajolleurs [265]  
 Et mesme on ne doit pas se fier aux meilleurs.  
 
-    ACASTE.
+    ACASTE. 
 Arimant, cette fille est de l'humeur de Flore.  
 
     ARIMANT.
@@ -3601,7 +3601,7 @@ Vrayment elle a grand tort d'en user de la sorte.
 Les cheveaux seront prests, et vous pourrez sortir  
 Dès la pointe du jour.  
 
-    DOROTEE
+    DOROTEE 
         Qui veut doncques partir ?  
 Sit tost de cette ville ?  
 
@@ -3655,7 +3655,7 @@ PHILIPIN ACASTE.
         Un certain homme en bas  
 Vous demande.  
 
-    ACASTE.
+    ACASTE. 
     Son nom.  
 
     PHILIPPIN.
@@ -3684,7 +3684,7 @@ De Madame Angelique.
     PAMPHILE.
 Que son mary s'en va demain à la Rochelle.  
 
-    DOROTEE.
+    DOROTEE. 
 Que nous importe-t'il ?  
 
     PAMPHILE.
@@ -3709,7 +3709,7 @@ Adieu Monsieur.
 Que cette Angelique est toute telle que toy :  
 Et que ma Dorotée.  
 
-    DOROTEE.
+    DOROTEE. 
         Oh la plaisante histoire,  
 Vous imaginez-vous que je vous aille croire ?  
 
@@ -3738,7 +3738,7 @@ ACASTE. PHILIPIN. PAMPHILE. [269]
     ARIMANT.
 Flore icy, justes Dieux! cela ne peut pas estre.  
 
-    FLORE *bas.*
+    FLORE *bas.* 
 La coiffeuse est icy ? voyez un peu le traistre,  
 Cette Helene sans doute a dit la verité.  
 
@@ -3764,7 +3764,7 @@ Ah Madame ! s'il faut que ce bon-heur m'advienne
 Est-il felicité comparable à la mienne ?  
 Quel homme assez heureux me pourroit égaler.  
 
-    ACASTE.
+    ACASTE. 
 Permettez-moy, Madame, à present de parler,  
 La vengeance sans doute est juste, et legitime :  
 Mais encor que je sois si mal dans vostre estime,  
@@ -3790,7 +3790,7 @@ Son nom est Dorotée.
     ACASTE.
 Pour aller espouzer ce ravissant object.  
 
-    DOROTEE.
+    DOROTEE. 
 Ce n'est pas le moyen d'appaiser vostre flame⁎,  
 Que de partir.  
 
@@ -3817,7 +3817,7 @@ Vous desabusez-vous ?
     DOROTEE.
 Quoy voyant Dorotée ?  
 
-    ACASTE.
+    ACASTE. 
         Ah ! je crains ta malice !  
 Si tu crois m'arrester avec cét artifice,  
 Tu n'y feras que perdre, et ta peine⁎, et ton temps,  

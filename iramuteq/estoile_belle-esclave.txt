@@ -229,7 +229,7 @@ Soubs le doux nom de Sœur cette belle Maistresse⁎ ;
 Autrement ce secret se descouvrant à tous,
 Le Roy… mais il arrive.
 
-**** *book_ *id_I02 *act_I *date_1643 *creator_lestoile
+**** *book_ *id_I02 *act_I *date_1643 *creator_lestoile 
 
 -*who_le_roy
       Alphonse, approchez-vous,
@@ -518,7 +518,7 @@ Mais l'estat où je suis à tout me fait resoudre ;
 Allons donc recevoir ce second coup de foudre.
 FIN DU PREMIER ACTE.
 
-**** *book_ *id_II01 *act_II *date_1643 *creator_lestoile
+**** *book_ *id_II01 *act_II *date_1643 *creator_lestoile 
 
 -*who_haly
 Que faites-vous, Madame, helas ! à quel dessein⁎
@@ -629,7 +629,7 @@ La crainte des mortels, aussi bien que l'espoir ;
 Je l'apperçoy venir, et lis en son visage
 De quelque bon succez un asseuré presage.
 
-**** *book_ *id_II03 *act_II *date_1643 *creator_lestoile
+**** *book_ *id_II03 *act_II *date_1643 *creator_lestoile 
 
 -*who_alphonse
 Hé bien ! Madame, enfin faut-il vivre ou mourir ?
@@ -748,7 +748,7 @@ Nous vous en laisserons le funeste⁎ loisir,
 Et donnerons des pleurs à vostre déplaisir.
 Haly, retirez-vous, sans les perdre de veüe.
 
-**** *book_ *id_II04 *act_II *date_1643 *creator_lestoile
+**** *book_ *id_II04 *act_II *date_1643 *creator_lestoile 
 
 -*who_alphonse
 Ha ! malheureux depart.
@@ -1027,7 +1027,7 @@ Il y faudra mourir.
       Hé bien, nous y mourrons.
 FIN DU SECOND ACTE.
 
-**** *book_ *id_III01 *act_III *date_1643 *creator_lestoile
+**** *book_ *id_III01 *act_III *date_1643 *creator_lestoile 
 
 -*who_la_reyne
 Ouy, se disant adieu tous deux versoient des larmes,
@@ -1070,7 +1070,7 @@ De quoy luy pouvez-vous estre encore obligée ?
 Mais le voicy luy-mesme ; ô Dieu qu'il est changé !
 Se verra-t'il jamais esprit plus affligé ?
 
-**** *book_ *id_III02 *act_III *date_1643 *creator_lestoile
+**** *book_ *id_III02 *act_III *date_1643 *creator_lestoile 
 
 -*who_alphonse
 Grand Roy, puisque mes vœux, mes soûpirs, et mes larmes
@@ -1816,7 +1816,7 @@ Garde, suivez Alphonse, allez y de ma part,
 Et cherchez-y par tout, avant qu'il soit plus tard ;
 Vous, Haly, demeurez.
 
-**** *book_ *id_IV04 *act_IV *date_1643 *creator_lestoile
+**** *book_ *id_IV04 *act_IV *date_1643 *creator_lestoile 
 
 -*who_haly
       Que cét affront me pique⁎ !
@@ -1903,7 +1903,7 @@ Vostre sort⁎ est douteux⁎, et bien tost son retour
 Vous doit rendre l'honneur⁎, ou vous oster le jour.
 FIN DU QUATRIEME ACTE.
 
-**** *book_ *id_V01 *act_V *date_1643 *creator_lestoile
+**** *book_ *id_V01 *act_V *date_1643 *creator_lestoile 
 
 -*who_alphonse
 Ha ! je l'y cherche en vain, on l'en a retirée,

@@ -1013,7 +1013,7 @@ Les Exemplaires ont esté fournis.
  – POLEMAS,vieillard, Pere d'Elize, & d'Octave.
  – OCTAVE,frere d'Elize, & amoureux de Diane.
 La Scene est à Paris.
-
+ 
 
 
 ## ACTE PREMIER.
@@ -1263,7 +1263,7 @@ Vous irez de ma part, & verrez ce que c'est.
 Entrons, je le veux bien, j'iray puis qu'il vous plaist.  
 
 
-### SCENE V
+### SCENE V 
 CLORIMANT, GERASTE
 
 
@@ -1310,7 +1310,7 @@ Estre en la rue ?
 Que sçavons nous Monsieur, peut-estre qu'il nous guette.  
 
 
-### SCENE VI
+### SCENE VI 
 POLEMAS, OCTAVE, CLORIMANT, GERASTE
 
 
@@ -1647,7 +1647,7 @@ Si tu ne veux soudain me mettre au desespoir.
 
     PAULINE
 Va ne crains rien, & vien [90] promptement me revoir.  
-Fin du premier Acte
+Fin du premier Acte 
 
 
 ## ACTE II
@@ -1701,7 +1701,7 @@ Je fais ce que tu veux.
         Et toy Geraste aussi.  
 
 
-### SCENE II
+### SCENE II 
 CLITANDRE, ELIZE, CLORIMANT, ORMIN, GERASTE, PAULINE
 
 
@@ -1822,7 +1822,7 @@ On appelle Madame.
         Ah grands Dieux qui sera-ce ?  
 
 
-### SCENE III
+### SCENE III 
 ELIZE, PAULINE, POLEMAS, CLITANDRE, OCTAVE, ORMIN
 
 
@@ -2047,7 +2047,7 @@ Pourrez-vous à Diane ainsi manquer de foy⁎ ?
 Elle aura patience⁎ aussi bien comme moy [114].  
 
 
-### SCENE IIII
+### SCENE IIII 
 CLORIMANT, GERASTE, ELIZE, PAULINE
 
 
@@ -2228,7 +2228,7 @@ Je suis morte r'entrons [130], peut-estre un mot d'escrit
 Aura quelque pouvoir sur ce boüillant [131] esprit.  
 
 
-### SCENE V
+### SCENE V 
 DIANE, JULIE
 
 
@@ -2251,7 +2251,7 @@ J'oy du bruit, voy qui c'est.
         C'est Clitandre, Madame.  
 
 
-### SCENE VI
+### SCENE VI 
 DIANE, CLITANDRE, JULIE, ORMIN
 
 
@@ -2416,7 +2416,7 @@ Que ferons-nous Monsieur ?
         Mon Elize est un Ange :  
 Sortons, n'arrestons [138] pas d'avantage en ce lieu.  
 Allons revoir Élize. Adieu Diane, Adieu.  
-Fin du second Acte
+Fin du second Acte 
 
 
 ## ACTE III
@@ -3110,7 +3110,7 @@ Puissiez-vous revenir en santé du voyage.
 
 
 
-### SCENE VII
+### SCENE VII 
 POLEMAS, CLITANDRE, ORMIN, ELIZE, PAULINE, OCTAVE
 
 
@@ -3279,7 +3279,7 @@ Et que l'Amour l'emporte au dessus du devoir.
     ELIZE
 Mon pere, c'en est faict, pardonnez cette offence,  
 Mon Amour est plus fort que mon obeïssance.  
-Fin du troisiesme Acte
+Fin du troisiesme Acte 
 
 
 ## ACTE IIII
@@ -3515,7 +3515,7 @@ Dieux il me faut cacher je ne m'en puis deffendre.
 Grands Dieux que faites vous ?  
 
 
-### SCENE III
+### SCENE III 
 OCTAVE, CLITANDRE, JULIE, DIANE, & CLORIMANT, GERASTE, ELIZE, & PAULINE, cachez dans la mesme chambre
 
 
@@ -4208,7 +4208,7 @@ Monte, viens te coucher.
 Clorimant tu ne peux desmentir ton amour.  
 Va je ne te crains plus, & croy, quoy que tu faces,  
 Qu'à present je me ry de toutes tes menaces.  
-Fin du quatriesme Acte
+Fin du quatriesme Acte 
 
 
 ## ACTE V
@@ -4551,7 +4551,7 @@ J'entens monter quelqu'un, Madame, c'est Octave.
 Il vient pour m'attaquer, il vient faire du brave.  
 
 
-### SCENE V
+### SCENE V 
 OCTAVE, DIANE, CLITANDRE, ORMIN, JULIE
 
 
@@ -4649,7 +4649,7 @@ Pourrois-je justement abandonner mon maistre ?
 Je n'attendois pas moins d'un perfide & d'un traistre.  
 
 
-### SCENE VI
+### SCENE VI 
 DIANE, JULIE
 
 
@@ -4783,7 +4783,7 @@ Dessous les mesmes loix je m'en vay me ranger,
 Et me joindre à Diane afin de me vanger.  
 
 
-### SCENE VIII
+### SCENE VIII 
 POLEMAS, CLITANDRE, ELIZE, PAULINE, ORMIN, OCTAVE, & accompagnement
 
 

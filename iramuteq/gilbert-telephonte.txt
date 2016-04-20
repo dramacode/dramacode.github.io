@@ -14,7 +14,7 @@ LE BRUN.
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_I01 *act_I *date_1642 *creator_gilbert
+**** *book_ *id_I01 *act_I *date_1642 *creator_gilbert 
 
 -*who_merope
 Divin flambeau⁎ du Ciel dont la course diverse
@@ -174,7 +174,7 @@ Mais avec la pitié faisons qu'elle le touche.
 
 **** *book_ *id_I02 *act_I *date_1642 *creator_gilbert
 
--*who_le_tyran
+-*who_le_tyran 
 Race du grand Archas, et de ces premiers Roys,
 Qui dans ce doux Climat ont fais fleurir les loix ;
 Cet honneur est bien grand, mais le Ciel vous fit telle,
@@ -292,7 +292,7 @@ Et son dernier moment sera ma derniere heure.
 
 **** *book_ *id_I03 *act_I *date_1642 *creator_gilbert
 
--*who_le_tyran
+-*who_le_tyran 
 Madame. Elle s'en va pleine de desespoir,
 Je ne puis l'oüir plaindre, et ne pas m'esmouvoir,
 Ah que je suis troublé !
@@ -309,7 +309,7 @@ D'un songe que j'ay fait l'image m'espouvente :
 Aprens si j'ay raison d'en avoir tant d'effroy,
 Cresphonte cette nuit a paru devant moy.
 
--*who_demochare
+-*who_demochare 
 Cresphonte !
 
 -*who_le_tyran
@@ -443,7 +443,7 @@ Il faut, si mon amour ne peut rien sur son ame,
 La traiter en esclave, user d'authorité,
 Et luy faire des loix de vostre volonté.
 
--*who_le_tyran
+-*who_le_tyran 
 Dis luy qu'à cet Hymen il faut qu'elle s'appreste,
 Que je veux dés demain en celebrer la feste.
 
@@ -472,7 +472,7 @@ Dissipera bien-tost l'ennuy⁎ qui vous surmonte.
 
 **** *book_ *id_II01 *act_II *date_1642 *creator_gilbert
 
--*who_merope
+-*who_merope 
 Je n'ay rien obtenu ny pour vous ny pour moy,
 Le Tyran foule aux pieds la justice et la loy ;
 Son ame veut son sang, elle en est alterée,
@@ -487,7 +487,7 @@ Un desespoir plus juste⁎ alloit borner mes jours,
 Et rien ne me retient que vos sages discours ;
 Vous consolliés autruy, consolés-vous vous mesme.
 
--*who_merope
+-*who_merope 
 Mon mal est sans pareil.
 
 -*who_philoclee
@@ -567,7 +567,7 @@ Dont il est embrazé dés qu'il pense à son pere,
 Ah si vous connoissiez son ardente amitié !
 Je croy que vostre amour s'accroistroit de moitié.
 
--*who_merope
+-*who_merope 
 Que ce discours me plaist, continuez encore,
 Il charme avec mes sens l'ennuy⁎ qui me devore :
 Si tes hautes vertus surpassent tes malheurs,
@@ -650,7 +650,7 @@ Il sçait que vous vivez ; Mais que veut Cephalie ?
 
 **** *book_ *id_II02 *act_II *date_1642 *creator_gilbert
 
--*who_cephalie
+-*who_cephalie 
 C'est Tyrene, Madame, est dedans ce Palais.
 
 -*who_merope
@@ -673,7 +673,7 @@ Un magnanime cœur ne peut dissimuler.
 
 **** *book_ *id_II03 *act_II *date_1642 *creator_gilbert
 
--*who_demochare
+-*who_demochare 
 D'où naist cette douleur ? Pourquoi, belle Princesse,
 Livrez-vous vos appas⁎ au dueil, à la tristesse ?
 Ces soucis⁎ et ces pleurs n'auront-ils point de fin ?
@@ -884,7 +884,7 @@ Ce qu'Hermocrate veut et que le Ciel ordonne.
 
 **** *book_ *id_III01 *act_III *date_1642 *creator_gilbert
 
--*who_philoclee
+-*who_philoclee 
 Tyrene pourroit seul me tirer de soucy⁎ :
 Mais je n'ay pû le voir depuis qu'il est icy.
 J'allois de Telephonte apprendre la fortune⁎,
@@ -954,7 +954,7 @@ C'est l'unique moyen qui m'en pourra deffaire.
 
 **** *book_ *id_III02 *act_III *date_1642 *creator_gilbert
 
--*who_demochare
+-*who_demochare 
 Un chagrin eternel accompagne vos jours.
 
 -*who_philoclee
@@ -1140,7 +1140,7 @@ Vanter vostre valeur, l'egaler à la sienne,
 C'est vouloir egaler et le foible et le fort,
 Le lasche et le vaillant.
 
--*who_demochare
+-*who_demochare 
       Et le vif et le mort.
 
 -*who_philoclee
@@ -1216,7 +1216,7 @@ Et le thrône Royal est plus doux qu'un cercueil.
 
 **** *book_ *id_III03 *act_III *date_1642 *creator_gilbert
 
--*who_philoclee
+-*who_philoclee 
 Tyran tu crois en vain accomplir ton envie⁎,
 Je sçauray preferer mon honneur à ma vie ;
 Je sçauray me montrer en courant au trespas,
@@ -1232,7 +1232,7 @@ Mais ne l'accusez plus, je le voy qui s'avance.
 
 **** *book_ *id_III04 *act_III *date_1642 *creator_gilbert
 
--*who_philoclee
+-*who_philoclee 
 Ah Tyrene ! en deux mots dy moy quel est mon sort⁎,
 Mon pere est-il vivant, Telephonte est-il mort ?
 
@@ -1333,7 +1333,7 @@ Le present vous fait peur.
 -*who_philoclee
       Encor plus l'advenir.
 
--*who_tyrene
+-*who_tyrene 
 Vous devez esperer.
 
 -*who_philoclee
@@ -1395,7 +1395,7 @@ Ne craignez rien pour moy je m'en vay l'aborder.
 
 **** *book_ *id_IV01 *act_IV *date_1642 *creator_gilbert
 
--*who_cephalie
+-*who_cephalie 
 Tout est perdu Madame.
 
 -*who_merope
@@ -1519,7 +1519,7 @@ Regardez l'advenir plein d'heur et plein de gloire.
 Les disgraces, les maux, les regrets, les souspirs
 Desormais feront place aux honneurs, aux plaisirs.
 
--*who_merope
+-*who_merope 
 Il faut qu'à la douleur mon esprit s'abandonne,
 Tu m'ostes mes enfans Cresphonte et la couronne.
 Je suis mere sans fils, et femme sans espoux,
@@ -1546,7 +1546,7 @@ Mon bras à tous les Rois eust declaré la guerre,
 Et pour vous posseder eust desolé la terre.
 Il eust fait voir par tout l'image du trespas.
 
--*who_merope
+-*who_merope 
 Ce que je viens d'entendre, ô Ciel ! l'entens-tu pas ?
 Fais luire les éclairs, et d'un traict de tempeste
 De ce monstre cruel viens écraser la teste.
@@ -1623,7 +1623,7 @@ Arrestez, arrestez, et que pensez-vous faire ?
 -*who_merope
 Quoy veux-tu m'empescher de finir ma misere ?
 
-**** *book_ *id_IV04 *act_IV *date_1642 *creator_gilbert
+**** *book_ *id_IV04 *act_IV *date_1642 *creator_gilbert 
 
 -*who_orphise
 Dieux ! qu'est-ce que je voy ?
@@ -1677,7 +1677,7 @@ Allons verser son sang pour mon sang respandu.
 
 **** *book_ *id_IV05 *act_IV *date_1642 *creator_gilbert
 
--*who_telephonte
+-*who_telephonte 
 J'ay quitté l'Etolie et je suis à Missene,
 Je viens pour satisfaire à l'Amour, à la haine,
 Je viens pour delivrer ma femme et mes parens,
@@ -1804,7 +1804,7 @@ Si la paix regne icy ta valeur nous la donne,
 Par toy nostre Ennemy voit ses desseins trahis,
 Mais aprens moy ton nom, ton destin, ton pays.
 
--*who_tyndare
+-*who_tyndare 
 On me nomme Tyndare, et je suis de Missene,
 La Fortune⁎ toujours m'a tesmoigné sa haine,
 Me trouvant en bas age et sans pere et sans biens
@@ -1829,7 +1829,7 @@ Je suis le plus heureux qui soit sous le soleil.
 Je n'ay rien fait encor digne d'un grand courage,
 J'attends l'occasion.
 
--*who_demochare
+-*who_demochare 
       Que veux-tu davantage ?
 N'as-tu pas de mon Pere asseuré les Estats ?
 Je possede en repos la fille d'Amynthas.
@@ -1857,7 +1857,7 @@ Pardonnez moy Seigneur, si j'ose ouvrir la bouche
 Mais je prends tant de part à tout ce qui vous touche,
 Que je ne m'en puis taire.
 
--*who_demochare
+-*who_demochare 
       Ah ! dy tout franchement,
 Tu le peux desormais, parle donc hardiment.
 
@@ -1885,7 +1885,7 @@ Mais le terme s'aproche, y consentira-t'elle ?
 -*who_demochare
 Elle y doit consentir, elle doit estre à moy.
 
--*who_tyndare
+-*who_tyndare 
 L'on dit qu'à Telephonte elle a donné sa foy⁎,
 Que par mille sermens elle s'est engagée :
 Mais pour vous justement on la verra changée.
@@ -1914,7 +1914,7 @@ Il faut ou qu'elle meure, ou qu'elle soit ma femme.
 -*who_tyndare
 Barbare auparavant je t'arracheray l'ame.
 
--*who_demochare
+-*who_demochare 
 Philoclée est captive et sujette à mes loix,
 Tu sçais qu'elle est Esclave, une Esclave est sans chois,
 Je ne voy nul obstacle à nostre mariage
@@ -1940,7 +1940,7 @@ Quelle marque à mon Pere en aporteras tu ?
 Pour l'en mieux asseurer aportes-tu sa teste
 Qui de l'Estat troublé doit calmer la tempeste ?
 
--*who_tyndare
+-*who_tyndare 
 Ouy je l'aporte au Roy, j'ay tout ce qu'il pretend.
 
 -*who_demochare
@@ -1996,7 +1996,7 @@ Ouy, ouy, je te suivray jusques dedans le Temple,
 Pour t'y sacrifier et ton Pere avec toi,
 Ah belle occasion ! ô Ciel seconde moy.
 
-**** *book_ *id_V01 *act_V *date_1642 *creator_gilbert
+**** *book_ *id_V01 *act_V *date_1642 *creator_gilbert 
 
 -*who_tydee
 Tyrene, est-il possible, as-tu veu Telephonte ?
@@ -2041,7 +2041,7 @@ L'on peut en un besoin tout le peuple esmouvoir.
 Allons donc pour les joindre, allons brave Tyrene,
 Secondons nostre Prince, et delivrons Missene.
 
--*who_tyrene
+-*who_tyrene 
 La nuit nous favorise et tout nous est permis,
 La Justice est pour nous, les Dieux sont nos amis,
 Le Temple n'est pas loin, achevons l'entreprise,
@@ -2061,7 +2061,7 @@ Il ne faut plus chercher cet assassin, cet traitre,
 Un traitre comme luy l'aura faict disparaistre.
 Et nous avons couru tout le Palais en vain.
 
--*who_merope
+-*who_merope 
 Nous n'accomplirons point un si juste⁎ dessein,
 O Destin trop cruel ! ô Ciel plein d'injustice !
 Qui sauve un parricide, et l'arrache au supplice.
@@ -2142,7 +2142,7 @@ Allons donc les punir, allons, qui nous retarde,
 Allons les poignarder jusques sur nos Autels,
 Qu'ils ont rougis du sang du plus grand des mortels.
 
--*who_philoclee
+-*who_philoclee 
 Dans nostre desespoir usons de la Prudence,
 Pour oster le soupçon d'une juste⁎ vengeance.
 Dans ce triste Palais attendons leur retour
@@ -2167,7 +2167,7 @@ Mais quelqu'un vient icy.
 
 **** *book_ *id_V03 *act_V *date_1642 *creator_gilbert
 
--*who_merope
+-*who_merope 
 Approche, approche, et voy mes desseins imparfaits,
 Le sort⁎ cruel s'oppose à mes justes⁎ souhaits,
 Le Ciel semble approuver un si grand parricide,
@@ -2208,7 +2208,7 @@ Qu'on ne me suive pas.
 -*who_merope
       Suivons la passion.
 
--*who_cephalie
+-*who_cephalie 
 Il vient seul.
 
 -*who_philoclee
@@ -2237,7 +2237,7 @@ Ah traistre tu mourras !
 -*who_telephonte
 N'est-ce pas Philoclée ?
 
--*who_philoclee
+-*who_philoclee 
       Ouy c'est elle.
 
 -*who_merope
@@ -2264,7 +2264,7 @@ Laissez, laissez moy faire.
 Non je me veux vanger par un juste⁎ trespas,
 En vain vous m'empeschez, la fureur me surmonte.
 
--*who_philoclee
+-*who_philoclee 
 Tremperez-vous vos mains au sang de Telephonte ?
 
 -*who_merope
@@ -2426,7 +2426,7 @@ Ou mort dans le combat ?
 
 **** *book_ *id_V05 *act_V *date_1642 *creator_gilbert
 
--*who_telephonte
+-*who_telephonte 
       N'ensoyez plus en peine,
 Je l'appercoy qui vient, approchez-vous Tyrene,
 Et venez prendre part à ma felicité.

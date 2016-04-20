@@ -694,7 +694,7 @@ Achevé d'imprimer pour la premiere fois le 4. Janvier 1672.
  – CATO,Suivante de Lucinde.
  – LA BRIE,Laquais de Damon.
 La Scene est à Paris.
-
+ 
 
 
 ## ACTE PREMIER
@@ -831,7 +831,7 @@ Que si ton Frere estoit comme nous dans ces lieux,
 Au plaisir de te voir il seroit plus sensible.  
 
 
-### SCENE II
+### SCENE II 
 DAMON, ANGELIQUE, LUCINDE
 
 
@@ -1021,7 +1021,7 @@ Je vais pour l'obtenir, me rendre à sa demeure.
 Je vous quitte à regret, & reviens dans une heure.  
 
 
-### SCENE V
+### SCENE V 
 LUCINDE, ANGELIQUE, L'ESPERANCE, CATO
 
 
@@ -1181,7 +1181,7 @@ Evitons-le, il pourroit m'aborder.
         J'y consens.  
 
 
-### SCENE VII
+### SCENE VII 
 MONSIEUR LE BLANC, MADAME LE BLANC
 
 
@@ -1336,7 +1336,7 @@ L'a fait, pour m'imiter, servir de ce détour ?
 Mais voicy mon Neveu, je pense qu'il murmure.  
 
 
-### SCENE IX
+### SCENE IX 
 MONSIEUR LE BLANC, DAMON.
 
 
@@ -1525,7 +1525,7 @@ Je veux absolument rompre cette partie.
 Le dessein que je fais est un peu dangereux,  
 Mais il faut hazarder, si l'on veut estre heureux ;  
 Je l'aime, elle le sçait, mes soins l'ont fait connoistre :  
-Voyons-la ; Que sçait-on ? je lui plairay peut-estre.  < Fin du Premier Acte. >
+Voyons-la ; Que sçait-on ? je lui plairay peut-estre.  < Fin du Premier Acte. > 
 
 
 ## ACTE II
@@ -1663,7 +1663,7 @@ Bon cela. Souviens-toy…
         Chevalier,  
 Dites-moy, sentons-nous [117] un peu nostre Officier ?  
 A Lucinde
-
+ 
 Que dites-vous de nous ? Ce port, cette manière,  
 A vostre avis, ma Chere, est-elle Cavaliere ?  
 Avons-nous le bon air ? Croyez-vous que le Roy  
@@ -2365,7 +2365,7 @@ Puis que vous le voulez, adieu, Monsieur.
 Il meurt de jalousie, & de colere ensemble.  
 J'ay bien joüé mon rôle ; & voila, ce me semble,  
 Pour un commencement, assez bien débuté.  
-Allons songer au reste, & rire en liberté.  < Fin du Second Acte. >
+Allons songer au reste, & rire en liberté.  < Fin du Second Acte. > 
 
 
 ## ACTE III
@@ -2521,7 +2521,7 @@ Et Monsieur l'Officier n'a plus que faire d'elle :
 Mon Neveu l'accompagne. Il faut dissimuler.  
 
 
-### SCENE III
+### SCENE III 
 MONSIEUR LE BLANC, MADAME LE BLANC, DAMON.
 
 
@@ -2641,7 +2641,7 @@ Mon Oncle…
         Mon Neveu, vous prenez trop de soin.  
 
 
-### SCENE IV
+### SCENE IV 
 MONSIEUR LE BLANC, DAMON.
 
 
@@ -2760,7 +2760,7 @@ Et je sçais un moyen… Serviteur.
         Je vous laisse.  
 
 
-### SCENE V
+### SCENE V 
 
     MONSIEUR LE BLANC *seul*.
 Il raisonne assez bien, je puis m'estre trompé,  
@@ -2931,7 +2931,7 @@ J'iray tantost⁎ chez toy. Feignons jusques au bout.
 Je vais revoir ma Femme, & veux à l'amiable  
 A son honneur douteux faire amande honorable,  
 Et feindre d'un discours, & d'un air composé,  
-Pour la mieux abuser, d'estre des-abusé.  < Fin du Troisième Acte. >
+Pour la mieux abuser, d'estre des-abusé.  < Fin du Troisième Acte. > 
 
 
 ## ACTE IV
@@ -2962,7 +2962,7 @@ Allons tout préparer, & faisons diligence [166].
 
 
 ### SCENE II
-L'ESPERANCE,.
+L'ESPERANCE, CATO.
 
 
     L’ESPERANCE
@@ -3389,7 +3389,7 @@ Il se met à genoux, en luy baisant la main
 
 
 
-### SCENE VIII
+### SCENE VIII 
 ANGELIQUE, M. LE BLANC, LUCINDE.
 
 
@@ -3559,7 +3559,7 @@ Et pour vous faire voir combien je veux vous plaire ;
 L'Esperance?  
 
 
-### SCENE IX
+### SCENE IX 
 L'ESPERANCE, ANGELIQUE, M. LE BLANC, LUCINDE.
 
 
@@ -3764,7 +3764,7 @@ Vit avec moy déjà de pair & compagnon.
 Je suis parbleu ravy que vous soyez des nostres.  
 
     MONSIEUR LE BLANC
-Fort-bien. Avec le temps nous en verrons bien d'autres.  < Fin du Quatrième Acte. >
+Fort-bien. Avec le temps nous en verrons bien d'autres.  < Fin du Quatrième Acte. > 
 
 
 ## ACTE V
@@ -4045,7 +4045,7 @@ Je risque tout pour vous; Je vais querir la Belle;
 Quand vous nous entendrez, éteignez la chandelle.  
 
 
-### SCENE VI
+### SCENE VI 
 
     MONSIEUR LE BLANC *seul*.
 Mieux que je n'esperois, mes soins ont reüssy,  
@@ -4124,7 +4124,7 @@ Je m'en vay boire un coup en attendant.
 
     MONSIEUR LE BLANC *seul.*
 Sans argent, mille coups relançoient ma prière.  
-J'entens venir quelqu'un, éteignons la lumière.  
+J'entens venir quelqu'un, éteignons la lumière.   
 
 
 ### SCENE IX
@@ -4473,7 +4473,7 @@ Qu'en dites-vous?
         Je croy que c'est elle en effet.  
 
 
-### SCENE XIV
+### SCENE XIV 
 ANGELIQUE, DAMON, MONSIEUR LE BLANC, MADAME LE BLANC, CATO.
 
 
@@ -4544,7 +4544,7 @@ Il n'en est pas besoin, voila vostre Garent.
 Songeons à son repos⁎, pour celuy qu'il me rend.  
 
 
-### SCENE DERNIERE
+### SCENE DERNIERE 
 MONSIEUR LE BLANC, MADAME LE BLANC, DAMON, LUCINDE, ANGELIQUE. [198]
 
 

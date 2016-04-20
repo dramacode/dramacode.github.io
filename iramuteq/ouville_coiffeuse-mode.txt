@@ -16,7 +16,7 @@ Ledit QUINET a fait part du present Privilege à ANTOINE DE SOMMAVILLE, Marchand
 
 **** *book_ *id_I01 *act_I *date_1647 *creator_ouville
 
--*who_acaste
+-*who_acaste 
 Certainement amy je commence à connestre
 Que je suis moins aymé que je ne pensois l'estre,
 Puisque j'ignore encor ce qui vous trouble ainsi.
@@ -861,7 +861,7 @@ Và ne redoute rien. Pauline va sçavoir
 Si Leonor est là, si je la pourray voir?
 Mais la voicy qui sort, arreste-toy Pauline.
 
-**** *book_ *id_II03 *act_II *date_1647 *creator_ouville
+**** *book_ *id_II03 *act_II *date_1647 *creator_ouville 
 
 -*who_dorotee
 Et bien que vous en semble? ay-je pas bonne mine?
@@ -1233,7 +1233,7 @@ Elle eust quelques defauts, je ne les verrois pas.
 -*who_flore
 Dieux! quel impertinent.
 
--*who_arimant
+-*who_arimant 
       Flore n'est pas contente
 A ce que je puis voir d'entendre que l'on vante,
 De Dorotée ainsi la grace et la beauté:
@@ -1260,7 +1260,7 @@ As-tu des lettres?
 -*who_philipin
       Ouy d'elle.
 
--*who_acaste
+-*who_acaste 
 Donne-les promptement. Vous m'excuserez bien
 Madame, si je quitte un si doux entretien.
 Pardonnez s'il vous plaist à mon impatience.
@@ -1286,7 +1286,7 @@ En l'estat où pour vous m'a mis ma passion.
 -*who_flore
 Pourquoy?
 
--*who_arimant
+-*who_arimant 
       Ne vous ayant nulle obligation,
 Madame usant vers moy d'un traitement si rude
 Pourriez-vous m'accuser jamais d'ingratitude?
@@ -1331,7 +1331,7 @@ Est-ce pas Leonor?
 -*who_beatrix
       Ouy, Madame, c'est elle.
 
--*who_dorotee
+-*who_dorotee 
 Madame vous plaist-il d'une façon nouvelle
 Voir des coiffes, des noeuds, des tresses, des rubans,
 Des bracelets brodez, et de forts beaux galands⁎?
@@ -1359,7 +1359,7 @@ Emmenez la demain Leonor, je vous prie.
 -*who_leonor
 Je n'y manqueray pas.
 
--*who_dorotee
+-*who_dorotee 
       Je ne vis en ma vie
 Une plus agreable et plus rare beauté.
 
@@ -1413,7 +1413,7 @@ N'est-ce pas Dorotée à present que je voy.
 -*who_philipin
 Ce ne l'est pas, Monsieur, mais ce la devroit estre.
 
--*who_dorotee
+-*who_dorotee 
 Je perds l'esprit grands Dieux! voyez un peu le traistre,
 Le tour que m'a joüé cét insigne affronteur,
 Maudit soit le mestier, je le dy de bon cœur,
@@ -1439,7 +1439,7 @@ Etes-vous en colere.
 -*who_dorotee
 J'en ay trop de sujet.
 
--*who_flore
+-*who_flore 
       Dites-le, je vous prie.
 
 -*who_dorotee
@@ -1666,7 +1666,7 @@ Et nous assommeront, Monsieur, pensez-y bien.
 -*who_acaste
 Va tu n'es qu'un maraut⁎, je ne redoute rien.
 
-**** *book_ *id_III08 *act_III *date_1647 *creator_ouville
+**** *book_ *id_III08 *act_III *date_1647 *creator_ouville 
 
 -*who_pamphile
 Que voulez-vous, Monsieur ?
@@ -1737,7 +1737,7 @@ Monsieur le voudroit-il soustenir de la sorte.
 Entrons et visitons un peu cette autre porte.
 Fin du troisième Acte
 
-**** *book_ *id_IV01 *act_IV *date_1647 *creator_ouville
+**** *book_ *id_IV01 *act_IV *date_1647 *creator_ouville 
 
 -*who_philipin
 Quel est vostre dessein ? pourquoy revenez-vous
@@ -1776,7 +1776,7 @@ Il nous lorgnoit tanstot d'une estrange posture,
 Et nous mangeoit des yeux, c'est une chose seure,
 Qu'il bande son fuzil, et s'arme là dedans
 
-**** *book_ *id_IV02 *act_IV *date_1647 *creator_ouville
+**** *book_ *id_IV02 *act_IV *date_1647 *creator_ouville 
 
 -*who_dorotee
 Que voulez-vous, Monsieur ? que cherchez-vous ceans⁎ ?
@@ -1799,7 +1799,7 @@ Nous avons la berluë, et nous n'avons rien veu.
 -*who_dorotee
 Vous ne respondez point ?
 
--*who_pamphile
+-*who_pamphile 
       Ce Cavalier a creu
 Qu'il est entré chez vous une certaine fille
 Qui coiffe proprement, et qu'il trouve gentille.
@@ -1852,7 +1852,7 @@ Que par ces actions publiques.
 -*who_acaste
       Moy, Madame ?
 
--*who_philipin
+-*who_philipin 
 C'est à ce coup grands Dieux que je perds tous les sens.
 
 -*who_dorotee
@@ -1879,7 +1879,7 @@ Adieu, je suis troublée, et je crains mesme aussi
 Que mon mary ne vienne, et ne vous trouve icy.
 Cecy vous doit suffire.
 
--*who_acaste
+-*who_acaste 
       Hé quoy ! ma chere Dame,
 Elle part, et me laisse un grand trouble⁎ dans l'ame,
 
@@ -2087,7 +2087,7 @@ Si farouche, si sotte, et si capricieuse,
 Qu'il n'est homme icy bas qui ne luy fasse peur,
 A cause qu'elle croit que tout homme est trompeur.
 
--*who_leonor
+-*who_leonor 
 Ce remede est certain.
 
 -*who_dorotee
@@ -2182,7 +2182,7 @@ Nous le verrons.
 -*who_acaste
       Mais je vois Arimant.
 
-**** *book_ *id_IV05 *act_IV *date_1647 *creator_ouville
+**** *book_ *id_IV05 *act_IV *date_1647 *creator_ouville 
 
 -*who_arimant
 Quoy si pres du logis je vous trouve en la ruë ?
@@ -2207,7 +2207,7 @@ Vous pouvez plus icy sans moi, que moy sans vous.
 -*who_acaste
 Je ne vous entends point, cette enigme m'estonne⁎.
 
--*who_arimant
+-*who_arimant 
 Je ne veux, cher Acaste, estre obscur à personne,
 Je me veux expliquer, sçachez donc que je croy
 Que Flore a de l'amour pour vous, et peu pour moy.
@@ -2254,7 +2254,7 @@ A ce que dit son homme elle s'appelle ainsi.
 Je ne la cognoy point, et je suis en soucy
 Beatrix, quelle elle est.
 
--*who_beatrix
+-*who_beatrix 
       Madame elle est tres-belle.
 
 -*who_flore
@@ -2377,7 +2377,7 @@ Fin du quatriesme acte.
 
 **** *book_ *id_V01 *act_V *date_1647 *creator_ouville
 
--*who_flore
+-*who_flore 
 Resvez-je point icy ? suis-je bien éveillée ?
 Ma paupiere, grands Dieux ! est-elle dessillée ?
 Quoy respiray-je encor ? quels charmes si puissans
@@ -2541,7 +2541,7 @@ Que je vous quitte, adieu, je vous cede la place.
 -*who_acaste
 Nous n'avons pas dessein de vous incommoder.
 
-**** *book_ *id_V03 *act_V *date_1647 *creator_ouville
+**** *book_ *id_V03 *act_V *date_1647 *creator_ouville 
 
 -*who_acaste
 Mais encore sur quoy se veut-elle fonder ?
@@ -2589,7 +2589,7 @@ Ouy voilà deux pacquets.
 Je me trompe Arimant, non, non, ce n'est point elle.
 Dieux ! quelle vision avois-je !
 
--*who_arimant
+-*who_arimant 
       Encor pourquoi ?
 
 -*who_acaste
@@ -2689,7 +2689,7 @@ Vois-tu je veux partir dés la pointe du jour,
 -*who_philipin
 Bien j'y cours de ce pas.
 
-**** *book_ *id_V05 *act_V *date_1647 *creator_ouville
+**** *book_ *id_V05 *act_V *date_1647 *creator_ouville 
 
 -*who_philipin
       Monsieur bonne nouvelle,
@@ -2738,7 +2738,7 @@ Avec qui pratiquer ailleurs la raillerie,
 Les hommes d'aujourd'huy sont de vrais cajolleurs
 Et mesme on ne doit pas se fier aux meilleurs.
 
--*who_acaste
+-*who_acaste 
 Arimant, cette fille est de l'humeur de Flore.
 
 -*who_arimant
@@ -2792,7 +2792,7 @@ Vrayment elle a grand tort d'en user de la sorte.
 Les cheveaux seront prests, et vous pourrez sortir
 Dès la pointe du jour.
 
--*who_dorotee
+-*who_dorotee 
       Qui veut doncques partir ?
 Sit tost de cette ville ?
 
@@ -2843,7 +2843,7 @@ Courage, tout va bien.
       Un certain homme en bas
 Vous demande.
 
--*who_acaste
+-*who_acaste 
       Son nom.
 
 -*who_philipin
@@ -2867,7 +2867,7 @@ De Madame Angelique.
 -*who_pamphile
 Que son mary s'en va demain à la Rochelle.
 
--*who_dorotee
+-*who_dorotee 
 Que nous importe-t'il ?
 
 -*who_pamphile
@@ -2892,7 +2892,7 @@ Adieu Monsieur.
 Que cette Angelique est toute telle que toy :
 Et que ma Dorotée.
 
--*who_dorotee
+-*who_dorotee 
       Oh la plaisante histoire,
 Vous imaginez-vous que je vous aille croire ?
 
@@ -2916,7 +2916,7 @@ Encor une autre ?
 -*who_arimant
 Flore icy, justes Dieux! cela ne peut pas estre.
 
--*who_flore
+-*who_flore 
 La coiffeuse est icy ? voyez un peu le traistre,
 Cette Helene sans doute a dit la verité.
 
@@ -2942,7 +2942,7 @@ Ah Madame ! s'il faut que ce bon-heur m'advienne
 Est-il felicité comparable à la mienne ?
 Quel homme assez heureux me pourroit égaler.
 
--*who_acaste
+-*who_acaste 
 Permettez-moy, Madame, à present de parler,
 La vengeance sans doute est juste, et legitime :
 Mais encor que je sois si mal dans vostre estime,
@@ -2968,7 +2968,7 @@ Son nom est Dorotée.
 -*who_acaste
 Pour aller espouzer ce ravissant object.
 
--*who_dorotee
+-*who_dorotee 
 Ce n'est pas le moyen d'appaiser vostre flame⁎,
 Que de partir.
 
@@ -2995,7 +2995,7 @@ Vous desabusez-vous ?
 -*who_dorotee
 Quoy voyant Dorotée ?
 
--*who_acaste
+-*who_acaste 
       Ah ! je crains ta malice !
 Si tu crois m'arrester avec cét artifice,
 Tu n'y feras que perdre, et ta peine⁎, et ton temps,

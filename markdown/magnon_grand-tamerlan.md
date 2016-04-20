@@ -901,7 +901,7 @@ Allerent dire aux siens qu'ils en avoient leur part.
     DORIZE.
 Il est fils d'un vainqueur qui vous tient dans ses chaines.  
 
-    ROXALIE.
+    ROXALIE. 
 Mais Prince dont les soins⁎ ont adoucy nos peines.  
 Mon cœur par ses respects comme presque forcé,  
 Acheve ce que l'œil a si bien commencé,  
@@ -925,7 +925,7 @@ Je vois venir Themir.
     ROXALIE.
         Sors, & nous laisse ensemble [56].  
 
-    DORIZE.
+    DORIZE. 
 Vous luy devriez [57] parler pour la derniere fois,  
 
     ROXALIE.
@@ -950,7 +950,7 @@ Serez-vous du combat ?
     ROXALIE.
 Sur qui porterez-vous la pointe de vos armes ?  
 
-    THEMIR.
+    THEMIR. 
 O fatale rencontre & digne de nos larmes !  
 
     ROXALIE.
@@ -975,7 +975,7 @@ Desja vous vous pressiez de m'aller obeyr,
 Sur ce commandement m'auriez-vous pû trahir ?  
 Enfin declarez-vous, combattrés-vous mon pere ?  
 
-    THEMIR.
+    THEMIR. 
 Je ne puis démeler qui des deux je prefere,  
 J'écoute également l'amour & le devoir,  
 Et tous deux sur mon ame ont un mesme pouvoir ;  
@@ -1029,7 +1029,7 @@ J'en suis moins criminel, si je trouve un complice.
     ROXALIE.
 J'exige de vostre ame un rigoureux service,  
 
-    THEMIR.
+    THEMIR. 
 Commandez.  
 
     ROXALIE.
@@ -1057,7 +1057,7 @@ Et vous devriez rougir de vostre estonnement.
     THEMIR.
 Cruelle [63] Roxalie !  
 
-    ROXALIE.
+    ROXALIE. 
         Et vous Prince timide⁎ !  
 
     THEMIR.
@@ -1087,7 +1087,7 @@ Elle emporte avec soy [64] la moitié de ma vie.
 Allons perdre le reste.  
 
 
-### SCENE III.
+### SCENE III. 
 THEMIR, INDARTHIZE.
 
 
@@ -1109,7 +1109,7 @@ Il les faut dégager de cette servitude.
 Quoy les faire evader pendant nostre combat,  
 Madame, on ne le peut.  
 
-    INDARTHIZE.
+    INDARTHIZE. 
         Tout est en bon estat,  
 Et leur évasion est si bien conjurée,  
 Que vray-semblablement je puis estre asseurée,  
@@ -1161,7 +1161,7 @@ Il vous le peut bien estre, & selon l'apparence,
     THEMIR.
 Qu'avez-vous presumé ?  
 
-    INDARTHIZE.
+    INDARTHIZE. 
         Faut-il que je le pense,  
 Et que je vous le die [70] ?  
 
@@ -1213,7 +1213,7 @@ Je vay de Bajazet me rendre prisonnier :
     INDARTHIZE.
 Quoy tenter ce moyen ?  
 
-    THEMIR.
+    THEMIR. 
         Ce sera le dernier.  
 
     INDARTHIZE.
@@ -1232,7 +1232,7 @@ Je vay de mon costé tenter leurs délivrances.
 Et je sçauray du mien sauver les apparences.  
 
 
-### SCENE DERNIERE.
+### SCENE DERNIERE. 
 TAMERLAN, THEMIR, INDARTHIZE.
 
 
@@ -1330,7 +1330,7 @@ Vous cherchez les moyens de vous justifier,
 De vous ainsi que d'elle on se doit défier ;  
 Vous deviez partager la gloire de leur fuite.  
 
-    THEMIR.
+    THEMIR. 
 D'une action si noble elle a tout le merite ;  
 Et je serois injuste en le luy ravissant.  
 
@@ -1365,10 +1365,10 @@ Quoy, Seigneur !
         De ce pas allés dans vostre tente,  
 Vous dans vostre quartier respondre à nostre attente ;  
 Et d'une voix guerrierre animant vos soldats,  
-Allés les preparer au plus grand des combats.  
+Allés les preparer au plus grand des combats.   
 
 
-## **ACTE II.**
+## ACTE II.
 
 
 ### SCENE PREMIERE.
@@ -1417,7 +1417,7 @@ Ils vont s'envelopper sous un thrône qui tombe,
 Et pensant retenir la pante qu'il a pris,  
 Ils vont dessus leur teste attirer son débris.  
 
-    SELIM.
+    SELIM. 
 Quoy, le grand Bajazet, le vainqueur de la terre,  
 Et qu'on a surnommé le foudre de la guerre [86],  
 Se dément-il si tost d'un si superbe⁎ nom ?  
@@ -1499,7 +1499,7 @@ Il doit venir bien tost.
     BAJAZET.
         Je suis las de l'attendre.  
 
-    SELIM.
+    SELIM. 
 Zilim de nostre part ; il vient nous aborder.  
 
 
@@ -1526,7 +1526,7 @@ Il entre, abaissez-vous devant ce Dieu visible.
 Que cette humilité m'est honteuse & sensible !  
 
 
-### SCENE III.
+### SCENE III. 
 TAMERLAN, BAJAZET, SELIM, ZILIM, Gardes.
 
 
@@ -1549,7 +1549,7 @@ Des Traces, de Nicée, & de la Pamphilie,
 Souverain de Phocide, & de la Natolie :  
 A Tamerlan.  
 
-    TAMERLAN.
+    TAMERLAN. 
         Ton Maistre a-t-il crû me braver ?  
 Je le mettray plus bas qu'il ne veut s'élever :  
 Les qualitez qu'il prend monstrent son arrogance ,  
@@ -1679,7 +1679,7 @@ Ne prendrez qu'à regret ce honteux advantage⁎.
     TAMERLAN.
 Qu'on appelle sa femme.  
 
-    BAJAZET.
+    BAJAZET. 
         Il s'est humilié :  
 Mais quoy que Bajazet se soit tant oublié,  
 C'est un abaissement dont il n'est point capable,  
@@ -1759,7 +1759,7 @@ Je l'attends au combat.
 Que l'on les laisse seuls, Gardes sortez d'icy.  
 
 
-### SCENE V.
+### SCENE V. 
 ORCAZIE, BAJAZET, SELIM.
 
 
@@ -1884,7 +1884,7 @@ Et dans ce double Hymen⁎ allez jurer ma mort :
 Je vais.  
 
 
-### SCENE DERNIERE.
+### SCENE DERNIERE. 
 ZILIM, de surcroy.
 
 
@@ -1962,10 +1962,10 @@ Et bien tost mon trépas vous prouvera mon zele⁎.
 
     BAJAZET.
 De tous également je me dois deffier :  
-Mais allons, le succez vous va justifier.  
+Mais allons, le succez vous va justifier.   
 
 
-## **ACTE III.**
+## ACTE III.
 
 
 ### SCENE PREMIERE.
@@ -2084,7 +2084,7 @@ Pouvez-vous ressentir & vos fers⁎ & les siens ?
 Vous agissez, Madame, avec un trop grand zele⁎,  
 Et vostre pieté vous rendra criminelle.  
 
-    INDARTHIZE.
+    INDARTHIZE. 
 L'amour, ny la vertu⁎ ne me font plus agir,  
 De plus lasches motifs me forcent de [110] rougir :  
 Est-ce par l'interest qu'il faut toucher vostre ame ?  
@@ -2262,7 +2262,7 @@ O Ciel ! en quel estat trouve-je Roxalie ?
 Ah ma fille ! est-ce ainsi qu'une fille s'oublie ?  
 
 
-### SCENE V.
+### SCENE V. 
 TAMERLAN, ROXALIE, ORCAZIE.
 
 
@@ -2409,7 +2409,7 @@ Il demande sa fille ;
     TAMERLAN.
         Elle s'en va le voir.  
 
-    THEMIR.
+    THEMIR. 
 Quoy Roxalie est libre ?  
 
     TAMERLAN.
@@ -2436,7 +2436,7 @@ L'honneur t'engage moins que ne fait Roxalie ;
 Retourne dans son camp, va chez mes ennemis,  
 Va, mesme contre moy, le combat t'est permis.  
 
-    THEMIR.
+    THEMIR. 
 Ah, Seigneur, que plustost !  
 
     TAMERLAN.
@@ -2490,7 +2490,7 @@ Seigneur il est tout prest.
     THEMIR.
 Au moins dans mes souhaits j'auray part à sa gloire.  
 
-    TAMERLAN.
+    TAMERLAN. 
 Sors, sors, voicy la fin de ta captivité.  
 
     THEMIR, *en sortant.*
@@ -2506,7 +2506,7 @@ Pensez-vous par ce prix vous acquerir mon cœur ?
 Adieu cruel : 930  
 
     TAMERLAN.
-        Bien-tost vous me verrez vainqueur.  
+        Bien-tost vous me verrez vainqueur.   
 
 
 ## ACTE IV.
@@ -2762,7 +2762,7 @@ Et je m'en vay plonger mon espée en mon sein.
 Seigneur nous vous suivons.  
 
 
-### SCENE IV.
+### SCENE IV. 
 UN SOLDAT DE BAJAZET, de surcroy.
 
 
@@ -2815,7 +2815,7 @@ Seigneur, considerez que vous estes son pere.
     ORCAZIE.
 Ah ! Seigneur, que sur moy tombe vostre cholere.  
 
-    ROXALIE.
+    ROXALIE. 
 Que je sois exposée à vos ressentimens,  
 Eclatez dessus moy vos premiers mouvemens.  
 
@@ -2964,7 +2964,7 @@ Ton propre accusateur commence à te punir ;
 Apres que ton remords aura fait son office,  
 J'acheveray tes maux par un dernier supplice.  
 
-    BAJAZET.
+    BAJAZET. 
 Si je l'ay merité, ne le differe pas.  
 
     TAMERLAN.
@@ -3021,7 +3021,7 @@ Quoy, le recompenser !
     TAMERLAN.
         Je te donne un rival.  
 
-    THEMIR.
+    THEMIR. 
 Juste indignation dont mon ame est saisie !  
 
     TAMERLAN.
@@ -3072,7 +3072,7 @@ Ah, pere trop barbare !
 Verrez-vous Orcazie au pouvoir de ce traistre ?  
 Adieu.  
 
-    THEMIR.
+    THEMIR. 
     Plustost ma mort !  
 
     TAMERLAN.
@@ -3082,7 +3082,7 @@ Tu la possederas, ce present t'est acquis ;
 Mesme je te destine une autre recompense. [134]  
 
     SELIM.
-Vous verrez des effets de ma recognoissance.  
+Vous verrez des effets de ma recognoissance.   
 
 
 ## ACTE V.
@@ -3178,7 +3178,7 @@ Je te vois enchaisné, le salaire t'est deu.
     SELIM.
 Je me perds, Bajazet, après t'avoir rendu [138].  
 
-    BAJAZET.
+    BAJAZET. 
 Est-ce pour m'affliger qu'on m'envoye ce traistre ?  
 
     ZILIM.
@@ -3254,7 +3254,7 @@ D'un mortel deshonneur j'ay sauvé ta famille,
 Des mains d'un ennemy j'ay dégagé ta fille ;  
 Tu m'en es redevable, & tu vas m'en punir :  
 
-    BAJAZET.
+    BAJAZET. 
 Ah ! de quels attentats⁎ viens-tu m'entretenir ?  
 Que ne puis-je moy-mesme exercer ma vengeance !  
 Chaisnes, qui me mettez dedans cette impuissance !  
@@ -3304,7 +3304,7 @@ Et pour finir enfin les maux que j'ay souffers ?
     ZILIM.
 J'ay le commandement de t'oster de ces fers⁎.  
 
-    BAJAZET.
+    BAJAZET. 
 Je ne suis plus captif.  
 
     ZILIM.
@@ -3331,7 +3331,7 @@ Mon Maistre en a laissé le choix à ton envie :
 Accepte ce poignard, dont il te fait present ;  
 Si tu veux du poison ?  
 
-    BAJAZET.
+    BAJAZET. 
         Cét objet m'est charmant,  
 C'est le don que je veux, & qu'il me plaist élire [141] ;  
 Apres cette faveur, qu'il garde mon Empire.  
@@ -3363,7 +3363,7 @@ Que je meure en repos, oste d'icy ta garde.
 Soldats qu'on le contente, éloignez-vous d'icy.  
 
 
-### SCENE IV.
+### SCENE IV. 
 BAJAZET, seul.
 
 
@@ -3385,7 +3385,7 @@ Suspendons quelque instant nostre derniere envie,
 Et pour quelques momens revenons à la vie.  
 
 
-### SCENE V.
+### SCENE V. 
 BAJAZET, ORCAZIE.
 
 
@@ -3491,7 +3491,7 @@ Tu m'as fait un present, & je t'en fais un autre.
     ORCAZIE.
 Je veux, mon Bajazet, je veux user du vostre.  
 
-    BAJAZET.
+    BAJAZET. 
 Faut-il que je te fasse un present si fatal ?  
 
     ORCAZIE.
@@ -3517,7 +3517,7 @@ Puisqu'Orcazie est morte, il n'est plus animé,
 Et mon ame vivoit dedans l'objet aymé.  
 
 
-### SCENE DERNIERE.
+### SCENE DERNIERE. 
 TAMERLAN, BAJAZET, ORCAZIE.
 
 

@@ -766,7 +766,7 @@ Ne sera point porté [75].
     CLIDAMANT.
                     Pourquoy ? dans sa maison...  
 
-    CROCTIN.
+    CROCTIN. 
 Quand vous parlez ainsy, vous parlez sans raison.  
 Vous dites qu'en amour vous n'estes pas novice,  
 Mais vos raisonnements ne sont qu'un pur caprice.  
@@ -903,7 +903,7 @@ Laisse là mon amour, je ne veux point du tien.
     LISETTE.
 Quoy, Croctin, contre moy tu te mets en colere.  
 
-    CROCTIN.
+    CROCTIN. 
 A parler franchement je ne veux pas te plaire,  
 Et quant on me deplait, je veux dire ...  
 
@@ -942,7 +942,7 @@ Je luy feray du bien en luy donnant Lisette,
     CLIDAMANT.
 Moy je sçauray, ... [83]  
 
-    CROCTIN.
+    CROCTIN. 
         Comment la peste⁎ quelle emplette [84],  
 Je vous serviray bien, laissez faire Croctin,  
 J'ay là dedans dequoy fascher vostre mastin⁎,  
@@ -1035,7 +1035,7 @@ Qui me feroit passer à mon nés [89] pour un fou,
 Si je ne sçavois pas les moyens et par où,  
 Me tirer à present d'une facheuse affaire.  
 
-    FERNANT.
+    FERNANT. 
 Il est vray celle là n'est pas fort ordinaire.  
 
     FLORANT.
@@ -1101,7 +1101,7 @@ Que je ne sçavois pas et qu'il falloit sçavoir.
 Vous pouvez cependant user de mon pouvoir,  
 Vous sçavez que je suis tout à vostre service⁎,  
 
-    FLORANT.
+    FLORANT. 
 Vous m'obligez⁎ beaucoup.  
 
     FERNANT.
@@ -1129,7 +1129,7 @@ Je vais vous dire tout ce que je viens de faire,
 Desja ces crocheteurs⁎ sont de bonne grandeurs  
 Gros, Rons et qui feront fort bien le coup d'honneur,  
 Apres luy avoir parlé à l'oreille.
-
+ 
 Si le Galand⁎ paroist ils feront tous merveille,  
 Que me conseillez vous.  
 
@@ -1274,7 +1274,7 @@ Me maltraitter ainsy.
     ROGUEPINE *aux crocheteurs.*
                     C'est mon Maistre rossez.  
 Les crocheteurs ayant mis dehors le Marquis se retirent, hors un, qui danse une entrée pour finir l'acte.
-< Fin du premier acte. >
+< Fin du premier acte. > 
 
 
 ## ACTE II.
@@ -1590,7 +1590,7 @@ Je voy venir Florant au coin de cette porte,
 Cachons nous bien tous trois.  
 
 
-### SCENE IV.
+### SCENE IV. 
 Clidamant, Croctin, Lisette *Cachez*, Florant.
 
 
@@ -1717,7 +1717,7 @@ Heurtons chez mon voisin ah je vous tiens la belle,
 Hola⁎ Monsieur Fernant.  
 
 
-### SCENE VI
+### SCENE VI 
 Clidamant, Croctin *cachez*, Florant, Fernant. *Dans sa Maison.*
 
 
@@ -1794,7 +1794,7 @@ Ils sortent.
 
 
 
-### SCENE VII
+### SCENE VII 
 Croctin, Clidamant
 
 
@@ -1817,7 +1817,7 @@ Donnant de l'argent à l'Arlequin.
 
 Voila pour vostre habit: allons Monsieur beau jeu.  
 Clidamant et Croctin se retirent, et l'Arlequin finit l'acte en dansant.
-< Fin du Second Acte. >
+< Fin du Second Acte. > 
 
 
 ## ACTE III.
@@ -2128,7 +2128,7 @@ Ils ont sujet de l'estre et plus que nous je croy,
 Monsieur retirons nous ils viennent sur ma foy.  
 
 
-### SCENE VII
+### SCENE VII 
 Florant, Fernant
 
 
@@ -2193,7 +2193,7 @@ Fais les viste venir.
 Bon, je les apperçois nostre affaire s'avance,  
 
 
-### SCENE IX
+### SCENE IX 
 Clidamant, Isabelle, Croctin, Lisette.
 
 
@@ -2218,7 +2218,7 @@ Il n'est rien plus certain que pour Mademoiselle,
 Je suis fort asseuré qu'elle sera fidelle,  
 Mon Maistre asseurement luy tiendra bien sa foy.  
 
-    ISABELLE.  
+    ISABELLE.
 Je n'y resiste plus ..,  
 
     LISETTE
@@ -2285,7 +2285,7 @@ Il faut vous consoler ils reviendront peut estre.
 Ils ne reviendront pas, Ah ! chien de portier traitre !  
 
 
-### SCENE XI.
+### SCENE XI. 
 Carlos, Florant, Fernant.
 
 

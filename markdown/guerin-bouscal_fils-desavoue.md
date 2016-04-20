@@ -805,7 +805,7 @@ Nous avons transformé le point-virgule en virgule dans les vers 696, 1090 ; en
  – BOECE,Senateur Romain et Ministre⁎ d'Estat de Theodoric.
  – Suite de Theodoric
 La Scene est dans Rome.
-
+ 
 
 
 ## ACTE PREMIER.
@@ -870,7 +870,7 @@ Contre mes propres vœux, mes vœux sont revoltez,
 Et je ne resous rien dans ces perplexitez.  
 
 
-### SCENE II.
+### SCENE II. 
 LIVIE, JULIE.
 
 
@@ -1029,7 +1029,7 @@ Et que sous nostre regne un peuple est bien-heureux.
 Que je le suis, Seigneur, de consacrer ma vie  
 Aux importants emplois où mon Roy me convie.  
 
-    THEODORIC.
+    THEODORIC. 
 Cependant ce beau jour nous invite à sortir,  
 Montons au Capitole, allons nous divertir,  
 Voyons les raretez⁎ qu'on admire⁎ dans Rome.  
@@ -1054,7 +1054,7 @@ Rome que je te plains ! et que j'auray d'honneur
 Si je puis quelque jour restablir ton bon-heur !  
 
 
-### SCENE V.
+### SCENE V. 
 SINDERIC, EMILE.
 
 
@@ -1080,7 +1080,7 @@ Vostre appuy, vos tresors, vos charges, votre employ,
 Quoy que vous en disiez j'ay de la peine à croire,  
 Que le Ciel vous reserve une plus haute gloire⁎.  
 
-    SINDERIC. 
+    SINDERIC.  
 Emile, il est certain que l'amitié⁎ du Roy  
 Sembloit avoir versé tous ses bienfaicts sur moy.  
 Avant que ce grand Prince eust attaqué Ravenne,  
@@ -1162,7 +1162,7 @@ Si mon sang est illustre au point qu'on me l'a faict [142],
 Et si le ciel reserve un tel bien à ma vie,  
 Il porte ma fortune⁎ au dessus de l'envie⁎.  
 
-    EMILE.
+    EMILE. 
 Mais ne sçauray-je point vostre histoire ?  
 
     SINDERIC.
@@ -1170,7 +1170,7 @@ Mais ne sçauray-je point vostre histoire ?
 Je m'en vay de ce pas la raconter au Roy,  
 Et luy faire sçavoir que l'esclat de ma race,  
 Ne dément point le rang où m'esleve sa grace.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1241,7 +1241,7 @@ Quelque rang qu'aujourd'huy vous teniez dans l'estat :
 J'en sçauray le succez⁎ au sortir du Senat.  
 
 
-### SCENE II.
+### SCENE II. 
 SINDERIC, EMILE.
 
 
@@ -1288,7 +1288,7 @@ Et qu'elle veuille enfin recompenser ma foy⁎ ?
 Vous m'aymez ! Ah bon-heur à qui tout autre cede [150] !  
 Est-il vray qu'aujourd'huy Maxime vous possede ?  
 
-    JULIE. 
+    JULIE.  
 Est-il vray qu'il en doute ? et qu'il ne cognoist [151] pas  
 Que son manque de foy⁎ me donne le trepas ?  
 Quoy n'est-ce pas assez vous découvrir⁎ mon ame,  
@@ -1395,7 +1395,7 @@ Qu'un injuste soubçon avoit rendu coupable,
 Qui ne me fut donné que pour m'estre ravy,  
 Je le perdis helas ! d'abord⁎ que je le vy.  
 
-    LIVIE. 
+    LIVIE.  
 Rome n'a jamais sçeu cette estrange⁎ advanture⁎,  
 Mais enfin que fit-on ?  
 
@@ -1423,7 +1423,7 @@ Par un homme incogneu fut porté jusqu'en France.
 Mais apres que Lepide eut suby le trépas  
 Le fites-vous chercher ?  
 
-    JULIE.
+    JULIE. 
         Non, car je n'osay pas.  
 Deux puissantes raisons en destournoient mon ame,  
 Le trouvant, l'avouant⁎, je me rendois infame [162],  
@@ -1452,7 +1452,7 @@ Que je plains son mal-heur ! dieux à ce que je voy,
 Ce n'est pas sans raison qu'elle craint sa fortune⁎ !  
 
 
-### SCENE VI.
+### SCENE VI. 
 SINDERIC, JULIE.
 
 
@@ -1478,7 +1478,7 @@ Avez-vous faict dessein⁎ de me desadvoüer⁎ [164]?
 Puis-je ne pas rougir, et voir que l'on me loüe ?  
 Finissez ce discours, ou je vous desadvoüe⁎.  
 
-    SINDERIC. 
+    SINDERIC.  
 Quand vous me menacez de me desadvoüer⁎,  
 Vous me representez ce que j'ay veu joüer,  
 C'est un subject nouveau fort extraordinaire,  
@@ -1532,7 +1532,7 @@ Il n'est pas plutost né que le voila banny.
     JULIE. 
 O dieux ! qu'ay-je entendu ? Mais sçauray-je le reste ?  
 
-    SINDERIC. 
+    SINDERIC.  
 Ah! Ce n'est pas encor l'endroit le plus funeste⁎!  
 
     JULIE.
@@ -1587,7 +1587,7 @@ Que sa mere vivoit.
     SINDERIC.
         Le teint vous change.  
 
-    JULIE.
+    JULIE. 
 Ce dernier accident⁎ me paroist bien estrange⁎!  
 
     SINDERIC.
@@ -1691,7 +1691,7 @@ Mais vous trahir honneur ! mais vous perdre Maxime,
 Le puis-je concevoir sans faire un plus grand crime⁎ ?  
 Nature taisez-vous, le conseil en est pris,  
 Je veux resolument desadvoüer⁎ mon fils.  
-Fin du deuxième Acte.
+Fin du deuxième Acte. 
 
 
 ## ACTE III.
@@ -1767,7 +1767,7 @@ Que difficillement je puis me contenter !
 Je tache à m'esclaircir lors que je veux doubter !  
 
 
-### SCENE II.
+### SCENE II. 
 LIVIE, JULIE.
 
 
@@ -1817,7 +1817,7 @@ Helas que doy-je dire ? helas que doy-je taire ?
 Cachez vostre douleur, laissez le reste au sort.  
 
 
-### SCENE III.
+### SCENE III. 
 MAXIME, JULIE, LIVIE.
 
 
@@ -1841,7 +1841,7 @@ J'ay tué par mal-heur le favory⁎ du Roy.
     JULIE. 
 Le favory⁎ du Roy !  
 
-    MAXIME.
+    MAXIME. 
     Sinderic !  
 
     JULIE.
@@ -1951,7 +1951,7 @@ Des vœux dont vostre amour pourroit être offencée,
 Je vous le dis encor, l'amour que j'ay pour luy  
 Vous doit contre luy-mesme assurer aujourd'huy.  
 
-    MAXIME. 
+    MAXIME.  
 Mon esprit ne prend [200] point le sens de ce mystere.  
 
     JULIE.
@@ -1977,7 +1977,7 @@ Votre amour diminuë avecques vostre estime,
 Et que je sois privé de ce plaisir Charmant,  
 Qu'une extréme amitié⁎ peut donner seulement.  
 
-    JULIE. 
+    JULIE.  
 Vous vous cognoissez trop pour avoir cette crainte,  
 Chassez donc les soubçons dont vostre ame est atteinte,  
 Et croyez que Julie ayme comme elle doit,  
@@ -2114,7 +2114,7 @@ Elle a bien des appas⁎ dans l'esprit de Julie.
     SINDERIC.
 Mais pour quelle raison m'en parlez-vous ainsi ?  
 
-    MAXIME. 
+    MAXIME.  
 C'est par-ce seulement que je vous trouve icy.  
 Mais quoy ! vous laisser seul dans cette salle basse,  
 Cette incivilité n'est pas de bonne grace,  
@@ -2141,7 +2141,7 @@ Vous avez vostre but, et j'ay le mien aussi.
 Suffit que j'ay raison en ce que je projette,  
 Et que Julie a tort lors qu'elle me rejette,  
 
-    MAXIME. 
+    MAXIME.  
 Ainsi souvent les grands dedans leur passion  
 Se laissent aveugler à la presomption ;  
 Ils pensent que l'amour, les soins⁎ et les caresses,  
@@ -2165,7 +2165,7 @@ Vous vous plaignez d'un cœur dont vous estes le maistre,
 Et feignez que Julie a des rigueurs pour vous  
 Lors que vous esprouvez ses traictements plus doux.  
 
-    SINDERIC. 
+    SINDERIC.  
 Que Julie à mes vœux soit propice ou contraire,  
 J'iray jusques au bout, rien ne m'en peut distraire [211].  
 
@@ -2192,7 +2192,7 @@ A m'accorder bien-tost ce qu'elle me desnie [212].
     MAXIME.
 Ceste entreprise⁎ est grande.  
 
-    SINDERIC. 
+    SINDERIC.  
         Elle est de mon devoir.  
 
     MAXIME.
@@ -2217,7 +2217,7 @@ Nous vivons dedans Rome où regne l'equité⁎.
 Mais vostre nation n'en sçait pas l'exercice,  
 Et l'on voit rarement qu'un Goth rende justice [213].  
 
-    SINDERIC. 
+    SINDERIC.  
 Ce que Theodoric pratique tous les jours,  
 Montre la fausseté de ce lasche⁎ discours.  
 Ah ! Maxime c'est trop, ce reproche m'outrage,  
@@ -2238,7 +2238,7 @@ Ah sortons.
         C'est assez,  
 Je vous satisferay, n'en soyez point en peine,  
 Il ne faut que passer dans la place prochaine.  
-Fin du troisième Acte.
+Fin du troisième Acte. 
 
 
 ## ACTE IV.
@@ -2264,7 +2264,7 @@ Viste qu'on se dépesche, allez dire à Camille,
 A Dave [214], à tous mes gens, qu'ils aillent à la ville  
 Semer chez leurs amis un si funeste⁎ bruit⁎.  
 
-    LIVIE.
+    LIVIE. 
 Madame ils sont aprés [215].  
 
     JULIE.
@@ -2397,7 +2397,7 @@ Mais le succez⁎ ?
     JULIE.
         Ah ! dieux suis-je trompée !  
 
-    HORACE. 
+    HORACE.  
 En est sorty blessé de deux grands coups⁎ d'espée.  
 
     JULIE.
@@ -2457,7 +2457,7 @@ Non, non, je ne sçaurois dissimuler ton crime⁎,
 Je m'en vay de ce pas en advertir Maxime.  
 
 
-### SCENE III.
+### SCENE III. 
 SINDERIC, EMILE.
 
 
@@ -2532,7 +2532,7 @@ Et ne souffrez⁎ jamais qu'au mespris de vos loix
 L'amour ou l'interest⁎ l'emportent [223] sur mes droits.  
 
 
-### SCENE IV.
+### SCENE IV. 
 JULIE, LIVIE.
 
 
@@ -2610,7 +2610,7 @@ Madame, il est bien tard.
     JULIE.
     N'importe !  
 
-    CORNELIE.
+    CORNELIE. 
         Et bien j'y cours. [227]  
 
     JULIE.
@@ -2635,7 +2635,7 @@ Ah dieux ! chaque moment augmente ma misere,
 Quoy ! Maxime a donc sçeu que j'avois esté mere ?  
 Et que c'est de mon fils que procede son mal ?  
 
-    LIVIE.
+    LIVIE. 
 Cela n'est pas croyable [229], il l'appelle Rival.  
 
     JULIE.
@@ -2660,7 +2660,7 @@ Mais que feray-je enfin, si Maxime le sçait ?
 Vous devez soustenir ce que vous avez fait,  
 Accuser hautement Sinderic d'imposture⁎.  
 
-    JULIE.  
+    JULIE. 
 Trahir mon propre sang ! démentir sa nature,  
 Souffrir⁎ dedans mon cœur⁎ ce combat criminel,  
 M'exposer aux rigueurs d'un remords eternel,  
@@ -2687,7 +2687,7 @@ La raison vous apprend ce que vous devez faire,
 Vous retracter, Madame, en ceste occasion,  
 Ce seroit redoubler vostre confusion.  
 
-    JULIE.
+    JULIE. 
 Et bien vous l'emportez, honneur inexorable [233] ?  
 Ouy malgré ton respect, nature venerable,  
 Et tous ses sentimens de tendresse et de sang,  
@@ -2714,7 +2714,7 @@ Quoy je voy Sinderic dans ma chambre, et de nuit ! [234]
     SINDERIC.
 Madame appaisez vous, le respect l'y conduit.  
 
-    JULIE.
+    JULIE. 
 Sinderic, dans ma chambre, ah dieux quelle insolence !  
 
     SINDERIC.
@@ -2900,7 +2900,7 @@ Quoy n'obtiendray-je rien ?
     JULIE. 
         Je ne vous entens⁎ plus.  
 
-    SINDERIC. 
+    SINDERIC.  
 Un moment d'audiance [242], et puis je me retire.  
 
     JULIE.
@@ -2936,7 +2936,7 @@ Mais puis qu'à vos rigueurs vous joignez le caprice⁎,
 Sçachez, sçachez qu'ailleurs, on me rendra justice,  
 Et que tous vos efforts⁎ seront vains contre moy,  
 Puisque j'ay pour appuy la nature, et le Roy.  
-Fin du quatrième Acte.
+Fin du quatrième Acte. 
 
 
 ## ACTE V.
@@ -2964,7 +2964,7 @@ Que je veux la revoir auparavant ma mort.
     HORACE. 
 Son logis n'est pas loin.  
 
-    MAXIME.
+    MAXIME. 
         Je tremble, à cet abord.  
 Je recherche, et je fuis ceste belle coupable,  
 J'ay dessein⁎ de la voir, et n'en suis pas capable.  
@@ -2989,7 +2989,7 @@ Prenons l'occasion que le ciel nous envoye.
 On ouvre, et quelqu'un sort.  
 
 
-### SCENE II.
+### SCENE II. 
 LIVIE, MAXIME, HORACE.
 
 
@@ -3010,7 +3010,7 @@ Chez le Roy !
         Ah comble de ma peine !  
 Que me dis-tu Livie ?  
 
-    LIVIE.
+    LIVIE. 
         Une chose certaine.  
 Il a mandé Julie.  
 
@@ -3065,7 +3065,7 @@ Où vas-tu ?
     Laissez-moy.  
 
 
-### SCENE III [248].
+### SCENE III [248]. 
 MAXIME, HORACE.
 
 
@@ -3138,7 +3138,7 @@ Sçachons leurs differens, et voyons en ce jour
 Combattre la nature, et triompher l'amour.  
 
 
-### SCENE IV.
+### SCENE IV. 
 THEODORIC, BOECE, la suitte de THEODORIC, SINDERIC, JULIE.
 
 
@@ -3322,7 +3322,7 @@ Pardonne à Sinderic.
 Passez dedans la sale, et laissez nous icy.  
 
 
-### SCENE V. [263]
+### SCENE V. [263] 
 THEODORIC, BOECE, suitte deTheodoric.
 
 
@@ -3348,7 +3348,7 @@ Je ne me vis jamais dans un pareil combat.
     BOECE.
 Seigneur, sur ce subject consultons le Senat.  
 
-    THEODORIC *apres avoir un peu pensé*.
+    THEODORIC *apres avoir un peu pensé*. 
 Il n'en est pas besoing, je voy dedans mon ame  
 La brillante clarté d'une secrete flamme⁎.  
 Chasser l'ombre et l'erreur qui possedoit [265] mes sens.  
@@ -3376,7 +3376,7 @@ De ses pretentions pour sa recognoissance.
     JULIE.
 Que je vous doy Seigneur apres ce jugement !  
 
-    THEODORIC. 
+    THEODORIC.  
 En effect sa poursuite estoit sans fondement,  
 Et je recognoy⁎ bien plus je vous considere,  
 Que Sinderic eust tort de vous choisir pour mere.  
@@ -3403,7 +3403,7 @@ Que vous avez aymé,
     THEODORIC.
 Je ne vous entens⁎ point.  
 
-    JULIE. 
+    JULIE.  
         Je disois à mon Roy,  
 Que tousjours ses desirs me tiendront lieu de loy.  
 
@@ -3430,7 +3430,7 @@ Mais d'où peut proceder vostre subject de plainte?
 Le party qu'on vous offre a-t'il quelque défaut⁎ ?  
 Pouvez-vous justement entreprendre un plus haut ?  
 
-    JULIE.
+    JULIE. 
 Seigneur il est trop grand, et trop considerable,  
 L'excez de sa grandeur me rendroit miserable⁎.  
 
@@ -3483,7 +3483,7 @@ C'est à moy d'ordonner ; c'est à vous d'obeyr.
 Ah ! je reclame icy vostre justice extréme !  
 J'en appelle seigneur de vous mesme à vous mesme !  
 
-    THEODORIC. 
+    THEODORIC.  
 Ne me repliquez plus, vous devez aujourd'huy  
 Recevoir Sinderic, et vous donner à luy.  
 
@@ -3564,7 +3564,7 @@ La honte m'a forcée à le desadvoüer⁎.
     THEODORIC.
 Cette force d'esprit ne se peut trop loüer.  
 
-    JULIE.
+    JULIE. 
 Il est pourtant, mon fils, je le sens, je l'espreuve,  
 Je ne sçauroy le voir sans que mon sang s'esmeuve,  
 Sinderic est mon fils, c'est un adveu, seigneur,  
@@ -3589,7 +3589,7 @@ De grace accordez moy Maxime pour beau pere.
 Je vous accorde tout, mais à condition,  
 Qu'ils vous accorderont leur approbation :  
 
-    JULIE.
+    JULIE. 
 Ah! seigneur, si Maxime ayme encore sa maistresse,  
 S'il me peut pardonner cette extréme foiblesse⁎,  
 Que mon esprit confus a faict voïr aujourd'huy,  
@@ -3614,7 +3614,7 @@ Que vous estes divin!
     MAXIME.
         Que nous sommes heureux⁎!  
 
-    SINDERIC. 
+    SINDERIC.  
 Grands dieux que puis-je rendre à qui me rend ma mere,  
 Qui ne soit au dessoubs de ce que je doy faire !  
 
@@ -3654,7 +3654,7 @@ Les Exemplaires ont esté fournis.
  * RICHELET, Pierre, *Dictionnaire françois contenant les mots et les choses, plusieurs nouvelles remarques sur la langue françoise… avec les termes les plus connus des arts et des sciences*, Genève, J.-H. Widerhold, 1680 (2 vol.) : (R.).AbordAussitôt, la première fois, et avant toutes choses ; premièrement. (R.)V. 251, 416, 424, 607, 639, 707, 1482AbysmeSe dit figurément en morale des choses où la connaissance humaine se perd quand elle raisonne. (F.)V. 646, 938AccidentÉvénement fortuit ; hasard, coup de fortune ; malheur imprévu. (F.)V. 518, 606, 1042AdmirerRegarder avec étonnement quelque chose de surprenant, ou dont on ignore les causes. (F.)V. 171, 454, 954, 1215, 1359, 1499 AdorerSignifie hyperboliquement avoir beaucoup d'amour ou d'admiration pour quelqu'un. (F.)V. 104, 254, 367, 1642, 1781AdvisAvertissement, instruction qu'on donne à quelqu'un de quelque chose qu'il ignore, ou à quoi il ne prend pas garde ; sentiment, opinion, se prend presque en ce sens pour réflexion, conseil, reproche, réprimande. (F.)V. 194, 198, 622, 1126AdvouerReconnaître la vérité ; reconnaître pour sien, protéger. (F.)V. 434, 567, 660, 774, 980, 981, 1260, 1305, 1397, 1418, 1495, 1533, 1590, 1733AffectionPassion de l'âme qui nous fait vouloir du bien à quelqu'un, ou nous plaire à quelque chose. On le dit de l'amour et de l'amitié.  (F.)V. 213, 733AlarmeSe dit figurément de toutes sortes d'appréhensions bien ou mal fondées. (F.)V. 160, 176, 498AlentirC'est diminuer la force de quelque chose qui est mû ; affaiblir ce qui a trop de feu et de violence. (R.)V. 1096AmantCelui, celle qui aime avec passion une personne d'un autre sexe.  (Ac.) V. 29, 47, 50, 476, 653, 658, 732, 780, 905, 913, 920, 924, 928, 980, 982, 992, 1015, 1031, 1088, 1098, 1107, 1148, 1171, 1406, 1644AmitiéAffection qu'on a pour quelqu'un, soit qu'elle soit seulement d'un  côté, soit qu'elle soit réciproque. V. 205, 682, 1351, 1643Se dit aussi en matière d'amour, et signifie amant, et maîtresse. (F.)V. 721, 756, 951, 1320, 1477Apparence La surface extérieure des choses, ce qui d'abord frappe les yeux.V. 1074, 1615Se dit aussi de ce qui est opposé à la réalité, qui n'est que faux, feint et simulé. (F.)V. 689AppasCharmes puissants, grands attraits. (R.) V. 70, 838, 1132, 1376, 1450, 1673ArcSe dit aussi dans les bâtiments, des voûtes et trompes courbées en rond. (F.)V. 181ArdeurSe dit figurément en morale, et signifie passion, vivacité, emportement, fougue. (F.)V. 32, 82, 879, 1036, 1269ArrestJugement ferme et stable d'une puissance souveraine.V. 1688, 1701, 1721, 1756Se dit au figuré des jugements et des décisions que l'on prononce sur les diverses choses qui se présentent. (F.) V. 39, 486ArtificeFraude, déguisement, mauvaise finesse. (F.)V. 131, 1301AssuréSûr, certain. (R.)V. 327AuteurQui a crée ou produit quelque chose. Se dit en particulier de ceux qui sont les premiers inventeurs de quelque chose ;  se dit de ceux qui sont cause de quelque chose. (F.)V. 99, 338, 471, 1101, 1784AventureÉvénement, accident ; chose qui arrive inopinément ;  se dit de ces accidents surprenants et extraordinaires. (F.) V. 417, 477, 537, 650, 978, 1475, 1559BarbareCruel, impitoyable, qui n'écoute point la pitié, ni la raison. (F.)V. 1110BizarreBourru, fantasque. (R.)V. 1051BontéSe dit de la vertu, et particulièrement de la charité, de la douceur, des mœurs, de l'inclination à assister son prochain, de la patience à souffrir les afflictions, les injures ; dans les princes, se dit particulièrement de leur clémence. (F.)V. 107, 703, 1326, 1687, 1773BruitSe dit des discours du temps, des nouvelles dont on s'entretient dans le monde ;  se dit aussi des affaires qui font de l'éclat, où plusieurs personnes prennent intérêt, ou qui sont de conséquence. (F.)V. 911, 1444Sans bruitSecrètement. (F.)V. 900, 1075BruslerFigurément signifie, être agité d'une violente passion d'amour, d'ambition, de désir, d'impatience. (F.)V. 482, 1084CapriceDérèglement d'esprit. On le dit, quand au lieu de se conduire par la raison, on se laisse emporter à l'humeur dominante où on se trouve. (F.)V. 1345CauseCe qui produit un effet ; le motif, le fondement d'un acte ; raison, moyen qui sert à défendre, louer ou blâmer quelque chose. (F.)V. 2, 96, 220CéansTerme démonstratif du lieu où on est.  (F.)V. 844ChaosConfusion, mélange de tous les éléments, que les poètes ont feint avoir été de tout temps, avant que toutes les choses fussent rangées dans l'ordre où elles sont ; se dit figurément de ce qui est confus et brouillé. (F.)V. 1488ChargerSe dit des querelles particulières ; signifie aussi accuser quelqu'un en justice, ou déposer contre lui. (F.)V. 141CharmePuissance magique par laquelle avec l'aide du démon les sorciers font des choses merveilleuses, au dessus des forces, ou contre l'ordre de la nature ; se dit figurément de ce qui nous plaît extraordinairement, qui nous ravit en admiration. (F.)V. 19ChevalierLe premier degré d'honneur de l'ancienne milice, qu'on donnait avec certaines cérémonies à ceux qui avaient fait quelque exploit signalé qui les distinguait des autres gens de guerre. Le chevalier romain était le second degré de noblesse parmi les Romains, qui suivait celui des sénateurs. (F.)V. 520, 1041ChoquerSignifie figurément, quereller, offenser.  (F.) V. 314, 522, 648, 1049, 1058, 1059, 1264, 1514, 1669, 1695CœurPartie noble de l'animal, qui est le principal organe de la faculté vitale.V. 21, 30, 109, 245, 361, 376, 563, 600, 1067, 1103, 1159, 1180, 1270, 1312, 1320, 1371, 1410, 1474, 1506, 1521, 1530, 1750, 1772Signifie quelquefois, vigueur, force, courage, intrépidité.V. 888, 1681Se dit aussi des passions de l'âme ; se dit particulièrement de l'affection, de l'amitié, de l'amour, de la tendresse. (F.)V. 17, 548, 724, 863, 1336, 1678CondamnerDonner un jugement contre quelqu'un qui porte quelque peine, perte ou dommage.V. 182Signifie aussi, blâmer, désapprouver. (F.)V. 1091, 1649ConfondreTroubler, mettre en désordre. (R.)V. 1430, 1490, 1619ContraindreViolenter, obliger par force à dire ou à souffrir quelque chose ; gêner, presser, incommoder. (F.)V. 240, 889, 1393, 1716, 1730CoupsOutrage, offense qui se fait à quelqu'un en le frappant.V. 1002, 1003, 1004, 1023, 1065Se dit aussi des accidents extraordinaires qui sont des effets de la Providence, de quelque cause inconnue, de la fortune, du hasard. (F.)V. 1220CourageArdeur, vivacité, fureur de l'âme qui fait entreprendre des choses hardies, sans crainte des périls ;  est aussi une vertu qui élève l'âme, et qui la porte à mépriser les périls, quand il y a des occasions d'exercer sa vaillance, ou à souffrir les douleurs,  quand il y a lieu de montrer sa  constance et sa fermeté. (F.)V. 47, 196, 597, 1183CréditCroyance, estime qu'on s'acquiert dans le public par sa vertu, sa probité, sa bonne foi, et son mérite.  (F.)V. 739, 1237CrimeAction faite contre la loi, soit naturelle, soit civile ; se dit d'une faute que l'on commet ou dans la conduite, ou contre le devoir, ou contre l'amitié. (F.)V. 23, 148, 586, 590, 682, 727, 820, 1037, 1074, 1093, 1197, 1377, 1456, 1511, 1730, 1744CruelQui est barbare, inhumain, qui aime à tuer, massacrer, tourmenter les autres hommes ; se dit encore des choses douloureuses ou fâcheuses. (F.)V. 420, 526, 677, 753, 1086, 1109, 1161, 1370, 1491, 1508DéfautAbsence, manque, privation de quelque personne, de quelque chose. (Ac.)V. 246, 305, 676, 752, 1665DéffianceCrainte d'être trompé, ou de ne pouvoir pas réussir dans ses desseins. (F.)V. 690DésaveuDénégation. (F.)V. 969, 1588DésavouerNe demeurer pas d'accord d'avoir dit ou fait quelque chose ; signifie encore ne reconnaître pas pour sien. (F.)V. 404, 456, 458, 459, 592, 660, 971, 983, 1181, 1745DescouvrirTrouver quelque chose de nouveau, de secret qui nous était auparavant inconnu (F.) ; faire connaitre ce qui était caché. (Ac.) V. 132, 300, 340, 357, 395, 476, 540, 544, 647, 752, 798, 1490, 1584DésespoirPassion de l'âme qui la trouble, qui lui fait perdre l'espérance. (F.)V. 609, 1172DesseinProjet, entreprise, intention. À dessein : exprès, et à certaine intention. (F.)V. 33, 44, 52, 77,81, 149, 195, 314, 328, 343, 447, 456, 539, 620, 855, 879, 885, 1040, 1043, 1050, 1070, 1106, 1183, 1236, 1303, 1364, 1497, 1649DisgrâceMalheur, accident. (F.)V. 1357DivertissementRéjouissance, plaisir, récréation. (F.)V. 130Doute (sans)Façon de parler adverbiale qui signifie, hors de doute, certainement. (F.)V. 697EffortEmploi de toutes ses forces ; se dit de tout ce qu'on fait avec violence, et figurément en choses spirituelles. (F.)V. 321, 575, 1216, 1347, 1373, 1517, 1563, 1602, 1736EmpêcherS'opposer à quelque chose, y former des difficultés, des obstacles ; signifie aussi, embarrasser, occuper. (F.)V. 241EnnuyChagrin, déplaisir, souci. (Ac.)V. 380, 1120, 1199EntendreSe dit figurément en choses spirituelles, et signifie,  comprendre, pénétrer dans le sens de celui qui parle, ou qui écrit. (F.)V. 1211, 1332, 1653EntrepriseRésolution hardie de faire quelque chose. (F.)V. 887, 1078EnviePassion, désir qu'on a d'avoir ou de faire quelque chose.V. 426, 1058Chagrin qu'on a de voir les bonnes qualités ou la prospérité de quelqu'un. (F.)V. 15, 144, 224, 267, 280, 1453ÉquitéJustice mitigée et adoucie par la considération des circonstances particulières. (F.)V. 117, 892ÉtonnéSurpris, épouvanté. (F.)V. 603ÉtonnerSurprendre par quelque chose d'extraordinaire, d'inattendu. (Ac.)V. 152, 184, 1173ÉtrangeCe qui est surprenant, rare, extraordinaire. (F.)V. 417, 437, 518, 570, 634, 1230, 1238, 1431ÉvénementIssue, succès bon ou mauvais de quelque chose ; se dit des choses grandes, surprenantes et singulières qui arrivent dans le monde. (F.)V. 150, 563, 671, 927, 943, 1051, 1505ExciterProvoquer, causer quelque effet ; se dit figurément en morale, et signifie, animer. (F.) V. 1317FableSe dit aussi de la fiction qui sert de sujet aux poèmes épiques et dramatiques, et aux romans ; signifie aussi absolument, fausseté. (F.)V. 509FaiblesseManque de forces, qualité de ce qui est faible ; inconstance, imbécilité, facilité de se laisser aller, de croire.  (F.)V. 386, 529, 1359, 1732, 1764FatalSignifie malheureux. V. 440, 1694Signifie encore, la fin, la mort. (F.) V. 987, 1023FavorableQui fait faveur, qui est propice, qui nous fournit des avantages. (F.)V. 212, 360, 1105FavoriQui a les bonnes grâces d'un Prince, d'une personne puissance, d'une maîtresse, et généralement d'un supérieur à qui plusieurs s'efforcent de plaire, et qui ne plaisent pas également. (F.)V. 443, 623, 668, 669, 1389FeindreTromper par l'apparence, faire semblant ; se dit aussi des imaginations d'esprit qui sont fausses, et qu'on donne pour véritables. (F.)V. 100, 979, 1304FlammeAmour, passion. (R.)V. 44, 358, 574, 694, 749, 933, 974, 982, 1050, 1131, 1182, 1411, 1528, 1624, 1672, 1692FlatterCaresser par des louanges.V. 121, 155Tromper en déguisant la vérité ou par faiblesse, ou par une mauvaise crainte de déplaire. (Ac.) V. 795, 867, 1145, 1303FortuneC'était autrefois une divinité païenne qu'on croyait être la cause de tous les événements extraordinaires : au lieu c'est en effet la Providence divine qui agit par des voies inconnues et au-dessus de la prudence des hommes. Maintenant on appelle fortune, ce qui arrive par hasard, qui est fortuit et imprévu. V. 222, 280, 445, 526, 634, 1109, 1218, 1755Signifie aussi l'établissement, le crédit, les biens qu'on a acquis par son mérite, ou par hasard.  (F.)V. 306, 674, 1226, 1246FoyAssurance donnée de garder sa parole, sa promesse ; témoignage, assurance. (Ac.)V. 352, 356, 679, 711, 1035, 1378, 1407, 1690, 1697, 1710, 1778FunesteQui cause la mort, ou qui en menace, quelque accident fâcheux, quelque perte considérable. (F.)V. 5, 450, 490, 911, 931, 961, 1102, 1288FureurEmportement violent causé par un dérèglement d'esprit et de la raison ; se dit en morale de la colère, lorsqu'elle est violente et démesurée, et qu'elle jette les hommes dans quelques excès.V. 38, 599, 609, 1114, 1152Se dit aussi de toutes les passions qui nous font agir avec de grands emportements. (F.) V. 766, 1096GageSureté que l'on donne pour quelque prêt, ou pour quelque dette ; se dit aussi des témoignages ou assurances d'amitié. (F.)V. 6GénéreuxQui a l'âme grande et noble, et qui préfère l'honneur à tout autre intérêt. (F.)V. 29, 1051, 1369, 1773GénérositéGrandeur d'âme, de courage, magnanimité, bravoure, libéralité, et toute autre qualité qui fait le généreux.  (F.)V. 93GentilhommeHomme noble d'extraction, qui ne doit point sa noblesse ni à sa charge, ni aux lettres du prince. Ce mot de  gentilhomme vient de gentilis homo, qui se disait chez les Romains d'une race de gens nobles de même nom, nés de parents libres, et dont les ancêtres n'avaient point été esclaves, ni repris de justice. (F.)V. 231, 256GloireSe dit de l'honneur qu'on rend à Dieu, des louanges qui lui sont dues ; se dit par emprunt et par participation, de l'honneur mondain, de la louange qu'on donne au mérite, au savoir et à la vertu des hommes. (F.)V. 27, 155, 191, 197, 204, 228, 236, 260, 329, 532, 580, 653, 812, 828, 918, 946, 1005, 1017, 1054, 1100, 1536, 1556, 1752HazarderRisquer, exposer à la fortune, exposer au péril. (Ac.)V. 567, 1167, 1726HeurBonne fortune. (Ac.)V. 277, 1008HeureuxQui jouit de toutes les félicités de la vie, à qui il ne manque rien, qui est content ; chanceux, à qui le hasard est favorable ; se dit encore de ce qu'on croit être cause de quelque bonheur, de quelque avantage. (F.)V. 81, 125, 227, 1137, 1774IdoleCréature ou ouvrage fait de main d'homme, qu'on adore comme une Divinité, à qui on rend des honneurs divins, à qui on brûle de l'encens, on fait des sacrifices, on érige des autels et des temples. (F.)V. 100ImpostureTromperie, mensonge, calomnie. (F.)V. 1157, 1245, 1294, 1464, 1560, 1584IngratCelui qui n'a point de reconnaissance des bienfaits qu'il a reçus, des bons offices qu'on lui a rendus. (F.)V. 47, 156, 605, 1027, 1035, 1349, 1366InsigneRemarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu'en mauvaise part. (F.) V. 1193InterditÉtonné, troublé, qui ne peut répondre. (Ac.)V. 999IntêretCe qu'on a affection de conserver ou d'acquérir ; part qu'on prend en quelque chose, de la défense qu'on entreprend, de la protection qu'on lui donne. (F.)V. 313, 799, 808, 809, 826, 1080, 1523, 1595IntéresserEngager quelqu'un par son intérêt à soutenir, à faire quelque affaire. (F.)V. 812, 1050LâcheQui manque de courage, se dit des actions indignes d'un homme d'honneur. (Ac.)V. 597, 719, 811, 896, 1282, 1353, 1523LustreTerme de cinq ans. C'est une supputation qu'on fait plus communément en poésie.V. 28Se dit aussi figurément en choses morales. Dans les grandes charges, la valeur, la vertu paraissent dans tout leur lustre, dans tout leur éclat. (F.) V. 126, 261MarqueSigne, caractère particulier qui vient de naissance, ou de nature, qui fait reconnaître une chose, et la distinguer d'une autre semblable. (F.)V. 286, 956, 957MinistreUn ministre d'Etat est celui sur qui un Prince se repose de l'administration de son État, à qui il commet le soin de ses principales affaires. Ex : Boèce est  proposé pour modèle aux ministres d'État. (F.)V. 134MisérableQui est dans la douleur, dans la pauvreté, dans l'affliction ou l'oppression. (F.)V. 33, 398, 413, 429, 487, 546, 1206, 1416, 1668MurmurerFaire du bruit en se plaignant sourdement, sans éclater ; il se dit du bruit sourd qui court de quelque affaire, de quelque nouvelle. (Ac.) V. 225, 704ObligerContraindre à faire quelque chose par nécessité ; se dit aussi de ce qu'on est contraint de faire par les lois, par le devoir.  (F.)V. 314, 395, 1047, 1385, 1565ObjetSe dit poétiquement des belles personnes qui donnent de l'amour. (F.)V. 560, 1099Se dit seulement quelquefois de la fin ; chose où l'on arrête sa pensée, son cœur, son but ou son dessein. (R.)V. 5, 43, 128, 219, 568, 601, 931, 1102, 1108, 1295, 1313OrnementCe qui pare quelque chose, ce qui la rend plus belle, plus agréable. (F.)V. 129PotentatMonarque, roi ; qui a une puissance souveraine. (Ac.)V. 133, 160PrévenirArriver devant, venir le premier. Il signifie aussi être le premier à faire ce qu'un autre voulait faire. (Ac.)V. 1401RaretésSignifie singularité ; il se dit choses qui se trouvent peu ; se dit aussi des pièces rares et curieuses. (Ac.) V. 171, 453ReconnoistreTrouver qu'une personne ou une chose est la même que celle que nous avons vue autrefois, ou qui nous a été désignée.V. 950, 956Avouer.V. 337, 1780Découvrir, éclaircir la vérité de quelque chose.V. 1639Avoir de la gratitude ; payer à discrétion, récompenser un service rendu. (F.)V. 721RessentimentSentiment d'un mal qu'on a eu ; souvenir qu'on garde des bienfaits, ou des injures. (Ac.) V. 244, 919, 1016, 1087, 1108, 1779SoinsDiligence qu'on apporte à faire réussir une chose, à la garder et à la conserver, la perfectionner ; attache particulière qu'on a auprès d'un maître ou d'une maîtresse, pour les servir, ou leur plaire. (F.)V. 141, 188, 640, 861, 1166SoucySollicitude, soin accompagné d'inquiétude. (Ac.)V. 987, 1111SouffrirSe dit en sens moins étendu, en parlant de ce qui déplait, de ce qui fait quelque peine aux sens, ou à l'esprit (F.) ; endurer, avoir de la peine, supporter. (R.)V. 330, 598, 810, 823, 1019, 1079, 1083, 1097, 1133, 1159, 1191, 1224, 1344, 1349, 1371, 1412, 1492, 1617Permettre ; admettre, recevoir. (Ac.)V. 73SoupirTémoignage extérieur de tristesse, d'affliction, de douleur.  (F.)V. 2, 22, 358, 422, 1315SuccèsIssue d'une affaire. Il se dit en bonne et en mauvaise part. (F.)V. 324, 510, 1001TransportsTrouble ou agitation de l'âme par la violence des passions. (F.)V. 276, 664, 1028TravaillerS'appliquer à faire quelque chose, prendre peine à faire une chose, s'attacher à faire quelque chose. (F.)V. 880TravauxLes peines qu'on a prises, qu'on s'est données, à quelque entreprise glorieuse, dans l'exécution de quelque chose de difficile. (Ac.)V. 65, 189VertuSe dit de la grandeur d'âme d'une personne, de sa valeur morale, de son mérite. (F.)V. 67, 70, 136, 158, 183, 254, 256, 263, 271, 286, 306, 722, 731, 752, 803, 810, 1207, 1208, 1227, 1257, 1341, 1355, 1378, 1418, 1421, 1429, 1454, 1651
 
 
-# Annexe 1 : Nicolas Caussin, La Cour Sainte [277] : « L'entrée de Théodoric à Rome et son heureux gouvernement par les conseils de Boèce ».
+# Annexe 1 : Nicolas Caussin, *La Cour Sainte* [277] : « L'entrée de Théodoric à Rome et son heureux gouvernement par les conseils de Boèce ».
 
 La troisième maxime que luy donna Boèce, fut de se rendre très exact en l'exercice de la justice ; d'autant que c'est la base des thrônes et l'esprit qui anime tout le gouvernement : et il prit tellement cette parole, que le desir qu'il avoit de rendre à chacun ce qui estoit sien, luy estoit changé en une soif très ardente, et une faim continuelle : il choisissoit les plus entiers et incorruptibles Gouverneurs qu'il pouvoit, et leur disoit ces paroles rapportées de Cassiodore.
 
@@ -3667,7 +3667,7 @@ Les trente jours expirez, l'amant retourne, et voyant cet hoste tout nouveau dan
 Le Roy qui sondoit toutes les avenues pour entrer en l'esprit de la Dame, luy demanda si elle n'avoit pas delibéré de se marier en secondes noces. Elle respondit que *s'il se rencontroit un party favorable, elle feroit ce que Dieu luy inspireroit*. Le Roy réplique, *Le voilà rencontré, puis que vous avez logé cet hoste trente jours en vostre maison, et que vous l'avez reconnu de si bonne grace, à quoy tient-il que vous ne l'espousiez* ? La Dame respond, *Qu'il n'avoit aucunes commoditez, dont on a tousjours besoin en mesnage : Et à quoy peut bien monter vostre bien* ? (dit le Roy). La Dame repart, *qu'elle avoit bien vaillant mille escus, qui estoit une grande richesse en ce temps-là. Et bien*, dit Théodoric, *j'en donneray autant à ce jeune homme pour son mariage, à telle condition que vous l'espouserez*. Elle bien estonnée, commence à paslir, rougir, trembler, et montrer toutes les contenances d'une femme perdue, qui taschoit à s'excuser et se coupoit en ses paroles : le Roy pour l'intimider encore davantage, jure son grand serment qu'elle l'espouseroit dès à présent, ou qu'elle diroit les causes legitimes de son empeschement. La pauvre femme condamnée par la voix de la Nature qui crioit en son cœur, et ayant horreur du crime qu'on luy proposoit, se jetta aux pieds du Roy, avec une grande profusion de larmes, confessant ses amours, son mensonge et son malheur. Alors ce grand Prince prenant la parole luy dit, *N'estes-vous pas une miserable femme de renoncer vostre sang pour ce vilain qui vous a trompée ? Allez en vostre maison, quittez vos amourettes, et vivez dans la condition d'une honneste veuve, prenant de vostre fils le support qu'il vous doit rendre par nature.*
 
 
-# Annexe 2 : Excerpta Valesiana [278]
+# Annexe 2 : *Excerpta Valesiana* [278]
 
 Quidam defunctus est et reliquit uxorem et parvulum filium nescientem matrem. Ab aliquo sublatus est filius eius parvulus et ductus in aliam provinciam et educatus. Factus iuvenis quoquo modo revertitur ad matrem; mater enim iam spoponderat virum. Cum vidisset mater, amplectit filium, benedicens deum se filium revidisse; et fecit cum ea dies triginta. Et ecce veniens sponsus matris, videns iuvenem, interrogavit quis esset. Quae respondit esse suum filium. At ubi comperit esse filium eius, coepti repetere arras et dicere « aut nega filium tuum esse aut vero abscedo hinc ». Mulier compellitur ab sponso, et coepit negare filium, quem ipsa ante confessa est, et dicere: « Vade, iuvenis, de domo mea, quia peregrinum te suscepi ». Ille enim dicebat regressum se ad matrem in domum patris sui. Quid multa? Dum haec aguntur, filius rogavit regem adversus matrem, quam rex iussit in conspectu suo sisti. Cui et dixit: « Mulier, filius tuus adversus te rogat; quid dicis? Est filius tuus an non? ». Quae dixit: « Non est meus filius sed peregrinum eum suscepi. » Et dum per ordinem omnia filius mulieris intimasset in auribus regis, dicit mulieri denuo: « Est filius tuus an non? ». Quae dixit: « Non est filius meus». Dicit ei rex: « Et quae est facultas tua, mulier? ». Quae respondit: « Usque ad mille solidos». Et dum maritum se rex non esse facturum sub iusiurando pollicitus est nisi ipsum, alium non acciperet maritum, tunc confusa est mulier et confessa est suum esse filium.< Proposition de traduction >
 

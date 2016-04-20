@@ -500,7 +500,7 @@ iõ : vv. 14-110-145-233-253-267-268-377-378-517-518-554-644-789-790-909-1077-1
 wi : v. 658
 
 
-# Le Mary sans femme. Comédie.
+# Le Mary sans femme. Comédie. 
 
 
 ## ACTEURS.
@@ -1037,7 +1037,7 @@ Monsieur aprés cecy vous n'avez qu'à vous pendre.
     CARLOS.
 Qu'est-ce encore, que viens-tu m'annoncer ?  
 
-    TOMIRE.
+    TOMIRE. 
         Un malheur  
 A se desespérer, à mourir de douleur,  
 Et, comme je vous l'ay déja dit, à se pendre,  
@@ -1358,7 +1358,7 @@ Au dessus…. tu sçauras le reste à mon retour.
     MARINE.
 Ah ! Monsieur, parlez donc.  
 
-    D. BRUSQUIN.
+    D. BRUSQUIN. 
         Dis-moy, je te conjure,  
 Comment, à quel dessein, & par quelle avanture  
 Vous êtes toutes deux icy depuis ce soir [286].  
@@ -1444,7 +1444,7 @@ Ce fut un autre Turc.
     D. BRUSQUIN.
         Comment, en sa puissance.  
 
-    MARINE.
+    MARINE. 
 C'est qu'il est Gouverneur⁎.  
 
     D. BRUSQUIN.
@@ -2328,7 +2328,7 @@ Qu'il luy feroit plaisir, & qu'elle y vouloit être :
 Qu'elle avoit des raisons pour s'y bien divertir⁎,  
 Et quand il sera prêt, qu'on la fasse avertir.  
 
-    FATIMAN.
+    FATIMAN. 
 Elle y trouvera moins de plaisir qu'elle pense [314],  
 Fais venir Dom Brusquin, qu'il vienne à l'Audience.  
 Je vais pour obliger Julie, & Dom Carlos,  
@@ -2410,7 +2410,7 @@ Est-ce qu'on doute icy de nôtre mariage.
 Et que craignant en Mer pour son honnêteté  
 On veut nous marier pour plus de sûreté ?  
 
-    FATIMAN.
+    FATIMAN. 
 Non.  
 
     D. BRUSQUIN.

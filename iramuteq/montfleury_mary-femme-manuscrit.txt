@@ -59,7 +59,7 @@ Dans son lit dans ses bras la nuit vous aloit mettre
 Je perdois tout espoir ie sçavois vos ennuys
 Quel autre en cet estat n'eust point tout entrepris
 
--*who_julie
+-*who_julie 
 Dans toutes ces raisons ne cherchez point d'excuse
 Ce n'est que mon malheur Carlos que i'en accuse
 Ouy c'est moy qui depuis cette funeste nuit
@@ -374,7 +374,7 @@ Et que repond carlos car un tansport si promt...
 -*who_zaire
 Luy, tenez ah ! Voila tout ce qui luy repond
 
--*who_celime
+-*who_celime 
 Sans doute ils s'ayment mais quand leurs douleurs s'apaise
 A quoy s occupent ils ? Ø
 
@@ -866,7 +866,7 @@ Tu vas a cœur ouvert…
       oh cela vous est hoc
 Tout comme a l'ordinaire, et bien
 
--*who_brusquin
+-*who_brusquin 
       ta recompense
 Au reste passera de loin ton esperance
 Et je t'ay preparé dequoy te voir un jour
@@ -1004,7 +1004,7 @@ Et bien ?
 Sçavoir si quelque turc espris de sa figure
 Ne s'est point…
 
--*who_marine
+-*who_marine 
       quoy ?
 
 -*who_brusquin
@@ -1077,7 +1077,7 @@ Je veux te marier
 -*who_marine
 Avec
 
--*who_brusquin
+-*who_brusquin 
       avec un drole assez jeune et qui t'ayme
 
 -*who_marine
@@ -1234,7 +1234,7 @@ Ne peut tenir en place
 -*who_brusquin
       il sera postillon
 
--*who_marine
+-*who_marine 
 Il ne sera jamais qu'un sot et ses manieres
 Luy mettront sur la teste...
 
@@ -1369,7 +1369,7 @@ J'aymerois presque autant qu'ils gardassent ma femme
 Il pouroit se desdire il faut se depecher
 Ah chien de turc...
 
--*who_fatiman
+-*who_fatiman 
       plaist il ?
 
 -*who_brusquin
@@ -1429,7 +1429,7 @@ Vous n'en scavez rien
 -*who_fatiman
       non
 
--*who_zaire
+-*who_zaire 
       mais vous vous en doutez
 
 -*who_fatiman
@@ -1673,7 +1673,7 @@ Aproche, m'en poura reveler le secret
 -*who_tomire
 Je passois par respect n'osant icy paroistre
 
--*who_celime
+-*who_celime 
 N'entens tu pas parler qu'on rachette ton maistre
 
 -*who_tomire
@@ -1743,7 +1743,7 @@ Ne peut d'un moindre prix...
 -*who_tomire
       oh c'est…
 
--*who_celime
+-*who_celime 
       prens jayme a voir
 Que rien contre carlos n'esbranle ton devoir
 Son interest m'est cher qu'a l'avenir ton Zelle
@@ -2015,7 +2015,7 @@ Ses tendres mouvemens coustent quelques s'ouspirs
 Mais les cœurs qui craignent ses peines
 Ne meritent pas ses plaisirs
 
--*who_celime
+-*who_celime 
 Il suffit vous pouvez poursuivre en mon absence
 Carlos et le service aura sa recompense
 Ah que pour deux jeunes cœurs & C  :
@@ -2207,7 +2207,7 @@ Et je luy vay ce soir donner un autre espoux
 -*who_brusquin
 A ma Femme
 
--*who_fatiman
+-*who_fatiman 
       a ta femme et de plus
 
 -*who_brusquin
@@ -2281,7 +2281,7 @@ Ah me voila donc veuf du vivant de ma femme
 Et quel est ce beau filz qui cause tant de flame
 Ø
 
--*who_fatiman
+-*who_fatiman 
       Tu las veu plusieurs fois
 
 -*who_brusquin
@@ -2336,7 +2336,7 @@ Vous avez vos raisons daignez donc m'en jnstruire
 Vous pourriez m'espargner la peine de les dire
 Vous les devez sçavoir sans qu'un tel entretien...
 
--*who_fatiman
+-*who_fatiman 
 Non madame mon cœur ne me reproche rien
 J'ay toujours eu pour vous une ardeur trop sincere
 Pour avoir negligé les moyens de vous plaire
@@ -2400,7 +2400,7 @@ Mais puis je me flater qu'en renvoyant julie
 Vostre cœur revenu de ses soupçons jaloux
 Reçoive en mesme temps fatiman pour espoux
 
--*who_celime
+-*who_celime 
 A laissez moy du moins disposer du salaire
 Cachez moy les transportz d'un amour mercenaire
 Suivez vostre penchant sans me faire de loy
@@ -2459,7 +2459,7 @@ Voy tu le cœur m'en dit et je ten veux conter
 Toy : marche te dit on tu me la baille belle
 M'en conter
 
--*who_tomire
+-*who_tomire 
       ouy comment est ce chose nouvelle
 Avant que ta maistresse eust eu son sot espoux
 Est ce que je manquois jamais au rendez vous
@@ -2521,7 +2521,7 @@ Ma tantost promis...
 -*who_marine
       quoy ?
 
--*who_tomire
+-*who_tomire 
       que nous serions unis
 
 -*who_marine
@@ -2763,7 +2763,7 @@ Il faudra le signer et puis vous partirez
 -*who_brusquin
 Moy le signer
 
--*who_fatiman
+-*who_fatiman 
       ouy vous la chose estant escrite
 Il faudra bien signer
 
@@ -3016,7 +3016,7 @@ Si j'en ay je sçauray ne le point faire voir
 Que tu seras present a leurs nopces ce soir
 Et qu'a table auprez deux tes discours ordinaires...
 
--*who_brusquin
+-*who_brusquin 
 Pour cela decontez
 
 -*who_fatiman

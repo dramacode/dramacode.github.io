@@ -695,7 +695,7 @@ Achevé d'imprimer pour la premiere fois le 20. Mars 1699.
  – ERINE,Confidente de Thomiris.
  – TAXIS,Capitaine des Gardes de Thoas.
 La Scene est à Anticire [257], dans le Palais de Thoas.
-
+ 
 
 
 ## ACTE I.
@@ -848,7 +848,7 @@ Etonné⁎, traversé d'une crainte secrete,
 Sans relâche … Ah grands Dieux, que vois-je ! est-ce Anthenor ?  
 
 
-### SCENE II.
+### SCENE II. 
 THOAS, HIDASPE, ANTHENOR.
 
 
@@ -915,7 +915,7 @@ S'il m'avoit devancé qu'auroit-ce été, grands Dieux !
     THOAS.
 Il n'en faut point douter, ce Prince est en ces lieux.  
 
-    ANTHENOR.
+    ANTHENOR. 
 Luy ?  
 
     THOAS.
@@ -940,7 +940,7 @@ Allons, courons au Temple en porter la nouvelle.
 Informons la Prestresse... On ouvre, la voicy.  
 
 
-### SCENE III.
+### SCENE III. 
 THOAS, IPHIGENIE, ANTHENOR, HIDASPE, CYANE.
 
 
@@ -1159,7 +1159,7 @@ Je vais le soûlever contre le Tyran même :
 Viens me voir , empruntant une audace suprême,  
 Confondre, épouvanter le superbe⁎ Thoas,  
 Diane, en ce dessein ne m'abandonne pas [325].  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II.
@@ -1288,7 +1288,7 @@ Vous offre, avec sa foy⁎, l'Empire⁎ du Sarmate ;
 Avide, impatient de m'acquiter vers vous, [344] [345]  
 J'ay reçû sa demande, il sera vôtre époux.  
 
-    THOMIRIS.
+    THOMIRIS. 
 Aux ordres de mon pere est-ce ainsi que vôtre ame …  
 
     THOAS.
@@ -1381,7 +1381,7 @@ L'hymen⁎ de la Prestresse est peut-estre l'écueil,
 Où pour faire échoüer vôtre ame chancelante ...  
 
 
-### SCENE IV.
+### SCENE IV. 
 THOAS, ANTHENOR, HIDASPE.
 
 
@@ -1407,7 +1407,7 @@ J'ay promis son retour.
         Le voicy.  
 
 
-### SCENE V.
+### SCENE V. 
 THOAS, PILADE, ANTHENOR, HIDASPE, TAXIS.
 
 
@@ -1650,7 +1650,7 @@ Dans le sang de ce Grec expions ma foiblesse ;
 Allons par son trépas appaiser la Deesse.  
 Tâchons d'engager l'autre à quelque repentir ;  
 Sauvons ce malheureux, et le faisons partir.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III.
@@ -1748,7 +1748,7 @@ Que je pars cette nuit. Que demain il est maistre.
 Le delay n'est pas long. Allez [386].  
 
 
-### SCENE III.
+### SCENE III. 
 THOMIRIS, ERINE.
 
 
@@ -1776,7 +1776,7 @@ Le trouble de ses sens nous dérobe à ses yeux.
 Dissipe, juste Ciel ! le voile qui les couvre.  
 
 
-### SCENE IV.
+### SCENE IV. 
 ORESTE, THOMIRIS, ERINE.
 
 
@@ -2086,7 +2086,7 @@ D'un amy plus heureux tu meritois l'estime,
 Ta mort … La mienne approche. On vient. J'entens du bruit.  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 ORESTE, PILADE, HIDASPE, TAXIS.
 
 
@@ -2115,7 +2115,7 @@ C'est Pilade, grands Dieux !
     PILADE.
         Que vois-je ? c'est Oreste.  
 
-    ORESTE.
+    ORESTE. 
 Pilade entre mes bras, qui l'auroit pû penser ?  
 
     PILADE.
@@ -2153,7 +2153,7 @@ Que me dis-tu ? Chargé de crimes inouïs,
 Détesté, méritant la celeste disgrace,  
 Ay-je un cœur où l'amour puisse encor trouver place ?  
 
-    PILADE.
+    PILADE. 
 Quel effort d'avoir pû resister à ses coups !  
 Cher Prince, que Pilade est encor loin de vous.  
 Seduit par les attraits de la même Prestresse,  
@@ -2199,10 +2199,10 @@ ORESTE, PILADE, HIDASPE, TAXIS.
 
     PILADE.
 Pour en estre informé, qu'on nous conduise au Roy.  
-Fin du troisième Acte.
+Fin du troisième Acte. 
 
 
-## **ACTE IV.**
+## ACTE IV.
 
 
 ### SCENE PREMIERE.
@@ -2227,7 +2227,7 @@ N'immole-tu point l'autre par la même raison. [416]
 Ah ! … Qu'ils meurent tous deux, ma bouche le prononce.  
 
 
-### SCENE II.
+### SCENE II. 
 IPHIGENIE, CYANE.
 
 
@@ -2255,7 +2255,7 @@ Allons, Cyane, allons haster nostre vangeance,
 Mais qui vient s'opposer à mon impatience ?  
 
 
-### SCENE III.
+### SCENE III. 
 THOMIRIS, IPHIGENIE, CYANE, ERINE.
 
 
@@ -2387,7 +2387,7 @@ Ce Grec …
         Hidaspe vient, vous l'apprendrez de luy.  
 
 
-### SCENE V.
+### SCENE V. 
 IPHIGENIE, HIDASPE, CYANE.
 
 
@@ -2411,7 +2411,7 @@ Sçachez quel est celuy …
         Qu'on me laisse avec eux.  
 
 
-### SCENE VI.
+### SCENE VI. 
 IPHIGENIE, ORESTE, PILADE.
 
 
@@ -2443,7 +2443,7 @@ C'est à son amitié que j'en suis redevable :
 L'un à l'autre liez par le plus saint des nœuds⁎, [433]  
 Ou nous vivrons ensemble, ou nous mourrons tous deux.  
 
-    IPHIGENIE.
+    IPHIGENIE. 
 N'attens pas que ma main te joigne à ce perfide :  
 Je vais devant tes yeux punir son parricide, [434]  
 Dans les flots de son sang éteindre mon courroux⁎.  
@@ -2555,7 +2555,7 @@ Où sa fortune⁎ attache et ses soins⁎, et sa vûë.
 Contre tant de perils qu'oserez-vous tenter ?  
 Quel miracle ! quel Dieu pourroient les surmonter !  
 
-    PILADE.
+    PILADE. 
 Madame, n'ayez point ces indignes allarmes⁎,  
 Livrez-nous seulement la Statuë, et des armes,  
 Les Dieux de ce peril sçauront nous dégager :  
@@ -2620,7 +2620,7 @@ Tous deux d'un saint devoir également épris,
 De mourir l'un pour l'autre ont la perseverence,  
 Aucun ne veut devoir la vie à ta clemence.  
 
-    THOAS.
+    THOAS. 
 Cette confusion commence à me lasser,  
 Madame, c'est à vous de la faire cesser.  
 Faites-moy voir Oreste, et me livrez sa teste [448],  
@@ -2658,7 +2658,7 @@ La Tauride verra ce qu'on vit devant Troye.
 Ils se partageront en ce commun effroy,  
 Et s'il en est pour eux, il en sera pour moy.  
 
-    IPHIGENIE.
+    IPHIGENIE. 
 Quel es-tu pour tenir ce superbe⁎ langage ?  
 Oses-tu commander à qui tu dois hommage ?  
 Plus haut que ton pouvoir n'éleves point ta voix,  
@@ -2690,7 +2690,7 @@ Observez avec elle un silence profond,
 Veillez mes ennemis, vostre teste en répond.  
 
 
-### SCENE IX.
+### SCENE IX. 
 THOAS, ANTHENOR, HIDASPE.
 
 
@@ -2720,7 +2720,7 @@ Je vais de vos bontez, Seigneur⁎, luy faire part.
 Dites-luy que sur tout elle songe au départ.  
 
 
-### SCENE X.
+### SCENE X. 
 THOAS, HIDASPE.
 
 
@@ -2731,7 +2731,7 @@ J'attendray [450] ton retour dans cet appartement.
 Va, cours tout préparer pour son embarquement,  
 Et songe, en ménageant cette importante fuite,  
 Que mon sort⁎ cette nuit dépend de ta conduite.  
-Fin du quatrième Acte.
+Fin du quatrième Acte. 
 
 
 ## ACTE V.
@@ -2814,7 +2814,7 @@ Va, cours, te dis-je. Et moy pour rompre cet obstacle,
 Je m'en vais l'attirer par un autre spectacle [463].  
 
 
-### SCENE III.
+### SCENE III. 
 
     THOAS *seul*.
 Déja l'Astre naissant, qui luit sur mes desseins,  
@@ -2878,7 +2878,7 @@ Je connois ton audace, infidelle Prestresse :
 Mais tu mourras. Que vois-je ? ô Ciel ! c'est la Princesse.  
 
 
-### SCENE V.
+### SCENE V. 
 THOAS, THOMIRIS, TAXIS. Gardes.
 
 
@@ -2959,7 +2959,7 @@ Aprés ce que j'ay fait je brave ta fureur⁎.
 Je ne crains rien cruel⁎, frape.  
 
 
-### SCENE VI.
+### SCENE VI. 
 THOAS, THOMIRIS, TAXIS.
 
 
@@ -2979,7 +2979,7 @@ Ah ! courons dans leur sang éteindre leur furie,
 Et toy [470] dans ce Palais garde mon ennemie. [471]  
 
 
-### SCENE VII.
+### SCENE VII. 
 THOMIRIS, TAXIS.
 
 
@@ -3005,7 +3005,7 @@ Vienne … Mais c'est trop craindre en cette extrémité⁎.
 Tu me retiens en vain, ta lâche obéïssance …  
 
 
-### SCENE VIII.
+### SCENE VIII. 
 THOMIRIS, TAXIS, ERINE.
 
 
@@ -3035,7 +3035,7 @@ C'est aujourd'huy le Sceptre, ou la mort que j'attens.
 Ah ! prévenez … Que dis-je ? on vient. Il n'est plus temps. [475]  
 
 
-### SCENE DERNIERE.
+### SCENE DERNIERE. 
 THOMIRIS, ANTHENOR. ERINE. [476]
 
 

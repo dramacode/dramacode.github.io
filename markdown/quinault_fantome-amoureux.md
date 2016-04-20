@@ -2339,8 +2339,10 @@ De peur de l'affoiblir, renfermons-le dedans,
 Signalons nos regrets, mieux qu'avec la parole :  
 Lors qu'on a tout perdu, qui se plaint, se console ?  
 Oüy, cher amant, pour mieux déplorer ton trespas :  
+Mais quel bruit effroyable enten-je sous mes pas,  
+Il se fait un grand bruit sous le Theatre.
 
-Mais quel bruit effroyable enten-je sous mes pas,  Il se fait un grand bruit sous le Theatre.
+
 Pour me joindre à Fabrice, il semble qu'un tonnere  
 Se prepare à sortir du centre de la terre ?  
 Ciel ! le bruit se redouble, & par des coups nouveaux  

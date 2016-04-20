@@ -101,7 +101,7 @@ Ils sont au Roy de Bronze, ils sont à nos talons,
 Au Voleur, au Filou, mais Dieu je perds l'haleine !
 Cachons-nous, autrement nostre perte est certaine.
 
--*who_le_balafre
+-*who_le_balafre 
 Où donc ce Malotru peut-il s'estre fourré ?
 Dans sa Chambre à l'envy nous l'avons bien bourré,
 Et nous le poursuivions, pour l'achever de peindre.
@@ -178,7 +178,7 @@ Je suis
 -*who_ragonde
       Quelque Vaut-rien, retire-toy d'icy,
 
--*who_beronte
+-*who_beronte 
 Recognoissez ma voix, & r'ouvrez-moy la porte.
 
 -*who_ragonde
@@ -305,7 +305,7 @@ Aussi bien quelqu'un sort, & je crains non sans cause,
 Qu'on ne vienne m'oster une si belle chose :
 Fuyons à tout hazard.
 
-**** *book_ *id_I03 *act_I *date_1648 *creator_lestoile
+**** *book_ *id_I03 *act_I *date_1648 *creator_lestoile 
 
 -*who_lucidor
       O Comble de mal-heurs !
@@ -351,7 +351,7 @@ Il faut se consoler.
 -*who_lucidor
       Il faut perdre la vie.
 
--*who_clorise
+-*who_clorise 
 Je sçay qu'à fondre en pleurs ce malheur vous convie.
 Mais tenez-le secret, ou bien preparez-vous
 A me voir de Florinde essuyer le courrous.
@@ -496,7 +496,7 @@ Madame excusez-moy, je ne viens que pour voir
 Si vous auriez besoin de quelques Pierreries,
 De beaux Linge de Lits, ou de Tapisseries
 
--*who_olympe
+-*who_olympe 
 Non pas pour le present.
 
 -*who_ragonde
@@ -520,7 +520,7 @@ Je predis l'advenir, & fais des mariages :
 Cherchez-vous un mary ? Je sçay bien vostre fait⁎,
 C'est un homme de mine, & plus encor d'effet.
 
--*who_olympe
+-*who_olympe 
 Je le croy, mais l'Hymen est un joug que j'abhorre.
 
 -*who_ragonde
@@ -545,7 +545,7 @@ Adieu, n'en parlons plus, brisons là ce discours.
 -*who_ragonde
 Vous refusez un bien que le Ciel vous presente.
 
--*who_olympe
+-*who_olympe 
 La charge d'un Mary me semble trop pesante.
 
 -*who_ragonde
@@ -571,7 +571,7 @@ Pour chercher autre part quelque nouvelle proye.
 -*who_florinde
 Mes yeux sont à sçavoir comment sa main escrit,
 
--*who_olympe
+-*who_olympe 
 Vous devez pour jamais, l'oster de vostre esprit :
 Mais qui croiroit qu'Amour vous eust préocupée
 D'un homme qui n'a rien que la cappe & l'espèe?
@@ -596,7 +596,7 @@ Sans aucune raison souvent il me soupçonne,
 Et si de moy s'approche, ou servante, ou valet,
 Il jure qu'en mes mains on a mis le poulet⁎.
 
--*who_olympe
+-*who_olympe 
 Plus un homme est jalous, plus son amour est forte,
 Et nulle ne s'egale à celle qu'il vous porte ;
 Il sera vostre Espoux, c'est un point arresté,
@@ -646,7 +646,7 @@ Monsieur,
 -*who_tersandre
       Que me veux-tu ?
 
--*who_beronte
+-*who_beronte 
       Que vaut-bien cét ouvrage ?
 Se peindra-t'il jamais un plus gentil⁎ visage ?
 
@@ -717,7 +717,7 @@ Heurte, redouble encore. Ha ! je meurs de regret.
 -*who_beronte
 Dans tous les lieux d'honneur il faut estre discret.
 
-**** *book_ *id_II03 *act_II *date_1648 *creator_lestoile
+**** *book_ *id_II03 *act_II *date_1648 *creator_lestoile 
 
 -*who_ragonde
 Que vous plaist-il Monsieur ? voulez-vous dans ma chambre
@@ -739,7 +739,7 @@ J'ayme bien mieux le vendre à quelque Financier.
 -*who_tersandre
 Contentez le desir de qui veut bien payer.
 
--*who_ragonde
+-*who_ragonde 
 Ce que vous desirez de cent feux estincelle,
 Mais Monsieur, sçavez-vous comment cela s'appelle ?
 Ce joly petit Cœur qui n'a rien de commun,
@@ -888,7 +888,7 @@ Prier sainct Mathurin à vostre intention.
 Et moy j'iray prier, descouvrant qui vous estes,
 Qu'on vous donne logis dans les Magdelonnettes;
 
-**** *book_ *id_II05 *act_II *date_1648 *creator_lestoile
+**** *book_ *id_II05 *act_II *date_1648 *creator_lestoile 
 
 -*who_tersandre
 Voyez quelle response, & de quelle fierté,
@@ -934,7 +934,7 @@ Mais je pense le voir, mon bon-heur me l'ameine.
 Où donc, triste & resveur allez-vous seul ainsi ?
 Vous est-il survenu quelque nouveau soucy ?
 
--*who_lucidor
+-*who_lucidor 
 On voit à tous momens quelque affaire importune
 Survenir à qui suit l'Amour ou la Fortune.
 
@@ -950,7 +950,7 @@ Mais je croy que l'Amour vous rend fort miserable.
 Quiconque peut avoir la fortune pour luy,
 A bien dequoy guerir de l'amoureux ennuy⁎.
 
--*who_lucidor
+-*who_lucidor 
 La Fortune se plaist à nous estre infidelle,
 Et quiconque la suit est aveugle comme elle.
 
@@ -988,7 +988,7 @@ Un Amant⁎ doit mourir avecque son secret.
 Sa main, par qui l'Amour mit le feu dans mon ame,
 Vous a peut-estre escrit au mespris de ma flame.
 
--*who_tersandre
+-*who_tersandre 
 Point du tout.
 
 -*who_lucidor
@@ -1015,7 +1015,7 @@ Quelle foy vous croiroit ?
 -*who_lucidor
 Peut-estre qu'en dormant vous la baisez en songe.
 
--*who_tersandre
+-*who_tersandre 
 Non non, je ne dors point, & d'amour transporté⁎,
 Je puis mesme à vos yeux baiser cette beauté.
 
@@ -1041,7 +1041,7 @@ Mais encor, depuis quand avez-vous ce tableau ?
 -*who_tersandre
 Depuis peu.
 
--*who_lucidor
+-*who_lucidor 
       Mais de qui ?
 
 -*who_tersandre
@@ -1068,7 +1068,7 @@ Certes vos vanitez passent jusqu'à l'excez,
 -*who_tersandre
 On permet de crier à qui perd son procez.
 
--*who_lucidor
+-*who_lucidor 
 Moy je perdrois le mien ? mais Florinde s'avance,
 Et pourroit contre moy prendre vostre deffense.
 Dans une heure au plus tard je seray seul icy.
@@ -1143,7 +1143,7 @@ Il l'a fait quelque part tirer à mon deceu:
 Mais redonnez-le moy, de crainte qu'à ma honte
 Quelqu'un vous le voyant n'en fasse un mauvais conte.
 
--*who_tersandre
+-*who_tersandre 
 Mes yeux l'admireront, mon cœur l'adorera,
 Mais fors⁎ moy seulement aucun ne le verra.
 
@@ -1201,7 +1201,7 @@ Que jamais de sa part je n'en veux recevoir ;
 Il monstre mes faveurs⁎, il en prend adavantage,
 Et j'en ay de Tersandre un certain tesmoignage,
 
--*who_ragonde
+-*who_ragonde 
 O le plaisant tesmoin qu'un Rival si jalous !
 Il a des visions, il est au rang des fous.
 Vous le dites vous-mesme, & son extravagance
@@ -1253,7 +1253,7 @@ De l'amener ce soir, & qu'il me les rapporte.
 -*who_ragonde
 Madame,
 
--*who_florinde
+-*who_florinde 
       Je le veux.
 
 -*who_ragonde
@@ -1281,7 +1281,7 @@ Reserrez cette lettre, évitez sa colere.
 Je sçauray dans le nid remettre ce poulet⁎ ;
 Et craignant son courroux filer doux comme laict.
 
-**** *book_ *id_III03 *act_III *date_1648 *creator_lestoile
+**** *book_ *id_III03 *act_III *date_1648 *creator_lestoile 
 
 -*who_olympe
 Ainsi donc à toute heure il faut que je descende,
@@ -1331,7 +1331,7 @@ Il faudroit sur ma foy qu'on les eust desrobées,
 -*who_olympe
 Comment entre les mains vous sont elles tombées ?
 
--*who_ragonde
+-*who_ragonde 
 Pourquoy dire comment ? cela m'est deffendu,
 Il suffit que je livre, apres que j'ay vendu.
 
@@ -1384,7 +1384,7 @@ Je suis femme d'honneur, j'en leverois la main,
 Je devrois la lever, & vous punir soudain,
 Je ne sçay qui me tient.
 
--*who_ragonde
+-*who_ragonde 
       Je l'ay belle eschappee,
 Mais je veux bien mourir si j'y suis ratrappee ;
 Je n'ay membre sur moy qui de peur n'ayt tremblé,
@@ -1483,7 +1483,7 @@ Avec un Vergalant,
 -*who_tersandre
 Hé ! de quelle façon estoit-elle vestuë ?
 
--*who_beronte
+-*who_beronte 
 Ravy de ses appas, Monsieur, j'ay seulement,
 Comtemplé le visage, & non l'habillement,
 
@@ -1564,7 +1564,7 @@ On me luy vid donner mille coups par derriere.
 -*who_tersandre
 Donc apres qu'il fut mort tu luy fis bien du mal ?
 
--*who_beronte
+-*who_beronte 
 Aux Trigaux comme luy mon courage est fatal.
 
 -*who_tersandre
@@ -1719,7 +1719,7 @@ Si je sçay dégaisner & joüer des cousteaux,
 Le voicy, cache toy, mais retien ta colere,
 Et ne te monstre point, qu'il ne soit necessaire.
 
-**** *book_ *id_III06 *act_III *date_1648 *creator_lestoile
+**** *book_ *id_III06 *act_III *date_1648 *creator_lestoile 
 
 -*who_tersandre
 Enfin vous le voulez, le sort en est jetté ;
@@ -1794,7 +1794,7 @@ Si ce ne seroit fait de ce Diable incarné.
 -*who_tersandre
 Suy-moy, traistre, suy-moy.
 
--*who_beronte
+-*who_beronte 
       Dieu ! prenez ma deffense.
 
 -*who_tersandre
@@ -1847,7 +1847,7 @@ Heurtons viste, r'entrons.
 -*who_lucidor
       Qu'est-ce qui te r'amene ?
 
--*who_ragonde
+-*who_ragonde 
 Je tremble.
 
 -*who_lucidor
@@ -1873,7 +1873,7 @@ Sous la tombe avec moy je veux qu'on les enferme,
 -*who_ragonde
 C'est là qu'elles seront en lieu de seureté,
 
--*who_lucidor
+-*who_lucidor 
 Vouloir m'oster ainsi ce qui m'a tant cousté !
 Non, non Ragonde non, retourne-t'en luy dire,
 Qu'elle n'obtiendra rien de ce qu'elle desire.
@@ -1899,7 +1899,7 @@ Revien,
 -*who_lucidor
       Rien, rien, poursuy tes pas,
 
--*who_ragonde
+-*who_ragonde 
 Adieu donc.
 
 -*who_lucidor
@@ -1924,7 +1924,7 @@ Mais vous estes Norman, vous pouvez vous dédire.
 -*who_lucidor
 Ha ! ne te raille point, il n'est pas temps de rire,
 
--*who_ragonde
+-*who_ragonde 
 Que vous estes Niais de vous taire aujourd'huy,
 Quand on punit en vous la sottise d'autruy,
 Que dira le pays où vous pristes naissance ?
@@ -2132,7 +2132,7 @@ Ouy cent coups de poignard luy perceront le sein ;
 Et si mon action attire vostre blasme,
 De ce mesme poignard je coupperay ma trâme⁎.
 
--*who_florinde
+-*who_florinde 
 Quelle aveugle fureur vous agite aujourd'huy
 Jusqu'à le vouloir perdre, & vous perdre apres luy ?
 Chassez loin le desir de ce double homicide,
@@ -2183,7 +2183,7 @@ Quel bruit chers compagnons a frappé nos oreilles ?
 Tandis qu'ainsi tous trois nous beyons aux Corneilles,
 Ce maudit Receleur pourroit bien battre aux champs,
 
--*who_le_borgne
+-*who_le_borgne 
 Ce Coquin a bon nez, il prendra mieux son temps ;
 Et peut-estre desja sentant nostre partie⁎,
 Il a fait en secret un bransle de sortie.
@@ -2233,7 +2233,7 @@ Je le tiens, peu s'en faut, rends la vie, ou la bourse.
 -*who_beronte
 Là voilà.
 
--*who_le_balafre
+-*who_le_balafre 
       Quelle est platte ! elle est vide, es-tu fou ?
 Tu portes une bourse, & ny mets pas un sou,
 Ça le manteau.
@@ -2332,7 +2332,7 @@ Puisse mon luminaire estre estein tout à fait,
 Si pour y voler tout je ne fais l'impossible,
 Y d'eussay-je estre pris, & perce comme un crible.
 
--*who_le_bras_de_fer
+-*who_le_bras_de_fer 
 Et pour ce Bras-de-fer, puissay-je en avoir deux,
 Si je ne suis encor plus que vous hazardeux⁎.
 
@@ -2355,7 +2355,7 @@ Allez, & cependant nous boirons prés d'icy.
 Avant nostre retour, nous trinquerons aussi,
 Le vin me rend hardy, quand j'ay beu je fais rage.
 
--*who_le_borgne
+-*who_le_borgne 
 Nous trousserons la pinte & non pas davantage,
 Et puis à pas de Loup nous reviendrons daguet,
 Pour voir qui va qui vient tous deux faire le guet.
@@ -2403,7 +2403,7 @@ De leur retardement c'est la cause certaine,
 Mais on a cent decrets contre ce Balafré,
 Et les Archers du Guet l'ont peut-estre coffré.
 
--*who_le_borgne
+-*who_le_borgne 
 S'il est pris je le plains il faudra qu'il en meure,
 
 -*who_le_bras_de_fer
@@ -2453,7 +2453,7 @@ Et mort on est pas mieux dans l'or que dans la bouë ;
 -*who_le_borgne
 On siffle, les voicy ;
 
-**** *book_ *id_V02 *act_V *date_1648 *creator_lestoile
+**** *book_ *id_V02 *act_V *date_1648 *creator_lestoile 
 
 -*who_le_bras_de_fer
       Doublez doublez le pas,
@@ -2477,7 +2477,7 @@ Mais il est desja tard,
 -*who_le_bras_de_fer
 Nos engins⁎ sont-ils prests ?
 
--*who_beronte
+-*who_beronte 
       Voicy tout ce qu'il faut,
 Crochets, passe-par tout, lime sourde, tenaille,
 Et tant d'autres outils dont nostre main travaille.
@@ -2504,7 +2504,7 @@ Ne s'éveilleront pas tant qu'elles brusleront ;
 -*who_le_borgne
 Hé ! s'ils sont éveillez ?
 
--*who_beronte
+-*who_beronte 
       Ils nous verrons tout prendre,
 Sans pourvoir ny parler, ny mesme se deffendre.
 
@@ -2582,7 +2582,7 @@ Que de vaines frayeurs vostre ame est combatuë ;
 Nous serons plus heureux, ce mal n'adviendra point,
 Adieu, conservez bien le moule du pourpoint.
 
--*who_beronte
+-*who_beronte 
 Conservez bien le vostre, & si l'on vous attrappe,
 Et que de ce danger par miracle j'eschappe ;
 A quelque question⁎ que vous soyez soubmis,
@@ -2655,7 +2655,7 @@ Mais qui vois-je à ce coin ?
       Dieu ! je tremble d'effroy,
 Fends-toy par la moitié, muraille cache-moy,
 
--*who_olympe
+-*who_olympe 
 C'est un Voleur, prenez-le, il faut qu'il rende l'ame,
 Entre mille tourmens.
 
@@ -2733,7 +2733,7 @@ Mais pourquoy mettre ainsi ces biens faux en mes mains ?
 Pour éblouir vos yeux, & ceux de sa Maistresse,
 Par les trompeurs appas d'une feinte richesse.
 
--*who_ragonde
+-*who_ragonde 
 Dieu quel Maistre Gonin!
 
 -*who_beronte
@@ -2938,7 +2938,7 @@ Au voleur.
 -*who_tersandre
       Fuyons.
 
--*who_beronte
+-*who_beronte 
       Il a des aisles.
 
 **** *book_ *id_V07 *act_V *date_1648 *creator_lestoile

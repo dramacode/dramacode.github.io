@@ -170,7 +170,7 @@ Je n'ay de mon bonheur qu'une joye inquiete.
 Etonné⁎, traversé d'une crainte secrete,
 Sans relâche … Ah grands Dieux, que vois-je ! est-ce Anthenor ?
 
-**** *book_ *id_scene2-I *act_acteI *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene2-I *act_acteI *date_1697 *creator_la_grange_chancel 
 
 -*who_thoas
 Ciel ! il m'est donc permis de te revoir encor.
@@ -235,7 +235,7 @@ S'il m'avoit devancé qu'auroit-ce été, grands Dieux !
 -*who_thoas
 Il n'en faut point douter, ce Prince est en ces lieux.
 
--*who_anthenor
+-*who_anthenor 
 Luy ?
 
 -*who_thoas
@@ -259,7 +259,7 @@ Cher amy que je suis redevable à ton zele⁎.
 Allons, courons au Temple en porter la nouvelle.
 Informons la Prestresse... On ouvre, la voicy.
 
-**** *book_ *id_scene3-I *act_acteI *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene3-I *act_acteI *date_1697 *creator_la_grange_chancel 
 
 -*who_thoas
 Ah ! Madame, le sort⁎ enfin s'est adoucy !
@@ -590,7 +590,7 @@ Vous offre, avec sa foy⁎, l'Empire⁎ du Sarmate ;
 Avide, impatient de m'acquiter vers vous,
 J'ay reçû sa demande, il sera vôtre époux.
 
--*who_thomiris
+-*who_thomiris 
 Aux ordres de mon pere est-ce ainsi que vôtre ame …
 
 -*who_thoas
@@ -679,7 +679,7 @@ Les Dieux tendent souvent un piege à nôtre orgueil ;
 L'hymen⁎ de la Prestresse est peut-estre l'écueil,
 Où pour faire échoüer vôtre ame chancelante ...
 
-**** *book_ *id_scene4-II *act_acteII *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene4-II *act_acteII *date_1697 *creator_la_grange_chancel 
 
 -*who_thoas
 Quoy ! sans ce Grec Hidaspe à mes yeux se presente !
@@ -702,7 +702,7 @@ J'ay promis son retour.
 -*who_hidaspe
       Le voicy.
 
-**** *book_ *id_scene5-II *act_acteII *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene5-II *act_acteII *date_1697 *creator_la_grange_chancel 
 
 -*who_thoas
 Qu'on cherche la Prestresse, et qu'on l'ameine icy.
@@ -1020,7 +1020,7 @@ Voyez Thoas, vous dis-je, et luy faites connoistre,
 Que je pars cette nuit. Que demain il est maistre.
 Le delay n'est pas long. Allez.
 
-**** *book_ *id_scene3-III *act_acteIII *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene3-III *act_acteIII *date_1697 *creator_la_grange_chancel 
 
 -*who_erine
       Qu'ay-je entendu !
@@ -1045,7 +1045,7 @@ Ses regards sont encor égarez, furieux⁎.
 Le trouble de ses sens nous dérobe à ses yeux.
 Dissipe, juste Ciel ! le voile qui les couvre.
 
-**** *book_ *id_scene4-III *act_acteIII *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene4-III *act_acteIII *date_1697 *creator_la_grange_chancel 
 
 -*who_oreste
 Sous mes pas chancelans quel abîme s'entr'ouvre !
@@ -1347,7 +1347,7 @@ Né pour un sort⁎ plus beau, vertueux, magnanime,
 D'un amy plus heureux tu meritois l'estime,
 Ta mort … La mienne approche. On vient. J'entens du bruit.
 
-**** *book_ *id_scene8-III *act_acteIII *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene8-III *act_acteIII *date_1697 *creator_la_grange_chancel 
 
 -*who_pilade
 Que me demandez-vous ? où m'avez-vous conduit ?
@@ -1371,7 +1371,7 @@ C'est Pilade, grands Dieux !
 -*who_pilade
       Que vois-je ? c'est Oreste.
 
--*who_oreste
+-*who_oreste 
 Pilade entre mes bras, qui l'auroit pû penser ?
 
 -*who_pilade
@@ -1409,7 +1409,7 @@ Que me dis-tu ? Chargé de crimes inouïs,
 Détesté, méritant la celeste disgrace,
 Ay-je un cœur où l'amour puisse encor trouver place ?
 
--*who_pilade
+-*who_pilade 
 Quel effort d'avoir pû resister à ses coups !
 Cher Prince, que Pilade est encor loin de vous.
 Seduit par les attraits de la même Prestresse,
@@ -1475,7 +1475,7 @@ Pour l'un de ces captifs, ayant pris ce poison,
 N'immole-tu point l'autre par la même raison.
 Ah ! … Qu'ils meurent tous deux, ma bouche le prononce.
 
-**** *book_ *id_scene2-IV *act_acteIV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene2-IV *act_acteIV *date_1697 *creator_la_grange_chancel 
 
 -*who_iphigenie
 Que vous tardez, Cyane, à me rendre réponse ;
@@ -1500,7 +1500,7 @@ Que l'ardeur qu'il avoit ne retrouvera plus ?
 Allons, Cyane, allons haster nostre vangeance,
 Mais qui vient s'opposer à mon impatience ?
 
-**** *book_ *id_scene3-IV *act_acteIV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene3-IV *act_acteIV *date_1697 *creator_la_grange_chancel 
 
 -*who_thomiris
 Le bruit qui se répand par vostre ordre en ces lieux,
@@ -1626,7 +1626,7 @@ Ce Grec …
 -*who_cyane
       Hidaspe vient, vous l'apprendrez de luy.
 
-**** *book_ *id_scene5-IV *act_acteIV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene5-IV *act_acteIV *date_1697 *creator_la_grange_chancel 
 
 -*who_iphigenie
 Où donc est l'Etranger, et par quelle injustice,
@@ -1647,7 +1647,7 @@ Sçachez quel est celuy …
 -*who_iphigenie
       Qu'on me laisse avec eux.
 
-**** *book_ *id_scene6-IV *act_acteIV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene6-IV *act_acteIV *date_1697 *creator_la_grange_chancel 
 
 -*who_iphigenie
 Vous vous obstinez donc à refuser ma grace,
@@ -1677,7 +1677,7 @@ C'est à son amitié que j'en suis redevable :
 L'un à l'autre liez par le plus saint des nœuds⁎,
 Ou nous vivrons ensemble, ou nous mourrons tous deux.
 
--*who_iphigenie
+-*who_iphigenie 
 N'attens pas que ma main te joigne à ce perfide :
 Je vais devant tes yeux punir son parricide,
 Dans les flots de son sang éteindre mon courroux⁎.
@@ -1789,7 +1789,7 @@ Où sa fortune⁎ attache et ses soins⁎, et sa vûë.
 Contre tant de perils qu'oserez-vous tenter ?
 Quel miracle ! quel Dieu pourroient les surmonter !
 
--*who_pilade
+-*who_pilade 
 Madame, n'ayez point ces indignes allarmes⁎,
 Livrez-nous seulement la Statuë, et des armes,
 Les Dieux de ce peril sçauront nous dégager :
@@ -1851,7 +1851,7 @@ Tous deux d'un saint devoir également épris,
 De mourir l'un pour l'autre ont la perseverence,
 Aucun ne veut devoir la vie à ta clemence.
 
--*who_thoas
+-*who_thoas 
 Cette confusion commence à me lasser,
 Madame, c'est à vous de la faire cesser.
 Faites-moy voir Oreste, et me livrez sa teste,
@@ -1889,7 +1889,7 @@ La Tauride verra ce qu'on vit devant Troye.
 Ils se partageront en ce commun effroy,
 Et s'il en est pour eux, il en sera pour moy.
 
--*who_iphigenie
+-*who_iphigenie 
 Quel es-tu pour tenir ce superbe⁎ langage ?
 Oses-tu commander à qui tu dois hommage ?
 Plus haut que ton pouvoir n'éleves point ta voix,
@@ -1915,7 +1915,7 @@ Taxis autour du Temple allez ranger ma Garde ;
 Observez avec elle un silence profond,
 Veillez mes ennemis, vostre teste en répond.
 
-**** *book_ *id_scene9-IV *act_acteIV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene9-IV *act_acteIV *date_1697 *creator_la_grange_chancel 
 
 -*who_hidaspe
 A vostre seureté cet ordre est necessaire,
@@ -1942,7 +1942,7 @@ Je vais de vos bontez, Seigneur⁎, luy faire part.
 -*who_thoas
 Dites-luy que sur tout elle songe au départ.
 
-**** *book_ *id_scene10-IV *act_acteIV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene10-IV *act_acteIV *date_1697 *creator_la_grange_chancel 
 
 -*who_thoas
 Et toy, favorisé de l'ombre et du silence,
@@ -2026,7 +2026,7 @@ N'épargne point le sang des plus audacieux.
 Va, cours, te dis-je. Et moy pour rompre cet obstacle,
 Je m'en vais l'attirer par un autre spectacle.
 
-**** *book_ *id_scene3-V *act_acteV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene3-V *act_acteV *date_1697 *creator_la_grange_chancel 
 
 -*who_thoas
 Déja l'Astre naissant, qui luit sur mes desseins,
@@ -2086,7 +2086,7 @@ Quelle entre ! A ce forfait commis impunément,
 Je connois ton audace, infidelle Prestresse :
 Mais tu mourras. Que vois-je ? ô Ciel ! c'est la Princesse.
 
-**** *book_ *id_scene5-V *act_acteV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene5-V *act_acteV *date_1697 *creator_la_grange_chancel 
 
 -*who_thomiris
 Ouy perfide, c'est moy, dissipe ton erreur,
@@ -2164,7 +2164,7 @@ Ta mort sera le prix d'avoir tramé leur fuite.
 Aprés ce que j'ay fait je brave ta fureur⁎.
 Je ne crains rien cruel⁎, frape.
 
-**** *book_ *id_scene6-V *act_acteV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene6-V *act_acteV *date_1697 *creator_la_grange_chancel 
 
 -*who_taxis
       Venez, Seigneur⁎,
@@ -2181,7 +2181,7 @@ Et sans vostre presence ils peuvent tout oser.
 Ah ! courons dans leur sang éteindre leur furie,
 Et toy dans ce Palais garde mon ennemie.
 
-**** *book_ *id_scene7-V *act_acteV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene7-V *act_acteV *date_1697 *creator_la_grange_chancel 
 
 -*who_thomiris
 Dieux ! est-ce l'innocence à qui vous en voulez ?
@@ -2204,7 +2204,7 @@ Attens-tu que sur moy son bras ensanglanté
 Vienne … Mais c'est trop craindre en cette extrémité⁎.
 Tu me retiens en vain, ta lâche obéïssance …
 
-**** *book_ *id_scene8-V *act_acteV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene8-V *act_acteV *date_1697 *creator_la_grange_chancel 
 
 -*who_erine
 Madame, de Thoas fuyez la violence.
@@ -2231,7 +2231,7 @@ C'est aujourd'huy le Sceptre, ou la mort que j'attens.
 -*who_erine
 Ah ! prévenez … Que dis-je ? on vient. Il n'est plus temps.
 
-**** *book_ *id_scene9-V *act_acteV *date_1697 *creator_la_grange_chancel
+**** *book_ *id_scene9-V *act_acteV *date_1697 *creator_la_grange_chancel 
 
 -*who_anthenor
 Vous triomphez, Madame, et le Ciel équitable,

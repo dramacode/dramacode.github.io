@@ -125,7 +125,7 @@ Le feu que vous avez a besoin de leçon
 Apres vous hablerez⁎ de la bonne façon :
 En voulez-vous donner ?
 
--*who_ariste
+-*who_ariste 
       L'affaire est devinée.
 Je voudrois bien mentir,
 
@@ -173,7 +173,7 @@ Je m'en vay la querir : en faut-il davantage ?
 -*who_ariste
 Ah ! c'est trop m'obliger.
 
-**** *book_ *id_I02 *act_I *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I02 *act_I *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_ariste
       Le galand personnage !
@@ -194,7 +194,7 @@ Qui servant d'un argus° à ma divinité    
 Alors qu'elle te suit nous laisse en liberté
 Ses sanglots font pitié…
 
--*who_jodelet
+-*who_jodelet 
       Monsieur, c'est qu'elle tousse.
 
 -*who_ariste
@@ -224,7 +224,7 @@ Qui le tient fort sçavant, & le croit fort discret,
 Mais de Climante aussi dites moy le secret,
 Aimeroit-il Olympe ?
 
--*who_ariste
+-*who_ariste 
       Oüy, Jodelet, il l'aime
 Pour elle son amour passe jusqu'à l'extréme,
 Et j'ay bien reconnu qu'il trouve les moyens
@@ -250,7 +250,7 @@ Et comme a-t'il si tost fait cette cognoissance ?
 Tu peux t'en estonner avec juste raison,
 Toy qui ne songes pas qu'il loge en leur maison.
 
--*who_jodelet
+-*who_jodelet 
 Mais comment a-t'il fait pendant ce grand voyage,
 Qu'il n'a pû la contraindre au moins au mariage ?
 Que luy peut dire Olympe, & comment, & pourquoy ?
@@ -277,7 +277,7 @@ Comedie & balets, festins & promenades.
 Mais en si peu de temps vous vouloir tant de bien,
 Elle estant Provençalle, & vous Parisien.
 
--*who_ariste
+-*who_ariste 
 Quand l'amant est voisin de la personne aymée
 Une forte habitude est aisément formée.
 
@@ -336,7 +336,7 @@ Et pour estre plus libre.
 Ah ;  Monsieur, permettez que ma lame enroüillée
 Soit teinte de son sang.
 
--*who_ariste
+-*who_ariste 
       Elle en seroit soüillée ;
 Garde bien le secret, & tais toy,
 
@@ -369,7 +369,7 @@ Elle est pourtant passable.
 -*who_ariste
 Mais voicy mon Olympe, ah, divine merveille !
 
-**** *book_ *id_I03 *act_I *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_I03 *act_I *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_climante
 Pour un amy qui dort toûjours quelqu'autre veille
@@ -391,7 +391,7 @@ Qu'en la priant pour vous il n'espargnera rien.
 -*who_olimpe
 Oronthe le voulant je vous suis tout acquise.
 
--*who_ariste
+-*who_ariste 
 De grace donc, Monsieur, excusez la franchise,
 Et treuvez bon qu'icy j'ose vous supplier,
 En la priant pour moy de ne rien oublier,
@@ -421,7 +421,7 @@ Vous l'aimez…
 -*who_olimpe
       Il est vray.
 
--*who_oronthe
+-*who_oronthe 
       Tout de bon,
 
 -*who_olimpe
@@ -454,7 +454,7 @@ Au moins…
 -*who_ariste
       Il vous en fait accroire⁎.
 
--*who_climante
+-*who_climante 
 N'en faites point le fin, & comptez leur l'histoire,
 Quand Oronthe sçaura que vous aimez ailleurs,
 Il en aura pour vous des sentimens meilleurs,
@@ -652,7 +652,7 @@ Cet accommodement est assez difficile.
 Pour faire encore plus il n'est que trop habile ;
 Mais qu'il explique
 
--*who_ariste
+-*who_ariste 
       En vain je voudrois m'en piquer,
 Je perdrois bien-tost terre en voulant m'expliquer ;
 Je conçois assez bien les choses qu'il faut dire,
@@ -675,7 +675,7 @@ Dirois-tu qu'une fille eust de l'amour pour moy ?
 -*who_pancrace
 C'est qu'elle a reconnu quelques appas⁎ en toy.
 
--*who_jodelet
+-*who_jodelet 
 Qu'est-ce que des appas⁎, est-ce une belle chose ?
 
 -*who_pancrace
@@ -728,7 +728,7 @@ Quand il treuve un objet⁎ propre à le recevoir.
 -*who_jodelet
 Les autres …
 
--*who_pancrace
+-*who_pancrace 
       Esclairez d'une moindre lumiere
 Enveloppent sa force au sein de la matiere,
 Et nomment un instinct ce premier mouvement
@@ -759,7 +759,7 @@ Quoy …
 -*who_jodelet
 Il est vray …
 
--*who_pancrace
+-*who_pancrace 
       Nous naissons en pleine liberté.
 
 -*who_jodelet
@@ -789,7 +789,7 @@ Donc …
 -*who_jodelet
 Un mot …
 
--*who_pancrace
+-*who_pancrace 
       Quoy, voudrois-tu des ames radicales
 Où l'operation pareille aux animales.
 
@@ -1014,7 +1014,7 @@ Mais vous en sçavez faire, & cela me console.
 Les vers me coustent trop, & je veux desormais,
 Hors pour un bel objet⁎ n'en escrire jamais.
 
--*who_oronthe
+-*who_oronthe 
 Si les seules beautez eschauffent vostre muse,
 Vous ne pourrez treuver de legitime excuse,
 Olimpe pour qui c'est ne manque point d'appas⁎.
@@ -1069,7 +1069,7 @@ Vous parlez en amant.
 -*who_climante
 J'ay des yeux qui sont bons, & connois ses appas⁎.
 
--*who_oronthe
+-*who_oronthe 
 Vous les connoissez mal !
 
 -*who_climante
@@ -1087,7 +1087,7 @@ Sçachons plustôt comment je feray mon ouvrage.
 -*who_oronthe
 Mais la voicy qui vient avec le personnage.
 
-**** *book_ *id_II03 *act_II *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II03 *act_II *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_oronthe
 Vous trouver sans Lisette, & de plus avec luy ?
@@ -1112,7 +1112,7 @@ Quand ?
 -*who_oronthe
       Sans faute ?
 
--*who_ariste
+-*who_ariste 
       C'en est fait.
 
 -*who_oronthe
@@ -1145,7 +1145,7 @@ Je sçay bien qu'elle dit mes enfants prenez place.
 -*who_oronthe
 Au moins je la veux voir & Pancrace avec moy
 
--*who_ariste
+-*who_ariste 
 Allez je vous respons de la loge du Roy
 Vous verrez mon credit.
 
@@ -1194,7 +1194,7 @@ Et sera par ce traict l'amant & le jaloux.
 D'une mauvaise adresse avec celle que j'aime,
 En me croyant joüer, il se joüra luy-mesme,
 
--*who_olimpe
+-*who_olimpe 
 Quel plaisir de luy voir contrefaire le fin ?
 
 -*who_oronthe
@@ -1217,7 +1217,7 @@ Je confesse qu'en fin je vous suis obligée ;
 Et pour me divertir tant de bons traittemens,
 Ont bien droict d'effacer mes mescontentemens.
 
--*who_oronthe
+-*who_oronthe 
 Aprés l'enlevement que l'amour me fit faire,
 Mon respect est si grand, qu'il n'est pas ordinaire,
 Et loin de vous presser,
@@ -1267,7 +1267,7 @@ Climante vient.
 -*who_oronthe
       Hé bien la Stance est-elle faite ?
 
--*who_climante
+-*who_climante 
 Non, j'ay trouvé là bas Pancrace avec Lizette
 Qui se parloient si haut que troublant mon objet
 Je n'ay pû seulement qu'en tracer le projet.
@@ -1294,7 +1294,7 @@ Le mortel ennemy de mes plus doux plaisirs,
 Et dedans les transports de l'ardeur qui m'enflâme,
 C'est l'effroy⁎ de mes yeux & l'horreur⁎ de mon ame !
 
--*who_oronthe
+-*who_oronthe 
 Nous en aurons tantost un plaisir assez doux ;
 Mais redonnez encor quelque touche au jaloux.
 
@@ -1352,7 +1352,7 @@ La Dupe s'en rira.
 -*who_climante
       Le trait n'est pas mauvais.
 
--*who_olimpe
+-*who_olimpe 
 Ce pendant⁎ que diray-je à cet amant fidele ?
 
 -*who_oronthe
@@ -1399,7 +1399,7 @@ Que pour me delivrer il vient bien à propos !
 -*who_climante
 Faut il que ce brutal traverse mon repos ?
 
-**** *book_ *id_II07 *act_II *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_II07 *act_II *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_lisette
 Quoy, pour moy ta follie est toûjours sans pareille
@@ -1525,7 +1525,7 @@ Chassast loin de mon cœur une douleur trop vive,
 Et qu'en y balayant des tristesses d'amour,
 Tu le fisses passer de la poussiere au jour !
 
--*who_lisette
+-*who_lisette 
 Bon, mais il faut aller faire mettre sur table.
 
 -*who_pancrace
@@ -1553,7 +1553,7 @@ Qui met mon corps en cendre, & consomme⁎ mon ame !
 Bon Dieu ! je n'ay pas fait nettoyer le jardin,
 Monsieur criera tantost.
 
--*who_pancrace
+-*who_pancrace 
       Tu veux t'en fuir en vain,
 Et tu dois bien plustost par ta grace divine
 Arracher de mon cœur les soucis & l'espine,
@@ -1592,7 +1592,7 @@ Puis qu'en fin ma douleur n'en est pas appaisée,
 Et que je ne sçaurois trouver un seul moment,
 Pour vous entretenir & vous voir librement.
 
--*who_olimpe
+-*who_olimpe 
 Feignons … Quelle raison vous oblige à vous plaindre ?
 Ne me voyez vous pas si souvent me contraindre
 Quand je preste l'oreille à ce jeune innocent
@@ -1649,7 +1649,7 @@ Qu'il ne me quitte point & j'en seray contente !
 -*who_climante
 Tout importun qu'il est endurez ses souspirs !
 
--*who_olimpe
+-*who_olimpe 
 Je puis bien l'endurer s'il sert à mes plaisirs.
 
 -*who_climante
@@ -1676,7 +1676,7 @@ Nous vivons sans donner aucun soupçon de nous.
 -*who_olimpe
 Nous nous aimons tous deux sans faire des jaloux.
 
--*who_climante
+-*who_climante 
 Donc pour continuer à soulager ma peine
 Flatez un ingenu d'une esperance vaine ;
 Et d'un peu de faveurs veuillez le consoler ;
@@ -1698,7 +1698,7 @@ Ariste… Quelqu'un vient ? Rencontre deplaisante !
 -*who_olimpe
 Pour me dire le reste, envoyez-le, Climante !
 
-**** *book_ *id_III02 *act_III *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III02 *act_III *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_lisette
 Un marchand du Palais demande à vous parler.
@@ -1741,7 +1741,7 @@ D'attendre le Badaut⁎.
       Nous rirons, ou je meure.
 Allons Madame !
 
--*who_olimpe
+-*who_olimpe 
       Allons.
 
 -*who_pancrace
@@ -1793,7 +1793,7 @@ Reconnoit la nature, & conçoit de l'amour.
 -*who_lisette
 Tout ce que tu me dis ne servira de gueres.
 
--*who_pancrace
+-*who_pancrace 
 Que s'il faut m'abaisser aux exemples vulgaires,
 Et me servir icy des termes triviaux,
 Tu connoistras qu'en tout je n'eus jamais d'egaux.
@@ -1885,7 +1885,7 @@ Cht ; l'on ne m'entend point, hem, hem.
 -*who_olimpe
       Je suis à vous.
 
--*who_ariste
+-*who_ariste 
 Hé bien !
 
 -*who_olimpe
@@ -1938,7 +1938,7 @@ Elle vous face voir comme elle vous adore,
 Et ne soustient jamais vostre divin aspect,
 Sans changer son amour en un profond respect.
 
--*who_olimpe
+-*who_olimpe 
 A des conditions je veux vous le permettre.
 
 -*who_ariste
@@ -1988,7 +1988,7 @@ Ostez les…
 -*who_ariste
       C'est en vain que vous vous allarmez !
 
--*who_olimpe
+-*who_olimpe 
 Pourquoy ?
 
 -*who_ariste
@@ -2007,7 +2007,7 @@ Le menant à l'endroit où les fins doivent estre :
 Puis qu'il leur faut du temps pour aller & venir,
 Servons nous en du moins pour nous entretenir.
 
-**** *book_ *id_III06 *act_III *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_III06 *act_III *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_jodelet
 Amour jeune falot⁎, petit monstre fantasque,
@@ -2074,7 +2074,7 @@ La Verdure,
 -*who_jodelet
 Commande à tes valets.
 
--*who_le_caporal
+-*who_le_caporal 
       Si je vay jusqu'à vous
 Dans ma mauvaise humeur je vous roûray de coups.
 Ces feneans s'en vont, & font les galans hommes.
@@ -2101,7 +2101,7 @@ Peste !
       Ce n'est pas luy, je le reconnois bien !
 Ton nom ?
 
--*who_jodelet
+-*who_jodelet 
       C'est Jodelet,
 
 -*who_le_caporal
@@ -2134,7 +2134,7 @@ Et pourquoy ?
 Ce matois fait le fol ! il n'est pas tant de rire.
 Sors de là !
 
--*who_jodelet
+-*who_jodelet 
       J'y serois jusqu'à demain matin.
 A d'autre, viel amy, vous m'espreuvez en vain :
 Je n'en branslerois⁎ pas pour gagner un Empire.
@@ -2231,7 +2231,7 @@ Le nom de Perre en fin.
 -*who_pancrace
       La fourbe est assez bonne.
 
--*who_oronthe
+-*who_oronthe 
 Moy pour ne tesmoigner mes desseins à personne,
 Je vais avec Climante encore raisonner
 Pour berner nostre fat⁎, qui s'appreste à donner
@@ -2253,7 +2253,7 @@ Entre, Climante vient.
 -*who_climante
 Oüy de nous voir trompés.
 
--*who_oronthe
+-*who_oronthe 
       O l'amant plain de zele !
 Qui n'ose venir voir sa maistresse le soir ?
 
@@ -2285,7 +2285,7 @@ Il s'y faut preparer.
 -*who_climante
       Le tour sera d'esprit.
 
-**** *book_ *id_IV03 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV03 *act_IV *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_oronthe
 Dis nous que fait Olimpe à present ?
@@ -2309,7 +2309,7 @@ Tu m'obliges.
 -*who_oronthe
 Allons.
 
--*who_lisette
+-*who_lisette 
       Ay-je dessein de mourir de la tous ?
 Et la fraischeur qui vient de l'air & de la terre
 Pourroit-elle estre bonne à guerir mon catherre ?
@@ -2329,7 +2329,7 @@ Que je ne vaille bien un amour mutuel.
 Vrayement c'est bien à luy de faire le cruel,
 Mais c'est luy que j'entens qui nasonne & qui gronde.
 
-**** *book_ *id_IV04 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV04 *act_IV *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_jodelet
 Ouy, Jodelet sans eux tu n'estois plus au monde.
@@ -2350,7 +2350,7 @@ Que ne viens-tu pour voir celle qui t'y cherchoit ?
 Que l'on me cherche ou non, ma foy pour te le dire,
 Laisse moy, l'on n'est pas tousjours d'humeur à rire.
 
--*who_lisette
+-*who_lisette 
 Te priant d'arrester tu me refuserois ?
 
 -*who_jodelet
@@ -2379,7 +2379,7 @@ Mon bedon, mon fanfan, mon poupon, mon valet.
 -*who_jodelet
 Ah ! ne me touche point avecque tes mains sales.
 
--*who_lisette
+-*who_lisette 
 Es-tu si delicat ?
 
 -*who_jodelet
@@ -2462,7 +2462,7 @@ Mes yeux se sont trompez, j'ay mal fait ma partie.
 -*who_jodelet
 Pancrace,
 
--*who_pancrace
+-*who_pancrace 
       Qui va-là ? Que viens-tu faire icy ?
 
 -*who_jodelet
@@ -2489,7 +2489,7 @@ Elle perdra l'esclat de mon Apotheose !
 -*who_jodelet
 Sans doute, mais encor que veut dire ce mot ?
 
--*who_pancrace
+-*who_pancrace 
 J'ayme les curieux.
 
 -*who_jodelet
@@ -2515,7 +2515,7 @@ Il vend bien du mercure & du diapalma⁎.
 En voulant t'enseigner mon erreur est extréme,
 Mais je n'y prens pas garde, à cause que je t'aime.
 
--*who_jodelet
+-*who_jodelet 
 De vray, l'on dit qu'amour aveugle les esprits,
 Je crois qu'il fait du mal !
 
@@ -2542,7 +2542,7 @@ Je sçais bien que l'amour n'est qu'un fils de putain,
 Qu'un rustre estoit aimé de Madame sa mere,
 Et qu'il ne fut jamais à feu Monsieur son pere.
 
--*who_pancrace
+-*who_pancrace 
 Ce divin forgeron, ce boiteux renommé
 Qui regne auprés du Styx sur un Trosne enfumé,
 Et qui preste la force au bras nerveux de Bronthe°,
@@ -2596,7 +2596,7 @@ Voyla bien de quoy rire !
       Ah ! stupide, ah ! profane,
 Nommer un Philosophe un faiseur de rebus ?
 
--*who_jodelet
+-*who_jodelet 
 Mais n'est-ce pas tout un, puis qu'il parloit Phebus ?
 Dis-en la verité.
 
@@ -2652,7 +2652,7 @@ Lisette…
 -*who_pancrace
       Que dis-tu ?
 
--*who_jodelet
+-*who_jodelet 
       Je ne suis point menteur.
 
 -*who_pancrace
@@ -2680,7 +2680,7 @@ Tu l'aimes ?
 -*who_pancrace
       Mais…
 
--*who_jodelet
+-*who_jodelet 
       J'en ay bien veu d'autres.
 Ils ont beau me prier, mon honneur m'est trop cher,
 S'ils veulent de l'amour qu'ils en aillent chercher,
@@ -2706,7 +2706,7 @@ Et que je ne sois plus un garçon vergogneux ;
 Je sçay ce qu'on disoit de Pierrot le honteux
 Quand il s'amouracha de sa jeune commere⁎.
 
--*who_pancrace
+-*who_pancrace 
 Mais…
 
 -*who_jodelet
@@ -2734,7 +2734,7 @@ Et que tous tes discours sont bien extravagans⁎ ?    
 -*who_pancrace
 Ne raille point amy, dis moy tout, je te prie.
 
--*who_jodelet
+-*who_jodelet 
 Je parle tout de bon, ce n'est point raillerie ;
 Elle m'a dit de plus que tu veux l'espouser,
 Et que sur l'escalier en la voulant baiser,
@@ -2761,7 +2761,7 @@ Que ne te puis-je voir aller à tous les Diables !
 -*who_pancrace
 Mal-heureux qu'ay-je-fait !
 
--*who_jodelet
+-*who_jodelet 
       Au moins.
 
 -*who_pancrace
@@ -2783,7 +2783,7 @@ Mais j'entens quelque bruit.
 -*who_pancrace
 Allons donc advertir mon maistre qu'il descende.
 
--*who_ariste
+-*who_ariste 
 Voicy le bel endroit, allons donnez !
 
 -*who_climante
@@ -2843,7 +2843,7 @@ Toy ! si tu l'avois fait avecque ce flambeau,
 Je te ferois griller comme on fait un pourceau.
 Veux-tu voir ?
 
--*who_jodelet
+-*who_jodelet 
       Ah ! Monsieur, escoutez moy, de grace,
 Je disois qu'en courrant, il casseroit sa basse,
 Et parlois à mon maistre afin qu'il s'appaisast.
@@ -2872,7 +2872,7 @@ Tout cela git en preuve.
       Ah ! la grande beveuë,
 Amis, retirez vous, vostre cause est perduë.
 
--*who_climante
+-*who_climante 
 Ne riez pas encore, & preuvez seulement.
 
 -*who_ariste
@@ -2902,7 +2902,7 @@ J'ay couché sur sa porte.
 -*who_ariste
 J'ay fait la sentinelle.
 
--*who_climante
+-*who_climante 
       Et moy le pied de gruë.
 
 -*who_ariste
@@ -2932,7 +2932,7 @@ J'ay donné des concerts.
 -*who_ariste
 J'ay donné mille escus pour porter un poulet⁎.
 
--*who_climante
+-*who_climante 
 J'en ay despensé deux pour gaigner un valet.
 
 -*who_ariste
@@ -2962,7 +2962,7 @@ J'ay donné des galans⁎.
 -*who_ariste
 J'ay donné cent Guenons.
 
--*who_climante
+-*who_climante 
       Et moy cent perroquets.
 
 -*who_ariste
@@ -2992,7 +2992,7 @@ Moy pour un soir au bal deux mille citrons doux.
 -*who_ariste
 En cent lieux de Daphné j'ay la belle peinture.
 
--*who_climante
+-*who_climante 
 Je l'ay de sa hauteur fait peindre en mi-nature.
 
 -*who_ariste
@@ -3019,7 +3019,7 @@ Là dedans.
 Oronthe appaisera cette noise⁎ entre nous
 Cet homme est fort commode.
 
--*who_climante
+-*who_climante 
       On dit qu'il est jaloux.
 
 -*who_ariste
@@ -3045,7 +3045,7 @@ Mais…
 Exibez vous, Monsieur, & par quelques adages
 De ces periclitans, dissipez les ambages⁎.
 
-**** *book_ *id_IV07 *act_IV *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_IV07 *act_IV *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_ariste
 Amy ?
@@ -3097,7 +3097,7 @@ Ce debat dureroit jusqu'à demain matin.
 -*who_ariste
 En ces beaux jours d'Esté…
 
--*who_pancrace
+-*who_pancrace 
       L'exorde n'est pas fade.
 
 -*who_ariste
@@ -3124,7 +3124,7 @@ J'entens un bel objet⁎ qui vous chatouille l'ame.
 -*who_climante
 Oüy, Monsieur une fille.
 
--*who_oronthe
+-*who_oronthe 
       Et vous ?
 
 -*who_ariste
@@ -3183,7 +3183,7 @@ Je ne crains point l'amour dans un esprit tranquille,
 Et je distingue bien le bon & le mauvais :
 Mais allez je vous laisse.
 
--*who_climante
+-*who_climante 
       Adieu vivez en paix.
 
 -*who_ariste
@@ -3287,7 +3287,7 @@ Exprimer de mes feux la forte violence,
 Et mes tristes⁎ regards à travers de mes fers
 Ont droict seuls de parler des maux que j'ay soufferts⁎.
 
--*who_olimpe
+-*who_olimpe 
 Un si profond respect est certes admirable.
 
 -*who_ariste
@@ -3320,7 +3320,7 @@ Qu'il est aisé d'aymer ce que l'on treuve aimable⁎ !
 -*who_olimpe
 C'est offenser l'honneur que ne vous aimer pas !
 
--*who_ariste
+-*who_ariste 
 C'est suivre la vertu que marcher sur vos pas.
 
 **** *book_ *id_V02 *act_V *date_1647 *creator_gillet_de_la_tessonerie
@@ -3341,7 +3341,7 @@ Tu ne sçais pas le nœud de nostre stratageme.
 -*who_olimpe
 Dites-luy que cent fois j'ay dit que je vous ayme !
 
--*who_climante
+-*who_climante 
 Je te rends grace, amour !
 
 -*who_ariste
@@ -3369,7 +3369,7 @@ M'apprendra par Ariste à quel poinct elle m'aime.
 Je treuve en vous voyant un trop puissant secours
 Pour ne le prier pas de m'envoyer tousjours.
 
--*who_climante
+-*who_climante 
 Et j'ay trop de plaisir d'un si plaisant message
 Pour ne te faire pas joüer ce personnage.
 
@@ -3397,7 +3397,7 @@ Je sçauray mesnager cet amant miserable.
 -*who_climante
 Ce nom d'amant me choque, & n'est point agreable.
 
--*who_olimpe
+-*who_olimpe 
 Vous n'avez plus long-temps à souffrir⁎ ce rival.
 
 -*who_ariste
@@ -3430,7 +3430,7 @@ Le traistre…
 -*who_olimpe
       L'insolent.
 
--*who_ariste
+-*who_ariste 
       Le fourbe.
 
 -*who_climante
@@ -3460,7 +3460,7 @@ Mais j'apperçois Oronthe.
 -*who_jodelet
       Ah !
 
--*who_ariste
+-*who_ariste 
       Qu'estre.
 
 -*who_jodelet
@@ -3486,7 +3486,7 @@ Hé bien !
 -*who_climante
 Mais quelle ? je me treuve au bout de mes leçons !
 
--*who_oronthe
+-*who_oronthe 
 D'effet l'on l'a joüé de toutes les façons.
 
 -*who_climante
@@ -3516,7 +3516,7 @@ Ainsi je puis tout haut me vanger d'un rival.
 Si prest de mon depart je ne l'entens pas mal.
 La piece est assez bonne.
 
--*who_climante
+-*who_climante 
       Et sera bien menée,
 Pourveu qu'Olimpe essaye à faire l'estonnée,
 Et feigne adroitement de vous croire jaloux
@@ -3543,7 +3543,7 @@ Allons vers ces jardins, c'est là qu'ils s'entretiennent.
 -*who_oronthe
 Ne sortons point d'icy, je les revoy qui viennent.
 
-**** *book_ *id_V04 *act_V *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V04 *act_V *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_climante
 Cajoller ce qu'on aime & ne le point quitter,
@@ -3564,7 +3564,7 @@ De quoy l'accusez-vous ? d'où vient vostre colere ?
 En quoy sans y penser ay-je pû vous desplaire ?
 Sans doute que tantost il m'avoit escouté.
 
--*who_climante
+-*who_climante 
 De nous priver du bien de voir cette beauté,
 Que vous voulez contraindre à trop de violence.
 
@@ -3593,7 +3593,7 @@ Il croit ce qu'elle dit.
 Et dévroit tesmoigner davantage de crainte,
 Il seroit deferé⁎ si chacun le quittoit.
 
--*who_oronthe
+-*who_oronthe 
 Ce coup d'œil la va rendre autre qu'elle n'estoit.
 
 -*who_olimpe
@@ -3620,7 +3620,7 @@ Mais je ne puis comprendre à quel propos Climante,
 Estant le protecteur de ma flâme innocente,
 Pour la rendre suspecte a fait tout ce qu'il peut !
 
--*who_climante
+-*who_climante 
 Les choses vont souvent plus loin que l'on ne veut ;
 Et quand je reconnois quelles sont vos pensées,
 Je voudrois rappeller mes actions passees.
@@ -3677,7 +3677,7 @@ Le lasche.
       Vous joüez trop bien ce personnage,
 Gardez de la fascher.
 
--*who_climante
+-*who_climante 
       Ce n'est qu'une volage.
 
 -*who_oronthe
@@ -3707,7 +3707,7 @@ C'en est assez.
 -*who_climante
       Il faut que ma colere esclatte.
 
--*who_ariste
+-*who_ariste 
 Qu'il a bien pris son temps pour se plaindre de vous !
 Mais nostre tour viendra pour nous mettre en courroux.
 
@@ -3736,7 +3736,7 @@ Si je fais bien ou mal laissez agir Oronthe.
 -*who_oronthe
 Arrestés…
 
--*who_climante
+-*who_climante 
       Je luy veux monstrer ce que je puis.
 
 -*who_ariste
@@ -3767,7 +3767,7 @@ Que faictes vous ?
 -*who_oronthe
 A quoy donc ?
 
--*who_ariste
+-*who_ariste 
       A sortir promptement de ces lieux
 N'y pouvant plus souffrir⁎ d'y voir des envieux.
 
@@ -3790,7 +3790,7 @@ Courir aprés Climante, & le rameneray.
 -*who_ariste
 Il croit adroittement vous avoir offensée.
 
--*who_olimpe
+-*who_olimpe 
 Mon apprehension n'est pas encore passée.
 Je crains tout d'un secret qui peut estre esventé.
 
@@ -3817,7 +3817,7 @@ Presentant le malheur qui luy doit arriver
 Destournera le coup qui me doit conserver.
 Il ne faut qu'un moment pour destruire l'affaire.
 
--*who_ariste
+-*who_ariste 
 Il peut icy beaucoup.
 
 -*who_olimpe
@@ -3839,7 +3839,7 @@ Cachez vous, & voyez l'effet de ma colere
 -*who_ariste
 Feignez bien !
 
--*who_olimpe
+-*who_olimpe 
       Qu'avez-vous ? vous semblez esperdu !
 
 -*who_oronthe
@@ -3868,7 +3868,7 @@ Vous vous repentirez d'avoir esté trop sage.
 Je me suis repenty d'aimer une volage,
 Dont l'ame trop sensible aux feux d'un insensé.
 
--*who_ariste
+-*who_ariste 
 Monsieur …
 
 -*who_oronthe
@@ -3897,7 +3897,7 @@ Oüy, c'est trop abuser de ma facilité.
 -*who_olimpe
 Il ne faut donc jamais dire la verité ?
 
--*who_oronthe
+-*who_oronthe 
 Cherir un innocent !
 
 -*who_olimpe
@@ -3928,7 +3928,7 @@ Mais…
 Le despit où je suis passe la raillerie,
 Et mon ressentiment va jusqu'au dernier poinct.
 
--*who_olimpe
+-*who_olimpe 
 Ne vous contraignez plus vous ne m'y prendrez point.
 
 -*who_ariste
@@ -3959,7 +3959,7 @@ Et tout autre que moy sans doute s'y prendroit.
 -*who_oronthe
 Tréve de raillerie à la fin je m'en lasse.
 
--*who_olimpe
+-*who_olimpe 
 Vous me bernez pourtant avec assez de grace.
 
 -*who_oronthe
@@ -3990,7 +3990,7 @@ Vous faschez vous encor ?
 -*who_oronthe
       Climante n'est qu'un sot.
 
--*who_olimpe
+-*who_olimpe 
 Jaloux ?
 
 -*who_oronthe
@@ -4020,7 +4020,7 @@ Si je le voy tanstot, je luy donneray bonne⁎.
 -*who_olimpe
 Au moins conseillés-luy de ne joüer personne.
 
-**** *book_ *id_V07 *act_V *date_1647 *creator_gillet_de_la_tessonerie
+**** *book_ *id_V07 *act_V *date_1647 *creator_gillet_de_la_tessonerie 
 
 -*who_ariste
 Voicy quelque nouvelle !
@@ -4043,7 +4043,7 @@ Le temps vient.
 -*who_oronthe
       Mes pistolets, quel trouble !
 
--*who_lisette
+-*who_lisette 
 Monsieur la foule croit, & le bruit se redouble !
 
 -*who_oronthe
@@ -4093,7 +4093,7 @@ Dedans la ville d'Aix ne l'as-tu pas ravie ?
 -*who_olimpe
 Mais vous m'avez promis de luy sauver la vie.
 
--*who_ariste
+-*who_ariste 
 Madame, vos parens seront icy demain !
 S'il obtient un pardon ce sera de leur main.
 Pour luy nostre bonté seroit trop criminelle.
@@ -4124,7 +4124,7 @@ Que ferois-tu ?
 -*who_climante
 Tu ne parleras pas tousjours si hardiment.
 
--*who_ariste
+-*who_ariste 
 Tu ne jouras plus au moins impunement,
 Si j'ay passé pour sot en fin j'ay l'avantage,
 De te voir aujourd'huy joüer mon personnage,
@@ -4152,7 +4152,7 @@ Ah ! ne leur faictes point l'honneur de leur parler.
 -*who_climante
 Tu te repentiras de ce que tu hasardes.
 
--*who_l_exempt
+-*who_l_exempt 
 Madame, je leur vay faire donner des gardes.
 Messieurs, il me faut suivre, allons, sortons d'icy.
 
@@ -4183,7 +4183,7 @@ Ah ! trop cruelle Olimpe.
 -*who_olimpe
 Je respons de nos jours.
 
--*who_oronthe
+-*who_oronthe 
       Ah !
 
 -*who_olimpe
@@ -4216,7 +4216,7 @@ Lisette…
 -*who_olimpe
       Pauvre Amante !
 
--*who_ariste
+-*who_ariste 
 Va nous te le donnons & cent escus de rente.
 
 -*who_jodelet

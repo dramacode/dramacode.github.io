@@ -94,7 +94,7 @@ Dans son lit dans ses bras *la nuit* vous aloit mettre
 Je perdois tout espoir ie sçavois vos ennuys  
 Quel autre en cet estat n'eust point tout entrepris  
 
-    JULIE
+    JULIE 
 Dans toutes ces raisons ne cherchez point d'excuse  
 Ce n'est que mon malheur Carlos que i'en accuse  
 Ouy c'est moy qui depuis cette funeste nuit  
@@ -416,7 +416,7 @@ Et que repond carlos *car un tansport si promt...*
     ZAÏRE
 Luy, tenez ah ! Voila tout ce *qui luy* repond  
 
-    CELIME
+    CELIME 
 Sans doute ils s'ayment mais quand leurs douleurs s'apaise  
 A quoy s occupent ils ? *Ø*  
 
@@ -943,7 +943,7 @@ Tu vas a cœur ouvert…
         oh cela vous est hoc  
 Tout comme a l'ordinaire, et bien  
 
-    D : BRUSQUIN
+    D : BRUSQUIN 
         ta recompense  
 Au reste passera de loin ton esperance  
 Et je t'ay preparé dequoy te voir un jour  
@@ -1081,7 +1081,7 @@ Et bien ?
 Sçavoir si quelque turc espris de sa figure  
 Ne s'est point…  
 
-    MARINE
+    MARINE 
     quoy ?  
 
     D : BRUSQUIN
@@ -1154,7 +1154,7 @@ Je veux te marier
     *Marine*
 Avec  
 
-    *D : Brusquin*
+    *D : Brusquin* 
         *avec un drole assez jeune et qui t'ayme*  
 
     *Marine*
@@ -1311,7 +1311,7 @@ Ne peut tenir en place
     *D : Brusquin*
         *il sera postillon*  
 
-    *Marine*
+    *Marine* 
 Il ne sera jamais qu'un sot et ses manieres  
 Luy mettront sur la teste...  
 
@@ -1449,7 +1449,7 @@ J'aymerois presque autant qu'ils gardassent ma femme
 Il pouroit se desdire il faut se depecher  
 Ah chien de turc...  
 
-    FATIMAN
+    FATIMAN 
     plaist il ?  
 
     D : BRUSQUIN
@@ -1518,7 +1518,7 @@ Vous n'en scavez rien
     *Fatiman*
     *non*  
 
-    *Zaïre*
+    *Zaïre* 
         *mais vous vous en doutez*  
 
     *Fatiman*
@@ -1782,7 +1782,7 @@ Celime, Tomire, Zaire
     TOMIRE **aprez avoir resvé**
 Je passois par respect *n'osant icy paroistre*  
 
-    *Celime*
+    *Celime* 
 N'entens tu pas parler qu'on rachette ton maistre  
 
     *Tomire*
@@ -1854,7 +1854,7 @@ Ne peut *d'un moindre* prix...
     TOMIRE
     oh c'est…  
 
-    CELIME
+    CELIME 
         prens jayme a voir  
 Que rien contre carlos n'esbranle ton devoir  
 Son interest m'est cher qu'a l'avenir ton Zelle  
@@ -2135,7 +2135,7 @@ Ses tendres mouvemens coustent quelques s'ouspirs
 Mais les cœurs qui craignent ses peines  
 Ne meritent pas ses plaisirs  
 
-    *Celime*
+    *Celime* 
 Il suffit vous pouvez poursuivre en mon absence  
 Carlos et le service aura sa recompense  
 Ils recommancent
@@ -2342,7 +2342,7 @@ Et je luy vay ce soir donner un autre espoux
     D : BRUSQUIN
 A ma Femme  
 
-    FATIMAN
+    FATIMAN 
     a ta femme et de plus  
 
     D : BRUSQUIN
@@ -2416,7 +2416,7 @@ Ah me voila donc veuf du vivant de ma femme
 Et quel est ce beau filz qui cause tant de flame  
 Ø  
 
-    FATIMAN
+    FATIMAN 
     *Tu las veu plusieurs fois*  
 
     *D : Brusquin*
@@ -2480,7 +2480,7 @@ Vous avez vos raisons daignez donc m'en jnstruire
 Vous pourriez m'espargner la peine de les dire  
 Vous les devez sçavoir sans qu'un tel entretien...  
 
-    *Fatiman*
+    *Fatiman* 
 Non madame mon cœur ne me reproche rien  
 J'ay toujours eu pour vous une ardeur trop sincere  
 Pour avoir negligé les moyens de vous plaire  
@@ -2547,7 +2547,7 @@ Mais puis je me flater qu'en renvoyant julie
 Vostre cœur revenu de ses soupçons jaloux  
 Reçoive en mesme temps fatiman pour espoux  
 
-    *Celime*
+    *Celime* 
 A laissez moy du moins disposer du salaire  
 Cachez moy les transportz d'un amour mercenaire  
 Suivez vostre penchant sans me faire de loy  
@@ -2616,7 +2616,7 @@ Voy tu le cœur m'en dit et je ten veux conter
 Toy :* marche te dit on tu me la baille* belle  
 M'en conter  
 
-    TOMIRE
+    TOMIRE 
         ouy comment est ce chose nouvelle  
 Avant que ta maistresse eust eu son sot espoux  
 Est ce que je manquois jamais au rendez vous  
@@ -2678,7 +2678,7 @@ Ma tantost promis...
     MARINE
     quoy ?  
 
-    TOMIRE
+    TOMIRE 
         que nous serions unis  
 
     MARINE
@@ -2932,7 +2932,7 @@ Il faudra le signer et puis vous partirez
     D : BRUSQUIN
 Moy le signer  
 
-    FATIMAN
+    FATIMAN 
         ouy *vous* la chose estant escrite  
 Il faudra bien signer  
 
@@ -3203,7 +3203,7 @@ Si j'en ay je sçauray ne le point faire voir
 Que tu seras present a leurs nopces ce soir  
 Et qu'a table auprez deux tes discours ordinaires...  
 
-    D : BRUSQUIN
+    D : BRUSQUIN 
 Pour cela decontez  
 
     FATIMAN

@@ -162,7 +162,7 @@ Voicy ton Chevalier : & je lis dans ses yeux,
 Que si ton Frere estoit comme nous dans ces lieux,
 Au plaisir de te voir il seroit plus sensible.
 
-**** *book_ *id_I02 *act_I *date_1672 *creator_montfleury
+**** *book_ *id_I02 *act_I *date_1672 *creator_montfleury 
 
 -*who_lucinde
 Est-ce ce qui vous trouble ? & seroit-il possible…
@@ -343,7 +343,7 @@ Cependant comme il faut en ménager l'aveu⁎,
 Je vais pour l'obtenir, me rendre à sa demeure.
 Je vous quitte à regret, & reviens dans une heure.
 
-**** *book_ *id_I05 *act_I *date_1672 *creator_montfleury
+**** *book_ *id_I05 *act_I *date_1672 *creator_montfleury 
 
 -*who_l_esperance
 Elles vont toutes deux jaser jusqu'à demain,
@@ -497,7 +497,7 @@ Evitons-le, il pourroit m'aborder.
 -*who_angelique
       J'y consens.
 
-**** *book_ *id_I07 *act_I *date_1672 *creator_montfleury
+**** *book_ *id_I07 *act_I *date_1672 *creator_montfleury 
 
 -*who_madame_le_blanc
 Où voulez-vous aller ? Je ne sçay point d'affaire…
@@ -648,7 +648,7 @@ Ou si quelque soupçon de mon nouvel amour
 L'a fait, pour m'imiter, servir de ce détour ?
 Mais voicy mon Neveu, je pense qu'il murmure.
 
-**** *book_ *id_I09 *act_I *date_1672 *creator_montfleury
+**** *book_ *id_I09 *act_I *date_1672 *creator_montfleury 
 
 -*who_monsieur_le_blanc
 Qu'avez-vous, Chevalier de la triste Figure⁎?
@@ -958,7 +958,7 @@ Bon cela. Souviens-toy…
 
 -*who_angelique
       Chevalier,
-Dites-moy, sentons-nous un peu nostre Officier ?
+Dites-moy, sentons-nous un peu nostre Officier ? 
 Que dites-vous de nous ? Ce port, cette manière,
 A vostre avis, ma Chere, est-elle Cavaliere ?
 Avons-nous le bon air ? Croyez-vous que le Roy
@@ -1772,7 +1772,7 @@ Leur conseil au besoin…Mais j'aperçoy la Belle,
 Et Monsieur l'Officier n'a plus que faire d'elle :
 Mon Neveu l'accompagne. Il faut dissimuler.
 
-**** *book_ *id_III03 *act_III *date_1672 *creator_montfleury
+**** *book_ *id_III03 *act_III *date_1672 *creator_montfleury 
 
 -*who_monsieur_le_blanc
 Serviteur.
@@ -1885,7 +1885,7 @@ Mon Oncle…
 -*who_monsieur_le_blanc
       Mon Neveu, vous prenez trop de soin.
 
-**** *book_ *id_III04 *act_III *date_1672 *creator_montfleury
+**** *book_ *id_III04 *act_III *date_1672 *creator_montfleury 
 
 -*who_damon
 On doit pour une Femme avoir quelque scrupule.
@@ -2001,7 +2001,7 @@ Et je sçais un moyen… Serviteur.
 -*who_damon
       Je vous laisse.
 
-**** *book_ *id_III05 *act_III *date_1672 *creator_montfleury
+**** *book_ *id_III05 *act_III *date_1672 *creator_montfleury 
 
 -*who_monsieur_le_blanc
 Il raisonne assez bien, je puis m'estre trompé,
@@ -2596,7 +2596,7 @@ Je seray moins sans vous que le corps n'est sans ombre :
 Je veux pour le prouver, par des baisers sans nombre,
 Devorer à genoux & ces mains, & ces bras.
 
-**** *book_ *id_IV08 *act_IV *date_1672 *creator_montfleury
+**** *book_ *id_IV08 *act_IV *date_1672 *creator_montfleury 
 
 -*who_angelique
 Alte-là, vieux Magot⁎, vous vous baissez trop bas.
@@ -2745,7 +2745,7 @@ Tant-s'en-faut.
 Et pour vous faire voir combien je veux vous plaire ;
 L'Esperance?
 
-**** *book_ *id_IV09 *act_IV *date_1672 *creator_montfleury
+**** *book_ *id_IV09 *act_IV *date_1672 *creator_montfleury 
 
 -*who_l_esperance
       Monsieur ?
@@ -3196,7 +3196,7 @@ Va…
 Je risque tout pour vous; Je vais querir la Belle;
 Quand vous nous entendrez, éteignez la chandelle.
 
-**** *book_ *id_V06 *act_V *date_1672 *creator_montfleury
+**** *book_ *id_V06 *act_V *date_1672 *creator_montfleury 
 
 -*who_monsieur_le_blanc
 Mieux que je n'esperois, mes soins ont reüssy,
@@ -3271,7 +3271,7 @@ Je m'en vay boire un coup en attendant.
 Sans argent, mille coups relançoient ma prière.
 J'entens venir quelqu'un, éteignons la lumière.
 
-**** *book_ *id_V09 *act_V *date_1672 *creator_montfleury
+**** *book_ *id_V09 *act_V *date_1672 *creator_montfleury 
 
 -*who_cato
 Monsieur, voilà Madame.
@@ -3598,7 +3598,7 @@ Qu'en dites-vous?
 -*who_damon
       Je croy que c'est elle en effet.
 
-**** *book_ *id_V14 *act_V *date_1672 *creator_montfleury
+**** *book_ *id_V14 *act_V *date_1672 *creator_montfleury 
 
 -*who_angelique
 Permettez qu'à leurs yeux, quelque soin qui les touche,
@@ -3664,7 +3664,7 @@ Il n'en est pas besoin, voila vostre Garent.
 -*who_monsieur_le_blanc
 Songeons à son repos⁎, pour celuy qu'il me rend.
 
-**** *book_ *id_V15 *act_V *date_1672 *creator_montfleury
+**** *book_ *id_V15 *act_V *date_1672 *creator_montfleury 
 
 -*who_lucinde
 Mon Frere est arrivé, nous voila hors de peine.

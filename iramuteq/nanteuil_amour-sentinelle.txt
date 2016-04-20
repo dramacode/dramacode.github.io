@@ -52,7 +52,7 @@ Ne sera point porté.
 -*who_clidamant
                   Pourquoy ? dans sa maison...
 
--*who_croctin
+-*who_croctin 
 Quand vous parlez ainsy, vous parlez sans raison.
 Vous dites qu'en amour vous n'estes pas novice,
 Mais vos raisonnements ne sont qu'un pur caprice.
@@ -184,7 +184,7 @@ Laisse là mon amour, je ne veux point du tien.
 -*who_lisette
 Quoy, Croctin, contre moy tu te mets en colere.
 
--*who_croctin
+-*who_croctin 
 A parler franchement je ne veux pas te plaire,
 Et quant on me deplait, je veux dire ...
 
@@ -223,7 +223,7 @@ Je luy feray du bien en luy donnant Lisette,
 -*who_clidamant
 Moy je sçauray, ...
 
--*who_croctin
+-*who_croctin 
       Comment la peste⁎ quelle emplette,
 Je vous serviray bien, laissez faire Croctin,
 J'ay là dedans dequoy fascher vostre mastin⁎,
@@ -313,7 +313,7 @@ Qui me feroit passer à mon nés pour un fou,
 Si je ne sçavois pas les moyens et par où,
 Me tirer à present d'une facheuse affaire.
 
--*who_fernant
+-*who_fernant 
 Il est vray celle là n'est pas fort ordinaire.
 
 -*who_florant
@@ -379,7 +379,7 @@ Que je ne sçavois pas et qu'il falloit sçavoir.
 Vous pouvez cependant user de mon pouvoir,
 Vous sçavez que je suis tout à vostre service⁎,
 
--*who_florant
+-*who_florant 
 Vous m'obligez⁎ beaucoup.
 
 -*who_fernant
@@ -405,7 +405,7 @@ C'est le plus seur.
               Et bien il faut vous satisfaire.
 Je vais vous dire tout ce que je viens de faire,
 Desja ces crocheteurs⁎ sont de bonne grandeurs
-Gros, Rons et qui feront fort bien le coup d'honneur,
+Gros, Rons et qui feront fort bien le coup d'honneur, 
 Si le Galand⁎ paroist ils feront tous merveille,
 Que me conseillez vous.
 
@@ -844,7 +844,7 @@ Mais voyant que c'estoit nostre Marquis.
 Je voy venir Florant au coin de cette porte,
 Cachons nous bien tous trois.
 
-**** *book_ *id_II04 *act_II *date_1669 *creator_clerselier
+**** *book_ *id_II04 *act_II *date_1669 *creator_clerselier 
 
 -*who_florant
       Nostre amoureux transy,
@@ -963,7 +963,7 @@ Qui te peut mieux servir que ce garçon Florand    
 Heurtons chez mon voisin ah je vous tiens la belle,
 Hola⁎ Monsieur Fernant.
 
-**** *book_ *id_II06 *act_II *date_1669 *creator_clerselier
+**** *book_ *id_II06 *act_II *date_1669 *creator_clerselier 
 
 -*who_fernant
                   Qui va là qui m'apelle.
@@ -1035,7 +1035,7 @@ Je le veux bien, allons chercher un cadenas.
 -*who_florant
 J'en trouveray bien un, que je crains l'embaras⁎.
 
-**** *book_ *id_II07 *act_II *date_1669 *creator_clerselier
+**** *book_ *id_II07 *act_II *date_1669 *creator_clerselier 
 
 -*who_croctin
 Lisette met long-temps je sçay ce qu'il projette,
@@ -1336,7 +1336,7 @@ Ils sont bien estonnez⁎.
 Ils ont sujet de l'estre et plus que nous je croy,
 Monsieur retirons nous ils viennent sur ma foy.
 
-**** *book_ *id_III07 *act_III *date_1669 *creator_clerselier
+**** *book_ *id_III07 *act_III *date_1669 *creator_clerselier 
 
 -*who_florant
 Que j'ay de bons portiers cher voisin, que je meure,
@@ -1393,7 +1393,7 @@ Fais les viste venir.
 -*who_croctin
 Bon, je les apperçois nostre affaire s'avance,
 
-**** *book_ *id_III09 *act_III *date_1669 *creator_clerselier
+**** *book_ *id_III09 *act_III *date_1669 *creator_clerselier 
 
 -*who_clidamant
 Madame il n'est plus temps de rien dissimuler,
@@ -1475,7 +1475,7 @@ Il faut vous consoler ils reviendront peut estre.
 -*who_florant
 Ils ne reviendront pas, Ah ! chien de portier traitre !
 
-**** *book_ *id_III11 *act_III *date_1669 *creator_clerselier
+**** *book_ *id_III11 *act_III *date_1669 *creator_clerselier 
 
 -*who_carlos
 Monsieur je viens icy pour Monsieur Clidamant,

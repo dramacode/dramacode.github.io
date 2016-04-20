@@ -1426,7 +1426,7 @@ Didascalie    Fil. se va habiller.     Filamire se va habiller    14
  – LUCIDE
  – AMBASSADEUR des Roys d'Albanie et d'Hyrcanie
  – SENTINELLE,Soldat de Cypre
- – COURRIER de Mede
+ – COURRIER de Mede 
 
 
 ## ACTE PREMIER
@@ -1557,7 +1557,7 @@ Ce que le mien conçoit s'exale par ma bouche,
 Mais puis que ce tourment⁎ vous maistrise absolu, [118]  
 Je vous y veux servir, je m'y suis resolu.  
 
-    ARMIDORE
+    ARMIDORE 
 Vous me ressuscitez, ha que je vous embrasse.  
 
     CLIDAME
@@ -1604,7 +1604,7 @@ Mais moy que deviendray-je en ce beau changement ?
 Ceste difficulté trouble mon jugement,  
 Cher amy c'est à vous à surmonter⁎ ce doute.  
 
-    CLIDAME
+    CLIDAME 
 Aux affaires d'amour mon esprit ne voit goute,  
 Ces ruses à la fin descouvrent leur poison.  
 
@@ -1646,7 +1646,7 @@ Allons pourvoir à tout et resoudre comment
 Vous vous pourrez servir de cet habillement. [128]  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME 
 CLORISEE, GOUVERNANTE
 
 
@@ -1750,7 +1750,7 @@ CLORISEE, GOUVERNANTE, ARMIDORE déguisé en Lucide, Amazone [144], CLIDAME
         C'est la Reyne sans doute,  
 Mon frere le bon-heur assiste nostre route.  
 
-    CLORISÉE
+    CLORISÉE 
 Plus je voy ceste fille et plus je m'esbahis, [145]  
 Sçachons où vont ces gens, s'ils sont de ce pays.  
 
@@ -1774,7 +1774,7 @@ Nostre desir vouloit luy faire resistance,
 Lors que ne voyant plus que des objets de mort,  
 Un bon astre nous fit aborder vostre port.  
 
-    CLORISÉE
+    CLORISÉE 
 Sans doute vous parlez de quelque aspre tourmente. [147]  
 
     CLIDAME
@@ -1844,7 +1844,7 @@ Qu'elle fut mise à fonds.
     CLORISÉE
         Bons Dieux que de misere [157] !  
 
-    CLIDAME
+    CLIDAME 
 Nous roulasmes⁎ trois jours à la mercy des vents,  
 Mais ceste nuict passée autant morts que vivans,  
 Preparez au peril d'un évident naufrage,  
@@ -1881,7 +1881,7 @@ Ce colosse abbatu mesure vostre plage. [159]
 Doncques [160] ceste beauté possede un tel courage,  
 Cest estreme travail⁎ demande du repos,  
 Nous pourrons à loisir achever ce propos.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE SECOND
@@ -1927,7 +1927,7 @@ Pleust au Ciel que vos yeux vissent mon Alderine.
     CLIDAME
 A-t-elle tant d'attraits ?  
 
-    LUCIDE
+    LUCIDE 
         Plus cent fois que Cyprine [168],  
 Sa divine beauté qui peut fléchir les Dieux,  
 Merveille de la terre, et chef-d'œuvre des cieux,  
@@ -1966,7 +1966,7 @@ Arresteroient bien mieux la course du Soleil,
 Que ne fit autresfois la fille de Penée  
 Lors qu'elle redoubloit sa fuitte infortunée⁎ [179].  
 
-    CLIDAME
+    CLIDAME 
 Toutes ces beautez sont en vos perfections.  
 
     LUCIDE
@@ -2018,7 +2018,7 @@ Je vay trouver la Reyne,
         Et moy revoir mon cœur [188].  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME 
 ALDERINE, FLORINDE , puis LUCIDE
 
 
@@ -2140,7 +2140,7 @@ Ma paupiere se ferme, et mon teint devient pasle,
 Ne pouvant plus rien voir, je me perds au sommeil,  
 Et comme le soucy⁎ j'attens le beau Soleil.  
 
-    LUCIDE
+    LUCIDE 
 Madame, quand le sort de vos yeux me separe,  
 La mort en mesme temps de mon ame s'empare,  
 Je me brusle en ma crainte, et me noye en mes pleurs,  
@@ -2207,7 +2207,7 @@ Allons nous rafraichir dans les ombres du bois,
 Je veux joindre à mon luth une divine voix [220].  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME 
 CLORISEE, ARISTOME, CLIDAME, TERSANDRE
 
 
@@ -2387,7 +2387,7 @@ Il ne peut éviter un foudroyant tonnerre. [239]
     TERSANDRE
 On ne peut empescher les Dieux de se vanger.  
 Mais allons au devant de ce Prince estranger [240].  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE TROISIESME
@@ -2507,7 +2507,7 @@ Ne doivent rien changer en ses affections.
 L'or s'esprouve⁎ au creuset, mon amour aux miseres  
 Et ma foy⁎ se redouble aux peines⁎ plus ameres.  
 
-    BRUSERBE
+    BRUSERBE 
 Mais c'est contre soy-mesme user de cruauté,  
 D'aymer [254] un desloyal⁎ en sa desloyauté⁎.  
 
@@ -2530,7 +2530,7 @@ La foy⁎ fille du Ciel soustient ma resistance.
     BRUSERBE
 La foy⁎ se desoblige apres le changement. [256]  
 
-    CLORISÉE
+    CLORISÉE 
 Ouy dans un foible esprit frappé d'aveuglement.  
 
     BRUSERBE
@@ -2556,7 +2556,7 @@ Ce Prince m'est plus cher mille fois que mes yeux.
     BRUSERBE
 Laissez-vous sans espoir mon amoureuse peine⁎ ?  
 
-    CLORISÉE
+    CLORISÉE 
 Je ne puis escouter ceste parole vaine.  
 
     BRUSERBE
@@ -2651,7 +2651,7 @@ Souvent en se mocquant se déprave et s'irrite⁎ ;
 En fin vous m'obligez de faire comme vous,  
 Et forcez mon esprit de se mettre en courroux.  
 
-    LUCIDE
+    LUCIDE 
 Icy les complimens ne sont point en usage,  
 Le combat veut l'effect⁎, et non pas le langage,  
 Ne feignez point vos coups, et ne m'espargnez pas,  
@@ -2739,7 +2739,7 @@ Vous sentirez bien tost vostre ame soulagée,
 Et le Ciel permettra que vous serez vangée, [275]  
 Grande Reyne, essuyez les larmes de vox yeux.  
 
-    CLORISÉE
+    CLORISÉE 
 Que veut ce Chevallier ? son aspect glorieux [276]  
 Pourroit à nos souhaits donner quelque presage.  
 
@@ -2812,7 +2812,7 @@ Lucide met l'épée à la main.
 Mon frere [279] pardonnez à ce petit excés,  
 Nostre sexe est tousjours trop prompt dans ses accés.  
 
-    FILAMON
+    FILAMON 
 J'excuse aussi l'excez, avec la promptitude.  
 
     LUCIDE
@@ -2996,7 +2996,7 @@ Par la main d'une fille en ma cause outragée,
 Et les Dieux permettront que je seray vangée.  
 Allons y donner ordre, et trouver de ce pas,  
 L'Amazone qui doit avancer son trépas.  
-Fin du troisième Acte.
+Fin du troisième Acte. 
 
 
 ## ACTE QUATRIESME
@@ -3029,7 +3029,7 @@ Si me faut-il trouver relasche à mes tortures, [290]
 Ou qu'une prompte mort borne⁎ mes adventures.  
 
 
-### SCENE DEUXIESME
+### SCENE DEUXIESME 
 CLORISEE, LUCIDE, ALDERINE, puis FLORINDE, au logis d'Alderine où les hommes ne conversent [291] point.
 
 
@@ -3107,7 +3107,7 @@ D'aller jusqu'aux enfers affronter les Demons⁎,
 Protestant que mon cœur ne vit en ma puissance, [296]  
 Que pour mieux respirer dans vostre obeyssance.  
 
-    CLORISÉE
+    CLORISÉE 
 Lucide, c'est assez, je reçoy vos sermens,  
 Quoy qu'ils ayent [297] choisi de foibles fondemens,  
 Que les yeux de ma fille, et croy [298] que leurs lumieres,  
@@ -3129,7 +3129,7 @@ Qui faict à mon esprit beaucoup de violence,
 Ne vous contraignez point par crainte ou par respect,  
 Si vostre cœur n'est libre il me sera suspect. [301]  
 
-    LUCIDE
+    LUCIDE 
 Madame, si ma voix a demeuré contrainte,  
 C'est plus par le respect que ce n'est pour la crainte,  
 Mais tant s'en faut qu'il vueille arrester mon devoir,  
@@ -3173,7 +3173,7 @@ Pourveu que vos desirs n'offencent mon repos,
 Et qu'on ne parle point de me laisser la vie,  
 Je ne reffuse point l'effet de vostre envie. [305]  
 
-    LUCIDE
+    LUCIDE 
 Maintenant mes esprits demeurent satisfaits.  
 
     CLORISÉE
@@ -3329,7 +3329,7 @@ Un secret que je tiens aussi cher que ma vie.
 Vos secrets sont bien froids pour donner de l'envie.  
 
 
-### SCENE TROISIESME
+### SCENE TROISIESME 
 CLIDAME, TERSANDRE, CLORISEE
 
 
@@ -3371,7 +3371,7 @@ Ne peut dans le combat la reculer d'un pas.
 Et c'est là le sujet qui m'afflige⁎ pour elle,  
 Voyant son malheur peint dedans ceste querelle.  
 
-    TERSANDRE
+    TERSANDRE 
 Je croy bien que les Dieux reservent à ses mains  
 La gloire d'achever des genereux⁎ desseins :  
 Mais celuy de dompter un si fort adversaire,  
@@ -3393,7 +3393,7 @@ Prepare pour demain l'appareil⁎ de sa route.
     TERSANDRE
 Madame, sur ce fait mon esprit est en doute.  
 
-    CLORISÉE
+    CLORISÉE 
 Et le mien resolu ne cerche point d'advis,  
 Regardez seulement que les miens soient suivis.  
 
@@ -3454,7 +3454,7 @@ Et conserve en mon cœur vostre fidelité,
 Dont je tire un rayon de ma felicité.  
 
 
-### SCENE QUATRIESME [321]
+### SCENE QUATRIESME [321] 
 ALDERINE, LUCIDE , puis FLORINDE
 
 
@@ -3470,7 +3470,7 @@ Vos glorieux projets surmontent⁎ ma raison.
 Mes jours sont affermis dessus vostre prudence,  
 Mais je ne puis penser aux nuicts de nostre absence.  
 
-    LUCIDE
+    LUCIDE 
 Madame, ce seul poinct trouble mes sentimens,  
 Car ainsi que les corps sont joincts aux élemens,  
 Mon cœur de vostre esprit se trouve inseparable,  
@@ -3566,7 +3566,7 @@ Ha ! c'est trop craindre en vain,
         Je veux affranchir⁎ ma crainte, [327]  
 Madame, vous voyez un Prince devant vous.  
 
-    ALDERINE
+    ALDERINE 
 Que dites-vous ? un Prince.  
 
     LUCIDE
@@ -3740,7 +3740,7 @@ Florinde vous veut secourir.
 Vous ignorez quelle adventure  
 Me donne une si douce mort.  
 
-    FLORINDE
+    FLORINDE 
 Je sçay bien que tout cet effort⁎,  
 N'agist qu'en dépit de nature.  
 
@@ -3797,7 +3797,7 @@ Que je meure en ma solitude.
     FLORINDE
 Voyez comme la honte estourdit le devoir.  
 
-    LUCIDE
+    LUCIDE 
 Dieux que vous m'estes importune.  
 
     FLORINDE
@@ -3826,7 +3826,7 @@ En fin il me faudra contraindre.
     FLORINDE
 A quitter ces vaines amours.  
 
-    LUCIDE
+    LUCIDE 
 Vous prenez mon mal à rebours.  
 
     FLORINDE
@@ -3839,7 +3839,7 @@ Mais j'apperçoy desja l'aurore.
     FLORINDE
 Allons nous reposer le sommeil me devore,  
 Allons estouffer nos regrets.  
-Fin du quatrième Acte.
+Fin du quatrième Acte. 
 
 
 ## ACTE CINQUIESME [345]
@@ -4019,7 +4019,7 @@ Que pour bien soustenir chacun vaut un Alcide.
 Ha ! que je te regrette invincible Lucide.  
 
 
-### SCENE TROISIESME [366]
+### SCENE TROISIESME [366] 
 
     ALDERINE [367], *seule recite ces Stances.* [368]
 Que les secrettes destinées,  
@@ -4212,7 +4212,7 @@ Du combat de mon pere, et je crains que le sort,
 *Borne⁎ ma passion au but de vostre crainte* [386].  
 
 
-### SCENE QUATRIESME
+### SCENE QUATRIESME 
 BRUSERBE, FILAMON, et leur TROUPPE , puis TERSANDRE, LUCIDE, FILAMIRE, SENTINELLE
 
 
@@ -4254,7 +4254,7 @@ Icy mes compagnons.
         La grace que je veux,  
 C'est de voir en ton sang recompenser mes vœux.  
 
-    LUCIDE
+    LUCIDE 
 Reçoy ce que merite une mauvaise envie.  
 
     BRUSERBE
@@ -4314,7 +4314,7 @@ Je descens ma compagne.
     FILAMON
         O desdaigneuse parque,  
 
-    FILAMIRE
+    FILAMIRE 
 Voyla du desespoir une evidente marque.  
 
     TERSANDRE
@@ -4364,7 +4364,7 @@ Lucide et Filamire, à la porte d'une chambre, parée et préparée pour y faire
 Sire, je ne croy pas que vous puissiez douter,  
 Que Lucide pour vous n'ait une ame fidele.  
 
-    FILAMIRE
+    FILAMIRE 
 Vous cognoissant autant vertueuse que belle,  
 Je formerois à tort cet injuste debat,  
 Si j'ay quelque soucy⁎, c'est pour nostre combat,  
@@ -4386,7 +4386,7 @@ Certes, la Reyne a tort de me tant affliger⁎.
 Or puis que par vos mains elle se veut vanger,  
 Contentons sa rigueur aux despens de nos vies.  
 
-    LUCIDE
+    LUCIDE 
 Nous bornerons⁎ demain ses mortelles envies :  
 Mais, Sire, cependant [396] allons nous reposer.  
 
@@ -4413,7 +4413,7 @@ On porte un flambeau devant la Reyne.
     CLORISÉE
 Nos tyrans sont donc pris, bon Dieu je te rends grace [398].  
 
-    TERSANDRE
+    TERSANDRE 
 Ils sont aussi confus qu'ils estoient plein d'audace.  
 
     CLORISÉE
@@ -4459,8 +4459,7 @@ Le jour dissipera ceste fascheuse nuë.
 Je m'en vay reposer attendant sa venuë.  
 
     LUCIDE,*sort doucement de la chambre de Filamire*, [401]
-                
-*avec une lanterne sourde* [402], *et parle assez bas.*
+             *avec une lanterne sourde* [402], *et parle assez bas.*
 Ce Prince maintenant d'un fort sommeil surpris,  
 Il me faut achever mon dessein entrepris,  
 Le silence à mes vœux se montre favorable.  
@@ -4524,7 +4523,7 @@ La plus debile [407] main luy peut donner la mort.
     CLORISÉE
 C'est donc en ceste sorte, et bien je suis trompée.  
 
-    LUCIDE
+    LUCIDE 
 Madame, recevez (s'il vous plaist) mon espée.  
 Abbatez-en ce chef⁎ de vostre belle main [408],  
 Et lors j'accompliray vostre dernier dessein.  
@@ -4590,7 +4589,7 @@ Pourveu qu'en mon trépas vous soyez satisfaite,
 Je laisse franchement ma vie à l'abandon,  
 Si vostre douce voix ne prononce un pardon.  
 
-    CLORISÉE
+    CLORISÉE 
 Ah ! charmes⁎ renaissans de ma premiere gloire,  
 Venez-vous derechef affliger⁎ ma memoire ?  
 Levez-vous Filamire, un Prince tel que vous  
@@ -4614,7 +4613,7 @@ Madame, mon depart l'esmeut⁎ tant de tristesse,
 A cause du combat que j'avois entrepris  
 Que j'ay peur que ma veuë allume son mépris.  
 
-    CLORISÉE
+    CLORISÉE 
 Elle avoit bien raison de craindre pour son pere.  
 
     LUCIDE
@@ -4643,7 +4642,7 @@ Elle doit chastier vostre retardement.
     LUCIDE
 Mais dites moy mon cœur, vous serez mon refuge.  
 
-    FLORINDE
+    FLORINDE 
 Non, ne le croyez pas, je seray vostre juge,  
 Quittons la raillerie, et parlons de bon sens,  
 Madame vous veut voir toutes choses cessans.  
@@ -4673,7 +4672,7 @@ Je vay gaigner des gans d'éternelle durée [413].
 Elle s'enfuit parée [414].
 
 
-    FILAMIRE
+    FILAMIRE 
 Madame pardonnez à la necessité,  
 Je suis tousjours fascheux à vostre Majesté.  
 
@@ -4699,7 +4698,7 @@ Ils vont trouver Alderine.
 
 
 
-### SCENE SIXIESME
+### SCENE SIXIESME 
 TERSANDRE, CLIDAME, Soldats de Cypre [417]
 
 
@@ -4716,7 +4715,7 @@ Je croy que sans la vostre on m'eust fait voir l'Epire,
 Laissons les complimens, sçachons que fait [420] ma sœur.  
 Comment l'a-t'on reçeuë ?  
 
-    TERSANDRE
+    TERSANDRE 
         Avec plus de douceur  
 Que l'excez de ma voix ne vous le sçauroit dire.  
 
@@ -4781,7 +4780,7 @@ Monsieur, que dites vous de ceste nouveauté ?
     TERSANDRE
 Mon esprit estonné⁎ croit de voir des chimeres.  
 
-    CLORISÉE
+    CLORISÉE 
 Je laisse desormais le soing⁎ de mes miseres,  
 Et pourray maintenant à tout mal resister.  
 
@@ -4850,7 +4849,7 @@ La Reyne vous delivre, et vous oste vos fers.
     BRUSERBE
 Nous n'attendions pas moins, de sa main genereuse.  
 
-    FILAMON
+    FILAMON 
 Nous avons tousjours creu, nostre prison heureuse,  
 Et que ceste Princesse, a trop d'humanité,  
 Pour punir les excez, de nostre cruauté.  

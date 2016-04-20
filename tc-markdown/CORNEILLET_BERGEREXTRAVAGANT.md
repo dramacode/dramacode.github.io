@@ -1,0 +1,3739 @@
+---
+identifier: CORNEILLET_BERGEREXTRAVAGANT  
+creator: Corneille, Thomas  
+date: 1652  
+title: LE BERGER EXTRAVAGANT, PASTORALE BURLESQUE.  
+---
+
+
+LE BERGER EXTRAVAGANT
+
+COMÉDIE MÊLÉE D'ORNEMENTS et de Musique.
+
+1652
+
+Thomas Corneille
+
+
+Représenté pour la première fois en 1652.
+
+
+# ACTEURS
+ – LISIS, berger extravagant.
+ – ANGÉLIQUE, nymphe, soeur de Montenor.
+ – HIRCAN, frère de Lucide.
+ – MONTENOR, berger, amant de Lucide.
+ – ANSELME, berger, amant d'Angélique.
+ – CLARIMOND, amant de Charite.
+ – LUCIDE, bergère, soeur d'Hircan.
+ – CHARITE, bergère, parente d'Angélique.
+ – SINOPE, demoiselle voisine d'Angélique.
+ – CLORISE, demoiselle voisine d'Angélique.
+ – ADRIAN, parent de Lisis.La Scène est en Brie.
+
+
+# ACTE I
+
+
+## SCÈNE PREMIÈRE.
+
+    LISIS EN ÉQUIPAGE DE BERGER, CHASSANT UN TROUPEAU DEVANT LUI. 
+Paissez, chères brebis, mes fidèles compagnes,  
+Paissez en liberté dans ces vertes compagnes,  
+Où grâce à ma bergère, on voit régner encor  
+Un siècle aussi doré que le feu siècle d'or.  
+Mais ne vous repaissez que d'oeillets et de roses.  
+Qu'en ces lieux sous ses pas vous trouverez écloses ;  
+Goûtez sans crainte rien un pâturer si doux,  
+L'Amour pour elle au guet vous défendra des loups,  
+Il aime ce qu'elle aime, et de bon oeil regarde  
+Son fidèle berger, et le troupeau qu'il garde,  
+Troupeau, qui désormais de sa marque marqué  
+D'aucun mal de brebis ne peut être attaqué.  
+Ah Charite, Charite, adorable Charite,  
+Des bergères de Brie et la fleur et l'élite,  
+Que tes yeux ont de force, et qu'ils sont beaux et bons  
+À contraindre un amant de garder les moutons !  
+Auprès de leur lumière éclatante et mignarde  
+Le Soleil ne fait voir qu'une lueur blafarde,  
+Dont les faibles rayons sont rayons à berner,  
+Quand ceux de tes regards viennent à rayonner.  
+Aussi, pauvre Soleil, ta faute est sans seconde  
+De te mêler encor d'illuminer le monde.  
+Laisse, laisse un tel soin à l'objet que je sers,  
+N'expose plus ta honte aux yeux de l'univers,  
+Cache-toi sous les eaux, et nuit et jour ne quitte   [1]
+Ton Palais de cristal, ni le sein d'Amphitrite.  
+Mais ton cours s'avançant, je ne ferais point mal  
+Si je me régalais par un festin frugal.   [2]
+Pâturez, pâturez, mes chers brebiettes,  
+J'en vais sur l'herbe assis faire autant que vous faites.  
+Il se sied sur l'herbe, et ayant tiré quelques fruits de sa Panetière, il se détourne et aperçoit Clarimond, qui surpris de voir un homme vêtu comme les romans nous dépeignent les bergers, s'était arrêté à le considérer.
+
+
+
+## SCÈNE II. Lisis, Clarimond.
+
+    LISIS.
+Pan te garde, Berger. Où s'adressent tes pas ?  
+Es-tu d'humeur à prendre un pastoral repas ?  
+De meilleurs fruits encor sont dans ma panetière,   [3]
+Nous les partagerons, nous ferons chère entière,  
+Si la soif nous saisit, le ruisseau n'est pas loin.  
+Daigne donc prendre place.  
+
+    CLARIMOND.
+        Il n'en est pas besoin,  
+Je n'ai point d'appétit, mais tirez-moi de peine.  
+Quel important dessein en ces lieux vous amène ?  
+
+    LISIS.
+Ta franchise me plaît, et je t'en aime mieux ;  
+C'est avoir de l'esprit que d'être curieux.  
+Les curiosités quand elles sont discrètes...  
+
+    CLARIMOND.
+Trêve de compliment, dites-moi qui vous êtes.  
+
+    LISIS.
+Qui je suis ? Ah, je crois que tu le peux juger,   [4]
+Grâces au grand Dieu Pan, Berger, je suis berger.  
+Mais quel climat lointain est ta chère patrie,  
+Pour ignorer encor ce qui se passe en Brie ?  
+Car quoi que ton habit soit différent du mien,  
+Je te prends pour Berger.  
+
+    CLARIMOND.
+        C'est en juger fort bien.  
+Je le suis en effet, et dès demain peut-être  
+Que plus ouvertement je me ferai connaître.  
+Cependant dites-moi quel est votre destin ?  
+
+    LISIS.
+Oui, pour te refuser j'ai le coeur trop bénin,  
+Sieds-toi.  
+
+    CLARIMOND, S'ASSEYANT AUPRÈS DE LISIS SUR L'HERBE.
+        Qui vit jamais plus haute extravagance !  
+
+    LISIS.
+Je resserre pour toi mes fruits sans répugnance,  
+Car peut m'importe l'heure, et puis ne dit-on pas   [5]
+Qu'un gracieux devis vaut mieux qu'un bon repas ?  
+D'ailleurs les doux Zéphyrs qui flattent ces verdures  
+Rendent le lieu tout propre au récit d'aventures.  
+Sache donc que l'Amour, cet enfant du Chaos,  
+Qui cent fois de sa mère a troublé le repos,  
+Et sans qui les bergers dans une paix profonde   [6]
+Feraient nargue au bonheur des plus grands rois du monde.  
+Ce clair-voyant aveugle au naturel pervers  
+Dès mes plus tendres ans me voulut mettre aux fers,  
+Mais sachant de quel air ses esclaves il traite,  
+Devant ce Dieu malin j'ai toujours fait retraite,  
+Et mille fois encor je m'en serais moqué,  
+Si pour vaincre ce coeur trop longtemps attaqué,  
+Ayant enfin connu sa force trop petite,  
+Il n'eût pas mendié le secours de Charite.  
+Charite ! À ce beau nom vois quel tressaillement.  
+
+    CLARIMOND.
+Elle est donc belle ?  
+
+    LISIS.
+        Belle ? Hyperboliquement.  
+Tâche à faire un amas de mille belles choses,  
+Songe aux beautés des lys, songe à celles des roses,  
+Emprunte pour ses yeux les rayons du Soleil,  
+Sème sur chaque joue un incarnat vermeil,  
+Puis d'un vif coloris par un crayon fidèle...  
+Enfin figure-toi, Berger, qu'elle est fort belle.  
+
+    CLARIMOND.
+Le merveilleux portrait ! Ah.  
+
+    LISIS.
+        Ce fut dans Paris,  
+Que non encor Berger, la voyant je fus pris.  
+
+    CLARIMOND.
+Et comme elle vous prit, de même vous la prîtes ?  
+
+    LISIS.
+Eût-elle pu tenir contre tant de mérites ?  
+Je ne te dirai point combien mon coeur alors  
+Sentit par son amour d'extatiques transports.  
+Ni comme à l'éprouver à mes soupirs docile,  
+Je mourus mille fois et ressuscitai mille.  
+Tu sauras seulement que mon plus grand bonheur  
+Vient d'un rare dessein qu'Amour lui mit au coeur,  
+La faisant consentir à venir dans la Brie  
+Rétablir l'ancienne et noble Bergerie.  
+Depuis cinq ou six jours elle habite ces lieux,  
+Où ma félicité passe celle des Dieux.  
+En effet, en fut-il jamais de plus parfaite,  
+Que de vivre berger et porter la houlette ?  
+Il n'est arbre déjà ni rocher alentour  
+Où nos noms ne soient lus pleins de chiffres d'amour,  
+Et sans une frayeur qui me tient en martyre...  
+
+    CLARIMOND.
+Craignez-vous quelque chose ?  
+
+    LISIS.
+        Oui, qu'un vilain satyre   [7]
+Quelque Dieu chèvre-pied, de ma bergère épris,  
+Ne la surprenne seule, et que malgré ses cris...  
+
+    CLARIMOND.
+Non, non, pour elle en vain votre amour appréhende,  
+Il n'est point de satyre à qui je ne commande,  
+Mettez-vous en repos.  
+
+    LISIS, SE LEVANT.
+        Tu leur donnes la loi ?  
+
+    CLARIMOND.
+Ils m'entendent de loin, et tremblent tous sous moi.  
+
+    LISIS, SE METTANT À GENOUX.
+Grande Divinité de nos sacrés bocages,  
+D'un berger ton sujet accepte les hommages,  
+Car je parle au Dieu Pan, qui s'est dans mes amours  
+Déguisé tout exprès pour m'offrir son secours,  
+Ton regard plus qu'humain me le fait trop paraître.  
+Pardon, si je t'ai pu si longtemps méconnaître ;  
+Désormais chaque jour sur ton autel divin  
+Je ferai qu'on épanche et du lait et du vin,  
+Et que de mes agneaux le plus gras se choisisse,  
+Pour t'être tous les mois offert en sacrifice.  
+
+    CLARIMOND.
+Que faites-vous, Berger ?  
+
+    LISIS.
+        Ah, souffre qu'aujourd'hui...  
+
+    CLARIMOND.
+Vous faites tort à Pan de me prendre pour lui.  
+Voyez bien, je ne suis, pour m'en faire la fête,  
+N'y fourchu par les pieds, ni cornu par la tête.  
+
+    LISIS.
+Sous cet habit mortel cachant l'Être divin...  
+
+
+## SCÈNE III. Clarimond, Adrian, Lisis.
+
+    ADRIAN.
+Ah, fou ! Te voilà donc ?  
+
+    LISIS, SE DÉTOURNANT.
+        Adrian mon Cousin,  
+Quoi, c'est vous ?  
+
+    ADRIAN.
+        Oui, c'est moi qu'affrontent tes folies.  
+Tu t'en viens donc ici jouer tes comédies ?   [8]
+Ah, si tu n'es en cage aux Petites Maisons...  
+
+    LISIS.
+Silence, laissez-moi déduire mes raisons,  
+C'est où chacun de nous doit avoir son refuge,  
+Ce gracieux berger nous servira de juge.  
+De ses perfections tout à l'heure abusé,  
+Je le prenais pour Pan en mortel déguisé,   [9]
+Même prenez-y garde, il a bien l'encolure,  
+S'il n'est Pan, d'être au moins Cupidon ou Mercure.  
+
+    ADRIAN.
+Ô Ciel, que de folie et de dérèglement !  
+
+    LISIS.
+Vous blâmez les bergers, mais trop aveuglément.  
+Est-il façon de vivre en douceurs plus féconde,  
+Et leur nom n'est-il pas aussi vieux que le Monde ?   [10]
+Lorsque Deucalion voulut hommes forger,  
+De sa première pierre il naquit un berger.  
+Jadis les plus grands rois, que gloire m'est de suivre,  
+Faisaient leurs fils bergers pour leur apprendre à vivre.  
+Les Dieux cent fois en terre en ont pris les habits,  
+Apollon chez Admète a gardé les brebis,  
+Et même encor là-haut, ces étoiles errantes  
+Sont animaux paissants dans ces plaines luisantes,  
+Et qui les garderaient si ce n'étaient les Dieux ?  
+Or quant à nos moutons, est-il qui vaille mieux ?  
+Outre qu'on s'en nourrit, on les tond, et sans peine  
+Tout berger en reçoit un doux tribut de laine.  
+Pour se faire adorer autrefois, ce dit-on,  
+Jupiter emprunta la forme d'un mouton.  
+La Grèce n'a point vu d'entreprise plus haute  
+Que quand pour la toison partit maint argonaute ;  
+Le premier sacrifice, on l'a fait au Dieu Pan.  
+C'est pour vous témoigner, mon cousin Adrian,  
+Que quoi qu'ose du monde alléguer la malice,  
+Mener paître un troupeau c'est un noble exercice.  
+À quoi bon des cités l'importun embarras,  
+De marchands, officiers, procureurs, avocats ;  
+Qu'on lise Juliette, et puis, que l'on me die  
+Si l'on connut jamais tels noms en Arcadie.  
+Chacun était berger, et vivait sans souci,  
+C'est comme je prétends qu'on se gouverne ici.   [11]
+Croyez-moi, mon cousin, laissez là vos aunages,  
+Venez avecque nous régler nos pâturages,  
+Amenez femme, enfants, vous vivrez en repos,   [12]
+Elle sera bergère, ils seront bergerots,  
+Et nous goûterons tous des voluptés parfaites,  
+Allant danser sous l'orme au son de nos musettes.  
+
+    ADRIAN.
+Ah, Monsieur, vous voyez à quel étrange excès   [13]
+Va de ce pauvre esprit le frénétique accès,  
+Combien d'extravagance....  
+
+    LISIS, S'ÉLOIGNANT D'EUX.
+        Ah, Charite ! Ah, Charite !  
+Si tu me fais mourir, fais que je ressuscite.  
+Il se retire au coin du Théâtre où il se couche.
+
+
+    CLARIMOND.
+Tandis qu'il rêve seul, de grâce, apprenez-moi  
+Le principe caché du trouble où je le vois.  
+J'en trouve les accès d'une étrange nature.  
+
+    ADRIAN.
+C'est le fruit d'une vaine et mauvaise lecture.  
+Son Père était marchand et bourgeois de Paris,  
+Qui se voyant du bien n'eut d'yeux que pour ce fils.  
+Ainsi faisant dessein de le pourvoir d'office,  
+Pour lui former l'esprit trop simple et sans malice,  
+Il le mit à l'étude, où tout ce qu'il apprit  
+Ce fut à renverser le peu qu'il eut d'esprit.  
+Il ne lut que romans, en crut les impostures,  
+Admira des bergers toutes les aventures,  
+Et son faible cerveau fut bientôt démonté  
+Par ces contes en l'air d'amour et de beauté.  
+En moins d'un an ou deux il s'en coiffa de sorte  
+Que dehors il voulut prendre l'habit qu'il porte.  
+On avait beau le vaincre à force de raisons,  
+Toujours une houlette, et toujours des moutons.  
+Ainsi donc plus d'étude, et encor moins d'Office ;  
+Mais quoi qu'il persistât toujours dans son caprice,  
+Ce fut bien pis encor quand son Père mourut.   [14]
+Le Roman de l'Astrée en ce temps-là parut,  
+Où lisant les débats d'Hilas et de Silvandre,  
+Comme en cette matière il a le cerveau tendre,  
+Voulant être leur Juge, et les ouïr de près,  
+Il conclut son départ pour aller en Forêts ;  
+Et si longtemps partout je ne l'eusse fait suivre,  
+Sans doute il eût moins cru nos avis que son Livre.  
+Cependant son transport ne se pouvait calmer,  
+Souvent dans une chambre il allait s'enfermer,  
+Où sans obstacle aucun suivant ses rêveries,  
+Je l'entendais lui seul jouer des Bergeries,  
+Enfin de ces Romans la mode ayant cessé,  
+Son esprit fort longtemps nous parut moins blessé,  
+Et cette ardeur sans doute eût été refroidie,  
+S'il n'eût point l'autre hiver hanté la Comédie.  
+Son obstination à voir l'Amaryllis  
+Lui remit dans la tête et Houlette et Brebis.  
+Il me traîna moi-même à ce vilain spectacle,  
+Presque de vers en vers il y criait miracle,  
+D'aise à peine il pouvait se tenir dans sa peau,  
+Tout lui semblait charmant, tout lui semblait nouveau,  
+Jamais attention n'y fut plus assidue,  
+Cent fois on l'a jouée, et cent fois il l'a vue,   [15]
+Si bien que rembarqué par son maudit caquet,  
+Il a trouvé moyen d'apprêter son paquet,  
+Et par un beau matin ayant troussé bagage,  
+Il est ici venu jouer son personnage.  
+Mais je saurai si bien désormais l'enfermer,  
+Que je l'empêcherai de nous plus diffamer.  
+
+    CLARIMOND.
+Ce désordre est fâcheux, mais aussi prenez garde  
+Combien à l'enfermer son repos se hasarde.  
+La prison est affreuse au plus solide esprit,  
+Et c'est là que le faible assez souvent s'aigrit.  
+
+    ADRIAN.
+Mais quel amendement faut-il que j'en espère ?  
+
+    CLARIMOND.
+Pour moi, je suis d'avis que vous le laissiez faire.  
+Ici, que vous importe ? Il est loin de Paris ;  
+Souffrez qu'il vienne à bout du dessein qu'il a pris,  
+Que de ses propres sens il suive la saillie ;  
+Peut-être que huit jours guériront sa folie,  
+Et que ne trouvant pas au métier de Berger  
+Les douceurs qui d'habit l'ont fait ainsi changer,  
+On aura moins de peine à lui faire connaître  
+L'erreur qu'en son esprit ses Livres ont fait naître.  
+
+    ADRIAN.
+Donc pour un jour ou deux je vais vous dire adieu ;  
+Aussi bien le hasard m'a conduit en ce lieu,  
+Et loin de le chercher, je faisais un voyage  
+Ou sans retardement quelque affaire m'engage,  
+Elle m'est d'importance, et presse au dernier point.  
+
+    CLARIMOND.
+Allez, on obtiendra qu'il ne s'éloigne point.  
+
+
+## SCÈNE IV. Clarimond, Anselme en habit de Berger, Lisis toujours couché et rêvant.
+
+    CLARIMOND.
+Il nous laisse un trésor d'un prix inestimable.  
+Fut-il jamais un Fou d'humeur plus agréable ?  
+Mais quelle illusion me surprend aujourd'hui ?  
+Que vois-je ? Tout le monde est-il fou comme lui ?  
+
+    ANSELME.
+Quoi, Clarimond, ce semble, a peine à me connaître ?  
+
+    CLARIMOND.
+Ô Ciel ! En quel habit vous vois-je ici paraître !  
+Est-ce Anselme ?  
+
+    ANSELME.
+        Oui, pour vous je suis Anselme encor,  
+Et mon nom de roman, le Berger Polidor.  
+
+    CLARIMOND.
+Quoi, jouez-vous un rôle en quelque comédie,  
+Ou ce Fou vous a-t-il taché de sa folie ?  
+
+    ANSELME.
+Vous le connaissez donc ?  
+
+    CLARIMOND.
+        Arrivé d'hier au soir  
+J'en sais presque déjà ce qu'on en peut savoir ;  
+Lui-même tout au long m'a conté son histoire ;  
+Mais certaine Charite est fort dans sa mémoire ?  
+Quel est ce rare Objet ?  
+
+    ANSELME.
+        La surprise m'en plaît,  
+Vous me nommez Charite, et demandez qui c'est ?  
+
+    CLARIMOND.
+Quoi, c'est cette Beauté qui vit chez Angélique,  
+Sa Parente ?  
+
+    ANSELME.
+        Elle-même est l'objet qui le pique.  
+
+    CLARIMOND.
+À de si doux liens s'étant abandonné,  
+S'il a l'esprit à gauche, il a l'oeil bien tourné ;  
+Mais puisque cette Belle est la même Charite  
+Dont cent fois à Paris j'ai vanté le mérite,  
+Je veux, pour en tirer un plaisir sans égal,  
+Être aujourd'hui Berger, et Berger son Rival.  
+À ce déguisement votre exemple me porte.  
+
+    ANSELME.
+Ne vous étonnez point de me voir de la sorte,  
+C'est l'effet du pouvoir qu'Angélique a sur moi,  
+Et comme la servir m'est une douce loi,  
+Et que la Pastorale a toujours su lui plaire,  
+Je me suis fait Berger, et Charite Bergère.  
+Elle s'en mêle aussi, mais son rôle est plus doux,  
+Et lui donne le rang de Nymphe parmi nous.  
+
+    CLARIMOND.
+J'en crois le passe-temps aussi plaisant que rare,  
+Mais il faut l'avertir de ce que je prépare.  
+Étant Nymphe, chacun lui doit faire sa cour.  
+
+    LISIS, FAISANT UN HAUT CRI, COMME SORTANT D'UN PROFOND ASSOUPISSEMENT.
+Ah !  
+
+    ANSELME, COURANT À LUI.
+    Qu'avez-vous, Berger ?  
+
+    LISIS.
+        C'est un élan d'amour.  
+Je croyais que mon âme allait quitter son gîte,  
+Rêvant à la beauté des beautés de Charite.  
+
+    ANSELME.
+La rêverie est belle et bien digne de vous,  
+Mais il faut vous laisser dans un transport si doux.  
+Adieu, le Ciel ait soin de ce qu vous regarde.  
+
+    LISIS.
+Officieux Bergers, Pan vous tiennent en sa garde.  
+
+
+## SCÈNE V. Lisis, Charite, en habit de Bergers.
+
+    LISIS.
+Beaux habitants de l'air, Oiseaux, qui tous les jours  
+Louez par vos doux chants l'objet de mes amours,  
+Que voyez-vous ailleurs d'égal à son mérite ?  
+
+    CHARITE, PARAISSANT ENTRE LES ARBRES.
+Que fait ce Fou seul, et qu'est-ce qu'il médite ?  
+
+    LISIS.
+Mais avec des muets j'emploie en vain ma voix.  
+Il vaut mieux que je parle à l'Écho de ces bois,  
+Avecque les Bergers cette Nymphe raisonne.  
+
+    CHARITE.
+Servons ici d'Écho, la pièce sera bonne.  
+
+    LISIS.
+Nymphe, l'amour me cause un tourment inouï,  
+J'en ai parlé cent fois, n'en as-tu rien ouï ?  
+
+    CHARITE.
+Oui.  
+
+    LISIS.
+        Bon, elle répond. Pour trouver allégeance,  
+Que ferai-je, ayant mis mon mal en évidence ?  
+
+    CHARITE.
+Danse.  
+
+    LISIS.
+        Et bien, chante ou siffle, et puis je danserai.  
+Mais Charite m'a dit qu'elle m'aime, est-il vrai ?  
+
+    CHARITE.
+Vrai.  
+
+    LISIS, SE LEVANT.
+        Mais je n'obtiens rien en la priant sans cesse  
+De soulager le mal dont la rigueur me presse.  
+
+    CHARITE.
+        Presse.  
+
+    LISIS.
+C'est fort bien dit, je croirai ton discours  
+Et m'en vais de ce pas lui demander secours.  
+
+    CHARITE.
+        Cours.  
+
+    LISIS.
+Adieu donc ; ainsi puisse aller à toute heure  
+Narcisse ton mignon te voir dans ta demeure.  
+
+    CHARITE.
+Demeure.  
+
+    LISIS.
+        M'arrêter ! Tu dis qu'à mes tourments  
+Sa vue apportera de grands allègements.  
+
+    CHARITE.
+        Je mens.  
+
+    LISIS.
+Ne raille point, et me tire de peine.  
+Qu'ai-je lieu d'espérer ? Son amour, ou sa haine ?  
+
+    CHARITE.
+        Sa haine.  
+
+    CHARITE.
+Que ferai-je, hélas ! si tout en pleurs  
+
+    LISIS.
+Je ne puis apaiser ses mauvaises humeurs ?  
+
+    CHARITE.
+        Meurs.  
+
+    LISIS.
+Quelle mort choisir s'il faut que je l'aborde,  
+Et demande secours sans qu'elle me l'accorde.  
+
+    CHARITE.
+        La corde.  
+
+    LISIS. [16]
+Quoi, la corde ! Ah, tu prends sans vert,  
+Ou c'est celle de l'arc dont Cupidon se sert.  
+Nymphe, n'est-ce pas là ce que tu veux entendre ?  
+Réponds.  
+
+    CHARITE.
+        Non, je te dis une corde à te pendre.  
+
+    LISIS.
+Ah, sotte et folle Écho, tu babilles beaucoup !   [17]
+D'où te vient cette humeur ? As-tu bu trop d'un coup,  
+Où si te connaissant moins belle que Charite,  
+La honte et le dépit te font parler si vite ?  
+Je la vois. Ah, bel Astre.  
+
+    CHARITE, ÉTANT RENTRÉE SUR LE THÉÂTRE.
+        Et quoi, que faites-vous ?  
+
+    LISIS.
+Devant une déesse il faut être à genoux,  
+Et l'on ne doit jamais qu'en toute révérence  
+De ses divins regards recevoir l'influence.  
+
+    CHARITE.
+Non, non, pour ces respects je n'ai que du mépris,  
+Ces adorations sont bonnes à Paris,  
+Mais ici l'on doit vivre avec pleine franchise.  
+
+    LISIS.
+Il est vrai qu'aux Bergers elle est toujours permise.  
+Ô dessein haut et rare, inspiré par l'Amour,  
+D'abandonner Paris pour ce plaisant séjour !  
+Que nous allons mener une agréable vie ?  
+Les Dieux mêmes, les Dieux nous porteront envie  
+Quelquefois attroupés nous rirons, danserons,  
+Des autres quelquefois nous nous écarterons,  
+Tantôt à l'ombre assis ; tantôt sur la gougère.  
+Tu diras, mon Berger ; je dirai, ma Bergère ;  
+Nous placerons l'Amour au milieu de nous deux,  
+Puis nous jouerons ensemble à mille petits jeux,  
+Où cueillant quelquefois... Ah, Charite mon âme,  
+Soutiens vite, soutiens ton berger qui se pâme.  
+Tu recules, cruelle !  
+
+    CHARITE.
+        Et j'en ai bien raison  
+Vous pourriez m'accabler sous votre pâmoison,  
+Et je ne vous vois pas de taille si légère  
+Qu'elle n'incommodât un peu votre Bergère.  
+
+    LISIS.
+Ta rigueur est extrême, et je vois qu'en effet  
+Tu n'as point de pitié du mal que tu m'as fait.  
+Coeur d'airain, coeur d'acier, coeur de marbre et de roche.  
+
+    CHARITE.
+Quel mal vous ai-je fait digne d'un tel reproche ?  
+Vous aurais-je aujourd'hui, pour en être indigné,  
+Ou piqué par mégarde, ou bien égratigné ?  
+
+    LISIS.
+Oui, mais tu n'en sens rien, ô beauté trop maligne,  
+L'ongle de tes regards tous les jours m'égratigne,  
+Et les rayons pointus de tes brillants attraits  
+M'ont fait une piqûre à n'en guérir jamais.  
+
+    CHARITE.
+Il est vrai que leur force est un peu redoutable.  
+N'en croyez pas pourtant la blessure incurable,   [18]
+J'y donnerai remède ; adieu jusqu'à tantôt.  
+
+    LISIS.
+Quoi, dure Anaxaréte, on me quitte, et si tôt !   [19]
+Vois de ce prompt départ ton Iphis tout languide.   [20]
+
+    CHARITE.
+Je cours vite chercher la Bergère Lucide,  
+On l'attend chez la Nymphe.  
+
+    LISIS.
+        Ah, tu me fais trembler,  
+Mon mal est assez grand, pourquoi le redoubler ?  
+
+    CHARITE.
+Quoi, vous craignez sa vue ?  
+
+    LISIS.
+        Ah, je la dois bien craindre,  
+Et jamais tant que moi Berger ne fut à plaindre ;  
+Je fuis qui me pourchasse, et j'aime qui me fuit.  
+
+    CHARITE.
+Vous faites le fâché quand elle vous poursuit,  
+Mais souvent le mépris cache un feu véritable,   [21]
+Et peut-être en secret vous êtes plus traitable.  
+
+    LISIS.
+Moi, du secret pour elle ? Ah non, Bergère, crois  
+Que le coeur de Lisis ne peut être qu'à toi.  
+Tu le posséderas chaste, pur, sans mélange,  
+Tout entier, et plutôt qu'il ait recours au change,  
+Plutôt que d'autres traits le puissent entamer,  
+Les fleuves révoltés n'iront plus vers la mer,   [22]
+Leurs liquides Palais se verront sans Naïades,   [23]
+Les bois sans aucun faune, et sans Hamadryades,  
+Et tout se gouvernant par des ordres nouveaux,  
+Les loups contre les chiens défendront nos Troupeaux.  
+
+    CHARITE.
+Je prends sur ce serment une assurance entière.  
+Adieu, gentil Berger.  
+
+    LISIS.
+        Adieu, belle Bergère,  
+Je te laisse mon coeur, daignes-en prendre soin.  
+Allons, chères Brebis, allons paître plus loin,  
+Car le Soleil ardent de ses regards superbes,  
+En éclairant ces lieux, en a brûlé les herbes.  
+
+
+# ACTE II
+
+
+## SCÈNE PREMIÈRE. Lucide, Montenor, en habits de Bergers.
+
+    LUCIDE.
+Un peu de complaisance, et l'habit de Berger  
+À ces propos d'amour ont dû vous engager,  
+Mais, de grâce, avec moi mettez fin à la feinte,  
+Ne vous imposez point cette dure contrainte,  
+Et croyez que de foi, dans me parler d'aimer,  
+Montenor vaut assez pour se faire estimer.  
+
+    MONTENOR.
+Quoi, d'un amour si pur la douce violence  
+Pour vous persuader a si peu de puissance,  
+Et quand pour vos beaux yeux je me sens tout de feu,  
+C'est être complaisant que d'en faire l'aveu ?  
+
+    LUCIDE.
+On surprend de la sorte un esprit trop crédule,  
+Quoiqu'on soit tout de glace, on proteste qu'on brûle,  
+Mais ces discours de feu m'en prouvent peu l'ardeur,  
+Plus j'en vois sur la langue, et moins j'en crois au coeur.  
+
+    MONTENOR.
+Qu'à l'espoir d'un Amant votre humeur est contraire !  
+Vous ignorez ses feux s'il s'obstine à se taire,  
+S'il parle, il est suspect d'artifice ou de fard.  
+
+    LUCIDE.
+L'Amour pour s'expliquer a son langage à part,  
+Il parle, il persuade en gardant le silence,  
+Ses moindres mouvements sont remplis d'éloquence,  
+Un soupir dit beaucoup souvent en un instant,  
+Et doit parler bien bas si le coeur ne l'entend.  
+
+    MONTENOR.
+S'il est vrai que le coeur entende ce langage,  
+Voulez-vous de ma flamme un plus clair témoignage ?  
+Cent fois auprès de vous le mien a soupiré,  
+Cent fois par ma langueur je me suis déclaré,  
+Et n'osant vous parler du mal que vous me faites,  
+Mes yeux en ont été cent fois les interprètes.  
+Mais leurs tristes regards ont su mal l'exprimer,  
+Et quoi qu'un fol espoir m'en ait fait présumer,  
+Des plus ardents soupirs l'éloquence est muette  
+Si le coeur n'est d'accord de sa propre défaite,  
+Et leur intelligence a peine à subsister,  
+Quand l'amour n'aide pas à les faire écouter.  
+
+    LUCIDE.
+C'est donc par ce défaut que je n'ai pu comprendre  
+Ce que vous prétendez qu'ils m'ont dû faire entendre ?  
+Mais deux ou trois regards langoureux et mourants  
+Quelquefois d'un beau feu sont de mauvais garants,  
+Et me voyant encore ignorer ce langage,  
+Peut-être tâchez-vous d'en tirer avantage.  
+
+    MONTENOR.
+Ah, doutez moins d'un coeur trop soumis à vos lois.  
+J'en appelle à témoin les arbres de ces bois.  
+Combien de fois, hélas ! Cherchant leur solitude,  
+Les ai-je entretenus de mon inquiétude ?  
+Combien de fois vanté l'empire glorieux  
+Qu'en secret sur mon âme exercent vos beaux yeux ?  
+Combien parlé du mal que leur éclat me cause ?  
+
+    LUCIDE.
+Quand ils me le diront, j'en croirai quelque chose.  
+
+    MONTENOR.
+Cruelle, c'est donc là ce que peut aujourd'hui...  
+
+    LUCIDE.
+Mais Hircan est mon Frère, et je dépends de lui.  
+
+    MONTENOR.
+Jugez mieux de ma flamme, et croyez, quoique extrême,  
+Qu'elle ne veut devoir votre coeur qu'à vous-même,  
+Et que dans sa poursuite elle n'emploiera point...  
+
+    LUCIDE.
+Brisons là, Montenor, la Troupe nous rejoint.  
+
+
+## SCÈNE II. Angélique, Anselme, Lucide, Montenor, Charite.
+
+    ANGÉLIQUE, À MONTENOR ET LUCIDE.
+Certes, gentils bergers, ma joie est sans égale  
+De vous voir imiter si bien la Pastorale.  
+N'en rougit point, Lucide ; ainsi de quelque pas  
+S'avançaient fort souvent Philis et Licidas,  
+Et Diane jamais ne refusa d'entendre,  
+Un peu loin de la Troupe, ou Pâris, ou Silvandre.  
+
+    LUCIDE.
+C'est le prendre assez bien, mais j'ai lieu de douter  
+Que qui m'accuse, exprès n'ait voulu s'arrêter.  
+Si d'ouïr Polidor le plaisir était moindre,  
+Vous auriez moins tardé peut-être à nous rejoindre.  
+
+    MONTENOR, À ANGÉLIQUE.
+Ma Soeur, elle vous rend le change adroitement.  
+
+    ANGÉLIQUE.
+Aussi ce qu'elle dit n'est pas sans fondement,  
+Et vous joignant plutôt, nous eussions pu vous nuire.  
+S'il n'eût eu quelque chose en secret à me dire.  
+
+    CHARITE.
+C'est pour vivre à mon gré tous quatre assez contents.  
+Cependant avec vous je passe bien mon temps ;  
+Quand douceurs sur douceurs pour vous sont entassées,  
+J'ai beau m'entretenir avecque mes pensées.  
+
+    ANGÉLIQUE.
+On connaît toutefois si bien ce que tu vaux,  
+Qu'aujourd'hui ta beauté doit faire des rivaux.  
+
+    CHARITE.
+Ne bâtissez point tant sur le débris d'un autre,  
+Mon temps viendra peut-être aussi bien que le vôtre.  
+
+    ANGÉLIQUE.
+À ne le croire pas je manquerais de foi,  
+Puisque enfin Clarimond se fait berger pour toi.  
+
+    CHARITE.
+Sachant que c'est pour moi que notre Fou soupire,  
+Il me doit protester seulement pour en rire.  
+Qu'il feigne toutefois autant qu'il lui plaira,  
+Nous verrons à la fin s'il en échappera.  
+
+    ANGÉLIQUE.
+Tu ne parles jamais à ton désavantage.  
+
+    CHARITE.
+D'une fausse vertu je hais le sot usage,  
+Qui n'attend rien de soi n'en peut rien obtenir ;  
+Mais nos Bergers rivaux tardent bien à venir.  
+
+    ANSELME.
+C'est ici que Lisis mène son Troupeau paître,  
+Et devant qu'il soit peu nous l'y verrons paraître.  
+
+    ANGÉLIQUE.
+Qu'en façons de parler il est original !  
+
+    ANSELME.
+Son entretien jadis était moins inégal,  
+Mais depuis qu'il a lu Virgile en vers burlesques,  
+Il l'a toujours farci de cent termes grotesques,  
+Et cru (comme en burlesque y parlent tous les Dieux)  
+Qu'imiter ce langage était parler le mieux.  
+
+    ANGÉLIQUE.
+Sa cervelle est bien creuse !  
+
+    CHARITE.
+        Et sa tête si folle,  
+Qu'il ne m'a pu tantôt connaître à la parole,  
+Quand pour la Nymphe Écho j'ai si bien répondu.  
+
+    MONTENOR.
+Peut-il voir qu'on le joue ayant l'esprit perdu ?  
+Mais je l'entends chanter.  
+
+    LUCIDE.
+        Cachez-vous, je vous prie,  
+Pour être les témoins d'une autre raillerie.  
+Je m'en vais l'accabler d'assurances d'amour....  
+
+    ANGÉLIQUE.
+Du moins auparavant oyons son air de Cour.  
+Ils se cachent tous derrière les arbres, à la réserve de Lucide qui aborde Lisis après qu'il a chanté.
+
+
+
+## SCÈNE III. Lisis, Lucide.
+
+    LISIS, CHANTE.
+Quand des douceurs d'une flamme discrète  
+L'Amour fait part à deux coeurs bien unis,  
+Ah, qu'il est doux de porter la houlette !  
+Ah, qu'il est doux de garder les brebis !  
+Ainsi chantait au bord d'une rivière  
+Certain Berger d'amour tout enflammé.  
+Ah, qu'il est doux d'aimer, belle Bergère !  
+Ah, qu'il est doux d'aimer, et d'être aimé !  
+
+    LUCIDE.
+Beau sujet de mes feux et mon infortune,  
+Ce jour te soit plus doux et plus heureux qu'à moi.  
+
+    LISIS.
+C'est en vain que ta flamme, ô Bergère importune,  
+Se sert d'un compliment qui n'est pas fait pour toi.  
+
+    LUCIDE.
+Quand voudras-tu cesser de me faire la guerre,  
+Et finir des mépris qui me donnent la mort ?  
+
+    LISIS.
+Quand les ormes fuiront l'embrassement du lierre,  
+Et qu'avec mes brebis les Loups seront d'accord.  
+
+    LUCIDE.
+Quoique de plus en plus ta rigueur continue,  
+Tu me verras toujours telle qu'auparavant.  
+
+    LISIS. [24]
+Ixion autrefois n'embrassa qu'une nue,  
+Et Lucide pourra n'embrasser que du vent.  
+
+    LUCIDE.
+Comme la mer se calme après un grand orage,  
+De même ton orgueil un jour se calmera  
+
+    LISIS.
+Comme un rocher résiste à sa plus forte rage,  
+De même à ton amour mon résistera.  
+
+    LUCIDE.
+Berger, par le Dieu Pan et les Hamadryades,  
+Ne me refuse pas un paisible entretien.  
+
+    LISIS.
+S'ils peuvent en amour secourir les malades,  
+Va leur offrir des voeux pour te guérir du tien.  
+
+    LUCIDE.
+Parmi des Scythes fiers ton coeur que rien n'embrase  
+Fut rempli de glaçons dès que tu vins au jour.  
+
+    LISIS.
+Fais-moi, si tu le veux, sortir du mont Caucase,  
+Mais ne m'étourdis plus d'aucun propos d'amour.  
+
+    LUCIDE.
+Puisse être en proie au Loup ta Brebis plus chérie,  
+Si tu laisses mon âme en proie à ta rigueur.  
+
+    LISIS.
+Que le Loup mille fois entre en ma Bergerie  
+Plutôt qu'amour pour toi se loge dans mon coeur.  
+
+    LUCIDE.
+Tigre nourri du lait d'une tigresse fière,  
+Ton dédain orgueilleux veut m'ouvrir le tombeau.  
+
+    LISIS.
+Bien loin d'avoir dessein de te mettre en la bière,  
+Il ne pense pas même à t'effleurer la peau.  
+
+    LUCIDE.
+Il déchire mon âme, et sa griffe acérée,  
+Sitôt que je te vois, l'arrache par lambeaux.  
+
+    LISIS.
+Ne sachant pas recoudre une âme déchirée,  
+De quoi me servirait d'en avoir les morceaux ?  
+
+    LUCIDE.
+Tu peux les rassembler d'une douce parole,  
+Et de l'enfer des maux m'élever jusqu'au Ciel.  
+
+    LISIS.
+S'il ne tient qu'à cela que tu ne sois plus folle,  
+Vois laquelle tu veux, ou du sucre, ou du miel.  
+
+    LUCIDE.
+Accorde l'un à l'autre à ma persévérance.  
+Le sucre de l'espoir, et le miel de ta foi.  
+
+    LISIS.
+Si c'est le miel qu'il faut à ta sotte constance,  
+Adieu, tu peux chercher d'autres Mouches que moi.  
+
+    LUCIDE.
+Arrête, clair flambeau de ma vie amoureuse,  
+Et permets à mon feu pour le moins d'espérer.  
+
+    LISIS.
+Ta vie est en hasard d'être fort ténébreuse,  
+Si je suis le flambeau qui la doit éclairer.  
+
+    LUCIDE.
+Si ce titre est trop bas pour un si beau mérite,  
+Et bien, sois mon Soleil, et daigne me guérir.  
+
+    LISIS.
+Grâces à ta Silvie, il faut que je te quitte,  
+Si je suis un Soleil je dois toujours courir.  
+
+
+## SCÈNE IV. Angélique, Anselme, Montenor, Lucide, Charite, Lisis.
+
+    ANGÉLIQUE.
+Où courez-vous, Berger ?  
+
+    LISIS.
+        Nymphe sage et discrète,  
+Devant mon ennemi je sonne la retraite.  
+
+    CHARITE, VOYANT LUCIDE QUI S'ÉLOIGNE COMME NE VOULANT PAS ÊTRE SURPRISE AVEC LISIS. 
+Quoi, Lucide aujourd'hui ne veut pas nous parler ?  
+
+    LISIS, À CHARITE.
+Derrière ces buissons laisse-la se couler,  
+Et donne-lui le temps de retirer son âme  
+Du désordre où la met le refus de sa flamme.  
+
+    ANGÉLIQUE.
+Elle s'obstine donc à vous persécuter.  
+
+    LISIS.
+Tout autre que Lisis s'en laisserait tenter,  
+Mais de quoi que pour moi l'Amour la sollicite  
+Elle est toujours Lucide, et Charite, Charite.  
+
+    CHARITE.
+Aussi, si mon Berger méprise tout pour moi,  
+Il possède sans feinte et mon coeur et ma foi,  
+D'une pareille ardeur nos âmes sont saisies...  
+
+    LISIS.
+Trêve un peu de douceurs, Amour, tu m'extasies.  
+Ah, ah !  
+
+    CHARITE.
+    Vous soupirez ?  
+
+    LISIS.
+        Bergère mon souci,  
+C'est par précaution que je soupire ainsi ;  
+Sans cela trop d'ardeur aurait pu me surprendre,  
+Et je verrais bientôt mon coeur réduit en cendre  
+Par le feu trop actif de mes brûlants désirs,  
+S'il n'était rafraîchi du vent de mes soupirs.  
+
+    LUCIDE, REVENANT SUR LE THÉÂTRE.
+De quoi vous entretient l'honneur de nos bocages ?  
+
+    CHARITE.
+Nous parlions de troupeaux, de prés, de pâturages.  
+À Lisis bas
+
+Il faut dissimuler.  
+
+    LISIS, À LUCIDE LUI MONTRANT CHARITE.
+        Et nous parlions aussi  
+De cet oeil rayonnant qui cause mon souci.  
+Oui, de ton oeil divin la beauté charmeresse...  
+
+    ANGÉLIQUE.
+Berger, un tel discours blesse votre maîtresse,  
+Voyez-la, de ses yeux l'éclat est peu commun,  
+Tous deux savent charmer, et vous n'en louez qu'un !  
+Par quel transport d'amour parler comme vous faites ?  
+
+    LISIS.
+C'est pour m'accommoder au langage des poètes.  
+Ce style de tout temps leur est particulier,  
+Et comme eux, tout exprès je parle au singulier ;  
+Mais sans dessein pourtant d'offenser ma bergère,  
+Car de ces deux Soleils l'un et l'autre m'éclaire,  
+Et jurant qu'à charmer son bel oeil est adroit,  
+Je ne parle pas moins du gauche que du droit.  
+
+    ANSELME, À ANGÉLIQUE.
+Nymphe, qu'en dites-vous ?  
+
+    ANGÉLIQUE.
+        La réponse est discrète.  
+
+    LISIS.
+St, écoutons, j'entends le son d'une musette,  
+Qu'il est mélodieux !  
+
+    MONTENOR.
+        C'est d'un jeune berger  
+Arrivé depuis peu d'un pays étranger.  
+
+    LISIS.
+Il est vrai, son habit est différent du nôtre.  
+
+    ANSELME.
+Pour vivre parmi nous il en a pris un autre,  
+Le voici.  
+
+
+## SCÈNE V. Angélique, Anselme, Lucide, Montenor, Charite, Clarimond, Lisis.
+
+    MONTENOR, À CLARIMOND. 
+        Tu veux donc, ô Berger gracieux,  
+Désormais avec nous habiter ces beaux lieux ?  
+Ton changement d'habit fait que je le présume.  
+
+    CLARIMOND.
+J'y viens chercher remède au feu qui me consume.  
+
+    ANGÉLIQUE.
+À ce que je puis voir vous vous plaignez d'amour ?  
+
+    CLARIMOND.
+Hélas ! J'en ai bien lieu, je languis nuit et jour.  
+Mais dites-moi, de grâce, avant que je m'explique,  
+Si je ne parle pas à la Nymphe Angélique ?  
+
+    ANGÉLIQUE.
+Oui, si d'elle aujourd'hui dépend l'heur de vos jours,  
+Vous la voyez, et prête à vous donner secours.  
+
+    CLARIMOND.
+Grand Druide, dont l'art produit tant de miracles,  
+C'est ici que j'attends l'effet de tes Oracles,  
+Amour, rends-toi propice à mes brûlants désirs.  
+
+    ANGÉLIQUE.
+Quel Objet si charmant vous coûte ces soupirs ?  
+
+    CLARIMOND.
+Que ne m'est-il permis, hélas ! de vous le dire !  
+
+    ANGÉLIQUE.
+Vous le pourriez, Berger, sans crainte de vous nuire,  
+Déjà dans votre sort chacun prend intérêt.  
+
+    CLARIMOND.
+Je l'adore en idée, et sans savoir qui c'est.  
+
+    LISIS.
+Sans le savoir !  
+
+    CLARIMOND.
+        Oyez le récit de ma vie.  
+Mon nom est Philiris, mon pays, l'Arcadie.  
+
+    LISIS.
+Ô qu'en Bergers toujours ce pays fut second !  
+Mais pour mieux l'écouter il faut s'asseoir en rond,  
+C'est l'ordre pastoral.  
+
+    ANGÉLIQUE.
+        Et bien, qu'on prenne place,  
+Voici des gazons verts.  
+Tout le monde s'assied sur des gazons, et Lisis se couche aux pieds de Charite.
+
+
+    LISIS, À CHARITE.
+        Ah, mon Soleil, de grâce,  
+Modère tes rayons, ou tu me vas brûler.  
+
+    ANGÉLIQUE.
+Chacun prête silence, et vous pouvez parler.  
+
+    CLARIMOND.
+Sachez donc, grands Nymphe, et, vous, belles Bergères,  
+Et vous, gentils Bergers, quelles sont mes misères.  
+Dans le climat heureux où j'ai reçu le jour  
+Pan se fait beaucoup moins redouter que l'Amour,  
+Puisqu'il n'est point de coeurs, point de Bergers si braves  
+Dont ce cruel Tyran ne fasse autant d'esclaves,  
+Et plût au juste Ciel que je pusse douter  
+Si le joug qu'il impose est pesant à porter !  
+Cependant, admirez par quel prodige étrange  
+Sous ses injustes lois ma liberté de range.  
+Sous le feuillage épais d'un verdoyant ormeau  
+Un jour sans soins encor je gardais mon Troupeau,  
+Quand surpris du sommeil, un amas de lumière  
+Suspendit de mes sens la vigueur coutumière,  
+Et fit voir tout à coup à mes yeux éblouis  
+Un précieux trésor de charmes inouïs.  
+C'était une Bergère, en qui toutes les grâces  
+Semblaient comme en leur trône avoir choisi leurs places.  
+Une aimable arrogance, une digne fierté  
+Y joignait la douceur avec la majesté,  
+Et les Dieux n'ont jamais par un plus noble ouvrage  
+De leur Divinité fait éclater l'image,  
+Ô Nymphe, je la vis, jugez si je l'aimai,  
+Si d'une prompte ardeur ce coeur fut enflammé,  
+Et si pour résister à l'effort de ses charmes,  
+La surprise des sens me put laisser des armes,  
+Mais quels tristes revers quand fut la fin du jour  
+J'en vit l'erreur finie, et non pas mon amour !  
+De tant de raretés mon âme possédée  
+À mon réveil encor en conserve l'idée,  
+Mais si confusément, que je ne pus jamais  
+Me retracer l'Objet où brillaient tant d'attraits.  
+Je l'aimai toutefois, cette Idée imparfaite,  
+Ma liberté par là rencontra sa défaite,  
+Et depuis ce moment d'un tel amour épris  
+Pour tous autres objets je n'eus que du mépris.  
+Ainsi forcé d'aimer sans espoir de salaire,  
+Je me trouvai réduit à brûler et me taire,  
+Tant que cette contrainte augmentant ma langueur,  
+Il fallut découvrir les secrets de mon coeur.  
+Un Druide fameux qu'on voit dans sa retraite  
+Du Destin chaque jour se rendre l'interprète,  
+Fut l'Oracle divin qui d'abord par ces mots  
+À mon esprit flottant rendit quelque repos.  
+Réjouis-toi, Berger mélancolique,  
+Les décrets du Destin font bientôt accomplis.  
+Sur les rives de Marne, au Royaume des Lys,  
+Va trouver la Nymphe Angélique.  
+Fais-lui connaître ton ardeur,  
+Ouvre-lui tout ton coeur,  
+Lui contant de tes feux l'admirable origine,  
+Et tes yeux éclairés alors d'un nouveau jour  
+Reconnaîtront soudain cette Beauté divine,  
+Dont l'image en dormant te donna tant d'amour.  
+Il se lève, et comme surpris tout à coup d'un éclat nouveau, il continue en s'adressant à Charite.
+
+Mais Dieux ! Que vois-je enfin ? Quel éclat de lumière  
+Est venu tout à coup dessiller ma paupière ?  
+Bergère, c'est donc vous qui m'aviez su charmer,  
+Vous, dont l'aimable idée avait pu m'enflammer,  
+Vous, ce divin Objet pour qui mon coeur soupire,  
+Vous que...  
+
+    LISIS.
+        Tout beau, Berger, cela vous plaît à dire.  
+Allez en Arcadie y faire le transi,  
+Charite est ma Maîtresse.  
+
+    CLARIMOND.
+        Et c'est la mienne aussi.  
+
+    CHARITE.
+Cette ardeur est bien prompte.  
+
+    CLARIMOND.
+        Elle est pourtant extrême.  
+
+    LISIS.
+Berger, au nom des Dieux, prends pitié de toi-même.  
+Si je suis ton Rival, quel espoir t'est permis !  
+
+    CLARIMOND.
+Souvent l'on obtient moins que l'on ne s'est promis.  
+
+    LISIS.
+Ma flamme prévaudra comme plus ancienne.  
+
+    CLARIMOND.
+Celle que je ressens ne doit rien à la tienne,  
+Depuis plus de trois ans j'en ai le coeur épris.  
+
+    ANGÉLIQUE.
+Dieux, que cette merveille étonne mes esprits !  
+Lucide, qu'en dis-tu ?  
+
+    LUCIDE.
+        Que ce Berger mérite,  
+Après ce qu'il a fait, d'être aimé de Charite,  
+De posséder son coeur.  
+
+    LISIS.
+        Quoi, vous prenez sa voix ?  
+Ah, Nymphe, je suis mort, ou du moins aux abois.  
+
+    CLARIMOND.
+Enfin sans perdre temps en disputes frivoles,  
+Voyons si les effets répondent aux paroles.  
+Ma passion me dicte un glorieux projet ;  
+De nos désirs Charite est le plus cher objet,  
+Tous deux également nous soupirons pour elle.  
+De notre différent la cause étant si belle,  
+Que sur l'heure un combat le décide à ses yeux,  
+Et montre qui de nous la mérite le mieux,  
+Elle en sera le juge.  
+
+    LISIS.
+        Oui, va, la chose est faite.  
+Bas.
+
+Quitte pour essuyer quelques coups de houlette.  
+
+    CHARITE, À LISIS.
+Vous sortirez vainqueur.  
+
+    LISIS.
+        Ah, je n'en doute pas  
+Si j'obtiens ton bel oeil pour Parrain de mon bras.  
+Pan, donne la victoire à mon amour sans bornes,  
+Et j'appends sa houlette, au milieu de tes cornes.  
+Or sus, prépare-toi, Berger.  
+Comme il se met en posture de combattre avec sa houlette, il voit que Clarimond tire une épée qui était cachée dans la sienne.
+
+        Mais qu'est ceci  
+Une épée ! Es-tu fou de te défendre ainsi ?  
+
+    CLARIMOND.
+Pour posséder Charite il faut m'ôter la vie.  
+Ne songe qu'à tuer.  
+
+    LISIS.
+        Je n'en ai point d'envie.  
+Je suis berger d'honneur, et non pas meurtrier.  
+D'ailleurs, quand je serais le plus rude lancier,  
+Que pourraient contre un fer mes armes pastorales ?  
+Anselme tirant aussi une épée de sa houlette qu'il présente à Lisis.
+
+Prends courage, Berger, je vais les rendre égales,  
+Trop heureux d'obliger le Phénix des Amants.  
+
+    LISIS.
+Ô les vilains Bergers avec leurs ferrements ?  
+
+    ANSELME.
+Prend ce fer.  
+
+    LISIS.
+    Je n'ai garde.  
+
+    MONTENOR.
+        À quoi Lisis s'expose !  
+Refuser un combat dont Charite est la cause ?  
+Sa lâcheté partout se publiera tout haut.  
+
+    LISIS.
+Et pourquoi ? J'ai du coeur tout autant qu'il m'en faut,  
+Mais...  
+
+    MONTENOR.
+    Quoi mais ?  
+
+    LISIS.
+        À quoi bon me presser davantage ?  
+Je n'enfreindrai pour rien le pastoral usage.  
+
+    ANSELME.
+Quel est-il cet usage ?  
+
+    LISIS.
+        Où me montreras-tu  
+Qu'à l'épée un Berger se soit jamais battu ?  
+
+    MONTENOR.
+Filandre se battit autrefois pour Diane.  
+
+    LISIS.
+Oui, pour la garantir des efforts d'un profane,  
+Ce fut à coups de fronde encor pour son malheur.  
+
+    ANGÉLIQUE.
+C'est trop de ce Berger exciter la valeur,  
+Son peu d'amour paraît pour la belle Charite,  
+Refusant de combattre il la cède, il la quitte.  
+Venez, brave Étranger, la victoire est à vous.  
+
+    CLARIMOND.
+Que ne vous dois-je point pour un arrêt si doux ?  
+
+    ANGÉLIQUE.
+Et toi, Berger ingrat, qui crains qu'il ne te coûte  
+De ton sang malheureux une chétive goutte,  
+Et pour l'objet aimé n'en oses hasarder  
+Ce peu qu'il faut pour vaincre et pour le posséder,  
+Va, tu nous fais bien voir que tu n'étais qu'un traître ;  
+Jamais devant nos yeux n'entreprends de paraître.  
+Allons, Bergers, allons.  
+
+    LISIS.
+        Ah, Nymphe au coeur hagard,   [25] [26]
+Plus dur que Myrmidon et Dolope soudard ?  
+
+    CHARITE.
+Adieu, triste berger.  
+
+    LISIS.
+        Ah, que me viens-tu dire ?  
+
+    CHARITE.
+L'arrêt est prononcé, c'est à nous d'y souscrire !  
+
+    LISIS.
+Tu m'abandonnes donc ?  
+
+    CHARITE.
+        J'en suis au désespoir,  
+Et j'attendrai des Dieux le bien de te revoir.  
+Cependant ne meurs pas, sûr que quoi que l'on fasse  
+Tu ne verras jamais ton Rival en ta place.  
+
+    LISIS.
+Du moins en soupirant flatte mes déplaisirs.  
+
+    CHARITE.
+Je te plains, je me plains, mais trêve de soupirs,  
+J'ai le coeur si serré que j'en suis incapable.  
+
+    LISIS.
+Ô de tous les Objets le plus insoupirable !  
+
+    CHARITE.
+Peut-être en ce départ souffres-tu moins que moi.  
+Adieu, Pan te console, et demeure avec toi.  
+
+
+## SCÈNE VI.
+
+    LISIS.
+Cédons, cédons au Sort, assouvissons sa rage,  
+Allons finir nos jours dans quelque antre sauvage.  
+Adieu, lieux si chéris, adieu, pauvre Troupeau,  
+Que j'ai laissé paissant derrière ce coteau,  
+Adieu, prés dont l'émail trop capable de plaire  
+M'a fourni tant de fleurs pour orner ma Bergère,  
+Adieu, charmants ruisseaux, Lisis presque aux abois  
+S'enfonce pour jamais dans l'horreur de ce bois.  
+Ô Dieu, qu'il est épais ! Qu'il est sombre ! Ah je pense  
+Qu'aucun Berger jamais n'en trouble le silence.  
+Profanes, loin d'ici, gardez d'en approcher,  
+Traversant ces buissons je crains de les toucher ;  
+Mais leurs feuilles font bruit, et je vois non sans peine  
+Qu'une baguette en main un homme s'y promène,  
+Il marche en murmurant, et tient un livre ouvert.  
+Il aperçoit Hircan, qui suivant l'usage de la campagne se promenait avec une canne à la main, et lisait en se promenant.
+
+C'est sans doute un Druide en la Magie expert,  
+Il le faut aborder.  
+
+
+## SCÈNE VII. Lisis, Hircan.
+
+    LISIS.
+        Ô sage et grand Druide ;  
+Si la Divinité qui dans ce lieu préside  
+Y consola jamais un Berger malheureux,  
+Daignez me secourir, lui présentant mes voeux.  
+
+    HIRCAN.
+Voici ce Fou sans doute avec sa Bergerie,  
+Dont on m'a tant vanté l'aimable rêverie.  
+Ainsi sois-tu content comme tes voeux offerts  
+Doivent être exaucés par les Dieux que je sers.   [27] [28]
+Hésus et Tharamis aux Bergers sont propices.  
+
+    LISIS.
+J'en accepte à vous voir les fortunés auspices,  
+Et rends grâce au Destin d'un bien si précieux.  
+Donc sur un pauvre Amant daignez jeter les yeux,  
+Car tout vous est possible, et d'un coup de baguette,  
+Vous rendez la Nature à vos ordres sujette.  
+
+    HIRCAN.
+Je passe auprès de lui pour un Magicien,  
+Secondons son erreur. Berger, tout ira bien,  
+Quels que soient tes malheurs, en voici le remède.  
+Il marque un rond avec sa canne.
+
+À ce charme secret il n'est rien qui ne cède,  
+Demande, et sois certain que je puis tout pour toi.  
+
+    LISIS.
+Il n'est point de Berger si malheureux que moi.  
+Par le fatal arrêt d'un pouvoir tyrannique  
+Tout accès m'est ravi chez la Nymphe angélique,  
+Ainsi je perds Charite, et n'ose désormais  
+Approcher seulement des murs de son Palais.  
+
+    HIRCAN.
+Et ce bannissement fait ton inquiétude ?  
+
+    LISIS.
+Est-il pour un Amant un supplice plus rude ?  
+Je m'en vais dans ce bois, sans espoir de secours,  
+Irriter contre moi les Tigres et les Ours ;  
+Mais si vous me daigniez par un effort magique  
+Faire voir ma bergère encor chez Angélique,  
+Me rendant invisible, ou métamorphosé...  
+
+    HIRCAN.
+Des secrets de mon art c'est le plus aisé ;  
+Mais déguiser ton sexe est tout ce qu'il faut faire.  
+Pour abuser la Nymphe, et revoir ta Bergère.  
+Prends l'habit d'une Fille, et va chez elle en pleurs  
+Lui demander refuge en de pressants malheurs.  
+Feins que de ton destin l'influence fatale...  
+
+    LISIS. [29]
+Cette métamorphose est assez pastorale.  
+Ainsi jadis Astrée embrassant Alexis   [30]
+Méconnut Céladon caché sous ses habits ;  
+Mais pour paraître fille avec plus de décence,  
+Comment de ce duvet corriger l'excressanse ?   [31]
+Comment me débarber ?  
+
+    HIRCAN.
+        Quel scrupule est le tien ?  
+Demeure avec ta barbe, et n'appréhende rien.  
+Je saurai par mon art te donner le visage  
+D'une jeune bergère au plus beau de son âge,  
+La façon si modeste, et le port si charmant,  
+Que Charite voudra te voir à tout moment,  
+Juge de ton bonheur. Le voilà dans le piège.  
+
+    LISIS.
+Qu'en ce déguisement j'aurai de privilège !  
+Je suis impatient d'en venir aux effets.  
+
+    HIRCAN.
+Pour commencer l'ouvrage allons dans mon Palais.  
+
+
+# ACTE III
+
+
+## SCÈNE PREMIÈRE. Angélique, Hircan.
+
+    ANGÉLIQUE.
+Enfin avec Lisis la première habitude  
+A su vous retirer de votre solitude,  
+Et nous servant d'excuse en nos déguisements,  
+Vous en fait partager les divertissements ?  
+
+    HIRCAN.
+Il le faut avouer, son aimable folie  
+Va beaucoup au-delà de ce qu'on en publie.  
+Pour moi, je voyais presque avec confusion  
+Que ma Soeur fût Bergère à son occasion,  
+Et quelques passe-temps qu'elle eût lieu d'en attendre,  
+Dans un dessein si bas j'avais peine à descendre ;  
+Mais on condamne à tort ce qu'on ne connaît pas,  
+Et l'humeur de Lisis a pour moi tant d'appas,  
+Que sans l'engagement où son erreur me jette  
+J'aurais pu me résoudre à prendre la houlette,  
+Mais j'en espère assez pour vous faire avouer  
+Qu'un rôle de Druide est plaisant à jouer.  
+
+    ANGÉLIQUE.
+Donc, qu'à bien réussir votre esprit s'étudie.  
+La diversité plaît dans une Comédie,  
+Et j'ose m'assurer que la nôtre ira bien,  
+Les uns Bergers, moi Nymphe, et vous Magicien.  
+
+    HIRCAN.
+Du moins j'en ai causé la plus belle aventure.  
+
+    ANGÉLIQUE.
+Ce doit être sans doute une rare figure,  
+Si pour paraître Fille, il pense qu'il suffit  
+D'en imiter le geste, et d'en porter l'habit.  
+
+    HIRCAN.
+Aussi n'ai-je rien fait qu'avec cérémonie,  
+J'ai prié Tharamis, invoqué son Génie,  
+Puis ayant jeté l'oeil d'abord de toutes parts,  
+Trois fois vers l'Orient j'ai fixé mes regards,  
+Et par une grimace ainsi sans autre chose,  
+J'ai levé tout obstacle à la métamorphose,  
+Ce Berger sans soupçon s'est laissé déguiser ;  
+Et pour m'aider encore à le mieux abuser,  
+La transformation venait d'être achevée  
+Quand avec Montenor ma Soeur est arrivée  
+Un coup d'oeil leur a fait comprendre mes desseins,  
+Et tous deux devant lui se sont si bien contraints,  
+Que le traitant de fille, et cachant leur surprise,  
+Ils ont fait hautement réussir l'entreprise  
+
+    ANGÉLIQUE.
+Le rare passe-temps que vous nous préparez !  
+
+    HIRCAN.
+S'il ne vous charme pas, du moins vous en rirez.  
+Cependant pour jouer la nouvelle Bergère,  
+Ô Nymphe, vous savez ce que nous devons faire.  
+
+    ANGÉLIQUE.
+Oui, je sais de quel crime on le doit accuser.  
+
+    HIRCAN.
+Pour s'en purger sans doute il voudra tout oser.  
+Alors pour son secours j'emploierai la Machine ;  
+Cette salle est commode à ce que j'imagine,  
+Et les travaux d'Ulysse ici représentés  
+Fournissent à mon art d'assez belles clartés.  
+
+
+## SCÈNE II. Angélique, Hircan, Clarimond, Charite.
+
+    ANGÉLIQUE, À CLARIMOND ET CHARITE.
+Je vous croyais perdus, et j'en étais en peine.  
+
+    CLARIMOND.
+Nous avons pris le frais au bord de la fontaine,  
+Tandis qu'Hircan et vous résolviez de quel air  
+L'extravagant Lisis se devait régaler.  
+
+    ANGÉLIQUE.
+Le souffle des Zéphyrs avait de quoi vous plaire ?  
+
+    CLARIMOND.
+Je l'ai trouvé fort doux auprès de ma Bergère.  
+
+    ANGÉLIQUE.
+Vos soins sont assidus.  
+
+    CHARITE.
+        S'en faut-il étonner,  
+Et quand on m'a pu voir, peut-on m'abandonner ?  
+
+    ANGÉLIQUE.
+C'est de quoi Clarimond rend un bon témoignage.  
+
+    CHARITE.
+À qui plus justement pourrait-il rendre hommage ?  
+Avecque moins d'attraits je gage qu'autrefois   [32]
+Les Bergères charmaient les Faunes de leurs bois.  
+J'ai l'oeil vif, les traits doux.  
+
+    ANGÉLIQUE.
+        Et l'humeur assez vaine.  
+
+    CHARITE.
+Ce n'est pas sans sujet, je viens de la fontaine,  
+Dont le mouvant cristal, quand je l'ai consulté,  
+M'a de nouveau permis un peu de vanité.  
+
+    ANGÉLIQUE.
+Sans doute en vous flattant.  
+
+    CHARITE.
+        Bien moins qu'il ne vous semble.  
+Enfin dans nos Romans trouvez qui me ressemble.  
+De ce qu'y peint de rare un pinceau pastoral,  
+Ce ne sont que portraits, voici l'original ;  
+Dans ce déguisement je n'ai rien qui n'agrée,  
+Et je passe Philis si je ne vaux Astrée.  
+
+    ANGÉLIQUE.
+De soi-même, à mon gré, c'est faire assez de cas.  
+
+    HIRCAN.
+Pour parler autrement Charite a trop d'appas,  
+La louange est permise où la beauté préside.  
+
+    CHARITE.
+Qui n'en voudrait pas croire un si sage Druide ?  
+
+    CLARIMOND.
+Sur cette vérité je ne crois que mon coeur ;  
+Mais comme sans défauts montrez-vous sans rigueur,  
+Et daignez accorder à mon amour parfaite  
+La faveur d'un ruban pour orner ma houlette,  
+Celui-ci suffira.  
+Il lui veut prendre un noeud, et Charite lui arrête la main
+
+
+    ANGÉLIQUE.
+        Quoi, d'Arcadie exprès  
+Ce Berger vient en Brie honorer vos attraits,  
+Et vous le refusez ! Cette rigueur m'étonne.  
+
+    CHARITE, LUI DONNANT SON NOEUD.
+De quoi se peut-il plaindre ? Il demande, et je donne.  
+
+    CLARIMOND.
+Sans feinte ?  
+
+    CHARITE.
+        Oui, Philiris, et sans feinte et sans fard,  
+Pourvu que Clarimond n'y prenne point de part.  
+
+    CLARIMOND.
+Pourquoi cette réserve à mes voeux si contraire ?  
+Expliquez-vous, de grâce.  
+
+    CHARITE.
+        Il n'est pas nécessaire.  
+
+    CLARIMOND.
+Mais enfin...  
+
+    CHARITE.
+        C'est assez, Montenor vient à nous.  
+
+
+## SCÈNE III. Angélique, Montenor, Hircan, Clarimond, Charite.
+
+    HIRCAN, À MONTENOR.
+Et bien, gentil Berger ?  
+
+    MONTENOR, À ANGÉLIQUE.
+        Ma Soeur, songez à vous,  
+La Bergère Lisis vous vient rendre visite,  
+Lucide vous l'amène ; et vous, belle Charite,  
+Préparez-vous, de grâce, à la bien recevoir.  
+
+    CHARITE.
+Fiez-vous-en à moi, j'y ferai mon pouvoir.  
+Il se tient donc fort sûr de sa métamorphose ?  
+
+    MONTENOR.
+Sur le grand art d'Hircan son esprit se repose.  
+
+    ANGÉLIQUE.
+Nous en verrons l'effet, où l'avez-vous laissé ?  
+
+    MONTENOR.
+À trente pas d'ici je me suis avancé.  
+
+    HIRCAN.
+Je vais donc disposer ce qui nous reste à faire ;  
+Aussi bien ma retraite est ici nécessaire,  
+Et cet art qui chez moi m'a si bien réussi,  
+Lui deviendrait suspect s'il me trouvait ici.  
+C'est en Magicien qu'il faut que je m'y montre.  
+
+    ANGÉLIQUE.
+Par cette fausse porte évitez sa rencontre,  
+J'entends parler d'ici Lucide dans la cour.  
+Que ne doit point Charite à cet excès d'amour ?  
+
+    CHARITE.
+Mon nom sera fameux en fait de Bergerie.  
+
+    MONTENOR.
+Anselme ne sait rien de cette raillerie ?  
+
+    ANGÉLIQUE.
+Il en sera surpris plus agréablement ;  
+Mais de notre Bergère oyons le compliment,  
+La voici qui paraît.  
+
+    CHARITE.
+        Le plaisant personnage ?  
+
+    ANGÉLIQUE.
+Vous gâterez la pièce à rire davantage,  
+Que chacune se contraigne.  
+
+
+## SCÈNE IV. Angélique, Montenor, Clarimond, Lucide, Charite, Lisis déguisé en Bergère.
+
+    LUCIDE.
+        Ô Nymphe, à qui les Dieux  
+Font part de leurs secrets les plus mystérieux,  
+Vous en voyez la marque en cette infortunée  
+Dont à guérir les maux ils vous ont destinée ;  
+Ainsi l'assure Hircan, et j'ai pris le souci,  
+Suivant son ordre exprès, de l'amener ici.  
+
+    ANGÉLIQUE, EMBRASSANT LISIS.
+Venant d'un grand Druide, elle doit m'être chère.  
+
+    LISIS, AFFECTANT LA VOIX ET LA PUDEUR MODESTE D'UNE FILLE.
+Vous obligez beaucoup une pauvre Bergère,  
+Qui malgré ses malheurs croira son sort bien doux  
+S'il lui fait obtenir le bonheur d'être à vous.  
+C'est ce qu'elle demande.  
+
+    CHARITE.
+        Accordez sa requête,  
+À vivre parmi nous, ô Nymphe, elle s'apprête.  
+Si vous aimez notre heur, ne la refusez pas.  
+La charmante personne !  
+
+    ANGÉLIQUE.
+        Elle a beaucoup d'appas.  
+
+    CHARITE, À CLARIMOND.
+Quoi, vous n'en dites rien ?  
+
+    CLARIMOND.
+        Je sais ce que j'en pense,  
+Mais ce que je vous dois m'impose le silence.  
+
+    CHARITE.
+Non, non, que Philiris agisse en liberté,  
+Et qu'il rende justice à sa rare beauté ;  
+Ce grand amas d'attraits mérite son hommage.  
+Voyez le vif éclat qui part de ce visage,  
+Quels beaux yeux jamais captivèrent un coeur !  
+
+    LISIS.
+C'est trop, belle bergère, épargnez ma pudeur,  
+Ou vous allez bientôt vermillonner ma joue.  
+
+    ANGÉLIQUE.
+Si belle et si parfaite, il faut bien qu'on vous loue.  
+
+    LISIS, MONTRANT CHARITE.
+Bien loin de mériter un éloge pareil,  
+Je ne suis qu'une Étoile auprès de ce Soleil.  
+
+    LUCIDE.
+Peut-être seriez-vous plus vaine de vos charmes ;  
+Si leur possession vous coûtait moins de larmes.  
+
+    ANGÉLIQUE.
+Et quel triste sujet la peut réduire aux pleurs ?  
+
+    LISIS.
+Pour le savoir, ô Nymphe, apprenez mes malheurs.  
+Si l'Astre injurieux qui régit ma naissance  
+M'eût conservé toujours sa bénigne influence,  
+Je paraîtrais ici dans le superbe état  
+Que d'un illustre sang permet le noble éclat.  
+J'eus l'avantage heureux de naître Demoiselle,  
+Comme vous le voyez, raisonnablement belle,  
+Et telle qu'en effet dès mes plus jeunes ans  
+Je sus gagner le coeur de mille Courtisans.  
+Ô cruel souvenir qui ne sert qu'à ma peine !  
+On m'appelait partout la belle Célimène,  
+Et sous ce nom fameux causant de doux transports,  
+J'effaçai cent Beautés qui parurent alors ;  
+Mais la fière Atropos m'ayant ravi mon Père,  
+On m'a bientôt réduite à devenir Bergère,  
+Il m'a fallu céder à la force, et j'ai pris,  
+Pour plaire à mes Tyrans, le nom d'Amaryllis.  
+Chétive Amaryllis, que les malheurs en troupe...  
+Pardonnez aux sanglots dont ma voix s'entrecoupe,  
+Il faut que je m'arrête.  
+
+    CHARITE.
+        Ô le plaisant récit !  
+
+    LUCIDE, À CHARITE.
+Ils ont mon Frère et lui concerté ce qu'il dit.  
+
+    LISIS.
+Hélas cette beauté pour moi seule importune  
+A vu sans changement celui de ma fortune,  
+Et loin de me trahir dans ces habits nouveaux,  
+Du bruit de son éclat a rempli nos hameaux.  
+Chacun loue à l'envi la nouvelle Bergère,  
+Chacun cherche à me voir, chacun cherche à me plaire,  
+Heureuse jusqu'ici, mais las ! De voix en voix  
+Ce bruit a fait sortir trois Satyres des bois,  
+Qui presque tous les jours font retentir nos rives  
+De l'infâme récit de leurs amours lascives.  
+Oui, de ma chasteté voulant venir à bout,  
+Pour user de la force ils m'attendent partout,  
+Et même hier au soir allant vers la fontaine,  
+J'étais dans leurs filets sans le berger Filène.  
+Sur un tel attentat je me jette à vos pieds,  
+Les Nymphes peuvent tout sur ces laids chèvre-pieds,  
+Purgez nos bois sacrés de cette indigne race,  
+Ils ne font leur métier que de mauvaise grâce,   [33]
+Tout leur fait n'est qu'injure et qu'immondicité,  
+Sauvez-en la candeur de ma virginité ;  
+Une, deux, et trois fois, c'est à quoi je m'arrache,  
+Purgez-moi du Satyre, et je serai sans tache.  
+
+    ANGÉLIQUE.
+Votre sort est fâcheux, mais non pas déploré,  
+Puisque vous rencontrez un asile assuré,  
+Et que dans ce Palais la plus haute insolence  
+N'oserait attenter sur votre continence.  
+Vous y vivrez sans trouble, et Charite aura soin  
+Des divertissements dont vous aurez besoin.  
+Vous l'accepterez bien pour compagne fidèle.  
+
+    LISIS.
+Son affabilité parle si haut pour elle,  
+Que loin d'y répugner, je ferai mes efforts  
+À la suivre partout comme l'ombre le corps ;  
+Et de jour et de nuit, si j'ai l'heur de lui plaire...  
+
+    CHARITE.
+En pouvez-vous douter, belle et chaste Bergère ?  
+Dans quel transport mes sens sont-ils ensevelis  
+De me voir posséder le coeur d'Amaryllis !  
+Ce modèle éclatant de la beauté suprême,  
+Cet Astre...  
+
+    LISIS.
+        Ah, réservez ces titres pour vous-mêmes ;  
+Si quelque éclat en moi semble ici radieux,  
+C'est par réflexion du Soleil de vos yeux.  
+
+    CLARIMOND, À LISIS.
+Enfin par ces douceurs, si ce discours ne cesse,  
+Vous me déroberez le coeur de ma Maîtresse.  
+Bergère, c'est assez.  
+
+    CHARITE.
+        Soyez chagrin, jaloux,  
+Amaryllis m'aimant, je me moque de vous.  
+
+    CLARIMOND.
+Si vous me négligez, gardez que je ne change.  
+
+    CHARITE.
+Je perdrais un Mortel pour posséder un Ange.  
+
+    CLARIMOND.
+Quoi, de ma servitude on fait si peu d'état ?  
+
+    ANGÉLIQUE.
+Polidor vient à nous, finissez ce débat.  
+
+
+## SCÈNE V. Angélique, Anselme, Montenor, Clarimond, Lucide, Charite, Lisis.
+
+    ANGÉLIQUE.
+Nous nous plaignions, Berger, de votre longue absence.  
+
+    ANSELME.
+J'en tiens la plainte à gloire, et si je me dispense...  
+Mais, ô Dieux !  
+
+    ANGÉLIQUE.
+        Quoi, Berger, vous semblez interdit !  
+Quel trouble tout à coup vous agite l'esprit ?  
+
+    ANSELME.
+Un éclat imprévu m'ayant frappé la vue,  
+J'en ai les sens charmés, et l'âme toute émue.  
+Quelle est cette Bergère ?  
+
+    MONTENOR.
+        Et quoi, vous ignorez  
+Les bonheurs qui nous sont désormais préparés,  
+Et que pour embrasser le soin des pâturages  
+La belle Amaryllis a choisi nos rivages ?  
+
+    ANSELME, À LISIS.
+Rivages glorieux ! Oui, coulez-y vos jours,  
+Le Printemps pour vous plaire y règnera toujours,  
+Mille nouvelles fleurs naîtront dans la campagne.  
+
+    LISIS.
+Excusez-moi, Berger, je parle à ma Compagne,  
+Je ne vous réponds rien n'ayant rien entendu.  
+
+    ANGÉLIQUE, À ANSELME.
+Enfin, sachons pourquoi nous vous avons perdu,  
+Et quel soin si longtemps vous a fait disparaître.  
+
+    ANSELME.
+Pour le pauvre Lisis j'ai craint ce qui peut être,  
+Et qu'après votre arrêt un désespoir fatal  
+N'achevât par sa mort le bonheur d'un Rival.  
+Ainsi pour l'empêcher de se perdre lui-même,  
+J'ai parcouru nos bois avec un soin extrême,  
+Mais sans en rien apprendre, et pour moi je crains fort  
+Que dans les eaux de Marne il n'ait fini son sort.  
+
+    CHARITE.
+Oui, Céladon jadis, après moins d'injustice,  
+Dans les flots de Lignon chercha son précipice,  
+Sans doute il ne vit plus. Ah, criminels appas !  
+
+    ANGÉLIQUE.
+C'est aller un peu vite à croire son trépas.  
+
+    CHARITE.
+Une secrète horreur qui saisit mon courage  
+D'un si triste accident m'est un trop sûr présage,  
+Il a péri dans l'onde ? Ah, destins ennemis !  
+
+    ANGÉLIQUE.
+Non, la bonté des Dieux ne peut l'avoir permis.  
+
+    LISIS.
+Ils en auront soin, croyez, croyez, Bergère,  
+Qu'il aura rencontré le secours nécessaire,  
+Et que par quelque Nymphe il vous sera rendu.  
+
+    CHARITE.
+Ah, ma chère Compagne, hélas ! J'ai tout perdu.  
+Il méritait sans doute une fin moins cruelle,  
+Car de tous nos Bergers c'était le plus fidèle.  
+
+    LISIS.
+Jusque dans nos hameaux son nom s'était porté,  
+Où chacun le prisait pour sa fidélité.  
+
+    CHARITE.
+Ah, chère Amaryllis, l'eussiez-vous pu connaître,  
+Le plus parfait Berger que le Ciel ait naître !  
+Son extrême douceur, sa grâce, son maintien  
+Vous auraient obligée à lui vouloir du bien,  
+Il gagnait tous les coeurs.  
+
+    CLARIMOND.
+        Consolez-vous, de grâce.  
+Vous perdez un Amant dont je remplis la place,  
+L'hommage que je rends à vos divins attraits...  
+
+    CHARITE.
+Va, Berger odieux, ne me parle jamais,  
+Tu fais tout mon malheur ; ton départ d'Arcadie  
+Me prive de repos, et mon Berger de vie.  
+Dans ces flots ennemis de ma félicité  
+C'est toi, c'est ton amour qui l'a précipité.  
+
+    CLARIMOND.
+Modère ce transport.  
+
+    CHARITE.
+        Veux-tu qu'il se modère ?  
+Dérobe ta présence à me juste colère.  
+
+    CLARIMOND.
+Toujours tant de rigueur ?  
+
+    CHARITE.
+        Le dessein en est pris.  
+
+    CLARIMOND.
+C'est trop, c'est trop souffrir un injuste mépris.  
+Jusqu'ici par respect, Bergère trop ingrate,  
+J'avais contraint mon feu, mais il faut qu'il éclate,  
+Et que j'avoue enfin, bravant votre courroux,  
+Que j'ai le coeur sensible, et des yeux comme vous.  
+Il continue s'adressant à Lisis.
+
+Oui, belle Amaryllis, la douceur de vos charmes  
+Me force avec plaisir à vous rendre les armes,  
+Je romps mes premiers fers pour suivre votre loi.  
+Quoi, vous baissez les yeux ! Au moins répondez-moi,  
+Donnez quelque espérance à mon âme amoureuse.  
+
+    LISIS.
+Oyant parler d'amour, une Fille est honteuse ;  
+Agréez mon silence, ou changez de propos.  
+
+    CLARIMOND.
+Ô merveille, ô beauté fatale à mon repos !  
+Qu'un baiser obtenu sur ces lèvres de rose  
+Soulagerait les maux que ce bel oeil me cause !  
+
+    LISIS.
+Pour règle en vos projets prenez l'honnêteté ;  
+Vous faites un outrage à ma pudicité,  
+Je dois me conserver plus chaste que Diane.  
+
+    CLARIMOND.
+Un baiser est permis, quel pouvoir le condamne ?  
+
+    LISIS.
+Oui, ma Compagne et moi nous pourrions nous baiser,  
+Sans que d'incontinence on pût nous accuser,  
+Cette marque d'amour entre nous est permise ;  
+Mais baiser un Berger, quel pouvoir l'autorise ?  
+
+    CLARIMOND, FEIGNANT DE LUI VOULOIR BAISER LA MAIN.
+Qu'au moins n'ayant pour vous que de chastes desseins,  
+Je puisse le jurer baisant ces belles mains.  
+
+    LISIS.
+Profane, arrête-toi, ta faute est sans égale,  
+Tu ne me dois toucher non plus qu'une vestale.  
+
+    ANGÉLIQUE, À CLARIMOND.
+Vous perdez le respect.  
+
+    CLARIMOND.
+        Je le perds en effet,  
+Mais quand on meurt d'amour, sait-on bien ce qu'on fait ?  
+
+    ANGÉLIQUE.
+Vous devez... mais, ô Dieux, que mon âme est confuse !  
+Vois-je entrer un Satyre, ou si mon oeil s'abuse ?  
+
+
+## SCÈNE VI. Angélique, Anselme, Montenor, Clarimond, Lucide, Charite, Lisis, Trois des Gens de Montenor, déguisés en Satyres.
+
+    SATYRE.
+Ne vous étonnez point, Nymphe, si cette fois,  
+Pour hanter vos Palais, nous sortons de nos bois.   [34]
+Amis de Tautatès, demi-Dieux de nature,  
+Nous avons su bientôt qu'on nous faisait injure,  
+Et nous venons ici dans un juste courroux  
+Vous demander justice et pour vous, et pour nous.  
+
+    ANGÉLIQUE.
+Contre qui que ce soit je saurai vous la rendre.  
+
+    SATYRE.
+Des traits d'Amaryllis nous voulons vous défendre.  
+
+    LISIS. [35]
+De mes traits ! Que dis-tu, sale et vilain bouquin ?  
+
+    ANGÉLIQUE.
+Sans injure, de grâce, oyons jusqu'à la fin.  
+
+    SATYRE.
+Sur le rapport trompeur de cette âme infidèle  
+Vous croyez qu'elle soit aussi chaste que belle,  
+Et que ce grand flambeau dont nous vient la clarté  
+S'il a plus d'éclat qu'elle, a moins de pureté ?  
+Cependant apprenez que son incontinence  
+Avec le grand Dieu Pan s'est passé en silence,  
+Et que respect nous l'a fait endurer,  
+Sans nous porter jamais à la déshonorer ;  
+Mais que par trop de vice ayant su lui déplaire,   [36]
+Avec le dieu Sylvain surprise en adultère,   [37]
+Surprise avec un Faune en malversation,  
+Elle arme contre nous votre indignation,  
+Surprenne votre esprit par un lâche artifice,  
+C'est de quoi nous venons vous demander justice.  
+
+    ANGÉLIQUE, À LISIS.
+Bergère, répondez.  
+
+    LISIS.
+        Le coeur m'en a saigné.   [38]
+Moi, que j'eusse forfait ! Que j'eusse forligné !  
+C'est un trait que l'envie à ma vertu suscite,  
+Et c'est Phèdre en fureur qui veut perdre Hippolyte.  
+
+    ANGÉLIQUE.
+Mais quoi, l'on vous accuse, et criminelle ou non,  
+Il faut pour mon honneur vous purger du soupçon  
+
+    LISIS.
+Ô claire chasteté ! Chasteté cristalline !  
+C'est à ce coup, hélas ! qu'on jure ta ruine.  
+
+    SATYRE.
+Jamais d'un pareil crime on ne fait désaveu  
+Qu'on ne s'offre sur l'heure à l'épreuve du feu.  
+Ô Nymphe, vous savez les lois de la Contrée,  
+Vous savez à quoi sert la platine sacrée.  
+Qu'elle la touche ardente, et nous verrons alors  
+Si ce feu chaste et pur épargnera son corps.  
+
+    CHARITE.
+Barbare que dis-tu ?  
+
+    CLARIMOND.
+        Chère âme de mon âme,  
+Divine Amaryllis, t'exposer à la flamme !  
+
+    LISIS, À CHARITE.
+Laisse-moi dissiper leurs soupçons imprudents,  
+Chaste, je puis marcher sur des charbons ardents.  
+
+    ANGÉLIQUE.
+Cette vieille coutume, encor que rigoureuse,  
+Jamais à l'opprimé ne fut injurieuse ;  
+S'il nous accuse à tort, la flamme en fera foi.  
+
+    CLARIMOND.
+Que j'eusse du respect pour cette injuste loi !  
+Non, non, Amaryllis faussement poursuivie  
+N'y sera point sujette, ou je perdrai la vie.  
+Sus, qui l'ose accuser ?  
+
+    ANGÉLIQUE.
+        Berger audacieux,  
+Tu te vas attirer la colère des Dieux.  
+
+    CLARIMOND.
+En l'état où je suis-je crains peu leur colère,  
+Mes Dieux sont mon amour, mes Dieux sont ma bergère,  
+Et plutôt qu'à la perdre on me puisse obliger...  
+
+    ANGÉLIQUE.
+Qu'on l'ôte de mes yeux cet insolent berger.  
+Satyres, à la force.  
+Pendant que les Satyres mettent Clarimond hors du théâtre, on entend un bruit de tonnerre, et l'on voit des éclairs qui l'accompagnent.
+
+
+    LISIS.
+        Ô terre, ô Ciel, vengeance.  
+On opprime celui qui défend l'innocence.  
+Ah, Fille infortunée, on en veut à tes jours.  
+Au secours, sage Hircan, sage Hircan, au secours.  
+
+    ANGÉLIQUE.
+Quel éclat de tonnerre !  
+
+    CHARITE.
+        Où sera mon asile ?  
+
+    LISIS.
+Ah, moi-même de peur j'en suis toute immobile.  
+Tout le monde fuit, et Hircan paraît dans un char volant au milieu de l'air.
+
+
+
+## SCÈNE VII. Hircan, Lisis.
+
+    HIRCAN, DANS SON CHAR.
+Je sème l'horreur en ces lieux  
+Pour rompre les périls où le Destin t'expose.  
+Amaryllis, lève les yeux,  
+Et reconnaît l'auteur de ta métamorphose.  
+Voyant qu'on menace tes jours,  
+J'ai pris mon char volant, et viens à ton secours.  
+Vois de tes ennemis l'insolence arrêtée,  
+Vois comme ils ont fui mon abord,  
+Et comme leur fureur domptée  
+A fait céder leur haine aux frayeurs de la mort.  
+
+    LISIS.
+Ah, de grâce, daignez, illustre et savant Mage,  
+M'affranchir d'une épreuve où la force m'engage.  
+
+    HIRCAN.
+Je la sais, mais enfin la force importait peu,  
+Amaryllis est chaste, elle eût bravé le feu.  
+
+    LISIS.
+Oui, comme Amaryllis j'eusse bravé la flamme,  
+Mais ayant consulté le secret de mon âme,  
+J'ai craint que par le feu vos charmes affaiblis,  
+Lisis ne fût en moi plus fort qu'Amaryllis.  
+
+    HIRCAN? FAISANT DESCENDRE SON CHAR JUSQUE SUR LE THÉÂTRE.
+Cesse de craindre, et viens par le milieu des nues  
+Traverser dans mon char cent routes inconnues.  
+
+    LISIS.
+Ce chemin est-il sûr ?  
+
+    HIRCAN.
+        Oui, mais il sera mieux  
+Que par précaution tu te bandes les yeux.  
+
+    LISIS, MONTANT DANS LE CHAR D'HIRCAN.
+J'obéis avec joie au plus sage Druide  
+Dont aux décrets du Sort la volonté préside.  
+
+    HIRCAN.
+Il est temps de partir, sus, prends courage, et crois  
+Qu'il n'est point de périls qu'on n'affronte avec moi.  
+
+
+# ACTE IV
+
+
+## SCÈNE PREMIÈRE. Hircan, Anselme.
+
+    HIRCAN.
+Oui, ses yeux trahissant les secrets de son âme,  
+Déjà plus d'une fois m'ont parlé de sa flamme,  
+Et j'ai trop remarqué qu'à devenir Berger  
+L'amour seul de Lucide avait su l'engager.  
+Ainsi dès le moment que j'en eus connaissance  
+J'autorisai ses feux en souffrant leur naissance.  
+Ainsi sans injustice il ne m'est plus permis  
+D'oublier un aveu secrètement promis.  
+Montenor vaut beaucoup, mais malgré son mérite,  
+L'intérêt de ma Soeur encor me sollicite,  
+Je suis Frère, et je dois le faire souvenir,  
+Qu'à moins qu'elle se donne, il ne peut l'obtenir.  
+
+    ANSELME.
+Ah, ne présumez pas que son amour extrême  
+Voulût pour l'acquérir employer que lui-même,  
+Et qu'en cette conquête il s'osât prévaloir  
+De l'empire inhumain d'un rigoureux devoir ;  
+Mais enfin, quoi qu'il fasse, il a besoin d'un Frère,  
+Pour forcer ce devoir qui s'obstine à se taire,  
+Et qui sans votre aveu ne souffre qu'à regret  
+Qu'un soupir échappé découvre son secret.  
+
+    HIRCAN.
+Si cet obstacle seul à son bonheur s'oppose,  
+Il doit louer l'effet d'une si belle cause ;  
+Mais je vais donner ordre à le faire cesser.  
+
+    ANSELME.
+Pour mon propre intérêt j'ose vous en presser.  
+Puisqu'il faut qu'avec vous ma passion s'explique,  
+Je vis bien moins en moi qu'en la belle Angélique,  
+Je l'adore, et son Frère est propice à mes voeux ;  
+Mais pour les couronner il faut qu'il soit heureux,  
+Et que sa passion d'un doux effet suivie  
+Lui permette de voir mon bonheur sans envie.  
+
+    HIRCAN.
+Il le verra sans doute, et son esprit content  
+Fera le beau succès que votre amour attend.  
+Aussi bien il est temps que notre Bergerie  
+Fasse place aux douceurs de la galanterie ;  
+C'est trop jouer Lisis, et trop entretenir  
+Une erreur qui sans nous eût pu déjà finir.  
+
+    ANSELME.
+De cette guérison votre art est incapable.  
+
+    HIRCAN.
+C'est toutefois par là que je le sens traitable,  
+Tant que de chez la Nymphe il soutient sur ma foi  
+Que dans un char volant je l'ai mené chez moi.  
+
+    ANSELME.
+Là, plus d'Amaryllis ?  
+
+    HIRCAN.
+        Avec un feint mystère  
+J'ai rempli la Magie, et détruit la Bergère ;  
+Puis d'un charme secret l'infaillible pouvoir  
+A dû forcer la Nymphe à le bien recevoir.  
+Vous en savez l'accueil ; vous savez quelle adresse  
+Pendant tout l'entretien a fait voir sa Maîtresse,  
+Qui sur sa fausse mort l'obligeant de parler,  
+A donné beau prétexte à ses contes en l'air.  
+
+    ANSELME.
+Il en est fort fécond.  
+
+    HIRCAN.
+        C'est toute son étude ;  
+Mais comme je soupire après ma solitude,  
+Charite qu'en ce parc j'aperçois arriver  
+Est un obstacle à fuir pour qui cherche à rêver.  
+Adieu.  
+
+    ANSELME.
+        Que son humeur est sombre et solitaire !  
+
+
+## SCÈNE II. Anselme, Charite, Lucide.
+
+    ANSELME.
+Quoi, vous voir sans Lisis, gracieuse Bergère ?  
+
+    CHARITE.
+Dans la salle à loisir la Nymphe l'entretient,  
+Ou malgré son amour le respect le retient.  
+Mais qui fait fuir Hircan ? D'où vient qu'il nous évite ?  
+
+    ANSELME.
+C'est sans doute un outrage aux beautés de Charite.  
+
+    CHARITE.
+Je m'en consolerais s'il était sans témoins.  
+
+    LUCIDE.
+Enfin la solitude occupe tous ses soins,  
+Et son esprit rêveur souffre une peine extrême  
+De tous les passe-temps qui sont hors de lui-même.  
+
+    ANSELME, À LUCIDE.
+Vous n'en trouverez pas au doux consentement  
+Qu'il donne sans réserve au bonheur d'un Amant.  
+Montenor...  
+
+    LUCIDE, À CHARITE.
+        Admirez, ma Soeur, cette étendue  
+Qui fournit un aspect si plaisant à la vue.  
+
+    CHARITE.
+Mais, ma Soeur, ce discours un peu mystérieux  
+Porte-t-il votre esprit où se porte vos yeux ?  
+Quoi ; vous en rougissez ?  
+
+    LUCIDE.
+    Mauvaise.  
+
+    CHARITE.
+        Je pardonne  
+Au désordre secret où ce coeur s'abandonne.  
+À Anselme.
+
+Enfin ?  
+
+    LUCIDE.
+        Et vous croyez ce qu'un causeur vous dit ?  
+
+    ANSELME.
+Non, non, à mon rapport refusez tout crédit.  
+Adieu, je vais chercher qui dans cette occurrence  
+Pour vous persuader aura plus d'éloquence ;  
+Au moins suis-je assuré, sur un aveu si doux,  
+Que Montenor saura m'écouter mieux que vous.  
+
+
+## SCÈNE III. Charite, Lucide.
+
+    CHARITE.
+Ma Soeur, c'est tout de bon, il part sans plus rien dire.  
+
+    LUCIDE.
+Je souffre tout de vous qui ne cherchez qu'à rire.  
+
+    CHARITE. [39]
+Oui, mais enfin parlons sans nous équivoquer.  
+Le rappellerons-nous pour le faire expliquer ?  
+
+    LUCIDE.
+Moi, par quel sentiment souhaiter qu'il s'explique ?  
+
+    CHARITE.
+Ô la triste vertu dont votre esprit se pique !  
+Montenor ne vous montre, aux devoirs qu'il vous rend,  
+Que l'ordinaire effet d'un zèle indifférent ?  
+
+    LUCIDE.
+Si j'en crois ses soupirs, je règne dans son âme.  
+
+    CHARITE.
+Et votre coeur sans doute est ingrat à sa flamme ?  
+
+    LUCIDE.
+De quoi me servirait de flatter son espoir ?  
+Peut-il ne savoir pas ce que je dois vouloir ?  
+S'il possède mon Frère, a-t-il besoin du reste ?  
+
+    CHARITE.
+Certes, pour notre temps la réponse est modeste,  
+Elle est digne de vous, moi-même j'en fais cas ;  
+Mais entre nous, ma Soeur, mettons le masque bas.  
+Confessez avec moi que notre esprit sans peine  
+Souffre qu'on le conduise où son désir le mène,  
+Et que pour obéir on se fait peu d'effort  
+Quand avecque l'amour le devoir est d'accord ;  
+Mais lorsque cet amour qui règne avec empire  
+Trouve dans ce devoir ce qui le veut détruire,  
+Il nous guérit bientôt de cette vieille erreur  
+Qui nous prive du droit de donner notre coeur.  
+Non, non, si Montenor n'avait pas su vous plaire,  
+Le vôtre sur ce choix ne croirait pas un Frère,  
+Et vos feux pour durer auraient un faible appui  
+S'ils n'étaient allumés que par l'ordre d'autrui.  
+
+    LUCIDE.
+Vous savez m'attaquer avecque tant d'adresse  
+Qu'enfin vous me forcez d'avouer ma faiblesse.  
+Oui, je l'aime, et mon coeur d'amour préoccupé  
+Souffre...  
+
+    CHARITE.
+        Ô le grand secret qui vous est échappé !  
+Et quoi, l'amour doit-il, dans le siècle où nous sommes,  
+Être pour nous faiblesse, et vertu pour les hommes ?  
+Pourquoi rougir d'un feu qui n'a rien à blâmer ?  
+Manquons-nous d'yeux pour voir, ou de coeur pour aimer ?  
+Je sais qu'un vieux respect que la pudeur embrasse  
+Veut qu'au seul nom d'amour nous fassions la grimace,  
+Et que lorsqu'un Amant prétend vous en conter,  
+Nous criions à la force avant que d'écouter ;  
+Mais quoi qu'à ses douceurs nous imposions silence,  
+Nous ne cherchons rien moins que de l'obéissance,  
+Et vous me l'avouerez, il ferait mal sa Cour,  
+Si pour parler Gazette il supprimait l'amour.  
+Ces obligeants refus d'en ouïr le langage  
+Ne vont qu'à l'inviter d'en dire davantage,  
+Nous voulons qu'on nous aime, et même assez souvent  
+Par des pièges secrets nous courons au-devant.  
+
+    LUCIDE.
+Dieux, que vous en savez !  
+
+    CHARITE.
+        Pas plus que vous peut-être,  
+Mais vos désirs contents me le font moins paraître.  
+Cependant puisque Amour s'apprête à les borner,  
+Je veux cueillir des fleurs pour vous en couronner.  
+
+    LUCIDE.
+Si l'amour vous oblige à faire une couronne,  
+C'est à Clarimond seul par vos mains qu'il la donne,  
+Voyez que plein de joie il la vient recevoir.  
+
+    CHARITE.
+Et Lucide en amour devait ne rien savoir ?  
+
+    LUCIDE, S'EN ALLANT.
+Je n'y sais rien aussi que la règle commune,  
+Que deux Amants ensemble, un tiers les importune.  
+
+
+## SCÈNE I.. Clarimond, Charite.
+
+    CLARIMOND, ABORDANT CHARITE ET SOURIANT.
+C'est elle, je la vois qui fait amas de fleurs  
+Dans ce pré, tant de fois arrosé de mes pleurs.  
+
+    CHARITE.
+L'abord est pastoral ; mais, ô nouveau Filène,  
+Ayant droit d'y répondre en Silvie inhumaine,  
+Gardez...  
+
+    CLARIMOND.
+        Ah, que de vous ces vers soient écoutés  
+Sans songer à celui qui me les a prêtés ;  
+Il fut trop malheureux, et quant à moi, j'espère  
+Qu'enfin je toucherai le coeur de ma Bergère.  
+
+    CHARITE.
+Il n'est pas de rocher, et vos soins assidus  
+Méritent son estime, et peut-être un peu plus ;  
+Mais jusqu'où puisse aller l'ardeur qui nous domine,  
+Nous voulons quelque fois qu'un Amant la devine,  
+Qu'il force notre coeur, et que ses feux discrets  
+Dans un regard surpris en lisent les secrets.  
+
+    CLARIMOND.
+Trop heureux Clarimond, que pourrais-tu prétendre...  
+
+    CHARITE.
+Ah, ne nous brouillons point faute de nous entendre,  
+Et si votre franchise à la mienne répond,  
+Séparons Philiris d'avecque Clarimond.  
+
+    CLARIMOND.
+Quelle façon d'agir est égale à la vôtre,  
+De rendre l'un heureux sans favoriser l'autre ?  
+
+    CHARITE.
+La raison qui m'y porte est facile à juger,  
+L'un est homme de Cour, l'autre, simple cerger.  
+Pour moi, si leur défense aujourd'hui m'est permise,  
+J'ai toujours des bergers estimé la franchise.   [40]
+Ce dehors captieux de soupirs mendiés,  
+Ces regards languissants si bien étudiés,  
+Ces affectations d'un esprit qui s'égare,  
+Ne sont point les couleurs dont leur amour se pare.  
+D'un air vraiment sincère ils savent l'exprimer,  
+Ils aiment en effet quand ils jurent d'aimer,  
+Et dans le doux transport d'une flamme innocente  
+Ils ne promettent rien que le coeur n'y consente.  
+Ainsi quand Philiris m'assure obligeamment  
+Que sur son coeur épris je règne absolument,  
+Sans craindre qu'à la fourbe un tel aveu m'expose,  
+Je ne lui cèle point que j'en crois quelque chose,  
+Mais loin de me résoudre à flatter son souci ;  
+Si c'était Clarimond qui me parlât ainsi,  
+Avec plus de réserve et plus de retenue...  
+
+    CLARIMOND.
+Ah, ne poursuivez point un discours qui me tue,  
+Et puisque de sa foi sa franchise répond,  
+Souffrez que Philiris parle pour Clarimond,  
+Clarimond, qui tiendrait sa passion secrète,  
+Si Philiris n'osait en être l'interprète.  
+Sous ce nom emprunté dont son amour se sert  
+Il vous ouvre son âme, il parle à coeur ouvert,  
+Et sa sincère ardeur allant jusqu'à l'extrême,  
+Il vous aime en effet quand il dit qu'il vous aime.  
+
+    CHARITE.
+Ce serait mal répondre à ce que je me dois  
+Qu'en vouloir croire Clarimond sur sa foi.  
+Non, non, pour son honneur, il est bon qu'il me jure  
+Que rien n'est comparable aux tourments qu'il endure,  
+Mais tout ce que je puis sans engager le mien,  
+C'est d'en souffrir la plainte, et de n'en croire rien.  
+
+    CLARIMOND.
+Quoi, vous pourriez douter d'un feu si véritable ?  
+
+    CHARITE.
+Pour vouloir qu'il le soit je suis trop équitable,  
+Car enfin, Clarimond, je sais trop qu'à la Cour  
+C'est vertu que bien feindre en matière d'amour,  
+Que c'est être galant qu'en conter à chacune,  
+S'attacher à la blonde aussi bien qu'à la brune,  
+Et sans souffrir jamais de borne à ses désirs,  
+Selon l'occasion ménager ses soupirs.  
+
+    CLARIMOND.
+Ah, cessez d'outrager la plus sincère flamme  
+Qu'un pur amour jamais alluma dans une âme.  
+Moi, qu'insensible aux traits d'une fidèle ardeur  
+À chaque occasion je partage mon coeur !  
+Que ce coeur en tous lieux pour chaque objet soupire ?  
+
+    CHARITE.
+Il n'est rien plus aisé du moins que de le dire,  
+Et de flatter ainsi la sotte vanité  
+Qu'aime à nourrir en nous trop de crédulité.  
+
+    CLARIMOND.
+Persister si longtemps dans ces vaines alarmes,  
+C'est trop vous défier du pouvoir de vos charmes.  
+Il est vrai que pour plaire à cent objets divers  
+On peut feindre des maux qu'on n'a jamais soufferts,  
+Qu'il est aisé partout de dire, je vous aime,  
+Mais sachez qu'avec vous il n'en est pas de même.  
+Et qu'il est impossible, en voyant vos appas,  
+De dire, je vous aime, et ne vous aimer pas.  
+
+    CHARITE.
+Et c'est ce qu'aujourd'hui vous voulez que je croie ?  
+Mais voici notre fou.  
+
+    CLARIMOND.
+        Quel obstacle à ma joie !  
+
+    CHARITE.
+Pour le punir du mal qu'il semble vous causer,  
+En feignant de dormir, je le veux abuser.  
+Adieu, laissez-moi seule, aussi bien il me semble  
+Qu'il n'est pas à propos qu'il nous surprenne ensemble.  
+
+    CLARIMOND.
+Mais...  
+
+    CHARITE.
+        Laissez-moi, vous dis-je, ou je romps avec vous.  
+Elle se couche sur des gazons, et feint de dormir.
+
+
+    CLARIMOND.
+Faut-il qu'un fou survienne en des moments si doux ?  
+Mais pour plaire à Charite évitons sa présence,  
+Et laissons-la jouir de son extravagance.  
+
+
+## SCÈNE V. Lisis, Charite.
+
+    LISIS.
+Beaux lieux, où mon Soleil sous un feuillage épais,  
+Après m'avoir brûlé, vient prendre un peu de frais,  
+Quoi qu'en être éclairés vous soit grand avantage,  
+Permettez qu'avec vous un Berger le partage.  
+Ne cachez plus Charite au plus ardent transport...  
+Mais, ô Dieux, me trompai-je, ou la vois-je qui dort ?  
+C'est elle, ah, quel bonheur ! Chers Zéphyrs, bouche close,  
+Soufflez sans faire bruit, ma Déesse repose.  
+Avançons à pas lents de peur de l'éveiller.  
+Arbres, pour un moment cessez de babiller,  
+Ruisseaux, ne courez point, et vous, sottes abeilles,  
+Qui venez bourdonner autour de ses oreilles,  
+Fuyez sans rien prétendre aux roses que je vois,  
+Ma Bergère aujourd'hui n'a des fleurs que pour moi.  
+Il se met à genoux devant elle.
+
+Que Morphée est heureux, ô beauté sans seconde,  
+D'avoir pour son Palais les plus beaux yeux du monde !  
+Qu'il savoure un nectar délicieux et doux,  
+Et que de son bonheur ton Berger est jaloux !  
+Ah, s'il m'était permis... mais, ô Mouche insolente,  
+Qui viens sur ce beau nez faire la présidente,  
+Tu sauras ce que c'est...  
+En voulant chasser la mouche il lui donne un coup sur le visage, dont elle feint d'avoir été éveillée.
+
+
+    CHARITE.
+        Ah, Dieux, quel traitement !  
+Que ne m'éveillez-vous un peu plus doucement ?  
+
+    LISIS.
+Ah, pardonne à ma flamme un acte de justice,  
+Elle a cru te devoir un pareil sacrifice.  
+
+    CHARITE.
+Que par ce rude coup vous m'avez fait souffrir !  
+
+    LISIS.
+Amour fait peu de maux qu'il ne sache guérir,  
+Mais comme de douleur tu te sens attaquée,  
+Ce maudit moucheron pourrait t'avoir piquée.  
+Tu sais jadis qu'Eudoxe...  
+
+    CHARITE.
+        Elle en usa fort bien,  
+Mais si ce fut son mal, ce n'est pas là le mien.  
+
+    LISIS, SE PENCHANT VERS ELLE.
+Ah, du moins par pitié...  
+
+    CHARITE, LE REPOUSSANT.
+    Quoi, Berger ?  
+
+    LISIS.
+        Quoi, mauvaise,  
+Tu permets tous les jours que le Soleil te baise,  
+Et tu ne peux souffrir que mon coeur amoureux  
+Cherche auprès de ta neige à rafraîchir ses feux.  
+
+    CHARITE.
+Le pitoyable état où votre coeur se trouve ?  
+
+    LISIS, LUI BAISANT LA MAIN.
+Ah, je veux que ta main de lait caillé l'éprouve.  
+
+    CHARITE.
+Ô Dieux !  
+
+    LISIS.
+        D'un pareil vol daigne absoudre un Amant.  
+Je sais que tout Berger doit aimer chastement,  
+Mais une âme au transport quelquefois s'abandonne,  
+Et de son naturel la nature est friponne.  
+
+    CHARITE.
+Ah, que l'impure ardeur dont je vous trouve épris  
+Me force à regretter ma chère Amaryllis !  
+
+    LISIS.
+Amaryllis ?  
+
+    CHARITE.
+    Hélas !  
+
+    LISIS.
+    Tu l'aimais ?  
+
+    CHARITE.
+        Et je l'aime,  
+Toute absente qu'elle est, encor plus que moi-même,  
+Que ne la puis-je voir ?  
+
+    LISIS.
+        Il te serait aisé  
+Ôtant ce qui la cache à ton oeil abusé.  
+Vois-la, vois ton Berger.  
+
+    CHARITE.
+        Que me voulez-vous dire ?  
+
+    LISIS.
+Que ce n'est qu'en moi seul qu'Amaryllis respire,  
+Et qu'un excès d'amour que l'on n'eût pu prévoir,  
+M'a fait changer de sexe afin de t'aller voir.  
+
+    CHARITE.
+Vous en auriez changé pour forcer les obstacles...  
+
+    LISIS.
+C'est peu de chose, Amour fait bien d'autres miracles.  
+
+    CHARITE.
+Quoi, c'est vous en effet qui d'un air gracieux  
+Sous l'habit d'une fille avez trompé nos yeux ?  
+Vous, que le Mage Hircan a soustrait à la flamme ?  
+
+    LISIS.
+Oui, c'est moi, c'est Lisis, lumière de mon âme.  
+Que d'un si rare effort tu dois faire de cas !  
+
+    CHARITE.
+Va, coupable Berger, va, ne m'approche pas.  
+Après une action si honteuse et si noire...  
+
+    LISIS.
+Ah, tu veux m'éprouver.  
+
+    CHARITE.
+        Non, cesse de le croire.  
+Je déteste un Berger dont les folles amours  
+Osent de la Magie emprunter le secours,  
+Les Dieux me vengeront de tes sanglants outrages.  
+Cependant fuis d'ici, fuis loin de nos rivages,  
+Et noirci lâchement du plus grand des forfaits,  
+À mes yeux irrités ne te montre jamais.  
+C'est là mon dernier ordre.  
+Elle s'en va.
+
+
+    LISIS. [41]
+        Ah, Beauté Lestrigonne,  
+Plus fière qu'un aspic, et plus qu'une dragonne !  
+Viens saouler, si ma mort suffit à ton courroux,  
+Tes sarcophages yeux d'un spectacle si doux.  
+
+
+## SCÈNE VI. Montenor, Lisis.
+
+    MONTENOR.
+De quoi se plaint Lisis ?  
+
+    LISIS.
+        Ah, Berger, tremble, tremble,  
+Tous les Dieux contre nous se vont liguer ensemble.  
+Tu vas voir le Soleil pour jamais se coucher,  
+Les forêts prendre en feu, les rivières sécher,  
+Les prés perdre leurs fleurs, la Nymphe Écho se taire,  
+Enfin tout est perdu, Charite est en colère.  
+
+    MONTENOR.
+Ô Dieux !  
+
+    LISIS.
+        Que n'as-tu vu ses transports violents ?  
+C'était une tigresse aux yeux étincelants ;  
+Mais aussi, Montenor, il faut que je confesse  
+Que je ne vis jamais de si belle tigresse,  
+Et que sa félonie avait de l'agrément,  
+À prononcer l'arrêt de mon bannissement.  
+
+    MONTENOR.
+Elle a pu te bannir ?  
+
+    LISIS.
+        Avec grande injustice.  
+
+    MONTENOR.
+Pourquoi t'en affliger? Imite son caprice,  
+Tu peux changer de voeux si les siens sont changés.  
+
+    LISIS.
+Non, j'attendrai le sort des Amants affligés;  
+À de si rudes coups quand les Dieux les exposent,  
+Touchés de leur désastre ils les métamorphosent.  
+
+    MONTENOR.
+Cela fut bon jadis.  
+
+    LISIS.
+        Il est encor ainsi.  
+Et quoi, le bras des Dieux serait-il raccourci ?  
+Non, cette nuit Mercure avecque sa baguette  
+De leur vouloir vers moi s'est rendu l'interprète ;  
+Je dois changer de forme.  
+
+    MONTENOR.
+        Et sur ce grand espoir  
+Tu dédaignes Charite, et ne la veux plus voir ?  
+
+    LISIS.
+Hélas ! Par mon aspect veux-tu que je l'irrite ?  
+Mais je puis voir de loin le Palais qu'elle habite,  
+Et de ce même lieu, sur cet arbre monté,  
+Par un dernier hommage honorer sa beauté.  
+Il monte sur un arbre, et incontinent après il tombe dans le tronc, que la suite des ans avait à demi creusé.
+
+Je le vois, ce Palais que cachaient à ma vue...  
+Mais ô d'un juste espoir miraculeuse issue !  
+Enfin, les justes Dieux ne m'ont point abusé,  
+Et Lisis tout de bon est métamorphosé ;  
+Je suis, je deviens Arbre. Ô merveilles divines !  
+Je sens déjà mes pieds s'allonger en racines,  
+Et d'un prompt rejeton ma chair changée en bois  
+Produire des rameaux de chacun de mes doigts.  
+
+    MONTENOR.
+Quelle étrange folie !  
+
+    LISIS.
+        Ô témoin oculaire  
+D'une métamorphose aux Amants ordinaire,  
+Va répandre le bruit de mon destin nouveau,  
+Et si je te fus cher, prends soin de mon Troupeau.  
+
+
+## SCÈNE VII. Clarimond, Montenor, Adrian, Lisis dans l'arbre.
+
+    CLARIMOND, À ADRIAN. [42]
+Non, pour le remener ne craignez point d'obstacle,  
+Nous vous l'abandonnons. Mais quel plaisant spectacle !  
+Berger, que fais-tu là ?  
+
+    LISIS.
+        C'est fort mal en juger ;  
+Enfin grâces aux Dieux, je ne suis plus Berger.  
+
+    CLARIMOND.
+Et quoi donc ?  
+
+    LISIS.
+    Je suis Arbre.  
+
+    ADRIAN.
+        Ah, Fou, tu continues  
+À croire obstinément tes visions cornues ?  
+
+    LISIS.
+Vous vous émancipez, Adrian, car enfin  
+Je m'abaisserais trop vous nommant mon Cousin.  
+Un Arbre tel que moi d'immortelle nature...  
+
+    ADRIAN.
+Et qui donc t'as fait Arbre ?  
+
+    LISIS.
+        Une rare aventure ;  
+Mais je m'étonne peu que de profanes yeux  
+Ne puissent pénétrer dans les secrets des Dieux.  
+
+    MONTENOR.
+Quoi, tu veux habiter cette souche pourrie ?  
+
+    LISIS.
+Ah, mon bois est sacré, parle mieux, je te prie.  
+
+    CLARIMOND.
+Je le crois, mais enfin vois la nuit s'approcher.  
+Est-ce dans ce beau tronc que tu prétends coucher ?  
+
+    LISIS.
+Ah, qu'il ferait beau voir mes branches spacieuses  
+Étendre dans un lit leurs racines terreuses ?  
+Sache qu'un Arbre est fixe, et que si quelque fois  
+La Déité champêtre abandonne son bois,  
+C'est pour aller de nuit faire quelques gambades  
+Avec les demi-Dieux, et les Hamadryades,  
+Car au clair de la Lune ils s'assemblent toujours.  
+
+    ADRIAN.
+Donc tes sots demi-Dieux, tes Nymphes, tes amours...  
+
+    LISIS.
+Ah, garde qu'à la fin, pour venger leurs outrages,  
+Je n'abaisse sur toi quelqu'un de mes branchages.  
+
+    CLARIMOND.
+Pardonne à son erreur au moins pour cette fois,  
+Puisque tu veux être Arbre il faut que tu le sois.  
+Mais quel est ton espoir ?  
+
+    LISIS.
+        Tout le bien que jespère,  
+C'est qu'enfin mon amour touchera ma Bergère,  
+Et qu'autour de mon tronc, pour m'en récompenser,  
+Avec toute sa troupe elle viendra danser.  
+Le murmure plaintif de mes feuilles tremblantes  
+Alors me tiendra lieu de paroles pressantes,  
+Et pour lui déclarer l'excès de mon tourment,  
+J'emploierai le secours d'un doux gémissement ;  
+Puis lui disant adieu, par un nouveau prodige,  
+Pour marques de respect j'inclinerai ma tige.  
+
+    ADRIAN.
+Et quoi, Fou, si c'est là le bien que tu poursuis,  
+Crois-tu passer pour Arbre ?  
+
+    LISIS.
+        Oui, puisque je le suis.  
+
+    ADRIAN.
+Les arbres parlent-ils ?  
+
+    LISIS.
+        Ah, si cela t'étonne,   [43]
+Tu n'as jamais rien lu de la forêt Dodone.  
+Les arbres y parlaient par le vouloir des dieux.  
+Sache que mon destin n'est pas moins glorieux,  
+Comme eux je suis prophète, et mon bois fatidique  
+Va faire plus de bruit que le trépied Delphique.   [44]
+
+    ADRIAN, TIRANT SON ÉPÉE ET EN DONNANT QUELQUES COUPS SUR L'ÉCORCE DE L'ARBRE.
+Fais-en enfin l'épreuve, ô le plus grand des fous ;  
+Étant ce que tu dis, tu dois sentir ces coups.  
+
+    LISIS.
+Qu'oses-tu faire, impie ? Où se porte ta rage ?  
+Jamais fer jusqu'ici ne m'avait fait outrage,  
+J'étais vierge, mais las ! Mon tronc est tout ouvert  
+Arrête pour le moins ma sève qui se perd,  
+Et crois, quelque vigueur que sa verdure étale,   [45]
+Qu'un Arbre ne vit point sans humeur radicale.  
+
+    ADRIAN.
+Ah, c'est trop t'écouter, sors de ce tronc enfin.  
+
+    LISIS.
+Il faut que j'obéisse aux décrets du Destin.  
+Arrête, sacrilège. Hélas ! User de force !  
+Laisse vivre un Berger sous cette noble écorce.  
+Que t'a-t-il fait, cruel ?  
+
+    CLARIMOND, À ADRIAN.
+        Cessez de l'irriter,  
+Nous n'en obtiendrons rien à le violenter.  
+Consentons qu'il soit Arbre, aussi bien j'imagine  
+Les moyens d'empêcher qu'il ne prenne racine ;  
+Vous saurez au Château ce que j'ai projeté.  
+
+    ADRIAN.
+Hélas ! Il est plus fou qu'il n'a jamais été.  
+
+    MONTENOR.
+Adieu, bel Arbre.  
+
+    CLARIMOND.
+        Adieu, le Ciel vous fasse croître.  
+
+    LISIS, SEUL.
+Enfin ils sont partis, je puis me reconnaître.  
+Ô Lune au front d'argent, si tu sais en quels lieux  
+S'assemblent cette nuit mes Frères demi-Dieux,  
+Ne me refuse pas un bien que je demande,  
+Et me prête tes rais pour découvrir leur bande.  
+Je ne suis plus mortel, et dans leurs jeux ce soir  
+Les Nymphes sans soupçon me peuvent recevoir.  
+Cher tronc, puis qu'il fait nuit, souffre que je te quitte,  
+Je leur dois aujourd'hui ma première visite.  
+Il se tire hors de l'arbre.
+
+Adieu, pour prendre part à leurs ébats si doux,  
+Je m'en vais dans les bois chercher leur rendez-vous.  
+
+
+# ACTE V
+
+
+## SCÈNE PREMIÈRE. Anselme, Angélique.
+
+    ANSELME.
+Enfin, puisque le Ciel sensible à ma prière  
+Aux voeux de Montenor ne se rend point contraire,  
+Qu'il semble n'avoir soin que de les couronner,  
+Aux douceurs de l'espoir je puis m'abandonner,  
+Si toutefois sans crime et sans trop entreprendre,  
+À l'amour d'une Nymphe un Berger peur prétendre.  
+
+    ANGÉLIQUE.
+C'est fort adroitement me vouloir engager  
+À mépriser la Nymphe, et louer le Berger ;  
+Mais ce doit être assez à l'ardeur qui vous presse,  
+Que pour vous aujourd'hui mon Frère s'intéresse,  
+Et de quoi que l'amour vous flatte désormais,  
+Son aveu doit suffire à remplir vos souhaits.  
+
+    ANSELME.
+Qu'aux désirs d'un Amant ce discours fait d'outrage,  
+Et si vous bornez là son plus haut avantage,  
+Qu'il a su mal vous dire, en expliquant ses voeux,  
+Combien dans ses projets l'amour est scrupuleux !  
+Il voit avec dédain la plus belle victoire,  
+Quand elle peut jeter quelque ombre sur sa gloire ;  
+Par son propre mérite il veut être absolu,  
+Il n'aime à triompher que lorsqu'on l'a voulu,  
+Et ne savoir souffrir, quelque effort qui s'apprête,  
+Qu'un secours étranger assure sa conquête.  
+
+    ANGÉLIQUE.
+C'est ainsi qu'un Amant n'est jamais satisfait,  
+Il doute d'être heureux quand il l'est en effet,  
+Et sa flamme inquiète obstinée à tout craindre  
+Dans le plus beau succès trouve encor à se plaindre,  
+
+    ANSELME.
+Ah, ne refusez point à ce coeur enflammé  
+La douceur de se voir entièrement charmé,  
+Et s'il touche votre âme au moment qu'il soupire,  
+Ne m'enviez point l'heur de vous l'entendre dire.  
+Non, ce n'est point assez que Montenor content  
+M'assure un bien égal à celui qu'il attend ;  
+Pour le rendre parfait, pour achever ma joie,  
+Il faut que votre coeur avec moi se déploie,  
+Qu'un aimable transport m'explique ses désirs,  
+Qu'un doux saisissement réponde à mes soupirs,  
+Et que par votre aveu ma flamme confirmée  
+Soit le prix glorieux de vous avoir aimée.  
+
+
+## SCÈNE II. Clarimond, Anselme, Angélique, Adrian.
+
+    CLARIMOND.
+Sans doute qu'en ce lieu dans l'ombre de la nuit  
+Vous avez oublié quel dessein nous conduit ;  
+Vous avancez toujours, et ne prenez pas garde  
+Que peut-être de loin notre Fou vous regarde  
+Et que s'il nous connaît il comprendra soudain,  
+Voyant nos demi-Dieux, quel est notre dessein.  
+
+    ADRIAN.
+Hélas ! Pour déférer à quoi qu'on lui propose,  
+Il est trop obstiné dans sa métamorphose,  
+Et vous croyez en vain que d'un Arbre si cher  
+Vos feintes Déités le puissent détacher.  
+
+    ANGÉLIQUE.
+De quoi qu'avec Hircan il ait été capable,  
+Ce dernier incident me paraît incroyable,  
+Car puisqu'il parle encor, d'où peut-il présumer  
+Que le Ciel dans un tronc a voulu l'enfermer ?  
+
+    ADRIAN.
+C'est par où j'ai tâché de lui faire connaître  
+Qu'il n'est pas en effet ce qu'il se prétend être ;  
+Mais pour toutes raisons il est Arbre, et les Dieux  
+Devaient à son mérite un sort si glorieux.  
+Que maudit soit Ovide, et toute sa séquelle !  
+
+    CLARIMOND.
+Si la Lune nous prête un e clarté fidèle,  
+Je crois que vos désirs doivent être contents,  
+Et qu'en vain vous craignez qu'il soit Arbre longtemps ;  
+Il n'est plus dans son tronc.  
+
+    ADRIAN.
+        Ô Dieux ! Le puis-je croire ?  
+
+    CLARIMOND.
+Vous en pourriez douter dans une nuit plus noire.  
+
+    ADRIAN.
+Je rends grâces au Ciel que de son mouvement  
+Il soit sorti d'un tronc qu'il trouvait si charmant,  
+Et que pour l'en tirer vos Nymphes bocagères,  
+Vos Faunes, vos Sylvains, ne soient plus nécessaires ;  
+Bien loin de le guérir, c'eût été de nouveau  
+Lui renverser l'esprit, et brouiller le cerveau.  
+
+    CLARIMOND.
+Il est hors de son tronc, mais craignez que l'Aurore  
+Demain à son lever ne l'y replante encore,  
+Vous le croyez trop tôt démétamorphosé.  
+
+    ANGÉLIQUE, À ADRIAN.
+Pendant qu'il est absent le remède est aisé.  
+Faisons couper cet Arbre ; aussi bien je ne tâche  
+Qu'à soulager un mal dont le progrès vous fâche,  
+Et je renonce enfin à m'en plus divertir,  
+Pour vous faciliter les moyens de partir.  
+
+    ADRIAN.
+Je cours donc emprunter du secours pour l'abattre.  
+
+
+## SCÈNE III. Angélique, Anselme, Clarimond.
+
+    ANSELME. [46]
+Lisis à son retour fera le Diable à quatre.  
+
+    ANGÉLIQUE.
+Aussi par son départ vos desseins avortés  
+Font...  
+
+    CLARIMOND.
+        Je plains seulement ces deux jeunes Beautés,  
+Qui brûlant de jouer un si fou personnage,  
+Ont pris en vain l'habit de Nymphes de bocage.  
+C'est fort mal rencontrer pour la première fois.  
+
+    ANGÉLIQUE.
+Qui de nous eût prévu qu'il sortît de son bois ?  
+Mais Charite nous manque, où l'avez-vous quittée ?  
+
+    CLARIMOND.
+Avec nos demi-Dieux elle s'est arrêtée ;  
+Pour s'avancer, peut-être elle attend le signal.  
+
+    ANGÉLIQUE.
+Qu'un quart d'heure d'absence aux Amants est fatal !  
+
+    CLARIMOND.
+Il est vrai que je souffre, et que loin de Charite  
+Certain trouble aussitôt dans mon âme s'excite.  
+Mais ce trouble secret, quoiqu'il n'ait rien de doux,  
+N'est pas le plus grand mal dont je sente les coups.  
+Ce qui fait mon tourment, ce qui me rend à plaindre,  
+C'est d'espérer beaucoup et devoir trop à craindre ;  
+C'est de porter un coeur d'amour tout enflammé,  
+Et de douter encor si je puis être aimé.  
+
+    ANGÉLIQUE.
+Clarimond sait trop bien user de son mérite  
+Pour n'avoir rien gagné sur l'esprit de Charite ;  
+Mais enfin s'il s'obstine à s'alarmer en vain,  
+Qu'il sache qu'aujourd'hui je prends sa cause en main.  
+Qu'il aime, qu'il espère.  
+
+    CLARIMOND.
+        Ô charmante promesse !  
+
+    ANGÉLIQUE.
+Comme pour vous l'Amour avec moi s'intéresse,  
+La victoire est aisée.  
+
+    CLARIMOND.
+        Ah, s'il était ainsi...  
+
+
+## SCÈNE IV. Angélique, Clarimond, Anselme, Charite, Lucide.
+
+    CHARITE.
+Faites place à notre Arbre, on vous l'amène ici.  
+
+    ANGÉLIQUE.
+Où l'avez-vous trouvé ?  
+
+    LUCIDE.
+        Dans ce petit bocage,  
+Qui joignant ce grand parc fait ce beau paysage,  
+C'est là que de ses cris ayant ouï le bruit...  
+
+    ANGÉLIQUE.
+Et qu'y pouvait-il faire au milieu de la nuit ?  
+
+    CHARITE.
+Il haranguait un Chêne, et faisait son possible  
+Pour obliger sa Nymphe à se rendre visible.  
+Ainsi nos Déités, que nous suivions de loin,  
+Ont joué plaisamment leurs rôles au besoin,  
+Il les croit sur leur foi ; mais comme il se propose  
+De leur montrer le lieu de la métamorphose,  
+Le soin d'en avertir nous l'a fait devancer.  
+
+    CLARIMOND.
+L'occasion s'offrant il la faut embrasser.  
+Dût le bon Adrian en maudire l'adresse,  
+Puisque nous le pouvons, faisons valoir la pièce.  
+
+    CHARITE.
+Il faut donc se cacher, ils viennent, les voici.  
+Anselme.  
+
+    ANSELME.
+        Non, de moi n'ayez aucun souci.  
+De peur que de son tronc il ne se ressaisisse,  
+D'un Arbre demi-Dieu je vais faire l'office.  
+
+    CLARIMOND.
+Mais s'il vous aperçoit ?  
+
+    CHARITE.
+        Ah, bons Dieux, parlez bas.  
+
+    ANSELME.
+Le creux est si profond qu'il ne me verra pas.  
+Anselme se met dans le tronc de l'Arbre où était Lisis, s'abaissant de sorte qu'il ne peut être vu, et les autres se cachent derrière d'autres arbres.
+
+
+
+## SCÈNE V. Lisis, Sinope, Clorise, vêtues en Nymphes des bois, avec des branches d'arbres au bout desquelles sont attachées quelques confitures sèches.
+
+    LISIS.
+Enfin, mes chères Soeurs, car je me persuade  
+Que je dois ce doux titre à chaque Hamadryade,  
+Voici le tronc fameux qui dans ce même lieu  
+Par l'ordre du Destin enferme un demi-Dieu.  
+
+    SINOPE.
+À peine le Soleil a fait place à la Lune,  
+Que nous avons appris votre bonne Fortune,  
+Et nous n'avons quitté nos écorces ce soir  
+Que pour vous rendre hommage, et pour vous venir voir.  
+
+    LISIS. [47]
+Ah, foi d'Arbre gommeux, ma joie est infinie  
+De me voir en si belle et bonne compagnie.  
+Je gage que demain mes feuilles en prendront  
+Un éclat de verdeur plu vif et plus fécond.  
+Mais, ô Nymphes par moi de tous temps respectées,  
+Quels sont les lieux charmants où vous êtes plantées ?  
+
+    CLORISE.
+Nous habitons de jour un Bois fort écarté.  
+
+    SINOPE.
+Aussi nous y voyons nos fruits en sûreté :  
+Ils ne sont pas communs, et c'eût été dommage  
+Que le Ciel aux passants les eût mis en pillage.  
+
+    LISIS.
+Vos Arbres sont fruitiers à ce que je puis voir ?  
+
+    SINOPE.
+Fruitiers par excellence, et vous l'allez savoir.  
+
+    LISIS.
+Ah, je serai ravi d'ouïr vos aventures.  
+
+    SINOPE.
+Notre emploi dans le monde était aux confitures ;  
+Nous les faisions d'un goût si haut, si relevé,  
+Que Diane en ce point ne l'eut point dépravé,  
+Elle en mangeât cent fois au retour de la chasse ;  
+Mais pour avoir oser publier cette grâce,  
+Elle en fut indignée, et suivant son courroux  
+Nous fit changer soudain en Arbres comme vous.  
+
+    LISIS.
+En quels Arbres ?  
+
+    SINOPE. [48]
+        Voyez ; ma soeur est cerfière,  
+Et pour moi, le Destin m'a faite abricotière.  
+
+    LISIS, MONTRANT LES CONFITURES QU'ELLES PORTENT.
+Quoi, Nymphe, sont-ce là les fruits que vous portez ?  
+
+    CLORISE.
+Oui, par Grâce accordée à nos Divinités,  
+Ils croissent tout confits.  
+
+    LISIS.
+        Le goût n'en est pas pire.  
+
+    SINOPE.
+Si vous ne l'éprouvez, vous n'en sauriez que dire,  
+Cueillez-en.  
+
+    LISIS.
+    Que j'en cueille ?  
+
+    SINOPE.
+        Ils sont délicieux,  
+On en sert tous les jours à la table des Dieux.  
+Vous en pouvez manger.  
+
+    LISIS.
+        Ne trouvez pas étrange  
+Qu'un Arbre s'en excuse, il ne boit ni ne mange.  
+
+    SINOPE.
+Il n'esprit si lourd qui ne doive juger  
+Que votre Arbre ne peut ni boire ni manger,  
+Mais vous qui servez d'âme à sa faible nature,  
+Vous n'êtes pas exempt de prendre nourriture.  
+Ainsi pour subsister presque toutes les nuits  
+Les Arbres demi-Dieux viennent cueillir nos fruits ;  
+Leur sève sans cela deviendrait trop stérile.  
+
+    LISIS.
+Il est vrai que mon tronc se trouve un peu débile,  
+Et je juge en effet depuis quelques instants  
+Qu'un Arbre sans manger ne vivrait pas longtemps.  
+
+    CLORISE, MANGEANT DE SES CONFITURES.
+Suivez donc notre exemple, et mangeons d'importance.  
+
+    LISIS.
+Et quoi, vous dévorez votre propre substance ?  
+
+    CLORISE.
+C'est pour vous obliger à faire comme nous.  
+
+    LISIS, APRÈS EN AVOIR MANGÉ. [49]
+Ganymède là-haut verse un nectar moins doux.  
+Ah, qu'il fait bon être Arbre !  
+
+    SINOPE.
+        Et bien, notre cher frère ?  
+
+    LISIS.
+Vos fruits sont excellents, ma soeur l'abricotière.  
+Tels les mangeait Saturne au temps du siècle d'or ;   [50] [51]
+Mais l'une de vos soeurs, Myrrha, vit-elle encor ?  
+Son tronc est bien âgé ?  
+
+    SINOPE.
+        Je ne l'ai jamais vue.  
+Et vous, parlez, ma soeur, vous êtes-elle connue ?  
+
+    CLORISE.
+Myrrha ? Dans nos quartiers jamais on ne la vit.  
+
+    LISIS.
+Ce n'est qu'en Arabie où son Arbre fleurit.  
+Ce pays en effet est éloigné du vôtre ?  
+Mais n'alliez-vous jamais d'une contrée à l'autre ?  
+
+    SINOPE.
+Nous quittons rarement notre pays natal.  
+
+    LISIS.
+Nymphes, je viens d'ouïr un son fort musical.  
+
+    CLORISE.
+C'est d'un jeune Cyprès, le voici qui s'avance.  
+
+    LISIS.
+Et ce grave Barbon ?  
+
+    SINOPE.
+        Parlez en révérence,  
+C'est un Dieu de Rivière et des plus relevés.  
+Il lui faut rendre ici ce que vous lui devez,  
+Il vous recevra bien apprenant qui vous êtes.  
+
+
+## SCÈNE VI. Lisis, Sinope, Clorise, Montenor déguisé en Dieu de rivière avec une barbe fort longue, et un de ses gens ayant dans son déguisement force branches de Cyprès, et portant un luth.
+
+    SINOPE, À MONTENOR.
+Puissent vos eaux, mon Père, être claires et nettes,  
+Comme nous recevons par vos embrassements  
+Le comble souverain de nos contentements.  
+
+    LISIS, À MONTENOR.
+Jamais nous n'eussions cru qu'un Dieu si magnifique  
+Fut sorti pour nous voir de son lit aquatique,  
+Et que nous connaissant demi-Dieux si petits,   [52] [53]
+Il nous eût préférés à Neptune et Thétis.  
+
+    MONTENOR, COMMENCE À GRONDER AU LIEU DE RÉPONDRE.
+Mes Soeurs, il nous répond d'une étrange manière.  
+De grâce en quelle langue ?  
+
+    SINOPE.
+        En langue de rivière,  
+Ce n'est que des poissons qu'il peut être entendu.  
+
+    LISIS.
+Ce vénérable Dieu gronde comme un perdu,  
+Les poissons à mon gré parlent un sot langage ;  
+Mais d'un oeil fort hagard je vois qu'il m'envisage.  
+
+    SINOPE.
+C'est qu'il est étonné de vous voir en ce lieu.  
+Mon Père, connaissez ce nouveau demi-Dieu,  
+C'est celui qui jadis fut l'honneur de la Brie,  
+La gloire de son siècle et de la Bergerie,  
+Il est maintenant Arbre, et va peupler vos bords  
+Par mille rejetons qui naîtront de son corps.  
+À Lisis.
+
+Il vous fait signe, allez recevoir ses caresses.  
+
+    LISIS, TÂCHANT À SE TIRER D'ENTRE LES BRAS DU DIEU DE RIVIÈRE QUI LE SERRE TROP ÉTROITEMENT EN L'EMBRASSANT.
+Ah, pourquoi me presser ainsi que tu me presses ?  
+Tes bras réparent-ils le défaut de ta voix ?   [54]
+Arrête, Dieu muet, n'écache pas mon bois.  
+
+    CLORISE.
+Quoi, fuir qui vous embrasse !  
+
+    LISIS.
+        Ah, belle Hamadryade,  
+Je me passerai bien de pareille embrassade.  
+
+    SINOPE.
+Ce Dieu vous tend les bras de vos cris tout confus.  
+
+    LISIS.
+Trêve d'embrassements, je n'y retourne plus.  
+
+    SINOPE.
+Trêve puisqu'il vous plaît, mais faisons autre chose,  
+Consacrons par nos chants votre métamorphose.  
+Mon Père, obtiendrons-nous votre consentement ?  
+
+    LISIS, VOYANT QUE LE DIEU CONTINUE À GRONDER.
+Ce Dieu toujours grondant me déplaît grandement.  
+
+    SINOPE.
+Sus, qui veut commencer ?  
+
+    LISIS.
+        Ô moitié de Déesse,  
+Entre vous le débat, pour moi, rien ne presse.  
+
+    SINOPE.
+Et bien, ce sera moi.  
+
+    CLORISE.
+        Nous chanterons après.  
+
+    SINOPE.
+Prêtez-moi votre luth, mon Frère le Cyprès.  
+Elle prend le luth des mains du Cyprès, et l'accordant avec sa voix, elle commence à chanter.
+
+Ô sort trois fois digne d'envie !  
+
+    LISIS.
+Que ne m'ont fait les Dieux Arbre toute ma vie !   [55]
+Ô divine Amphionne.  
+
+    SINOPE.
+        Écoutez en repos.  
+
+    LISIS.
+Ta voix me charme autant qu'ont fait tes Abricots.  
+
+    SINOPE, CHANTE.
+Ô sort trois fois digne d'envie !  
+Nous possédons Lisis, cet arbre glorieux.  
+Ses vertus l'ont placé parmi les demi-Dieux,  
+Pour y jouir d'une immortelle vie.  
+Ô sort trois fois digne d'envie !  
+Il est digne de cette gloire.  
+Ses hauts faits de Berger faisaient connaître assez  
+Que par ce sang illustre un jour récompensés  
+Ils graveraient son beau nom dans l'Histoire.  
+Il est digne de cette gloire.  
+Et bien que vous en semble ?  
+
+    LISIS.
+        Ah, Nymphe abricotière,  
+Que d'arbres comme vous n'ai-je une pépinière !  
+
+
+## SCÈNE VII. Lisis, Sinope, Clorise, Montenor, Angélique, Clarimond, Lucide, Anselme, Charite.
+
+    ANGÉLIQUE.
+Il est temps de paraître, avançons.  
+
+    SINOPE.
+        Justes Dieux !  
+J'aperçois des Mortels qui viennent en ces lieux.  
+
+    LISIS, À SINOPE.
+Je rentre dans mon tronc. Vous allez disparaître ?  
+
+    SINOPE.
+Et pourquoi ?  
+
+    LISIS, ÉTONNÉ DE VOIR ANSELME QUI COMMENCE À SE MONTRER DANS SON TRONC.
+    Mais que vois-je ?  
+
+    ANSELME.
+        Ô demi-Dieu champêtre,  
+Les Dieux ont su punir mon incrédulité,  
+Et je ne doute plus de ta Divinité ;  
+Comme toi je suis arbre.  
+
+    LISIS, À ANSELME.
+        Arbre, mon cher Confrère,  
+Te loger dans mon tronc était peu nécessaire.  
+Sois Arbre si tu veux, mais non à mes dépens.  
+
+    CHARITE.
+C'est lui qui fut jadis mon Berger, je l'entends.  
+
+    ANGÉLIQUE, À SINOPE ET AUX DEMI-DIEUX.
+Grandes Divinités, excusez notre audace.  
+Nous venons vous troubler d'assez mauvaise grâce ;  
+Mais c'est pour rendre hommage au Berger Glorieux  
+Qu'enfin le Ciel a mis au rang des demi-Dieux.  
+On nous dit qu'il est arbre.  
+
+    LISIS.
+        Oui, mais dans mon écorce  
+Un autre...  
+
+    ANSELME.
+        J'obéis au Destin qui m'y force.  
+
+    ANGÉLIQUE. [56]
+Polidor demi-Dieu !  
+
+    LISIS.
+        Non, c'est un fait à part,  
+Ou s'il l'est, ce n'est rien qu'un demi-Dieu bâtard,  
+Car tout Arbre d'honneur et de bonne origine,  
+Dans un tronc emprunté jamais ne s'enracine.  
+
+    SINOPE.
+Si c'est l'ordre du Ciel ?  
+
+    CHARITE.
+        Il n'en faut point douter.  
+
+    LISIS, À ANSELME.
+Rends-moi mon tronc.  
+
+    CHARITE.
+        Et quoi, tu lui veux résister !  
+De grâce, au nom d'amour ne lui sois pas contraire,  
+Et redeviens Berger, pour aimer ta Bergère.  
+
+    LISIS.
+Non, non, je dois être Arbre, il le faut, mais crois-moi,  
+Tout Arbre que je suis, je te garde ma foi.  
+
+    CHARITE.
+S'il en est ainsi, pour moi renonce à cette souche.  
+
+    LISIS.
+Hélas ! On me la vole, et c'est ce qui me touche.  
+Mais, Arbre ravisseur, rends-la moi.  
+
+    ANSELME.
+        Je ne puis,  
+Le Ciel me le défend.  
+
+    LISIS.
+        Malheureux que je suis !  
+
+    SINOPE.
+Qu'avez-vous ?  
+
+    LISIS.
+        Ah, mes Soeurs, songez à mes affaires,  
+Si je suis déplanté je ne vivrai plus guères.  
+
+    CLORISE.
+Non, non, ne craignez rien ; puisqu'il est obstiné  
+À vous ravir un tronc qui vous fut destiné,  
+Qu'il y vive, haï de toutes nos Compagnes,  
+Plus qu'aucun arbrisseau qui soit dans ces campagnes.  
+
+    LISIS.
+Et moi, que deviendrai-je ?  
+
+    SINOPE.
+        Et n'est-il pas ailleurs,  
+Et des lieux plus charmants, et des Arbres meilleurs ?  
+Nous vous y planterons.  
+
+    LISIS.
+        Cela se peut-il faire ?  
+
+    SINOPE.
+Notre pouvoir est grand. Qu'en dites-vous, mon père ?  
+N'êtes-vous pas d'avis qu'on le change de lieu ?  
+Le Dieu de rivière continue à gronder.
+
+
+    LISIS.
+Ce Diable de grondin est un étrange Dieu.  
+
+    CLORISE.
+Au jardin d'Angélique il consent qu'on vous plante.  
+
+    LISIS.
+Fort bien, la station n'est pas trop déplaisante.  
+Mais comme de nos troncs, pour vivre longuement,  
+L'âme végétative a besoin d'aliment,  
+Ayant à me planter, Nymphes mes amourettes,  
+Greffez-moi sur quelque arbre aussi beau que vous êtes,  
+Ô les doux abricots !  
+
+    SINOPE.
+        Vous serez satisfait.  
+
+    LISIS.
+Vous me rendrez fruitier en effet ?  
+
+    SINOPE.
+        En effet ;  
+Venez.  
+
+    LISIS, À CHARITE.
+    Adieu Bergère.  
+
+    CHARITE.
+        Ah, souffrez-moi présente  
+Au mystère secret qui chez nous vous transplante,  
+Sûr que toutes les nuits la troupe dansera,  
+Autour du tronc sacré qui vous enfermera.  
+
+    SINOPE.
+Ne suivez que de loin.  
+
+    LISIS.
+        Ah, que de confitures  
+Au lever du Soleil vont croître à mes verdures !  
+
+    CLORISE.
+N'en doutez point.  
+
+    LISIS, À ANSELME.
+        Et toi, maudit arbre larron,  
+Sache qu'à porter fruit ton bois n'est beau ni bon,  
+Et qu'autour de ton bois loin que jamais on danse,  
+Ton bois ne servira qu'à faire une potence.  
+Il s'en va avec les demi-Dieux.
+
+
+    ANGÉLIQUE.
+Ainsi par cette adresse on le mène au château.  
+
+    ANSELME, SORTANT DU TRONC.
+Cependant je renonce à mon destin nouveau,  
+Et prends trop peu de part à cette souche antique,  
+Pour vouloir m'opposer à ce qu'il pronostique.  
+Seulement, grande Nymphe, ayant su m'obliger...  
+
+    ANGÉLIQUE.
+Enfin, trêve de nymphe, et trêve de berger ;  
+Retournons au château mettre bas la houlette,   [57]
+Lisis est désarbré, la comédie est faite.  
+
+-------
+
+
+[1] Amphitrite : Terme de mythologie. Déesse de la mer, et, poétiquement, la mer elle-même. L
+
+[2] Brebiette : Diminutif de brebis. L
+
+[3] Chère entière : grand repas suivi de plusieurs divertissements. L
+
+[4] Pan : Le Dieu des bergers, auquel les poètes ont donné des cornes, et des pieds de chèvre, une barbe et une queue, comme à un bouc, Pan. Il a été adoré par les Anciens, principalement en Arcadie. Ils le croyaient aussi le Dieu de toute la nature ; et son nom est venu du mot Grec , qui signifie tout, parce que la nature comprend tout ; et on dit que Pan fut le premier inventeur des flûtes, et du sifflet de Chauderonnier. T
+
+[5] Devis : Menus propos, entretien familier. De joyeux devis. L
+
+[6] Faire nargue : braver avec mépris. Ac. 1762
+
+[7] Chèvre-pied : Qui a des pieds de chèvre. Dieux chèvre-pieds, les satyres. L
+
+[8] Petites-maisons : On dit aussi, qu'il faut mettre un homme aux petites maisons, quand il est fou, ou quand il fait une extravagance signalée ; à cause qu'il y a à Paris un Hospital de ce nom où on enferme ces fous. F
+
+[9] Encolure : se dit figurément des hommes, et signifie, Mine, apparence. Ce jeune homme a toute l'encolure d'un sot. (...) F
+
+[10] Deucalion : Fils de Prométhée et mari de Pyrrha. Après le déluge déclenché par Zeus, Deucalion et Pyrrha, étant des justes, furent seuls sauvés et ils repeuplèrent le monde en jetant des pierres ; celles de Deucalion se transformèrent en hommes et celles de Pyrrha en femmes.
+
+[11] Aunage : Mesurage des étoffes qui se fait avec une mesure certaine, reglée, qu'on appelle à Paris une Aune. F
+
+[12] Bergerot : Petit Berger. La Niéce de Don Quichotte lui dit : Qu'est-ce donc que ceci, mon oncle ? Quand nous croyons que vous vous retirez dans votre maison pour vivre en paix, vous vous allez encore jetter en de nouveaux labyrinthes, en vous faisant un petit bergerot. T
+
+[13] Phrénetique : ou frénetique, adj. Aliené d'esprit. R. orthographié "phrénétique" dans l'original.
+
+[14] Astrée : Le Roman de l'Astrée d'Honoré d'Urfé est une oeuvre pastorale du début du XVVIème sicèle qui influencera toutes les pastorales qui lui succèderons.
+
+[15] Caquet : Abondance de paroles inutiles qui n'ont point de solidité. F 
+
+[16] Sans vert : Prendre quelqu'un sans vert, le prendre au dépourvu. L
+
+[17] Écho : Dans la mythologie, Nymphe, fille de l'Air, qui ne put se faire aimer de Narcisse, et qui, ayant été changée en rocher, ne conserva que la voix. L
+
+[18] Anaxaréte : Nom propre d'une Nymphe. Elle fut aimée d'Iphis, Prince de Chypre, qui désespéré de ne pouvoir lui plaire, se rendit à sa porte. Anaxaréte fut métamorphosée en rocher, pour marque de fermeté à conserver sa vertu... T
+
+[19] Iphis : Père d'Etéocle et d'Evadné, femme de Capanée. T
+
+[20] Languide : Qui est dans la langueur. L
+
+[21] Traitable : Doux, maniable, facile. L
+
+[22] Naïades : fausse Divinité, que les païens croyaient présider aux fontaines, et aux rivières. Naïas, Naïs, Naïdes, Naïades.(...) T
+
+[23] Hamadryade : Divinité fabuleuse des Païens qu'ils croyaient présider aux forêts, et être enfermée sous des écorces de chênes (...). Les Hamadryades vivaient et mouraient avec leurs arbres. (Dict; Furetière)
+
+[24] Ixion : Roi des Lapithes en Thessalie, devait le jour à Jupiter et à la Nymphe Méléte, selon Diodore. (...) Les poètes feignent qu'Ixion fut frappé d'un coup de foudre et précipité dans le Tartare, où Mercure l'attacha à une roue toute environnée de serpents, qui devait tourner sans relâche. T
+
+[25] Myrmidon : Peuple de Thessalie, que les Fables des païens ont dit être nés de fourmis, sur la prière que le Roi Jacus en fit à Jupiter, après que son Royaume fut dépeuplé par la peste. Myrmidones. Dans Homère et dans Virgile les Myrmidons sont les soldats d'Achille : Ce mot est venu en usage dans notre langue, pour signifier un homme fort petit, ou qui n'est capable d'aucune résistance. T
+
+[26] Dolope : Nom de peuple. Dolops. Les Dolopes étoient des peuples de la Thessalie, à l'extrémité de la Phthiotide. Pline les met pourtant dans l'Aeolide, et Ptolomée dans l'Epire. Les uns les mettent à la source du fleuve Acheloüs, et les autres le long du Penée. T
+
+[27] Hésus : ancien Dieu des Gaulois. Esus. Lactance dit que ces peuples offraient des hommes en sacrifice à Esus et à Teutates, et les apaisaient, se les tendaient propices par le sang humain. T
+
+[28] Théramis : nom propre d'un Dieu des Gaulois, qui était le même que Jupiter tonnant, à mon avis ; car Taran signifiait un tonnerre ; et Bochart assure qu'ils avaient pris ce Dieu des Phéniciens. Voyez Taran. Je doute que Borel ait trouvé Taramis. C'est Taranis qu'il faut dire. T
+
+[29] Astrée : La Déesse de la Justice. Astraea. Les poètes ont feint qu'elle habitait sur la terre durant le siècle d'or ; qu'elle en fut chassée par les crimes des Mortels, et contrainte de remonter au Ciel. T
+
+[30] Céladon : couleur verte, blafarde, mêlée de blanc, ou qui tire sur le blanc. Color thalassinus. La peluche de cette anémone est céladon. Celadon, est aussi un nom propre de berger. On trouve souvent ce mot dans les églogues, et les Idylles des poètes.T
+
+[31] Débarber : ôter la barbe LC
+
+[32] Faune : Divinité champêtre chez les Romains ; les faunes sont figurés avec des oreilles de chèvre ou du moins des oreilles plus grandes qu'à l'ordinaire ; à l'endroit où finit l'épine du dos on voit une petite queue. L
+
+[33] Immondicité : Qualité de ce qui est immonde moralement. L'immondicité du péché. L
+
+[34] Tautatès : Un des dieux auxquels les Gaulois offraient des victimes humaines. L
+
+[35] Bouquin : en termes de poésie, on appelle les Satyres, les Dieux Chevre-pieds, des Bouquins, à cause qu'on les peint avec des pieds de bouc. F
+
+[36] Sylvain : Dieu fabuleux de l'Antiquité, qui presidait aux forêts. Quelques-uns l'ont confondu avec Pan. Ils ont cru aussi qu'il y avait des Faunes, des Sylvains et des Aegipans ou demi-Dieux habitants dans les forêts. F
+
+[37] Malversation : prévarication commise en l'exercice d'une charge, d'une commission, d'un maniement, concussion, exaction, divertissement de deniers. On a établi une Chambre de Justice, des grands jours, pour la recherche des malversations commises dans les Finances, dans l'exercice de la Justice. F
+
+[38] Forligner : Ne pas suivre la vertu et les bons exemples de ses ancetres, de ceux dont on est issu, faire quelque chose indigne de leur race. La Noblesse de cette maison est fort pure, il n'y a pas un qui ait forligné. On le dit particulièrement de ceux qui se sont mésalliés. F
+
+[39] Equivoquer : Faire des équivoques. Cet homme est heureux à équivoquer, à trouver des équivoques. Il se dit plus ordinairement avec le pronom personnel ; et alors il signifie, se tromper, se méprendre. (...) F
+
+[40] Captieux : trompeur, sophistique. Il se dit particulierement des raisonnements qui en apparence sont veritables, et qui se trouvent faux, étant bien examinés. Les hérétiques se servent de raisonnements captieux et sophistiques. On le dit quelquefois des personnes. (...) F
+
+[41] Lestrigon, one : les Lestrigons étaient un peuple barbare et très cruel, habitant la ville de Formies, en Campanie. Pline qui en parle, dit qu'ils étaient antropophages. (...) T
+
+[42] Remener : Transporter quelqu'un, ou le reconduire au lieu d'où il était venu. Il a remené cette dame chez elle par la main ; il l'a remenée dans son carrosse. (...) F
+
+[43] Dodone : ville ancienne de l'Epire (...) célèbre pour bien des choses. La forêt de Dodone, l'Oracle de Dodone, la fontaine de Dodone. Il y avait proche de Dodone un bois tout de chênes consacré à Jupiter. C'est ce qu'on appellait la forêt de Dodone. Dans ce bois etait un temple de Jupiter, dans lequel était le plus fameux, et à ce qu'on prétend le plus ancien de tous les Oracles de la Grèce. Ce n'était pas au reste le seul Jupiter du temple de Dodone qui rendait des Oracles ; on dit que les pigeons en rendaient aussi dans la forêt de Dodone. (...) T
+
+[44] Trépied : chez les Anciens, était un siege fameux et sacré, sur lequel les prêtres et les Sibylles se mettaient pour rendre des oracles, croyant qu'il leur inspirait la fureur dont ils se feignaient saisis pour faire leurs prédictions. En Latin Cortyna. F
+
+[45] Humeur radicale : qui vient de la racine de l'être, du plus profond de l'âme.
+
+[46] Faire le diable : Faire le diable, le diable à quatre, faire grand bruit, grand tumulte, se donner beaucoup de mouvement pour une chose. L
+
+[47] Gommeux : Qui jette de la gomme. Il y a un grand nombre d'arbres gommeux et résineux. F
+
+[48] Cerfière : Les nymphes prennent leur nom à partir de l'arbre dont elles dépendent : l'abricotière vit dans un abricotier quand à la Cerfière, le nom de son arbre est inconnu, car on ne peut pas dire que le cerfeuil soit à considérer comme un arbre.
+
+[49] Ganymède : nom propre d'un jeune berger troyen, d'une grande beauté, que Jupiter fit enlever par son aigle, ou que lui-même caché sous la figure d'un aigle enleva lorsqu'il chassait sur le mont Ida. Les Fables disent qu'Hébé servant les Dieux au festin que Jupiter leur donnait en Éthiopie. fit un faux pas, et tomba d'une manière qui choqua Jupiter, qui pour cela la disgracia, et fit enlever ou enleva Ganyméde, pour lui verser à boire dans la suite. T
+
+[50] Myrrha : Serait une Nymphe qui vivrait dans l'arbre dont on tire la myrrhe.
+
+[51] Myrrhe : Gomme de liqueur, qui distille d'un arbre épineux haut de cinq coudées qui croît en Arabie. Quelques-uns le nomment spina Aegyptia, son tronc est dur, et plus massif que celui de l'encens. Il a l'écorce lissée, polie comme celle de l'arbousier, que les tanneurs appellent cerise d'outre mer. Sa feuille est semblable à celle de l'olivier, mais plus crepée et espineuse. F
+
+[52] Neptune : Faux Dieu des païens, qu'ils ont cru être fils de Saturne, et frère de Jupiter, et être le Dieu de la Mer. Le trident est le sceptre de Neptune. F
+
+[53] Thétis : Une des déesses de la mer, qui fut mère d'Achille. L
+
+[54] Écacher : Presser, aplatir, froisser, écraser. La presse était si grande que j'y ai été presque écaché. On m'a marché sur les pieds, je les ai tout écachés. (...) T
+
+[55] Amphinome : Une des cinquante Néréides, selon Homère. T
+
+[56] Polidore : fils de Cadmus, regna à Thébes, lorsque son père se fut retiré en Illyrie. Il fut père de Labdacus, et grand-père de Laïus. Polydore, fils d'Hippomédon, fut un des héros épigones, c'est-à-dire, de ceux qui prirent la ville de Thébes, dix ans après la mort d'Étéocle et de Polynice. Polydore, fils de Priam et d'Hécube. T
+
+[57] Désarbré : Qui a cessé d'être arbre. Mot forgé par Thomas Corneille. LC

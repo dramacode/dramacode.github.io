@@ -1162,10 +1162,10 @@ Les exemplaires ont esté fournis.
  – Troupe de Violons,
  – Troupe d'Archers,
 La Scene est à Paris devant la maison d'Oronthe [158].
+ 
 
 
-
-## ACTE IR
+## ACTE I
 
 
 ### SCENE PREMIERE
@@ -1263,7 +1263,7 @@ Le feu que vous avez a besoin de leçon
 Apres vous hablerez⁎ de la bonne façon :  
 En voulez-vous donner ? [163]  
 
-    ARISTE
+    ARISTE 
         L'affaire est devinée.  
 Je voudrois bien mentir,  
 
@@ -1312,7 +1312,7 @@ Je m'en vay la querir : en faut-il davantage ?
 Ah ! c'est trop m'obliger.  
 
 
-### SCENE II
+### SCENE II 
 ARISTE, JODELET.
 
 
@@ -1335,7 +1335,7 @@ Qui servant [169] d'un argus° à ma divinité    
 Alors qu'elle te suit nous laisse en liberté  
 Ses sanglots font pitié…  
 
-    JODELET
+    JODELET 
         Monsieur, c'est qu'elle tousse.  
 
     ARISTE
@@ -1365,7 +1365,7 @@ Qui le tient fort sçavant, & le croit fort discret,
 Mais de Climante aussi dites moy le secret,  
 Aimeroit-il Olympe ?  
 
-    ARISTE
+    ARISTE 
         Oüy, Jodelet, il l'aime  
 Pour elle son amour passe jusqu'à l'extréme,  
 Et j'ay bien reconnu qu'il trouve les moyens  
@@ -1391,7 +1391,7 @@ Et comme [174] a-t'il si tost fait cette cognoissance ?
 Tu peux t'en estonner avec juste raison,  
 Toy qui ne songes pas qu'il loge en leur maison.  
 
-    JODELET
+    JODELET 
 Mais comment a-t'il fait pendant ce grand voyage,  
 Qu'il n'a pû la contraindre au moins au mariage ?  
 Que luy peut dire Olympe, & comment, & pourquoy ?  
@@ -1418,7 +1418,7 @@ Comedie & balets, festins & promenades.
 Mais en si peu de temps vous vouloir tant de bien,  
 Elle estant Provençalle, & vous Parisien.  
 
-    ARISTE
+    ARISTE 
 Quand l'amant est voisin de la personne aymée  
 Une forte habitude est aisément formée.  
 
@@ -1477,7 +1477,7 @@ Et pour estre plus libre.
 Ah ;  Monsieur, permettez que ma lame enroüillée  
 Soit teinte de son sang.  
 
-    ARISTE
+    ARISTE 
         Elle en seroit soüillée ;  
 Garde bien le secret, & tais toy,  
 
@@ -1511,7 +1511,7 @@ Elle est pourtant passable.
 Mais voicy mon Olympe, ah, divine merveille !  
 
 
-### SCENE III
+### SCENE III 
 ARISTE, CLIMANTE, ORONTHE, OLIMPE, PANCRACE, JODELET, & LISETTE.
 
 
@@ -1535,7 +1535,7 @@ Qu'en la priant pour vous il n'espargnera rien.
     OLIMPE
 Oronthe le voulant je vous suis tout acquise.  
 
-    ARISTE
+    ARISTE 
 De grace donc, Monsieur, excusez la franchise,  
 Et treuvez bon qu'icy j'ose vous supplier,  
 En la priant pour moy de ne rien oublier,  
@@ -1565,7 +1565,7 @@ Vous l'aimez…
     OLIMPE
     Il est vray.  
 
-    ORONTHE
+    ORONTHE 
     Tout de bon,  
 
     OLIMPE
@@ -1598,8 +1598,8 @@ Au moins…
     ARISTE
         Il vous en fait accroire⁎.  
 
-    CLIMANTE *en particulier à Ariste.* 
-            
+    CLIMANTE *en particulier à Ariste.*
+             
 N'en faites point le fin, & comptez leur l'histoire,  
 Quand Oronthe sçaura que vous aimez ailleurs,  
 Il en aura pour vous des sentimens meilleurs,  
@@ -1797,7 +1797,7 @@ Cet accommodement est assez difficile.
 Pour faire encore plus il n'est que trop habile ;  
 Mais qu'il explique  
 
-    ARISTE
+    ARISTE 
         En vain je voudrois m'en piquer,  
 Je perdrois bien-tost terre en voulant m'expliquer ;  
 Je conçois assez bien les choses qu'il faut dire,  
@@ -1823,8 +1823,8 @@ Dirois-tu qu'une fille eust de l'amour pour moy ?
     PANCRACE
 C'est qu'elle a reconnu quelques appas⁎ en toy.  
 
-    JODELET 
-            
+    JODELET
+             
 Qu'est-ce que des appas⁎, est-ce une belle chose ?  
 
     PANCRACE
@@ -1877,7 +1877,7 @@ Quand il treuve un objet⁎ propre à le recevoir.
     JODELET
 Les autres …  
 
-    PANCRACE
+    PANCRACE 
         Esclairez d'une moindre lumiere  
 Enveloppent sa force au sein de la matiere,  
 Et nomment un instinct ce premier mouvement  
@@ -1908,7 +1908,7 @@ Quoy …
     JODELET *encor de mesme.*
 Il est vray …  
 
-    PANCRACE
+    PANCRACE 
         Nous naissons en pleine liberté.  
 
     JODELET *voulant parler.*
@@ -1938,7 +1938,7 @@ Donc …
     JODELET
 Un mot …  
 
-    PANCRACE
+    PANCRACE 
         Quoy, voudrois-tu des ames radicales  
 Où [195] l'operation [196] pareille aux animales.  
 
@@ -2038,7 +2038,7 @@ Mais …
 
     JODELET
         Encor me parler, bon soir & bonne nuit.  
-Fin du premier Acte.
+Fin du premier Acte. 
 
 
 ## ACTE II
@@ -2172,7 +2172,7 @@ Mais vous en sçavez faire, & cela me console.
 Les vers me coustent trop, & je veux desormais,  
 Hors pour un bel objet⁎ n'en escrire jamais.  
 
-    ORONTHE
+    ORONTHE 
 Si les seules beautez eschauffent vostre muse,  
 Vous ne pourrez treuver de legitime excuse,  
 Olimpe pour qui c'est ne manque point d'appas⁎.  
@@ -2215,7 +2215,7 @@ Et de feindre qu'Olimpe auroit pû vous charmer⁎.
     CLIMANTE
 Je sçay ce qu'elle vaut.  
 
-    ORONTHE 
+    ORONTHE
         C'est un astre visible.  
 
     CLIMANTE
@@ -2227,7 +2227,7 @@ Vous parlez en amant.
     CLIMANTE
 J'ay des yeux qui sont bons, & connois ses appas⁎.  
 
-    ORONTHE
+    ORONTHE 
 Vous les connoissez mal !  
 
     CLIMANTE
@@ -2243,7 +2243,7 @@ De ne dire jamais que je veux l'adorer.
 Sçachons plustôt comment je feray mon ouvrage.  
 
     ORONTHE
-Mais la voicy qui vient avec le personnage.  
+Mais la voicy qui vient avec le personnage.   
 
 
 ### SCENE III
@@ -2273,7 +2273,7 @@ Quand ?
     ORONTHE
     Sans faute ?  
 
-    ARISTE
+    ARISTE 
         C'en est fait.  
 
     ORONTHE
@@ -2306,7 +2306,7 @@ Je sçay bien qu'elle dit mes enfants prenez place [211].
     ORONTHE
 Au moins je la veux voir & Pancrace avec moy  
 
-    ARISTE
+    ARISTE 
 Allez je vous respons de la loge du Roy [212]  
 Vous verrez mon credit.  
 
@@ -2358,7 +2358,7 @@ Et sera par ce traict l'amant & le jaloux.
 D'une mauvaise adresse avec celle que j'aime,  
 En me croyant joüer, il se joüra luy-mesme,  
 
-    OLIMPE
+    OLIMPE 
 Quel plaisir de luy voir contrefaire le fin ?  
 
     ORONTHE
@@ -2384,7 +2384,7 @@ Je confesse qu'en fin je vous suis obligée ;
 Et pour me divertir tant de bons traittemens,  
 Ont bien droict d'effacer mes mescontentemens.  
 
-    ORONTHE
+    ORONTHE 
 Aprés l'enlevement que l'amour me fit faire,  
 Mon respect est si grand, qu'il n'est pas ordinaire,  
 Et loin de vous presser,  
@@ -2437,7 +2437,7 @@ Climante vient.
     ORONTHE
         Hé bien la Stance est-elle faite ?  
 
-    CLIMANTE
+    CLIMANTE 
 Non, j'ay trouvé là bas Pancrace avec Lizette  
 Qui se parloient si haut que troublant mon objet  
 Je n'ay pû seulement qu'en tracer le projet.  
@@ -2464,7 +2464,7 @@ Le mortel ennemy de mes plus doux plaisirs,
 Et dedans les transports de l'ardeur qui m'enflâme,  
 C'est l'effroy⁎ de mes yeux & l'horreur⁎ de mon ame !  
 
-    ORONTHE
+    ORONTHE 
 Nous en aurons tantost un plaisir assez doux ;  
 Mais redonnez encor quelque touche au jaloux.  
 
@@ -2522,7 +2522,7 @@ La Dupe s'en rira.
     CLIMANTE
         Le trait n'est pas mauvais.  
 
-    OLIMPE
+    OLIMPE 
 Ce pendant⁎ que diray-je à cet amant fidele ?  
 
     ORONTHE
@@ -2570,7 +2570,7 @@ Que pour me delivrer il vient bien à propos ! [221]
 Faut il que ce brutal traverse mon repos ?  
 
 
-### SCENE VII
+### SCENE VII 
 PANCRACE, LISETTE.
 
 
@@ -2698,7 +2698,7 @@ Chassast loin de mon cœur une douleur trop vive,
 Et qu'en y balayant des tristesses d'amour,  
 Tu le fisses passer de la poussiere au jour !  
 
-    LISETTE
+    LISETTE 
 Bon, mais il faut aller faire mettre sur table [244].  
 
     PANCRACE
@@ -2726,7 +2726,7 @@ Qui met mon corps en cendre, & consomme⁎ mon ame !
 Bon Dieu ! je n'ay pas fait nettoyer le jardin,  
 Monsieur criera tantost.  
 
-    PANCRACE
+    PANCRACE 
         Tu veux t'en fuir en vain,  
 Et tu dois bien plustost par ta grace divine  
 Arracher de mon cœur les soucis & l'espine,  
@@ -2747,7 +2747,7 @@ Mais je ne parle plus qu'à la fille de l'air !
 Elle a fermé l'oreille, & vient de s'en aller :  
 Allons chercher l'Echo° de quelque Antre sauvage,  
 Et plaignons nous à luy d'un si sensible outrage.  
-Fin du second Acte.
+Fin du second Acte. 
 
 
 ## ACTE III
@@ -2771,7 +2771,7 @@ Puis qu'en fin ma douleur n'en est pas appaisée,
 Et que je ne sçaurois trouver un seul moment,  
 Pour vous entretenir & vous voir librement.  
 
-    OLIMPE
+    OLIMPE 
 Feignons [245] … Quelle raison vous oblige à vous plaindre ?  
 Ne me voyez vous pas si souvent me contraindre  
 Quand je preste l'oreille à ce jeune innocent  
@@ -2828,7 +2828,7 @@ Qu'il ne me quitte point & j'en seray contente !
     CLIMANTE
 Tout importun qu'il est endurez ses souspirs !  
 
-    OLIMPE
+    OLIMPE 
 Je puis bien l'endurer s'il sert à mes plaisirs.  
 
     CLIMANTE
@@ -2855,7 +2855,7 @@ Nous vivons sans donner aucun soupçon de nous.
     OLIMPE *voulant parler d'Ariste & d'elle* [247].
 Nous nous aimons tous deux sans faire des jaloux.  
 
-    CLIMANTE
+    CLIMANTE 
 Donc pour continuer à soulager ma peine  
 Flatez un ingenu d'une esperance vaine ;  
 Et d'un peu de faveurs veuillez le consoler ;  
@@ -2878,7 +2878,7 @@ Ariste… Quelqu'un vient ? Rencontre deplaisante !
 Pour me dire le reste, envoyez-le, Climante !  
 
 
-### SCENE II
+### SCENE II 
 CLIMANTE, OLIMPE, LISETTE.
 
 
@@ -2926,7 +2926,7 @@ D'attendre le Badaut⁎.
         Nous rirons, ou je meure [252].  
 Allons Madame !  
 
-    OLIMPE
+    OLIMPE 
     Allons.  
 
     PANCRACE *arrestant Lisette qui s'en va.*
@@ -2978,7 +2978,7 @@ Reconnoit la nature, & conçoit de l'amour.
     LISETTE
 Tout ce que tu me dis ne servira de gueres.  
 
-    PANCRACE
+    PANCRACE 
 Que s'il faut m'abaisser aux exemples vulgaires,  
 Et me servir icy des termes triviaux,  
 Tu connoistras qu'en tout je n'eus jamais d'egaux.  
@@ -3074,8 +3074,8 @@ Cht ; l'on ne m'entend point, hem, hem.
     OLIMPE
         Je suis à vous.  
 
-    ARISTE 
-            
+    ARISTE
+             
 Hé bien !  
 
     OLIMPE
@@ -3128,7 +3128,7 @@ Elle vous face voir comme elle vous adore,
 Et ne soustient jamais vostre divin aspect,  
 Sans changer son amour en un profond respect.  
 
-    OLIMPE
+    OLIMPE 
 A des conditions je veux vous le permettre.  
 
     ARISTE
@@ -3178,7 +3178,7 @@ Ostez les… [270]
     ARISTE
         C'est en vain que vous vous allarmez !  
 
-    OLIMPE
+    OLIMPE 
 Pourquoy ?  
 
     ARISTE
@@ -3198,7 +3198,7 @@ Puis qu'il leur faut du temps pour aller & venir,
 Servons nous en du moins pour nous entretenir.  
 
 
-### SCENE VI
+### SCENE VI 
 
     JODELET *seul sous l'habit d'un Archer.*
 Amour jeune falot⁎, petit monstre fantasque [271],  
@@ -3268,7 +3268,7 @@ La Verdure [285],
     JODELET *bas.*
 Commande à tes valets.  
 
-    LE CAPORAL
+    LE CAPORAL 
         Si je vay jusqu'à vous  
 Dans ma mauvaise humeur je vous roûray de coups.  
 Ces feneans s'en vont, & font les galans hommes.  
@@ -3295,7 +3295,7 @@ Peste !
         Ce n'est pas luy, je le reconnois bien !  
 Ton nom ?  
 
-    JODELET
+    JODELET 
     C'est Jodelet,  
 
     LE CAPORAL
@@ -3328,7 +3328,7 @@ Et pourquoy ?
 Ce matois fait le fol ! il n'est pas tant de rire.  
 Sors de là !  
 
-    JODELET
+    JODELET 
         J'y serois jusqu'à demain matin.  
 A d'autre, viel amy, vous m'espreuvez en vain :  
 Je n'en branslerois⁎ pas pour gagner un Empire.  
@@ -3379,7 +3379,7 @@ Au meurtre, l'on m'assomme, on me vole, on me tuë !
 Au diable soit l'amour, la maison & la ruë !  
 Lettres, message, amy, maistresse, casaquin⁎,  
 Sentinelle, poignard, halebarde⁎ & Rouquin [288].  
-Fin du troisiesme Acte.
+Fin du troisiesme Acte. 
 
 
 ## ACTE IV
@@ -3431,7 +3431,7 @@ Le nom de Perre en fin.
     PANCRACE
         La fourbe est assez bonne.  
 
-    ORONTHE
+    ORONTHE 
 Moy pour ne tesmoigner mes desseins à personne,  
 Je vais avec Climante encore raisonner  
 Pour berner nostre fat⁎, qui s'appreste à donner  
@@ -3456,7 +3456,7 @@ ORONTHE, CLIMANTE.
     CLIMANTE
 Oüy de nous voir trompés.  
 
-    ORONTHE
+    ORONTHE 
         O l'amant plain de zele !  
 Qui n'ose venir voir sa maistresse le soir ?  
 
@@ -3489,7 +3489,7 @@ Il s'y faut preparer.
         Le tour sera d'esprit.  
 
 
-### SCENE III
+### SCENE III 
 ORONTHE, CLIMANTE, LISETTE.
 
 
@@ -3515,7 +3515,7 @@ Tu m'obliges.
     ORONTHE
 Allons.  
 
-    LISETTE *seule.*
+    LISETTE *seule.* 
         Ay-je dessein de mourir de la tous ?  
 Et la fraischeur qui vient de l'air & de la terre  
 Pourroit-elle estre bonne à guerir mon catherre [290] ?  
@@ -3536,7 +3536,7 @@ Vrayement c'est bien à luy de faire le cruel,
 Mais c'est luy que j'entens qui nasonne [292] & qui gronde.  
 
 
-### SCENE IV
+### SCENE IV 
 JODELET, LISETTE.
 
 
@@ -3559,7 +3559,7 @@ Que ne viens-tu pour voir celle qui t'y cherchoit ?
 Que l'on me cherche ou non, ma foy pour te le dire,  
 Laisse moy, l'on n'est pas tousjours d'humeur à rire.  
 
-    LISETTE
+    LISETTE 
 Te priant d'arrester tu me refuserois ?  
 
     JODELET
@@ -3588,7 +3588,7 @@ Mon bedon [296], mon fanfan, mon poupon, mon valet.
     JODELET
 Ah ! ne me touche point avecque tes mains sales.  
 
-    LISETTE
+    LISETTE 
 Es-tu si delicat ?  
 
     JODELET
@@ -3674,7 +3674,7 @@ Mes yeux se sont trompez, j'ay mal fait ma partie.
     JODELET
 Pancrace,  
 
-    PANCRACE
+    PANCRACE 
         Qui va-là ? Que viens-tu faire icy ?  
 
     JODELET
@@ -3701,8 +3701,8 @@ Elle perdra l'esclat de mon Apotheose !
     JODELET
 Sans doute, mais encor que veut dire ce mot ?  
 
-    PANCRACE *en frappant sur l'espaule de Jodelet.* 
-            
+    PANCRACE *en frappant sur l'espaule de Jodelet.*
+             
 J'ayme les curieux.  
 
     JODELET *faisant l'habile homme.*
@@ -3728,7 +3728,7 @@ Il vend bien du mercure & du diapalma⁎.
 En voulant t'enseigner mon erreur est extréme,  
 Mais je n'y prens pas garde, à cause que je t'aime.  
 
-    JODELET
+    JODELET 
 De vray, l'on dit qu'amour aveugle les esprits,  
 Je crois qu'il fait du mal !  
 
@@ -3755,7 +3755,7 @@ Je sçais bien que l'amour n'est qu'un fils de putain,
 Qu'un rustre estoit aimé de Madame sa mere,  
 Et qu'il ne fut jamais à feu Monsieur son pere.  
 
-    PANCRACE
+    PANCRACE 
 Ce divin forgeron, ce boiteux renommé  
 Qui regne auprés du Styx sur un Trosne enfumé,  
 Et qui preste la force au bras nerveux de Bronthe°,  
@@ -3809,7 +3809,7 @@ Voyla bien de quoy rire !
         Ah ! stupide, ah ! profane,  
 Nommer un Philosophe un faiseur de rebus ?  
 
-    JODELET
+    JODELET 
 Mais n'est-ce pas tout un, puis qu'il parloit Phebus [307] ?  
 Dis-en la verité.  
 
@@ -3865,7 +3865,7 @@ Lisette…
     PANCRACE
     Que dis-tu ?  
 
-    JODELET
+    JODELET 
         Je ne suis point menteur.  
 
     PANCRACE
@@ -3893,7 +3893,7 @@ Tu l'aimes ?
     PANCRACE
     Mais…  
 
-    JODELET
+    JODELET 
         J'en ay bien veu d'autres.  
 Ils [313] ont beau me prier, mon honneur m'est trop cher,  
 S'ils veulent de l'amour qu'ils en aillent chercher,  
@@ -3919,8 +3919,8 @@ Et que je ne sois plus un garçon vergogneux [317] ;
 Je sçay ce qu'on disoit de Pierrot le honteux  
 Quand il s'amouracha de sa jeune commere⁎.  
 
-    PANCRACE 
-            
+    PANCRACE
+             
 Mais…  
 
     JODELET
@@ -3948,7 +3948,7 @@ Et que tous tes discours sont bien extravagans⁎ ?    
     PANCRACE
 Ne raille point amy, dis moy tout, je te prie.  
 
-    JODELET
+    JODELET 
 Je parle tout de bon, ce n'est point raillerie ;  
 Elle m'a dit de plus que tu veux l'espouser,  
 Et que sur l'escalier en la voulant baiser,  
@@ -3975,7 +3975,7 @@ Que ne te puis-je voir aller à tous les Diables !
     PANCRACE
 Mal-heureux qu'ay-je-fait !  
 
-    JODELET
+    JODELET 
     Au moins.  
 
     PANCRACE
@@ -4000,8 +4000,8 @@ ARISTE, JODELET, Trouppe de Violons, PANCRACE, CLIMANTE cachez, avec une autre t
     PANCRACE
 Allons donc advertir mon maistre qu'il descende.  
 
-    ARISTE *à ses Violons, sans faire semblant de sçavoir* 
-              *que Climante est caché.*
+    ARISTE *à ses Violons, sans faire semblant de sçavoir*
+              *que Climante est caché.* 
 Voicy le bel endroit, allons donnez !  
 
     CLIMANTE  *à ses Violons.*
@@ -4062,7 +4062,7 @@ Toy ! si tu l'avois fait avecque ce flambeau,
 Je te ferois griller comme on fait un pourceau.  
 Veux-tu voir ?  
 
-    JODELET
+    JODELET 
         Ah ! Monsieur, escoutez moy, de grace,  
 Je disois qu'en courrant, il casseroit sa basse,  
 Et parlois à mon maistre afin qu'il s'appaisast.  
@@ -4091,7 +4091,7 @@ Tout cela git en preuve.
         Ah ! la grande beveuë,  
 Amis, retirez vous, vostre cause est perduë.  
 
-    CLIMANTE
+    CLIMANTE 
 Ne riez pas encore, & preuvez seulement.  
 
     ARISTE
@@ -4121,7 +4121,7 @@ J'ay couché sur sa porte.
     ARISTE
 J'ay fait la sentinelle.  
 
-    CLIMANTE
+    CLIMANTE 
         Et moy le pied de gruë.  
 
     ARISTE
@@ -4151,7 +4151,7 @@ J'ay donné des concerts.
     ARISTE
 J'ay donné mille escus pour porter un poulet⁎.  
 
-    CLIMANTE
+    CLIMANTE 
 J'en ay despensé deux pour gaigner un valet.  
 
     ARISTE
@@ -4181,7 +4181,7 @@ J'ay donné des galans⁎.
     ARISTE
 J'ay donné cent Guenons.  
 
-    CLIMANTE
+    CLIMANTE 
         Et moy cent perroquets.  
 
     ARISTE
@@ -4211,7 +4211,7 @@ Moy pour un soir au bal deux mille citrons doux.
     ARISTE
 En cent lieux de Daphné j'ay la belle peinture.  
 
-    CLIMANTE
+    CLIMANTE 
 Je l'ay de sa hauteur fait peindre en mi-nature.  
 
     ARISTE
@@ -4238,7 +4238,7 @@ Là dedans.
 Oronthe appaisera cette noise⁎ entre nous  
 Cet homme est fort commode.  
 
-    CLIMANTE
+    CLIMANTE 
         On dit qu'il est jaloux.  
 
     ARISTE
@@ -4265,7 +4265,7 @@ Exibez vous, Monsieur, & par quelques adages
 De ces periclitans, dissipez les ambages⁎.  
 
 
-### SCENE VII
+### SCENE VII 
 ARISTE, CLIMANTE, ORONTHE, PANCRACE, JODELET [331], Les deux troupes de Violons.
 
 
@@ -4319,7 +4319,7 @@ Ce debat dureroit jusqu'à demain matin.
     ARISTE
 En ces beaux jours d'Esté…  
 
-    PANCRACE
+    PANCRACE 
         L'exorde n'est pas fade.  
 
     ARISTE
@@ -4346,7 +4346,7 @@ J'entens un bel objet⁎ qui vous chatouille l'ame.
     CLIMANTE
 Oüy, Monsieur une fille.  
 
-    ORONTHE
+    ORONTHE 
     Et vous ?  
 
     ARISTE
@@ -4405,7 +4405,7 @@ Je ne crains point l'amour dans un esprit tranquille,
 Et je distingue bien le bon & le mauvais :  
 Mais allez je vous laisse.  
 
-    CLIMANTE
+    CLIMANTE 
         Adieu vivez en paix.  
 
     ARISTE
@@ -4463,7 +4463,7 @@ Il n'en est pas au monde un plus sot.
     ARISTE
 Je te rens grace Amour, je les tiens au filet,  
 Les fourbes sont duppez, fais joüer Jodelet.  
-Fin du quatriesme Acte.
+Fin du quatriesme Acte. 
 
 
 ## ACTE V
@@ -4515,7 +4515,7 @@ Exprimer de mes feux la forte violence,
 Et mes tristes⁎ regards à travers de mes fers  
 Ont droict seuls de parler des maux que j'ay soufferts⁎.  
 
-    OLIMPE
+    OLIMPE 
 Un si profond respect est certes admirable.  
 
     ARISTE
@@ -4548,7 +4548,7 @@ Qu'il est aisé d'aymer ce que l'on treuve aimable⁎ !
     OLIMPE
 C'est offenser l'honneur que ne vous aimer pas !  
 
-    ARISTE
+    ARISTE 
 C'est suivre la vertu que marcher sur vos pas.  
 
 
@@ -4572,7 +4572,7 @@ Tu ne sçais pas le nœud de nostre stratageme.
     OLIMPE
 Dites-luy que cent fois j'ay dit que je vous ayme !  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.* 
 Je te rends grace, amour !  
 
     ARISTE
@@ -4600,7 +4600,7 @@ M'apprendra par Ariste à quel poinct elle m'aime.
 Je treuve en vous voyant un trop puissant secours  
 Pour ne le prier pas de m'envoyer tousjours.  
 
-    CLIMANTE *bas.*
+    CLIMANTE *bas.* 
 Et j'ay trop de plaisir d'un si plaisant message  
 Pour ne te faire pas joüer ce personnage.  
 
@@ -4628,7 +4628,7 @@ Je sçauray mesnager cet amant miserable.
     CLIMANTE *bas.*
 Ce nom d'amant me choque, & n'est point agreable.  
 
-    OLIMPE
+    OLIMPE 
 Vous n'avez plus long-temps à souffrir⁎ ce rival.  
 
     ARISTE
@@ -4661,7 +4661,7 @@ Le traistre…
     OLIMPE
     L'insolent.  
 
-    ARISTE
+    ARISTE 
     Le fourbe.  
 
     CLIMANTE *bas.*
@@ -4691,7 +4691,7 @@ Mais j'apperçois Oronthe.
     JODELET *tout essouflé* [335].
     Ah !  
 
-    ARISTE
+    ARISTE 
     Qu'estre.  
 
     JODELET
@@ -4720,7 +4720,7 @@ Hé bien !
     CLIMANTE *froidement.*
 Mais quelle ? je me treuve au bout de mes leçons !  
 
-    ORONTHE
+    ORONTHE 
 D'effet l'on l'a joüé de toutes les façons.  
 
     CLIMANTE
@@ -4750,7 +4750,7 @@ Ainsi je puis tout haut me vanger d'un rival.
 Si prest de mon depart je ne l'entens pas mal.  
 La piece est assez bonne.  
 
-    CLIMANTE
+    CLIMANTE 
         Et sera bien menée,  
 Pourveu qu'Olimpe essaye à faire l'estonnée,  
 Et feigne adroitement de vous croire jaloux  
@@ -4778,7 +4778,7 @@ Allons vers ces jardins [338], c'est là qu'ils s'entretiennent.
 Ne sortons point d'icy, je les revoy qui viennent.  
 
 
-### SCENE IV
+### SCENE IV 
 ORONTHE, CLIMANTE, OLIMPE, ARISTE.
 
 
@@ -4801,7 +4801,7 @@ De quoy l'accusez-vous ? d'où vient vostre colere ?
 En quoy sans y penser ay-je pû vous desplaire ?  
 Sans doute que tantost il m'avoit escouté [339].  
 
-    CLIMANTE
+    CLIMANTE 
 De nous priver du bien de voir cette beauté,  
 Que vous voulez contraindre à trop de violence.  
 
@@ -4830,8 +4830,8 @@ Il croit ce qu'elle dit.
 Et dévroit tesmoigner davantage de crainte,  
 Il seroit deferé⁎ si chacun le quittoit.  
 
-    ORONTHE [341] 
-            
+    ORONTHE [341]
+             
 Ce coup d'œil la va rendre autre qu'elle n'estoit.  
 
     OLIMPE
@@ -4858,7 +4858,7 @@ Mais je ne puis comprendre à quel propos Climante,
 Estant le protecteur de ma flâme innocente,  
 Pour la rendre suspecte a fait tout ce qu'il peut !  
 
-    CLIMANTE
+    CLIMANTE 
 Les choses vont souvent plus loin que l'on ne veut ;  
 Et quand je reconnois quelles sont vos pensées,  
 Je voudrois rappeller mes actions passees.  
@@ -4915,7 +4915,7 @@ Le lasche.
         Vous joüez trop bien ce personnage,  
 Gardez de la fascher.  
 
-    CLIMANTE *tout haut.*
+    CLIMANTE *tout haut.* 
         Ce n'est qu'une volage.  
 
     ORONTHE *bas.*
@@ -4945,7 +4945,7 @@ C'en est assez.
     CLIMANTE *haut.*
         Il faut que ma colere esclatte.  
 
-    ARISTE
+    ARISTE 
 Qu'il a bien pris son temps pour se plaindre de vous !  
 Mais nostre tour viendra pour nous mettre en courroux.  
 
@@ -4974,7 +4974,7 @@ Si je fais bien ou mal laissez agir Oronthe.
     ORONTHE
 Arrestés…  
 
-    CLIMANTE
+    CLIMANTE 
         Je luy veux monstrer ce que je puis.  
 
     ARISTE *bas.*
@@ -5005,7 +5005,7 @@ Que faictes vous ?
     ORONTHE
 A quoy donc ?  
 
-    ARISTE
+    ARISTE 
         A sortir promptement de ces lieux  
 N'y pouvant plus souffrir⁎ d'y voir des envieux.  
 
@@ -5031,7 +5031,7 @@ ARISTE, OLIMPE.
     ARISTE
 Il croit adroittement vous avoir offensée.  
 
-    OLIMPE
+    OLIMPE 
 Mon apprehension n'est pas encore passée.  
 Je crains tout d'un secret qui peut estre esventé.  
 
@@ -5058,7 +5058,7 @@ Presentant le malheur qui luy doit arriver
 Destournera le coup qui me doit conserver.  
 Il ne faut qu'un moment pour destruire l'affaire.  
 
-    ARISTE
+    ARISTE 
 Il peut icy beaucoup.  
 
     OLIMPE
@@ -5083,7 +5083,7 @@ Cachez vous, & voyez l'effet de ma colere
     ARISTE
 Feignez bien !  
 
-    OLIMPE *en riant.*
+    OLIMPE *en riant.* 
         Qu'avez-vous ? vous semblez esperdu !  
 
     ORONTHE
@@ -5112,7 +5112,7 @@ Vous vous repentirez d'avoir esté trop sage.
 Je me suis repenty d'aimer une volage,  
 Dont l'ame trop sensible aux feux d'un insensé.  
 
-    ARISTE
+    ARISTE 
 Monsieur …  
 
     ORONTHE
@@ -5141,7 +5141,7 @@ Oüy, c'est trop abuser de ma facilité.
     OLIMPE
 Il ne faut donc jamais dire la verité ?  
 
-    ORONTHE
+    ORONTHE 
 Cherir un innocent [350] !  
 
     OLIMPE
@@ -5172,7 +5172,7 @@ Mais…
 Le despit où je suis passe la raillerie,  
 Et mon ressentiment va jusqu'au dernier poinct.  
 
-    OLIMPE
+    OLIMPE 
 Ne vous contraignez plus vous ne m'y prendrez point.  
 
     ARISTE *voyant Oronthe le dos tourné.*
@@ -5203,7 +5203,7 @@ Et tout autre que moy sans doute s'y prendroit.
     ORONTHE
 Tréve de raillerie à la fin je m'en lasse.  
 
-    OLIMPE
+    OLIMPE 
 Vous me bernez pourtant avec assez de grace.  
 
     ORONTHE *bas.*
@@ -5234,7 +5234,7 @@ Vous faschez vous encor ?
     ORONTHE *bas.*
         Climante n'est qu'un sot.  
 
-    OLIMPE
+    OLIMPE 
 Jaloux ?  
 
     ORONTHE *bas.*
@@ -5265,7 +5265,7 @@ Si je le voy tanstot, je luy donneray bonne⁎.
 Au moins conseillés-luy de ne joüer personne.  
 
 
-### SCENE VII
+### SCENE VII 
 OLIMPE, ARISTE, ORONTHE, PANCRACE.
 
 
@@ -5291,7 +5291,7 @@ Le temps vient.
         Mes pistolets, quel trouble !  
 
     LISETTE     [354]
-
+             
 Monsieur la foule croit, & le bruit se redouble !  
 
     ORONTHE
@@ -5344,7 +5344,7 @@ Dedans la ville d'Aix ne l'as-tu pas ravie ?
     OLIMPE
 Mais vous m'avez promis de luy sauver la vie.  
 
-    ARISTE
+    ARISTE 
 Madame, vos parens seront icy demain !  
 S'il obtient un pardon ce sera de leur main.  
 Pour luy nostre bonté seroit trop criminelle.  
@@ -5375,7 +5375,7 @@ Que ferois-tu ?
     CLIMANTE
 Tu ne parleras pas tousjours si hardiment.  
 
-    ARISTE
+    ARISTE 
 Tu ne jouras plus au moins impunement,  
 Si j'ay passé pour sot en fin j'ay l'avantage,  
 De te voir aujourd'huy joüer mon personnage,  
@@ -5403,7 +5403,7 @@ Ah ! ne leur faictes point l'honneur de leur parler.
     CLIMANTE
 Tu te repentiras de ce que tu hasardes.  
 
-    L’EXEMPT
+    L’EXEMPT 
 Madame, je leur vay faire donner des gardes.  
 Messieurs, il me faut suivre, allons, sortons d'icy.  
 
@@ -5434,7 +5434,7 @@ Ah ! trop cruelle Olimpe.
     OLIMPE
 Je respons de nos jours [356].  
 
-    ORONTHE
+    ORONTHE 
     Ah !  
 
     OLIMPE
@@ -5467,7 +5467,7 @@ Lisette…
     OLIMPE
         Pauvre Amante !  
 
-    ARISTE *en monstrant Jodelet.*
+    ARISTE *en monstrant Jodelet.* 
 Va nous te le donnons & cent escus de rente.  
 
     JODELET

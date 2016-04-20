@@ -103,7 +103,7 @@ Allerent dire aux siens qu'ils en avoient leur part.
 -*who_dorize
 Il est fils d'un vainqueur qui vous tient dans ses chaines.
 
--*who_roxalie
+-*who_roxalie 
 Mais Prince dont les soins⁎ ont adoucy nos peines.
 Mon cœur par ses respects comme presque forcé,
 Acheve ce que l'œil a si bien commencé,
@@ -127,7 +127,7 @@ Je vois venir Themir.
 -*who_roxalie
       Sors, & nous laisse ensemble.
 
--*who_dorize
+-*who_dorize 
 Vous luy devriez parler pour la derniere fois,
 
 -*who_roxalie
@@ -149,7 +149,7 @@ Serez-vous du combat ?
 -*who_roxalie
 Sur qui porterez-vous la pointe de vos armes ?
 
--*who_themir
+-*who_themir 
 O fatale rencontre & digne de nos larmes !
 
 -*who_roxalie
@@ -174,7 +174,7 @@ Desja vous vous pressiez de m'aller obeyr,
 Sur ce commandement m'auriez-vous pû trahir ?
 Enfin declarez-vous, combattrés-vous mon pere ?
 
--*who_themir
+-*who_themir 
 Je ne puis démeler qui des deux je prefere,
 J'écoute également l'amour & le devoir,
 Et tous deux sur mon ame ont un mesme pouvoir ;
@@ -228,7 +228,7 @@ J'en suis moins criminel, si je trouve un complice.
 -*who_roxalie
 J'exige de vostre ame un rigoureux service,
 
--*who_themir
+-*who_themir 
 Commandez.
 
 -*who_roxalie
@@ -256,7 +256,7 @@ Et vous devriez rougir de vostre estonnement.
 -*who_themir
 Cruelle Roxalie !
 
--*who_roxalie
+-*who_roxalie 
       Et vous Prince timide⁎ !
 
 -*who_themir
@@ -285,7 +285,7 @@ Adieu.
 Elle emporte avec soy la moitié de ma vie.
 Allons perdre le reste.
 
-**** *book_ *id_scene3-I *act_acteI *date_1648 *creator_magnon
+**** *book_ *id_scene3-I *act_acteI *date_1648 *creator_magnon 
 
 -*who_indarthize
       Hé bien agirons-nous ?
@@ -305,7 +305,7 @@ Il les faut dégager de cette servitude.
 Quoy les faire evader pendant nostre combat,
 Madame, on ne le peut.
 
--*who_indarthize
+-*who_indarthize 
       Tout est en bon estat,
 Et leur évasion est si bien conjurée,
 Que vray-semblablement je puis estre asseurée,
@@ -357,7 +357,7 @@ Il vous le peut bien estre, & selon l'apparence,
 -*who_themir
 Qu'avez-vous presumé ?
 
--*who_indarthize
+-*who_indarthize 
       Faut-il que je le pense,
 Et que je vous le die ?
 
@@ -409,7 +409,7 @@ Je vay de Bajazet me rendre prisonnier :
 -*who_indarthize
 Quoy tenter ce moyen ?
 
--*who_themir
+-*who_themir 
       Ce sera le dernier.
 
 -*who_indarthize
@@ -427,7 +427,7 @@ Je vay de mon costé tenter leurs délivrances.
 -*who_themir
 Et je sçauray du mien sauver les apparences.
 
-**** *book_ *id_scene4-I *act_acteI *date_1648 *creator_magnon
+**** *book_ *id_scene4-I *act_acteI *date_1648 *creator_magnon 
 
 -*who_tamerlan
 Themir arrestés-vous, & vous, Madame, aussi,
@@ -523,7 +523,7 @@ Vous cherchez les moyens de vous justifier,
 De vous ainsi que d'elle on se doit défier ;
 Vous deviez partager la gloire de leur fuite.
 
--*who_themir
+-*who_themir 
 D'une action si noble elle a tout le merite ;
 Et je serois injuste en le luy ravissant.
 
@@ -604,7 +604,7 @@ Ils vont s'envelopper sous un thrône qui tombe,
 Et pensant retenir la pante qu'il a pris,
 Ils vont dessus leur teste attirer son débris.
 
--*who_selim
+-*who_selim 
 Quoy, le grand Bajazet, le vainqueur de la terre,
 Et qu'on a surnommé le foudre de la guerre,
 Se dément-il si tost d'un si superbe⁎ nom ?
@@ -686,7 +686,7 @@ Il doit venir bien tost.
 -*who_bajazet
       Je suis las de l'attendre.
 
--*who_selim
+-*who_selim 
 Zilim de nostre part ; il vient nous aborder.
 
 **** *book_ *id_scene2-II *act_acteII *date_1648 *creator_magnon
@@ -709,7 +709,7 @@ Il entre, abaissez-vous devant ce Dieu visible.
 -*who_bajazet
 Que cette humilité m'est honteuse & sensible !
 
-**** *book_ *id_scene3-II *act_acteII *date_1648 *creator_magnon
+**** *book_ *id_scene3-II *act_acteII *date_1648 *creator_magnon 
 
 -*who_tamerlan
 Exposez vostre charge⁎.
@@ -730,7 +730,7 @@ Des Traces, de Nicée, & de la Pamphilie,
 Souverain de Phocide, & de la Natolie :
 A Tamerlan.
 
--*who_tamerlan
+-*who_tamerlan 
       Ton Maistre a-t-il crû me braver ?
 Je le mettray plus bas qu'il ne veut s'élever :
 Les qualitez qu'il prend monstrent son arrogance ,
@@ -860,7 +860,7 @@ Ne prendrez qu'à regret ce honteux advantage⁎.
 -*who_tamerlan
 Qu'on appelle sa femme.
 
--*who_bajazet
+-*who_bajazet 
       Il s'est humilié :
 Mais quoy que Bajazet se soit tant oublié,
 C'est un abaissement dont il n'est point capable,
@@ -934,7 +934,7 @@ Je l'attends au combat.
 -*who_tamerlan
 Que l'on les laisse seuls, Gardes sortez d'icy.
 
-**** *book_ *id_scene5-II *act_acteII *date_1648 *creator_magnon
+**** *book_ *id_scene5-II *act_acteII *date_1648 *creator_magnon 
 
 -*who_orcazie
 Que notre estonnement le cede à nos caresses !
@@ -1056,7 +1056,7 @@ Allez participer à leur secret accord,
 Et dans ce double Hymen⁎ allez jurer ma mort :
 Je vais.
 
-**** *book_ *id_scene6-II *act_acteII *date_1648 *creator_magnon
+**** *book_ *id_scene6-II *act_acteII *date_1648 *creator_magnon 
 
 -*who_zilim
       Arrestez-vous.
@@ -1244,7 +1244,7 @@ Pouvez-vous ressentir & vos fers⁎ & les siens ?
 Vous agissez, Madame, avec un trop grand zele⁎,
 Et vostre pieté vous rendra criminelle.
 
--*who_indarthize
+-*who_indarthize 
 L'amour, ny la vertu⁎ ne me font plus agir,
 De plus lasches motifs me forcent de rougir :
 Est-ce par l'interest qu'il faut toucher vostre ame ?
@@ -1418,7 +1418,7 @@ Et blâme également sa cause & son effet.
 O Ciel ! en quel estat trouve-je Roxalie ?
 Ah ma fille ! est-ce ainsi qu'une fille s'oublie ?
 
-**** *book_ *id_scene5-III *act_acteIII *date_1648 *creator_magnon
+**** *book_ *id_scene5-III *act_acteIII *date_1648 *creator_magnon 
 
 -*who_tamerlan
 Et quoy ! que tentez-vous dessous ce vestement ?
@@ -1557,7 +1557,7 @@ Il demande sa fille ;
 -*who_tamerlan
       Elle s'en va le voir.
 
--*who_themir
+-*who_themir 
 Quoy Roxalie est libre ?
 
 -*who_tamerlan
@@ -1584,7 +1584,7 @@ L'honneur t'engage moins que ne fait Roxalie ;
 Retourne dans son camp, va chez mes ennemis,
 Va, mesme contre moy, le combat t'est permis.
 
--*who_themir
+-*who_themir 
 Ah, Seigneur, que plustost !
 
 -*who_tamerlan
@@ -1638,7 +1638,7 @@ Seigneur il est tout prest.
 -*who_themir
 Au moins dans mes souhaits j'auray part à sa gloire.
 
--*who_tamerlan
+-*who_tamerlan 
 Sors, sors, voicy la fin de ta captivité.
 
 -*who_themir
@@ -1897,7 +1897,7 @@ Et je m'en vay plonger mon espée en mon sein.
 -*who_roxalie
 Seigneur nous vous suivons.
 
-**** *book_ *id_scene4-IV *act_acteIV *date_1648 *creator_magnon
+**** *book_ *id_scene4-IV *act_acteIV *date_1648 *creator_magnon 
 
 -*who_le_soldat
       Prince l'on suit vos traces,
@@ -1945,7 +1945,7 @@ Seigneur, considerez que vous estes son pere.
 -*who_orcazie
 Ah ! Seigneur, que sur moy tombe vostre cholere.
 
--*who_roxalie
+-*who_roxalie 
 Que je sois exposée à vos ressentimens,
 Eclatez dessus moy vos premiers mouvemens.
 
@@ -2085,7 +2085,7 @@ Ton propre accusateur commence à te punir ;
 Apres que ton remords aura fait son office,
 J'acheveray tes maux par un dernier supplice.
 
--*who_bajazet
+-*who_bajazet 
 Si je l'ay merité, ne le differe pas.
 
 -*who_tamerlan
@@ -2142,7 +2142,7 @@ Quoy, le recompenser !
 -*who_tamerlan
       Je te donne un rival.
 
--*who_themir
+-*who_themir 
 Juste indignation dont mon ame est saisie !
 
 -*who_tamerlan
@@ -2193,7 +2193,7 @@ Ah, pere trop barbare !
 Verrez-vous Orcazie au pouvoir de ce traistre ?
 Adieu.
 
--*who_themir
+-*who_themir 
       Plustost ma mort !
 
 -*who_tamerlan
@@ -2290,7 +2290,7 @@ Je te vois enchaisné, le salaire t'est deu.
 -*who_selim
 Je me perds, Bajazet, après t'avoir rendu.
 
--*who_bajazet
+-*who_bajazet 
 Est-ce pour m'affliger qu'on m'envoye ce traistre ?
 
 -*who_zilim
@@ -2366,7 +2366,7 @@ D'un mortel deshonneur j'ay sauvé ta famille,
 Des mains d'un ennemy j'ay dégagé ta fille ;
 Tu m'en es redevable, & tu vas m'en punir :
 
--*who_bajazet
+-*who_bajazet 
 Ah ! de quels attentats⁎ viens-tu m'entretenir ?
 Que ne puis-je moy-mesme exercer ma vengeance !
 Chaisnes, qui me mettez dedans cette impuissance !
@@ -2413,7 +2413,7 @@ Et pour finir enfin les maux que j'ay souffers ?
 -*who_zilim
 J'ay le commandement de t'oster de ces fers⁎.
 
--*who_bajazet
+-*who_bajazet 
 Je ne suis plus captif.
 
 -*who_zilim
@@ -2440,7 +2440,7 @@ Mon Maistre en a laissé le choix à ton envie :
 Accepte ce poignard, dont il te fait present ;
 Si tu veux du poison ?
 
--*who_bajazet
+-*who_bajazet 
       Cét objet m'est charmant,
 C'est le don que je veux, & qu'il me plaist élire ;
 Apres cette faveur, qu'il garde mon Empire.
@@ -2471,7 +2471,7 @@ Que je meure en repos, oste d'icy ta garde.
 -*who_zilim
 Soldats qu'on le contente, éloignez-vous d'icy.
 
-**** *book_ *id_scene4-V *act_acteV *date_1648 *creator_magnon
+**** *book_ *id_scene4-V *act_acteV *date_1648 *creator_magnon 
 
 -*who_bajazet
 Hé bien, cruelle mort ! il me reste un soucy,
@@ -2490,7 +2490,7 @@ Mourons. Mais je la voy, cachons luy ce poignard,
 Suspendons quelque instant nostre derniere envie,
 Et pour quelques momens revenons à la vie.
 
-**** *book_ *id_scene5-V *act_acteV *date_1648 *creator_magnon
+**** *book_ *id_scene5-V *act_acteV *date_1648 *creator_magnon 
 
 -*who_bajazet
 Hé bien ! quel est ton sort ?
@@ -2594,7 +2594,7 @@ Tu m'as fait un present, & je t'en fais un autre.
 -*who_orcazie
 Je veux, mon Bajazet, je veux user du vostre.
 
--*who_bajazet
+-*who_bajazet 
 Faut-il que je te fasse un present si fatal ?
 
 -*who_orcazie
@@ -2619,7 +2619,7 @@ En vain dedans mon corps vas-tu chercher mon ame :
 Puisqu'Orcazie est morte, il n'est plus animé,
 Et mon ame vivoit dedans l'objet aymé.
 
-**** *book_ *id_scene6-V *act_acteV *date_1648 *creator_magnon
+**** *book_ *id_scene6-V *act_acteV *date_1648 *creator_magnon 
 
 -*who_tamerlan
 Tu n'es pas encor mort, tardes-tu davantage ?

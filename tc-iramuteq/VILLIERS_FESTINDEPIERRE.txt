@@ -947,7 +947,7 @@ Et dans l'extrémité la peur le porterait ;
 Soyez donc vigilants, car en pareille affaire
 Vous ne savez que trop ce que la peur fait faire.
 
--*who_archer
+-*who_archers
 Monsieur, je vous promets, quand il aurait cent bras,
 Dès que je le joindrai, de le porter à bas ;
 Et je lui serrerai si bien la gargamelle,
@@ -959,7 +959,7 @@ En cette affaire-ci, nous sommes absolus,
 Nous avons liberté de tuer, ou de prendre,
 C'est pourquoi gardons bien de nous laisser surprendre.
 
--*who_archer
+-*who_archers
 Monsieur, j'ai de bons yeux, et de meilleures mains.
 
 -*who_prevot
@@ -970,7 +970,7 @@ Qui risque pour tout perdre, et qui va faire effort
 Pour nous faire acheter bien chèrement sa mort.
 J'ouïe du bruit, compagnons. Avance, la Montagne.
 
--*who_archer
+-*who_archers
 Roquetaillade, avance à moi.
 
 **** *book_ *id_II07 *act_II *date_1659 *creator_villiers
@@ -983,7 +983,7 @@ Si le Ciel par bonté ne me garde de pis.
 -*who_prevot
 Abordons finement, si nous le voulons prendre.
 
--*who_archer
+-*who_archers
 Mais prenons garde aussi, Monsieur, de nous méprendre.
 
 -*who_prevot
@@ -2465,7 +2465,7 @@ Dans cette hôtellerie, à deux cents pas d'ici.
 -*who_philipin
 Ombre, viendrez vous pas ? dites.
 
--*who_ombre
+-*who_spectre
       Oui.
 
 -*who_philipin
@@ -2709,7 +2709,7 @@ Pour dire tout aussi, cette pauvre retraite
 Où tu vois que je suis fort mal commodément
 Fait que je ne puis pas te traiter autrement.
 
--*who_ombre
+-*who_spectre
 Ni tes mets plus exquis, ni ta meilleure chère,
 N'est pas ce que de toi présentement j'espère.
 Je viens voir, sur le point de ta punition,
@@ -2742,7 +2742,7 @@ Que je le serais plus du moindre vent qui passe.
 Tu crois m'intimider à force de parler,
 Mais apprends que mon coeur ne se peut ébranler.
 
--*who_ombre
+-*who_spectre
 Tu présumes peut être, et tu te persuades,
 Que les esprits des morts sont des esprits malades
 Qui, dépouillés des corps, le sont de la raison,
@@ -2799,7 +2799,7 @@ Eh bien ! approche donc et me tiens compagnie.
 À moi n'appartient pas tant tant de braverie.
 Esprit, si vous vouliez un peu vous sustenter...
 
--*who_ombre
+-*who_spectre
 Ah ! J'ai bien d'autres mets dont je m'en vais goûter ;
 Ils seront éternels, mais ce bien périssable
 Ne durera qu'autant que tu seras à table.
@@ -2842,7 +2842,7 @@ Le drôle a bien eu la raison.
 Ombre, qu'en dites-vous ? La chanson est gentille !
 Chante un peu le combat gagné sur Amarille.
 
--*who_ombre
+-*who_spectre
 Ah !
 
 -*who_donjuan
@@ -2852,28 +2852,28 @@ Tu peux nous dire adieu bientôt, et grand merci.
 -*who_philipin
 Monsieur, c'est fort bien dit, qu'il aille à tous les diables.
 
--*who_ombre
+-*who_spectre
 Misérable valet entre les misérables !
 
 -*who_philipin
 Hélas ! Monsieur l'Esprit, je ne vous ai rien fait ;
 Ayez pitié de moi.
 
--*who_ombre
+-*who_spectre
       Malheureux, en effet,
 De suivre aveuglément les débauches d'un maître.
 
 -*who_philipin
 Hélas ! Vous dites vrai.
 
--*who_ombre
+-*who_spectre
       Plus perfide et plus traître
 Que tous les scélérats.
 
 -*who_philipin
       Je lui dis tous les jours.
 
--*who_ombre
+-*who_spectre
 Qui l'as toujours servi dans ses sales amours.
 
 -*who_philipin
@@ -2899,7 +2899,7 @@ Une âme inébranlable et de crainte incapable ;
 Et quand je toucherais à mon dernier instant,
 Je te crains aussi peu mort que j'ai fait vivant.
 
--*who_ombre
+-*who_spectre
 Puisque ton âme enfin est si bien résolue,
 Que sans crainte tu pus attendre ma venue,
 Je suis fort satisfait de ta réception ;
@@ -2909,7 +2909,7 @@ Je te prie à souper.
 -*who_donjuan
       J'irai sans faute.
 
--*who_ombre
+-*who_spectre
       Espère
 Qu'un mort, quoique offensé, te fera bonne chère.
 Je t'ai tenu parole en me trouvant ici,
@@ -2918,13 +2918,13 @@ Me tiendras tu la tienne ?
 -*who_donjuan
       Oui, sans peur.
 
--*who_ombre
+-*who_spectre
       Grand merci.
 
 -*who_donjuan
 Mais où vas-tu m'attendre ?
 
--*who_ombre
+-*who_spectre
       Au plus tard dans une heure,
 Sur mon propre tombeau.
 
@@ -3150,7 +3150,7 @@ En dépit de la mort, chercher la mort toi-même.
 
 **** *book_ *id_V07 *act_V *date_1659 *creator_villiers
 
--*who_ombre
+-*who_spectre
 Il ne faut point heurter, je t'ai bien entendu.
 
 -*who_philipin
@@ -3160,7 +3160,7 @@ Ah ! je suis mort.
       Tu vois que je me suis rendu
 À l'assignation, et tenu ma parole.
 
--*who_ombre
+-*who_spectre
 Écoute donc la mienne, elle n'est pas frivole,
 Et sans doute elle doit t'imprimer dans le coeur
 Des repentirs cuisants pour ton proche malheur.
@@ -3183,7 +3183,7 @@ De matière agréable et plus divertissante,
 Je demeure ; sinon je vais prendre congé :
 À bien d'autres plaisirs je me suis engagé.
 
--*who_ombre
+-*who_spectre
 Je sais bien que ton corps tient beaucoup à la terre,
 Malheureux, mais bientôt les éclats du tonnerre
 Le vont réduire en poudre, et ton âme aux Enfers,
@@ -3197,7 +3197,7 @@ Manges en attendant.
       Et que diable manger ?
 Quels mets me sers-tu là ?
 
--*who_ombre
+-*who_spectre
       Nous n'en avons point d'autres.
 Je sais très bien qu'ils sont fort différents des vôtres,
 Mais je te donne ici ce qu'on sert chez les morts.
@@ -3221,7 +3221,7 @@ Adieu donc, Philipin, dans un demi-quart d'heure.
 -*who_donjuan
 Meurs, si tu veux ; pour moi, je ne veux pas mourir.
 
--*who_ombre
+-*who_spectre
 Et qui crois-tu, méchant, qui te pût secourir ?
 Tous les dieux ont juré ta perte inévitable,
 Tout l'univers la veut, elle est indubitable.
@@ -3235,7 +3235,7 @@ Que tu ne reverras jamais un lendemain.
 -*who_philipin
 Miséricorde !
 
--*who_ombre
+-*who_spectre
       Au Ciel crois tu tant d'injustice,
 Qu'il voulût d'un moment différer ton supplice ?
 Quoi ! ton père meurtri, moi même assassiné,
@@ -3269,7 +3269,7 @@ Soit que je sois ou loin ou proche de ma fin,
 Sache que ni l'Enfer, ni le Ciel ne me touche,
 Et que c'est un arrêt prononcé par ma bouche.
 
--*who_ombre
+-*who_spectre
 C'en est trop, exécrable, et le Ciel irrité
 Va prescrire le terme à ton impiété,
 Et ton âme exposée aux tourments légitimes
